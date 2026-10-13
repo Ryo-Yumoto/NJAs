@@ -8,7 +8,7 @@
   "properties": {
     "id": {
       "type": "string",
-      "pattern": "^(music|mv|tv|magazine|web|ad|tweet|goods)-[0-9]{4}-[0-9]{2}-[0-9]{2}-[a-z0-9-]+$",
+      "pattern": "^(music|mv|tv|magazine|web|ad|tweet|goods|live)-[0-9]{4}-[0-9]{2}-[0-9]{2}-[a-z0-9-]+$",
       "description": "一意ID。<category>-<YYYY-MM-DD>-<slug>"
     },
     "date": {
@@ -28,7 +28,7 @@
     },
     "category": {
       "type": "string",
-      "enum": ["music", "mv", "tv", "magazine", "web", "ad", "tweet", "goods"]
+      "enum": ["music", "mv", "tv", "magazine", "web", "ad", "tweet", "goods", "live"]
     },
     "entity": {
       "type": "string",

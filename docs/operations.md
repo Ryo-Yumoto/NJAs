@@ -58,3 +58,4 @@ http://localhost:8080/ で表示確認。URLの`#`以降に絞り込み状態が
 | ad | ブランド公式プレスリリース、公式X |
 | tweet | https://x.com/NewJeans_ADOR |
 | goods | Weverse Shop、公式サイトのNOTICE |
+| live | 公式サイトのNOTICE、主催者・フェス公式サイト、Weverse告知 |

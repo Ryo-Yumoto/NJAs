@@ -14,6 +14,7 @@
 | ad | アンバサダー就任等は発表日（announce）、CM・キャンペーン公開は公開日（release） | announce / release |
 | tweet | 投稿日（KST基準） | post |
 | goods | 販売開始日。不明なら月（date_precision=month） | sale_start |
+| live | 開催日（現地時刻）。複数日公演は初日をdateにし、noteに全日程を記す | event |
 
 date_precisionがmonthの場合はdateの日を01、yearの場合は01-01にする（validate.pyが検査する）。
 
@@ -21,6 +22,12 @@ date_precisionがmonthの場合はdateの日を01、yearの場合は01-01にす�
 
 - newjeans: ADOR所属としての活動。
 - njz: 2025年の専属契約紛争期にNJZ名義で行われた活動（2025年2月の名義発表から、2025年3月の裁判所の活動禁止仮処分以降を含む）。仮処分以降の活動は、公式発表に基づくもののみ収録し、noteに経緯を記す。
+
+## 2b. ライブ（live）の範囲
+
+- 対象：単独公演、ファンミーティング（Bunnies Camp）、フェス出演、大学祭、ショーケース、ブランドイベントでのパフォーマンス、NJZ名義期の公演。
+- 放送・配信されたパフォーマンス（音楽番組、授賞式、年末歌謡祭）はtvに置く。同じ公演が放送された場合はliveとtvの両方に登録してよい。
+- サイン会・リリースイベントは、公式に告知があればliveに含める。
 
 ## 3. 「公式」の範囲
 

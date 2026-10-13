@@ -7,6 +7,7 @@
     "web.json",
     "ad.json",
     "tweet.json",
-    "goods.json"
+    "goods.json",
+    "live.json"
   ]
 }

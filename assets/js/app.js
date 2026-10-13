@@ -9,7 +9,8 @@
     web:      { ja: "WEB",      en: "Web",      color: "var(--c-web)" },
     ad:       { ja: "広告",     en: "Ad",       color: "var(--c-ad)" },
     tweet:    { ja: "X投稿",    en: "X",        color: "var(--c-tweet)" },
-    goods:    { ja: "グッズ",   en: "Goods",    color: "var(--c-goods)" }
+    goods:    { ja: "グッズ",   en: "Goods",    color: "var(--c-goods)" },
+    live:     { ja: "ライブ",   en: "Live",     color: "var(--c-live)" }
   };
   const ENTITIES = { newjeans: "NewJeans", njz: "NJZ" };
   const DATE_TYPES = {

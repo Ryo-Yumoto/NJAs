@@ -8,7 +8,7 @@ import argparse, json
 
 DEFAULT_DATE_TYPE = {
     "music": "release", "mv": "release", "tv": "broadcast", "magazine": "publish",
-    "web": "publish", "ad": "announce", "tweet": "post", "goods": "sale_start",
+    "web": "publish", "ad": "announce", "tweet": "post", "goods": "sale_start", "live": "event",
 }
 
 def main():
