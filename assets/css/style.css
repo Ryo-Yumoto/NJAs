@@ -88,7 +88,7 @@ button { font-family: inherit; }
 .desc { margin-top: 10px; max-width: 640px; }
 .s-ja { margin: 0; font-family: var(--f-jp); font-size: 14px; line-height: 1.8; color: var(--ink-2); }
 .s-en { margin: 2px 0 0; font-size: 13px; color: var(--ink-3); }
-.note { margin: 10px 0 0; color: var(--warn); text-transform: none; letter-spacing: 0; }
+.note { margin: 10px 0 0; color: var(--ink-2); text-transform: none; letter-spacing: 0; font-family: var(--f-jp); font-size: 13px; }
 .links { margin-top: 12px; display: flex; flex-wrap: wrap; gap: 14px; }
 .links a { color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--ink-3); padding-bottom: 1px; transition: border-color .15s, color .15s; }
 .links a:hover { color: var(--denim); border-color: var(--denim); }
