@@ -1,1 +1,1594 @@
-[]
+[
+  {
+    "id": "ad-2022-09-01-5252-by-oioi-22fw",
+    "date": "2022-09-01",
+    "date_type": "release",
+    "date_precision": "month",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "5252 by O!Oi 22FW キャンペーン",
+      "en": "5252 by O!Oi 22FW campaign"
+    },
+    "summary": {
+      "ja": "ユニセックスブランド5252 by O!Oiの新モデルに起用され22FWビジュアルを公開。",
+      "en": "Named new faces of 5252 by O!Oi, with 22FW campaign visuals."
+    },
+    "source_url": "https://www.wkorea.com/?p=214870",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "fashion"
+    ],
+    "verified": false,
+    "note": "Month approximate (autumn 2022)."
+  },
+  {
+    "id": "ad-2022-10-01-hanni-gucci-ambassador",
+    "date": "2022-10-01",
+    "date_type": "announce",
+    "date_precision": "month",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "ハニ、グッチのブランドアンバサダーに",
+      "en": "Hanni named Gucci brand ambassador"
+    },
+    "summary": {
+      "ja": "グッチがハニをブランドアンバサダーに起用したことを発表。",
+      "en": "Gucci announced Hanni as a brand ambassador."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Hanni_(singer)",
+    "reference_urls": [
+      "https://www.marketing-interactive.com/newjeans-hanni-gucci-campaign"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "luxury",
+      "ambassador"
+    ],
+    "verified": false,
+    "note": "October 2022; sources differ on the exact day (Oct 22 vs Oct 28)."
+  },
+  {
+    "id": "ad-2022-10-01-skt-0-iphone-14-pro-cm",
+    "date": "2022-10-01",
+    "date_type": "release",
+    "date_precision": "month",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "SKテレコム「0(Young)」iPhone 14 Pro CM",
+      "en": "SK Telecom 0 (Young) iPhone 14 Pro commercial"
+    },
+    "summary": {
+      "ja": "SKテレコムの若者向けブランド「0」のCM「Attention! New0을 위한 iPhone 14 Pro」に出演。",
+      "en": "Starred in SK Telecom's 0 (Young) brand CM promoting the iPhone 14 Pro."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans_videography",
+    "reference_urls": [
+      "https://news.mtn.co.kr/news-detail/2022110809344390826"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "telecom"
+    ],
+    "verified": false,
+    "note": "Airing by Nov 2022 per MTN; exact start date unknown."
+  },
+  {
+    "id": "ad-2022-10-06-pinkfong-baby-shark-collab",
+    "date": "2022-10-06",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Pinkfong × NewJeans コラボ",
+      "en": "Pinkfong Baby Shark collaboration"
+    },
+    "summary": {
+      "ja": "Pinkfong（ベイビーシャーク）とのコラボレーションを発表。",
+      "en": "Collaboration with Pinkfong's Baby Shark announced."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "collab"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ad-2022-10-11-shinhan-bank-new-sol-model",
+    "date": "2022-10-11",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "新韓銀行「New SOL」広告モデルに起用",
+      "en": "Named Shinhan Bank New SOL ad models"
+    },
+    "summary": {
+      "ja": "新韓銀行がリニューアルアプリ「New SOL」の広告モデルにNewJeansを起用すると発表。",
+      "en": "Shinhan Bank announced NewJeans as ad models for its New SOL app; the TV ad was unveiled at the Oct 20 launch event."
+    },
+    "source_url": "https://magazine.hankyung.com/business/article/202210119293b",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "finance"
+    ],
+    "verified": true
+  },
+  {
+    "id": "ad-2022-11-01-megastudy-megapass-cm",
+    "date": "2022-11-01",
+    "date_type": "release",
+    "date_precision": "month",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "メガスタディ「2024 0원 메가패스」CM",
+      "en": "Megastudy Megapass commercial"
+    },
+    "summary": {
+      "ja": "メガスタディ教育の「メガパス」CMに出演。",
+      "en": "Starred in Megastudy's Megapass campaign."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans_videography",
+    "reference_urls": [
+      "https://news.mtn.co.kr/news-detail/2022110809344390826"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ad-2022-11-01-musinsa-global-ambassador",
+    "date": "2022-11-01",
+    "date_type": "announce",
+    "date_precision": "month",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "MUSINSA グローバルアンバサダー",
+      "en": "Musinsa global ambassadors"
+    },
+    "summary": {
+      "ja": "ファッションプラットフォームMUSINSAがメンバー全員をグローバルアンバサダーに起用。",
+      "en": "Musinsa named all five members its global ambassadors."
+    },
+    "source_url": "https://news.mtn.co.kr/news-detail/2022110809344390826",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "fashion",
+      "ambassador"
+    ],
+    "verified": false,
+    "note": "Reported by Nov 8, 2022; exact announcement date not confirmed."
+  },
+  {
+    "id": "ad-2022-12-16-nudake-collab",
+    "date": "2022-12-16",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NUDAKE × NewJeans",
+      "en": "Nudake dessert collaboration"
+    },
+    "summary": {
+      "ja": "ジェンタルモンスター系デザートブランドNUDAKEとのコラボ商品・ポップアップを展開。",
+      "en": "Cross-branded desserts and pop-ups with Nudake."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "collab"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ad-2022-12-30-hyein-louis-vuitton-ambassador",
+    "date": "2022-12-30",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "ヘイン、ルイ・ヴィトンのハウスアンバサダーに",
+      "en": "Hyein named Louis Vuitton house ambassador"
+    },
+    "summary": {
+      "ja": "ルイ・ヴィトンが14歳のヘインをグローバルハウスアンバサダーに起用（同ブランド史上最年少）。",
+      "en": "Louis Vuitton named 14-year-old Hyein a global house ambassador, its youngest ever."
+    },
+    "source_url": "https://www.koreajoongangdaily.com/entertainment/newjeanss-hyein-named-louis-vuitton-brand-ambassador/10960146",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Hyein"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "luxury",
+      "ambassador"
+    ],
+    "verified": true
+  },
+  {
+    "id": "ad-2023-01-01-lotte-itagum-japan-cm",
+    "date": "2023-01-01",
+    "date_type": "release",
+    "date_precision": "year",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ロッテ「イタガム」CM（日本）",
+      "en": "Lotte Itagum commercial (Japan)"
+    },
+    "summary": {
+      "ja": "日本のロッテ「イタガム」CM「これガムイタガム」に出演、楽曲は「OMG」。",
+      "en": "Appeared in Lotte Japan's Itagum CM featuring OMG."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans_videography",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "food",
+      "japan",
+      "cm"
+    ],
+    "verified": false,
+    "note": "Year only; exact airing date not confirmed."
+  },
+  {
+    "id": "ad-2023-01-01-olens-contact-lens-model",
+    "date": "2023-01-01",
+    "date_type": "release",
+    "date_precision": "year",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "OLENS 広告モデル",
+      "en": "Olens contact lens campaign"
+    },
+    "summary": {
+      "ja": "コンタクトレンズブランドOLENSの広告モデルとして出演。",
+      "en": "Served as models for contact lens brand Olens."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "beauty"
+    ],
+    "verified": false,
+    "note": "Year only."
+  },
+  {
+    "id": "ad-2023-01-06-danielle-burberry-ambassador",
+    "date": "2023-01-06",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "ダニエル、バーバリーのグローバルアンバサダーに",
+      "en": "Danielle named Burberry global ambassador"
+    },
+    "summary": {
+      "ja": "ADORがダニエルのバーバリー グローバルアンバサダー就任を発表。",
+      "en": "ADOR announced Danielle as a global ambassador for Burberry."
+    },
+    "source_url": "https://www.soompi.com/article/1561701wpp/newjeans-danielle-named-global-ambassador-for-burberry",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "luxury",
+      "ambassador"
+    ],
+    "verified": true
+  },
+  {
+    "id": "ad-2023-02-02-lg-gram-style-collab",
+    "date": "2023-02-02",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "LG gram Style × NewJeans",
+      "en": "LG gram Style collaboration"
+    },
+    "summary": {
+      "ja": "LG電子のノートPC「LG gram Style」のモデル・コラボを発表。",
+      "en": "LG Electronics announced a gram Style laptop campaign/collab with NewJeans."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "electronics"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ad-2023-02-08-hanni-armani-beauty-ambassador",
+    "date": "2023-02-08",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "ハニ、アルマーニ ビューティのグローバルメイクアップアンバサダーに",
+      "en": "Hanni named Armani Beauty global make-up ambassador"
+    },
+    "summary": {
+      "ja": "アルマーニ ビューティがハニをグローバルメイクアップアンバサダーに起用。",
+      "en": "Armani Beauty appointed Hanni as its global make-up ambassador."
+    },
+    "source_url": "https://cosmeticsbusiness.com/armani-beauty-names-k-pop-singer-hanni-as-new-global-make-up-ambassador-206682",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "beauty",
+      "ambassador"
+    ],
+    "verified": true
+  },
+  {
+    "id": "ad-2023-02-14-minji-chanel-korea-ambassador",
+    "date": "2023-02-14",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "ミンジ、シャネル コリアのアンバサダーに",
+      "en": "Minji named Chanel Korea ambassador"
+    },
+    "summary": {
+      "ja": "ADORがミンジのシャネル コリア アンバサダー（ビューティ・ファッション・ウォッチ＆ジュエリー）就任を発表。",
+      "en": "ADOR announced Minji as Chanel Korea ambassador across beauty, fashion and watches & jewelry."
+    },
+    "source_url": "https://www.koreajoongangdaily.com/entertainment/minji-of-newjeans-is-appointed-newest-chanel-korea-ambassador/11022231",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Minji_(singer)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "luxury",
+      "ambassador"
+    ],
+    "verified": true,
+    "note": "en.wikipedia gives Feb 13 (likely US time); Korean reports date the announcement Feb 14."
+  },
+  {
+    "id": "ad-2023-02-15-seoul-city-pr-ambassador",
+    "date": "2023-02-15",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ソウル市 広報大使",
+      "en": "Seoul city PR ambassadors"
+    },
+    "summary": {
+      "ja": "ソウル市の広報大使に委嘱。",
+      "en": "Appointed public relations ambassadors for the city of Seoul."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "public"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ad-2023-02-22-seoul-fashion-week-ambassador",
+    "date": "2023-02-22",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ソウルファッションウィーク 名誉アンバサダー",
+      "en": "Seoul Fashion Week honorary ambassadors"
+    },
+    "summary": {
+      "ja": "ソウルファッションウィークの名誉アンバサダーに起用。",
+      "en": "Named honorary ambassadors for Seoul Fashion Week."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "fashion",
+      "public"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ad-2023-02-23-carin-eyewear-model",
+    "date": "2023-02-23",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "CARIN × NewJeans",
+      "en": "Carin eyewear campaign"
+    },
+    "summary": {
+      "ja": "アイウェアブランドCARINのモデルに起用。",
+      "en": "Named models for eyewear brand Carin."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "fashion"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ad-2023-02-27-mcdonalds-korea-model",
+    "date": "2023-02-27",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "マクドナルド・コリア 広告モデル",
+      "en": "McDonald's Korea ad models"
+    },
+    "summary": {
+      "ja": "マクドナルド・コリアの広告モデルに起用（McCrispy CM）。",
+      "en": "Named McDonald's Korea ad models, fronting the McCrispy campaign."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "food"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ad-2023-03-01-nike-air-max-campaign",
+    "date": "2023-03-01",
+    "date_type": "release",
+    "date_precision": "month",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NIKE Air Max キャンペーン",
+      "en": "Nike Air Max campaign"
+    },
+    "summary": {
+      "ja": "Air Max Dayに合わせたナイキのキャンペーンに出演。",
+      "en": "Appeared in Nike's Air Max Day campaign."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "fashion"
+    ],
+    "verified": false,
+    "note": "Month per secondary sources; no official Nike announcement date found."
+  },
+  {
+    "id": "ad-2023-03-06-levis-global-ambassador",
+    "date": "2023-03-06",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Levi's グローバルアンバサダー",
+      "en": "Levi's global ambassadors"
+    },
+    "summary": {
+      "ja": "リーバイス501誕生150周年に合わせグローバルアンバサダーに就任。",
+      "en": "Named Levi's global ambassadors for the 501's 150th anniversary."
+    },
+    "source_url": "https://marketech-apac.com/levis-taps-k-pop-girl-group-newjeans-as-its-newest-global-ambassador/",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "fashion",
+      "ambassador"
+    ],
+    "verified": true
+  },
+  {
+    "id": "ad-2023-03-14-danielle-ysl-beauty-ambassador",
+    "date": "2023-03-14",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "ダニエル、YSLビューティのアンバサダーに",
+      "en": "Danielle named YSL Beauty ambassador"
+    },
+    "summary": {
+      "ja": "ADORがダニエルのイヴ・サンローラン・ボーテ アンバサダー就任を発表。",
+      "en": "ADOR announced Danielle as an ambassador for YSL Beauty."
+    },
+    "source_url": "https://www.wikitree.co.kr/articles/836489",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "beauty",
+      "ambassador"
+    ],
+    "verified": true
+  },
+  {
+    "id": "ad-2023-03-30-coca-cola-global-ambassador",
+    "date": "2023-03-30",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "コカ・コーラ グローバルアンバサダー",
+      "en": "Coca-Cola global ambassadors"
+    },
+    "summary": {
+      "ja": "ADORがNewJeansのコカ・コーラ グローバルアンバサダー就任を発表。韓国のコカ・コーラ ゼロ キャンペーンから開始。",
+      "en": "ADOR announced NewJeans as Coca-Cola's global ambassadors, starting with a Coca-Cola Zero campaign in Korea."
+    },
+    "source_url": "https://www.soompi.com/article/1576456wpp/newjeans-becomes-global-ambassadors-for-coca-cola",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "beverage",
+      "ambassador"
+    ],
+    "verified": true
+  },
+  {
+    "id": "ad-2023-04-03-coca-cola-zero-cm-zero",
+    "date": "2023-04-03",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "コカ・コーラ ゼロ CM／「Zero」MV公開",
+      "en": "Coca-Cola Zero campaign and Zero MV release"
+    },
+    "summary": {
+      "ja": "Coke Studioとのコラボ曲「Zero」とキャンペーン映像を18時に公開。",
+      "en": "The Coke Studio collaboration song Zero and campaign video were released at 6 p.m. KST."
+    },
+    "source_url": "https://www.soompi.com/article/1576456wpp/newjeans-becomes-global-ambassadors-for-coca-cola",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "beverage",
+      "cm"
+    ],
+    "verified": true
+  },
+  {
+    "id": "ad-2023-04-26-haerin-dior-ambassador",
+    "date": "2023-04-26",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ヘリン、ディオールのアンバサダーに",
+      "en": "Haerin named Dior ambassador"
+    },
+    "summary": {
+      "ja": "ディオールがヘリンをジュエリーのグローバルアンバサダー、ファッション・ビューティのハウスアンバサダーに起用。",
+      "en": "Dior named Haerin global ambassador for jewellery and house ambassador for fashion and beauty."
+    },
+    "source_url": "https://snkrdunk.com/en/magazine/2023/04/26/newjeans-haerin-is-diors-latest-global-ambassador",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Haerin"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "luxury",
+      "ambassador"
+    ],
+    "verified": true
+  },
+  {
+    "id": "ad-2023-06-01-mcdonalds-newjeans-collab-launch",
+    "date": "2023-06-01",
+    "date_type": "release",
+    "date_precision": "month",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "マクドナルド × NewJeans コラボ商品",
+      "en": "McDonald's x NewJeans collaboration launch"
+    },
+    "summary": {
+      "ja": "韓国を皮切りにフィリピン・タイなどアジア各国でNewJeansコラボセットを発売。",
+      "en": "NewJeans-branded McDonald's sets launched in Korea and then other Asian markets."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "food",
+      "collab"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ad-2023-07-01-powerpuff-girls-get-up-collab",
+    "date": "2023-07-01",
+    "date_type": "release",
+    "date_precision": "month",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "パワーパフ ガールズ × Get Up",
+      "en": "The Powerpuff Girls x Get Up collaboration"
+    },
+    "summary": {
+      "ja": "2nd EP『Get Up』でパワーパフ ガールズ（ワーナー・ブラザース25周年）とコラボ。",
+      "en": "Get Up era collaboration with The Powerpuff Girls for Warner Bros.' 25th anniversary."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "collab",
+      "character"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ad-2023-07-21-apple-eta-shot-on-iphone",
+    "date": "2023-07-21",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Apple「Shot on iPhone 14 Pro」ETA MV",
+      "en": "Apple Shot on iPhone: ETA music video"
+    },
+    "summary": {
+      "ja": "AppleのキャンペーンとしてiPhone 14 Proで全編撮影した「ETA」MVと15秒/30秒広告を公開。",
+      "en": "Apple released the ETA music video shot entirely on iPhone 14 Pro, with 15s/30s spots."
+    },
+    "source_url": "https://9to5mac.com/2023/07/24/apple-newjeans-video-iphone-14-pro/",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "electronics",
+      "cm"
+    ],
+    "verified": true
+  },
+  {
+    "id": "ad-2023-08-01-line-friends-collab-2023",
+    "date": "2023-08-01",
+    "date_type": "release",
+    "date_precision": "month",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "LINE FRIENDS × NewJeans",
+      "en": "Line Friends collaboration (2023)"
+    },
+    "summary": {
+      "ja": "LINE FRIENDSとのコラボ商品を発売、ソウルやシンガポール・マニラでポップアップを展開。",
+      "en": "Cross-branded Line Friends goods with pop-ups in Seoul, Singapore and Manila."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "collab",
+      "character"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ad-2023-08-14-hyundai-department-store-duty-free",
+    "date": "2023-08-14",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "現代百貨店免税店 広告モデル",
+      "en": "Hyundai Department Store Duty Free ad models"
+    },
+    "summary": {
+      "ja": "現代百貨店免税店が新広告モデルにNewJeansを起用。",
+      "en": "Hyundai Department Store Duty Free named NewJeans its new ad models."
+    },
+    "source_url": "https://magazine.hankyung.com/business/article/202308148892b",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "retail"
+    ],
+    "verified": true
+  },
+  {
+    "id": "ad-2023-09-01-lotte-wellfood-pepero-model",
+    "date": "2023-09-01",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ロッテウェルフード「ペペロ」モデル",
+      "en": "Lotte Wellfood Pepero ad models"
+    },
+    "summary": {
+      "ja": "ロッテウェルフードがペペロの広告モデルにNewJeansを起用。米国向け「Say Hello with Pepero」CMも展開。",
+      "en": "Lotte Wellfood named NewJeans Pepero models, including the US campaign Say Hello with Pepero."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "food"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ad-2023-10-01-skt-iphone-15-pro-made-in-0",
+    "date": "2023-10-01",
+    "date_type": "release",
+    "date_precision": "month",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "SKテレコム「Made in 0」iPhone 15 Pro CM",
+      "en": "SK Telecom Made in 0 iPhone 15 Pro commercial"
+    },
+    "summary": {
+      "ja": "SKテレコムのiPhone 15 Pro向けCM「0을 위한 특별한 베네핏, Made in 0」に出演。",
+      "en": "Starred in SK Telecom's iPhone 15 Pro campaign Made in 0."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans_videography",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "telecom",
+      "cm"
+    ],
+    "verified": false,
+    "note": "Month approximate (iPhone 15 Korean launch, Oct 2023)."
+  },
+  {
+    "id": "ad-2023-12-01-shinhan-super-sol-cm",
+    "date": "2023-12-01",
+    "date_type": "release",
+    "date_precision": "month",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "新韓「スーパーSOL」CM",
+      "en": "Shinhan Super SOL commercial"
+    },
+    "summary": {
+      "ja": "新韓金融の統合アプリ「スーパーSOL」CM「신한 X 뉴진스 새로운 금융의 시작」に出演。",
+      "en": "Starred in the Shinhan x NewJeans Super SOL launch commercial."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans_videography",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "finance",
+      "cm"
+    ],
+    "verified": false,
+    "note": "Month approximate (Super SOL launched Dec 2023)."
+  },
+  {
+    "id": "ad-2024-01-01-nike-orchard-road-collab",
+    "date": "2024-01-01",
+    "date_type": "announce",
+    "date_precision": "month",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NIKE × NewJeans シンガポール限定コラボ",
+      "en": "Nike x NewJeans Orchard Road collaboration"
+    },
+    "summary": {
+      "ja": "ナイキ オーチャードロード店限定のコラボ商品を発表。2月3日に店舗で公演。",
+      "en": "Limited Nike By You x NewJeans products for Nike Orchard Road, with a Feb 3 in-store performance."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "fashion",
+      "collab"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ad-2024-02-05-coca-cola-zero-japan-cm",
+    "date": "2024-02-05",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "コカ・コーラ ゼロ 新CM「選ぼう。コークゼロの美味しさを。」篇（日本）",
+      "en": "Coca-Cola Zero Japan CM: Choose the Taste of Coke Zero"
+    },
+    "summary": {
+      "ja": "日本コカ・コーラの新キャンペーンCM（15秒/30秒）に出演。楽曲は「Zero」。全国で放映開始。",
+      "en": "NewJeans starred in Coca-Cola Japan's new Coke Zero CM, set to Zero, airing nationwide from Feb 5, 2024."
+    },
+    "source_url": "https://www.coca-cola.com/jp/ja/media-center/news-20240205-00",
+    "reference_urls": [
+      "https://realsound.jp/2024/02/post-1564485.html"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "beverage",
+      "japan",
+      "cm"
+    ],
+    "verified": true
+  },
+  {
+    "id": "ad-2024-02-15-lotte-wellfood-zero-model",
+    "date": "2024-02-15",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ロッテウェルフード「ZERO」モデル",
+      "en": "Lotte Wellfood Zero ad models"
+    },
+    "summary": {
+      "ja": "ロッテウェルフードがシュガーフリーブランド「ZERO」のモデルにNewJeansを起用。",
+      "en": "Lotte Wellfood named NewJeans models for its sugar-free Zero line."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "food"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ad-2024-03-01-incheon-airport-customs-ambassador",
+    "date": "2024-03-01",
+    "date_type": "announce",
+    "date_precision": "month",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "仁川国際空港税関 広報大使",
+      "en": "Incheon Airport customs ambassadors"
+    },
+    "summary": {
+      "ja": "仁川国際空港税関の広報大使に委嘱。",
+      "en": "Appointed ambassadors by the customs division of Incheon International Airport."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "public"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ad-2024-03-13-hanni-ugg-global-ambassador",
+    "date": "2024-03-13",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "ハニ、UGGのグローバルアンバサダーに",
+      "en": "Hanni named UGG global ambassador"
+    },
+    "summary": {
+      "ja": "UGGがSS24キャンペーンと共にハニのグローバルアンバサダー就任を発表。",
+      "en": "UGG announced Hanni as global brand ambassador alongside its SS24 campaign."
+    },
+    "source_url": "https://nylon.com.sg/?p=8981",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "fashion",
+      "ambassador"
+    ],
+    "verified": true
+  },
+  {
+    "id": "ad-2024-03-22-danielle-celine-global-ambassador",
+    "date": "2024-03-22",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "ダニエル、セリーヌのグローバルアンバサダーに",
+      "en": "Danielle named Celine global ambassador"
+    },
+    "summary": {
+      "ja": "セリーヌがダニエルをグローバルアンバサダーに起用。",
+      "en": "Celine announced Danielle as a global ambassador."
+    },
+    "source_url": "https://www.lofficielsingapore.com/fashion/celine-announces-new-global-ambassador-danielle-of-newjeans-fashion-celebrity-news",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "luxury",
+      "ambassador"
+    ],
+    "verified": true
+  },
+  {
+    "id": "ad-2024-03-28-hanni-gucci-beauty-ambassador",
+    "date": "2024-03-28",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "ハニ、グッチ ビューティのグローバルアンバサダーに",
+      "en": "Hanni named Gucci Beauty global ambassador"
+    },
+    "summary": {
+      "ja": "グッチ ビューティがハニのグローバルブランドアンバサダー就任を発表。",
+      "en": "Gucci Beauty announced Hanni as global brand ambassador."
+    },
+    "source_url": "https://cosmeticsbusiness.com/newjeans-idol-hanni-named-gucci-beauty-ambassador",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "beauty",
+      "ambassador"
+    ],
+    "verified": false,
+    "note": "Instagram announcement reportedly Mar 28, 2024; trade coverage dated Apr 2, 2024."
+  },
+  {
+    "id": "ad-2024-04-01-kao-essential-cm-japan",
+    "date": "2024-04-01",
+    "date_type": "release",
+    "date_precision": "month",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "花王「エッセンシャル」CM（日本）",
+      "en": "Kao Essential commercial (Japan)"
+    },
+    "summary": {
+      "ja": "花王エッセンシャルの新CMに出演。CMソングは「Bubble Gum」日本語版。",
+      "en": "Starred in Kao's Essential hair-care CM, featuring the Japanese version of Bubble Gum."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Bubble_Gum_(NewJeans_song)",
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "beauty",
+      "japan",
+      "cm"
+    ],
+    "verified": false,
+    "note": "Early April 2024; en.wikipedia cites Apr 7 coverage."
+  },
+  {
+    "id": "ad-2024-04-10-shibuya109-45th-anniversary",
+    "date": "2024-04-10",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans × SHIBUYA109 45th ANNIVERSARY CAMPAIGN",
+      "en": "NewJeans x SHIBUYA109 45th Anniversary Campaign"
+    },
+    "summary": {
+      "ja": "SHIBUYA109渋谷店45周年キャンペーン第1弾としてコラボを発表。ポップアップは4月26日〜5月19日。",
+      "en": "SHIBUYA109 announced a 45th-anniversary collaboration with NewJeans; pop-up ran Apr 26–May 19, 2024."
+    },
+    "source_url": "https://www.fashionsnap.com/article/2024-04-10/109-newjrans/",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "retail",
+      "japan",
+      "collab"
+    ],
+    "verified": true
+  },
+  {
+    "id": "ad-2024-05-01-lotte-wellfood-zero-cm-right-now",
+    "date": "2024-05-01",
+    "date_type": "release",
+    "date_precision": "month",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ロッテウェルフード「ZERO」CM（「Right Now」使用）",
+      "en": "Lotte Wellfood Zero commercial featuring Right Now"
+    },
+    "summary": {
+      "ja": "ロッテウェルフードがSNSで「Right Now」を使用したZERO新CMを公開。",
+      "en": "Lotte Wellfood released new Zero commercials set to Right Now on its social channels."
+    },
+    "source_url": "https://koreaproductpost.com/lotte-wellfood-zero-newjeans-collab-commercial-right-now/",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "food",
+      "cm"
+    ],
+    "verified": true,
+    "note": "Released the week before May 14, 2024."
+  },
+  {
+    "id": "ad-2024-05-09-lotte-zero-japan-cm",
+    "date": "2024-05-09",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ロッテ「ZERO」CM（日本）",
+      "en": "Lotte ZERO commercial (Japan)"
+    },
+    "summary": {
+      "ja": "ロッテZEROの新TVCM「This is ロッテ ZERO」チョコ編・アイス編を公開、5月13日から全国放映。CMソングは「Right Now」。",
+      "en": "Lotte Japan unveiled This is Lotte ZERO CMs (airing nationwide from May 13) with Right Now as the CM song."
+    },
+    "source_url": "https://www.oricon.co.jp/news/2326157/full/",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "food",
+      "japan",
+      "cm"
+    ],
+    "verified": true
+  },
+  {
+    "id": "ad-2024-05-14-murakami-powerpuff-right-now",
+    "date": "2024-05-14",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "村上隆 × パワーパフ ガールズ × NewJeans「Right Now」",
+      "en": "Takashi Murakami x Powerpuff Girls collaboration for Right Now"
+    },
+    "summary": {
+      "ja": "「Right Now」MVティーザーで村上隆とパワーパフ ガールズとのコラボを公開。",
+      "en": "Teaser revealed the Right Now collaboration with Takashi Murakami and The Powerpuff Girls."
+    },
+    "source_url": "https://www.harpersbazaar.my/lifestyle/culture/newjeans-unveils-collaboration-with-takashi-murakami-and-the-powerpuff-girls-for-right-now-music-video/",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "collab",
+      "art"
+    ],
+    "verified": false,
+    "note": "Date is the article date; teaser reveal was on or just before."
+  },
+  {
+    "id": "ad-2024-05-21-hanni-gucci-horsebit-1955-campaign",
+    "date": "2024-05-21",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "ハニ、グッチ Horsebit 1955 グローバルキャンペーン",
+      "en": "Hanni fronts Gucci Horsebit 1955 global campaign"
+    },
+    "summary": {
+      "ja": "グッチがHorsebit 1955の新グローバルキャンペーンの顔にハニを起用。",
+      "en": "Gucci chose Hanni to lead its new global campaign for the Horsebit 1955 bag."
+    },
+    "source_url": "https://www.marketing-interactive.com/newjeans-hanni-gucci-campaign",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "luxury",
+      "campaign"
+    ],
+    "verified": true
+  },
+  {
+    "id": "ad-2024-06-01-krafton-pubg-collab",
+    "date": "2024-06-01",
+    "date_type": "release",
+    "date_precision": "month",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "KRAFTON『PUBG』× NewJeans",
+      "en": "Krafton PUBG collaboration"
+    },
+    "summary": {
+      "ja": "『PUBG: BATTLEGROUNDS』にNewJeansのプレイアブルキャラクターが登場。",
+      "en": "NewJeans playable characters released in PUBG: Battlegrounds."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "game",
+      "collab"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ad-2024-06-01-line-friends-collab-2024",
+    "date": "2024-06-01",
+    "date_type": "release",
+    "date_precision": "month",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "LINE FRIENDS × NewJeans 2024",
+      "en": "Line Friends collaboration (2024)"
+    },
+    "summary": {
+      "ja": "LINE FRIENDSとの2度目のコラボ商品を展開。",
+      "en": "Second cross-branded collaboration with Line Friends."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "collab",
+      "character"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ad-2024-07-11-mcst-korea-tourism-ambassador",
+    "date": "2024-07-11",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "文化体育観光部 2024韓国観光名誉広報大使",
+      "en": "MCST 2024 Korea Tourism honorary ambassadors"
+    },
+    "summary": {
+      "ja": "文化体育観光部がNewJeansを2024年韓国観光広告モデル・名誉広報大使に選定。",
+      "en": "The Ministry of Culture, Sports and Tourism named NewJeans 2024 Korea tourism ad models and honorary ambassadors."
+    },
+    "source_url": "https://www.mcst.go.kr/kor/s_notice/press/pressView.jsp?pSeq=21213",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "public",
+      "ambassador"
+    ],
+    "verified": true
+  },
+  {
+    "id": "ad-2024-09-01-skt-iphone-16-pro-cm",
+    "date": "2024-09-01",
+    "date_type": "release",
+    "date_precision": "month",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "SKテレコム iPhone 16 Pro CM",
+      "en": "SK Telecom iPhone 16 Pro commercial"
+    },
+    "summary": {
+      "ja": "SKテレコムのiPhone 16 Pro向けCMに出演。",
+      "en": "Starred in SK Telecom's iPhone 16 Pro commercial."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans_videography",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "telecom",
+      "cm"
+    ],
+    "verified": false,
+    "note": "Month approximate (iPhone 16 launch)."
+  },
+  {
+    "id": "ad-2024-09-24-calvin-klein-ambassador",
+    "date": "2024-09-24",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Calvin Klein ブランドアンバサダー",
+      "en": "Calvin Klein brand ambassadors"
+    },
+    "summary": {
+      "ja": "カルバン・クラインがNewJeansをブランドアンバサダーに起用しキャンペーンを公開。",
+      "en": "Calvin Klein named NewJeans brand ambassadors and launched a campaign."
+    },
+    "source_url": "https://variety.com/2024/shopping/news/newjeans-calvin-klein-ambassadors-campaign-1236154299/",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "fashion",
+      "ambassador"
+    ],
+    "verified": false,
+    "note": "Variety article not retrievable (paywall); date per en.wikipedia citation."
+  },
+  {
+    "id": "ad-2024-10-31-indomie-global-ambassador",
+    "date": "2024-10-31",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Indomie グローバルブランドアンバサダー",
+      "en": "Indomie global brand ambassadors"
+    },
+    "summary": {
+      "ja": "インドフードのインスタント麺Indomieのグローバルアンバサダーに就任。CM「Oh My Good! It's Indomie」。",
+      "en": "Named global brand ambassadors for Indofood's Indomie, with the CM Oh My Good! It's Indomie."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography",
+      "https://hypebeast.com/2024/11/indomie-newjeans-global-brand-ambassadors-announcement"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "food",
+      "ambassador"
+    ],
+    "verified": false,
+    "note": "Date per en.wikipedia citation (Oct 31, 2024); Hypebeast coverage early Nov 2024."
+  },
+  {
+    "id": "ad-2026-09-07-haerin-beauty-brand-photocall",
+    "date": "2026-09-07",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ヘリン、ラグジュアリービューティブランドのフォトコールに登場",
+      "en": "Haerin appears at luxury beauty brand photocall"
+    },
+    "summary": {
+      "ja": "ソウル・ロッテ百貨店蚕室店でのラグジュアリービューティブランドのフォトコールに登場。約18か月ぶりの公式活動。",
+      "en": "Haerin's first official appearance in about 18 months, at a luxury beauty brand photocall at Lotte Department Store Jamsil."
+    },
+    "source_url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260908/long-time-no-see-haerin-newjeans-star-makes-1st-official-appearance-in-18-months",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "beauty",
+      "event"
+    ],
+    "verified": false,
+    "note": "Korea Times (Sep 8, 2026) does not name the brand; en.wikipedia notes her Aug 2026 Marie Claire Korea feature was for Dior Beauty. Event date inferred as Monday Sep 7, 2026."
+  }
+]
