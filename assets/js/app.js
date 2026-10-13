@@ -181,7 +181,7 @@
     if (it.note) { const n = $(".note", node); n.hidden = false; n.textContent = it.note; }
     const img = imageOf(it), isYt = it.media && it.media.type === "youtube" && it.media.ref;
     if (img) {
-      const fig = $(".thumb", node); fig.hidden = false; fig.style.setProperty("--ratio", cat.ratio);
+      const fig = $(".thumb", node); fig.hidden = false;
       fig.appendChild(el("img", { src: img.src, alt: "", loading: "lazy", decoding: "async" }));
       if (isYt) {
         fig.classList.add("is-video"); fig.appendChild(el("span", { class: "play mono" }, "▶ PLAY"));

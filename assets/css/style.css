@@ -94,9 +94,9 @@ button { font-family: inherit; }
 .links a:hover { color: var(--denim); border-color: var(--denim); }
 .tags { margin-top: 8px; display: flex; flex-wrap: wrap; gap: 8px; color: var(--ink-3); text-transform: none; letter-spacing: .02em; }
 .tags span::before { content: "#"; opacity: .6; }
-.thumb { margin: 0; position: relative; aspect-ratio: var(--ratio, 16 / 10); overflow: hidden; border-radius: 4px; background: var(--paper-2); outline: 1px solid var(--rule); cursor: zoom-in; }
-.thumb img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .7s var(--ease); }
-.thumb:hover img { transform: scale(1.04); }
+.thumb { margin: 0; position: relative; overflow: hidden; border-radius: 4px; background: var(--paper-2); outline: 1px solid var(--rule); cursor: zoom-in; }
+.thumb img { width: 100%; height: auto; display: block; transition: opacity .3s; }
+.thumb:hover img { opacity: .92; }
 .thumb.is-video { cursor: pointer; }
 .thumb .play { position: absolute; left: 8px; bottom: 8px; color: #fff; background: rgba(0,0,0,.55); padding: 4px 8px; border-radius: 999px; backdrop-filter: blur(6px); font-size: 10px; }
 .media { margin-top: 14px; aspect-ratio: 16 / 9; border-radius: 6px; overflow: hidden; background: #000; outline: 1px solid var(--rule); }
@@ -106,11 +106,11 @@ button { font-family: inherit; }
 
 /* ---------- era (chapter) page ---------- */
 .era-page { position: relative; min-height: calc(100vh - 170px); border-radius: 8px; overflow: hidden; background: var(--paper-2); display: grid; align-items: end; isolation: isolate; }
-.era-img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: -1; transform: scale(1.02); }
-.era-page.has-img::after { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(180deg, rgba(0,0,0,0) 25%, rgba(0,0,0,.78) 100%); }
-.era-page::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 6px; background: var(--era); }
+.era-page::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 6px; background: var(--era); z-index: 2; }
+.era-page.has-img { min-height: 0; display: block; background: #000; }
+.era-img { display: block; width: 100%; height: auto; }
+.era-page.has-img .era-body { color: #fff; background: #000; padding: 26px 32px 30px; }
 .era-body { padding: 40px 32px 34px; color: var(--ink); }
-.era-page.has-img .era-body { color: #fff; }
 .era-kicker { display: block; opacity: .75; }
 .era-title { margin: 8px 0 0; font-family: var(--f-display); font-style: italic; font-weight: 400; font-size: clamp(60px, 11vw, 150px); line-height: .92; letter-spacing: -.02em; }
 .era-sub { margin: 8px 0 0; font-family: var(--f-jp); font-weight: 700; font-size: 18px; }
@@ -187,6 +187,8 @@ button { font-family: inherit; }
   .t-ja { font-size: 19px; }
   .era-body { padding: 24px 18px 22px; }
   .era-page { min-height: calc(100vh - 160px); border-radius: 6px; }
+  .era-page.has-img .era-body { padding: 18px 18px 20px; }
+  .era-page.has-img .era-title { font-size: clamp(48px, 14vw, 80px); }
   .pager-date { font-size: 16px; }
   .bar-mid { display: none; }
   .bar-inner { grid-template-columns: auto auto; justify-content: space-between; }
