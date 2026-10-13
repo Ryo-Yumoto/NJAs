@@ -1,98 +1,114 @@
 [
   {
-    "id": "era-new-jeans",
+    "id": "era-prologue",
+    "start": "2019-01-01",
+    "end": "2022-07-21",
+    "title": {
+      "ja": "序章",
+      "en": "Prologue"
+    },
+    "short": "Prologue",
+    "caption": {
+      "ja": "ミン・ヒジンがプロデュースするガールズグループのオーディション広告から始まる。",
+      "en": "It begins with an audition ad for a girl group produced by Min Hee-jin."
+    },
+    "image": null,
+    "accent": "#a0522d"
+  },
+  {
+    "id": "era-attention",
     "start": "2022-07-22",
     "end": "2022-12-18",
     "title": {
-      "ja": "デビュー期",
-      "en": "New Jeans"
+      "ja": "Attention",
+      "en": "Attention"
     },
+    "short": "Attention",
     "caption": {
-      "ja": "1st EP『New Jeans』。Attention、Hype Boy、Cookie、Hurt。",
-      "en": "1st EP 'New Jeans'. Attention, Hype Boy, Cookie, Hurt."
+      "ja": "予告なしに公開されたMVから、すべてが始まる。",
+      "en": "A music video appears without warning. Everything starts here."
     },
-    "image": "mv-2022-07-23-hype-boy-intro",
-    "accent": "#2a78d6",
-    "short": "New Jeans"
+    "image": "mv-2022-07-22-attention-official-mv",
+    "accent": "#2a78d6"
   },
   {
-    "id": "era-omg",
+    "id": "era-ditto",
     "start": "2022-12-19",
     "end": "2023-07-06",
     "title": {
-      "ja": "OMG期",
-      "en": "OMG"
+      "ja": "Ditto",
+      "en": "Ditto"
     },
+    "short": "Ditto",
     "caption": {
-      "ja": "Ditto先行公開からシングル『OMG』、Zero、Bunnies Camp 2023まで。",
-      "en": "From the Ditto pre-release through 'OMG', Zero and Bunnies Camp 2023."
+      "ja": "冬。先行公開曲とともに、次の章が開く。",
+      "en": "Winter. A pre-release opens the next chapter."
     },
     "image": "mv-2022-12-19-ditto-official-mv-side-a",
-    "accent": "#6250d6",
-    "short": "OMG"
+    "accent": "#6250d6"
   },
   {
-    "id": "era-get-up",
+    "id": "era-super-shy",
     "start": "2023-07-07",
     "end": "2024-04-26",
     "title": {
-      "ja": "Get Up期",
-      "en": "Get Up"
+      "ja": "Super Shy",
+      "en": "Super Shy"
     },
+    "short": "Super Shy",
     "caption": {
-      "ja": "2nd EP『Get Up』。Super Shy、ETA、Cool With You。Lollapalooza、GODS、NJWMX。",
-      "en": "2nd EP 'Get Up'. Super Shy, ETA, Cool With You. Lollapalooza, GODS, NJWMX."
+      "ja": "デビューから1年。2nd EPのロールアウトが動き出す。",
+      "en": "One year since debut. The second EP rollout begins."
     },
     "image": "mv-2023-07-07-super-shy-official-mv",
-    "accent": "#1baf7a",
-    "short": "Get Up"
+    "accent": "#1baf7a"
   },
   {
-    "id": "era-how-sweet",
+    "id": "era-bubble-gum",
     "start": "2024-04-27",
     "end": "2024-11-28",
     "title": {
-      "ja": "How Sweet / Supernatural期",
-      "en": "How Sweet / Supernatural"
+      "ja": "Bubble Gum",
+      "en": "Bubble Gum"
     },
+    "short": "Bubble Gum",
     "caption": {
-      "ja": "Bubble Gum、How Sweet、日本デビュー『Supernatural』、東京ドーム。",
-      "en": "Bubble Gum, How Sweet, Japan debut 'Supernatural', Tokyo Dome."
+      "ja": "春。先行公開曲から、再び連鎖が始まる。",
+      "en": "Spring. A pre-release sets off the chain again."
     },
-    "image": "mv-2024-06-21-supernatural-official-mv-part-1",
-    "accent": "#eb6834",
-    "short": "How Sweet"
+    "image": "mv-2024-04-27-bubble-gum-official-mv",
+    "accent": "#eb6834"
   },
   {
-    "id": "era-dispute",
+    "id": "era-notice",
     "start": "2024-11-29",
     "end": "2025-11-11",
     "title": {
-      "ja": "契約紛争・NJZ期",
-      "en": "Dispute / NJZ"
+      "ja": "通告",
+      "en": "The Notice"
     },
+    "short": "The Notice",
     "caption": {
-      "ja": "専属契約解除の通告（2024年11月28日会見）からNJZ名義の活動、2025年3月の仮処分、同年10月の一審判決まで。",
-      "en": "From the Nov 28, 2024 press conference through NJZ activities, the March 2025 injunction and the October 2025 first-instance ruling."
+      "ja": "11月28日夜の記者会見。メンバーが専属契約の解除を通告する。",
+      "en": "A press conference on the night of Nov 28. The members give notice of termination."
     },
     "image": null,
-    "accent": "#a0522d",
-    "short": "NJZ"
+    "accent": "#a0522d"
   },
   {
     "id": "era-return",
     "start": "2025-11-12",
     "end": null,
     "title": {
-      "ja": "復帰後",
+      "ja": "帰還",
       "en": "Return"
     },
+    "short": "Return",
     "caption": {
-      "ja": "ADORへの復帰発表以降。期間の境界日はdata/eras.jsonで編集可能。",
-      "en": "After the announced return to ADOR. Boundary dates are editable in data/eras.json."
+      "ja": "ADORへの復帰が発表される。",
+      "en": "A return to ADOR is announced."
     },
     "image": null,
-    "accent": "#008300",
-    "short": "Return"
+    "accent": "#008300"
   }
 ]

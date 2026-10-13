@@ -6,86 +6,74 @@
   <meta name="robots" content="noindex, nofollow">
   <meta name="color-scheme" content="light dark">
   <title>NJAs</title>
-  <meta name="description" content="NewJeans official activity archive, sorted by date.">
+  <meta name="description" content="NewJeans archive, read one day at a time.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter+Tight:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
-<body>
-  <header class="masthead">
-    <div class="wrap">
-      <div class="mast-top">
-        <span class="mono dim">PRIVATE ARCHIVE</span>
-        <span class="mono dim" id="mast-range">2022 — </span>
+<body class="book">
+  <header class="bar">
+    <div class="bar-inner">
+      <a class="bar-brand" href="#" id="brand">NJAs</a>
+      <div class="bar-mid mono" id="bar-pos"></div>
+      <div class="bar-right">
+        <button class="bar-btn mono" id="toc-btn" type="button" aria-expanded="false" aria-controls="toc">目次 / CONTENTS</button>
         <button class="theme-btn mono" id="theme-btn" type="button" aria-label="テーマ切替">◐</button>
       </div>
-      <h1 class="wordmark">
-        <span class="wm-main">NJAs</span>
-        <span class="wm-sub"><em>New</em>Jeans Archive</span>
-      </h1>
-      <p class="lede">
-        楽曲、映像、テレビ、雑誌、WEB、広告、X、グッズ、ライブ。公式に発表されたすべての活動を、発表日・発売日の順にひとつの年表へ。
-        <span class="lede-en">Every official activity, on one timeline.</span>
-      </p>
-      <div class="counters" id="counters" aria-label="カテゴリ別件数"></div>
-
-      <section class="spectrum" aria-label="月別の活動量">
-        <div class="spectrum-head">
-          <span class="mono dim">ACTIVITY BY MONTH</span>
-          <span class="mono dim" id="spectrum-note">stacked by category · click a month to jump</span>
-        </div>
-        <div class="spectrum-body">
-          <svg id="spectrum" role="img" aria-label="月別件数の積み上げ棒グラフ" preserveAspectRatio="none"></svg>
-          <div class="spectrum-tip mono" id="spectrum-tip" hidden></div>
-        </div>
-        <div class="eras-strip" id="eras-strip" aria-label="活動期"></div>
-      </section>
     </div>
   </header>
 
-  <div class="toolbar" id="toolbar">
-    <div class="wrap toolbar-inner">
-      <div class="search-wrap">
-        <span class="search-icon" aria-hidden="true">⌕</span>
-        <input id="q" type="search" class="search" placeholder="検索 / Search" autocomplete="off" spellcheck="false">
-        <button class="filters-toggle mono" id="filters-toggle" type="button" aria-expanded="false" aria-controls="filters-panel">FILTERS ▾</button>
-      </div>
-      <div class="filters-panel" id="filters-panel">
-      <div class="filters" id="cat-chips" role="group" aria-label="カテゴリ"></div>
-      <div class="filters right">
-        <div class="seg" id="entity-chips" role="group" aria-label="名義"></div>
-        <div class="seg" id="view-seg" role="group" aria-label="表示">
-          <button class="chip" type="button" data-view="timeline" aria-pressed="true">Timeline</button>
-          <button class="chip" type="button" data-view="grid" aria-pressed="false">Grid</button>
-        </div>
-        <label class="check mono"><input type="checkbox" id="only-verified"><span>VERIFIED</span></label>
-        <button class="sort-btn mono" id="sort" type="button" aria-label="並び順">NEWEST ↓</button>
-      </div>
+  <!-- cover -->
+  <section class="cover" id="cover">
+    <div class="cover-inner">
+      <span class="mono dim">PRIVATE ARCHIVE</span>
+      <h1 class="wordmark"><span class="wm-main">NJAs</span><span class="wm-sub"><em>New</em>Jeans Archive</span></h1>
+      <p class="lede">
+        公開された順に、1日ずつ読む。そのページの日付より後のことは、まだ誰も知らない。
+        <span class="lede-en">Read it one day at a time. Nothing after the page you are on is known yet.</span>
+      </p>
+      <div class="cover-actions">
+        <button class="btn primary" id="start-btn" type="button">はじめから読む <span class="mono">FROM THE BEGINNING</span></button>
+        <button class="btn" id="resume-btn" type="button" hidden>しおりから続ける <span class="mono" id="resume-label"></span></button>
       </div>
     </div>
-  </div>
+  </section>
 
-  <nav class="wrap yearnav" id="yearnav" aria-label="年ジャンプ"></nav>
+  <!-- page -->
+  <main class="page" id="page" hidden></main>
 
-  <main class="wrap" id="timeline"></main>
-  <section class="wrap grid" id="grid" hidden></section>
+  <nav class="pager" id="pager" hidden>
+    <button class="pager-btn prev" id="prev-btn" type="button"><span class="mono">← PREV</span><span class="pager-date" id="prev-date"></span></button>
+    <button class="pager-btn next" id="next-btn" type="button"><span class="mono">NEXT →</span><span class="pager-date" id="next-date"></span></button>
+  </nav>
 
-  <aside class="minimap" id="minimap" aria-label="年表ミニマップ"></aside>
-
-  <footer class="wrap site-footer">
-    <div class="foot-grid">
-      <div>
-        <span class="mono dim">LEGEND</span>
-        <p class="mono small">release=発売/配信 · announce=発表 · broadcast=放送 · publish=発行 · post=投稿 · sale_start=販売開始 · event=開催</p>
-      </div>
-      <div>
-        <span class="mono dim">STATUS</span>
-        <p class="mono small" id="foot-stats"></p>
-      </div>
+  <!-- table of contents -->
+  <aside class="toc" id="toc" hidden>
+    <div class="toc-head">
+      <span class="toc-title">目次 <span class="mono dim">CONTENTS</span></span>
+      <button class="bar-btn mono" id="toc-close" type="button">CLOSE ✕</button>
     </div>
-    <p class="wm-foot" aria-hidden="true">NJAs</p>
-  </footer>
+    <div class="toc-search">
+      <input id="toc-q" type="search" placeholder="既読範囲を検索 / search what has happened so far" autocomplete="off" spellcheck="false">
+    </div>
+    <div class="toc-body" id="toc-body"></div>
+    <div class="toc-foot mono">
+      <a href="#" id="index-link">索引（全期間の一覧）</a>
+      <span class="dim">未来を含みます</span>
+    </div>
+  </aside>
+  <div class="scrim" id="scrim" hidden></div>
+
+  <!-- index (full list, utility) -->
+  <section class="index wrap" id="index" hidden>
+    <div class="index-head">
+      <h2 class="index-title">索引 <span class="mono dim">INDEX · ALL DATES</span></h2>
+      <button class="bar-btn mono" id="index-close" type="button">BACK TO BOOK</button>
+    </div>
+    <input id="index-q" type="search" class="search" placeholder="検索 / search all" autocomplete="off">
+    <div id="index-body"></div>
+  </section>
 
   <div class="lightbox" id="lightbox" hidden>
     <button class="lb-close mono" type="button" aria-label="閉じる">CLOSE ✕</button>
@@ -101,15 +89,12 @@
 
   <template id="tpl-item">
     <article class="entry">
-      <div class="entry-rail">
-        <time class="mono date"></time>
-        <span class="mono dtype"></span>
-      </div>
       <div class="entry-main">
         <div class="entry-text">
           <div class="meta">
             <span class="cat-tag"><i class="sw"></i><span class="cat-label"></span></span>
-            <span class="pill entity" hidden>NJZ</span>
+            <span class="pill time" hidden></span>
+            <span class="pill entity" hidden></span>
             <span class="pill members" hidden></span>
             <span class="pill prec" hidden></span>
             <span class="pill unverified" hidden>UNVERIFIED</span>
@@ -117,10 +102,7 @@
           <h3 class="t-ja"></h3>
           <p class="t-en"></p>
           <p class="t-orig mono" hidden></p>
-          <div class="desc" hidden>
-            <p class="s-ja"></p>
-            <p class="s-en"></p>
-          </div>
+          <div class="desc" hidden><p class="s-ja"></p><p class="s-en"></p></div>
           <p class="note mono" hidden></p>
           <div class="links mono"></div>
           <div class="tags mono" hidden></div>

@@ -71,9 +71,10 @@
       "type": "string",
       "enum": [
         "newjeans",
-        "njz"
+        "njz",
+        "predebut"
       ],
-      "description": "活動名義。newjeans=ADOR名義, njz=NJZ名義期間"
+      "description": "活動名義。newjeans=ADOR名義, njz=NJZ名義期間, predebut=デビュー前（HYBE/Source Music/ADOR/ミン・ヒジン関連）"
     },
     "members": {
       "type": "array",
