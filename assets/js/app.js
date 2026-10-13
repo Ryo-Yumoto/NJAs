@@ -31,7 +31,9 @@
   const dayNum = date => Math.round((utc(date) - utc(DEBUT)) / 86400000) + 1;
   const dayLabel = date => (date < DEBUT ? "" : `DAY ${dayNum(date)}`);
   const daysBetween = (a, b) => Math.round((utc(b) - utc(a)) / 86400000);
-  const sortKey = it => `${it.date} ${it.time || "99:99"} ${String(DAY_ORDER.indexOf(it.category)).padStart(2, "0")} ${it.id}`;
+  // within a day: announcements (announce/post) first, then events, then releases; inside each group by time, then category order, then id
+  const TYPE_RANK = { announce: 0, post: 0, event: 1 };
+  const sortKey = it => `${it.date} ${TYPE_RANK[it.date_type] ?? 2} ${it.time || "99:99"} ${String(DAY_ORDER.indexOf(it.category)).padStart(2, "0")} ${it.id}`;
   const fmtLong = d => `${d.slice(0, 4)}.${d.slice(5, 7)}.${d.slice(8, 10)}`;
   const weekday = d => WD_JA[new Date(utc(d)).getUTCDay()];
   const store = { get: k => { try { return localStorage.getItem(k); } catch (_) { return null; } }, set: (k, v) => { try { localStorage.setItem(k, v); } catch (_) {} } };
