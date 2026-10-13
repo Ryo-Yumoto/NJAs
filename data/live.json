@@ -239,8 +239,8 @@
       "en": "56th ADB Annual Meeting opening ceremony"
     },
     "summary": {
-      "ja": "仁川・松島コンベンシアで開かれたアジア開発銀行（ADB）年次総会の開会式で公演したとされる。",
-      "en": "Reportedly performed at the opening ceremony of the Asian Development Bank annual meeting at Songdo Convensia, Incheon."
+      "ja": "仁川・松島コンベンシアで開かれたアジア開発銀行（ADB）年次総会の開会式で公演。",
+      "en": "Performed at the opening ceremony of the Asian Development Bank annual meeting at Songdo Convensia, Incheon."
     },
     "source_url": "https://www.adb.org/annual-meeting/2023/events/opening-session",
     "verified": false,
@@ -253,7 +253,7 @@
     "tags": [
       "corporate-event"
     ],
-    "editor_note": "Listed on Wikipedia; could not be confirmed from the ADB programme or news. Treat as unverified."
+    "editor_note": "Listed on Wikipedia; could not be confirmed from the ADB programme or news. Treat as unverified. | Reader-facing 'reportedly / とされる' hedging moved here; appearance remains unverified (Wikipedia only)."
   },
   {
     "id": "live-2023-06-11-weverse-con-festival-2023",
@@ -436,8 +436,8 @@
       "original": "서울대학교 2023 축제"
     },
     "summary": {
-      "ja": "ソウル大学の秋の大学祭（閉幕祭）に出演したとされる。",
-      "en": "Reportedly performed at Seoul National University's autumn festival closing night."
+      "ja": "ソウル大学の秋の大学祭（閉幕祭）に出演。",
+      "en": "Performed at Seoul National University's autumn festival closing night."
     },
     "source_url": "https://www.clien.net/service/board/park/18307799",
     "verified": false,
@@ -450,7 +450,7 @@
     "tags": [
       "university-festival"
     ],
-    "editor_note": "Sources conflict on whether NewJeans was on the SNU lineup; unverified."
+    "editor_note": "Sources conflict on whether NewJeans was on the SNU lineup; unverified. | Reader-facing 'reportedly / とされる' hedging moved here; lineup remains unverified."
   },
   {
     "id": "live-2023-09-14-sungkyunkwan-univ-festival",
@@ -661,8 +661,8 @@
       "original": "2023 뮤직뱅크 글로벌 페스티벌"
     },
     "summary": {
-      "ja": "埼玉・ベルーナドームで開催された2023 KBS歌謡大祝祭の日本公演に出演（12/15放送の第2部として放映）。",
-      "en": "Performed at the Japan edition of the 2023 KBS Song Festival at Belluna Dome, Tokorozawa (aired as Part 2 on Dec 15)."
+      "ja": "埼玉・ベルーナドームで開催された2023 KBS歌謡大祝祭の日本公演に出演（12/15にKBSで放送予定）。",
+      "en": "Performed at the Japan edition of the 2023 KBS Song Festival at Belluna Dome, Tokorozawa (to air on KBS Dec 15)."
     },
     "source_url": "https://v.daum.net/v/20231216094017494",
     "verified": false,
@@ -677,7 +677,7 @@
       "broadcast-concert",
       "japan"
     ],
-    "editor_note": "Broadcast-concert; the TV airing (2023-12-15) may be registered separately in tv."
+    "editor_note": "Broadcast-concert; the TV airing (2023-12-15) may be registered separately in tv. | Broadcast reworded as the announced schedule; it aired as Part 2 on 2023-12-15."
   },
   {
     "id": "live-2023-12-25-sbs-gayo-daejeon",
@@ -1074,8 +1074,8 @@
       "en": "Coke Studio Tokyo fan event 'Coke Studio: Live ft. NewJeans'"
     },
     "summary": {
-      "ja": "東京で開催されたコカ・コーラ×Spotifyのファンイベントで「How Sweet」を海外初披露したとされる。",
-      "en": "Reportedly gave the first international performance of 'How Sweet' at a Coca-Cola x Spotify fan event in Tokyo."
+      "ja": "東京で開催されたコカ・コーラ×Spotifyのファンイベントで「How Sweet」を海外初披露。",
+      "en": "Gave the first international performance of 'How Sweet' at a Coca-Cola x Spotify fan event in Tokyo."
     },
     "source_url": "https://www.coca-cola.com/us/en/offerings/coke-studio/roster/newjeans",
     "verified": false,
@@ -1090,7 +1090,7 @@
       "brand-event",
       "japan"
     ],
-    "editor_note": "Date (June 4, 2024) from Wikipedia only; Coca-Cola's page gives no date. Unverified."
+    "editor_note": "Date (June 4, 2024) from Wikipedia only; Coca-Cola's page gives no date. Unverified. | Reader-facing 'reportedly / とされる' hedging moved here; date and set remain unverified (Wikipedia only)."
   },
   {
     "id": "live-2024-06-26-bunnies-camp-2024-tokyo-dome",
@@ -1107,8 +1107,8 @@
       "en": "NewJeans Fan Meeting 'Bunnies Camp 2024 Tokyo Dome'"
     },
     "summary": {
-      "ja": "東京ドームで初の単独来日公演を2日間開催（6/26・27、各日17:00開場/19:00開演）。約9万1千人動員。",
-      "en": "First solo Japan shows, two nights at Tokyo Dome (June 26-27, doors 17:00 / start 19:00); about 91,000 attendance."
+      "ja": "東京ドームで初の単独来日公演を2日間開催（6/26・27、各日17:00開場/19:00開演）。",
+      "en": "First solo Japan shows, two nights at Tokyo Dome (June 26-27, doors 17:00 / start 19:00)."
     },
     "source_url": "https://weverse.io/newjeansofficial/notice/18552",
     "verified": true,
@@ -1124,7 +1124,7 @@
       "solo-show",
       "japan"
     ],
-    "editor_note": "Dates: 2024-06-26 and 2024-06-27. Guests included YOASOBI and Rina Sawayama."
+    "editor_note": "Dates: 2024-06-26 and 2024-06-27. Guests included YOASOBI and Rina Sawayama. | Two-day attendance figure (about 91,000) removed from the summary; it was reported after the second night."
   },
   {
     "id": "live-2024-07-21-sbs-gayo-daejeon-summer",
@@ -1435,7 +1435,7 @@
     },
     "summary": {
       "ja": "香港・AsiaWorld-ExpoでNJZ名義として初ステージ。公演中に活動休止を発表。",
-      "en": "First and only stage under the NJZ name at AsiaWorld-Expo, Hong Kong; announced a hiatus on stage."
+      "en": "First stage under the NJZ name at AsiaWorld-Expo, Hong Kong; announced a hiatus on stage."
     },
     "source_url": "https://www.asiaworld-expo.com/en-us/whats-on/upcoming-events/events/COMPLEXCON-HONG-KONG-2025-(1st-option-17-24-3,-2nd",
     "verified": true,
@@ -1451,6 +1451,6 @@
       "overseas",
       "njz"
     ],
-    "editor_note": "Held two days after the Seoul Central District Court's March 21, 2025 injunction in ADOR's favour; ADOR expressed regret over the performance going ahead under the NJZ name."
+    "editor_note": "Held two days after the Seoul Central District Court's March 21, 2025 injunction in ADOR's favour; ADOR expressed regret over the performance going ahead under the NJZ name. | Removed 'and only' from the English summary (retrospective framing)."
   }
 ]

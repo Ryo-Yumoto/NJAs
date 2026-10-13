@@ -495,8 +495,8 @@
       "en": "Vogue France - NJZ (ex-NewJeans) feature"
     },
     "summary": {
-      "ja": "Vogue FranceがADORの要請にかかわらず『NJZ (ex-NewJeans)』名義で特集を掲載したと報道。",
-      "en": "Vogue France reportedly ran a feature crediting the group as 'NJZ (ex-NewJeans)' despite ADOR's objection."
+      "ja": "Vogue FranceがADORの異議にかかわらず『NJZ (ex-NewJeans)』名義で特集を掲載。",
+      "en": "Vogue France ran a feature crediting the group as 'NJZ (ex-NewJeans)' despite ADOR's objection."
     },
     "source_url": "https://www.sportskeeda.com/us/k-pop/this-waited-for-fans-react-vogue-france-addresses-newjeans-njz-despite-ador-s-recent-demands",
     "reference_urls": [],
@@ -504,11 +504,10 @@
       "type": "none"
     },
     "tags": [
-      "njz",
-      "uncertain"
+      "njz"
     ],
     "verified": false,
-    "editor_note": "Sportskeedaの検索要約のみ。vogue.frの記事URLと内容（表紙/ウェブ特集か）は未確認。要検証。"
+    "editor_note": "Sportskeedaの検索要約のみ。vogue.frの記事URLと内容（表紙/ウェブ特集か）は未確認。要検証。 | Reader-facing 'reportedly' wording and 'uncertain' tag moved here; still unverified (Sportskeeda search summary only)."
   },
   {
     "id": "web-2025-03-26-bbc-korea-interview-ador-dispute",

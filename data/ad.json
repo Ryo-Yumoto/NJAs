@@ -135,7 +135,7 @@
     },
     "summary": {
       "ja": "新韓銀行がリニューアルアプリ「New SOL」の広告モデルにNewJeansを起用すると発表。",
-      "en": "Shinhan Bank announced NewJeans as ad models for its New SOL app; the TV ad was unveiled at the Oct 20 launch event."
+      "en": "Shinhan Bank announced NewJeans as ad models for its New SOL app."
     },
     "source_url": "https://magazine.hankyung.com/business/article/202210119293b",
     "reference_urls": [
@@ -147,7 +147,8 @@
     "tags": [
       "finance"
     ],
-    "verified": true
+    "verified": true,
+    "editor_note": "The TV ad was unveiled at the Oct 20, 2022 launch event (removed from the summary as later than this record's date)."
   },
   {
     "id": "ad-2022-11-01-megastudy-megapass-cm",
@@ -760,8 +761,8 @@
       "en": "McDonald's x NewJeans collaboration launch"
     },
     "summary": {
-      "ja": "韓国を皮切りにフィリピン・タイなどアジア各国でNewJeansコラボセットを発売。",
-      "en": "NewJeans-branded McDonald's sets launched in Korea and then other Asian markets."
+      "ja": "韓国を皮切りにアジア各国で展開予定のNewJeansコラボセットを発売。",
+      "en": "NewJeans-branded McDonald's sets launched in Korea, with other Asian markets to follow."
     },
     "source_url": "https://en.wikipedia.org/wiki/NewJeans",
     "reference_urls": [],
@@ -772,7 +773,8 @@
       "food",
       "collab"
     ],
-    "verified": false
+    "verified": false,
+    "editor_note": "Rewritten so the Philippines/Thailand rollouts are not stated as completed on the Korean launch date."
   },
   {
     "id": "ad-2023-07-01-powerpuff-girls-get-up-collab",
@@ -998,8 +1000,8 @@
       "en": "Nike x NewJeans Orchard Road collaboration"
     },
     "summary": {
-      "ja": "ナイキ オーチャードロード店限定のコラボ商品を発表。2月3日に店舗で公演。",
-      "en": "Limited Nike By You x NewJeans products for Nike Orchard Road, with a Feb 3 in-store performance."
+      "ja": "ナイキ オーチャードロード店限定のコラボ商品を発表。",
+      "en": "Limited Nike By You x NewJeans products announced for Nike Orchard Road, Singapore."
     },
     "source_url": "https://en.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
@@ -1012,7 +1014,8 @@
       "fashion",
       "collab"
     ],
-    "verified": false
+    "verified": false,
+    "editor_note": "The Feb 3, 2024 in-store performance was removed from the summary (later than this record's date; see the live record for Feb 3)."
   },
   {
     "id": "ad-2024-02-05-coca-cola-zero-japan-cm",
@@ -1239,8 +1242,8 @@
       "en": "NewJeans x SHIBUYA109 45th Anniversary Campaign"
     },
     "summary": {
-      "ja": "SHIBUYA109渋谷店45周年キャンペーン第1弾としてコラボを発表。ポップアップは4月26日〜5月19日。",
-      "en": "SHIBUYA109 announced a 45th-anniversary collaboration with NewJeans; pop-up ran Apr 26–May 19, 2024."
+      "ja": "SHIBUYA109渋谷店45周年キャンペーン第1弾としてコラボを発表。ポップアップは4月26日〜5月19日の予定。",
+      "en": "SHIBUYA109 announced a 45th-anniversary collaboration with NewJeans, with a pop-up scheduled for Apr 26 - May 19, 2024."
     },
     "source_url": "https://www.fashionsnap.com/article/2024-04-10/109-newjrans/",
     "reference_urls": [],
@@ -1252,7 +1255,8 @@
       "japan",
       "collab"
     ],
-    "verified": true
+    "verified": true,
+    "editor_note": "Pop-up dates reworded as the announced schedule rather than a completed run."
   },
   {
     "id": "ad-2024-05-01-lotte-wellfood-zero-cm-right-now",

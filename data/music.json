@@ -28,11 +28,10 @@
     },
     "tags": [
       "single",
-      "debut",
-      "ep-new-jeans"
+      "debut"
     ],
     "verified": false,
-    "editor_note": "MV/video premiered 2022-07-22 KST; full digital download/streaming started 2022-08-01 with the EP."
+    "editor_note": "MV/video premiered 2022-07-22 KST; full digital download/streaming started 2022-08-01 with the EP. | Tag 'ep-new-jeans' removed from reader-facing tags: the EP title was not public until the 2022-07-25 pre-order."
   },
   {
     "id": "music-2022-07-23-hype-boy",
@@ -62,11 +61,10 @@
       "type": "none"
     },
     "tags": [
-      "single",
-      "ep-new-jeans"
+      "single"
     ],
     "verified": false,
-    "editor_note": "Unveiled via MV 2022-07-23; digital streaming started 2022-08-01 with the EP."
+    "editor_note": "Unveiled via MV 2022-07-23; digital streaming started 2022-08-01 with the EP. | Tag 'ep-new-jeans' removed from reader-facing tags: the EP title was not public until the 2022-07-25 pre-order."
   },
   {
     "id": "music-2022-08-01-cookie",
@@ -689,13 +687,13 @@
       "danielle"
     ],
     "title": {
-      "ja": "Butterflies (With You) - ダニエル（未確認）",
-      "en": "Butterflies (With You) - Danielle (unconfirmed)",
+      "ja": "Butterflies (With You) - ダニエル",
+      "en": "Butterflies (With You) - Danielle",
       "original": "Butterflies (With You)"
     },
     "summary": {
-      "ja": "en.wikipediaのダニエル項目に2024年の非アルバムシングルとして記載。公式ソース未確認。",
-      "en": "Listed on en.wikipedia (Danielle page) as a 2024 non-album single; no official source found."
+      "ja": "ダニエルのソロ楽曲として記載される2024年の非アルバムシングル。",
+      "en": "A 2024 non-album solo single credited to Danielle."
     },
     "source_url": "https://en.wikipedia.org/wiki/Danielle_(singer)",
     "reference_urls": [],
@@ -703,11 +701,10 @@
       "type": "none"
     },
     "tags": [
-      "solo",
-      "unconfirmed"
+      "solo"
     ],
     "verified": false,
-    "editor_note": "Only the year is given on Wikipedia; could not be corroborated. Treat as unconfirmed."
+    "editor_note": "Only the year is given on Wikipedia; could not be corroborated. Treat as unconfirmed. | Reader-facing 'unconfirmed' wording and tag moved here: listed only on en.wikipedia (Danielle page) as a 2024 non-album single; no official source found."
   },
   {
     "id": "music-2024-04-27-bubble-gum",
@@ -859,8 +856,8 @@
       "original": "Supernatural"
     },
     "summary": {
-      "ja": "日本デビューシングルのタイトル曲。韓国でも活動。",
-      "en": "Title track of the Japan debut single; also promoted in Korea."
+      "ja": "日本デビューシングルのタイトル曲。",
+      "en": "Title track of the Japan debut single."
     },
     "source_url": "https://en.wikipedia.org/wiki/Supernatural_(NewJeans_song)",
     "reference_urls": [
@@ -874,7 +871,8 @@
       "title-track",
       "japan"
     ],
-    "verified": false
+    "verified": false,
+    "editor_note": "Removed 'also promoted in Korea' from the summary (Korean music-show promotion started in July 2024, after this date)."
   },
   {
     "id": "music-2024-06-21-supernatural-japan-single",
@@ -928,8 +926,8 @@
       "original": "Pit Stop"
     },
     "summary": {
-      "ja": "2025年3月23日ComplexCon香港で初披露された新曲。その後活動休止を発表。正式リリースはされていない。",
-      "en": "New song debuted live at ComplexCon Hong Kong on Mar 23, 2025; the group then announced a pause in activities. Never officially released."
+      "ja": "2025年3月23日ComplexCon香港で初披露された新曲。同日のステージで活動休止を発表。",
+      "en": "New song debuted live at ComplexCon Hong Kong on Mar 23, 2025, the same stage on which the group announced a pause in activities."
     },
     "source_url": "https://en.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
@@ -944,6 +942,6 @@
       "complexcon"
     ],
     "verified": false,
-    "editor_note": "Not an official release. Performed two days after the 2025-03-21 court injunction barring independent activities; a Kbizoom lyrics page lists 'Released: March 24, 2025' but this is not corroborated."
+    "editor_note": "Not an official release. Performed two days after the 2025-03-21 court injunction barring independent activities; a Kbizoom lyrics page lists 'Released: March 24, 2025' but this is not corroborated. | Removed 'never officially released' (retrospective) from the summary."
   }
 ]

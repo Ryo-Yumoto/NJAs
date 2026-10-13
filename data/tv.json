@@ -513,8 +513,8 @@
       "original": "뉴진스 코드 in 부산"
     },
     "summary": {
-      "ja": "釜山観光公社制作のトラベルリアリティ番組。全3話、SBSで10月16日〜11月6日放送。",
-      "en": "Three-episode SBS travel reality series set in Busan, aired Oct 16–Nov 6, 2022."
+      "ja": "釜山観光公社制作のトラベルリアリティ番組。全3話、SBSで10月16日から放送。",
+      "en": "Three-episode SBS travel reality series set in Busan, premiering Oct 16, 2022."
     },
     "source_url": "https://en.wikipedia.org/wiki/NewJeans_Code_in_Busan",
     "reference_urls": [
@@ -527,7 +527,8 @@
       "variety",
       "reality"
     ],
-    "verified": false
+    "verified": false,
+    "editor_note": "Aired Oct 16 - Nov 6, 2022 (end date removed from the reader-facing summary)."
   },
   {
     "id": "tv-2022-11-25-blue-dragon-film-awards-43",
@@ -917,12 +918,12 @@
       "all"
     ],
     "title": {
-      "ja": "ショー!音楽中心「Ditto」1位（4週連続の初週）",
-      "en": "Show! Music Core: Ditto wins #1 (1st of 4 consecutive weeks)"
+      "ja": "ショー!音楽中心「Ditto」1位",
+      "en": "Show! Music Core: Ditto wins #1"
     },
     "summary": {
-      "ja": "MBC『ショー!音楽中心』で「Ditto」が1位。以降2月4日まで4週連続で1位を獲得。",
-      "en": "Ditto topped Show! Music Core, the first of four consecutive wins through Feb 4, 2023."
+      "ja": "MBC『ショー!音楽中心』で「Ditto」が1位。",
+      "en": "Ditto won #1 on MBC's Show! Music Core."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [],
@@ -934,7 +935,7 @@
       "win"
     ],
     "verified": false,
-    "editor_note": "ja.wikipedia lists 4 consecutive Music Core wins between Jan 7 and Feb 4, 2023; individual later dates not itemised."
+    "editor_note": "ja.wikipedia lists 4 consecutive Music Core wins between Jan 7 and Feb 4, 2023; individual later dates not itemised. | Removed '1st of 4 consecutive weeks through Feb 4' from title/summary (future knowledge)."
   },
   {
     "id": "tv-2023-01-08-inkigayo-ditto-win",
@@ -2568,8 +2569,8 @@
       "en": "74th NHK Kohaku Uta Gassen"
     },
     "summary": {
-      "ja": "日本デビュー前に紅白歌合戦に初出場。「OMG」「ETA」「Ditto」を披露。",
-      "en": "First Kohaku appearance, before their Japanese debut; performed OMG, ETA and Ditto."
+      "ja": "紅白歌合戦に初出場。「OMG」「ETA」「Ditto」を披露。",
+      "en": "First Kohaku appearance; performed OMG, ETA and Ditto."
     },
     "source_url": "https://v.daum.net/v/20231229122500571",
     "reference_urls": [
@@ -2584,7 +2585,7 @@
       "year-end"
     ],
     "verified": true,
-    "editor_note": "Confirmed via a Dec 29, 2023 preview article (Yonhap via Daum); performance was pre-recorded per that report."
+    "editor_note": "Confirmed via a Dec 29, 2023 preview article (Yonhap via Daum); performance was pre-recorded per that report. | Removed 'before their Japanese debut' (the Japan debut had not been announced as of 2023-12-31)."
   },
   {
     "id": "tv-2024-01-06-golden-disc-awards-38",
@@ -3676,8 +3677,8 @@
       "en": "WOWOW: Ask Jeans! NewJeans interview #4–#5"
     },
     "summary": {
-      "ja": "WOWOWで #4 HAERIN、#5 HYEINのインタビュー回を10月に放送。",
-      "en": "WOWOW aired the Haerin and Hyein interview episodes in October 2024."
+      "ja": "WOWOWで #4 HAERIN、#5 HYEINのインタビュー回を放送。",
+      "en": "WOWOW airs the Haerin and Hyein interview episodes (#4 and #5)."
     },
     "source_url": "https://www.oricon.co.jp/news/2338316/full/",
     "reference_urls": [],
@@ -3690,7 +3691,7 @@
       "interview"
     ],
     "verified": true,
-    "editor_note": "Exact October air date not legible in the source."
+    "editor_note": "Exact October air date not legible in the source. | Removed 'in October 2024' retrospective framing; exact air date still unknown."
   },
   {
     "id": "tv-2024-11-01-wowow-music-video-collection",
@@ -3707,8 +3708,8 @@
       "en": "WOWOW: NewJeans Music Video Collection"
     },
     "summary": {
-      "ja": "WOWOW 4か月連続特集の最終回としてMV特集を11月に放送。",
-      "en": "MV compilation special aired in November as the last of WOWOW's four-month series."
+      "ja": "WOWOW 4か月連続特集の最終回としてMV特集を放送。",
+      "en": "MV compilation special aired as the last of WOWOW's four-month series."
     },
     "source_url": "https://www.oricon.co.jp/news/2338316/full/",
     "reference_urls": [],
@@ -3719,7 +3720,8 @@
       "japan-tv",
       "wowow"
     ],
-    "verified": true
+    "verified": true,
+    "editor_note": "Removed 'in November' retrospective framing."
   },
   {
     "id": "tv-2024-11-09-with-music-3",

@@ -873,8 +873,8 @@
       "en": "'Ditto' Performance Video"
     },
     "summary": {
-      "ja": "2022年12月30日19時（KST）公開。のちに1億回再生を突破。",
-      "en": "Released Dec 30, 2022 19:00 KST; later passed 100M views."
+      "ja": "2022年12月30日19時（KST）公開。",
+      "en": "Released Dec 30, 2022 19:00 KST."
     },
     "source_url": "https://www.youtube.com/watch?v=Km71Rr9K-Bw",
     "reference_urls": [
@@ -889,7 +889,8 @@
       "performance",
       "newjeans-channel"
     ],
-    "verified": true
+    "verified": true,
+    "editor_note": "Removed 'later passed 100M views' from the summary (future knowledge)."
   },
   {
     "id": "mv-2022-12-31-ditto-performance-danielle-ver",
