@@ -1,1 +1,1569 @@
-[]
+[
+  {
+    "id": "magazine-2022-08-20-elle-korea-super-elle-2022-09",
+    "date": "2022-08-20",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ELLE Korea 2022年9月号『슈퍼 엘르』特別版 — NewJeans初のグループ撮影",
+      "en": "Elle Korea September 2022 'Super Elle' special edition - NewJeans first group pictorial",
+      "original": "<슈퍼 엘르> 첫번째 커버스타, 슈퍼 신인 뉴진스"
+    },
+    "summary": {
+      "ja": "デビュー直後のNewJeansが<엘르>と初のグループ撮影。シャネル ビューティー協賛、8月20日発売の9月号特別版に掲載。",
+      "en": "NewJeans' first group pictorial with Elle Korea (Chanel Beauty), in the Super Elle special edition of the September 2022 issue released Aug 20."
+    },
+    "source_url": "https://www.elle.co.kr/article/68945",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chanel-beauty"
+    ],
+    "verified": true,
+    "note": "Elle記事(2022-08-19)に「9月号特別版は8月20日発売」と明記。表紙ではなく特別版の『first cover star』扱い。"
+  },
+  {
+    "id": "magazine-2022-09-26-gq-korea-comme-des-garcons",
+    "date": "2022-09-26",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "GQ Korea × COMME des GARÇONS 画報「몽환적인 꿈을 꾸다」",
+      "en": "GQ Korea x Comme des Garcons pictorial",
+      "original": "뉴진스···몽환적인 꿈을 꾸다"
+    },
+    "summary": {
+      "ja": "GQ KOREAがコム デ ギャルソンと共同で制作したNewJeansの画報を9月26日に公開。",
+      "en": "GQ Korea released a NewJeans pictorial shot with Comme des Garcons on Sept 26, 2022."
+    },
+    "source_url": "https://sports.khan.co.kr/article/202209261645003",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "comme-des-garcons"
+    ],
+    "verified": false,
+    "note": "GQ Korea公式ページURL未確認。日付は京郷新聞記事(2022-09-26)より。掲載号は2022年10月号と思われるが未確認。"
+  },
+  {
+    "id": "magazine-2022-09-29-harpers-bazaar-korea-dior-book-in-book",
+    "date": "2022-09-29",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Harper's BAZAAR Korea 2022年10月号 — Dior ブック・イン・ブック34P & デジタルカバー",
+      "en": "Harper's Bazaar Korea October 2022 - 34-page Dior book-in-book and digital cover",
+      "original": "꽃보다 뉴진스(NewJeans) <하퍼스 바자> 통해 디올 패션 & 뷰티와 함께 한 화보 공개!"
+    },
+    "summary": {
+      "ja": "ディオールのファッション&ビューティーとともに撮影した34ページのブック・イン・ブック画報。デジタルカバーと映像インタビューも公開。",
+      "en": "A 34-page book-in-book pictorial with Dior fashion and beauty in the October 2022 issue, plus a digital cover and video interview."
+    },
+    "source_url": "https://www.harpersbazaar.co.kr/article/71151",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "dior"
+    ],
+    "verified": true,
+    "note": "記事日付2022-09-29。印刷版10月号の発売日は未確認。"
+  },
+  {
+    "id": "magazine-2022-11-01-vogue-korea-hyein-digital-cover-lv",
+    "date": "2022-11-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "VOGUE Korea デジタルカバー — ヘイン初の単独画報（Louis Vuitton 2023 Cruise）",
+      "en": "Vogue Korea digital cover - Hyein's first solo pictorial (Louis Vuitton Cruise 2023)",
+      "original": "뉴진스 혜인 첫 단독 화보 B컷 공개"
+    },
+    "summary": {
+      "ja": "ヘインがルイ・ヴィトン2023クルーズコレクションを着てVOGUE Koreaデジタルカバーに登場。初の単独画報。",
+      "en": "Hyein fronted a Vogue Korea digital cover in Louis Vuitton Cruise 2023 pieces, her first solo pictorial."
+    },
+    "source_url": "https://www.vogue.co.kr/?p=307246",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "louis-vuitton"
+    ],
+    "verified": true,
+    "note": "B컷記事のURLスラッグは2022/11/08だがページ表記は2022.11.20。デジタルカバー自体の公開日は11月上旬と思われるため月精度。"
+  },
+  {
+    "id": "magazine-2022-11-17-w-korea-2022-12-cover",
+    "date": "2022-11-17",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "W Korea 2022年12月号 表紙 — NewJeans初の雑誌カバー（撮影：ミン・ヒジン）",
+      "en": "W Korea December 2022 cover - NewJeans' first magazine cover (shot by Min Hee-jin)",
+      "original": "W Korea 12월호 커버 뉴진스(NewJeans)"
+    },
+    "summary": {
+      "ja": "クリスマス特集の12月号でNewJeansが初の雑誌表紙を飾った。企画・撮影はADOR代表ミン・ヒジン。",
+      "en": "NewJeans' first magazine cover, the Christmas-themed December issue of W Korea, planned and photographed by ADOR CEO Min Hee-jin."
+    },
+    "source_url": "https://www.wkorea.com/2022/11/17/w-korea-12%EC%9B%94%ED%98%B8-%EC%BB%A4%EB%B2%84-%EB%89%B4%EC%A7%84%EC%8A%A4/",
+    "reference_urls": [
+      "https://www.wkorea.com/?p=216230"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "first-cover"
+    ],
+    "verified": true,
+    "note": "W Korea公式記事日付2022-11-17（カバー公開日）。個人カバーは後日順次公開。"
+  },
+  {
+    "id": "magazine-2023-01-23-spur-2023-03-cover",
+    "date": "2023-01-23",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "SPUR 2023年3月号 表紙 — 日本ファッション誌初カバー",
+      "en": "SPUR March 2023 cover - first Japanese fashion magazine cover"
+    },
+    "summary": {
+      "ja": "集英社『SPUR』2023年3月号（1月23日発売）の表紙にNewJeansが登場。90年代風デニムスタイル。日本の雑誌初表紙。",
+      "en": "NewJeans covered Shueisha's SPUR March 2023 issue (on sale Jan 23, 2023) in 1990s-inspired denim, their first Japanese magazine cover."
+    },
+    "source_url": "https://www.thefirsttimes.jp/?p=235307",
+    "reference_urls": [
+      "https://www.appbank.net/2023/01/26/entertainment/2385527.php"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "japan"
+    ],
+    "verified": false,
+    "note": "SPUR公式ページ未取得。発売日はTHE FIRST TIMES(2023-01-17)およびAppBank記事で確認。"
+  },
+  {
+    "id": "magazine-2023-03-01-elle-korea-2023-03-minji",
+    "date": "2023-03-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "ELLE Korea 2023年3月号 表紙 — ミンジ（CHANEL アンバサダー初の単独カバー）",
+      "en": "Elle Korea March 2023 cover - Minji (first solo cover as Chanel ambassador)",
+      "original": "샤넬의 뉴페이스? 뉴진스 민지 <엘르> 3월호 커버 등장!"
+    },
+    "summary": {
+      "ja": "ミンジがシャネル アンバサダーとして初の単独雑誌カバー。2月14日にカバー公開。",
+      "en": "Minji's first solo magazine cover, shot as Chanel ambassador; revealed Feb 14, 2023."
+    },
+    "source_url": "https://elle.co.kr/article/74982",
+    "reference_urls": [
+      "https://www.vogue.co.kr/2023/02/14/%ec%83%a4%eb%84%ac%ec%9d%98-%ec%83%88%eb%a1%9c%ec%9a%b4-%ec%95%b0%eb%b0%b0%ec%84%9c%eb%8d%94-%eb%89%b4%ec%a7%84%ec%8a%a4-%eb%af%bc%ec%a7%80/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chanel"
+    ],
+    "verified": true,
+    "note": "カバー公開2023-02-14。3月号の発売日は未確認のため月精度。"
+  },
+  {
+    "id": "magazine-2023-03-01-marie-claire-korea-30th-hanni-gucci",
+    "date": "2023-03-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "marie claire Korea 2023年3月号 創刊30周年記念カバー（16種）— ハニ × GUCCI",
+      "en": "Marie Claire Korea March 2023 30th-anniversary covers (16 versions) - Hanni x Gucci"
+    },
+    "summary": {
+      "ja": "マリ・クレール コリア創刊30周年記念の16種カバーのうちA型がハニ×グッチ。",
+      "en": "Hanni x Gucci was one of 16 covers for Marie Claire Korea's 30th-anniversary March 2023 issue."
+    },
+    "source_url": "https://theqoo.net/2720446613",
+    "reference_urls": [
+      "https://lady.khan.co.kr/entertainment/article/202302240730011"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "gucci"
+    ],
+    "verified": false,
+    "note": "コミュニティ投稿(2023-02-14)に基づく。marie claire公式記事URL未確認のため要確認。"
+  },
+  {
+    "id": "magazine-2023-03-20-vogue-korea-danielle-ysl-beauty",
+    "date": "2023-03-20",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "VOGUE Korea 2023年4月号 — ダニエル × YSL Beauty デジタル画報",
+      "en": "Vogue Korea April 2023 - Danielle x YSL Beauty digital pictorial",
+      "original": "뉴진스 다니엘의 입술 위에 피어난 입생로랑 뷰티"
+    },
+    "summary": {
+      "ja": "イヴ・サンローラン・ボーテのアンバサダー就任を記念したダニエルの初プロジェクト。デジタル画報公開、本編は4月号掲載。",
+      "en": "Danielle's first project as YSL Beauty ambassador: a Vogue Korea digital pictorial, with the full spread in the April 2023 issue."
+    },
+    "source_url": "https://www.vogue.co.kr/2023/03/20/%eb%89%b4%ec%a7%84%ec%8a%a4-%eb%8b%a4%eb%8b%88%ec%97%98%ec%9d%98-%ec%9e%85%ec%88%a0-%ec%9c%84%ec%97%90-%ed%94%bc%ec%96%b4%eb%82%9c-%ec%9e%85%ec%83%9d%eb%a1%9c%eb%9e%91-%eb%b7%b0%ed%8b%b0/",
+    "reference_urls": [
+      "https://www.elle.co.kr/article/1864093"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "ysl-beauty"
+    ],
+    "verified": true,
+    "note": "表紙ではなく画報。アンバサダー発表は2023-03-14。"
+  },
+  {
+    "id": "magazine-2023-05-01-harpers-bazaar-korea-2023-05-hyein",
+    "date": "2023-05-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "Harper's BAZAAR Korea 2023年5月号 表紙 — ヘイン（Louis Vuitton）",
+      "en": "Harper's Bazaar Korea May 2023 cover - Hyein (Louis Vuitton)",
+      "original": "<바자> 5월 커버를 장식한 루이 비통의 그녀들 태연, 나연, 혜인"
+    },
+    "summary": {
+      "ja": "ルイ・ヴィトン アンバサダーのヘインが韓国版バザー史上最年少の表紙モデルに。テヨン、ナヨンとの3種カバーの1つ。4月17日公開。",
+      "en": "Hyein, a Louis Vuitton ambassador, became the youngest cover model in Harper's Bazaar Korea history; one of three covers (with Taeyeon and Nayeon), revealed Apr 17, 2023."
+    },
+    "source_url": "https://harpersbazaar.co.kr/article/76724",
+    "reference_urls": [
+      "https://www.wikitree.co.kr/articles/845913"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "louis-vuitton"
+    ],
+    "verified": true,
+    "note": "カバー公開2023-04-17。韓屋でのルイ・ヴィトン撮影。"
+  },
+  {
+    "id": "magazine-2023-06-01-dazed-korea-2023-06-danielle",
+    "date": "2023-06-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "DAZED Korea 2023年6月号 表紙 — ダニエル（Burberry）",
+      "en": "Dazed Korea June 2023 cover - Danielle (Burberry)",
+      "original": "<데이즈드> 코리아 6월호 커버"
+    },
+    "summary": {
+      "ja": "ダニエルがバーバリーとともにDAZED Korea 6月号の表紙に。5月16日にカバー公開。",
+      "en": "Danielle covered Dazed Korea's June 2023 issue with Burberry; cover revealed May 16, 2023."
+    },
+    "source_url": "https://dazedkorea.com/2023/05/16/%ec%bd%94%eb%a6%ac%ec%95%84-6%ec%9b%94%ed%98%b8-%ec%bb%a4%eb%b2%84-5/",
+    "reference_urls": [
+      "https://dazedkorea.com/2023/05/22/19%ec%84%b8%ea%b8%b0%eb%a5%bc-%eb%aa%a9%ea%b2%a9%ed%95%9c-%eb%b2%84%eb%b2%84%eb%a6%ac-21%ec%84%b8%ea%b8%b0%eb%a5%bc-%eb%a7%8c%eb%93%9c%eb%8a%94-%eb%89%b4%ec%a7%84%ec%8a%a4-%eb%8b%a4%eb%8b%88%ec%97%98/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "burberry"
+    ],
+    "verified": true
+  },
+  {
+    "id": "magazine-2023-06-01-highsnobiety-special-issue",
+    "date": "2023-06-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Highsnobiety 2023年6/7月号（US版）限定スペシャルイシュー表紙 — 国際誌初カバー",
+      "en": "Highsnobiety June/July 2023 (US) limited-edition special issue cover - first international print cover"
+    },
+    "summary": {
+      "ja": "K-POPグループ初のHighsnobiety表紙。5月26日(現地)に公開。撮影パク・サンジュン、インタビューYJ Lee。",
+      "en": "NewJeans' first international print cover, a limited-edition Highsnobiety issue revealed May 26, 2023; photos by Park Sangjun, words by YJ Lee."
+    },
+    "source_url": "https://www.highsnobiety.com/p/newjeans-interview/",
+    "reference_urls": [
+      "https://www.thefirsttimes.jp/?p=284082",
+      "https://theimpression.com/?p=11037373"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "international"
+    ],
+    "verified": false,
+    "note": "Highsnobiety記事ページに日付表記なし。公開日はTHE FIRST TIMES(2023-05-28)による。発売日未確認。"
+  },
+  {
+    "id": "magazine-2023-06-09-popeye-2023-07-special-edition",
+    "date": "2023-06-09",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "POPEYE 2023年7月号 Special Edition 表紙（SEOUL CITY GUIDE）— K-POP初",
+      "en": "POPEYE July 2023 Special Edition cover (Seoul City Guide) - first K-pop act on the cover"
+    },
+    "summary": {
+      "ja": "マガジンハウス『POPEYE』7月号Special Edition（6月9日発売）の表紙にNewJeans。K-POPアーティスト初。",
+      "en": "NewJeans fronted POPEYE's July 2023 Special Edition (on sale June 9, 2023), the first K-pop act on its cover."
+    },
+    "source_url": "https://www.thefirsttimes.jp/?p=286635",
+    "reference_urls": [
+      "https://mdpr.jp/k-enta/3778319"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "japan"
+    ],
+    "verified": false,
+    "note": "マガジンハウス公式ページ未取得。発売日はTHE FIRST TIMES/モデルプレスで確認。"
+  },
+  {
+    "id": "magazine-2023-06-15-w-korea-vol7-hanni",
+    "date": "2023-06-15",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "W Korea Vol.7（2023年6月）表紙 — ハニ",
+      "en": "W Korea Vol.7 (June 2023) cover - Hanni",
+      "original": "더블유 코리아 Vol. 7 커버 장식한 하니(HANNI)"
+    },
+    "summary": {
+      "ja": "夏特集のW Korea Vol.7でハニが表紙を担当。撮影コ・ウォンテ。同号にIUカバー版も。",
+      "en": "Hanni covered W Korea Vol.7 (summer 2023 issue), shot by Ko Won-tae; IU fronted an alternate cover."
+    },
+    "source_url": "https://www.wkorea.com/?p=240334",
+    "reference_urls": [
+      "https://www.wkorea.com/2023/06/15/%EB%8D%94%EB%B8%94%EC%9C%A0-%EC%BD%94%EB%A6%AC%EC%95%84-vol-7-%EC%BB%A4%EB%B2%84-%EC%9E%A5%EC%8B%9D%ED%95%9C-%ED%95%98%EB%8B%88hanni/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [],
+    "verified": true,
+    "note": "W Korea公式記事日付2023-06-15。"
+  },
+  {
+    "id": "magazine-2023-06-30-v-magazine-v143-cover",
+    "date": "2023-06-30",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "V Magazine V143 'The Global Music Issue'（Fall Preview 2023）表紙",
+      "en": "V Magazine V143 'The Global Music Issue' (Fall Preview 2023) cover"
+    },
+    "summary": {
+      "ja": "V MagazineのグローバルミュージックイシューV143でNewJeansが表紙に。撮影チョ・ギソク。6月26日予約開始、6月30日発売。",
+      "en": "NewJeans covered V Magazine's V143 Global Music Issue, shot by Cho Giseok; pre-orders June 26, newsstand June 30, 2023."
+    },
+    "source_url": "https://shop.vmagazine.com/products/v143",
+    "reference_urls": [
+      "https://www.designscene.net/?p=571727"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "international"
+    ],
+    "verified": true,
+    "note": "V公式ショップに「Newsstand date: June 30」と記載（年は2023）。"
+  },
+  {
+    "id": "magazine-2023-08-01-vogue-korea-2023-08-minji",
+    "date": "2023-08-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "VOGUE Korea 2023年8月号 — ミンジ（CHANEL 2023/24 FWプレコレクション）",
+      "en": "Vogue Korea August 2023 - Minji (Chanel 2023/24 FW pre-collection)",
+      "original": "[화보] 시대를 넘나드는 민지의 매력"
+    },
+    "summary": {
+      "ja": "シャネル アンバサダーのミンジがVOGUE Korea 8月号で画報とインタビューを公開（7月10日）。",
+      "en": "Minji's Chanel pictorial and interview for Vogue Korea's August 2023 issue, released July 10, 2023."
+    },
+    "source_url": "https://lady.khan.co.kr/entertainment/article/202307101550001",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chanel"
+    ],
+    "verified": false,
+    "note": "表紙か中面画報かは未確定（Sportskeedaは表紙と報道、京郷は画報と表記）。VOGUE公式URL未確認。"
+  },
+  {
+    "id": "magazine-2023-08-04-elle-korea-d-edition-hanni-chaumet",
+    "date": "2023-08-04",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "ELLE Korea D Edition カバー — ハニ × CHAUMET（2023年9月号掲載）",
+      "en": "Elle Korea D Edition cover - Hanni x Chaumet (in September 2023 issue)",
+      "original": "뉴진스 하니, <엘르>D에디션 커버 공개"
+    },
+    "summary": {
+      "ja": "ハニがショーメと初プロジェクトとなるELLE D Editionカバーを8月4日公開。画報全体は9月号に掲載。",
+      "en": "Hanni's first project with Chaumet: Elle Korea's digital D Edition cover released Aug 4, 2023, with the full story in the September issue."
+    },
+    "source_url": "https://www.elle.co.kr/article/79687",
+    "reference_urls": [
+      "https://www.elle.co.kr/article/79705"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chaumet"
+    ],
+    "verified": true
+  },
+  {
+    "id": "magazine-2023-09-06-rolling-stone-zine",
+    "date": "2023-09-06",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Rolling Stone Special Edition Zine Featuring NewJeans",
+      "en": "Rolling Stone Special Edition Zine featuring NewJeans"
+    },
+    "summary": {
+      "ja": "Rolling Stoneが各メンバーにインタビューしたNewJeansのスペシャルエディション・ジンを発表。",
+      "en": "Rolling Stone announced a special-edition zine devoted to NewJeans, with interviews with each member."
+    },
+    "source_url": "https://www.rollingstone.com/product-recommendations/books/newjeans-zine-minji-hanni-danielle-haerin-hyein-1234818662/",
+    "reference_urls": [
+      "https://kbizoom.com/?p=498343"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "international"
+    ],
+    "verified": false,
+    "note": "Rolling Stone記事は取得不可（アクセス制限）。発表日9月6日はkbizoom経由。発売日未確認。"
+  },
+  {
+    "id": "magazine-2023-09-13-harpers-bazaar-korea-hanni-armani",
+    "date": "2023-09-13",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "Harper's BAZAAR Korea 9月デジタルカバー / 2023年10月号 — ハニ × Armani Beauty「천의 얼굴, 하니의 스무살」",
+      "en": "Harper's Bazaar Korea September digital cover / October 2023 issue - Hanni x Armani Beauty",
+      "original": "천의 얼굴, 하니의 스무살"
+    },
+    "summary": {
+      "ja": "アルマーニ ビューティー グローバルアンバサダーのハニが3種のデジタルカバーに。画報は10月号掲載。",
+      "en": "Hanni, Armani Beauty's global ambassador, fronted three Harper's Bazaar Korea digital covers; the spread ran in the October 2023 issue."
+    },
+    "source_url": "https://www.harpersbazaar.co.kr/article/80580",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "armani-beauty"
+    ],
+    "verified": true
+  },
+  {
+    "id": "magazine-2023-09-19-harpers-bazaar-korea-minji-just-lucky",
+    "date": "2023-09-19",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "Harper's BAZAAR Korea 2023年10月号 デジタルカバー — ミンジ × CHANEL N°5ジュエリー「JUST LUCKY」",
+      "en": "Harper's Bazaar Korea October 2023 digital cover - Minji x Chanel N°5 jewelry 'Just Lucky'",
+      "original": "JUST LUCKY, 뉴진스 민지"
+    },
+    "summary": {
+      "ja": "シャネルのN°5ジュエリーコレクションとともにミンジがデジタルカバーと画報に登場。",
+      "en": "Minji fronted a Harper's Bazaar Korea digital cover and spread with Chanel's N°5 jewelry collection."
+    },
+    "source_url": "https://www.harpersbazaar.co.kr/article/80679",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chanel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "magazine-2023-11-01-marie-claire-korea-2023-11-danielle",
+    "date": "2023-11-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "marie claire Korea 2023年11月号 表紙 — ダニエル × Burberry",
+      "en": "Marie Claire Korea November 2023 cover - Danielle x Burberry",
+      "original": "마리끌레르 11월호 커버를 장식한 뉴진스 다니엘"
+    },
+    "summary": {
+      "ja": "ダニエルがバーバリーのルックでマリ・クレール コリア11月号の表紙に。10月13日公開。",
+      "en": "Danielle covered Marie Claire Korea's November 2023 issue in Burberry; revealed Oct 13, 2023."
+    },
+    "source_url": "https://www.marieclairekorea.com/fashion/2023/10/daniel",
+    "reference_urls": [
+      "https://www.marieclairekorea.com/?p=309521"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "burberry"
+    ],
+    "verified": true
+  },
+  {
+    "id": "magazine-2023-12-07-elle-korea-d-edition-haerin-dior",
+    "date": "2023-12-07",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ELLE Korea D Edition カバー — ヘリン × Dior Fine Jewelry「해린의 눈맞춤」",
+      "en": "Elle Korea D Edition cover - Haerin x Dior Fine Jewelry",
+      "original": "해린의 눈맞춤"
+    },
+    "summary": {
+      "ja": "ヘリンがディオール ファインジュエリーとともにELLEのデジタル特別企画D Editionの表紙に。",
+      "en": "Haerin fronted Elle Korea's digital D Edition cover with Dior Fine Jewelry, released Dec 7, 2023."
+    },
+    "source_url": "https://www.elle.co.kr/article/82739",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "dior"
+    ],
+    "verified": true
+  },
+  {
+    "id": "magazine-2024-01-01-vogue-australia-2024-01-hanni-danielle",
+    "date": "2024-01-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "hanni",
+      "danielle"
+    ],
+    "title": {
+      "ja": "VOGUE Australia 2024年1月号 表紙 — ハニ & ダニエル",
+      "en": "Vogue Australia January 2024 cover - Hanni and Danielle"
+    },
+    "summary": {
+      "ja": "オーストラリア出身の2人がVOGUE Australia初登場で表紙に。撮影Hyea W. Kang。カバーとインタビューは2023年12月29日公開。",
+      "en": "Hanni and Danielle's first Vogue Australia cover, shot by Hyea W. Kang; cover and interview released online Dec 29, 2023."
+    },
+    "source_url": "https://www.designscene.net/?p=596628",
+    "reference_urls": [
+      "https://www.zinio.com/publications/vogue-australia/4296/issues/639790"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "international"
+    ],
+    "verified": false,
+    "note": "vogue.com.auの記事URL未確認。日付はDesign Scene(2023-12-29)およびテンアジア報道による。"
+  },
+  {
+    "id": "magazine-2024-01-04-harpers-bazaar-korea-minji-chanel-beauty-digital",
+    "date": "2024-01-04",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "Harper's BAZAAR Korea 2024年最初のデジタルカバー — ミンジ × CHANEL Beauty",
+      "en": "Harper's Bazaar Korea first digital cover of 2024 - Minji x Chanel Beauty",
+      "original": "사랑스러운 기운 가득, 뉴진스 민지와 샤넬 뷰티의 만남"
+    },
+    "summary": {
+      "ja": "シャネル ビューティーとのビューティー画報でミンジがバザーの2024年第1号デジタルカバーに。",
+      "en": "Minji fronted Harper's Bazaar Korea's first digital cover of 2024, a Chanel Beauty pictorial."
+    },
+    "source_url": "https://harpersbazaar.co.kr/article/83463",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chanel-beauty"
+    ],
+    "verified": true
+  },
+  {
+    "id": "magazine-2024-02-01-elle-japon-2024-02-haerin",
+    "date": "2024-02-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ELLE JAPON 2024年2月号 表紙 — ヘリン",
+      "en": "Elle Japon February 2024 cover - Haerin"
+    },
+    "summary": {
+      "ja": "ヘリンがエル・ジャポン2024年2月号の表紙に登場（初のエル・ジャポン表紙）。",
+      "en": "Haerin's first Elle Japon cover, the February 2024 issue."
+    },
+    "source_url": "https://tower.jp/article/news/2024/12/25/tgb004",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "japan",
+      "dior"
+    ],
+    "verified": false,
+    "note": "2025年2月号記事内で「2024年2月号以来」と言及されているのみ。発売日（通常は前年12月下旬）未確認。"
+  },
+  {
+    "id": "magazine-2024-02-01-w-korea-2024-vol2-hanni",
+    "date": "2024-02-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "W Korea 2024年 Vol.2 表紙 — ハニ（撮影：藤原ヒロシ）",
+      "en": "W Korea 2024 Vol.2 cover - Hanni (photographed by Hiroshi Fujiwara)"
+    },
+    "summary": {
+      "ja": "W Korea 2024年Vol.2の表紙にハニ。撮影は藤原ヒロシ。",
+      "en": "Hanni fronted W Korea's 2024 Vol.2, photographed by Hiroshi Fujiwara."
+    },
+    "source_url": "https://hypebae.com/jp/2024/1/newjeans-hanni-hiroshi-fujiwara-w-korea-2024-vol-2-release-info",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [],
+    "verified": false,
+    "note": "HYPEBAE JP(2024年1月)の検索結果のみ。ページ本文取得不可。発売日・号の月は未確認（Vol.2＝2月号想定）。"
+  },
+  {
+    "id": "magazine-2024-02-28-billboard-women-in-music-2024-cover",
+    "date": "2024-02-28",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Billboard 'Women in Music' 2024 表紙 — Group of the Year",
+      "en": "Billboard 'Women in Music' 2024 cover - Group of the Year"
+    },
+    "summary": {
+      "ja": "2024 Billboard Women in Music「Group of the Year」としてNewJeansが米Billboard誌の表紙に。韓屋で撮影、2月28日(米時間)公開。",
+      "en": "NewJeans covered Billboard's 2024 Women in Music issue as Group of the Year; hanok-set shoot and interview released Feb 28, 2024 (US)."
+    },
+    "source_url": "https://www.thefirsttimes.jp/?p=391864",
+    "reference_urls": [
+      "https://www.designscene.net/?p=613431"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "international"
+    ],
+    "verified": false,
+    "note": "billboard.comの記事URL未確認。印刷号の発行日未確認。"
+  },
+  {
+    "id": "magazine-2024-03-01-vogue-korea-2024-03-hyein",
+    "date": "2024-03-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "VOGUE Korea 2024年3月号 表紙（Vogue Leader: 2024 Women Now 24人）— ヘイン × Louis Vuitton",
+      "en": "Vogue Korea March 2024 cover (Vogue Leader: 2024 Women Now, 24 covers) - Hyein x Louis Vuitton",
+      "original": "혜인, “모두 파이팅!”"
+    },
+    "summary": {
+      "ja": "24人の女性による3月号カバーシリーズにヘインが参加。ルイ・ヴィトン ファインジュエリーの画報とインタビュー。",
+      "en": "Hyein was one of the 24 cover women of Vogue Korea's March 2024 'Women Now' issue, with a Louis Vuitton fine jewelry spread and interview."
+    },
+    "source_url": "https://www.vogue.co.kr/2024/03/01/%ed%98%9c%ec%9d%b8-%eb%aa%a8%eb%91%90-%ed%8c%8c%ec%9d%b4%ed%8c%85/",
+    "reference_urls": [
+      "https://www.vogue.co.kr/2024/02/16/%eb%b3%b4%ea%b7%b8-%eb%a6%ac%eb%8d%94-2024-%ec%9a%b0%eb%a8%bc-%eb%82%98%ec%9a%b0-24%ec%9d%b8%ec%9d%98-%ec%97%ac%ec%84%b1%ea%b3%bc-%ed%95%a8%ea%bb%98%ed%95%9c-3%ec%9b%94%ed%98%b8-%eb%b3%b4%ea%b7%b8/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "louis-vuitton"
+    ],
+    "verified": true,
+    "note": "カバー公開2024-02-16/17。インタビュー記事2024-03-01。"
+  },
+  {
+    "id": "magazine-2024-03-01-w-korea-2024-03-haerin",
+    "date": "2024-03-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "W Korea 2024年3月号 表紙 — ヘリン × Dior",
+      "en": "W Korea March 2024 cover - Haerin x Dior"
+    },
+    "summary": {
+      "ja": "ヘリンがディオールのルックでW Korea 3月号（Women's edition）の表紙に。撮影キム・シネ。2月15日公開。",
+      "en": "Haerin covered W Korea's March 2024 issue (Women's edition) in Dior, shot by Sinae Kim; revealed Feb 15, 2024."
+    },
+    "source_url": "https://www.designscene.net/?p=606603",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "dior"
+    ],
+    "verified": false,
+    "note": "W Korea公式記事URL未確認（タグページがアクセス制限）。"
+  },
+  {
+    "id": "magazine-2024-03-04-marie-claire-korea-2024-03-hanni-chaumet",
+    "date": "2024-03-04",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "marie claire Korea 2024年3月号 デジタルカバー — ハニ × CHAUMET（Joséphine）",
+      "en": "Marie Claire Korea March 2024 digital cover - Hanni x Chaumet (Josephine)",
+      "original": "쇼메와 뉴진스 하니가 함께한 마리끌레르 3월호 디지털 커버"
+    },
+    "summary": {
+      "ja": "ショーメのジョゼフィーヌ コレクションとともにハニがマリ・クレール3月号デジタルカバーに。",
+      "en": "Hanni fronted Marie Claire Korea's March 2024 digital cover with Chaumet's Josephine collection."
+    },
+    "source_url": "https://www.marieclairekorea.com/?p=339269",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chaumet"
+    ],
+    "verified": true
+  },
+  {
+    "id": "magazine-2024-05-01-elle-japon-2024-05-hyein",
+    "date": "2024-05-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "ELLE JAPON 2024年5月号 表紙 — ヘイン × Louis Vuitton",
+      "en": "Elle Japon May 2024 cover - Hyein x Louis Vuitton"
+    },
+    "summary": {
+      "ja": "ルイ・ヴィトン アンバサダーのヘインがエル・ジャポン5月号表紙に。3月15日にカバー公開。",
+      "en": "Hyein, a Louis Vuitton ambassador, covered Elle Japon's May 2024 issue; revealed Mar 15, 2024."
+    },
+    "source_url": "https://m.etnews.com/20240315000060",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "japan",
+      "louis-vuitton"
+    ],
+    "verified": false,
+    "note": "ELLE JAPON公式URL未確認。発売日未確認（通常3月末）。"
+  },
+  {
+    "id": "magazine-2024-05-01-elle-korea-2024-05-d-edition-minji",
+    "date": "2024-05-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "ELLE Korea 2024年5月号 D Edition カバー — ミンジ × CHANEL（レッドカメリア）",
+      "en": "Elle Korea May 2024 D Edition cover - Minji x Chanel (red camellia)",
+      "original": "뉴진스 민지, 레드 까멜리아와 함께한 순간"
+    },
+    "summary": {
+      "ja": "フランス・ゴジャックのカメリア農園で撮影したミンジのD Editionカバー＆N°1 DE CHANEL企画。3月27日記事。",
+      "en": "Minji's Elle Korea D Edition cover and N°1 de Chanel feature shot at a camellia farm in Gaujacq, France; article Mar 27, 2024."
+    },
+    "source_url": "https://www.elle.co.kr/article/1864093",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chanel-beauty"
+    ],
+    "verified": true
+  },
+  {
+    "id": "magazine-2024-05-03-harpers-bazaar-korea-2024-05-haerin-dior",
+    "date": "2024-05-03",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "Harper's BAZAAR Korea 2024年5月号 デジタルカバー — ヘリン × Dior Joaillerie",
+      "en": "Harper's Bazaar Korea May 2024 digital cover - Haerin x Dior Joaillerie",
+      "original": "소녀의 초상, 해린과 디올 주얼리의 신비로운 오라"
+    },
+    "summary": {
+      "ja": "ディオール ジュエリー グローバルアンバサダーのヘリンが『Rose des Vents』新作とともにデジタルカバーに。",
+      "en": "Haerin, Dior Joaillerie's global ambassador, fronted a Harper's Bazaar Korea digital cover with the Rose des Vents collection."
+    },
+    "source_url": "https://www.harpersbazaar.co.kr/article/1864464",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "dior"
+    ],
+    "verified": true
+  },
+  {
+    "id": "magazine-2024-05-07-cosmopolitan-korea-hanni-gucci-beauty",
+    "date": "2024-05-07",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "Cosmopolitan Korea デジタルカバー — ハニ × Gucci Beauty",
+      "en": "Cosmopolitan Korea digital cover - Hanni x Gucci Beauty"
+    },
+    "summary": {
+      "ja": "グッチ ビューティー アンバサダーのハニが5つのメイクルックでコスモポリタンのデジタルカバー3種に。5月7日18時公開。",
+      "en": "Hanni fronted three Cosmopolitan Korea digital covers for Gucci Beauty with five makeup looks, posted May 7, 2024."
+    },
+    "source_url": "https://sports.khan.co.kr/article/202405071108003",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "gucci-beauty"
+    ],
+    "verified": false,
+    "note": "Cosmopolitan公式URL未確認。"
+  },
+  {
+    "id": "magazine-2024-05-29-the-face-summer-2024-cover",
+    "date": "2024-05-29",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "The Face 2024年夏号（6月号）表紙",
+      "en": "The Face Summer 2024 issue cover"
+    },
+    "summary": {
+      "ja": "英『The Face』夏号の表紙にNewJeans。独占インタビュー掲載。5月29日発行。",
+      "en": "NewJeans covered The Face's Summer 2024 issue with an exclusive interview, published May 29, 2024."
+    },
+    "source_url": "https://v.daum.net/v/20240529211342083",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "international"
+    ],
+    "verified": false,
+    "note": "theface.comの記事URL未確認。発行日は聯合ニュース(2024-05-29)による。"
+  },
+  {
+    "id": "magazine-2024-05-31-w-korea-seoul-jazz-festival-2024-minji",
+    "date": "2024-05-31",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "W Korea 第16回ソウルジャズフェスティバル2024 特別版 表紙 — ミンジ × CHANEL",
+      "en": "W Korea 16th Seoul Jazz Festival 2024 special edition cover - Minji x Chanel"
+    },
+    "summary": {
+      "ja": "ソウルジャズフェスティバル2024特別版の表紙にミンジ。画報は特別版と6月号に掲載。",
+      "en": "Minji covered W Korea's Seoul Jazz Festival 2024 special edition; the spread also ran in the June issue."
+    },
+    "source_url": "https://lady.khan.co.kr/entertainment/article/202405311149011",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chanel"
+    ],
+    "verified": false,
+    "note": "W Korea公式URL未確認。"
+  },
+  {
+    "id": "magazine-2024-08-01-vogue-korea-2024-08-minji",
+    "date": "2024-08-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "VOGUE Korea 2024年8月号 表紙 — ミンジ × CHANEL 2024/25 FWプレコレクション",
+      "en": "Vogue Korea August 2024 cover - Minji x Chanel 2024/25 FW pre-collection"
+    },
+    "summary": {
+      "ja": "ミンジがシャネルのルックでVOGUE Korea 8月号表紙に。デビュー2周年インタビュー、東京ドームでのソロ曲披露の話も。7月24日公開。",
+      "en": "Minji covered Vogue Korea's August 2024 issue in Chanel, with a 2nd-anniversary interview; revealed July 24, 2024."
+    },
+    "source_url": "https://m.etnews.com/20240724000107",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chanel"
+    ],
+    "verified": false,
+    "note": "VOGUE Korea公式URL未確認。"
+  },
+  {
+    "id": "magazine-2024-09-01-pop-magazine-51-danielle",
+    "date": "2024-09-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "POP Magazine Issue 51 表紙 — ダニエル × CELINE",
+      "en": "POP Magazine Issue 51 cover - Danielle x Celine"
+    },
+    "summary": {
+      "ja": "英ファッション誌『POP』51号の表紙にセリーヌ グローバルアンバサダーのダニエル。",
+      "en": "Danielle, Celine's global ambassador, covered British fashion magazine POP's Issue 51."
+    },
+    "source_url": "https://lady.khan.co.kr/entertainment/article/202409121130001",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "celine",
+      "international"
+    ],
+    "verified": false,
+    "note": "POP公式URL未確認。発売月は京郷報道(2024-09-12)から推定。"
+  },
+  {
+    "id": "magazine-2024-09-13-harpers-bazaar-korea-2024-09-minji",
+    "date": "2024-09-13",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "Harper's BAZAAR Korea 2024年9月号 デジタルカバー — ミンジ × CHANEL Fine Jewelry（#잡학사전）",
+      "en": "Harper's Bazaar Korea September 2024 digital cover - Minji x Chanel Fine Jewelry",
+      "original": "필기 좀 해본 민지가 완성한 #잡학사전"
+    },
+    "summary": {
+      "ja": "シャネル ファインジュエリーとのデジタルカバー撮影と、手書き『雑学事典』を披露する12分の映像インタビュー。",
+      "en": "Minji's Harper's Bazaar Korea digital cover with Chanel Fine Jewelry and a 12-minute video interview."
+    },
+    "source_url": "https://www.harpersbazaar.co.kr/article/1868565",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chanel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "magazine-2024-10-01-elle-korea-d-edition-calvin-klein",
+    "date": "2024-10-01",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ELLE Korea D Edition カバー — NewJeans × Calvin Klein（2024年11月号に個別インタビュー）",
+      "en": "Elle Korea D Edition cover - NewJeans x Calvin Klein (member interviews in November 2024 issue)",
+      "original": "뉴진스, 완전체 함께한 '엘르 디에디션' 커버 공개"
+    },
+    "summary": {
+      "ja": "90年代ミニマリズムを再解釈した完全体のD Editionカバー。未公開カットと各メンバーのインタビューは11月号掲載。",
+      "en": "A full-group Elle D Edition cover with Calvin Klein reinterpreting 1990s minimalism; extra photos and member interviews ran in the November 2024 issue."
+    },
+    "source_url": "https://www.elle.co.kr/article/1871186",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "calvin-klein"
+    ],
+    "verified": true
+  },
+  {
+    "id": "magazine-2024-10-01-marie-claire-korea-2024-10-minji",
+    "date": "2024-10-01",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "marie claire Korea 2024年10月号 デジタルカバー — ミンジ × CHANEL Beauty",
+      "en": "Marie Claire Korea October 2024 digital cover - Minji x Chanel Beauty",
+      "original": "동시대적 ‘잇걸’ 무드를 그대로 녹인 민지와 샤넬 뷰티 화보"
+    },
+    "summary": {
+      "ja": "同時代的な『イットガール』ムードをテーマにしたミンジとシャネル ビューティーのデジタルカバー画報。",
+      "en": "Minji's Chanel Beauty digital cover pictorial for Marie Claire Korea's October 2024 issue."
+    },
+    "source_url": "https://www.marieclairekorea.com/beauty/2024/10/chanel-newjeans-minji-cover",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chanel-beauty"
+    ],
+    "verified": true
+  },
+  {
+    "id": "magazine-2024-10-25-billboard-korea-billboard-artist-no1",
+    "date": "2024-10-25",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Billboard Korea『Billboard Artist』創刊号 表紙",
+      "en": "Billboard Korea 'Billboard Artist' inaugural issue cover"
+    },
+    "summary": {
+      "ja": "Billboard Koreaの新雑誌『Billboard Artist』創刊号（10月25日発売）の表紙にNewJeans。撮影Elina Kechicheva。",
+      "en": "NewJeans covered the first issue of Billboard Korea's 'Billboard Artist' magazine (released Oct 25, 2024), shot by Elina Kechicheva."
+    },
+    "source_url": "https://www.koreajoongangdaily.com/entertainment/newjeans-will-cover-inaugural-billboard-artist-magazine/11980743",
+    "reference_urls": [
+      "https://v.daum.net/v/20241010181654135"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [],
+    "verified": false,
+    "note": "Billboard Korea公式URL未確認。発売日は中央日報(2024-10-10)による。"
+  },
+  {
+    "id": "magazine-2024-11-01-elle-korea-2024-11-super-elle-beauty-haerin",
+    "date": "2024-11-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ELLE Korea 2024年11月号（創刊32周年）『super ELLE beauty』ブック・イン・ブック表紙 — ヘリン × Dior Beauty",
+      "en": "Elle Korea November 2024 (32nd anniversary) 'super ELLE beauty' book-in-book cover - Haerin x Dior Beauty",
+      "original": "뉴진스 해린, 디올 뷰티와 함께한 홀리데이 화보"
+    },
+    "summary": {
+      "ja": "ディオール ビューティー ハウスアンバサダーのヘリンが2024ホリデーメイクで創刊32周年号のビューティー特別企画表紙に。",
+      "en": "Haerin, Dior Beauty house ambassador, fronted the 'super ELLE beauty' book-in-book cover of Elle Korea's 32nd-anniversary November 2024 issue."
+    },
+    "source_url": "https://www.elle.co.kr/article/1871976",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "dior-beauty"
+    ],
+    "verified": true
+  },
+  {
+    "id": "magazine-2024-11-01-marie-claire-korea-2024-11-haerin",
+    "date": "2024-11-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "marie claire Korea 2024年11月号 表紙 — ヘリン × Dior Joaillerie",
+      "en": "Marie Claire Korea November 2024 cover - Haerin x Dior Joaillerie",
+      "original": "마리끌레르 11월호 커버를 장식한 해린과 디올"
+    },
+    "summary": {
+      "ja": "ヘリンとディオールの出会いを描いた11月号表紙。撮影コ・ウォンテ。10月11日公開。",
+      "en": "Haerin covered Marie Claire Korea's November 2024 issue with Dior jewelry, shot by Ko Won-tae; revealed Oct 11, 2024."
+    },
+    "source_url": "https://www.marieclairekorea.com/fashion/2024/10/dior-21",
+    "reference_urls": [
+      "https://www.marieclairekorea.com/?p=399224"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "dior"
+    ],
+    "verified": true
+  },
+  {
+    "id": "magazine-2024-11-22-spur-2025-01-minji-hanni",
+    "date": "2024-11-22",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "minji",
+      "hanni"
+    ],
+    "title": {
+      "ja": "SPUR 2025年1月号 表紙 — ミンジ & ハニ（2人だけでは初）",
+      "en": "SPUR January 2025 cover - Minji and Hanni (first cover with just the two)"
+    },
+    "summary": {
+      "ja": "集英社『SPUR』2025年1月号（11月22日発売）の表紙にミンジ（シャネル）とハニ（グッチ）。撮影Peter Ash Lee。",
+      "en": "Minji (Chanel) and Hanni (Gucci) covered SPUR's January 2025 issue (on sale Nov 22, 2024), shot by Peter Ash Lee."
+    },
+    "source_url": "https://mdpr.jp/news/detail/4426767",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "japan"
+    ],
+    "verified": false,
+    "note": "SPUR公式URL未確認。発売日はモデルプレス(2024-11-15)による。"
+  },
+  {
+    "id": "magazine-2024-12-01-vogue-korea-2024-12-danielle",
+    "date": "2024-12-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "VOGUE Korea 2024年12月号 表紙 — ダニエル",
+      "en": "Vogue Korea December 2024 cover - Danielle"
+    },
+    "summary": {
+      "ja": "ADORとの契約紛争中の2024年12月9日、ダニエルがVOGUE Koreaの表紙に登場したと報道。",
+      "en": "Danielle reportedly appeared on a Vogue Korea cover revealed Dec 9, 2024, during the ADOR contract dispute."
+    },
+    "source_url": "https://www.sportskeeda.com/us/k-pop/they-said-gonna-get-blacklisted-fans-react-newjeans-danielle-stuns-new-vogue-korea-cover-amidst-ador-contract-dispute",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "uncertain"
+    ],
+    "verified": false,
+    "note": "Sportskeedaの検索要約のみで、本文取得不可。VOGUE Korea公式で未確認のため要検証（Omegaアンバサダー画報との混同の可能性あり）。"
+  },
+  {
+    "id": "magazine-2025-01-01-elle-korea-2025-01-minji",
+    "date": "2025-01-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "ELLE Korea 2025年1月号 表紙 — ミンジ × CHANEL Beauty（ロンドン撮影）",
+      "en": "Elle Korea January 2025 cover - Minji x Chanel Beauty (shot in London)",
+      "original": "2025년 첫 커버스타, 런던 ‘쿨 걸’로 변신한 뉴진스 민지"
+    },
+    "summary": {
+      "ja": "ミンジがシャネル ビューティーとロンドンで撮影したELLE 2025年最初のカバースター。12月13日公開。",
+      "en": "Minji, Elle Korea's first cover star of 2025, shot in London with Chanel Beauty; revealed Dec 13, 2024."
+    },
+    "source_url": "https://www.elle.co.kr/article/1874661",
+    "reference_urls": [
+      "https://sports.khan.co.kr/article/202412131018003"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chanel-beauty"
+    ],
+    "verified": true
+  },
+  {
+    "id": "magazine-2025-01-01-vogue-korea-2025-01-newjeans",
+    "date": "2025-01-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "VOGUE Korea 2025年1月号 — NewJeans 画報（韓服）",
+      "en": "Vogue Korea January 2025 - NewJeans pictorial (hanbok)"
+    },
+    "summary": {
+      "ja": "ADOR運営の公式InstagramがVOGUE Korea 2025年1月号の画報（洋装と韓服）を12月18日に投稿。契約紛争中でクレジット表記が論争に。",
+      "en": "ADOR's official NewJeans Instagram posted the Vogue Korea January 2025 shoot (Western wear and hanbok) on Dec 18, 2024, amid the contract dispute."
+    },
+    "source_url": "https://kbizoom.com/ador-posts-newjeans-photoshoot-but-excludes-min-hee-jin-fans-angered/",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "hanbok"
+    ],
+    "verified": false,
+    "note": "VOGUE Korea公式URL未確認。表紙か中面画報かは未確定。"
+  },
+  {
+    "id": "magazine-2025-02-01-elle-japon-2025-02-haerin",
+    "date": "2025-02-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ELLE JAPON 2025年2月号 表紙 — ヘリン × Dior（2度目）",
+      "en": "Elle Japon February 2025 cover - Haerin x Dior (second time)"
+    },
+    "summary": {
+      "ja": "ヘリンがディオールのニットでエル・ジャポン2025年2月号表紙に。8ページ特集で2025クルーズ全7ルック。",
+      "en": "Haerin's second Elle Japon cover, the February 2025 issue, in Dior with an 8-page feature of seven Cruise 2025 looks."
+    },
+    "source_url": "https://tower.jp/article/news/2024/12/25/tgb004",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "japan",
+      "dior"
+    ],
+    "verified": false,
+    "note": "ELLE JAPON公式URL未確認。記事日付2024-12-25、発売日未確認（通常12月下旬）。"
+  },
+  {
+    "id": "magazine-2025-03-01-elle-singapore-2025-03-danielle",
+    "date": "2025-03-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "njz",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "ELLE Singapore 2025年3月号 表紙 — ダニエル（NJZ名義）",
+      "en": "Elle Singapore March 2025 cover - Danielle (as NJZ)"
+    },
+    "summary": {
+      "ja": "NJZ改名直後、ダニエルがELLE Singapore 3月号の表紙に。ソウルで撮影。2月28日公開。",
+      "en": "Weeks after the NJZ rebrand, Danielle covered Elle Singapore's March 2025 issue, shot in Seoul; published Feb 28, 2025."
+    },
+    "source_url": "https://elle.com.sg/?p=30990",
+    "reference_urls": [
+      "https://elle.com.sg/life-culture/njzs-danielle-marsh-in-her-element/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "njz",
+      "international"
+    ],
+    "verified": true,
+    "note": "NJZ名義期間（2025-02〜03）の活動。"
+  },
+  {
+    "id": "magazine-2026-09-01-harpers-bazaar-korea-2026-09-hyein",
+    "date": "2026-09-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "Harper's BAZAAR Korea 2026年9月号 表紙 — ヘイン × Bottega Veneta「In Between」",
+      "en": "Harper's Bazaar Korea September 2026 cover - Hyein x Bottega Veneta 'In Between'",
+      "original": "돌아온 뉴진스 혜인, 열아홉 그리고 보테가 베네타"
+    },
+    "summary": {
+      "ja": "ADOR復帰後初の個人活動。19歳のヘインがボッテガ・ヴェネタ2026ウィンターで9月号表紙に。8月24日公開。",
+      "en": "Hyein's first solo activity after returning to ADOR: the September 2026 Harper's Bazaar Korea cover in Bottega Veneta Winter 2026, revealed Aug 24, 2026."
+    },
+    "source_url": "https://www.harpersbazaar.co.kr/article/1908358",
+    "reference_urls": [
+      "https://sports.khan.co.kr/en/article/202608241435007"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "bottega-veneta"
+    ],
+    "verified": true
+  },
+  {
+    "id": "magazine-2026-09-01-marie-claire-korea-2026-09-haerin",
+    "date": "2026-09-01",
+    "date_type": "publish",
+    "date_precision": "month",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "marie claire Korea 2026年9月号 表紙 — ヘリン × Dior Beauty（復帰後初の個人活動）",
+      "en": "Marie Claire Korea September 2026 cover - Haerin x Dior Beauty (first solo activity after returning to ADOR)",
+      "original": "마리끌레르와 크리스챤 디올 뷰티의 멀티 커버 프로젝트 #뉴진스 해린"
+    },
+    "summary": {
+      "ja": "ADOR復帰後初の個人活動として、ヘリンがディオール ビューティーとのマルチカバー企画『THE FIRST BLOOM』で9月号表紙に。8月14日公開。",
+      "en": "Haerin's first solo project after returning to ADOR: a Dior Beauty multi-cover for Marie Claire Korea's September 2026 issue ('The First Bloom'), revealed Aug 14, 2026."
+    },
+    "source_url": "https://www.marieclairekorea.com/beauty/2026/08/dior-with-haerin/",
+    "reference_urls": [
+      "https://www.koreatimes.co.kr/entertainment/k-pop/20260814/newjeans-haerin-graces-magazine-cover-in-1st-project-since-returning-to-ador"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "dior-beauty"
+    ],
+    "verified": true
+  }
+]

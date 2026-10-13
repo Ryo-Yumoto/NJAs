@@ -1,1 +1,572 @@
-[]
+[
+  {
+    "id": "web-2022-12-27-rolling-stone-omg-interview",
+    "date": "2022-12-27",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Rolling Stone「NewJeans Owned 2022. They're Going Even Bigger in 2023」",
+      "en": "Rolling Stone: 'NewJeans Owned 2022. They're Going Even Bigger in 2023'"
+    },
+    "summary": {
+      "ja": "『OMG』リリースを前にRolling Stoneが行った独占インタビュー。",
+      "en": "Rolling Stone's exclusive interview with NewJeans ahead of the 'OMG' release."
+    },
+    "source_url": "https://www.rollingstone.com/music/music-features/newjeans-new-album-omg-ditto-interview-1234651360/",
+    "reference_urls": [
+      "https://rollingstoneindia.com/newjeans-owned-2022-theyre-going-even-bigger-in-2023"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "interview"
+    ],
+    "verified": false,
+    "note": "rollingstone.comはアクセス制限で本文未取得。日付は検索結果（Rolling Stone India転載）による。"
+  },
+  {
+    "id": "web-2023-01-04-consequence-fan-chant-omg",
+    "date": "2023-01-04",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Consequence「Fan Chant: NewJeans on Starting 2023 Strong with OMG」",
+      "en": "Consequence: 'Fan Chant: NewJeans on Starting 2023 Strong with OMG'"
+    },
+    "summary": {
+      "ja": "Mary SirokyによるK-POPコラム『Fan Chant』でのNewJeansインタビュー。『OMG』とチームの関係性について。",
+      "en": "Mary Siroky's Fan Chant column interview with NewJeans about the OMG single album and their team dynamic."
+    },
+    "source_url": "https://consequence.net/2023/01/newjeans-interview-omg-fan-chant/",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "interview"
+    ],
+    "verified": true
+  },
+  {
+    "id": "web-2023-01-27-nme-cover-interview-omg-ditto",
+    "date": "2023-01-27",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NME Cover Interview「We want to show the industry that music shouldn't be divided by language」",
+      "en": "NME cover interview: 'We want to show the industry that music shouldn't be divided by language'"
+    },
+    "summary": {
+      "ja": "NMEのBig Readカバーインタビュー（Gladys Yeo）。『OMG』『Ditto』、作詞参加、レトロなイメージについて。",
+      "en": "NME's Big Read cover interview by Gladys Yeo on 'OMG', 'Ditto', lyric-writing and their retro image."
+    },
+    "source_url": "https://www.nme.com/big-reads/newjeans-cover-interview-2023-omg-ditto-3387710",
+    "reference_urls": [
+      "https://www.nme.com/news/music/newjeans-new-music-hopes-open-minded-3389052"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "interview",
+      "cover"
+    ],
+    "verified": true
+  },
+  {
+    "id": "web-2023-05-17-w-magazine-meet-newjeans",
+    "date": "2023-05-17",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "W Magazine「Meet NewJeans, the Fastest Rising K-Pop Act on the Planet」",
+      "en": "W Magazine: 'Meet NewJeans, the Fastest Rising K-Pop Act on the Planet'"
+    },
+    "summary": {
+      "ja": "米W MagazineのAlex HawgoodによるNewJeansプロフィール記事。",
+      "en": "Alex Hawgood's W Magazine profile of NewJeans."
+    },
+    "source_url": "https://www.wmagazine.com/culture/newjeans-kpop-minji-hanni-haerin-hyein-danielle-interview",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "feature"
+    ],
+    "verified": true
+  },
+  {
+    "id": "web-2023-05-23-time-next-generation-leaders-2023",
+    "date": "2023-05-23",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "TIME「2023 Next Generation Leaders」選出",
+      "en": "TIME '2023 Next Generation Leaders' feature"
+    },
+    "summary": {
+      "ja": "TIME誌の2023年次世代リーダーに唯一のK-POPアーティストとして選出。インタビュー記事を掲載。",
+      "en": "NewJeans was the only K-pop act named to TIME's 2023 Next Generation Leaders, with an accompanying interview."
+    },
+    "source_url": "https://time.com/collection/next-generation-leaders-2023/",
+    "reference_urls": [
+      "https://kbizoom.com/newjeans-selected-as-2023-next-generation-leaders-by-time/",
+      "https://www.thefirsttimes.jp/?p=284074"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "feature"
+    ],
+    "verified": false,
+    "note": "TIMEの個別記事URL未確認（コレクションページには表示されず）。発表日5月23日は二次報道による。"
+  },
+  {
+    "id": "web-2023-06-26-rolling-stone-future-25",
+    "date": "2023-06-26",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Rolling Stone「Future 25」選出・インタビュー",
+      "en": "Rolling Stone 'Future 25' feature and interview"
+    },
+    "summary": {
+      "ja": "Rolling Stoneが音楽業界の未来を担う25組にNewJeansを選出。『Get Up』についてのインタビューも。",
+      "en": "Rolling Stone named NewJeans to its 2023 Future 25 list, with an interview about the upcoming EP 'Get Up'."
+    },
+    "source_url": "https://www.rollingstone.com/music/music-lists/best-new-rising-artists-2023-1234745765/",
+    "reference_urls": [
+      "https://www.soompi.com/article/1596698wpp/newjeans-selected-as-rolling-stones-future-25",
+      "https://www.thefirsttimes.jp/?p=296826"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "feature"
+    ],
+    "verified": false,
+    "note": "rollingstone.comは本文未取得。公開日6月26日(現地)はSoompi(2023-06-27)/THE FIRST TIMESによる。"
+  },
+  {
+    "id": "web-2023-07-21-first-anniversary-self-interview",
+    "date": "2023-07-21",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "デビュー1周年セルフインタビュー（ADOR公開）",
+      "en": "Debut 1st-anniversary written self-interview (released by ADOR)"
+    },
+    "summary": {
+      "ja": "『Get Up』リリースに合わせ、デビュー1周年を記念した書面のセルフインタビューを公開。",
+      "en": "A written self-interview marking the group's first anniversary, released alongside the EP 'Get Up'."
+    },
+    "source_url": "https://www.koreajoongangdaily.com/entertainment/newjeans-reflects-on-debut-in-one-year-anniversary-self-interview/11354563",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "interview",
+      "ador"
+    ],
+    "verified": false,
+    "note": "公開媒体（ADOR公式/Weverse等）のURL未確認。中央日報記事(2023-07-21)による。"
+  },
+  {
+    "id": "web-2023-07-24-dazed-get-up-interview",
+    "date": "2023-07-24",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Dazed「'We were surprised and flattered': NewJeans on becoming K-pop game-changers」",
+      "en": "Dazed: \"'We were surprised and flattered': NewJeans on becoming K-pop game-changers\""
+    },
+    "summary": {
+      "ja": "『Get Up』リリースとデビュー1周年に合わせたTaylor Glasbyによるインタビュー。",
+      "en": "Taylor Glasby's Dazed interview tied to the release of 'Get Up' and the group's first anniversary."
+    },
+    "source_url": "https://www.dazeddigital.com/music/article/60430/1/newjeans-interview-new-album-get-up-minji-danielle-haerin-hanni-hyein",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "interview"
+    ],
+    "verified": true
+  },
+  {
+    "id": "web-2023-07-26-grammy-get-up-interview",
+    "date": "2023-07-26",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "GRAMMY.com「Record-Breaking Rookie Girl Group NewJeans Are 'Enjoying The Ride' On New Release」",
+      "en": "GRAMMY.com: \"Record-Breaking Rookie Girl Group NewJeans Are 'Enjoying The Ride' On New Release\""
+    },
+    "summary": {
+      "ja": "Tássia AssisによるGRAMMY.comインタビュー。2nd EP『Get Up』と急速な人気について。",
+      "en": "Tassia Assis's GRAMMY.com interview on the second EP 'Get Up' and the group's rapid rise."
+    },
+    "source_url": "https://www.grammy.com/news/newjeans-kpop-interview-ep-get-up-videos",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "interview"
+    ],
+    "verified": true
+  },
+  {
+    "id": "web-2023-11-02-nbc-news-interview",
+    "date": "2023-11-02",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NBC News「NewJeans says they're more than solely K-pop stars as they break global barriers」",
+      "en": "NBC News: 'NewJeans says they're more than solely K-pop stars as they break global barriers'"
+    },
+    "summary": {
+      "ja": "Billboard Music Awardsノミネートを受けたNBC News（Hanna Park）のインタビュー。",
+      "en": "Hanna Park's NBC News interview following the group's Billboard Music Awards nomination."
+    },
+    "source_url": "https://www.nbcnews.com/news/asian-america/new-jeans-billboard-award-rcna123225",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "interview"
+    ],
+    "verified": true
+  },
+  {
+    "id": "web-2024-01-03-realsound-2023-lookback-interview",
+    "date": "2024-01-03",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Real Sound「NewJeans、世界的ブレイク果たした2023年を振り返る」メールインタビュー",
+      "en": "Real Sound: 'NewJeans look back on 2023, the year of their global breakthrough' (email interview)"
+    },
+    "summary": {
+      "ja": "2023年12月中旬に実施されたメールインタビュー。紅白出演や海外フェス、ファンミーティングを振り返る。",
+      "en": "An email interview conducted in mid-December 2023, reflecting on Kohaku, overseas festivals and their first fan meeting."
+    },
+    "source_url": "https://realsound.jp/2024/01/post-1535082.html",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "interview",
+      "japan"
+    ],
+    "verified": true
+  },
+  {
+    "id": "web-2024-02-28-billboard-women-in-music-2024-cover-story",
+    "date": "2024-02-28",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Billboard Women in Music 2024 カバーストーリー（Group of the Year）",
+      "en": "Billboard Women in Music 2024 cover story (Group of the Year)"
+    },
+    "summary": {
+      "ja": "Billboardが韓屋を背景にした撮影とインタビューを2月28日(米時間)に公開。ミン・ヒジン体制下の成功について語る。",
+      "en": "Billboard published its hanok-set Women in Music cover shoot and interview on Feb 28, 2024 (US time)."
+    },
+    "source_url": "https://www.thefirsttimes.jp/?p=391864",
+    "reference_urls": [
+      "https://kbizoom.com/newjeans-adorns-the-cover-of-billboard-magazine-lead-a-new-era-of-female-influence/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "interview",
+      "cover"
+    ],
+    "verified": false,
+    "note": "billboard.com記事URL未確認（サイトがアクセス制限）。"
+  },
+  {
+    "id": "web-2024-07-22-second-anniversary-qa",
+    "date": "2024-07-22",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "デビュー2周年 一問一答（ADORプレスリリース）",
+      "en": "Debut 2nd-anniversary Q&A (ADOR press release)",
+      "original": "'데뷔 2주년' 뉴진스 민지 '뉴진스는 뉴진스라서 특별해' [일문일답]"
+    },
+    "summary": {
+      "ja": "デビュー2周年の7月22日、ADORがメンバーの一問一答を報道資料として配布。東京ドームが最も記憶に残る瞬間と回答。",
+      "en": "On the second anniversary (July 22, 2024) ADOR distributed a member Q&A press release; all named Tokyo Dome as their most memorable moment."
+    },
+    "source_url": "https://www.tenasia.co.kr/article/2024072202394",
+    "reference_urls": [
+      "https://www.marieclairekorea.com/celebrity/2024/07/newjeans-9/",
+      "https://www.koreatimes.co.kr/entertainment/music/20240723/interview-newjeans-members-reflect-on-2-years-in-k-pop"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "interview",
+      "ador"
+    ],
+    "verified": false,
+    "note": "ADOR公式掲載URL未確認。テンアジア(2024-07-22)、marie claire(2024-07-25)、Korea Times(2024-07-23)が同内容を掲載。"
+  },
+  {
+    "id": "web-2024-07-23-korea-times-2nd-anniversary-interview",
+    "date": "2024-07-23",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "The Korea Times「NewJeans members reflect on 2 years in K-pop」",
+      "en": "The Korea Times: 'NewJeans members reflect on 2 years in K-pop'"
+    },
+    "summary": {
+      "ja": "デビュー2周年を記念したQ&A記事。全5作のミリオンセラー、東京ドームなどを振り返る。",
+      "en": "A second-anniversary Q&A covering five million-selling releases and the Tokyo Dome fan meeting."
+    },
+    "source_url": "https://www.koreatimes.co.kr/entertainment/music/20240723/interview-newjeans-members-reflect-on-2-years-in-k-pop",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "interview"
+    ],
+    "verified": true
+  },
+  {
+    "id": "web-2024-07-25-marie-claire-korea-2nd-anniversary-qa",
+    "date": "2024-07-25",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "marie claire Korea「데뷔 2주년, 뉴진스가 밝힌 뒷이야기」",
+      "en": "Marie Claire Korea: 'Two years since debut: behind-the-scenes stories from NewJeans'",
+      "original": "데뷔 2주년, 뉴진스가 밝힌 뒷이야기"
+    },
+    "summary": {
+      "ja": "ADORを通じて行われたデビュー2周年Q&A。各メンバーの成長や東京ドームの思い出。",
+      "en": "A second-anniversary Q&A conducted through ADOR, on each member's growth and Tokyo Dome memories."
+    },
+    "source_url": "https://www.marieclairekorea.com/celebrity/2024/07/newjeans-9/",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "interview"
+    ],
+    "verified": true
+  },
+  {
+    "id": "web-2025-02-07-cnn-njz-interview",
+    "date": "2025-02-07",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "njz",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "CNN 独占インタビュー — 新グループ名「NJZ」を発表（日本語版）",
+      "en": "CNN exclusive interview - new group name 'NJZ' revealed (Japanese edition)"
+    },
+    "summary": {
+      "ja": "CNNの独占インタビューで新名称NJZと3月のComplexCon香港出演を公表。英語原文はOscar Holland記者、2月6日(米時間)。",
+      "en": "In a CNN exclusive the group revealed the NJZ name and the ComplexCon Hong Kong plan; English original by Oscar Holland on Feb 6, 2025 (US)."
+    },
+    "source_url": "https://www.cnn.co.jp/style/arts/35229182.html",
+    "reference_urls": [
+      "https://www.marieclairekorea.com/celebrity/2025/02/njz/",
+      "https://kbizoom.com/?p=817146"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "interview",
+      "njz"
+    ],
+    "verified": true,
+    "note": "cnn.co.jpの抄訳記事(2025-02-07 JST)。CNN英語版の記事URLは未確認（取得不可）。"
+  },
+  {
+    "id": "web-2025-02-18-vogue-france-njz-feature",
+    "date": "2025-02-18",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "njz",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Vogue France — NJZ（ex-NewJeans）特集",
+      "en": "Vogue France - NJZ (ex-NewJeans) feature"
+    },
+    "summary": {
+      "ja": "Vogue FranceがADORの要請にかかわらず『NJZ (ex-NewJeans)』名義で特集を掲載したと報道。",
+      "en": "Vogue France reportedly ran a feature crediting the group as 'NJZ (ex-NewJeans)' despite ADOR's objection."
+    },
+    "source_url": "https://www.sportskeeda.com/us/k-pop/this-waited-for-fans-react-vogue-france-addresses-newjeans-njz-despite-ador-s-recent-demands",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "njz",
+      "uncertain"
+    ],
+    "verified": false,
+    "note": "Sportskeedaの検索要約のみ。vogue.frの記事URLと内容（表紙/ウェブ特集か）は未確認。要検証。"
+  },
+  {
+    "id": "web-2025-03-26-bbc-korea-interview-ador-dispute",
+    "date": "2025-03-26",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "njz",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "BBC Korea インタビュー — ADORとの紛争について（仮処分決定前後の2部構成）",
+      "en": "BBC Korea interview - on the dispute with ADOR (two parts, before and after the injunction ruling)"
+    },
+    "summary": {
+      "ja": "ソウル中央地裁の仮処分決定（3月21日）の前後に行われたBBCインタビューを3月26日に公開。NMEなどが報道。",
+      "en": "BBC published a two-part interview recorded before and after the Seoul court's Mar 21, 2025 injunction, released Mar 26, 2025."
+    },
+    "source_url": "https://www.nme.com/news/music/newjeans-feud-ador-very-aware-intense-scrutiny-judgement-3849601",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "interview",
+      "njz"
+    ],
+    "verified": false,
+    "note": "BBC記事URL未確認。NME(2025-03-27)の報道による。仮処分決定後の公開のため活動名義の扱いに注意。"
+  },
+  {
+    "id": "web-2026-09-02-harpers-bazaar-korea-hyein-15-questions",
+    "date": "2026-09-02",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "Harper's BAZAAR Korea「뉴진스 혜인이 직접 쓰고 그렸습니다! 요즘의 모든 것 15」",
+      "en": "Harper's Bazaar Korea: 'Hyein wrote and drew it herself! Everything these days, 15 questions'",
+      "original": "뉴진스 혜인이 직접 쓰고 그렸습니다! 요즘의 모든 것 15"
+    },
+    "summary": {
+      "ja": "9月号カバー撮影の合間にヘインが手書きで答えた15問15答と現場ポラロイド。",
+      "en": "A handwritten 15-question Q&A and set Polaroids from Hyein's September 2026 cover shoot."
+    },
+    "source_url": "https://www.harpersbazaar.co.kr/article/1908924",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "interview"
+    ],
+    "verified": true
+  }
+]
