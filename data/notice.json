@@ -1,1 +1,1399 @@
-[]
+[
+  {
+    "id": "notice-2021-11-01-ador-established",
+    "date": "2021-11-01",
+    "date_type": "announce",
+    "date_precision": "month",
+    "category": "notice",
+    "entity": "predebut",
+    "title": {
+      "ja": "HYBE、新レーベルADORを設立（ミン・ヒジン代表）",
+      "en": "HYBE establishes new label ADOR with Min Hee-jin as CEO"
+    },
+    "summary": {
+      "ja": "HYBEが新レーベルADOR（All Doors One Room）を設立し、ミン・ヒジンが代表に就任した。",
+      "en": "HYBE set up the independent label ADOR and appointed Min Hee-jin as its CEO."
+    },
+    "source_url": "https://news.mtn.co.kr/news-detail/2022070609122754404",
+    "reference_urls": [
+      "https://www.ytn.co.kr/_ln/0117_202404221457409449",
+      "https://en.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "ador",
+      "hybe",
+      "min-hee-jin"
+    ],
+    "verified": false,
+    "note": "ADORは「All Doors One Room」の略。ミン・ヒジンがプロデュースするガールズグループの準備がこのレーベルに移った。",
+    "editor_note": "Month confirmed by multiple reports (MTN 2022-07-06, YTN 2024-04-22: '2021년 11월 설립'). Exact registration day not confirmed; HYBE newsroom returns 403."
+  },
+  {
+    "id": "notice-2022-10-29-bunnies-fandom-name-reveal",
+    "date": "2022-10-29",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "title": {
+      "ja": "デビュー100日：公式ファンダム名「Bunnies」を発表",
+      "en": "Debut 100th day: official fandom name 'Bunnies' revealed"
+    },
+    "summary": {
+      "ja": "デビュー100日を記念したクイズショー動画で、公式ファンクラブ名「Bunnies（バニーズ）」と愛称「トッキ」が初めて公開された。",
+      "en": "In a 100th-day quiz show video the group revealed the official fan club name 'Bunnies' and the nickname 'Tokki'."
+    },
+    "source_url": "https://www.youtube.com/watch?v=JpX3-8hbtOE",
+    "reference_urls": [
+      "https://enews.imbc.com/News/ViewAmp/364047",
+      "https://thetvdb.com/series/newjeans-youtube-channel/episodes/9459392"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "JpX3-8hbtOE"
+    },
+    "tags": [
+      "bunnies",
+      "fandom"
+    ],
+    "verified": false,
+    "editor_note": "Video exists on the official channel (ID from local channel crawl). Upload date 2022-10-29 per MBC report ('데뷔 100일') and TVDB; not fetched from YouTube directly, so verified=false."
+  },
+  {
+    "id": "notice-2022-11-10-omg-release-date-announced",
+    "date": "2022-11-10",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "title": {
+      "ja": "初カムバック：シングル『OMG』を2023年1月2日発売と発表",
+      "en": "First comeback: single album 'OMG' announced for January 2, 2023"
+    },
+    "summary": {
+      "ja": "ADORが初のシングルアルバム『OMG』を2023年1月2日に発売し、12月19日に収録曲を先行公開すると発表した。",
+      "en": "ADOR announced the first single album 'OMG' for January 2, 2023, with a track to be pre-released on December 19."
+    },
+    "source_url": "https://www.gqkorea.co.kr/?p=203366",
+    "reference_urls": [
+      "https://kpop.fandom.com/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "omg",
+      "comeback"
+    ],
+    "verified": false,
+    "note": "先行公開曲『Ditto』とタイトル曲『OMG』の2曲構成。ティーザー「NewJeans of Winter」は後日公開される。",
+    "editor_note": "Task brief mentioned a 'NewJeans of Winter' announcement on 2022-12-02; sources show the comeback date notice on 2022-11-10 and the first teasers on 2022-12-12 (the latter already in tweet.json). The 12-02 date could not be confirmed."
+  },
+  {
+    "id": "notice-2023-03-30-bunnies-membership-open",
+    "date": "2023-03-30",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "time": "11:00",
+    "title": {
+      "ja": "グローバル公式ファンクラブ「Bunnies」メンバーシップ受付開始",
+      "en": "Global official fan club 'Bunnies' membership opens"
+    },
+    "summary": {
+      "ja": "Weverse公式のお知らせどおり、3月30日11時（KST）にBunniesメンバーシップの加入受付と公式ペンライトの販売が始まった。",
+      "en": "As announced on Weverse, Bunnies Membership sign-ups and official light stick sales opened at 11:00 KST on March 30."
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/12893",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "bunnies",
+      "membership",
+      "weverse"
+    ],
+    "verified": true,
+    "note": "公式ペンライト（Binky Bong）は3月29日11時にデザイン公開、30日11時と18時の2回に分けて販売。",
+    "editor_note": "Fetched the Weverse notice: membership opens Thu 2023-03-30 11:00 KST; light stick reveal 03-29 11:00, sales 03-30 11:00 and 18:00. Notice posting date not shown on the page."
+  },
+  {
+    "id": "notice-2024-03-26-how-sweet-and-japan-debut-announced",
+    "date": "2024-03-26",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "title": {
+      "ja": "5月24日カムバック『How Sweet』と6月21日日本デビュー『Supernatural』を発表",
+      "en": "'How Sweet' comeback (May 24) and Japan debut 'Supernatural' (June 21) announced"
+    },
+    "summary": {
+      "ja": "ADORがPhoningを通じ、韓国で5月24日にダブルシングル（How Sweet／Bubble Gum）、日本で6月21日にダブルシングル（Supernatural／Right Now）を発売しデビューすると告知した。",
+      "en": "Via Phoning, ADOR announced a Korean double single (How Sweet / Bubble Gum) for May 24 and a Japanese debut double single (Supernatural / Right Now) for June 21."
+    },
+    "source_url": "https://news.tf.co.kr/read/ogmeta/2086113.htm",
+    "reference_urls": [
+      "https://www.marieclairekorea.com/?p=346169",
+      "https://www.vogue.co.kr/?p=467749"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "how-sweet",
+      "supernatural",
+      "japan-debut",
+      "phoning"
+    ],
+    "verified": false,
+    "note": "同じ告知で6月26・27日の東京ドームファンミーティング『Bunnies Camp 2024』も予告された（正式発表は翌27日）。",
+    "editor_note": "Phoning notice itself is not publicly fetchable; date 03-26 per TF/Marie Claire reports. Tokyo Dome announcement post of 03-27 already exists in tweet.json."
+  },
+  {
+    "id": "notice-2024-04-22-hybe-begins-audit-of-ador",
+    "date": "2024-04-22",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "title": {
+      "ja": "HYBE、ADOR経営陣への監査着手を発表",
+      "en": "HYBE announces audit of ADOR management"
+    },
+    "summary": {
+      "ja": "HYBEがADORのミン・ヒジン代表ら経営陣に対し「経営権奪取の試み」を理由に監査を開始し、辞任要求と臨時株主総会の招集を通知した。",
+      "en": "HYBE announced an audit of ADOR CEO Min Hee-jin and other executives over an alleged attempt to seize control, demanding her resignation and calling a shareholders' meeting."
+    },
+    "source_url": "https://mobile.newsis.com/view/NISX20240422_0002708599",
+    "reference_urls": [
+      "https://v.daum.net/v/20240422195141383",
+      "https://www.musicbusinessworldwide.com/hybe-confirms-audit-of-ador-ceo-over-reported-attempt-to-seize-control12/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "hybe",
+      "ador",
+      "audit",
+      "dispute"
+    ],
+    "verified": false,
+    "note": "HYBEはADORの株式80%を保有する親会社。",
+    "editor_note": "HYBE newsroom (hybecorp.com) returns 403, so a Newsis report is used. Audit letter reportedly delivered around 10:00 on the 22nd; the public announcement followed the same day."
+  },
+  {
+    "id": "notice-2024-04-22-rebuttal-ador-illit-copy-claim",
+    "date": "2024-04-22",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "title": {
+      "ja": "ADOR、公式立場「本質はILLITによるNewJeansのコピー」",
+      "en": "ADOR statement: 'the real issue is ILLIT copying NewJeans'"
+    },
+    "summary": {
+      "ja": "ADORは同日夜に公式立場を発表し、監査の本質はBELIFT LABの新人ILLITによるNewJeansのコピー問題の提起にあると反論した。",
+      "en": "The same evening ADOR issued a statement arguing the audit followed its complaint that BELIFT LAB's rookie group ILLIT had copied NewJeans."
+    },
+    "source_url": "https://v.daum.net/v/20240422195141383",
+    "reference_urls": [
+      "https://www.ytn.co.kr/_ln/0117_202404221457409449"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "ador",
+      "hybe",
+      "dispute"
+    ],
+    "verified": false,
+    "editor_note": "Yonhap 종합2보 via Daum, 2024-04-22 19:51. ADOR's 04-25 legal-notice post on X is already in tweet.json and is not duplicated here."
+  },
+  {
+    "id": "notice-2024-04-25-min-hee-jin-press-conference",
+    "date": "2024-04-25",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "time": "15:00",
+    "title": {
+      "ja": "ミン・ヒジン代表、緊急記者会見",
+      "en": "ADOR CEO Min Hee-jin holds emergency press conference"
+    },
+    "summary": {
+      "ja": "ミン・ヒジン代表が法律代理人（セジョン）とともにソウル・瑞草の韓国カンファレンスセンターで約2時間の緊急記者会見を開き、HYBEの主張に反論した。",
+      "en": "Min Hee-jin held a roughly two-hour emergency press conference in Seocho, Seoul with her lawyers, rebutting HYBE's allegations."
+    },
+    "source_url": "https://v.daum.net/v/20240425233144568",
+    "reference_urls": [
+      "https://v.daum.net/v/20240426064736520",
+      "https://v.daum.net/v/20240425183158877"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "min-hee-jin",
+      "press-conference",
+      "dispute"
+    ],
+    "verified": false,
+    "note": "HYBEは同日夕方、会見内容の多くが事実と異なるとする公式立場を出した。",
+    "editor_note": "15:00 KST start confirmed by Dailian/Nocut reports. HYBE rebuttal at 18:31 (Daum)."
+  },
+  {
+    "id": "notice-2024-05-30-court-blocks-hybe-vote-on-min-dismissal",
+    "date": "2024-05-30",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "title": {
+      "ja": "裁判所、ミン・ヒジン代表の議決権行使禁止仮処分を認容",
+      "en": "Court grants Min Hee-jin's injunction against HYBE's dismissal vote"
+    },
+    "summary": {
+      "ja": "ソウル中央地裁民事合議50部が、翌日のADOR臨時株主総会でHYBEが解任案に議決権を行使することを禁じる仮処分を認容した。",
+      "en": "The Seoul Central District Court (Civil Division 50) barred HYBE from voting to dismiss Min at the next day's ADOR shareholders' meeting."
+    },
+    "source_url": "https://biz.sbs.co.kr/amp/article/20000174049",
+    "reference_urls": [
+      "https://dealsite.co.kr/articles/123351",
+      "https://nocutnews.co.kr/news/6153323"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "court",
+      "injunction",
+      "min-hee-jin",
+      "dispute"
+    ],
+    "verified": false,
+    "note": "裁判所は「解任事由が十分に疎明されていない」としつつ、ミン代表が独立支配の方法を模索したことは「明らか」と付言した。",
+    "editor_note": "Date and bench consistent across SBS Biz, Dealsite, Nocut. Court press release not retrievable (scourt.go.kr connection reset)."
+  },
+  {
+    "id": "notice-2024-05-31-ador-egm-and-min-second-press-conference",
+    "date": "2024-05-31",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "title": {
+      "ja": "ADOR臨時株主総会、ミン・ヒジン代表は留任・2回目の記者会見",
+      "en": "ADOR EGM keeps Min as CEO; Min holds second press conference"
+    },
+    "summary": {
+      "ja": "臨時株主総会でHYBEは解任案を議決できずミン代表は留任したが、ミン側の取締役2人が解任されHYBE推薦の3人が選任され、ミン代表は会見でHYBEに和解を提案した。",
+      "en": "At the EGM HYBE could not vote Min out, but two Min-side directors were removed and three HYBE nominees appointed; Min then proposed reconciliation at a press conference."
+    },
+    "source_url": "https://v.daum.net/v/20240531163303255",
+    "reference_urls": [
+      "https://nocutnews.co.kr/news/6154122",
+      "https://sports.khan.co.kr/article/202406011110003"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "ador",
+      "hybe",
+      "shareholders",
+      "min-hee-jin",
+      "press-conference"
+    ],
+    "verified": false,
+    "editor_note": "New inside directors: Kim Ju-young (CHRO), Lee Jae-sang (CSO), Lee Kyung-jun (CFO). HYBE said it respected the court decision and would take further steps within the law."
+  },
+  {
+    "id": "notice-2024-08-27-ador-board-replaces-min-with-kim-ju-young",
+    "date": "2024-08-27",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "time": "13:00",
+    "title": {
+      "ja": "ADOR取締役会、代表をミン・ヒジンからキム・ジュヨンに交代",
+      "en": "ADOR board replaces CEO Min Hee-jin with Kim Ju-young"
+    },
+    "summary": {
+      "ja": "ADORは取締役会でキム・ジュヨン社内取締役を新代表に選任し、ミン・ヒジンは社内取締役としてNewJeansのプロデュースを続けると発表した。",
+      "en": "ADOR's board appointed inside director Kim Ju-young as new CEO and said Min Hee-jin would remain an inside director in charge of producing NewJeans."
+    },
+    "source_url": "https://www.ytn.co.kr/_ln/0103_202408271802547687",
+    "reference_urls": [
+      "https://magazine.hankyung.com/business/article/202408279846b",
+      "https://biz.sbs.co.kr/amp/article/20000174192"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "ador",
+      "ceo",
+      "min-hee-jin",
+      "dispute"
+    ],
+    "verified": false,
+    "note": "ミン・ヒジン側は「一方的な解任」で仮処分決定と株主間契約に反すると反発した。",
+    "editor_note": "Board meeting at 13:00 per Min's side statement (Nocut). ADOR: 'separating management from production serves ADOR's interests'."
+  },
+  {
+    "id": "notice-2024-09-11-members-youtube-live",
+    "date": "2024-09-11",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "title": {
+      "ja": "メンバー5人による緊急YouTubeライブ「NewJeansが言いたいこと」",
+      "en": "Members' surprise YouTube live 'What NewJeans wants to say'"
+    },
+    "summary": {
+      "ja": "メンバー5人が新設チャンネル「nwjns」で予告なしにライブ配信を行い、HYBEのパン・シヒョク議長に9月25日までにADORを元に戻しミン・ヒジンを復帰させるよう求めた。",
+      "en": "All five members went live unannounced on a new channel 'nwjns', asking HYBE chairman Bang Si-hyuk to restore ADOR and reinstate Min Hee-jin by September 25."
+    },
+    "source_url": "https://mobile.newsis.com/view/NISX20240911_0002885447",
+    "reference_urls": [
+      "https://www.fnnews.com/news/202409112105413615",
+      "https://www.tenasia.co.kr/article/2024091134674"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-live",
+      "ultimatum",
+      "dispute"
+    ],
+    "verified": false,
+    "note": "配信は約30分。ハニは他レーベルのマネージャーから「無視して」と言われた件を語った。配信後、動画とチャンネルは削除された。",
+    "editor_note": "Exact start time not confirmed in reports ('11일 오후'); namu says the video was deleted around 19:35. ADOR reportedly had no prior notice."
+  },
+  {
+    "id": "notice-2024-09-25-ador-board-reply-to-ultimatum",
+    "date": "2024-09-25",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "title": {
+      "ja": "ADOR取締役会、ミン・ヒジンの代表復帰要求を「受け入れ不可」と回答",
+      "en": "ADOR board replies to ultimatum: Min's return as CEO 'not acceptable'"
+    },
+    "summary": {
+      "ja": "ADORは取締役会でミン・ヒジンを社内取締役に再選任する臨時株主総会の招集を決議する一方、代表復帰要求は受け入れられないとし、メンバーにメールで詳細を回答した。",
+      "en": "ADOR's board resolved to call an EGM to reappoint Min as inside director but said her return as CEO was not acceptable, replying to the members by email."
+    },
+    "source_url": "https://v.daum.net/v/20240925161030451",
+    "reference_urls": [
+      "https://www.mydaily.co.kr/page/view/2024092509081919510",
+      "https://www.fnnews.com/news/202409250912349898"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "ador",
+      "hybe",
+      "ultimatum",
+      "dispute"
+    ],
+    "verified": false,
+    "editor_note": "This is the deadline day set in the 09-11 live. English Wikipedia attributes the rejection to HYBE citing 'separation of management and production'; Korean reports attribute the decision to ADOR's board."
+  },
+  {
+    "id": "notice-2024-10-15-hanni-national-assembly-testimony",
+    "date": "2024-10-15",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "ハニ、国会環境労働委員会の国政監査に参考人として出席",
+      "en": "Hanni testifies as a witness at the National Assembly labor committee audit"
+    },
+    "summary": {
+      "ja": "ハニが国会環境労働委員会の国政監査に参考人として出席し、職場内いじめの経験を証言した。ADORのキム・ジュヨン代表も出席した。",
+      "en": "Hanni appeared as a reference witness at the National Assembly's Environment and Labor Committee audit and described workplace harassment; ADOR CEO Kim Ju-young also attended."
+    },
+    "source_url": "https://mobile.newsis.com/view/NISX20241015_0002920990",
+    "reference_urls": [
+      "https://www.khan.co.kr/article/202410151656001/amp",
+      "https://m.seoul.co.kr/news/2024/10/15/20241015500141"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "hanni",
+      "national-assembly",
+      "workplace-harassment"
+    ],
+    "verified": false,
+    "editor_note": "Afternoon session; exact start time not given in reports (arrival ~13:58, testimony reported 15:48)."
+  },
+  {
+    "id": "notice-2024-11-13-members-send-certified-letter",
+    "date": "2024-11-13",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "title": {
+      "ja": "メンバー、ADORに内容証明を送付（14日以内の是正要求）",
+      "en": "Members send certified letter to ADOR demanding remedies within 14 days"
+    },
+    "summary": {
+      "ja": "メンバー5人がADORに内容証明を送り、「無視して」発言への謝罪や人事措置、ミン・ヒジンの復帰などを求め、14日以内に是正されなければ専属契約を解除すると通告した。",
+      "en": "The five members sent ADOR a certified letter demanding an apology over the 'ignore her' remark, personnel action and Min Hee-jin's return, warning they would terminate their contracts if not remedied within 14 days."
+    },
+    "source_url": "https://isplus.com/article/view/isp202411130149",
+    "reference_urls": [
+      "https://www.twig24.com/news/world/2024/11/14/20241114500135",
+      "https://nocutnews.co.kr/news/6244300"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certified-letter",
+      "ultimatum",
+      "dispute"
+    ],
+    "verified": false,
+    "note": "ADORは翌14日、内容証明を受領し検討中で「NewJeansと共にできるよう最善を尽くす」とコメントした。",
+    "editor_note": "Letter reported by Yonhap on 11-13; ADOR's receipt statement 11-14."
+  },
+  {
+    "id": "notice-2024-11-20-labor-ministry-closes-hanni-harassment-complaint",
+    "date": "2024-11-20",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "雇用労働部、ハニの職場内いじめ申告を「労働者に当たらない」として行政終結",
+      "en": "Labor ministry closes Hanni's workplace-harassment complaint: not a 'worker' under labor law"
+    },
+    "summary": {
+      "ja": "雇用労働部ソウル西部支庁は、ハニは専属マネジメント契約に基づき活動しており勤労基準法上の労働者とは言い難いとして申告を行政終結した。",
+      "en": "The Ministry of Employment and Labor's Seoul Western office closed the complaint, finding Hanni works under an exclusive management contract and is not a 'worker' under the Labor Standards Act."
+    },
+    "source_url": "https://isplus.com/article/view/isp202411200047",
+    "reference_urls": [
+      "https://www.twig24.com/news/accident/2024/11/20/20241120500118",
+      "https://isplus.com/article/view/isp202411250045"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "hanni",
+      "workplace-harassment",
+      "labor-ministry"
+    ],
+    "verified": false,
+    "editor_note": "Government decision, not an ADOR notice; included because it closes the harassment complaint thread raised in the 09-11 live and the 10-15 testimony. No ADOR statement found."
+  },
+  {
+    "id": "notice-2024-11-20-min-hee-jin-resigns-from-ador-board",
+    "date": "2024-11-20",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "title": {
+      "ja": "ミン・ヒジン、ADOR社内取締役を辞任",
+      "en": "Min Hee-jin resigns as ADOR inside director"
+    },
+    "summary": {
+      "ja": "ミン・ヒジンがADOR社内取締役を辞任しHYBEとの株主間契約を解除すると発表、ADORは「一方的な辞任通告は残念」とし、NewJeansの支援に最善を尽くすとした。",
+      "en": "Min Hee-jin announced her resignation from ADOR's board and termination of her shareholder agreement with HYBE; ADOR called the unilateral notice regrettable and pledged to support NewJeans."
+    },
+    "source_url": "https://www.newsis.com/view/NISX20241120_0002966271",
+    "reference_urls": [
+      "https://isplus.com/article/view/isp202411200126",
+      "https://sports.khan.co.kr/article/202411201302003/amp"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "min-hee-jin",
+      "ador",
+      "dispute"
+    ],
+    "verified": false
+  },
+  {
+    "id": "notice-2024-11-27-ador-statement-on-ignore-remark",
+    "date": "2024-11-27",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "ADOR、「無視して」発言についてハニの証言を「全面的に信頼」と公式SNSで表明",
+      "en": "ADOR says on official SNS it 'fully trusts' Hanni's account of the 'ignore her' remark"
+    },
+    "summary": {
+      "ja": "ADORは公式Xで、ハニが5月27日にBELIFT LABの関係者から「無視して」と言われたと明確に記憶しているとし、内容証明に基づく措置として立場を発表した。",
+      "en": "On its official X account ADOR said Hanni clearly remembers being told 'ignore her' by a BELIFT LAB staffer on May 27, describing the post as a step taken in response to the certified letter."
+    },
+    "source_url": "https://v.daum.net/v/20241127160116906",
+    "reference_urls": [
+      "https://isplus.com/article/view/isp202411270168",
+      "https://twig24.com/news/entertainments/celebrity/2024/11/27/20241127500241"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "ador",
+      "hanni",
+      "workplace-harassment",
+      "certified-letter"
+    ],
+    "verified": false,
+    "note": "内容証明の回答期限は翌28日。",
+    "editor_note": "Posted on NewJeans official X (@NewJeans_ADOR) per reports; the status URL could not be retrieved, so an OSEN full-text report is used. BELIFT LAB had denied the remark on 2024-10-07."
+  },
+  {
+    "id": "notice-2024-11-28-termination-press-conference",
+    "date": "2024-11-28",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "time": "20:30",
+    "title": {
+      "ja": "メンバー5人、専属契約解除を通告する緊急記者会見",
+      "en": "Members hold emergency press conference announcing contract termination"
+    },
+    "summary": {
+      "ja": "メンバー5人がソウル江南のスペースシェア三成駅センターで緊急記者会見を開き、ADORとの専属契約を11月29日0時付で解除すると発表した。",
+      "en": "The five members held an emergency press conference in Gangnam, Seoul, announcing their exclusive contracts with ADOR would terminate as of 00:00 on November 29."
+    },
+    "source_url": "https://www.fnnews.com/news/202411282122427907",
+    "reference_urls": [
+      "https://www.sidae.com/article/2024112820530233993",
+      "https://isplus.com/article/view/isp202411280324"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "press-conference",
+      "contract-termination",
+      "dispute"
+    ],
+    "verified": false,
+    "note": "ADORは同夜、内容証明への回答前に会見が行われたことに遺憾を表し、専属契約は依然有効だと反論した。",
+    "editor_note": "20:30 KST start confirmed by multiple reports. Members said they had no plan to seek a court injunction themselves."
+  },
+  {
+    "id": "notice-2024-11-29-members-statement-termination-effective",
+    "date": "2024-11-29",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "title": {
+      "ja": "メンバー側「解除通知が到達し契約は終了、仮処分申請は不要」",
+      "en": "Members' statement: termination notice delivered, no need for an injunction"
+    },
+    "summary": {
+      "ja": "メンバー側は公式立場文で、解除通知がADORに到達し即時に効力が生じたため仮処分を申請する理由はなく、この日から自由に活動できると主張した。",
+      "en": "In a statement the members said their termination notice had reached ADOR and taken effect, so they saw no need for an injunction and could work freely from that day."
+    },
+    "source_url": "https://www.fnnews.com/news/202411291053068984",
+    "reference_urls": [
+      "https://www.sidae.com/article/2024112908091656593",
+      "https://isplus.com/article/view/isp202411300026"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "contract-termination",
+      "dispute"
+    ],
+    "verified": false,
+    "note": "ADORは「一方的に信頼が壊れたと主張しても解除事由にはならない」との立場を重ねて示した。"
+  },
+  {
+    "id": "notice-2024-12-03-ador-files-contract-validity-suit",
+    "date": "2024-12-03",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "title": {
+      "ja": "ADOR、専属契約有効確認の訴えをソウル中央地裁に提起",
+      "en": "ADOR files suit at Seoul Central District Court to confirm contract validity"
+    },
+    "summary": {
+      "ja": "ADORがメンバー5人を相手取り、専属契約が有効に存続することの確認を求める訴えをソウル中央地裁に提起した（12月5日に公表）。",
+      "en": "ADOR filed a suit against the five members seeking confirmation that their exclusive contracts remain valid, announcing the filing on December 5."
+    },
+    "source_url": "https://sports.khan.co.kr/article/202412051421003",
+    "reference_urls": [
+      "https://www.tenasia.co.kr/article/2024120566154",
+      "https://sports.khan.co.kr/article/202412051351003?pt=nv"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "ador",
+      "lawsuit",
+      "court",
+      "dispute"
+    ],
+    "verified": false,
+    "editor_note": "Filed 12-03 per Khan ('지난 3일 ... 제기했다고 전날(5일) 밝혔다'); English Wikipedia gives 12-05 (the announcement date). Dated by filing."
+  },
+  {
+    "id": "notice-2025-01-13-ador-files-injunction-against-independent-activities",
+    "date": "2025-01-13",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "title": {
+      "ja": "ADOR、企画会社地位保全・広告契約締結禁止の仮処分を申請",
+      "en": "ADOR files for an injunction to preserve its agency status and bar independent ad deals"
+    },
+    "summary": {
+      "ja": "ADORがソウル中央地裁に、メンバー5人の独自の広告契約締結などを禁じ、ADORの企画会社としての地位を保全する仮処分を申請した。",
+      "en": "ADOR applied to the Seoul Central District Court for an injunction barring the five members from signing independent advertising deals and preserving ADOR's status as their agency."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [
+      "https://isplus.com/article/view/isp202502060054",
+      "https://mobile.newsis.com/view/NISX20250416_0003142174"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "ador",
+      "injunction",
+      "court",
+      "dispute"
+    ],
+    "verified": false,
+    "editor_note": "Day (01-13) taken from English Wikipedia; Korean reports only say '지난 1월'. Could not independently confirm the exact day."
+  },
+  {
+    "id": "notice-2025-02-07-njz-name-announced",
+    "date": "2025-02-07",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "njz",
+    "title": {
+      "ja": "新グループ名「NJZ」を発表、3月のComplexCon香港に出演へ",
+      "en": "New group name 'NJZ' announced; ComplexCon Hong Kong set for March"
+    },
+    "summary": {
+      "ja": "メンバー5人がSNSとComplexCon主催者のプレスリリースを通じて新名称「NJZ」を発表し、3月21〜23日のComplexCon香港で初ステージに立つと告知した。",
+      "en": "The five members announced the new name 'NJZ' via social media and a ComplexCon press release, with a first stage at ComplexCon Hong Kong (March 21-23)."
+    },
+    "source_url": "https://www.koreatimes.co.kr/entertainment/k-pop/20250207/k-pop-girl-group-newjeans-changes-team-name-to-njz-to-perform-at-hong-kong-concert-in-march",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-or-njz-girl-group-changes-name-ahead-of-legal-battle/12403741",
+      "https://v.daum.net/v/20250207105505062"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "njz",
+      "complexcon",
+      "dispute"
+    ],
+    "verified": false,
+    "note": "ADORは同日、法的判断の前に一方的に新名称を決めたことに遺憾を示し、メンバーや代理人といつでも面談する用意があると表明した。",
+    "editor_note": "No press conference: announced through Instagram (story/collab post with Complex) and a CNN interview. ADOR asked media on 02-10 to keep using 'NewJeans'."
+  },
+  {
+    "id": "notice-2025-03-07-injunction-hearing-members-attend",
+    "date": "2025-03-07",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "njz",
+    "title": {
+      "ja": "仮処分の審問期日、メンバーが法廷に出席",
+      "en": "Injunction hearing: members attend court in person"
+    },
+    "summary": {
+      "ja": "ソウル中央地裁民事合議50部でADORの仮処分申請の審問が開かれ、メンバーが出席し、ADOR側は「無視して」事件のCCTV映像を公開した。",
+      "en": "The Seoul Central District Court (Civil Division 50) heard ADOR's injunction request with the members present; ADOR showed CCTV footage related to the 'ignore her' incident."
+    },
+    "source_url": "https://sports.khan.co.kr/article/202503071519003",
+    "reference_urls": [
+      "https://m.seoul.co.kr/news/2025/03/07/20250307800005",
+      "https://mobile.newsis.com/view/NISX20250306_0003088357"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "court",
+      "injunction",
+      "hearing",
+      "dispute"
+    ],
+    "verified": false,
+    "editor_note": "Morning session per pre-report. First court proceeding since the termination declaration."
+  },
+  {
+    "id": "notice-2025-03-21-court-grants-ador-injunction",
+    "date": "2025-03-21",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "title": {
+      "ja": "裁判所、ADORの仮処分を全部認容（独自活動禁止）",
+      "en": "Court grants ADOR's injunction in full, barring independent activities"
+    },
+    "summary": {
+      "ja": "ソウル中央地裁民事合議50部が、本案1審判決までメンバー5人はADORの事前承認なしに芸能活動を行ってはならないとする仮処分を全部認容した。",
+      "en": "The Seoul Central District Court (Civil Division 50) granted ADOR's injunction in full: until the first-instance ruling the five members may not engage in entertainment activities without ADOR's prior approval."
+    },
+    "source_url": "https://isplus.com/article/view/isp202503210149",
+    "reference_urls": [
+      "https://mobile.newsis.com/view/NISX20250416_0003142174",
+      "https://www.imaeil.com/page/view/2025032421152749602"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "court",
+      "injunction",
+      "dispute"
+    ],
+    "verified": false,
+    "note": "裁判所は「無視して」事件、ILLITコピー疑惑、ミン・ヒジン解任のいずれも契約解除を正当化するほど疎明されていないと判断した。",
+    "editor_note": "Court press release not retrievable. Decision reported in the afternoon of 03-21."
+  },
+  {
+    "id": "notice-2025-03-21-njz-statement-on-injunction",
+    "date": "2025-03-21",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "njz",
+    "title": {
+      "ja": "NJZ側、仮処分決定に「尊重するが異議申立て」声明",
+      "en": "NJZ statement on the injunction: respects decision but will file an objection"
+    },
+    "summary": {
+      "ja": "NJZ側は@njz_prを通じ、決定を尊重しつつ信頼関係の破綻が十分考慮されていないとして異議を申し立てると表明し、3月23日の香港公演には予定どおり出演するとした。",
+      "en": "Via @njz_pr the members said they respected the decision but would object, arguing the breakdown of trust was not fully considered, and confirmed they would still perform in Hong Kong on March 23."
+    },
+    "source_url": "https://twig24.com/news/entertainments/celebrity/2025/03/21/20250321500177",
+    "reference_urls": [
+      "https://www.newsis.com/view/NISX20250321_0003108288"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "njz",
+      "injunction",
+      "dispute"
+    ],
+    "verified": false,
+    "editor_note": "Statement issued the same afternoon (report 15:50). Instagram post URL not retrieved."
+  },
+  {
+    "id": "notice-2025-03-23-njz-announces-pause-of-activities",
+    "date": "2025-03-23",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "njz",
+    "title": {
+      "ja": "NJZ、ComplexCon香港のステージで活動の一時中断を発表",
+      "en": "NJZ announces a pause of all activities from the ComplexCon Hong Kong stage"
+    },
+    "summary": {
+      "ja": "ComplexCon香港での公演の最後に、NJZは裁判所の決定を受けて当面すべての活動を中断すると発表した。",
+      "en": "At the end of their ComplexCon Hong Kong set, NJZ announced they would pause all activities for the time being in light of the court's decision."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NJZ",
+    "reference_urls": [
+      "https://www.aol.com/k-pop-group-newjeans-announces-100405636.html",
+      "https://www.koreaboo.com/news/njz-newjeans-hiatus-announcement-met-unanticipated-reactions/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "njz",
+      "complexcon",
+      "hiatus",
+      "dispute"
+    ],
+    "verified": false,
+    "note": "公演自体はliveカテゴリを参照。ADORは翌日、一方的な活動中断発表に遺憾を示しメンバーとの面談を求めた。",
+    "editor_note": "On-stage announcement (read as a letter). The ComplexCon performance belongs to the live category; this record covers only the announcement. ADOR's 03-24 response text not retrieved in full."
+  },
+  {
+    "id": "notice-2025-04-16-objection-dismissed-members-appeal",
+    "date": "2025-04-16",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "njz",
+    "title": {
+      "ja": "仮処分への異議申立てが棄却、メンバー側は即時抗告",
+      "en": "Objection to the injunction dismissed; members file an immediate appeal"
+    },
+    "summary": {
+      "ja": "ソウル中央地裁民事合議50部がメンバー5人の仮処分異議申立てを棄却し原決定を認可、法律代理人（セジョン）は同日ソウル高裁に抗告状を提出した。",
+      "en": "The Seoul Central District Court (Civil Division 50) dismissed the members' objection and affirmed the injunction; their counsel (Shin & Kim) filed an appeal to the Seoul High Court the same day."
+    },
+    "source_url": "https://www.segye.com/newsView/20250416517256",
+    "reference_urls": [
+      "https://www.osen.co.kr/article/G1112547893",
+      "https://mobile.newsis.com/view/NISX20250416_0003142174"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "court",
+      "injunction",
+      "appeal",
+      "dispute"
+    ],
+    "verified": false,
+    "editor_note": "Entity set to njz because the appeal is the members' action during the NJZ-period legal track; the group stopped using the NJZ name around this time (English Wikipedia)."
+  },
+  {
+    "id": "notice-2025-05-29-court-orders-1bn-won-per-violation",
+    "date": "2025-05-29",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "title": {
+      "ja": "裁判所、間接強制を認容：無断活動1回につき各10億ウォン",
+      "en": "Court grants indirect enforcement: 1 billion won per member per unauthorized activity"
+    },
+    "summary": {
+      "ja": "ソウル中央地裁民事合議52部がADORの間接強制申請を認容し、仮処分に反して活動した場合、メンバーは1回につき各10億ウォンをADORに支払うよう命じた。",
+      "en": "The Seoul Central District Court (Civil Division 52) granted ADOR's request for indirect enforcement, ordering each member to pay ADOR 1 billion won per violation of the injunction."
+    },
+    "source_url": "https://www.dt.co.kr/article/11668476",
+    "reference_urls": [
+      "https://www.sidae.com/article/2025053017062078742",
+      "https://nocutnews.co.kr/news/6348447"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "court",
+      "injunction",
+      "indirect-enforcement",
+      "dispute"
+    ],
+    "verified": false,
+    "note": "裁判所は仮処分の2日後にNJZ名義で香港公演と新曲発表を行った事実を認定した。ADORは1回20億ウォンを求めていた。",
+    "editor_note": "Decision dated 05-29 (reported 05-30; the task brief listed 05-30)."
+  },
+  {
+    "id": "notice-2025-06-17-high-court-dismisses-appeal",
+    "date": "2025-06-17",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "njz",
+    "title": {
+      "ja": "ソウル高裁、仮処分に対するメンバーの抗告を棄却",
+      "en": "Seoul High Court dismisses the members' appeal against the injunction"
+    },
+    "summary": {
+      "ja": "ソウル高裁民事25-2部がメンバー5人の抗告を棄却し、独自活動を禁じる仮処分を維持した。",
+      "en": "The Seoul High Court (Civil Division 25-2) dismissed the five members' appeal, upholding the injunction barring independent activities."
+    },
+    "source_url": "https://www.newsis.com/view/NISX20250617_0003216845",
+    "reference_urls": [
+      "https://www.koreatimes.co.kr/entertainment/k-pop/20250618/court-upholds-ban-on-newjeans-independent-activities-dismisses-appeal",
+      "https://www.koreaherald.com/article/10511481"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "court",
+      "injunction",
+      "appeal",
+      "dispute"
+    ],
+    "verified": false,
+    "note": "裁判所は、メンバーが挙げた事由は信頼関係の破綻を招くものとは言い難いと判断した。",
+    "editor_note": "Task brief said 06-18; the decision is dated 06-17 (reports published 06-17/18)."
+  },
+  {
+    "id": "notice-2025-06-25-injunction-becomes-final",
+    "date": "2025-06-25",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "njz",
+    "title": {
+      "ja": "再抗告なし、独自活動禁止の仮処分が確定",
+      "en": "No further appeal: injunction barring independent activities becomes final"
+    },
+    "summary": {
+      "ja": "メンバー5人が期限までに再抗告状を提出せず、独自活動を禁じる仮処分決定が確定した。",
+      "en": "The five members did not file a re-appeal by the deadline, making the injunction against independent activities final."
+    },
+    "source_url": "https://www.newsis.com/view/NISX20250625_0003226775",
+    "reference_urls": [
+      "https://www.osen.co.kr/article/G1112599616",
+      "https://www.musicbusinessworldwide.com/newjeans-loses-final-appeal-in-contract-dispute-with-hybes-ador/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "court",
+      "injunction",
+      "dispute"
+    ],
+    "verified": false
+  },
+  {
+    "id": "notice-2025-08-14-first-mediation-session",
+    "date": "2025-08-14",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "time": "14:00",
+    "members": [
+      "minji",
+      "danielle"
+    ],
+    "title": {
+      "ja": "本案訴訟の第1回調停期日、合意に至らず",
+      "en": "First court mediation session in the contract suit ends without agreement"
+    },
+    "summary": {
+      "ja": "ソウル中央地裁民事合議41部で専属契約有効確認訴訟の調停が非公開で行われ、ミンジとダニエルが出席したが合意には至らなかった。",
+      "en": "The Seoul Central District Court (Civil Division 41) held a closed mediation session in the contract-validity suit; Minji and Danielle attended, but no agreement was reached."
+    },
+    "source_url": "https://www.newsis.com/view/NISX20250814_0003291201",
+    "reference_urls": [
+      "https://www.hankyung.com/article/2025081408727",
+      "https://www.sidae.com/article/2025081417568037649"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "court",
+      "mediation",
+      "dispute"
+    ],
+    "verified": false,
+    "note": "14時から15時21分まで。第2回調停期日は9月11日に指定された。"
+  },
+  {
+    "id": "notice-2025-09-11-second-mediation-session",
+    "date": "2025-09-11",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "title": {
+      "ja": "第2回調停期日も不成立",
+      "en": "Second mediation session also ends without agreement"
+    },
+    "summary": {
+      "ja": "専属契約有効確認訴訟の第2回調停期日が開かれたが合意に至らず、判決言い渡しは10月30日に予定された。",
+      "en": "The second mediation session in the contract-validity suit ended without agreement; the ruling was scheduled for October 30."
+    },
+    "source_url": "https://www.heraldk.com/article/2025102915424533954",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "court",
+      "mediation",
+      "dispute"
+    ],
+    "verified": false,
+    "editor_note": "Details of the 09-11 session (attendance, duration) not reported; date per Herald/Wikipedia."
+  },
+  {
+    "id": "notice-2025-10-30-first-instance-ruling-contracts-valid",
+    "date": "2025-10-30",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "title": {
+      "ja": "1審判決：ADORとの専属契約は有効",
+      "en": "First-instance ruling: exclusive contracts with ADOR remain valid"
+    },
+    "summary": {
+      "ja": "ソウル中央地裁民事合議41部は、ミン・ヒジンの解任のみでは契約解除事由にならないとしてADOR勝訴の判決を言い渡し、メンバー側代理人は即時控訴の意向を示した。",
+      "en": "The Seoul Central District Court (Civil Division 41) ruled for ADOR, holding that Min Hee-jin's dismissal alone was no ground for termination; the members' counsel said they would appeal immediately."
+    },
+    "source_url": "https://www.segye.com/newsView/20251030513772",
+    "reference_urls": [
+      "https://www.dailian.co.kr/news/view/1566248",
+      "https://www.fnnews.com/news/202510301125187360"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "court",
+      "ruling",
+      "dispute"
+    ],
+    "verified": false,
+    "note": "ADORは「NewJeansを待ち続ける」との立場を示した。",
+    "editor_note": "Ruling delivered in the morning ('이날 오전'); exact time not confirmed. Contracts run to 2029-07-31 per ADOR."
+  },
+  {
+    "id": "notice-2025-11-12-ador-announces-haerin-hyein-return",
+    "date": "2025-11-12",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "members": [
+      "haerin",
+      "hyein"
+    ],
+    "title": {
+      "ja": "ADOR、ヘリンとヘインの復帰を発表",
+      "en": "ADOR announces Haerin and Hyein will return"
+    },
+    "summary": {
+      "ja": "ADORはプレスリリースで、ヘリンとヘインが家族と熟考しADORと十分に協議した末、判決を尊重し専属契約を遵守すると決めたと発表した。",
+      "en": "In a press release ADOR said Haerin and Hyein, after careful deliberation with their families and talks with ADOR, decided to respect the ruling and honor their contracts."
+    },
+    "source_url": "https://www.khan.co.kr/article/202511121941001",
+    "reference_urls": [
+      "https://sports.khan.co.kr/article/202511121738023",
+      "https://isplus.com/article/view/isp202511120230"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "ador",
+      "return",
+      "dispute"
+    ],
+    "verified": false,
+    "editor_note": "Issued in the afternoon of 11-12 (Khan 17:38). Exact time not given."
+  },
+  {
+    "id": "notice-2025-11-12-minji-hanni-danielle-return-statement",
+    "date": "2025-11-12",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "members": [
+      "minji",
+      "hanni",
+      "danielle"
+    ],
+    "title": {
+      "ja": "ミンジ・ハニ・ダニエル、代理人を通じて復帰の意思を表明",
+      "en": "Minji, Hanni and Danielle state their intention to return via counsel"
+    },
+    "summary": {
+      "ja": "ADORの発表から約2時間後、ミンジ・ハニ・ダニエルは法律代理人を通じ、慎重な相談の末ADORに復帰することを決めたと表明し、ADORは「真意を確認中」とした。",
+      "en": "About two hours after ADOR's announcement, Minji, Hanni and Danielle said through their lawyers that they had decided to return to ADOR; ADOR said it was verifying their intentions."
+    },
+    "source_url": "https://sports.khan.co.kr/article/202511122008013",
+    "reference_urls": [
+      "https://www.khan.co.kr/article/202511121941001",
+      "https://sports.khan.co.kr/article/202511131023003"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "return",
+      "dispute"
+    ],
+    "verified": false,
+    "note": "メンバーの1人が南極にいたため意思の伝達が遅れたと説明した。",
+    "editor_note": "Sorted after the ADOR announcement by slug; reports say it came about two hours later in the afternoon."
+  },
+  {
+    "id": "notice-2025-11-14-ruling-finalized-no-appeal",
+    "date": "2025-11-14",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "title": {
+      "ja": "控訴期限が経過、専属契約有効の1審判決が確定",
+      "en": "Appeal deadline passes; first-instance ruling that contracts are valid becomes final"
+    },
+    "summary": {
+      "ja": "メンバー5人全員が控訴期限の11月14日0時までに控訴状を提出せず、ADORとの専属契約が有効とする1審判決が確定した。",
+      "en": "None of the five members filed an appeal by the 00:00 November 14 deadline, making the ruling that their contracts with ADOR are valid final."
+    },
+    "source_url": "https://www.heraldk.com/article/2025111318154741702",
+    "reference_urls": [
+      "https://www.sidae.com/article/2025111410232660632"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "court",
+      "ruling",
+      "dispute"
+    ],
+    "verified": false
+  },
+  {
+    "id": "notice-2025-12-29-ador-hanni-returns-danielle-contract-terminated",
+    "date": "2025-12-29",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "members": [
+      "hanni",
+      "danielle",
+      "minji"
+    ],
+    "title": {
+      "ja": "ADOR、ハニの復帰とダニエルの専属契約解除を発表",
+      "en": "ADOR announces Hanni's return and the termination of Danielle's contract"
+    },
+    "summary": {
+      "ja": "ADORはハニが判決を尊重しADORと共にすることを決めたと発表する一方、ダニエルには契約違反を理由に専属契約解除を通告し、違約罰・損害賠償を請求するとし、ミンジとは協議を継続中とした。",
+      "en": "ADOR said Hanni had decided to respect the ruling and stay with ADOR, while it terminated Danielle's contract citing breaches and would seek penalties and damages; talks with Minji were continuing."
+    },
+    "source_url": "https://www.mt.co.kr/entertainment/2025/12/29/2025122911177222249",
+    "reference_urls": [
+      "https://www.koreatimes.co.kr/entertainment/k-pop/20251229/newjeans-full-group-return-derailed-as-ador-ends-danielles-contract",
+      "https://www.ytn.co.kr/_ln/0134_202512291828021669"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "ador",
+      "return",
+      "contract-termination",
+      "danielle",
+      "dispute"
+    ],
+    "verified": false,
+    "note": "ADORはダニエルの家族1人と元代表ミン・ヒジンにも法的責任を問うとした。",
+    "editor_note": "Suit against Danielle and two others: Korean reports say the complaint was to be filed the same day (claim later reported as about 43.1bn won; one report says 33.1bn); English Wikipedia dates the filing 12-30. Not split into a separate record."
+  },
+  {
+    "id": "notice-2026-04-27-ador-copenhagen-preproduction-statement",
+    "date": "2026-04-27",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "title": {
+      "ja": "ADOR「コペンハーゲン訪問は新たな音楽的叙事のプリプロダクション」",
+      "en": "ADOR: Copenhagen trip was pre-production for a 'new musical narrative'"
+    },
+    "summary": {
+      "ja": "コペンハーゲンでの目撃情報を受け、ADORはメンバーが各自のコンディションに合わせて活動を準備中で、今後の歩みは最も良い時期に公式に伝えると表明した。",
+      "en": "Responding to sightings in Copenhagen, ADOR said the members are preparing activities on schedules suited to each of them and that it would announce future plans at the best time."
+    },
+    "source_url": "https://www.ytn.co.kr/_ln/0117_202604271129371208",
+    "reference_urls": [
+      "https://isplus.com/article/view/isp202604270060",
+      "https://en.sedaily.com/culture/2026/04/27/ador-says-official-announcement-on-newjeans-comeback-will"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "ador",
+      "comeback-prep"
+    ],
+    "verified": false,
+    "editor_note": "ADOR's statement does not name members; reports say Hanni, Haerin and Hyein were in Copenhagen (mid-April)."
+  },
+  {
+    "id": "notice-2026-05-07-ador-minji-talks-positive",
+    "date": "2026-05-07",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "ADOR、ミンジの去就について「全般的に肯定的な方向で協議中」",
+      "en": "ADOR on Minji: talks 'continuing in a generally positive direction'"
+    },
+    "summary": {
+      "ja": "ミンジの誕生日にADORは、今後の活動について内部で協議を続けており、具体的な立場はないが全般的に肯定的な方向で協議が進んでいると述べた。",
+      "en": "On Minji's birthday ADOR said internal discussions about her future activities continue and, while it had nothing specific to share, talks were moving in a generally positive direction."
+    },
+    "source_url": "https://www.xportsnews.com/article/2145741",
+    "reference_urls": [
+      "https://www.newsis.com/view/NISX20260507_0003620031",
+      "https://segye.com/newsView/20260507508573"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "ador",
+      "minji"
+    ],
+    "verified": false,
+    "editor_note": "The HAPPY MINJI DAY post of the same day is already in tweet.json."
+  },
+  {
+    "id": "notice-2026-05-09-ador-denies-how-sweet-plagiarism-claim",
+    "date": "2026-05-09",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "title": {
+      "ja": "ADOR、『How Sweet』盗作訴訟に「盗作ではない」と反論",
+      "en": "ADOR denies plagiarism after 'How Sweet' copyright suit"
+    },
+    "summary": {
+      "ja": "米国で作曲家4人が『How Sweet』がデモ曲「One of a Kind」を盗用したとして提訴したことを受け、ADORは制作陣BANAに確認した結果盗作はないとし、訴訟に対応すると発表した。",
+      "en": "After four composers sued in the US claiming 'How Sweet' copied their demo 'One of a Kind', ADOR said production team BANA confirmed there was no plagiarism and that it would respond to the suit."
+    },
+    "source_url": "https://mobile.newsis.com/view/NISX20260509_0003622892",
+    "reference_urls": [
+      "https://isplus.com/article/view/isp202605090032",
+      "https://www.hankyung.com/article/2026050956767"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "ador",
+      "lawsuit",
+      "how-sweet"
+    ],
+    "verified": false,
+    "editor_note": "Suit reported by Billboard on 05-08 (US time). English Wikipedia says ADOR added on 07-10 that the song was sourced via BANA under Min Hee-jin and that internal records were under review; that later statement is not recorded separately."
+  },
+  {
+    "id": "notice-2026-07-22-summer-of-newjeans-anniversary-content",
+    "date": "2026-07-22",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "time": "00:00",
+    "members": [
+      "minji",
+      "hanni",
+      "haerin",
+      "hyein"
+    ],
+    "title": {
+      "ja": "デビュー4周年「2026 Summer of NewJeans」公開、ADOR「活動計画は協議終了後に発表」",
+      "en": "4th anniversary '2026 Summer of NewJeans' released; ADOR says plans will follow once talks conclude"
+    },
+    "summary": {
+      "ja": "デビュー4周年の0時にミンジ・ハニ・ヘリン・ヘインが出演する「2026 Summer of NewJeans」の映像と写真が公式チャンネルで公開され、ADORは具体的な活動計画と方式は協議が完全に終わった後に発表すると説明した。",
+      "en": "At midnight on the 4th anniversary, '2026 Summer of NewJeans' videos and photos featuring Minji, Hanni, Haerin and Hyein were posted on official channels; ADOR said specific plans would be announced once discussions are fully concluded."
+    },
+    "source_url": "https://www.youtube.com/watch?v=NNbaTJX_9go",
+    "reference_urls": [
+      "https://www.fnnews.com/news/202607220707223082",
+      "https://www.koreajoongangdaily.com/entertainment/is-newjeans-returning-ador-releases-clip-series-featuring-four-members/12785093"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "NNbaTJX_9go"
+    },
+    "tags": [
+      "anniversary",
+      "ador",
+      "summer-of-newjeans"
+    ],
+    "verified": true,
+    "note": "4人が揃って登場する約2年ぶりの新規コンテンツ。ADORは「ファンと4周年を祝うための記念コンテンツ」と説明した。",
+    "editor_note": "Official video on the NewJeans channel (ID NNbaTJX_9go; channel crawl shows 'Jul 21, 2026' in US time = 07-22 00:00 KST). Release time 00:00 KST per fnnews/Yonhap. Individual member films also posted."
+  },
+  {
+    "id": "notice-2026-09-10-ador-court-statement-activity-plans-exist",
+    "date": "2026-09-10",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "title": {
+      "ja": "ダニエル側との損害賠償訴訟の弁論でADOR「活動計画がないわけではない」",
+      "en": "At a hearing in the damages suit, ADOR says 'it is not that there are no activity plans'"
+    },
+    "summary": {
+      "ja": "ソウル中央地裁でのダニエルらに対する損害賠償訴訟の弁論で、ADOR側は訴訟のため活動再開が遅れることはあっても活動計画自体がないわけではないと述べた。",
+      "en": "At a hearing in the damages suit against Danielle and others at the Seoul Central District Court, ADOR said the litigation might delay a resumption of activities but that it did have activity plans."
+    },
+    "source_url": "https://news.mtn.co.kr/news-detail/2026091017074618488",
+    "reference_urls": [
+      "https://www.starnewskorea.com/music/2026/09/25/2026092315085032306"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "ador",
+      "court",
+      "danielle",
+      "comeback-prep"
+    ],
+    "verified": false,
+    "editor_note": "Fifth hearing per Star News ('지난 10일'). Latest ADOR remark on activity plans found up to 2026-10-13; no formal 2026 comeback notice located."
+  }
+]
