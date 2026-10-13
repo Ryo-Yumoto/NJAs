@@ -88,9 +88,17 @@
     idx = Math.max(0, Math.min(state.pages.length - 1, idx));
     state.cur = idx; state.mode = "page";
     const p = state.pages[idx];
-    if (push) history.replaceState(null, "", "#" + p.key);
+    if (push && location.hash !== "#" + p.key) history.pushState(null, "", "#" + p.key);
     store.set("njas-bookmark", p.key);
     renderPage(); closeToc(); window.scrollTo({ top: 0 });
+    prefetchAround(idx);
+  }
+  function prefetchAround(idx) {
+    for (const p of [state.pages[idx + 1], state.pages[idx + 2], state.pages[idx - 1]]) {
+      if (!p) continue;
+      if (p.kind === "era") { const src = p.era.image && state.images[p.era.image] ? "media/auto/" + state.images[p.era.image].file : null; if (src) new Image().src = src; continue; }
+      for (const it of p.items.slice(0, 6)) { const im = imageOf(it); if (im) new Image().src = im.src; }
+    }
   }
   function goKey(key) { const i = state.pages.findIndex(p => p.key === key); if (i >= 0) go(i); return i >= 0; }
   function nearestDateIdx(date) { let i = state.pages.findIndex(p => p.kind === "day" && p.key >= date); if (i < 0) i = state.pages.length - 1; return i; }
@@ -120,6 +128,10 @@
     document.body.classList.add("reading");
     const page = $("#page"); page.innerHTML = "";
     if (p.kind === "era") page.appendChild(renderEraPage(p)); else page.appendChild(renderDayPage(p));
+    if (p.kind === "day" && !store.get("njas-hint-seen")) {
+      const hint = el("div", { class: "hint mono" }, matchMedia("(pointer: coarse)").matches ? "左にスワイプで次の日へ · 右で前の日へ" : "← → キーでページをめくる · M で編集者表示");
+      page.appendChild(hint); store.set("njas-hint-seen", "1");
+    }
     // pager
     const prev = state.pages[state.cur - 1], next = state.pages[state.cur + 1];
     $("#prev-btn").disabled = !prev; $("#next-btn").disabled = !next;
@@ -217,10 +229,11 @@
   function renderToc() {
     const body = $("#toc-body"); body.innerHTML = "";
     const hz = state.mode === "page" ? horizon() : "0000-00-00";
+    const strict = state.pages[state.cur]?.kind === "era"; // on a chapter opener the day itself is still unread
     const q = $("#toc-q").value.trim().toLowerCase();
     let curEra = null, curYear = null, group = null, futureHeader = false;
     state.pages.forEach((p, i) => {
-      const known = (p.hdate || p.date) <= hz;
+      const known = strict ? (p.hdate || p.date) < hz : (p.hdate || p.date) <= hz;
       if (p.kind === "era") {
         if (!known) return; // chapters that have not begun are not listed
         curEra = p.era; curYear = null;
