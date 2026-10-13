@@ -42,11 +42,30 @@ date_precisionがmonthの場合はdateの日を01、yearの場合は01-01にす�
 - falseの場合はnoteに未確認の理由を書く（例：Wikipediaのみで確認、発売日不明で月のみ）。
 - 画面では未確認レコードに「未確認」バッジが付く。「確認済のみ」で絞り込める。
 
+## 4b. 同日内の順序（time）
+
+同じ日に複数の公開がある場合、`time`（KST、24時間制）で順序を固定する。例：MVティザー00:00、音源配信18:00、MV公開18:00。不明なら省略し、IDの辞書順で並ぶ。
+
+## 4c. 予告系コンテンツ（teaser等）
+
+ティザー、トレーラー、コンセプトフィルム、リリックビデオ等は`mv`カテゴリに入れ、`tags`に次のいずれかを付ける：teaser / trailer / concept-film / lyric-video / track-video / dance-practice / performance / stage-cam。画面上はカテゴリ名の横に種別として表示される。プロモーションスケジュールやコンセプトフォトのSNS投稿は`tweet`カテゴリに入れ、Instagram・Weverse由来の場合はnoteに媒体名を記す。
+
+## 4d. 活動期（eras）
+
+`data/eras.json`で定義する。境界日は公式発表（先行公開日、契約関連の会見日等）に基づくが、解釈を含むため編集可能とする。各期の代表画像は`image`に既存レコードのIDを指定し、そのレコードの自動取得画像を使う。
+
 ## 5. ID（id）
 
 `<category>-<YYYY-MM-DD>-<slug>`。slugは半角小文字英数字とハイフンのみ。同日に同カテゴリの複数レコードがある場合はslugで区別する。IDは一度付けたら変更しない（URLのアンカーとして使う）。
 
-## 6. 非公開素材（local_assets）
+## 6. 代表画像（image / media/auto）
+
+- 自動取得：`python3 scripts/fetch_images.py`が、YouTube動画のサムネイルと一次ソースURLのog:imageを`media/auto/<id>.jpg`に保存し、出所を`media/auto/index.json`に記録する。wiki系ドメインとX・YouTubeのページは記事の汎用画像になるため取得対象外。
+- 手動指定：`image: {"path": "<category>/<id>/cover.jpg", "source_url": "<出所>"}`を書くと自動取得より優先される。
+- 表示優先順位：image > local_assets[0] > media/auto > YouTubeサムネイル（外部参照）。
+- 取得画像は非公開サイト内でのみ使用する。
+
+## 7. 非公開素材（local_assets）
 
 - 雑誌スキャン、購入グッズの撮影画像など、公開サイトに載せられない素材は`media/<category>/<id>/`に置く。
 - ファイル名はASCIIのみ。例：`media/magazine/magazine-2023-07-01-vogue-korea/p01.jpg`

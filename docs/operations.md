@@ -31,6 +31,16 @@ git add data/ && git commit -m "data: add magazine Vogue Korea 2024-03"
 
 画像が多くなる場合はGit LFSの導入を検討する（`git lfs track "media/**"`）。
 
+## B2. 代表画像を取得・更新する
+
+```
+python3 scripts/fetch_images.py              # 未取得のレコードのみ取得
+python3 scripts/fetch_images.py --only goods # カテゴリ指定
+python3 scripts/fetch_images.py --force      # 全件取り直し
+```
+
+取得後に`media/auto/index.json`と画像をコミットする。画像が不適切（記事と無関係なロゴ等）な場合は、該当IDの画像ファイルとindex.jsonの行を削除するか、レコードに`image`を手動指定して上書きする。
+
 ## C. 確認状況を更新する
 
 一次ソースで確認が取れたら`verified: true`にし、`source_url`を一次ソースに差し替え、`note`の未確認理由を削除する。

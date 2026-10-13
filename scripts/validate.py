@@ -8,7 +8,7 @@ Rules beyond the JSON schema:
   - id prefix equals category, and id date part equals date
   - file name equals category (music.json holds only category "music")
   - date is a real calendar date; date_precision month => day 01, year => 01-01
-  - items in each file are sorted by date asc then id (--fix-order rewrites files)
+  - items in each file are sorted by date, time, id (--fix-order rewrites files)
 """
 import json, re, sys, datetime
 from pathlib import Path
@@ -88,7 +88,7 @@ def main():
                 errors.append(f"{path}: date_precision year requires 01-01")
             total += 1
             verified += 1 if it.get("verified") else 0
-        ordered = sorted(items, key=lambda x: (x.get("date", ""), x.get("id", "")))
+        ordered = sorted(items, key=lambda x: (x.get("date", ""), x.get("time", ""), x.get("id", "")))
         if ordered != items:
             if fix:
                 p.write_text(json.dumps(ordered, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

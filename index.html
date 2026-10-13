@@ -29,6 +29,18 @@
         <span class="lede-en">Every official activity, on one timeline.</span>
       </p>
       <div class="counters" id="counters" aria-label="カテゴリ別件数"></div>
+
+      <section class="spectrum" aria-label="月別の活動量">
+        <div class="spectrum-head">
+          <span class="mono dim">ACTIVITY BY MONTH</span>
+          <span class="mono dim" id="spectrum-note">stacked by category · click a month to jump</span>
+        </div>
+        <div class="spectrum-body">
+          <svg id="spectrum" role="img" aria-label="月別件数の積み上げ棒グラフ" preserveAspectRatio="none"></svg>
+          <div class="spectrum-tip mono" id="spectrum-tip" hidden></div>
+        </div>
+        <div class="eras-strip" id="eras-strip" aria-label="活動期"></div>
+      </section>
     </div>
   </header>
 
@@ -37,12 +49,19 @@
       <div class="search-wrap">
         <span class="search-icon" aria-hidden="true">⌕</span>
         <input id="q" type="search" class="search" placeholder="検索 / Search" autocomplete="off" spellcheck="false">
+        <button class="filters-toggle mono" id="filters-toggle" type="button" aria-expanded="false" aria-controls="filters-panel">FILTERS ▾</button>
       </div>
+      <div class="filters-panel" id="filters-panel">
       <div class="filters" id="cat-chips" role="group" aria-label="カテゴリ"></div>
       <div class="filters right">
         <div class="seg" id="entity-chips" role="group" aria-label="名義"></div>
+        <div class="seg" id="view-seg" role="group" aria-label="表示">
+          <button class="chip" type="button" data-view="timeline" aria-pressed="true">Timeline</button>
+          <button class="chip" type="button" data-view="grid" aria-pressed="false">Grid</button>
+        </div>
         <label class="check mono"><input type="checkbox" id="only-verified"><span>VERIFIED</span></label>
-        <button class="sort-btn mono" id="sort" type="button" data-dir="desc" aria-label="並び順">NEWEST ↓</button>
+        <button class="sort-btn mono" id="sort" type="button" aria-label="並び順">NEWEST ↓</button>
+      </div>
       </div>
     </div>
   </div>
@@ -50,6 +69,9 @@
   <nav class="wrap yearnav" id="yearnav" aria-label="年ジャンプ"></nav>
 
   <main class="wrap" id="timeline"></main>
+  <section class="wrap grid" id="grid" hidden></section>
+
+  <aside class="minimap" id="minimap" aria-label="年表ミニマップ"></aside>
 
   <footer class="wrap site-footer">
     <div class="foot-grid">
@@ -65,6 +87,18 @@
     <p class="wm-foot" aria-hidden="true">NJAs</p>
   </footer>
 
+  <div class="lightbox" id="lightbox" hidden>
+    <button class="lb-close mono" type="button" aria-label="閉じる">CLOSE ✕</button>
+    <figure class="lb-fig">
+      <img id="lb-img" alt="">
+      <figcaption class="lb-cap">
+        <span class="mono dim" id="lb-meta"></span>
+        <span class="lb-title" id="lb-title"></span>
+        <span class="lb-links mono" id="lb-links"></span>
+      </figcaption>
+    </figure>
+  </div>
+
   <template id="tpl-item">
     <article class="entry">
       <div class="entry-rail">
@@ -72,26 +106,29 @@
         <span class="mono dtype"></span>
       </div>
       <div class="entry-main">
-        <div class="meta">
-          <span class="cat-tag"><i class="sw"></i><span class="cat-label"></span></span>
-          <span class="pill entity" hidden>NJZ</span>
-          <span class="pill members" hidden></span>
-          <span class="pill prec" hidden></span>
-          <span class="pill unverified" hidden>UNVERIFIED</span>
+        <div class="entry-text">
+          <div class="meta">
+            <span class="cat-tag"><i class="sw"></i><span class="cat-label"></span></span>
+            <span class="pill entity" hidden>NJZ</span>
+            <span class="pill members" hidden></span>
+            <span class="pill prec" hidden></span>
+            <span class="pill unverified" hidden>UNVERIFIED</span>
+          </div>
+          <h3 class="t-ja"></h3>
+          <p class="t-en"></p>
+          <p class="t-orig mono" hidden></p>
+          <div class="desc" hidden>
+            <p class="s-ja"></p>
+            <p class="s-en"></p>
+          </div>
+          <p class="note mono" hidden></p>
+          <div class="links mono"></div>
+          <div class="tags mono" hidden></div>
         </div>
-        <h3 class="t-ja"></h3>
-        <p class="t-en"></p>
-        <p class="t-orig mono" hidden></p>
-        <div class="desc" hidden>
-          <p class="s-ja"></p>
-          <p class="s-en"></p>
-        </div>
-        <div class="media" hidden></div>
-        <div class="assets" hidden></div>
-        <p class="note mono" hidden></p>
-        <div class="links mono"></div>
-        <div class="tags mono" hidden></div>
+        <figure class="thumb" hidden></figure>
       </div>
+      <div class="media" hidden></div>
+      <div class="assets" hidden></div>
     </article>
   </template>
 

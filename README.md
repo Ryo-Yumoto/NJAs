@@ -2,6 +2,16 @@
 
 NewJeansの公式活動（楽曲、MV、テレビ出演、雑誌、WEBインタビュー、広告、X投稿、グッズ、ライブ）を日付順に閲覧する非公開アーカイブサイト。
 
+## コンセプト
+
+デビュー（2022年7月22日）から続いた公開の連鎖（ティザー、コンセプト、楽曲、MV、出演、掲載）を、公開された順番どおりに追体験する。時系列が最優先であり、次の設計で担保する。
+
+- 既定の並び順は古い順（デビューから現在へ）。
+- 各項目にデビュー起点の経過日数（DAY 1、DAY 151、デビュー前はD-21）を表示する。
+- 同日内の順序は任意項目`time`（KST）で制御する（例：ティザー00:00、配信18:00）。
+- 活動期（デビュー期、OMG期、Get Up期、How Sweet/Supernatural期、紛争・NJZ期、復帰後）を`data/eras.json`で定義し、年表上の見出しとマストヘッドのバンドに表示する。
+- マストヘッドに月別件数の積み上げバーと累積件数の推移を同一時間軸で表示する。
+
 ## 設計方針
 
 - データが本体、サイトは表示層。全レコードは`data/*.json`にGit管理し、`index.html`はそれを読み込んで描画するだけ。
@@ -20,8 +30,11 @@ NewJeansの公式活動（楽曲、MV、テレビ出演、雑誌、WEBインタ�
 | `data/manifest.json` | 読み込むデータファイルの一覧 |
 | `data/<category>.json` | カテゴリ別レコード配列 |
 | `media/` | 非公開素材（スキャン画像等）。`local_assets`から相対参照 |
+| `media/auto/` | `scripts/fetch_images.py`が一次ソースから自動取得した代表画像と出所一覧（index.json） |
+| `data/eras.json` | 活動期の定義（期間、見出し、代表画像、配色） |
 | `scripts/validate.py` | データ検証（スキーマ、ID一意性、日付整合、並び順） |
 | `scripts/new_item.py` | 新規レコードの雛形生成 |
+| `scripts/fetch_images.py` | 各レコードの代表画像を取得（YouTubeサムネイル、ページのog:image） |
 | `docs/operations.md` | 日常運用手順（追加・確認・公開） |
 | `docs/hosting.md` | 認証付きホスティング手順（Cloudflare Pages + Access） |
 | `docs/data-policy.md` | 日付・名義・確認済の判定ルール |
@@ -51,6 +64,8 @@ python3 scripts/validate.py --fix-order  # 並び順を自動修正して再検�
 |---|---|---|
 | id | 必須 | `<category>-<YYYY-MM-DD>-<slug>` |
 | date | 必須 | ソート用日付 |
+| time | 任意 | 同日内の順序（HH:MM、KST） |
+| image | 任意 | 手動指定の代表画像（`media/`配下のpathと出所URL） |
 | date_type | 必須 | release / announce / broadcast / publish / post / sale_start / event |
 | date_precision | 必須 | day / month / year |
 | category | 必須 | music / mv / tv / magazine / web / ad / tweet / goods / live |

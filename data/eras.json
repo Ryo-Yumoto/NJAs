@@ -1,0 +1,98 @@
+[
+  {
+    "id": "era-new-jeans",
+    "start": "2022-07-22",
+    "end": "2022-12-18",
+    "title": {
+      "ja": "デビュー期",
+      "en": "New Jeans"
+    },
+    "caption": {
+      "ja": "1st EP『New Jeans』。Attention、Hype Boy、Cookie、Hurt。",
+      "en": "1st EP 'New Jeans'. Attention, Hype Boy, Cookie, Hurt."
+    },
+    "image": "mv-2022-07-23-hype-boy-intro",
+    "accent": "#2a78d6",
+    "short": "New Jeans"
+  },
+  {
+    "id": "era-omg",
+    "start": "2022-12-19",
+    "end": "2023-07-06",
+    "title": {
+      "ja": "OMG期",
+      "en": "OMG"
+    },
+    "caption": {
+      "ja": "Ditto先行公開からシングル『OMG』、Zero、Bunnies Camp 2023まで。",
+      "en": "From the Ditto pre-release through 'OMG', Zero and Bunnies Camp 2023."
+    },
+    "image": "mv-2022-12-19-ditto-official-mv-side-a",
+    "accent": "#6250d6",
+    "short": "OMG"
+  },
+  {
+    "id": "era-get-up",
+    "start": "2023-07-07",
+    "end": "2024-04-26",
+    "title": {
+      "ja": "Get Up期",
+      "en": "Get Up"
+    },
+    "caption": {
+      "ja": "2nd EP『Get Up』。Super Shy、ETA、Cool With You。Lollapalooza、GODS、NJWMX。",
+      "en": "2nd EP 'Get Up'. Super Shy, ETA, Cool With You. Lollapalooza, GODS, NJWMX."
+    },
+    "image": "mv-2023-07-07-super-shy-official-mv",
+    "accent": "#1baf7a",
+    "short": "Get Up"
+  },
+  {
+    "id": "era-how-sweet",
+    "start": "2024-04-27",
+    "end": "2024-11-28",
+    "title": {
+      "ja": "How Sweet / Supernatural期",
+      "en": "How Sweet / Supernatural"
+    },
+    "caption": {
+      "ja": "Bubble Gum、How Sweet、日本デビュー『Supernatural』、東京ドーム。",
+      "en": "Bubble Gum, How Sweet, Japan debut 'Supernatural', Tokyo Dome."
+    },
+    "image": "mv-2024-06-21-supernatural-official-mv-part-1",
+    "accent": "#eb6834",
+    "short": "How Sweet"
+  },
+  {
+    "id": "era-dispute",
+    "start": "2024-11-29",
+    "end": "2025-11-11",
+    "title": {
+      "ja": "契約紛争・NJZ期",
+      "en": "Dispute / NJZ"
+    },
+    "caption": {
+      "ja": "専属契約解除の通告（2024年11月28日会見）からNJZ名義の活動、2025年3月の仮処分、同年10月の一審判決まで。",
+      "en": "From the Nov 28, 2024 press conference through NJZ activities, the March 2025 injunction and the October 2025 first-instance ruling."
+    },
+    "image": null,
+    "accent": "#a0522d",
+    "short": "NJZ"
+  },
+  {
+    "id": "era-return",
+    "start": "2025-11-12",
+    "end": null,
+    "title": {
+      "ja": "復帰後",
+      "en": "Return"
+    },
+    "caption": {
+      "ja": "ADORへの復帰発表以降。期間の境界日はdata/eras.jsonで編集可能。",
+      "en": "After the announced return to ADOR. Boundary dates are editable in data/eras.json."
+    },
+    "image": null,
+    "accent": "#008300",
+    "short": "Return"
+  }
+]
