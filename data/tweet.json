@@ -67,6 +67,215 @@
     "editor_note": "Embedded in Bandwagon's debut article; oEmbed lookup failed (post may have been deleted), so content is inferred from the article. Date derived from the snowflake ID (2022-07-22 00:00 KST)."
   },
   {
+    "id": "tweet-2022-07-22-debut-teaser-photos",
+    "date": "2022-07-22",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "デビュー ティザーフォト（グループ＋個人）",
+      "en": "Debut teaser photos (group + individual)"
+    },
+    "summary": {
+      "ja": "『Attention』MV公開に続き、グループおよび個人のティザー写真を一挙公開。",
+      "en": "Following the surprise 'Attention' MV, a big batch of group and individual teaser photos was posted."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR",
+    "reference_urls": [
+      "https://www.soompi.com/article/1537211wpp/hybe-adors-new-girl-group-newjeans-unveils-solo-group-teasers-ahead-of-1st-ep"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "teaser",
+      "concept-photo",
+      "debut"
+    ],
+    "verified": false,
+    "note": "メンバー名はまだ非公開。名前は翌7/23の『Hype Boy』MVで明かされると予告。",
+    "editor_note": "Soompi 2022-07-21 UTC article shows photos; exact X status URLs not recovered. Posted on official X/Instagram."
+  },
+  {
+    "id": "tweet-2022-07-23-member-profile-danielle",
+    "date": "2022-07-23",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "メンバー紹介ポスト：ダニエル",
+      "en": "Member introduction post: DANIELLE"
+    },
+    "summary": {
+      "ja": "『Hype Boy』MV公開と同時にダニエルのプロフィールを初公開。",
+      "en": "First official introduction of DANIELLE, posted alongside the 'Hype Boy' MVs."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1550496891535761413",
+    "reference_urls": [
+      "https://www.soompi.com/article/1537380wpp/watch-hybe-adors-new-girl-group-newjeans-drops-interactive-hype-boy-mv-introduces-group-members"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1550496891535761413"
+    },
+    "tags": [
+      "member-profile",
+      "debut"
+    ],
+    "verified": true,
+    "note": "ポスト本文：「Finally, I'm here!🎀💕 #NewJeans_DANIELLE」",
+    "editor_note": "Status URL from Soompi embed (embed shows Jul 22 UTC = Jul 23 00:00 KST)."
+  },
+  {
+    "id": "tweet-2022-07-23-member-profile-haerin",
+    "date": "2022-07-23",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "メンバー紹介ポスト：ヘリン",
+      "en": "Member introduction post: HAERIN"
+    },
+    "summary": {
+      "ja": "『Hype Boy』MV公開と同時にヘリンのプロフィールを初公開。",
+      "en": "First official introduction of HAERIN, posted alongside the 'Hype Boy' MVs."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1550496639588130820",
+    "reference_urls": [
+      "https://www.soompi.com/article/1537380wpp/watch-hybe-adors-new-girl-group-newjeans-drops-interactive-hype-boy-mv-introduces-group-members"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1550496639588130820"
+    },
+    "tags": [
+      "member-profile",
+      "debut"
+    ],
+    "verified": true,
+    "note": "ポスト本文：「Hey!💘 It's me, Haerin! #NewJeans_HAERIN」",
+    "editor_note": "Status URL from Soompi embed (embed shows Jul 22 UTC = Jul 23 00:00 KST)."
+  },
+  {
+    "id": "tweet-2022-07-23-member-profile-hanni",
+    "date": "2022-07-23",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "メンバー紹介ポスト：ハニ",
+      "en": "Member introduction post: HANNI"
+    },
+    "summary": {
+      "ja": "『Hype Boy』MV公開と同時にハニのプロフィールを初公開。",
+      "en": "First official introduction of HANNI, posted alongside the 'Hype Boy' MVs."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1550496136217038848",
+    "reference_urls": [
+      "https://www.soompi.com/article/1537380wpp/watch-hybe-adors-new-girl-group-newjeans-drops-interactive-hype-boy-mv-introduces-group-members"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1550496136217038848"
+    },
+    "tags": [
+      "member-profile",
+      "debut"
+    ],
+    "verified": true,
+    "note": "ポスト本文：「Hello, World!🌷 #NewJeans_HANNI」",
+    "editor_note": "Status URL from Soompi embed (embed shows Jul 22 UTC = Jul 23 00:00 KST)."
+  },
+  {
+    "id": "tweet-2022-07-23-member-profile-hyein",
+    "date": "2022-07-23",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "メンバー紹介ポスト：ヘイン",
+      "en": "Member introduction post: HYEIN"
+    },
+    "summary": {
+      "ja": "『Hype Boy』MV公開と同時にヘインのプロフィールを初公開。",
+      "en": "First official introduction of HYEIN, posted alongside the 'Hype Boy' MVs."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1550496387833311233",
+    "reference_urls": [
+      "https://www.soompi.com/article/1537380wpp/watch-hybe-adors-new-girl-group-newjeans-drops-interactive-hype-boy-mv-introduces-group-members"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1550496387833311233"
+    },
+    "tags": [
+      "member-profile",
+      "debut"
+    ],
+    "verified": true,
+    "note": "ポスト本文：「Hi, I'm Hyein!💕 #NewJeans_HYEIN」",
+    "editor_note": "Status URL from Soompi embed (embed shows Jul 22 UTC = Jul 23 00:00 KST)."
+  },
+  {
+    "id": "tweet-2022-07-23-member-profile-minji",
+    "date": "2022-07-23",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "メンバー紹介ポスト：ミンジ",
+      "en": "Member introduction post: MINJI"
+    },
+    "summary": {
+      "ja": "『Hype Boy』MV公開と同時にミンジのプロフィールを初公開。",
+      "en": "First official introduction of MINJI, posted alongside the 'Hype Boy' MVs."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1550495896827113474",
+    "reference_urls": [
+      "https://www.soompi.com/article/1537380wpp/watch-hybe-adors-new-girl-group-newjeans-drops-interactive-hype-boy-mv-introduces-group-members"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1550495896827113474"
+    },
+    "tags": [
+      "member-profile",
+      "debut"
+    ],
+    "verified": true,
+    "note": "ポスト本文：「Hi, there! 🌷🐰 #NewJeans_MINJI」",
+    "editor_note": "Status URL from Soompi embed (embed shows Jul 22 UTC = Jul 23 00:00 KST)."
+  },
+  {
     "id": "tweet-2022-07-24-attention-post",
     "date": "2022-07-24",
     "date_type": "post",
@@ -365,6 +574,73 @@
     "editor_note": "Post text: Message Card from NewJeans 💌NewJeans \"OMG\"예약 판매가 시작되었습니다👀✔️\"OMG\" Release: 2023.1.2.✔️Packshot Release: 2022.12.20.#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto#NewJeans_of_Winter pic.twitter.com/0abGKSM6Lx | Posted 2022-12-12 11:00 KST (from X oEmbed; time derived from snowflake ID)."
   },
   {
+    "id": "tweet-2022-12-12-newjeans-of-winter-poster-2",
+    "date": "2022-12-12",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『NewJeans of Winter』ムービングポスター（2）",
+      "en": "'NewJeans of Winter' moving poster (2)"
+    },
+    "summary": {
+      "ja": "『OMG』『Ditto』の日程を記した3本のムービングポスターのうちの1本。",
+      "en": "One of three moving posters giving the 'Ditto' (12/19 6PM) and 'OMG' (1/2 6PM) dates."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1601955058916085760",
+    "reference_urls": [
+      "https://www.soompi.com/article/1558111wpp/newjeans-drops-1st-ever-comeback-teasers-for-omg-and-ditto"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1601955058916085760"
+    },
+    "tags": [
+      "teaser",
+      "moving-poster"
+    ],
+    "verified": true,
+    "editor_note": "First poster already in tweet.json as tweet-2022-12-12-omg-comeback-announcement (1601954986296225793)."
+  },
+  {
+    "id": "tweet-2022-12-12-newjeans-of-winter-poster-3",
+    "date": "2022-12-12",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『NewJeans of Winter』ムービングポスター（3）",
+      "en": "'NewJeans of Winter' moving poster (3)"
+    },
+    "summary": {
+      "ja": "白うさぎ／赤うさぎが走るムービングポスターの1本。",
+      "en": "Another of the three moving posters (running rabbit visual)."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1601955112070455299",
+    "reference_urls": [
+      "https://www.soompi.com/article/1558111wpp/newjeans-drops-1st-ever-comeback-teasers-for-omg-and-ditto"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1601955112070455299"
+    },
+    "tags": [
+      "teaser",
+      "moving-poster"
+    ],
+    "verified": true
+  },
+  {
     "id": "tweet-2022-12-15-omg-promotion-calendar",
     "date": "2022-12-15",
     "date_type": "post",
@@ -396,6 +672,37 @@
     ],
     "verified": true,
     "editor_note": "Post text: NewJeans \"OMG\"Promotion Calendar 🌲#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto#NewJeans_of_Winter pic.twitter.com/9Hr4rLZ9jL | Posted 2022-12-15 00:00 KST (from X oEmbed; time derived from snowflake ID)."
+  },
+  {
+    "id": "tweet-2022-12-20-omg-packshot",
+    "date": "2022-12-20",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『OMG』パックショット公開",
+      "en": "'OMG' packshot reveal"
+    },
+    "summary": {
+      "ja": "メッセージカードで予告されていた『OMG』アルバムのパックショット。",
+      "en": "Album packshot of 'OMG', as scheduled in the pre-order message card (2022.12.20)."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR",
+    "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/1602121156718624770"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "packshot"
+    ],
+    "verified": false,
+    "editor_note": "Date from the pre-order message card (Packshot Release: 2022.12.20). Status URL not recovered."
   },
   {
     "id": "tweet-2023-04-03-zero-release",
@@ -529,6 +836,201 @@
     ],
     "verified": true,
     "editor_note": "Post text: Coming Soon!NewJeans 2nd EP 'Get Up'🗓 2023.7.7. Pre-Release🗓 2023.7.21. 2nd EP 'Get Up' Release ✅ Pre-Order2023.6.19. 11AM KST#Time_to_NewJeans#NewJeans #뉴진스 #NewJeans_2nd_EP pic.twitter.com/x2lIt5ihKV | Posted 2023-06-19 10:55 KST (from X oEmbed; time derived from snowflake ID)."
+  },
+  {
+    "id": "tweet-2023-06-26-eta-teaser-post",
+    "date": "2023-06-26",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『ETA』Teaser 告知ポスト",
+      "en": "'ETA' Teaser post"
+    },
+    "summary": {
+      "ja": "『ETA』ティザー映像（YouTube Shortsリンク）を告知。",
+      "en": "Post linking the 'ETA' teaser video on YouTube."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1672983005827309569",
+    "reference_urls": [
+      "https://www.koreaboo.com/news/newjeans-unveils-eta-music-video-teaser/"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1672983005827309569"
+    },
+    "tags": [
+      "teaser"
+    ],
+    "verified": true,
+    "editor_note": "Timestamp confirmed via fxtwitter API (2023-06-26 00:00 KST)."
+  },
+  {
+    "id": "tweet-2023-06-28-get-up-2nd-ep-photo-post",
+    "date": "2023-06-28",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『2nd EP Photo』ポスト（『Get Up』ティザーフォト）",
+      "en": "'2nd EP Photo' post ('Get Up' teaser photos)"
+    },
+    "summary": {
+      "ja": "バレリーナ風衣装の『Get Up』ティザーフォトを投稿。",
+      "en": "Ballet-inspired 'Get Up' teaser photos posted on X."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1673707835547615232",
+    "reference_urls": [
+      "https://www.koreaboo.com/news/newjeans-transforms-ballerinas-in-new-photos-get/"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1673707835547615232"
+    },
+    "tags": [
+      "teaser",
+      "concept-photo"
+    ],
+    "verified": true,
+    "editor_note": "Timestamp confirmed via fxtwitter API. Companion Instagram posts: instagram.com/p/Ct_4ENurW2C, Ct_4HV_L5EL (same time)."
+  },
+  {
+    "id": "tweet-2023-06-29-get-up-bunny-beach-bag-packaging",
+    "date": "2023-06-29",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Get Up』Bunny Beach Bag ver. パッケージ公開",
+      "en": "'Get Up' Bunny Beach Bag ver. packaging sneak peek"
+    },
+    "summary": {
+      "ja": "アルバム『Get Up』Bunny Beach Bagバージョンのパッケージを先行公開。",
+      "en": "Sneak peek of the 'Bunny Beach Bag' version packaging of 'Get Up'."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR",
+    "reference_urls": [
+      "https://www.soompi.com/article/1596238wpp/watch-newjeans-gears-up-for-july-comeback-with-1st-teaser-for-eta"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "packaging",
+      "goods"
+    ],
+    "verified": false,
+    "editor_note": "Soompi update dated Jun 29 KST; likely Instagram post CuCIRW0LFCs (2023-06-28 21:00 KST by shortcode). Status URL not recovered."
+  },
+  {
+    "id": "tweet-2023-06-30-get-up-packshot",
+    "date": "2023-06-30",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Get Up』パックショット公開",
+      "en": "'Get Up' album packshot"
+    },
+    "summary": {
+      "ja": "アルバム『Get Up』のパックショット画像を公開。",
+      "en": "Album packshot images for 'Get Up'."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR",
+    "reference_urls": [
+      "https://kstyle.com/article.ksn?articleNo=2220733"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "packshot"
+    ],
+    "verified": false,
+    "editor_note": "Date from kstyle via ja.wikipedia. Status URL not recovered."
+  },
+  {
+    "id": "tweet-2023-07-05-super-shy-release-poster",
+    "date": "2023-07-05",
+    "time": "23:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Super Shy』リリースポスター",
+      "en": "'Super Shy' release poster"
+    },
+    "summary": {
+      "ja": "「2023.7.7. 1PM (KST) SUPER SHY RELEASE」と記したポスターを投稿。",
+      "en": "Poster announcing 'Super Shy' release on 2023.7.7 1PM KST."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1676591775853445120",
+    "reference_urls": [
+      "https://www.koreaboo.com/news/itzy-viral-newjeans-teaser-photo-unexpected-reason/"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1676591775853445120"
+    },
+    "tags": [
+      "teaser",
+      "poster"
+    ],
+    "verified": true,
+    "editor_note": "Timestamp via fxtwitter API: 2023-07-05 23:00 KST. Image viewed (five members in white tees, Powerpuff-style bunny art)."
+  },
+  {
+    "id": "tweet-2023-07-17-cool-with-you-mv-date-announcement",
+    "date": "2023-07-17",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Cool With You』MV公開日の告知",
+      "en": "'Cool With You' MV date announcement"
+    },
+    "summary": {
+      "ja": "『Cool With You』MVを7/20 0時に前倒し公開すると告知（グローバルスター2名出演）。",
+      "en": "ADOR announces the 'Cool With You' MV (starring two global stars) will drop early on Jul 20 at midnight KST."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR",
+    "reference_urls": [
+      "https://www.soompi.com/article/1600989wpp/newjeans-to-release-mv-starring-2-global-stars-ahead-of-official-comeback"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "announcement"
+    ],
+    "verified": false,
+    "editor_note": "Announced Jul 17 KST per Soompi. Status URL not recovered; may be Weverse notice."
   },
   {
     "id": "tweet-2023-11-04-gods-worlds-2023",
@@ -728,6 +1230,139 @@
     ],
     "verified": true,
     "editor_note": "Post text: [안내📢]뉴진스 권익 침해 관련 법적 대응 안내  🔗https://t.co/ETQBk42G0p#NewJeans #뉴진스 | Posted 2024-04-25 18:00 KST (from X oEmbed; time derived from snowflake ID)."
+  },
+  {
+    "id": "tweet-2024-04-26-how-sweet-concept-photos",
+    "date": "2024-04-26",
+    "time": "11:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『How Sweet』コンセプトフォト（第1弾）",
+      "en": "'How Sweet' concept photos (first batch)"
+    },
+    "summary": {
+      "ja": "グループ＆個人のティザー画像とフィジカルアルバムのティザーを公開。",
+      "en": "Group and individual teaser images plus physical album teasers for 'How Sweet'."
+    },
+    "source_url": "https://www.instagram.com/p/C6NQhyCSPro/",
+    "reference_urls": [
+      "https://www.soompi.com/article/1657317wpp/newjeans-unveils-first-teasers-for-how-sweet-comeback",
+      "https://www.marieclairekorea.com/?p=357952"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "teaser",
+      "concept-photo"
+    ],
+    "verified": false,
+    "editor_note": "instagram. Marie Claire Korea: Apr 26 11:00 KST; IG shortcode timestamp 2024-04-26 11:00 (also C6NQjYHSAiq). Pre-orders opened 11AM same day (kbizoom). X status URL not recovered."
+  },
+  {
+    "id": "tweet-2024-05-10-supernatural-packshot-preorder",
+    "date": "2024-05-10",
+    "time": "11:10",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Supernatural』パックショット＆予約販売開始",
+      "en": "'Supernatural' packshot and pre-order start"
+    },
+    "summary": {
+      "ja": "村上隆アートワークのCDシングル3形態を公開し予約販売を開始。",
+      "en": "CD single (Murakami artwork, three versions) unveiled and pre-orders opened."
+    },
+    "source_url": "https://www.instagram.com/p/C6xUtiiyp7c/",
+    "reference_urls": [
+      "https://www.marieclairekorea.com/?p=359904",
+      "https://www.vogue.co.kr/?p=483486",
+      "https://www.xportsnews.com/article/1857619"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "packshot",
+      "preorder"
+    ],
+    "verified": false,
+    "editor_note": "instagram. Shortcode timestamp 2024-05-10 11:10 KST. Status URL on X not recovered."
+  },
+  {
+    "id": "tweet-2024-05-11-fujiwara-hiroshi-collab-photos",
+    "date": "2024-05-11",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "藤原ヒロシ コラボ告知フォト",
+      "en": "Hiroshi Fujiwara collaboration photo series"
+    },
+    "summary": {
+      "ja": "藤原ヒロシとのアパレルコラボを告知する写真シリーズ。",
+      "en": "Photo series announcing the apparel collaboration with Hiroshi Fujiwara."
+    },
+    "source_url": "https://www.instagram.com/p/C6ys6KAyGQv/",
+    "reference_urls": [
+      "https://www.marieclairekorea.com/celebrity/2024/05/fujiwara-hiroshi-newjeans/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "collab",
+      "concept-photo"
+    ],
+    "verified": false,
+    "editor_note": "instagram. IG shortcode timestamp 2024-05-11 00:00 KST; Marie Claire Korea 2024-05-13. X status URL not recovered."
+  },
+  {
+    "id": "tweet-2024-05-20-how-sweet-release-schedule-phoning",
+    "date": "2024-05-20",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『How Sweet』発売スケジュール公開（Phoning）",
+      "en": "'How Sweet' release schedule announced (Phoning)"
+    },
+    "summary": {
+      "ja": "ファンアプリPhoningで5/24 13:00音源・16:00 MV公開のスケジュールを告知。",
+      "en": "Schedule revealed via the Phoning app: audio May 24 1PM, 'How Sweet' MV 4PM KST."
+    },
+    "source_url": "https://www.munhwa.com/article/11430682",
+    "reference_urls": [
+      "https://www.munhwa.com/article/11430682"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "promotion-schedule"
+    ],
+    "verified": false,
+    "editor_note": "phoning. Munhwa Ilbo 2024-05-21: announced on the 20th via Phoning. No X status found."
   },
   {
     "id": "tweet-2024-09-24-calvin-klein-global-ambassador",

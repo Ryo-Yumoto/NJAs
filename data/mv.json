@@ -382,6 +382,75 @@
     "verified": true
   },
   {
+    "id": "mv-2022-07-26-we-are-newjeans",
+    "date": "2022-07-26",
+    "time": "00:00",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『We Are NewJeans』（メンバー紹介映像）",
+      "en": "'We Are NewJeans' (member introduction video)"
+    },
+    "summary": {
+      "ja": "HYBE LABELSチャンネルで公開された約9分半のメンバー紹介プロモーション映像。",
+      "en": "A 9-and-a-half-minute member-introduction promotion video on the HYBE LABELS channel."
+    },
+    "source_url": "https://www.youtube.com/watch?v=k8fSPMXWAR4",
+    "reference_urls": [
+      "https://enews.imbc.com/News/ViewAmp/355006"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "k8fSPMXWAR4"
+    },
+    "tags": [
+      "trailer",
+      "member-profile",
+      "debut"
+    ],
+    "verified": true,
+    "note": "『Hurt』MVの次に予告されていた映像。Producer: MIN HEE JIN。",
+    "editor_note": "MBC enews (Hurt MV article) says 'We Are NewJeans' scheduled 7/26 0:00 KST; invidious publish date 2022-07-25 UTC consistent."
+  },
+  {
+    "id": "mv-2022-08-01-1st-ep-new-jeans-countdown-live",
+    "date": "2022-08-01",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "1st EP『New Jeans』COUNTDOWN LIVE",
+      "en": "1st EP 'New Jeans' COUNTDOWN LIVE"
+    },
+    "summary": {
+      "ja": "EP配信開始に合わせて行われたカウントダウン生配信のアーカイブ。",
+      "en": "Archived countdown livestream held for the digital release of the 1st EP."
+    },
+    "source_url": "https://www.youtube.com/watch?v=zfdI4ItNEJQ",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/New_Jeans_(EP)"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "zfdI4ItNEJQ"
+    },
+    "tags": [
+      "countdown-live",
+      "live-stream"
+    ],
+    "verified": false,
+    "editor_note": "Wikipedia (Korea Herald): countdown live held Aug 1, 2022. invidious publish date 2022-08-02 UTC (VOD). Time not confirmed."
+  },
+  {
     "id": "mv-2022-08-01-cookie-official-mv",
     "date": "2022-08-01",
     "date_type": "release",
@@ -873,6 +942,39 @@
     "verified": true
   },
   {
+    "id": "mv-2022-12-14-newjeans-6-ditto-teaser",
+    "date": "2022-12-14",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『NewJeans 6』（『Ditto』ティザー映像）",
+      "en": "'NewJeans 6' ('Ditto' teaser video)"
+    },
+    "summary": {
+      "ja": "6人目の人影が走り抜ける謎の22秒ティザー。先行公開曲『Ditto』の予告。",
+      "en": "Cryptic 22-second teaser titled 'NewJeans 6', previewing pre-release single 'Ditto'."
+    },
+    "source_url": "https://www.youtube.com/watch?v=d-QmstniDC8",
+    "reference_urls": [
+      "https://www.soompi.com/article/1558111wpp/newjeans-drops-1st-ever-comeback-teasers-for-omg-and-ditto"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "d-QmstniDC8"
+    },
+    "tags": [
+      "teaser"
+    ],
+    "verified": true,
+    "note": "『6』の意味は不明のまま。『Ditto』は12/19 18:00公開予定。",
+    "editor_note": "Soompi update dated Dec 14 KST; invidious publish date 2022-12-14 UTC. Exact KST time unknown."
+  },
+  {
     "id": "mv-2022-12-19-ditto-official-mv-side-a",
     "date": "2022-12-19",
     "date_type": "release",
@@ -939,6 +1041,40 @@
       "hybe-labels-channel"
     ],
     "verified": true
+  },
+  {
+    "id": "mv-2022-12-21-newjeans-holiday-special",
+    "date": "2022-12-21",
+    "time": "00:00",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『NewJeans Holiday Special』",
+      "en": "'NewJeans Holiday Special'"
+    },
+    "summary": {
+      "ja": "『OMG』プロモーションカレンダーに「DEC 21 12AM」として掲載されたホリデー映像。",
+      "en": "Holiday video listed on the 'OMG' promotion calendar as 'DEC 21 12AM NewJeans Holiday Special'."
+    },
+    "source_url": "https://www.youtube.com/watch?v=xbb1OxLkGCg",
+    "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/1603042126341713920"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "xbb1OxLkGCg"
+    },
+    "tags": [
+      "holiday-special",
+      "promotion-video"
+    ],
+    "verified": true,
+    "editor_note": "Calendar frame read from the promotion-calendar video; invidious publish 2022-12-20 UTC = Dec 21 00:00 KST."
   },
   {
     "id": "mv-2022-12-28-hurt-250-remix-special-video",
@@ -1270,6 +1406,40 @@
       "hybe-labels-channel"
     ],
     "verified": true
+  },
+  {
+    "id": "mv-2023-01-02-omg-countdown-live",
+    "date": "2023-01-02",
+    "time": "17:00",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『OMG』COUNTDOWN LIVE",
+      "en": "'OMG' COUNTDOWN LIVE"
+    },
+    "summary": {
+      "ja": "『OMG』発売（18:00）に先立ち17:00からYouTube/Weverseで行われたカウントダウン生配信。",
+      "en": "Countdown livestream on YouTube/Weverse at 5PM KST ahead of the 6PM 'OMG' release."
+    },
+    "source_url": "https://www.youtube.com/watch?v=aJqS7BY5XE4",
+    "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/1603042126341713920"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "aJqS7BY5XE4"
+    },
+    "tags": [
+      "countdown-live",
+      "live-stream"
+    ],
+    "verified": true,
+    "editor_note": "Time from the OMG promotion calendar (JAN. 2ND 5PM KST Countdown Live)."
   },
   {
     "id": "mv-2023-01-03-omg-official-mv-performance-ver-1",
@@ -1739,6 +1909,172 @@
     "editor_note": "YouTube shows Apr 9, 2023 (PT); TheTVDB lists Apr 10 (KST)."
   },
   {
+    "id": "mv-2023-05-22-coke-studio-new-music-coming-shorts",
+    "date": "2023-05-22",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『New music coming out soon!』Coke Studio予告（ショート）",
+      "en": "'New music coming out soon!' Coke Studio teaser (Shorts)"
+    },
+    "summary": {
+      "ja": "Coke Studio新曲を予告する最初のショート。",
+      "en": "First Shorts teasing the Coke Studio collaboration track."
+    },
+    "source_url": "https://www.youtube.com/watch?v=5GcZHD8y5UQ",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "5GcZHD8y5UQ"
+    },
+    "tags": [
+      "teaser",
+      "shorts",
+      "ad"
+    ],
+    "verified": false,
+    "editor_note": "invidious publish 2023-05-22 UTC."
+  },
+  {
+    "id": "mv-2023-05-24-coke-studio-new-music-soon-shorts",
+    "date": "2023-05-24",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『We are releasing new music soon』Coke Studio予告（ショート）",
+      "en": "'We are releasing new music soon' Coke Studio teaser (Shorts)"
+    },
+    "summary": {
+      "ja": "Coke Studio『Be Who You Are (Real Magic)』の新曲を予告するショート。",
+      "en": "Shorts teasing the Coke Studio track 'Be Who You Are (Real Magic)'."
+    },
+    "source_url": "https://www.youtube.com/watch?v=UU6sw9eE634",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "UU6sw9eE634"
+    },
+    "tags": [
+      "teaser",
+      "shorts",
+      "ad"
+    ],
+    "verified": false,
+    "editor_note": "invidious publish 2023-05-24 UTC. Sister short 5GcZHD8y5UQ ('New music coming out soon!') date not retrieved."
+  },
+  {
+    "id": "mv-2023-06-19-get-up-coming-soon-shorts",
+    "date": "2023-06-19",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Coming Soon! NewJeans 2nd EP Get Up』（ショート）",
+      "en": "'Coming Soon! NewJeans 2nd EP Get Up' (Shorts)"
+    },
+    "summary": {
+      "ja": "2nd EP『Get Up』のカムバックを告知した公式チャンネルのショート動画。",
+      "en": "YouTube Shorts announcing the 2nd EP 'Get Up' (7/7 pre-release, 7/21 release)."
+    },
+    "source_url": "https://www.youtube.com/watch?v=a9QB7oJ5_3Q",
+    "reference_urls": [
+      "https://kstyle.com/article.ksn?articleNo=2219935",
+      "https://www.soompi.com/article/1594849wpp/newjeans-announces-details-for-july-comeback-with-6-mvs-to-collaborate-with-the-powerpuff-girls"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "a9QB7oJ5_3Q"
+    },
+    "tags": [
+      "teaser",
+      "coming-soon",
+      "shorts"
+    ],
+    "verified": true,
+    "note": "説明欄：2023.7.7. Pre-Release / 2023.7.21. Release。",
+    "editor_note": "kstyle says announced Jun 19 via 'Coming Soon!' video; invidious date 2023-06-18 UTC."
+  },
+  {
+    "id": "mv-2023-06-26-eta-teaser",
+    "date": "2023-06-26",
+    "time": "00:00",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『ETA』Teaser",
+      "en": "'ETA' Teaser"
+    },
+    "summary": {
+      "ja": "トリプルタイトル曲の一つ『ETA』の16秒ティザー。「NewJeans, Eva, Mikel, and Maria」出演と予告。",
+      "en": "16-second teaser for 'ETA'; cryptically credits 'NewJeans, Eva, Mikel, and Maria'."
+    },
+    "source_url": "https://www.youtube.com/watch?v=QZuhpNWvvWM",
+    "reference_urls": [
+      "https://www.soompi.com/article/1596238wpp/watch-newjeans-gears-up-for-july-comeback-with-1st-teaser-for-eta",
+      "https://kstyle.com/article.ksn?articleNo=2220401"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "QZuhpNWvvWM"
+    },
+    "tags": [
+      "teaser"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2023-06-27-asap-teaser",
+    "date": "2023-06-27",
+    "time": "00:00",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『ASAP』Teaser",
+      "en": "'ASAP' Teaser"
+    },
+    "summary": {
+      "ja": "全員ブロンドのビジュアルを初披露した『ASAP』MVティザー。",
+      "en": "'ASAP' MV teaser revealing the all-blonde visual."
+    },
+    "source_url": "https://www.youtube.com/watch?v=CgNVotVutx0",
+    "reference_urls": [
+      "https://www.hankyung.com/amp/2023062760185",
+      "https://kstyle.com/article.ksn?articleNo=2220453"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "CgNVotVutx0"
+    },
+    "tags": [
+      "teaser"
+    ],
+    "verified": true
+  },
+  {
     "id": "mv-2023-06-29-intro-omg-stage-cam-2023-weverse-con-festival",
     "date": "2023-06-29",
     "date_type": "release",
@@ -1771,6 +2107,40 @@
     ],
     "verified": false,
     "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2023-07-05-imsupershy-coming-soon-shorts",
+    "date": "2023-07-05",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『#ImSuperShy Coming Soon!』（ショート）",
+      "en": "'#ImSuperShy Coming Soon!' (Shorts)"
+    },
+    "summary": {
+      "ja": "先行公開曲『Super Shy』のティザー兼ダンスチャレンジ予告ショート。",
+      "en": "Shorts teaser for pre-release 'Super Shy' and the #ImSuperShy challenge."
+    },
+    "source_url": "https://www.youtube.com/watch?v=eUE-rSzzIRg",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Super_Shy",
+      "https://www.soompi.com/article/1596238wpp/watch-newjeans-gears-up-for-july-comeback-with-1st-teaser-for-eta"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "eUE-rSzzIRg"
+    },
+    "tags": [
+      "teaser",
+      "shorts"
+    ],
+    "verified": true,
+    "editor_note": "Wikipedia (citing naver 311/0001612432): posted Jul 5, two days before release. invidious 2023-07-04 UTC."
   },
   {
     "id": "mv-2023-07-07-new-jeans-official-mv",
@@ -2172,6 +2542,37 @@
     ],
     "verified": true,
     "editor_note": "YouTube shows Jul 21, 2023 (PT) = Jul 22 KST; TheTVDB lists two Jul 22 uploads."
+  },
+  {
+    "id": "mv-2023-07-25-asap-mv-soon-shorts",
+    "date": "2023-07-25",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『ASAP MV SOON 7/26 0:00 KST』（ショート）",
+      "en": "'ASAP MV SOON 7/26 0:00 KST' (Shorts)"
+    },
+    "summary": {
+      "ja": "『ASAP』MV公開を予告する8秒ショート。",
+      "en": "8-second Shorts announcing the 'ASAP' MV for 7/26 0:00 KST."
+    },
+    "source_url": "https://www.youtube.com/watch?v=Q1scJsrX9hI",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "Q1scJsrX9hI"
+    },
+    "tags": [
+      "teaser",
+      "shorts"
+    ],
+    "verified": false,
+    "editor_note": "invidious publish date 2023-07-25 UTC; title says MV 7/26 0:00 KST, so posted Jul 25 KST."
   },
   {
     "id": "mv-2023-07-25-eta-official-mv-performance-ver",
@@ -2871,6 +3272,37 @@
     "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
+    "id": "mv-2024-03-27-its-coming-shorts",
+    "date": "2024-03-27",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『📢 It's coming...』（ショート）",
+      "en": "'It's coming...' (Shorts)"
+    },
+    "summary": {
+      "ja": "2024年のカムバック・日本デビュー発表日に公開された予告ショート。",
+      "en": "Shorts posted on the day ADOR announced the 2024 double singles and Japan debut."
+    },
+    "source_url": "https://www.youtube.com/watch?v=WXbSVCkuyz0",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "WXbSVCkuyz0"
+    },
+    "tags": [
+      "teaser",
+      "shorts"
+    ],
+    "verified": false,
+    "editor_note": "invidious publish 2024-03-27 UTC; hashtag #NewJeans_is_Everywhere."
+  },
+  {
     "id": "mv-2024-04-27-bubble-gum-official-mv",
     "date": "2024-04-27",
     "date_type": "release",
@@ -2902,6 +3334,72 @@
     "tags": [
       "mv",
       "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2024-05-01-right-now-mv-teaser",
+    "date": "2024-05-01",
+    "time": "00:00",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Right Now』Official MV Teaser",
+      "en": "'Right Now' Official MV Teaser"
+    },
+    "summary": {
+      "ja": "村上隆とのコラボを明かした『Right Now』MVティザー第1弾。",
+      "en": "First 'Right Now' MV teaser, revealing the Takashi Murakami collaboration."
+    },
+    "source_url": "https://www.youtube.com/watch?v=UagOXpNCc10",
+    "reference_urls": [
+      "https://www.vogue.co.kr/?p=480543",
+      "https://en.wikipedia.org/wiki/Right_Now_(NewJeans_song)"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "UagOXpNCc10"
+    },
+    "tags": [
+      "teaser"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2024-05-22-how-sweet-challenge-coming-soon-shorts",
+    "date": "2024-05-22",
+    "time": "00:00",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『The How Sweet Challenge coming soon』（ショート）",
+      "en": "'The How Sweet Challenge coming soon on YouTube Shorts!' (Shorts)"
+    },
+    "summary": {
+      "ja": "うさぎがソウル・NY・ロンドン・東京を巡る、YouTube Shortsチャレンジ予告。",
+      "en": "Teaser for the 'How Sweet' YouTube Shorts challenge (bunny visiting Seoul, NY, London, Tokyo)."
+    },
+    "source_url": "https://www.youtube.com/watch?v=0Fea-o_dBVo",
+    "reference_urls": [
+      "https://sports.khan.co.kr/article/202405220909003"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "0Fea-o_dBVo"
+    },
+    "tags": [
+      "teaser",
+      "shorts"
     ],
     "verified": true
   },
@@ -3003,6 +3501,71 @@
     ],
     "verified": false,
     "editor_note": "YouTube date not fetched; listed in the 'NewJeans Stage' playlist among the June 2024 university festival stage cams. Month precision only."
+  },
+  {
+    "id": "mv-2024-06-10-right-now-mv-teaser-2",
+    "date": "2024-06-10",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Right Now』Official MV Teaser 2",
+      "en": "'Right Now' Official MV Teaser 2"
+    },
+    "summary": {
+      "ja": "村上隆キャラクターとパワーパフガールズが融合したスタイリングを見せる第2弾ティザー。",
+      "en": "Second teaser with Murakami characters and Powerpuff Girls-inspired styling."
+    },
+    "source_url": "https://www.youtube.com/watch?v=0vSQ3cokfx4",
+    "reference_urls": [
+      "https://www.harpersbazaar.co.kr/article/1866330"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "0vSQ3cokfx4"
+    },
+    "tags": [
+      "teaser"
+    ],
+    "verified": true,
+    "editor_note": "Harper's Bazaar Korea: 2nd teaser Jun 10; invidious 2024-06-09 UTC."
+  },
+  {
+    "id": "mv-2024-06-15-supernatural-mv-teaser-1",
+    "date": "2024-06-15",
+    "time": "00:00",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Supernatural』Official MV Teaser 1",
+      "en": "'Supernatural' Official MV Teaser 1"
+    },
+    "summary": {
+      "ja": "日本デビュー曲『Supernatural』の約30秒MVティザー。",
+      "en": "About 30-second MV teaser for Japan debut title 'Supernatural'."
+    },
+    "source_url": "https://www.youtube.com/watch?v=9OhlfLitqb4",
+    "reference_urls": [
+      "https://www.harpersbazaar.co.kr/article/1866330",
+      "https://www.koreaherald.com/article/3420236"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "9OhlfLitqb4"
+    },
+    "tags": [
+      "teaser"
+    ],
+    "verified": true
   },
   {
     "id": "mv-2024-06-17-right-now-official-mv",
@@ -3237,6 +3800,38 @@
     ],
     "verified": false,
     "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2024-06-20-supernatural-mv-teaser-2",
+    "date": "2024-06-20",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Supernatural』Official MV Teaser 2",
+      "en": "'Supernatural' Official MV Teaser 2"
+    },
+    "summary": {
+      "ja": "リリース前日の『Supernatural』MVティザー第2弾。",
+      "en": "Second 'Supernatural' MV teaser, the day before release."
+    },
+    "source_url": "https://www.youtube.com/watch?v=YmOjOMYDiXw",
+    "reference_urls": [
+      "https://www.koreaherald.com/article/3420236"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "YmOjOMYDiXw"
+    },
+    "tags": [
+      "teaser"
+    ],
+    "verified": true,
+    "editor_note": "Korea Herald (Jun 20): teasers released Saturday (Jun 15) and Thursday (Jun 20); invidious 2024-06-19 UTC."
   },
   {
     "id": "mv-2024-06-21-supernatural-official-mv-part-1",

@@ -1095,6 +1095,14 @@
   "page_url": "https://harpersbazaar.co.kr/article/83463",
   "w": 746
  },
+ "magazine-2024-02-01-elle-japon-2024-02-haerin": {
+  "fetched": "2026-10-13",
+  "file": "magazine-2024-02-01-elle-japon-2024-02-haerin.jpg",
+  "h": 797,
+  "image_url": "https://cdfront.tower.jp/~/media/Images/Article/News/tg/2024/12/25/tgb004.jpg",
+  "page_url": "https://tower.jp/article/news/2024/12/25/tgb004",
+  "w": 600
+ },
  "magazine-2024-02-28-billboard-women-in-music-2024-cover": {
   "fetched": "2026-10-13",
   "file": "magazine-2024-02-28-billboard-women-in-music-2024-cover.jpg",
@@ -1591,6 +1599,22 @@
   "page_url": "https://i.ytimg.com/vi/tVIXY14aJms/maxresdefault.jpg",
   "w": 1280
  },
+ "mv-2022-07-26-we-are-newjeans": {
+  "fetched": "2026-10-13",
+  "file": "mv-2022-07-26-we-are-newjeans.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/k8fSPMXWAR4/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/k8fSPMXWAR4/maxresdefault.jpg",
+  "w": 1280
+ },
+ "mv-2022-08-01-1st-ep-new-jeans-countdown-live": {
+  "fetched": "2026-10-13",
+  "file": "mv-2022-08-01-1st-ep-new-jeans-countdown-live.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/zfdI4ItNEJQ/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/zfdI4ItNEJQ/maxresdefault.jpg",
+  "w": 1280
+ },
  "mv-2022-08-01-cookie-official-mv": {
   "fetched": "2026-10-13",
   "file": "mv-2022-08-01-cookie-official-mv.jpg",
@@ -1711,6 +1735,14 @@
   "page_url": "https://i.ytimg.com/vi/Dxca41EhMb8/sddefault.jpg",
   "w": 640
  },
+ "mv-2022-12-14-newjeans-6-ditto-teaser": {
+  "fetched": "2026-10-13",
+  "file": "mv-2022-12-14-newjeans-6-ditto-teaser.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/d-QmstniDC8/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/d-QmstniDC8/maxresdefault.jpg",
+  "w": 1280
+ },
  "mv-2022-12-19-ditto-official-mv-side-a": {
   "fetched": "2026-10-13",
   "file": "mv-2022-12-19-ditto-official-mv-side-a.jpg",
@@ -1725,6 +1757,14 @@
   "h": 720,
   "image_url": "https://i.ytimg.com/vi/V37TaRdVUQY/maxresdefault.jpg",
   "page_url": "https://i.ytimg.com/vi/V37TaRdVUQY/maxresdefault.jpg",
+  "w": 1280
+ },
+ "mv-2022-12-21-newjeans-holiday-special": {
+  "fetched": "2026-10-13",
+  "file": "mv-2022-12-21-newjeans-holiday-special.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/xbb1OxLkGCg/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/xbb1OxLkGCg/maxresdefault.jpg",
   "w": 1280
  },
  "mv-2022-12-28-hurt-250-remix-special-video": {
@@ -1798,6 +1838,14 @@
   "image_url": "https://i.ytimg.com/vi/G_1zDzhAz9w/maxresdefault.jpg",
   "page_url": "https://i.ytimg.com/vi/G_1zDzhAz9w/maxresdefault.jpg",
   "w": 1280
+ },
+ "mv-2023-01-02-omg-countdown-live": {
+  "fetched": "2026-10-13",
+  "file": "mv-2023-01-02-omg-countdown-live.jpg",
+  "h": 480,
+  "image_url": "https://i.ytimg.com/vi/aJqS7BY5XE4/sddefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/aJqS7BY5XE4/sddefault.jpg",
+  "w": 640
  },
  "mv-2023-01-02-omg-official-mv": {
   "fetched": "2026-10-13",
@@ -1919,12 +1967,60 @@
   "page_url": "https://i.ytimg.com/vi/DrNtuAgwWgQ/maxresdefault.jpg",
   "w": 1280
  },
+ "mv-2023-05-22-coke-studio-new-music-coming-shorts": {
+  "fetched": "2026-10-13",
+  "file": "mv-2023-05-22-coke-studio-new-music-coming-shorts.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/5GcZHD8y5UQ/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/5GcZHD8y5UQ/maxresdefault.jpg",
+  "w": 1280
+ },
+ "mv-2023-05-24-coke-studio-new-music-soon-shorts": {
+  "fetched": "2026-10-13",
+  "file": "mv-2023-05-24-coke-studio-new-music-soon-shorts.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/UU6sw9eE634/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/UU6sw9eE634/maxresdefault.jpg",
+  "w": 1280
+ },
+ "mv-2023-06-19-get-up-coming-soon-shorts": {
+  "fetched": "2026-10-13",
+  "file": "mv-2023-06-19-get-up-coming-soon-shorts.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/a9QB7oJ5_3Q/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/a9QB7oJ5_3Q/maxresdefault.jpg",
+  "w": 1280
+ },
+ "mv-2023-06-26-eta-teaser": {
+  "fetched": "2026-10-13",
+  "file": "mv-2023-06-26-eta-teaser.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/QZuhpNWvvWM/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/QZuhpNWvvWM/maxresdefault.jpg",
+  "w": 1280
+ },
+ "mv-2023-06-27-asap-teaser": {
+  "fetched": "2026-10-13",
+  "file": "mv-2023-06-27-asap-teaser.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/CgNVotVutx0/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/CgNVotVutx0/maxresdefault.jpg",
+  "w": 1280
+ },
  "mv-2023-06-29-intro-omg-stage-cam-2023-weverse-con-festival": {
   "fetched": "2026-10-13",
   "file": "mv-2023-06-29-intro-omg-stage-cam-2023-weverse-con-festival.jpg",
   "h": 720,
   "image_url": "https://i.ytimg.com/vi/T6CWrx166Z0/maxresdefault.jpg",
   "page_url": "https://i.ytimg.com/vi/T6CWrx166Z0/maxresdefault.jpg",
+  "w": 1280
+ },
+ "mv-2023-07-05-imsupershy-coming-soon-shorts": {
+  "fetched": "2026-10-13",
+  "file": "mv-2023-07-05-imsupershy-coming-soon-shorts.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/eUE-rSzzIRg/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/eUE-rSzzIRg/maxresdefault.jpg",
   "w": 1280
  },
  "mv-2023-07-07-new-jeans-official-mv": {
@@ -2021,6 +2117,14 @@
   "h": 720,
   "image_url": "https://i.ytimg.com/vi/tqbe3zu3qjM/maxresdefault.jpg",
   "page_url": "https://i.ytimg.com/vi/tqbe3zu3qjM/maxresdefault.jpg",
+  "w": 1280
+ },
+ "mv-2023-07-25-asap-mv-soon-shorts": {
+  "fetched": "2026-10-13",
+  "file": "mv-2023-07-25-asap-mv-soon-shorts.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/Q1scJsrX9hI/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/Q1scJsrX9hI/maxresdefault.jpg",
   "w": 1280
  },
  "mv-2023-07-25-eta-official-mv-performance-ver": {
@@ -2191,12 +2295,36 @@
   "page_url": "https://i.ytimg.com/vi/8FpaiZrVoho/maxresdefault.jpg",
   "w": 1280
  },
+ "mv-2024-03-27-its-coming-shorts": {
+  "fetched": "2026-10-13",
+  "file": "mv-2024-03-27-its-coming-shorts.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/WXbSVCkuyz0/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/WXbSVCkuyz0/maxresdefault.jpg",
+  "w": 1280
+ },
  "mv-2024-04-27-bubble-gum-official-mv": {
   "fetched": "2026-10-13",
   "file": "mv-2024-04-27-bubble-gum-official-mv.jpg",
   "h": 720,
   "image_url": "https://i.ytimg.com/vi/ft70sAYrFyY/maxresdefault.jpg",
   "page_url": "https://i.ytimg.com/vi/ft70sAYrFyY/maxresdefault.jpg",
+  "w": 1280
+ },
+ "mv-2024-05-01-right-now-mv-teaser": {
+  "fetched": "2026-10-13",
+  "file": "mv-2024-05-01-right-now-mv-teaser.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/UagOXpNCc10/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/UagOXpNCc10/maxresdefault.jpg",
+  "w": 1280
+ },
+ "mv-2024-05-22-how-sweet-challenge-coming-soon-shorts": {
+  "fetched": "2026-10-13",
+  "file": "mv-2024-05-22-how-sweet-challenge-coming-soon-shorts.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/0Fea-o_dBVo/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/0Fea-o_dBVo/maxresdefault.jpg",
   "w": 1280
  },
  "mv-2024-05-24-how-sweet-official-mv": {
@@ -2221,6 +2349,22 @@
   "h": 720,
   "image_url": "https://i.ytimg.com/vi/VWLWY2mLL2I/maxresdefault.jpg",
   "page_url": "https://i.ytimg.com/vi/VWLWY2mLL2I/maxresdefault.jpg",
+  "w": 1280
+ },
+ "mv-2024-06-10-right-now-mv-teaser-2": {
+  "fetched": "2026-10-13",
+  "file": "mv-2024-06-10-right-now-mv-teaser-2.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/0vSQ3cokfx4/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/0vSQ3cokfx4/maxresdefault.jpg",
+  "w": 1280
+ },
+ "mv-2024-06-15-supernatural-mv-teaser-1": {
+  "fetched": "2026-10-13",
+  "file": "mv-2024-06-15-supernatural-mv-teaser-1.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/9OhlfLitqb4/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/9OhlfLitqb4/maxresdefault.jpg",
   "w": 1280
  },
  "mv-2024-06-17-right-now-official-mv": {
@@ -2277,6 +2421,14 @@
   "h": 720,
   "image_url": "https://i.ytimg.com/vi/mDZEznPaDFk/maxresdefault.jpg",
   "page_url": "https://i.ytimg.com/vi/mDZEznPaDFk/maxresdefault.jpg",
+  "w": 1280
+ },
+ "mv-2024-06-20-supernatural-mv-teaser-2": {
+  "fetched": "2026-10-13",
+  "file": "mv-2024-06-20-supernatural-mv-teaser-2.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/YmOjOMYDiXw/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/YmOjOMYDiXw/maxresdefault.jpg",
   "w": 1280
  },
  "mv-2024-06-21-supernatural-official-mv-part-1": {
@@ -2935,6 +3087,54 @@
   "page_url": "https://x.com/alldoorsoneroom/status/1542656334394322945",
   "w": 1080
  },
+ "tweet-2022-07-22-debut-teaser-photos": {
+  "fetched": "2026-10-13",
+  "file": "tweet-2022-07-22-debut-teaser-photos.jpg",
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2022/07/21103358/NewJeans-2-1.jpeg",
+  "page_url": "https://www.soompi.com/article/1537211wpp/hybe-adors-new-girl-group-newjeans-unveils-solo-group-teasers-ahead-of-1st-ep",
+  "w": 900
+ },
+ "tweet-2022-07-23-member-profile-danielle": {
+  "fetched": "2026-10-13",
+  "file": "tweet-2022-07-23-member-profile-danielle.jpg",
+  "h": 1200,
+  "image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1550472617953415169/pu/img/FBHJDqGjpt_rhqn4.jpg",
+  "page_url": "https://x.com/NewJeans_ADOR/status/1550496891535761413",
+  "w": 848
+ },
+ "tweet-2022-07-23-member-profile-haerin": {
+  "fetched": "2026-10-13",
+  "file": "tweet-2022-07-23-member-profile-haerin.jpg",
+  "h": 1018,
+  "image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1550472123688226822/pu/img/_1y8gpmZNaprARVL.jpg",
+  "page_url": "https://x.com/NewJeans_ADOR/status/1550496639588130820",
+  "w": 720
+ },
+ "tweet-2022-07-23-member-profile-hanni": {
+  "fetched": "2026-10-13",
+  "file": "tweet-2022-07-23-member-profile-hanni.jpg",
+  "h": 1018,
+  "image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1550471732787458048/pu/img/2jCutNcvOLjXkCeN.jpg",
+  "page_url": "https://x.com/NewJeans_ADOR/status/1550496136217038848",
+  "w": 720
+ },
+ "tweet-2022-07-23-member-profile-hyein": {
+  "fetched": "2026-10-13",
+  "file": "tweet-2022-07-23-member-profile-hyein.jpg",
+  "h": 1200,
+  "image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1550469828728672257/pu/img/7SwdAa7QnmZVHPP3.jpg",
+  "page_url": "https://x.com/NewJeans_ADOR/status/1550496387833311233",
+  "w": 848
+ },
+ "tweet-2022-07-23-member-profile-minji": {
+  "fetched": "2026-10-13",
+  "file": "tweet-2022-07-23-member-profile-minji.jpg",
+  "h": 1018,
+  "image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1550471615401537537/pu/img/-vQFOodDq2RZlpan.jpg",
+  "page_url": "https://x.com/NewJeans_ADOR/status/1550495896827113474",
+  "w": 720
+ },
  "tweet-2022-07-24-attention-post": {
   "fetched": "2026-10-13",
   "file": "tweet-2022-07-24-attention-post.jpg",
@@ -2991,6 +3191,22 @@
   "page_url": "https://x.com/NewJeans_ADOR/status/1602121086598270976",
   "w": 1080
  },
+ "tweet-2022-12-12-newjeans-of-winter-poster-2": {
+  "fetched": "2026-10-13",
+  "file": "tweet-2022-12-12-newjeans-of-winter-poster-2.jpg",
+  "h": 767,
+  "image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1601947820289728512/pu/img/KmSaYq8t21hIrUqE.jpg",
+  "page_url": "https://x.com/NewJeans_ADOR/status/1601955058916085760",
+  "w": 1200
+ },
+ "tweet-2022-12-12-newjeans-of-winter-poster-3": {
+  "fetched": "2026-10-13",
+  "file": "tweet-2022-12-12-newjeans-of-winter-poster-3.jpg",
+  "h": 767,
+  "image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1601948018579685377/pu/img/Dj9nI3l184yHAi23.jpg",
+  "page_url": "https://x.com/NewJeans_ADOR/status/1601955112070455299",
+  "w": 1200
+ },
  "tweet-2022-12-12-omg-comeback-announcement": {
   "fetched": "2026-10-13",
   "file": "tweet-2022-12-12-omg-comeback-announcement.jpg",
@@ -3039,6 +3255,46 @@
   "page_url": "https://x.com/NewJeans_ADOR/status/1670611109454434304",
   "w": 720
  },
+ "tweet-2023-06-28-get-up-2nd-ep-photo-post": {
+  "fetched": "2026-10-13",
+  "file": "tweet-2023-06-28-get-up-2nd-ep-photo-post.jpg",
+  "h": 800,
+  "image_url": "https://pbs.twimg.com/media/FzoqQf3agAAyZUn.jpg",
+  "page_url": "https://x.com/NewJeans_ADOR/status/1673707835547615232",
+  "w": 1200
+ },
+ "tweet-2023-06-29-get-up-bunny-beach-bag-packaging": {
+  "fetched": "2026-10-13",
+  "file": "tweet-2023-06-29-get-up-bunny-beach-bag-packaging.jpg",
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/06/05090909/NewJeans-3.jpg",
+  "page_url": "https://www.soompi.com/article/1596238wpp/watch-newjeans-gears-up-for-july-comeback-with-1st-teaser-for-eta",
+  "w": 900
+ },
+ "tweet-2023-06-30-get-up-packshot": {
+  "fetched": "2026-10-13",
+  "file": "tweet-2023-06-30-get-up-packshot.jpg",
+  "h": 600,
+  "image_url": "https://cdn.livedoor.jp/kstyle/ogp37682719e8d254e0de53f7a480b298d8.jpg",
+  "page_url": "https://kstyle.com/article.ksn?articleNo=2220733",
+  "w": 1200
+ },
+ "tweet-2023-07-05-super-shy-release-poster": {
+  "fetched": "2026-10-13",
+  "file": "tweet-2023-07-05-super-shy-release-poster.jpg",
+  "h": 1200,
+  "image_url": "https://pbs.twimg.com/media/F0Rv2oaXoAAw5Jg.jpg",
+  "page_url": "https://x.com/NewJeans_ADOR/status/1676591775853445120",
+  "w": 1200
+ },
+ "tweet-2023-07-17-cool-with-you-mv-date-announcement": {
+  "fetched": "2026-10-13",
+  "file": "tweet-2023-07-17-cool-with-you-mv-date-announcement.jpg",
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/07/16174406/NewJeans-6.jpg",
+  "page_url": "https://www.soompi.com/article/1600989wpp/newjeans-to-release-mv-starring-2-global-stars-ahead-of-official-comeback",
+  "w": 900
+ },
  "tweet-2023-11-04-gods-worlds-2023": {
   "fetched": "2026-10-13",
   "file": "tweet-2023-11-04-gods-worlds-2023.jpg",
@@ -3085,6 +3341,30 @@
   "h": 419,
   "image_url": "https://pbs.twimg.com/card_img/2105366118940676096/YlPGRf_H?format=jpg&name=800x419",
   "page_url": "https://x.com/NewJeans_ADOR/status/1783420809111011802",
+  "w": 800
+ },
+ "tweet-2024-04-26-how-sweet-concept-photos": {
+  "fetched": "2026-10-13",
+  "file": "tweet-2024-04-26-how-sweet-concept-photos.jpg",
+  "h": 800,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2024/04/25192322/newjeans-5.jpeg",
+  "page_url": "https://www.soompi.com/article/1657317wpp/newjeans-unveils-first-teasers-for-how-sweet-comeback",
+  "w": 1200
+ },
+ "tweet-2024-05-10-supernatural-packshot-preorder": {
+  "fetched": "2026-10-13",
+  "file": "tweet-2024-05-10-supernatural-packshot-preorder.jpg",
+  "h": 535,
+  "image_url": "https://img.marieclairekorea.com/2024/05/mck_663db23d9f090.jpg",
+  "page_url": "https://www.marieclairekorea.com/?p=359904",
+  "w": 535
+ },
+ "tweet-2024-05-11-fujiwara-hiroshi-collab-photos": {
+  "fetched": "2026-10-13",
+  "file": "tweet-2024-05-11-fujiwara-hiroshi-collab-photos.jpg",
+  "h": 800,
+  "image_url": "https://img.marieclairekorea.com/2024/05/mck_6641b0d456a5b.gif",
+  "page_url": "https://www.marieclairekorea.com/celebrity/2024/05/fujiwara-hiroshi-newjeans/",
   "w": 800
  },
  "tweet-2024-09-24-calvin-klein-global-ambassador": {
