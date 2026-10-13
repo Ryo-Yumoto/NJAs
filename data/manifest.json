@@ -1,0 +1,12 @@
+{
+  "files": [
+    "music.json",
+    "mv.json",
+    "tv.json",
+    "magazine.json",
+    "web.json",
+    "ad.json",
+    "tweet.json",
+    "goods.json"
+  ]
+}
