@@ -1,1 +1,949 @@
-[]
+[
+  {
+    "id": "music-2022-07-22-attention-debut-single",
+    "date": "2022-07-22",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Attention（デビュー曲）",
+      "en": "Attention (debut single)",
+      "original": "Attention"
+    },
+    "summary": {
+      "ja": "事前告知なしのサプライズ公開となったデビュー曲。",
+      "en": "Surprise-released debut track; MV dropped without any prior announcement."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Attention_(NewJeans_song)",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_discography",
+      "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "single",
+      "debut",
+      "ep-new-jeans"
+    ],
+    "verified": false,
+    "note": "MV/video premiered 2022-07-22 KST; full digital download/streaming started 2022-08-01 with the EP."
+  },
+  {
+    "id": "music-2022-07-23-hype-boy",
+    "date": "2022-07-23",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Hype Boy",
+      "en": "Hype Boy",
+      "original": "Hype Boy"
+    },
+    "summary": {
+      "ja": "デビューEPからの2曲目。5本のMVと共に公開。",
+      "en": "Second pre-release track from the debut EP, unveiled with five MV versions."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Hype_Boy",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_discography",
+      "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "single",
+      "ep-new-jeans"
+    ],
+    "verified": false,
+    "note": "Unveiled via MV 2022-07-23; digital streaming started 2022-08-01 with the EP."
+  },
+  {
+    "id": "music-2022-08-01-cookie",
+    "date": "2022-08-01",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Cookie",
+      "en": "Cookie",
+      "original": "Cookie"
+    },
+    "summary": {
+      "ja": "デビューEPからの3曲目。EPと同日公開。",
+      "en": "Third single from the debut EP, released with the EP."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Cookie_(NewJeans_song)",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_discography"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "single",
+      "ep-new-jeans"
+    ],
+    "verified": false
+  },
+  {
+    "id": "music-2022-08-01-new-jeans-ep",
+    "date": "2022-08-01",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "1st EP『New Jeans』",
+      "en": "1st EP 'New Jeans'",
+      "original": "New Jeans"
+    },
+    "summary": {
+      "ja": "デビューEP（Attention / Hype Boy / Cookie / Hurt）。配信8/1、CDは8/8発売。",
+      "en": "Debut EP (Attention / Hype Boy / Cookie / Hurt); digital release Aug 1, CD Aug 8, 2022."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/New_Jeans_(EP)",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_discography",
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "album",
+      "ep"
+    ],
+    "verified": false,
+    "note": "Physical CD (Bag ver./Weverse Album ver.) released 2022-08-08. US physical release via Geffen 2023-03-23."
+  },
+  {
+    "id": "music-2022-12-19-ditto",
+    "date": "2022-12-19",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Ditto",
+      "en": "Ditto",
+      "original": "Ditto"
+    },
+    "summary": {
+      "ja": "シングル1集『OMG』の先行公開曲。",
+      "en": "Pre-release single from the 1st single album 'OMG'."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Ditto_(song)",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_discography",
+      "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4",
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "single",
+      "pre-release",
+      "single-album-omg"
+    ],
+    "verified": false
+  },
+  {
+    "id": "music-2023-01-02-omg",
+    "date": "2023-01-02",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "OMG",
+      "en": "OMG",
+      "original": "OMG"
+    },
+    "summary": {
+      "ja": "シングル1集のタイトル曲。",
+      "en": "Title track of the 1st single album."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/OMG_(NewJeans_song)",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_discography",
+      "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "single",
+      "title-track"
+    ],
+    "verified": false
+  },
+  {
+    "id": "music-2023-01-02-omg-single-album",
+    "date": "2023-01-02",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "シングル1集『OMG』",
+      "en": "1st single album 'OMG'",
+      "original": "OMG"
+    },
+    "summary": {
+      "ja": "1stシングルアルバム（OMG / Ditto）。",
+      "en": "First single album (OMG / Ditto)."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/OMG_(NewJeans_song)",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_discography",
+      "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "album",
+      "single-album"
+    ],
+    "verified": false
+  },
+  {
+    "id": "music-2023-04-03-zero",
+    "date": "2023-04-03",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Zero（コカ・コーラ ゼロ キャンペーンソング）",
+      "en": "Zero (Coca-Cola Zero Sugar campaign song)",
+      "original": "Zero"
+    },
+    "summary": {
+      "ja": "コカ・コーラ ゼロ（韓国）のプロモーションシングル。MVと同時公開。",
+      "en": "Promotional single for Coca-Cola Zero Sugar Korea, released with a MV."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Zero_(NewJeans_song)",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "single",
+      "promotional",
+      "coca-cola"
+    ],
+    "verified": false
+  },
+  {
+    "id": "music-2023-05-17-danielle-part-of-your-world",
+    "date": "2023-05-17",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "저곳으로（『リトル・マーメイド』韓国語版OST）- ダニエル",
+      "en": "Part of Your World (Korean ver., The Little Mermaid OST) - Danielle",
+      "original": "저곳으로"
+    },
+    "summary": {
+      "ja": "ダニエルのソロOST。ディズニー『リトル・マーメイド』韓国語吹替版（アリエル役）の「Part of Your World」。",
+      "en": "Danielle's solo OST: Korean-dubbed 'Part of Your World' for Disney's The Little Mermaid (she voices Ariel)."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Danielle_(singer)",
+    "reference_urls": [
+      "https://v.daum.net/v/20230517151604015",
+      "https://www.generasia.com/wiki/Danielle_(NewJeans)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "ost",
+      "solo",
+      "disney"
+    ],
+    "verified": false,
+    "note": "Generasia lists 2023-05-16; Korea JoongAng Daily/Wikipedia give 2023-05-17 (Wednesday). Using 05-17."
+  },
+  {
+    "id": "music-2023-05-31-be-who-you-are-real-magic",
+    "date": "2023-05-31",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Be Who You Are (Real Magic) - Jon Batiste feat. NewJeans, J.I.D, Camilo, Cat Burns",
+      "en": "Be Who You Are (Real Magic) - Jon Batiste feat. NewJeans, J.I.D, Camilo, Cat Burns",
+      "original": "Be Who You Are (Real Magic)"
+    },
+    "summary": {
+      "ja": "コカ・コーラ「Real Magic」グローバルキャンペーンのコラボ曲。",
+      "en": "Coca-Cola 'Real Magic' global campaign collaboration track."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Jon_Batiste_discography",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://en.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "collaboration",
+      "coca-cola"
+    ],
+    "verified": false,
+    "note": "Date 2023-05-31 from ja.wikipedia and en.wikipedia NewJeans article (unveiled May 31, 2023)."
+  },
+  {
+    "id": "music-2023-06-21-zero-j-i-d-remix",
+    "date": "2023-06-21",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Zero (J.I.D Remix)",
+      "en": "Zero (J.I.D Remix)",
+      "original": "Zero (J.I.D Remix)"
+    },
+    "summary": {
+      "ja": "J.I.D参加の「Zero」リミックス。",
+      "en": "Remix of 'Zero' featuring J.I.D."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Zero_(NewJeans_song)",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "remix",
+      "coca-cola"
+    ],
+    "verified": false,
+    "note": "en.wikipedia gives June 20, 2023 (US time); ja.wikipedia gives 2023-06-21 (KST). Using 06-21."
+  },
+  {
+    "id": "music-2023-07-07-new-jeans-song",
+    "date": "2023-07-07",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "New Jeans（楽曲）",
+      "en": "New Jeans (song)",
+      "original": "New Jeans"
+    },
+    "summary": {
+      "ja": "『Get Up』先行公開曲。パワーパフガールズとのコラボ。",
+      "en": "Pre-release B-side from 'Get Up', made with The Powerpuff Girls."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/New_Jeans_(song)",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_discography",
+      "https://en.wikipedia.org/wiki/Get_Up_(EP)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "pre-release",
+      "ep-get-up"
+    ],
+    "verified": false
+  },
+  {
+    "id": "music-2023-07-07-super-shy",
+    "date": "2023-07-07",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Super Shy",
+      "en": "Super Shy",
+      "original": "Super Shy"
+    },
+    "summary": {
+      "ja": "2nd EP『Get Up』先行シングル（「New Jeans」と同時配信）。",
+      "en": "Pre-release single from the 2nd EP 'Get Up' (released with 'New Jeans')."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Super_Shy",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_discography",
+      "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4",
+      "https://en.wikipedia.org/wiki/Get_Up_(EP)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "single",
+      "pre-release",
+      "ep-get-up"
+    ],
+    "verified": false
+  },
+  {
+    "id": "music-2023-07-21-cool-with-you",
+    "date": "2023-07-21",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Cool With You",
+      "en": "Cool With You",
+      "original": "Cool With You"
+    },
+    "summary": {
+      "ja": "『Get Up』収録シングル。2部構成MV（side A / side B）。",
+      "en": "Single from 'Get Up' with a two-part MV (side A / side B)."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Cool_with_You_(NewJeans_song)",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_discography"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "single",
+      "ep-get-up"
+    ],
+    "verified": false
+  },
+  {
+    "id": "music-2023-07-21-eta",
+    "date": "2023-07-21",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ETA",
+      "en": "ETA",
+      "original": "ETA"
+    },
+    "summary": {
+      "ja": "『Get Up』タイトル曲。MVはAppleとのコラボでiPhone 14 Pro撮影。",
+      "en": "Title track of 'Get Up'; MV shot on iPhone 14 Pro with Apple."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/ETA_(song)",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_discography"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "single",
+      "title-track",
+      "ep-get-up",
+      "apple"
+    ],
+    "verified": false
+  },
+  {
+    "id": "music-2023-07-21-get-up-ep",
+    "date": "2023-07-21",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2nd EP『Get Up』",
+      "en": "2nd EP 'Get Up'",
+      "original": "Get Up"
+    },
+    "summary": {
+      "ja": "2nd EP。収録曲：New Jeans / Super Shy / ETA / Cool With You / Get Up / ASAP。",
+      "en": "Second EP: New Jeans / Super Shy / ETA / Cool With You / Get Up / ASAP."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Get_Up_(EP)",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_discography",
+      "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4",
+      "https://ja.wikipedia.org/wiki/Get_Up_(NewJeans%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "album",
+      "ep"
+    ],
+    "verified": false,
+    "note": "Released 13:00 KST per ja.wikipedia."
+  },
+  {
+    "id": "music-2023-09-01-beautiful-restriction",
+    "date": "2023-09-01",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "아름다운 구속（Netflix『いつかの君に』OST Part 1）",
+      "en": "Beautiful Restriction (A Time Called You OST Part 1)",
+      "original": "아름다운 구속"
+    },
+    "summary": {
+      "ja": "Netflixドラマ『いつかの君に』OST。キム・ジョンソ（1996）のリメイクで、5人全員初のOST。",
+      "en": "Remake of Kim Jong-seo's 1996 song for the Netflix series 'A Time Called You'; first OST by all five members."
+    },
+    "source_url": "https://wiki.d-addicts.com/A_Time_Called_You_OST",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-to-release-its-first-ever-song-for-tv-show/11174516",
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "ost",
+      "netflix"
+    ],
+    "verified": false,
+    "note": "Released 18:00 KST 2023-09-01 per Ten Asia / ADOR announcement."
+  },
+  {
+    "id": "music-2023-10-04-gods",
+    "date": "2023-10-04",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "GODS（League of Legends Worlds 2023 アンセム）",
+      "en": "GODS (League of Legends Worlds 2023 Anthem)",
+      "original": "GODS"
+    },
+    "summary": {
+      "ja": "Riot Games「Worlds 2023」公式アンセム。MVはLeague of Legends公式チャンネルで公開。",
+      "en": "Riot Games' Worlds 2023 anthem featuring NewJeans; MV on the League of Legends channel."
+    },
+    "source_url": "https://www.invenglobal.com/articles/18561/riot-games-releases-theme-song-gods-for-worlds-2023",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://en.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "collaboration",
+      "riot-games",
+      "league-of-legends"
+    ],
+    "verified": false,
+    "note": "Premiered 14:00 KST 2023-10-04 (Oct 3 in US time)."
+  },
+  {
+    "id": "music-2023-11-24-our-night-my-demon-ost",
+    "date": "2023-11-24",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "우리의 밤은 당신의 낮보다 아름답다（SBS『マイ・デーモン』OST Part 1）",
+      "en": "Our Night is more beautiful than your Day (My Demon OST Part 1)",
+      "original": "우리의 밤은 당신의 낮보다 아름답다"
+    },
+    "summary": {
+      "ja": "SBSドラマ『マイ・デーモン』OST。コナ（1996）のリメイク、編曲は250。",
+      "en": "OST for SBS drama 'My Demon'; remake of Kona's 1996 song arranged by 250."
+    },
+    "source_url": "https://kbizoom.com/?p=572715",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans",
+      "https://en.wikipedia.org/wiki/NewJeans_discography"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "ost",
+      "sbs"
+    ],
+    "verified": false,
+    "note": "Released 18:00 KST 2023-11-24. ja.wikipedia lists 2024-03-02, which appears to be an error."
+  },
+  {
+    "id": "music-2023-12-19-njwmx",
+    "date": "2023-12-19",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "リミックスアルバム『NJWMX』",
+      "en": "Remix album 'NJWMX'",
+      "original": "NJWMX"
+    },
+    "summary": {
+      "ja": "デジタルリミックスアルバム。250・FRNKによるDitto / OMG / Attention / Hype Boy / Cookie / Hurtのリミックス（＋インスト）。",
+      "en": "Digital remix album: 250 and FRNK remixes of Ditto / OMG / Attention / Hype Boy / Cookie / Hurt (+instrumentals)."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NJWMX",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_discography",
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "album",
+      "remix"
+    ],
+    "verified": false
+  },
+  {
+    "id": "music-2024-01-01-danielle-butterflies-with-you",
+    "date": "2024-01-01",
+    "date_type": "release",
+    "date_precision": "year",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "Butterflies (With You) - ダニエル（未確認）",
+      "en": "Butterflies (With You) - Danielle (unconfirmed)",
+      "original": "Butterflies (With You)"
+    },
+    "summary": {
+      "ja": "en.wikipediaのダニエル項目に2024年の非アルバムシングルとして記載。公式ソース未確認。",
+      "en": "Listed on en.wikipedia (Danielle page) as a 2024 non-album single; no official source found."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Danielle_(singer)",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "solo",
+      "unconfirmed"
+    ],
+    "verified": false,
+    "note": "Only the year is given on Wikipedia; could not be corroborated. Treat as unconfirmed."
+  },
+  {
+    "id": "music-2024-04-27-bubble-gum",
+    "date": "2024-04-27",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Bubble Gum",
+      "en": "Bubble Gum",
+      "original": "Bubble Gum"
+    },
+    "summary": {
+      "ja": "シングル2集『How Sweet』先行公開曲。MVは4/27公開。",
+      "en": "Pre-release track from the 2nd single album 'How Sweet'; MV released Apr 27."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Bubble_Gum_(NewJeans_song)",
+    "reference_urls": [
+      "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4",
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "pre-release",
+      "single-album-how-sweet"
+    ],
+    "verified": false,
+    "note": "MV released 2024-04-27 KST; digital release as B-side on 2024-05-24. Japanese version used in Kao Essential CM / Mezamashi 8 from April 2024."
+  },
+  {
+    "id": "music-2024-05-24-how-sweet",
+    "date": "2024-05-24",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "How Sweet",
+      "en": "How Sweet",
+      "original": "How Sweet"
+    },
+    "summary": {
+      "ja": "シングル2集のタイトル曲。",
+      "en": "Title track of the 2nd single album."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/How_Sweet",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_discography"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "single",
+      "title-track"
+    ],
+    "verified": false
+  },
+  {
+    "id": "music-2024-05-24-how-sweet-single-album",
+    "date": "2024-05-24",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "シングル2集『How Sweet』",
+      "en": "2nd single album 'How Sweet'",
+      "original": "How Sweet"
+    },
+    "summary": {
+      "ja": "2ndシングルアルバム（How Sweet / Bubble Gum ＋インスト）。",
+      "en": "Second single album (How Sweet / Bubble Gum + instrumentals)."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/How_Sweet",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_discography",
+      "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4",
+      "https://ja.wikipedia.org/wiki/How_Sweet"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "album",
+      "single-album"
+    ],
+    "verified": false
+  },
+  {
+    "id": "music-2024-06-21-right-now",
+    "date": "2024-06-21",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Right Now",
+      "en": "Right Now",
+      "original": "Right Now"
+    },
+    "summary": {
+      "ja": "日本デビューシングル『Supernatural』のカップリング。村上隆コラボのMVは6/17先行公開。",
+      "en": "B-side of the Japan debut single 'Supernatural'; MV (with Takashi Murakami) pre-released Jun 17."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Right_Now_(NewJeans_song)",
+    "reference_urls": [
+      "https://v.daum.net/v/20240610170141882",
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "japan-debut",
+      "single-supernatural"
+    ],
+    "verified": false,
+    "note": "MV released 2024-06-17 KST; audio released 2024-06-21 with the single."
+  },
+  {
+    "id": "music-2024-06-21-supernatural",
+    "date": "2024-06-21",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Supernatural",
+      "en": "Supernatural",
+      "original": "Supernatural"
+    },
+    "summary": {
+      "ja": "日本デビューシングルのタイトル曲。韓国でも活動。",
+      "en": "Title track of the Japan debut single; also promoted in Korea."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Supernatural_(NewJeans_song)",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_discography"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "single",
+      "title-track",
+      "japan"
+    ],
+    "verified": false
+  },
+  {
+    "id": "music-2024-06-21-supernatural-japan-single",
+    "date": "2024-06-21",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本1stシングル『Supernatural』",
+      "en": "Japan 1st single 'Supernatural'",
+      "original": "Supernatural"
+    },
+    "summary": {
+      "ja": "日本デビューシングル（CD＋配信）。Supernatural / Right Now ＋インスト。Pharrell Williamsプロデュース。",
+      "en": "Japanese debut single (CD + digital): Supernatural / Right Now + instrumentals. Produced with Pharrell Williams."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Supernatural_(NewJeans_song)",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_discography",
+      "https://ja.wikipedia.org/wiki/Supernatural_(NewJeans%E3%81%AE%E6%9B%B2)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "album",
+      "single",
+      "japan",
+      "japan-debut"
+    ],
+    "verified": false,
+    "note": "CD formats: Drawstring bag ver., Crossbody bag ver., Weverse-exclusive ver. Oricon weekly singles: No.10 then No.4."
+  },
+  {
+    "id": "music-2025-03-23-pit-stop",
+    "date": "2025-03-23",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "njz",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Pit Stop（未発表曲・NJZ名義でライブ初披露）",
+      "en": "Pit Stop (unreleased, performed live as NJZ)",
+      "original": "Pit Stop"
+    },
+    "summary": {
+      "ja": "2025年3月23日ComplexCon香港で初披露された新曲。その後活動休止を発表。正式リリースはされていない。",
+      "en": "New song debuted live at ComplexCon Hong Kong on Mar 23, 2025; the group then announced a pause in activities. Never officially released."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [
+      "https://www.gmanetwork.com/news/showbiz/showbizabroad/940293/njz-newjeans-debuts-new-song-in-hongkong-fest-announces-hiatus/story"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "njz",
+      "unreleased",
+      "complexcon"
+    ],
+    "verified": false,
+    "note": "Not an official release. Performed two days after the 2025-03-21 court injunction barring independent activities; a Kbizoom lyrics page lists 'Released: March 24, 2025' but this is not corroborated."
+  }
+]

@@ -1,1 +1,3751 @@
-[]
+[
+  {
+    "id": "mv-2022-07-22-attention-official-mv",
+    "date": "2022-07-22",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Attention」Official MV",
+      "en": "'Attention' Official MV"
+    },
+    "summary": {
+      "ja": "サプライズ公開されたデビューMV（監督：シン・ヒウォン）。",
+      "en": "Surprise debut MV (dir. Shin Hee-won)."
+    },
+    "source_url": "https://www.youtube.com/watch?v=js1CtxSY38I",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography",
+      "https://en.wikipedia.org/wiki/Attention_(NewJeans_song)"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "js1CtxSY38I"
+    },
+    "tags": [
+      "mv",
+      "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2022-07-22-attention-official-mv-performance-ver",
+    "date": "2022-07-22",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Attention」Official MV (Performance ver.)",
+      "en": "'Attention' Official MV (Performance ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=x8RIixqumUc",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Attention_(NewJeans_song)"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "x8RIixqumUc"
+    },
+    "tags": [
+      "mv",
+      "performance",
+      "hybe-labels-channel"
+    ],
+    "verified": true,
+    "note": "YouTube shows Jul 21, 2022 (PT) = Jul 22 KST; Wikipedia says the choreography video was released the same day as the MV."
+  },
+  {
+    "id": "mv-2022-07-23-hype-boy-danielle-haerin-ver",
+    "date": "2022-07-23",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "danielle",
+      "haerin"
+    ],
+    "title": {
+      "ja": "「Hype Boy」Official MV (DANIELLE&HAERIN ver.)",
+      "en": "'Hype Boy' Official MV (DANIELLE&HAERIN ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=9wUKhEgnllc",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography",
+      "https://en.wikipedia.org/wiki/Hype_Boy"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "9wUKhEgnllc"
+    },
+    "tags": [
+      "mv",
+      "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2022-07-23-hype-boy-hanni-ver",
+    "date": "2022-07-23",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "「Hype Boy」Official MV (HANNI ver.)",
+      "en": "'Hype Boy' Official MV (HANNI ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=jM-K-h9gUdM",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography",
+      "https://en.wikipedia.org/wiki/Hype_Boy"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "jM-K-h9gUdM"
+    },
+    "tags": [
+      "mv",
+      "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2022-07-23-hype-boy-hyein-ver",
+    "date": "2022-07-23",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "「Hype Boy」Official MV (HYEIN ver.)",
+      "en": "'Hype Boy' Official MV (HYEIN ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=j6r7Px6w2ik",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography",
+      "https://en.wikipedia.org/wiki/Hype_Boy"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "j6r7Px6w2ik"
+    },
+    "tags": [
+      "mv",
+      "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2022-07-23-hype-boy-intro",
+    "date": "2022-07-23",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Hype Boy」Official MV (Intro)",
+      "en": "'Hype Boy' Official MV (Intro)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=SHYWqy_X-tU",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography",
+      "https://en.wikipedia.org/wiki/Hype_Boy"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "SHYWqy_X-tU"
+    },
+    "tags": [
+      "mv",
+      "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2022-07-23-hype-boy-minji-ver",
+    "date": "2022-07-23",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "「Hype Boy」Official MV (MINJI ver.)",
+      "en": "'Hype Boy' Official MV (MINJI ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=Rrf8uQFvICE",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography",
+      "https://en.wikipedia.org/wiki/Hype_Boy"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "Rrf8uQFvICE"
+    },
+    "tags": [
+      "mv",
+      "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2022-07-25-hurt-official-mv",
+    "date": "2022-07-25",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Hurt」Official MV",
+      "en": "'Hurt' Official MV"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=tVIXY14aJms",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography",
+      "https://en.wikipedia.org/wiki/New_Jeans_(EP)"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "tVIXY14aJms"
+    },
+    "tags": [
+      "mv",
+      "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2022-08-01-cookie-official-mv",
+    "date": "2022-08-01",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Cookie」Official MV",
+      "en": "'Cookie' Official MV"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=VOmIplFAGeg",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography",
+      "https://en.wikipedia.org/wiki/Cookie_(NewJeans_song)"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "VOmIplFAGeg"
+    },
+    "tags": [
+      "mv",
+      "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2022-08-13-hype-boy-special-performance-video",
+    "date": "2022-08-13",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Hype Boy」Special Performance Video",
+      "en": "'Hype Boy' Special Performance Video"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=Gw2jHej29QE",
+    "reference_urls": [
+      "https://www.j-cast.com/2024/04/09481114.html",
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2022"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "Gw2jHej29QE"
+    },
+    "tags": [
+      "performance",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "note": "YouTube shows Aug 12, 2022 (PT) = Aug 13 KST; J-CAST and TheTVDB give Aug 13."
+  },
+  {
+    "id": "mv-2022-08-17-hurt-special-video",
+    "date": "2022-08-17",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Hurt」Special Video",
+      "en": "'Hurt' Special Video"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=-L7eMf6Yf84",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2022"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "-L7eMf6Yf84"
+    },
+    "tags": [
+      "special-video",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "note": "YouTube shows Aug 17, 2022 (PT); TheTVDB also Aug 17."
+  },
+  {
+    "id": "mv-2022-08-18-attention-dance-practice",
+    "date": "2022-08-18",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Attention」Dance Practice",
+      "en": "'Attention' Dance Practice"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=1VAn7CX_omg",
+    "reference_urls": [
+      "https://soompi.com/article/1541278wpp/watch-newjeans-drops-dance-practice-videos-for-attention-hype-boy-and-cookie",
+      "https://www.j-cast.com/2024/04/09481114.html"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "1VAn7CX_omg"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2022-08-18-cookie-dance-practice",
+    "date": "2022-08-18",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Cookie」Dance Practice",
+      "en": "'Cookie' Dance Practice"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=9yXe2HXcqcQ",
+    "reference_urls": [
+      "https://soompi.com/article/1541278wpp/watch-newjeans-drops-dance-practice-videos-for-attention-hype-boy-and-cookie"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "9yXe2HXcqcQ"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2022-08-18-hype-boy-dance-practice",
+    "date": "2022-08-18",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Hype Boy」Dance Practice",
+      "en": "'Hype Boy' Dance Practice"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=9JcJ5E1BloU",
+    "reference_urls": [
+      "https://soompi.com/article/1541278wpp/watch-newjeans-drops-dance-practice-videos-for-attention-hype-boy-and-cookie",
+      "https://www.j-cast.com/2024/04/09481114.html"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "9JcJ5E1BloU"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2022-08-18-hype-boy-official-mv-performance-ver-1",
+    "date": "2022-08-18",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Hype Boy」Official MV (Performance ver.1)",
+      "en": "'Hype Boy' Official MV (Performance ver.1)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=11cta61wi0g",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "11cta61wi0g"
+    },
+    "tags": [
+      "mv",
+      "performance",
+      "hybe-labels-channel"
+    ],
+    "verified": true,
+    "note": "YouTube shows Aug 18, 2022 (PT); ja.wikipedia 2022-08-18."
+  },
+  {
+    "id": "mv-2022-08-24-hype-boy-official-mv-performance-ver-2",
+    "date": "2022-08-24",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Hype Boy」Official MV (Performance ver.2)",
+      "en": "'Hype Boy' Official MV (Performance ver.2)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=S4UEJePR0UE",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "S4UEJePR0UE"
+    },
+    "tags": [
+      "mv",
+      "performance",
+      "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2022-08-26-attention-dance-practice-ver-2",
+    "date": "2022-08-26",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Attention」Dance Practice (ver.2)",
+      "en": "'Attention' Dance Practice (ver.2)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=mzkbi6xNmSg",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2022"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "mzkbi6xNmSg"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2022-08-26-cookie-dance-practice-ver-2",
+    "date": "2022-08-26",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Cookie」Dance Practice (ver.2)",
+      "en": "'Cookie' Dance Practice (ver.2)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=yM5JW2kK3yw",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2022"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "yM5JW2kK3yw"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2022-08-26-hype-boy-dance-practice-ver-2",
+    "date": "2022-08-26",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Hype Boy」Dance Practice (ver.2)",
+      "en": "'Hype Boy' Dance Practice (ver.2)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=XcqAB1tIfhg",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2022"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "XcqAB1tIfhg"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2022-08-28-attention-dance-practice-ver-3",
+    "date": "2022-08-28",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Attention」Dance Practice (ver.3)",
+      "en": "'Attention' Dance Practice (ver.3)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=Sv2MLXAT8Bw",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2022"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "Sv2MLXAT8Bw"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2022-08-28-cookie-dance-practice-ver-3",
+    "date": "2022-08-28",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Cookie」Dance Practice (ver.3)",
+      "en": "'Cookie' Dance Practice (ver.3)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=a6QHqiQXkjA",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2022"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "a6QHqiQXkjA"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2022-08-28-hype-boy-dance-practice-ver-3",
+    "date": "2022-08-28",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Hype Boy」Dance Practice (ver.3)",
+      "en": "'Hype Boy' Dance Practice (ver.3)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=DAjNQv5TXfU",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2022"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "DAjNQv5TXfU"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2022-12-06-2022-mma-dance-practice-cookie-hype-boy-attention",
+    "date": "2022-12-06",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2022 MMA Dance Practice (Cookie+Hype Boy+Attention)",
+      "en": "2022 MMA Dance Practice (Cookie+Hype Boy+Attention)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=Dxca41EhMb8",
+    "reference_urls": [
+      "https://www.j-cast.com/2024/04/09481114.html",
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2022"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "Dxca41EhMb8"
+    },
+    "tags": [
+      "dance-practice",
+      "award-show",
+      "newjeans-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2022-12-19-ditto-official-mv-side-a",
+    "date": "2022-12-19",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Ditto」Official MV (side A)",
+      "en": "'Ditto' Official MV (side A)"
+    },
+    "summary": {
+      "ja": "シン・ウソク監督による2部構成MV。",
+      "en": "Two-part MV directed by Shin Woo-seok (Dolphiners Films)."
+    },
+    "source_url": "https://www.youtube.com/watch?v=pSUydWEqKwE",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography",
+      "https://en.wikipedia.org/wiki/Ditto_(song)",
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "pSUydWEqKwE"
+    },
+    "tags": [
+      "mv",
+      "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2022-12-19-ditto-official-mv-side-b",
+    "date": "2022-12-19",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Ditto」Official MV (side B)",
+      "en": "'Ditto' Official MV (side B)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=V37TaRdVUQY",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography",
+      "https://en.wikipedia.org/wiki/Ditto_(song)",
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "V37TaRdVUQY"
+    },
+    "tags": [
+      "mv",
+      "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2022-12-28-hurt-250-remix-special-video",
+    "date": "2022-12-28",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Hurt (250 Remix)」Special Video",
+      "en": "'Hurt (250 Remix)' Special Video"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=uONSk48LW1A",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "uONSk48LW1A"
+    },
+    "tags": [
+      "special-video",
+      "remix",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "note": "YouTube/Wikipedia show Dec 28, 2022 (US time); KST may be Dec 28 or 29."
+  },
+  {
+    "id": "mv-2022-12-30-ditto-performance-video",
+    "date": "2022-12-30",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Ditto」Performance Video",
+      "en": "'Ditto' Performance Video"
+    },
+    "summary": {
+      "ja": "2022年12月30日19時（KST）公開。のちに1億回再生を突破。",
+      "en": "Released Dec 30, 2022 19:00 KST; later passed 100M views."
+    },
+    "source_url": "https://www.youtube.com/watch?v=Km71Rr9K-Bw",
+    "reference_urls": [
+      "https://soompi.com/article/1619732wpp/newjeans-ditto-performance-video-surpasses-100-million-views",
+      "https://www.j-cast.com/2024/04/09481114.html"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "Km71Rr9K-Bw"
+    },
+    "tags": [
+      "performance",
+      "newjeans-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2022-12-31-ditto-performance-danielle-ver",
+    "date": "2022-12-31",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "「Ditto」Performance Video (DANIELLE ver.)",
+      "en": "'Ditto' Performance Video (DANIELLE ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=YJ76c3QQ0Yo",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2022"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "YJ76c3QQ0Yo"
+    },
+    "tags": [
+      "performance",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "note": "YouTube shows Dec 31, 2022 (PT); TheTVDB lists six Dec 31 uploads, consistent with Dec 31 KST."
+  },
+  {
+    "id": "mv-2022-12-31-ditto-performance-fix-ver",
+    "date": "2022-12-31",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Ditto」Performance Video (Fix ver.)",
+      "en": "'Ditto' Performance Video (Fix ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=QJPk1K1QF-U",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2022"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "QJPk1K1QF-U"
+    },
+    "tags": [
+      "performance",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "note": "YouTube shows Dec 31, 2022 (PT); TheTVDB lists six Dec 31 uploads, consistent with Dec 31 KST."
+  },
+  {
+    "id": "mv-2022-12-31-ditto-performance-haerin-ver",
+    "date": "2022-12-31",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "「Ditto」Performance Video (HAERIN ver.)",
+      "en": "'Ditto' Performance Video (HAERIN ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=YuUYjG8lO4E",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2022"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "YuUYjG8lO4E"
+    },
+    "tags": [
+      "performance",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "note": "YouTube shows Dec 31, 2022 (PT); TheTVDB lists six Dec 31 uploads, consistent with Dec 31 KST."
+  },
+  {
+    "id": "mv-2022-12-31-ditto-performance-hanni-ver",
+    "date": "2022-12-31",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "「Ditto」Performance Video (HANNI ver.)",
+      "en": "'Ditto' Performance Video (HANNI ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=_nTXZuR_Cs0",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2022"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "_nTXZuR_Cs0"
+    },
+    "tags": [
+      "performance",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "note": "YouTube shows Dec 31, 2022 (PT); TheTVDB lists six Dec 31 uploads, consistent with Dec 31 KST."
+  },
+  {
+    "id": "mv-2022-12-31-ditto-performance-hyein-ver",
+    "date": "2022-12-31",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "「Ditto」Performance Video (HYEIN ver.)",
+      "en": "'Ditto' Performance Video (HYEIN ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=nprwN0QhgnI",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2022"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "nprwN0QhgnI"
+    },
+    "tags": [
+      "performance",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "note": "YouTube shows Dec 31, 2022 (PT); TheTVDB lists six Dec 31 uploads, consistent with Dec 31 KST."
+  },
+  {
+    "id": "mv-2022-12-31-ditto-performance-minji-ver",
+    "date": "2022-12-31",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "「Ditto」Performance Video (MINJI ver.)",
+      "en": "'Ditto' Performance Video (MINJI ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=sUz5DERlAok",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2022"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "sUz5DERlAok"
+    },
+    "tags": [
+      "performance",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "note": "YouTube shows Dec 31, 2022 (PT); TheTVDB lists six Dec 31 uploads, consistent with Dec 31 KST."
+  },
+  {
+    "id": "mv-2023-01-01-ditto-dance-practice",
+    "date": "2023-01-01",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Ditto」Dance Practice",
+      "en": "'Ditto' Dance Practice"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=G_1zDzhAz9w",
+    "reference_urls": [
+      "https://www.j-cast.com/2024/04/09481114.html"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "G_1zDzhAz9w"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2023-01-02-omg-official-mv",
+    "date": "2023-01-02",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「OMG」Official MV",
+      "en": "'OMG' Official MV"
+    },
+    "summary": {
+      "ja": "シン・ウソク監督による約6分のMV。",
+      "en": "Six-minute MV directed by Shin Woo-seok."
+    },
+    "source_url": "https://www.youtube.com/watch?v=_ZAgIHmHLdc",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography",
+      "https://en.wikipedia.org/wiki/OMG_(NewJeans_song)"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "_ZAgIHmHLdc"
+    },
+    "tags": [
+      "mv",
+      "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2023-01-03-omg-official-mv-performance-ver-1",
+    "date": "2023-01-03",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「OMG」Official MV (Performance ver.1)",
+      "en": "'OMG' Official MV (Performance ver.1)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=sVTy_wmn5SU",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "sVTy_wmn5SU"
+    },
+    "tags": [
+      "mv",
+      "performance",
+      "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2023-01-03-omg-official-mv-performance-ver-2",
+    "date": "2023-01-03",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「OMG」Official MV (Performance ver.2)",
+      "en": "'OMG' Official MV (Performance ver.2)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=dgKui19_rU0",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "dgKui19_rU0"
+    },
+    "tags": [
+      "mv",
+      "performance",
+      "hybe-labels-channel"
+    ],
+    "verified": false,
+    "note": "Date from ja.wikipedia; YouTube date not fetched."
+  },
+  {
+    "id": "mv-2023-01-04-omg-official-mv-performance-ver-3",
+    "date": "2023-01-04",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「OMG」Official MV (Performance ver.3)",
+      "en": "'OMG' Official MV (Performance ver.3)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=eKZzOcgN4AI",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "eKZzOcgN4AI"
+    },
+    "tags": [
+      "mv",
+      "performance",
+      "hybe-labels-channel"
+    ],
+    "verified": false,
+    "note": "ja.wikipedia gives 2023-01-04 (KST); YouTube shows Jan 3, 2023 (PT), consistent with a midnight-KST release."
+  },
+  {
+    "id": "mv-2023-01-06-omg-dance-practice",
+    "date": "2023-01-06",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「OMG」Dance Practice",
+      "en": "'OMG' Dance Practice"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=_Xs1ZCMfa2Y",
+    "reference_urls": [
+      "https://www.j-cast.com/2024/04/09481114.html"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "_Xs1ZCMfa2Y"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2023-01-06-omg-dance-practice-fix-ver",
+    "date": "2023-01-06",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「OMG」Dance Practice (Fix ver.)",
+      "en": "'OMG' Dance Practice (Fix ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=xbvjjhyaoSA",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "xbvjjhyaoSA"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "TheTVDB lists two Jan 6, 2023 uploads (assumed to be the two OMG dance practice versions); YouTube date not fetched."
+  },
+  {
+    "id": "mv-2023-01-08-omg-performance-danielle-ver",
+    "date": "2023-01-08",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "「OMG」Performance Video (DANIELLE ver.)",
+      "en": "'OMG' Performance Video (DANIELLE ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=DoVvF2LVAPk",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "DoVvF2LVAPk"
+    },
+    "tags": [
+      "performance",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "note": "YouTube shows Jan 8, 2023 (PT); TheTVDB lists seven Jan 8 uploads."
+  },
+  {
+    "id": "mv-2023-01-08-omg-performance-fix-ver",
+    "date": "2023-01-08",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「OMG」Performance Video (Fix ver.)",
+      "en": "'OMG' Performance Video (Fix ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=m3sM0zIG1jY",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "m3sM0zIG1jY"
+    },
+    "tags": [
+      "performance",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "note": "YouTube shows Jan 8, 2023 (PT); TheTVDB lists seven Jan 8 uploads."
+  },
+  {
+    "id": "mv-2023-01-08-omg-performance-haerin-ver",
+    "date": "2023-01-08",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "「OMG」Performance Video (HAERIN ver.)",
+      "en": "'OMG' Performance Video (HAERIN ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=BTwAFikXV_o",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "BTwAFikXV_o"
+    },
+    "tags": [
+      "performance",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "note": "YouTube shows Jan 8, 2023 (PT); TheTVDB lists seven Jan 8 uploads."
+  },
+  {
+    "id": "mv-2023-01-08-omg-performance-hanni-ver",
+    "date": "2023-01-08",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "「OMG」Performance Video (HANNI ver.)",
+      "en": "'OMG' Performance Video (HANNI ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=h4RI18NeN6g",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "h4RI18NeN6g"
+    },
+    "tags": [
+      "performance",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "note": "YouTube shows Jan 8, 2023 (PT); TheTVDB lists seven Jan 8 uploads."
+  },
+  {
+    "id": "mv-2023-01-08-omg-performance-hyein-ver",
+    "date": "2023-01-08",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "「OMG」Performance Video (HYEIN ver.)",
+      "en": "'OMG' Performance Video (HYEIN ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=bXjM1nFMxr8",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "bXjM1nFMxr8"
+    },
+    "tags": [
+      "performance",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "note": "YouTube shows Jan 8, 2023 (PT); TheTVDB lists seven Jan 8 uploads."
+  },
+  {
+    "id": "mv-2023-01-08-omg-performance-minji-ver",
+    "date": "2023-01-08",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "「OMG」Performance Video (MINJI ver.)",
+      "en": "'OMG' Performance Video (MINJI ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=F4yf9J9Ea5g",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "F4yf9J9Ea5g"
+    },
+    "tags": [
+      "performance",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "note": "YouTube shows Jan 8, 2023 (PT); TheTVDB lists seven Jan 8 uploads."
+  },
+  {
+    "id": "mv-2023-01-08-the-37th-golden-disc-awards-dance-practice",
+    "date": "2023-01-08",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第37回ゴールデンディスクアワード Dance Practice",
+      "en": "The 37th GOLDEN DISC AWARDS Dance Practice"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=Q3sF0lV4nww",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "Q3sF0lV4nww"
+    },
+    "tags": [
+      "dance-practice",
+      "award-show",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "YouTube shows Jan 7, 2023 (PT) = Jan 8 KST; TheTVDB lists seven Jan 8 uploads."
+  },
+  {
+    "id": "mv-2023-04-03-zero-official-mv",
+    "date": "2023-04-03",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Zero」Official MV",
+      "en": "'Zero' Official MV"
+    },
+    "summary": {
+      "ja": "コカ・コーラ ゼロ キャンペーンソングのMV。",
+      "en": "MV for the Coca-Cola Zero Sugar campaign song."
+    },
+    "source_url": "https://www.youtube.com/watch?v=XIOoqJyx8E4",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Zero_(NewJeans_song)",
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://www.j-cast.com/2024/04/09481114.html"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "XIOoqJyx8E4"
+    },
+    "tags": [
+      "mv",
+      "coca-cola",
+      "newjeans-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2023-04-10-zero-performance-video",
+    "date": "2023-04-10",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Zero」Performance Video",
+      "en": "'Zero' Performance Video"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=DrNtuAgwWgQ",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "DrNtuAgwWgQ"
+    },
+    "tags": [
+      "performance",
+      "coca-cola",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "YouTube shows Apr 9, 2023 (PT); TheTVDB lists Apr 10 (KST)."
+  },
+  {
+    "id": "mv-2023-06-29-intro-omg-stage-cam-2023-weverse-con-festival",
+    "date": "2023-06-29",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「INTRO+OMG」Stage Cam @ 2023 Weverse Con Festival",
+      "en": "'INTRO+OMG' Stage Cam @ 2023 Weverse Con Festival"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=T6CWrx166Z0",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "T6CWrx166Z0"
+    },
+    "tags": [
+      "stage-cam",
+      "live",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2023-07-07-new-jeans-official-mv",
+    "date": "2023-07-07",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「New Jeans」Official MV",
+      "en": "'New Jeans' Official MV"
+    },
+    "summary": {
+      "ja": "0時（KST）公開。パワーパフガールズとのコラボ（監督：イ・ヨンウム）。",
+      "en": "Released 00:00 KST; collaboration with The Powerpuff Girls (dir. Youngeum Lee)."
+    },
+    "source_url": "https://www.youtube.com/watch?v=kcelgrGY1h8",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography",
+      "https://en.wikipedia.org/wiki/New_Jeans_(song)",
+      "https://ja.wikipedia.org/wiki/Get_Up_(NewJeans%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0)"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "kcelgrGY1h8"
+    },
+    "tags": [
+      "mv",
+      "powerpuff-girls",
+      "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2023-07-07-super-shy-dance-practice",
+    "date": "2023-07-07",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Super Shy」Dance Practice",
+      "en": "'Super Shy' Dance Practice"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=wU2siJ2c5TA",
+    "reference_urls": [
+      "https://www.j-cast.com/2024/04/09481114.html"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "wU2siJ2c5TA"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2023-07-07-super-shy-official-mv",
+    "date": "2023-07-07",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Super Shy」Official MV",
+      "en": "'Super Shy' Official MV"
+    },
+    "summary": {
+      "ja": "13時（KST）公開（監督：シン・ヒウォン）。",
+      "en": "Released 13:00 KST (dir. Shin Hee-won)."
+    },
+    "source_url": "https://www.youtube.com/watch?v=ArmDp-zijuc",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography",
+      "https://en.wikipedia.org/wiki/Super_Shy",
+      "https://ja.wikipedia.org/wiki/Get_Up_(NewJeans%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0)"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "ArmDp-zijuc"
+    },
+    "tags": [
+      "mv",
+      "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2023-07-10-super-shy-dance-practice-fix-ver",
+    "date": "2023-07-10",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Super Shy」Dance Practice (Fix ver.)",
+      "en": "'Super Shy' Dance Practice (Fix ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=qsHvdRA0a6o",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "qsHvdRA0a6o"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. TheTVDB lists uploads on both Jul 10 and Jul 11, 2023."
+  },
+  {
+    "id": "mv-2023-07-12-new-jeans-dance-practice",
+    "date": "2023-07-12",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「New Jeans」Dance Practice",
+      "en": "'New Jeans' Dance Practice"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=Dg_sagtPGSE",
+    "reference_urls": [
+      "https://www.soompi.com/article/1600216wpp/watch-newjeans-reveals-choreo-for-new-jeans-in-2-new-dance-practice-videos"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "Dg_sagtPGSE"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2023-07-12-new-jeans-dance-practice-fix-ver",
+    "date": "2023-07-12",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「New Jeans」Dance Practice (Fix ver.)",
+      "en": "'New Jeans' Dance Practice (Fix ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=fHi1mAYCHnI",
+    "reference_urls": [
+      "https://www.soompi.com/article/1600216wpp/watch-newjeans-reveals-choreo-for-new-jeans-in-2-new-dance-practice-videos"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "fHi1mAYCHnI"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2023-07-20-cool-with-you-get-up-official-mv-side-b",
+    "date": "2023-07-20",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Cool With You」&「Get Up」Official MV (side B)",
+      "en": "'Cool With You' & 'Get Up' Official MV (side B)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=nJDMAjwxthM",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://ja.wikipedia.org/wiki/Get_Up_(NewJeans%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0)",
+      "https://en.wikipedia.org/wiki/NewJeans_videography"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "nJDMAjwxthM"
+    },
+    "tags": [
+      "mv",
+      "hybe-labels-channel"
+    ],
+    "verified": false,
+    "note": "Date from ja.wikipedia (KST); en.wikipedia gives Jul 19 (US time). YouTube date not fetched."
+  },
+  {
+    "id": "mv-2023-07-20-cool-with-you-official-mv-side-a",
+    "date": "2023-07-20",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Cool With You」Official MV (side A)",
+      "en": "'Cool With You' Official MV (side A)"
+    },
+    "summary": {
+      "ja": "シン・ウソク監督、バルセロナ撮影の2部構成MV。",
+      "en": "Two-part MV directed by Shin Woo-seok, shot in Barcelona."
+    },
+    "source_url": "https://www.youtube.com/watch?v=zsYSSVoQnP4",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://ja.wikipedia.org/wiki/Get_Up_(NewJeans%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0)",
+      "https://en.wikipedia.org/wiki/NewJeans_videography"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "zsYSSVoQnP4"
+    },
+    "tags": [
+      "mv",
+      "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2023-07-21-cool-with-you-official-mv-performance-ver",
+    "date": "2023-07-21",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Cool With You」Official MV (Performance ver.)",
+      "en": "'Cool With You' Official MV (Performance ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=kKsivrgoyDw",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "kKsivrgoyDw"
+    },
+    "tags": [
+      "mv",
+      "performance",
+      "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2023-07-21-eta-official-mv",
+    "date": "2023-07-21",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「ETA」Official MV",
+      "en": "'ETA' Official MV"
+    },
+    "summary": {
+      "ja": "13時（KST）公開。AppleとのコラボでiPhone 14 Pro撮影（監督：シン・ウソク）。",
+      "en": "Released 13:00 KST; shot on iPhone 14 Pro with Apple (dir. Shin Woo-seok)."
+    },
+    "source_url": "https://www.youtube.com/watch?v=jOTfBlKSQYY",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography",
+      "https://en.wikipedia.org/wiki/ETA_(song)",
+      "https://ja.wikipedia.org/wiki/Get_Up_(NewJeans%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0)"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "jOTfBlKSQYY"
+    },
+    "tags": [
+      "mv",
+      "apple",
+      "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2023-07-22-eta-dance-practice",
+    "date": "2023-07-22",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「ETA」Dance Practice",
+      "en": "'ETA' Dance Practice"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=zzwWzLY7kEo",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "zzwWzLY7kEo"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "note": "YouTube shows Jul 21, 2023 (PT) = Jul 22 KST; TheTVDB lists two Jul 22 uploads."
+  },
+  {
+    "id": "mv-2023-07-22-eta-dance-practice-fix-ver",
+    "date": "2023-07-22",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「ETA」Dance Practice (Fix ver.)",
+      "en": "'ETA' Dance Practice (Fix ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=tqbe3zu3qjM",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "tqbe3zu3qjM"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "note": "YouTube shows Jul 21, 2023 (PT) = Jul 22 KST; TheTVDB lists two Jul 22 uploads."
+  },
+  {
+    "id": "mv-2023-07-25-eta-official-mv-performance-ver",
+    "date": "2023-07-25",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「ETA」Official MV (Performance ver.)",
+      "en": "'ETA' Official MV (Performance ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=s4Ow55AbdCg",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "s4Ow55AbdCg"
+    },
+    "tags": [
+      "mv",
+      "performance",
+      "hybe-labels-channel"
+    ],
+    "verified": true,
+    "note": "YouTube shows Jul 24, 2023 (PT); ja.wikipedia 2023-07-25 (KST)."
+  },
+  {
+    "id": "mv-2023-07-26-asap-official-mv",
+    "date": "2023-07-26",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「ASAP」Official MV",
+      "en": "'ASAP' Official MV"
+    },
+    "summary": {
+      "ja": "監督：キム・ジャギョン。",
+      "en": "Directed by Jakyoung Kim."
+    },
+    "source_url": "https://www.youtube.com/watch?v=dJdqn5v4Dkw",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography",
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://en.wikipedia.org/wiki/Get_Up_(EP)"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "dJdqn5v4Dkw"
+    },
+    "tags": [
+      "mv",
+      "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2023-07-27-asap-dance-practice",
+    "date": "2023-07-27",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「ASAP」Dance Practice",
+      "en": "'ASAP' Dance Practice"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=5EyMNU8gxZs",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "5EyMNU8gxZs"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "YouTube shows Jul 27, 2023 (PT); TheTVDB lists two Jul 27 uploads."
+  },
+  {
+    "id": "mv-2023-07-27-ditto-stage-cam-2023-fns-music-festival-summer",
+    "date": "2023-07-27",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Ditto」Stage Cam @ 2023 FNS歌謡祭 夏",
+      "en": "'Ditto' Stage Cam @ 2023 FNS Music Festival Summer"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=ZETQ1MKypC8",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "ZETQ1MKypC8"
+    },
+    "tags": [
+      "stage-cam",
+      "live",
+      "japan",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "YouTube shows Jul 26, 2023 (PT); TheTVDB Jul 27."
+  },
+  {
+    "id": "mv-2023-07-29-asap-dance-practice-fix-ver",
+    "date": "2023-07-29",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「ASAP」Dance Practice (Fix ver.)",
+      "en": "'ASAP' Dance Practice (Fix ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=9fP26lxq-wo",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "9fP26lxq-wo"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Inferred from TheTVDB (Jul 29, 2023 upload); YouTube date not fetched."
+  },
+  {
+    "id": "mv-2023-07-31-omg-stage-cam-ongakunohi-2023",
+    "date": "2023-07-31",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「OMG」Stage Cam @ 音楽の日 2023",
+      "en": "'OMG' Stage Cam @ ONGAKUNOHI 2023"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=SN1Gb4Pqdo4",
+    "reference_urls": [
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "SN1Gb4Pqdo4"
+    },
+    "tags": [
+      "stage-cam",
+      "live",
+      "japan",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2023-08-01-cool-with-you-dance-practice",
+    "date": "2023-08-01",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Cool With You」Dance Practice",
+      "en": "'Cool With You' Dance Practice"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=R-Vflly99ZM",
+    "reference_urls": [
+      "https://soompi.com/article/1604557wpp/watch-newjeans-shows-off-unique-choreo-for-cool-with-you-in-mesmerizing-dance-practice-videos"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "R-Vflly99ZM"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2023-08-01-cool-with-you-dance-practice-fix-ver",
+    "date": "2023-08-01",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Cool With You」Dance Practice (Fix ver.)",
+      "en": "'Cool With You' Dance Practice (Fix ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=f7cNY8vYA2Y",
+    "reference_urls": [
+      "https://soompi.com/article/1604557wpp/watch-newjeans-shows-off-unique-choreo-for-cool-with-you-in-mesmerizing-dance-practice-videos"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "f7cNY8vYA2Y"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2023-08-07-live-lollapalooza-2023-full-performance",
+    "date": "2023-08-07",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Live @ Lollapalooza 2023 (Full Performance)",
+      "en": "Live @ Lollapalooza 2023 (Full Performance)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=Xw-rOxA0ItI",
+    "reference_urls": [
+      "https://www.j-cast.com/2024/04/09481114.html",
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "Xw-rOxA0ItI"
+    },
+    "tags": [
+      "live",
+      "full-performance",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "note": "YouTube shows Aug 7, 2023 (PT); J-CAST and TheTVDB give Aug 7."
+  },
+  {
+    "id": "mv-2023-10-04-gods-ft-newjeans-official-music-video-worlds-2023-anthem",
+    "date": "2023-10-04",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "GODS ft. NewJeans (Official Music Video) | Worlds 2023 アンセム",
+      "en": "GODS ft. NewJeans (Official Music Video) | Worlds 2023 Anthem"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=C3GouGa0noM",
+    "reference_urls": [
+      "https://www.invenglobal.com/articles/18561/riot-games-releases-theme-song-gods-for-worlds-2023"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "C3GouGa0noM"
+    },
+    "tags": [
+      "mv",
+      "league-of-legends",
+      "riot-games"
+    ],
+    "verified": true,
+    "note": "Posted on the League of Legends channel, not NewJeans'. Premiered 14:00 KST Oct 4, 2023 (YouTube watch page shows 'Premiered Oct 3, 2023' PT; title confirmed from the YouTube page)."
+  },
+  {
+    "id": "mv-2023-10-10-2023-tma-dance-practice",
+    "date": "2023-10-10",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 TMA（The Fact Music Awards）Dance Practice",
+      "en": "2023 TMA Dance Practice"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=jeKFPHa9Kec",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "jeKFPHa9Kec"
+    },
+    "tags": [
+      "dance-practice",
+      "award-show",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2023-11-02-eta-stage-cam-seoul-national-university",
+    "date": "2023-11-02",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「ETA」Stage Cam @ ソウル大学",
+      "en": "'ETA' Stage Cam @ SEOUL NATIONAL UNIVERSITY"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=qI8J7zPwYEE",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "qI8J7zPwYEE"
+    },
+    "tags": [
+      "stage-cam",
+      "live",
+      "university-festival",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2023-11-02-hype-boy-stage-cam-hongik-university",
+    "date": "2023-11-02",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Hype Boy」Stage Cam @ 弘益大学",
+      "en": "'Hype Boy' Stage Cam @ HONGIK UNIVERSITY"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=-sXbmJd_KHM",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "-sXbmJd_KHM"
+    },
+    "tags": [
+      "stage-cam",
+      "live",
+      "university-festival",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2023-11-02-omg-stage-cam-sungkyunkwan-university",
+    "date": "2023-11-02",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「OMG」Stage Cam @ 成均館大学",
+      "en": "'OMG' Stage Cam @ SUNGKYUNKWAN UNIVERSITY"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=QWF61fHJa7g",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "QWF61fHJa7g"
+    },
+    "tags": [
+      "stage-cam",
+      "live",
+      "university-festival",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2023-11-02-super-shy-stage-cam-kyunghee-university",
+    "date": "2023-11-02",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Super Shy」Stage Cam @ 慶熙大学",
+      "en": "'Super Shy' Stage Cam @ KYUNGHEE UNIVERSITY"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=GLGk6TGANP8",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "GLGk6TGANP8"
+    },
+    "tags": [
+      "stage-cam",
+      "live",
+      "university-festival",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2023-12-14-njwmx-teaser-20231219",
+    "date": "2023-12-14",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NJWMX ティザー「NewJeans (뉴진스) 20231219」",
+      "en": "NJWMX teaser 'NewJeans (뉴진스) 20231219'"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=zIfUiwtCTtY",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NJWMX"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "zIfUiwtCTtY"
+    },
+    "tags": [
+      "teaser",
+      "njwmx",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Short video in the channel's NJWMX playlist (YouTube shows Dec 14, 2023 PT). Content not reviewed."
+  },
+  {
+    "id": "mv-2023-12-14-njwmx-teaser-7",
+    "date": "2023-12-14",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NJWMX ティザー「NewJeans (뉴진스) 7」",
+      "en": "NJWMX teaser 'NewJeans (뉴진스) 7'"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=GPQI83T-cR4",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NJWMX"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "GPQI83T-cR4"
+    },
+    "tags": [
+      "teaser",
+      "njwmx",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Short video in the channel's NJWMX playlist, posted ahead of the Dec 19 remix album (YouTube shows Dec 14, 2023 PT). Content not reviewed."
+  },
+  {
+    "id": "mv-2023-12-19-2023-billboard-music-awards-super-shy-omg",
+    "date": "2023-12-19",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Billboard Music Awards (Super Shy+OMG)",
+      "en": "2023 Billboard Music Awards (Super Shy+OMG)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=zGCAGWdXHPM",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "zGCAGWdXHPM"
+    },
+    "tags": [
+      "live",
+      "award-show",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2023-12-24-2023-mma-dance-practice",
+    "date": "2023-12-24",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 MMA（Melon Music Awards）Dance Practice",
+      "en": "2023 MMA Dance Practice"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=nDlNPbPnMUU",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "nDlNPbPnMUU"
+    },
+    "tags": [
+      "dance-practice",
+      "award-show",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2024-01-01-new-year-s-rockin-eve-2024-eta-super-shy",
+    "date": "2024-01-01",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "New Year's Rockin' Eve 2024 (ETA+Super Shy)",
+      "en": "New Year's Rockin' Eve 2024 (ETA+Super Shy)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=k6vqIRScUTs",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "k6vqIRScUTs"
+    },
+    "tags": [
+      "live",
+      "tv",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2024-01-06-the-38th-golden-disc-awards-dance-practice",
+    "date": "2024-01-06",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第38回ゴールデンディスクアワード Dance Practice",
+      "en": "The 38th GOLDEN DISC AWARDS Dance Practice"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=8FpaiZrVoho",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "8FpaiZrVoho"
+    },
+    "tags": [
+      "dance-practice",
+      "award-show",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2024-04-27-bubble-gum-official-mv",
+    "date": "2024-04-27",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Bubble Gum」Official MV",
+      "en": "'Bubble Gum' Official MV"
+    },
+    "summary": {
+      "ja": "イ・ヨンウム監督の先行公開MV。",
+      "en": "Pre-release MV directed by Youngeum Lee."
+    },
+    "source_url": "https://www.youtube.com/watch?v=ft70sAYrFyY",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography",
+      "https://en.wikipedia.org/wiki/Bubble_Gum_(NewJeans_song)",
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "ft70sAYrFyY"
+    },
+    "tags": [
+      "mv",
+      "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2024-05-24-how-sweet-official-mv",
+    "date": "2024-05-24",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「How Sweet」Official MV",
+      "en": "'How Sweet' Official MV"
+    },
+    "summary": {
+      "ja": "監督：シン・ヒウォン。",
+      "en": "Directed by Shin Hee-won."
+    },
+    "source_url": "https://www.youtube.com/watch?v=Q3K0TOvTOno",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography",
+      "https://en.wikipedia.org/wiki/How_Sweet",
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "Q3K0TOvTOno"
+    },
+    "tags": [
+      "mv",
+      "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2024-05-24-how-sweet-performance-video-coke-studio",
+    "date": "2024-05-24",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「How Sweet」Performance Video | Coke Studio",
+      "en": "'How Sweet' Performance Video | Coke Studio"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=Ec0Z1v7jKDQ",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "Ec0Z1v7jKDQ"
+    },
+    "tags": [
+      "performance",
+      "coca-cola",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2024-06-01-eta-stage-cam-chosun-university",
+    "date": "2024-06-01",
+    "date_type": "release",
+    "date_precision": "month",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「ETA」Stage Cam @ 朝鮮大学",
+      "en": "'ETA' Stage Cam @ CHOSUN UNIVERSITY"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=VWLWY2mLL2I",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "VWLWY2mLL2I"
+    },
+    "tags": [
+      "stage-cam",
+      "live",
+      "university-festival",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "YouTube date not fetched; listed in the 'NewJeans Stage' playlist among the June 2024 university festival stage cams. Month precision only."
+  },
+  {
+    "id": "mv-2024-06-17-right-now-official-mv",
+    "date": "2024-06-17",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Right Now」Official MV",
+      "en": "'Right Now' Official MV"
+    },
+    "summary": {
+      "ja": "村上隆コラボの先行公開MV（監督：イ・ヨンウム）。YouTube表示は6/16（米国時間）。",
+      "en": "Pre-release MV with Takashi Murakami (dir. Youngeum Lee); YouTube shows Jun 16 (PT)."
+    },
+    "source_url": "https://www.youtube.com/watch?v=m6pTbEz4w3o",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://v.daum.net/v/20240610170141882",
+      "https://en.wikipedia.org/wiki/Right_Now_(NewJeans_song)"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "m6pTbEz4w3o"
+    },
+    "tags": [
+      "mv",
+      "japan",
+      "takashi-murakami",
+      "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2024-06-19-cookie-stage-cam-sejong-university",
+    "date": "2024-06-19",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Cookie」Stage Cam @ 世宗大学",
+      "en": "'Cookie' Stage Cam @ SEJONG UNIVERSITY"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=tIm2LVL6rVM",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "tIm2LVL6rVM"
+    },
+    "tags": [
+      "stage-cam",
+      "live",
+      "university-festival",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2024-06-19-how-sweet-stage-cam-dongguk-university",
+    "date": "2024-06-19",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「How Sweet」Stage Cam @ 東国大学",
+      "en": "'How Sweet' Stage Cam @ DONGGUK UNIVERSITY"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=P7gcp4-ovYQ",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "P7gcp4-ovYQ"
+    },
+    "tags": [
+      "stage-cam",
+      "live",
+      "university-festival",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2024-06-19-hype-boy-stage-cam-chung-ang-university",
+    "date": "2024-06-19",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Hype Boy」Stage Cam @ 中央大学",
+      "en": "'Hype Boy' Stage Cam @ CHUNG-ANG UNIVERSITY"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=a7JDrjIZOVs",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "a7JDrjIZOVs"
+    },
+    "tags": [
+      "stage-cam",
+      "live",
+      "university-festival",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2024-06-20-bubble-gum-stage-cam-dong-eui-university",
+    "date": "2024-06-20",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Bubble Gum」Stage Cam @ 東義大学",
+      "en": "'Bubble Gum' Stage Cam @ DONG-EUI UNIVERSITY"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=vfkVtcYj0cU",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "vfkVtcYj0cU"
+    },
+    "tags": [
+      "stage-cam",
+      "live",
+      "university-festival",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2024-06-20-how-sweet-stage-cam-korea-university",
+    "date": "2024-06-20",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「How Sweet」Stage Cam @ 高麗大学",
+      "en": "'How Sweet' Stage Cam @ KOREA UNIVERSITY"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=HWiiwmzPJe4",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "HWiiwmzPJe4"
+    },
+    "tags": [
+      "stage-cam",
+      "live",
+      "university-festival",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2024-06-20-omg-stage-cam-pusan-national-university",
+    "date": "2024-06-20",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「OMG」Stage Cam @ 釜山大学",
+      "en": "'OMG' Stage Cam @ PUSAN NATIONAL UNIVERSITY"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=mDZEznPaDFk",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "mDZEznPaDFk"
+    },
+    "tags": [
+      "stage-cam",
+      "live",
+      "university-festival",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2024-06-21-supernatural-official-mv-part-1",
+    "date": "2024-06-21",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Supernatural」Official MV (Part.1)",
+      "en": "'Supernatural' Official MV (Part.1)"
+    },
+    "summary": {
+      "ja": "監督：シン・ドングル。YouTube表示6/20（米国時間）＝KST 6/21 0時。",
+      "en": "Directed by Dongle Shin; YouTube shows Jun 20 (PT) = Jun 21 00:00 KST."
+    },
+    "source_url": "https://www.youtube.com/watch?v=ZncbtRo7RXs",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography",
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://ja.wikipedia.org/wiki/Supernatural_(NewJeans%E3%81%AE%E6%9B%B2)"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "ZncbtRo7RXs"
+    },
+    "tags": [
+      "mv",
+      "japan",
+      "hybe-labels-channel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "mv-2024-07-05-supernatural-official-mv-part-2",
+    "date": "2024-07-05",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Supernatural」Official MV (Part.2)",
+      "en": "'Supernatural' Official MV (Part.2)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=A4S8zl50AdM",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans_videography",
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://en.wikipedia.org/wiki/Supernatural_(NewJeans_song)"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "A4S8zl50AdM"
+    },
+    "tags": [
+      "mv",
+      "japan",
+      "hybe-labels-channel"
+    ],
+    "verified": true,
+    "note": "YouTube shows Jul 4, 2024 (PT) = Jul 5 00:00 KST; ja/en Wikipedia give Jul 5 KST."
+  },
+  {
+    "id": "mv-2024-07-24-supernatural-dance-practice",
+    "date": "2024-07-24",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Supernatural」Dance Practice",
+      "en": "'Supernatural' Dance Practice"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=FKHqiV-9xLA",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "FKHqiV-9xLA"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2024-07-24-supernatural-dance-practice-fix-ver",
+    "date": "2024-07-24",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Supernatural」Dance Practice (Fix ver.)",
+      "en": "'Supernatural' Dance Practice (Fix ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=1gUnvlQtcDY",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "1gUnvlQtcDY"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2024-07-24-supernatural-dance-practice-handheld-ver",
+    "date": "2024-07-24",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Supernatural」Dance Practice (Handheld ver.)",
+      "en": "'Supernatural' Dance Practice (Handheld ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=W2M2TgKjMtQ",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "W2M2TgKjMtQ"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2024-07-25-right-now-dance-practice",
+    "date": "2024-07-25",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Right Now」Dance Practice",
+      "en": "'Right Now' Dance Practice"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=4xer6EPtYdw",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "4xer6EPtYdw"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2024-07-25-right-now-dance-practice-fix-ver",
+    "date": "2024-07-25",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Right Now」Dance Practice (Fix ver.)",
+      "en": "'Right Now' Dance Practice (Fix ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=y4Tr8LE5yV4",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "y4Tr8LE5yV4"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date assumed same as the non-Fix version (YouTube date not fetched); ID confirmed from the channel's 'NewJeans Choreography' playlist."
+  },
+  {
+    "id": "mv-2024-07-26-2024-sbs-gayo-daejeon-summer-dance-practice",
+    "date": "2024-07-26",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 SBS歌謡大祭典 Summer Dance Practice",
+      "en": "2024 SBS Gayo Daejeon Summer Dance Practice"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=5OwvrCEf75E",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "5OwvrCEf75E"
+    },
+    "tags": [
+      "dance-practice",
+      "tv",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2024-07-31-bubble-gum-dance-practice",
+    "date": "2024-07-31",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Bubble Gum」Dance Practice",
+      "en": "'Bubble Gum' Dance Practice"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=gQEtQ9LQfhs",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "gQEtQ9LQfhs"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2024-07-31-bubble-gum-dance-practice-fix-ver",
+    "date": "2024-07-31",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Bubble Gum」Dance Practice (Fix ver.)",
+      "en": "'Bubble Gum' Dance Practice (Fix ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=_8z6tRLKSIY",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "_8z6tRLKSIY"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2024-07-31-how-sweet-dance-practice",
+    "date": "2024-07-31",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「How Sweet」Dance Practice",
+      "en": "'How Sweet' Dance Practice"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=W9zz89BwAZ8",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "W9zz89BwAZ8"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2024-07-31-how-sweet-dance-practice-fix-ver",
+    "date": "2024-07-31",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「How Sweet」Dance Practice (Fix ver.)",
+      "en": "'How Sweet' Dance Practice (Fix ver.)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=3jr25MANlOI",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "3jr25MANlOI"
+    },
+    "tags": [
+      "dance-practice",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2024-11-17-kgma-2024-dance-practice",
+    "date": "2024-11-17",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "KGMA 2024（Korea Grand Music Awards）Dance Practice",
+      "en": "KGMA 2024 Dance Practice"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=KREKSUPia3k",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "KREKSUPia3k"
+    },
+    "tags": [
+      "dance-practice",
+      "award-show",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+  },
+  {
+    "id": "mv-2025-03-21-countdown-japan-24-25-right-now-hype-boy-ditto",
+    "date": "2025-03-21",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "COUNTDOWN JAPAN 24/25 (Right Now+Hype Boy+Ditto)",
+      "en": "COUNTDOWN JAPAN 24/25 (Right Now+Hype Boy+Ditto)"
+    },
+    "summary": {
+      "ja": "",
+      "en": ""
+    },
+    "source_url": "https://www.youtube.com/watch?v=saY9KS7mKvI",
+    "reference_urls": [],
+    "media": {
+      "type": "youtube",
+      "ref": "saY9KS7mKvI"
+    },
+    "tags": [
+      "live",
+      "japan",
+      "festival",
+      "newjeans-channel"
+    ],
+    "verified": false,
+    "note": "Posted on the ADOR-run NewJeans channel during the NJZ dispute period (YouTube shows Mar 20, 2025 PT). Performance itself was at COUNTDOWN JAPAN 24/25 (late Dec 2024)."
+  },
+  {
+    "id": "mv-2026-07-22-2026-summer-of-newjeans",
+    "date": "2026-07-22",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2026 Summer of NewJeans",
+      "en": "2026 Summer of NewJeans"
+    },
+    "summary": {
+      "ja": "デビュー4周年記念クリップ（4人体制、ダニエル不在）。ADORは記念コンテンツであり、カムバック発表ではないと説明。",
+      "en": "4th debut anniversary clip series (4 members; Danielle absent). ADOR called it commemorative content, not a comeback announcement."
+    },
+    "source_url": "https://www.youtube.com/watch?v=NNbaTJX_9go",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/is-newjeans-returning-ador-releases-clip-series-featuring-four-members/12785093",
+      "https://www.thefader.com/2026/07/21/newjeans-comeback-teasers-new-music"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "NNbaTJX_9go"
+    },
+    "tags": [
+      "anniversary",
+      "4th-anniversary",
+      "clip",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "note": "Posted 2026-07-22 00:00 KST (YouTube shows Jul 21 PT). Not a music video; included as official-channel release."
+  },
+  {
+    "id": "mv-2026-07-22-2026-summer-of-newjeans-haerin",
+    "date": "2026-07-22",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "2026 Summer of NewJeans : HAERIN",
+      "en": "2026 Summer of NewJeans : HAERIN"
+    },
+    "summary": {
+      "ja": "デビュー4周年記念クリップ（4人体制、ダニエル不在）。ADORは記念コンテンツであり、カムバック発表ではないと説明。",
+      "en": "4th debut anniversary clip series (4 members; Danielle absent). ADOR called it commemorative content, not a comeback announcement."
+    },
+    "source_url": "https://www.youtube.com/watch?v=tEDMEcyoS74",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/is-newjeans-returning-ador-releases-clip-series-featuring-four-members/12785093",
+      "https://www.thefader.com/2026/07/21/newjeans-comeback-teasers-new-music"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "tEDMEcyoS74"
+    },
+    "tags": [
+      "anniversary",
+      "4th-anniversary",
+      "clip",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "note": "Posted 2026-07-22 00:00 KST (YouTube shows Jul 21 PT). Not a music video; included as official-channel release."
+  },
+  {
+    "id": "mv-2026-07-22-2026-summer-of-newjeans-hanni",
+    "date": "2026-07-22",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "2026 Summer of NewJeans : HANNI",
+      "en": "2026 Summer of NewJeans : HANNI"
+    },
+    "summary": {
+      "ja": "デビュー4周年記念クリップ（4人体制、ダニエル不在）。ADORは記念コンテンツであり、カムバック発表ではないと説明。",
+      "en": "4th debut anniversary clip series (4 members; Danielle absent). ADOR called it commemorative content, not a comeback announcement."
+    },
+    "source_url": "https://www.youtube.com/watch?v=Fq-A3aLqmms",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/is-newjeans-returning-ador-releases-clip-series-featuring-four-members/12785093",
+      "https://www.thefader.com/2026/07/21/newjeans-comeback-teasers-new-music"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "Fq-A3aLqmms"
+    },
+    "tags": [
+      "anniversary",
+      "4th-anniversary",
+      "clip",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "note": "Posted 2026-07-22 00:00 KST (YouTube shows Jul 21 PT). Not a music video; included as official-channel release."
+  },
+  {
+    "id": "mv-2026-07-22-2026-summer-of-newjeans-hyein",
+    "date": "2026-07-22",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "2026 Summer of NewJeans : HYEIN",
+      "en": "2026 Summer of NewJeans : HYEIN"
+    },
+    "summary": {
+      "ja": "デビュー4周年記念クリップ（4人体制、ダニエル不在）。ADORは記念コンテンツであり、カムバック発表ではないと説明。",
+      "en": "4th debut anniversary clip series (4 members; Danielle absent). ADOR called it commemorative content, not a comeback announcement."
+    },
+    "source_url": "https://www.youtube.com/watch?v=Jx_58YiWxP0",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/is-newjeans-returning-ador-releases-clip-series-featuring-four-members/12785093",
+      "https://www.thefader.com/2026/07/21/newjeans-comeback-teasers-new-music"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "Jx_58YiWxP0"
+    },
+    "tags": [
+      "anniversary",
+      "4th-anniversary",
+      "clip",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "note": "Posted 2026-07-22 00:00 KST (YouTube shows Jul 21 PT). Not a music video; included as official-channel release."
+  },
+  {
+    "id": "mv-2026-07-22-2026-summer-of-newjeans-minji",
+    "date": "2026-07-22",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "2026 Summer of NewJeans : MINJI",
+      "en": "2026 Summer of NewJeans : MINJI"
+    },
+    "summary": {
+      "ja": "デビュー4周年記念クリップ（4人体制、ダニエル不在）。ADORは記念コンテンツであり、カムバック発表ではないと説明。",
+      "en": "4th debut anniversary clip series (4 members; Danielle absent). ADOR called it commemorative content, not a comeback announcement."
+    },
+    "source_url": "https://www.youtube.com/watch?v=9MaO43ekbHs",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/is-newjeans-returning-ador-releases-clip-series-featuring-four-members/12785093",
+      "https://www.thefader.com/2026/07/21/newjeans-comeback-teasers-new-music"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "9MaO43ekbHs"
+    },
+    "tags": [
+      "anniversary",
+      "4th-anniversary",
+      "clip",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "note": "Posted 2026-07-22 00:00 KST (YouTube shows Jul 21 PT). Not a music video; included as official-channel release."
+  }
+]
