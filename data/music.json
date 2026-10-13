@@ -1,7 +1,7 @@
 [
   {
-    "id": "music-2022-07-22-attention-debut-single",
-    "date": "2022-07-22",
+    "id": "music-2022-08-01-attention-debut-single",
+    "date": "2022-08-01",
     "date_type": "release",
     "date_precision": "day",
     "category": "music",
@@ -18,8 +18,9 @@
       "ja": "事前告知なしのサプライズ公開となったデビュー曲。",
       "en": "Surprise-released debut track; MV dropped without any prior announcement."
     },
-    "source_url": "https://en.wikipedia.org/wiki/Attention_(NewJeans_song)",
+    "source_url": "https://music.apple.com/kr/album/newjeans-1st-ep-new-jeans/1635469682",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/Attention_(NewJeans_song)",
       "https://en.wikipedia.org/wiki/NewJeans_discography",
       "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4"
     ],
@@ -30,41 +31,20 @@
       "single",
       "debut"
     ],
-    "verified": false,
-    "editor_note": "MV/video premiered 2022-07-22 KST; full digital download/streaming started 2022-08-01 with the EP. | Tag 'ep-new-jeans' removed from reader-facing tags: the EP title was not public until the 2022-07-25 pre-order."
-  },
-  {
-    "id": "music-2022-07-23-hype-boy",
-    "date": "2022-07-23",
-    "date_type": "release",
-    "date_precision": "day",
-    "category": "music",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "Hype Boy",
-      "en": "Hype Boy",
-      "original": "Hype Boy"
+    "verified": true,
+    "editor_note": "MV/video premiered 2022-07-22 KST; full digital download/streaming started 2022-08-01 with the EP. | Tag 'ep-new-jeans' removed from reader-facing tags: the EP title was not public until the 2022-07-25 pre-order. | moved from 2022-07-22 (MV premiere) to streaming release 2022-08-01: Moved from 2022-07-22. 07-22 00:00 KST was the surprise MV premiere only (isplus/newsis). Audio was NOT on streaming that day: Apple Music KR datePublished 2022-08-01 and Melon album 11011565 date 2022.08.01; EP went live 18:00 KST Aug 1 (isplus 2022-08-04). The Spotify \"Attention\" entry dated 2022-07-22 (album 0gtYJ4BxqMs2xYXVQjn14J) is a music-video entry, not audio.",
+    "links": {
+      "spotify": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9",
+      "apple_music": "https://music.apple.com/kr/album/newjeans-1st-ep-new-jeans/1635469682",
+      "melon": "https://www.melon.com/song/detail.htm?songId=35454425",
+      "spotify_album": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
     },
-    "summary": {
-      "ja": "デビューEPからの2曲目。5本のMVと共に公開。",
-      "en": "Second pre-release track from the debut EP, unveiled with five MV versions."
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/newjeans-1st-ep-new-jeans/1635469682"
     },
-    "source_url": "https://en.wikipedia.org/wiki/Hype_Boy",
-    "reference_urls": [
-      "https://en.wikipedia.org/wiki/NewJeans_discography",
-      "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "single"
-    ],
-    "verified": false,
-    "editor_note": "Unveiled via MV 2022-07-23; digital streaming started 2022-08-01 with the EP. | Tag 'ep-new-jeans' removed from reader-facing tags: the EP title was not public until the 2022-07-25 pre-order."
+    "time": "18:00",
+    "note": "MVは7月22日に先行公開。"
   },
   {
     "id": "music-2022-08-01-cookie",
@@ -85,8 +65,9 @@
       "ja": "デビューEPからの3曲目。EPと同日公開。",
       "en": "Third single from the debut EP, released with the EP."
     },
-    "source_url": "https://en.wikipedia.org/wiki/Cookie_(NewJeans_song)",
+    "source_url": "https://music.apple.com/kr/album/newjeans-1st-ep-new-jeans/1635469682",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/Cookie_(NewJeans_song)",
       "https://en.wikipedia.org/wiki/NewJeans_discography"
     ],
     "media": {
@@ -96,7 +77,65 @@
       "single",
       "ep-new-jeans"
     ],
-    "verified": false
+    "verified": true,
+    "links": {
+      "spotify": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg",
+      "apple_music": "https://music.apple.com/kr/album/newjeans-1st-ep-new-jeans/1635469682",
+      "melon": "https://www.melon.com/song/detail.htm?songId=35485544",
+      "spotify_album": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/newjeans-1st-ep-new-jeans/1635469682"
+    },
+    "time": "18:00",
+    "editor_note": "Confirmed: released with the EP 2022-08-01 18:00 KST (Apple Music KR datePublished 2022-08-01; Melon 2022.08.01; isplus \"1일 오후 6시\"). Cookie MV also dropped Aug 1."
+  },
+  {
+    "id": "music-2022-08-01-hype-boy",
+    "date": "2022-08-01",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Hype Boy",
+      "en": "Hype Boy",
+      "original": "Hype Boy"
+    },
+    "summary": {
+      "ja": "デビューEPからの2曲目。5本のMVと共に公開。",
+      "en": "Second pre-release track from the debut EP, unveiled with five MV versions."
+    },
+    "source_url": "https://music.apple.com/kr/album/newjeans-1st-ep-new-jeans/1635469682",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Hype_Boy",
+      "https://en.wikipedia.org/wiki/NewJeans_discography",
+      "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "single"
+    ],
+    "verified": true,
+    "editor_note": "Unveiled via MV 2022-07-23; digital streaming started 2022-08-01 with the EP. | Tag 'ep-new-jeans' removed from reader-facing tags: the EP title was not public until the 2022-07-25 pre-order. | moved from 2022-07-23 (MV premiere) to streaming release 2022-08-01: Moved from 2022-07-23. 07-23 was the MV unveiling (4 versions) only; audio streaming started 2022-08-01 18:00 KST with the EP (Apple Music KR datePublished 2022-08-01; Melon 2022.08.01).",
+    "links": {
+      "spotify": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD",
+      "apple_music": "https://music.apple.com/kr/album/newjeans-1st-ep-new-jeans/1635469682",
+      "melon": "https://www.melon.com/song/detail.htm?songId=35454426",
+      "spotify_album": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/newjeans-1st-ep-new-jeans/1635469682"
+    },
+    "time": "18:00",
+    "note": "MVは7月23日に先行公開。"
   },
   {
     "id": "music-2022-08-01-new-jeans-ep",
@@ -117,8 +156,9 @@
       "ja": "デビューEP（Attention / Hype Boy / Cookie / Hurt）。配信8/1、CDは8/8発売。",
       "en": "Debut EP (Attention / Hype Boy / Cookie / Hurt); digital release Aug 1, CD Aug 8, 2022."
     },
-    "source_url": "https://en.wikipedia.org/wiki/New_Jeans_(EP)",
+    "source_url": "https://music.apple.com/kr/album/newjeans-1st-ep-new-jeans/1635469682",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/New_Jeans_(EP)",
       "https://en.wikipedia.org/wiki/NewJeans_discography",
       "https://ja.wikipedia.org/wiki/NewJeans",
       "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4"
@@ -130,8 +170,19 @@
       "album",
       "ep"
     ],
-    "verified": false,
-    "editor_note": "Physical CD (Bag ver./Weverse Album ver.) released 2022-08-08. US physical release via Geffen 2023-03-23."
+    "verified": true,
+    "editor_note": "Physical CD (Bag ver./Weverse Album ver.) released 2022-08-08. US physical release via Geffen 2023-03-23. | Confirmed: digital release 2022-08-01 18:00 KST (Apple Music KR datePublished 2022-08-01; Melon album 2022.08.01; isplus). CD 2022-08-08.",
+    "links": {
+      "spotify": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV",
+      "apple_music": "https://music.apple.com/kr/album/newjeans-1st-ep-new-jeans/1635469682",
+      "apple_music_jp": "https://music.apple.com/jp/album/newjeans-1st-ep-new-jeans/1636790747",
+      "melon": "https://www.melon.com/album/detail.htm?albumId=11011565"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/newjeans-1st-ep-new-jeans/1635469682"
+    },
+    "time": "18:00"
   },
   {
     "id": "music-2022-12-19-ditto",
@@ -152,8 +203,9 @@
       "ja": "シングル1集『OMG』の先行公開曲。",
       "en": "Pre-release single from the 1st single album 'OMG'."
     },
-    "source_url": "https://en.wikipedia.org/wiki/Ditto_(song)",
+    "source_url": "https://music.apple.com/kr/album/ditto-single/1657231957",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/Ditto_(song)",
       "https://en.wikipedia.org/wiki/NewJeans_discography",
       "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4",
       "https://ja.wikipedia.org/wiki/NewJeans"
@@ -166,7 +218,18 @@
       "pre-release",
       "single-album-omg"
     ],
-    "verified": false
+    "verified": true,
+    "links": {
+      "spotify": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe",
+      "apple_music": "https://music.apple.com/kr/album/ditto-single/1657231957",
+      "melon": "https://www.melon.com/song/detail.htm?songId=35945927"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f6/29/42/f629426e-92fe-535c-cbe4-76e70850819b/196922287107_Cover.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/ditto-single/1657231957"
+    },
+    "time": "18:00",
+    "editor_note": "Confirmed: Apple Music KR \"Ditto - Single\" datePublished 2022-12-19; released 18:00 KST (iMBC/Elle). On Melon it sits inside the OMG album (albumId 11127145)."
   },
   {
     "id": "music-2023-01-02-omg",
@@ -187,8 +250,9 @@
       "ja": "シングル1集のタイトル曲。",
       "en": "Title track of the 1st single album."
     },
-    "source_url": "https://en.wikipedia.org/wiki/OMG_(NewJeans_song)",
+    "source_url": "https://music.apple.com/kr/album/newjeans-omg-single/1659513441",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/OMG_(NewJeans_song)",
       "https://en.wikipedia.org/wiki/NewJeans_discography",
       "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4"
     ],
@@ -199,7 +263,19 @@
       "single",
       "title-track"
     ],
-    "verified": false
+    "verified": true,
+    "links": {
+      "spotify": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE",
+      "apple_music": "https://music.apple.com/kr/album/newjeans-omg-single/1659513441",
+      "melon": "https://www.melon.com/song/detail.htm?songId=35985167",
+      "spotify_album": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/newjeans-omg-single/1659513441"
+    },
+    "time": "18:00",
+    "editor_note": "Confirmed: Apple Music KR datePublished 2023-01-02; Melon 2023.01.02; released 18:00 KST (imaeil)."
   },
   {
     "id": "music-2023-01-02-omg-single-album",
@@ -220,8 +296,9 @@
       "ja": "1stシングルアルバム（OMG / Ditto）。",
       "en": "First single album (OMG / Ditto)."
     },
-    "source_url": "https://en.wikipedia.org/wiki/OMG_(NewJeans_song)",
+    "source_url": "https://music.apple.com/kr/album/newjeans-omg-single/1659513441",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/OMG_(NewJeans_song)",
       "https://en.wikipedia.org/wiki/NewJeans_discography",
       "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4"
     ],
@@ -232,7 +309,18 @@
       "album",
       "single-album"
     ],
-    "verified": false
+    "verified": true,
+    "links": {
+      "spotify": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj",
+      "apple_music": "https://music.apple.com/kr/album/newjeans-omg-single/1659513441",
+      "melon": "https://www.melon.com/album/detail.htm?albumId=11127145"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/newjeans-omg-single/1659513441"
+    },
+    "time": "18:00",
+    "editor_note": "Confirmed: Apple Music KR datePublished 2023-01-02; Melon album 11127145 date 2023.01.02; 18:00 KST."
   },
   {
     "id": "music-2023-04-03-zero",
@@ -253,8 +341,9 @@
       "ja": "コカ・コーラ ゼロ（韓国）のプロモーションシングル。MVと同時公開。",
       "en": "Promotional single for Coca-Cola Zero Sugar Korea, released with a MV."
     },
-    "source_url": "https://en.wikipedia.org/wiki/Zero_(NewJeans_song)",
+    "source_url": "https://music.apple.com/kr/album/zero-single/1678545730",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/Zero_(NewJeans_song)",
       "https://ja.wikipedia.org/wiki/NewJeans",
       "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4"
     ],
@@ -266,7 +355,18 @@
       "promotional",
       "coca-cola"
     ],
-    "verified": false
+    "verified": true,
+    "links": {
+      "spotify": "https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR",
+      "apple_music": "https://music.apple.com/kr/album/zero-single/1678545730",
+      "melon": "https://www.melon.com/album/detail.htm?albumId=11215953"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/5a/04/6c5a04e7-436d-d4d5-bf7e-fdd01d033eb9/196922401121_Cover.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/zero-single/1678545730"
+    },
+    "time": "18:00",
+    "editor_note": "Confirmed: Apple Music KR datePublished 2023-04-03; Melon 2023.04.03; song + MV dropped 18:00 KST per ADOR (Soompi)."
   },
   {
     "id": "music-2023-05-17-danielle-part-of-your-world",
@@ -287,8 +387,9 @@
       "ja": "ダニエルのソロOST。ディズニー『リトル・マーメイド』韓国語吹替版（アリエル役）の「Part of Your World」。",
       "en": "Danielle's solo OST: Korean-dubbed 'Part of Your World' for Disney's The Little Mermaid (she voices Ariel)."
     },
-    "source_url": "https://en.wikipedia.org/wiki/Danielle_(singer)",
+    "source_url": "https://music.apple.com/kr/album/part-of-your-world-from-the-little-mermaid/1688078623",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/Danielle_(singer)",
       "https://v.daum.net/v/20230517151604015",
       "https://www.generasia.com/wiki/Danielle_(NewJeans)"
     ],
@@ -300,8 +401,18 @@
       "solo",
       "disney"
     ],
-    "verified": false,
-    "editor_note": "Generasia lists 2023-05-16; Korea JoongAng Daily/Wikipedia give 2023-05-17 (Wednesday). Using 05-17."
+    "verified": true,
+    "editor_note": "Generasia lists 2023-05-16; Korea JoongAng Daily/Wikipedia give 2023-05-17 (Wednesday). Using 05-17. | Confirmed 2023-05-17 (resolves Generasia 05-16): Apple Music KR \"저곳으로 (인어공주) - Single\" datePublished 2023-05-17; Melon album 11245115 date 2023.05.17; released 18:00 KST (iMBC 2023-05-17).",
+    "links": {
+      "spotify": "https://open.spotify.com/album/29U7Nu19hGHuNYDSBuhNgN",
+      "apple_music": "https://music.apple.com/kr/album/part-of-your-world-from-the-little-mermaid/1688078623",
+      "melon": "https://www.melon.com/album/detail.htm?albumId=11245115"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/24/3b/71/243b71ee-c498-6deb-50de-aa490f0bb632/23UMGIM55964.rgb.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/part-of-your-world-from-the-little-mermaid/1688078623"
+    },
+    "time": "18:00"
   },
   {
     "id": "music-2023-05-31-be-who-you-are-real-magic",
@@ -322,8 +433,9 @@
       "ja": "コカ・コーラ「Real Magic」グローバルキャンペーンのコラボ曲。",
       "en": "Coca-Cola 'Real Magic' global campaign collaboration track."
     },
-    "source_url": "https://en.wikipedia.org/wiki/Jon_Batiste_discography",
+    "source_url": "https://music.apple.com/kr/album/be-who-you-are-real-magic-feat-jid-newjeans-camilo-single/1688797578",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/Jon_Batiste_discography",
       "https://ja.wikipedia.org/wiki/NewJeans",
       "https://en.wikipedia.org/wiki/NewJeans"
     ],
@@ -334,8 +446,17 @@
       "collaboration",
       "coca-cola"
     ],
-    "verified": false,
-    "editor_note": "Date 2023-05-31 from ja.wikipedia and en.wikipedia NewJeans article (unveiled May 31, 2023)."
+    "verified": true,
+    "editor_note": "Date 2023-05-31 from ja.wikipedia and en.wikipedia NewJeans article (unveiled May 31, 2023). | Confirmed 2023-05-31: Apple Music KR datePublished 2023-05-31; Melon album 11253115 date 2023.05.31. KST release time not found.",
+    "links": {
+      "spotify": "https://open.spotify.com/album/1Pk1W5xbmAqG6wBNL4sjq5",
+      "apple_music": "https://music.apple.com/kr/album/be-who-you-are-real-magic-feat-jid-newjeans-camilo-single/1688797578",
+      "melon": "https://www.melon.com/album/detail.htm?albumId=11253115"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/81/bc/43/81bc436f-3375-c824-2d6f-0cfc468b78e6/23UMGIM50937.rgb.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/be-who-you-are-real-magic-feat-jid-newjeans-camilo-single/1688797578"
+    }
   },
   {
     "id": "music-2023-06-21-zero-j-i-d-remix",
@@ -356,8 +477,9 @@
       "ja": "J.I.D参加の「Zero」リミックス。",
       "en": "Remix of 'Zero' featuring J.I.D."
     },
-    "source_url": "https://en.wikipedia.org/wiki/Zero_(NewJeans_song)",
+    "source_url": "https://www.melon.com/album/detail.htm?albumId=11269317",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/Zero_(NewJeans_song)",
       "https://ja.wikipedia.org/wiki/NewJeans"
     ],
     "media": {
@@ -367,8 +489,17 @@
       "remix",
       "coca-cola"
     ],
-    "verified": false,
-    "editor_note": "en.wikipedia gives June 20, 2023 (US time); ja.wikipedia gives 2023-06-21 (KST). Using 06-21."
+    "verified": true,
+    "editor_note": "en.wikipedia gives June 20, 2023 (US time); ja.wikipedia gives 2023-06-21 (KST). Using 06-21. | Kept 2023-06-21 per Melon (album 11269317 date 2023.06.21) and Apple Music JP (2023-06-21). Apple Music KR/US page shows datePublished 2023-06-20 (US-date listing). KST time not found.",
+    "links": {
+      "spotify": "https://open.spotify.com/album/45wwQll1Ay4A1Rz79wWuNt",
+      "apple_music": "https://music.apple.com/kr/album/zero-j-i-d-remix-single/1692987809",
+      "melon": "https://www.melon.com/album/detail.htm?albumId=11269317"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a8/60/67/a86067d5-e374-5c21-b478-a1e70a5e96f8/196922522048_Cover.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/zero-j-i-d-remix-single/1692987809"
+    }
   },
   {
     "id": "music-2023-07-07-new-jeans-song",
@@ -389,8 +520,9 @@
       "ja": "『Get Up』先行公開曲。パワーパフガールズとのコラボ。",
       "en": "Pre-release B-side from 'Get Up', made with The Powerpuff Girls."
     },
-    "source_url": "https://en.wikipedia.org/wiki/New_Jeans_(song)",
+    "source_url": "https://music.apple.com/kr/album/newjeans-super-shy-single/1692686264",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/New_Jeans_(song)",
       "https://en.wikipedia.org/wiki/NewJeans_discography",
       "https://en.wikipedia.org/wiki/Get_Up_(EP)"
     ],
@@ -401,7 +533,19 @@
       "pre-release",
       "ep-get-up"
     ],
-    "verified": false
+    "verified": true,
+    "links": {
+      "spotify": "https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2",
+      "apple_music": "https://music.apple.com/kr/album/newjeans-super-shy-single/1692686264",
+      "melon": "https://www.melon.com/song/detail.htm?songId=36599949",
+      "spotify_album": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/63/e5/e2/63e5e2e4-829b-924d-a1dc-8058a1d69bd4/196922462702_Cover.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/newjeans-super-shy-single/1692686264"
+    },
+    "time": "13:00",
+    "editor_note": "Confirmed: released 2023-07-07 13:00 KST with Super Shy (Apple Music KR \"NewJeans 'Super Shy' - Single\" datePublished 2023-07-07, 2 tracks). The \"New Jeans\" MV went up 00:00 KST the same day."
   },
   {
     "id": "music-2023-07-07-super-shy",
@@ -422,8 +566,9 @@
       "ja": "2nd EP『Get Up』先行シングル（「New Jeans」と同時配信）。",
       "en": "Pre-release single from the 2nd EP 'Get Up' (released with 'New Jeans')."
     },
-    "source_url": "https://en.wikipedia.org/wiki/Super_Shy",
+    "source_url": "https://music.apple.com/kr/album/newjeans-super-shy-single/1692686264",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/Super_Shy",
       "https://en.wikipedia.org/wiki/NewJeans_discography",
       "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4",
       "https://en.wikipedia.org/wiki/Get_Up_(EP)"
@@ -436,7 +581,19 @@
       "pre-release",
       "ep-get-up"
     ],
-    "verified": false
+    "verified": true,
+    "links": {
+      "spotify": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd",
+      "apple_music": "https://music.apple.com/kr/album/newjeans-super-shy-single/1692686264",
+      "melon": "https://www.melon.com/song/detail.htm?songId=36599950",
+      "spotify_album": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/63/e5/e2/63e5e2e4-829b-924d-a1dc-8058a1d69bd4/196922462702_Cover.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/newjeans-super-shy-single/1692686264"
+    },
+    "time": "13:00",
+    "editor_note": "Confirmed: Apple Music KR datePublished 2023-07-07; pre-released 13:00 KST (nocutnews/iMBC)."
   },
   {
     "id": "music-2023-07-21-cool-with-you",
@@ -457,8 +614,9 @@
       "ja": "『Get Up』収録シングル。2部構成MV（side A / side B）。",
       "en": "Single from 'Get Up' with a two-part MV (side A / side B)."
     },
-    "source_url": "https://en.wikipedia.org/wiki/Cool_with_You_(NewJeans_song)",
+    "source_url": "https://music.apple.com/kr/album/newjeans-2nd-ep-get-up/1695951888",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/Cool_with_You_(NewJeans_song)",
       "https://en.wikipedia.org/wiki/NewJeans_discography"
     ],
     "media": {
@@ -468,7 +626,19 @@
       "single",
       "ep-get-up"
     ],
-    "verified": false
+    "verified": true,
+    "links": {
+      "spotify": "https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB",
+      "apple_music": "https://music.apple.com/kr/album/newjeans-2nd-ep-get-up/1695951888",
+      "melon": "https://www.melon.com/song/detail.htm?songId=36632907",
+      "spotify_album": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/4b/7e/d34b7e1e-af3b-43b6-2949-7a8c652a1bc9/196922462726_Cover.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/newjeans-2nd-ep-get-up/1695951888"
+    },
+    "time": "13:00",
+    "editor_note": "Confirmed: audio released 2023-07-21 13:00 KST with Get Up (Apple Music KR datePublished 2023-07-21; Melon 2023.07.21). MVs (side A, side B) were pre-released 2023-07-20 00:00 KST (iMBC)."
   },
   {
     "id": "music-2023-07-21-eta",
@@ -489,8 +659,9 @@
       "ja": "『Get Up』タイトル曲。MVはAppleとのコラボでiPhone 14 Pro撮影。",
       "en": "Title track of 'Get Up'; MV shot on iPhone 14 Pro with Apple."
     },
-    "source_url": "https://en.wikipedia.org/wiki/ETA_(song)",
+    "source_url": "https://music.apple.com/kr/album/newjeans-2nd-ep-get-up/1695951888",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/ETA_(song)",
       "https://en.wikipedia.org/wiki/NewJeans_discography"
     ],
     "media": {
@@ -502,7 +673,19 @@
       "ep-get-up",
       "apple"
     ],
-    "verified": false
+    "verified": true,
+    "links": {
+      "spotify": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d",
+      "apple_music": "https://music.apple.com/kr/album/newjeans-2nd-ep-get-up/1695951888",
+      "melon": "https://www.melon.com/song/detail.htm?songId=36635522",
+      "spotify_album": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/4b/7e/d34b7e1e-af3b-43b6-2949-7a8c652a1bc9/196922462726_Cover.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/newjeans-2nd-ep-get-up/1695951888"
+    },
+    "time": "13:00",
+    "editor_note": "Confirmed: Apple Music KR datePublished 2023-07-21; Get Up released 13:00 KST."
   },
   {
     "id": "music-2023-07-21-get-up-ep",
@@ -523,8 +706,9 @@
       "ja": "2nd EP。収録曲：New Jeans / Super Shy / ETA / Cool With You / Get Up / ASAP。",
       "en": "Second EP: New Jeans / Super Shy / ETA / Cool With You / Get Up / ASAP."
     },
-    "source_url": "https://en.wikipedia.org/wiki/Get_Up_(EP)",
+    "source_url": "https://music.apple.com/kr/album/newjeans-2nd-ep-get-up/1695951888",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/Get_Up_(EP)",
       "https://en.wikipedia.org/wiki/NewJeans_discography",
       "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4",
       "https://ja.wikipedia.org/wiki/Get_Up_(NewJeans%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0)"
@@ -536,8 +720,19 @@
       "album",
       "ep"
     ],
-    "verified": false,
-    "editor_note": "Released 13:00 KST per ja.wikipedia."
+    "verified": true,
+    "editor_note": "Released 13:00 KST per ja.wikipedia. | Confirmed: Apple Music KR datePublished 2023-07-21; Melon album 11281456 date 2023.07.21; 13:00 KST (iMBC).",
+    "links": {
+      "spotify": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18",
+      "apple_music": "https://music.apple.com/kr/album/newjeans-2nd-ep-get-up/1695951888",
+      "apple_music_jp": "https://music.apple.com/jp/album/newjeans-2nd-ep-get-up/1698275548",
+      "melon": "https://www.melon.com/album/detail.htm?albumId=11281456"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/4b/7e/d34b7e1e-af3b-43b6-2949-7a8c652a1bc9/196922462726_Cover.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/newjeans-2nd-ep-get-up/1695951888"
+    },
+    "time": "13:00"
   },
   {
     "id": "music-2023-09-01-beautiful-restriction",
@@ -558,8 +753,9 @@
       "ja": "Netflixドラマ『いつかの君に』OST。キム・ジョンソ（1996）のリメイクで、5人全員初のOST。",
       "en": "Remake of Kim Jong-seo's 1996 song for the Netflix series 'A Time Called You'; first OST by all five members."
     },
-    "source_url": "https://wiki.d-addicts.com/A_Time_Called_You_OST",
+    "source_url": "https://music.apple.com/kr/album/beautiful-restriction-from-a-time-called-you-music/1704145215",
     "reference_urls": [
+      "https://wiki.d-addicts.com/A_Time_Called_You_OST",
       "https://www.koreajoongangdaily.com/entertainment/newjeans-to-release-its-first-ever-song-for-tv-show/11174516",
       "https://ja.wikipedia.org/wiki/NewJeans"
     ],
@@ -570,8 +766,18 @@
       "ost",
       "netflix"
     ],
-    "verified": false,
-    "editor_note": "Released 18:00 KST 2023-09-01 per Ten Asia / ADOR announcement."
+    "verified": true,
+    "editor_note": "Released 18:00 KST 2023-09-01 per Ten Asia / ADOR announcement. | Confirmed: Apple Music KR datePublished 2023-09-01; Melon album 11318018 date 2023.09.01; 18:00 KST (iMBC).",
+    "links": {
+      "spotify": "https://open.spotify.com/album/5qHH0SHWf5yQxG4yqHnIzY",
+      "apple_music": "https://music.apple.com/kr/album/beautiful-restriction-from-a-time-called-you-music/1704145215",
+      "melon": "https://www.melon.com/album/detail.htm?albumId=11318018"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7b/31/c5/7b31c524-1ccf-101b-517e-57157dd1d7c6/888272122152_Cover.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/beautiful-restriction-from-a-time-called-you-music/1704145215"
+    },
+    "time": "18:00"
   },
   {
     "id": "music-2023-10-04-gods",
@@ -592,8 +798,9 @@
       "ja": "Riot Games「Worlds 2023」公式アンセム。MVはLeague of Legends公式チャンネルで公開。",
       "en": "Riot Games' Worlds 2023 anthem featuring NewJeans; MV on the League of Legends channel."
     },
-    "source_url": "https://www.invenglobal.com/articles/18561/riot-games-releases-theme-song-gods-for-worlds-2023",
+    "source_url": "https://music.apple.com/kr/album/gods-single/1833057824",
     "reference_urls": [
+      "https://www.invenglobal.com/articles/18561/riot-games-releases-theme-song-gods-for-worlds-2023",
       "https://ja.wikipedia.org/wiki/NewJeans",
       "https://en.wikipedia.org/wiki/NewJeans"
     ],
@@ -605,8 +812,18 @@
       "riot-games",
       "league-of-legends"
     ],
-    "verified": false,
-    "editor_note": "Premiered 14:00 KST 2023-10-04 (Oct 3 in US time)."
+    "verified": true,
+    "editor_note": "Premiered 14:00 KST 2023-10-04 (Oct 3 in US time). | Confirmed: Apple Music KR datePublished 2023-10-04; Melon album 11333953 date 2023.10.04; 14:00 KST per ADOR/Riot (newsis). Spotify has two \"GODS\" albums; 4uFXfeGmzFDUrYUyz3Wb1O is the alternate.",
+    "links": {
+      "spotify": "https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs",
+      "apple_music": "https://music.apple.com/kr/album/gods-single/1833057824",
+      "melon": "https://www.melon.com/album/detail.htm?albumId=11333953"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/59/e0/3059e000-eb6f-6c08-4387-c1ee9d38d962/00198704670657_Cover.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/gods-single/1833057824"
+    },
+    "time": "14:00"
   },
   {
     "id": "music-2023-11-24-our-night-my-demon-ost",
@@ -627,8 +844,9 @@
       "ja": "SBSドラマ『マイ・デーモン』OST。コナ（1996）のリメイク、編曲は250。",
       "en": "OST for SBS drama 'My Demon'; remake of Kona's 1996 song arranged by 250."
     },
-    "source_url": "https://kbizoom.com/?p=572715",
+    "source_url": "https://music.apple.com/kr/album/my-demon-pt-1-original-soundtrack-single/6785338023",
     "reference_urls": [
+      "https://kbizoom.com/?p=572715",
       "https://en.wikipedia.org/wiki/NewJeans",
       "https://en.wikipedia.org/wiki/NewJeans_discography"
     ],
@@ -639,8 +857,18 @@
       "ost",
       "sbs"
     ],
-    "verified": false,
-    "editor_note": "Released 18:00 KST 2023-11-24. ja.wikipedia lists 2024-03-02, which appears to be an error."
+    "verified": true,
+    "editor_note": "Released 18:00 KST 2023-11-24. ja.wikipedia lists 2024-03-02, which appears to be an error. | Confirmed: Apple Music KR datePublished 2023-11-24; Melon album 11372139 date 2023.11.24; 18:00 KST (tf.co.kr).",
+    "links": {
+      "spotify": "https://open.spotify.com/album/31chdu7JhVd0sC9X7sURNb",
+      "apple_music": "https://music.apple.com/kr/album/my-demon-pt-1-original-soundtrack-single/6785338023",
+      "melon": "https://www.melon.com/album/detail.htm?albumId=11372139"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/f2/98/fff298e1-e999-cddb-92e8-d7ed593d1181/8804775307140.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/my-demon-pt-1-original-soundtrack-single/6785338023"
+    },
+    "time": "18:00"
   },
   {
     "id": "music-2023-12-19-njwmx",
@@ -661,8 +889,9 @@
       "ja": "デジタルリミックスアルバム。250・FRNKによるDitto / OMG / Attention / Hype Boy / Cookie / Hurtのリミックス（＋インスト）。",
       "en": "Digital remix album: 250 and FRNK remixes of Ditto / OMG / Attention / Hype Boy / Cookie / Hurt (+instrumentals)."
     },
-    "source_url": "https://en.wikipedia.org/wiki/NJWMX",
+    "source_url": "https://music.apple.com/kr/album/njwmx/1719675892",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/NJWMX",
       "https://en.wikipedia.org/wiki/NewJeans_discography",
       "https://ja.wikipedia.org/wiki/NewJeans",
       "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4"
@@ -674,41 +903,22 @@
       "album",
       "remix"
     ],
-    "verified": false
+    "verified": true,
+    "links": {
+      "spotify": "https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX",
+      "apple_music": "https://music.apple.com/kr/album/njwmx/1719675892",
+      "melon": "https://www.melon.com/album/detail.htm?albumId=11386275"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5f/e5/37/5fe537de-2533-b96e-25e7-492f9e078b2f/196922745003_Cover.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/njwmx/1719675892"
+    },
+    "time": "18:00",
+    "editor_note": "Confirmed: Apple Music KR datePublished 2023-12-19; Melon album 11386275 date 2023.12.19; 18:00 KST (realsound.jp). A second Apple listing 1719868691 also exists."
   },
   {
-    "id": "music-2024-01-01-danielle-butterflies-with-you",
-    "date": "2024-01-01",
-    "date_type": "release",
-    "date_precision": "year",
-    "category": "music",
-    "entity": "newjeans",
-    "members": [
-      "danielle"
-    ],
-    "title": {
-      "ja": "Butterflies (With You) - ダニエル",
-      "en": "Butterflies (With You) - Danielle",
-      "original": "Butterflies (With You)"
-    },
-    "summary": {
-      "ja": "ダニエルのソロ楽曲として記載される2024年の非アルバムシングル。",
-      "en": "A 2024 non-album solo single credited to Danielle."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/Danielle_(singer)",
-    "reference_urls": [],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "solo"
-    ],
-    "verified": false,
-    "editor_note": "Only the year is given on Wikipedia; could not be corroborated. Treat as unconfirmed. | Reader-facing 'unconfirmed' wording and tag moved here: listed only on en.wikipedia (Danielle page) as a 2024 non-album single; no official source found."
-  },
-  {
-    "id": "music-2024-04-27-bubble-gum",
-    "date": "2024-04-27",
+    "id": "music-2024-05-24-bubble-gum",
+    "date": "2024-05-24",
     "date_type": "release",
     "date_precision": "day",
     "category": "music",
@@ -725,8 +935,9 @@
       "ja": "シングル2集『How Sweet』先行公開曲。MVは4/27公開。",
       "en": "Pre-release track from the 2nd single album 'How Sweet'; MV released Apr 27."
     },
-    "source_url": "https://en.wikipedia.org/wiki/Bubble_Gum_(NewJeans_song)",
+    "source_url": "https://music.apple.com/kr/album/how-sweet-ep/1744448415",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/Bubble_Gum_(NewJeans_song)",
       "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4",
       "https://ja.wikipedia.org/wiki/NewJeans"
     ],
@@ -737,8 +948,20 @@
       "pre-release",
       "single-album-how-sweet"
     ],
-    "verified": false,
-    "editor_note": "MV released 2024-04-27 KST; digital release as B-side on 2024-05-24. Japanese version used in Kao Essential CM / Mezamashi 8 from April 2024."
+    "verified": true,
+    "editor_note": "MV released 2024-04-27 KST; digital release as B-side on 2024-05-24. Japanese version used in Kao Essential CM / Mezamashi 8 from April 2024. | moved from 2024-04-27 (MV premiere) to streaming release 2024-05-24: Moved from 2024-04-27. 04-27 00:00 KST was the MV premiere only (isplus). No standalone single exists on Apple Music KR or Melon; audio first streamed 2024-05-24 13:00 KST as track 2 of How Sweet (Apple Music KR datePublished 2024-05-24; Melon song 37464459 in album 11475749 dated 2024.05.24). Spotify album 05Ks1bZ6TKWUFaHZf5tde0 is a video entry.",
+    "links": {
+      "spotify": "https://open.spotify.com/track/19D8LNpWwIPpi6hs9BG7dq",
+      "apple_music": "https://music.apple.com/kr/album/how-sweet-ep/1744448415",
+      "melon": "https://www.melon.com/song/detail.htm?songId=37464459",
+      "spotify_album": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/68/ca/bf68ca64-4acd-543f-bc78-455f11f06105/196922889738_Cover.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/how-sweet-ep/1744448415"
+    },
+    "time": "13:00",
+    "note": "MVは4月27日に先行公開。"
   },
   {
     "id": "music-2024-05-24-how-sweet",
@@ -759,8 +982,9 @@
       "ja": "シングル2集のタイトル曲。",
       "en": "Title track of the 2nd single album."
     },
-    "source_url": "https://en.wikipedia.org/wiki/How_Sweet",
+    "source_url": "https://music.apple.com/kr/album/how-sweet-ep/1744448415",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/How_Sweet",
       "https://en.wikipedia.org/wiki/NewJeans_discography"
     ],
     "media": {
@@ -770,7 +994,19 @@
       "single",
       "title-track"
     ],
-    "verified": false
+    "verified": true,
+    "links": {
+      "spotify": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH",
+      "apple_music": "https://music.apple.com/kr/album/how-sweet-ep/1744448415",
+      "melon": "https://www.melon.com/song/detail.htm?songId=37563682",
+      "spotify_album": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/68/ca/bf68ca64-4acd-543f-bc78-455f11f06105/196922889738_Cover.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/how-sweet-ep/1744448415"
+    },
+    "time": "13:00",
+    "editor_note": "Confirmed: Apple Music KR datePublished 2024-05-24; Melon 2024.05.24; 13:00 KST (thefirsttimes/khan). MV 16:00 KST."
   },
   {
     "id": "music-2024-05-24-how-sweet-single-album",
@@ -791,8 +1027,9 @@
       "ja": "2ndシングルアルバム（How Sweet / Bubble Gum ＋インスト）。",
       "en": "Second single album (How Sweet / Bubble Gum + instrumentals)."
     },
-    "source_url": "https://en.wikipedia.org/wiki/How_Sweet",
+    "source_url": "https://music.apple.com/kr/album/how-sweet-ep/1744448415",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/How_Sweet",
       "https://en.wikipedia.org/wiki/NewJeans_discography",
       "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%A7%84%EC%8A%A4",
       "https://ja.wikipedia.org/wiki/How_Sweet"
@@ -804,7 +1041,20 @@
       "album",
       "single-album"
     ],
-    "verified": false
+    "verified": true,
+    "links": {
+      "spotify": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq",
+      "apple_music": "https://music.apple.com/kr/album/how-sweet-ep/1744448415",
+      "apple_music_jp": "https://music.apple.com/jp/album/how-sweet-ep/1747251333",
+      "melon": "https://www.melon.com/album/detail.htm?albumId=11475749",
+      "youtube_music": "https://music.youtube.com/playlist?list=OLAK5uy_l0nFJiyQV7ZaVmRh1gW9g1tk3UANGUipc"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/68/ca/bf68ca64-4acd-543f-bc78-455f11f06105/196922889738_Cover.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/how-sweet-ep/1744448415"
+    },
+    "time": "13:00",
+    "editor_note": "Confirmed: Apple Music KR \"How Sweet - EP\" datePublished 2024-05-24; Melon album 11475749 date 2024.05.24; 13:00 KST. youtube_music URL taken from MusicBrainz release page (not fetched directly)."
   },
   {
     "id": "music-2024-06-21-right-now",
@@ -825,8 +1075,9 @@
       "ja": "日本デビューシングル『Supernatural』のカップリング。村上隆コラボのMVは6/17先行公開。",
       "en": "B-side of the Japan debut single 'Supernatural'; MV (with Takashi Murakami) pre-released Jun 17."
     },
-    "source_url": "https://en.wikipedia.org/wiki/Right_Now_(NewJeans_song)",
+    "source_url": "https://music.apple.com/kr/album/supernatural-single/1750576829",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/Right_Now_(NewJeans_song)",
       "https://v.daum.net/v/20240610170141882",
       "https://ja.wikipedia.org/wiki/NewJeans"
     ],
@@ -837,8 +1088,19 @@
       "japan-debut",
       "single-supernatural"
     ],
-    "verified": false,
-    "editor_note": "MV released 2024-06-17 KST; audio released 2024-06-21 with the single."
+    "verified": true,
+    "editor_note": "MV released 2024-06-17 KST; audio released 2024-06-21 with the single. | Confirmed: audio 2024-06-21 13:00 KST with the Supernatural single (Apple Music KR datePublished 2024-06-21; Melon song 37639980 in album 11514014 dated 2024.06.21). MV pre-released 2024-06-17 00:00 KST (TenAsia). Spotify album 5YfYZJVlmNhm83MYpLmfqG is a video entry.",
+    "links": {
+      "spotify": "https://open.spotify.com/track/58Q3FZFs1YXPpliWQB5kXB",
+      "apple_music": "https://music.apple.com/kr/album/supernatural-single/1750576829",
+      "melon": "https://www.melon.com/song/detail.htm?songId=37639980",
+      "spotify_album": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/ce/d6/abced6f6-2b90-c230-eb4b-e146734a3a22/196922907821_Cover.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/supernatural-single/1750576829"
+    },
+    "time": "13:00"
   },
   {
     "id": "music-2024-06-21-supernatural",
@@ -859,8 +1121,9 @@
       "ja": "日本デビューシングルのタイトル曲。",
       "en": "Title track of the Japan debut single."
     },
-    "source_url": "https://en.wikipedia.org/wiki/Supernatural_(NewJeans_song)",
+    "source_url": "https://music.apple.com/kr/album/supernatural-single/1750576829",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/Supernatural_(NewJeans_song)",
       "https://en.wikipedia.org/wiki/NewJeans_discography"
     ],
     "media": {
@@ -871,8 +1134,19 @@
       "title-track",
       "japan"
     ],
-    "verified": false,
-    "editor_note": "Removed 'also promoted in Korea' from the summary (Korean music-show promotion started in July 2024, after this date)."
+    "verified": true,
+    "editor_note": "Removed 'also promoted in Korea' from the summary (Korean music-show promotion started in July 2024, after this date). | Confirmed: Apple Music KR datePublished 2024-06-21; Melon 2024.06.21; 13:00 KST (xportsnews).",
+    "links": {
+      "spotify": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki",
+      "apple_music": "https://music.apple.com/kr/album/supernatural-single/1750576829",
+      "melon": "https://www.melon.com/song/detail.htm?songId=37659322",
+      "spotify_album": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/ce/d6/abced6f6-2b90-c230-eb4b-e146734a3a22/196922907821_Cover.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/supernatural-single/1750576829"
+    },
+    "time": "13:00"
   },
   {
     "id": "music-2024-06-21-supernatural-japan-single",
@@ -893,8 +1167,9 @@
       "ja": "日本デビューシングル（CD＋配信）。Supernatural / Right Now ＋インスト。Pharrell Williamsプロデュース。",
       "en": "Japanese debut single (CD + digital): Supernatural / Right Now + instrumentals. Produced with Pharrell Williams."
     },
-    "source_url": "https://en.wikipedia.org/wiki/Supernatural_(NewJeans_song)",
+    "source_url": "https://music.apple.com/jp/album/supernatural-ep/1752131587",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/Supernatural_(NewJeans_song)",
       "https://en.wikipedia.org/wiki/NewJeans_discography",
       "https://ja.wikipedia.org/wiki/Supernatural_(NewJeans%E3%81%AE%E6%9B%B2)"
     ],
@@ -907,8 +1182,19 @@
       "japan",
       "japan-debut"
     ],
-    "verified": false,
-    "editor_note": "CD formats: Drawstring bag ver., Crossbody bag ver., Weverse-exclusive ver. Oricon weekly singles: No.10 then No.4."
+    "verified": true,
+    "editor_note": "CD formats: Drawstring bag ver., Crossbody bag ver., Weverse-exclusive ver. Oricon weekly singles: No.10 then No.4. | Confirmed: Apple Music JP \"Supernatural - EP\" datePublished 2024-06-21; Apple Music KR 2024-06-21; Melon album 11514014 date 2024.06.21; 13:00 KST.",
+    "links": {
+      "spotify": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN",
+      "apple_music": "https://music.apple.com/jp/album/supernatural-ep/1752131587",
+      "apple_music_kr": "https://music.apple.com/kr/album/supernatural-single/1750576829",
+      "melon": "https://www.melon.com/album/detail.htm?albumId=11514014"
+    },
+    "image": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/ce/d6/abced6f6-2b90-c230-eb4b-e146734a3a22/196922907821_Cover.jpg/1000x1000bb.jpg",
+      "source_url": "https://music.apple.com/kr/album/supernatural-single/1750576829"
+    },
+    "time": "13:00"
   },
   {
     "id": "music-2025-03-23-pit-stop",
@@ -931,6 +1217,7 @@
     },
     "source_url": "https://en.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/NewJeans",
       "https://www.gmanetwork.com/news/showbiz/showbizabroad/940293/njz-newjeans-debuts-new-song-in-hongkong-fest-announces-hiatus/story"
     ],
     "media": {
@@ -942,6 +1229,6 @@
       "complexcon"
     ],
     "verified": false,
-    "editor_note": "Not an official release. Performed two days after the 2025-03-21 court injunction barring independent activities; a Kbizoom lyrics page lists 'Released: March 24, 2025' but this is not corroborated. | Removed 'never officially released' (retrospective) from the summary."
+    "editor_note": "Not an official release. Performed two days after the 2025-03-21 court injunction barring independent activities; a Kbizoom lyrics page lists 'Released: March 24, 2025' but this is not corroborated. | Removed 'never officially released' (retrospective) from the summary. | Not a release: performed live at ComplexCon Hong Kong 2025-03-23 (bandwagon.asia, stereogum, GMA). No Apple Music / Spotify / Melon listing exists; no streaming links or cover art. Date left as event date; no primary source available."
   }
 ]
