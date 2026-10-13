@@ -1,1 +1,1456 @@
-[]
+[
+  {
+    "id": "live-2022-09-21-dankook-danfesta",
+    "date": "2022-09-21",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "檀国大学 2022 DANFESTA 出演",
+      "en": "Dankook University 2022 DANFESTA",
+      "original": "단국대학교 2022 DANFESTA"
+    },
+    "summary": {
+      "ja": "龍仁・檀国大学竹田キャンパスの秋祭り「2022 DANFESTA」1日目に出演。",
+      "en": "Performed on day 1 of Dankook University's Jukjeon campus festival '2022 DANFESTA' in Yongin."
+    },
+    "source_url": "https://www.segye.com/newsView/20220526519042",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://www.segye.com/newsView/20220526519042"
+    ],
+    "tags": [
+      "university-festival"
+    ],
+    "note": "Lineup announced by the university (Sept 15, 2022); actual stage not separately confirmed from an official ADOR source."
+  },
+  {
+    "id": "live-2022-09-24-yonsei-akaraka",
+    "date": "2022-09-24",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "延世大学 AKARAKA 2022 出演",
+      "en": "Yonsei University AKARAKA 2022",
+      "original": "연세대학교 아카라카 2022"
+    },
+    "summary": {
+      "ja": "ソウル・延世大学新村キャンパス野外劇場の応援祭「アカラカ」でオープニングを務めた。",
+      "en": "Opened the AKARAKA cheering festival at Yonsei University's Sinchon campus open-air theatre, Seoul."
+    },
+    "source_url": "https://www.wikitree.co.kr/articles/792039",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://www.wikitree.co.kr/articles/792039"
+    ],
+    "tags": [
+      "university-festival"
+    ]
+  },
+  {
+    "id": "live-2022-10-01-kcon-2022-saudi-arabia",
+    "date": "2022-10-01",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "KCON 2022 SAUDI ARABIA 出演",
+      "en": "KCON 2022 Saudi Arabia"
+    },
+    "summary": {
+      "ja": "リヤドのBoulevard Riyadh Cityで開催されたKCON 2022 SAUDI ARABIA 2日目に出演（初の海外公演）。",
+      "en": "Performed on day 2 of KCON 2022 Saudi Arabia at Boulevard Riyadh City, Riyadh (first overseas stage)."
+    },
+    "source_url": "https://newsroom.cj.net/saudi-arabia-and-japan-kcon-events/",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://www.soompi.com/article/1544699wpp/kcon-2022-saudi-arabia-announces-star-studded-lineup",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
+    "tags": [
+      "festival",
+      "overseas"
+    ],
+    "note": "Event ran Sept 30-Oct 1, 2022; NewJeans on Oct 1 (day 2)."
+  },
+  {
+    "id": "live-2022-10-15-kcon-2022-japan",
+    "date": "2022-10-15",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "KCON 2022 JAPAN 出演",
+      "en": "KCON 2022 Japan"
+    },
+    "summary": {
+      "ja": "東京・有明アリーナで開催されたKCON 2022 JAPAN（10/14-16）の2日目に出演。",
+      "en": "Performed on day 2 of KCON 2022 Japan (Oct 14-16) at Ariake Arena, Tokyo."
+    },
+    "source_url": "https://newsroom.cj.net/saudi-arabia-and-japan-kcon-events/",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://www.soompi.com/article/1542195wpp/kcon-2022-japan-announces-1st-lineup-of-performers",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
+    "tags": [
+      "festival",
+      "japan"
+    ],
+    "note": "Day assignment (Oct 15) from Wikipedia and an Indonesian lineup report; not confirmed from the official day-by-day lineup."
+  },
+  {
+    "id": "live-2022-12-16-kbs-song-festival",
+    "date": "2022-12-16",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2022 KBS歌謡大祝祭 出演",
+      "en": "2022 KBS Song Festival",
+      "original": "2022 KBS 가요대축제"
+    },
+    "summary": {
+      "ja": "ソウル・蚕室室内体育館で開催された2022 KBS歌謡大祝祭に出演（生放送のある有観客公演）。",
+      "en": "Performed at the 2022 KBS Song Festival held at Jamsil Arena, Seoul (ticketed audience, broadcast live)."
+    },
+    "source_url": "https://sports.khan.co.kr/article/202212121202003",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/2022_KBS_Song_Festival",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
+    "tags": [
+      "broadcast-concert"
+    ],
+    "note": "Broadcast-concert; the TV airing may be registered separately in the tv category."
+  },
+  {
+    "id": "live-2022-12-24-sbs-gayo-daejeon",
+    "date": "2022-12-24",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2022 SBS歌謡大典 出演",
+      "en": "2022 SBS Gayo Daejeon",
+      "original": "2022 SBS 가요대전"
+    },
+    "summary": {
+      "ja": "ソウル・高尺スカイドームで開催された2022 SBS歌謡大典に出演。",
+      "en": "Performed at the 2022 SBS Gayo Daejeon at Gocheok Sky Dome, Seoul."
+    },
+    "source_url": "https://twig24.com/news/entertainments/2022/12/17/20221217801001",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
+    "tags": [
+      "broadcast-concert"
+    ],
+    "note": "Broadcast-concert; the TV airing may be registered separately in the tv category."
+  },
+  {
+    "id": "live-2023-03-04-tokyo-girls-collection-2023-ss",
+    "date": "2023-03-04",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第36回 マイナビ 東京ガールズコレクション 2023 SPRING/SUMMER 出演",
+      "en": "36th Mynavi Tokyo Girls Collection 2023 S/S"
+    },
+    "summary": {
+      "ja": "国立代々木競技場第一体育館で開催されたTGC 2023 S/Sのオープニングで「Ditto」などを披露。",
+      "en": "Performed 'Ditto' in the opening segment of TGC 2023 S/S at Yoyogi National Gymnasium, Tokyo."
+    },
+    "source_url": "https://mdpr.jp/k-enta/3633493",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
+    "tags": [
+      "japan",
+      "fashion-event"
+    ]
+  },
+  {
+    "id": "live-2023-05-03-adb-annual-meeting-opening",
+    "date": "2023-05-03",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第56回ADB年次総会 開会式 出演",
+      "en": "56th ADB Annual Meeting opening ceremony"
+    },
+    "summary": {
+      "ja": "仁川・松島コンベンシアで開かれたアジア開発銀行（ADB）年次総会の開会式で公演したとされる。",
+      "en": "Reportedly performed at the opening ceremony of the Asian Development Bank annual meeting at Songdo Convensia, Incheon."
+    },
+    "source_url": "https://www.adb.org/annual-meeting/2023/events/opening-session",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
+    "tags": [
+      "corporate-event"
+    ],
+    "note": "Listed on Wikipedia; could not be confirmed from the ADB programme or news. Treat as unverified."
+  },
+  {
+    "id": "live-2023-06-11-weverse-con-festival-2023",
+    "date": "2023-06-11",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Weverse Con Festival 出演",
+      "en": "2023 Weverse Con Festival"
+    },
+    "summary": {
+      "ja": "ソウル・オリンピック公園KSPO DOMEで開催された2023 Weverse Con Festival（6/10-11）の2日目に出演。",
+      "en": "Performed on day 2 (June 11) of the 2023 Weverse Con Festival at KSPO Dome, Olympic Park, Seoul."
+    },
+    "source_url": "https://weverse.io/weversezone/notice/13150",
+    "verified": true,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://leisurebyte.com/2023-weverse-con-festival-day-2-enhypen/",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
+    "tags": [
+      "festival"
+    ],
+    "note": "Festival ran June 10-11, 2023; official notice confirms lineup/venue, day-2 slot confirmed via press coverage."
+  },
+  {
+    "id": "live-2023-07-01-bunnies-camp",
+    "date": "2023-07-01",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans 1st Fan Meeting 'Bunnies Camp'",
+      "en": "NewJeans 1st Fan Meeting 'Bunnies Camp'"
+    },
+    "summary": {
+      "ja": "ソウル・SKオリンピックハンドボール競技場で初ファンミーティングを2日間開催（7/1 18:00、7/2 17:00 KST）。",
+      "en": "First fan meeting held over two days at SK Olympic Handball Gymnasium, Seoul (July 1 6PM, July 2 5PM KST)."
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/13468",
+    "verified": true,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-to-hold-first-fan-meet-and-greet-bunnies-camp-in-july/11741918",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
+    "tags": [
+      "fan-meeting",
+      "solo-show"
+    ],
+    "note": "Dates: 2023-07-01 and 2023-07-02. Also streamed on Weverse."
+  },
+  {
+    "id": "live-2023-08-03-lollapalooza-chicago-2023",
+    "date": "2023-08-03",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Lollapalooza 2023 (シカゴ) 出演",
+      "en": "Lollapalooza 2023 Chicago"
+    },
+    "summary": {
+      "ja": "シカゴ・グラントパークのLollapalooza 2023初日（T-Mobileステージ）に出演。米国初公演。",
+      "en": "Performed on day 1 of Lollapalooza 2023 at Grant Park, Chicago (T-Mobile Stage); first US performance."
+    },
+    "source_url": "https://www.stereogum.com/?p=2232173",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://www.audacy.com/b96/news/newjeans-talk-super-shy-their-new-ep-at-lollapalooza",
+      "https://antimusic.com/reviews/23/lollapalooza-2023-day-one-report",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
+    "tags": [
+      "festival",
+      "overseas"
+    ],
+    "note": "Official lollapalooza.com 2023 lineup page no longer available; date confirmed via press."
+  },
+  {
+    "id": "live-2023-08-11-kpop-super-live-jamboree",
+    "date": "2023-08-11",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023世界スカウトジャンボリー 「K-POP SUPER LIVE」出演",
+      "en": "2023 World Scout Jamboree 'K-pop Super Live'",
+      "original": "2023 새만금 세계스카우트잼버리 K-POP 슈퍼라이브"
+    },
+    "summary": {
+      "ja": "ソウルワールドカップ競技場で開催されたジャンボリー閉幕K-POPコンサートに出演（ヘインがMCも担当）。",
+      "en": "Performed at the Jamboree closing K-pop concert at Seoul World Cup Stadium (Hyein also co-hosted)."
+    },
+    "source_url": "https://www.mcst.go.kr/english/policy/pressView.jsp?pSeq=288",
+    "verified": true,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://www.koreatimes.co.kr/foreignaffairs/20230811/k-pop-concert-to-wrap-up-2023-world-scout-jamboree",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
+    "tags": [
+      "festival",
+      "government-event"
+    ]
+  },
+  {
+    "id": "live-2023-08-19-summer-sonic-2023-tokyo",
+    "date": "2023-08-19",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "SUMMER SONIC 2023 (東京) 出演",
+      "en": "Summer Sonic 2023 Tokyo"
+    },
+    "summary": {
+      "ja": "千葉・ZOZOマリンスタジアムのMARINE STAGEに出演。日本初の正式公演。東京公演のみで大阪には出演せず。",
+      "en": "Performed on the Marine Stage at ZOZO Marine Stadium, Chiba; first official Japan show. Tokyo date only (no Osaka appearance)."
+    },
+    "source_url": "https://www.oricon.co.jp/news/2272452/full/",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-debuts-in-japan-at-summer-sonic-2023/11635745",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
+    "tags": [
+      "festival",
+      "japan"
+    ],
+    "note": "Oricon confirms Tokyo-only (Aug 19). Official summersonic.com 2023 lineup not retrievable."
+  },
+  {
+    "id": "live-2023-09-14-seoul-national-univ-festival",
+    "date": "2023-09-14",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ソウル大学 2023 秋祭り出演",
+      "en": "Seoul National University 2023 autumn festival",
+      "original": "서울대학교 2023 축제"
+    },
+    "summary": {
+      "ja": "ソウル大学の秋の大学祭（閉幕祭）に出演したとされる。",
+      "en": "Reportedly performed at Seoul National University's autumn festival closing night."
+    },
+    "source_url": "https://www.clien.net/service/board/park/18307799",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://community.linkareer.com/jayuu/2251369"
+    ],
+    "tags": [
+      "university-festival"
+    ],
+    "note": "Sources conflict on whether NewJeans was on the SNU lineup; unverified."
+  },
+  {
+    "id": "live-2023-09-14-sungkyunkwan-univ-festival",
+    "date": "2023-09-14",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "成均館大学 2023 秋祭り出演",
+      "en": "Sungkyunkwan University 2023 autumn festival",
+      "original": "성균관대학교 2023 축제"
+    },
+    "summary": {
+      "ja": "ソウル・成均館大学の秋の大学祭に出演。",
+      "en": "Performed at Sungkyunkwan University's autumn festival, Seoul."
+    },
+    "source_url": "https://www.clien.net/service/board/park/18307799",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://community.linkareer.com/jayuu/2251369"
+    ],
+    "tags": [
+      "university-festival"
+    ],
+    "note": "Date from lineup posts and fan reports only; no official notice found."
+  },
+  {
+    "id": "live-2023-09-15-hongik-univ-festival",
+    "date": "2023-09-15",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "弘益大学 2023 秋祭り出演",
+      "en": "Hongik University 2023 autumn festival",
+      "original": "홍익대학교 2023 축제"
+    },
+    "summary": {
+      "ja": "ソウル・弘益大学の秋の大学祭に出演。",
+      "en": "Performed at Hongik University's autumn festival, Seoul."
+    },
+    "source_url": "https://www.clien.net/service/board/park/18307799",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://community.linkareer.com/jayuu/2251369"
+    ],
+    "tags": [
+      "university-festival"
+    ],
+    "note": "Date from lineup posts and fan reports only; no official notice found."
+  },
+  {
+    "id": "live-2023-09-15-kyung-hee-univ-festival",
+    "date": "2023-09-15",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "慶熙大学 2023 秋祭り出演",
+      "en": "Kyung Hee University 2023 autumn festival",
+      "original": "경희대학교 2023 축제"
+    },
+    "summary": {
+      "ja": "慶熙大学の秋の大学祭に出演。",
+      "en": "Performed at Kyung Hee University's autumn festival."
+    },
+    "source_url": "https://www.clien.net/service/board/park/18307799",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://community.linkareer.com/jayuu/2251369"
+    ],
+    "tags": [
+      "university-festival"
+    ],
+    "note": "Date from lineup posts and fan reports only; no official notice found."
+  },
+  {
+    "id": "live-2023-10-07-coke-studio-superpop-japan-2023",
+    "date": "2023-10-07",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Coke STUDIO SUPERPOP JAPAN 2023 出演",
+      "en": "Coke STUDIO SUPERPOP JAPAN 2023"
+    },
+    "summary": {
+      "ja": "横浜・ぴあアリーナMMで2日間開催（10/7-8）。Mrs. GREEN APPLE、水曜日のカンパネラらと共演。",
+      "en": "Two-day event (Oct 7-8) at Pia Arena MM, Yokohama, alongside Mrs. GREEN APPLE and Wednesday Campanella."
+    },
+    "source_url": "https://mdpr.jp/k-enta/3869328",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://realsound.jp/2023/10/post-1458564_2.html",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
+    "tags": [
+      "festival",
+      "japan",
+      "brand-event"
+    ],
+    "note": "Dates: 2023-10-07 and 2023-10-08."
+  },
+  {
+    "id": "live-2023-10-22-music-bank-in-mexico",
+    "date": "2023-10-22",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Music Bank in Mexico 出演",
+      "en": "Music Bank in Mexico"
+    },
+    "summary": {
+      "ja": "メキシコシティのPalacio de los Deportesで開催されたKBS Music Bank in Mexicoに出演。",
+      "en": "Performed at KBS Music Bank in Mexico at Palacio de los Deportes, Mexico City."
+    },
+    "source_url": "https://soompi.com/article/1603263wpp/music-bank-in-mexico-announces-performer-lineup",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://www.publimetro.com.mx/entretenimiento/2023/10/23/kpop-music-bank-mexico-2023-fotos-y-videos-world-tour-cdmx-newjeans-itzy-gidle-stayc/",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
+    "tags": [
+      "broadcast-concert",
+      "overseas"
+    ]
+  },
+  {
+    "id": "live-2023-11-19-lol-worlds-2023-opening-ceremony",
+    "date": "2023-11-19",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 LoL World Championship 決勝 オープニングセレモニー",
+      "en": "2023 League of Legends World Championship Finals opening ceremony"
+    },
+    "summary": {
+      "ja": "ソウル・高尺スカイドームでWorlds 2023決勝のオープニングセレモニーに登場し、大会アンセム「GODS」を披露。",
+      "en": "Performed the Worlds 2023 anthem 'GODS' at the Finals opening ceremony at Gocheok Sky Dome, Seoul."
+    },
+    "source_url": "https://lolesports.com/en-US/news/worlds-2023-opening-ceremony-presented-by-mastercard",
+    "verified": true,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://www.soompi.com/article/1627219wpp/watch-newjeans-and-heartsteel-with-exos-baekhyun-put-on-epic-performances-at-league-of-legends-worlds-2023-opening-ceremony"
+    ],
+    "tags": [
+      "esports",
+      "brand-event"
+    ]
+  },
+  {
+    "id": "live-2023-12-09-music-bank-global-festival-2023-japan",
+    "date": "2023-12-09",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Music Bank Global Festival in Japan (KBS歌謡大祝祭) 出演",
+      "en": "2023 Music Bank Global Festival in Japan (KBS Song Festival)",
+      "original": "2023 뮤직뱅크 글로벌 페스티벌"
+    },
+    "summary": {
+      "ja": "埼玉・ベルーナドームで開催された2023 KBS歌謡大祝祭の日本公演に出演（12/15放送の第2部として放映）。",
+      "en": "Performed at the Japan edition of the 2023 KBS Song Festival at Belluna Dome, Tokorozawa (aired as Part 2 on Dec 15)."
+    },
+    "source_url": "https://v.daum.net/v/20231216094017494",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://www.soompi.com/article/1627035wpp/kbs-announces-star-studded-lineup-for-2023-music-bank-global-festival-in-seoul",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
+    "tags": [
+      "broadcast-concert",
+      "japan"
+    ],
+    "note": "Broadcast-concert; the TV airing (2023-12-15) may be registered separately in tv."
+  },
+  {
+    "id": "live-2023-12-25-sbs-gayo-daejeon",
+    "date": "2023-12-25",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 SBS歌謡大典 出演",
+      "en": "2023 SBS Gayo Daejeon",
+      "original": "2023 SBS 가요대전"
+    },
+    "summary": {
+      "ja": "仁川・INSPIREアリーナで開催された2023 SBS歌謡大典に出演。",
+      "en": "Performed at the 2023 SBS Gayo Daejeon at Inspire Arena, Incheon."
+    },
+    "source_url": "https://www.ajunews.com/view/20231225170927732",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
+    "tags": [
+      "broadcast-concert"
+    ],
+    "note": "Broadcast-concert; the TV airing may be registered separately in the tv category."
+  },
+  {
+    "id": "live-2024-02-03-nike-orchard-road-singapore",
+    "date": "2024-02-03",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans at Nike Orchard Road（シンガポール）",
+      "en": "NewJeans at Nike Orchard Road, Singapore"
+    },
+    "summary": {
+      "ja": "シンガポール・Nike Orchard Road旗艦店でのメンバー限定イベントで4曲を披露。シンガポール初公演。",
+      "en": "Performed a four-song set at a closed-door Nike Member event at the Nike Orchard Road flagship store; first Singapore performance."
+    },
+    "source_url": "https://straitstimes.com.sg/life/entertainment/newjeans-draw-hundreds-of-bunnies-with-first-s-pore-performance-at-nike-orchard",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://mothership.sg/2024/01/newjeans-performing-orchard-road-nike/",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
+    "tags": [
+      "brand-event",
+      "overseas"
+    ]
+  },
+  {
+    "id": "live-2024-03-02-iu-her-world-tour-seoul-guest",
+    "date": "2024-03-02",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "IU 'H.E.R.' WORLD TOUR ソウル公演 ゲスト出演",
+      "en": "Guest at IU H.E.R. World Tour Seoul"
+    },
+    "summary": {
+      "ja": "ソウル・KSPO DOMEで開催されたIUワールドツアー初日のスペシャルゲストとして出演。",
+      "en": "Appeared as the special guest on the opening night of IU's H.E.R. World Tour at KSPO Dome, Seoul."
+    },
+    "source_url": "https://www.elle.co.kr/article/84625",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://www.harpersbazaar.co.kr/article/1861866",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
+    "tags": [
+      "guest-appearance"
+    ]
+  },
+  {
+    "id": "live-2024-05-21-korea-on-stage-gyeongbokgung",
+    "date": "2024-05-21",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 Korea on Stage - New Generation（景福宮）出演",
+      "en": "2024 Korea on Stage - New Generation at Gyeongbokgung",
+      "original": "2024 코리아 온 스테이지 - 뉴 제너레이션"
+    },
+    "summary": {
+      "ja": "景福宮・興礼門前の特設ステージで開催されたKBS「Korea on Stage」でトリを務めた（ダニエルが単独MC）。",
+      "en": "Closed the KBS 'Korea on Stage' concert on a special stage in front of Heungnyemun Gate, Gyeongbokgung Palace, Seoul (Danielle hosted)."
+    },
+    "source_url": "https://news.tf.co.kr/read/ogmeta/2098722.htm",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://sports.khan.co.kr/article/202405220935003",
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-to-showcase-korean-heritage-with-performance-at-gyeongbok-palace/10465938"
+    ],
+    "tags": [
+      "broadcast-concert",
+      "government-event"
+    ],
+    "note": "Hosted by the Korea Heritage Service, organized by KBS; broadcast on KBS2 the same night."
+  },
+  {
+    "id": "live-2024-05-25-korea-univ-ipselenti",
+    "date": "2024-05-25",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "高麗大学 2024 IPSELENTI 出演",
+      "en": "Korea University 2024 IPSELENTI",
+      "original": "고려대학교 2024 입실렌티"
+    },
+    "summary": {
+      "ja": "ソウル・高麗大学の応援祭「イプセレンティ」に出演。2024年7大学祭ツアーの初日。",
+      "en": "Performed at Korea University's cheering festival IPSELENTI, Seoul; first of seven university festivals in May 2024."
+    },
+    "source_url": "https://www.ajunews.com/view/20240526165410747",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://www.marieclairekorea.com/celebrity/2024/05/newjeans-univ-festival/",
+      "https://www.nocutnews.co.kr/news/6150429"
+    ],
+    "tags": [
+      "university-festival"
+    ],
+    "note": "Saturday May 25, 2024 per ADOR schedule reported by Aju News; some outlets print May 24/26. All 7 festival fees were donated to the Korea Student Aid Foundation."
+  },
+  {
+    "id": "live-2024-05-27-chosun-univ-festival",
+    "date": "2024-05-27",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "朝鮮大学 2024 大学祭出演",
+      "en": "Chosun University 2024 festival",
+      "original": "조선대학교 2024 축제"
+    },
+    "summary": {
+      "ja": "光州・朝鮮大学の大学祭初日に出演。",
+      "en": "Performed on day 1 of Chosun University's festival, Gwangju."
+    },
+    "source_url": "https://www.ajunews.com/view/20240526165410747",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://www.gjdream.com/news/articleView.html?idxno=644011"
+    ],
+    "tags": [
+      "university-festival"
+    ]
+  },
+  {
+    "id": "live-2024-05-28-dongeui-univ-festival",
+    "date": "2024-05-28",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "東義大学 2024 大学祭出演",
+      "en": "Dong-eui University 2024 festival",
+      "original": "동의대학교 2024 축제"
+    },
+    "summary": {
+      "ja": "釜山・東義大学の大学祭に出演。",
+      "en": "Performed at Dong-eui University's festival, Busan."
+    },
+    "source_url": "https://www.ajunews.com/view/20240526165410747",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://www.marieclairekorea.com/celebrity/2024/05/newjeans-univ-festival/"
+    ],
+    "tags": [
+      "university-festival"
+    ]
+  },
+  {
+    "id": "live-2024-05-28-pusan-national-univ-festival",
+    "date": "2024-05-28",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "釜山大学 2024 大学祭出演",
+      "en": "Pusan National University 2024 festival",
+      "original": "부산대학교 2024 축제"
+    },
+    "summary": {
+      "ja": "釜山大学の大学祭に出演（同日に東義大学にも出演）。",
+      "en": "Performed at Pusan National University's festival (same day as Dong-eui University)."
+    },
+    "source_url": "https://www.ajunews.com/view/20240526165410747",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://www.marieclairekorea.com/celebrity/2024/05/newjeans-univ-festival/"
+    ],
+    "tags": [
+      "university-festival"
+    ]
+  },
+  {
+    "id": "live-2024-05-30-dongguk-univ-festival",
+    "date": "2024-05-30",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "東国大学 2024 大学祭出演",
+      "en": "Dongguk University 2024 festival",
+      "original": "동국대학교 2024 축제"
+    },
+    "summary": {
+      "ja": "ソウル・東国大学の大学祭に出演。",
+      "en": "Performed at Dongguk University's festival, Seoul."
+    },
+    "source_url": "https://www.ajunews.com/view/20240526165410747",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://www.marieclairekorea.com/celebrity/2024/05/newjeans-univ-festival/"
+    ],
+    "tags": [
+      "university-festival"
+    ]
+  },
+  {
+    "id": "live-2024-05-30-sejong-univ-festival",
+    "date": "2024-05-30",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "世宗大学 2024 大学祭出演",
+      "en": "Sejong University 2024 festival",
+      "original": "세종대학교 2024 축제"
+    },
+    "summary": {
+      "ja": "ソウル・世宗大学の大学祭に出演（同日に東国大学にも出演）。",
+      "en": "Performed at Sejong University's festival, Seoul (same day as Dongguk University)."
+    },
+    "source_url": "https://www.ajunews.com/view/20240526165410747",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://www.marieclairekorea.com/celebrity/2024/05/newjeans-univ-festival/"
+    ],
+    "tags": [
+      "university-festival"
+    ]
+  },
+  {
+    "id": "live-2024-05-31-chung-ang-univ-festival",
+    "date": "2024-05-31",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "中央大学 2024 大学祭出演",
+      "en": "Chung-Ang University 2024 festival",
+      "original": "중앙대학교 2024 축제"
+    },
+    "summary": {
+      "ja": "ソウル・中央大学の大学祭に出演。2024年大学祭ツアーの最終日。",
+      "en": "Performed at Chung-Ang University's festival, Seoul; final stop of the May 2024 university festival run."
+    },
+    "source_url": "https://www.ajunews.com/view/20240526165410747",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://www.marieclairekorea.com/celebrity/2024/05/newjeans-univ-festival/"
+    ],
+    "tags": [
+      "university-festival"
+    ]
+  },
+  {
+    "id": "live-2024-06-02-k-wave-concert-inkigayo",
+    "date": "2024-06-02",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 K-WAVE CONCERT 人気歌謡 出演",
+      "en": "2024 K-Wave Concert Inkigayo",
+      "original": "2024 K-WAVE 콘서트 인기가요"
+    },
+    "summary": {
+      "ja": "仁川・INSPIREアリーナで開催されたSBS「K-WAVE CONCERT 人気歌謡」に出演し「How Sweet」「Bubble Gum」などを披露。",
+      "en": "Performed 'How Sweet', 'Bubble Gum' and 'ETA' at SBS's K-Wave Concert Inkigayo at Inspire Arena, Incheon."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://weverse.io/aespa/notice/19866"
+    ],
+    "tags": [
+      "broadcast-concert"
+    ],
+    "note": "Date confirmed via another act's official Weverse notice; NewJeans' set per Wikipedia only."
+  },
+  {
+    "id": "live-2024-06-04-coke-studio-tokyo-fan-event",
+    "date": "2024-06-04",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Coke STUDIO 東京ファンイベント「Coke Studio: Live ft. NewJeans」",
+      "en": "Coke Studio Tokyo fan event 'Coke Studio: Live ft. NewJeans'"
+    },
+    "summary": {
+      "ja": "東京で開催されたコカ・コーラ×Spotifyのファンイベントで「How Sweet」を海外初披露したとされる。",
+      "en": "Reportedly gave the first international performance of 'How Sweet' at a Coca-Cola x Spotify fan event in Tokyo."
+    },
+    "source_url": "https://www.coca-cola.com/us/en/offerings/coke-studio/roster/newjeans",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://news.designrush.com/coke-studio-showcases-successful-collab-with-newjeans",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
+    "tags": [
+      "brand-event",
+      "japan"
+    ],
+    "note": "Date (June 4, 2024) from Wikipedia only; Coca-Cola's page gives no date. Unverified."
+  },
+  {
+    "id": "live-2024-06-26-bunnies-camp-2024-tokyo-dome",
+    "date": "2024-06-26",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans Fan Meeting 'Bunnies Camp 2024 Tokyo Dome'",
+      "en": "NewJeans Fan Meeting 'Bunnies Camp 2024 Tokyo Dome'"
+    },
+    "summary": {
+      "ja": "東京ドームで初の単独来日公演を2日間開催（6/26・27、各日17:00開場/19:00開演）。約9万1千人動員。",
+      "en": "First solo Japan shows, two nights at Tokyo Dome (June 26-27, doors 17:00 / start 19:00); about 91,000 attendance."
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/18552",
+    "verified": true,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://realsound.jp/2024/03/post-1613271.html",
+      "https://www.koreatimes.co.kr/amp/entertainment/music/20240628/newjeans-rock-tokyo-dome"
+    ],
+    "tags": [
+      "fan-meeting",
+      "solo-show",
+      "japan"
+    ],
+    "note": "Dates: 2024-06-26 and 2024-06-27. Guests included YOASOBI and Rina Sawayama."
+  },
+  {
+    "id": "live-2024-07-21-sbs-gayo-daejeon-summer",
+    "date": "2024-07-21",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 SBS歌謡大典 Summer 出演",
+      "en": "2024 SBS Gayo Daejeon Summer",
+      "original": "2024 SBS 가요대전 Summer"
+    },
+    "summary": {
+      "ja": "仁川・INSPIREアリーナで初開催されたSBS歌謡大典Summerに出演し「How Sweet」「Supernatural」を披露。",
+      "en": "Performed 'How Sweet' and 'Supernatural' at the first SBS Gayo Daejeon Summer at Inspire Arena, Incheon."
+    },
+    "source_url": "https://www.ajunews.com/view/20240721171710042",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://weverse.io/nct127/notice/20988",
+      "https://www.soompi.com/article/1667854wpp/sbs-gayo-daejeon-announces-first-ever-summer-edition",
+      "https://soompi.com/article/1675938wpp/watch-performances-from-2024-sbs-gayo-daejeon-summer"
+    ],
+    "tags": [
+      "broadcast-concert"
+    ],
+    "note": "Held and broadcast live on 2024-07-21 at Inspire Arena, Incheon (not Daegu). Wikipedia lists July 24, which appears to be an error."
+  },
+  {
+    "id": "live-2024-08-03-coupang-play-series-halftime-show",
+    "date": "2024-08-03",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "クーパンプレイシリーズ トッテナム vs バイエルン ハーフタイムショー",
+      "en": "Coupang Play Series Tottenham vs Bayern Munich halftime show"
+    },
+    "summary": {
+      "ja": "ソウルワールドカップ競技場での親善試合のハーフタイムショーに出演。",
+      "en": "Performed the halftime show at the Tottenham Hotspur vs Bayern Munich friendly at Seoul World Cup Stadium."
+    },
+    "source_url": "https://www.aboutcoupang.com/?p=1424",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://soompi.com/article/1675309wpp/newjeans-confirmed-to-perform-at-halftime-show-for-bayern-munich-vs-tottenham-hotspur-match-in-seoul",
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-to-perform-halftime-show-at-tottenham-bayern-clash-in-seoul/12352777"
+    ],
+    "tags": [
+      "sports-event",
+      "brand-event"
+    ],
+    "note": "Coupang's page confirms NewJeans halftime show in the series; match date Aug 3 confirmed via ADOR/Coupang Play announcement reported by press."
+  },
+  {
+    "id": "live-2024-08-22-paris-olympics-team-korea-event",
+    "date": "2024-08-22",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024パリ五輪 韓国選手団 激励行事 出演",
+      "en": "2024 Paris Olympics Team Korea encouragement event"
+    },
+    "summary": {
+      "ja": "ソウル市内のホテルで開かれた大統領主催のパリ五輪選手団激励行事で祝賀公演。",
+      "en": "Performed at the presidential encouragement event for Korea's Paris Olympic athletes at a Seoul hotel."
+    },
+    "source_url": "https://www.dailian.co.kr/news/view/1398664/",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
+    "tags": [
+      "government-event"
+    ],
+    "note": "Invitation-only government event; performers included SEVENTEEN's BSS."
+  },
+  {
+    "id": "live-2024-09-05-coke-studio-ultimate-fandom-concert-manila",
+    "date": "2024-09-05",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Coke Studio 'The Ultimate Fandom Concert'（マニラ）出演",
+      "en": "Coke Studio 'The Ultimate Fandom Concert' Manila"
+    },
+    "summary": {
+      "ja": "フィリピン・パサイのSM Mall of Asia Arenaで開催されたコークスタジオ主催コンサートのヘッドライナーとして出演。",
+      "en": "Headlined Coke Studio's Ultimate Fandom Concert at SM Mall of Asia Arena, Pasay (Metro Manila)."
+    },
+    "source_url": "https://www.coca-cola.com/ph/en/media-center/coke-studio-ultimate-fandom-concert",
+    "verified": true,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://abs-cbn.com/entertainment/2024/9/5/concert-celebrates-fandom-with-newjeans-pinoy-artists-2242",
+      "https://tribune.net.ph/2024/09/13/new-jeans-and-p-pop-icons-light-up-arena"
+    ],
+    "tags": [
+      "brand-event",
+      "overseas"
+    ]
+  },
+  {
+    "id": "live-2024-10-19-coke-studio-live-2024-saitama",
+    "date": "2024-10-19",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Coke STUDIO LIVE 2024（さいたまスーパーアリーナ）出演",
+      "en": "Coke STUDIO LIVE 2024 at Saitama Super Arena"
+    },
+    "summary": {
+      "ja": "さいたまスーパーアリーナで2日間開催（10/19-20）されたCoke STUDIO LIVE 2024にヘッドライナーとして出演。",
+      "en": "Headlined Coke STUDIO LIVE 2024 held over two days (Oct 19-20) at Saitama Super Arena."
+    },
+    "source_url": "https://tower.jp/article/news/2024/08/05/tg010",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://realsound.jp/2024/10/post-1815581.html",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
+    "tags": [
+      "festival",
+      "japan",
+      "brand-event"
+    ],
+    "note": "Dates: 2024-10-19 and 2024-10-20 (announced for both days)."
+  },
+  {
+    "id": "live-2024-12-07-yoasobi-asia-tour-incheon-guest",
+    "date": "2024-12-07",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "YOASOBI ASIA TOUR 2024-2025 「超現実」仁川公演 ゲスト出演",
+      "en": "Guest at YOASOBI 'Chō-genjitsu' Asia Tour Incheon"
+    },
+    "summary": {
+      "ja": "仁川・INSPIREアリーナで開催されたYOASOBIアジアツアー初日にスペシャルゲストとして出演。",
+      "en": "Appeared as special guest on the opening night of YOASOBI's Asia tour at Inspire Arena, Incheon."
+    },
+    "source_url": "https://www.tenasia.com/amp/2024112284124",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Ch%C5%8D-genjitsu_Asia_Tour",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
+    "tags": [
+      "guest-appearance"
+    ],
+    "note": "Took place after the members' Nov 29, 2024 contract-termination announcement; still listed under newjeans entity."
+  },
+  {
+    "id": "live-2024-12-14-music-bank-global-festival-2024-fukuoka",
+    "date": "2024-12-14",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 MUSIC BANK GLOBAL FESTIVAL in JAPAN（福岡）出演",
+      "en": "2024 Music Bank Global Festival in Japan, Fukuoka"
+    },
+    "summary": {
+      "ja": "みずほPayPayドーム福岡で開催されたKBS Music Bank Global Festivalに出演。",
+      "en": "Performed at KBS's Music Bank Global Festival at Mizuho PayPay Dome Fukuoka."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "tags": [
+      "broadcast-concert",
+      "japan"
+    ],
+    "note": "Date per en/ja Wikipedia; no official notice fetched."
+  },
+  {
+    "id": "live-2024-12-25-sbs-gayo-daejeon",
+    "date": "2024-12-25",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 SBS歌謡大典 出演",
+      "en": "2024 SBS Gayo Daejeon",
+      "original": "2024 SBS 가요대전"
+    },
+    "summary": {
+      "ja": "仁川・INSPIREアリーナで生放送された2024 SBS歌謡大典に出演。",
+      "en": "Performed at the 2024 SBS Gayo Daejeon, broadcast live from Inspire Arena, Incheon."
+    },
+    "source_url": "https://www.ytn.co.kr/_ln/0117_202412121440244570",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
+    "tags": [
+      "broadcast-concert"
+    ],
+    "note": "Broadcast-concert; the TV airing may be registered separately in the tv category."
+  },
+  {
+    "id": "live-2024-12-31-countdown-japan-2425",
+    "date": "2024-12-31",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "COUNTDOWN JAPAN 24/25 出演",
+      "en": "COUNTDOWN JAPAN 24/25"
+    },
+    "summary": {
+      "ja": "幕張メッセのEARTH STAGE（12/31 20:05〜）に出演。K-POPグループとして初のCDJ出演。",
+      "en": "Performed on the EARTH STAGE at Makuhari Messe on Dec 31 (20:05); first K-pop group to play CDJ."
+    },
+    "source_url": "https://www.koreajoongangdaily.com/entertainment/newjeans-to-perform-at-music-festival-countdown-japan-on-new-years-eve/12350114",
+    "verified": false,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://utaten.com/specialArticle/index/8866",
+      "https://mdpr.jp/music/4419415"
+    ],
+    "tags": [
+      "festival",
+      "japan"
+    ],
+    "note": "Festival ran Dec 28-31, 2024; NewJeans on Dec 31 only. Announced by ADOR on Nov 6, 2024."
+  },
+  {
+    "id": "live-2025-03-23-complexcon-hong-kong-2025",
+    "date": "2025-03-23",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "njz",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ComplexCon Hong Kong 2025 「Complex Live!」ヘッドライナー",
+      "en": "ComplexCon Hong Kong 2025 'Complex Live!' headliner"
+    },
+    "summary": {
+      "ja": "香港・AsiaWorld-ExpoでNJZ名義として初ステージ。公演中に活動休止を発表。",
+      "en": "First and only stage under the NJZ name at AsiaWorld-Expo, Hong Kong; announced a hiatus on stage."
+    },
+    "source_url": "https://www.asiaworld-expo.com/en-us/whats-on/upcoming-events/events/COMPLEXCON-HONG-KONG-2025-(1st-option-17-24-3,-2nd",
+    "verified": true,
+    "media": {
+      "type": "none"
+    },
+    "reference_urls": [
+      "https://www.scmp.com/postmag/article/3297747/njz-formerly-newjeans-are-coming-complexcon-hong-kong",
+      "https://sportskeeda.com/us/k-pop/news-it-easy-decision-njz-announces-temporary-hiatus-per-court-orders-following-complexcom-performance"
+    ],
+    "tags": [
+      "festival",
+      "overseas",
+      "njz"
+    ],
+    "note": "Held two days after the Seoul Central District Court's March 21, 2025 injunction in ADOR's favour; ADOR expressed regret over the performance going ahead under the NJZ name."
+  }
+]
