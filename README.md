@@ -66,11 +66,14 @@ python3 scripts/validate.py --fix-order  # 並び順を自動修正して再検�
 | id | 必須 | `<category>-<YYYY-MM-DD>-<slug>` |
 | date | 必須 | ソート用日付 |
 | time | 任意 | 同日内の順序（HH:MM、KST） |
-| image | 任意 | 手動指定の代表画像（`media/`配下のpathと出所URL） |
+| image | 任意 | 手動指定の代表画像（`media/`配下のpath、または取得元url）と出所URL |
+| links | 任意 | 外部リンク（spotify、apple_music、youtube_music、melon、weverse、official） |
+| note | 任意 | 読者向け補足（その日付時点で分かることのみ） |
+| editor_note | 任意 | 編集者メモ（本モードでは非表示） |
 | date_type | 必須 | release / announce / broadcast / publish / post / sale_start / event |
 | date_precision | 必須 | day / month / year |
-| category | 必須 | music / mv / tv / magazine / web / ad / tweet / goods / live |
-| entity | 必須 | newjeans（ADOR名義）/ njz（NJZ名義期間） |
+| category | 必須 | music / mv / tv / magazine / web / ad / tweet / goods / live / notice |
+| entity | 必須 | newjeans（ADOR名義）/ njz（NJZ名義期間）/ predebut（デビュー前） |
 | members | 任意 | all / minji / hanni / danielle / haerin / hyein |
 | title.ja, title.en | 必須 | 日英タイトル。`title.original`に原題 |
 | summary.ja, summary.en | 任意 | 一文要約 |

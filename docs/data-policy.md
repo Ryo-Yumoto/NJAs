@@ -15,6 +15,7 @@
 | tweet | 投稿日（KST基準） | post |
 | goods | 販売開始日。不明なら月（date_precision=month） | sale_start |
 | live | 開催日（現地時刻）。複数日公演は初日をdateにし、noteに全日程を記す | event |
+| notice | 公式発表は発表日（announce）、記者会見・判決・聴聞は実施日（event） | announce / event |
 
 date_precisionがmonthの場合はdateの日を01、yearの場合は01-01にする（validate.pyが検査する）。
 
@@ -29,6 +30,10 @@ date_precisionがmonthの場合はdateの日を01、yearの場合は01-01にす�
 - 対象：単独公演、ファンミーティング（Bunnies Camp）、フェス出演、大学祭、ショーケース、ブランドイベントでのパフォーマンス、NJZ名義期の公演。
 - 放送・配信されたパフォーマンス（音楽番組、授賞式、年末歌謡祭）はtvに置く。同じ公演が放送された場合はliveとtvの両方に登録してよい。
 - サイン会・リリースイベントは、公式に告知があればliveに含める。
+
+## 2c. 公式発表（notice）の範囲
+
+ADOR、HYBE、裁判所、メンバー側代理人による公式発表・声明・法的事象。記者会見、監査、仮処分、判決、復帰発表など物語の骨格となる出来事を収録する。報道のみで公式文書がない場合はverified=falseとし、一次報道をsource_urlにする。
 
 ## 3. 「公式」の範囲
 
@@ -45,7 +50,19 @@ date_precisionがmonthの場合はdateの日を01、yearの場合は01-01にす�
 
 ## 4b. 同日内の順序（time）
 
-同じ日に複数の公開がある場合、`time`（KST、24時間制）で順序を固定する。例：MVティザー00:00、音源配信18:00、MV公開18:00。不明なら省略し、IDの辞書順で並ぶ。
+同じ日に複数の公開がある場合、`time`（KST、24時間制）で順序を固定する。例：MVティザー00:00、音源配信18:00、MV公開18:00。timeのある項目が時刻順で先に並び、timeのない項目はカテゴリの既定順（公式発表→X投稿→映像→楽曲→ライブ→テレビ→広告→WEB→雑誌→グッズ）、同カテゴリ内はID順で続く。
+
+## 4b2. 読者向け補足（note）と編集者メモ（editor_note）
+
+- note：読者に見せる補足。そのレコードの日付時点で分かることだけを書く。未来の日付・出来事、「後に〜となる」等の回顧的表現、「Wikipediaによれば」等の作業メモは書かない。
+- editor_note：出典の食い違い、未確認の理由、作業履歴。本モードでは表示せず、索引から開いたとき（またはキーm）にのみ表示する。
+- summaryとtitleもnoteと同じ制約に従う。未発表だった作品名（例：デビュー日時点のEP名）をタグや文中に書かない。
+
+## 4b3. 日付精度とページ配置
+
+- day：その日のページに載る。
+- month：その月の最後（月内の全日付ページの後）に「YYYY.MM（日付未確定）」ページとして載る。月初に置くと、実際には月末の出来事を先に読ませてしまうため。
+- year：その年の最後に載る。
 
 ## 4c. 予告系コンテンツ（teaser等）
 
@@ -65,6 +82,8 @@ date_precisionがmonthの場合はdateの日を01、yearの場合は01-01にす�
 
 - 自動取得：`python3 scripts/fetch_images.py`が、YouTube動画のサムネイルと一次ソースURLのog:imageを`media/auto/<id>.jpg`に保存し、出所を`media/auto/index.json`に記録する。wiki系ドメインとX・YouTubeのページは記事の汎用画像になるため取得対象外。
 - 手動指定：`image: {"path": "<category>/<id>/cover.jpg", "source_url": "<出所>"}`を書くと自動取得より優先される。
+- `image.url`に画像URLを書くと、fetch_images.pyがその画像を`media/auto/<id>.jpg`として取得する（ジャケット画像等）。
+- X投稿は`media.ref`の投稿URLから、投稿の1枚目の画像または動画サムネイルを取得する。
 - 表示優先順位：image > local_assets[0] > media/auto > YouTubeサムネイル（外部参照）。
 - 取得画像は非公開サイト内でのみ使用する。
 
