@@ -1,1 +1,861 @@
-[]
+[
+  {
+    "id": "tweet-2022-07-01-debut-teaser-22-7-22",
+    "date": "2022-07-01",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "デビューティーザー「22」「7」「22」投稿",
+      "en": "Debut teaser posts '22', '7', '22'"
+    },
+    "summary": {
+      "ja": "ADORが数字「22」「7」「22」の3本のアニメーション映像を投稿し、7月22日のデビューを示唆。",
+      "en": "ADOR posted three animated clips of '22', '7' and '22', hinting at a July 22 debut."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "debut",
+      "teaser"
+    ],
+    "verified": false,
+    "note": "Status URL not retrieved; date from Wikipedia. Posted across ADOR/NewJeans official SNS."
+  },
+  {
+    "id": "tweet-2022-07-22-debut-day-post",
+    "date": "2022-07-22",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "デビュー当日投稿（『Attention』公開）",
+      "en": "Debut-day post ('Attention' release)"
+    },
+    "summary": {
+      "ja": "2022年7月22日0時(KST)、デビュー曲『Attention』公開に合わせた公式Xの投稿。",
+      "en": "Official X post at midnight KST on debut day, 2022-07-22, alongside the surprise release of 'Attention'."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1550133496085184512",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1550133496085184512"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "debut",
+      "attention"
+    ],
+    "verified": false,
+    "note": "Embedded in Bandwagon's debut article; oEmbed lookup failed (post may have been deleted), so content is inferred from the article. Date derived from the snowflake ID (2022-07-22 00:00 KST)."
+  },
+  {
+    "id": "tweet-2022-07-24-attention-post",
+    "date": "2022-07-24",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「A T T E N T I on!」投稿",
+      "en": "'A T T E N T I on!' post"
+    },
+    "summary": {
+      "ja": "デビュー曲『Attention』のプロモーション投稿。",
+      "en": "Promo post for debut single 'Attention'."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1551083236746416128",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1551083236746416128"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "debut",
+      "attention"
+    ],
+    "verified": true,
+    "note": "Post text: A T T E N T I on!🖤#NewJeans #NewJeans_ATTENTIon pic.twitter.com/fLbx8NMVuJ | Posted 2022-07-24 14:53 KST (from X oEmbed; time derived from snowflake ID)."
+  },
+  {
+    "id": "tweet-2022-07-25-1st-ep-bag-preorder",
+    "date": "2022-07-25",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "1st EP Bag ver.（限定盤）予約開始告知",
+      "en": "1st EP Bag ver. (limited) pre-order post"
+    },
+    "summary": {
+      "ja": "1st EP『New Jeans』限定盤Bag ver.の予約販売開始を告知。",
+      "en": "Announced pre-orders for the limited Bag ver. of the 1st EP."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1551387509388521473",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1551387509388521473"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "new-jeans-ep",
+      "pre-order"
+    ],
+    "verified": true,
+    "note": "Post text: NewJeans 1st EP ‘New Jeans’ (Bag)🛍️[한정반]💗limited Album예약 판매가 시작되었습니다!❤️#NewJeans_Album #NewJeans_Bag  #한정반#limited_Album pic.twitter.com/dtvDpIzsR7 | Posted 2022-07-25 11:03 KST (from X oEmbed; time derived from snowflake ID)."
+  },
+  {
+    "id": "tweet-2022-07-25-1st-ep-bluebook-preorder",
+    "date": "2022-07-25",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "1st EP Bluebook ver. 予約開始告知",
+      "en": "1st EP Bluebook ver. pre-order post"
+    },
+    "summary": {
+      "ja": "1st EP『New Jeans』Bluebook ver.の予約販売開始を告知。",
+      "en": "Announced pre-orders for the 1st EP Bluebook ver."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1551387258011275264",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1551387258011275264"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "new-jeans-ep",
+      "pre-order"
+    ],
+    "verified": true,
+    "note": "Post text: NewJeans 1st EP ‘New Jeans’ (Bluebook)📘#NewJeans_Album #NewJeans_Bluebook예약 판매가 시작되었습니다!❤️ pic.twitter.com/RUWFJbugwq | Posted 2022-07-25 11:02 KST (from X oEmbed; time derived from snowflake ID)."
+  },
+  {
+    "id": "tweet-2022-07-25-1st-ep-weverse-albums-preorder",
+    "date": "2022-07-25",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "1st EP Weverse Albums ver. 予約開始告知",
+      "en": "1st EP Weverse Albums ver. pre-order post"
+    },
+    "summary": {
+      "ja": "1st EP『New Jeans』Weverse Albums ver.の予約販売開始を告知。",
+      "en": "Announced pre-orders for the 1st EP Weverse Albums ver."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1551387006046900224",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1551387006046900224"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "new-jeans-ep",
+      "pre-order"
+    ],
+    "verified": true,
+    "note": "Post text: NewJeans 1st EP ‘New Jeans’ (Weverse Albums ver.)🎁#NewJeans_Albums #NewJeans_Weverse_Albums예약 판매가 시작되었습니다!https://t.co/Tt2RwVzLX0 pic.twitter.com/d2wlNMqel1 | Posted 2022-07-25 11:01 KST (from X oEmbed; time derived from snowflake ID)."
+  },
+  {
+    "id": "tweet-2022-07-25-phoning-app-launch",
+    "date": "2022-07-25",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "公式アプリ「Phoning」リリース告知",
+      "en": "Official app 'Phoning' launch post"
+    },
+    "summary": {
+      "ja": "NewJeans専用アプリ「Phoning」のApp Store/Android配信開始を告知。",
+      "en": "Announced the NewJeans-only app 'Phoning' is now on the App Store/Android."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1551221918451245057",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1551221918451245057"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "phoning",
+      "app"
+    ],
+    "verified": true,
+    "note": "Post text: Hello, Phoning!📱NOW on the App Store! (iOS, Android)#NewJeans_Phoning#Phoning #NewJeans pic.twitter.com/pFEusJGKNu | Posted 2022-07-25 00:05 KST (from X oEmbed; time derived from snowflake ID)."
+  },
+  {
+    "id": "tweet-2022-11-22-2023-seasons-greetings-notice",
+    "date": "2022-11-22",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 SEASON'S GREETINGS 発売案内",
+      "en": "2023 SEASON'S GREETINGS release notice"
+    },
+    "summary": {
+      "ja": "「ROOM 722」をテーマにした2023シーズングリーティングの発売案内。",
+      "en": "Release notice for the 'ROOM 722' 2023 Season's Greetings."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1594888405229473794",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1594888405229473794"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "seasons-greetings",
+      "goods"
+    ],
+    "verified": true,
+    "note": "Post text: [안내📢]NewJeans 2023 SEASON’S GREETINGS 출시 안내 (+ENG/JPN)🔗https://t.co/vmkX9tYvDv #NewJeans #뉴진스 #SeasonsGreetings #시즌그리팅 #Room722 pic.twitter.com/2lyLNIyMcc | Posted 2022-11-22 12:00 KST (from X oEmbed; time derived from snowflake ID)."
+  },
+  {
+    "id": "tweet-2022-12-12-ditto-teaser",
+    "date": "2022-12-12",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Ditto』ティーザー投稿",
+      "en": "'Ditto' teaser post"
+    },
+    "summary": {
+      "ja": "先行曲『Ditto』の12月19日18時公開を告知するティーザー。",
+      "en": "Teaser announcing pre-release 'Ditto' for 12-19 6PM KST."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1602121086598270976",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1602121086598270976"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "ditto",
+      "teaser"
+    ],
+    "verified": true,
+    "note": "Post text: NewJeans 'Ditto' ☃️2022.12.19. 6PM (KST)#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto#NewJeans_of_Winter pic.twitter.com/tSaferSl8P | Posted 2022-12-12 11:00 KST (from X oEmbed; time derived from snowflake ID)."
+  },
+  {
+    "id": "tweet-2022-12-12-omg-comeback-announcement",
+    "date": "2022-12-12",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「NewJeans of Winter」『OMG』カムバック告知",
+      "en": "'NewJeans of Winter' OMG comeback announcement"
+    },
+    "summary": {
+      "ja": "Ditto（12/19）とOMG（1/2）のリリース日を告知した初カムバック告知（同時刻に3連投）。",
+      "en": "First comeback announcement giving Ditto (12/19) and OMG (1/2) release dates (one of three simultaneous posts)."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1601954986296225793",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1601954986296225793"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "omg",
+      "ditto",
+      "comeback"
+    ],
+    "verified": true,
+    "note": "Post text: NewJeans of Winter 🌨NewJeans \"OMG\"🎵Ditto: 2022.12.19. 6PM (KST)🎵OMG: 2023.1.2. 6PM (KST)#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto#NewJeans_of_Winter pic.twitter.com/myefKvcYKG | Posted 2022-12-12 00:00 KST (from X oEmbed; time derived from snowflake ID). Sibling posts: status/1601955058916085760 and status/1601955112070455299."
+  },
+  {
+    "id": "tweet-2022-12-12-omg-preorder-start",
+    "date": "2022-12-12",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『OMG』予約販売開始告知",
+      "en": "'OMG' pre-order start post"
+    },
+    "summary": {
+      "ja": "『OMG』の予約販売開始とパックショット公開日（12/20）を告知。",
+      "en": "Announced 'OMG' pre-orders and packshot reveal date (12-20)."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1602121156718624770",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1602121156718624770"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "omg",
+      "pre-order"
+    ],
+    "verified": true,
+    "note": "Post text: Message Card from NewJeans 💌NewJeans \"OMG\"예약 판매가 시작되었습니다👀✔️\"OMG\" Release: 2023.1.2.✔️Packshot Release: 2022.12.20.#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto#NewJeans_of_Winter pic.twitter.com/0abGKSM6Lx | Posted 2022-12-12 11:00 KST (from X oEmbed; time derived from snowflake ID)."
+  },
+  {
+    "id": "tweet-2022-12-15-omg-promotion-calendar",
+    "date": "2022-12-15",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『OMG』プロモーションカレンダー",
+      "en": "'OMG' promotion calendar"
+    },
+    "summary": {
+      "ja": "『OMG』カムバックのプロモーションスケジュールを公開。",
+      "en": "Posted the promotion schedule for the 'OMG' comeback."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1603042126341713920",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1603042126341713920"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "omg",
+      "schedule"
+    ],
+    "verified": true,
+    "note": "Post text: NewJeans \"OMG\"Promotion Calendar 🌲#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto#NewJeans_of_Winter pic.twitter.com/9Hr4rLZ9jL | Posted 2022-12-15 00:00 KST (from X oEmbed; time derived from snowflake ID)."
+  },
+  {
+    "id": "tweet-2023-04-03-zero-release",
+    "date": "2023-04-03",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Zero』配信開始告知",
+      "en": "'Zero' release post"
+    },
+    "summary": {
+      "ja": "コカ・コーラとのコラボ曲『Zero』の配信開始を告知。",
+      "en": "Announced the release of Coca-Cola collaboration track 'Zero'."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1642818193575268352",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1642818193575268352"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "zero",
+      "coca-cola"
+    ],
+    "verified": true,
+    "note": "Post text: [Music🎵]NewJeans 'Zero'Available Now 🐰🔗https://t.co/LlMGOgBJTu#NewJeans #뉴진스 #NewJeans_Zero | Posted 2023-04-03 18:15 KST (from X oEmbed; time derived from snowflake ID)."
+  },
+  {
+    "id": "tweet-2023-05-12-bunnies-camp-announcement",
+    "date": "2023-05-12",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "1st Fan Meeting『Bunnies Camp』開催告知",
+      "en": "1st Fan Meeting 'Bunnies Camp' announcement"
+    },
+    "summary": {
+      "ja": "初ファンミーティング「Bunnies Camp」（7/1-2）の開催案内を投稿。",
+      "en": "Posted the notice for the first fan meeting 'Bunnies Camp' (July 1-2, 2023)."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1656841656036110337",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1656841656036110337"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "bunnies-camp",
+      "fan-meeting"
+    ],
+    "verified": true,
+    "note": "Post text: [안내📢]NewJeans 1st Fan Meeting 'Bunnies Camp' 개최 안내 (+ENG/JPN/CHN)🔗https://t.co/dwtdEo01dt#NewJeans #뉴진스 #Bunnies_Camp #버니즈캠프 pic.twitter.com/U2B4ykSNht | Posted 2023-05-12 11:00 KST (from X oEmbed; time derived from snowflake ID)."
+  },
+  {
+    "id": "tweet-2023-05-31-be-who-you-are-release",
+    "date": "2023-05-31",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Be Who You Are (Real Magic)』リリース告知",
+      "en": "'Be Who You Are (Real Magic)' release post"
+    },
+    "summary": {
+      "ja": "Coke StudioのコラボMV『Be Who You Are』（5/31）を告知。",
+      "en": "Announced the Coke Studio collaboration 'Be Who You Are' out May 31."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1663562156778958848",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1663562156778958848"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "coca-cola",
+      "coke-studio",
+      "ad"
+    ],
+    "verified": true,
+    "note": "Post text: [Music🎵]'Be Who You Are' with @JonBatiste, @catburns, @JIDsv, and @CamiloMusica Out 31 May#광고 #CokeStudio #RealMagic #CokePartner @CocaCola pic.twitter.com/ggweyTBTK5 | Posted 2023-05-31 00:05 KST (from X oEmbed; time derived from snowflake ID)."
+  },
+  {
+    "id": "tweet-2023-06-19-get-up-coming-soon",
+    "date": "2023-06-19",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2nd EP『Get Up』カムバック告知",
+      "en": "2nd EP 'Get Up' comeback announcement"
+    },
+    "summary": {
+      "ja": "7/7先行公開、7/21 2nd EP発売、6/19 11時予約開始を告知。",
+      "en": "Announced 7/7 pre-release, 7/21 EP release and pre-orders from 6/19 11AM KST."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1670611109454434304",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1670611109454434304"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "get-up",
+      "comeback"
+    ],
+    "verified": true,
+    "note": "Post text: Coming Soon!NewJeans 2nd EP 'Get Up'🗓 2023.7.7. Pre-Release🗓 2023.7.21. 2nd EP 'Get Up' Release ✅ Pre-Order2023.6.19. 11AM KST#Time_to_NewJeans#NewJeans #뉴진스 #NewJeans_2nd_EP pic.twitter.com/x2lIt5ihKV | Posted 2023-06-19 10:55 KST (from X oEmbed; time derived from snowflake ID)."
+  },
+  {
+    "id": "tweet-2023-11-04-gods-worlds-2023",
+    "date": "2023-11-04",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『GODS』Worlds 2023 開幕式パフォーマンス告知",
+      "en": "'GODS' Worlds 2023 Opening Ceremony performance post"
+    },
+    "summary": {
+      "ja": "LoL Worlds 2023開幕式（11/19）での『GODS』初披露を告知。",
+      "en": "Announced the world-debut performance of 'GODS' at the Worlds 2023 Opening Ceremony (11/19)."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1720455798080548934",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1720455798080548934"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "gods",
+      "league-of-legends"
+    ],
+    "verified": true,
+    "note": "Post text: We're so excited to show you our world debut performance of \"GODS\" at the #Worlds2023 Opening Ceremony with @leagueoflegends @riotgamesmusic 📆 November 19 | 12:00AM PST / 17:00 KST |🔗 https://t.co/EdxZgnObYk#NewJeans #뉴진스 #NewJeans_GODS pic.twitter.com/86OQGniteu | Posted 2023-11-04 00:00 KST (from X oEmbed; time derived from snowflake ID)."
+  },
+  {
+    "id": "tweet-2023-11-29-mama-2023-daesang-thanks",
+    "date": "2023-11-29",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 MAMA AWARDS 受賞御礼投稿",
+      "en": "2023 MAMA AWARDS win thank-you post"
+    },
+    "summary": {
+      "ja": "MAMA 2023でArtist of the Year・Song of the Year（Ditto）など4冠を受賞し、公式Xで感謝を投稿。",
+      "en": "After winning four MAMA 2023 awards incl. Artist of the Year and Song of the Year ('Ditto'), the official X account posted thanks."
+    },
+    "source_url": "https://www.inews.id/lifestyle/music/selamat-newjeans-sukses-borong-penghargaan-di-mama-awards-2023/all",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "award",
+      "mama"
+    ],
+    "verified": false,
+    "note": "Status URL not retrieved; existence of the post reported by iNews (Indonesia). Date is the ceremony date (2023-11-29 KST)."
+  },
+  {
+    "id": "tweet-2023-12-14-rockin-eve-announcement",
+    "date": "2023-12-14",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Dick Clark's New Year's Rockin' Eve 出演告知",
+      "en": "New Year's Rockin' Eve appearance post"
+    },
+    "summary": {
+      "ja": "ABC『New Year's Rockin' Eve』で「Super Shy」「ETA」を披露すると告知。",
+      "en": "Announced performing 'Super Shy' and 'ETA' on ABC's New Year's Rockin' Eve."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1735072119825031316",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1735072119825031316"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "tv",
+      "rockin-eve"
+    ],
+    "verified": true,
+    "note": "Post text: We’re so excited to join the global New Year’s @RockinEve celebration to perform “Super Shy” and “ETA” from South Korea!Tune in December 31 at 8/7c on @ABCNetwork!🎵📆 Dec 31 8PM ET / JAN 1 10AM KST 🔗 https://t.co/xJzBFpETvT📍 @ABCNetwork#NewJeans #뉴진스 #RockinEve… pic.twitter.com/D8YQ8ajxBi | Posted 2023-12-14 08:00 KST (from X oEmbed; time derived from snowflake ID)."
+  },
+  {
+    "id": "tweet-2024-03-27-bunnies-camp-2024-tokyo-dome-announcement",
+    "date": "2024-03-27",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Bunnies Camp 2024 Tokyo Dome』開催告知",
+      "en": "'Bunnies Camp 2024 Tokyo Dome' announcement"
+    },
+    "summary": {
+      "ja": "2024年6月26・27日に東京ドームでファンミーティングを開催すると告知。",
+      "en": "Announced the Tokyo Dome fan meeting for 2024-06-26/27."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1772775547749462258",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1772775547749462258"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "bunnies-camp",
+      "tokyo-dome",
+      "japan"
+    ],
+    "verified": true,
+    "note": "Post text: NewJeans Fan Meeting 'Bunnies Camp 2024 Tokyo Dome' 🗓️ 2024.6.26-27 📍Tokyo Dome#NewJeans #뉴진스 #BunniesCamp #BunniesCamp2024TokyoDome #NewJeans_is_Everywhere pic.twitter.com/8ScKkpVG3R | Posted 2024-03-27 09:00 KST (from X oEmbed; time derived from snowflake ID)."
+  },
+  {
+    "id": "tweet-2024-03-28-hanni-gucci-beauty-ambassador",
+    "date": "2024-03-28",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "ハニ、Gucci Beauty グローバルブランドアンバサダー就任投稿",
+      "en": "Hanni named Gucci Beauty global brand ambassador"
+    },
+    "summary": {
+      "ja": "ハニがGucci Beautyの新グローバルブランドアンバサダーに就任したことを公式Xが告知（#광고）。",
+      "en": "Official X announced Hanni as Gucci Beauty's newest global brand ambassador (tagged as ad)."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1773230644727775339",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1773230644727775339"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "ambassador",
+      "gucci",
+      "ad"
+    ],
+    "verified": true,
+    "note": "Post text: Gucci Beauty’s Newest Global Brand Ambassador 🤍 HANNI#광고 @gucci #GucciBeauty#NewJeans #뉴진스 #HANNI #하니 pic.twitter.com/zRqPUiNPsT | Posted 2024-03-28 15:08 KST (from X oEmbed; time derived from snowflake ID)."
+  },
+  {
+    "id": "tweet-2024-04-25-ador-legal-action-notice",
+    "date": "2024-04-25",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ADOR「뉴진스 권익 침해 관련 법적 대응 안내」",
+      "en": "ADOR notice on legal action over infringement of NewJeans' rights"
+    },
+    "summary": {
+      "ja": "HYBE-ADOR紛争下、NewJeansの権益侵害に対する法的対応の案内をADORが公式Xに投稿。",
+      "en": "ADOR posted a notice on legal action over infringement of NewJeans' rights amid the HYBE-ADOR conflict."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1783420809111011802",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1783420809111011802"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "ador-statement",
+      "legal"
+    ],
+    "verified": true,
+    "note": "Post text: [안내📢]뉴진스 권익 침해 관련 법적 대응 안내  🔗https://t.co/ETQBk42G0p#NewJeans #뉴진스 | Posted 2024-04-25 18:00 KST (from X oEmbed; time derived from snowflake ID)."
+  },
+  {
+    "id": "tweet-2024-09-24-calvin-klein-global-ambassador",
+    "date": "2024-09-24",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Calvin Klein グローバルアンバサダー就任投稿",
+      "en": "NewJeans named Calvin Klein global ambassadors"
+    },
+    "summary": {
+      "ja": "NewJeansがCalvin Kleinの新グローバルアンバサダーに就任したことを公式Xが告知（#광고）。",
+      "en": "Official X announced NewJeans as Calvin Klein's newest global ambassadors (tagged as ad)."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1838571590318969323",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1838571590318969323"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "ambassador",
+      "calvin-klein",
+      "ad"
+    ],
+    "verified": true,
+    "note": "Post text: Calvin Klein's Newest Global Ambassador 🩵#광고 @CalvinKlein#NewJeans #뉴진스 pic.twitter.com/3zv7IMvR2w | Posted 2024-09-24 22:30 KST (from X oEmbed; time derived from snowflake ID)."
+  },
+  {
+    "id": "tweet-2025-02-01-njz-official-x-account-opened",
+    "date": "2025-02-01",
+    "date_type": "post",
+    "date_precision": "month",
+    "category": "tweet",
+    "entity": "njz",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NJZ公式Xアカウント開設",
+      "en": "NJZ official X account (@NJZ_official) opened"
+    },
+    "summary": {
+      "ja": "ADOR紛争下でNJZ名義の公式X・YouTube・TikTokアカウントが2025年2月に開設。",
+      "en": "Under the dispute, official NJZ accounts on X (@NJZ_official), YouTube and TikTok were opened in February 2025."
+    },
+    "source_url": "https://www.soapcentral.com/music/news-taking-social-media-scene-fans-react-njz-officially-launch-x-youtube-tiktok-accounts",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "x",
+      "@NJZ_official",
+      "njz",
+      "account"
+    ],
+    "verified": false,
+    "note": "Exact opening date not confirmed (month precision). Rebrand to NJZ announced on Instagram 2025-02-07. After the 2025-03-21 injunction the account later went dormant/renamed."
+  },
+  {
+    "id": "tweet-2025-03-22-njz-complexcon-d-1-teaser",
+    "date": "2025-03-22",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "njz",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NJZ ComplexCon「D-1」ティーザー投稿",
+      "en": "NJZ ComplexCon 'D-1' teaser post"
+    },
+    "summary": {
+      "ja": "ComplexCon Hong Kong出演前日の2025年3月22日、@NJZ_officialが13秒のD-1ティーザー映像を投稿。",
+      "en": "On 2025-03-22, the day before the ComplexCon Hong Kong set, @NJZ_official posted a 13-second D-1 teaser."
+    },
+    "source_url": "https://www.sportskeeda.com/us/k-pop/news-im-excited-fans-react-njz-drops-d-1-teaser",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "x",
+      "@NJZ_official",
+      "njz",
+      "complexcon",
+      "teaser"
+    ],
+    "verified": false,
+    "note": "Status URL not retrieved (Sportskeeda credits @NJZ_official on X). Posted one day after the Seoul court injunction against independent activities."
+  },
+  {
+    "id": "tweet-2026-05-07-happy-minji-day",
+    "date": "2026-05-07",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "tweet",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "HAPPY MINJI DAY 投稿",
+      "en": "HAPPY MINJI DAY post"
+    },
+    "summary": {
+      "ja": "ADOR復帰後の公式Xによるミンジの誕生日投稿（2026年5月7日）。",
+      "en": "Birthday post for Minji on the official X account (2026-05-07), after the group's return to ADOR."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/2052040697583444307",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/2052040697583444307"
+    },
+    "tags": [
+      "x",
+      "@NewJeans_ADOR",
+      "birthday"
+    ],
+    "verified": true,
+    "note": "Post text: HAPPY MINJI DAY 🍪#HAPPY_MINJI_DAY#NewJeans #MINJI#뉴진스 #민지 pic.twitter.com/GIWu4eCYGW | Posted 2026-05-07 00:00 KST (from X oEmbed; time derived from snowflake ID)."
+  }
+]

@@ -1,1 +1,1376 @@
-[]
+[
+  {
+    "id": "goods-2022-07-25-new-jeans-1st-ep-bag-ver",
+    "date": "2022-07-25",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "1st EP『New Jeans』Bag ver.（Black/White/Red・限定盤）",
+      "en": "1st EP 'New Jeans' (Bag ver. Black/White/Red, limited)"
+    },
+    "summary": {
+      "ja": "限定盤のBag ver.（Black/White/Red）が2022年7月25日11時(KST)に予約販売開始、8月8日発売。",
+      "en": "Limited Bag ver. (Black/White/Red) went up for pre-order on 2022-07-25 11:00 KST; released 2022-08-08."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/JPY/artists/82/notices/2368",
+    "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/1551387509388521473"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "album-edition",
+      "new-jeans-ep",
+      "weverse-shop",
+      "limited"
+    ],
+    "verified": true
+  },
+  {
+    "id": "goods-2022-07-25-new-jeans-1st-ep-bluebook-ver",
+    "date": "2022-07-25",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "1st EP『New Jeans』Bluebook ver.",
+      "en": "1st EP 'New Jeans' (Bluebook ver.)"
+    },
+    "summary": {
+      "ja": "1st EP『New Jeans』のBluebook ver.（全6種）が2022年7月25日11時(KST)に予約販売開始、8月8日発売。",
+      "en": "Bluebook ver. (6 versions) of the 1st EP went up for pre-order on 2022-07-25 11:00 KST; released 2022-08-08."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/JPY/artists/82/notices/2368",
+    "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/1551387258011275264",
+      "https://en.wikipedia.org/wiki/New_Jeans_(EP)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "album-edition",
+      "new-jeans-ep",
+      "weverse-shop"
+    ],
+    "verified": true
+  },
+  {
+    "id": "goods-2022-07-25-new-jeans-1st-ep-weverse-albums-ver",
+    "date": "2022-07-25",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "1st EP『New Jeans』Weverse Albums ver.",
+      "en": "1st EP 'New Jeans' (Weverse Albums ver.)"
+    },
+    "summary": {
+      "ja": "Weverse Albums ver.（QRカード形式）が2022年7月25日11時(KST)に予約販売開始、8月8日発売。",
+      "en": "Weverse Albums ver. (QR-card format) went up for pre-order on 2022-07-25 11:00 KST; released 2022-08-08."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/JPY/artists/82/notices/2368",
+    "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/1551387006046900224"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "album-edition",
+      "new-jeans-ep",
+      "weverse-shop"
+    ],
+    "verified": true
+  },
+  {
+    "id": "goods-2022-08-11-debut-popup-store-the-hyundai-seoul",
+    "date": "2022-08-11",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "デビュー記念ポップアップストア（ザ・現代ソウル）",
+      "en": "Debut pop-up store at The Hyundai Seoul"
+    },
+    "summary": {
+      "ja": "汝矣島ザ・現代ソウル地下2階で2022年8月11日〜31日に開催されたデビュー記念ポップアップ。マグ・キーリング・Tシャツ等を販売（初日は浸水で開店延期）。",
+      "en": "Debut pop-up at The Hyundai Seoul (B2, Yeouido), 2022-08-11 to 08-31, selling mugs, keyrings, tees etc.; opening delayed on day one by flooding."
+    },
+    "source_url": "https://economist.co.kr/article/view/ecn202208110032",
+    "reference_urls": [
+      "https://www.harpersbazaar.co.kr/article/68822"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "pop-up",
+      "seoul"
+    ],
+    "verified": false,
+    "note": "Dates from Korean news (Economist Korea 2022-08-11); no official notice fetched."
+  },
+  {
+    "id": "goods-2022-09-02-new-jeans-1st-ep-official-merch",
+    "date": "2022-09-02",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "1st EP『New Jeans』公式MD",
+      "en": "1st EP 'New Jeans' Official Merch"
+    },
+    "summary": {
+      "ja": "Weverse Shopで2022年9月2日11時(KST)から1st EP公式MD（フォトセット、TOKKIリング、クロップTシャツ、マグ、フォンケース等）を予約販売。",
+      "en": "Official 1st EP merch (photo sets, Tokki ring, crop tee, mug, phone cases, etc.) opened for pre-order on Weverse Shop 2022-09-02 11:00 KST."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/2623",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "official-md",
+      "weverse-shop",
+      "new-jeans-ep"
+    ],
+    "verified": true
+  },
+  {
+    "id": "goods-2022-11-22-2023-seasons-greetings-room-722",
+    "date": "2022-11-22",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans 2023 SEASON'S GREETINGS「ROOM 722」",
+      "en": "NewJeans 2023 SEASON'S GREETINGS 'ROOM 722'"
+    },
+    "summary": {
+      "ja": "ホテルをテーマにした2023シーズングリーティング「ROOM 722」。2022年11月22日に公式Xで発売案内、12月に発売後即完売。",
+      "en": "Hotel-themed 2023 Season's Greetings 'ROOM 722'; release notice posted on official X 2022-11-22, sold out right after its December 2022 release."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1594888405229473794",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/3180",
+      "https://www.bandwagon.asia/articles/kpop-seasons-greetings-newjeans-shinee-monsta-x-nct-red-velvet-twice-ateez-list-2023",
+      "https://www.wikitree.co.kr/articles/839656"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "seasons-greetings",
+      "weverse-shop"
+    ],
+    "verified": true,
+    "note": "Exact pre-order start date not confirmed (the 11-22 X post links the Weverse notice); Weverse Shop notice 3180 confirms 2nd/3rd pre-order rounds shipping 2022-12-22 and 2023-01-13."
+  },
+  {
+    "id": "goods-2022-12-12-omg-message-card-ver",
+    "date": "2022-12-12",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "1st Single『OMG』Message Card ver.",
+      "en": "1st Single 'OMG' (Message Card ver.)"
+    },
+    "summary": {
+      "ja": "『OMG』Message Card ver.（アウトボックス6種、メッセージカード25枚等）が2022年12月12日11時(KST)に予約販売開始、2023年1月2日発売。",
+      "en": "'OMG' Message Card ver. (6 outbox versions, 25 message cards, etc.) opened for pre-order 2022-12-12 11:00 KST; released 2023-01-02."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/JPY/artists/82/notices/3144",
+    "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/1602121156718624770",
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/3145"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "album-edition",
+      "omg",
+      "weverse-shop"
+    ],
+    "verified": true
+  },
+  {
+    "id": "goods-2022-12-12-omg-weverse-albums-ver",
+    "date": "2022-12-12",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "1st Single『OMG』Weverse Albums ver.",
+      "en": "1st Single 'OMG' (Weverse Albums ver.)"
+    },
+    "summary": {
+      "ja": "『OMG』Weverse Albums ver.（QRカード、フォトカード10枚）が2022年12月12日11時(KST)に予約販売開始、2023年1月2日発売。",
+      "en": "'OMG' Weverse Albums ver. (QR card, 10 photocards) opened for pre-order 2022-12-12 11:00 KST; released 2023-01-02."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/JPY/artists/82/notices/3144",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "album-edition",
+      "omg",
+      "weverse-shop"
+    ],
+    "verified": true
+  },
+  {
+    "id": "goods-2022-12-20-nu-jeans-official-merch",
+    "date": "2022-12-20",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NU+JEANS 公式MD（ケーキトッパー等）",
+      "en": "NU+JEANS Official Merch (cake toppers etc.)"
+    },
+    "summary": {
+      "ja": "Nudakeコラボ「OMG! NU+JEANS」連動の公式MD（トッパー、ケーキナイフ、ガーランド等）が2022年12月20日11時(KST)にWeverse Shopで発売。",
+      "en": "Official 'NU+JEANS' merch (toppers, cake knife, garland, etc.) tied to the Nudake collab went on sale on Weverse Shop 2022-12-20 11:00 KST."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/3171",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "official-md",
+      "weverse-shop",
+      "nudake",
+      "omg"
+    ],
+    "verified": true
+  },
+  {
+    "id": "goods-2022-12-20-omg-official-merch",
+    "date": "2022-12-20",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "1st Single『OMG』公式MD",
+      "en": "1st Single 'OMG' Official Merch"
+    },
+    "summary": {
+      "ja": "『OMG』公式MDがWeverse Shopで予約販売開始（2022年12月19日18時PST＝20日11時KST、2023年2月3日出荷）。",
+      "en": "'OMG' official merch pre-order on Weverse Shop from 2022-12-19 6PM PST (= 12-20 11:00 KST); shipping from 2023-02-03."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/3172",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/3170"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "official-md",
+      "weverse-shop",
+      "omg"
+    ],
+    "verified": true,
+    "note": "Notice is from the US store and lists PST; KST date used."
+  },
+  {
+    "id": "goods-2022-12-23-omg-nu-jeans-popup-nudake",
+    "date": "2022-12-23",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ポップアップ「OMG! NU+JEANS」（Nudakeコラボ）",
+      "en": "'OMG! NU+JEANS' pop-up with Nudake"
+    },
+    "summary": {
+      "ja": "デザートブランドNudakeとのポップアップを聖水洞と狎鴎亭ドサン公園付近で2022年12月23日〜2023年1月21日に開催。ケーキとMDを販売。",
+      "en": "Pop-up with dessert brand Nudake in Seongsu-dong and near Dosan Park, 2022-12-23 to 2023-01-21, selling cakes and merch."
+    },
+    "source_url": "https://www.koreajoongangdaily.com/entertainment/girl-group-newjeans-to-open-popup-stores-with-dessert-brand-nudake/10460430",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "pop-up",
+      "seoul",
+      "nudake",
+      "omg"
+    ],
+    "verified": false,
+    "note": "Dates from Korea JoongAng Daily (2022-12-16)."
+  },
+  {
+    "id": "goods-2023-03-30-bunnies-global-official-fanclub-membership",
+    "date": "2023-03-30",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "グローバル公式ファンクラブ「Bunnies」メンバーシップ開始",
+      "en": "Global Official Fanclub 'Bunnies' Membership opens"
+    },
+    "summary": {
+      "ja": "NewJeansグローバル公式ファンクラブ「Bunnies Membership」の加入受付が2023年3月30日11時(KST)に開始。",
+      "en": "Sign-up for the NewJeans Global Official Fanclub 'Bunnies Membership' opened 2023-03-30 11:00 KST."
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/12893",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "membership",
+      "bunnies"
+    ],
+    "verified": true,
+    "note": "Membership kit contents/date not confirmed from an official page."
+  },
+  {
+    "id": "goods-2023-03-30-official-light-stick-binky-bong",
+    "date": "2023-03-30",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "公式ペンライト（Binky Bong）",
+      "en": "Official Light Stick (Binky Bong)"
+    },
+    "summary": {
+      "ja": "ウサギ型の公式ペンライト「Binky Bong」とメンバー別パーツが2023年3月30日11時/18時(KST)にWeverse Shopで発売開始（29日に製品公開）。",
+      "en": "Rabbit-shaped official light stick 'Binky Bong' and member parts went on sale on Weverse Shop 2023-03-30 at 11:00/18:00 KST (reveal on 03-29)."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/3700",
+    "reference_urls": [
+      "https://weverse.io/newjeansofficial/notice/12893",
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/3709",
+      "https://shop.weverse.io/en/shop/USD/artists/82/sales/14249"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "light-stick",
+      "weverse-shop"
+    ],
+    "verified": true
+  },
+  {
+    "id": "goods-2023-04-04-light-stick-and-parts-set-2nd-round",
+    "date": "2023-04-04",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "公式ペンライト＆パーツセット 2次予約",
+      "en": "Light Stick & Parts Set (2nd round pre-order)"
+    },
+    "summary": {
+      "ja": "ペンライト本体・パーツの2次予約が2023年4月3日13時、Light Stick & Parts Setが4月4日11時(KST)に開始、4月10日出荷。",
+      "en": "2nd-round pre-order for the light stick/parts opened 2023-04-03 13:00 and the Light Stick & Parts Set 2023-04-04 11:00 KST; shipping 04-10."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/3723",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "light-stick",
+      "weverse-shop"
+    ],
+    "verified": true
+  },
+  {
+    "id": "goods-2023-04-14-2023-seasons-greetings-re-release",
+    "date": "2023-04-14",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 SEASON'S GREETINGS 追加発売",
+      "en": "2023 SEASON'S GREETINGS re-release"
+    },
+    "summary": {
+      "ja": "完売していた2023シーズングリーティングを2023年4月14日に追加発売（3月24日にWeverse/Phoningで告知）。",
+      "en": "Sold-out 2023 Season's Greetings re-released 2023-04-14 (announced 03-24 via Weverse and Phoning)."
+    },
+    "source_url": "https://www.wikitree.co.kr/articles/839656",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "seasons-greetings"
+    ],
+    "verified": false,
+    "note": "Secondary source (Wikitree 2023-03-25)."
+  },
+  {
+    "id": "goods-2023-06-16-bunnies-camp-2023-official-merch",
+    "date": "2023-06-16",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "1st Fan Meeting『Bunnies Camp』公式MD",
+      "en": "1st Fan Meeting 'Bunnies Camp' Official Merch"
+    },
+    "summary": {
+      "ja": "カレッジ風アパレル・文具など初ファンミ「Bunnies Camp」公式MDが2023年6月16日11時(KST)にWeverse Shopで発売（6月23日18時まで）。",
+      "en": "College-style apparel/stationery merch for the first fan meeting 'Bunnies Camp' went on sale on Weverse Shop 2023-06-16 11:00 KST (until 06-23 18:00)."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/4061",
+    "reference_urls": [
+      "https://weverse.io/newjeansofficial/notice/13468"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "official-md",
+      "weverse-shop",
+      "bunnies-camp"
+    ],
+    "verified": true
+  },
+  {
+    "id": "goods-2023-06-19-get-up-bunny-beach-bag-ver",
+    "date": "2023-06-19",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2nd EP『Get Up』Bunny Beach Bag ver.",
+      "en": "2nd EP 'Get Up' (Bunny Beach Bag ver.)"
+    },
+    "summary": {
+      "ja": "『Get Up』Bunny Beach Bag ver.が2023年6月19日11時(KST)に予約販売開始、7月21日発売。",
+      "en": "'Get Up' Bunny Beach Bag ver. opened for pre-order 2023-06-19 11:00 KST; released 2023-07-21."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/JPY/artists/82/notices/4096",
+    "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/1670611109454434304",
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/4099"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "album-edition",
+      "get-up",
+      "weverse-shop"
+    ],
+    "verified": true
+  },
+  {
+    "id": "goods-2023-06-19-get-up-powerpuff-girls-x-nj-box-ver",
+    "date": "2023-06-19",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2nd EP『Get Up』THE POWERPUFF GIRLS X NJ Box ver.",
+      "en": "2nd EP 'Get Up' (THE POWERPUFF GIRLS X NJ Box ver.)"
+    },
+    "summary": {
+      "ja": "パワーパフガールズとのコラボ盤『Get Up』Box ver.が2023年6月19日11時(KST)に予約販売開始、7月21日発売。",
+      "en": "Powerpuff Girls collaboration Box ver. of 'Get Up' opened for pre-order 2023-06-19 11:00 KST; released 2023-07-21."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/JPY/artists/82/notices/4096",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "album-edition",
+      "get-up",
+      "weverse-shop",
+      "powerpuff-girls"
+    ],
+    "verified": true
+  },
+  {
+    "id": "goods-2023-06-19-get-up-weverse-albums-ver",
+    "date": "2023-06-19",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2nd EP『Get Up』Weverse Albums ver.",
+      "en": "2nd EP 'Get Up' (Weverse Albums ver.)"
+    },
+    "summary": {
+      "ja": "『Get Up』Weverse Albums ver.が2023年6月19日11時(KST)に予約販売開始、7月21日発売。",
+      "en": "'Get Up' Weverse Albums ver. opened for pre-order 2023-06-19 11:00 KST; released 2023-07-21."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/JPY/artists/82/notices/4096",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "album-edition",
+      "get-up",
+      "weverse-shop"
+    ],
+    "verified": true
+  },
+  {
+    "id": "goods-2023-08-02-line-friends-x-newjeans-exclusive-collection-preorder",
+    "date": "2023-08-02",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "LINE FRIENDS × NewJeans 限定コレクション予約",
+      "en": "LINE FRIENDS x NewJeans exclusive collection pre-order"
+    },
+    "summary": {
+      "ja": "LINE FRIENDSとの初コラボ（ぬいぐるみ、スマホケース等）の予約が2023年8月2〜4日に実施、8月17日にLINE FRIENDS COLLECTIONでグローバル発売。",
+      "en": "First LINE FRIENDS collab (plushies, phone cases, etc.) pre-order 2023-08-02 to 08-04; global online launch 08-17 via LINE FRIENDS COLLECTION."
+    },
+    "source_url": "https://snkrdunk.com/en/magazine/2023/07/21/line-friends-teases-upcoming-collab-with-newjeans/",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "line-friends",
+      "collab",
+      "bunini"
+    ],
+    "verified": false,
+    "note": "Dates from SNKRDUNK Magazine's running update; LINE FRIENDS official notice not fetched."
+  },
+  {
+    "id": "goods-2023-08-11-line-friends-newjeans-popup-gangnam-hongdae",
+    "date": "2023-08-11",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "LINE FRIENDS × NewJeans ポップアップ（江南・弘大）",
+      "en": "LINE FRIENDS x NewJeans pop-up (Gangnam & Hongdae)"
+    },
+    "summary": {
+      "ja": "LINE FRIENDS江南店・弘大店で2023年8月11日〜31日にNewJeansコラボポップアップを開催。キーリング・文具等を販売。",
+      "en": "NewJeans collab pop-ups at LINE FRIENDS Gangnam and Hongdae stores, 2023-08-11 to 08-31, with keyrings, stationery and more."
+    },
+    "source_url": "https://snkrdunk.com/en/magazine/2023/07/21/line-friends-teases-upcoming-collab-with-newjeans/",
+    "reference_urls": [
+      "https://lifestyle.tribune.net.ph/?p=179683"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "line-friends",
+      "pop-up",
+      "seoul"
+    ],
+    "verified": false,
+    "note": "Secondary sources only."
+  },
+  {
+    "id": "goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop",
+    "date": "2023-09-11",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "LINE FRIENDS『Powerpuff Girls × NewJeans』オンライン第2弾",
+      "en": "LINE FRIENDS 'Powerpuff Girls x NewJeans' second online drop"
+    },
+    "summary": {
+      "ja": "パワーパフガールズ×NewJeansのカードホルダー、バニーペン、ネックピロー等が2023年9月11日19時(PDT)にLINE FRIENDS COLLECTIONで発売。",
+      "en": "Powerpuff Girls x NewJeans card holders, bunny pens, neck pillows etc. launched 2023-09-11 7PM PDT on LINE FRIENDS COLLECTION."
+    },
+    "source_url": "https://snkrdunk.com/en/magazine/2023/07/21/line-friends-teases-upcoming-collab-with-newjeans/",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "line-friends",
+      "powerpuff-girls",
+      "collab"
+    ],
+    "verified": false,
+    "note": "Secondary source; PDT date."
+  },
+  {
+    "id": "goods-2023-09-23-play-line-friends-newjeans-popup-manila",
+    "date": "2023-09-23",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "PLAY LINE FRIENDS × NewJeans ポップアップ（マニラ）",
+      "en": "PLAY LINE FRIENDS x NewJeans pop-up (Manila)"
+    },
+    "summary": {
+      "ja": "SM Megamallで2023年9月23日〜12月23日にNewJeansコラボのPLAY LINE FRIENDSポップアップを開催（バンコク9/2など東南アジア展開の一環）。",
+      "en": "PLAY LINE FRIENDS pop-up with NewJeans merch at SM Megamall, 2023-09-23 to 12-23, part of the Southeast Asia rollout (Bangkok from 09-02, etc.)."
+    },
+    "source_url": "https://theseoulstory.com/news-play-line-friends-to-launch-newjeans-merch-at-manila-pop-up-store/",
+    "reference_urls": [
+      "https://lifestyle.tribune.net.ph/?p=179683"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "line-friends",
+      "pop-up",
+      "overseas"
+    ],
+    "verified": false,
+    "note": "Secondary sources only."
+  },
+  {
+    "id": "goods-2023-10-17-weverse-by-fans-newjeans-custom-merch",
+    "date": "2023-10-17",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Weverse by Fans NewJeansカスタムMD開始",
+      "en": "Weverse by Fans custom NewJeans merch launched"
+    },
+    "summary": {
+      "ja": "Weverse Shopアプリの「Weverse by Fans」でNewJeansのカスタム公式MD（Tシャツ、キーリング、フォンケース等23種）が2023年10月17日に提供開始。",
+      "en": "Custom official NewJeans merch (23 options: tees, keyrings, phone cases, etc.) became available via 'Weverse by Fans' on 2023-10-17."
+    },
+    "source_url": "https://www.bandwagon.asia/articles/make-your-own-official-merch-with-weverse-by-fans-newjeans-enhypen-baekho-hwang-min-hyun-xia-available-on-weverse-shop-order-2023",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "weverse-shop",
+      "official-md"
+    ],
+    "verified": false,
+    "note": "Secondary source (Bandwagon 2023-10-17)."
+  },
+  {
+    "id": "goods-2023-11-23-line-friends-hang-out-with-newjeans-collection",
+    "date": "2023-11-23",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "LINE FRIENDS『Hang Out With NewJeans』コレクション",
+      "en": "LINE FRIENDS 'Hang Out With NewJeans' collection"
+    },
+    "summary": {
+      "ja": "グラフィックTシャツ、バッグ、ヘアバンド等の「Hang Out With NewJeans」コレクションが2023年11月23日18時(PST)にLINE FRIENDS COLLECTIONで発売。",
+      "en": "'Hang Out With NewJeans' collection (graphic tees, bags, headbands, etc.) launched 2023-11-23 6PM PST on LINE FRIENDS COLLECTION."
+    },
+    "source_url": "https://snkrdunk.com/en/magazine/2023/07/21/line-friends-teases-upcoming-collab-with-newjeans/",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "line-friends",
+      "collab"
+    ],
+    "verified": false,
+    "note": "Secondary source; PST date."
+  },
+  {
+    "id": "goods-2023-11-29-2024-seasons-greetings",
+    "date": "2023-11-29",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans 2024 SEASON'S GREETINGS",
+      "en": "NewJeans 2024 SEASON'S GREETINGS"
+    },
+    "summary": {
+      "ja": "2024シーズングリーティング（卓上カレンダー、ダイアリー、フォトブック、ウィークリーチャレンジカード等）が2023年11月29日11時(KST)に予約販売開始、12月11日発売。",
+      "en": "2024 Season's Greetings (desk calendar, diary, photobook, weekly challenge cards, etc.) opened for pre-order 2023-11-29 11:00 KST; released 2023-12-11."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/notices/4975",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/5053",
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/5085",
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/5152"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "seasons-greetings",
+      "weverse-shop"
+    ],
+    "verified": true,
+    "note": "Additional pre-order rounds opened 2023-12-08, 12-15 and 12-29."
+  },
+  {
+    "id": "goods-2024-04-26-how-sweet-standard-ver",
+    "date": "2024-04-26",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『How Sweet』Standard ver.",
+      "en": "'How Sweet' (Standard ver.)"
+    },
+    "summary": {
+      "ja": "ダブルシングル『How Sweet』Standard ver.（LPサイズ）が2024年4月26日11時(KST)に予約販売開始、5月24日発売。",
+      "en": "Double single 'How Sweet' Standard ver. (LP-sized package) opened for pre-order 2024-04-26 11:00 KST; released 2024-05-24."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/5748",
+    "reference_urls": [
+      "https://www.koreatimes.co.kr/www/art/2024/04/398_373562.html"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "album-edition",
+      "how-sweet",
+      "weverse-shop"
+    ],
+    "verified": true
+  },
+  {
+    "id": "goods-2024-04-26-how-sweet-weverse-albums-ver",
+    "date": "2024-04-26",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『How Sweet』Weverse Albums ver.",
+      "en": "'How Sweet' (Weverse Albums ver.)"
+    },
+    "summary": {
+      "ja": "『How Sweet』Weverse Albums ver.が2024年4月26日11時(KST)に予約販売開始、5月24日発売。",
+      "en": "'How Sweet' Weverse Albums ver. opened for pre-order 2024-04-26 11:00 KST; released 2024-05-24."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/5748",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "album-edition",
+      "how-sweet",
+      "weverse-shop"
+    ],
+    "verified": true
+  },
+  {
+    "id": "goods-2024-05-10-supernatural-nj-x-murakami-cross-bag-ver",
+    "date": "2024-05-10",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Supernatural』NJ X MURAKAMI Cross Bag ver.（5種）",
+      "en": "'Supernatural' (NJ X MURAKAMI Cross Bag ver., 5 versions)"
+    },
+    "summary": {
+      "ja": "村上隆デザインの『Supernatural』Cross Bag ver.（メンバー別5種）が2024年5月10日11時(KST)に予約販売開始、6月21日発売。",
+      "en": "Murakami-designed 'Supernatural' Cross Bag ver. (5 member versions) opened for pre-order 2024-05-10 11:00 KST; released 2024-06-21."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/5839",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "album-edition",
+      "supernatural",
+      "weverse-shop",
+      "murakami"
+    ],
+    "verified": true
+  },
+  {
+    "id": "goods-2024-05-10-supernatural-nj-x-murakami-drawstring-bag-ver",
+    "date": "2024-05-10",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Supernatural』NJ X MURAKAMI Drawstring Bag ver.",
+      "en": "'Supernatural' (NJ X MURAKAMI Drawstring Bag ver.)"
+    },
+    "summary": {
+      "ja": "村上隆デザインの『Supernatural』Drawstring Bag ver.が2024年5月10日11時(KST)に予約販売開始、6月21日発売。",
+      "en": "Takashi Murakami-designed 'Supernatural' Drawstring Bag ver. opened for pre-order 2024-05-10 11:00 KST; released 2024-06-21."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/5839",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "album-edition",
+      "supernatural",
+      "weverse-shop",
+      "murakami"
+    ],
+    "verified": true
+  },
+  {
+    "id": "goods-2024-05-10-supernatural-weverse-albums-ver",
+    "date": "2024-05-10",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Supernatural』Weverse Albums ver.（A/B/C）",
+      "en": "'Supernatural' (Weverse Albums ver. A/B/C)"
+    },
+    "summary": {
+      "ja": "『Supernatural』Weverse Albums ver.（3種）が2024年5月10日11時(KST)に予約販売開始、6月21日発売。",
+      "en": "'Supernatural' Weverse Albums ver. (3 versions) opened for pre-order 2024-05-10 11:00 KST; released 2024-06-21."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/5839",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "album-edition",
+      "supernatural",
+      "weverse-shop"
+    ],
+    "verified": true
+  },
+  {
+    "id": "goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa",
+    "date": "2024-06-05",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『How Sweet』ポップアップ（LINE FRIENDS SQUARE 新沙）",
+      "en": "'How Sweet' pop-up at LINE FRIENDS SQUARE Sinsa"
+    },
+    "summary": {
+      "ja": "IPX（旧LINE FRIENDS）と共同のレコードショップ風「How Sweet」ポップアップをLINE FRIENDS SQUARE新沙店で2024年6月5日〜17日に開催。",
+      "en": "Vintage-record-shop-themed 'How Sweet' pop-up with IPX (LINE FRIENDS) at LINE FRIENDS SQUARE Sinsa, 2024-06-05 to 06-17."
+    },
+    "source_url": "https://www.koreajoongangdaily.com/entertainment/newjeans-to-open-pop-up-store-for-latest-single-how-sweet/12268275",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "pop-up",
+      "seoul",
+      "line-friends",
+      "how-sweet"
+    ],
+    "verified": false,
+    "note": "Secondary source (Korea JoongAng Daily 2024-05-31)."
+  },
+  {
+    "id": "goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki",
+    "date": "2024-06-12",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "コラボMD（THE POWERPUFF GIRLS X NewJeans / bunini / TOKKI）",
+      "en": "Collaboration merch (THE POWERPUFF GIRLS X NewJeans / bunini / TOKKI)"
+    },
+    "summary": {
+      "ja": "「THE POWERPUFF GIRLS X NewJeans」「bunini」「TOKKI」「How Sweet」ラインのコラボMDが2024年6月12日11時(KST)にWeverse Shopで発売。",
+      "en": "Collab merch lines 'THE POWERPUFF GIRLS X NewJeans', 'bunini', 'TOKKI' and 'How Sweet' went on sale on Weverse Shop 2024-06-12 11:00 KST."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/5999",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "official-md",
+      "weverse-shop",
+      "powerpuff-girls",
+      "bunini",
+      "line-friends"
+    ],
+    "verified": true
+  },
+  {
+    "id": "goods-2024-06-12-how-sweet-official-merch",
+    "date": "2024-06-12",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『How Sweet』公式MD",
+      "en": "'How Sweet' Official Merch"
+    },
+    "summary": {
+      "ja": "『How Sweet』公式MDがWeverse Shopで予約販売開始（2024年6月11日19時PDT＝12日11時KST、7月3日出荷開始）。",
+      "en": "'How Sweet' official merch pre-order on Weverse Shop from 2024-06-11 7PM PDT (= 06-12 11:00 KST); shipping from 07-03."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/6038",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "official-md",
+      "weverse-shop",
+      "how-sweet"
+    ],
+    "verified": true,
+    "note": "US-store notice lists PDT; KST date used."
+  },
+  {
+    "id": "goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite",
+    "date": "2024-06-26",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Bunnies Camp 2024 Tokyo Dome』公式グッズ（会場/Weverse Shop JAPAN）",
+      "en": "'Bunnies Camp 2024 Tokyo Dome' official merch (on-site / Weverse Shop JAPAN)"
+    },
+    "summary": {
+      "ja": "東京ドームファンミーティング公式グッズ（村上隆コラボTシャツ・タオル・バンダナ、トート等）を2024年6月26・27日に会場およびWeverse Shop JAPAN受取で販売（6/26 9時JST開始）。",
+      "en": "Official Tokyo Dome fan meeting goods (Murakami collab tees/towel/bandana, totes, etc.) sold on-site and via Weverse Shop JAPAN pickup on 2024-06-26/27 (from 9AM JST)."
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/20456",
+    "reference_urls": [
+      "https://snkrdunk.com/en/magazine/2024/03/28/newjeans-takashi-murakami-hyein-seo-bunnies-camp-tokyo-dome-hanni-danielle-minji-haerin/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "official-md",
+      "bunnies-camp",
+      "tokyo-dome",
+      "murakami",
+      "japan"
+    ],
+    "verified": true
+  },
+  {
+    "id": "goods-2024-06-26-supernatural-popup-line-friends-square-myeongdong",
+    "date": "2024-06-26",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Supernatural』ポップアップ（LINE FRIENDS SQUARE 明洞）",
+      "en": "'Supernatural' pop-up at LINE FRIENDS SQUARE Myeongdong"
+    },
+    "summary": {
+      "ja": "村上隆・藤原ヒロシとのコラボグッズを販売する「Supernatural」ポップアップをLINE FRIENDS SQUARE明洞で2024年6月26日〜7月10日に開催（事前予約6/21 11時開始）。",
+      "en": "'Supernatural' pop-up with Takashi Murakami and Hiroshi Fujiwara collab goods at LINE FRIENDS SQUARE Myeongdong, 2024-06-26 to 07-10 (reservations from 06-21 11:00)."
+    },
+    "source_url": "https://www.marieclairekorea.com/celebrity/2024/07/newjeans-linefriends",
+    "reference_urls": [
+      "https://snkrdunk.com/en/magazine/2024/03/28/newjeans-takashi-murakami-hyein-seo-bunnies-camp-tokyo-dome-hanni-danielle-minji-haerin/",
+      "https://www.marieclairekorea.com/celebrity/2024/05/fujiwara-hiroshi-newjeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "pop-up",
+      "seoul",
+      "line-friends",
+      "murakami",
+      "fujiwara-hiroshi",
+      "supernatural"
+    ],
+    "verified": false,
+    "note": "Secondary sources (Marie Claire Korea, SNKRDUNK)."
+  },
+  {
+    "id": "goods-2024-06-26-supernatural-popup-line-friends-square-shibuya",
+    "date": "2024-06-26",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Supernatural』ポップアップ（LINE FRIENDS SQUARE SHIBUYA）",
+      "en": "'Supernatural' pop-up at LINE FRIENDS SQUARE SHIBUYA"
+    },
+    "summary": {
+      "ja": "LINE FRIENDS SQUARE SHIBUYAの第1弾コラボとして2024年6月26日〜7月15日に開催。藤原ヒロシ監修の日本限定Tシャツ・バンダナ・帽子、村上隆コラボ、buniniグッズを販売。",
+      "en": "First collab at LINE FRIENDS SQUARE SHIBUYA, 2024-06-26 to 07-15, selling Japan-exclusive Fujiwara-designed tees/bandanas/hats, Murakami collab items and bunini goods."
+    },
+    "source_url": "https://www.fashionsnap.com/article/2024-06-26/linefriends-newjeans/",
+    "reference_urls": [
+      "https://www.timeout.jp/tokyo/ja/news/line-friends-square-shibuya-062724",
+      "https://snkrdunk.com/en/magazine/2024/03/28/newjeans-takashi-murakami-hyein-seo-bunnies-camp-tokyo-dome-hanni-danielle-minji-haerin/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "pop-up",
+      "tokyo",
+      "line-friends",
+      "murakami",
+      "fujiwara-hiroshi",
+      "supernatural",
+      "japan"
+    ],
+    "verified": false,
+    "note": "Secondary sources (Fashionsnap, Time Out Tokyo)."
+  },
+  {
+    "id": "goods-2024-06-28-bunnies-camp-2024-tokyo-dome-official-merch-weverse-shop",
+    "date": "2024-06-28",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Bunnies Camp 2024 Tokyo Dome』公式MD Weverse Shop予約",
+      "en": "'Bunnies Camp 2024 Tokyo Dome' official merch (Weverse Shop pre-order)"
+    },
+    "summary": {
+      "ja": "東京ドーム公式MD（トートバッグ、Tシャツ、NewJeans x Murakami Tシャツ・タオル・バンダナ）がWeverse Shop GLOBALで2024年6月28日11時(KST)に予約販売開始、10月18日出荷。",
+      "en": "Tokyo Dome official merch (tote, tees, NewJeans x Murakami tee/towel/bandana) opened for pre-order on Weverse Shop GLOBAL 2024-06-28 11:00 KST; shipping 10-18."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/6117",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "official-md",
+      "weverse-shop",
+      "bunnies-camp",
+      "tokyo-dome",
+      "murakami"
+    ],
+    "verified": true
+  },
+  {
+    "id": "goods-2024-07-01-line-friends-square-online-murakami-restock-preorder",
+    "date": "2024-07-01",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans × 村上隆 コラボグッズ LINE FRIENDS SQUARE Online 再入荷予約",
+      "en": "NewJeans x Murakami collab goods restock pre-order (LINE FRIENDS SQUARE Online)"
+    },
+    "summary": {
+      "ja": "村上隆コラボグッズの再入荷予約をLINE FRIENDS SQUARE Onlineで2024年7月1日14時〜3日18時(KST)に受付（第2回は7月17〜19日）。",
+      "en": "Restock pre-orders for the Murakami collab goods ran on LINE FRIENDS SQUARE Online 2024-07-01 14:00 to 07-03 18:00 KST (second round 07-17 to 07-19)."
+    },
+    "source_url": "https://snkrdunk.com/en/magazine/2024/03/28/newjeans-takashi-murakami-hyein-seo-bunnies-camp-tokyo-dome-hanni-danielle-minji-haerin/",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "line-friends",
+      "murakami",
+      "collab"
+    ],
+    "verified": false,
+    "note": "Secondary source (SNKRDUNK)."
+  },
+  {
+    "id": "goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural",
+    "date": "2024-07-03",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "コラボMD（NewJeans X Hiroshi Fujiwara / NewJeans X MURAKAMI / Supernatural）",
+      "en": "Collaboration merch (NewJeans X Hiroshi Fujiwara / NewJeans X MURAKAMI / Supernatural)"
+    },
+    "summary": {
+      "ja": "「NewJeans X Hiroshi Fujiwara」「NewJeans X MURAKAMI」「Supernatural」ラインのコラボMDが2024年7月3日11時(KST)にWeverse Shopで発売（受注分は7/22出荷）。",
+      "en": "Collab merch lines 'NewJeans X Hiroshi Fujiwara', 'NewJeans X MURAKAMI' and 'Supernatural' went on sale on Weverse Shop 2024-07-03 11:00 KST (made-to-order items ship 07-22)."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/6115",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/6177"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "official-md",
+      "weverse-shop",
+      "murakami",
+      "fujiwara-hiroshi",
+      "supernatural"
+    ],
+    "verified": true
+  },
+  {
+    "id": "goods-2024-11-27-2025-seasons-greetings-fairy-association",
+    "date": "2024-11-27",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans 2025 SEASON'S GREETINGS（Fairy Association）",
+      "en": "NewJeans 2025 SEASON'S GREETINGS ('Fairy Association')"
+    },
+    "summary": {
+      "ja": "「Fairy Association」をテーマにした2025シーズングリーティング（カレンダー、ダイアリー、フォトブック2冊、フォトカード52枚等）が2024年11月27日11時(KST)に予約販売開始、12月12日発売。",
+      "en": "'Fairy Association'-themed 2025 Season's Greetings (calendar, diary, two photobooks, 52 photocards, etc.) opened for pre-order 2024-11-27 11:00 KST; released 2024-12-12."
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/23850",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/7091",
+      "https://shop.weverse.io/en/shop/USD/artists/82/sales/33401"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "seasons-greetings",
+      "weverse-shop"
+    ],
+    "verified": true,
+    "note": "Weverse Shop Japan release 2024-12-24; Weverse Shop US 2025-01-15."
+  },
+  {
+    "id": "goods-2025-01-06-funko-pop-newjeans-figures-teased",
+    "date": "2025-01-06",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Funko POP! NewJeansフィギュア発表",
+      "en": "Funko POP! NewJeans figures teased"
+    },
+    "summary": {
+      "ja": "メンバー5人のFunko POP!フィギュアが2025年1月6日にFunko関連アカウントのティーザーで予告（発売日未定）。",
+      "en": "Funko POP! figures of the five members were teased on 2025-01-06 via a Funko news account; release date not announced."
+    },
+    "source_url": "https://www.bandwagon.asia/articles/newjeans-funko-pop-figurines-are-coming-soon",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "figure",
+      "funko",
+      "collab"
+    ],
+    "verified": false,
+    "note": "Teaser source is a Funko-affiliated news account, not ADOR; whether the product was released under the dispute is unconfirmed."
+  },
+  {
+    "id": "goods-2025-03-21-njz-complexcon-hong-kong-merch",
+    "date": "2025-03-21",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "njz",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NJZ ComplexCon Hong Kong 限定グッズ",
+      "en": "NJZ ComplexCon Hong Kong exclusive merch"
+    },
+    "summary": {
+      "ja": "NJZ名義でComplexCon Hong Kong（2025年3月21〜23日）のマーケットプレイスでTシャツ、キャップ、キーリング、ブレスレット等の限定グッズを販売。",
+      "en": "Under the NJZ name, exclusive merch (tees, cap, keyring, bracelet, etc.) was sold at the ComplexCon Hong Kong marketplace, 2025-03-21 to 03-23."
+    },
+    "source_url": "https://koreaproductpost.com/newjeans-njz-new-exclusive-merchandise-complexcon/",
+    "reference_urls": [
+      "https://www.timeout.com/hong-kong/news/everything-you-need-to-know-about-complexcon-hong-kong-2025-032125"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "njz",
+      "complexcon",
+      "event-md"
+    ],
+    "verified": false,
+    "note": "Secondary sources; the Seoul court granted ADOR's injunction on 2025-03-21, and the 03-23 performance proceeded under dispute."
+  }
+]
