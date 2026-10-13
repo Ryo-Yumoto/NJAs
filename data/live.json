@@ -29,7 +29,7 @@
     "tags": [
       "university-festival"
     ],
-    "note": "Lineup announced by the university (Sept 15, 2022); actual stage not separately confirmed from an official ADOR source."
+    "editor_note": "Lineup announced by the university (Sept 15, 2022); actual stage not separately confirmed from an official ADOR source."
   },
   {
     "id": "live-2022-09-24-yonsei-akaraka",
@@ -93,7 +93,7 @@
       "festival",
       "overseas"
     ],
-    "note": "Event ran Sept 30-Oct 1, 2022; NewJeans on Oct 1 (day 2)."
+    "editor_note": "Event ran Sept 30-Oct 1, 2022; NewJeans on Oct 1 (day 2)."
   },
   {
     "id": "live-2022-10-15-kcon-2022-japan",
@@ -126,7 +126,7 @@
       "festival",
       "japan"
     ],
-    "note": "Day assignment (Oct 15) from Wikipedia and an Indonesian lineup report; not confirmed from the official day-by-day lineup."
+    "editor_note": "Day assignment (Oct 15) from Wikipedia and an Indonesian lineup report; not confirmed from the official day-by-day lineup."
   },
   {
     "id": "live-2022-12-16-kbs-song-festival",
@@ -159,7 +159,7 @@
     "tags": [
       "broadcast-concert"
     ],
-    "note": "Broadcast-concert; the TV airing may be registered separately in the tv category."
+    "editor_note": "Broadcast-concert; the TV airing may be registered separately in the tv category."
   },
   {
     "id": "live-2022-12-24-sbs-gayo-daejeon",
@@ -191,7 +191,7 @@
     "tags": [
       "broadcast-concert"
     ],
-    "note": "Broadcast-concert; the TV airing may be registered separately in the tv category."
+    "editor_note": "Broadcast-concert; the TV airing may be registered separately in the tv category."
   },
   {
     "id": "live-2023-03-04-tokyo-girls-collection-2023-ss",
@@ -253,7 +253,7 @@
     "tags": [
       "corporate-event"
     ],
-    "note": "Listed on Wikipedia; could not be confirmed from the ADB programme or news. Treat as unverified."
+    "editor_note": "Listed on Wikipedia; could not be confirmed from the ADB programme or news. Treat as unverified."
   },
   {
     "id": "live-2023-06-11-weverse-con-festival-2023",
@@ -285,7 +285,7 @@
     "tags": [
       "festival"
     ],
-    "note": "Festival ran June 10-11, 2023; official notice confirms lineup/venue, day-2 slot confirmed via press coverage."
+    "editor_note": "Festival ran June 10-11, 2023; official notice confirms lineup/venue, day-2 slot confirmed via press coverage."
   },
   {
     "id": "live-2023-07-01-bunnies-camp",
@@ -318,7 +318,7 @@
       "fan-meeting",
       "solo-show"
     ],
-    "note": "Dates: 2023-07-01 and 2023-07-02. Also streamed on Weverse."
+    "editor_note": "Dates: 2023-07-01 and 2023-07-02. Also streamed on Weverse."
   },
   {
     "id": "live-2023-08-03-lollapalooza-chicago-2023",
@@ -352,7 +352,7 @@
       "festival",
       "overseas"
     ],
-    "note": "Official lollapalooza.com 2023 lineup page no longer available; date confirmed via press."
+    "editor_note": "Official lollapalooza.com 2023 lineup page no longer available; date confirmed via press."
   },
   {
     "id": "live-2023-08-11-kpop-super-live-jamboree",
@@ -418,7 +418,7 @@
       "festival",
       "japan"
     ],
-    "note": "Oricon confirms Tokyo-only (Aug 19). Official summersonic.com 2023 lineup not retrievable."
+    "editor_note": "Oricon confirms Tokyo-only (Aug 19). Official summersonic.com 2023 lineup not retrievable."
   },
   {
     "id": "live-2023-09-14-seoul-national-univ-festival",
@@ -450,7 +450,7 @@
     "tags": [
       "university-festival"
     ],
-    "note": "Sources conflict on whether NewJeans was on the SNU lineup; unverified."
+    "editor_note": "Sources conflict on whether NewJeans was on the SNU lineup; unverified."
   },
   {
     "id": "live-2023-09-14-sungkyunkwan-univ-festival",
@@ -482,7 +482,7 @@
     "tags": [
       "university-festival"
     ],
-    "note": "Date from lineup posts and fan reports only; no official notice found."
+    "editor_note": "Date from lineup posts and fan reports only; no official notice found."
   },
   {
     "id": "live-2023-09-15-hongik-univ-festival",
@@ -514,7 +514,7 @@
     "tags": [
       "university-festival"
     ],
-    "note": "Date from lineup posts and fan reports only; no official notice found."
+    "editor_note": "Date from lineup posts and fan reports only; no official notice found."
   },
   {
     "id": "live-2023-09-15-kyung-hee-univ-festival",
@@ -546,7 +546,7 @@
     "tags": [
       "university-festival"
     ],
-    "note": "Date from lineup posts and fan reports only; no official notice found."
+    "editor_note": "Date from lineup posts and fan reports only; no official notice found."
   },
   {
     "id": "live-2023-10-07-coke-studio-superpop-japan-2023",
@@ -580,7 +580,7 @@
       "japan",
       "brand-event"
     ],
-    "note": "Dates: 2023-10-07 and 2023-10-08."
+    "editor_note": "Dates: 2023-10-07 and 2023-10-08."
   },
   {
     "id": "live-2023-10-22-music-bank-in-mexico",
@@ -677,7 +677,7 @@
       "broadcast-concert",
       "japan"
     ],
-    "note": "Broadcast-concert; the TV airing (2023-12-15) may be registered separately in tv."
+    "editor_note": "Broadcast-concert; the TV airing (2023-12-15) may be registered separately in tv."
   },
   {
     "id": "live-2023-12-25-sbs-gayo-daejeon",
@@ -709,7 +709,7 @@
     "tags": [
       "broadcast-concert"
     ],
-    "note": "Broadcast-concert; the TV airing may be registered separately in the tv category."
+    "editor_note": "Broadcast-concert; the TV airing may be registered separately in the tv category."
   },
   {
     "id": "live-2024-02-03-nike-orchard-road-singapore",
@@ -806,7 +806,7 @@
       "broadcast-concert",
       "government-event"
     ],
-    "note": "Hosted by the Korea Heritage Service, organized by KBS; broadcast on KBS2 the same night."
+    "editor_note": "Hosted by the Korea Heritage Service, organized by KBS; broadcast on KBS2 the same night."
   },
   {
     "id": "live-2024-05-25-korea-univ-ipselenti",
@@ -839,7 +839,7 @@
     "tags": [
       "university-festival"
     ],
-    "note": "Saturday May 25, 2024 per ADOR schedule reported by Aju News; some outlets print May 24/26. All 7 festival fees were donated to the Korea Student Aid Foundation."
+    "editor_note": "Saturday May 25, 2024 per ADOR schedule reported by Aju News; some outlets print May 24/26. All 7 festival fees were donated to the Korea Student Aid Foundation."
   },
   {
     "id": "live-2024-05-27-chosun-univ-festival",
@@ -1057,7 +1057,7 @@
     "tags": [
       "broadcast-concert"
     ],
-    "note": "Date confirmed via another act's official Weverse notice; NewJeans' set per Wikipedia only."
+    "editor_note": "Date confirmed via another act's official Weverse notice; NewJeans' set per Wikipedia only."
   },
   {
     "id": "live-2024-06-04-coke-studio-tokyo-fan-event",
@@ -1090,7 +1090,7 @@
       "brand-event",
       "japan"
     ],
-    "note": "Date (June 4, 2024) from Wikipedia only; Coca-Cola's page gives no date. Unverified."
+    "editor_note": "Date (June 4, 2024) from Wikipedia only; Coca-Cola's page gives no date. Unverified."
   },
   {
     "id": "live-2024-06-26-bunnies-camp-2024-tokyo-dome",
@@ -1124,7 +1124,7 @@
       "solo-show",
       "japan"
     ],
-    "note": "Dates: 2024-06-26 and 2024-06-27. Guests included YOASOBI and Rina Sawayama."
+    "editor_note": "Dates: 2024-06-26 and 2024-06-27. Guests included YOASOBI and Rina Sawayama."
   },
   {
     "id": "live-2024-07-21-sbs-gayo-daejeon-summer",
@@ -1158,7 +1158,7 @@
     "tags": [
       "broadcast-concert"
     ],
-    "note": "Held and broadcast live on 2024-07-21 at Inspire Arena, Incheon (not Daegu). Wikipedia lists July 24, which appears to be an error."
+    "editor_note": "Held and broadcast live on 2024-07-21 at Inspire Arena, Incheon (not Daegu). Wikipedia lists July 24, which appears to be an error."
   },
   {
     "id": "live-2024-08-03-coupang-play-series-halftime-show",
@@ -1191,7 +1191,7 @@
       "sports-event",
       "brand-event"
     ],
-    "note": "Coupang's page confirms NewJeans halftime show in the series; match date Aug 3 confirmed via ADOR/Coupang Play announcement reported by press."
+    "editor_note": "Coupang's page confirms NewJeans halftime show in the series; match date Aug 3 confirmed via ADOR/Coupang Play announcement reported by press."
   },
   {
     "id": "live-2024-08-22-paris-olympics-team-korea-event",
@@ -1222,7 +1222,7 @@
     "tags": [
       "government-event"
     ],
-    "note": "Invitation-only government event; performers included SEVENTEEN's BSS."
+    "editor_note": "Invitation-only government event; performers included SEVENTEEN's BSS."
   },
   {
     "id": "live-2024-09-05-coke-studio-ultimate-fandom-concert-manila",
@@ -1288,7 +1288,7 @@
       "japan",
       "brand-event"
     ],
-    "note": "Dates: 2024-10-19 and 2024-10-20 (announced for both days)."
+    "editor_note": "Dates: 2024-10-19 and 2024-10-20 (announced for both days)."
   },
   {
     "id": "live-2024-12-07-yoasobi-asia-tour-incheon-guest",
@@ -1320,7 +1320,7 @@
     "tags": [
       "guest-appearance"
     ],
-    "note": "Took place after the members' Nov 29, 2024 contract-termination announcement; still listed under newjeans entity."
+    "editor_note": "Took place after the members' Nov 29, 2024 contract-termination announcement; still listed under newjeans entity."
   },
   {
     "id": "live-2024-12-14-music-bank-global-festival-2024-fukuoka",
@@ -1352,7 +1352,7 @@
       "broadcast-concert",
       "japan"
     ],
-    "note": "Date per en/ja Wikipedia; no official notice fetched."
+    "editor_note": "Date per en/ja Wikipedia; no official notice fetched."
   },
   {
     "id": "live-2024-12-25-sbs-gayo-daejeon",
@@ -1384,7 +1384,7 @@
     "tags": [
       "broadcast-concert"
     ],
-    "note": "Broadcast-concert; the TV airing may be registered separately in the tv category."
+    "editor_note": "Broadcast-concert; the TV airing may be registered separately in the tv category."
   },
   {
     "id": "live-2024-12-31-countdown-japan-2425",
@@ -1417,7 +1417,7 @@
       "festival",
       "japan"
     ],
-    "note": "Festival ran Dec 28-31, 2024; NewJeans on Dec 31 only. Announced by ADOR on Nov 6, 2024."
+    "editor_note": "Festival ran Dec 28-31, 2024; NewJeans on Dec 31 only. Announced by ADOR on Nov 6, 2024."
   },
   {
     "id": "live-2025-03-23-complexcon-hong-kong-2025",
@@ -1451,6 +1451,6 @@
       "overseas",
       "njz"
     ],
-    "note": "Held two days after the Seoul Central District Court's March 21, 2025 injunction in ADOR's favour; ADOR expressed regret over the performance going ahead under the NJZ name."
+    "editor_note": "Held two days after the Seoul Central District Court's March 21, 2025 injunction in ADOR's favour; ADOR expressed regret over the performance going ahead under the NJZ name."
   }
 ]

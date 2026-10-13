@@ -6,7 +6,7 @@
   --rule: #d9d8d1; --rule-strong: #0f0f12; --denim: #1f3fb8; --warn: #9a6400; --warn-soft: #f6ead0; --card: #ffffff;
   /* categorical palette: validated for CVD-safe adjacency in both themes (see docs/data-policy.md) */
   --c-music: #2a78d6; --c-mv: #d8306b; --c-tv: #008300; --c-magazine: #6250d6; --c-web: #1baf7a;
-  --c-ad: #eda100; --c-tweet: #a0522d; --c-goods: #eb6834; --c-live: #c2185b;
+  --c-ad: #eda100; --c-tweet: #a0522d; --c-goods: #eb6834; --c-live: #c2185b; --c-notice: #0f0f12;
   --f-display: "Instrument Serif", "Times New Roman", serif;
   --f-ui: "Inter Tight", "Noto Sans JP", -apple-system, BlinkMacSystemFont, "Hiragino Sans", sans-serif;
   --f-jp: "Noto Sans JP", "Hiragino Sans", "Inter Tight", sans-serif;
@@ -17,13 +17,13 @@
   :root:not([data-theme="light"]) {
     --paper: #0c0c0e; --paper-2: #141417; --ink: #f2f1ec; --ink-2: #b9b8b1; --ink-3: #74747c;
     --rule: #232328; --rule-strong: #f2f1ec; --denim: #7a97ff; --warn: #e3b35a; --warn-soft: #30250e; --card: #121215;
-    --c-music: #3987e5; --c-mv: #e0457f; --c-tv: #008300; --c-magazine: #9085e9; --c-web: #199e70; --c-ad: #c98500; --c-tweet: #c9693f; --c-goods: #d95926; --c-live: #e8508a;
+    --c-music: #3987e5; --c-mv: #e0457f; --c-tv: #008300; --c-magazine: #9085e9; --c-web: #199e70; --c-ad: #c98500; --c-tweet: #c9693f; --c-goods: #d95926; --c-live: #e8508a; --c-notice: #f2f1ec;
   }
 }
 :root[data-theme="dark"] {
   --paper: #0c0c0e; --paper-2: #141417; --ink: #f2f1ec; --ink-2: #b9b8b1; --ink-3: #74747c;
   --rule: #232328; --rule-strong: #f2f1ec; --denim: #7a97ff; --warn: #e3b35a; --warn-soft: #30250e; --card: #121215;
-  --c-music: #3987e5; --c-mv: #e0457f; --c-tv: #008300; --c-magazine: #9085e9; --c-web: #199e70; --c-ad: #c98500; --c-tweet: #c9693f; --c-goods: #d95926; --c-live: #e8508a;
+  --c-music: #3987e5; --c-mv: #e0457f; --c-tv: #008300; --c-magazine: #9085e9; --c-web: #199e70; --c-ad: #c98500; --c-tweet: #c9693f; --c-goods: #d95926; --c-live: #e8508a; --c-notice: #f2f1ec;
 }
 
 * { box-sizing: border-box; }
@@ -153,6 +153,10 @@ button { font-family: inherit; }
 .dot.unknown { background: transparent; outline: 1px solid var(--ink-3); }
 .toc-text { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .toc-row.unknown .toc-text { color: var(--ink-3); }
+.toc-future { padding: 16px 16px 4px 20px; color: var(--ink-3); border-top: 1px dashed var(--rule); margin-top: 12px; }
+.toc-row.unknown { padding-top: 3px; padding-bottom: 3px; }
+.links a.svc { border-bottom-color: var(--denim); color: var(--denim); }
+.note.editor { color: var(--ink-3); }
 .toc-foot { padding: 12px 16px; border-top: 1px solid var(--rule); display: flex; justify-content: space-between; gap: 10px; }
 .toc-foot a { color: var(--ink); }
 

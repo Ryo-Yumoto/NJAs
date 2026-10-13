@@ -2,7 +2,9 @@
 """Fetch a representative image for each archive item into media/auto/.
 
 Sources, in order:
+  0. image.url set on the record (manual override, e.g. album cover art)
   1. media.type == youtube  -> i.ytimg.com maxresdefault (fallback hqdefault)
+  1b. media.type == x       -> the post's first photo / video thumbnail via api.vxtwitter.com
   2. og:image / twitter:image of source_url, then of each reference_urls entry
 Pages on wiki domains (wikipedia, namu, wikidata) are skipped as image sources
 because their og:image is the article's generic lead image, not the item.
@@ -65,17 +67,34 @@ def download(s, url):
         sc = MAX_SIDE / max(w, h); im = im.resize((round(w * sc), round(h * sc)), Image.LANCZOS)
     return im
 
+def x_media(s, url):
+    m = re.search(r"(?:x|twitter)\.com/([^/]+)/status/(\d+)", url)
+    if not m: return None
+    try:
+        r = s.get(f"https://api.vxtwitter.com/{m.group(1)}/status/{m.group(2)}", timeout=20, headers={"Accept": "application/json", "User-Agent": "curl/8.5.0"})
+        if r.status_code != 200 or not r.headers.get("content-type", "").startswith("application/json"): return None
+        for me in r.json().get("media_extended", []):
+            u = me.get("thumbnail_url") if me.get("type") == "video" else me.get("url")
+            if u: return u
+    except Exception:
+        return None
+    return None
+
 def candidates(it):
     m = it.get("media") or {}
+    if it.get("image", {}).get("url"):
+        yield ("direct", it["image"]["url"])
     if m.get("type") == "youtube" and m.get("ref"):
         for q in ("maxresdefault", "sddefault", "hqdefault"):
             yield ("direct", f"https://i.ytimg.com/vi/{m['ref']}/{q}.jpg")
+    if m.get("type") == "x" and m.get("ref"):
+        yield ("x", m["ref"])
     yield ("page", it["source_url"])
     for u in it.get("reference_urls", []): yield ("page", u)
 
 def work(it, s):
     for kind, url in candidates(it):
-        img_url = url if kind == "direct" else page_image(s, url)
+        img_url = url if kind == "direct" else (x_media(s, url) if kind == "x" else page_image(s, url))
         if not img_url: continue
         im = download(s, img_url)
         if im is None: continue

@@ -32,7 +32,7 @@
       "ep-new-jeans"
     ],
     "verified": false,
-    "note": "MV/video premiered 2022-07-22 KST; full digital download/streaming started 2022-08-01 with the EP."
+    "editor_note": "MV/video premiered 2022-07-22 KST; full digital download/streaming started 2022-08-01 with the EP."
   },
   {
     "id": "music-2022-07-23-hype-boy",
@@ -66,7 +66,7 @@
       "ep-new-jeans"
     ],
     "verified": false,
-    "note": "Unveiled via MV 2022-07-23; digital streaming started 2022-08-01 with the EP."
+    "editor_note": "Unveiled via MV 2022-07-23; digital streaming started 2022-08-01 with the EP."
   },
   {
     "id": "music-2022-08-01-cookie",
@@ -133,7 +133,7 @@
       "ep"
     ],
     "verified": false,
-    "note": "Physical CD (Bag ver./Weverse Album ver.) released 2022-08-08. US physical release via Geffen 2023-03-23."
+    "editor_note": "Physical CD (Bag ver./Weverse Album ver.) released 2022-08-08. US physical release via Geffen 2023-03-23."
   },
   {
     "id": "music-2022-12-19-ditto",
@@ -303,7 +303,7 @@
       "disney"
     ],
     "verified": false,
-    "note": "Generasia lists 2023-05-16; Korea JoongAng Daily/Wikipedia give 2023-05-17 (Wednesday). Using 05-17."
+    "editor_note": "Generasia lists 2023-05-16; Korea JoongAng Daily/Wikipedia give 2023-05-17 (Wednesday). Using 05-17."
   },
   {
     "id": "music-2023-05-31-be-who-you-are-real-magic",
@@ -337,7 +337,7 @@
       "coca-cola"
     ],
     "verified": false,
-    "note": "Date 2023-05-31 from ja.wikipedia and en.wikipedia NewJeans article (unveiled May 31, 2023)."
+    "editor_note": "Date 2023-05-31 from ja.wikipedia and en.wikipedia NewJeans article (unveiled May 31, 2023)."
   },
   {
     "id": "music-2023-06-21-zero-j-i-d-remix",
@@ -370,7 +370,7 @@
       "coca-cola"
     ],
     "verified": false,
-    "note": "en.wikipedia gives June 20, 2023 (US time); ja.wikipedia gives 2023-06-21 (KST). Using 06-21."
+    "editor_note": "en.wikipedia gives June 20, 2023 (US time); ja.wikipedia gives 2023-06-21 (KST). Using 06-21."
   },
   {
     "id": "music-2023-07-07-new-jeans-song",
@@ -539,7 +539,7 @@
       "ep"
     ],
     "verified": false,
-    "note": "Released 13:00 KST per ja.wikipedia."
+    "editor_note": "Released 13:00 KST per ja.wikipedia."
   },
   {
     "id": "music-2023-09-01-beautiful-restriction",
@@ -573,7 +573,7 @@
       "netflix"
     ],
     "verified": false,
-    "note": "Released 18:00 KST 2023-09-01 per Ten Asia / ADOR announcement."
+    "editor_note": "Released 18:00 KST 2023-09-01 per Ten Asia / ADOR announcement."
   },
   {
     "id": "music-2023-10-04-gods",
@@ -608,7 +608,7 @@
       "league-of-legends"
     ],
     "verified": false,
-    "note": "Premiered 14:00 KST 2023-10-04 (Oct 3 in US time)."
+    "editor_note": "Premiered 14:00 KST 2023-10-04 (Oct 3 in US time)."
   },
   {
     "id": "music-2023-11-24-our-night-my-demon-ost",
@@ -642,7 +642,7 @@
       "sbs"
     ],
     "verified": false,
-    "note": "Released 18:00 KST 2023-11-24. ja.wikipedia lists 2024-03-02, which appears to be an error."
+    "editor_note": "Released 18:00 KST 2023-11-24. ja.wikipedia lists 2024-03-02, which appears to be an error."
   },
   {
     "id": "music-2023-12-19-njwmx",
@@ -707,7 +707,7 @@
       "unconfirmed"
     ],
     "verified": false,
-    "note": "Only the year is given on Wikipedia; could not be corroborated. Treat as unconfirmed."
+    "editor_note": "Only the year is given on Wikipedia; could not be corroborated. Treat as unconfirmed."
   },
   {
     "id": "music-2024-04-27-bubble-gum",
@@ -741,7 +741,7 @@
       "single-album-how-sweet"
     ],
     "verified": false,
-    "note": "MV released 2024-04-27 KST; digital release as B-side on 2024-05-24. Japanese version used in Kao Essential CM / Mezamashi 8 from April 2024."
+    "editor_note": "MV released 2024-04-27 KST; digital release as B-side on 2024-05-24. Japanese version used in Kao Essential CM / Mezamashi 8 from April 2024."
   },
   {
     "id": "music-2024-05-24-how-sweet",
@@ -841,7 +841,7 @@
       "single-supernatural"
     ],
     "verified": false,
-    "note": "MV released 2024-06-17 KST; audio released 2024-06-21 with the single."
+    "editor_note": "MV released 2024-06-17 KST; audio released 2024-06-21 with the single."
   },
   {
     "id": "music-2024-06-21-supernatural",
@@ -910,7 +910,7 @@
       "japan-debut"
     ],
     "verified": false,
-    "note": "CD formats: Drawstring bag ver., Crossbody bag ver., Weverse-exclusive ver. Oricon weekly singles: No.10 then No.4."
+    "editor_note": "CD formats: Drawstring bag ver., Crossbody bag ver., Weverse-exclusive ver. Oricon weekly singles: No.10 then No.4."
   },
   {
     "id": "music-2025-03-23-pit-stop",
@@ -944,6 +944,6 @@
       "complexcon"
     ],
     "verified": false,
-    "note": "Not an official release. Performed two days after the 2025-03-21 court injunction barring independent activities; a Kbizoom lyrics page lists 'Released: March 24, 2025' but this is not corroborated."
+    "editor_note": "Not an official release. Performed two days after the 2025-03-21 court injunction barring independent activities; a Kbizoom lyrics page lists 'Released: March 24, 2025' but this is not corroborated."
   }
 ]

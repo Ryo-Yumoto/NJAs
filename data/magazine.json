@@ -27,7 +27,7 @@
       "chanel-beauty"
     ],
     "verified": true,
-    "note": "Elle記事(2022-08-19)に「9月号特別版は8月20日発売」と明記。表紙ではなく特別版の『first cover star』扱い。"
+    "editor_note": "Elle記事(2022-08-19)に「9月号特別版は8月20日発売」と明記。表紙ではなく特別版の『first cover star』扱い。"
   },
   {
     "id": "magazine-2022-09-26-gq-korea-comme-des-garcons",
@@ -57,7 +57,7 @@
       "comme-des-garcons"
     ],
     "verified": false,
-    "note": "GQ Korea公式ページURL未確認。日付は京郷新聞記事(2022-09-26)より。掲載号は2022年10月号と思われるが未確認。"
+    "editor_note": "GQ Korea公式ページURL未確認。日付は京郷新聞記事(2022-09-26)より。掲載号は2022年10月号と思われるが未確認。"
   },
   {
     "id": "magazine-2022-09-29-harpers-bazaar-korea-dior-book-in-book",
@@ -87,7 +87,7 @@
       "dior"
     ],
     "verified": true,
-    "note": "記事日付2022-09-29。印刷版10月号の発売日は未確認。"
+    "editor_note": "記事日付2022-09-29。印刷版10月号の発売日は未確認。"
   },
   {
     "id": "magazine-2022-11-01-vogue-korea-hyein-digital-cover-lv",
@@ -117,7 +117,7 @@
       "louis-vuitton"
     ],
     "verified": true,
-    "note": "B컷記事のURLスラッグは2022/11/08だがページ表記は2022.11.20。デジタルカバー自体の公開日は11月上旬と思われるため月精度。"
+    "editor_note": "B컷記事のURLスラッグは2022/11/08だがページ表記は2022.11.20。デジタルカバー自体の公開日は11月上旬と思われるため月精度。"
   },
   {
     "id": "magazine-2022-11-17-w-korea-2022-12-cover",
@@ -149,7 +149,7 @@
       "first-cover"
     ],
     "verified": true,
-    "note": "W Korea公式記事日付2022-11-17（カバー公開日）。個人カバーは後日順次公開。"
+    "editor_note": "W Korea公式記事日付2022-11-17（カバー公開日）。個人カバーは後日順次公開。"
   },
   {
     "id": "magazine-2023-01-23-spur-2023-03-cover",
@@ -180,7 +180,7 @@
       "japan"
     ],
     "verified": false,
-    "note": "SPUR公式ページ未取得。発売日はTHE FIRST TIMES(2023-01-17)およびAppBank記事で確認。"
+    "editor_note": "SPUR公式ページ未取得。発売日はTHE FIRST TIMES(2023-01-17)およびAppBank記事で確認。"
   },
   {
     "id": "magazine-2023-03-01-elle-korea-2023-03-minji",
@@ -212,7 +212,7 @@
       "chanel"
     ],
     "verified": true,
-    "note": "カバー公開2023-02-14。3月号の発売日は未確認のため月精度。"
+    "editor_note": "カバー公開2023-02-14。3月号の発売日は未確認のため月精度。"
   },
   {
     "id": "magazine-2023-03-01-marie-claire-korea-30th-hanni-gucci",
@@ -243,7 +243,7 @@
       "gucci"
     ],
     "verified": false,
-    "note": "コミュニティ投稿(2023-02-14)に基づく。marie claire公式記事URL未確認のため要確認。"
+    "editor_note": "コミュニティ投稿(2023-02-14)に基づく。marie claire公式記事URL未確認のため要確認。"
   },
   {
     "id": "magazine-2023-03-20-vogue-korea-danielle-ysl-beauty",
@@ -275,7 +275,7 @@
       "ysl-beauty"
     ],
     "verified": true,
-    "note": "表紙ではなく画報。アンバサダー発表は2023-03-14。"
+    "editor_note": "表紙ではなく画報。アンバサダー発表は2023-03-14。"
   },
   {
     "id": "magazine-2023-05-01-harpers-bazaar-korea-2023-05-hyein",
@@ -307,7 +307,7 @@
       "louis-vuitton"
     ],
     "verified": true,
-    "note": "カバー公開2023-04-17。韓屋でのルイ・ヴィトン撮影。"
+    "editor_note": "カバー公開2023-04-17。韓屋でのルイ・ヴィトン撮影。"
   },
   {
     "id": "magazine-2023-06-01-dazed-korea-2023-06-danielle",
@@ -370,7 +370,7 @@
       "international"
     ],
     "verified": false,
-    "note": "Highsnobiety記事ページに日付表記なし。公開日はTHE FIRST TIMES(2023-05-28)による。発売日未確認。"
+    "editor_note": "Highsnobiety記事ページに日付表記なし。公開日はTHE FIRST TIMES(2023-05-28)による。発売日未確認。"
   },
   {
     "id": "magazine-2023-06-09-popeye-2023-07-special-edition",
@@ -401,7 +401,7 @@
       "japan"
     ],
     "verified": false,
-    "note": "マガジンハウス公式ページ未取得。発売日はTHE FIRST TIMES/モデルプレスで確認。"
+    "editor_note": "マガジンハウス公式ページ未取得。発売日はTHE FIRST TIMES/モデルプレスで確認。"
   },
   {
     "id": "magazine-2023-06-15-w-korea-vol7-hanni",
@@ -431,7 +431,7 @@
     },
     "tags": [],
     "verified": true,
-    "note": "W Korea公式記事日付2023-06-15。"
+    "editor_note": "W Korea公式記事日付2023-06-15。"
   },
   {
     "id": "magazine-2023-06-30-v-magazine-v143-cover",
@@ -462,7 +462,7 @@
       "international"
     ],
     "verified": true,
-    "note": "V公式ショップに「Newsstand date: June 30」と記載（年は2023）。"
+    "editor_note": "V公式ショップに「Newsstand date: June 30」と記載（年は2023）。"
   },
   {
     "id": "magazine-2023-08-01-vogue-korea-2023-08-minji",
@@ -492,7 +492,7 @@
       "chanel"
     ],
     "verified": false,
-    "note": "表紙か中面画報かは未確定（Sportskeedaは表紙と報道、京郷は画報と表記）。VOGUE公式URL未確認。"
+    "editor_note": "表紙か中面画報かは未確定（Sportskeedaは表紙と報道、京郷は画報と表記）。VOGUE公式URL未確認。"
   },
   {
     "id": "magazine-2023-08-04-elle-korea-d-edition-hanni-chaumet",
@@ -554,7 +554,7 @@
       "international"
     ],
     "verified": false,
-    "note": "Rolling Stone記事は取得不可（アクセス制限）。発表日9月6日はkbizoom経由。発売日未確認。"
+    "editor_note": "Rolling Stone記事は取得不可（アクセス制限）。発表日9月6日はkbizoom経由。発売日未確認。"
   },
   {
     "id": "magazine-2023-09-13-harpers-bazaar-korea-hanni-armani",
@@ -704,7 +704,7 @@
       "international"
     ],
     "verified": false,
-    "note": "vogue.com.auの記事URL未確認。日付はDesign Scene(2023-12-29)およびテンアジア報道による。"
+    "editor_note": "vogue.com.auの記事URL未確認。日付はDesign Scene(2023-12-29)およびテンアジア報道による。"
   },
   {
     "id": "magazine-2024-01-04-harpers-bazaar-korea-minji-chanel-beauty-digital",
@@ -763,7 +763,7 @@
       "dior"
     ],
     "verified": false,
-    "note": "2025年2月号記事内で「2024年2月号以来」と言及されているのみ。発売日（通常は前年12月下旬）未確認。"
+    "editor_note": "2025年2月号記事内で「2024年2月号以来」と言及されているのみ。発売日（通常は前年12月下旬）未確認。"
   },
   {
     "id": "magazine-2024-02-01-w-korea-2024-vol2-hanni",
@@ -790,7 +790,7 @@
     },
     "tags": [],
     "verified": false,
-    "note": "HYPEBAE JP(2024年1月)の検索結果のみ。ページ本文取得不可。発売日・号の月は未確認（Vol.2＝2月号想定）。"
+    "editor_note": "HYPEBAE JP(2024年1月)の検索結果のみ。ページ本文取得不可。発売日・号の月は未確認（Vol.2＝2月号想定）。"
   },
   {
     "id": "magazine-2024-02-28-billboard-women-in-music-2024-cover",
@@ -821,7 +821,7 @@
       "international"
     ],
     "verified": false,
-    "note": "billboard.comの記事URL未確認。印刷号の発行日未確認。"
+    "editor_note": "billboard.comの記事URL未確認。印刷号の発行日未確認。"
   },
   {
     "id": "magazine-2024-03-01-vogue-korea-2024-03-hyein",
@@ -853,7 +853,7 @@
       "louis-vuitton"
     ],
     "verified": true,
-    "note": "カバー公開2024-02-16/17。インタビュー記事2024-03-01。"
+    "editor_note": "カバー公開2024-02-16/17。インタビュー記事2024-03-01。"
   },
   {
     "id": "magazine-2024-03-01-w-korea-2024-03-haerin",
@@ -882,7 +882,7 @@
       "dior"
     ],
     "verified": false,
-    "note": "W Korea公式記事URL未確認（タグページがアクセス制限）。"
+    "editor_note": "W Korea公式記事URL未確認（タグページがアクセス制限）。"
   },
   {
     "id": "magazine-2024-03-04-marie-claire-korea-2024-03-hanni-chaumet",
@@ -941,7 +941,7 @@
       "louis-vuitton"
     ],
     "verified": false,
-    "note": "ELLE JAPON公式URL未確認。発売日未確認（通常3月末）。"
+    "editor_note": "ELLE JAPON公式URL未確認。発売日未確認（通常3月末）。"
   },
   {
     "id": "magazine-2024-05-01-elle-korea-2024-05-d-edition-minji",
@@ -1028,7 +1028,7 @@
       "gucci-beauty"
     ],
     "verified": false,
-    "note": "Cosmopolitan公式URL未確認。"
+    "editor_note": "Cosmopolitan公式URL未確認。"
   },
   {
     "id": "magazine-2024-05-29-the-face-summer-2024-cover",
@@ -1057,7 +1057,7 @@
       "international"
     ],
     "verified": false,
-    "note": "theface.comの記事URL未確認。発行日は聯合ニュース(2024-05-29)による。"
+    "editor_note": "theface.comの記事URL未確認。発行日は聯合ニュース(2024-05-29)による。"
   },
   {
     "id": "magazine-2024-05-31-w-korea-seoul-jazz-festival-2024-minji",
@@ -1086,7 +1086,7 @@
       "chanel"
     ],
     "verified": false,
-    "note": "W Korea公式URL未確認。"
+    "editor_note": "W Korea公式URL未確認。"
   },
   {
     "id": "magazine-2024-08-01-vogue-korea-2024-08-minji",
@@ -1115,7 +1115,7 @@
       "chanel"
     ],
     "verified": false,
-    "note": "VOGUE Korea公式URL未確認。"
+    "editor_note": "VOGUE Korea公式URL未確認。"
   },
   {
     "id": "magazine-2024-09-01-pop-magazine-51-danielle",
@@ -1145,7 +1145,7 @@
       "international"
     ],
     "verified": false,
-    "note": "POP公式URL未確認。発売月は京郷報道(2024-09-12)から推定。"
+    "editor_note": "POP公式URL未確認。発売月は京郷報道(2024-09-12)から推定。"
   },
   {
     "id": "magazine-2024-09-13-harpers-bazaar-korea-2024-09-minji",
@@ -1261,7 +1261,7 @@
     },
     "tags": [],
     "verified": false,
-    "note": "Billboard Korea公式URL未確認。発売日は中央日報(2024-10-10)による。"
+    "editor_note": "Billboard Korea公式URL未確認。発売日は中央日報(2024-10-10)による。"
   },
   {
     "id": "magazine-2024-11-01-elle-korea-2024-11-super-elle-beauty-haerin",
@@ -1351,7 +1351,7 @@
       "japan"
     ],
     "verified": false,
-    "note": "SPUR公式URL未確認。発売日はモデルプレス(2024-11-15)による。"
+    "editor_note": "SPUR公式URL未確認。発売日はモデルプレス(2024-11-15)による。"
   },
   {
     "id": "magazine-2024-12-01-vogue-korea-2024-12-danielle",
@@ -1380,7 +1380,7 @@
       "uncertain"
     ],
     "verified": false,
-    "note": "Sportskeedaの検索要約のみで、本文取得不可。VOGUE Korea公式で未確認のため要検証（Omegaアンバサダー画報との混同の可能性あり）。"
+    "editor_note": "Sportskeedaの検索要約のみで、本文取得不可。VOGUE Korea公式で未確認のため要検証（Omegaアンバサダー画報との混同の可能性あり）。"
   },
   {
     "id": "magazine-2025-01-01-elle-korea-2025-01-minji",
@@ -1440,7 +1440,7 @@
       "hanbok"
     ],
     "verified": false,
-    "note": "VOGUE Korea公式URL未確認。表紙か中面画報かは未確定。"
+    "editor_note": "VOGUE Korea公式URL未確認。表紙か中面画報かは未確定。"
   },
   {
     "id": "magazine-2025-02-01-elle-japon-2025-02-haerin",
@@ -1470,7 +1470,7 @@
       "dior"
     ],
     "verified": false,
-    "note": "ELLE JAPON公式URL未確認。記事日付2024-12-25、発売日未確認（通常12月下旬）。"
+    "editor_note": "ELLE JAPON公式URL未確認。記事日付2024-12-25、発売日未確認（通常12月下旬）。"
   },
   {
     "id": "magazine-2025-03-01-elle-singapore-2025-03-danielle",
@@ -1502,7 +1502,7 @@
       "international"
     ],
     "verified": true,
-    "note": "NJZ名義期間（2025-02〜03）の活動。"
+    "editor_note": "NJZ名義期間（2025-02〜03）の活動。"
   },
   {
     "id": "magazine-2026-09-01-harpers-bazaar-korea-2026-09-hyein",

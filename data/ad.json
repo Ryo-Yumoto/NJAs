@@ -26,7 +26,7 @@
       "fashion"
     ],
     "verified": false,
-    "note": "Month approximate (autumn 2022)."
+    "editor_note": "Month approximate (autumn 2022)."
   },
   {
     "id": "ad-2022-10-01-hanni-gucci-ambassador",
@@ -58,7 +58,7 @@
       "ambassador"
     ],
     "verified": false,
-    "note": "October 2022; sources differ on the exact day (Oct 22 vs Oct 28)."
+    "editor_note": "October 2022; sources differ on the exact day (Oct 22 vs Oct 28)."
   },
   {
     "id": "ad-2022-10-01-skt-0-iphone-14-pro-cm",
@@ -89,7 +89,7 @@
       "telecom"
     ],
     "verified": false,
-    "note": "Airing by Nov 2022 per MTN; exact start date unknown."
+    "editor_note": "Airing by Nov 2022 per MTN; exact start date unknown."
   },
   {
     "id": "ad-2022-10-06-pinkfong-baby-shark-collab",
@@ -207,7 +207,7 @@
       "ambassador"
     ],
     "verified": false,
-    "note": "Reported by Nov 8, 2022; exact announcement date not confirmed."
+    "editor_note": "Reported by Nov 8, 2022; exact announcement date not confirmed."
   },
   {
     "id": "ad-2022-12-16-nudake-collab",
@@ -299,7 +299,7 @@
       "cm"
     ],
     "verified": false,
-    "note": "Year only; exact airing date not confirmed."
+    "editor_note": "Year only; exact airing date not confirmed."
   },
   {
     "id": "ad-2023-01-01-olens-contact-lens-model",
@@ -330,7 +330,7 @@
       "beauty"
     ],
     "verified": false,
-    "note": "Year only."
+    "editor_note": "Year only."
   },
   {
     "id": "ad-2023-01-06-danielle-burberry-ambassador",
@@ -448,7 +448,7 @@
       "ambassador"
     ],
     "verified": true,
-    "note": "en.wikipedia gives Feb 13 (likely US time); Korean reports date the announcement Feb 14."
+    "editor_note": "en.wikipedia gives Feb 13 (likely US time); Korean reports date the announcement Feb 14."
   },
   {
     "id": "ad-2023-02-15-seoul-city-pr-ambassador",
@@ -594,7 +594,7 @@
       "fashion"
     ],
     "verified": false,
-    "note": "Month per secondary sources; no official Nike announcement date found."
+    "editor_note": "Month per secondary sources; no official Nike announcement date found."
   },
   {
     "id": "ad-2023-03-06-levis-global-ambassador",
@@ -951,7 +951,7 @@
       "cm"
     ],
     "verified": false,
-    "note": "Month approximate (iPhone 15 Korean launch, Oct 2023)."
+    "editor_note": "Month approximate (iPhone 15 Korean launch, Oct 2023)."
   },
   {
     "id": "ad-2023-12-01-shinhan-super-sol-cm",
@@ -981,7 +981,7 @@
       "cm"
     ],
     "verified": false,
-    "note": "Month approximate (Super SOL launched Dec 2023)."
+    "editor_note": "Month approximate (Super SOL launched Dec 2023)."
   },
   {
     "id": "ad-2024-01-01-nike-orchard-road-collab",
@@ -1188,7 +1188,7 @@
       "ambassador"
     ],
     "verified": false,
-    "note": "Instagram announcement reportedly Mar 28, 2024; trade coverage dated Apr 2, 2024."
+    "editor_note": "Instagram announcement reportedly Mar 28, 2024; trade coverage dated Apr 2, 2024."
   },
   {
     "id": "ad-2024-04-01-kao-essential-cm-japan",
@@ -1222,7 +1222,7 @@
       "cm"
     ],
     "verified": false,
-    "note": "Early April 2024; en.wikipedia cites Apr 7 coverage."
+    "editor_note": "Early April 2024; en.wikipedia cites Apr 7 coverage."
   },
   {
     "id": "ad-2024-04-10-shibuya109-45th-anniversary",
@@ -1282,7 +1282,7 @@
       "cm"
     ],
     "verified": true,
-    "note": "Released the week before May 14, 2024."
+    "editor_note": "Released the week before May 14, 2024."
   },
   {
     "id": "ad-2024-05-09-lotte-zero-japan-cm",
@@ -1344,7 +1344,7 @@
       "art"
     ],
     "verified": false,
-    "note": "Date is the article date; teaser reveal was on or just before."
+    "editor_note": "Date is the article date; teaser reveal was on or just before."
   },
   {
     "id": "ad-2024-05-21-hanni-gucci-horsebit-1955-campaign",
@@ -1492,7 +1492,7 @@
       "cm"
     ],
     "verified": false,
-    "note": "Month approximate (iPhone 16 launch)."
+    "editor_note": "Month approximate (iPhone 16 launch)."
   },
   {
     "id": "ad-2024-09-24-calvin-klein-ambassador",
@@ -1524,7 +1524,7 @@
       "ambassador"
     ],
     "verified": false,
-    "note": "Variety article not retrievable (paywall); date per en.wikipedia citation."
+    "editor_note": "Variety article not retrievable (paywall); date per en.wikipedia citation."
   },
   {
     "id": "ad-2024-10-31-indomie-global-ambassador",
@@ -1557,7 +1557,7 @@
       "ambassador"
     ],
     "verified": false,
-    "note": "Date per en.wikipedia citation (Oct 31, 2024); Hypebeast coverage early Nov 2024."
+    "editor_note": "Date per en.wikipedia citation (Oct 31, 2024); Hypebeast coverage early Nov 2024."
   },
   {
     "id": "ad-2026-09-07-haerin-beauty-brand-photocall",
@@ -1589,6 +1589,6 @@
       "event"
     ],
     "verified": false,
-    "note": "Korea Times (Sep 8, 2026) does not name the brand; en.wikipedia notes her Aug 2026 Marie Claire Korea feature was for Dior Beauty. Event date inferred as Monday Sep 7, 2026."
+    "editor_note": "Korea Times (Sep 8, 2026) does not name the brand; en.wikipedia notes her Aug 2026 Marie Claire Korea feature was for Dior Beauty. Event date inferred as Monday Sep 7, 2026."
   }
 ]

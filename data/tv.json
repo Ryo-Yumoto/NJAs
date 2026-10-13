@@ -701,7 +701,7 @@
       "variety"
     ],
     "verified": false,
-    "note": "Date from ja.wikipedia; not confirmed on tvN's site."
+    "editor_note": "Date from ja.wikipedia; not confirmed on tvN's site."
   },
   {
     "id": "tv-2022-12-16-kbs-song-festival-2022",
@@ -934,7 +934,7 @@
       "win"
     ],
     "verified": false,
-    "note": "ja.wikipedia lists 4 consecutive Music Core wins between Jan 7 and Feb 4, 2023; individual later dates not itemised."
+    "editor_note": "ja.wikipedia lists 4 consecutive Music Core wins between Jan 7 and Feb 4, 2023; individual later dates not itemised."
   },
   {
     "id": "tv-2023-01-08-inkigayo-ditto-win",
@@ -1111,7 +1111,7 @@
       "award-show"
     ],
     "verified": false,
-    "note": "Award per ja.wikipedia; in-person attendance not independently confirmed."
+    "editor_note": "Award per ja.wikipedia; in-person attendance not independently confirmed."
   },
   {
     "id": "tv-2023-01-20-music-bank-ditto-omg",
@@ -1761,7 +1761,7 @@
       "stream"
     ],
     "verified": false,
-    "note": "Festival performance; broadcast/streaming platform not verified from an official source."
+    "editor_note": "Festival performance; broadcast/streaming platform not verified from an official source."
   },
   {
     "id": "tv-2023-08-04-music-bank-eta-2",
@@ -2226,7 +2226,7 @@
       "world-tour"
     ],
     "verified": false,
-    "note": "Date is the event date; KBS broadcast date not confirmed."
+    "editor_note": "Date is the event date; KBS broadcast date not confirmed."
   },
   {
     "id": "tv-2023-11-19-billboard-music-awards-2023",
@@ -2315,7 +2315,7 @@
       "vod"
     ],
     "verified": false,
-    "note": "VOD release rather than a TV broadcast; date_type set to broadcast for sorting consistency with other video programs."
+    "editor_note": "VOD release rather than a TV broadcast; date_type set to broadcast for sorting consistency with other video programs."
   },
   {
     "id": "tv-2023-12-02-melon-music-awards-2023",
@@ -2584,7 +2584,7 @@
       "year-end"
     ],
     "verified": true,
-    "note": "Confirmed via a Dec 29, 2023 preview article (Yonhap via Daum); performance was pre-recorded per that report."
+    "editor_note": "Confirmed via a Dec 29, 2023 preview article (Yonhap via Daum); performance was pre-recorded per that report."
   },
   {
     "id": "tv-2024-01-06-golden-disc-awards-38",
@@ -2703,7 +2703,7 @@
       "special"
     ],
     "verified": false,
-    "note": "Event date; KBS broadcast date not confirmed."
+    "editor_note": "Event date; KBS broadcast date not confirmed."
   },
   {
     "id": "tv-2024-05-24-music-bank-how-sweet-comeback-stage",
@@ -3690,7 +3690,7 @@
       "interview"
     ],
     "verified": true,
-    "note": "Exact October air date not legible in the source."
+    "editor_note": "Exact October air date not legible in the source."
   },
   {
     "id": "tv-2024-11-01-wowow-music-video-collection",
@@ -3932,7 +3932,7 @@
       "year-end"
     ],
     "verified": false,
-    "note": "ja.wikipedia gives Dec 16 (Monday, CDTV's regular slot); en.wikipedia lists Dec 12. Dec 16 used."
+    "editor_note": "ja.wikipedia gives Dec 16 (Monday, CDTV's regular slot); en.wikipedia lists Dec 12. Dec 16 used."
   },
   {
     "id": "tv-2024-12-19-music-bank-global-festival-2024-fukuoka",
@@ -3964,7 +3964,7 @@
       "japan"
     ],
     "verified": true,
-    "note": "Broadcast date; the live event was Dec 14, 2024 at Fukuoka Dome."
+    "editor_note": "Broadcast date; the live event was Dec 14, 2024 at Fukuoka Dome."
   },
   {
     "id": "tv-2024-12-25-cbs-radio-news-show-christmas",
@@ -3994,7 +3994,7 @@
       "radio"
     ],
     "verified": true,
-    "note": "Appearance during the contract dispute, after the Nov 28, 2024 termination notice; members avoided using the NewJeans name on air."
+    "editor_note": "Appearance during the contract dispute, after the Nov 28, 2024 termination notice; members avoided using the NewJeans name on air."
   },
   {
     "id": "tv-2024-12-25-sbs-gayo-daejeon-2024",
@@ -4146,7 +4146,7 @@
       "japan"
     ],
     "verified": false,
-    "note": "Still under the NewJeans name; the NJZ rebrand was announced Feb 7, 2025."
+    "editor_note": "Still under the NewJeans name; the NJZ rebrand was announced Feb 7, 2025."
   },
   {
     "id": "tv-2025-01-29-mbc-gayo-daejejeon-2024",
@@ -4177,7 +4177,7 @@
       "year-end"
     ],
     "verified": false,
-    "note": "Originally scheduled Dec 31, 2024; delayed due to the Jeju Air Flight 2216 accident."
+    "editor_note": "Originally scheduled Dec 31, 2024; delayed due to the Jeju Air Flight 2216 accident."
   },
   {
     "id": "tv-2025-02-07-cnn-interview-njz",
@@ -4210,6 +4210,6 @@
       "njz"
     ],
     "verified": false,
-    "note": "Published by CNN Style Feb 6–7, 2025 (US/KST); exact CNN URL not captured. Independent activity during the dispute, before the Mar 21, 2025 injunction."
+    "editor_note": "Published by CNN Style Feb 6–7, 2025 (US/KST); exact CNN URL not captured. Independent activity during the dispute, before the Mar 21, 2025 injunction."
   }
 ]

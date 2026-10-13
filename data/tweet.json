@@ -29,7 +29,7 @@
       "teaser"
     ],
     "verified": false,
-    "note": "Status URL not retrieved; date from Wikipedia. Posted across ADOR/NewJeans official SNS."
+    "editor_note": "Status URL not retrieved; date from Wikipedia. Posted across ADOR/NewJeans official SNS."
   },
   {
     "id": "tweet-2022-07-22-debut-day-post",
@@ -62,7 +62,7 @@
       "attention"
     ],
     "verified": false,
-    "note": "Embedded in Bandwagon's debut article; oEmbed lookup failed (post may have been deleted), so content is inferred from the article. Date derived from the snowflake ID (2022-07-22 00:00 KST)."
+    "editor_note": "Embedded in Bandwagon's debut article; oEmbed lookup failed (post may have been deleted), so content is inferred from the article. Date derived from the snowflake ID (2022-07-22 00:00 KST)."
   },
   {
     "id": "tweet-2022-07-24-attention-post",
@@ -95,7 +95,7 @@
       "attention"
     ],
     "verified": true,
-    "note": "Post text: A T T E N T I on!🖤#NewJeans #NewJeans_ATTENTIon pic.twitter.com/fLbx8NMVuJ | Posted 2022-07-24 14:53 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: A T T E N T I on!🖤#NewJeans #NewJeans_ATTENTIon pic.twitter.com/fLbx8NMVuJ | Posted 2022-07-24 14:53 KST (from X oEmbed; time derived from snowflake ID)."
   },
   {
     "id": "tweet-2022-07-25-1st-ep-bag-preorder",
@@ -128,7 +128,7 @@
       "pre-order"
     ],
     "verified": true,
-    "note": "Post text: NewJeans 1st EP ‘New Jeans’ (Bag)🛍️[한정반]💗limited Album예약 판매가 시작되었습니다!❤️#NewJeans_Album #NewJeans_Bag  #한정반#limited_Album pic.twitter.com/dtvDpIzsR7 | Posted 2022-07-25 11:03 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: NewJeans 1st EP ‘New Jeans’ (Bag)🛍️[한정반]💗limited Album예약 판매가 시작되었습니다!❤️#NewJeans_Album #NewJeans_Bag  #한정반#limited_Album pic.twitter.com/dtvDpIzsR7 | Posted 2022-07-25 11:03 KST (from X oEmbed; time derived from snowflake ID)."
   },
   {
     "id": "tweet-2022-07-25-1st-ep-bluebook-preorder",
@@ -161,7 +161,7 @@
       "pre-order"
     ],
     "verified": true,
-    "note": "Post text: NewJeans 1st EP ‘New Jeans’ (Bluebook)📘#NewJeans_Album #NewJeans_Bluebook예약 판매가 시작되었습니다!❤️ pic.twitter.com/RUWFJbugwq | Posted 2022-07-25 11:02 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: NewJeans 1st EP ‘New Jeans’ (Bluebook)📘#NewJeans_Album #NewJeans_Bluebook예약 판매가 시작되었습니다!❤️ pic.twitter.com/RUWFJbugwq | Posted 2022-07-25 11:02 KST (from X oEmbed; time derived from snowflake ID)."
   },
   {
     "id": "tweet-2022-07-25-1st-ep-weverse-albums-preorder",
@@ -194,7 +194,7 @@
       "pre-order"
     ],
     "verified": true,
-    "note": "Post text: NewJeans 1st EP ‘New Jeans’ (Weverse Albums ver.)🎁#NewJeans_Albums #NewJeans_Weverse_Albums예약 판매가 시작되었습니다!https://t.co/Tt2RwVzLX0 pic.twitter.com/d2wlNMqel1 | Posted 2022-07-25 11:01 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: NewJeans 1st EP ‘New Jeans’ (Weverse Albums ver.)🎁#NewJeans_Albums #NewJeans_Weverse_Albums예약 판매가 시작되었습니다!https://t.co/Tt2RwVzLX0 pic.twitter.com/d2wlNMqel1 | Posted 2022-07-25 11:01 KST (from X oEmbed; time derived from snowflake ID)."
   },
   {
     "id": "tweet-2022-07-25-phoning-app-launch",
@@ -227,7 +227,7 @@
       "app"
     ],
     "verified": true,
-    "note": "Post text: Hello, Phoning!📱NOW on the App Store! (iOS, Android)#NewJeans_Phoning#Phoning #NewJeans pic.twitter.com/pFEusJGKNu | Posted 2022-07-25 00:05 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: Hello, Phoning!📱NOW on the App Store! (iOS, Android)#NewJeans_Phoning#Phoning #NewJeans pic.twitter.com/pFEusJGKNu | Posted 2022-07-25 00:05 KST (from X oEmbed; time derived from snowflake ID)."
   },
   {
     "id": "tweet-2022-11-22-2023-seasons-greetings-notice",
@@ -260,7 +260,7 @@
       "goods"
     ],
     "verified": true,
-    "note": "Post text: [안내📢]NewJeans 2023 SEASON’S GREETINGS 출시 안내 (+ENG/JPN)🔗https://t.co/vmkX9tYvDv #NewJeans #뉴진스 #SeasonsGreetings #시즌그리팅 #Room722 pic.twitter.com/2lyLNIyMcc | Posted 2022-11-22 12:00 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: [안내📢]NewJeans 2023 SEASON’S GREETINGS 출시 안내 (+ENG/JPN)🔗https://t.co/vmkX9tYvDv #NewJeans #뉴진스 #SeasonsGreetings #시즌그리팅 #Room722 pic.twitter.com/2lyLNIyMcc | Posted 2022-11-22 12:00 KST (from X oEmbed; time derived from snowflake ID)."
   },
   {
     "id": "tweet-2022-12-12-ditto-teaser",
@@ -293,7 +293,7 @@
       "teaser"
     ],
     "verified": true,
-    "note": "Post text: NewJeans 'Ditto' ☃️2022.12.19. 6PM (KST)#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto#NewJeans_of_Winter pic.twitter.com/tSaferSl8P | Posted 2022-12-12 11:00 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: NewJeans 'Ditto' ☃️2022.12.19. 6PM (KST)#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto#NewJeans_of_Winter pic.twitter.com/tSaferSl8P | Posted 2022-12-12 11:00 KST (from X oEmbed; time derived from snowflake ID)."
   },
   {
     "id": "tweet-2022-12-12-omg-comeback-announcement",
@@ -327,7 +327,7 @@
       "comeback"
     ],
     "verified": true,
-    "note": "Post text: NewJeans of Winter 🌨NewJeans \"OMG\"🎵Ditto: 2022.12.19. 6PM (KST)🎵OMG: 2023.1.2. 6PM (KST)#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto#NewJeans_of_Winter pic.twitter.com/myefKvcYKG | Posted 2022-12-12 00:00 KST (from X oEmbed; time derived from snowflake ID). Sibling posts: status/1601955058916085760 and status/1601955112070455299."
+    "editor_note": "Post text: NewJeans of Winter 🌨NewJeans \"OMG\"🎵Ditto: 2022.12.19. 6PM (KST)🎵OMG: 2023.1.2. 6PM (KST)#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto#NewJeans_of_Winter pic.twitter.com/myefKvcYKG | Posted 2022-12-12 00:00 KST (from X oEmbed; time derived from snowflake ID). Sibling posts: status/1601955058916085760 and status/1601955112070455299."
   },
   {
     "id": "tweet-2022-12-12-omg-preorder-start",
@@ -360,7 +360,7 @@
       "pre-order"
     ],
     "verified": true,
-    "note": "Post text: Message Card from NewJeans 💌NewJeans \"OMG\"예약 판매가 시작되었습니다👀✔️\"OMG\" Release: 2023.1.2.✔️Packshot Release: 2022.12.20.#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto#NewJeans_of_Winter pic.twitter.com/0abGKSM6Lx | Posted 2022-12-12 11:00 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: Message Card from NewJeans 💌NewJeans \"OMG\"예약 판매가 시작되었습니다👀✔️\"OMG\" Release: 2023.1.2.✔️Packshot Release: 2022.12.20.#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto#NewJeans_of_Winter pic.twitter.com/0abGKSM6Lx | Posted 2022-12-12 11:00 KST (from X oEmbed; time derived from snowflake ID)."
   },
   {
     "id": "tweet-2022-12-15-omg-promotion-calendar",
@@ -393,7 +393,7 @@
       "schedule"
     ],
     "verified": true,
-    "note": "Post text: NewJeans \"OMG\"Promotion Calendar 🌲#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto#NewJeans_of_Winter pic.twitter.com/9Hr4rLZ9jL | Posted 2022-12-15 00:00 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: NewJeans \"OMG\"Promotion Calendar 🌲#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto#NewJeans_of_Winter pic.twitter.com/9Hr4rLZ9jL | Posted 2022-12-15 00:00 KST (from X oEmbed; time derived from snowflake ID)."
   },
   {
     "id": "tweet-2023-04-03-zero-release",
@@ -426,7 +426,7 @@
       "coca-cola"
     ],
     "verified": true,
-    "note": "Post text: [Music🎵]NewJeans 'Zero'Available Now 🐰🔗https://t.co/LlMGOgBJTu#NewJeans #뉴진스 #NewJeans_Zero | Posted 2023-04-03 18:15 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: [Music🎵]NewJeans 'Zero'Available Now 🐰🔗https://t.co/LlMGOgBJTu#NewJeans #뉴진스 #NewJeans_Zero | Posted 2023-04-03 18:15 KST (from X oEmbed; time derived from snowflake ID)."
   },
   {
     "id": "tweet-2023-05-12-bunnies-camp-announcement",
@@ -459,7 +459,7 @@
       "fan-meeting"
     ],
     "verified": true,
-    "note": "Post text: [안내📢]NewJeans 1st Fan Meeting 'Bunnies Camp' 개최 안내 (+ENG/JPN/CHN)🔗https://t.co/dwtdEo01dt#NewJeans #뉴진스 #Bunnies_Camp #버니즈캠프 pic.twitter.com/U2B4ykSNht | Posted 2023-05-12 11:00 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: [안내📢]NewJeans 1st Fan Meeting 'Bunnies Camp' 개최 안내 (+ENG/JPN/CHN)🔗https://t.co/dwtdEo01dt#NewJeans #뉴진스 #Bunnies_Camp #버니즈캠프 pic.twitter.com/U2B4ykSNht | Posted 2023-05-12 11:00 KST (from X oEmbed; time derived from snowflake ID)."
   },
   {
     "id": "tweet-2023-05-31-be-who-you-are-release",
@@ -493,7 +493,7 @@
       "ad"
     ],
     "verified": true,
-    "note": "Post text: [Music🎵]'Be Who You Are' with @JonBatiste, @catburns, @JIDsv, and @CamiloMusica Out 31 May#광고 #CokeStudio #RealMagic #CokePartner @CocaCola pic.twitter.com/ggweyTBTK5 | Posted 2023-05-31 00:05 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: [Music🎵]'Be Who You Are' with @JonBatiste, @catburns, @JIDsv, and @CamiloMusica Out 31 May#광고 #CokeStudio #RealMagic #CokePartner @CocaCola pic.twitter.com/ggweyTBTK5 | Posted 2023-05-31 00:05 KST (from X oEmbed; time derived from snowflake ID)."
   },
   {
     "id": "tweet-2023-06-19-get-up-coming-soon",
@@ -526,7 +526,7 @@
       "comeback"
     ],
     "verified": true,
-    "note": "Post text: Coming Soon!NewJeans 2nd EP 'Get Up'🗓 2023.7.7. Pre-Release🗓 2023.7.21. 2nd EP 'Get Up' Release ✅ Pre-Order2023.6.19. 11AM KST#Time_to_NewJeans#NewJeans #뉴진스 #NewJeans_2nd_EP pic.twitter.com/x2lIt5ihKV | Posted 2023-06-19 10:55 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: Coming Soon!NewJeans 2nd EP 'Get Up'🗓 2023.7.7. Pre-Release🗓 2023.7.21. 2nd EP 'Get Up' Release ✅ Pre-Order2023.6.19. 11AM KST#Time_to_NewJeans#NewJeans #뉴진스 #NewJeans_2nd_EP pic.twitter.com/x2lIt5ihKV | Posted 2023-06-19 10:55 KST (from X oEmbed; time derived from snowflake ID)."
   },
   {
     "id": "tweet-2023-11-04-gods-worlds-2023",
@@ -559,7 +559,7 @@
       "league-of-legends"
     ],
     "verified": true,
-    "note": "Post text: We're so excited to show you our world debut performance of \"GODS\" at the #Worlds2023 Opening Ceremony with @leagueoflegends @riotgamesmusic 📆 November 19 | 12:00AM PST / 17:00 KST |🔗 https://t.co/EdxZgnObYk#NewJeans #뉴진스 #NewJeans_GODS pic.twitter.com/86OQGniteu | Posted 2023-11-04 00:00 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: We're so excited to show you our world debut performance of \"GODS\" at the #Worlds2023 Opening Ceremony with @leagueoflegends @riotgamesmusic 📆 November 19 | 12:00AM PST / 17:00 KST |🔗 https://t.co/EdxZgnObYk#NewJeans #뉴진스 #NewJeans_GODS pic.twitter.com/86OQGniteu | Posted 2023-11-04 00:00 KST (from X oEmbed; time derived from snowflake ID)."
   },
   {
     "id": "tweet-2023-11-29-mama-2023-daesang-thanks",
@@ -591,7 +591,7 @@
       "mama"
     ],
     "verified": false,
-    "note": "Status URL not retrieved; existence of the post reported by iNews (Indonesia). Date is the ceremony date (2023-11-29 KST)."
+    "editor_note": "Status URL not retrieved; existence of the post reported by iNews (Indonesia). Date is the ceremony date (2023-11-29 KST)."
   },
   {
     "id": "tweet-2023-12-14-rockin-eve-announcement",
@@ -624,7 +624,7 @@
       "rockin-eve"
     ],
     "verified": true,
-    "note": "Post text: We’re so excited to join the global New Year’s @RockinEve celebration to perform “Super Shy” and “ETA” from South Korea!Tune in December 31 at 8/7c on @ABCNetwork!🎵📆 Dec 31 8PM ET / JAN 1 10AM KST 🔗 https://t.co/xJzBFpETvT📍 @ABCNetwork#NewJeans #뉴진스 #RockinEve… pic.twitter.com/D8YQ8ajxBi | Posted 2023-12-14 08:00 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: We’re so excited to join the global New Year’s @RockinEve celebration to perform “Super Shy” and “ETA” from South Korea!Tune in December 31 at 8/7c on @ABCNetwork!🎵📆 Dec 31 8PM ET / JAN 1 10AM KST 🔗 https://t.co/xJzBFpETvT📍 @ABCNetwork#NewJeans #뉴진스 #RockinEve… pic.twitter.com/D8YQ8ajxBi | Posted 2023-12-14 08:00 KST (from X oEmbed; time derived from snowflake ID)."
   },
   {
     "id": "tweet-2024-03-27-bunnies-camp-2024-tokyo-dome-announcement",
@@ -658,7 +658,7 @@
       "japan"
     ],
     "verified": true,
-    "note": "Post text: NewJeans Fan Meeting 'Bunnies Camp 2024 Tokyo Dome' 🗓️ 2024.6.26-27 📍Tokyo Dome#NewJeans #뉴진스 #BunniesCamp #BunniesCamp2024TokyoDome #NewJeans_is_Everywhere pic.twitter.com/8ScKkpVG3R | Posted 2024-03-27 09:00 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: NewJeans Fan Meeting 'Bunnies Camp 2024 Tokyo Dome' 🗓️ 2024.6.26-27 📍Tokyo Dome#NewJeans #뉴진스 #BunniesCamp #BunniesCamp2024TokyoDome #NewJeans_is_Everywhere pic.twitter.com/8ScKkpVG3R | Posted 2024-03-27 09:00 KST (from X oEmbed; time derived from snowflake ID)."
   },
   {
     "id": "tweet-2024-03-28-hanni-gucci-beauty-ambassador",
@@ -692,7 +692,7 @@
       "ad"
     ],
     "verified": true,
-    "note": "Post text: Gucci Beauty’s Newest Global Brand Ambassador 🤍 HANNI#광고 @gucci #GucciBeauty#NewJeans #뉴진스 #HANNI #하니 pic.twitter.com/zRqPUiNPsT | Posted 2024-03-28 15:08 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: Gucci Beauty’s Newest Global Brand Ambassador 🤍 HANNI#광고 @gucci #GucciBeauty#NewJeans #뉴진스 #HANNI #하니 pic.twitter.com/zRqPUiNPsT | Posted 2024-03-28 15:08 KST (from X oEmbed; time derived from snowflake ID)."
   },
   {
     "id": "tweet-2024-04-25-ador-legal-action-notice",
@@ -725,7 +725,7 @@
       "legal"
     ],
     "verified": true,
-    "note": "Post text: [안내📢]뉴진스 권익 침해 관련 법적 대응 안내  🔗https://t.co/ETQBk42G0p#NewJeans #뉴진스 | Posted 2024-04-25 18:00 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: [안내📢]뉴진스 권익 침해 관련 법적 대응 안내  🔗https://t.co/ETQBk42G0p#NewJeans #뉴진스 | Posted 2024-04-25 18:00 KST (from X oEmbed; time derived from snowflake ID)."
   },
   {
     "id": "tweet-2024-09-24-calvin-klein-global-ambassador",
@@ -759,7 +759,7 @@
       "ad"
     ],
     "verified": true,
-    "note": "Post text: Calvin Klein's Newest Global Ambassador 🩵#광고 @CalvinKlein#NewJeans #뉴진스 pic.twitter.com/3zv7IMvR2w | Posted 2024-09-24 22:30 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: Calvin Klein's Newest Global Ambassador 🩵#광고 @CalvinKlein#NewJeans #뉴진스 pic.twitter.com/3zv7IMvR2w | Posted 2024-09-24 22:30 KST (from X oEmbed; time derived from snowflake ID)."
   },
   {
     "id": "tweet-2025-02-01-njz-official-x-account-opened",
@@ -791,7 +791,7 @@
       "account"
     ],
     "verified": false,
-    "note": "Exact opening date not confirmed (month precision). Rebrand to NJZ announced on Instagram 2025-02-07. After the 2025-03-21 injunction the account later went dormant/renamed."
+    "editor_note": "Exact opening date not confirmed (month precision). Rebrand to NJZ announced on Instagram 2025-02-07. After the 2025-03-21 injunction the account later went dormant/renamed."
   },
   {
     "id": "tweet-2025-03-22-njz-complexcon-d-1-teaser",
@@ -824,7 +824,7 @@
       "teaser"
     ],
     "verified": false,
-    "note": "Status URL not retrieved (Sportskeeda credits @NJZ_official on X). Posted one day after the Seoul court injunction against independent activities."
+    "editor_note": "Status URL not retrieved (Sportskeeda credits @NJZ_official on X). Posted one day after the Seoul court injunction against independent activities."
   },
   {
     "id": "tweet-2026-05-07-happy-minji-day",
@@ -856,6 +856,6 @@
       "birthday"
     ],
     "verified": true,
-    "note": "Post text: HAPPY MINJI DAY 🍪#HAPPY_MINJI_DAY#NewJeans #MINJI#뉴진스 #민지 pic.twitter.com/GIWu4eCYGW | Posted 2026-05-07 00:00 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: HAPPY MINJI DAY 🍪#HAPPY_MINJI_DAY#NewJeans #MINJI#뉴진스 #민지 pic.twitter.com/GIWu4eCYGW | Posted 2026-05-07 00:00 KST (from X oEmbed; time derived from snowflake ID)."
   }
 ]

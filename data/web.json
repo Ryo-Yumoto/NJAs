@@ -28,7 +28,7 @@
       "interview"
     ],
     "verified": false,
-    "note": "rollingstone.comはアクセス制限で本文未取得。日付は検索結果（Rolling Stone India転載）による。"
+    "editor_note": "rollingstone.comはアクセス制限で本文未取得。日付は検索結果（Rolling Stone India転載）による。"
   },
   {
     "id": "web-2023-01-04-consequence-fan-chant-omg",
@@ -147,7 +147,7 @@
       "feature"
     ],
     "verified": false,
-    "note": "TIMEの個別記事URL未確認（コレクションページには表示されず）。発表日5月23日は二次報道による。"
+    "editor_note": "TIMEの個別記事URL未確認（コレクションページには表示されず）。発表日5月23日は二次報道による。"
   },
   {
     "id": "web-2023-06-26-rolling-stone-future-25",
@@ -179,7 +179,7 @@
       "feature"
     ],
     "verified": false,
-    "note": "rollingstone.comは本文未取得。公開日6月26日(現地)はSoompi(2023-06-27)/THE FIRST TIMESによる。"
+    "editor_note": "rollingstone.comは本文未取得。公開日6月26日(現地)はSoompi(2023-06-27)/THE FIRST TIMESによる。"
   },
   {
     "id": "web-2023-07-21-first-anniversary-self-interview",
@@ -209,7 +209,7 @@
       "ador"
     ],
     "verified": false,
-    "note": "公開媒体（ADOR公式/Weverse等）のURL未確認。中央日報記事(2023-07-21)による。"
+    "editor_note": "公開媒体（ADOR公式/Weverse等）のURL未確認。中央日報記事(2023-07-21)による。"
   },
   {
     "id": "web-2023-07-24-dazed-get-up-interview",
@@ -354,7 +354,7 @@
       "cover"
     ],
     "verified": false,
-    "note": "billboard.com記事URL未確認（サイトがアクセス制限）。"
+    "editor_note": "billboard.com記事URL未確認（サイトがアクセス制限）。"
   },
   {
     "id": "web-2024-07-22-second-anniversary-qa",
@@ -388,7 +388,7 @@
       "ador"
     ],
     "verified": false,
-    "note": "ADOR公式掲載URL未確認。テンアジア(2024-07-22)、marie claire(2024-07-25)、Korea Times(2024-07-23)が同内容を掲載。"
+    "editor_note": "ADOR公式掲載URL未確認。テンアジア(2024-07-22)、marie claire(2024-07-25)、Korea Times(2024-07-23)が同内容を掲載。"
   },
   {
     "id": "web-2024-07-23-korea-times-2nd-anniversary-interview",
@@ -478,7 +478,7 @@
       "njz"
     ],
     "verified": true,
-    "note": "cnn.co.jpの抄訳記事(2025-02-07 JST)。CNN英語版の記事URLは未確認（取得不可）。"
+    "editor_note": "cnn.co.jpの抄訳記事(2025-02-07 JST)。CNN英語版の記事URLは未確認（取得不可）。"
   },
   {
     "id": "web-2025-02-18-vogue-france-njz-feature",
@@ -508,7 +508,7 @@
       "uncertain"
     ],
     "verified": false,
-    "note": "Sportskeedaの検索要約のみ。vogue.frの記事URLと内容（表紙/ウェブ特集か）は未確認。要検証。"
+    "editor_note": "Sportskeedaの検索要約のみ。vogue.frの記事URLと内容（表紙/ウェブ特集か）は未確認。要検証。"
   },
   {
     "id": "web-2025-03-26-bbc-korea-interview-ador-dispute",
@@ -538,7 +538,7 @@
       "njz"
     ],
     "verified": false,
-    "note": "BBC記事URL未確認。NME(2025-03-27)の報道による。仮処分決定後の公開のため活動名義の扱いに注意。"
+    "editor_note": "BBC記事URL未確認。NME(2025-03-27)の報道による。仮処分決定後の公開のため活動名義の扱いに注意。"
   },
   {
     "id": "web-2026-09-02-harpers-bazaar-korea-hyein-15-questions",

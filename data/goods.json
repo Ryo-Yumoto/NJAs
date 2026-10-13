@@ -127,7 +127,7 @@
       "seoul"
     ],
     "verified": false,
-    "note": "Dates from Korean news (Economist Korea 2022-08-11); no official notice fetched."
+    "editor_note": "Dates from Korean news (Economist Korea 2022-08-11); no official notice fetched."
   },
   {
     "id": "goods-2022-09-02-new-jeans-1st-ep-official-merch",
@@ -191,7 +191,7 @@
       "weverse-shop"
     ],
     "verified": true,
-    "note": "Exact pre-order start date not confirmed (the 11-22 X post links the Weverse notice); Weverse Shop notice 3180 confirms 2nd/3rd pre-order rounds shipping 2022-12-22 and 2023-01-13."
+    "editor_note": "Exact pre-order start date not confirmed (the 11-22 X post links the Weverse notice); Weverse Shop notice 3180 confirms 2nd/3rd pre-order rounds shipping 2022-12-22 and 2023-01-13."
   },
   {
     "id": "goods-2022-12-12-omg-message-card-ver",
@@ -318,7 +318,7 @@
       "omg"
     ],
     "verified": true,
-    "note": "Notice is from the US store and lists PST; KST date used."
+    "editor_note": "Notice is from the US store and lists PST; KST date used."
   },
   {
     "id": "goods-2022-12-23-omg-nu-jeans-popup-nudake",
@@ -350,7 +350,7 @@
       "omg"
     ],
     "verified": false,
-    "note": "Dates from Korea JoongAng Daily (2022-12-16)."
+    "editor_note": "Dates from Korea JoongAng Daily (2022-12-16)."
   },
   {
     "id": "goods-2023-03-30-bunnies-global-official-fanclub-membership",
@@ -380,7 +380,7 @@
       "bunnies"
     ],
     "verified": true,
-    "note": "Membership kit contents/date not confirmed from an official page."
+    "editor_note": "Membership kit contents/date not confirmed from an official page."
   },
   {
     "id": "goods-2023-03-30-official-light-stick-binky-bong",
@@ -471,7 +471,7 @@
       "seasons-greetings"
     ],
     "verified": false,
-    "note": "Secondary source (Wikitree 2023-03-25)."
+    "editor_note": "Secondary source (Wikitree 2023-03-25)."
   },
   {
     "id": "goods-2023-06-16-bunnies-camp-2023-official-merch",
@@ -628,7 +628,7 @@
       "bunini"
     ],
     "verified": false,
-    "note": "Dates from SNKRDUNK Magazine's running update; LINE FRIENDS official notice not fetched."
+    "editor_note": "Dates from SNKRDUNK Magazine's running update; LINE FRIENDS official notice not fetched."
   },
   {
     "id": "goods-2023-08-11-line-friends-newjeans-popup-gangnam-hongdae",
@@ -661,7 +661,7 @@
       "seoul"
     ],
     "verified": false,
-    "note": "Secondary sources only."
+    "editor_note": "Secondary sources only."
   },
   {
     "id": "goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop",
@@ -692,7 +692,7 @@
       "collab"
     ],
     "verified": false,
-    "note": "Secondary source; PDT date."
+    "editor_note": "Secondary source; PDT date."
   },
   {
     "id": "goods-2023-09-23-play-line-friends-newjeans-popup-manila",
@@ -725,7 +725,7 @@
       "overseas"
     ],
     "verified": false,
-    "note": "Secondary sources only."
+    "editor_note": "Secondary sources only."
   },
   {
     "id": "goods-2023-10-17-weverse-by-fans-newjeans-custom-merch",
@@ -755,7 +755,7 @@
       "official-md"
     ],
     "verified": false,
-    "note": "Secondary source (Bandwagon 2023-10-17)."
+    "editor_note": "Secondary source (Bandwagon 2023-10-17)."
   },
   {
     "id": "goods-2023-11-23-line-friends-hang-out-with-newjeans-collection",
@@ -785,7 +785,7 @@
       "collab"
     ],
     "verified": false,
-    "note": "Secondary source; PST date."
+    "editor_note": "Secondary source; PST date."
   },
   {
     "id": "goods-2023-11-29-2024-seasons-greetings",
@@ -819,7 +819,7 @@
       "weverse-shop"
     ],
     "verified": true,
-    "note": "Additional pre-order rounds opened 2023-12-08, 12-15 and 12-29."
+    "editor_note": "Additional pre-order rounds opened 2023-12-08, 12-15 and 12-29."
   },
   {
     "id": "goods-2024-04-26-how-sweet-standard-ver",
@@ -1005,7 +1005,7 @@
       "how-sweet"
     ],
     "verified": false,
-    "note": "Secondary source (Korea JoongAng Daily 2024-05-31)."
+    "editor_note": "Secondary source (Korea JoongAng Daily 2024-05-31)."
   },
   {
     "id": "goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki",
@@ -1068,7 +1068,7 @@
       "how-sweet"
     ],
     "verified": true,
-    "note": "US-store notice lists PDT; KST date used."
+    "editor_note": "US-store notice lists PDT; KST date used."
   },
   {
     "id": "goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite",
@@ -1139,7 +1139,7 @@
       "supernatural"
     ],
     "verified": false,
-    "note": "Secondary sources (Marie Claire Korea, SNKRDUNK)."
+    "editor_note": "Secondary sources (Marie Claire Korea, SNKRDUNK)."
   },
   {
     "id": "goods-2024-06-26-supernatural-popup-line-friends-square-shibuya",
@@ -1177,7 +1177,7 @@
       "japan"
     ],
     "verified": false,
-    "note": "Secondary sources (Fashionsnap, Time Out Tokyo)."
+    "editor_note": "Secondary sources (Fashionsnap, Time Out Tokyo)."
   },
   {
     "id": "goods-2024-06-28-bunnies-camp-2024-tokyo-dome-official-merch-weverse-shop",
@@ -1240,7 +1240,7 @@
       "collab"
     ],
     "verified": false,
-    "note": "Secondary source (SNKRDUNK)."
+    "editor_note": "Secondary source (SNKRDUNK)."
   },
   {
     "id": "goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural",
@@ -1307,7 +1307,7 @@
       "weverse-shop"
     ],
     "verified": true,
-    "note": "Weverse Shop Japan release 2024-12-24; Weverse Shop US 2025-01-15."
+    "editor_note": "Weverse Shop Japan release 2024-12-24; Weverse Shop US 2025-01-15."
   },
   {
     "id": "goods-2025-01-06-funko-pop-newjeans-figures-teased",
@@ -1338,7 +1338,7 @@
       "collab"
     ],
     "verified": false,
-    "note": "Teaser source is a Funko-affiliated news account, not ADOR; whether the product was released under the dispute is unconfirmed."
+    "editor_note": "Teaser source is a Funko-affiliated news account, not ADOR; whether the product was released under the dispute is unconfirmed."
   },
   {
     "id": "goods-2025-03-21-njz-complexcon-hong-kong-merch",
@@ -1371,6 +1371,6 @@
       "event-md"
     ],
     "verified": false,
-    "note": "Secondary sources; the Seoul court granted ADOR's injunction on 2025-03-21, and the 03-23 performance proceeded under dispute."
+    "editor_note": "Secondary sources; the Seoul court granted ADOR's injunction on 2025-03-21, and the 03-23 performance proceeded under dispute."
   }
 ]

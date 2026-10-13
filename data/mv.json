@@ -64,7 +64,7 @@
       "hybe-labels-channel"
     ],
     "verified": true,
-    "note": "YouTube shows Jul 21, 2022 (PT) = Jul 22 KST; Wikipedia says the choreography video was released the same day as the MV."
+    "editor_note": "YouTube shows Jul 21, 2022 (PT) = Jul 22 KST; Wikipedia says the choreography video was released the same day as the MV."
   },
   {
     "id": "mv-2022-07-23-hype-boy-danielle-haerin-ver",
@@ -330,7 +330,7 @@
       "newjeans-channel"
     ],
     "verified": true,
-    "note": "YouTube shows Aug 12, 2022 (PT) = Aug 13 KST; J-CAST and TheTVDB give Aug 13."
+    "editor_note": "YouTube shows Aug 12, 2022 (PT) = Aug 13 KST; J-CAST and TheTVDB give Aug 13."
   },
   {
     "id": "mv-2022-08-17-hurt-special-video",
@@ -363,7 +363,7 @@
       "newjeans-channel"
     ],
     "verified": true,
-    "note": "YouTube shows Aug 17, 2022 (PT); TheTVDB also Aug 17."
+    "editor_note": "YouTube shows Aug 17, 2022 (PT); TheTVDB also Aug 17."
   },
   {
     "id": "mv-2022-08-18-attention-dance-practice",
@@ -495,7 +495,7 @@
       "hybe-labels-channel"
     ],
     "verified": true,
-    "note": "YouTube shows Aug 18, 2022 (PT); ja.wikipedia 2022-08-18."
+    "editor_note": "YouTube shows Aug 18, 2022 (PT); ja.wikipedia 2022-08-18."
   },
   {
     "id": "mv-2022-08-24-hype-boy-official-mv-performance-ver-2",
@@ -856,7 +856,7 @@
       "newjeans-channel"
     ],
     "verified": true,
-    "note": "YouTube/Wikipedia show Dec 28, 2022 (US time); KST may be Dec 28 or 29."
+    "editor_note": "YouTube/Wikipedia show Dec 28, 2022 (US time); KST may be Dec 28 or 29."
   },
   {
     "id": "mv-2022-12-30-ditto-performance-video",
@@ -922,7 +922,7 @@
       "newjeans-channel"
     ],
     "verified": true,
-    "note": "YouTube shows Dec 31, 2022 (PT); TheTVDB lists six Dec 31 uploads, consistent with Dec 31 KST."
+    "editor_note": "YouTube shows Dec 31, 2022 (PT); TheTVDB lists six Dec 31 uploads, consistent with Dec 31 KST."
   },
   {
     "id": "mv-2022-12-31-ditto-performance-fix-ver",
@@ -955,7 +955,7 @@
       "newjeans-channel"
     ],
     "verified": true,
-    "note": "YouTube shows Dec 31, 2022 (PT); TheTVDB lists six Dec 31 uploads, consistent with Dec 31 KST."
+    "editor_note": "YouTube shows Dec 31, 2022 (PT); TheTVDB lists six Dec 31 uploads, consistent with Dec 31 KST."
   },
   {
     "id": "mv-2022-12-31-ditto-performance-haerin-ver",
@@ -988,7 +988,7 @@
       "newjeans-channel"
     ],
     "verified": true,
-    "note": "YouTube shows Dec 31, 2022 (PT); TheTVDB lists six Dec 31 uploads, consistent with Dec 31 KST."
+    "editor_note": "YouTube shows Dec 31, 2022 (PT); TheTVDB lists six Dec 31 uploads, consistent with Dec 31 KST."
   },
   {
     "id": "mv-2022-12-31-ditto-performance-hanni-ver",
@@ -1021,7 +1021,7 @@
       "newjeans-channel"
     ],
     "verified": true,
-    "note": "YouTube shows Dec 31, 2022 (PT); TheTVDB lists six Dec 31 uploads, consistent with Dec 31 KST."
+    "editor_note": "YouTube shows Dec 31, 2022 (PT); TheTVDB lists six Dec 31 uploads, consistent with Dec 31 KST."
   },
   {
     "id": "mv-2022-12-31-ditto-performance-hyein-ver",
@@ -1054,7 +1054,7 @@
       "newjeans-channel"
     ],
     "verified": true,
-    "note": "YouTube shows Dec 31, 2022 (PT); TheTVDB lists six Dec 31 uploads, consistent with Dec 31 KST."
+    "editor_note": "YouTube shows Dec 31, 2022 (PT); TheTVDB lists six Dec 31 uploads, consistent with Dec 31 KST."
   },
   {
     "id": "mv-2022-12-31-ditto-performance-minji-ver",
@@ -1087,7 +1087,7 @@
       "newjeans-channel"
     ],
     "verified": true,
-    "note": "YouTube shows Dec 31, 2022 (PT); TheTVDB lists six Dec 31 uploads, consistent with Dec 31 KST."
+    "editor_note": "YouTube shows Dec 31, 2022 (PT); TheTVDB lists six Dec 31 uploads, consistent with Dec 31 KST."
   },
   {
     "id": "mv-2023-01-01-ditto-dance-practice",
@@ -1219,7 +1219,7 @@
       "hybe-labels-channel"
     ],
     "verified": false,
-    "note": "Date from ja.wikipedia; YouTube date not fetched."
+    "editor_note": "Date from ja.wikipedia; YouTube date not fetched."
   },
   {
     "id": "mv-2023-01-04-omg-official-mv-performance-ver-3",
@@ -1253,7 +1253,7 @@
       "hybe-labels-channel"
     ],
     "verified": false,
-    "note": "ja.wikipedia gives 2023-01-04 (KST); YouTube shows Jan 3, 2023 (PT), consistent with a midnight-KST release."
+    "editor_note": "ja.wikipedia gives 2023-01-04 (KST); YouTube shows Jan 3, 2023 (PT), consistent with a midnight-KST release."
   },
   {
     "id": "mv-2023-01-06-omg-dance-practice",
@@ -1318,7 +1318,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "TheTVDB lists two Jan 6, 2023 uploads (assumed to be the two OMG dance practice versions); YouTube date not fetched."
+    "editor_note": "TheTVDB lists two Jan 6, 2023 uploads (assumed to be the two OMG dance practice versions); YouTube date not fetched."
   },
   {
     "id": "mv-2023-01-08-omg-performance-danielle-ver",
@@ -1351,7 +1351,7 @@
       "newjeans-channel"
     ],
     "verified": true,
-    "note": "YouTube shows Jan 8, 2023 (PT); TheTVDB lists seven Jan 8 uploads."
+    "editor_note": "YouTube shows Jan 8, 2023 (PT); TheTVDB lists seven Jan 8 uploads."
   },
   {
     "id": "mv-2023-01-08-omg-performance-fix-ver",
@@ -1384,7 +1384,7 @@
       "newjeans-channel"
     ],
     "verified": true,
-    "note": "YouTube shows Jan 8, 2023 (PT); TheTVDB lists seven Jan 8 uploads."
+    "editor_note": "YouTube shows Jan 8, 2023 (PT); TheTVDB lists seven Jan 8 uploads."
   },
   {
     "id": "mv-2023-01-08-omg-performance-haerin-ver",
@@ -1417,7 +1417,7 @@
       "newjeans-channel"
     ],
     "verified": true,
-    "note": "YouTube shows Jan 8, 2023 (PT); TheTVDB lists seven Jan 8 uploads."
+    "editor_note": "YouTube shows Jan 8, 2023 (PT); TheTVDB lists seven Jan 8 uploads."
   },
   {
     "id": "mv-2023-01-08-omg-performance-hanni-ver",
@@ -1450,7 +1450,7 @@
       "newjeans-channel"
     ],
     "verified": true,
-    "note": "YouTube shows Jan 8, 2023 (PT); TheTVDB lists seven Jan 8 uploads."
+    "editor_note": "YouTube shows Jan 8, 2023 (PT); TheTVDB lists seven Jan 8 uploads."
   },
   {
     "id": "mv-2023-01-08-omg-performance-hyein-ver",
@@ -1483,7 +1483,7 @@
       "newjeans-channel"
     ],
     "verified": true,
-    "note": "YouTube shows Jan 8, 2023 (PT); TheTVDB lists seven Jan 8 uploads."
+    "editor_note": "YouTube shows Jan 8, 2023 (PT); TheTVDB lists seven Jan 8 uploads."
   },
   {
     "id": "mv-2023-01-08-omg-performance-minji-ver",
@@ -1516,7 +1516,7 @@
       "newjeans-channel"
     ],
     "verified": true,
-    "note": "YouTube shows Jan 8, 2023 (PT); TheTVDB lists seven Jan 8 uploads."
+    "editor_note": "YouTube shows Jan 8, 2023 (PT); TheTVDB lists seven Jan 8 uploads."
   },
   {
     "id": "mv-2023-01-08-the-37th-golden-disc-awards-dance-practice",
@@ -1550,7 +1550,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "YouTube shows Jan 7, 2023 (PT) = Jan 8 KST; TheTVDB lists seven Jan 8 uploads."
+    "editor_note": "YouTube shows Jan 7, 2023 (PT) = Jan 8 KST; TheTVDB lists seven Jan 8 uploads."
   },
   {
     "id": "mv-2023-04-03-zero-official-mv",
@@ -1619,7 +1619,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "YouTube shows Apr 9, 2023 (PT); TheTVDB lists Apr 10 (KST)."
+    "editor_note": "YouTube shows Apr 9, 2023 (PT); TheTVDB lists Apr 10 (KST)."
   },
   {
     "id": "mv-2023-06-29-intro-omg-stage-cam-2023-weverse-con-festival",
@@ -1653,7 +1653,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2023-07-07-new-jeans-official-mv",
@@ -1787,7 +1787,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. TheTVDB lists uploads on both Jul 10 and Jul 11, 2023."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. TheTVDB lists uploads on both Jul 10 and Jul 11, 2023."
   },
   {
     "id": "mv-2023-07-12-new-jeans-dance-practice",
@@ -1886,7 +1886,7 @@
       "hybe-labels-channel"
     ],
     "verified": false,
-    "note": "Date from ja.wikipedia (KST); en.wikipedia gives Jul 19 (US time). YouTube date not fetched."
+    "editor_note": "Date from ja.wikipedia (KST); en.wikipedia gives Jul 19 (US time). YouTube date not fetched."
   },
   {
     "id": "mv-2023-07-20-cool-with-you-official-mv-side-a",
@@ -2021,7 +2021,7 @@
       "newjeans-channel"
     ],
     "verified": true,
-    "note": "YouTube shows Jul 21, 2023 (PT) = Jul 22 KST; TheTVDB lists two Jul 22 uploads."
+    "editor_note": "YouTube shows Jul 21, 2023 (PT) = Jul 22 KST; TheTVDB lists two Jul 22 uploads."
   },
   {
     "id": "mv-2023-07-22-eta-dance-practice-fix-ver",
@@ -2054,7 +2054,7 @@
       "newjeans-channel"
     ],
     "verified": true,
-    "note": "YouTube shows Jul 21, 2023 (PT) = Jul 22 KST; TheTVDB lists two Jul 22 uploads."
+    "editor_note": "YouTube shows Jul 21, 2023 (PT) = Jul 22 KST; TheTVDB lists two Jul 22 uploads."
   },
   {
     "id": "mv-2023-07-25-eta-official-mv-performance-ver",
@@ -2088,7 +2088,7 @@
       "hybe-labels-channel"
     ],
     "verified": true,
-    "note": "YouTube shows Jul 24, 2023 (PT); ja.wikipedia 2023-07-25 (KST)."
+    "editor_note": "YouTube shows Jul 24, 2023 (PT); ja.wikipedia 2023-07-25 (KST)."
   },
   {
     "id": "mv-2023-07-26-asap-official-mv",
@@ -2155,7 +2155,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "YouTube shows Jul 27, 2023 (PT); TheTVDB lists two Jul 27 uploads."
+    "editor_note": "YouTube shows Jul 27, 2023 (PT); TheTVDB lists two Jul 27 uploads."
   },
   {
     "id": "mv-2023-07-27-ditto-stage-cam-2023-fns-music-festival-summer",
@@ -2190,7 +2190,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "YouTube shows Jul 26, 2023 (PT); TheTVDB Jul 27."
+    "editor_note": "YouTube shows Jul 26, 2023 (PT); TheTVDB Jul 27."
   },
   {
     "id": "mv-2023-07-29-asap-dance-practice-fix-ver",
@@ -2223,7 +2223,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Inferred from TheTVDB (Jul 29, 2023 upload); YouTube date not fetched."
+    "editor_note": "Inferred from TheTVDB (Jul 29, 2023 upload); YouTube date not fetched."
   },
   {
     "id": "mv-2023-07-31-omg-stage-cam-ongakunohi-2023",
@@ -2258,7 +2258,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2023-08-01-cool-with-you-dance-practice",
@@ -2357,7 +2357,7 @@
       "newjeans-channel"
     ],
     "verified": true,
-    "note": "YouTube shows Aug 7, 2023 (PT); J-CAST and TheTVDB give Aug 7."
+    "editor_note": "YouTube shows Aug 7, 2023 (PT); J-CAST and TheTVDB give Aug 7."
   },
   {
     "id": "mv-2023-10-04-gods-ft-newjeans-official-music-video-worlds-2023-anthem",
@@ -2391,7 +2391,7 @@
       "riot-games"
     ],
     "verified": true,
-    "note": "Posted on the League of Legends channel, not NewJeans'. Premiered 14:00 KST Oct 4, 2023 (YouTube watch page shows 'Premiered Oct 3, 2023' PT; title confirmed from the YouTube page)."
+    "editor_note": "Posted on the League of Legends channel, not NewJeans'. Premiered 14:00 KST Oct 4, 2023 (YouTube watch page shows 'Premiered Oct 3, 2023' PT; title confirmed from the YouTube page)."
   },
   {
     "id": "mv-2023-10-10-2023-tma-dance-practice",
@@ -2423,7 +2423,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2023-11-02-eta-stage-cam-seoul-national-university",
@@ -2456,7 +2456,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2023-11-02-hype-boy-stage-cam-hongik-university",
@@ -2489,7 +2489,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2023-11-02-omg-stage-cam-sungkyunkwan-university",
@@ -2522,7 +2522,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2023-11-02-super-shy-stage-cam-kyunghee-university",
@@ -2555,7 +2555,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2023-12-14-njwmx-teaser-20231219",
@@ -2589,7 +2589,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Short video in the channel's NJWMX playlist (YouTube shows Dec 14, 2023 PT). Content not reviewed."
+    "editor_note": "Short video in the channel's NJWMX playlist (YouTube shows Dec 14, 2023 PT). Content not reviewed."
   },
   {
     "id": "mv-2023-12-14-njwmx-teaser-7",
@@ -2623,7 +2623,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Short video in the channel's NJWMX playlist, posted ahead of the Dec 19 remix album (YouTube shows Dec 14, 2023 PT). Content not reviewed."
+    "editor_note": "Short video in the channel's NJWMX playlist, posted ahead of the Dec 19 remix album (YouTube shows Dec 14, 2023 PT). Content not reviewed."
   },
   {
     "id": "mv-2023-12-19-2023-billboard-music-awards-super-shy-omg",
@@ -2655,7 +2655,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2023-12-24-2023-mma-dance-practice",
@@ -2687,7 +2687,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2024-01-01-new-year-s-rockin-eve-2024-eta-super-shy",
@@ -2719,7 +2719,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2024-01-06-the-38th-golden-disc-awards-dance-practice",
@@ -2751,7 +2751,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2024-04-27-bubble-gum-official-mv",
@@ -2852,7 +2852,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2024-06-01-eta-stage-cam-chosun-university",
@@ -2885,7 +2885,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "YouTube date not fetched; listed in the 'NewJeans Stage' playlist among the June 2024 university festival stage cams. Month precision only."
+    "editor_note": "YouTube date not fetched; listed in the 'NewJeans Stage' playlist among the June 2024 university festival stage cams. Month precision only."
   },
   {
     "id": "mv-2024-06-17-right-now-official-mv",
@@ -2954,7 +2954,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2024-06-19-how-sweet-stage-cam-dongguk-university",
@@ -2987,7 +2987,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2024-06-19-hype-boy-stage-cam-chung-ang-university",
@@ -3020,7 +3020,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2024-06-20-bubble-gum-stage-cam-dong-eui-university",
@@ -3053,7 +3053,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2024-06-20-how-sweet-stage-cam-korea-university",
@@ -3086,7 +3086,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2024-06-20-omg-stage-cam-pusan-national-university",
@@ -3119,7 +3119,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2024-06-21-supernatural-official-mv-part-1",
@@ -3190,7 +3190,7 @@
       "hybe-labels-channel"
     ],
     "verified": true,
-    "note": "YouTube shows Jul 4, 2024 (PT) = Jul 5 00:00 KST; ja/en Wikipedia give Jul 5 KST."
+    "editor_note": "YouTube shows Jul 4, 2024 (PT) = Jul 5 00:00 KST; ja/en Wikipedia give Jul 5 KST."
   },
   {
     "id": "mv-2024-07-24-supernatural-dance-practice",
@@ -3221,7 +3221,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2024-07-24-supernatural-dance-practice-fix-ver",
@@ -3252,7 +3252,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2024-07-24-supernatural-dance-practice-handheld-ver",
@@ -3283,7 +3283,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2024-07-25-right-now-dance-practice",
@@ -3314,7 +3314,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2024-07-25-right-now-dance-practice-fix-ver",
@@ -3345,7 +3345,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date assumed same as the non-Fix version (YouTube date not fetched); ID confirmed from the channel's 'NewJeans Choreography' playlist."
+    "editor_note": "Date assumed same as the non-Fix version (YouTube date not fetched); ID confirmed from the channel's 'NewJeans Choreography' playlist."
   },
   {
     "id": "mv-2024-07-26-2024-sbs-gayo-daejeon-summer-dance-practice",
@@ -3377,7 +3377,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2024-07-31-bubble-gum-dance-practice",
@@ -3408,7 +3408,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2024-07-31-bubble-gum-dance-practice-fix-ver",
@@ -3439,7 +3439,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2024-07-31-how-sweet-dance-practice",
@@ -3470,7 +3470,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2024-07-31-how-sweet-dance-practice-fix-ver",
@@ -3501,7 +3501,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2024-11-17-kgma-2024-dance-practice",
@@ -3533,7 +3533,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later."
   },
   {
     "id": "mv-2025-03-21-countdown-japan-24-25-right-now-hype-boy-ditto",
@@ -3566,7 +3566,7 @@
       "newjeans-channel"
     ],
     "verified": false,
-    "note": "Posted on the ADOR-run NewJeans channel during the NJZ dispute period (YouTube shows Mar 20, 2025 PT). Performance itself was at COUNTDOWN JAPAN 24/25 (late Dec 2024)."
+    "editor_note": "Posted on the ADOR-run NewJeans channel during the NJZ dispute period (YouTube shows Mar 20, 2025 PT). Performance itself was at COUNTDOWN JAPAN 24/25 (late Dec 2024)."
   },
   {
     "id": "mv-2026-07-22-2026-summer-of-newjeans",
@@ -3602,7 +3602,7 @@
       "newjeans-channel"
     ],
     "verified": true,
-    "note": "Posted 2026-07-22 00:00 KST (YouTube shows Jul 21 PT). Not a music video; included as official-channel release."
+    "editor_note": "Posted 2026-07-22 00:00 KST (YouTube shows Jul 21 PT). Not a music video; included as official-channel release."
   },
   {
     "id": "mv-2026-07-22-2026-summer-of-newjeans-haerin",
@@ -3638,7 +3638,7 @@
       "newjeans-channel"
     ],
     "verified": true,
-    "note": "Posted 2026-07-22 00:00 KST (YouTube shows Jul 21 PT). Not a music video; included as official-channel release."
+    "editor_note": "Posted 2026-07-22 00:00 KST (YouTube shows Jul 21 PT). Not a music video; included as official-channel release."
   },
   {
     "id": "mv-2026-07-22-2026-summer-of-newjeans-hanni",
@@ -3674,7 +3674,7 @@
       "newjeans-channel"
     ],
     "verified": true,
-    "note": "Posted 2026-07-22 00:00 KST (YouTube shows Jul 21 PT). Not a music video; included as official-channel release."
+    "editor_note": "Posted 2026-07-22 00:00 KST (YouTube shows Jul 21 PT). Not a music video; included as official-channel release."
   },
   {
     "id": "mv-2026-07-22-2026-summer-of-newjeans-hyein",
@@ -3710,7 +3710,7 @@
       "newjeans-channel"
     ],
     "verified": true,
-    "note": "Posted 2026-07-22 00:00 KST (YouTube shows Jul 21 PT). Not a music video; included as official-channel release."
+    "editor_note": "Posted 2026-07-22 00:00 KST (YouTube shows Jul 21 PT). Not a music video; included as official-channel release."
   },
   {
     "id": "mv-2026-07-22-2026-summer-of-newjeans-minji",
@@ -3746,6 +3746,6 @@
       "newjeans-channel"
     ],
     "verified": true,
-    "note": "Posted 2026-07-22 00:00 KST (YouTube shows Jul 21 PT). Not a music video; included as official-channel release."
+    "editor_note": "Posted 2026-07-22 00:00 KST (YouTube shows Jul 21 PT). Not a music video; included as official-channel release."
   }
 ]
