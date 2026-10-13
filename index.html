@@ -2,64 +2,95 @@
 <html lang="ja">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="robots" content="noindex, nofollow">
+  <meta name="color-scheme" content="light dark">
   <title>NJAs</title>
   <meta name="description" content="NewJeans official activity archive, sorted by date.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter+Tight:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-  <header class="site-header">
-    <div class="wrap header-row">
-      <h1 class="brand">NJAs <span class="brand-sub">NewJeans Archive</span></h1>
-      <div class="stats" id="stats" aria-live="polite"></div>
-    </div>
-    <div class="wrap controls">
-      <input id="q" type="search" class="search" placeholder="検索 / Search (title, summary, tags)" autocomplete="off">
-      <div class="chips" id="cat-chips" role="group" aria-label="カテゴリ"></div>
-      <div class="row-2">
-        <div class="chips" id="entity-chips" role="group" aria-label="名義"></div>
-        <label class="toggle"><input type="checkbox" id="only-verified"> 確認済のみ / verified only</label>
-        <select id="sort" class="select" aria-label="並び順">
-          <option value="desc">新しい順 / newest first</option>
-          <option value="asc">古い順 / oldest first</option>
-        </select>
+  <header class="masthead">
+    <div class="wrap">
+      <div class="mast-top">
+        <span class="mono dim">PRIVATE ARCHIVE</span>
+        <span class="mono dim" id="mast-range">2022 — </span>
+        <button class="theme-btn mono" id="theme-btn" type="button" aria-label="テーマ切替">◐</button>
       </div>
+      <h1 class="wordmark">
+        <span class="wm-main">NJAs</span>
+        <span class="wm-sub"><em>New</em>Jeans Archive</span>
+      </h1>
+      <p class="lede">
+        楽曲、映像、テレビ、雑誌、WEB、広告、X、グッズ。公式に発表されたすべての活動を、発表日・発売日の順にひとつの年表へ。
+        <span class="lede-en">Every official activity, on one timeline.</span>
+      </p>
+      <div class="counters" id="counters" aria-label="カテゴリ別件数"></div>
     </div>
   </header>
+
+  <div class="toolbar" id="toolbar">
+    <div class="wrap toolbar-inner">
+      <div class="search-wrap">
+        <span class="search-icon" aria-hidden="true">⌕</span>
+        <input id="q" type="search" class="search" placeholder="検索 / Search" autocomplete="off" spellcheck="false">
+      </div>
+      <div class="filters" id="cat-chips" role="group" aria-label="カテゴリ"></div>
+      <div class="filters right">
+        <div class="seg" id="entity-chips" role="group" aria-label="名義"></div>
+        <label class="check mono"><input type="checkbox" id="only-verified"><span>VERIFIED</span></label>
+        <button class="sort-btn mono" id="sort" type="button" data-dir="desc" aria-label="並び順">NEWEST ↓</button>
+      </div>
+    </div>
+  </div>
 
   <nav class="wrap yearnav" id="yearnav" aria-label="年ジャンプ"></nav>
 
   <main class="wrap" id="timeline"></main>
 
   <footer class="wrap site-footer">
-    <p>Private archive. Dates: release=発売/配信, announce=発表, broadcast=放送, publish=発行, post=投稿, sale_start=販売開始, event=開催.</p>
+    <div class="foot-grid">
+      <div>
+        <span class="mono dim">LEGEND</span>
+        <p class="mono small">release=発売/配信 · announce=発表 · broadcast=放送 · publish=発行 · post=投稿 · sale_start=販売開始 · event=開催</p>
+      </div>
+      <div>
+        <span class="mono dim">STATUS</span>
+        <p class="mono small" id="foot-stats"></p>
+      </div>
+    </div>
+    <p class="wm-foot" aria-hidden="true">NJAs</p>
   </footer>
 
   <template id="tpl-item">
-    <article class="item">
-      <div class="item-date">
-        <span class="d"></span>
-        <span class="badge dt"></span>
-        <span class="badge prec" hidden></span>
+    <article class="entry">
+      <div class="entry-rail">
+        <time class="mono date"></time>
+        <span class="mono dtype"></span>
       </div>
-      <div class="item-body">
-        <div class="item-head">
-          <span class="cat"></span>
-          <span class="entity" hidden></span>
-          <span class="members" hidden></span>
-          <span class="unverified" hidden title="未確認 / unverified">未確認</span>
+      <div class="entry-main">
+        <div class="meta">
+          <span class="cat-tag"><i class="sw"></i><span class="cat-label"></span></span>
+          <span class="pill entity" hidden>NJZ</span>
+          <span class="pill members" hidden></span>
+          <span class="pill prec" hidden></span>
+          <span class="pill unverified" hidden>UNVERIFIED</span>
         </div>
         <h3 class="t-ja"></h3>
         <p class="t-en"></p>
-        <p class="t-orig" hidden></p>
-        <p class="s-ja" hidden></p>
-        <p class="s-en" hidden></p>
+        <p class="t-orig mono" hidden></p>
+        <div class="desc" hidden>
+          <p class="s-ja"></p>
+          <p class="s-en"></p>
+        </div>
         <div class="media" hidden></div>
         <div class="assets" hidden></div>
-        <p class="note" hidden></p>
-        <div class="links"></div>
-        <div class="tags" hidden></div>
+        <p class="note mono" hidden></p>
+        <div class="links mono"></div>
+        <div class="tags mono" hidden></div>
       </div>
     </article>
   </template>
