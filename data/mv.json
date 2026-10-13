@@ -1,5 +1,121 @@
 [
   {
+    "id": "mv-2019-09-04-plus-global-audition-the-girl-2",
+    "date": "2019-09-04",
+    "date_type": "release",
+    "date_precision": "day",
+    "time": "09:00",
+    "category": "mv",
+    "entity": "predebut",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "PLUS GLOBAL AUDITION #THE_GIRL 2（ミンジ出演のオーディション告知映像）",
+      "en": "PLUS GLOBAL AUDITION #THE_GIRL 2 (audition promo video featuring Minji)",
+      "original": "PLUS GLOBAL AUDITION #THE_GIRL 2"
+    },
+    "summary": {
+      "ja": "Big Hit LabelsのYouTubeチャンネルに公開された「PLUS GLOBAL AUDITION」の告知映像。Source Music練習生だったミンジがモデルとして出演している。",
+      "en": "Promo video for the 'PLUS GLOBAL AUDITION' uploaded to the Big Hit Labels YouTube channel; Source Music trainee Minji appears as the model."
+    },
+    "source_url": "https://www.youtube.com/watch?v=NK-kD2cH0VY",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://en.wikipedia.org/wiki/NewJeans",
+      "https://www.ticket.co.jp/entx/?p=1977"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "NK-kD2cH0VY"
+    },
+    "tags": [
+      "audition",
+      "pre-debut",
+      "plus-global-audition",
+      "minji"
+    ],
+    "verified": false,
+    "note": "ミンジはこの時点ではSource Musicの練習生。「#THE_GIRL 1」と題した映像も同時期に公開されたとされる。",
+    "editor_note": "Upload date fetched from YouTube page metadata (now on the HYBE LABELS channel): 2019-09-03T17:00:10-07:00 = 2019-09-04 09:00 KST. Minji's appearance is per en/ja Wikipedia and fan wikis (not visually verified here), hence verified=false. The companion video '#THE_GIRL 1' (reported upload 2019-09-03/04) could not be located on the official channel; only fan re-uploads (e.g. VQtmLWYzecQ) were found, so it is not recorded."
+  },
+  {
+    "id": "mv-2019-09-04-plus-global-audition-invitation",
+    "date": "2019-09-04",
+    "date_type": "release",
+    "date_precision": "day",
+    "time": "19:00",
+    "category": "mv",
+    "entity": "predebut",
+    "title": {
+      "ja": "PLUS GLOBAL AUDITION #INVITATION（オーディション招待映像）",
+      "en": "PLUS GLOBAL AUDITION #INVITATION (audition invitation video)",
+      "original": "PLUS GLOBAL AUDITION #INVITATION"
+    },
+    "summary": {
+      "ja": "Big Hit Labels公式YouTubeに公開された「PLUS GLOBAL AUDITION」の招待映像。小瓶に入った詩「This is a poem for all your secret powers」を読む少女たちが登場し、10月5日〜27日のオーディション日程と公式SNS（@plus_audition）が案内された。",
+      "en": "Invitation video for the 'PLUS GLOBAL AUDITION' on the official Big Hit Labels YouTube channel: girls read a poem found in a small bottle ('This is a poem for all your secret powers'), with the Oct 5-27 schedule and the official @plus_audition accounts."
+    },
+    "source_url": "https://www.youtube.com/watch?v=NEEa6V0f-6M",
+    "reference_urls": [
+      "https://www.nme.com/news/music/big-hit-entertainment-global-auditions-new-k-pop-girl-group-2545017"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "NEEa6V0f-6M"
+    },
+    "tags": [
+      "audition",
+      "plus-global-audition",
+      "big-hit",
+      "source-music"
+    ],
+    "verified": true,
+    "editor_note": "Fetched YouTube metadata: title 'PLUS GLOBAL AUDITION #INVITATION', channel HYBE LABELS (then Big Hit Labels), uploadDate 2019-09-04T03:00:08-07:00 = 2019-09-04 19:00 KST; description lists 5 Oct - 27 Oct 2019, twitter.com/plus_audition, instagram.com/plus_audition, #PLAYFUL #LOVELY #UNIQUE #SASSY. Whether any future member appears is not confirmed, so members is left unset."
+  },
+  {
+    "id": "mv-2021-07-09-bts-permission-to-dance-mv-minji-hanni",
+    "date": "2021-07-09",
+    "date_type": "release",
+    "date_precision": "day",
+    "time": "13:00",
+    "category": "mv",
+    "entity": "predebut",
+    "members": [
+      "minji",
+      "hanni"
+    ],
+    "title": {
+      "ja": "BTS「Permission to Dance」MVにミンジとハニがダンサーとして出演",
+      "en": "Minji and Hanni appear as dancers in BTS 'Permission to Dance' MV",
+      "original": "BTS (방탄소년단) 'Permission to Dance' Official MV"
+    },
+    "summary": {
+      "ja": "HYBE LABELS公式YouTubeで公開されたBTS「Permission to Dance」のMVに、当時Source Music練習生だったミンジとハニが高校生ダンサー役で出演した。",
+      "en": "Minji and Hanni, then Source Music trainees, appeared as high-school dancers in BTS's 'Permission to Dance' MV released on the HYBE LABELS YouTube channel."
+    },
+    "source_url": "https://www.youtube.com/watch?v=CuklIb9d3fI",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Minji_(singer)",
+      "https://www.tatlerasia.com/lifestyle/entertainment/meet-the-girls-of-newjeans",
+      "https://en.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "CuklIb9d3fI"
+    },
+    "tags": [
+      "pre-debut",
+      "bts",
+      "permission-to-dance",
+      "minji",
+      "hanni"
+    ],
+    "verified": true,
+    "note": "「Permission to Dance」はBTSのCDシングル『Butter』収録曲で、ARMY結成8周年に合わせて公開された。",
+    "editor_note": "Fetched YouTube metadata: channel HYBE LABELS, uploadDate 2021-07-08T20:59:12-07:00 = 2021-07-09 13:00 KST (BTS release slot). The cameo itself is per Wikipedia/Tatler; in July 2024 Min Hee-jin claimed HYBE used the two without her consent (post-dated, not shown in note)."
+  },
+  {
     "id": "mv-2022-07-22-attention-official-mv",
     "date": "2022-07-22",
     "date_type": "release",

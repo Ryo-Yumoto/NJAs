@@ -1,35 +1,141 @@
 [
   {
-    "id": "notice-2021-11-01-ador-established",
-    "date": "2021-11-01",
+    "id": "notice-2019-07-01-big-hit-hires-min-hee-jin-as-cbo",
+    "date": "2019-07-01",
     "date_type": "announce",
-    "date_precision": "month",
+    "date_precision": "day",
     "category": "notice",
     "entity": "predebut",
     "title": {
-      "ja": "HYBE、新レーベルADORを設立（ミン・ヒジン代表）",
-      "en": "HYBE establishes new label ADOR with Min Hee-jin as CEO"
+      "ja": "Big Hit、ミン・ヒジン元SM理事をCBOに迎え「新ガールズグループの立ち上げを主導」と発表",
+      "en": "Big Hit hires former SM director Min Hee-jin as CBO, says she will lead a new girl group launch",
+      "original": "빅히트, 민희진 전 SM 이사 영입… '브랜드 총괄·걸그룹 론칭'"
     },
     "summary": {
-      "ja": "HYBEが新レーベルADOR（All Doors One Room）を設立し、ミン・ヒジンが代表に就任した。",
-      "en": "HYBE set up the independent label ADOR and appointed Min Hee-jin as its CEO."
+      "ja": "Big Hit Entertainmentが、SMエンターテインメント元クリエイティブディレクター兼登記理事のミン・ヒジンを同日付でブランド総括（CBO）として迎え、新しいガールズグループのローンチを主導し自身の新レーベルも設立すると発表した。",
+      "en": "Big Hit Entertainment announced that Min Hee-jin, former SM Entertainment creative director and board member, joined the same day as Chief Brand Officer, and that she would lead the launch of a new girl group and set up her own new label."
     },
-    "source_url": "https://news.mtn.co.kr/news-detail/2022070609122754404",
+    "source_url": "https://twig24.com/news/entertainments/2019/07/01/20190701500028",
     "reference_urls": [
-      "https://www.ytn.co.kr/_ln/0117_202404221457409449",
-      "https://en.wikipedia.org/wiki/NewJeans"
+      "https://news.tf.co.kr/read/ogmeta/1757158.htm",
+      "https://twig24.com/news/entertainments/2019/07/02/20190702025033",
+      "https://en.wikipedia.org/wiki/Min_Hee-jin"
     ],
     "media": {
       "type": "none"
     },
     "tags": [
+      "announcement",
+      "min-hee-jin",
+      "big-hit"
+    ],
+    "verified": false,
+    "note": "パン・シヒョク代表はミン・ヒジンを「K-POPに『ビジュアルディレクター』『企画者』という概念を定着させたリーダー中のリーダー」と評した。ミン・ヒジンは少女時代、f(x)、SHINee、EXO、Red Velvetのコンセプトを手掛けてきた。",
+    "editor_note": "Seoul Shinmun (twig24) report published 2019-07-01 09:58 KST: '민희진 전 SM엔터테인먼트 크리에이티브 디렉터 겸 등기이사가 오늘부터 빅히트에 합류한다' / '새로운 걸그룹의 론칭을 주도할 계획'. Big Hit/HYBE newsroom (hybecorp.com) returns 403, so a same-day press report is used; verified=false."
+  },
+  {
+    "id": "notice-2020-02-04-big-hit-briefing-source-music-girl-group-2021",
+    "date": "2020-02-04",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "predebut",
+    "title": {
+      "ja": "Big Hit会社説明会：PLUS GLOBAL AUDITION出身のSource Musicガールズグループを2021年デビューと発表",
+      "en": "Big Hit corporate briefing: Source Music girl group from the Plus Global Audition to debut in 2021",
+      "original": "2020년 상반기 공동체와 함께하는 빅히트 회사 설명회"
+    },
+    "summary": {
+      "ja": "ソウル・DDPで開かれた「2020年上半期 共同体と共にするBig Hit会社説明会」で、Big Hitは2022年までに新人3組（BELIFT LABのボーイズグループ2020年、PLUS GLOBAL AUDITIONで選抜したSource Musicのガールズグループ2021年、Big Hit直属ボーイズグループ2022年）をデビューさせる計画を発表した。",
+      "en": "At the '2020 H1 Big Hit corporate briefing with the community' at DDP, Seoul, Big Hit announced three new groups by 2022: a Belift boy group (2020), a Source Music girl group selected through the Plus Global Audition (2021) and a Big Hit boy group (2022)."
+    },
+    "source_url": "https://www.mt.co.kr/future/2020/02/05/2020020515280447911",
+    "reference_urls": [
+      "https://kukinews.com/newsView/kuk202002050245"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "announcement",
+      "big-hit",
+      "source-music",
+      "corporate-briefing"
+    ],
+    "verified": false,
+    "note": "発表したのはシン・ヨンジェBig Hitレーベル副代表。BTSとTOMORROW X TOGETHERを成功させた制作力とノウハウを集約したプロジェクトと説明した。",
+    "editor_note": "Money Today (2020-02-05 16:48) says the briefing was held on 02-04 at DDP with contents released on 02-05 (press embargo); Kukinews dates it 02-05. Dated by the event (02-04). Min Hee-jin is not named in these reports."
+  },
+  {
+    "id": "notice-2020-08-13-big-hit-briefing-min-hee-jin-girl-group-next-year",
+    "date": "2020-08-13",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "predebut",
+    "title": {
+      "ja": "Big Hit会社説明会：パン・シヒョク「ミン・ヒジンCBO・Source Musicと準備中のガールズグループは来年デビュー」",
+      "en": "Big Hit corporate briefing: Bang Si-hyuk says the girl group prepared with Min Hee-jin and Source Music will debut next year",
+      "original": "2020년 하반기 공동체와 함께하는 빅히트 회사설명회"
+    },
+    "summary": {
+      "ja": "公式YouTubeでオンライン配信された「2020年下半期 共同体と共にするBig Hit会社説明会」で、パン・シヒョク議長はミン・ヒジンCBOおよびSource Musicと共に準備中のガールズグループが翌年デビューすると述べた。",
+      "en": "In the '2020 H2 Big Hit corporate briefing with the community', streamed on the official YouTube channel, chairman Bang Si-hyuk said the girl group being prepared with CBO Min Hee-jin and Source Music would debut the following year."
+    },
+    "source_url": "https://www.xportsnews.com/article/1312492",
+    "reference_urls": [
+      "https://sports.khan.co.kr/article/202103091731003"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "announcement",
+      "big-hit",
+      "source-music",
+      "min-hee-jin",
+      "corporate-briefing"
+    ],
+    "verified": false,
+    "note": "同じ説明会ではI-LAND（BELIFT LAB）出身グループのデビューメンバー選抜も予告された。",
+    "editor_note": "Xports News 2020-08-13 13:56 KST: '민희진 빅히트 CBO, 쏘스뮤직과 함께 준비 중인 걸그룹도 내년 데뷔할 것'. The briefing video on the HYBE LABELS channel was not located (ID unknown)."
+  },
+  {
+    "id": "notice-2021-11-12-hybe-announces-new-label-ador",
+    "date": "2021-11-12",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "predebut",
+    "title": {
+      "ja": "HYBE、新レーベルADOR設立を発表（ミン・ヒジンCBOが代表に就任、ガールズグループは2022年デビュー）",
+      "en": "HYBE announces new label ADOR with CBO Min Hee-jin as CEO; girl group to debut in 2022",
+      "original": "하이브, 신규 레이블 어도어(ADOR) 설립…민희진 CBO 대표 선임"
+    },
+    "summary": {
+      "ja": "HYBEがマルチレーベル体制下の独立レーベルADOR（All Doors One Room）の設立を発表し、ミン・ヒジンCBOが代表に就任。2019年のPLUS GLOBAL AUDITION出身者を中心とした新人ガールズグループを2022年にデビューさせ、ミン・ヒジンが制作全般を総括するとした。",
+      "en": "HYBE announced the independent label ADOR (All Doors One Room) under its multi-label system, with CBO Min Hee-jin as CEO; a new girl group built mainly from the 2019 Plus Global Audition would debut in 2022 with Min overseeing all production."
+    },
+    "source_url": "https://www.soompi.com/article/1498172wpp/hybe-launches-new-label-ador-for-girl-group-that-will-debut-in-2022",
+    "reference_urls": [
+      "https://kstyle.com/article.ksn?articleNo=2180576",
+      "https://koreajoongangdaily.joins.com/2021/11/12/entertainment/kpop/HYBE-Min-Heejin-ADOR/20211112104121840.html",
+      "https://www.nme.com/news/music/bts-agency-hybe-launches-new-label-in-preparation-for-an-upcoming-girl-group-3093882",
+      "https://news.mtn.co.kr/news-detail/2022070609122754404",
+      "https://www.ytn.co.kr/_ln/0117_202404221457409449"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "announcement",
       "ador",
       "hybe",
       "min-hee-jin"
     ],
     "verified": false,
-    "note": "ADORは「All Doors One Room」の略。ミン・ヒジンがプロデュースするガールズグループの準備がこのレーベルに移った。",
-    "editor_note": "Month confirmed by multiple reports (MTN 2022-07-06, YTN 2024-04-22: '2021년 11월 설립'). Exact registration day not confirmed; HYBE newsroom returns 403."
+    "note": "ADORは「All Doors One Room」の略。合弁や買収ではなくHYBEが自ら設立した初の独自レーベル。ミン・ヒジンは「新レーベル設立を通じて音楽産業に再び変化をもたらす準備を終えた」とコメントした。",
+    "editor_note": "Replaces the month-precision record notice-2021-11-01-ador-established. Announcement date 2021-11-12 is consistent across Soompi, Kstyle (Newsen report distributed 09:23 KST), Korea JoongAng Daily (10:41) and NME. The corporate entity was created by a physical spin-off of the Source Music label business with a spin-off date of 2021-11-02 and 16.1bn won capital (Hankyung Business 2024; one report says 15.4bn). HYBE newsroom returns 403 and no official page was fetched, so verified=false."
   },
   {
     "id": "notice-2022-10-29-bunnies-fandom-name-reveal",

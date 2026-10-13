@@ -5,7 +5,7 @@
     "date_type": "post",
     "date_precision": "day",
     "category": "tweet",
-    "entity": "newjeans",
+    "entity": "predebut",
     "members": [
       "all"
     ],
@@ -20,7 +20,8 @@
     "source_url": "https://en.wikipedia.org/wiki/NewJeans",
     "reference_urls": [],
     "media": {
-      "type": "none"
+      "type": "x",
+      "ref": "https://x.com/alldoorsoneroom/status/1542656334394322945"
     },
     "tags": [
       "x",
@@ -29,7 +30,8 @@
       "teaser"
     ],
     "verified": false,
-    "editor_note": "Status URL not retrieved; date from Wikipedia. Posted across ADOR/NewJeans official SNS."
+    "editor_note": "Status URL not retrieved; date from Wikipedia. Posted across ADOR/NewJeans official SNS. | X status URL supplied by pre-debut research (ADOR account @alldoorsoneroom), time from snowflake id",
+    "time": "08:48"
   },
   {
     "id": "tweet-2022-07-22-debut-day-post",

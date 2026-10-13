@@ -1,5 +1,70 @@
 [
   {
+    "id": "web-2022-03-24-beattitude-interview-min-hee-jin-q3-launch",
+    "date": "2022-03-24",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "predebut",
+    "title": {
+      "ja": "Be(Attitude)インタビュー：ミン・ヒジン「新ガールズグループは第3四半期にローンチ」",
+      "en": "Be(Attitude) interview: Min Hee-jin says the new girl group will launch in Q3 2022",
+      "original": "How Much Do You Know about Min Hee-jin?"
+    },
+    "summary": {
+      "ja": "ウェブマガジンBe(Attitude)のインタビューでミン・ヒジンADOR代表は、2019年9月のオーディションと年内のキャスティング完了、2020年初からの約2年の練習を経て、当初2021年予定だったローンチがパンデミックで延期され、第3四半期のローンチを見込むと語った。",
+      "en": "In a Be(Attitude) web-magazine interview, ADOR CEO Min Hee-jin said auditions were held in September 2019, casting was complete by year-end, the members had trained for about two years since early 2020, and the launch, originally planned for 2021 but delayed by the pandemic, was expected in the third quarter."
+    },
+    "source_url": "https://magazine.beattitude.kr/issue-03/artistproject-minheejin-part1-eng/",
+    "reference_urls": [
+      "https://www.nme.com/news/music/hybe-subsidiary-adors-upcoming-girl-group-set-to-debut-in-the-third-quarter-of-the-year-3190216",
+      "https://en.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "interview",
+      "min-hee-jin",
+      "ador"
+    ],
+    "verified": false,
+    "note": "続編「A Rare Peek into Min Hee-jin's World」（Part 2）も同誌に掲載された。",
+    "editor_note": "The Be(Attitude) page shows no explicit date; 2022-03-24 is the citation date used by English Wikipedia (NME follow-up 2022-03-25; images uploaded March 2022). Part 2 dated 2022-04-15 by Wikipedia. Not an ADOR press release; included as the first public statement of the launch window."
+  },
+  {
+    "id": "web-2022-07-07-newjeans-official-youtube-channel-created",
+    "date": "2022-07-07",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "predebut",
+    "title": {
+      "ja": "NewJeans公式YouTubeチャンネル開設",
+      "en": "NewJeans official YouTube channel created",
+      "original": "NewJeans YouTube channel (UCMki_UkHb4qSc0qyEcOHHJw)"
+    },
+    "summary": {
+      "ja": "のちに「Attention」MVが公開されるNewJeans公式YouTubeチャンネル（@NewJeans_official）がこの日に作成された。",
+      "en": "The official NewJeans YouTube channel (@NewJeans_official), where the 'Attention' MV would later premiere, was created on this date."
+    },
+    "source_url": "https://www.youtube.com/@NewJeans_official/about",
+    "media": {
+      "type": "none"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCMki_UkHb4qSc0qyEcOHHJw"
+    },
+    "tags": [
+      "sns",
+      "youtube",
+      "ador"
+    ],
+    "verified": true,
+    "note": "チャンネル作成時点ではグループ名は公表されておらず、公開は7月22日の「Attention」MVが最初。",
+    "editor_note": "Fetched the channel About page: joinedDateText 'Joined Jul 7, 2022', channelId UCMki_UkHb4qSc0qyEcOHHJw. YouTube renders the join date in the viewer's (US/Pacific) time, so KST could be 07-07 or 07-08. Creation dates of the official X (@NewJeans_ADOR) and Instagram (@newjeans_official) accounts could not be retrieved (X/Instagram and web.archive.org are blocked from this environment)."
+  },
+  {
     "id": "web-2022-12-27-rolling-stone-omg-interview",
     "date": "2022-12-27",
     "date_type": "publish",

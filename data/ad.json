@@ -1,5 +1,165 @@
 [
   {
+    "id": "ad-2019-09-04-plus-global-audition-announced",
+    "date": "2019-09-04",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "predebut",
+    "title": {
+      "ja": "Big Hit × Source Music「PLUS GLOBAL AUDITION」告知（新ガールズグループのメンバー募集ポスター）",
+      "en": "Big Hit x Source Music announce 'PLUS GLOBAL AUDITION' for a new girl group (audition poster)",
+      "original": "빅히트 X 쏘스뮤직 PLUS GLOBAL AUDITION"
+    },
+    "summary": {
+      "ja": "Big Hit EntertainmentとSource Musicが、2021年デビュー予定の次世代ガールズグループを選抜する「PLUS GLOBAL AUDITION」を発表し、10月5日のLA・ニューヨークから10月27日のホーチミンまで世界16都市でオーディションを行うと告知した。",
+      "en": "Big Hit Entertainment and Source Music announced the 'PLUS GLOBAL AUDITION' to select a next-generation girl group slated to debut in 2021, with auditions in 16 cities from Los Angeles and New York (Oct 5) to Ho Chi Minh City (Oct 27)."
+    },
+    "source_url": "https://sbsstar.net/article/N1005423886/big-hit-entertainment-announces-dates-cities-for-a-global-audition-for-girls",
+    "reference_urls": [
+      "https://bandwagon.asia/articles/applications-for-big-hit-and-source-music-plus-global-audition-now-open",
+      "https://musicweek.com/media/read/big-hit-entertainment-and-source-music-to-launch-plus-global-audition/077304",
+      "https://www.nme.com/news/music/big-hit-entertainment-global-auditions-new-k-pop-girl-group-2545017",
+      "https://www.billboard.com/music/music-news/big-hit-entertainment-source-music-auditions-k-pop-girl-group-8529104/",
+      "https://www.youtube.com/watch?v=NEEa6V0f-6M"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://img.sbs.co.kr/newimg/news/20190904/201351309_700.jpg",
+      "source_url": "https://sbsstar.net/article/N1005423886/big-hit-entertainment-announces-dates-cities-for-a-global-audition-for-girls"
+    },
+    "links": {
+      "official": "https://www.plusglobalaudition.com/",
+      "x": "https://twitter.com/plus_audition",
+      "instagram": "https://instagram.com/plus_audition"
+    },
+    "tags": [
+      "audition",
+      "plus-global-audition",
+      "big-hit",
+      "source-music",
+      "min-hee-jin"
+    ],
+    "verified": true,
+    "note": "プレスリリースでは、パン・シヒョク代表が音楽プロデュースを含む制作を総括し、ミン・ヒジンCBOがコンセプト・映像・イメージを包括するクリエイティブディレクションとブランディングを担当するとされた。キーワードは #PLAYFUL #LOVELY #UNIQUE #SASSY。公式X/Instagram（@plus_audition）も同時に開設された。日程：10/5 LA・NY、10/12 パース・シンガポール、10/13 メルボルン、10/19 釜山・光州・大阪・札幌・台北、10/20 ソウル・東京・高雄、10/26 ハノイ・バンコク、10/27 ホーチミン。",
+    "editor_note": "Announcement date 2019-09-04 KST confirmed by the official HYBE LABELS YouTube upload of 'PLUS GLOBAL AUDITION #INVITATION' (uploadDate 2019-09-04T03:00:08-07:00 = 19:00 KST) and '#THE_GIRL 2' (2019-09-03T17:00:10-07:00 = 2019-09-04 09:00 KST), plus same-day reports (Music Week 09-04 10:39 UK, SBS Star 09-04, Hankyung 2019090482484). Poster image: SBS Star (credited to Big Hit); alternative poster at bandwagon S3 (content_PLUS_GLOBAL_AUDITION_Poster_2.jpeg). Official site plusglobalaudition.com is offline and web.archive.org is blocked from this environment. Korean coverage (twig24 2019-09-10) describes the press as framing it as the 'female BTS' search."
+  },
+  {
+    "id": "ad-2019-09-10-plus-global-audition-applications-open",
+    "date": "2019-09-10",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "predebut",
+    "title": {
+      "ja": "「PLUS GLOBAL AUDITION」オンライン応募受付開始",
+      "en": "'PLUS GLOBAL AUDITION' online applications open",
+      "original": "빅히트X쏘스뮤직 '플러스 글로벌 오디션' 신청 접수 시작"
+    },
+    "summary": {
+      "ja": "Big HitとSource Musicが、新人ガールズグループのメンバー選抜のための「PLUS GLOBAL AUDITION」の応募受付を公式サイトで開始した。対象は2001〜2007年生まれの女性で、オンライン予選通過者にオフライン審査が案内される。",
+      "en": "Big Hit and Source Music opened applications for the 'PLUS GLOBAL AUDITION' on the official site; women born 2001-2007 could apply, and those passing the online round were invited to the offline auditions."
+    },
+    "source_url": "https://twig24.com/news/entertainments/2019/09/10/20190910500074",
+    "reference_urls": [
+      "https://bandwagon.asia/articles/applications-for-big-hit-and-source-music-plus-global-audition-now-open"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://bandwagon-gig-finder.s3.amazonaws.com/editorials/uploads/pictures/19986/content_PLUS_GLOBAL_AUDITION_Poster_2.jpeg",
+      "source_url": "https://bandwagon.asia/articles/applications-for-big-hit-and-source-music-plus-global-audition-now-open"
+    },
+    "tags": [
+      "audition",
+      "plus-global-audition",
+      "big-hit",
+      "source-music"
+    ],
+    "verified": false,
+    "note": "各都市の応募締切はオーディション日の6日前。合格者はオーディション後4週間以内に選抜される。韓国メディアは「女子BTSは誰か」と報じ、パン・シヒョク代表とミン・ヒジンCBOが前面に立つプロジェクトとして紹介した。",
+    "editor_note": "Seoul Shinmun (twig24) 2019-09-10 13:28 KST: '이날부터 신인 걸그룹 멤버 선발을 위한 플러스 글로벌 오디션 신청 접수를 시작한다'. Bandwagon (2019-09-10) gives the same date and the official site plusglobalaudition.com. The official site/SNS could not be fetched, so verified=false."
+  },
+  {
+    "id": "ad-2021-12-01-ador-first-global-audition",
+    "date": "2021-12-01",
+    "date_type": "announce",
+    "date_precision": "day",
+    "time": "09:48",
+    "category": "ad",
+    "entity": "predebut",
+    "title": {
+      "ja": "「the first ADOR Global Audition」募集開始（12月1日〜1月10日）",
+      "en": "'The first ADOR Global Audition' opens (Dec 1 - Jan 10)",
+      "original": "ADOR GLOBAL AUDITION"
+    },
+    "summary": {
+      "ja": "ADORが公式SNSで初のグローバルオーディションを告知。2002〜2010年生まれなら性別・国籍を問わず、ボーカル＆ラップ／ダンス／フリー（モデル・演技・コンテンツ制作など）の各部門に公式サイトからオンライン応募できるとした。",
+      "en": "ADOR announced its first global audition on official SNS: anyone born 2002-2010, regardless of gender or nationality, could apply online via the official site in vocal & rap, dance or a free category (modelling, acting, content creation, etc.)."
+    },
+    "source_url": "https://twitter.com/alldoorsoneroom/status/1465845175079501824",
+    "reference_urls": [
+      "https://v.daum.net/v/20211201145841904",
+      "https://www.soompi.com/article/1501435wpp/hybes-new-label-ador-launches-global-audition",
+      "https://www.bandwagon.asia/articles/hybe-launches-global-auditions-for-their-new-label-ador-how-to-join-singing-rapping-dance-acting-min-hee-jin-korea-december-2021"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://twitter.com/alldoorsoneroom/status/1465845175079501824"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202112/01/koreaherald/20211201145842903egnb.jpg",
+      "source_url": "https://v.daum.net/v/20211201145841904"
+    },
+    "tags": [
+      "audition",
+      "ador",
+      "min-hee-jin"
+    ],
+    "verified": false,
+    "note": "投稿文は「Welcome to the first ADOR Global Audition / Apply on [公式サイト] / Dec 1 ~ Jan 10」。写真・自己紹介動画・部門別オーディション動画を提出する。ADORは翌年ローンチ予定のガールズグループのメンバーは2019年のPLUS GLOBAL AUDITION参加者から選ばれるとしていた。",
+    "editor_note": "Tweet ID 1465845175079501824 decodes (snowflake) to 2021-12-01 00:48:18 UTC = 09:48 KST; the tweet page itself could not be fetched (X blocked), so verified=false. Poster image is the Korea Herald/Daum copy of the ADOR audition poster. Wikipedia describes this as the 'second global audition' (Dec 2021-Jan 2022); application site was ador.world."
+  },
+  {
+    "id": "ad-2022-07-01-ador-girl-group-gangnam-billboard-teaser",
+    "date": "2022-07-01",
+    "date_type": "release",
+    "date_precision": "day",
+    "time": "06:00",
+    "category": "ad",
+    "entity": "predebut",
+    "title": {
+      "ja": "江南の大型ビジョンに「ADORガールズグループ／ミン・ヒジンのガールズグループ／7月22日」ティーザー映像",
+      "en": "Gangnam billboard teaser: 'ADOR girl group / Min Hee-jin girl group / July 22'",
+      "original": "어도어 걸그룹 · 민희진 걸그룹 · 7월 22일"
+    },
+    "summary": {
+      "ja": "ADORは7月1日午前6時、ソウル・三成洞のK-POP SQUARE大型ビジョンや江南M LIVE、ISLIVEで、「어도어 걸그룹」「민희진 걸그룹」「7월 22일」の3Dテキストとウサギが境界を突き破る映像を流し、新人ガールズグループの初コンテンツを7月22日に公開すると予告した。",
+      "en": "At 06:00 on July 1 ADOR ran a teaser on the K-POP SQUARE big screen in Samseong-dong, Seoul and on the Gangnam M LIVE and ISLIVE displays, with 3D text reading 'ADOR girl group', 'Min Hee-jin girl group' and 'July 22' and a rabbit breaking through a boundary, announcing the group's first content for July 22."
+    },
+    "source_url": "https://mobile.newsis.com/view/NISX20220701_0001927354",
+    "reference_urls": [
+      "https://kstyle.com/article.ksn?articleNo=2196233",
+      "https://v.daum.net/v/20220701152422984",
+      "https://www.nme.com/news/music/watch-first-teasers-hybe-ador-upcoming-k-pop-girl-group-3259962"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "teaser",
+      "billboard",
+      "ador",
+      "min-hee-jin"
+    ],
+    "verified": false,
+    "note": "グループ名・メンバーは未公開。同日、ADOR公式SNSでは「22」「7」「22」の数字アニメーションと、色とりどりのウサギがローラースケートで進むポップアート風クリップも公開された（SNS投稿は別記録）。",
+    "editor_note": "Out-of-home teaser recorded separately from the existing SNS record tweet-2022-07-01-debut-teaser-22-7-22. Newsis 2022-07-01 08:37 and Newsen (via Kstyle, 08:06) both give 06:00 KST and the three screens. The matching ADOR X post is https://twitter.com/alldoorsoneroom/status/1542656334394322945 (snowflake = 2022-07-01 08:48 KST; text 'FINALLY The first ADOR new girl group will drop its first content on July 22, 2022'); Instagram clips at instagram.com/tv/Cfcq9xoDguR, Cfcqp28D8vT, Cfcqxsojw8f, CfcqzyDjRvX."
+  },
+  {
     "id": "ad-2022-09-01-5252-by-oioi-22fw",
     "date": "2022-09-01",
     "date_type": "release",
