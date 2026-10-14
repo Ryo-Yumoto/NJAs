@@ -1,10 +1,10 @@
 [
   {
-    "id": "tweet-2022-07-01-debut-teaser-22-7-22",
+    "id": "sns-2022-07-01-debut-teaser-22-7-22",
     "date": "2022-07-01",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "predebut",
     "members": [
       "all"
@@ -24,7 +24,6 @@
       "ref": "https://x.com/alldoorsoneroom/status/1542656334394322945"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "debut",
       "teaser"
@@ -39,14 +38,15 @@
     "credits": {
       "account": "@alldoorsoneroom (ADOR)",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2022-07-22-debut-day-post",
+    "id": "sns-2022-07-22-debut-day-post",
     "date": "2022-07-22",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -66,7 +66,6 @@
       "ref": "https://x.com/NewJeans_ADOR/status/1550133496085184512"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "debut",
       "attention"
@@ -80,14 +79,15 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2022-07-22-debut-teaser-photos",
+    "id": "sns-2022-07-22-debut-teaser-photos",
     "date": "2022-07-22",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -122,15 +122,16 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2022-07-23-member-profile-danielle",
+    "id": "sns-2022-07-23-member-profile-danielle",
     "date": "2022-07-23",
     "time": "00:00",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "danielle"
@@ -165,15 +166,16 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2022-07-23-member-profile-haerin",
+    "id": "sns-2022-07-23-member-profile-haerin",
     "date": "2022-07-23",
     "time": "00:00",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "haerin"
@@ -208,15 +210,16 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2022-07-23-member-profile-hanni",
+    "id": "sns-2022-07-23-member-profile-hanni",
     "date": "2022-07-23",
     "time": "00:00",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "hanni"
@@ -251,15 +254,16 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2022-07-23-member-profile-hyein",
+    "id": "sns-2022-07-23-member-profile-hyein",
     "date": "2022-07-23",
     "time": "00:00",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "hyein"
@@ -294,15 +298,16 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2022-07-23-member-profile-minji",
+    "id": "sns-2022-07-23-member-profile-minji",
     "date": "2022-07-23",
     "time": "00:00",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "minji"
@@ -337,14 +342,15 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2022-07-24-attention-post",
+    "id": "sns-2022-07-24-attention-post",
     "date": "2022-07-24",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -364,7 +370,6 @@
       "ref": "https://x.com/NewJeans_ADOR/status/1551083236746416128"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "debut",
       "attention"
@@ -378,14 +383,15 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2022-07-25-1st-ep-bag-preorder",
+    "id": "sns-2022-07-25-1st-ep-bag-preorder",
     "date": "2022-07-25",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -405,7 +411,6 @@
       "ref": "https://x.com/NewJeans_ADOR/status/1551387509388521473"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "new-jeans-ep",
       "pre-order"
@@ -419,14 +424,15 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2022-07-25-1st-ep-bluebook-preorder",
+    "id": "sns-2022-07-25-1st-ep-bluebook-preorder",
     "date": "2022-07-25",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -446,7 +452,6 @@
       "ref": "https://x.com/NewJeans_ADOR/status/1551387258011275264"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "new-jeans-ep",
       "pre-order"
@@ -460,14 +465,15 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2022-07-25-1st-ep-weverse-albums-preorder",
+    "id": "sns-2022-07-25-1st-ep-weverse-albums-preorder",
     "date": "2022-07-25",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -487,7 +493,6 @@
       "ref": "https://x.com/NewJeans_ADOR/status/1551387006046900224"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "new-jeans-ep",
       "pre-order"
@@ -501,14 +506,15 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2022-07-25-phoning-app-launch",
+    "id": "sns-2022-07-25-phoning-app-launch",
     "date": "2022-07-25",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -528,7 +534,6 @@
       "ref": "https://x.com/NewJeans_ADOR/status/1551221918451245057"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "phoning",
       "app"
@@ -542,14 +547,15 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2022-11-22-2023-seasons-greetings-notice",
+    "id": "sns-2022-11-22-2023-seasons-greetings-notice",
     "date": "2022-11-22",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -569,7 +575,6 @@
       "ref": "https://x.com/NewJeans_ADOR/status/1594888405229473794"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "seasons-greetings",
       "goods"
@@ -584,14 +589,15 @@
       "account": "@NewJeans_ADOR",
       "label": "ADOR",
       "sale_channel": "Weverse Shop GLOBAL"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2022-12-12-ditto-teaser",
+    "id": "sns-2022-12-12-ditto-teaser",
     "date": "2022-12-12",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -611,7 +617,6 @@
       "ref": "https://x.com/NewJeans_ADOR/status/1602121086598270976"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "ditto",
       "teaser"
@@ -625,14 +630,15 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2022-12-12-omg-comeback-announcement",
+    "id": "sns-2022-12-12-omg-comeback-announcement",
     "date": "2022-12-12",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -652,7 +658,6 @@
       "ref": "https://x.com/NewJeans_ADOR/status/1601954986296225793"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "omg",
       "ditto",
@@ -667,14 +672,15 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2022-12-12-omg-preorder-start",
+    "id": "sns-2022-12-12-omg-preorder-start",
     "date": "2022-12-12",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -694,7 +700,6 @@
       "ref": "https://x.com/NewJeans_ADOR/status/1602121156718624770"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "omg",
       "pre-order"
@@ -709,15 +714,16 @@
       "account": "@NewJeans_ADOR",
       "label": "ADOR",
       "sale_channel": "Weverse Shop"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2022-12-12-newjeans-of-winter-poster-2",
+    "id": "sns-2022-12-12-newjeans-of-winter-poster-2",
     "date": "2022-12-12",
     "time": "00:00",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -751,15 +757,16 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2022-12-12-newjeans-of-winter-poster-3",
+    "id": "sns-2022-12-12-newjeans-of-winter-poster-3",
     "date": "2022-12-12",
     "time": "00:00",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -793,14 +800,15 @@
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
     },
-    "editor_note": "Status 1601955112070455299 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 1 video (8s)."
+    "editor_note": "Status 1601955112070455299 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 1 video (8s).",
+    "platform": "x"
   },
   {
-    "id": "tweet-2022-12-15-omg-promotion-calendar",
+    "id": "sns-2022-12-15-omg-promotion-calendar",
     "date": "2022-12-15",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -820,7 +828,6 @@
       "ref": "https://x.com/NewJeans_ADOR/status/1603042126341713920"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "omg",
       "schedule"
@@ -834,14 +841,15 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2022-12-20-omg-packshot",
+    "id": "sns-2022-12-20-omg-packshot",
     "date": "2022-12-20",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -873,14 +881,15 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2023-04-03-zero-release",
+    "id": "sns-2023-04-03-zero-release",
     "date": "2023-04-03",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -900,7 +909,6 @@
       "ref": "https://x.com/NewJeans_ADOR/status/1642818193575268352"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "zero",
       "coca-cola"
@@ -915,14 +923,15 @@
       "account": "@NewJeans_ADOR",
       "label": "ADOR",
       "brand": "Coca-Cola"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2023-05-12-bunnies-camp-announcement",
+    "id": "sns-2023-05-12-bunnies-camp-announcement",
     "date": "2023-05-12",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -942,7 +951,6 @@
       "ref": "https://x.com/NewJeans_ADOR/status/1656841656036110337"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "bunnies-camp",
       "fan-meeting"
@@ -957,14 +965,15 @@
       "account": "@NewJeans_ADOR",
       "organizer": "ADOR / HYBE",
       "venue": "SK Olympic Handball Gymnasium, Seoul"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2023-05-31-be-who-you-are-release",
+    "id": "sns-2023-05-31-be-who-you-are-release",
     "date": "2023-05-31",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -984,7 +993,6 @@
       "ref": "https://x.com/NewJeans_ADOR/status/1663562156778958848"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "coca-cola",
       "coke-studio",
@@ -1000,14 +1008,15 @@
       "account": "@NewJeans_ADOR",
       "brand": "Coca-Cola / Coke Studio",
       "featured_artists": "Jon Batiste, Cat Burns, J.I.D, Camilo"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2023-06-19-get-up-coming-soon",
+    "id": "sns-2023-06-19-get-up-coming-soon",
     "date": "2023-06-19",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -1027,7 +1036,6 @@
       "ref": "https://x.com/NewJeans_ADOR/status/1670611109454434304"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "get-up",
       "comeback"
@@ -1041,15 +1049,16 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2023-06-26-eta-teaser-post",
+    "id": "sns-2023-06-26-eta-teaser-post",
     "date": "2023-06-26",
     "time": "00:00",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -1082,15 +1091,16 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2023-06-28-get-up-2nd-ep-photo-post",
+    "id": "sns-2023-06-28-get-up-2nd-ep-photo-post",
     "date": "2023-06-28",
     "time": "00:00",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -1124,14 +1134,15 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2023-06-29-get-up-bunny-beach-bag-packaging",
+    "id": "sns-2023-06-29-get-up-bunny-beach-bag-packaging",
     "date": "2023-06-29",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -1164,14 +1175,15 @@
     "credits": {
       "account": "@newjeans_official (Instagram)",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2023-06-30-get-up-packshot",
+    "id": "sns-2023-06-30-get-up-packshot",
     "date": "2023-06-30",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -1203,15 +1215,16 @@
     "credits": {
       "label": "ADOR",
       "collaboration": "Cartoon Network (The Powerpuff Girls)"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2023-07-05-super-shy-release-poster",
+    "id": "sns-2023-07-05-super-shy-release-poster",
     "date": "2023-07-05",
     "time": "23:00",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -1245,14 +1258,15 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2023-07-17-cool-with-you-mv-date-announcement",
+    "id": "sns-2023-07-17-cool-with-you-mv-date-announcement",
     "date": "2023-07-17",
     "date_type": "announce",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -1283,14 +1297,15 @@
     },
     "credits": {
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2023-11-04-gods-worlds-2023",
+    "id": "sns-2023-11-04-gods-worlds-2023",
     "date": "2023-11-04",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -1310,7 +1325,6 @@
       "ref": "https://x.com/NewJeans_ADOR/status/1720455798080548934"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "gods",
       "league-of-legends"
@@ -1324,14 +1338,15 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "partner": "Riot Games (League of Legends / Riot Games Music)"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2023-11-29-mama-2023-daesang-thanks",
+    "id": "sns-2023-11-29-mama-2023-daesang-thanks",
     "date": "2023-11-29",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -1350,7 +1365,6 @@
       "type": "none"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "award",
       "mama"
@@ -1364,14 +1378,15 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "event": "2023 MAMA AWARDS (Mnet), Tokyo Dome"
-    }
+    },
+    "platform": "other"
   },
   {
-    "id": "tweet-2023-12-14-rockin-eve-announcement",
+    "id": "sns-2023-12-14-rockin-eve-announcement",
     "date": "2023-12-14",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -1391,7 +1406,6 @@
       "ref": "https://x.com/NewJeans_ADOR/status/1735072119825031316"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "tv",
       "rockin-eve"
@@ -1405,14 +1419,15 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "broadcaster": "ABC (Dick Clark's New Year's Rockin' Eve)"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2024-03-27-bunnies-camp-2024-tokyo-dome-announcement",
+    "id": "sns-2024-03-27-bunnies-camp-2024-tokyo-dome-announcement",
     "date": "2024-03-27",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -1432,7 +1447,6 @@
       "ref": "https://x.com/NewJeans_ADOR/status/1772775547749462258"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "bunnies-camp",
       "tokyo-dome",
@@ -1448,14 +1462,15 @@
       "account": "@NewJeans_ADOR",
       "venue": "Tokyo Dome",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2024-03-28-hanni-gucci-beauty-ambassador",
+    "id": "sns-2024-03-28-hanni-gucci-beauty-ambassador",
     "date": "2024-03-28",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "hanni"
@@ -1475,7 +1490,6 @@
       "ref": "https://x.com/NewJeans_ADOR/status/1773230644727775339"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "ambassador",
       "gucci",
@@ -1490,14 +1504,15 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "brand": "Gucci Beauty"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2024-04-25-ador-legal-action-notice",
+    "id": "sns-2024-04-25-ador-legal-action-notice",
     "date": "2024-04-25",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -1517,7 +1532,6 @@
       "ref": "https://x.com/NewJeans_ADOR/status/1783420809111011802"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "ador-statement",
       "legal"
@@ -1531,15 +1545,16 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "issuer": "HYBE"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2024-04-26-how-sweet-concept-photos",
+    "id": "sns-2024-04-26-how-sweet-concept-photos",
     "date": "2024-04-26",
     "time": "11:00",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -1573,15 +1588,16 @@
     "credits": {
       "account": "@newjeans_official (Instagram)",
       "label": "ADOR"
-    }
+    },
+    "platform": "instagram"
   },
   {
-    "id": "tweet-2024-05-10-supernatural-packshot-preorder",
+    "id": "sns-2024-05-10-supernatural-packshot-preorder",
     "date": "2024-05-10",
     "time": "11:10",
     "date_type": "sale_start",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -1617,15 +1633,16 @@
       "account": "@newjeans_official (Instagram)",
       "artwork": "Takashi Murakami",
       "label": "ADOR"
-    }
+    },
+    "platform": "instagram"
   },
   {
-    "id": "tweet-2024-05-11-fujiwara-hiroshi-collab-photos",
+    "id": "sns-2024-05-11-fujiwara-hiroshi-collab-photos",
     "date": "2024-05-11",
     "time": "00:00",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -1659,14 +1676,15 @@
       "account": "@newjeans_official (Instagram)",
       "collaborator": "Hiroshi Fujiwara",
       "label": "ADOR"
-    }
+    },
+    "platform": "instagram"
   },
   {
-    "id": "tweet-2024-05-20-how-sweet-release-schedule-phoning",
+    "id": "sns-2024-05-20-how-sweet-release-schedule-phoning",
     "date": "2024-05-20",
     "date_type": "announce",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -1698,14 +1716,15 @@
     "credits": {
       "label": "ADOR",
       "platform": "Phoning"
-    }
+    },
+    "platform": "phoning"
   },
   {
-    "id": "tweet-2024-09-24-calvin-klein-global-ambassador",
+    "id": "sns-2024-09-24-calvin-klein-global-ambassador",
     "date": "2024-09-24",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "all"
@@ -1725,7 +1744,6 @@
       "ref": "https://x.com/NewJeans_ADOR/status/1838571590318969323"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "ambassador",
       "calvin-klein",
@@ -1740,14 +1758,15 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "brand": "Calvin Klein"
-    }
+    },
+    "platform": "x"
   },
   {
-    "id": "tweet-2025-02-01-njz-official-x-account-opened",
+    "id": "sns-2025-02-01-njz-official-x-account-opened",
     "date": "2025-02-01",
     "date_type": "post",
     "date_precision": "month",
-    "category": "tweet",
+    "category": "sns",
     "entity": "njz",
     "members": [
       "all"
@@ -1766,7 +1785,6 @@
       "type": "none"
     },
     "tags": [
-      "x",
       "@NJZ_official",
       "njz",
       "account"
@@ -1779,14 +1797,15 @@
     },
     "credits": {
       "account": "@NJZ_official"
-    }
+    },
+    "platform": "instagram"
   },
   {
-    "id": "tweet-2025-03-22-njz-complexcon-d-1-teaser",
+    "id": "sns-2025-03-22-njz-complexcon-d-1-teaser",
     "date": "2025-03-22",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "njz",
     "members": [
       "all"
@@ -1805,7 +1824,6 @@
       "type": "none"
     },
     "tags": [
-      "x",
       "@NJZ_official",
       "njz",
       "complexcon",
@@ -1820,14 +1838,15 @@
     "credits": {
       "account": "@NJZ_official",
       "event": "ComplexCon Hong Kong 2025"
-    }
+    },
+    "platform": "other"
   },
   {
-    "id": "tweet-2026-05-07-happy-minji-day",
+    "id": "sns-2026-05-07-happy-minji-day",
     "date": "2026-05-07",
     "date_type": "post",
     "date_precision": "day",
-    "category": "tweet",
+    "category": "sns",
     "entity": "newjeans",
     "members": [
       "minji"
@@ -1847,7 +1866,6 @@
       "ref": "https://x.com/NewJeans_ADOR/status/2052040697583444307"
     },
     "tags": [
-      "x",
       "@NewJeans_ADOR",
       "birthday"
     ],
@@ -1860,6 +1878,7 @@
     "credits": {
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
-    }
+    },
+    "platform": "x"
   }
 ]

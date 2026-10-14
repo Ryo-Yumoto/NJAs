@@ -6,17 +6,19 @@
   const CATS = {
     music:    { ja: "楽曲",   en: "Music",    color: "var(--c-music)",    ratio: "1 / 1" },
     mv:       { ja: "映像",   en: "Video",    color: "var(--c-mv)",       ratio: "16 / 9" },
-    tv:       { ja: "テレビ", en: "TV",       color: "var(--c-tv)",       ratio: "16 / 10" },
+    tv:       { ja: "テレビ・ラジオ", en: "TV / Radio", color: "var(--c-tv)", ratio: "16 / 10" },
     magazine: { ja: "雑誌",   en: "Magazine", color: "var(--c-magazine)", ratio: "4 / 5" },
     web:      { ja: "WEB",    en: "Web",      color: "var(--c-web)",      ratio: "16 / 10" },
     ad:       { ja: "広告",   en: "Ad",       color: "var(--c-ad)",       ratio: "4 / 5" },
-    tweet:    { ja: "X投稿",  en: "X",        color: "var(--c-tweet)",    ratio: "1 / 1" },
+    sns:      { ja: "SNS",    en: "SNS",      color: "var(--c-sns)",      ratio: "1 / 1" },
     goods:    { ja: "グッズ", en: "Goods",    color: "var(--c-goods)",    ratio: "1 / 1" },
     live:     { ja: "ライブ", en: "Live",     color: "var(--c-live)",     ratio: "16 / 10" },
-    notice:   { ja: "公式発表", en: "Notice",  color: "var(--c-notice)",   ratio: "16 / 10" }
+    notice:   { ja: "公式発表", en: "Notice",  color: "var(--c-notice)",   ratio: "16 / 10" },
+    content:  { ja: "公式コンテンツ", en: "Content", color: "var(--c-content)", ratio: "16 / 9" },
+    record:   { ja: "受賞・記録", en: "Record", color: "var(--c-record)",   ratio: "16 / 10" }
   };
   // default order inside a day when no time is given: announcement -> video -> music -> live -> tv -> ad -> web -> magazine -> goods
-  const DAY_ORDER = ["notice", "tweet", "mv", "music", "live", "tv", "ad", "web", "magazine", "goods"];
+  const DAY_ORDER = ["notice", "sns", "mv", "music", "content", "live", "tv", "record", "ad", "web", "magazine", "goods"];
   const DATE_TYPES = { release: "release", announce: "announce", broadcast: "broadcast", publish: "publish", post: "post", sale_start: "on sale", event: "event" };
   const MEMBERS = { all: "all", minji: "Minji", hanni: "Hanni", danielle: "Danielle", haerin: "Haerin", hyein: "Hyein" };
   const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
@@ -188,6 +190,7 @@
     const kind = (it.tags || []).find(t => KIND_TAGS.includes(t));
     $(".cat-label", node).textContent = `${cat.en} · ${cat.ja}${kind ? " · " + kind.replace("-", " ") : ""} · ${DATE_TYPES[it.date_type] || it.date_type}`;
     if (it.time) { const t = $(".time", node); t.hidden = false; t.textContent = `${it.time} KST`; }
+    if (it.platform) { const pl = el("span", { class: "pill platform" }, ({ x: "X", instagram: "Instagram", weverse: "Weverse", phoning: "Phoning", tiktok: "TikTok", youtube: "YouTube", other: "SNS" })[it.platform] || it.platform); $(".meta", node).appendChild(pl); }
     if (it.entity === "njz") { const e = $(".entity", node); e.hidden = false; e.textContent = "NJZ"; }
     if (it.members && it.members.length && !(it.members.length === 1 && it.members[0] === "all")) { const m = $(".members", node); m.hidden = false; m.textContent = it.members.map(x => MEMBERS[x] || x).join(" · "); }
     if (!it.verified && state.showMeta) $(".unverified", node).hidden = false;
@@ -222,7 +225,7 @@
     if (it.local_assets && it.local_assets.length > 1) { const box = $(".assets", node); box.hidden = false; for (const pth of it.local_assets.slice(1)) { const a = el("a", { href: "media/" + pth, target: "_blank", rel: "noopener" }); a.appendChild(el("img", { src: "media/" + pth, alt: it.title.ja, loading: "lazy" })); box.appendChild(a); } }
     const links = $(".links", node);
     if (isYt) links.appendChild(el("a", { href: `https://www.youtube.com/watch?v=${it.media.ref}`, target: "_blank", rel: "noopener" }, "youtube"));
-    if (it.media && it.media.type === "x" && it.media.ref) links.appendChild(el("a", { href: it.media.ref, target: "_blank", rel: "noopener" }, "open on x"));
+    if (it.media && it.media.type === "x" && it.media.ref) links.appendChild(el("a", { href: it.media.ref, target: "_blank", rel: "noopener" }, "open post"));
     links.appendChild(el("a", { href: it.source_url, target: "_blank", rel: "noopener" }, "source"));
     for (const [k, u] of Object.entries(it.links || {})) links.appendChild(el("a", { href: u, target: "_blank", rel: "noopener", class: "svc" }, k.replace("_", " ")));
     if (state.showMeta) (it.reference_urls || []).forEach((u, i) => links.appendChild(el("a", { href: u, target: "_blank", rel: "noopener" }, `ref ${i + 1}`)));

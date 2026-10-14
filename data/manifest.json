@@ -6,9 +6,11 @@
     "magazine.json",
     "web.json",
     "ad.json",
-    "tweet.json",
     "goods.json",
     "live.json",
-    "notice.json"
+    "notice.json",
+    "sns.json",
+    "content.json",
+    "record.json"
   ]
 }

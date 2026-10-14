@@ -1,6 +1,6 @@
 # NJAs - NewJeans Archive
 
-NewJeansの公式活動（楽曲、MV、テレビ出演、雑誌、WEBインタビュー、広告、X投稿、グッズ、ライブ）を日付順に閲覧する非公開アーカイブサイト。
+NewJeansの公式活動（楽曲、MV、テレビ・ラジオ出演、雑誌、WEBインタビュー、広告、SNS投稿、グッズ、ライブ、公式発表、公式コンテンツ、受賞・記録）を日付順に閲覧する非公開アーカイブサイト。
 
 ## コンセプト
 
@@ -72,7 +72,8 @@ python3 scripts/validate.py --fix-order  # 並び順を自動修正して再検�
 | editor_note | 任意 | 編集者メモ（本モードでは非表示） |
 | date_type | 必須 | release / announce / broadcast / publish / post / sale_start / event |
 | date_precision | 必須 | day / month / year |
-| category | 必須 | music / mv / tv / magazine / web / ad / tweet / goods / live / notice |
+| category | 必須 | music / mv / tv（テレビ・ラジオ）/ magazine / web / ad / sns / goods / live / notice / content（公式コンテンツ）/ record（受賞・記録） |
+| platform | 任意 | snsの投稿元（x / instagram / weverse / phoning / tiktok / youtube / other）。contentでは配信元 |
 | entity | 必須 | newjeans（ADOR名義）/ njz（NJZ名義期間）/ predebut（デビュー前） |
 | members | 任意 | all / minji / hanni / danielle / haerin / hyein |
 | title.ja, title.en | 必須 | 日英タイトル。`title.original`に原題 |

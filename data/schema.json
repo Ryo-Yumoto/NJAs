@@ -18,7 +18,7 @@
   "properties": {
     "id": {
       "type": "string",
-      "pattern": "^(music|mv|tv|magazine|web|ad|tweet|goods|live|notice)-[0-9]{4}-[0-9]{2}-[0-9]{2}-[a-z0-9-]+$",
+      "pattern": "^(music|mv|tv|magazine|web|ad|sns|goods|live|notice|content|record)-[0-9]{4}-[0-9]{2}-[0-9]{2}-[a-z0-9-]+$",
       "description": "一意ID。<category>-<YYYY-MM-DD>-<slug>"
     },
     "date": {
@@ -62,12 +62,14 @@
         "magazine",
         "web",
         "ad",
-        "tweet",
+        "sns",
         "goods",
         "live",
-        "notice"
+        "notice",
+        "content",
+        "record"
       ],
-      "description": "notice=公式発表・声明・法的事象（ADOR/HYBE/裁判所/メンバー側の公式発表）"
+      "description": "sns=公式SNS投稿（platformで投稿元を指定）, content=公式コンテンツ（YouTube/Weverse/Phoningのバラエティ・ビハインド・ライブ配信等）, record=受賞・記録（授賞式以外の受賞、チャート、再生数・ストリーミングの節目、認定）, notice=公式発表・声明・法的事象, tv=テレビ・ラジオ"
     },
     "entity": {
       "type": "string",
@@ -77,6 +79,19 @@
         "predebut"
       ],
       "description": "活動名義。newjeans=ADOR名義, njz=NJZ名義期間, predebut=デビュー前（HYBE/Source Music/ADOR/ミン・ヒジン関連）"
+    },
+    "platform": {
+      "type": "string",
+      "enum": [
+        "x",
+        "instagram",
+        "weverse",
+        "phoning",
+        "tiktok",
+        "youtube",
+        "other"
+      ],
+      "description": "snsカテゴリの投稿元。contentカテゴリでは配信元"
     },
     "members": {
       "type": "array",

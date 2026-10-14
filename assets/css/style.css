@@ -6,7 +6,7 @@
   --rule: #d9d8d1; --rule-strong: #0f0f12; --denim: #1f3fb8; --warn: #9a6400; --warn-soft: #f6ead0; --card: #ffffff;
   /* categorical palette: validated for CVD-safe adjacency in both themes (see docs/data-policy.md) */
   --c-music: #2a78d6; --c-mv: #d8306b; --c-tv: #008300; --c-magazine: #6250d6; --c-web: #1baf7a;
-  --c-ad: #eda100; --c-tweet: #a0522d; --c-goods: #eb6834; --c-live: #c2185b; --c-notice: #0f0f12;
+  --c-ad: #eda100; --c-sns: #a0522d; --c-goods: #eb6834; --c-live: #c2185b; --c-notice: #0f0f12; --c-content: #0b7285; --c-record: #9c36b5;
   --f-display: "Instrument Serif", "Times New Roman", serif;
   --f-ui: "Inter Tight", "Noto Sans JP", -apple-system, BlinkMacSystemFont, "Hiragino Sans", sans-serif;
   --f-jp: "Noto Sans JP", "Hiragino Sans", "Inter Tight", sans-serif;
@@ -18,13 +18,13 @@
   :root:not([data-theme="light"]) {
     --paper: #0c0c0e; --paper-2: #141417; --ink: #f2f1ec; --ink-2: #b9b8b1; --ink-3: #74747c;
     --rule: #232328; --rule-strong: #f2f1ec; --denim: #7a97ff; --warn: #e3b35a; --warn-soft: #30250e; --card: #121215;
-    --c-music: #3987e5; --c-mv: #e0457f; --c-tv: #008300; --c-magazine: #9085e9; --c-web: #199e70; --c-ad: #c98500; --c-tweet: #c9693f; --c-goods: #d95926; --c-live: #e8508a; --c-notice: #f2f1ec;
+    --c-music: #3987e5; --c-mv: #e0457f; --c-tv: #008300; --c-magazine: #9085e9; --c-web: #199e70; --c-ad: #c98500; --c-sns: #c9693f; --c-goods: #d95926; --c-live: #e8508a; --c-notice: #f2f1ec; --c-content: #22b8cf; --c-record: #cc5de8;
   }
 }
 :root[data-theme="dark"] {
   --paper: #0c0c0e; --paper-2: #141417; --ink: #f2f1ec; --ink-2: #b9b8b1; --ink-3: #74747c;
   --rule: #232328; --rule-strong: #f2f1ec; --denim: #7a97ff; --warn: #e3b35a; --warn-soft: #30250e; --card: #121215;
-  --c-music: #3987e5; --c-mv: #e0457f; --c-tv: #008300; --c-magazine: #9085e9; --c-web: #199e70; --c-ad: #c98500; --c-tweet: #c9693f; --c-goods: #d95926; --c-live: #e8508a; --c-notice: #f2f1ec;
+  --c-music: #3987e5; --c-mv: #e0457f; --c-tv: #008300; --c-magazine: #9085e9; --c-web: #199e70; --c-ad: #c98500; --c-sns: #c9693f; --c-goods: #d95926; --c-live: #e8508a; --c-notice: #f2f1ec; --c-content: #22b8cf; --c-record: #cc5de8;
 }
 
 * { box-sizing: border-box; }

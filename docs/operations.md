@@ -72,6 +72,8 @@ http://localhost:8080/ で表示確認。URLの`#`以降に絞り込み状態が
 | magazine | 各出版社の号案内ページ、公式Instagramの掲載告知 |
 | web | 媒体の記事URL |
 | ad | ブランド公式プレスリリース、公式X |
-| tweet | https://x.com/NewJeans_ADOR |
+| sns | https://x.com/NewJeans_ADOR 、Instagram @newjeans_official、Weverse、Phoning、TikTok |
+| content | https://www.youtube.com/@NewJeans_official の再生リスト、Weverse LIVE |
+| record | Billboard、Circle Chart、Oricon、ADOR公式SNSの節目告知、受賞式公式サイト |
 | goods | Weverse Shop、公式サイトのNOTICE |
 | live | 公式サイトのNOTICE、主催者・フェス公式サイト、Weverse告知 |

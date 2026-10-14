@@ -8,11 +8,13 @@
 |---|---|---|
 | music | 配信開始日（KST基準） | release |
 | mv | 公式YouTube公開日（KST基準） | release |
-| tv | 放送日（放送国の現地時刻） | broadcast |
+| tv | 放送日（放送国の現地時刻）。ラジオを含む | broadcast |
 | magazine | 発売日。不明なら号の発行月（date_precision=month） | publish |
 | web | 記事公開日 | publish |
 | ad | アンバサダー就任等は発表日（announce）、CM・キャンペーン公開は公開日（release） | announce / release |
-| tweet | 投稿日（KST基準） | post |
+| sns | 投稿日（KST基準）。platformに投稿元を記す | post |
+| content | 公開・配信日（KST基準） | release / broadcast |
+| record | 受賞日・記録達成日（チャートはチャート日付）。認定の発表はannounce | event / announce |
 | goods | 販売開始日。不明なら月（date_precision=month） | sale_start |
 | live | 開催日（現地時刻）。複数日公演は初日をdateにし、noteに全日程を記す | event |
 | notice | 公式発表は発表日（announce）、記者会見・判決・聴聞は実施日（event） | announce / event |
@@ -34,6 +36,10 @@ date_precisionがmonthの場合はdateの日を01、yearの場合は01-01にす�
 ## 2c. 公式発表（notice）の範囲
 
 ADOR、HYBE、裁判所、メンバー側代理人による公式発表・声明・法的事象。記者会見、監査、仮処分、判決、復帰発表など物語の骨格となる出来事を収録する。報道のみで公式文書がない場合はverified=falseとし、一次報道をsource_urlにする。
+
+## 2d. 受賞・記録（record）の範囲
+
+授賞式での受賞（放送の有無を問わず1受賞1レコード。授賞式の放送自体はtv）、チャート記録（Billboard、Circle、Oricon等の順位と日付）、再生数・ストリーミングの節目（MV1億回、Spotify10億回等。公式またはチャート運営の発表日）、販売認定（ミリオンセラー等）。音楽番組の1位はtv側に置き、重複登録しない。
 
 ## 3. 「公式」の範囲
 
@@ -66,7 +72,7 @@ ADOR、HYBE、裁判所、メンバー側代理人による公式発表・声明
 
 ## 4c. 予告系コンテンツ（teaser等）
 
-ティザー、トレーラー、コンセプトフィルム、リリックビデオ等は`mv`カテゴリに入れ、`tags`に次のいずれかを付ける：teaser / trailer / concept-film / lyric-video / track-video / dance-practice / performance / stage-cam。画面上はカテゴリ名の横に種別として表示される。プロモーションスケジュールやコンセプトフォトのSNS投稿は`tweet`カテゴリに入れ、Instagram・Weverse由来の場合はnoteに媒体名を記す。
+ティザー、トレーラー、コンセプトフィルム、リリックビデオ等は`mv`カテゴリに入れ、`tags`に次のいずれかを付ける：teaser / trailer / concept-film / lyric-video / track-video / dance-practice / performance / stage-cam。画面上はカテゴリ名の横に種別として表示される。プロモーションスケジュールやコンセプトフォトのSNS投稿は`sns`カテゴリに入れ、`platform`に投稿元（x / instagram / weverse / phoning / tiktok / youtube）を記す。MV・パフォーマンス・ティザー以外の公式映像（Making Jeans、Jeans' ZINE、Weverse LIVE等）は`content`に入れる。
 
 ## 4d. 活動期（eras）
 
