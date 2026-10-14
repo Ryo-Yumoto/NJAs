@@ -100,13 +100,14 @@
   }
 
   /* ---------- routing ---------- */
-  function go(idx, push = true) {
+  function go(idx, push = true, keepToc = false) {
+    if (!state.pages.length) { state.mode = "page"; renderEmptyPage(); if (!keepToc) closeToc(); return; }
     idx = Math.max(0, Math.min(state.pages.length - 1, idx));
     state.cur = idx; state.mode = "page";
     const p = state.pages[idx];
     if (push && location.hash !== "#" + p.key) history.pushState(null, "", "#" + p.key);
     store.set("njas-bookmark", p.key);
-    renderPage(); closeToc(); window.scrollTo({ top: 0 });
+    renderPage(); if (!keepToc) closeToc(); window.scrollTo({ top: 0 });
     prefetchAround(idx);
   }
   function prefetchAround(idx) {
@@ -138,6 +139,11 @@
   }
 
   /* ---------- page ---------- */
+  function renderEmptyPage() {
+    $("#cover").hidden = true; $("#index").hidden = true; $("#page").hidden = false; $("#pager").hidden = true;
+    const page = $("#page"); page.innerHTML = ""; page.appendChild(el("p", { class: "toc-empty" }, "表示するカテゴリが選択されていません。目次でカテゴリを選んでください。"));
+    $("#bar-pos").textContent = "";
+  }
   function renderPage() {
     const p = state.pages[state.cur];
     $("#cover").hidden = true; $("#index").hidden = true; $("#page").hidden = false; $("#pager").hidden = false;
@@ -154,8 +160,7 @@
     $("#prev-date").textContent = prev ? pageLabel(prev) : "表紙 / COVER";
     $("#prev-btn").disabled = false;
     $("#next-date").textContent = next ? (next.kind === "era" ? "次の期 / NEXT ERA" : pageLabel(next)) : "ここまで / THE END, FOR NOW";
-    const filt = state.cats.size !== Object.keys(CATS).length ? " · FILTERED" : "";
-    $("#bar-pos").textContent = (p.kind === "era" ? `${p.era.title.en.toUpperCase()}` : `${pageLabel(p)}${p.precision === "day" && dayLabel(p.date) ? " · " + dayLabel(p.date) : ""}`) + filt;
+    $("#bar-pos").textContent = p.kind === "era" ? `${p.era.title.en.toUpperCase()}` : `${pageLabel(p)}${p.precision === "day" && dayLabel(p.date) ? " · " + dayLabel(p.date) : ""}`;
   }
   function renderEraPage(p) {
     const era = p.era;
@@ -271,26 +276,33 @@
     for (const [k, v] of Object.entries(CATS)) {
       const b = el("button", { class: "chip", type: "button", "data-cat": k, "aria-pressed": String(state.cats.has(k)) });
       b.style.setProperty("--chip", v.color); b.append(el("i", { class: "sw" }), el("span", {}, `${v.ja}`));
-      b.addEventListener("click", e => {
-        if (e.altKey || e.metaKey) state.cats = new Set([k]); else { if (state.cats.has(k)) state.cats.delete(k); else state.cats.add(k); }
-        if (!state.cats.size) state.cats = new Set(Object.keys(CATS));
-        store.set("njas-cats", [...state.cats].join(","));
+      b.addEventListener("click", () => {
+        if (state.cats.has(k)) state.cats.delete(k); else state.cats.add(k);
+        store.set("njas-cats", state.cats.size === Object.keys(CATS).length ? "" : ("|" + [...state.cats].join(",")));
         applyFilter();
       });
       box.appendChild(b);
     }
-    const all = el("button", { class: "chip chip-all", type: "button" }, "すべて");
+    const tools = el("div", { class: "toc-cat-tools" });
+    const all = el("button", { class: "chip chip-all", type: "button" }, "全選択");
     all.addEventListener("click", () => { state.cats = new Set(Object.keys(CATS)); store.set("njas-cats", ""); applyFilter(); });
-    box.appendChild(all);
+    const none = el("button", { class: "chip chip-all", type: "button" }, "全解除");
+    none.addEventListener("click", () => { state.cats = new Set(); store.set("njas-cats", "|"); applyFilter(); });
+    tools.append(all, none); box.appendChild(tools);
   }
   function applyFilter() {
-    const key = state.pages[state.cur]?.key;
+    const key = state.pages[state.cur]?.key || state.lastKey;
+    if (key) state.lastKey = key;
     buildPages();
     document.querySelectorAll("#toc-cats [data-cat]").forEach(b => b.setAttribute("aria-pressed", String(state.cats.has(b.dataset.cat))));
     if (state.mode === "page") {
-      let i = key ? state.pages.findIndex(p => p.key === key) : -1;
-      if (i < 0 && key) i = nearestDateIdx(key.length === 10 ? key : key + "-01");
-      if (i >= 0) { state.cur = i; renderPage(); } else showCover();
+      if (!state.pages.length) { state.cur = -1; renderEmptyPage(); }
+      else {
+        let i = key ? state.pages.findIndex(p => p.key === key) : -1;
+        if (i < 0 && key) i = nearestDateIdx(key.length === 10 ? key : key + "-01");
+        if (i < 0) i = 0;
+        go(i, true, true);
+      }
     }
     renderToc();
   }
@@ -299,8 +311,7 @@
     const q = $("#toc-q").value.trim().toLowerCase();
     const reveal = $("#toc-reveal").checked;
     const days = state.pages.map((p, i) => ({ p, i })).filter(x => x.p.kind === "day");
-    const filtered = state.cats.size !== Object.keys(CATS).length;
-    if (filtered) nav.appendChild(el("span", { class: "mono toc-filtered" }, `絞り込み中: ${[...state.cats].map(k => CATS[k].ja).join("・")}`));
+    if (!state.cats.size) { body.appendChild(el("p", { class: "toc-empty" }, "表示するカテゴリが選択されていません。")); return; }
 
     // search: flat list over the known range
     if (q) {
@@ -414,7 +425,7 @@
     $("#toc-close").addEventListener("click", closeToc); $("#scrim").addEventListener("click", closeToc);
     $("#toc-q").addEventListener("input", renderToc);
     $("#toc-reveal").addEventListener("change", () => { store.set("njas-toc-reveal", $("#toc-reveal").checked ? "1" : "0"); renderToc(); });
-    const savedCats = store.get("njas-cats"); if (savedCats) { const s = new Set(savedCats.split(",").filter(k => CATS[k])); if (s.size) state.cats = s; }
+    const savedCats = store.get("njas-cats"); if (savedCats && savedCats.startsWith("|")) { state.cats = new Set(savedCats.slice(1).split(",").filter(k => CATS[k])); }
     buildCatChips();
     if (store.get("njas-toc-reveal") === "1") $("#toc-reveal").checked = true;
     $("#toc-date").addEventListener("change", e => jumpToDate(e.target.value));
