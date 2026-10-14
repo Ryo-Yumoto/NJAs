@@ -29,7 +29,15 @@
     "tags": [
       "university-festival"
     ],
-    "editor_note": "Lineup announced by the university (Sept 15, 2022); actual stage not separately confirmed from an official ADOR source."
+    "editor_note": "Lineup announced by the university (Sept 15, 2022); actual stage not separately confirmed from an official ADOR source. | Lineup per Insight (Sept 15, 2022); no post-event report found.",
+    "detail": {
+      "ja": "2022年9月21日、京畿道龍仁市の檀国大学校竹田キャンパスで開かれた大学祭『2022 DANFESTA : WOULD U PLAY!?』（9月21日・22日）の初日にNewJeansが出演した。大学側が9月15日に公開したラインナップでは、初日にNewJeansとAOMG所属のイ・ハイ、ウ・ウォンジェ、Loco、サイモン・ドミニクら、2日目にパク・ジェボムらが予定されていた。NewJeansにとってデビュー後初の大学祭ステージである。",
+      "en": "On September 21, 2022, NewJeans performed on day one of Dankook University's Jukjeon campus festival '2022 DANFESTA : WOULD U PLAY!?' (September 21–22) in Yongin, Gyeonggi-do. The lineup released by the university on September 15 placed NewJeans on day one alongside AOMG artists Lee Hi, Woo Won-jae, Loco and Simon Dominic, with Jay Park and others on day two. It was the group's first university festival stage after debut."
+    },
+    "credits": {
+      "venue": "Dankook University Jukjeon Campus, Yongin",
+      "organizer": "Dankook University"
+    }
   },
   {
     "id": "live-2022-09-24-yonsei-akaraka",
@@ -60,7 +68,16 @@
     ],
     "tags": [
       "university-festival"
-    ]
+    ],
+    "detail": {
+      "ja": "2022年9月24日、ソウル西大門区の延世大学校新村キャンパス野外劇場（露天劇場）で応援祭『AKARAKA』が開かれ、NewJeansが公演の1番手として登場した。延世大のシンボルカラーである青のスポーティーな衣装での出演で、同日の出演者には10CM、Big Naughty、LE SSERAFIM、WINNER、IVE、ZICOが名を連ねた。有料チケット制のため、ラインナップは当日まで非公開とされた。",
+      "en": "On September 24, 2022, NewJeans opened Yonsei University's cheering festival AKARAKA at the open-air amphitheater of the Sinchon campus in Seodaemun-gu, Seoul, appearing in sporty outfits in Yonsei's blue. The day's lineup also included 10CM, Big Naughty, Le Sserafim, Winner, Ive and Zico. Because the event was ticketed, the lineup was kept unannounced until the day."
+    },
+    "credits": {
+      "venue": "Yonsei University Sinchon Campus Open-air Theater, Seoul",
+      "organizer": "Yonsei University"
+    },
+    "editor_note": "Per Wikitree (Sept 24, 2022); setlist not reported."
   },
   {
     "id": "live-2022-10-01-kcon-2022-saudi-arabia",
@@ -93,7 +110,15 @@
       "festival",
       "overseas"
     ],
-    "editor_note": "Event ran Sept 30-Oct 1, 2022; NewJeans on Oct 1 (day 2)."
+    "editor_note": "Event ran Sept 30-Oct 1, 2022; NewJeans on Oct 1 (day 2).",
+    "detail": {
+      "ja": "2022年10月1日、サウジアラビア・リヤドのブルバード・リヤドシティで開かれた『KCON 2022 SAUDI ARABIA』（9月30日・10月1日）の2日目にNewJeansが出演し、「Hype Boy」「Attention」「Cookie」を披露した。同国初開催のKCONで、NewJeansにとって初の海外ステージである。同日の出演者はATEEZ、ヒョリン、ONEUS、STAYC、TO1。",
+      "en": "On October 1, 2022, NewJeans performed on day two of KCON 2022 Saudi Arabia (September 30 – October 1) at Boulevard Riyadh City in Riyadh, singing Hype Boy, Attention and Cookie. It was the first KCON held in the country and the group's first overseas performance. ATEEZ, Hyolyn, ONEUS, STAYC and TO1 shared the day's bill."
+    },
+    "credits": {
+      "venue": "Boulevard Riyadh City, Riyadh",
+      "organizer": "CJ ENM"
+    }
   },
   {
     "id": "live-2022-10-15-kcon-2022-japan",
@@ -126,7 +151,15 @@
       "festival",
       "japan"
     ],
-    "editor_note": "Day assignment (Oct 15) from Wikipedia and an Indonesian lineup report; not confirmed from the official day-by-day lineup."
+    "editor_note": "Day assignment (Oct 15) from Wikipedia and an Indonesian lineup report; not confirmed from the official day-by-day lineup. | Day-2 assignment confirmed by the ja.wikipedia KCON day-by-day lineup table (Oct 15: IVE / JO1 / NewJeans / TXT / fromis_9 / ATBO / DKZ / KQ Fellaz 2).",
+    "detail": {
+      "ja": "2022年10月15日、東京・有明アリーナで開かれた『KCON 2022 JAPAN』（10月14日から16日）の2日目にNewJeansが出演し、「Attention」「Hype Boy」を披露した。同日の出演者はIVE、JO1、TOMORROW X TOGETHER、fromis_9、ATBO、DKZ、KQ Fellaz 2で、MCはファン・ミニョン。NewJeansにとって日本での初ステージである。",
+      "en": "On October 15, 2022, NewJeans performed on day two of KCON 2022 Japan (October 14–16) at Ariake Arena in Tokyo, singing Attention and Hype Boy. The day's lineup also featured Ive, JO1, Tomorrow X Together, fromis_9, ATBO, DKZ and KQ Fellaz 2, with Hwang Min-hyun as MC. It was the group's first stage in Japan."
+    },
+    "credits": {
+      "venue": "Ariake Arena, Tokyo",
+      "organizer": "CJ ENM"
+    }
   },
   {
     "id": "live-2022-12-16-kbs-song-festival",
@@ -159,7 +192,16 @@
     "tags": [
       "broadcast-concert"
     ],
-    "editor_note": "Broadcast-concert; the TV airing may be registered separately in the tv category."
+    "editor_note": "Broadcast-concert; the TV airing may be registered separately in the tv category.",
+    "detail": {
+      "ja": "2022年12月16日、ソウルの蚕室室内体育館で『2022 KBS歌謡大祝祭』が開かれた。観覧申込は12月2日9時から受け付けられ、KBS 2TVが20時30分から生中継した。NewJeansは第1部の最後に「Attention」「Hype Boy」を披露し、ミンジとヘインはプロジェクトユニット「Akiz」としてSHINee「산소 같은 너」をカバーした。司会はナ・イヌ、チャン・ウォニョン、キム・シニョン。",
+      "en": "The 2022 KBS Song Festival was staged on December 16, 2022 at Jamsil Arena in Seoul before a ticketed audience, with applications opened on December 2 at 9 am, and broadcast live on KBS 2TV from 8:30 pm. NewJeans closed Part 1 with Attention and Hype Boy, and Minji and Hyein covered Shinee's Love Like Oxygen as part of the project unit Akiz. Na In-woo, Jang Won-young and Kim Shin-young hosted."
+    },
+    "credits": {
+      "venue": "Jamsil Arena, Seoul",
+      "broadcaster": "KBS 2TV",
+      "host": "Na In-woo, Jang Won-young, Kim Shin-young"
+    }
   },
   {
     "id": "live-2022-12-24-sbs-gayo-daejeon",
@@ -191,7 +233,16 @@
     "tags": [
       "broadcast-concert"
     ],
-    "editor_note": "Broadcast-concert; the TV airing may be registered separately in the tv category."
+    "editor_note": "Broadcast-concert; the TV airing may be registered separately in the tv category.",
+    "detail": {
+      "ja": "2022年12月24日、ソウルの高尺スカイドームで『2022 SBS歌謡大典』が開かれ、SBSが19時30分から生中継した。NewJeansは第1部で「Attention」を、第3部でWonder Girls「Tell Me」のリミックスカバーを披露した。司会はキー、チャ・ウヌ、アン・ユジン。",
+      "en": "The 2022 SBS Gayo Daejeon was staged on December 24, 2022 at Gocheok Sky Dome in Seoul and broadcast live on SBS from 7:30 pm. NewJeans performed Attention in Part 1 and a remixed cover of Wonder Girls' Tell Me in Part 3. Key, Cha Eun-woo and An Yu-jin hosted."
+    },
+    "credits": {
+      "venue": "Gocheok Sky Dome, Seoul",
+      "broadcaster": "SBS",
+      "host": "Key, Cha Eun-woo, An Yu-jin"
+    }
   },
   {
     "id": "live-2023-03-04-tokyo-girls-collection-2023-ss",
@@ -222,7 +273,16 @@
     "tags": [
       "japan",
       "fashion-event"
-    ]
+    ],
+    "detail": {
+      "ja": "2023年3月4日、東京・国立代々木競技場第一体育館で『第36回マイナビ東京ガールズコレクション2023 SPRING/SUMMER』が開かれ、NewJeansがメインアーティストの一組として初出演した。開場12時、開演14時、終演20時30分予定の公演で、NewJeansは開幕ステージで「Ditto」「Hype Boy」「OMG」を披露した。",
+      "en": "On March 4, 2023, NewJeans made their first Tokyo Girls Collection appearance as one of the main artists of the 36th Mynavi Tokyo Girls Collection 2023 Spring/Summer at Yoyogi National Gymnasium's First Gymnasium in Tokyo (doors 12:00, start 14:00, scheduled end 20:30). They performed Ditto, Hype Boy and OMG in the opening stage."
+    },
+    "credits": {
+      "venue": "Yoyogi National Gymnasium First Gymnasium, Tokyo",
+      "organizer": "Tokyo Girls Collection Executive Committee"
+    },
+    "editor_note": "Opening-stage placement per Modelpress headline; three-song set per en.wikipedia list, Modelpress names Ditto only."
   },
   {
     "id": "live-2023-05-03-adb-annual-meeting-opening",
@@ -253,7 +313,15 @@
     "tags": [
       "corporate-event"
     ],
-    "editor_note": "Listed on Wikipedia; could not be confirmed from the ADB programme or news. Treat as unverified. | Reader-facing 'reportedly / とされる' hedging moved here; appearance remains unverified (Wikipedia only)."
+    "editor_note": "Listed on Wikipedia; could not be confirmed from the ADB programme or news. Treat as unverified. | Reader-facing 'reportedly / とされる' hedging moved here; appearance remains unverified (Wikipedia only). | Still unverified: ADB programme and Korean press found mention K-pop performances but not NewJeans by name; songs per en.wikipedia list only.",
+    "detail": {
+      "ja": "2023年5月3日、仁川・松島コンベンシアで開かれた第56回アジア開発銀行（ADB）年次総会（5月2日から4日）の開会式でNewJeansが「Ditto」「OMG」を披露したとされる。企画財政部の案内では総会期間中にK-POP公演や伝統文化公演が予定されており、5月3日にはドローンショーも計画されていた。",
+      "en": "On May 3, 2023, NewJeans are reported to have performed Ditto and OMG at the opening ceremony of the 56th Asian Development Bank Annual Meeting (May 2–4) at Songdo Convensia in Incheon. The Ministry of Economy and Finance's program for the meeting included K-pop and traditional performances, with a drone show planned for May 3."
+    },
+    "credits": {
+      "venue": "Songdo Convensia, Incheon",
+      "organizer": "Asian Development Bank / Ministry of Economy and Finance"
+    }
   },
   {
     "id": "live-2023-06-11-weverse-con-festival-2023",
@@ -285,7 +353,15 @@
     "tags": [
       "festival"
     ],
-    "editor_note": "Festival ran June 10-11, 2023; official notice confirms lineup/venue, day-2 slot confirmed via press coverage."
+    "editor_note": "Festival ran June 10-11, 2023; official notice confirms lineup/venue, day-2 slot confirmed via press coverage. | Song order per en.wikipedia list (Intro, OMG, Ditto, Attention, Hype Boy, Cookie); Leisurebyte recap gives a slightly different order based on fan posts.",
+    "detail": {
+      "ja": "2023年6月11日、ソウル・オリンピック公園のKSPO DOMEで『2023 Weverse Con Festival』（6月10日・11日）の2日目夜の部「Weverse Con」（18時から22時）にNewJeansが出演した。イントロのダンスに続き「OMG」「Ditto」「Attention」「Hype Boy」「Cookie」を披露した。同日の出演者は&TEAM、LIGHTSUM、BAEKHO、イ・ヒョン（MIDNATT）、ENHYPEN、BTOB、ZICOなど。昼の部「Weverse Park」は88芝生広場で開かれた。",
+      "en": "On June 11, 2023, NewJeans performed in the evening 'Weverse Con' program (6 to 10 pm) at KSPO Dome in Seoul's Olympic Park on day two of the 2023 Weverse Con Festival (June 10–11). After an intro dance number they performed OMG, Ditto, Attention, Hype Boy and Cookie. &Team, LIGHTSUM, Baekho, Lee Hyun (MIDNATT), ENHYPEN, BTOB and Zico were among the day's acts; the daytime 'Weverse Park' took place at the 88 Lawn Field."
+    },
+    "credits": {
+      "venue": "KSPO Dome, Olympic Park, Seoul",
+      "organizer": "HYBE / Weverse Company"
+    }
   },
   {
     "id": "live-2023-07-01-bunnies-camp",
@@ -318,7 +394,16 @@
       "fan-meeting",
       "solo-show"
     ],
-    "editor_note": "Dates: 2023-07-01 and 2023-07-02. Also streamed on Weverse."
+    "editor_note": "Dates: 2023-07-01 and 2023-07-02. Also streamed on Weverse.",
+    "detail": {
+      "ja": "2023年7月1日18時と7月2日17時（KST）、ソウルのSKオリンピックハンドボール競技場でNewJeans初のファンミーティング『NewJeans 1st Fan Meeting Bunnies Camp』が2日間開かれ、Weverseでも生配信された。5月12日に開催が発表され、両日とも完売した。スカウトのキャンプをテーマにした約2時間半の公演で、「Attention」「Cookie」「Hype Boy」「Hurt（250 remix）」「Ditto（アコースティックver.、1998振付ver.）」「OMG」に加え、未発表曲「ETA」を初披露した。焚き火を囲む場面では各メンバーがカバー曲を歌い、ミンジはHYUKOH「위잉위잉」、ハニはJ.ae「어제처럼」、ダニエルはLauv「Paris in the Rain」、ヘリンはNell「기억을 걷는 시간」、ヘインはOohyo「청춘」を歌った。",
+      "en": "NewJeans' first fan meeting, 'NewJeans 1st Fan Meeting Bunnies Camp', was held over two days at SK Olympic Handball Gymnasium in Seoul on July 1 (6 pm) and July 2, 2023 (5 pm KST), with a live stream on Weverse; announced on May 12, both shows sold out. The scout-camp-themed show ran about two and a half hours and included Attention, Cookie, Hype Boy, Hurt (250 remix), Ditto (acoustic and 1998 choreography versions), OMG and the first performance of the unreleased ETA. Around a mock campfire each member sang a cover: Minji (Hyukoh's Wi Ing Wi Ing), Hanni (J.ae's Like Yesterday), Danielle (Lauv's Paris in the Rain), Haerin (Nell's Time Spent Walking Through Memories) and Hyein (Oohyo's Youth)."
+    },
+    "credits": {
+      "venue": "SK Olympic Handball Gymnasium, Seoul",
+      "organizer": "ADOR",
+      "streaming": "Weverse"
+    }
   },
   {
     "id": "live-2023-08-03-lollapalooza-chicago-2023",
@@ -352,7 +437,16 @@
       "festival",
       "overseas"
     ],
-    "editor_note": "Official lollapalooza.com 2023 lineup page no longer available; date confirmed via press."
+    "editor_note": "Official lollapalooza.com 2023 lineup page no longer available; date confirmed via press. | Set time per NME stage-times feature; setlist per en.wikipedia list and NME review.",
+    "detail": {
+      "ja": "2023年8月3日（現地時間）、米イリノイ州シカゴのグラント・パークで開かれた『Lollapalooza 2023』初日に、NewJeansがT-Mobileステージの17時から17時45分の枠で出演した。K-POPのガールグループとして同フェス初の出演で、米国での初公演である。生バンドを伴い、「Hype Boy」「Cookie（ロックver.）」「Hurt」「Attention」「Ditto」「OMG」「New Jeans」「Super Shy」「ETA」「Cool With You」「Get Up」「ASAP」を披露した。同日のヘッドライナーはBillie EilishとKarol G。",
+      "en": "On August 3, 2023 (local time), NewJeans performed in the 5:00–5:45 pm slot on the T-Mobile Stage on day one of Lollapalooza 2023 in Grant Park, Chicago, the first K-pop girl group to play the festival and the group's first US performance. Backed by a live band, they performed Hype Boy, Cookie (rock version), Hurt, Attention, Ditto, OMG, New Jeans, Super Shy, ETA, Cool With You, Get Up and ASAP. Billie Eilish and Karol G headlined the day."
+    },
+    "credits": {
+      "venue": "Grant Park, Chicago (T-Mobile Stage)",
+      "organizer": "C3 Presents",
+      "streaming": "Hulu"
+    }
   },
   {
     "id": "live-2023-08-11-kpop-super-live-jamboree",
@@ -385,7 +479,17 @@
     "tags": [
       "festival",
       "government-event"
-    ]
+    ],
+    "detail": {
+      "ja": "2023年8月11日19時から21時、ソウル・上岩のソウルワールドカップ競技場で第25回世界スカウトジャンボリーの閉幕公演『K-POPスーパーライブ』が開かれた。当初8月6日に新万金の野営地で予定されていたが、猛暑と施設の問題で会場と日程が変更された。公演は文化体育観光部の総括で、各60分の2部構成、MCは俳優コン・ミョン、ITZYのユナ、NewJeansのヘインが務めた。NewJeansは第2部に出演し、「ETA」「Hype Boy」を披露した。出演は19組であった。",
+      "en": "On August 11, 2023 from 7 to 9 pm, the 25th World Scout Jamboree closing concert 'K-pop Super Live' was held at Seoul World Cup Stadium in Sangam, Seoul, after being moved from its original August 6 date at the Saemangeum campsite because of heat and facility problems. Overseen by the Ministry of Culture, Sports and Tourism, the show ran in two 60-minute parts and was emceed by actor Gong Myung, ITZY's Yuna and NewJeans' Hyein. NewJeans performed ETA and Hype Boy in the second part. Nineteen acts took part."
+    },
+    "credits": {
+      "venue": "Seoul World Cup Stadium, Seoul",
+      "organizer": "Ministry of Culture, Sports and Tourism",
+      "host": "Gong Myung, Yuna, Hyein"
+    },
+    "editor_note": "Attendance (about 45,000) reported by press on Aug 12, after the event; omitted from reader text. Live TV broadcaster not confirmed from fetched sources (KBS reported elsewhere, unverified here)."
   },
   {
     "id": "live-2023-08-19-summer-sonic-2023-tokyo",
@@ -418,7 +522,15 @@
       "festival",
       "japan"
     ],
-    "editor_note": "Oricon confirms Tokyo-only (Aug 19). Official summersonic.com 2023 lineup not retrievable."
+    "editor_note": "Oricon confirms Tokyo-only (Aug 19). Official summersonic.com 2023 lineup not retrievable. | Noon slot per TenAsia report (Aug 20, 2023); crowd estimate (about 30,000) reported after the event and omitted.",
+    "detail": {
+      "ja": "2023年8月19日、千葉のZOZOマリンスタジアムで開かれた『SUMMER SONIC 2023』東京公演にNewJeansが出演し、MARINE STAGEの正午12時の枠でステージを行った。出演は3月に発表され、東京のみで大阪公演への出演はなかった。NewJeansにとって日本の音楽フェス初出演で、バンドアレンジの「Ditto」「OMG」で始まり、「Cookie」「Attention」「Hype Boy」「New Jeans」「Super Shy」「ETA」「Cool With You」「Get Up」「ASAP」を披露した。",
+      "en": "On August 19, 2023, NewJeans performed on the Marine Stage at ZOZO Marine Stadium in Chiba at the Tokyo edition of Summer Sonic 2023, in the 12:00 noon slot. Their appearance, announced in March, was Tokyo-only with no Osaka date, and it was the group's first Japanese music festival. The set opened with band arrangements of Ditto and OMG and continued with Cookie, Attention, Hype Boy, New Jeans, Super Shy, ETA, Cool With You, Get Up and ASAP."
+    },
+    "credits": {
+      "venue": "ZOZO Marine Stadium, Chiba (MARINE STAGE)",
+      "organizer": "Creativeman Productions"
+    }
   },
   {
     "id": "live-2023-09-14-seoul-national-univ-festival",
@@ -450,7 +562,14 @@
     "tags": [
       "university-festival"
     ],
-    "editor_note": "Sources conflict on whether NewJeans was on the SNU lineup; unverified. | Reader-facing 'reportedly / とされる' hedging moved here; lineup remains unverified."
+    "editor_note": "Sources conflict on whether NewJeans was on the SNU lineup; unverified. | Reader-facing 'reportedly / とされる' hedging moved here; lineup remains unverified. | not enriched: no source found; lineup sources conflict and no official notice located.",
+    "detail": {
+      "ja": "2023年9月14日、ソウル大学校の秋の大学祭の最終夜にNewJeansが出演したとされる。同日は成均館大学校の大学祭にも出演しており、2023年秋の大学祭出演の一環である。",
+      "en": "NewJeans are reported to have performed on the closing night of Seoul National University's autumn festival on September 14, 2023, the same day as their Sungkyunkwan University festival appearance, as part of a run of autumn 2023 university festivals."
+    },
+    "credits": {
+      "venue": "Seoul National University, Seoul"
+    }
   },
   {
     "id": "live-2023-09-14-sungkyunkwan-univ-festival",
@@ -482,7 +601,14 @@
     "tags": [
       "university-festival"
     ],
-    "editor_note": "Date from lineup posts and fan reports only; no official notice found."
+    "editor_note": "Date from lineup posts and fan reports only; no official notice found. | not enriched: no source found beyond lineup posts and fan reports.",
+    "detail": {
+      "ja": "2023年9月14日、ソウルの成均館大学校の秋の大学祭にNewJeansが出演した。『Get Up』活動終了後の大学祭出演で、同日にはソウル大学校の大学祭出演も伝えられている。",
+      "en": "On September 14, 2023, NewJeans performed at Sungkyunkwan University's autumn festival in Seoul, after the end of Get Up promotions; an appearance at Seoul National University's festival the same day was also reported."
+    },
+    "credits": {
+      "venue": "Sungkyunkwan University, Seoul"
+    }
   },
   {
     "id": "live-2023-09-15-hongik-univ-festival",
@@ -514,7 +640,14 @@
     "tags": [
       "university-festival"
     ],
-    "editor_note": "Date from lineup posts and fan reports only; no official notice found."
+    "editor_note": "Date from lineup posts and fan reports only; no official notice found. | not enriched: no source found beyond lineup posts and fan reports.",
+    "detail": {
+      "ja": "2023年9月15日、ソウルの弘益大学校の秋の大学祭にNewJeansが出演した。前日の成均館大学校に続く出演で、同日には慶熙大学校の大学祭にも出演した。",
+      "en": "On September 15, 2023, NewJeans performed at Hongik University's autumn festival in Seoul, the day after Sungkyunkwan University and on the same day as Kyung Hee University's festival."
+    },
+    "credits": {
+      "venue": "Hongik University, Seoul"
+    }
   },
   {
     "id": "live-2023-09-15-kyung-hee-univ-festival",
@@ -546,7 +679,14 @@
     "tags": [
       "university-festival"
     ],
-    "editor_note": "Date from lineup posts and fan reports only; no official notice found."
+    "editor_note": "Date from lineup posts and fan reports only; no official notice found. | not enriched: no source found beyond lineup posts and fan reports; campus (Seoul or Global) unconfirmed.",
+    "detail": {
+      "ja": "2023年9月15日、慶熙大学校の秋の大学祭にNewJeansが出演した。同日の弘益大学校とあわせ、2023年秋の大学祭出演はこれで4校となった。",
+      "en": "On September 15, 2023, NewJeans performed at Kyung Hee University's autumn festival, their fourth university festival of autumn 2023 alongside Hongik University the same day."
+    },
+    "credits": {
+      "venue": "Kyung Hee University"
+    }
   },
   {
     "id": "live-2023-10-07-coke-studio-superpop-japan-2023",
@@ -580,7 +720,15 @@
       "japan",
       "brand-event"
     ],
-    "editor_note": "Dates: 2023-10-07 and 2023-10-08."
+    "editor_note": "Dates: 2023-10-07 and 2023-10-08. | Slot times per Livefans listing; set per en.wikipedia list and Real Sound report.",
+    "detail": {
+      "ja": "2023年10月7日と8日、神奈川・横浜のぴあアリーナMMで日本コカ・コーラ主催の『Coke STUDIO SUPERPOP JAPAN 2023』が開かれ、NewJeansが両日に出演した。出演はMrs. GREEN APPLE、水曜日のカンパネラ、Jon Batiste、BOYNEXTDOOR（7日）など。NewJeansは生バンドを伴い、Jon Batisteとのコラボ曲「Be Who You Are（Real Magic）」でJon Batisteのステージに登場したほか、「Zero」「Hype Boy」「Cookie」「Ditto」「OMG」「New Jeans」「Super Shy」「ETA」を披露した。出演時間は7日18時10分、8日17時25分。",
+      "en": "On October 7 and 8, 2023, NewJeans performed on both days of Coke STUDIO SUPERPOP JAPAN 2023, held by Coca-Cola Japan at Pia Arena MM in Yokohama, Kanagawa, alongside Mrs. GREEN APPLE, Wednesday Campanella, Jon Batiste and BOYNEXTDOOR (day one). Backed by a live band, they joined Jon Batiste's set for their collaboration Be Who You Are (Real Magic) and performed Zero, Hype Boy, Cookie, Ditto, OMG, New Jeans, Super Shy and ETA. Their slots were 6:10 pm on the 7th and 5:25 pm on the 8th."
+    },
+    "credits": {
+      "venue": "Pia Arena MM, Yokohama",
+      "organizer": "Coca-Cola (Japan)"
+    }
   },
   {
     "id": "live-2023-10-22-music-bank-in-mexico",
@@ -612,7 +760,17 @@
     "tags": [
       "broadcast-concert",
       "overseas"
-    ]
+    ],
+    "detail": {
+      "ja": "2023年10月22日、メキシコシティのパラシオ・デ・ロス・デポルテスでKBS『MUSIC BANK in MEXICO』（ワールドツアー第17回）が開かれ、NewJeansが（G）I-DLE、ITZY、STAYC、AB6IX、TNXとともに出演した。司会はパク・ボゴム。NewJeansは「Hype Boy」「OMG」「New Jeans」「Super Shy」「ETA」を披露し、ダニエルは「Part of Your World」をライブ初披露、ハニは（G）I-DLEのミンニと「Recuérdame」を歌った。公演はKBS 2TVで11月5日に放送されると案内された。",
+      "en": "On October 22, 2023, KBS's Music Bank in Mexico, the 17th show of the Music Bank World Tour, was held at Palacio de los Deportes in Mexico City with NewJeans, (G)I-dle, ITZY, STAYC, AB6IX and TNX, hosted by Park Bo-gum. NewJeans performed Hype Boy, OMG, New Jeans, Super Shy and ETA; Danielle gave the first live performance of Part of Your World, and Hanni sang Recuérdame with Minnie of (G)I-dle. The show was scheduled for broadcast on KBS 2TV on November 5."
+    },
+    "credits": {
+      "venue": "Palacio de los Deportes, Mexico City",
+      "broadcaster": "KBS 2TV",
+      "host": "Park Bo-gum"
+    },
+    "editor_note": "Attendance (about 15,000) per KBS preview published Nov 3, after the event; omitted from reader text."
   },
   {
     "id": "live-2023-11-19-lol-worlds-2023-opening-ceremony",
@@ -643,7 +801,15 @@
     "tags": [
       "esports",
       "brand-event"
-    ]
+    ],
+    "detail": {
+      "ja": "2023年11月19日17時（KST）、ソウルの高尺スカイドームで『2023 League of Legends World Championship』決勝の開幕セレモニーが行われ、NewJeansが大会公式テーマ曲「GODS」を10月3日の公開後初めてライブで披露した。この曲のために制作されたオリジナル振付での公演で、AR演出によりモルデカイザーとレオナが登場する構成であった。セレモニーではRiot Gamesのバーチャルグループ「HEARTSTEEL」も「PARANOIA」を披露した。決勝はT1対Weibo Gamingで、主催はRiot Games。",
+      "en": "On November 19, 2023 at 5 pm KST, NewJeans performed the official Worlds 2023 anthem GODS live for the first time since its October 3 release at the opening ceremony of the League of Legends World Championship final at Gocheok Sky Dome in Seoul. The performance featured choreography created for the song and augmented-reality staging in which Mordekaiser and Leona appeared. Riot Games' virtual group HEARTSTEEL also performed PARANOIA; the final pitted T1 against Weibo Gaming."
+    },
+    "credits": {
+      "venue": "Gocheok Sky Dome, Seoul",
+      "organizer": "Riot Games"
+    }
   },
   {
     "id": "live-2023-12-09-music-bank-global-festival-2023-japan",
@@ -677,7 +843,16 @@
       "broadcast-concert",
       "japan"
     ],
-    "editor_note": "Broadcast-concert; the TV airing (2023-12-15) may be registered separately in tv. | Broadcast reworded as the announced schedule; it aired as Part 2 on 2023-12-15."
+    "editor_note": "Broadcast-concert; the TV airing (2023-12-15) may be registered separately in tv. | Broadcast reworded as the announced schedule; it aired as Part 2 on 2023-12-15.",
+    "detail": {
+      "ja": "2023年12月9日、埼玉県所沢市のベルーナドームでKBS『2023 MUSIC BANK GLOBAL FESTIVAL』の日本公演が開かれ、NewJeansが「OMG」「Ditto」「New Jeans」「Super Shy」「ETA」の5曲を披露した。司会はロウン、コ・ミンシ、イ・ヨンジ。ステージでは移動車に乗って客席に近づく演出も行われた。公演は収録され、KBS 2TVで12月15日に第2部として放送されると案内された。",
+      "en": "On December 9, 2023, the Japan show of KBS's 2023 Music Bank Global Festival was held at Belluna Dome in Tokorozawa, Saitama, where NewJeans performed five songs: OMG, Ditto, New Jeans, Super Shy and ETA, including a segment riding a moving platform close to the audience. Rowoon, Go Min-si and Lee Young-ji hosted. The show was recorded for broadcast on KBS 2TV on December 15 as Part 2 of the festival."
+    },
+    "credits": {
+      "venue": "Belluna Dome, Tokorozawa",
+      "broadcaster": "KBS 2TV",
+      "host": "Rowoon, Go Min-si, Lee Young-ji"
+    }
   },
   {
     "id": "live-2023-12-25-sbs-gayo-daejeon",
@@ -709,7 +884,16 @@
     "tags": [
       "broadcast-concert"
     ],
-    "editor_note": "Broadcast-concert; the TV airing may be registered separately in the tv category."
+    "editor_note": "Broadcast-concert; the TV airing may be registered separately in the tv category.",
+    "detail": {
+      "ja": "2023年12月25日、仁川のINSPIREアリーナで『2023 SBS歌謡大典』が開かれ、SBSが生中継した。司会はキー、アン・ユジン、ヨンジュン。NewJeansは第2部で「New Jeans」「ETA」「Ditto」「OMG（FRNK Remix ver.）」を披露した。",
+      "en": "The 2023 SBS Gayo Daejeon was staged on December 25, 2023 at Inspire Arena in Incheon and broadcast live on SBS, hosted by Key, An Yu-jin and Yeonjun. NewJeans performed New Jeans, ETA, Ditto and OMG (FRNK Remix version) in Part 2."
+    },
+    "credits": {
+      "venue": "Inspire Arena, Incheon",
+      "broadcaster": "SBS",
+      "host": "Key, An Yu-jin, Yeonjun"
+    }
   },
   {
     "id": "live-2024-02-03-nike-orchard-road-singapore",
@@ -741,7 +925,16 @@
     "tags": [
       "brand-event",
       "overseas"
-    ]
+    ],
+    "detail": {
+      "ja": "2024年2月3日、シンガポールのナイキ・オーチャードロード旗艦店でナイキ会員向けの非公開イベントが開かれ、NewJeansが「Ditto」「New Jeans」「ETA」「OMG」の4曲を披露した。NewJeansにとってシンガポールでの初公演で、1月にナイキとNewJeansのコラボ商品が発売されたのに合わせた催しである。",
+      "en": "On February 3, 2024, NewJeans performed a four-song set of Ditto, New Jeans, ETA and OMG at a closed-door Nike member event at the Nike Orchard Road flagship store in Singapore, their first performance in the country, held in connection with the Nike x NewJeans collaboration released in January."
+    },
+    "credits": {
+      "venue": "Nike Orchard Road, Singapore",
+      "brand": "Nike"
+    },
+    "editor_note": "Straits Times report could not be fetched; set per en.wikipedia list."
   },
   {
     "id": "live-2024-03-02-iu-her-world-tour-seoul-guest",
@@ -772,7 +965,16 @@
     ],
     "tags": [
       "guest-appearance"
-    ]
+    ],
+    "detail": {
+      "ja": "2024年3月2日、ソウル・オリンピック公園のKSPO DOMEで開かれたIUの『2024 IU H.E.R. WORLD TOUR CONCERT』ソウル公演（3月2日・3日・9日・10日）初日にNewJeansがスペシャルゲストとして登場し、「Ditto」「ETA」と、ヘインがフィーチャリングで参加したIUの「Shh..」を披露した。4日間のゲストはNewJeansが最初で、翌3日はRIIZEが出演した。",
+      "en": "On March 2, 2024, NewJeans appeared as the special guest on the opening night of IU's 2024 IU H.E.R. World Tour Concert in Seoul (March 2, 3, 9 and 10) at KSPO Dome in Olympic Park, performing Ditto, ETA and IU's Shh.., on which Hyein is a featured vocalist. NewJeans were the first of the run's guests; RIIZE appeared the following night."
+    },
+    "credits": {
+      "venue": "KSPO Dome, Seoul",
+      "organizer": "EDAM Entertainment"
+    },
+    "editor_note": "Songs per en.wikipedia list; Harper's Bazaar Korea confirms guest slot and Hyein's Shh.. feature."
   },
   {
     "id": "live-2024-05-21-korea-on-stage-gyeongbokgung",
@@ -806,7 +1008,17 @@
       "broadcast-concert",
       "government-event"
     ],
-    "editor_note": "Hosted by the Korea Heritage Service, organized by KBS; broadcast on KBS2 the same night."
+    "editor_note": "Hosted by the Korea Heritage Service, organized by KBS; broadcast on KBS2 the same night.",
+    "detail": {
+      "ja": "2024年5月21日19時30分、ソウル・景福宮の興礼門前特設舞台で国家遺産庁主催、国家遺産振興院とKBS主管の『2024コリア・オン・ステージ―ニュージェネレーション』が開かれた。NewJeansのダニエルが単独MCを務め、NewJeansは最後の出演者として、勤政殿で事前収録した「Cool With You」のスペシャルステージ映像に続き「Ditto」「ETA」「Super Shy」を披露した。足を負傷したヘインを除く4人での出演で、同日23時15分からKBS 2TVで放送された。ほかにチョン・ソンファとミュージカル『英雄』のキャスト、ソン・ガイン、チャン・ミンホ、fromis_9、ヒョリンなどが出演した。",
+      "en": "On May 21, 2024 at 7:30 pm, the 2024 Korea on Stage – New Generation concert, hosted by the Korea Heritage Service and organized by the Korea Heritage Agency and KBS, was held on a special stage in front of Heungnyemun Gate at Gyeongbokgung Palace, Seoul. NewJeans' Danielle served as sole MC, and NewJeans closed the show with a pre-recorded Cool With You special stage filmed at Geunjeongjeon Hall followed by Ditto, ETA and Super Shy, performing as four in the absence of the injured Hyein. KBS 2TV aired the concert at 11:15 pm the same night. Other performers included Jung Sung-hwa with the cast of the musical Hero, Song Ga-in, Jang Min-ho, fromis_9 and Hyolyn."
+    },
+    "credits": {
+      "venue": "Heungnyemun Gate, Gyeongbokgung Palace, Seoul",
+      "organizer": "Korea Heritage Service / Korea Heritage Agency / KBS",
+      "broadcaster": "KBS 2TV",
+      "host": "Danielle"
+    }
   },
   {
     "id": "live-2024-05-25-korea-univ-ipselenti",
@@ -839,7 +1051,15 @@
     "tags": [
       "university-festival"
     ],
-    "editor_note": "Saturday May 25, 2024 per ADOR schedule reported by Aju News; some outlets print May 24/26. All 7 festival fees were donated to the Korea Student Aid Foundation."
+    "editor_note": "Saturday May 25, 2024 per ADOR schedule reported by Aju News; some outlets print May 24/26. All 7 festival fees were donated to the Korea Student Aid Foundation. | Schedule per The Fact (June 2024) and Aju News; the later donation of all festival proceeds (announced June 7, 2024) is post-dated and omitted from reader text.",
+    "detail": {
+      "ja": "2024年5月25日、ソウルの高麗大学校の応援祭『IPSELENTI』にNewJeansが出演した。ADORが伝えた日程では、この日を皮切りに5月27日の朝鮮大学校、28日の東義大学校と釜山大学校、30日の東国大学校と世宗大学校、31日の中央大学校まで、1週間で7校の大学祭に出演する予定であった。足を負傷したヘインは活動を休止中で、4人での出演である。",
+      "en": "On May 25, 2024, NewJeans performed at Korea University's cheering festival IPSELENTI in Seoul, the first of seven university festivals in one week per the schedule relayed by ADOR: Chosun University on May 27, Dong-eui University and Pusan National University on May 28, Dongguk University and Sejong University on May 30, and Chung-Ang University on May 31. Hyein, on hiatus with a foot injury, did not take part, so four members performed."
+    },
+    "credits": {
+      "venue": "Korea University, Seoul",
+      "organizer": "Korea University"
+    }
   },
   {
     "id": "live-2024-05-27-chosun-univ-festival",
@@ -870,7 +1090,14 @@
     ],
     "tags": [
       "university-festival"
-    ]
+    ],
+    "detail": {
+      "ja": "2024年5月27日、光州の朝鮮大学校の大学祭初日にNewJeansが出演した。5月25日の高麗大学校に続く2024年5月の大学祭出演2校目で、ヘインを除く4人でのステージである。",
+      "en": "On May 27, 2024, NewJeans performed on day one of Chosun University's festival in Gwangju, the second stop of their May 2024 university festival run after Korea University, with four members in Hyein's absence."
+    },
+    "credits": {
+      "venue": "Chosun University, Gwangju"
+    }
   },
   {
     "id": "live-2024-05-28-dongeui-univ-festival",
@@ -901,7 +1128,14 @@
     ],
     "tags": [
       "university-festival"
-    ]
+    ],
+    "detail": {
+      "ja": "2024年5月28日、釜山の東義大学校の大学祭にNewJeansが出演した。同日は釜山大学校の大学祭にも出演しており、1日2校のステージとなった。ヘインを除く4人での出演である。",
+      "en": "On May 28, 2024, NewJeans performed at Dong-eui University's festival in Busan, one of two university stages that day along with Pusan National University, with four members in Hyein's absence."
+    },
+    "credits": {
+      "venue": "Dong-eui University, Busan"
+    }
   },
   {
     "id": "live-2024-05-28-pusan-national-univ-festival",
@@ -932,7 +1166,14 @@
     ],
     "tags": [
       "university-festival"
-    ]
+    ],
+    "detail": {
+      "ja": "2024年5月28日、釜山大学校の大学祭にNewJeansが出演した。同日の東義大学校に続く釜山での2公演目で、ヘインを除く4人での出演である。",
+      "en": "On May 28, 2024, NewJeans performed at Pusan National University's festival, their second Busan stage of the day after Dong-eui University, with four members in Hyein's absence."
+    },
+    "credits": {
+      "venue": "Pusan National University, Busan"
+    }
   },
   {
     "id": "live-2024-05-30-dongguk-univ-festival",
@@ -963,7 +1204,14 @@
     ],
     "tags": [
       "university-festival"
-    ]
+    ],
+    "detail": {
+      "ja": "2024年5月30日、ソウルの東国大学校の大学祭にNewJeansが出演した。同日は世宗大学校の大学祭にも出演した。ヘインを除く4人での出演である。",
+      "en": "On May 30, 2024, NewJeans performed at Dongguk University's festival in Seoul, also appearing at Sejong University's festival the same day, with four members in Hyein's absence."
+    },
+    "credits": {
+      "venue": "Dongguk University, Seoul"
+    }
   },
   {
     "id": "live-2024-05-30-sejong-univ-festival",
@@ -994,7 +1242,14 @@
     ],
     "tags": [
       "university-festival"
-    ]
+    ],
+    "detail": {
+      "ja": "2024年5月30日、ソウルの世宗大学校の大学祭にNewJeansが出演した。同日の東国大学校に続くステージで、ヘインを除く4人での出演である。",
+      "en": "On May 30, 2024, NewJeans performed at Sejong University's festival in Seoul, following their Dongguk University stage the same day, with four members in Hyein's absence."
+    },
+    "credits": {
+      "venue": "Sejong University, Seoul"
+    }
   },
   {
     "id": "live-2024-05-31-chung-ang-univ-festival",
@@ -1025,7 +1280,14 @@
     ],
     "tags": [
       "university-festival"
-    ]
+    ],
+    "detail": {
+      "ja": "2024年5月31日、ソウルの中央大学校の大学祭にNewJeansが出演した。5月25日の高麗大学校から始まった7校の大学祭出演の最終日で、ヘインを除く4人での出演である。",
+      "en": "On May 31, 2024, NewJeans performed at Chung-Ang University's festival in Seoul, the final stop of the seven-festival run that began at Korea University on May 25, with four members in Hyein's absence."
+    },
+    "credits": {
+      "venue": "Chung-Ang University, Seoul"
+    }
   },
   {
     "id": "live-2024-06-02-k-wave-concert-inkigayo",
@@ -1057,7 +1319,15 @@
     "tags": [
       "broadcast-concert"
     ],
-    "editor_note": "Date confirmed via another act's official Weverse notice; NewJeans' set per Wikipedia only."
+    "editor_note": "Date confirmed via another act's official Weverse notice; NewJeans' set per Wikipedia only.",
+    "detail": {
+      "ja": "2024年6月2日、仁川のINSPIREアリーナでSBS『K-Wave Concert Inkigayo』が開かれ、NewJeansが「How Sweet」「Bubble Gum」「ETA」を披露した。『人気歌謡』の特別コンサート編で、ヘインを除く4人での出演である。",
+      "en": "On June 2, 2024, NewJeans performed How Sweet, Bubble Gum and ETA at SBS's K-Wave Concert Inkigayo at Inspire Arena in Incheon, a special concert edition of Inkigayo, appearing as four in Hyein's absence."
+    },
+    "credits": {
+      "venue": "Inspire Arena, Incheon",
+      "broadcaster": "SBS"
+    }
   },
   {
     "id": "live-2024-06-04-coke-studio-tokyo-fan-event",
@@ -1074,8 +1344,8 @@
       "en": "Coke Studio Tokyo fan event 'Coke Studio: Live ft. NewJeans'"
     },
     "summary": {
-      "ja": "東京で開催されたコカ・コーラ×Spotifyのファンイベントで「How Sweet」を海外初披露。",
-      "en": "Gave the first international performance of 'How Sweet' at a Coca-Cola x Spotify fan event in Tokyo."
+      "ja": "東京でのコカ・コーラとSpotifyのファンイベントで「How Sweet」を海外で初披露し、6曲を演奏した。",
+      "en": "Performed a six-song set including the first overseas performance of How Sweet at a Coca-Cola x Spotify fan event in Tokyo."
     },
     "source_url": "https://www.coca-cola.com/us/en/offerings/coke-studio/roster/newjeans",
     "verified": false,
@@ -1090,7 +1360,15 @@
       "brand-event",
       "japan"
     ],
-    "editor_note": "Date (June 4, 2024) from Wikipedia only; Coca-Cola's page gives no date. Unverified. | Reader-facing 'reportedly / とされる' hedging moved here; date and set remain unverified (Wikipedia only)."
+    "editor_note": "Date (June 4, 2024) from Wikipedia only; Coca-Cola's page gives no date. Unverified. | Reader-facing 'reportedly / とされる' hedging moved here; date and set remain unverified (Wikipedia only). | Date June 4, 2024 and setlist confirmed by Oricon (June 5, 2024); venue name not given. Crowd (about 300, standing) reported by Oricon after the event.",
+    "detail": {
+      "ja": "2024年6月4日、東京で日本コカ・コーラとSpotifyによるファンイベント『Coke STUDIO Live with NewJeans, powered by Spotify』が開かれ、NewJeansが約1時間のライブを行った。セットリストは「Zero」「Ditto（250 remix ver.）」「New Jeans」「ETA」「Bubble Gum」「How Sweet」の6曲で、5月24日に発売された「How Sweet」の海外での初披露となった。リハーサル中に足を負傷したヘインは不参加で、ミンジ、ハニ、ダニエル、ヘリンの4人で出演した。",
+      "en": "On June 4, 2024, NewJeans played a roughly one-hour show at Coke STUDIO Live with NewJeans, powered by Spotify, a fan event in Tokyo staged by Coca-Cola Japan and Spotify. The six-song set was Zero, Ditto (250 remix version), New Jeans, ETA, Bubble Gum and How Sweet, the first overseas performance of How Sweet, released May 24. Hyein, injured during rehearsals, was absent, and Minji, Hanni, Danielle and Haerin performed as four."
+    },
+    "credits": {
+      "organizer": "Coca-Cola (Japan) / Spotify",
+      "brand": "Coca-Cola"
+    }
   },
   {
     "id": "live-2024-06-26-bunnies-camp-2024-tokyo-dome",
@@ -1124,7 +1402,18 @@
       "solo-show",
       "japan"
     ],
-    "editor_note": "Dates: 2024-06-26 and 2024-06-27. Guests included YOASOBI and Rina Sawayama. | Two-day attendance figure (about 91,000) removed from the summary; it was reported after the second night."
+    "editor_note": "Dates: 2024-06-26 and 2024-06-27. Guests included YOASOBI and Rina Sawayama. | Two-day attendance figure (about 91,000) removed from the summary; it was reported after the second night. | Two-day attendance (91,200) was announced after the shows and is kept out of reader text; Korea Times reported about 45,000 for night one.",
+    "detail": {
+      "ja": "2024年6月26日と27日、東京ドームでNewJeansの2度目のファンミーティング『NewJeans Fan Meeting Bunnies Camp 2024 Tokyo Dome』が開かれた（開場17時、開演19時）。3月27日に発表された日本初の単独公演で、チケットはBunnies Membership（JP）向けの先行販売を経て完売した。各日約2時間半で24曲を披露し、オープニングアクトはプロデューサーの250、ゲストにYOASOBI（26日、「Biri-Biri」「アイドル」）とRina Sawayama（27日、ヘインと「Bad Friend」）が出演した。セットリストは「Attention」「Cookie」「Hold It Down」（ハニ、ダニエル）「Heel Dance」（ヘリン）「Hype Boy」「Hurt（250 remix）」「New Jeans」「Super Shy」「Get Up」「Cool With You」、ミンジのVaundy「踊り子」、ヘインの竹内まりや「プラスティック・ラブ」（26日）、ダニエルの「Butterflies（With U）」、ハニの松田聖子「青い珊瑚礁」、「Bubble Gum」「Right Now」「ETA」「How Sweet」「Supernatural」「OMG」「Ditto」「ASAP」。ビジュアルと物販は村上隆とのコラボで、King Gnuの新井和輝がベースで参加した。",
+      "en": "NewJeans' second fan meeting, 'NewJeans Fan Meeting Bunnies Camp 2024 Tokyo Dome', was held at Tokyo Dome on June 26 and 27, 2024 (doors 5 pm, start 7 pm). Announced on March 27 as their first solo shows in Japan, it sold out after a Bunnies Membership (JP) presale. Each roughly two-and-a-half-hour show featured 24 songs, with producer 250 as opening act and guests YOASOBI (June 26, Biri-Biri and Idol) and Rina Sawayama (June 27, Bad Friend with Hyein). The setlist ran Attention, Cookie, Hold It Down (Hanni and Danielle), Heel Dance (Haerin), Hype Boy, Hurt (250 remix), New Jeans, Super Shy, Get Up, Cool With You, Minji's cover of Vaundy's Odoriko, Hyein's cover of Mariya Takeuchi's Plastic Love (day one), Danielle's Butterflies (With U), Hanni's cover of Seiko Matsuda's Aoi Sangosho, Bubble Gum, Right Now, ETA, How Sweet, Supernatural, OMG, Ditto and ASAP. Visuals and merchandise were made with Takashi Murakami, and Kazuki Arai of King Gnu played bass."
+    },
+    "credits": {
+      "venue": "Tokyo Dome, Tokyo",
+      "organizer": "ADOR",
+      "opening_act": "250",
+      "guest": "YOASOBI, Rina Sawayama",
+      "art_direction": "Takashi Murakami (visuals and merchandise)"
+    }
   },
   {
     "id": "live-2024-07-21-sbs-gayo-daejeon-summer",
@@ -1158,7 +1447,16 @@
     "tags": [
       "broadcast-concert"
     ],
-    "editor_note": "Held and broadcast live on 2024-07-21 at Inspire Arena, Incheon (not Daegu). Wikipedia lists July 24, which appears to be an error."
+    "editor_note": "Held and broadcast live on 2024-07-21 at Inspire Arena, Incheon (not Daegu). Wikipedia lists July 24, which appears to be an error. | July 21 date confirmed by the SBS Gayo Daejeon article (en.wikipedia); the tv-category record carries July 24.",
+    "detail": {
+      "ja": "2024年7月21日、仁川のINSPIREアリーナで初の夏開催となる『2024 SBS歌謡大典』夏編（SBS Gayo Daejeon Summer）が開かれ、SBSが生中継した。司会はドヨン、ヨンジュン、アン・ユジン。NewJeansは「How Sweet」と「Supernatural」を披露した。",
+      "en": "The first SBS Gayo Daejeon Summer was held on July 21, 2024 at Inspire Arena in Incheon and broadcast live on SBS, hosted by Doyoung, Yeonjun and An Yu-jin. NewJeans performed How Sweet and Supernatural."
+    },
+    "credits": {
+      "venue": "Inspire Arena, Incheon",
+      "broadcaster": "SBS",
+      "host": "Doyoung, Yeonjun, An Yu-jin"
+    }
   },
   {
     "id": "live-2024-08-03-coupang-play-series-halftime-show",
@@ -1191,7 +1489,16 @@
       "sports-event",
       "brand-event"
     ],
-    "editor_note": "Coupang's page confirms NewJeans halftime show in the series; match date Aug 3 confirmed via ADOR/Coupang Play announcement reported by press."
+    "editor_note": "Coupang's page confirms NewJeans halftime show in the series; match date Aug 3 confirmed via ADOR/Coupang Play announcement reported by press.",
+    "detail": {
+      "ja": "2024年8月3日午後、ソウル・麻浦区のソウルワールドカップ競技場で『クーパンプレイシリーズ2024』第2戦のトッテナム・ホットスパー対バイエルン・ミュンヘン戦が行われ、NewJeansが始球式とハーフタイムショーを担当した。ハーフタイムでは「Attention」「Hype Boy」「ETA」「Super Shy」を披露し、衣装はAMBUSHとナイキの協業でNewJeans向けに製作されたユニフォームであった。試合はバイエルンが2対1で勝利した。",
+      "en": "On the afternoon of August 3, 2024, NewJeans performed the ceremonial kick-off and the halftime show at the Coupang Play Series 2024 second match, Tottenham Hotspur vs Bayern Munich, at Seoul World Cup Stadium in Mapo-gu, Seoul. The halftime set consisted of Attention, Hype Boy, ETA and Super Shy, performed in football kits made for the group by AMBUSH and Nike. Bayern won the match 2–1."
+    },
+    "credits": {
+      "venue": "Seoul World Cup Stadium, Seoul",
+      "organizer": "Coupang Play",
+      "brand": "AMBUSH x Nike (kits)"
+    }
   },
   {
     "id": "live-2024-08-22-paris-olympics-team-korea-event",
@@ -1222,7 +1529,14 @@
     "tags": [
       "government-event"
     ],
-    "editor_note": "Invitation-only government event; performers included SEVENTEEN's BSS."
+    "editor_note": "Invitation-only government event; performers included SEVENTEEN's BSS. | Hotel name and NewJeans setlist not reported (Dailian, Aug 22, 2024).",
+    "detail": {
+      "ja": "2024年8月22日、ソウル市内のホテルで尹錫悦大統領夫妻が2024年パリ五輪の韓国選手団を招いた激励晩餐会が開かれ、国民感謝メダルの授与とともにNewJeansが公演を行った。招待制の政府行事で、出席者は約270人。ほかにSEVENTEENのユニットBSS、国楽バンドの상자루、合唱団ハーモナイズ、マジシャンのイ・ウンギョルが出演した。",
+      "en": "On August 22, 2024, President Yoon Suk Yeol and First Lady Kim Keon-hee hosted an appreciation dinner for Korea's 2024 Paris Olympic delegation at a hotel in Seoul, where National Gratitude Medals were presented and NewJeans performed. The invitation-only government event had about 270 attendees; other performers were Seventeen's unit BSS, the fusion gugak band Sangjaru, the choir Harmonize and magician Lee Eun-gyeol."
+    },
+    "credits": {
+      "organizer": "Office of the President (Republic of Korea)"
+    }
   },
   {
     "id": "live-2024-09-05-coke-studio-ultimate-fandom-concert-manila",
@@ -1254,7 +1568,16 @@
     "tags": [
       "brand-event",
       "overseas"
-    ]
+    ],
+    "detail": {
+      "ja": "2024年9月5日、フィリピン・パサイ（マニラ首都圏）のSMモール・オブ・アジア・アリーナでコカ・コーラ・フィリピンの『Coke Studio Ultimate Fandom Concert』が開かれ、NewJeansがヘッドライナーとして最後に登場した。司会はJeremy GlinogaとAC Bonifacio、ほかの出演はALAMAT、Kyle Echarri、Nik Makino、Illest Morena、Zack Tabudlo。NewJeansは「ETA」「Bubble Gum」「Supernatural」「How Sweet」「Zero」の5曲を披露した。当日は大雨の中での開催であった。",
+      "en": "On September 5, 2024, NewJeans headlined and closed Coca-Cola Philippines' Coke Studio Ultimate Fandom Concert at SM Mall of Asia Arena in Pasay, Metro Manila, hosted by Jeremy Glinoga and AC Bonifacio with ALAMAT, Kyle Echarri, Nik Makino, Illest Morena and Zack Tabudlo also on the bill. NewJeans performed five songs: ETA, Bubble Gum, Supernatural, How Sweet and Zero. The show went ahead in heavy rain."
+    },
+    "credits": {
+      "venue": "SM Mall of Asia Arena, Pasay",
+      "organizer": "Coca-Cola Philippines",
+      "host": "Jeremy Glinoga, AC Bonifacio"
+    }
   },
   {
     "id": "live-2024-10-19-coke-studio-live-2024-saitama",
@@ -1288,7 +1611,15 @@
       "japan",
       "brand-event"
     ],
-    "editor_note": "Dates: 2024-10-19 and 2024-10-20 (announced for both days)."
+    "editor_note": "Dates: 2024-10-19 and 2024-10-20 (announced for both days). | Set per Billboard Japan report (Oct 21, 2024); en.wikipedia list adds Attention/Ditto/OMG as the medley components.",
+    "detail": {
+      "ja": "2024年10月19日と20日、さいたまスーパーアリーナで日本コカ・コーラの『Coke STUDIO LIVE 2024』（開場14時、開演15時）が開かれ、NewJeansが両日ヘッドライナーとして出演した。出演はNewJeansのほかCreepy Nuts、Rauw Alejandro、Rita Oraなど。NewJeansは「Attention」「Ditto」「OMG」のリミックスメドレーで始め、「OMG」「ETA」「Zero」「How Sweet」を経て「Supernatural」で締めくくった。チケットはGOLD席25,000円、SS席19,000円、S席17,000円（各税込）であった。",
+      "en": "On October 19 and 20, 2024, NewJeans headlined both days of Coca-Cola Japan's Coke STUDIO LIVE 2024 at Saitama Super Arena (doors 2 pm, start 3 pm), on a bill that also included Creepy Nuts, Rauw Alejandro and Rita Ora. Their set opened with a remix medley of Attention, Ditto and OMG and continued with OMG, ETA, Zero and How Sweet before closing with Supernatural. Tickets were priced at 25,000 yen (GOLD), 19,000 yen (SS) and 17,000 yen (S), tax included."
+    },
+    "credits": {
+      "venue": "Saitama Super Arena, Saitama",
+      "organizer": "Coca-Cola (Japan)"
+    }
   },
   {
     "id": "live-2024-12-07-yoasobi-asia-tour-incheon-guest",
@@ -1320,7 +1651,16 @@
     "tags": [
       "guest-appearance"
     ],
-    "editor_note": "Took place after the members' Nov 29, 2024 contract-termination announcement; still listed under newjeans entity."
+    "editor_note": "Took place after the members' Nov 29, 2024 contract-termination announcement; still listed under newjeans entity.",
+    "detail": {
+      "ja": "2024年12月7日、仁川中区のINSPIREアリーナで開かれたYOASOBIの『YOASOBI ASIA TOUR 2024-2025』（超現実）のソウル公演初日（12月7日・8日）に、NewJeansの5人がスペシャルゲストとして出演した。「How Sweet」を披露した後、YOASOBIのikuraとともに「Right Now」「Biri-Biri」を歌った。11月28日の専属契約解除の発表後の出演で、メンバーは個人名で自己紹介し、YOASOBIとのトークで日本語で質問した場面を除きグループ名を口にしなかった。2日目のゲストはAKMU。",
+      "en": "On December 7, 2024, the five NewJeans members appeared as special guests on the first of YOASOBI's two Seoul-area shows (December 7 and 8) of the YOASOBI ASIA TOUR 2024-2025 Cho-genjitsu at Inspire Arena in Jung-gu, Incheon. They performed How Sweet and then sang Right Now and Biri-Biri with YOASOBI's ikura. Appearing after their November 28 announcement terminating their contracts, the members introduced themselves by individual name and did not say the group name except in a question posed in Japanese during the talk with YOASOBI. AKMU guested on the second night."
+    },
+    "credits": {
+      "venue": "Inspire Arena, Incheon",
+      "organizer": "Livet (promoter)",
+      "guest_of": "YOASOBI"
+    }
   },
   {
     "id": "live-2024-12-14-music-bank-global-festival-2024-fukuoka",
@@ -1352,7 +1692,16 @@
       "broadcast-concert",
       "japan"
     ],
-    "editor_note": "Date per en/ja Wikipedia; no official notice fetched."
+    "editor_note": "Date per en/ja Wikipedia; no official notice fetched. | Two-day attendance (about 70,000) reported by Natalie after the event; omitted from reader text.",
+    "detail": {
+      "ja": "2024年12月14日、福岡のみずほPayPayドーム福岡で『2024 MUSIC BANK GLOBAL FESTIVAL in JAPAN』（12月14日・15日、開場15時、開演17時）の初日が開かれ、NewJeansが出演して「Super Shy」「How Sweet」「Supernatural」を披露した。初日の出演者はTOMORROW X TOGETHER、ATEEZ、WayV、STAYC、NMIXX、xikers、RIIZE、EVNNE、TRENDZ、INIなど。司会はシン・イェウン、ムン・サンミン、ホン・ウンチェで、公演は収録のうえKBS 2TVで12月19日に放送されると案内された。",
+      "en": "On December 14, 2024, NewJeans performed Super Shy, How Sweet and Supernatural on day one of the 2024 Music Bank Global Festival in Japan (December 14–15, doors 3 pm, start 5 pm) at Mizuho PayPay Dome Fukuoka. The day-one bill also included Tomorrow X Together, ATEEZ, WayV, STAYC, NMIXX, xikers, RIIZE, EVNNE, TRENDZ and INI; Shin Ye-eun, Moon Sang-min and Hong Eun-chae hosted. The show was recorded for broadcast on KBS 2TV on December 19."
+    },
+    "credits": {
+      "venue": "Mizuho PayPay Dome Fukuoka",
+      "broadcaster": "KBS 2TV",
+      "host": "Shin Ye-eun, Moon Sang-min, Hong Eun-chae"
+    }
   },
   {
     "id": "live-2024-12-25-sbs-gayo-daejeon",
@@ -1384,7 +1733,16 @@
     "tags": [
       "broadcast-concert"
     ],
-    "editor_note": "Broadcast-concert; the TV airing may be registered separately in the tv category."
+    "editor_note": "Broadcast-concert; the TV airing may be registered separately in the tv category.",
+    "detail": {
+      "ja": "2024年12月25日、仁川のINSPIREアリーナで『2024 SBS歌謡大典』冬編（SBS Gayo Daejeon Winter）が開かれ、SBSが生中継した。司会はドヨン、ヨンジュン、アン・ユジン。NewJeansは「Ditto（250 remix）」「Cookie」「Hype Boy」を披露した。",
+      "en": "The 2024 SBS Gayo Daejeon Winter was staged on December 25, 2024 at Inspire Arena in Incheon and broadcast live on SBS, hosted by Doyoung, Yeonjun and An Yu-jin. NewJeans performed Ditto (250 remix), Cookie and Hype Boy."
+    },
+    "credits": {
+      "venue": "Inspire Arena, Incheon",
+      "broadcaster": "SBS",
+      "host": "Doyoung, Yeonjun, An Yu-jin"
+    }
   },
   {
     "id": "live-2024-12-31-countdown-japan-2425",
@@ -1417,7 +1775,15 @@
       "festival",
       "japan"
     ],
-    "editor_note": "Festival ran Dec 28-31, 2024; NewJeans on Dec 31 only. Announced by ADOR on Nov 6, 2024."
+    "editor_note": "Festival ran Dec 28-31, 2024; NewJeans on Dec 31 only. Announced by ADOR on Nov 6, 2024.",
+    "detail": {
+      "ja": "2024年12月31日、千葉・幕張メッセ国際展示場で開かれたrockin'on主催の『COUNTDOWN JAPAN 24/25』（12月28日から31日）の最終日に、NewJeansがEARTH STAGEの20時05分からの枠で出演した。出演は11月6日にADORが発表し、K-POPグループとして同フェス初の出演である。12月29日のチェジュ航空機事故を受けて韓国では公演の中止が相次いだが、NewJeansは予定どおり出演すると12月30日までに発表した。セットリストは「OMG（FRNK Remix）」「Cookie」「Right Now」「Supernatural」「Hype Boy」「ETA」「How Sweet」「Bubble Gum」「Ditto」。",
+      "en": "On December 31, 2024, the final day of rockin'on's COUNTDOWN JAPAN 24/25 (December 28–31) at Makuhari Messe in Chiba, NewJeans performed on the EARTH STAGE in the 8:05 pm slot. Their appearance, announced by ADOR on November 6, made them the first K-pop group to play the festival. Although events in Korea were being cancelled after the Jeju Air crash of December 29, NewJeans confirmed by December 30 that they would appear as scheduled. The setlist was OMG (FRNK Remix), Cookie, Right Now, Supernatural, Hype Boy, ETA, How Sweet, Bubble Gum and Ditto."
+    },
+    "credits": {
+      "venue": "Makuhari Messe, Chiba (EARTH STAGE)",
+      "organizer": "rockin'on"
+    }
   },
   {
     "id": "live-2025-03-23-complexcon-hong-kong-2025",
@@ -1451,6 +1817,14 @@
       "overseas",
       "njz"
     ],
-    "editor_note": "Held two days after the Seoul Central District Court's March 21, 2025 injunction in ADOR's favour; ADOR expressed regret over the performance going ahead under the NJZ name. | Removed 'and only' from the English summary (retrospective framing)."
+    "editor_note": "Held two days after the Seoul Central District Court's March 21, 2025 injunction in ADOR's favour; ADOR expressed regret over the performance going ahead under the NJZ name. | Removed 'and only' from the English summary (retrospective framing). | Solo covers per en.wikipedia list; sold-out crowd figure (over 11,000) reported after the event and omitted.",
+    "detail": {
+      "ja": "2025年3月23日、香港のアジアワールド・エキスポで開かれた『ComplexCon Hong Kong 2025』（3月21日から23日）のコンサート「Complex Live」に、メンバー5人がNJZ名義で初めて出演した。ADORを離れての初の独立活動として2月7日に発表されたステージで、未発表の新曲「Pit Stop」を初披露したほか、各メンバーがソロでカバー曲を歌った（ダニエル：TLC「No Scrubs」、ミンジ：UPSAHL「Smile For The Camera」、ヘリン：The Internet「Dontcha」、ヘイン：SWV「Use Your Heart」、ハニ：Ghost Town DJ's「My Boo」）。3月21日にソウル中央地方法院がADORの申し立てた仮処分を認めたことを受け、ステージ上でハニが裁判所の判断を尊重して当面すべての活動を休止すると表明し、ミンジは異議申し立ての手続きを続けると述べた。ADORは当日、現場支援を行う一方で、公演はADORが代理するNewJeans名義で行われるべきとの立場を示した。",
+      "en": "On March 23, 2025, the five members gave their first performance under the name NJZ at Complex Live, the concert of ComplexCon Hong Kong 2025 (March 21–23) at AsiaWorld-Expo. Announced on February 7 as their first independent activity apart from ADOR, the set premiered the unreleased song Pit Stop and included a solo cover by each member: Danielle (TLC's No Scrubs), Minji (UPSAHL's Smile For The Camera), Haerin (The Internet's Dontcha), Hyein (SWV's Use Your Heart) and Hanni (Ghost Town DJ's' My Boo). Two days after the Seoul Central District Court granted ADOR's injunction on March 21, Hanni announced on stage that, respecting the court's decision, the group would pause all activities for the time being, and Minji said they would continue the objection process. ADOR, which provided on-site support, stated that the performance should be given under the NewJeans name it represents."
+    },
+    "credits": {
+      "venue": "AsiaWorld-Expo, Hong Kong",
+      "organizer": "Complex / ComplexCon"
+    }
   }
 ]

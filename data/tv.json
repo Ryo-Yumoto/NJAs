@@ -28,7 +28,16 @@
       "music-show",
       "debut"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年8月4日放送のMnet『M COUNTDOWN』でNewJeansが初の音楽番組ステージに立った。披露曲は「Attention」「Hype Boy」「Cookie」の3曲で、デビューミニアルバム『New Jeans』（8月1日発売）の収録曲である。放送局はMnet、番組は毎週木曜放送の音楽チャート番組で、同日が5人の放送デビューとなった。",
+      "en": "On the August 4, 2022 broadcast of Mnet's M Countdown, NewJeans made their first music-show appearance. They performed three songs from the debut EP New Jeans (released August 1): Attention, Hype Boy and Cookie. M Countdown is Mnet's weekly Thursday chart program; this episode was the group's broadcast debut."
+    },
+    "credits": {
+      "broadcaster": "Mnet",
+      "program": "M COUNTDOWN",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tv-2022-08-05-music-bank-debut-stage",
@@ -57,7 +66,16 @@
       "music-show",
       "debut"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年8月5日放送のKBS 2TV『ミュージックバンク』にNewJeansが初出演し、デビュー曲「Attention」を披露した。同番組は毎週金曜の生放送音楽番組で、前日の『M COUNTDOWN』に続く2つ目の音楽番組ステージとなった。",
+      "en": "NewJeans appeared on KBS 2TV's Music Bank for the first time on August 5, 2022, performing the debut single Attention. Music Bank is KBS's live Friday music program; this was the group's second music-show stage, following M Countdown the previous day."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "program": "Music Bank",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tv-2022-08-07-inkigayo-debut-stage",
@@ -86,7 +104,16 @@
       "music-show",
       "debut"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年8月7日放送のSBS『人気歌謡』にNewJeansが初出演し、「Attention」と「Cookie」の2曲を披露した。『人気歌謡』はSBSの日曜放送の音楽番組で、デビュー週の地上波3局の音楽番組出演はこれで一巡した。",
+      "en": "On August 7, 2022, NewJeans made their first appearance on SBS's Sunday music program Inkigayo, performing Attention and Cookie. With this stage the group had appeared on the music programs of Mnet, KBS and SBS within their debut week."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "Inkigayo",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tv-2022-08-11-mcountdown-attention",
@@ -114,7 +141,15 @@
     "tags": [
       "music-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年8月11日放送のMnet『M COUNTDOWN』でNewJeansが「Attention」を披露した。デビューステージから1週間後の2度目の出演で、この週は「Attention」1曲のステージであった。",
+      "en": "NewJeans performed Attention on the August 11, 2022 episode of Mnet's M Countdown, their second appearance on the program one week after the debut stage. The performance that week was a single-song stage."
+    },
+    "credits": {
+      "broadcaster": "Mnet",
+      "program": "M COUNTDOWN"
+    }
   },
   {
     "id": "tv-2022-08-12-music-bank-hype-boy",
@@ -142,7 +177,15 @@
     "tags": [
       "music-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年8月12日放送のKBS 2TV『ミュージックバンク』でNewJeansが「Hype Boy」を披露した。同曲はデビューミニアルバム『New Jeans』の収録曲で、7月23日にミュージックビデオが公開されていた。音楽番組での「Hype Boy」単独ステージはこの回が最初である。",
+      "en": "On the August 12, 2022 broadcast of KBS 2TV's Music Bank, NewJeans performed Hype Boy, a track from the debut EP New Jeans whose music videos had been released on July 23. This was the first music-show stage devoted to Hype Boy alone."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "program": "Music Bank"
+    }
   },
   {
     "id": "tv-2022-08-13-sbs-radio-love-game",
@@ -172,7 +215,17 @@
     "tags": [
       "radio"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年8月13日、SBSパワーFM（107.7MHz）のラジオ番組『パク・ソヒョンのラブゲーム』にNewJeansのミンジ、ダニエル、ヘリンの3人が出演した。DJは俳優のパク・ソヒョンで、同番組は1999年放送開始の長寿番組である。デビュー後初のラジオ出演にあたり、出演は3人体制であった。",
+      "en": "On August 13, 2022, Minji, Danielle and Haerin appeared on Park So-hyun's Love Game, a program on SBS Power FM (107.7 MHz) hosted by actress Park So-hyun since its 1999 launch. It was the group's first radio appearance after debut, made with three of the five members."
+    },
+    "credits": {
+      "broadcaster": "SBS Power FM",
+      "program": "Park So-hyun's Love Game",
+      "dj": "Park So-hyun"
+    },
+    "editor_note": "Program details per ja.wikipedia radio table; no contemporaneous article found for the broadcast content."
   },
   {
     "id": "tv-2022-08-14-inkigayo-attention",
@@ -200,7 +253,15 @@
     "tags": [
       "music-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年8月14日放送のSBS『人気歌謡』でNewJeansが「Attention」を披露した。『人気歌謡』2度目の出演で、同週は「Attention」1曲のステージであった。",
+      "en": "NewJeans performed Attention on the August 14, 2022 episode of SBS's Inkigayo, their second appearance on the program. The stage that week consisted of Attention only."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "Inkigayo"
+    }
   },
   {
     "id": "tv-2022-08-14-sbs-radio-cultwo-show",
@@ -228,7 +289,17 @@
     "tags": [
       "radio"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年8月14日、SBSパワーFMの平日昼の番組『2時脱出カルトショー』にNewJeansの5人全員が出演した。同番組はお笑いコンビ・カルトのキム・テギュンが進行する公開ラジオで、前日の『パク・ソヒョンのラブゲーム』に続く2日連続のSBSラジオ出演となった。",
+      "en": "On August 14, 2022, all five NewJeans members appeared on SBS Power FM's Cultwo Show (2 O'Clock Escape Cultwo Show), the afternoon program hosted by Kim Tae-gyun of the comedy duo Cultwo. It was the group's second SBS radio appearance in two days, following Park So-hyun's Love Game."
+    },
+    "credits": {
+      "broadcaster": "SBS Power FM",
+      "program": "Cultwo Show",
+      "dj": "Kim Tae-gyun"
+    },
+    "editor_note": "Date and lineup per ja.wikipedia radio table; no contemporaneous article found for the broadcast content."
   },
   {
     "id": "tv-2022-08-18-mcountdown-attention-first-win",
@@ -259,7 +330,16 @@
       "music-show",
       "win"
     ],
-    "verified": true
+    "verified": true,
+    "detail": {
+      "ja": "2022年8月18日放送のMnet『M COUNTDOWN』で、NewJeansの「Attention」が1位候補の少女時代「FOREVER 1」を抑えて1位を獲得した。デビューから約2週間での初の音楽番組1位である。この週は夏季特集のため生放送はなく、NewJeansは受賞コメントを映像で伝えた。",
+      "en": "On the August 18, 2022 episode of Mnet's M Countdown, NewJeans' Attention won first place over the other nominee, Girls' Generation's FOREVER 1. It was the group's first music-show trophy, about two weeks after debut. The episode was a summer special with no live broadcast, and NewJeans delivered their acceptance message in a video."
+    },
+    "credits": {
+      "broadcaster": "Mnet",
+      "program": "M COUNTDOWN"
+    },
+    "editor_note": "Nominees and no-live-broadcast detail per Soompi (Aug 18, 2022) and OSEN."
   },
   {
     "id": "tv-2022-08-19-music-bank-attention-win",
@@ -290,7 +370,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年8月19日放送のKBS 2TV『ミュージックバンク』で、NewJeansの「Attention」が少女時代「FOREVER 1」との1位対決を制し、合計11,150点で1位を獲得した。デジタル音源、放送回数、音盤の各スコアで上回った結果で、前日の『M COUNTDOWN』に続く2つ目のトロフィーである。この回のステージでは「Hype Boy」と「Hurt」を披露した。",
+      "en": "On the August 19, 2022 broadcast of KBS 2TV's Music Bank, Attention won first place with 11,150 points against Girls' Generation's FOREVER 1, leading in the digital, broadcast-count and album scores. It was the group's second trophy, a day after M Countdown. NewJeans performed Hype Boy and Hurt on the episode."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "program": "Music Bank"
+    },
+    "editor_note": "Points and nominee per Newsinside (KBS K-Chart) and Music Bank chart list."
   },
   {
     "id": "tv-2022-08-20-music-core-attention-win",
@@ -319,7 +408,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年8月20日放送のMBC『ショー!音楽中心』で、NewJeansの「Attention」が7,495点で1位を獲得した。『M COUNTDOWN』『ミュージックバンク』に続く3日連続の1位で、同番組での初トロフィーである。",
+      "en": "On the August 20, 2022 broadcast of MBC's Show! Music Core, Attention took first place with 7,495 points, NewJeans' first trophy on that program and their third win in three days after M Countdown and Music Bank."
+    },
+    "credits": {
+      "broadcaster": "MBC",
+      "program": "Show! Music Core"
+    },
+    "editor_note": "Points per Show! Music Core chart list (en.wikipedia); competing nominees not confirmed."
   },
   {
     "id": "tv-2022-08-21-inkigayo-attention-win",
@@ -350,7 +448,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年8月21日放送のSBS『人気歌謡』で、NewJeansの「Attention」が8,273点で1位を獲得した。1位候補は少女時代「FOREVER 1」、ITZY「SNEAKERS」と「Attention」の3曲であった。これで地上波3局とMnetの音楽番組すべてで1位を獲得したことになり、この回では「Hype Boy」を披露した。",
+      "en": "On the August 21, 2022 episode of SBS's Inkigayo, Attention won first place with 8,273 points; the nominees were Girls' Generation's FOREVER 1, ITZY's SNEAKERS and Attention. With this win NewJeans had topped M Countdown, Music Bank, Show! Music Core and Inkigayo. The group performed Hype Boy on the episode."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "Inkigayo"
+    },
+    "editor_note": "Nominees per Joynews24 (Aug 21, 2022); points per Inkigayo chart list. Joynews24 states Attention was performed; en.wikipedia live list records Hype Boy."
   },
   {
     "id": "tv-2022-08-25-mcountdown-hype-boy",
@@ -378,7 +485,15 @@
     "tags": [
       "music-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年8月25日放送のMnet『M COUNTDOWN』でNewJeansが「Hype Boy」を披露した。前週の「Attention」1位に続く出演で、この週のステージは「Hype Boy」であった。",
+      "en": "NewJeans performed Hype Boy on the August 25, 2022 episode of Mnet's M Countdown, the week after Attention's first-place win on the program."
+    },
+    "credits": {
+      "broadcaster": "Mnet",
+      "program": "M COUNTDOWN"
+    }
   },
   {
     "id": "tv-2022-08-26-music-bank-hurt",
@@ -406,7 +521,15 @@
     "tags": [
       "music-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年8月26日放送のKBS 2TV『ミュージックバンク』でNewJeansがデビューミニアルバム収録曲「Hurt」を披露した。同曲のミュージックビデオは7月25日に公開されており、音楽番組での「Hurt」単独ステージはこの回が最初である。",
+      "en": "On the August 26, 2022 broadcast of KBS 2TV's Music Bank, NewJeans performed Hurt, a track from the debut EP whose music video had been released on July 25. It was the first music-show stage devoted to Hurt alone."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "program": "Music Bank"
+    }
   },
   {
     "id": "tv-2022-08-28-inkigayo-attention-win-2",
@@ -437,7 +560,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年8月28日放送のSBS『人気歌謡』で、NewJeansの「Attention」が前週に続き2週連続で1位を獲得した。デビュー活動4週目の最終週にあたり、この回では「Hurt」を披露した。「Attention」の音楽番組1位はこれで通算5回となった。",
+      "en": "On the August 28, 2022 episode of SBS's Inkigayo, Attention won first place for a second consecutive week. The episode fell in the fourth and final week of debut promotions, and NewJeans performed Hurt. The win brought Attention's music-show total to five trophies."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "Inkigayo"
+    },
+    "editor_note": "Fifth-trophy count per OSEN/ANI reports of Aug 28, 2022."
   },
   {
     "id": "tv-2022-09-05-korea-broadcasting-awards",
@@ -465,7 +597,16 @@
     "tags": [
       "award-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年9月5日、ソウル汝矣島のKBSホールで第49回韓国放送大賞の授賞式が開かれ、NewJeansが出席した。同賞は韓国放送協会が主催する放送界の賞で、授賞式はKBSで放送された。NewJeansの楽曲披露は記録されていない。",
+      "en": "On September 5, 2022, the 49th Korea Broadcasting Awards ceremony, organized by the Korean Broadcasters Association, was held at KBS Hall in Yeouido, Seoul, and NewJeans attended. The ceremony was broadcast by KBS. No NewJeans performance is recorded for the event."
+    },
+    "credits": {
+      "venue": "KBS Hall, Seoul",
+      "organizer": "Korean Broadcasters Association"
+    },
+    "editor_note": "Only en.wikipedia live-performance list (performance N/A) found; no press article located. Attendance role unverified."
   },
   {
     "id": "tv-2022-10-08-the-fact-music-awards-2022",
@@ -495,7 +636,15 @@
     "tags": [
       "award-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年10月8日、ソウル・オリンピック公園のKSPO DOMEで『2022 THE FACT MUSIC AWARDS』が開かれ、NewJeansがネクストリーダー賞を受賞した。同賞はザ・ファクトが主催し、サークルチャートのデータと審査、ファン投票で選定される。NewJeansはイントロに続いて「Hype Boy」「Attention」を披露した。ファンNスター選択賞、フォースター賞、アイドルプラス人気賞にもノミネートされていた。",
+      "en": "At the 2022 The Fact Music Awards on October 8, 2022 at KSPO Dome in Seoul's Olympic Park, NewJeans received the Next Leader Award. The ceremony is organized by The Fact and judged on Circle Chart data, a panel and fan voting. NewJeans performed an intro followed by Hype Boy and Attention; they were also nominated for the Fan N Star Choice, Four Star and Idolplus Popularity awards."
+    },
+    "credits": {
+      "venue": "KSPO Dome, Seoul",
+      "organizer": "The Fact / Fan N Star"
+    }
   },
   {
     "id": "tv-2022-10-16-newjeans-code-in-busan",
@@ -528,7 +677,18 @@
       "reality"
     ],
     "verified": false,
-    "editor_note": "Aired Oct 16 - Nov 6, 2022 (end date removed from the reader-facing summary)."
+    "editor_note": "Aired Oct 16 - Nov 6, 2022 (end date removed from the reader-facing summary).",
+    "detail": {
+      "ja": "2022年10月16日12時10分（KST）、SBSで旅行リアリティ番組『NewJeans Code in Busan（뉴진스 코드 인 부산）』の第1話「뉴진스와 부산에서 만나요!」が放送された。釜山広域市と釜山観光公社が製作しSBSが放送する全3話の番組で、9月26日と27日に釜山で撮影された。5人は松島スカイパーク、富平カントン市場、太宗台、多大浦海水浴場などをQRコードを手がかりに巡る。製作総括はソン・ギフン、演出はユ・ギョンソクほか。配信はWavveで行われた。",
+      "en": "NewJeans Code in Busan, a three-episode travel reality series produced by Busan Metropolitan City and the Busan Tourism Organization and distributed by SBS, premiered on SBS TV on October 16, 2022 at 12:10 KST with the episode 'See You in Busan with NewJeans!'. Filmed on September 26 and 27, 2022, it follows the five members as they visit Songdo Sky Park, Bupyeong Kkangtong Market, Taejongdae and Dadaepo Beach, guided by QR codes. Seong Ki-hun was executive producer and Yoo Gyeong-seok among the directors; the series streamed on Wavve."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "producer": "Busan Metropolitan City / Busan Tourism Organization",
+      "executive_producer": "Seong Ki-hun",
+      "director": "Yoo Gyeong-seok, Eom Jin-yong, Kim Na-yeon, Han Seon-woo",
+      "streaming": "Wavve"
+    }
   },
   {
     "id": "tv-2022-11-25-blue-dragon-film-awards-43",
@@ -556,7 +716,16 @@
     "tags": [
       "award-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年11月25日、ソウル汝矣島のKBSホールで第43回青龍映画賞の授賞式が開かれ、NewJeansが祝賀公演の1番手として「Hype Boy」「Attention」を披露した。司会はキム・ヘスとユ・ヨンソクで、KBS 2TVが生中継し、YouTubeとNAVER NOWでも配信された。",
+      "en": "At the 43rd Blue Dragon Film Awards on November 25, 2022 at KBS Hall in Yeouido, Seoul, NewJeans opened the ceremony's performances with Hype Boy followed by Attention. The ceremony, hosted by Kim Hye-soo and Yoo Yeon-seok, was broadcast live on KBS2 and streamed on YouTube and Naver Now."
+    },
+    "credits": {
+      "venue": "KBS Hall, Seoul",
+      "broadcaster": "KBS2",
+      "host": "Kim Hye-soo, Yoo Yeon-seok"
+    }
   },
   {
     "id": "tv-2022-11-26-melon-music-awards-2022",
@@ -586,7 +755,15 @@
     "tags": [
       "award-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年11月26日、ソウルの高尺スカイドームで『Melon Music Awards 2022』が開かれ、NewJeansが新人賞（IVEと同時受賞）とTOP10（本賞）を受賞した。年間アルバム賞（デビューミニアルバム『New Jeans』）と女性グループ賞にもノミネートされた。ステージ「We Are <NewJeans>」では「Cookie」「Hype Boy」「Attention」を披露した。授賞式はMelon、KakaoTV、Wavve、1theKのYouTubeなどで配信された。",
+      "en": "At the 2022 Melon Music Awards on November 26, 2022 at Gocheok Sky Dome in Seoul, NewJeans won Best New Artist (shared with Ive) and a Top 10 Artists bonsang; they were also nominated for Album of the Year (New Jeans) and Best Female Group. Their stage, titled 'We Are <NewJeans>', consisted of Cookie, Hype Boy and Attention. The show streamed on Melon, KakaoTV, Wavve and the 1theK YouTube channel."
+    },
+    "credits": {
+      "venue": "Gocheok Sky Dome, Seoul",
+      "organizer": "Kakao Entertainment / Melon"
+    }
   },
   {
     "id": "tv-2022-11-29-mama-awards-2022-day1",
@@ -614,7 +791,16 @@
     "tags": [
       "award-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年11月29日、大阪の京セラドーム大阪で『2022 MAMA AWARDS』初日が開かれ、NewJeansはIVE、Kep1er、NMIXX、LE SSERAFIMとの合同ステージ「LINNK the Next Generation」に参加した。各グループの曲をメンバーを入れ替えて歌うコラボで、ダニエルは「ELEVEN」、ハニは「WA DA DA」、ミンジは「O.O」、ヘインは「FEARLESS」、ヘリンは「Hype Boy」のパートを担当した。初日の司会はチョン・ソミで、Mnetが生中継した。",
+      "en": "On November 29, 2022, day one of the 2022 MAMA Awards at Kyocera Dome Osaka, NewJeans took part in the collaboration stage 'LINNK the Next Generation' with Ive, Kep1er, Nmixx and Le Sserafim. Members were mixed across each group's songs: Danielle sang on ELEVEN, Hanni on WA DA DA, Minji on O.O, Hyein on FEARLESS and Haerin on Hype Boy. Jeon Somi hosted day one, which Mnet broadcast live."
+    },
+    "credits": {
+      "venue": "Kyocera Dome Osaka",
+      "broadcaster": "Mnet",
+      "host": "Jeon Somi"
+    }
   },
   {
     "id": "tv-2022-11-30-mama-awards-2022-day2",
@@ -642,7 +828,16 @@
     "tags": [
       "award-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年11月30日、京セラドーム大阪での『2022 MAMA AWARDS』2日目にNewJeansが出演し、「NewFriends」と題したステージで「Cookie」「Attention」「Hurt」「Hype Boy（MAMA ver.）」のイントロメドレーに続き「Hype Boy」「Attention」を披露した。NewJeansは年間楽曲賞（Attention）、ベストダンスパフォーマンス女性グループ、ベスト新人女性アーティストなどにノミネートされたが受賞はなく、プロデューサーのミン・ヒジンがブレイクアウトプロデューサー賞を受けた。司会はパク・ボゴム。",
+      "en": "On November 30, 2022, day two of the 2022 MAMA Awards at Kyocera Dome Osaka, NewJeans performed a stage titled 'NewFriends': an intro medley of Cookie, Attention, Hurt and Hype Boy (MAMA version), followed by Hype Boy and Attention. The group was nominated for Song of the Year (Attention), Best Dance Performance Female Group and Best New Female Artist without winning; producer Min Hee-jin received the Breakout Producer award. Park Bo-gum hosted."
+    },
+    "credits": {
+      "venue": "Kyocera Dome Osaka",
+      "broadcaster": "Mnet",
+      "host": "Park Bo-gum"
+    }
   },
   {
     "id": "tv-2022-12-13-asia-artist-awards-2022",
@@ -672,7 +867,16 @@
     "tags": [
       "award-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年12月13日、名古屋の日本ガイシホールで『2022 Asia Artist Awards』が開かれ、NewJeansは新人賞（音楽部門）と、大賞にあたる今年のパフォーマンス賞を受賞した。司会はチャン・ウォニョンとイトゥクで、Star Live OnとKAVECONで配信された。NewJeansは「Attention」を披露した。",
+      "en": "At the 2022 Asia Artist Awards on December 13, 2022 at Nippon Gaishi Hall in Nagoya, NewJeans received Rookie of the Year (Music) and the Performance of the Year grand prize (Daesang). Jang Won-young and Leeteuk hosted, and the show was streamed on Star Live On and KAVECON. NewJeans performed Attention."
+    },
+    "credits": {
+      "venue": "Nippon Gaishi Hall, Nagoya",
+      "organizer": "Star News",
+      "host": "Jang Won-young, Leeteuk"
+    }
   },
   {
     "id": "tv-2022-12-14-yoo-quiz-on-the-block",
@@ -702,7 +906,16 @@
       "variety"
     ],
     "verified": false,
-    "editor_note": "Date from ja.wikipedia; not confirmed on tvN's site."
+    "editor_note": "Date from ja.wikipedia; not confirmed on tvN's site. | Air date confirmed by Kuki News (Dec 15, 2022) ratings report; episode number not confirmed (likely ep. 172).",
+    "detail": {
+      "ja": "2022年12月14日放送のtvN『ユ・クイズON THE BLOCK』にNewJeansの5人が出演し、デビュー準備の過程やアルバム制作の裏話を語った。同回にはソン・フンミン選手の父ソン・ウンジョン監督らも出演した。ニールセン・コリア基準の全国有料世帯視聴率は6.6%で、前回放送から1.3ポイント上昇した。",
+      "en": "All five NewJeans members appeared on the December 14, 2022 episode of tvN's talk show You Quiz on the Block, discussing their pre-debut preparation and album production. The same episode featured Son Woong-jung, father of footballer Son Heung-min. The episode recorded a 6.6 percent nationwide paid-household rating (Nielsen Korea), up 1.3 points from the previous week."
+    },
+    "credits": {
+      "broadcaster": "tvN",
+      "program": "You Quiz on the Block",
+      "host": "Yoo Jae-suk, Jo Se-ho"
+    }
   },
   {
     "id": "tv-2022-12-16-kbs-song-festival-2022",
@@ -732,7 +945,17 @@
     "tags": [
       "year-end"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年12月16日、ソウルの蚕室室内体育館で『2022 KBS歌謡大祝祭』が開かれ、KBS 2TVが20時30分から生中継した。司会はナ・イヌ、チャン・ウォニョン、キム・シニョン。NewJeansは第1部の最後に「Attention」「Hype Boy」を披露したほか、ミンジとヘインはNMIXXのソリュン、IVEのイソ、LE SSERAFIMのホン・ウンチェとのプロジェクトユニット「Akiz」としてSHINee「산소 같은 너（Love Like Oxygen）」をカバーした。番組はY2Kをテーマに構成された。",
+      "en": "The 2022 KBS Song Festival was held on December 16, 2022 at Jamsil Arena in Seoul and broadcast live on KBS 2TV from 8:30 pm KST, hosted by Na In-woo, Jang Won-young and Kim Shin-young. NewJeans closed Part 1 with Attention and Hype Boy, and Minji and Hyein joined Sullyoon (Nmixx), Leeseo (Ive) and Hong Eun-chae (Le Sserafim) as the project unit 'Akiz' for a cover of Shinee's Love Like Oxygen. The show was built around a Y2K theme."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "venue": "Jamsil Arena, Seoul",
+      "host": "Na In-woo, Jang Won-young, Kim Shin-young",
+      "director": "Bang Geul-yi"
+    }
   },
   {
     "id": "tv-2022-12-17-sbs-entertainment-awards-2022",
@@ -760,7 +983,16 @@
     "tags": [
       "award-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年12月17日、ソウル上岩のSBSプリズムタワーで『2022 SBS芸能大賞』が開かれ、NewJeansが祝賀公演として「Attention」を披露した。ステージにはSBS『ゴール打つ女（골 때리는 그녀들）』のチーム「FCバラドリーム（FC발라드림）」が加わった。",
+      "en": "At the 2022 SBS Entertainment Awards on December 17, 2022 at SBS Prism Tower in Sangam, Seoul, NewJeans performed Attention as a celebratory stage, joined by FC Balladream, the team from SBS's Kick a Goal (Gol-ttaerineun Geunyeodeul)."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "venue": "SBS Prism Tower, Seoul"
+    },
+    "editor_note": "Venue and collaboration per en.wikipedia live-performance list; no press article fetched."
   },
   {
     "id": "tv-2022-12-24-sbs-gayo-daejeon-2022",
@@ -788,7 +1020,16 @@
     "tags": [
       "year-end"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年12月24日、ソウルの高尺スカイドームで『2022 SBS歌謡大典』が開かれ、SBSが19時30分から生中継した。司会はSHINeeのキー、ASTROのチャ・ウヌ、IVEのアン・ユジン。NewJeansは第1部で「Attention」を披露し、第3部ではWonder Girls「Tell Me」のリミックスをカバーした。",
+      "en": "The 2022 SBS Gayo Daejeon was held on December 24, 2022 at Gocheok Sky Dome in Seoul and broadcast live on SBS from 7:30 pm KST, hosted by Key (Shinee), Cha Eun-woo (Astro) and An Yu-jin (Ive). NewJeans performed Attention in Part 1 and a remixed cover of Wonder Girls' Tell Me in Part 3."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "venue": "Gocheok Sky Dome, Seoul",
+      "host": "Key, Cha Eun-woo, An Yu-jin"
+    }
   },
   {
     "id": "tv-2022-12-28-ntv-music-award-2022",
@@ -818,7 +1059,15 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2022年12月28日19時から日本テレビ系で生放送された『発表!今年イチバン聴いた歌～年間ミュージックアワード2022～』にNewJeansが出演し、「Attention」を披露した。番組はストリーミングデータをもとにApple Musicの2022年トップソング100を発表する内容で、ホテルニューオータニ幕張から生中継された。NewJeansにとって日本のテレビでの初パフォーマンスであった。",
+      "en": "On December 28, 2022, NewJeans appeared on Nippon TV's year-end special Happyo! Kotoshi Ichiban Kiita Uta: Nenkan Music Award 2022 (発表!今年イチバン聴いた歌～年間ミュージックアワード2022～), broadcast live from 7 pm from Hotel New Otani Makuhari, and performed Attention. The program counts down Apple Music's top 100 songs of 2022 from streaming data. It was the group's first performance on Japanese television."
+    },
+    "credits": {
+      "broadcaster": "Nippon TV",
+      "program": "発表!今年イチバン聴いた歌～年間ミュージックアワード2022～"
+    }
   },
   {
     "id": "tv-2023-01-03-sbs-radio-power-time",
@@ -846,7 +1095,16 @@
     "tags": [
       "radio"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年1月3日午後、SBSパワーFM『チェ・ファジョンのパワータイム』にNewJeansの5人全員が出演した。前日1月2日に発売したシングルアルバム『OMG』の宣伝で、DJのチェ・ファジョンの質問に対し、メンバーはデビュー後の反響を予想していなかったと答えた。ヘインは「OMG」のミュージックビデオについて、意味の解釈は視聴者に委ねたいと述べた。ほかに「Hype Boy」チャレンジへの反応や、1位公約、初精算の使い道などが話題になった。",
+      "en": "On the afternoon of January 3, 2023, all five NewJeans members appeared on Choi Hwa-jung's Power Time on SBS Power FM to promote the single album OMG, released the previous day. Asked by DJ Choi Hwa-jung whether they had expected their reception, the members said they had not. Hyein said the group wanted to leave the meaning of the OMG music video open to viewers; other topics included fan Hype Boy challenge videos, a first-place pledge and how they spent their first earnings."
+    },
+    "credits": {
+      "broadcaster": "SBS Power FM",
+      "program": "Choi Hwa-jung's Power Time",
+      "dj": "Choi Hwa-jung"
+    }
   },
   {
     "id": "tv-2023-01-04-sbs-radio-kim-young-chul",
@@ -875,7 +1133,17 @@
     "tags": [
       "radio"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年1月4日、SBSパワーFMの朝の番組『キム・ヨンチョルのパワーFM』にNewJeansのミンジとダニエルが出演した。同番組はお笑い芸人キム・ヨンチョルが進行する平日午前7時台の番組で、前日の『チェ・ファジョンのパワータイム』に続く『OMG』発売週のラジオ出演である。",
+      "en": "On January 4, 2023, Minji and Danielle appeared on Kim Young-chul's Power FM, the weekday 7 am program on SBS Power FM hosted by comedian Kim Young-chul. It followed the full group's appearance on Choi Hwa-jung's Power Time the previous day during the OMG release week."
+    },
+    "credits": {
+      "broadcaster": "SBS Power FM",
+      "program": "Kim Young-chul's Power FM",
+      "dj": "Kim Young-chul"
+    },
+    "editor_note": "Date and members per ja.wikipedia radio table; no contemporaneous article found."
   },
   {
     "id": "tv-2023-01-07-golden-disc-awards-37",
@@ -905,7 +1173,16 @@
     "tags": [
       "award-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年1月7日、タイ・バンコクのラジャマンガラ・スタジアムで第37回ゴールデンディスクアワードが開かれ、NewJeansは新人賞（IVE、LE SSERAFIMと同時受賞）とデジタル音源部門本賞（「Attention」）を受賞した。「Attention」はデジタル音源大賞にもノミネートされていた。司会はソン・シギョン、イ・ダヒ、ニックン、パク・ソダム。NewJeansはオープニングの1番手として、チアリーディング風のイントロ、新アレンジの「Attention（Golden Disc ver.）」「Hype Boy」、初披露となる「OMG」を続けて披露した。韓国ではJTBC、日本ではTBSとParaviで放送・配信された。",
+      "en": "At the 37th Golden Disc Awards on January 7, 2023 at Rajamangala Stadium in Bangkok, NewJeans won Rookie Artist of the Year (shared with Ive and Le Sserafim) and a Digital Song Bonsang for Attention, which was also nominated for the Digital Daesang. Hosts were Sung Si-kyung, Lee Da-hee, Nichkhun and Park So-dam. NewJeans opened the show with a cheerleading-style intro, a newly arranged Golden Disc version of Attention, Hype Boy and the first performance of OMG. The ceremony aired on JTBC in Korea and TBS/Paravi in Japan."
+    },
+    "credits": {
+      "venue": "Rajamangala Stadium, Bangkok",
+      "broadcaster": "JTBC (Korea), TBS/Paravi (Japan)",
+      "host": "Sung Si-kyung, Lee Da-hee, Nichkhun, Park So-dam"
+    }
   },
   {
     "id": "tv-2023-01-07-music-core-ditto-win",
@@ -935,7 +1212,15 @@
       "win"
     ],
     "verified": false,
-    "editor_note": "ja.wikipedia lists 4 consecutive Music Core wins between Jan 7 and Feb 4, 2023; individual later dates not itemised. | Removed '1st of 4 consecutive weeks through Feb 4' from title/summary (future knowledge)."
+    "editor_note": "ja.wikipedia lists 4 consecutive Music Core wins between Jan 7 and Feb 4, 2023; individual later dates not itemised. | Removed '1st of 4 consecutive weeks through Feb 4' from title/summary (future knowledge). | Nominees and no-appearance per Asia Economy (stoo.com) report; points per Music Core chart list.",
+    "detail": {
+      "ja": "2023年1月7日放送のMBC『ショー!音楽中心』で、NewJeansの「Ditto」が5,843点で1位を獲得した。1位候補はATEEZ「HALAZIA」、NCT DREAM「Candy」と「Ditto」で、NewJeansは同日バンコクでのゴールデンディスクアワード出演のため番組には出演せず、不在での受賞となった。「Ditto」は2022年12月19日に先行公開された楽曲で、音楽番組での1位はこれが最初である。",
+      "en": "On the January 7, 2023 episode of MBC's Show! Music Core, Ditto won first place with 5,843 points against ATEEZ's HALAZIA and NCT Dream's Candy. NewJeans did not appear on the broadcast, being in Bangkok for the Golden Disc Awards the same day. It was the first music-show win for Ditto, pre-released on December 19, 2022."
+    },
+    "credits": {
+      "broadcaster": "MBC",
+      "program": "Show! Music Core"
+    }
   },
   {
     "id": "tv-2023-01-08-inkigayo-ditto-win",
@@ -964,7 +1249,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年1月8日放送のSBS『人気歌謡』で、NewJeansの「Ditto」が6,719点で1位を獲得した。1位候補はATEEZ「HALAZIA」、LE SSERAFIM「ANTIFRAGILE」と「Ditto」で、NewJeansはこの回に出演せず、ステージなしでの受賞であった。『人気歌謡』での「Ditto」初の1位である。",
+      "en": "On the January 8, 2023 episode of SBS's Inkigayo, Ditto took first place with 6,719 points over ATEEZ's HALAZIA and Le Sserafim's ANTIFRAGILE. NewJeans did not appear on the episode, so there was no performance. It was Ditto's first Inkigayo win."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "Inkigayo"
+    },
+    "editor_note": "Nominees and points per TV Daily report of Jan 8, 2023."
   },
   {
     "id": "tv-2023-01-12-mcountdown-omg-win",
@@ -993,7 +1287,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年1月12日放送のMnet『M COUNTDOWN』で、NewJeansの「OMG」が1位候補のNCT DREAM「Candy」を抑え、7,834点で1位を獲得した。1月2日発売のシングルアルバム『OMG』のタイトル曲で、同曲の音楽番組初の1位である。NewJeansは番組に出演せず、不在での受賞となった。",
+      "en": "On the January 12, 2023 episode of Mnet's M Countdown, OMG, the title track of the single album released January 2, won first place with 7,834 points over NCT Dream's Candy. It was the song's first music-show trophy; NewJeans did not appear on the broadcast."
+    },
+    "credits": {
+      "broadcaster": "Mnet",
+      "program": "M COUNTDOWN"
+    },
+    "editor_note": "Nominee and no-appearance per TV Daily; points per M Countdown chart list."
   },
   {
     "id": "tv-2023-01-13-music-bank-ditto-win",
@@ -1022,7 +1325,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年1月13日放送のKBS 2TV『ミュージックバンク』で、NewJeansの「Ditto」がムンビン&サナ「Madness」との1位対決を制し、合計11,011点で1位を獲得した。ムンビン&サナは放送回数とK-POPファン投票で上回ったが、「Ditto」がデジタル音源、音盤、SNSの各スコアで大差をつけた。NewJeansはこの回に出演していない。",
+      "en": "On the January 13, 2023 broadcast of KBS 2TV's Music Bank, Ditto won first place with 11,011 points against Moon Bin & Sanha's Madness. The latter led in broadcast-count and K-pop fan-vote scores, while Ditto led by a wide margin in digital, album and social-media scores. NewJeans did not perform on the episode."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "program": "Music Bank"
+    },
+    "editor_note": "Points and nominee per Newsinside (KBS K-Chart)."
   },
   {
     "id": "tv-2023-01-15-inkigayo-omg-comeback-stage-win",
@@ -1053,7 +1365,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年1月15日放送のSBS『人気歌謡』でNewJeansが『OMG』のカムバックステージを行い、「Ditto」と「OMG」を披露した。音楽番組でのカムバック初ステージであり、「OMG」が1位候補のLE SSERAFIMを抑えて1位を獲得した。同回にはMONSTA X、SF9のカムバックステージもあった。",
+      "en": "On the January 15, 2023 episode of SBS's Inkigayo, NewJeans held their comeback stage for the single album OMG, performing Ditto and OMG. It was their first music-show performance of the comeback, and OMG won first place over Le Sserafim. Monsta X and SF9 also staged comebacks on the episode."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "Inkigayo"
+    },
+    "editor_note": "Nominee (Le Sserafim) and comeback-stage detail per Joynews24 (Jan 15, 2023)."
   },
   {
     "id": "tv-2023-01-19-sbs-radio-cultwo-show-2",
@@ -1083,7 +1404,17 @@
     "tags": [
       "radio"
     ],
-    "verified": true
+    "verified": true,
+    "detail": {
+      "ja": "2023年1月19日、SBSパワーFM『2時脱出カルトショー』にNewJeansの5人全員が出演した。スペシャルDJは歌手のファン・チヨルで、進行はキム・テギュン。メンバーは人気を実感する瞬間を問われ、ダニエルはまだ実感がないと答え、ミンジは「Ditto」が公開2時間でチャート1位になったことに触れた。ヘインは「Ditto」のハミングを自身が録音したと明かし、ダニエルはガイド音源なしで録音していると語った。ほかにビルボードHot 100入りの感想や初精算での家族への贈り物、旧正月の予定が話題になった。",
+      "en": "On January 19, 2023, all five NewJeans members appeared on SBS Power FM's Cultwo Show, with singer Hwang Chi-yeul as special DJ alongside host Kim Tae-gyun. Asked when they feel their popularity, Danielle said it still did not feel real and Minji noted that Ditto reached number one on a chart two hours after release. Hyein said she recorded the humming in Ditto herself, and Danielle said the group records without vocal guides. The members also discussed entering the Billboard Hot 100, gifts bought for family with their first earnings and their Lunar New Year plans."
+    },
+    "credits": {
+      "broadcaster": "SBS Power FM",
+      "program": "Cultwo Show",
+      "dj": "Kim Tae-gyun",
+      "special_dj": "Hwang Chi-yeul"
+    }
   },
   {
     "id": "tv-2023-01-19-seoul-music-awards-32",
@@ -1112,7 +1443,17 @@
       "award-show"
     ],
     "verified": false,
-    "editor_note": "Award per ja.wikipedia; in-person attendance not independently confirmed."
+    "editor_note": "Award per ja.wikipedia; in-person attendance not independently confirmed. | en.wikipedia 32nd SMA page: NewJeans not in performer list; in-person attendance still unconfirmed.",
+    "detail": {
+      "ja": "2023年1月19日、ソウル・オリンピック公園のオリンピック体操競技場（KSPO DOME）で第32回ソウル歌謡大賞が開かれ、NewJeansが新人賞を受賞した。同賞はスポーツソウルが主催し、KBS JoyとU+アイドルLiveで放送・配信された。司会はチェ・ミンホ、ミジュ、キム・イルジュン。NewJeansは人気賞と韓流特別賞にもノミネートされたが、出演者リストには含まれていない。",
+      "en": "At the 32nd Seoul Music Awards on January 19, 2023 at the Olympic Gymnastics Arena (KSPO Dome) in Seoul, NewJeans received the Rookie of the Year award. Organized by Sports Seoul, the ceremony was broadcast on KBS Joy and U+Idol Live and hosted by Choi Min-ho, Mijoo and Kim Il-joong. NewJeans were also nominated for the Popularity Award and the Hallyu Special Award; they are not listed among the performers."
+    },
+    "credits": {
+      "venue": "Olympic Gymnastics Arena (KSPO Dome), Seoul",
+      "organizer": "Sports Seoul",
+      "broadcaster": "KBS Joy, U+Idol Live",
+      "host": "Choi Min-ho, Mijoo, Kim Il-joong"
+    }
   },
   {
     "id": "tv-2023-01-20-music-bank-ditto-omg",
@@ -1140,7 +1481,15 @@
     "tags": [
       "music-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年1月20日放送のKBS 2TV『ミュージックバンク』でNewJeansが「Ditto」と「OMG」を披露した。『OMG』活動での『ミュージックバンク』初ステージである。",
+      "en": "On the January 20, 2023 broadcast of KBS 2TV's Music Bank, NewJeans performed Ditto and OMG, their first Music Bank stage of the OMG promotions."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "program": "Music Bank"
+    }
   },
   {
     "id": "tv-2023-01-26-mcountdown-omg-win-2",
@@ -1171,7 +1520,16 @@
       "music-show",
       "win"
     ],
-    "verified": true
+    "verified": true,
+    "detail": {
+      "ja": "2023年1月26日放送のMnet『M COUNTDOWN』で、NewJeansの「OMG」が1位候補のTAEYANG「VIBE（feat. Jimin of BTS）」を抑えて1位を獲得した。「OMG」の音楽番組1位は通算3回目、同番組では1月12日に続く2回目である。この週は旧正月特集のため生放送がなく、NewJeansは過去ステージの映像で登場した。",
+      "en": "On the January 26, 2023 episode of Mnet's M Countdown, OMG won first place over Taeyang's VIBE (feat. Jimin of BTS). It was the song's third music-show trophy and its second on M Countdown after January 12. There was no live broadcast that week because of a Lunar New Year special, and NewJeans appeared only through a past performance clip."
+    },
+    "credits": {
+      "broadcaster": "Mnet",
+      "program": "M COUNTDOWN"
+    },
+    "editor_note": "Per Soompi (Jan 26, 2023)."
   },
   {
     "id": "tv-2023-01-27-music-bank-omg-win",
@@ -1203,7 +1561,16 @@
       "music-show",
       "win"
     ],
-    "verified": true
+    "verified": true,
+    "detail": {
+      "ja": "2023年1月27日放送のKBS 2TV『ミュージックバンク』で、NewJeansの「OMG」が1位を獲得した。1位候補は同じNewJeansの「Ditto」と「OMG」で、合計7,612点であった。この回では「Ditto」と「OMG」を披露し、受賞コメントでダニエルはミン・ヒジン代表とADORスタッフに、ヘインはファンダムのBunniesに謝意を述べた。",
+      "en": "On the January 27, 2023 broadcast of KBS 2TV's Music Bank, OMG won first place with 7,612 points; both nominees were NewJeans songs, Ditto and OMG. The group performed Ditto and OMG, and in the acceptance speech Danielle thanked CEO Min Hee-jin and the ADOR staff while Hyein thanked the fandom Bunnies."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "program": "Music Bank"
+    },
+    "editor_note": "Per Newsinside (KBS K-Chart) and Music Bank chart list."
   },
   {
     "id": "tv-2023-01-29-inkigayo-ditto-win-2",
@@ -1234,7 +1601,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年1月29日放送のSBS『人気歌謡』で、NewJeansの「Ditto」が7,119点で1位を獲得した。1位候補はTAEYANG「VIBE」、NewJeans「Ditto」「OMG」の3曲で、この回NewJeansは「OMG」を披露した。同週はTOMORROW X TOGETHERやイェソンのカムバックステージがあった。",
+      "en": "On the January 29, 2023 episode of SBS's Inkigayo, Ditto won first place with 7,119 points; the nominees were Taeyang's VIBE and NewJeans' Ditto and OMG. NewJeans performed OMG on the episode, which also featured comeback stages by Tomorrow X Together and Yesung."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "Inkigayo"
+    },
+    "editor_note": "Nominees per Xports News (Jan 29, 2023); points per Inkigayo chart list."
   },
   {
     "id": "tv-2023-02-05-inkigayo-ditto-win-3",
@@ -1263,7 +1639,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年2月5日放送のSBS『人気歌謡』で、NewJeansの「Ditto」が1位を獲得した。1月8日、1月29日に続く同番組3回目の1位で、3週分の1位によるトリプルクラウンとなった。NewJeansはこの回に出演していない。",
+      "en": "On the February 5, 2023 episode of SBS's Inkigayo, Ditto won first place for the third time on the program, after January 8 and 29, completing a triple crown. NewJeans did not appear on the episode."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "Inkigayo"
+    },
+    "editor_note": "Triple crown per Inkigayo 2023 chart list; competing nominees not confirmed."
   },
   {
     "id": "tv-2023-02-11-hanteo-music-awards-2022",
@@ -1291,7 +1676,16 @@
     "tags": [
       "award-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年2月11日、ソウルの蚕室室内体育館で『第30回ハンターミュージックアワーズ2022』の2日目が開かれ、NewJeansは女性部門の今年のルーキー賞（Kep1erと同時受賞）を受賞した。同賞はハンターチャートの販売データを基準とする。大賞は防弾少年団、NCT DREAM、Stray Kidsが受賞した。NewJeansの出席と公演は記録されていない。",
+      "en": "On February 11, 2023, the second day of the 30th Hanteo Music Awards 2022 was held at Jamsil Indoor Gymnasium in Seoul, and NewJeans received the female Rookie of the Year award, shared with Kep1er. The awards are based on Hanteo Chart sales data; the grand prizes went to BTS, NCT Dream and Stray Kids. No NewJeans attendance or performance is recorded."
+    },
+    "credits": {
+      "venue": "Jamsil Indoor Gymnasium, Seoul",
+      "organizer": "Hanteo Chart"
+    },
+    "editor_note": "Per OSEN (Feb 11, 2023); attendance unverified."
   },
   {
     "id": "tv-2023-02-18-circle-chart-music-awards-2022",
@@ -1319,7 +1713,17 @@
     "tags": [
       "award-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年2月18日、ソウル・オリンピック公園のKSPO DOMEで『サークルチャート・ミュージックアワーズ2022』が開かれ、NewJeansは「Attention」で今年の新人賞（音源部門）を受賞した。アルバム部門の新人賞はIVEが受賞した。司会はNCTのドヨンと（G）I-DLEのミヨン。NewJeansはこのほか今年のアーティスト賞（グローバル音源・8月）と新人賞（アルバム部門）にもノミネートされていた。",
+      "en": "At the Circle Chart Music Awards 2022 on February 18, 2023 at KSPO Dome in Seoul's Olympic Park, NewJeans won New Artist of the Year (Digital) for Attention, while Ive took the album-category rookie award. Doyoung (NCT) and Miyeon ((G)I-dle) hosted. NewJeans were also nominated for Artist of the Year – Global Digital Music (August) and New Artist of the Year (Physical)."
+    },
+    "credits": {
+      "venue": "KSPO Dome, Seoul",
+      "organizer": "Circle Chart (KMCA)",
+      "host": "Doyoung, Miyeon"
+    },
+    "editor_note": "Per OSEN (Feb 18, 2023); performance not confirmed."
   },
   {
     "id": "tv-2023-03-19-inkigayo-omg-win-2",
@@ -1348,7 +1752,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年3月19日放送のSBS『人気歌謡』で、NewJeansの「OMG」が5,781点で1位を獲得した。1位候補はBSS（SEVENTEEN）「파이팅 해야지」、NewJeans「Hype Boy」「OMG」の3曲で、NewJeansは番組に出演せず不在での受賞となった。『OMG』活動終了後の1位である。",
+      "en": "On the March 19, 2023 episode of SBS's Inkigayo, OMG won first place with 5,781 points; the nominees were BSS's Fighting, NewJeans' Hype Boy and OMG. NewJeans did not appear on the broadcast. The win came after the end of OMG promotions."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "Inkigayo"
+    },
+    "editor_note": "Nominees per OSEN (Mar 19, 2023); points per chart list."
   },
   {
     "id": "tv-2023-03-26-inkigayo-omg-win-3",
@@ -1377,7 +1790,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年3月26日放送のSBS『人気歌謡』で、NewJeansの「OMG」が6,309点で1位を獲得し、同番組で3週分の1位となるトリプルクラウンを達成した。1位候補はSTAYC「Teddy Bear」、NewJeans「Hype Boy」「OMG」で、NewJeansは出演していない。「OMG」の音楽番組1位は通算6回目である。",
+      "en": "On the March 26, 2023 episode of SBS's Inkigayo, OMG won first place with 6,309 points, completing a triple crown on the program. The nominees were STAYC's Teddy Bear and NewJeans' Hype Boy and OMG; NewJeans did not perform. It was the song's sixth music-show win."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "Inkigayo"
+    },
+    "editor_note": "Per Soompi (Mar 26, 2023)."
   },
   {
     "id": "tv-2023-04-02-inkigayo-hype-boy-win",
@@ -1408,7 +1830,16 @@
       "music-show",
       "win"
     ],
-    "verified": true
+    "verified": true,
+    "detail": {
+      "ja": "2023年4月2日放送のSBS『人気歌謡』で、2022年7月公開の「Hype Boy」が5,932点で1位を獲得した。1位候補はSTAYC「Teddy Bear」、NMIXX「Love Me Like This」と「Hype Boy」で、NewJeansは出演していない。「Hype Boy」の音楽番組1位はこれが最初である。同回はMCのノ・ジョンウィとソ・ボムジュンの最後の放送であった。",
+      "en": "On the April 2, 2023 episode of SBS's Inkigayo, Hype Boy, released in July 2022, won first place with 5,932 points over STAYC's Teddy Bear and NMIXX's Love Me Like This. NewJeans did not appear. It was the song's first music-show trophy, and the episode was the last for hosts Roh Jeong-eui and Seo Bum-june."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "Inkigayo"
+    },
+    "editor_note": "Per Soompi (Apr 2, 2023)."
   },
   {
     "id": "tv-2023-07-01-the-music-day-2023",
@@ -1438,7 +1869,16 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年7月1日、日本テレビ系で千葉・幕張メッセから約8時間生放送された『THE MUSIC DAY 2023』にNewJeansが出演し、「Ditto」を披露した。総合司会は櫻井翔で、番組テーマは「あなたを変えた音」。NewJeansの同番組出演はこれが初めてである。",
+      "en": "On July 1, 2023, NewJeans appeared on Nippon TV's THE MUSIC DAY 2023, an eight-hour live broadcast from Makuhari Messe in Chiba hosted by Sho Sakurai under the theme 'the sound that changed you', and performed Ditto. It was the group's first appearance on the program."
+    },
+    "credits": {
+      "broadcaster": "Nippon TV",
+      "program": "THE MUSIC DAY 2023",
+      "host": "Sho Sakurai"
+    }
   },
   {
     "id": "tv-2023-07-12-fns-music-festival-summer-2023",
@@ -1468,7 +1908,16 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年7月12日18時30分から21時54分までフジテレビ系で生放送された『2023 FNS歌謡祭 夏』にNewJeansが初出演し、21時台に「Ditto」を披露した。司会は相葉雅紀とフジテレビの永島優美アナウンサー。フジテレビの音楽番組への出演はこれが初めてである。",
+      "en": "On July 12, 2023, NewJeans made their first appearance on Fuji TV's 2023 FNS Kayousai Natsu (2023 FNS歌謡祭 夏), broadcast live from 6:30 to 9:54 pm, performing Ditto in the 9 pm block. Masaki Aiba and Fuji TV announcer Yumi Nagashima hosted. It was the group's first Fuji TV music program."
+    },
+    "credits": {
+      "broadcaster": "Fuji TV",
+      "program": "2023 FNS歌謡祭 夏",
+      "host": "Masaki Aiba, Yumi Nagashima"
+    }
   },
   {
     "id": "tv-2023-07-13-mcountdown-super-shy-win",
@@ -1497,7 +1946,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年7月13日放送のMnet『M COUNTDOWN』で、7月7日に先行公開された「Super Shy」が1位候補のSHINee「HARD」を抑え、5,848点で1位を獲得した。ミニアルバム『Get Up』（7月21日発売）の先行曲で、NewJeansは番組に出演せず不在での受賞となった。同回はEXOのカムバックとZEROBASEONEのデビューステージがあった。",
+      "en": "On the July 13, 2023 episode of Mnet's M Countdown, Super Shy, pre-released on July 7 ahead of the EP Get Up (due July 21), won first place with 5,848 points over Shinee's HARD. NewJeans did not appear on the broadcast, which featured EXO's comeback and ZEROBASEONE's debut stage."
+    },
+    "credits": {
+      "broadcaster": "Mnet",
+      "program": "M COUNTDOWN"
+    },
+    "editor_note": "Per Star News (Jul 13, 2023); points per chart list."
   },
   {
     "id": "tv-2023-07-14-music-bank-get-up-comeback-stage",
@@ -1526,7 +1984,15 @@
       "music-show",
       "comeback"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年7月14日放送のKBS 2TV『ミュージックバンク』でNewJeansが『Get Up』活動の最初の音楽番組ステージを行い、先行公開曲「Super Shy」と「New Jeans」を披露した。両曲は7月7日に音源とミュージックビデオが公開されていた。",
+      "en": "On the July 14, 2023 broadcast of KBS 2TV's Music Bank, NewJeans gave their first music-show stage of the Get Up promotions, performing the pre-released tracks Super Shy and New Jeans, both released with music videos on July 7."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "program": "Music Bank"
+    }
   },
   {
     "id": "tv-2023-07-15-ongaku-no-hi-2023",
@@ -1556,7 +2022,16 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年7月15日14時から21時54分までTBS系で生放送された『音楽の日2023』にNewJeansが出演し、「OMG」と宇多田ヒカル「Automatic」のカバーを披露した。『音楽の日』はTBSの夏の長時間音楽特番で、NewJeansの出演はこれが初めてである。",
+      "en": "On July 15, 2023, NewJeans appeared on TBS's Ongaku no Hi 2023 (音楽の日2023), broadcast live from 2:00 to 9:54 pm, performing OMG and a cover of Hikaru Utada's Automatic. It was the group's first appearance on TBS's summer music marathon."
+    },
+    "credits": {
+      "broadcaster": "TBS",
+      "program": "音楽の日2023"
+    },
+    "editor_note": "Songs per en.wikipedia live-performance list (flagged citation needed there); broadcast time per ja.wikipedia."
   },
   {
     "id": "tv-2023-07-16-inkigayo-get-up-comeback-stage",
@@ -1585,7 +2060,15 @@
       "music-show",
       "comeback"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年7月16日放送のSBS『人気歌謡』でNewJeansが「Super Shy」と「New Jeans」を披露した。『Get Up』活動の『人気歌謡』初ステージである。",
+      "en": "On the July 16, 2023 episode of SBS's Inkigayo, NewJeans performed Super Shy and New Jeans, their first Inkigayo stage of the Get Up promotions."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "Inkigayo"
+    }
   },
   {
     "id": "tv-2023-07-21-music-bank-eta-stage",
@@ -1613,7 +2096,15 @@
     "tags": [
       "music-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年7月21日放送のKBS 2TV『ミュージックバンク』でNewJeansがミニアルバム『Get Up』の発売日にあわせ、「Super Shy」「Cool With You」「ETA」の3曲を披露した。「Cool With You」と「ETA」は同日公開の楽曲で、音楽番組での初ステージとなった。",
+      "en": "On the July 21, 2023 broadcast of KBS 2TV's Music Bank, the release day of the EP Get Up, NewJeans performed three tracks: Super Shy, Cool With You and ETA. The latter two were released the same day and received their first music-show stages."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "program": "Music Bank"
+    }
   },
   {
     "id": "tv-2023-07-22-music-core-super-shy-win",
@@ -1644,7 +2135,16 @@
       "music-show",
       "win"
     ],
-    "verified": true
+    "verified": true,
+    "detail": {
+      "ja": "2023年7月22日放送のMBC『ショー!音楽中心』で、NewJeansの「Super Shy」が6,078点で1位を獲得した。同曲の音楽番組1位は『M COUNTDOWN』に続く2回目である。",
+      "en": "On the July 22, 2023 broadcast of MBC's Show! Music Core, Super Shy won first place with 6,078 points, the song's second music-show trophy after M Countdown."
+    },
+    "credits": {
+      "broadcaster": "MBC",
+      "program": "Show! Music Core"
+    },
+    "editor_note": "Points per Music Core chart list; nominees and appearance not confirmed."
   },
   {
     "id": "tv-2023-07-23-inkigayo-super-shy-win",
@@ -1675,7 +2175,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年7月23日放送のSBS『人気歌謡』で、NewJeansの「Super Shy」が1位候補のJung Kook「Seven」とパク・ジェジョン「Let's Say Goodbye」を抑え、6,994点で1位を獲得した。同曲の音楽番組1位は3回目である。この回NewJeansは「Cool With You」と「ETA」を披露した。",
+      "en": "On the July 23, 2023 episode of SBS's Inkigayo, Super Shy won first place with 6,994 points over Jung Kook's Seven and Parc Jae-jung's Let's Say Goodbye, the song's third music-show win. NewJeans performed Cool With You and ETA on the episode."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "Inkigayo"
+    },
+    "editor_note": "Nominees per Korean press summary (Jul 23, 2023)."
   },
   {
     "id": "tv-2023-07-28-music-bank-eta",
@@ -1703,7 +2212,15 @@
     "tags": [
       "music-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年7月28日放送のKBS 2TV『ミュージックバンク』でNewJeansが「ETA」を披露した。『Get Up』活動3週目のステージである。",
+      "en": "NewJeans performed ETA on the July 28, 2023 broadcast of KBS 2TV's Music Bank, in the third week of Get Up promotions."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "program": "Music Bank"
+    }
   },
   {
     "id": "tv-2023-07-30-inkigayo-eta",
@@ -1731,7 +2248,15 @@
     "tags": [
       "music-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年7月30日放送のSBS『人気歌謡』でNewJeansが「ETA」を披露した。",
+      "en": "NewJeans performed ETA on the July 30, 2023 episode of SBS's Inkigayo."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "Inkigayo"
+    }
   },
   {
     "id": "tv-2023-08-03-lollapalooza-chicago-stream",
@@ -1762,7 +2287,15 @@
       "stream"
     ],
     "verified": false,
-    "editor_note": "Festival performance; broadcast/streaming platform not verified from an official source."
+    "editor_note": "Festival performance; broadcast/streaming platform not verified from an official source. | Hulu stream per Hulu schedule and American Songwriter; Weverse stream not confirmed by a source found. Set time per NME stage-times feature.",
+    "detail": {
+      "ja": "2023年8月3日（現地時間）、米シカゴのグラント・パークで開かれた『Lollapalooza 2023』初日に、NewJeansがT-Mobileステージで17時からの枠に出演した。K-POPのガールグループとして同フェスティバル初の出演である。同フェスはHuluが8月3日から6日まで配信し、NewJeansの出演枠はHuluのチャンネル1で米東部時間18時05分に案内されていた。セットリストはコカ・コーラとのコラボ曲を除く全楽曲で構成された。",
+      "en": "On August 3, 2023 (local time), NewJeans performed on the T-Mobile Stage in the 5 pm slot on day one of Lollapalooza 2023 in Grant Park, Chicago, the first K-pop girl group to play the festival. Hulu streamed the festival from August 3 to 6, with the NewJeans set listed on Hulu's Channel 1 at 6:05 pm ET. The set covered the group's catalogue except the Coca-Cola collaborations."
+    },
+    "credits": {
+      "venue": "Grant Park, Chicago (T-Mobile Stage)",
+      "streaming": "Hulu"
+    }
   },
   {
     "id": "tv-2023-08-04-music-bank-eta-2",
@@ -1790,7 +2323,16 @@
     "tags": [
       "music-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年8月4日放送のKBS 2TV『ミュージックバンク』でNewJeansが「ETA」を披露した。前日のシカゴ『Lollapalooza』出演直後のステージである。",
+      "en": "NewJeans performed ETA on the August 4, 2023 broadcast of KBS 2TV's Music Bank, the day after their Lollapalooza set in Chicago."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "program": "Music Bank"
+    },
+    "editor_note": "Whether this stage was pre-recorded is not confirmed."
   },
   {
     "id": "tv-2023-08-06-inkigayo-super-shy",
@@ -1818,7 +2360,15 @@
     "tags": [
       "music-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年8月6日放送のSBS『人気歌謡』でNewJeansが「Super Shy」を披露した。",
+      "en": "NewJeans performed Super Shy on the August 6, 2023 episode of SBS's Inkigayo."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "Inkigayo"
+    }
   },
   {
     "id": "tv-2023-08-10-k-global-heart-dream-awards-2023",
@@ -1846,7 +2396,16 @@
     "tags": [
       "award-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年8月10日午後、ソウル・オリンピック公園のKSPO DOMEで『2023 K Global Heart Dream Awards』が開かれ、NewJeansが（G）I-DLE、aespa、IVE、LE SSERAFIMとともにKグローバルベスト音源賞を受賞した。受賞は前日8月9日に主催側から事前発表された。司会はチョン・ヒョンムとチャン・ドヨンで、授賞式はOTTアプリとウェブサイトで世界に生配信された。",
+      "en": "On the afternoon of August 10, 2023, the 2023 K Global Heart Dream Awards were held at KSPO Dome in Seoul's Olympic Park, and NewJeans received the K Global Best Music Award alongside (G)I-dle, aespa, Ive and Le Sserafim; the award had been announced in advance on August 9. Jun Hyun-moo and Jang Do-yeon hosted, and the ceremony was streamed worldwide via an OTT app and website."
+    },
+    "credits": {
+      "venue": "KSPO Dome, Seoul",
+      "host": "Jun Hyun-moo, Jang Do-yeon"
+    },
+    "editor_note": "Per OSEN (Aug 9, 2023); whether NewJeans attended or performed is not confirmed."
   },
   {
     "id": "tv-2023-08-10-mcountdown-eta-win",
@@ -1875,7 +2434,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年8月10日放送のMnet『M COUNTDOWN』で、NewJeansの「ETA」が1位候補のITZY「CAKE」を抑え、6,136点で1位を獲得した。「ETA」の音楽番組初の1位である。NewJeansは出演しておらず、アンコールの代わりに「ETA」のミュージックビデオが流された。同回はITZYのリュジンとチェリョンがスペシャルMCを務めた。",
+      "en": "On the August 10, 2023 episode of Mnet's M Countdown, ETA won first place with 6,136 points over ITZY's CAKE, the song's first music-show trophy. NewJeans did not appear, so the ETA music video was aired in place of an encore; ITZY's Ryujin and Chaeryeong served as special MCs."
+    },
+    "credits": {
+      "broadcaster": "Mnet",
+      "program": "M COUNTDOWN"
+    },
+    "editor_note": "Per Xports News (Aug 10, 2023)."
   },
   {
     "id": "tv-2023-08-13-inkigayo-cool-with-you",
@@ -1903,7 +2471,15 @@
     "tags": [
       "music-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年8月13日放送のSBS『人気歌謡』でNewJeansが「Cool With You」を披露した。",
+      "en": "NewJeans performed Cool With You on the August 13, 2023 episode of SBS's Inkigayo."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "Inkigayo"
+    }
   },
   {
     "id": "tv-2023-08-16-show-champion-super-shy-win",
@@ -1932,7 +2508,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年8月16日放送のMBC M『SHOW CHAMPION』第488回で、NewJeansの「Super Shy」が3,779点で1位を獲得した。この回はハイライト編成で、「Super Shy」の同番組での1位はこれが最初である。",
+      "en": "On episode 488 of MBC M's Show Champion, aired August 16, 2023, Super Shy won first place with 3,779 points. The episode was a highlights edition; it was the song's first Show Champion trophy."
+    },
+    "credits": {
+      "broadcaster": "MBC M",
+      "program": "Show Champion"
+    },
+    "editor_note": "Points and highlight-episode note per Show Champion chart list; TOP5 nominees not retrieved."
   },
   {
     "id": "tv-2023-08-17-mcountdown-eta-win-2",
@@ -1961,7 +2546,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年8月17日放送のMnet『M COUNTDOWN』で、NewJeansの「ETA」が前週に続き2週連続で1位を獲得した。Mnet Plusでは同回に合わせて「ETA」のセレブレーションパーティー企画が案内された。",
+      "en": "On the August 17, 2023 episode of Mnet's M Countdown, ETA won first place for a second consecutive week. Mnet Plus ran an M Countdown Celebration Party feature for ETA tied to the win."
+    },
+    "credits": {
+      "broadcaster": "Mnet",
+      "program": "M COUNTDOWN"
+    },
+    "editor_note": "Per M Countdown chart list (Mnet Plus celebration party citation); nominees not confirmed."
   },
   {
     "id": "tv-2023-08-20-inkigayo-super-shy-win-2",
@@ -1990,7 +2584,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年8月20日放送のSBS『人気歌謡』で、NewJeansの「Super Shy」が6,724点で1位を獲得した。1位候補は「Super Shy」、同じNewJeansの「ETA」、THE BOYZ「LIP GLOSS」の3曲で、NewJeansは出演せず、ステージなしでの受賞であった。",
+      "en": "On the August 20, 2023 episode of SBS's Inkigayo, Super Shy won first place with 6,724 points; the nominees were Super Shy, NewJeans' own ETA and The Boyz's LIP GLOSS. NewJeans did not appear on the episode."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "Inkigayo"
+    },
+    "editor_note": "Per Mydaily (Aug 20, 2023)."
   },
   {
     "id": "tv-2023-08-25-music-bank-asap",
@@ -2018,7 +2621,15 @@
     "tags": [
       "music-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年8月25日放送のKBS 2TV『ミュージックバンク』でNewJeansが『Get Up』収録曲「ASAP」を披露した。音楽番組での「ASAP」のステージはこれが最初である。",
+      "en": "On the August 25, 2023 broadcast of KBS 2TV's Music Bank, NewJeans performed ASAP, a track from Get Up, its first music-show stage."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "program": "Music Bank"
+    }
   },
   {
     "id": "tv-2023-08-27-inkigayo-super-shy-win-3",
@@ -2049,7 +2660,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年8月27日放送のSBS『人気歌謡』で、NewJeansの「Super Shy」が1位を獲得し、同番組でのトリプルクラウンを達成した。1位候補には同じNewJeansの「ETA」が含まれていた。この回は『Get Up』活動の最終ステージで、NewJeansは「ASAP」を披露した。",
+      "en": "On the August 27, 2023 episode of SBS's Inkigayo, Super Shy won first place, completing a triple crown on the program; the nominees included NewJeans' own ETA. The episode was the group's final stage of the Get Up promotions, on which they performed ASAP."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "Inkigayo"
+    },
+    "editor_note": "Per Star News headline (Aug 27, 2023: NewJeans beat NewJeans); points not retrieved."
   },
   {
     "id": "tv-2023-09-03-inkigayo-eta-win",
@@ -2078,7 +2698,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年9月3日放送のSBS『人気歌謡』で、NewJeansの「ETA」が6,572点で1位を獲得した。『Get Up』活動終了後の受賞で、「ETA」の『人気歌謡』での1位はこれが最初である。",
+      "en": "On the September 3, 2023 episode of SBS's Inkigayo, ETA won first place with 6,572 points, the song's first Inkigayo trophy, after the end of Get Up promotions."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "Inkigayo"
+    },
+    "editor_note": "Points per Asia Economy (stoo.com) report of Sept 3, 2023; nominees not legible in source."
   },
   {
     "id": "tv-2023-09-10-inkigayo-eta-win-2",
@@ -2107,7 +2736,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年9月10日放送のSBS『人気歌謡』で、NewJeansの「ETA」が前週に続き2週連続で1位を獲得した。「ETA」の音楽番組1位は通算4回目である。",
+      "en": "On the September 10, 2023 episode of SBS's Inkigayo, ETA won first place for a second consecutive week, the song's fourth music-show trophy overall."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "Inkigayo"
+    },
+    "editor_note": "Per Inkigayo 2023 chart list and ja.wikipedia win table."
   },
   {
     "id": "tv-2023-09-14-nhk-music-expo-2023",
@@ -2137,7 +2775,17 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年9月14日22時から22時45分、NHK総合とNHKワールド・プレミアムで『NHK MUSIC EXPO 2023』が放送され、NewJeansが「ETA」を披露した。収録は8月18日にNHK 101スタジオで行われ、司会は山里亮太。番組ではYOASOBI、SEVENTEENのWOOZIとNewJeansによるスペシャル対談も放送された。NewJeansにとってNHKでの初パフォーマンスである。",
+      "en": "NHK MUSIC EXPO 2023 aired on NHK General TV and NHK World Premium on September 14, 2023 from 10:00 to 10:45 pm, with NewJeans performing ETA. The program was recorded on August 18 at NHK's Studio 101 and hosted by Ryota Yamasato; it also included a special talk among YOASOBI, Woozi of Seventeen and NewJeans. It was the group's first performance on NHK."
+    },
+    "credits": {
+      "broadcaster": "NHK General TV, NHK World Premium",
+      "program": "NHK MUSIC EXPO 2023",
+      "host": "Ryota Yamasato"
+    },
+    "editor_note": "A later extended edition (Nov 4, 2023, BS4K) added an OMG performance; omitted from reader text as post-dated."
   },
   {
     "id": "tv-2023-10-10-the-fact-music-awards-2023",
@@ -2167,7 +2815,16 @@
     "tags": [
       "award-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年10月10日、仁川南洞体育館で『2023 THE FACT MUSIC AWARDS』が開かれ、NewJeansは今年のアーティスト（本賞）とListener's Choice賞を受賞した。レッドカーペットは16時30分、本授賞式は18時30分開始で、司会はチョン・ヒョンムとソヒョン。受賞コメントでヘインはミン・ヒジン代表とスタッフに、ハニはBunniesに謝意を述べた。NewJeansは「Super Shy」と「ETA」を披露した。",
+      "en": "At the 2023 The Fact Music Awards on October 10, 2023 at Namdong Gymnasium in Incheon, NewJeans received Artist of the Year (Bonsang) and the Listener's Choice Award. The red carpet began at 4:30 pm and the ceremony at 6:30 pm, hosted by Jun Hyun-moo and Seohyun. In their speech Hyein thanked CEO Min Hee-jin and the staff and Hanni thanked Bunnies. NewJeans performed Super Shy and ETA."
+    },
+    "credits": {
+      "venue": "Namdong Gymnasium, Incheon",
+      "organizer": "The Fact / Fan N Star",
+      "host": "Jun Hyun-moo, Seohyun"
+    }
   },
   {
     "id": "tv-2023-10-21-venue101-presents-get-up-live",
@@ -2197,7 +2854,15 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年10月21日、NHK総合で音楽番組『Venue101』のスピンオフ特番『Venue101 Presents NewJeans \"Get Up\" Live』が放送された。NewJeansは「New Jeans」「Super Shy」「ETA」の3曲を披露し、ファンからの質問に答えるコーナーやメンバー同士のトークも放送された。『Get Up』がBillboard 200で1位を獲得したことも番組内で紹介された。",
+      "en": "On October 21, 2023, NHK General TV aired Venue101 Presents NewJeans 'Get Up' Live, a spin-off special of the music show Venue101. NewJeans performed New Jeans, Super Shy and ETA, answered fan questions and talked among themselves; the program noted that Get Up had topped the Billboard 200."
+    },
+    "credits": {
+      "broadcaster": "NHK General TV",
+      "program": "Venue101 Presents NewJeans \"Get Up\" Live"
+    }
   },
   {
     "id": "tv-2023-10-22-music-bank-in-mexico",
@@ -2227,7 +2892,18 @@
       "world-tour"
     ],
     "verified": false,
-    "editor_note": "Date is the event date; KBS broadcast date not confirmed."
+    "editor_note": "Date is the event date; KBS broadcast date not confirmed. | Broadcast date Nov 5, 2023 per KBS preview (Daum/News1, Nov 3, 2023).",
+    "detail": {
+      "ja": "2023年10月22日、メキシコシティのパラシオ・デ・ロス・デポルテスでKBS『ミュージックバンク』のワールドツアー第17回公演『MUSIC BANK in MEXICO』が開かれ、NewJeansが出演した。司会はパク・ボゴムで、出演はNewJeans、（G）I-DLE、ITZY、STAYC、AB6IX、TNXの6組。NewJeansは「Hype Boy」「OMG」「New Jeans」「Super Shy」「ETA」を披露し、ダニエルは『リトル・マーメイド』のOST「Part of Your World」をライブで初めて歌い、ハニは（G）I-DLEのミンニと「Recuérdame」を歌った。KBS 2TVでの放送は11月5日23時15分と予告された。",
+      "en": "On October 22, 2023, KBS's Music Bank World Tour held its 17th show, Music Bank in Mexico, at Palacio de los Deportes in Mexico City, with NewJeans among six acts alongside (G)I-dle, ITZY, STAYC, AB6IX and TNX; Park Bo-gum hosted. NewJeans performed Hype Boy, OMG, New Jeans, Super Shy and ETA; Danielle sang Part of Your World from The Little Mermaid live for the first time, and Hanni sang Recuérdame with Minnie of (G)I-dle. KBS 2TV scheduled the broadcast for November 5 at 11:15 pm."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "program": "MUSIC BANK in MEXICO",
+      "venue": "Palacio de los Deportes, Mexico City",
+      "host": "Park Bo-gum",
+      "director": "Hwang Min-gyu"
+    }
   },
   {
     "id": "tv-2023-11-19-billboard-music-awards-2023",
@@ -2258,7 +2934,15 @@
       "award-show",
       "us"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年11月19日（米国時間）の『2023 Billboard Music Awards』で、NewJeansが新設のTop Global K-Pop Artistを受賞した。同年の授賞式はテレビ放送ではなくBillboardのウェブサイトとSNSで配信され、受賞スピーチとパフォーマンスは事前収録で構成された。NewJeansは「Super Shy」と「OMG」を披露した。ノミネートは計5部門で、Top Global K-Pop Album（Get Up）、Top Global K-Pop Song（Ditto、OMG）、Top Billboard Global（Excl. U.S.）Artistにも名を連ねた。",
+      "en": "At the 2023 Billboard Music Awards on November 19, 2023 (US time), NewJeans won the newly created Top Global K-Pop Artist award. The ceremony streamed on Billboard's website and social channels rather than on television, with pre-recorded speeches and performances; NewJeans performed Super Shy and OMG. They had five nominations in total, including Top Global K-Pop Album (Get Up), Top Global K-Pop Song (Ditto and OMG) and Top Billboard Global (Excl. U.S.) Artist."
+    },
+    "credits": {
+      "organizer": "Billboard / Dick Clark Productions",
+      "streaming": "billboard.com, BBMAs.watch"
+    }
   },
   {
     "id": "tv-2023-11-24-blue-dragon-film-awards-44",
@@ -2286,7 +2970,16 @@
     "tags": [
       "award-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年11月24日、ソウル汝矣島のKBSホールで第44回青龍映画賞の授賞式が開かれ、NewJeansが祝賀公演の1番手として「ETA」と「Super Shy」を披露した。司会はキム・ヘス（30回目で最後の司会）とユ・ヨンソクで、KBS 2TVとKBSのYouTubeチャンネルで生中継された。",
+      "en": "At the 44th Blue Dragon Film Awards on November 24, 2023 at KBS Hall in Yeouido, Seoul, NewJeans opened the performances with ETA and Super Shy. Kim Hye-soo, hosting for the 30th and final time, and Yoo Yeon-seok presided; the ceremony aired live on KBS2 and KBS's YouTube channel."
+    },
+    "credits": {
+      "venue": "KBS Hall, Seoul",
+      "broadcaster": "KBS2",
+      "host": "Kim Hye-soo, Yoo Yeon-seok"
+    }
   },
   {
     "id": "tv-2023-11-30-newjeans-yearbook-22-23",
@@ -2316,7 +3009,14 @@
       "vod"
     ],
     "verified": false,
-    "editor_note": "VOD release rather than a TV broadcast; date_type set to broadcast for sorting consistency with other video programs."
+    "editor_note": "VOD release rather than a TV broadcast; date_type set to broadcast for sorting consistency with other video programs. | not enriched: no source found beyond the input; platform and runtime unverified.",
+    "detail": {
+      "ja": "2023年11月30日、ADORとHYBEがNewJeansの最初の1年を追ったドキュメンタリー映像作品『NewJeans Yearbook 22-23』をVODとして公開した。デビュー準備から2023年の活動までを記録した内容で、テレビ放送ではなく映像配信としてリリースされた。",
+      "en": "On November 30, 2023, ADOR and HYBE released NewJeans Yearbook 22-23, a documentary video covering the group's first year from debut preparations through 2023 activities, as a VOD title rather than a television broadcast."
+    },
+    "credits": {
+      "producer": "ADOR / HYBE"
+    }
   },
   {
     "id": "tv-2023-12-02-melon-music-awards-2023",
@@ -2346,7 +3046,16 @@
     "tags": [
       "award-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年12月2日、仁川のINSPIREアリーナで『Melon Music Awards 2023』が開かれ、NewJeansは大賞の今年のアーティスト賞と今年のベストソング（「Ditto」）に加え、ベストグループ賞、TOP10、Millions TOP10（『Get Up』）の計5部門を受賞し、最多受賞となった。年間アルバム賞（『Get Up』）にもノミネートされた。司会はアン・ユジン。NewJeansは「Track: NewJeans」と題したステージで『Get Up』収録の「New Jeans」「Super Shy」「ETA」「Cool With You」「Get Up」「ASAP」の6曲を披露した。授賞式はMelon、Wavve、ABEMA（日本）、Beyond LIVEで配信された。",
+      "en": "At the 2023 Melon Music Awards on December 2, 2023 at Inspire Arena in Incheon, NewJeans won five awards, the most of the night: the Daesangs for Artist of the Year and Song of the Year (Ditto), plus Best Female Group, Top 10 Artist and Millions Top 10 (Get Up); they were also nominated for Album of the Year (Get Up). An Yu-jin hosted. In a stage titled 'Track: NewJeans' the group performed all six Get Up tracks: New Jeans, Super Shy, ETA, Cool With You, Get Up and ASAP. The show streamed on Melon, Wavve, Abema (Japan) and Beyond Live."
+    },
+    "credits": {
+      "venue": "Inspire Arena, Incheon",
+      "organizer": "Kakao Entertainment / Melon",
+      "host": "An Yu-jin"
+    }
   },
   {
     "id": "tv-2023-12-09-music-bank-global-festival-2023-japan",
@@ -2375,7 +3084,16 @@
       "year-end",
       "japan"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年12月9日、埼玉県所沢市のベルーナドームでKBS『2023 MUSIC BANK GLOBAL FESTIVAL』の日本公演（第2部）が開かれ、NewJeansが「OMG」「Ditto」「New Jeans」「Super Shy」「ETA」を披露した。司会はロウン、コ・ミンシ、イ・ヨンジ。この公演は収録され、12月15日にKBS 2TVで放送されると発表された。",
+      "en": "On December 9, 2023, the Japan leg (Part 2) of KBS's 2023 Music Bank Global Festival was held at Belluna Dome in Tokorozawa, Saitama, where NewJeans performed OMG, Ditto, New Jeans, Super Shy and ETA. Rowoon, Go Min-si and Lee Young-ji hosted. The show was recorded for broadcast on KBS 2TV on December 15."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "venue": "Belluna Dome, Tokorozawa",
+      "host": "Rowoon, Go Min-si, Lee Young-ji"
+    }
   },
   {
     "id": "tv-2023-12-14-asia-artist-awards-2023",
@@ -2405,7 +3123,16 @@
     "tags": [
       "award-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年12月14日、フィリピン・ブラカン州ボカウェのフィリピン・アリーナで『2023 Asia Artist Awards』が開かれ、NewJeansは大賞の今年の歌手賞と今年の歌賞（「Ditto」）のほか、ファビュラス賞、ベストチョイス賞、アジアセレブリティ賞、ホットトレンド賞を受賞した。司会はカン・ダニエル、チャン・ウォニョン、ソン・ハンビンで、Weverse（世界）、Hulu（日本）、Lazada（フィリピン）で配信された。NewJeansは「OMG」「ETA」「Super Shy」を披露した。",
+      "en": "At the 2023 Asia Artist Awards on December 14, 2023 at Philippine Arena in Bocaue, Bulacan, NewJeans won the Singer of the Year and Song of the Year (Ditto) grand prizes along with the Fabulous, Best Choice, Asia Celebrity and Hot Trend awards. Kang Daniel, Jang Won-young and Sung Han-bin hosted; the show streamed on Weverse worldwide, Hulu in Japan and Lazada in the Philippines. NewJeans performed OMG, ETA and Super Shy."
+    },
+    "credits": {
+      "venue": "Philippine Arena, Bocaue",
+      "organizer": "Star News",
+      "host": "Kang Daniel, Jang Won-young, Sung Han-bin"
+    }
   },
   {
     "id": "tv-2023-12-15-music-bank-global-festival-2023-seoul",
@@ -2422,8 +3149,8 @@
       "en": "Music Bank Global Festival 2023 (KBS Hall)"
     },
     "summary": {
-      "ja": "2023 KBS歌謡大祝祭として放送されたソウル公演に出演。",
-      "en": "Performed at the Seoul leg, broadcast as the 2023 KBS Song Festival."
+      "ja": "KBS 2TVで『2023 MUSIC BANK GLOBAL FESTIVAL』が放送され、NewJeansはベルーナドーム収録の第2部に登場した。",
+      "en": "KBS 2TV aired the 2023 Music Bank Global Festival; NewJeans appeared in Part 2, the Belluna Dome recording, rather than the live Seoul segment."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [],
@@ -2433,7 +3160,17 @@
     "tags": [
       "year-end"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年12月15日、KBS 2TVで『2023 MUSIC BANK GLOBAL FESTIVAL』が放送された。第1部はソウル汝矣島のKBSホールから生放送され（司会ロウン、チャン・ウォニョン）、第2部は12月9日にベルーナドームで収録された日本公演が放送された（司会ロウン、コ・ミンシ、イ・ヨンジ）。NewJeansは第2部の出演者で、「OMG」「Ditto」「New Jeans」「Super Shy」「ETA」の5曲のステージが放送された。全37組・50ステージ、240分の構成で、OTTや見逃し配信は提供されず、12月17日23時45分にKBS 2TVで120分の特別再放送が予定された。",
+      "en": "On December 15, 2023, KBS 2TV broadcast the 2023 Music Bank Global Festival: Part 1 live from KBS Hall in Yeouido, Seoul (hosted by Rowoon and Jang Won-young) and Part 2 the Japan show recorded on December 9 at Belluna Dome (hosted by Rowoon, Go Min-si and Lee Young-ji). NewJeans appeared in Part 2, with their five-song set of OMG, Ditto, New Jeans, Super Shy and ETA aired. The 240-minute program featured 37 acts and 50 stages; no OTT or replay service was offered, with a 120-minute special rebroadcast scheduled on KBS 2TV for December 17 at 11:45 pm."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "program": "2023 MUSIC BANK GLOBAL FESTIVAL",
+      "host": "Rowoon, Jang Won-young (Part 1); Rowoon, Go Min-si, Lee Young-ji (Part 2)"
+    },
+    "editor_note": "Correction: OSEN/Ilgan Sports (Dec 16, 2023) and the KBS Song Festival lineup place NewJeans in Part 2 (Japan, recorded Dec 9), not in the live KBS Hall Part 1. The previous summary ('performed at the Seoul leg') is not supported."
   },
   {
     "id": "tv-2023-12-25-sbs-gayo-daejeon-2023",
@@ -2461,7 +3198,16 @@
     "tags": [
       "year-end"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年12月25日、仁川のINSPIREアリーナで『2023 SBS歌謡大典』が開かれ、SBSが生中継した。司会はSHINeeのキー、IVEのアン・ユジン、TOMORROW X TOGETHERのヨンジュン。NewJeansは第2部で「New Jeans」「ETA」「Ditto」「OMG（FRNK Remix ver.）」を披露した。",
+      "en": "The 2023 SBS Gayo Daejeon was held on December 25, 2023 at Inspire Arena in Incheon and broadcast live on SBS, hosted by Key (Shinee), An Yu-jin (Ive) and Yeonjun (Tomorrow X Together). NewJeans performed New Jeans, ETA, Ditto and OMG (FRNK Remix version) in Part 2."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "venue": "Inspire Arena, Incheon",
+      "host": "Key, An Yu-jin, Yeonjun"
+    }
   },
   {
     "id": "tv-2023-12-27-ntv-music-award-2023",
@@ -2491,7 +3237,15 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年12月27日、日本テレビ系で生放送された『発表!今年イチバン聴いた歌～年間ミュージックアワード2023～』にNewJeansが2年連続で出演し、「Super Shy」と「OMG」を披露した。ストリーミングデータをもとに年間の人気曲を発表する年末特番である。",
+      "en": "On December 27, 2023, NewJeans appeared for a second consecutive year on Nippon TV's live year-end special Happyo! Kotoshi Ichiban Kiita Uta: Nenkan Music Award 2023 (発表!今年イチバン聴いた歌～年間ミュージックアワード2023～), performing Super Shy and OMG. The program presents the year's most-streamed songs."
+    },
+    "credits": {
+      "broadcaster": "Nippon TV",
+      "program": "発表!今年イチバン聴いた歌～年間ミュージックアワード2023～"
+    }
   },
   {
     "id": "tv-2023-12-30-japan-record-awards-65",
@@ -2522,7 +3276,17 @@
       "japan-tv",
       "award-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年12月30日、東京・新国立劇場中劇場で『第65回輝く!日本レコード大賞』が開かれ、TBS系で17時30分から22時まで生放送された。総合司会は安住紳一郎と川口春奈。NewJeansは「Ditto」で優秀作品賞を受賞し、あわせて特別賞も受賞した。優秀作品賞は11月22日に発表されており、日本語詞を含まない楽曲の選出は史上初であった。NewJeansは「Ditto」「ETA」「New Jeans」の3曲を披露した。",
+      "en": "The 65th Japan Record Awards (第65回輝く!日本レコード大賞) were held on December 30, 2023 at the New National Theatre's Playhouse in Tokyo and broadcast live on TBS from 5:30 to 10:00 pm, hosted by Shinichiro Azumi and Haruna Kawaguchi. NewJeans received the Excellent Work Award for Ditto, announced on November 22, and a Special Award; Ditto was the first Excellent Work selection without Japanese lyrics. NewJeans performed Ditto, ETA and New Jeans."
+    },
+    "credits": {
+      "broadcaster": "TBS",
+      "venue": "New National Theatre, Tokyo",
+      "organizer": "Japan Composer's Association",
+      "host": "Shinichiro Azumi, Haruna Kawaguchi"
+    }
   },
   {
     "id": "tv-2023-12-31-dick-clarks-new-years-rockin-eve",
@@ -2552,7 +3316,17 @@
     "tags": [
       "us"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2023年12月31日（米国時間）にABCで放送された年越し特番『Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2024』にNewJeansが出演し、「Super Shy」と「ETA」を披露した。K-POPのガールグループとして同番組初の出演で、出演は12月13日に発表された。パフォーマンスは韓国で収録されたものが放送された。",
+      "en": "NewJeans appeared on ABC's New Year's Eve special Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2024, broadcast December 31, 2023 (US time), performing Super Shy and ETA. They were the first K-pop girl group on the program; their addition to the lineup was announced on December 13. The performance was recorded in South Korea."
+    },
+    "credits": {
+      "broadcaster": "ABC",
+      "program": "Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2024",
+      "producer": "Dick Clark Productions"
+    },
+    "editor_note": "Recorded-in-Korea detail per ja.wikipedia Kohaku article; Billboard lineup announcement dated Dec 13, 2023."
   },
   {
     "id": "tv-2023-12-31-nhk-kohaku-74",
@@ -2585,7 +3359,16 @@
       "year-end"
     ],
     "verified": true,
-    "editor_note": "Confirmed via a Dec 29, 2023 preview article (Yonhap via Daum); performance was pre-recorded per that report. | Removed 'before their Japanese debut' (the Japan debut had not been announced as of 2023-12-31)."
+    "editor_note": "Confirmed via a Dec 29, 2023 preview article (Yonhap via Daum); performance was pre-recorded per that report. | Removed 'before their Japanese debut' (the Japan debut had not been announced as of 2023-12-31).",
+    "detail": {
+      "ja": "2023年12月31日、NHK総合ほかで放送された『第74回NHK紅白歌合戦』にNewJeansが特別企画枠で初出場し、「OMG」「ETA」「Ditto」のスペシャルメドレーを披露した。出場は12月29日に発表され、メドレーの映像は事前収録であることが告知されていた。放送順は後半の10-FEETの次で、ディズニー100周年スペシャルメドレーの前。オープニングとYOASOBI「アイドル」のコラボステージにはNHKホールに生出演した。",
+      "en": "NewJeans made their first appearance on NHK's 74th Kohaku Uta Gassen (第74回NHK紅白歌合戦) on December 31, 2023 as a special-feature act, performing a special medley of OMG, ETA and Ditto. Their participation was announced on December 29, and NHK stated in advance that the performance footage was pre-recorded. The medley aired in the second half after 10-FEET and before the Disney 100th anniversary medley; the members appeared live at NHK Hall for the opening and YOASOBI's Idol collaboration stage."
+    },
+    "credits": {
+      "broadcaster": "NHK General TV",
+      "program": "第74回NHK紅白歌合戦",
+      "venue": "NHK Hall, Tokyo"
+    }
   },
   {
     "id": "tv-2024-01-06-golden-disc-awards-38",
@@ -2615,7 +3398,16 @@
     "tags": [
       "award-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年1月6日、インドネシア・ジャカルタのジャカルタ国際スタジアムで第38回ゴールデンディスクアワードが開かれ、NewJeansは「Ditto」でデジタル音源大賞（今年の歌）とデジタル音源部門本賞を受賞した。司会はソン・シギョンとチャ・ウヌで、JTBCが放送した。NewJeansは「Cool With You」と「Ditto」を披露した。",
+      "en": "At the 38th Golden Disc Awards on January 6, 2024 at Jakarta International Stadium in Jakarta, Indonesia, NewJeans won the Digital Daesang (Song of the Year) and a Digital Song Bonsang for Ditto. Sung Si-kyung and Cha Eun-woo hosted, and JTBC broadcast the ceremony. NewJeans performed Cool With You and Ditto."
+    },
+    "credits": {
+      "venue": "Jakarta International Stadium, Jakarta",
+      "broadcaster": "JTBC",
+      "host": "Sung Si-kyung, Cha Eun-woo"
+    }
   },
   {
     "id": "tv-2024-01-07-nhk-special-sekai-ni-hibiku-uta",
@@ -2644,7 +3436,15 @@
       "japan-tv",
       "documentary"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年1月7日21時15分からNHK総合で『NHKスペシャル 世界に響く歌～日韓POPS新時代～』が放送された。YOASOBIのアメリカ初ライブへの密着や「アイドル」の制作過程と並び、K-POP側ではNewJeansを取り上げ、プロデューサーのミン・ヒジン（ADOR代表）の独占インタビューでNewJeansの制作の裏側が語られた。番組は2023年12月30日に放送決定が発表されていた。",
+      "en": "On January 7, 2024 at 9:15 pm, NHK General TV aired the NHK Special Sekai ni Hibiku Uta: Nikkan POPS Shin-jidai (世界に響く歌～日韓POPS新時代～). Alongside coverage of YOASOBI's first US concert and the making of Idol, the program featured NewJeans on the K-pop side, with an exclusive interview in which producer Min Hee-jin, CEO of ADOR, discussed how the group was produced. The program was announced on December 30, 2023."
+    },
+    "credits": {
+      "broadcaster": "NHK General TV",
+      "program": "NHKスペシャル 世界に響く歌～日韓POPS新時代～"
+    }
   },
   {
     "id": "tv-2024-03-06-billboard-women-in-music-2024",
@@ -2675,7 +3475,15 @@
       "award-show",
       "us"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年3月6日（現地時間）、米カリフォルニア州イングルウッドのYouTube Theaterで『Billboard Women in Music 2024』が開かれ、NewJeansがGroup of the Yearを受賞した。K-POPグループとして同賞の受賞は初めてである。NewJeansは「Super Shy」と「ETA」を披露し、ダニエルは新曲を準備中であると語った。同年のWoman of the YearはKarol Gであった。",
+      "en": "On March 6, 2024 (local time), NewJeans received Group of the Year at Billboard Women in Music 2024 at the YouTube Theater in Inglewood, California, the first K-pop group so honored. They performed Super Shy and ETA, and Danielle said the group was preparing new music. Karol G was that year's Woman of the Year."
+    },
+    "credits": {
+      "venue": "YouTube Theater, Inglewood",
+      "organizer": "Billboard"
+    }
   },
   {
     "id": "tv-2024-05-21-korea-on-stage-gyeongbokgung",
@@ -2704,7 +3512,17 @@
       "special"
     ],
     "verified": false,
-    "editor_note": "Event date; KBS broadcast date not confirmed."
+    "editor_note": "Event date; KBS broadcast date not confirmed. | Broadcast same day at 23:15 KST per The Fact (May 2024).",
+    "detail": {
+      "ja": "2024年5月21日19時30分、ソウル・景福宮の興礼門前特設舞台で『2024コリア・オン・ステージ―ニュージェネレーション』が開かれ、KBS 2TVが同日23時15分から放送した。国家遺産庁の主催、国家遺産振興院とKBSの主管で、国家遺産庁の発足を記念する公演である。司会はNewJeansのダニエルが単独で務めた。NewJeansは最後に登場し、勤政殿で事前収録した「Cool With You」のスペシャルステージ映像に続き、「Ditto」「ETA」「Super Shy」を披露した。足を負傷したヘインは不参加で、4人での出演であった。KBS Worldが142か国に配信した。",
+      "en": "The 2024 Korea on Stage – New Generation concert was held on May 21, 2024 at 7:30 pm on a special stage in front of Heungnyemun Gate at Gyeongbokgung Palace, Seoul, and aired on KBS 2TV at 11:15 pm the same day. Hosted by the Korea Heritage Service and organized by the Korea Heritage Agency and KBS to mark the agency's launch, the show was emceed solely by NewJeans' Danielle. NewJeans closed the program with a pre-recorded Cool With You special stage filmed at Geunjeongjeon Hall, followed by Ditto, ETA and Super Shy. Hyein, recovering from a foot injury, did not take part, so four members performed. KBS World carried the show to 142 countries."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV, KBS World",
+      "venue": "Heungnyemun Gate, Gyeongbokgung Palace, Seoul",
+      "organizer": "Korea Heritage Service / Korea Heritage Agency / KBS",
+      "host": "Danielle"
+    }
   },
   {
     "id": "tv-2024-05-24-music-bank-how-sweet-comeback-stage",
@@ -2736,7 +3554,15 @@
       "music-show",
       "comeback"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年5月24日放送のKBS 2TV『ミュージックバンク』でNewJeansがカムバックステージを行い、同日発売のダブルシングル『How Sweet』からタイトル曲「How Sweet」とカップリング「Bubble Gum」を披露した。足の負傷で活動を休止中のヘインを除く4人でのステージであった。",
+      "en": "On the May 24, 2024 broadcast of KBS 2TV's Music Bank, NewJeans held their comeback stage for the double single How Sweet, released the same day, performing the title track How Sweet and the B-side Bubble Gum. Hyein, on hiatus with a foot injury, was absent, so four members performed."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "program": "Music Bank"
+    }
   },
   {
     "id": "tv-2024-05-26-inkigayo-how-sweet-comeback-stage",
@@ -2768,7 +3594,15 @@
       "music-show",
       "comeback"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年5月26日放送のSBS『人気歌謡』でNewJeansが「How Sweet」と「Bubble Gum」を披露した。『How Sweet』活動の『人気歌謡』初ステージで、ヘインを除く4人での出演であった。",
+      "en": "On the May 26, 2024 episode of SBS's Inkigayo, NewJeans performed How Sweet and Bubble Gum, their first Inkigayo stage of the How Sweet promotions, with four members in Hyein's absence."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "Inkigayo"
+    }
   },
   {
     "id": "tv-2024-05-29-show-champion-how-sweet-win",
@@ -2799,7 +3633,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年5月29日放送のMBC M『SHOW CHAMPION』第519回で、NewJeansの「How Sweet」が5,759点で1位を獲得した。同曲の音楽番組初の1位である。",
+      "en": "On episode 519 of MBC M's Show Champion, aired May 29, 2024, How Sweet won first place with 5,759 points, the song's first music-show trophy."
+    },
+    "credits": {
+      "broadcaster": "MBC M",
+      "program": "Show Champion"
+    },
+    "editor_note": "Points per Show Champion chart list; TOP5 nominees not retrieved."
   },
   {
     "id": "tv-2024-05-31-music-bank-how-sweet-win",
@@ -2831,7 +3674,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年5月31日放送のKBS 2TV『ミュージックバンク』で、NewJeansの「How Sweet」が9,836点で1位を獲得した。前々日の『SHOW CHAMPION』に続く同曲2つ目のトロフィーである。",
+      "en": "On the May 31, 2024 broadcast of KBS 2TV's Music Bank, How Sweet won first place with 9,836 points, the song's second trophy after Show Champion two days earlier."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "program": "Music Bank"
+    },
+    "editor_note": "Points per Music Bank chart list; competing nominee and performance not confirmed."
   },
   {
     "id": "tv-2024-06-02-k-wave-concert-inkigayo",
@@ -2859,7 +3711,17 @@
     "tags": [
       "special"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年6月2日、仁川のINSPIREアリーナで開かれたSBS『K-Wave Concert Inkigayo（K-WAVE 콘서트 인기가요）』にNewJeansが出演し、「How Sweet」「Bubble Gum」「ETA」を披露した。『人気歌謡』の特別編として編成された公演である。",
+      "en": "On June 2, 2024, NewJeans performed How Sweet, Bubble Gum and ETA at SBS's K-Wave Concert Inkigayo, a special concert edition of Inkigayo held at Inspire Arena in Incheon."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "K-Wave Concert Inkigayo",
+      "venue": "Inspire Arena, Incheon"
+    },
+    "editor_note": "Set per en.wikipedia live-performance list only."
   },
   {
     "id": "tv-2024-06-07-music-bank-how-sweet",
@@ -2887,7 +3749,15 @@
     "tags": [
       "music-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年6月7日放送のKBS 2TV『ミュージックバンク』でNewJeansが「How Sweet」を披露した。",
+      "en": "NewJeans performed How Sweet on the June 7, 2024 broadcast of KBS 2TV's Music Bank."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "program": "Music Bank"
+    }
   },
   {
     "id": "tv-2024-06-08-music-core-how-sweet-win",
@@ -2918,7 +3788,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年6月8日放送のMBC『ショー!音楽中心』で、NewJeansの「How Sweet」が6,837点で1位を獲得した。同曲の音楽番組1位は『SHOW CHAMPION』『ミュージックバンク』に続く3回目である。",
+      "en": "On the June 8, 2024 broadcast of MBC's Show! Music Core, How Sweet won first place with 6,837 points, the song's third music-show win after Show Champion and Music Bank."
+    },
+    "credits": {
+      "broadcaster": "MBC",
+      "program": "Show! Music Core"
+    },
+    "editor_note": "Points per Music Core chart list."
   },
   {
     "id": "tv-2024-06-09-2-days-1-night-season4",
@@ -2950,7 +3829,15 @@
     "tags": [
       "variety"
     ],
-    "verified": true
+    "verified": true,
+    "detail": {
+      "ja": "2024年6月9日18時10分、KBS 2TV『1泊2日 シーズン4』の江原道鉄原郡編（第2話）にNewJeansがゲスト出演した。地上波バラエティ番組への出演はこれが初めてで、足を負傷したヘインを除くミンジ、ハニ、ダニエル、ヘリンの4人が参加した。番組メンバーとの退勤をかけたゲーム対決が行われ、3ラウンドの「100秒ダンス」ではハニが97秒で鐘を鳴らしてNewJeansが勝利したが、最終ラウンドでナ・イヌが勝ち、番組側が総合勝利した。ニールセン・コリア基準の全国視聴率は6.1%、瞬間最高は9.2%であった。",
+      "en": "On June 9, 2024 at 6:10 pm, NewJeans guested on KBS 2TV's 2 Days & 1 Night Season 4 in the second Cheorwon (Gangwon-do) episode, their first appearance on a terrestrial variety show. Minji, Hanni, Danielle and Haerin took part; Hyein was absent with a foot injury. The guests and cast competed in games for the right to go home, with Hanni ringing the bell at 97 seconds to win the 100-second dance round before Na In-woo took the final round for the cast. The episode drew a 6.1 percent nationwide rating (Nielsen Korea) with a peak of 9.2 percent."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "program": "2 Days & 1 Night Season 4"
+    }
   },
   {
     "id": "tv-2024-06-14-music-bank-bubble-gum",
@@ -2978,7 +3865,15 @@
     "tags": [
       "music-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年6月14日放送のKBS 2TV『ミュージックバンク』でNewJeansが「Bubble Gum」を披露した。",
+      "en": "NewJeans performed Bubble Gum on the June 14, 2024 broadcast of KBS 2TV's Music Bank."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "program": "Music Bank"
+    }
   },
   {
     "id": "tv-2024-06-15-music-core-how-sweet-win-2",
@@ -3009,7 +3904,16 @@
       "music-show",
       "win"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年6月15日放送のMBC『ショー!音楽中心』で、NewJeansの「How Sweet」が前週に続き2週連続で1位を獲得した。",
+      "en": "On the June 15, 2024 broadcast of MBC's Show! Music Core, How Sweet won first place for a second consecutive week."
+    },
+    "credits": {
+      "broadcaster": "MBC",
+      "program": "Show! Music Core"
+    },
+    "editor_note": "Per Music Core chart list; nominees not confirmed."
   },
   {
     "id": "tv-2024-06-16-inkigayo-bubble-gum",
@@ -3037,7 +3941,15 @@
     "tags": [
       "music-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年6月16日放送のSBS『人気歌謡』でNewJeansが「Bubble Gum」を披露した。",
+      "en": "NewJeans performed Bubble Gum on the June 16, 2024 episode of SBS's Inkigayo."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "Inkigayo"
+    }
   },
   {
     "id": "tv-2024-06-21-mezamashi-8",
@@ -3070,7 +3982,15 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年6月21日、フジテレビ系の情報番組『めざまし8』にNewJeansが生出演し、9時30分頃の枠で「Bubble Gum」を披露した。同曲は同年4月8日から『めざまし8』のオープニングテーマに使われており、日本のテレビ番組で披露されるのはこれが初めてであった。ステージは日本語バージョンで、同日朝の『めざましテレビ』に続く出演である。",
+      "en": "On June 21, 2024, NewJeans appeared live on Fuji TV's morning information program Mezamashi 8 (めざまし8), performing Bubble Gum in the segment around 9:30 am. The song had been the program's opening theme since April 8, 2024, and this was its first performance on Japanese television, given in the Japanese version. The appearance followed the group's slot on Mezamashi TV earlier the same morning."
+    },
+    "credits": {
+      "broadcaster": "Fuji TV",
+      "program": "めざまし8"
+    }
   },
   {
     "id": "tv-2024-06-21-mezamashi-tv",
@@ -3103,7 +4023,15 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年6月21日、日本デビューシングル『Supernatural』の発売日に、NewJeansがフジテレビ系『めざましテレビ』（5時25分から8時）に生出演し、タイトル曲「Supernatural」を世界で初めて披露した。同日は『めざまし8』、テレビ朝日系『ミュージックステーション』にも出演した。",
+      "en": "On June 21, 2024, the release day of their Japanese debut single Supernatural, NewJeans appeared live on Fuji TV's Mezamashi TV (めざましテレビ, 5:25 to 8:00 am) and gave the world's first performance of the title track Supernatural. The same day they also appeared on Mezamashi 8 and TV Asahi's Music Station."
+    },
+    "credits": {
+      "broadcaster": "Fuji TV",
+      "program": "めざましテレビ"
+    }
   },
   {
     "id": "tv-2024-06-21-music-station",
@@ -3136,7 +4064,15 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年6月21日21時からテレビ朝日系で放送された『ミュージックステーション』にNewJeansが初出演し、同日発売の日本デビュー曲「Supernatural」と「OMG」を披露した。同回の出演者はINI「LOUD」、GLAY×JAY（ENHYPEN）「whodunit」、Travis Japan「Sweetest Tune」、MY FIRST STORY×HYDEなど。ミンジは初出演を喜ぶコメントを寄せた。",
+      "en": "On June 21, 2024, NewJeans made their first appearance on TV Asahi's Music Station (ミュージックステーション), broadcast from 9 pm, performing their Japanese debut single Supernatural, released that day, and OMG. Other acts that night included INI (LOUD), GLAY x JAY of ENHYPEN (whodunit), Travis Japan (Sweetest Tune) and MY FIRST STORY x HYDE. Minji commented on her pleasure at the group's first Music Station appearance."
+    },
+    "credits": {
+      "broadcaster": "TV Asahi",
+      "program": "ミュージックステーション"
+    }
   },
   {
     "id": "tv-2024-06-22-with-music",
@@ -3169,7 +4105,16 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年6月22日、日本テレビ系『with MUSIC』にNewJeansが出演し、「Right Now」「Supernatural」「Bubble Gum」の3曲を披露した。「Right Now」は日本デビューシングル『Supernatural』のカップリングで、日本のテレビでの披露はこれが初めてである。同番組は有働由美子と松下洸平がMCを務める土曜夜の音楽番組である。",
+      "en": "On June 22, 2024, NewJeans appeared on Nippon TV's Saturday-night music show with MUSIC, performing Right Now, Supernatural and Bubble Gum. Right Now, the B-side of the Japanese debut single Supernatural, received its first Japanese television performance."
+    },
+    "credits": {
+      "broadcaster": "Nippon TV",
+      "program": "with MUSIC",
+      "host": "Yumiko Udo, Kohei Matsushita"
+    }
   },
   {
     "id": "tv-2024-06-24-cdtv-live-live",
@@ -3202,7 +4147,15 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年6月24日、TBS系『CDTVライブ!ライブ! 2時間半スペシャル』にNewJeansが出演し、「Supernatural」を披露した。東京ドーム公演（6月26日・27日）を2日後に控えた出演で、TBSの同番組への出演はこれが初めてである。",
+      "en": "On June 24, 2024, NewJeans appeared on TBS's CDTV Live! Live! two-and-a-half-hour special (CDTVライブ!ライブ! 2時間半スペシャル), performing Supernatural, two days before their Tokyo Dome shows on June 26 and 27. It was their first appearance on the program."
+    },
+    "credits": {
+      "broadcaster": "TBS",
+      "program": "CDTVライブ!ライブ!"
+    }
   },
   {
     "id": "tv-2024-06-29-venue101",
@@ -3235,7 +4188,15 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年6月29日、NHK総合の音楽番組『Venue101』にNewJeansが出演し、「Supernatural」を生放送で披露した。同回の出演はほかにNCT WISH「Songbird」、櫻坂46「自業自得」。東京ドーム公演直後の出演で、番組内では日本で好きなものについても語った。",
+      "en": "On June 29, 2024, NewJeans appeared on NHK General TV's live music show Venue101, performing Supernatural alongside NCT WISH (Songbird) and Sakurazaka46 (Jigou Jitoku). The appearance came just after their Tokyo Dome shows; the members also talked about their favorite things in Japan."
+    },
+    "credits": {
+      "broadcaster": "NHK General TV",
+      "program": "Venue101"
+    }
   },
   {
     "id": "tv-2024-07-01-cdtv-live-live-2",
@@ -3268,7 +4229,15 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年7月1日、TBS系『CDTVライブ!ライブ! 2時間半スペシャル』にNewJeansが出演し、「How Sweet」と「Bubble Gum」を披露した。6月24日に続く同番組2度目の出演である。",
+      "en": "On July 1, 2024, NewJeans appeared on TBS's CDTV Live! Live! two-and-a-half-hour special, performing How Sweet and Bubble Gum, their second appearance on the program after June 24."
+    },
+    "credits": {
+      "broadcaster": "TBS",
+      "program": "CDTVライブ!ライブ!"
+    }
   },
   {
     "id": "tv-2024-07-02-j-wave-spark",
@@ -3297,7 +4266,16 @@
       "radio",
       "japan"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年7月2日24時、J-WAVE（81.3FM）のラジオ番組『SPARK』でNewJeansの特集が放送された。火曜ナビゲーターのKing Gnu新井和輝が東京ドーム公演のリハーサル楽屋を訪ね、メンバーと行った座談会の模様が放送された。新井は東京ドーム公演でベースを演奏している。",
+      "en": "On July 2, 2024 at midnight, J-WAVE (81.3 FM)'s program SPARK aired a NewJeans feature. Tuesday navigator Kazuki Arai of King Gnu, who played bass at the group's Tokyo Dome shows, visited the members in the rehearsal dressing room at Tokyo Dome and recorded a roundtable talk that formed the broadcast."
+    },
+    "credits": {
+      "broadcaster": "J-WAVE",
+      "program": "SPARK",
+      "navigator": "Kazuki Arai (King Gnu)"
+    }
   },
   {
     "id": "tv-2024-07-03-fns-music-festival-summer-2024",
@@ -3327,7 +4305,16 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年7月3日18時30分から21時43分までフジテレビ系で生放送された『2024 FNS歌謡祭 夏』にNewJeansがスタジオ生出演し、「ETA」「OMG」「Supernatural」のスペシャルメドレーを披露した。司会は相葉雅紀と井上清華アナウンサー。前年夏に続く2度目の出演である。",
+      "en": "On July 3, 2024, NewJeans appeared live in the studio on Fuji TV's 2024 FNS Kayousai Natsu (2024 FNS歌謡祭 夏), broadcast from 6:30 to 9:43 pm and hosted by Masaki Aiba and announcer Sayaka Inoue, performing a special medley of ETA, OMG and Supernatural. It was their second summer FNS appearance."
+    },
+    "credits": {
+      "broadcaster": "Fuji TV",
+      "program": "2024 FNS歌謡祭 夏",
+      "host": "Masaki Aiba, Sayaka Inoue"
+    }
   },
   {
     "id": "tv-2024-07-06-the-music-day-2024",
@@ -3357,7 +4344,16 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年7月6日15時から日本テレビ系で幕張メッセから生放送された『THE MUSIC DAY 2024』にNewJeansが出演した。総合司会は櫻井翔。NewJeansは「Hype Boy」と「How Sweet」を披露したほか、ハニが松田聖子「青い珊瑚礁」、ヘインが竹内まりや「プラスティック・ラブ」をそれぞれテレビで初めて歌唱した。",
+      "en": "On July 6, 2024, NewJeans appeared on Nippon TV's THE MUSIC DAY 2024, broadcast live from 3 pm from Makuhari Messe and hosted by Sho Sakurai. The group performed Hype Boy and How Sweet, and Hanni sang Seiko Matsuda's Aoi Sangosho while Hyein sang Mariya Takeuchi's Plastic Love, each a first television performance of the cover."
+    },
+    "credits": {
+      "broadcaster": "Nippon TV",
+      "program": "THE MUSIC DAY 2024",
+      "host": "Sho Sakurai"
+    }
   },
   {
     "id": "tv-2024-07-12-music-bank-supernatural",
@@ -3387,7 +4383,15 @@
     "tags": [
       "music-show"
     ],
-    "verified": true
+    "verified": true,
+    "detail": {
+      "ja": "2024年7月12日放送のKBS 2TV『ミュージックバンク』でNewJeansが「Right Now」と「Supernatural」を披露した。日本デビューシングルの2曲を韓国の音楽番組で披露するのはこれが初めてで、足の負傷から回復したヘインが復帰し、5人でのステージとなった。",
+      "en": "On the July 12, 2024 broadcast of KBS 2TV's Music Bank, NewJeans performed Right Now and Supernatural, the first Korean music-show stages for the two Japanese debut single tracks. Hyein returned from her foot injury, making it a five-member performance."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "program": "Music Bank"
+    }
   },
   {
     "id": "tv-2024-07-13-music-core-supernatural",
@@ -3417,7 +4421,15 @@
     "tags": [
       "music-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年7月13日放送のMBC『ショー!音楽中心』でNewJeansが「Right Now」「Supernatural」に加え、「ETA」「OMG」「Hype Boy」のヒット曲メドレーを披露した。ヘイン復帰後の5人でのステージである。",
+      "en": "On the July 13, 2024 broadcast of MBC's Show! Music Core, NewJeans performed Right Now and Supernatural followed by a hit medley of ETA, OMG and Hype Boy, with all five members following Hyein's return."
+    },
+    "credits": {
+      "broadcaster": "MBC",
+      "program": "Show! Music Core"
+    }
   },
   {
     "id": "tv-2024-07-13-ongaku-no-hi-2024",
@@ -3445,7 +4457,16 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年7月13日14時から21時56分までTBS系で生放送された『音楽の日2024』にNewJeansが出演した。出演は韓国からのリモート出演として編成され、同じく韓国からENHYPEN、LE SSERAFIMが参加した。NewJeansは「Supernatural」を披露した。",
+      "en": "On July 13, 2024, NewJeans appeared on TBS's Ongaku no Hi 2024 (音楽の日2024), broadcast live from 2:00 to 9:56 pm. The group took part remotely from South Korea, as did ENHYPEN and Le Sserafim, performing Supernatural."
+    },
+    "credits": {
+      "broadcaster": "TBS",
+      "program": "音楽の日2024"
+    },
+    "editor_note": "Remote-from-Korea listing per ja.wikipedia program page; song (Supernatural) per fan reports only, not confirmed by TBS."
   },
   {
     "id": "tv-2024-07-14-inkigayo-supernatural",
@@ -3475,11 +4496,19 @@
     "tags": [
       "music-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年7月14日放送のSBS『人気歌謡』でNewJeansが「Right Now」と「Supernatural」を披露した。ヘインの合流により5人での『人気歌謡』復帰ステージとなった。",
+      "en": "On the July 14, 2024 episode of SBS's Inkigayo, NewJeans performed Right Now and Supernatural, returning to the program as a full five-member group with Hyein back."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "Inkigayo"
+    }
   },
   {
-    "id": "tv-2024-07-24-sbs-gayo-daejeon-summer-2024",
-    "date": "2024-07-24",
+    "id": "tv-2024-07-21-sbs-gayo-daejeon-summer-2024",
+    "date": "2024-07-21",
     "date_type": "broadcast",
     "date_precision": "day",
     "category": "tv",
@@ -3492,8 +4521,8 @@
       "en": "2024 SBS Gayo Daejeon Summer"
     },
     "summary": {
-      "ja": "インスパイアアリーナで「How Sweet」「Supernatural」を披露。",
-      "en": "Performed How Sweet and Supernatural at SBS Gayo Daejeon Summer."
+      "ja": "仁川INSPIREアリーナからの『2024 SBS歌謡大典』夏編で「How Sweet」「Supernatural」を披露した。",
+      "en": "Performed How Sweet and Supernatural at SBS Gayo Daejeon Summer 2024, broadcast live from Inspire Arena, Incheon."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [],
@@ -3504,7 +4533,17 @@
       "year-end",
       "special"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "『2024 SBS歌謡大典』夏編（SBS Gayo Daejeon Summer）は仁川のINSPIREアリーナで開かれ、SBSが生中継した。司会はNCTのドヨン、TOMORROW X TOGETHERのヨンジュン、IVEのアン・ユジン。初めて夏と冬の2回に分けて開催された年の夏編で、NewJeansは「How Sweet」と「Supernatural」を披露した。",
+      "en": "The 2024 SBS Gayo Daejeon Summer was held at Inspire Arena in Incheon and broadcast live on SBS, hosted by Doyoung (NCT), Yeonjun (Tomorrow X Together) and An Yu-jin (Ive). It was the summer half of the first year the show was split into summer and winter editions. NewJeans performed How Sweet and Supernatural."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "venue": "Inspire Arena, Incheon",
+      "host": "Doyoung, Yeonjun, An Yu-jin"
+    },
+    "editor_note": "Date conflict: the SBS Gayo Daejeon article (en.wikipedia) and the live record's editor note give July 21, 2024 as the event and live-broadcast date; the July 24 date comes only from the en.wikipedia live-performance list. Record date likely should be 2024-07-21. | date moved from 2024-07-24 to 2024-07-21 per SBS article (id renamed)"
   },
   {
     "id": "tv-2024-08-12-wowow-bunnies-camp-tokyo-dome",
@@ -3536,7 +4575,15 @@
       "fanmeeting",
       "wowow"
     ],
-    "verified": true
+    "verified": true,
+    "detail": {
+      "ja": "2024年8月12日18時30分からWOWOWで『NewJeans Fan Meeting Bunnies Camp 2024 Tokyo Dome』が独占放送され、WOWOWオンデマンドでも配信された。6月26日と27日に東京ドームで開かれたファンミーティングのライブ映像で、WOWOWが7月30日に発表した4か月にわたるNewJeans特集の第1弾にあたる。特集ではこの後、メンバー別インタビュー『Ask Jeans!』とミュージックビデオ集の放送が予告された。",
+      "en": "On August 12, 2024 at 6:30 pm, WOWOW exclusively broadcast NewJeans Fan Meeting 'Bunnies Camp 2024 Tokyo Dome', the fan meeting held at Tokyo Dome on June 26 and 27, with simultaneous streaming on WOWOW On Demand. It was the first installment of a four-month NewJeans feature announced by WOWOW on July 30, which also scheduled the member interview series Ask Jeans! and a music video collection."
+    },
+    "credits": {
+      "broadcaster": "WOWOW",
+      "streaming": "WOWOW On Demand"
+    }
   },
   {
     "id": "tv-2024-08-17-with-music-2",
@@ -3566,7 +4613,15 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年8月17日、日本テレビ系『with MUSIC』にNewJeansが出演し、「Supernatural」と「ETA」を披露した。6月22日に続く同番組2度目の出演で、同回の出演者はano、BE:FIRST、flumpool、ポルノグラフィティ、WANIMAなど。",
+      "en": "On August 17, 2024, NewJeans made their second appearance on Nippon TV's with MUSIC, performing Supernatural and ETA. Other acts that night included ano, BE:FIRST, flumpool, Porno Graffitti and WANIMA."
+    },
+    "credits": {
+      "broadcaster": "Nippon TV",
+      "program": "with MUSIC"
+    }
   },
   {
     "id": "tv-2024-08-19-cdtv-summer-fes-sp",
@@ -3596,7 +4651,16 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年8月19日、TBS系『CDTVライブ!ライブ! 夏フェスSP』にNewJeansが出演し、人気企画「名曲ライブ!ライブ!」に初参加した。メンバーがそれぞれJ-POPをカバーし、ミンジはVaundy「踊り子」、ハニはTUBE「シーズン・イン・ザ・サン」、ヘインはスピッツ「チェリー」、ダニエルは「Part of Your World」、ヘリンは宇多田ヒカル「Automatic」を歌った。グループとしては「Supernatural」を披露した。",
+      "en": "On August 19, 2024, NewJeans appeared on TBS's CDTV Live! Live! Summer Fes SP (CDTVライブ!ライブ! 夏フェスSP), joining the 'Meikyoku Live! Live!' cover segment for the first time. Each member sang a solo cover: Minji performed Vaundy's Odoriko, Hanni TUBE's Season in the Sun, Hyein Spitz's Cherry, Danielle Part of Your World and Haerin Hikaru Utada's Automatic. As a group they performed Supernatural."
+    },
+    "credits": {
+      "broadcaster": "TBS",
+      "program": "CDTVライブ!ライブ! 夏フェスSP"
+    },
+    "editor_note": "Per-member covers per en.wikipedia live-performance list; TBS listing confirms only the Utada cover and segment."
   },
   {
     "id": "tv-2024-09-08-the-fact-music-awards-2024",
@@ -3627,7 +4691,16 @@
       "award-show",
       "japan"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年9月8日、大阪の京セラドーム大阪で『2024 THE FACT MUSIC AWARDS』が開かれ、NewJeansはワールドワイドアイコン賞、ワールドベストパフォーマー賞、今年のアーティスト賞（本賞）、ムシンサ人気賞、TMA人気賞を受賞した。NewJeansは「ETA」「OMG」「Attention」「Bubble Gum（Japanese ver.）」の4曲を披露し、受賞スピーチでは前ADOR代表のミン・ヒジンに謝意を述べた。",
+      "en": "At the 2024 The Fact Music Awards on September 8, 2024 at Kyocera Dome Osaka, NewJeans received the Worldwide Icon Award, the World Best Performer Award, Artist of the Year (Bonsang), the Musinsa Popularity Award and the TMA Popularity Award. The group performed four songs, ETA, OMG, Attention and the Japanese version of Bubble Gum, and in an acceptance speech thanked former ADOR CEO Min Hee-jin."
+    },
+    "credits": {
+      "venue": "Kyocera Dome Osaka",
+      "organizer": "The Fact / Fan N Star"
+    },
+    "editor_note": "Award list per en.wikipedia awards page (5) vs ja.wikipedia (4); speech per Korea JoongAng Daily headline (Sept 9, 2024)."
   },
   {
     "id": "tv-2024-09-22-wowow-ask-jeans-interview-1-3",
@@ -3659,13 +4732,22 @@
       "wowow",
       "interview"
     ],
-    "verified": true
+    "verified": true,
+    "detail": {
+      "ja": "2024年9月22日19時から、WOWOWのNewJeans特集の第2弾としてメンバー別インタビュー番組『Ask Jeans! NewJeans interview』の#1 MINJI（19時）、#2 HANNI（19時20分）、#3 DANIELLE（19時40分）が連続で放送・配信された。放送後2週間のアーカイブ配信も行われた。残る#4 HAERINと#5 HYEINは10月13日の放送が予告された。",
+      "en": "On September 22, 2024 from 7:00 pm, WOWOW aired the first three episodes of Ask Jeans! NewJeans interview, the member-by-member interview series in its NewJeans feature: #1 Minji at 7:00, #2 Hanni at 7:20 and #3 Danielle at 7:40 pm, with a two-week catch-up window on WOWOW On Demand. Episodes #4 Haerin and #5 Hyein were scheduled for October 13."
+    },
+    "credits": {
+      "broadcaster": "WOWOW",
+      "program": "Ask Jeans! NewJeans interview",
+      "streaming": "WOWOW On Demand"
+    }
   },
   {
-    "id": "tv-2024-10-01-wowow-ask-jeans-interview-4-5",
-    "date": "2024-10-01",
+    "id": "tv-2024-10-13-wowow-ask-jeans-interview-4-5",
+    "date": "2024-10-13",
     "date_type": "broadcast",
-    "date_precision": "month",
+    "date_precision": "day",
     "category": "tv",
     "entity": "newjeans",
     "members": [
@@ -3677,8 +4759,8 @@
       "en": "WOWOW: Ask Jeans! NewJeans interview #4–#5"
     },
     "summary": {
-      "ja": "WOWOWで #4 HAERIN、#5 HYEINのインタビュー回を放送。",
-      "en": "WOWOW airs the Haerin and Hyein interview episodes (#4 and #5)."
+      "ja": "WOWOWがヘリンとヘインのインタビュー回（#4、#5）を放送。",
+      "en": "WOWOW aired the Haerin and Hyein interview episodes (#4 and #5) of Ask Jeans!."
     },
     "source_url": "https://www.oricon.co.jp/news/2338316/full/",
     "reference_urls": [],
@@ -3691,7 +4773,16 @@
       "interview"
     ],
     "verified": true,
-    "editor_note": "Exact October air date not legible in the source. | Removed 'in October 2024' retrospective framing; exact air date still unknown."
+    "editor_note": "Exact October air date not legible in the source. | Removed 'in October 2024' retrospective framing; exact air date still unknown. | Air date resolved: Oricon (Sept 2024) gives Oct 13, 2024, 20:00 (#4) and 20:20 (#5). Record date 2024-10-01 is a placeholder and should be 2024-10-13. | date moved from 2024-10-01 to 2024-10-13 per enrichment sources (id tv-2024-10-01-wowow-ask-jeans-interview-4-5 -> tv-2024-10-13-wowow-ask-jeans-interview-4-5)",
+    "detail": {
+      "ja": "WOWOWのメンバー別インタビュー番組『Ask Jeans! NewJeans interview』の#4 HAERINと#5 HYEINは、2024年10月13日の20時と20時20分に放送・配信された。9月22日に放送された#1から#3に続く回で、放送後2週間のアーカイブ配信も行われた。",
+      "en": "Episodes #4 Haerin and #5 Hyein of WOWOW's member interview series Ask Jeans! NewJeans interview aired on October 13, 2024 at 8:00 and 8:20 pm, following episodes #1 to #3 broadcast on September 22, with a two-week catch-up window on WOWOW On Demand."
+    },
+    "credits": {
+      "broadcaster": "WOWOW",
+      "program": "Ask Jeans! NewJeans interview",
+      "streaming": "WOWOW On Demand"
+    }
   },
   {
     "id": "tv-2024-11-01-wowow-music-video-collection",
@@ -3721,7 +4812,14 @@
       "wowow"
     ],
     "verified": true,
-    "editor_note": "Removed 'in November' retrospective framing."
+    "editor_note": "Removed 'in November' retrospective framing. | Exact November air date not legible in Oricon sources; record date is a placeholder.",
+    "detail": {
+      "ja": "WOWOWのNewJeans特集の最終回として、2024年11月にミュージックビデオ集『NewJeans Music Video Collection』が放送・配信された。同月には東京ドームのファンミーティング映像の再放送も編成された。",
+      "en": "As the final installment of WOWOW's NewJeans feature, a NewJeans Music Video Collection was broadcast and streamed in November 2024, alongside a scheduled rebroadcast of the Tokyo Dome fan meeting the same month."
+    },
+    "credits": {
+      "broadcaster": "WOWOW"
+    }
   },
   {
     "id": "tv-2024-11-09-with-music-3",
@@ -3751,7 +4849,15 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年11月9日、日本テレビ系『with MUSIC』にNewJeansが出演し、「OMG」を披露した。同番組3度目の出演で、同回にはいきものがかり、Omoinotake、松下洸平、wacciが出演した。",
+      "en": "On November 9, 2024, NewJeans made their third appearance on Nippon TV's with MUSIC, performing OMG, on an episode that also featured Ikimonogakari, Omoinotake, Kohei Matsushita and wacci."
+    },
+    "credits": {
+      "broadcaster": "Nippon TV",
+      "program": "with MUSIC"
+    }
   },
   {
     "id": "tv-2024-11-15-nino-san",
@@ -3780,7 +4886,16 @@
       "japan-tv",
       "variety"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年11月15日19時から20時54分、日本テレビ系で二宮和也がMCを務めるバラエティ番組『ニノさん』初の2時間SPが放送され、NewJeansがゲスト出演した。日本のバラエティ番組への出演はこれが初めてで、同ブロックのゲストは有岡大貴（Hey! Say! JUMP）とヒコロヒー。「NewJeansの今一番気になるモノ」のコーナーや、「目が合っちゃダメよチャレンジ」などの対決企画に参加した。",
+      "en": "On November 15, 2024 from 7:00 to 8:54 pm, NewJeans guested on the first two-hour special of Nippon TV's variety show Nino-san (ニノさん), hosted by Kazunari Ninomiya, their first Japanese variety-show appearance. Daiki Arioka (Hey! Say! JUMP) and Hikorohee shared the block. Segments included 'NewJeans' most intriguing things right now' and the 'don't make eye contact' challenge contest."
+    },
+    "credits": {
+      "broadcaster": "Nippon TV",
+      "program": "ニノさん",
+      "host": "Kazunari Ninomiya"
+    }
   },
   {
     "id": "tv-2024-11-16-korea-grand-music-awards-2024",
@@ -3810,7 +4925,17 @@
     "tags": [
       "award-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年11月16日、仁川のINSPIREアリーナで日刊スポーツ主催の第1回『Korea Grand Music Awards』初日が開かれ、NewJeansは大賞のグランドアーティストと本賞のベストアーティストを受賞した。ベストソング（「Super Shy」）と今年のトレンド（K-POPグループ）にもノミネートされた。初日の司会はナム・ジヒョンとNewJeansのハニが務めた。NewJeansは「Right Now」「Bubble Gum」「How Sweet」「Supernatural」の4曲を披露し、授賞式はKisweとWavveで配信された。",
+      "en": "On November 16, 2024, day one of the inaugural Korea Grand Music Awards, organized by Ilgan Sports at Inspire Arena in Incheon, NewJeans won the Grand Artist (Daesang) and a Best Artist bonsang; they were also nominated for Best Song (Super Shy) and Trend of the Year (K-pop Group). Nam Ji-hyun and NewJeans' Hanni hosted day one. The group performed Right Now, Bubble Gum, How Sweet and Supernatural; the show streamed on Kiswe and Wavve."
+    },
+    "credits": {
+      "venue": "Inspire Arena, Incheon",
+      "organizer": "Ilgan Sports",
+      "host": "Nam Ji-hyun, Hanni",
+      "streaming": "Kiswe, Wavve"
+    }
   },
   {
     "id": "tv-2024-11-29-music-station-2",
@@ -3840,7 +4965,15 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年11月29日21時からテレビ朝日系で放送された『ミュージックステーション』にNewJeansが5人で出演し、「Ditto」と「How Sweet」を披露した。6月21日に続く2度目の出演で、「Ditto」は同番組で初めて披露した。前日11月28日にソウルで専属契約解除を発表する記者会見を開いた翌日の出演であった。同回にはHey! Say! JUMP、BABYMONSTER、ゴスペラーズなどが出演した。",
+      "en": "On November 29, 2024, NewJeans appeared as a five-piece on TV Asahi's Music Station, broadcast from 9 pm, performing Ditto and How Sweet, their second appearance on the show and the first time Ditto was performed on it. The appearance came the day after their November 28 press conference in Seoul announcing termination of their exclusive contracts. Hey! Say! JUMP, BABYMONSTER and the Gospellers were among the other acts."
+    },
+    "credits": {
+      "broadcaster": "TV Asahi",
+      "program": "ミュージックステーション"
+    }
   },
   {
     "id": "tv-2024-11-30-best-artist-2024",
@@ -3871,7 +5004,15 @@
       "japan-tv",
       "year-end"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年11月30日19時から22時54分まで日本テレビ系で生放送された『日テレ系音楽の祭典 ベストアーティスト2024』にNewJeansが出演し、「Supernatural」を披露した。30回目となる同番組への出演はこれが初めてで、出演者第1弾として11月16日に発表されていた。",
+      "en": "On November 30, 2024, NewJeans appeared on Nippon TV's live music special Best Artist 2024 (ベストアーティスト2024), broadcast from 7:00 to 10:54 pm, performing Supernatural. It was the group's first appearance on the program, in its 30th edition; they were announced in the first lineup on November 16."
+    },
+    "credits": {
+      "broadcaster": "Nippon TV",
+      "program": "ベストアーティスト2024"
+    }
   },
   {
     "id": "tv-2024-12-04-fns-music-festival-2024",
@@ -3902,7 +5043,16 @@
       "japan-tv",
       "year-end"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年12月4日18時30分から23時28分までフジテレビ系で生放送された『2024 FNS歌謡祭』第1夜にNewJeansが出演し、タイムテーブルでは20時台に「How Sweet」、21時台に「Ditto」を披露した。司会は相葉雅紀と井上清華アナウンサー。同年夏の『FNS歌謡祭 夏』に続く出演である。",
+      "en": "On December 4, 2024, NewJeans appeared on the first night of Fuji TV's 2024 FNS Kayousai (2024 FNS歌謡祭), broadcast live from 6:30 to 11:28 pm and hosted by Masaki Aiba and announcer Sayaka Inoue, performing How Sweet in the 8 pm block and Ditto in the 9 pm block per the published timetable. It followed their appearance on the summer edition."
+    },
+    "credits": {
+      "broadcaster": "Fuji TV",
+      "program": "2024 FNS歌謡祭 第1夜",
+      "host": "Masaki Aiba, Sayaka Inoue"
+    }
   },
   {
     "id": "tv-2024-12-16-cdtv-christmas-sp-2024",
@@ -3934,7 +5084,15 @@
       "year-end"
     ],
     "verified": false,
-    "editor_note": "ja.wikipedia gives Dec 16 (Monday, CDTV's regular slot); en.wikipedia lists Dec 12. Dec 16 used."
+    "editor_note": "ja.wikipedia gives Dec 16 (Monday, CDTV's regular slot); en.wikipedia lists Dec 12. Dec 16 used. | Dec 16 date confirmed by TBS listing and Real Sound (Dec 2024).",
+    "detail": {
+      "ja": "2024年12月16日18時30分から22時57分までTBS系で放送された『CDTVライブ!ライブ! クリスマスSP』にNewJeansが出演し、「出張ライブ!ライブ!」の企画で「Supernatural」と「OMG」をそれぞれフルサイズで披露した。全37組が出演する約4時間半の特番であった。",
+      "en": "On December 16, 2024, NewJeans appeared on TBS's CDTV Live! Live! Christmas SP (CDTVライブ!ライブ! クリスマスSP), broadcast from 6:30 to 10:57 pm, performing full-length versions of Supernatural and OMG in the 'Shuccho Live! Live!' location segment. The roughly four-and-a-half-hour special featured 37 acts."
+    },
+    "credits": {
+      "broadcaster": "TBS",
+      "program": "CDTVライブ!ライブ! クリスマスSP"
+    }
   },
   {
     "id": "tv-2024-12-19-music-bank-global-festival-2024-fukuoka",
@@ -3966,7 +5124,17 @@
       "japan"
     ],
     "verified": true,
-    "editor_note": "Broadcast date; the live event was Dec 14, 2024 at Fukuoka Dome."
+    "editor_note": "Broadcast date; the live event was Dec 14, 2024 at Fukuoka Dome.",
+    "detail": {
+      "ja": "2024年12月19日、KBS 2TVで『2024 MUSIC BANK GLOBAL FESTIVAL in JAPAN』が放送された。福岡のみずほPayPayドーム福岡で12月14日と15日に収録された公演で、司会はシン・イェウン、ムン・サンミン、LE SSERAFIMのホン・ウンチェ。NewJeansは12月14日の初日に出演し、「Super Shy」「How Sweet」「Supernatural」のステージが放送された。",
+      "en": "On December 19, 2024, KBS 2TV broadcast the 2024 Music Bank Global Festival in Japan, recorded on December 14 and 15 at Mizuho PayPay Dome Fukuoka and hosted by Shin Ye-eun, Moon Sang-min and Hong Eun-chae of Le Sserafim. NewJeans had performed on the first day, December 14, and their stage of Super Shy, How Sweet and Supernatural was aired."
+    },
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "program": "2024 MUSIC BANK GLOBAL FESTIVAL in JAPAN",
+      "venue": "Mizuho PayPay Dome Fukuoka",
+      "host": "Shin Ye-eun, Moon Sang-min, Hong Eun-chae"
+    }
   },
   {
     "id": "tv-2024-12-25-cbs-radio-news-show-christmas",
@@ -3996,7 +5164,16 @@
       "radio"
     ],
     "verified": true,
-    "editor_note": "Appearance during the contract dispute, after the Nov 28, 2024 termination notice; members avoided using the NewJeans name on air."
+    "editor_note": "Appearance during the contract dispute, after the Nov 28, 2024 termination notice; members avoided using the NewJeans name on air. | Per Mydaily and News1 (Dec 25, 2024); song title of Hanni's original per other reports (Darling, Darling) not confirmed in fetched text.",
+    "detail": {
+      "ja": "2024年12月25日朝、CBS標準FMの時事番組『キム・ヒョンジョンのニュースショー』のクリスマス特集にNewJeansのミンジ、ハニ、ダニエル、ヘリン、ヘインが出演した。11月28日の専属契約解除の発表後、初めてのトーク番組出演で、番組側はグループ名を使わず5人の個人名で紹介した。5人は「きよしこの夜」を歌って番組を始め、ハニは自作曲をギターで弾き語りした後、メンバーが困難な時期を過ごしていると述べて涙を見せ、ヘインも涙を流した。来年の活動については「期待してほしい」と述べた。",
+      "en": "On the morning of December 25, 2024, Minji, Hanni, Danielle, Haerin and Hyein appeared on the Christmas special of CBS Standard FM's current-affairs program Kim Hyun-jung's News Show, their first talk-show appearance since announcing on November 28 that they were terminating their exclusive contracts. The program introduced them by their individual names rather than the group name. The five opened by singing Silent Night; Hanni performed an original song on guitar and, saying the members were going through a hard period, broke into tears, as did Hyein. Asked about the coming year, they said to look forward to it."
+    },
+    "credits": {
+      "broadcaster": "CBS Standard FM",
+      "program": "Kim Hyun-jung's News Show",
+      "host": "Kim Hyun-jung"
+    }
   },
   {
     "id": "tv-2024-12-25-sbs-gayo-daejeon-2024",
@@ -4026,7 +5203,16 @@
     "tags": [
       "year-end"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年12月25日、仁川のINSPIREアリーナで『2024 SBS歌謡大典』冬編（SBS Gayo Daejeon Winter）が開かれ、SBSが生中継した。司会はNCTのドヨン、TOMORROW X TOGETHERのヨンジュン、IVEのアン・ユジン。NewJeansは「Ditto（250 remix）」「Cookie」「Hype Boy」を披露した。",
+      "en": "The 2024 SBS Gayo Daejeon Winter was held on December 25, 2024 at Inspire Arena in Incheon and broadcast live on SBS, hosted by Doyoung (NCT), Yeonjun (Tomorrow X Together) and An Yu-jin (Ive). NewJeans performed Ditto (250 remix), Cookie and Hype Boy."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "venue": "Inspire Arena, Incheon",
+      "host": "Doyoung, Yeonjun, An Yu-jin"
+    }
   },
   {
     "id": "tv-2024-12-27-asia-artist-awards-2024",
@@ -4054,7 +5240,16 @@
     "tags": [
       "award-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年12月27日、タイ・バンコクのインパクト・チャレンジャーホールで『2024 Asia Artist Awards』が開かれ、NewJeansは大賞の今年のアーティスト賞（歌手部門）、ベストアーティスト賞（音楽部門）、ベストパフォーマンス賞（「How Sweet」）を受賞した。大賞受賞は3年連続である。司会はリュ・ジュンヨル、チャン・ウォニョン、ソン・ハンビンで、韓国ではMTN、世界ではWeverse、日本ではU-NEXTが配信した。NewJeansは「Bubble Gum」「Supernatural」「How Sweet」を披露した。",
+      "en": "At the 2024 Asia Artist Awards on December 27, 2024 at Impact Challenger Hall in Bangkok, NewJeans won the Artist of the Year (Singer) grand prize, their third consecutive AAA Daesang, plus the Best Artist Award (Music) and the Best Performance Award for How Sweet. Ryu Jun-yeol, Jang Won-young and Sung Han-bin hosted; the show aired on MTN in Korea, Weverse worldwide and U-NEXT in Japan. NewJeans performed Bubble Gum, Supernatural and How Sweet."
+    },
+    "credits": {
+      "venue": "Impact Challenger Hall, Bangkok",
+      "organizer": "Star News",
+      "host": "Ryu Jun-yeol, Jang Won-young, Sung Han-bin"
+    }
   },
   {
     "id": "tv-2024-12-28-ntv-music-award-2024",
@@ -4085,7 +5280,17 @@
       "japan-tv",
       "year-end"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年12月28日19時から日本テレビ系で生放送された『発表!今年イチバン聴いた歌～年間ミュージックアワード2024～』にNewJeansが3年連続で出演した。ホテルニューオータニ幕張からの生中継で、MCは上白石萌音と池田エライザ。ストリーミングのランキングデータをもとに14組が50曲を歌う構成で、NewJeansは21時台の枠に編成された。",
+      "en": "On December 28, 2024, NewJeans appeared for a third consecutive year on Nippon TV's live year-end special Happyo! Kotoshi Ichiban Kiita Uta: Nenkan Music Award 2024 (発表!今年イチバン聴いた歌～年間ミュージックアワード2024～), broadcast from 7 pm from Hotel New Otani Makuhari and hosted by Mone Kamishiraishi and Elaiza Ikeda. Fourteen acts performed 50 songs selected from streaming data; NewJeans were scheduled in the 9 pm block."
+    },
+    "credits": {
+      "broadcaster": "Nippon TV",
+      "program": "発表!今年イチバン聴いた歌～年間ミュージックアワード2024～",
+      "host": "Mone Kamishiraishi, Elaiza Ikeda"
+    },
+    "editor_note": "Songs performed not confirmed from sources found."
   },
   {
     "id": "tv-2024-12-30-japan-record-awards-66",
@@ -4116,11 +5321,21 @@
       "japan-tv",
       "award-show"
     ],
-    "verified": false
+    "verified": false,
+    "detail": {
+      "ja": "2024年12月30日、東京・新国立劇場で『第66回輝く!日本レコード大賞』が開かれ、TBS系で17時30分から22時まで生放送された。総合司会は安住紳一郎と川口春奈。NewJeansは日本デビュー曲「Supernatural」で優秀作品賞を受賞し（2年連続）、同曲を披露した。前日12月29日の務安国際空港でのチェジュ航空機事故を受け韓国政府が国家哀悼期間を指定したため、韓国のアーティストは喪章を付けて出演した。ヘインは最近覚えた日本語のフレーズを披露した。",
+      "en": "The 66th Japan Record Awards (第66回輝く!日本レコード大賞) were held on December 30, 2024 at the New National Theatre in Tokyo and broadcast live on TBS from 5:30 to 10:00 pm, hosted by Shinichiro Azumi and Haruna Kawaguchi. NewJeans received the Excellent Work Award for their Japanese debut single Supernatural, their second consecutive year, and performed the song. Because the South Korean government had declared a national mourning period after the Jeju Air crash at Muan on December 29, Korean artists appeared wearing mourning ribbons. Hyein shared a recently learned Japanese phrase."
+    },
+    "credits": {
+      "broadcaster": "TBS",
+      "venue": "New National Theatre, Tokyo",
+      "organizer": "Japan Composer's Association",
+      "host": "Shinichiro Azumi, Haruna Kawaguchi"
+    }
   },
   {
-    "id": "tv-2025-01-05-golden-disc-awards-39",
-    "date": "2025-01-05",
+    "id": "tv-2025-01-04-golden-disc-awards-39",
+    "date": "2025-01-04",
     "date_type": "broadcast",
     "date_precision": "day",
     "category": "tv",
@@ -4133,8 +5348,8 @@
       "en": "39th Golden Disc Awards"
     },
     "summary": {
-      "ja": "福岡・みずほPayPayドームでデジタル音源部門本賞などを受賞。「Supernatural」「How Sweet」を披露。",
-      "en": "Won a Digital Song Bonsang in Fukuoka; performed Supernatural and How Sweet."
+      "ja": "福岡で開かれた第39回ゴールデンディスクアワードで「How Sweet」のデジタル音源本賞とコスモポリタン・アーティスト賞を受賞し、「Supernatural」「How Sweet」を披露した。",
+      "en": "Won a Digital Song Bonsang for How Sweet and the Cosmopolitan Artist Award at the 39th Golden Disc Awards in Fukuoka; performed Supernatural and How Sweet."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
@@ -4148,7 +5363,16 @@
       "japan"
     ],
     "verified": false,
-    "editor_note": "Still under the NewJeans name; the NJZ rebrand was announced Feb 7, 2025."
+    "editor_note": "Still under the NewJeans name; the NJZ rebrand was announced Feb 7, 2025. | Date note: en.wikipedia (39th GDA) places the NewJeans performance on day one, January 4, 2025; the record is dated January 5. ja.wikipedia also lists Jan 4. Consider moving to 2025-01-04. | date moved from 2025-01-05 to 2025-01-04 per enrichment sources (id tv-2025-01-05-golden-disc-awards-39 -> tv-2025-01-04-golden-disc-awards-39)",
+    "detail": {
+      "ja": "第39回ゴールデンディスクアワードは2025年1月4日と5日に福岡のみずほPayPayドーム福岡で開かれ、司会はソン・シギョン、チャ・ウヌ、ムン・ガヨン。NewJeansは「How Sweet」でデジタル音源部門本賞を受賞し、コスモポリタン・アーティスト賞（YUQIと同時受賞）も受けた。「How Sweet」はデジタル音源大賞にもノミネートされた。NewJeansは1月4日の初日にイントロ、「Supernatural（Attention mix）」「How Sweet」を披露した。チェジュ航空機事故を受けてJTBCの生中継は見送られ、放送は1月6日と7日に行われた。",
+      "en": "The 39th Golden Disc Awards were held on January 4 and 5, 2025 at Mizuho PayPay Dome Fukuoka, hosted by Sung Si-kyung, Cha Eun-woo and Moon Ga-young. NewJeans won a Digital Song Bonsang for How Sweet, which was also nominated for the Digital Daesang, and the Cosmopolitan Artist Award shared with Yuqi. The group performed on day one, January 4, with an intro, Supernatural (Attention mix) and How Sweet. After the Jeju Air crash, JTBC's live broadcast was replaced by a recorded airing on January 6 and 7."
+    },
+    "credits": {
+      "venue": "Mizuho PayPay Dome Fukuoka",
+      "broadcaster": "JTBC",
+      "host": "Sung Si-kyung, Cha Eun-woo, Moon Ga-young"
+    }
   },
   {
     "id": "tv-2025-01-29-mbc-gayo-daejejeon-2024",
@@ -4179,7 +5403,16 @@
       "year-end"
     ],
     "verified": false,
-    "editor_note": "Originally scheduled Dec 31, 2024; delayed due to the Jeju Air Flight 2216 accident."
+    "editor_note": "Originally scheduled Dec 31, 2024; delayed due to the Jeju Air Flight 2216 accident. | Second set (order 30) per en.wikipedia MBC Gayo Daejejeon page; which night it aired not confirmed.",
+    "detail": {
+      "ja": "『2024 MBC歌謡大祭典』は当初2024年12月31日の生放送が予定されていたが、前日のチェジュ航空機事故を受けて中止され、事前収録のうえ2025年1月29日と30日の旧正月連休に放送された。司会はユナ（少女時代）、ミンホ（SHINee）、ドフン（TWS）。NewJeansは放送順2番目に登場して「Attention」を披露し、司会はグループ名「NewJeans」で紹介し、画面にもグループ名が表示された。番組後半には「Right Now（Jazz ver.）」「How Sweet」「Hurt」のステージも編成された。",
+      "en": "The 2024 MBC Gayo Daejejeon, originally scheduled for live broadcast on December 31, 2024, was cancelled after the Jeju Air crash the day before, pre-recorded and aired on January 29 and 30, 2025 during the Lunar New Year holiday, hosted by Yoona (Girls' Generation), Minho (Shinee) and Dohoon (TWS). NewJeans appeared second in the running order with Attention; the hosts introduced them as NewJeans and the group name was shown on screen. A later block of the program included Right Now (Jazz ver.), How Sweet and Hurt."
+    },
+    "credits": {
+      "broadcaster": "MBC",
+      "program": "2024 MBC Gayo Daejejeon",
+      "host": "Yoona, Minho, Dohoon"
+    }
   },
   {
     "id": "tv-2025-02-07-cnn-interview-njz",
@@ -4212,6 +5445,15 @@
       "njz"
     ],
     "verified": false,
-    "editor_note": "Published by CNN Style Feb 6–7, 2025 (US/KST); exact CNN URL not captured. Independent activity during the dispute, before the Mar 21, 2025 injunction."
+    "editor_note": "Published by CNN Style Feb 6–7, 2025 (US/KST); exact CNN URL not captured. Independent activity during the dispute, before the Mar 21, 2025 injunction. | CNN article syndicated at kvia.com (Feb 6, 2025 US); Hanni's comments were by phone per the article.",
+    "detail": {
+      "ja": "2025年2月7日（韓国時間）、NewJeansのメンバー5人がCNN（CNN Style、記者オスカー・ホランド）の独占インタビューで新しいグループ名「NJZ」を発表した。ハニは改名を困難な時期をより前向きなものに変える方法と説明し、元の名前の本質を残したと述べ、ダニエルはファンの提案を長い時間をかけて検討したと語った。3月に香港のComplexConで新名義での初ステージと新曲の披露を予定していると明かした。ADORは同日、法的判断前の一方的な名称の発表は専属契約の重大な違反となり得るとの声明を出した。",
+      "en": "On February 7, 2025 (KST), the five NewJeans members announced their new group name NJZ in an exclusive interview with CNN (CNN Style, by Oscar Holland). Hanni described the renaming as a way of turning a rough period into something more exciting and said it kept the essence of the original name; Danielle said the group had spent a long time weighing fan suggestions. They said they would perform under the new name for the first time and debut a new song at ComplexCon Hong Kong in March. ADOR responded the same day that announcing an unauthorized name before a legal ruling could constitute a material breach of the exclusive contract."
+    },
+    "credits": {
+      "broadcaster": "CNN",
+      "program": "CNN Style",
+      "interviewer": "Oscar Holland"
+    }
   }
 ]
