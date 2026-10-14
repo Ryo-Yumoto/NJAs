@@ -19,7 +19,11 @@ for m in re.finditer(r"<(title|link)[^>]*>(?:.*?</title>)?", head, re.S):
     tag = m.group(0)
     if tag.startswith("<title") or 'rel="stylesheet"' in tag or 'rel="preconnect"' in tag:
         keep.append(tag)
-page = "\n".join(keep) + "\n<script>window.NJAS_NO_EMBED = true;</script>\n" + body.strip() + "\n"
+import hashlib, time
+ver = hashlib.sha1((ROOT / "assets/js/app.js").read_bytes() + (ROOT / "assets/css/style.css").read_bytes()).hexdigest()[:8]
+keep = [k.replace('href="assets/css/style.css"', f'href="assets/css/style.css?v={ver}"') for k in keep]
+body = body.replace('src="assets/js/app.js"', f'src="assets/js/app.js?v={ver}"')
+page = "\n".join(keep) + f"\n<script>window.NJAS_NO_EMBED = true; window.NJAS_VER = '{ver}';</script>\n" + body.strip() + "\n"
 (OUT / "index.html").write_text(page, encoding="utf-8")
 files = {"assets/css/style.css": "assets/css/style.css", "assets/js/app.js": "assets/js/app.js", "media/auto/index.json": "media/auto/index.json"}
 for p in sorted((ROOT / "data").glob("*.json")): files[f"data/{p.name}"] = f"data/{p.name}"
