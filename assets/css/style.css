@@ -117,7 +117,7 @@ button { font-family: inherit; }
 .assets a img { width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 4px; outline: 1px solid var(--rule); display: block; }
 
 /* ---------- era (chapter) page ---------- */
-.era-page { position: relative; border-radius: 8px; overflow: hidden; background: var(--paper-2); isolation: isolate; }
+.era-page { position: relative; min-height: calc(100vh - 170px); border-radius: 8px; overflow: hidden; background: var(--paper-2); display: grid; align-items: end; isolation: isolate; }
 .era-page::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 6px; background: var(--era); z-index: 2; }
 .era-page.has-img { min-height: 0; display: block; background: #000; }
 .era-img { display: block; width: 100%; height: auto; }
@@ -268,7 +268,8 @@ button { font-family: inherit; }
   .era-img { max-height: 60vh; object-fit: contain; background: #000; }
   .t-ja { font-size: 19px; }
   .era-body { padding: 24px 18px 22px; }
-  .era-page { border-radius: 6px; }
+  .era-page { min-height: calc(100vh - 190px); border-radius: 6px; }
+  .page { padding-top: 12px; }
   .era-page.has-img .era-body { padding: 18px 18px 20px; }
   .era-page.has-img .era-title { font-size: clamp(48px, 14vw, 80px); }
   .pager-date { font-size: 16px; }
