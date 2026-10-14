@@ -26,7 +26,7 @@
   const state = { items: [], eras: [], images: {}, pages: [], byDate: {}, cur: -1, mode: "cover", showMeta: false, cats: new Set(Object.keys(CATS)), tocMonth: null };
 
   const $ = (sel, root = document) => root.querySelector(sel);
-  const el = (tag, attrs = {}, text) => { const n = document.createElement(tag); for (const [k, v] of Object.entries(attrs)) { if (k === "class") n.className = v; else n.setAttribute(k, v); } if (text != null) n.textContent = text; return n; };
+  const el = (tag, attrs = {}, text) => { const n = document.createElement(tag); for (const [k, v] of Object.entries(attrs)) { if (v == null) continue; if (k === "class") n.className = v; else n.setAttribute(k, v); } if (text != null) n.textContent = text; return n; };
   const utc = d => Date.UTC(+d.slice(0, 4), +d.slice(5, 7) - 1, +d.slice(8, 10));
   const dayNum = date => Math.round((utc(date) - utc(DEBUT)) / 86400000) + 1;
   const dayLabel = date => (date < DEBUT ? "" : `DAY ${dayNum(date)}`);
@@ -308,7 +308,7 @@
         const grid = el("div", { class: "cal-grid" });
         for (let m = 1; m <= 12; m++) {
           const list = byYear[y][m]; const ym = `${y}-${String(m).padStart(2, "0")}`;
-          const cell = el("button", { class: "cal-cell", type: "button", disabled: list ? null : "" });
+          const cell = el("button", { class: "cal-cell", type: "button" });
           if (!list) cell.setAttribute("disabled", "");
           const known = list ? list.some(x => isKnown(x.p)) : false;
           const allKnown = list ? list.every(x => isKnown(x.p)) : false;
@@ -328,7 +328,7 @@
     back.addEventListener("click", () => { state.tocMonth = null; renderToc(); });
     const prevM = days.filter(x => x.p.date.slice(0, 7) < ym).pop(), nextM = days.find(x => x.p.date.slice(0, 7) > ym);
     const mnav = el("div", { class: "toc-mnav" });
-    const pb = el("button", { class: "toc-back mono", type: "button", disabled: prevM ? null : "" }, "← 前の月"); if (!prevM) pb.setAttribute("disabled", ""); else pb.addEventListener("click", () => { state.tocMonth = prevM.p.date.slice(0, 7); renderToc(); });
+    const pb = el("button", { class: "toc-back mono", type: "button" }, "← 前の月"); if (!prevM) pb.setAttribute("disabled", ""); else pb.addEventListener("click", () => { state.tocMonth = prevM.p.date.slice(0, 7); renderToc(); });
     const nb = el("button", { class: "toc-back mono", type: "button" }, "次の月 →"); if (!nextM) nb.setAttribute("disabled", ""); else nb.addEventListener("click", () => { state.tocMonth = nextM.p.date.slice(0, 7); renderToc(); });
     mnav.append(pb, nb);
     nav.append(back, mnav);
