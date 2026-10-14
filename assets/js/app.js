@@ -367,7 +367,8 @@
       const known = isKnown(p) || reveal;
       const dh = el("button", { class: "toc-day" + (i === state.cur ? " current" : "") + (known ? "" : " unknown"), type: "button" });
       const first = p.items[0];
-      const digest = known ? ((L(first.summary) || L(first.title)) + (p.items.length > 1 ? (state.lang === "ja" ? `（ほか${p.items.length - 1}件）` : ` (+${p.items.length - 1})`) : "")) : "";
+      const cut = (s, n) => (s.length > n ? s.slice(0, n).replace(/[、。,.\s]+$/, "") + "…" : s);
+      const digest = known ? (cut(L(first.summary) || L(first.title), state.lang === "ja" ? 40 : 70) + (p.items.length > 1 ? (state.lang === "ja" ? `（ほか${p.items.length - 1}件）` : ` (+${p.items.length - 1})`) : "")) : "";
       dh.append(el("span", { class: "toc-day-date mono" }, p.precision === "day" ? `${p.date.slice(8, 10)}日（${weekday(p.date)}）` : p.precision === "month" ? "月内（日付未確定）" : "年内（日付未確定）"), el("span", { class: "toc-day-digest" }, digest));
       dh.addEventListener("click", () => go(i));
       body.appendChild(dh);
