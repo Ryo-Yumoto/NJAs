@@ -25,7 +25,8 @@
   const WD_JA = ["日", "月", "火", "水", "木", "金", "土"];
   const KIND_TAGS = ["teaser", "trailer", "concept-film", "lyric-video", "track-video", "dance-practice", "performance", "stage-cam", "audition", "pre-debut", "announcement"];
 
-  const state = { items: [], eras: [], images: {}, pages: [], byDate: {}, cur: -1, mode: "cover", showMeta: false, cats: new Set(Object.keys(CATS)), tocMonth: null };
+  const state = { items: [], eras: [], images: {}, pages: [], byDate: {}, cur: -1, mode: "cover", showMeta: false, cats: new Set(Object.keys(CATS)), tocMonth: null, lang: "ja" };
+  const L = o => (o ? (o[state.lang] || o.ja || o.en || "") : "");
 
   const $ = (sel, root = document) => root.querySelector(sel);
   const el = (tag, attrs = {}, text) => { const n = document.createElement(tag); for (const [k, v] of Object.entries(attrs)) { if (v == null) continue; if (k === "class") n.className = v; else n.setAttribute(k, v); } if (text != null) n.textContent = text; return n; };
@@ -41,6 +42,16 @@
   const store = { get: k => { try { return localStorage.getItem(k); } catch (_) { return null; } }, set: (k, v) => { try { localStorage.setItem(k, v); } catch (_) {} } };
 
   /* ---------- theme ---------- */
+  function initLang() {
+    const saved = store.get("njas-lang"); if (saved === "en") state.lang = "en";
+    const b = $("#lang-btn"); b.textContent = state.lang === "ja" ? "EN" : "JA";
+    document.documentElement.setAttribute("data-lang", state.lang);
+    b.addEventListener("click", () => {
+      state.lang = state.lang === "ja" ? "en" : "ja"; store.set("njas-lang", state.lang);
+      b.textContent = state.lang === "ja" ? "EN" : "JA"; document.documentElement.setAttribute("data-lang", state.lang);
+      if (state.mode === "page") renderPage(); if (!$("#toc").hidden) renderToc();
+    });
+  }
   function initTheme() {
     const saved = store.get("njas-theme");
     if (saved === "dark" || saved === "light") document.documentElement.dataset.theme = saved;
@@ -154,7 +165,7 @@
     if (src) { h.classList.add("has-img"); h.appendChild(el("img", { class: "era-img", src, alt: "" })); }
     const body = el("div", { class: "era-body" });
     const chapterNo = state.eras.indexOf(era) + 1;
-    body.append(el("span", { class: "era-kicker mono" }, `ERA ${chapterNo} · 第${chapterNo}期`), el("h2", { class: "era-title" }, era.title.en), el("p", { class: "era-sub" }, era.title.ja), el("p", { class: "era-cap" }, era.caption?.ja || ""), el("p", { class: "era-cap-en" }, era.caption?.en || ""), el("p", { class: "era-range mono" }, `${fmtLong(era.start)} —`));
+    body.append(el("span", { class: "era-kicker mono" }, `ERA ${chapterNo} · 第${chapterNo}期`), el("h2", { class: "era-title" }, era.title.en), el("p", { class: "era-sub" }, era.title.ja), el("p", { class: "era-cap" }, L(era.caption)), el("p", { class: "era-range mono" }, `${fmtLong(era.start)} —`));
     h.appendChild(body);
     return h;
   }
@@ -194,13 +205,15 @@
     if (it.entity === "njz") { const e = $(".entity", node); e.hidden = false; e.textContent = "NJZ"; }
     if (it.members && it.members.length && !(it.members.length === 1 && it.members[0] === "all")) { const m = $(".members", node); m.hidden = false; m.textContent = it.members.map(x => MEMBERS[x] || x).join(" · "); }
     if (!it.verified && state.showMeta) $(".unverified", node).hidden = false;
-    $(".t-ja", node).textContent = it.title.ja; $(".t-en", node).textContent = it.title.en;
+    const ja = state.lang === "ja";
+    $(".t-ja", node).textContent = L(it.title); $(".t-en", node).remove();
     if (it.title.original && it.title.original !== it.title.ja && it.title.original !== it.title.en) { const o = $(".t-orig", node); o.hidden = false; o.textContent = it.title.original; }
-    if (it.summary?.ja || it.summary?.en) { $(".desc", node).hidden = false; if (it.summary.ja) $(".s-ja", node).textContent = it.summary.ja; else $(".s-ja", node).remove(); if (it.summary.en) $(".s-en", node).textContent = it.summary.en; else $(".s-en", node).remove(); }
-    if (it.detail?.ja || it.detail?.en) {
+    if (L(it.summary)) { $(".desc", node).hidden = false; $(".s-ja", node).textContent = L(it.summary); $(".s-en", node).remove(); }
+    else { $(".s-ja", node).remove(); $(".s-en", node).remove(); }
+    if (it.note) { const n = $(".note", node); n.hidden = false; n.textContent = it.note; $(".desc", node).hidden = false; $(".desc", node).appendChild(n); }
+    if (L(it.detail)) {
       const d = el("div", { class: "detail" });
-      if (it.detail.ja) d.appendChild(el("p", { class: "d-ja" }, it.detail.ja));
-      if (it.detail.en) d.appendChild(el("p", { class: "d-en" }, it.detail.en));
+      d.appendChild(el("p", { class: "d-ja" }, L(it.detail)));
       $(".desc", node).hidden = false; $(".desc", node).after(d);
     }
     if (it.credits && Object.keys(it.credits).length) {
@@ -208,7 +221,6 @@
       for (const [k, v] of Object.entries(it.credits)) { dl.append(el("dt", { class: "mono" }, k.replace(/_/g, " ")), el("dd", {}, v)); }
       ($(".detail", node) || $(".desc", node)).after(dl);
     }
-    if (it.note) { const n = $(".note", node); n.hidden = false; n.textContent = it.note; }
     const img = imageOf(it), isYt = it.media && it.media.type === "youtube" && it.media.ref;
     if (img) {
       const fig = $(".thumb", node); fig.hidden = false;
@@ -238,7 +250,7 @@
   function openLightbox(it, img) {
     $("#lb-img").src = img.src; $("#lb-img").alt = it.title.ja;
     $("#lb-meta").textContent = `${fmtLong(it.date)}${dayLabel(it.date) ? " · " + dayLabel(it.date) : ""} · ${CATS[it.category]?.en || it.category}`;
-    $("#lb-title").textContent = `${it.title.ja} — ${it.title.en}`;
+    $("#lb-title").textContent = L(it.title);
     const links = $("#lb-links"); links.innerHTML = ""; links.appendChild(el("a", { href: img.from, target: "_blank", rel: "noopener" }, "image source"));
     $("#lightbox").hidden = false; document.body.style.overflow = "hidden";
   }
@@ -344,7 +356,7 @@
       const known = isKnown(p) || reveal;
       const dh = el("button", { class: "toc-day" + (i === state.cur ? " current" : "") + (known ? "" : " unknown"), type: "button" });
       const first = p.items[0];
-      const digest = known ? ((first.summary?.ja || first.title.ja) + (p.items.length > 1 ? `（ほか${p.items.length - 1}件）` : "")) : "";
+      const digest = known ? ((L(first.summary) || L(first.title)) + (p.items.length > 1 ? (state.lang === "ja" ? `（ほか${p.items.length - 1}件）` : ` (+${p.items.length - 1})`) : "")) : "";
       dh.append(el("span", { class: "toc-day-date mono" }, p.precision === "day" ? `${p.date.slice(8, 10)}日（${weekday(p.date)}）` : p.precision === "month" ? "月内（日付未確定）" : "年内（日付未確定）"), el("span", { class: "toc-day-digest" }, digest));
       dh.addEventListener("click", () => go(i));
       body.appendChild(dh);
@@ -355,7 +367,7 @@
   function itemRow(p, i, it) {
     const row = el("button", { class: "toc-item", type: "button" });
     const dot = el("i", { class: "dot" }); dot.style.background = CATS[it.category]?.color || "var(--rule)";
-    row.append(el("span", { class: "toc-item-date mono" }, p.precision === "day" ? `${p.date.slice(5, 7)}.${p.date.slice(8, 10)}` : p.date.slice(0, 7).replace("-", ".")), dot, el("span", { class: "toc-item-text" }, it.title.ja), el("span", { class: "toc-item-cat mono" }, CATS[it.category]?.en || it.category));
+    row.append(el("span", { class: "toc-item-date mono" }, p.precision === "day" ? `${p.date.slice(5, 7)}.${p.date.slice(8, 10)}` : p.date.slice(0, 7).replace("-", ".")), dot, el("span", { class: "toc-item-text" }, L(it.title)), el("span", { class: "toc-item-cat mono" }, CATS[it.category]?.en || it.category));
     row.addEventListener("click", () => { go(i); setTimeout(() => document.getElementById(it.id)?.scrollIntoView({ block: "start", behavior: "smooth" }), 80); });
     return row;
   }
@@ -384,7 +396,7 @@
         const key = it.date_precision === "month" ? it.date.slice(0, 7) : it.date_precision === "year" ? it.date.slice(0, 4) : it.date;
         const row = el("a", { class: "index-row", href: "#" + key });
         row.style.setProperty("--cat", CATS[it.category]?.color || "var(--rule)");
-        row.append(el("span", { class: "mono" }, key.replace(/-/g, ".")), el("i", { class: "dot" }), el("span", { class: "index-title-text" }, it.title.ja + (it.verified ? "" : " ⚠")), el("span", { class: "mono dim" }, CATS[it.category]?.en || it.category));
+        row.append(el("span", { class: "mono" }, key.replace(/-/g, ".")), el("i", { class: "dot" }), el("span", { class: "index-title-text" }, L(it.title) + (it.verified ? "" : " ⚠")), el("span", { class: "mono dim" }, CATS[it.category]?.en || it.category));
         row.addEventListener("click", e => { e.preventDefault(); state.showMeta = true; go(state.pages.findIndex(pp => pp.kind === "day" && pp.key === key)); });
         table.appendChild(row);
       }
@@ -427,6 +439,6 @@
     window.addEventListener("hashchange", route);
   }
 
-  initTheme(); wire();
+  initLang(); initTheme(); wire();
   load().then(route).catch(err => { $("#cover .lede").textContent = "Failed to load data: " + err.message; });
 })();

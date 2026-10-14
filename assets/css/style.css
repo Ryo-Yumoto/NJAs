@@ -93,11 +93,13 @@ button { font-family: inherit; }
 .s-en { margin: 2px 0 0; font-size: 13px; color: var(--ink-3); }
 .detail { margin-top: 10px; max-width: 640px; }
 .d-ja { margin: 0; font-family: var(--f-jp); font-size: 13.5px; line-height: 1.85; color: var(--ink); }
+:root[data-lang="en"] .d-ja, :root[data-lang="en"] .s-ja, :root[data-lang="en"] .t-ja { font-family: var(--f-ui); }
+:root[data-lang="ja"] .lede-en { display: none; }
 .d-en { margin: 4px 0 0; font-size: 12.5px; line-height: 1.7; color: var(--ink-3); }
 .credits { margin: 10px 0 0; display: grid; grid-template-columns: max-content 1fr; gap: 2px 12px; max-width: 640px; font-size: 12.5px; }
 .credits dt { color: var(--ink-3); font-size: 10.5px; padding-top: 2px; }
 .credits dd { margin: 0; font-family: var(--f-jp); color: var(--ink-2); }
-.note { margin: 10px 0 0; color: var(--ink-2); text-transform: none; letter-spacing: 0; font-family: var(--f-jp); font-size: 13px; }
+.note { margin: 6px 0 0; color: var(--ink-2); text-transform: none; letter-spacing: 0; font-family: var(--f-jp); font-size: 13px; padding-left: 10px; border-left: 2px solid var(--rule); }
 .links { margin-top: 12px; display: flex; flex-wrap: wrap; gap: 14px; }
 .links a { color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--ink-3); padding-bottom: 1px; transition: border-color .15s, color .15s; }
 .links a:hover { color: var(--denim); border-color: var(--denim); }
