@@ -30,8 +30,16 @@
       "teaser"
     ],
     "verified": false,
-    "editor_note": "Status URL not retrieved; date from Wikipedia. Posted across ADOR/NewJeans official SNS. | X status URL supplied by pre-debut research (ADOR account @alldoorsoneroom), time from snowflake id",
-    "time": "08:48"
+    "editor_note": "Status URL not retrieved; date from Wikipedia. Posted across ADOR/NewJeans official SNS. | X status URL supplied by pre-debut research (ADOR account @alldoorsoneroom), time from snowflake id | Status 1542656334394322945 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; this status carries one 12s video. The '22/7/22' three-clip description is from Wikipedia; sibling statuses not located.",
+    "time": "08:48",
+    "detail": {
+      "ja": "2022年7月1日8時48分(KST)、ADORの公式Xアカウント@alldoorsoneroomが12秒のアニメーション映像1本を添えて投稿した。本文は韓国語と英語の併記で「22년 7월 22일, 드디어 어도어 신인 걸그룹의 첫 콘텐츠가 공개됩니다」「FINALLY The first ADOR new girl group will drop its first content on July 22, 2022」(2022年7月22日、ついにADOR新人ガールズグループの最初のコンテンツが公開されます)と、グループ名を明かさないまま公開日のみを告知した。ハッシュタグは付いていない。英語版Wikipediaはこの日に「22」「7」「22」の数字をあしらったアニメーション映像3本が投稿されたと記す。",
+      "en": "At 08:48 KST on 2022-07-01, ADOR's official X account @alldoorsoneroom posted a 12-second animated clip with a bilingual caption: '22년 7월 22일, 드디어 어도어 신인 걸그룹의 첫 콘텐츠가 공개됩니다 / FINALLY The first ADOR new girl group will drop its first content on July 22, 2022'. No group name and no hashtags were given; only the date. English Wikipedia describes three animated videos of the numbers '22', '7' and '22' posted that day."
+    },
+    "credits": {
+      "account": "@alldoorsoneroom (ADOR)",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2022-07-22-debut-day-post",
@@ -64,7 +72,15 @@
       "attention"
     ],
     "verified": false,
-    "editor_note": "Embedded in Bandwagon's debut article; oEmbed lookup failed (post may have been deleted), so content is inferred from the article. Date derived from the snowflake ID (2022-07-22 00:00 KST)."
+    "editor_note": "Embedded in Bandwagon's debut article; oEmbed lookup failed (post may have been deleted), so content is inferred from the article. Date derived from the snowflake ID (2022-07-22 00:00 KST). | Status 1550133496085184512 returns 404 on fxtwitter/vxtwitter (deleted or unavailable). Text inferred; the Hypebae-embedded '#ATTENTIon_NewJeans' post may be this status but is unconfirmed.",
+    "detail": {
+      "ja": "スノーフレークIDから算出した投稿時刻は2022年7月22日0時00分(KST)で、『Attention』MVのサプライズ公開と同時刻にあたる。投稿本体は2026年10月時点で取得できず(fxtwitter/vxtwitterともに404)、本文は確認できない。公開当時の記事はこの日にADORがメンバーやコンセプトの事前告知なしにMVを公開し、1st EP『New Jeans』のスケジュール(7月23日『Hype Boy』、8月1日デジタル、8月8日フィジカル)を併せて示したと伝える。Hypebaeに埋め込まれた同時期の投稿は「#ATTENTIon_NewJeans」のハッシュタグと画像1点のみだった。",
+      "en": "The snowflake ID puts this post at 00:00 KST on 2022-07-22, the moment the 'Attention' MV went up. The status itself could not be retrieved as of October 2026 (404 on fxtwitter and vxtwitter), so its text is unverified. Contemporary coverage says ADOR released the MV with no prior reveal of members or concept and laid out the 1st EP schedule (Hype Boy on 7/23, digital EP 8/1, physical 8/8). A Hypebae embed of an @NewJeans_ADOR post from the same hours shows only the hashtag '#ATTENTIon_NewJeans' and one image."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2022-07-22-debut-teaser-photos",
@@ -98,7 +114,15 @@
     ],
     "verified": false,
     "note": "メンバー名はまだ非公開。名前は翌7/23の『Hype Boy』MVで明かされると予告。",
-    "editor_note": "Soompi 2022-07-21 UTC article shows photos; exact X status URLs not recovered. Posted on official X/Instagram."
+    "editor_note": "Soompi 2022-07-21 UTC article shows photos; exact X status URLs not recovered. Posted on official X/Instagram. | Not enriched beyond Soompi; no status URL found.",
+    "detail": {
+      "ja": "『Attention』MV公開に続き、2022年7月22日(KST)に公式X・Instagramでグループ写真と個人写真のティザーがまとめて公開された。Soompi(7月21日UTC)は「大量のグループおよび個人ティザー」として写真を転載し、この時点では5人組であること以外ほとんど情報がなく、メンバー名は7月23日公開の『Hype Boy』MVで明かされると記している。個別のX投稿URLは回収できていない。",
+      "en": "Following the 'Attention' MV, group and individual teaser photos were posted in a batch on the official X and Instagram accounts on 2022-07-22 KST. Soompi (dated July 21 UTC) reproduced the photos as 'a big batch of group and individual teasers', noting that little was known beyond the five-member lineup and that names would be revealed in the 'Hype Boy' MV on July 23. Individual X status URLs were not recovered."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2022-07-23-member-profile-danielle",
@@ -133,7 +157,15 @@
     ],
     "verified": true,
     "note": "ポスト本文：「Finally, I'm here!🎀💕 #NewJeans_DANIELLE」",
-    "editor_note": "Status URL from Soompi embed (embed shows Jul 22 UTC = Jul 23 00:00 KST)."
+    "editor_note": "Status URL from Soompi embed (embed shows Jul 22 UTC = Jul 23 00:00 KST). | Status 1550496891535761413 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; video 8.83s, posted 00:04:00 KST.",
+    "detail": {
+      "ja": "2022年7月23日00:04(KST)、公式X@NewJeans_ADORが約9秒の自己紹介映像1本を添えて投稿した。本文は「Finally, I'm here!」で、ハッシュタグは#NewJeans_DANIELLEのみ。5人の紹介投稿はミンジ、ハニ、ヘイン、ヘリン、ダニエルの順に1分間隔で投稿され、同時刻に公開されたインタラクティブ版『Hype Boy』MVの冒頭でもメンバー名が明かされた(Soompi)。",
+      "en": "At 00:04 KST on 2022-07-23 the official X account @NewJeans_ADOR posted a roughly 9-second self-introduction video. The text reads 'Finally, I'm here!' with the single hashtag #NewJeans_DANIELLE. The five introduction posts went up one minute apart in the order Minji, Hanni, Hyein, Haerin, Danielle, alongside the interactive 'Hype Boy' MV whose intro clip also revealed the names (Soompi)."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2022-07-23-member-profile-haerin",
@@ -168,7 +200,15 @@
     ],
     "verified": true,
     "note": "ポスト本文：「Hey!💘 It's me, Haerin! #NewJeans_HAERIN」",
-    "editor_note": "Status URL from Soompi embed (embed shows Jul 22 UTC = Jul 23 00:00 KST)."
+    "editor_note": "Status URL from Soompi embed (embed shows Jul 22 UTC = Jul 23 00:00 KST). | Status 1550496639588130820 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; video 8.85s, posted 00:03:00 KST.",
+    "detail": {
+      "ja": "2022年7月23日00:03(KST)、公式X@NewJeans_ADORが約9秒の自己紹介映像1本を添えて投稿した。本文は「Hey! It's me, Haerin!」で、ハッシュタグは#NewJeans_HAERINのみ。5人の紹介投稿はミンジ、ハニ、ヘイン、ヘリン、ダニエルの順に1分間隔で投稿され、同時刻に公開されたインタラクティブ版『Hype Boy』MVの冒頭でもメンバー名が明かされた(Soompi)。",
+      "en": "At 00:03 KST on 2022-07-23 the official X account @NewJeans_ADOR posted a roughly 9-second self-introduction video. The text reads 'Hey! It's me, Haerin!' with the single hashtag #NewJeans_HAERIN. The five introduction posts went up one minute apart in the order Minji, Hanni, Hyein, Haerin, Danielle, alongside the interactive 'Hype Boy' MV whose intro clip also revealed the names (Soompi)."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2022-07-23-member-profile-hanni",
@@ -203,7 +243,15 @@
     ],
     "verified": true,
     "note": "ポスト本文：「Hello, World!🌷 #NewJeans_HANNI」",
-    "editor_note": "Status URL from Soompi embed (embed shows Jul 22 UTC = Jul 23 00:00 KST)."
+    "editor_note": "Status URL from Soompi embed (embed shows Jul 22 UTC = Jul 23 00:00 KST). | Status 1550496136217038848 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; video 8.85s, posted 00:01:00 KST.",
+    "detail": {
+      "ja": "2022年7月23日00:01(KST)、公式X@NewJeans_ADORが約9秒の自己紹介映像1本を添えて投稿した。本文は「Hello, World!」で、ハッシュタグは#NewJeans_HANNIのみ。5人の紹介投稿はミンジ、ハニ、ヘイン、ヘリン、ダニエルの順に1分間隔で投稿され、同時刻に公開されたインタラクティブ版『Hype Boy』MVの冒頭でもメンバー名が明かされた(Soompi)。",
+      "en": "At 00:01 KST on 2022-07-23 the official X account @NewJeans_ADOR posted a roughly 9-second self-introduction video. The text reads 'Hello, World!' with the single hashtag #NewJeans_HANNI. The five introduction posts went up one minute apart in the order Minji, Hanni, Hyein, Haerin, Danielle, alongside the interactive 'Hype Boy' MV whose intro clip also revealed the names (Soompi)."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2022-07-23-member-profile-hyein",
@@ -238,7 +286,15 @@
     ],
     "verified": true,
     "note": "ポスト本文：「Hi, I'm Hyein!💕 #NewJeans_HYEIN」",
-    "editor_note": "Status URL from Soompi embed (embed shows Jul 22 UTC = Jul 23 00:00 KST)."
+    "editor_note": "Status URL from Soompi embed (embed shows Jul 22 UTC = Jul 23 00:00 KST). | Status 1550496387833311233 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; video 8.83s, posted 00:02:00 KST.",
+    "detail": {
+      "ja": "2022年7月23日00:02(KST)、公式X@NewJeans_ADORが約9秒の自己紹介映像1本を添えて投稿した。本文は「Hi, I'm Hyein!」で、ハッシュタグは#NewJeans_HYEINのみ。5人の紹介投稿はミンジ、ハニ、ヘイン、ヘリン、ダニエルの順に1分間隔で投稿され、同時刻に公開されたインタラクティブ版『Hype Boy』MVの冒頭でもメンバー名が明かされた(Soompi)。",
+      "en": "At 00:02 KST on 2022-07-23 the official X account @NewJeans_ADOR posted a roughly 9-second self-introduction video. The text reads 'Hi, I'm Hyein!' with the single hashtag #NewJeans_HYEIN. The five introduction posts went up one minute apart in the order Minji, Hanni, Hyein, Haerin, Danielle, alongside the interactive 'Hype Boy' MV whose intro clip also revealed the names (Soompi)."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2022-07-23-member-profile-minji",
@@ -273,7 +329,15 @@
     ],
     "verified": true,
     "note": "ポスト本文：「Hi, there! 🌷🐰 #NewJeans_MINJI」",
-    "editor_note": "Status URL from Soompi embed (embed shows Jul 22 UTC = Jul 23 00:00 KST)."
+    "editor_note": "Status URL from Soompi embed (embed shows Jul 22 UTC = Jul 23 00:00 KST). | Status 1550495896827113474 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; video 8.85s, posted 00:00:00 KST.",
+    "detail": {
+      "ja": "2022年7月23日00:00(KST)、公式X@NewJeans_ADORが約9秒の自己紹介映像1本を添えて投稿した。本文は「Hi, there!」で、ハッシュタグは#NewJeans_MINJIのみ。5人の紹介投稿はミンジ、ハニ、ヘイン、ヘリン、ダニエルの順に1分間隔で投稿され、同時刻に公開されたインタラクティブ版『Hype Boy』MVの冒頭でもメンバー名が明かされた(Soompi)。",
+      "en": "At 00:00 KST on 2022-07-23 the official X account @NewJeans_ADOR posted a roughly 9-second self-introduction video. The text reads 'Hi, there!' with the single hashtag #NewJeans_MINJI. The five introduction posts went up one minute apart in the order Minji, Hanni, Hyein, Haerin, Danielle, alongside the interactive 'Hype Boy' MV whose intro clip also revealed the names (Soompi)."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2022-07-24-attention-post",
@@ -306,7 +370,15 @@
       "attention"
     ],
     "verified": true,
-    "editor_note": "Post text: A T T E N T I on!🖤#NewJeans #NewJeans_ATTENTIon pic.twitter.com/fLbx8NMVuJ | Posted 2022-07-24 14:53 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: A T T E N T I on!🖤#NewJeans #NewJeans_ATTENTIon pic.twitter.com/fLbx8NMVuJ | Posted 2022-07-24 14:53 KST (from X oEmbed; time derived from snowflake ID). | Status 1551083236746416128 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 1 video (37.2s, 1440x1080).",
+    "detail": {
+      "ja": "2022年7月24日14時53分(KST)、公式Xが37秒の映像1本を添えて投稿した。本文は「A T T E N T I on!」の一行と「#NewJeans #NewJeans_ATTENTIon」のみ。ハッシュタグのATTENTIonは曲名の「on」部分を小文字にした表記で、デビュー曲のプロモーション投稿にあたる。",
+      "en": "At 14:53 KST on 2022-07-24 the official X account posted a 37-second video. The text is a single line, 'A T T E N T I on!', followed by '#NewJeans #NewJeans_ATTENTIon'. The hashtag spells the title with a lowercase 'on', matching the promotional styling used for the debut single."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2022-07-25-1st-ep-bag-preorder",
@@ -339,7 +411,15 @@
       "pre-order"
     ],
     "verified": true,
-    "editor_note": "Post text: NewJeans 1st EP ‘New Jeans’ (Bag)🛍️[한정반]💗limited Album예약 판매가 시작되었습니다!❤️#NewJeans_Album #NewJeans_Bag  #한정반#limited_Album pic.twitter.com/dtvDpIzsR7 | Posted 2022-07-25 11:03 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: NewJeans 1st EP ‘New Jeans’ (Bag)🛍️[한정반]💗limited Album예약 판매가 시작되었습니다!❤️#NewJeans_Album #NewJeans_Bag  #한정반#limited_Album pic.twitter.com/dtvDpIzsR7 | Posted 2022-07-25 11:03 KST (from X oEmbed; time derived from snowflake ID). | Status 1551387509388521473 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 1 video (10s).",
+    "detail": {
+      "ja": "2022年7月25日11時03分(KST)、公式Xが10秒の映像1本を添えて投稿した。本文は「NewJeans 1st EP ‘New Jeans’ (Bag)[한정반] limited Album 예약 판매가 시작되었습니다!」(予約販売が始まりました)で、ハッシュタグは#NewJeans_Album #NewJeans_Bag #한정반 #limited_Album。Weverse Albums ver.(11時01分)、Bluebook(11時02分)に続く3連投の3本目で、Weverse Shopの予約は同日11時に開始、8月8日発売予定と案内されていた。",
+      "en": "At 11:03 KST on 2022-07-25 the official X account posted a 10-second video with the text 'NewJeans 1st EP ‘New Jeans’ (Bag) [한정반] limited Album 예약 판매가 시작되었습니다!' (pre-orders have begun) and hashtags #NewJeans_Album #NewJeans_Bag #한정반 #limited_Album. It was the third of three consecutive posts (Weverse Albums ver. at 11:01, Bluebook at 11:02); Weverse Shop pre-orders opened at 11:00 that day for an 8 August release."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2022-07-25-1st-ep-bluebook-preorder",
@@ -372,7 +452,15 @@
       "pre-order"
     ],
     "verified": true,
-    "editor_note": "Post text: NewJeans 1st EP ‘New Jeans’ (Bluebook)📘#NewJeans_Album #NewJeans_Bluebook예약 판매가 시작되었습니다!❤️ pic.twitter.com/RUWFJbugwq | Posted 2022-07-25 11:02 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: NewJeans 1st EP ‘New Jeans’ (Bluebook)📘#NewJeans_Album #NewJeans_Bluebook예약 판매가 시작되었습니다!❤️ pic.twitter.com/RUWFJbugwq | Posted 2022-07-25 11:02 KST (from X oEmbed; time derived from snowflake ID). | Status 1551387258011275264 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 1 video (54.4s).",
+    "detail": {
+      "ja": "2022年7月25日11時02分(KST)、公式Xが54秒の映像1本を添えて投稿した。本文は「NewJeans 1st EP ‘New Jeans’ (Bluebook) #NewJeans_Album #NewJeans_Bluebook 예약 판매가 시작되었습니다!」(予約販売が始まりました)。Weverse Shopの案内によればBluebook ver.はアウトボックス、ログブック、ピンナップブック、CD、IDカード、ステッカーパック、フォトカード5枚などで構成される全6種で、予約は同日11時から8月7日まで、8月8日発売予定とされていた。",
+      "en": "At 11:02 KST on 2022-07-25 the official X account posted a 54-second video with the text 'NewJeans 1st EP ‘New Jeans’ (Bluebook) #NewJeans_Album #NewJeans_Bluebook 예약 판매가 시작되었습니다!' (pre-orders have begun). Per the Weverse Shop notice, the Bluebook ver. came in six versions with outbox, log book, pin-up book, CD, ID card, sticker pack and five photocards, with pre-orders from 11:00 that day to 7 August and release set for 8 August."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2022-07-25-1st-ep-weverse-albums-preorder",
@@ -405,7 +493,15 @@
       "pre-order"
     ],
     "verified": true,
-    "editor_note": "Post text: NewJeans 1st EP ‘New Jeans’ (Weverse Albums ver.)🎁#NewJeans_Albums #NewJeans_Weverse_Albums예약 판매가 시작되었습니다!https://t.co/Tt2RwVzLX0 pic.twitter.com/d2wlNMqel1 | Posted 2022-07-25 11:01 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: NewJeans 1st EP ‘New Jeans’ (Weverse Albums ver.)🎁#NewJeans_Albums #NewJeans_Weverse_Albums예약 판매가 시작되었습니다!https://t.co/Tt2RwVzLX0 pic.twitter.com/d2wlNMqel1 | Posted 2022-07-25 11:01 KST (from X oEmbed; time derived from snowflake ID). | Status 1551387006046900224 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 1 photo.",
+    "detail": {
+      "ja": "2022年7月25日11時01分(KST)、公式Xが画像1点を添えて投稿した。本文は「NewJeans 1st EP ‘New Jeans’ (Weverse Albums ver.) #NewJeans_Albums #NewJeans_Weverse_Albums 예약 판매가 시작되었습니다!」(予約販売が始まりました)で、Weverse Shopへのリンク(weverseshop.onelink.me)を含む。同日の予約開始3連投の最初の1本で、Weverse Albums ver.はアウトボックス、歌詞カード、フォトカード10枚、QRカードで構成される。",
+      "en": "At 11:01 KST on 2022-07-25 the official X account posted one photo with the text 'NewJeans 1st EP ‘New Jeans’ (Weverse Albums ver.) #NewJeans_Albums #NewJeans_Weverse_Albums 예약 판매가 시작되었습니다!' (pre-orders have begun) and a Weverse Shop link (weverseshop.onelink.me). It was the first of the three pre-order posts that morning; the Weverse Albums ver. consists of an outbox, lyric card, ten photocards and a QR card."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2022-07-25-phoning-app-launch",
@@ -438,7 +534,15 @@
       "app"
     ],
     "verified": true,
-    "editor_note": "Post text: Hello, Phoning!📱NOW on the App Store! (iOS, Android)#NewJeans_Phoning#Phoning #NewJeans pic.twitter.com/pFEusJGKNu | Posted 2022-07-25 00:05 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: Hello, Phoning!📱NOW on the App Store! (iOS, Android)#NewJeans_Phoning#Phoning #NewJeans pic.twitter.com/pFEusJGKNu | Posted 2022-07-25 00:05 KST (from X oEmbed; time derived from snowflake ID). | Status 1551221918451245057 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 1 video (7.0s).",
+    "detail": {
+      "ja": "2022年7月25日0時05分(KST)、公式Xが7秒の映像1本を添えて投稿した。本文は「Hello, Phoning! NOW on the App Store! (iOS, Android) #NewJeans_Phoning #Phoning #NewJeans」。NewJeans専用のファンコミュニケーションアプリPhoningがiOSとAndroid向けに配信開始されたことを告知する内容で、1st EPのBluebook ver.にはPhoningマニュアルブックが同梱されている。",
+      "en": "At 00:05 KST on 2022-07-25 the official X account posted a 7-second video with the text 'Hello, Phoning! NOW on the App Store! (iOS, Android) #NewJeans_Phoning #Phoning #NewJeans', announcing that the NewJeans-only fan communication app Phoning was available for iOS and Android. The 1st EP's Bluebook ver. includes a Phoning manual book."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2022-11-22-2023-seasons-greetings-notice",
@@ -471,7 +575,16 @@
       "goods"
     ],
     "verified": true,
-    "editor_note": "Post text: [안내📢]NewJeans 2023 SEASON’S GREETINGS 출시 안내 (+ENG/JPN)🔗https://t.co/vmkX9tYvDv #NewJeans #뉴진스 #SeasonsGreetings #시즌그리팅 #Room722 pic.twitter.com/2lyLNIyMcc | Posted 2022-11-22 12:00 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: [안내📢]NewJeans 2023 SEASON’S GREETINGS 출시 안내 (+ENG/JPN)🔗https://t.co/vmkX9tYvDv #NewJeans #뉴진스 #SeasonsGreetings #시즌그리팅 #Room722 pic.twitter.com/2lyLNIyMcc | Posted 2022-11-22 12:00 KST (from X oEmbed; time derived from snowflake ID). | Status 1594888405229473794 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 1 photo. Linked notice content read via weverse.io/newjeansofficial/notice/9982?hl=ko.",
+    "detail": {
+      "ja": "2022年11月22日12時00分(KST)、公式Xが画像1点を添えて投稿した。本文は「[안내] NewJeans 2023 SEASON’S GREETINGS 출시 안내 (+ENG/JPN)」とWeverse公知(weverse.io/newjeansofficial/notice/9982)へのリンク、ハッシュタグ#NewJeans #뉴진스 #SeasonsGreetings #시즌그리팅 #Room722。リンク先の公知は「Welcome to ROOM 722! NewJeans의 기숙사 722호에서는 무슨일이 있었을까?」と寮の722号室をテーマに掲げ、Weverse Shop GLOBALで11月25日11時(KST)予約開始、12月7日発売と案内している。",
+      "en": "At 12:00 KST on 2022-11-22 the official X account posted one image with the text '[안내] NewJeans 2023 SEASON’S GREETINGS 출시 안내 (+ENG/JPN)', a link to Weverse notice 9982 and the hashtags #NewJeans #뉴진스 #SeasonsGreetings #시즌그리팅 #Room722. The linked notice opens 'Welcome to ROOM 722! NewJeans의 기숙사 722호에서는 무슨일이 있었을까?' (dormitory room 722 theme) and gives Weverse Shop GLOBAL pre-orders from 11:00 KST on 25 November with release on 7 December."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL"
+    }
   },
   {
     "id": "tweet-2022-12-12-ditto-teaser",
@@ -504,7 +617,15 @@
       "teaser"
     ],
     "verified": true,
-    "editor_note": "Post text: NewJeans 'Ditto' ☃️2022.12.19. 6PM (KST)#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto#NewJeans_of_Winter pic.twitter.com/tSaferSl8P | Posted 2022-12-12 11:00 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: NewJeans 'Ditto' ☃️2022.12.19. 6PM (KST)#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto#NewJeans_of_Winter pic.twitter.com/tSaferSl8P | Posted 2022-12-12 11:00 KST (from X oEmbed; time derived from snowflake ID). | Status 1602121086598270976 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 1 video (10s).",
+    "detail": {
+      "ja": "2022年12月12日11時00分(KST)、公式Xが10秒の映像1本を添えて投稿した。本文は「NewJeans 'Ditto' 2022.12.19. 6PM (KST)」とハッシュタグ#NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto #NewJeans_of_Winter。同日0時の「NewJeans of Winter」ムービングポスター3本に続き、先行曲『Ditto』の公開日時のみを示した短いティーザーで、同時刻(11時00分24秒)に『OMG』予約販売開始の投稿も行われた。",
+      "en": "At 11:00 KST on 2022-12-12 the official X account posted a 10-second video with the text 'NewJeans 'Ditto' 2022.12.19. 6PM (KST)' and the hashtags #NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto #NewJeans_of_Winter. Following the three 'NewJeans of Winter' moving posters at midnight, this short teaser gave only the release date and time of the pre-release track 'Ditto'; the 'OMG' pre-order post followed at 11:00:24."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2022-12-12-omg-comeback-announcement",
@@ -538,7 +659,15 @@
       "comeback"
     ],
     "verified": true,
-    "editor_note": "Post text: NewJeans of Winter 🌨NewJeans \"OMG\"🎵Ditto: 2022.12.19. 6PM (KST)🎵OMG: 2023.1.2. 6PM (KST)#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto#NewJeans_of_Winter pic.twitter.com/myefKvcYKG | Posted 2022-12-12 00:00 KST (from X oEmbed; time derived from snowflake ID). Sibling posts: status/1601955058916085760 and status/1601955112070455299."
+    "editor_note": "Post text: NewJeans of Winter 🌨NewJeans \"OMG\"🎵Ditto: 2022.12.19. 6PM (KST)🎵OMG: 2023.1.2. 6PM (KST)#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto#NewJeans_of_Winter pic.twitter.com/myefKvcYKG | Posted 2022-12-12 00:00 KST (from X oEmbed; time derived from snowflake ID). Sibling posts: status/1601955058916085760 and status/1601955112070455299. | Status 1601954986296225793 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 1 video (8s); posted 00:00:06 KST.",
+    "detail": {
+      "ja": "2022年12月12日0時00分(KST)、公式Xが8秒の映像1本を添えて投稿した。本文は「NewJeans of Winter / NewJeans \"OMG\" / Ditto: 2022.12.19. 6PM (KST) / OMG: 2023.1.2. 6PM (KST)」とハッシュタグ#NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto #NewJeans_of_Winter。先行曲『Ditto』と1st Single『OMG』の公開日時を初めて示した投稿で、同文に絵文字だけを変えた映像が0時00分23秒と0時00分36秒に続けて投稿された(3本で1組のムービングポスター)。",
+      "en": "At 00:00 KST on 2022-12-12 the official X account posted an 8-second video with the text 'NewJeans of Winter / NewJeans \"OMG\" / Ditto: 2022.12.19. 6PM (KST) / OMG: 2023.1.2. 6PM (KST)' and the hashtags #NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto #NewJeans_of_Winter. It was the first post to give release times for the pre-release 'Ditto' and the single 'OMG'; two more clips with identical wording (different emoji) followed at 00:00:23 and 00:00:36, forming a set of three moving posters."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2022-12-12-omg-preorder-start",
@@ -571,7 +700,16 @@
       "pre-order"
     ],
     "verified": true,
-    "editor_note": "Post text: Message Card from NewJeans 💌NewJeans \"OMG\"예약 판매가 시작되었습니다👀✔️\"OMG\" Release: 2023.1.2.✔️Packshot Release: 2022.12.20.#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto#NewJeans_of_Winter pic.twitter.com/0abGKSM6Lx | Posted 2022-12-12 11:00 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: Message Card from NewJeans 💌NewJeans \"OMG\"예약 판매가 시작되었습니다👀✔️\"OMG\" Release: 2023.1.2.✔️Packshot Release: 2022.12.20.#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto#NewJeans_of_Winter pic.twitter.com/0abGKSM6Lx | Posted 2022-12-12 11:00 KST (from X oEmbed; time derived from snowflake ID). | Status 1602121156718624770 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 1 video (9.2s); posted 11:00:24 KST.",
+    "detail": {
+      "ja": "2022年12月12日11時00分(KST)、公式Xが9秒の映像1本を添えて投稿した。本文は「Message Card from NewJeans / NewJeans \"OMG\" 예약 판매가 시작되었습니다 / \"OMG\" Release: 2023.1.2. / Packshot Release: 2022.12.20.」とハッシュタグ#NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto #NewJeans_of_Winter。Weverse Shopの予約は同日11時から2023年1月1日まで、1月2日発売の予定で、Message Card ver.(アウトボックス6種、メッセージカード25枚など)とWeverse Albums ver.の2形態が案内された。",
+      "en": "At 11:00 KST on 2022-12-12 the official X account posted a 9-second video with the text 'Message Card from NewJeans / NewJeans \"OMG\" 예약 판매가 시작되었습니다 (pre-orders have begun) / \"OMG\" Release: 2023.1.2. / Packshot Release: 2022.12.20.' and the hashtags #NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto #NewJeans_of_Winter. Weverse Shop pre-orders ran from 11:00 that day to 1 January 2023 for a 2 January release, in two formats: Message Card ver. (six outbox versions, 25 message cards, etc.) and Weverse Albums ver."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop"
+    }
   },
   {
     "id": "tweet-2022-12-12-newjeans-of-winter-poster-2",
@@ -605,7 +743,15 @@
       "moving-poster"
     ],
     "verified": true,
-    "editor_note": "First poster already in tweet.json as tweet-2022-12-12-omg-comeback-announcement (1601954986296225793)."
+    "editor_note": "First poster already in tweet.json as tweet-2022-12-12-omg-comeback-announcement (1601954986296225793). | Status 1601955058916085760 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 1 video (8s).",
+    "detail": {
+      "ja": "2022年12月12日0時00分23秒(KST)、公式Xが8秒の映像1本を添えて投稿した。本文は1本目と同じ「NewJeans of Winter / NewJeans \"OMG\" / Ditto: 2022.12.19. 6PM (KST) / OMG: 2023.1.2. 6PM (KST)」で、冒頭の絵文字が雪の結晶に変わっている。ハッシュタグも同一(#NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto #NewJeans_of_Winter)。0時00分06秒の1本目、0時00分36秒の3本目とともに「NewJeans of Winter」のムービングポスター3部作をなす。",
+      "en": "At 00:00:23 KST on 2022-12-12 the official X account posted an 8-second video with the same text as the first poster, 'NewJeans of Winter / NewJeans \"OMG\" / Ditto: 2022.12.19. 6PM (KST) / OMG: 2023.1.2. 6PM (KST)', the leading emoji changed to a snowflake, and the same hashtags (#NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto #NewJeans_of_Winter). Together with the clips at 00:00:06 and 00:00:36 it forms the three-part 'NewJeans of Winter' moving poster set."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2022-12-12-newjeans-of-winter-poster-3",
@@ -638,7 +784,16 @@
       "teaser",
       "moving-poster"
     ],
-    "verified": true
+    "verified": true,
+    "detail": {
+      "ja": "2022年12月12日0時00分36秒(KST)、公式Xが8秒の映像1本を添えて投稿した。本文は「NewJeans of Winter / NewJeans \"OMG\" / Ditto: 2022.12.19. 6PM (KST) / OMG: 2023.1.2. 6PM (KST)」で、冒頭の絵文字はうさぎ。ハッシュタグは#NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto #NewJeans_of_Winter。Soompiは3本のティーザーを「初のカムバックティーザー」として紹介し、映像にうさぎが走る場面が含まれると伝えている。",
+      "en": "At 00:00:36 KST on 2022-12-12 the official X account posted an 8-second video with the text 'NewJeans of Winter / NewJeans \"OMG\" / Ditto: 2022.12.19. 6PM (KST) / OMG: 2023.1.2. 6PM (KST)', the leading emoji a rabbit, and the hashtags #NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto #NewJeans_of_Winter. Soompi presented the three clips as the group's first comeback teasers, with a running rabbit visual among them."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "editor_note": "Status 1601955112070455299 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 1 video (8s)."
   },
   {
     "id": "tweet-2022-12-15-omg-promotion-calendar",
@@ -671,7 +826,15 @@
       "schedule"
     ],
     "verified": true,
-    "editor_note": "Post text: NewJeans \"OMG\"Promotion Calendar 🌲#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto#NewJeans_of_Winter pic.twitter.com/9Hr4rLZ9jL | Posted 2022-12-15 00:00 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: NewJeans \"OMG\"Promotion Calendar 🌲#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto#NewJeans_of_Winter pic.twitter.com/9Hr4rLZ9jL | Posted 2022-12-15 00:00 KST (from X oEmbed; time derived from snowflake ID). | Status 1603042126341713920 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 1 video (20s).",
+    "detail": {
+      "ja": "2022年12月15日0時00分(KST)、公式Xが20秒の映像1本を添えて投稿した。本文は「NewJeans \"OMG\" Promotion Calendar」とハッシュタグ#NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto #NewJeans_of_Winter。先行曲『Ditto』(12月19日18時)と『OMG』(2023年1月2日18時)に向けたプロモーション日程を映像形式で示したもので、12月20日のパックショット公開は前の投稿で予告済みだった。",
+      "en": "At 00:00 KST on 2022-12-15 the official X account posted a 20-second video with the text 'NewJeans \"OMG\" Promotion Calendar' and the hashtags #NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto #NewJeans_of_Winter. The clip laid out the promotion schedule leading to 'Ditto' (19 December, 6PM) and 'OMG' (2 January 2023, 6PM); the 20 December packshot reveal had already been flagged in the pre-order post."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2022-12-20-omg-packshot",
@@ -702,7 +865,15 @@
       "packshot"
     ],
     "verified": false,
-    "editor_note": "Date from the pre-order message card (Packshot Release: 2022.12.20). Status URL not recovered."
+    "editor_note": "Date from the pre-order message card (Packshot Release: 2022.12.20). Status URL not recovered. | not enriched: no source found for the post itself; product details from Weverse Shop notice 3144.",
+    "detail": {
+      "ja": "12月12日の予約開始投稿で「Packshot Release: 2022.12.20.」と予告されていた『OMG』フィジカルのパックショット公開。Weverse Shopの案内によれば、公開対象のMessage Card ver.はアウトボックス6種(129x174x21mm)、メッセージカード25枚、フォトブック52ページ、歌詞カード12ページ、CD-R、フォトカード5枚、ステッカー2枚で構成され、Weverse Albums ver.はアウトボックス、歌詞カード、フォトカード10枚、QRカードからなる。当日のX投稿URLは回収できていない。",
+      "en": "The packshot reveal for the physical 'OMG', flagged as 'Packshot Release: 2022.12.20.' in the 12 December pre-order post. Per the Weverse Shop notice, the Message Card ver. shown consists of six outbox versions (129x174x21mm), 25 message cards, a 52-page photobook, a 12-page lyric card, CD-R, five photocards and two stickers; the Weverse Albums ver. has an outbox, lyric card, ten photocards and a QR card. The X status for the day was not recovered."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2023-04-03-zero-release",
@@ -735,7 +906,16 @@
       "coca-cola"
     ],
     "verified": true,
-    "editor_note": "Post text: [Music🎵]NewJeans 'Zero'Available Now 🐰🔗https://t.co/LlMGOgBJTu#NewJeans #뉴진스 #NewJeans_Zero | Posted 2023-04-03 18:15 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: [Music🎵]NewJeans 'Zero'Available Now 🐰🔗https://t.co/LlMGOgBJTu#NewJeans #뉴진스 #NewJeans_Zero | Posted 2023-04-03 18:15 KST (from X oEmbed; time derived from snowflake ID). | Status 1642818193575268352 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; no media attached.",
+    "detail": {
+      "ja": "2023年4月3日18時15分(KST)、公式Xが本文のみ(添付メディアなし)で投稿した。本文は「[Music] NewJeans 'Zero' Available Now」とリンクhttps://ingrv.es/Zero、ハッシュタグ#NewJeans #뉴진스 #NewJeans_Zero。コカ・コーラ(Coca-Cola Zero)とのキャンペーン曲『Zero』の配信開始を告知したもので、リンクは各配信サービスへのスマートリンク。",
+      "en": "At 18:15 KST on 2023-04-03 the official X account posted text only (no media): '[Music] NewJeans 'Zero' Available Now', the link https://ingrv.es/Zero and the hashtags #NewJeans #뉴진스 #NewJeans_Zero. It announced that 'Zero', the Coca-Cola Zero campaign track, was available on streaming services via the smart link."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR",
+      "brand": "Coca-Cola"
+    }
   },
   {
     "id": "tweet-2023-05-12-bunnies-camp-announcement",
@@ -768,7 +948,16 @@
       "fan-meeting"
     ],
     "verified": true,
-    "editor_note": "Post text: [안내📢]NewJeans 1st Fan Meeting 'Bunnies Camp' 개최 안내 (+ENG/JPN/CHN)🔗https://t.co/dwtdEo01dt#NewJeans #뉴진스 #Bunnies_Camp #버니즈캠프 pic.twitter.com/U2B4ykSNht | Posted 2023-05-12 11:00 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: [안내📢]NewJeans 1st Fan Meeting 'Bunnies Camp' 개최 안내 (+ENG/JPN/CHN)🔗https://t.co/dwtdEo01dt#NewJeans #뉴진스 #Bunnies_Camp #버니즈캠프 pic.twitter.com/U2B4ykSNht | Posted 2023-05-12 11:00 KST (from X oEmbed; time derived from snowflake ID). | Status 1656841656036110337 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 1 photo. Notice 13468 read via WebFetch.",
+    "detail": {
+      "ja": "2023年5月12日11時00分(KST)、公式Xが画像1点を添えて投稿した。本文は「[안내] NewJeans 1st Fan Meeting 'Bunnies Camp' 개최 안내 (+ENG/JPN/CHN)」とWeverse公知(notice/13468)へのリンク、ハッシュタグ#NewJeans #뉴진스 #Bunnies_Camp #버니즈캠프。公知によれば開催は7月1日18時と7月2日17時(KST)、会場はSKオリンピックハンドボール競技場、主催・主管はADORとHYBE、入場料は全席指定99,000ウォン、オンライン配信は1 DAY PASS 59,400ウォン、2 DAY PASS 110,000ウォン(メンバーシップ限定)、満9歳以上観覧可。同日公開の20秒ティーザーとポスターについてKorea JoongAng Dailyが報じている。",
+      "en": "At 11:00 KST on 2023-05-12 the official X account posted one image with the text '[안내] NewJeans 1st Fan Meeting 'Bunnies Camp' 개최 안내 (+ENG/JPN/CHN)', a link to Weverse notice 13468 and the hashtags #NewJeans #뉴진스 #Bunnies_Camp #버니즈캠프. The notice gives 1 July 6PM and 2 July 5PM KST at SK Olympic Handball Gymnasium, organized by ADOR and HYBE, all seats 99,000 KRW, online streaming 1 DAY PASS 59,400 KRW and 2 DAY PASS 110,000 KRW (membership only), ages 9 and up. Korea JoongAng Daily reported the same-day 20-second teaser and poster."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "organizer": "ADOR / HYBE",
+      "venue": "SK Olympic Handball Gymnasium, Seoul"
+    }
   },
   {
     "id": "tweet-2023-05-31-be-who-you-are-release",
@@ -802,7 +991,16 @@
       "ad"
     ],
     "verified": true,
-    "editor_note": "Post text: [Music🎵]'Be Who You Are' with @JonBatiste, @catburns, @JIDsv, and @CamiloMusica Out 31 May#광고 #CokeStudio #RealMagic #CokePartner @CocaCola pic.twitter.com/ggweyTBTK5 | Posted 2023-05-31 00:05 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: [Music🎵]'Be Who You Are' with @JonBatiste, @catburns, @JIDsv, and @CamiloMusica Out 31 May#광고 #CokeStudio #RealMagic #CokePartner @CocaCola pic.twitter.com/ggweyTBTK5 | Posted 2023-05-31 00:05 KST (from X oEmbed; time derived from snowflake ID). | Status 1663562156778958848 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 1 photo.",
+    "detail": {
+      "ja": "2023年5月31日0時05分(KST)、公式Xが画像1点を添えて投稿した。本文は「[Music] 'Be Who You Are' with @JonBatiste, @catburns, @JIDsv, and @CamiloMusica Out 31 May」とハッシュタグ#광고 #CokeStudio #RealMagic #CokePartner、メンション@CocaCola。Coke Studioの楽曲『Be Who You Are (Real Magic)』にNewJeansがJon Batiste、Cat Burns、J.I.D、Camiloとともに参加したことを告げる広告表記付きの投稿。",
+      "en": "At 00:05 KST on 2023-05-31 the official X account posted one image with the text '[Music] 'Be Who You Are' with @JonBatiste, @catburns, @JIDsv, and @CamiloMusica Out 31 May', the hashtags #광고 (ad) #CokeStudio #RealMagic #CokePartner and a mention of @CocaCola. It announced the Coke Studio track 'Be Who You Are (Real Magic)' featuring NewJeans with Jon Batiste, Cat Burns, J.I.D and Camilo, labelled as advertising."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "brand": "Coca-Cola / Coke Studio",
+      "featured_artists": "Jon Batiste, Cat Burns, J.I.D, Camilo"
+    }
   },
   {
     "id": "tweet-2023-06-19-get-up-coming-soon",
@@ -835,7 +1033,15 @@
       "comeback"
     ],
     "verified": true,
-    "editor_note": "Post text: Coming Soon!NewJeans 2nd EP 'Get Up'🗓 2023.7.7. Pre-Release🗓 2023.7.21. 2nd EP 'Get Up' Release ✅ Pre-Order2023.6.19. 11AM KST#Time_to_NewJeans#NewJeans #뉴진스 #NewJeans_2nd_EP pic.twitter.com/x2lIt5ihKV | Posted 2023-06-19 10:55 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: Coming Soon!NewJeans 2nd EP 'Get Up'🗓 2023.7.7. Pre-Release🗓 2023.7.21. 2nd EP 'Get Up' Release ✅ Pre-Order2023.6.19. 11AM KST#Time_to_NewJeans#NewJeans #뉴진스 #NewJeans_2nd_EP pic.twitter.com/x2lIt5ihKV | Posted 2023-06-19 10:55 KST (from X oEmbed; time derived from snowflake ID). | Status 1670611109454434304 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 1 video (17.1s).",
+    "detail": {
+      "ja": "2023年6月19日10時55分(KST)、公式Xが17秒の映像1本を添えて投稿した。本文は「Coming Soon! NewJeans 2nd EP 'Get Up' / 2023.7.7. Pre-Release / 2023.7.21. 2nd EP 'Get Up' Release / Pre-Order 2023.6.19. 11AM KST」とハッシュタグ#Time_to_NewJeans #NewJeans #뉴진스 #NewJeans_2nd_EP。Weverse Shopの予約は5分後の11時に開始され、Bunny Beach Bag ver.、THE POWERPUFF GIRLS X NJ Box ver.、Weverse Albums ver.の3形態が案内された。",
+      "en": "At 10:55 KST on 2023-06-19 the official X account posted a 17-second video with the text 'Coming Soon! NewJeans 2nd EP 'Get Up' / 2023.7.7. Pre-Release / 2023.7.21. 2nd EP 'Get Up' Release / Pre-Order 2023.6.19. 11AM KST' and the hashtags #Time_to_NewJeans #NewJeans #뉴진스 #NewJeans_2nd_EP. Weverse Shop pre-orders opened five minutes later at 11:00 in three formats: Bunny Beach Bag ver., THE POWERPUFF GIRLS X NJ Box ver. and Weverse Albums ver."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2023-06-26-eta-teaser-post",
@@ -868,7 +1074,15 @@
       "teaser"
     ],
     "verified": true,
-    "editor_note": "Timestamp confirmed via fxtwitter API (2023-06-26 00:00 KST)."
+    "editor_note": "Timestamp confirmed via fxtwitter API (2023-06-26 00:00 KST). | Status 1672983005827309569 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; no media attached (link only).",
+    "detail": {
+      "ja": "2023年6月26日0時00分(KST)、公式Xが本文のみ(添付メディアなし)で投稿した。本文は「NewJeans 'ETA' Teaser」とYouTube Shortsへのリンク(youtube.com/shorts/QZuhpNWvvWM)、ハッシュタグ#NewJeans #뉴진스 #NewJeans_ETA #NewJeans_GetUp #Time_to_NewJeans。Soompiによれば、このティーザーは出演者として「NewJeans, Eva, Mikel, and Maria」を予告する内容で、『ETA』は7月21日発売の2nd EP『Get Up』のトリプルタイトル曲の一つ。",
+      "en": "At 00:00 KST on 2023-06-26 the official X account posted text only (no media): 'NewJeans 'ETA' Teaser', a YouTube Shorts link (youtube.com/shorts/QZuhpNWvvWM) and the hashtags #NewJeans #뉴진스 #NewJeans_ETA #NewJeans_GetUp #Time_to_NewJeans. Per Soompi, the teaser credited 'NewJeans, Eva, Mikel, and Maria' as cast; 'ETA' is one of the three title tracks of the 2nd EP 'Get Up' due 21 July."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2023-06-28-get-up-2nd-ep-photo-post",
@@ -902,7 +1116,15 @@
       "concept-photo"
     ],
     "verified": true,
-    "editor_note": "Timestamp confirmed via fxtwitter API. Companion Instagram posts: instagram.com/p/Ct_4ENurW2C, Ct_4HV_L5EL (same time)."
+    "editor_note": "Timestamp confirmed via fxtwitter API. Companion Instagram posts: instagram.com/p/Ct_4ENurW2C, Ct_4HV_L5EL (same time). | Status 1673707835547615232 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 4 photos.",
+    "detail": {
+      "ja": "2023年6月28日0時00分(KST)、公式Xが写真4点を添えて投稿した。本文は「2nd EP Photo」とハッシュタグ#NewJeans #뉴진스 #NewJeans_GetUp #Time_to_NewJeans のみ。Soompiは同日を『Get Up』の最初のティーザーフォト公開として記録し、Koreabooはバレエ衣装風のスタイリングと報じた。同時刻にInstagramにも同内容が投稿されている。",
+      "en": "At 00:00 KST on 2023-06-28 the official X account posted four photos with the text '2nd EP Photo' and the hashtags #NewJeans #뉴진스 #NewJeans_GetUp #Time_to_NewJeans. Soompi logged the day as the first teaser photos for 'Get Up', and Koreaboo described the ballet-inspired styling. The same content went up on Instagram at the same time."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2023-06-29-get-up-bunny-beach-bag-packaging",
@@ -934,7 +1156,15 @@
       "goods"
     ],
     "verified": false,
-    "editor_note": "Soompi update dated Jun 29 KST; likely Instagram post CuCIRW0LFCs (2023-06-28 21:00 KST by shortcode). Status URL not recovered."
+    "editor_note": "Soompi update dated Jun 29 KST; likely Instagram post CuCIRW0LFCs (2023-06-28 21:00 KST by shortcode). Status URL not recovered. | Instagram caption verified via WebFetch (post date 2023-06-28). The input's date 06-29 follows Soompi's KST update; the IG shortcode time is 2023-06-28 21:00 KST.",
+    "detail": {
+      "ja": "2nd EP『Get Up』のBunny Beach Bag ver.のパッケージを先行公開した投稿。公式Instagram(p/CuCIRW0LFCs、2023年6月28日)にはビーチの絵文字と#NewJeans #뉴진스 #NewJeans_GetUp #Time_to_NewJeansだけを添えた画像1点が投稿され、Soompiは6月29日(KST)付の更新で「Bunny Beach Bag versionのパッケージのスニークピーク」として転載した。Weverse Shopの案内ではこの形態はアウトボックス6種、バッグ3種(ピンク・ホワイト・ブルー、Kstyle)、インナーボックス、フォトブック、ポストカード、ブックマーク、ステッカー、フォトカード5枚、CD-Rで構成される。X側の投稿URLは回収できていない。",
+      "en": "A sneak peek of the Bunny Beach Bag ver. packaging for the 2nd EP 'Get Up'. The official Instagram post (p/CuCIRW0LFCs, 28 June 2023) carried one image with only a beach emoji and the hashtags #NewJeans #뉴진스 #NewJeans_GetUp #Time_to_NewJeans; Soompi's update dated 29 June KST reproduced it as 'a sneak peek of the album packaging for their Bunny Beach Bag version'. Per the Weverse Shop notice the format comprises six outbox versions, a bag in three colours (pink, white, blue per Kstyle), inner box, photobook, postcards, bookmark, stickers, five photocards and a CD-R. The X status was not recovered."
+    },
+    "credits": {
+      "account": "@newjeans_official (Instagram)",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2023-06-30-get-up-packshot",
@@ -965,7 +1195,15 @@
       "packshot"
     ],
     "verified": false,
-    "editor_note": "Date from kstyle via ja.wikipedia. Status URL not recovered."
+    "editor_note": "Date from kstyle via ja.wikipedia. Status URL not recovered. | Kstyle states the packshot was released on the 28th (KST), not the 30th; the record date reflects the article date. Possible duplicate of the 06-28/06-29 Instagram packaging post.",
+    "detail": {
+      "ja": "Kstyle(2023年6月30日)は「28日に公開されたパックショット」として、2nd EP『Get Up』がBunny Beach Bag ver.、THE POWERPUFF GIRLS X NJ Box ver.、Weverse Albums ver.の3形態で発売されること、Bunny Beach Bag ver.はピンク・ホワイト・ブルーの3色で、フォトブック、歌詞、フォトカード、ステッカー、ポストカード、しおり、CDを収めること、フォトブックに「10 Things LOVE ABOUT SUMMER」などのテーマがあることを伝えた。同記事は日本での予約販売が6月19日11時に始まり、Bunny Beach Bag ver.が3,025円(税込)、Box ver.が2,750円(税込)、日本お届け予定日が7月22日であることも記載している。公式Xの当該投稿URLは回収できていない。",
+      "en": "Kstyle (30 June 2023) reported, citing 'the packshot released on the 28th', that the 2nd EP 'Get Up' would come in three formats (Bunny Beach Bag ver., THE POWERPUFF GIRLS X NJ Box ver., Weverse Albums ver.), that the Bunny Beach Bag ver. came in pink, white and blue with a photobook, lyrics, photocards, stickers, postcards, bookmark and CD, and that the photobook carried themes such as '10 Things LOVE ABOUT SUMMER'. The same article lists the Japan pre-order (from 19 June 11:00), prices of 3,025 JPY (Bunny Beach Bag ver.) and 2,750 JPY (Box ver.) tax included, and a Japan delivery date of 22 July. The official X status was not recovered."
+    },
+    "credits": {
+      "label": "ADOR",
+      "collaboration": "Cartoon Network (The Powerpuff Girls)"
+    }
   },
   {
     "id": "tweet-2023-07-05-super-shy-release-poster",
@@ -999,7 +1237,15 @@
       "poster"
     ],
     "verified": true,
-    "editor_note": "Timestamp via fxtwitter API: 2023-07-05 23:00 KST. Image viewed (five members in white tees, Powerpuff-style bunny art)."
+    "editor_note": "Timestamp via fxtwitter API: 2023-07-05 23:00 KST. Image viewed (five members in white tees, Powerpuff-style bunny art). | Status 1676591775853445120 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 1 photo.",
+    "detail": {
+      "ja": "2023年7月5日23時00分(KST)、公式Xが画像1点を添えて投稿した。本文は「NewJeans 'Super Shy' / 2023.7.7. 1PM (KST) RELEASE」とハッシュタグ#NewJeans #뉴진스 #Time_to_NewJeans #NewJeans_SuperShy。画像は白いTシャツ姿の5人とパワーパフガールズ風のうさぎのイラストを組み合わせたポスターで、先行曲『Super Shy』の公開日時を告知した。",
+      "en": "At 23:00 KST on 2023-07-05 the official X account posted one image with the text 'NewJeans 'Super Shy' / 2023.7.7. 1PM (KST) RELEASE' and the hashtags #NewJeans #뉴진스 #Time_to_NewJeans #NewJeans_SuperShy. The poster shows the five members in white tees with Powerpuff-style bunny art, announcing the release time of the pre-release track 'Super Shy'."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2023-07-17-cool-with-you-mv-date-announcement",
@@ -1030,7 +1276,14 @@
       "announcement"
     ],
     "verified": false,
-    "editor_note": "Announced Jul 17 KST per Soompi. Status URL not recovered; may be Weverse notice."
+    "editor_note": "Announced Jul 17 KST per Soompi. Status URL not recovered; may be Weverse notice. | not enriched beyond Soompi (2023-07-17); no status URL found.",
+    "detail": {
+      "ja": "2023年7月17日(KST)、ADORは2nd EP『Get Up』のタイトル曲の一つ『Cool With You』のMVをアルバム発売(7月21日)に先立ち7月20日0時(KST)に公開すると発表した。Soompiによれば、MVは『Ditto』と同様にside Aとside Bの2バージョンで構成され、「予想外の2人のグローバルスターが出演する」と予告された。発表の原文は公式SNSまたはWeverseの告知とみられるが、X投稿のURLは回収できていない。",
+      "en": "On 17 July 2023 KST, ADOR announced that the MV for 'Cool With You', one of the title tracks of the 2nd EP 'Get Up', would be released on 20 July at midnight KST, a day before the album. Per Soompi, the MV would come in side A and side B versions like 'Ditto' and feature 'two unexpected global stars'. The original announcement appears to have been made via official SNS or Weverse; the X status URL was not recovered."
+    },
+    "credits": {
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2023-11-04-gods-worlds-2023",
@@ -1063,7 +1316,15 @@
       "league-of-legends"
     ],
     "verified": true,
-    "editor_note": "Post text: We're so excited to show you our world debut performance of \"GODS\" at the #Worlds2023 Opening Ceremony with @leagueoflegends @riotgamesmusic 📆 November 19 | 12:00AM PST / 17:00 KST |🔗 https://t.co/EdxZgnObYk#NewJeans #뉴진스 #NewJeans_GODS pic.twitter.com/86OQGniteu | Posted 2023-11-04 00:00 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: We're so excited to show you our world debut performance of \"GODS\" at the #Worlds2023 Opening Ceremony with @leagueoflegends @riotgamesmusic 📆 November 19 | 12:00AM PST / 17:00 KST |🔗 https://t.co/EdxZgnObYk#NewJeans #뉴진스 #NewJeans_GODS pic.twitter.com/86OQGniteu | Posted 2023-11-04 00:00 KST (from X oEmbed; time derived from snowflake ID). | Status 1720455798080548934 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 1 photo.",
+    "detail": {
+      "ja": "2023年11月4日0時00分(KST)、公式Xが画像1点を添えて投稿した。本文は「We're so excited to show you our world debut performance of \"GODS\" at the #Worlds2023 Opening Ceremony with @leagueoflegends @riotgamesmusic / November 19 | 12:00AM PST / 17:00 KST | lolesports.com」とハッシュタグ#NewJeans #뉴진스 #NewJeans_GODS。League of Legends World Championship 2023開幕式(11月19日17時KST)での『GODS』初披露を予告した。",
+      "en": "At 00:00 KST on 2023-11-04 the official X account posted one image with the text 'We're so excited to show you our world debut performance of \"GODS\" at the #Worlds2023 Opening Ceremony with @leagueoflegends @riotgamesmusic / November 19 | 12:00AM PST / 17:00 KST | lolesports.com' and the hashtags #NewJeans #뉴진스 #NewJeans_GODS, announcing the first performance of 'GODS' at the League of Legends World Championship 2023 Opening Ceremony on 19 November, 17:00 KST."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "partner": "Riot Games (League of Legends / Riot Games Music)"
+    }
   },
   {
     "id": "tweet-2023-11-29-mama-2023-daesang-thanks",
@@ -1095,7 +1356,15 @@
       "mama"
     ],
     "verified": false,
-    "editor_note": "Status URL not retrieved; existence of the post reported by iNews (Indonesia). Date is the ceremony date (2023-11-29 KST)."
+    "editor_note": "Status URL not retrieved; existence of the post reported by iNews (Indonesia). Date is the ceremony date (2023-11-29 KST). | not enriched: status URL/text not found; awards list from Korea Times/Korea Herald coverage of 2023-11-29.",
+    "detail": {
+      "ja": "2023年11月29日、東京ドームで開かれた2023 MAMA AWARDS(2日目)でNewJeansはArtist of the Year、Song of the Year(『Ditto』)、Best Female Group、Best Dance Performance Female Group(『Ditto』)を受賞した。iNews(インドネシア、同日付)は公式X@NewJeans_ADORの投稿を引用し、Song of the Year(大賞)受賞を祝う内容だったと伝えている。投稿本文の原文と投稿時刻は確認できていない。",
+      "en": "On 29 November 2023, at the second night of the 2023 MAMA AWARDS at Tokyo Dome, NewJeans won Artist of the Year, Song of the Year ('Ditto'), Best Female Group and Best Dance Performance Female Group ('Ditto'). iNews (Indonesia, same date) quotes a post on the official X account @NewJeans_ADOR congratulating the group on the Song of the Year daesang. The original wording and timestamp of the post were not verified."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "event": "2023 MAMA AWARDS (Mnet), Tokyo Dome"
+    }
   },
   {
     "id": "tweet-2023-12-14-rockin-eve-announcement",
@@ -1128,7 +1397,15 @@
       "rockin-eve"
     ],
     "verified": true,
-    "editor_note": "Post text: We’re so excited to join the global New Year’s @RockinEve celebration to perform “Super Shy” and “ETA” from South Korea!Tune in December 31 at 8/7c on @ABCNetwork!🎵📆 Dec 31 8PM ET / JAN 1 10AM KST 🔗 https://t.co/xJzBFpETvT📍 @ABCNetwork#NewJeans #뉴진스 #RockinEve… pic.twitter.com/D8YQ8ajxBi | Posted 2023-12-14 08:00 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: We’re so excited to join the global New Year’s @RockinEve celebration to perform “Super Shy” and “ETA” from South Korea!Tune in December 31 at 8/7c on @ABCNetwork!🎵📆 Dec 31 8PM ET / JAN 1 10AM KST 🔗 https://t.co/xJzBFpETvT📍 @ABCNetwork#NewJeans #뉴진스 #RockinEve… pic.twitter.com/D8YQ8ajxBi | Posted 2023-12-14 08:00 KST (from X oEmbed; time derived from snowflake ID). | Status 1735072119825031316 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 1 photo.",
+    "detail": {
+      "ja": "2023年12月14日8時00分(KST)、公式Xが画像1点を添えて投稿した。本文は「We’re so excited to join the global New Year’s @RockinEve celebration to perform “Super Shy” and “ETA” from South Korea! Tune in December 31 at 8/7c on @ABCNetwork! / Dec 31 8PM ET / JAN 1 10AM KST / NewYearsRockinEve.com / @ABCNetwork」とハッシュタグ#NewJeans #뉴진스 #RockinEve #NewJeans_NYRE。ABCの年越し番組Dick Clark's New Year's Rockin' Eveに韓国から『Super Shy』と『ETA』で出演することを告知した。",
+      "en": "At 08:00 KST on 2023-12-14 the official X account posted one image with the text 'We’re so excited to join the global New Year’s @RockinEve celebration to perform “Super Shy” and “ETA” from South Korea! Tune in December 31 at 8/7c on @ABCNetwork! / Dec 31 8PM ET / JAN 1 10AM KST / NewYearsRockinEve.com / @ABCNetwork' and the hashtags #NewJeans #뉴진스 #RockinEve #NewJeans_NYRE, announcing a performance of 'Super Shy' and 'ETA' from South Korea on ABC's Dick Clark's New Year's Rockin' Eve."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "broadcaster": "ABC (Dick Clark's New Year's Rockin' Eve)"
+    }
   },
   {
     "id": "tweet-2024-03-27-bunnies-camp-2024-tokyo-dome-announcement",
@@ -1162,7 +1439,16 @@
       "japan"
     ],
     "verified": true,
-    "editor_note": "Post text: NewJeans Fan Meeting 'Bunnies Camp 2024 Tokyo Dome' 🗓️ 2024.6.26-27 📍Tokyo Dome#NewJeans #뉴진스 #BunniesCamp #BunniesCamp2024TokyoDome #NewJeans_is_Everywhere pic.twitter.com/8ScKkpVG3R | Posted 2024-03-27 09:00 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: NewJeans Fan Meeting 'Bunnies Camp 2024 Tokyo Dome' 🗓️ 2024.6.26-27 📍Tokyo Dome#NewJeans #뉴진스 #BunniesCamp #BunniesCamp2024TokyoDome #NewJeans_is_Everywhere pic.twitter.com/8ScKkpVG3R | Posted 2024-03-27 09:00 KST (from X oEmbed; time derived from snowflake ID). | Status 1772775547749462258 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 1 video (16.7s).",
+    "detail": {
+      "ja": "2024年3月27日9時00分(KST)、公式Xが17秒の映像1本を添えて投稿した。本文は「NewJeans Fan Meeting 'Bunnies Camp 2024 Tokyo Dome' / 2024.6.26-27 / Tokyo Dome」とハッシュタグ#NewJeans #뉴진스 #BunniesCamp #BunniesCamp2024TokyoDome #NewJeans_is_Everywhere。初の日本単独公演となるファンミーティングの日程と会場のみを示した告知で、SNKRDUNKによれば同時期の告知ビジュアルには村上隆のフラワーモチーフを用いたロゴが使われた。",
+      "en": "At 09:00 KST on 2024-03-27 the official X account posted a 17-second video with the text 'NewJeans Fan Meeting 'Bunnies Camp 2024 Tokyo Dome' / 2024.6.26-27 / Tokyo Dome' and the hashtags #NewJeans #뉴진스 #BunniesCamp #BunniesCamp2024TokyoDome #NewJeans_is_Everywhere. The post gave only the dates and venue of the group's first solo event in Japan; per SNKRDUNK, the announcement visuals used a logo with Takashi Murakami's flower motif."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "venue": "Tokyo Dome",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2024-03-28-hanni-gucci-beauty-ambassador",
@@ -1196,7 +1482,15 @@
       "ad"
     ],
     "verified": true,
-    "editor_note": "Post text: Gucci Beauty’s Newest Global Brand Ambassador 🤍 HANNI#광고 @gucci #GucciBeauty#NewJeans #뉴진스 #HANNI #하니 pic.twitter.com/zRqPUiNPsT | Posted 2024-03-28 15:08 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: Gucci Beauty’s Newest Global Brand Ambassador 🤍 HANNI#광고 @gucci #GucciBeauty#NewJeans #뉴진스 #HANNI #하니 pic.twitter.com/zRqPUiNPsT | Posted 2024-03-28 15:08 KST (from X oEmbed; time derived from snowflake ID). | Status 1773230644727775339 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 1 photo.",
+    "detail": {
+      "ja": "2024年3月28日15時08分(KST)、公式Xが画像1点を添えて投稿した。本文は「Gucci Beauty’s Newest Global Brand Ambassador HANNI」と広告表記#광고、メンション@gucci、ハッシュタグ#GucciBeauty #NewJeans #뉴진스 #HANNI #하니。ハニがGucci Beautyのグローバルブランドアンバサダーに就任したことを伝える内容で、同日Fashionsnapも就任を報じた。",
+      "en": "At 15:08 KST on 2024-03-28 the official X account posted one image with the text 'Gucci Beauty’s Newest Global Brand Ambassador HANNI', the ad tag #광고, a mention of @gucci and the hashtags #GucciBeauty #NewJeans #뉴진스 #HANNI #하니, announcing Hanni as Gucci Beauty's global brand ambassador; Fashionsnap reported the appointment the same day."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "brand": "Gucci Beauty"
+    }
   },
   {
     "id": "tweet-2024-04-25-ador-legal-action-notice",
@@ -1213,8 +1507,8 @@
       "en": "ADOR notice on legal action over infringement of NewJeans' rights"
     },
     "summary": {
-      "ja": "HYBE-ADOR紛争下、NewJeansの権益侵害に対する法的対応の案内をADORが公式Xに投稿。",
-      "en": "ADOR posted a notice on legal action over infringement of NewJeans' rights amid the HYBE-ADOR conflict."
+      "ja": "HYBE-ADOR紛争下、公式Xが「뉴진스 권익 침해 관련 법적 대응 안내」(HYBE名義のWeverse公知)へのリンクを投稿。",
+      "en": "Amid the HYBE-ADOR conflict, the official X account linked a Weverse notice, issued in HYBE's name, on legal action over infringement of NewJeans' rights."
     },
     "source_url": "https://x.com/NewJeans_ADOR/status/1783420809111011802",
     "reference_urls": [],
@@ -1229,7 +1523,15 @@
       "legal"
     ],
     "verified": true,
-    "editor_note": "Post text: [안내📢]뉴진스 권익 침해 관련 법적 대응 안내  🔗https://t.co/ETQBk42G0p#NewJeans #뉴진스 | Posted 2024-04-25 18:00 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: [안내📢]뉴진스 권익 침해 관련 법적 대응 안내  🔗https://t.co/ETQBk42G0p#NewJeans #뉴진스 | Posted 2024-04-25 18:00 KST (from X oEmbed; time derived from snowflake ID). | Status 1783420809111011802 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; no media. CORRECTION: the linked Weverse notice 19130 is written in HYBE's name (confirmed via WebFetch and Star News 2024-04-25), not ADOR's; the X account posting it is @NewJeans_ADOR.",
+    "detail": {
+      "ja": "2024年4月25日18時00分(KST)、公式Xが本文のみ(添付メディアなし)で投稿した。本文は「[안내] 뉴진스 권익 침해 관련 법적 대응 안내」(NewJeansの権益侵害に関する法的対応のご案内)とWeverse公知(notice/19130)へのリンク、ハッシュタグ#NewJeans #뉴진스。リンク先の公知は「하이브」(HYBE)名義で、悪質な誹謗・嘲弄投稿が深刻だとして別途法律事務所を追加選任し、「선처 및 합의 없는 무관용의 원칙」(善処・合意なしの無寛容原則)で対応すること、アーティストの心理的安定を支援すること、27日のMV公開と5月・6月のダブルシングル活動を支援することを述べている。",
+      "en": "At 18:00 KST on 2024-04-25 the official X account posted text only (no media): '[안내] 뉴진스 권익 침해 관련 법적 대응 안내' (notice on legal action over infringement of NewJeans' rights), a link to Weverse notice 19130 and the hashtags #NewJeans #뉴진스. The linked notice is issued in HYBE's name: it says malicious defamation and ridicule had become severe, that an additional law firm had been retained, that a zero-tolerance policy with no leniency or settlement would apply, that the artists' psychological well-being would be supported, and that the MV release on the 27th and the May and June double singles would be supported."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "issuer": "HYBE"
+    }
   },
   {
     "id": "tweet-2024-04-26-how-sweet-concept-photos",
@@ -1263,7 +1565,15 @@
       "concept-photo"
     ],
     "verified": false,
-    "editor_note": "instagram. Marie Claire Korea: Apr 26 11:00 KST; IG shortcode timestamp 2024-04-26 11:00 (also C6NQjYHSAiq). Pre-orders opened 11AM same day (kbizoom). X status URL not recovered."
+    "editor_note": "instagram. Marie Claire Korea: Apr 26 11:00 KST; IG shortcode timestamp 2024-04-26 11:00 (also C6NQjYHSAiq). Pre-orders opened 11AM same day (kbizoom). X status URL not recovered. | Instagram captions verified via WebFetch (post date 2024-04-25 UTC = 04-26 KST). X status not recovered.",
+    "detail": {
+      "ja": "2024年4月26日11時00分(KST)、公式Instagram@newjeans_officialに『How Sweet』の告知画像が投稿された。p/C6NQhyCSProのキャプションは「NewJeans ’How Sweet‘ / 2024.5.24. Release / Pre-Order 2024.4.26. 11AM KST」とハッシュタグ#NewJeans #뉴진스 #NewJeans_HowSweet #NewJeans_BubbleGum #NewJeans_is_Everywhere(画像1点)、併投のp/C6NQjYHSAiqは「NewJeans ’How Sweet‘ / 2024.5.24. Release」(画像1点)。Soompiは同日、グループ・個人のティザー画像とフィジカルアルバムのティザーを転載し、Korea Timesはボブや鮮やかなカラー、強いカールなど多様なヘアスタイルと、Standard ver.とWeverse限定盤の2形態、同日11時の予約開始を報じた。",
+      "en": "At 11:00 KST on 2024-04-26 the official Instagram @newjeans_official posted 'How Sweet' announcement images. The caption of p/C6NQhyCSPro reads 'NewJeans ’How Sweet‘ / 2024.5.24. Release / Pre-Order 2024.4.26. 11AM KST' with the hashtags #NewJeans #뉴진스 #NewJeans_HowSweet #NewJeans_BubbleGum #NewJeans_is_Everywhere (one image); the companion p/C6NQjYHSAiq reads 'NewJeans ’How Sweet‘ / 2024.5.24. Release' (one image). Soompi reproduced group and individual teaser images plus physical-album teasers that day, and the Korea Times noted hairstyles from bob cuts to vivid colours and tight curls, two editions (Standard and Weverse-exclusive) and pre-orders from 11 a.m."
+    },
+    "credits": {
+      "account": "@newjeans_official (Instagram)",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2024-05-10-supernatural-packshot-preorder",
@@ -1298,7 +1608,16 @@
       "preorder"
     ],
     "verified": false,
-    "editor_note": "instagram. Shortcode timestamp 2024-05-10 11:10 KST. Status URL on X not recovered."
+    "editor_note": "instagram. Shortcode timestamp 2024-05-10 11:10 KST. Status URL on X not recovered. | Instagram caption verified via WebFetch (post date 2024-05-09 UTC). X status not recovered.",
+    "detail": {
+      "ja": "2024年5月10日11時10分(KST)、公式Instagram@newjeans_officialにp/C6xUtiiyp7c(画像1点)が投稿された。キャプションは「NewJeans ’Supernatural‘ / NewJeans X MURAKAMI / 2024.6.21. Release / Pre-Order 2024.5.10. 11AM KST / NJ X MURAKAMI Drawstring Bag ver. / NJ X MURAKAMI Cross Bag ver. / Weverse Albums ver.」とハッシュタグ#NewJeans #뉴진스 #NewJeans_Supernatural #NewJeans_RightNow #NewJeans_is_Everywhere。エクスポーツニュースによれば同日公式SNSで公開されたジャケット写真ではメンバーが村上隆コラボのバッグ型アルバムを肩に掛けており、Cross Bagは5色展開、Drawstring Bagには村上隆がスケッチしたメンバー別キャラクターが描かれる。",
+      "en": "At 11:10 KST on 2024-05-10 the official Instagram @newjeans_official posted p/C6xUtiiyp7c (one image). The caption reads 'NewJeans ’Supernatural‘ / NewJeans X MURAKAMI / 2024.6.21. Release / Pre-Order 2024.5.10. 11AM KST / NJ X MURAKAMI Drawstring Bag ver. / NJ X MURAKAMI Cross Bag ver. / Weverse Albums ver.' with the hashtags #NewJeans #뉴진스 #NewJeans_Supernatural #NewJeans_RightNow #NewJeans_is_Everywhere. Per Xports News, the jacket photos released on official SNS that day show the members carrying the Murakami-collaboration bag albums; the Cross Bag comes in five colours and the Drawstring Bag carries member characters sketched by Takashi Murakami."
+    },
+    "credits": {
+      "account": "@newjeans_official (Instagram)",
+      "artwork": "Takashi Murakami",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2024-05-11-fujiwara-hiroshi-collab-photos",
@@ -1331,7 +1650,16 @@
       "concept-photo"
     ],
     "verified": false,
-    "editor_note": "instagram. IG shortcode timestamp 2024-05-11 00:00 KST; Marie Claire Korea 2024-05-13. X status URL not recovered."
+    "editor_note": "instagram. IG shortcode timestamp 2024-05-11 00:00 KST; Marie Claire Korea 2024-05-13. X status URL not recovered. | Instagram caption verified via WebFetch (post date 2024-05-10 UTC). X status not recovered.",
+    "detail": {
+      "ja": "2024年5月11日0時00分(KST)、公式Instagram@newjeans_officialにp/C6ys6KAyGQv(画像1点)が投稿された。キャプションは「NewJeans 'Supernatural' / NewJeans X HIROSHI / 2024.6.21. Release」とハッシュタグ#NewJeans #뉴진스 #NewJeans_Supernatural #NewJeans_RightNow #NewJeans_is_Everywhere。マリ・クレール韓国版(5月13日)によれば、藤原ヒロシは『Supernatural』発売を記念し、手書きのNewJeansとメンバー名、本人のサインを入れたコラボTシャツを手がけ、ハングルで名前を書く様子のメモも公開した。",
+      "en": "At 00:00 KST on 2024-05-11 the official Instagram @newjeans_official posted p/C6ys6KAyGQv (one image). The caption reads 'NewJeans 'Supernatural' / NewJeans X HIROSHI / 2024.6.21. Release' with the hashtags #NewJeans #뉴진스 #NewJeans_Supernatural #NewJeans_RightNow #NewJeans_is_Everywhere. Per Marie Claire Korea (13 May), Hiroshi Fujiwara produced a collaboration T-shirt for the 'Supernatural' release bearing his handwritten NewJeans and member names and his signature, and shared a memo of himself writing the names in Hangul."
+    },
+    "credits": {
+      "account": "@newjeans_official (Instagram)",
+      "collaborator": "Hiroshi Fujiwara",
+      "label": "ADOR"
+    }
   },
   {
     "id": "tweet-2024-05-20-how-sweet-release-schedule-phoning",
@@ -1362,7 +1690,15 @@
       "promotion-schedule"
     ],
     "verified": false,
-    "editor_note": "phoning. Munhwa Ilbo 2024-05-21: announced on the 20th via Phoning. No X status found."
+    "editor_note": "phoning. Munhwa Ilbo 2024-05-21: announced on the 20th via Phoning. No X status found. | Source is Munhwa Ilbo (2024-05-21) describing a Phoning announcement; no X status exists for this item.",
+    "detail": {
+      "ja": "2024年5月20日、ADORはファンアプリPhoningを通じてダブルシングル『How Sweet』の公開日程を告知した(文化日報5月21日)。音源は5月24日13時、タイトル曲『How Sweet』のMVは同日16時公開で、シングルにはタイトル曲、収録曲『Bubble Gum』と各インストの計4曲を収録。ADORは「音源を十分に聴いてからMVを観ることを勧める」とし、MV視聴後に続く初の音楽番組(ミュージックバンク)まで楽しんでほしいと伝えた。『How Sweet』はマイアミベースを基盤にエレクトロニックサウンドを加えた曲とされる。",
+      "en": "On 20 May 2024 ADOR announced the release schedule for the double single 'How Sweet' through the fan app Phoning (Munhwa Ilbo, 21 May): audio at 13:00 KST on 24 May and the 'How Sweet' MV at 16:00 the same day, with four tracks (title track, 'Bubble Gum' and both instrumentals). ADOR recommended listening to the audio first and then watching the MV, followed by the first music show appearance (Music Bank). 'How Sweet' is described as Miami bass with added electronic sounds."
+    },
+    "credits": {
+      "label": "ADOR",
+      "platform": "Phoning"
+    }
   },
   {
     "id": "tweet-2024-09-24-calvin-klein-global-ambassador",
@@ -1396,7 +1732,15 @@
       "ad"
     ],
     "verified": true,
-    "editor_note": "Post text: Calvin Klein's Newest Global Ambassador 🩵#광고 @CalvinKlein#NewJeans #뉴진스 pic.twitter.com/3zv7IMvR2w | Posted 2024-09-24 22:30 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: Calvin Klein's Newest Global Ambassador 🩵#광고 @CalvinKlein#NewJeans #뉴진스 pic.twitter.com/3zv7IMvR2w | Posted 2024-09-24 22:30 KST (from X oEmbed; time derived from snowflake ID). | Status 1838571590318969323 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 1 photo.",
+    "detail": {
+      "ja": "2024年9月24日22時30分(KST)、公式Xが画像1点を添えて投稿した。本文は「Calvin Klein's Newest Global Ambassador」と広告表記#광고、メンション@CalvinKlein、ハッシュタグ#NewJeans #뉴진스。NewJeansがCalvin Kleinのグローバルアンバサダーに就任したことを伝える短い投稿で、個人名の記載はなくグループとしての就任告知となっている。",
+      "en": "At 22:30 KST on 2024-09-24 the official X account posted one image with the text 'Calvin Klein's Newest Global Ambassador', the ad tag #광고, a mention of @CalvinKlein and the hashtags #NewJeans #뉴진스. The brief post announced NewJeans as Calvin Klein's global ambassadors as a group, naming no individual member."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "brand": "Calvin Klein"
+    }
   },
   {
     "id": "tweet-2025-02-01-njz-official-x-account-opened",
@@ -1428,7 +1772,14 @@
       "account"
     ],
     "verified": false,
-    "editor_note": "Exact opening date not confirmed (month precision). Rebrand to NJZ announced on Instagram 2025-02-07. After the 2025-03-21 injunction the account later went dormant/renamed. | Removed 'in February 2025' retrospective framing from the summary."
+    "editor_note": "Exact opening date not confirmed (month precision). Rebrand to NJZ announced on Instagram 2025-02-07. After the 2025-03-21 injunction the account later went dormant/renamed. | Removed 'in February 2025' retrospective framing from the summary. | fxtwitter returns 'User not found' for @NJZ_official as of 2026-10-14 (account renamed/removed). Soapcentral page blocked (Cloudflare); date 02-27 from WebSearch summary of fan-news coverage, unverified against the platform. | exact opening date unconfirmed; month precision",
+    "detail": {
+      "ja": "ADORとの専属契約をめぐる紛争の中、メンバーは2025年2月7日に新名称NJZとロゴを発表し、同月後半(報道では2月27日)に@NJZ_official名義のX、YouTube、TikTokアカウントの開設を各自のInstagramで告知した(kbizoom、Soapcentral)。アカウントは統一して「NJZ」の文字とうさぎの顔をブランディングに用いた。ADORは、事前協議なく開設されたアカウントは専属契約違反にあたるとの立場を示した。",
+      "en": "Amid the dispute over their exclusive contract with ADOR, the members announced the new name NJZ and logo on 7 February 2025 and, later that month (27 February per reports), used their personal Instagram accounts to announce X, YouTube and TikTok accounts under @NJZ_official (kbizoom, Soapcentral). The accounts shared branding of the letters 'NJZ' with a bunny face. ADOR stated that accounts opened without prior consultation breached the exclusive contract."
+    },
+    "credits": {
+      "account": "@NJZ_official"
+    }
   },
   {
     "id": "tweet-2025-03-22-njz-complexcon-d-1-teaser",
@@ -1461,7 +1812,15 @@
       "teaser"
     ],
     "verified": false,
-    "editor_note": "Status URL not retrieved (Sportskeeda credits @NJZ_official on X). Posted one day after the Seoul court injunction against independent activities."
+    "editor_note": "Status URL not retrieved (Sportskeeda credits @NJZ_official on X). Posted one day after the Seoul court injunction against independent activities. | not enriched beyond Sportskeeda; status URL not found (account no longer resolvable).",
+    "detail": {
+      "ja": "2025年3月22日、@NJZ_officialはComplexCon Hong Kong(AsiaWorld-Expo、3月21日から23日)での出演前日に「D-1」ティーザーとして13秒の映像を投稿した(Sportskeeda、同日)。映像にはグループの象徴であるうさぎを模したプラチナ/シルバー調のブレスレットが映り、ファンはアーケード風の音とエンジン音から新曲を連想した。同日、ソウル中央地方法院がADORの申し立てた仮処分を認容したことも報じられている。投稿本文とステータスURLは回収できていない。",
+      "en": "On 22 March 2025, the day before the set at ComplexCon Hong Kong (AsiaWorld-Expo, 21-23 March), @NJZ_official posted a 13-second 'D-1' teaser video (Sportskeeda, same day). The clip showed a platinum/silver bracelet in the group's rabbit motif, and fans read the arcade-like sounds and engine noise as hints of new music. The same day, the Seoul Central District Court's grant of ADOR's injunction was reported. The post text and status URL were not recovered."
+    },
+    "credits": {
+      "account": "@NJZ_official",
+      "event": "ComplexCon Hong Kong 2025"
+    }
   },
   {
     "id": "tweet-2026-05-07-happy-minji-day",
@@ -1493,6 +1852,14 @@
       "birthday"
     ],
     "verified": true,
-    "editor_note": "Post text: HAPPY MINJI DAY 🍪#HAPPY_MINJI_DAY#NewJeans #MINJI#뉴진스 #민지 pic.twitter.com/GIWu4eCYGW | Posted 2026-05-07 00:00 KST (from X oEmbed; time derived from snowflake ID)."
+    "editor_note": "Post text: HAPPY MINJI DAY 🍪#HAPPY_MINJI_DAY#NewJeans #MINJI#뉴진스 #민지 pic.twitter.com/GIWu4eCYGW | Posted 2026-05-07 00:00 KST (from X oEmbed; time derived from snowflake ID). | Status 2052040697583444307 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; media: 2 photos.",
+    "detail": {
+      "ja": "2026年5月7日0時00分(KST)、公式X@NewJeans_ADORが写真2点を添えて投稿した。本文は「HAPPY MINJI DAY」とハッシュタグ#HAPPY_MINJI_DAY #NewJeans #MINJI #뉴진스 #민지。クッキーの絵文字を添えたミンジの誕生日投稿で、アカウント名はNewJeans、プロフィール文は「NewJeans is Everywhere」となっている。",
+      "en": "At 00:00 KST on 2026-05-07 the official X account @NewJeans_ADOR posted two photos with the text 'HAPPY MINJI DAY' and the hashtags #HAPPY_MINJI_DAY #NewJeans #MINJI #뉴진스 #민지. The birthday post for Minji carried a cookie emoji; the account's display name is NewJeans and its bio reads 'NewJeans is Everywhere'."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    }
   }
 ]
