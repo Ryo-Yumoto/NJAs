@@ -23,7 +23,7 @@
   const WD_JA = ["日", "月", "火", "水", "木", "金", "土"];
   const KIND_TAGS = ["teaser", "trailer", "concept-film", "lyric-video", "track-video", "dance-practice", "performance", "stage-cam", "audition", "pre-debut", "announcement"];
 
-  const state = { items: [], eras: [], images: {}, pages: [], byDate: {}, cur: -1, mode: "cover", showMeta: false };
+  const state = { items: [], eras: [], images: {}, pages: [], byDate: {}, cur: -1, mode: "cover", showMeta: false, cats: new Set(Object.keys(CATS)), tocMonth: null };
 
   const $ = (sel, root = document) => root.querySelector(sel);
   const el = (tag, attrs = {}, text) => { const n = document.createElement(tag); for (const [k, v] of Object.entries(attrs)) { if (k === "class") n.className = v; else n.setAttribute(k, v); } if (text != null) n.textContent = text; return n; };
@@ -62,7 +62,8 @@
     // pages: era openers interleaved with one page per date
     // page key: exact day "YYYY-MM-DD"; month-only records "YYYY-MM"; year-only "YYYY" (sorted before the days they precede)
     const byKey = {};
-    for (const it of state.items) { const k = it.date_precision === "month" ? it.date.slice(0, 7) : it.date_precision === "year" ? it.date.slice(0, 4) : it.date; (byKey[k] ||= []).push(it); }
+    for (const it of state.items) {
+      if (!state.cats.has(it.category)) continue; const k = it.date_precision === "month" ? it.date.slice(0, 7) : it.date_precision === "year" ? it.date.slice(0, 4) : it.date; (byKey[k] ||= []).push(it); }
     state.byDate = byKey;
     // month-only pages sit at the END of their month, year-only pages at the end of their year (nothing inside them can be "early")
     const sortDate = k => (k.length === 7 ? k + "-32" : k.length === 4 ? k + "-13-00" : k);
@@ -139,8 +140,9 @@
     $("#prev-btn").disabled = !prev; $("#next-btn").disabled = !next;
     $("#prev-date").textContent = prev ? pageLabel(prev) : "表紙 / COVER";
     $("#prev-btn").disabled = false;
-    $("#next-date").textContent = next ? (next.kind === "era" ? "新しい章 / NEW CHAPTER" : pageLabel(next)) : "ここまで / THE END, FOR NOW";
-    $("#bar-pos").textContent = p.kind === "era" ? `${p.era.title.en.toUpperCase()}` : `${pageLabel(p)}${p.precision === "day" && dayLabel(p.date) ? " · " + dayLabel(p.date) : ""}`;
+    $("#next-date").textContent = next ? (next.kind === "era" ? "次の期 / NEXT ERA" : pageLabel(next)) : "ここまで / THE END, FOR NOW";
+    const filt = state.cats.size !== Object.keys(CATS).length ? " · FILTERED" : "";
+    $("#bar-pos").textContent = (p.kind === "era" ? `${p.era.title.en.toUpperCase()}` : `${pageLabel(p)}${p.precision === "day" && dayLabel(p.date) ? " · " + dayLabel(p.date) : ""}`) + filt;
   }
   function renderEraPage(p) {
     const era = p.era;
@@ -150,7 +152,7 @@
     if (src) { h.classList.add("has-img"); h.appendChild(el("img", { class: "era-img", src, alt: "" })); }
     const body = el("div", { class: "era-body" });
     const chapterNo = state.eras.indexOf(era) + 1;
-    body.append(el("span", { class: "era-kicker mono" }, `CHAPTER ${chapterNo} · 第${chapterNo}章`), el("h2", { class: "era-title" }, era.title.en), el("p", { class: "era-sub" }, era.title.ja), el("p", { class: "era-cap" }, era.caption?.ja || ""), el("p", { class: "era-cap-en" }, era.caption?.en || ""), el("p", { class: "era-range mono" }, `${fmtLong(era.start)} —`));
+    body.append(el("span", { class: "era-kicker mono" }, `ERA ${chapterNo} · 第${chapterNo}期`), el("h2", { class: "era-title" }, era.title.en), el("p", { class: "era-sub" }, era.title.ja), el("p", { class: "era-cap" }, era.caption?.ja || ""), el("p", { class: "era-cap-en" }, era.caption?.en || ""), el("p", { class: "era-range mono" }, `${fmtLong(era.start)} —`));
     h.appendChild(body);
     return h;
   }
@@ -192,6 +194,17 @@
     $(".t-ja", node).textContent = it.title.ja; $(".t-en", node).textContent = it.title.en;
     if (it.title.original && it.title.original !== it.title.ja && it.title.original !== it.title.en) { const o = $(".t-orig", node); o.hidden = false; o.textContent = it.title.original; }
     if (it.summary?.ja || it.summary?.en) { $(".desc", node).hidden = false; if (it.summary.ja) $(".s-ja", node).textContent = it.summary.ja; else $(".s-ja", node).remove(); if (it.summary.en) $(".s-en", node).textContent = it.summary.en; else $(".s-en", node).remove(); }
+    if (it.detail?.ja || it.detail?.en) {
+      const d = el("div", { class: "detail" });
+      if (it.detail.ja) d.appendChild(el("p", { class: "d-ja" }, it.detail.ja));
+      if (it.detail.en) d.appendChild(el("p", { class: "d-en" }, it.detail.en));
+      $(".desc", node).hidden = false; $(".desc", node).after(d);
+    }
+    if (it.credits && Object.keys(it.credits).length) {
+      const dl = el("dl", { class: "credits" });
+      for (const [k, v] of Object.entries(it.credits)) { dl.append(el("dt", { class: "mono" }, k.replace(/_/g, " ")), el("dd", {}, v)); }
+      ($(".detail", node) || $(".desc", node)).after(dl);
+    }
     if (it.note) { const n = $(".note", node); n.hidden = false; n.textContent = it.note; }
     const img = imageOf(it), isYt = it.media && it.media.type === "youtube" && it.media.ref;
     if (img) {
@@ -230,61 +243,115 @@
 
   /* ---------- table of contents (knowledge horizon = current page date) ---------- */
   function horizon() { const p = state.pages[state.cur]; return p ? (p.hdate || p.date) : "0000-00-00"; }
-  function openToc() { $("#toc").hidden = false; $("#scrim").hidden = false; $("#toc-btn").setAttribute("aria-expanded", "true"); renderToc(); setTimeout(() => $("#toc .current")?.scrollIntoView({ block: "center" }), 0); }
+  function isKnown(p) { const hz = state.mode === "page" ? horizon() : "0000-00-00"; const strict = state.pages[state.cur]?.kind === "era"; const d = p.hdate || p.date; return strict ? d < hz : d <= hz; }
+  function openToc() {
+    $("#toc").hidden = false; $("#scrim").hidden = false; $("#toc-btn").setAttribute("aria-expanded", "true");
+    const p = state.pages[state.cur]; state.tocMonth = p ? p.date.slice(0, 7) : null;
+    renderToc(); setTimeout(() => $("#toc .current")?.scrollIntoView({ block: "center" }), 0);
+  }
   function closeToc() { $("#toc").hidden = true; $("#scrim").hidden = true; $("#toc-btn").setAttribute("aria-expanded", "false"); }
+  const hitQ = (it, q) => !q || [it.title.ja, it.title.en, it.title.original, it.summary?.ja, it.summary?.en, it.detail?.ja, ...(it.tags || [])].filter(Boolean).join(" ").toLowerCase().includes(q);
+  function buildCatChips() {
+    const box = $("#toc-cats"); box.innerHTML = "";
+    for (const [k, v] of Object.entries(CATS)) {
+      const b = el("button", { class: "chip", type: "button", "data-cat": k, "aria-pressed": String(state.cats.has(k)) });
+      b.style.setProperty("--chip", v.color); b.append(el("i", { class: "sw" }), el("span", {}, `${v.ja}`));
+      b.addEventListener("click", e => {
+        if (e.altKey || e.metaKey) state.cats = new Set([k]); else { if (state.cats.has(k)) state.cats.delete(k); else state.cats.add(k); }
+        if (!state.cats.size) state.cats = new Set(Object.keys(CATS));
+        store.set("njas-cats", [...state.cats].join(","));
+        applyFilter();
+      });
+      box.appendChild(b);
+    }
+    const all = el("button", { class: "chip chip-all", type: "button" }, "すべて");
+    all.addEventListener("click", () => { state.cats = new Set(Object.keys(CATS)); store.set("njas-cats", ""); applyFilter(); });
+    box.appendChild(all);
+  }
+  function applyFilter() {
+    const key = state.pages[state.cur]?.key;
+    buildPages();
+    document.querySelectorAll("#toc-cats [data-cat]").forEach(b => b.setAttribute("aria-pressed", String(state.cats.has(b.dataset.cat))));
+    if (state.mode === "page") {
+      let i = key ? state.pages.findIndex(p => p.key === key) : -1;
+      if (i < 0 && key) i = nearestDateIdx(key.length === 10 ? key : key + "-01");
+      if (i >= 0) { state.cur = i; renderPage(); } else showCover();
+    }
+    renderToc();
+  }
   function renderToc() {
-    const body = $("#toc-body"); body.innerHTML = "";
-    const hz = state.mode === "page" ? horizon() : "0000-00-00";
-    const strict = state.pages[state.cur]?.kind === "era"; // on a chapter opener the day itself is still unread
+    const body = $("#toc-body"), nav = $("#toc-nav"); body.innerHTML = ""; nav.innerHTML = "";
     const q = $("#toc-q").value.trim().toLowerCase();
     const reveal = $("#toc-reveal").checked;
-    const hit = p => !q || p.items.some(it => [it.title.ja, it.title.en, it.summary?.ja, ...(it.tags || [])].filter(Boolean).join(" ").toLowerCase().includes(q));
-    const dlabel = p => p.precision === "month" ? `${p.date.slice(5, 7)}` : p.precision === "year" ? "—" : `${p.date.slice(5, 7)}.${p.date.slice(8, 10)}`;
-    const titleRow = (p, i) => {
-      const first = p.items[0];
-      const row = el("button", { class: "toc-row" + (i === state.cur ? " current" : ""), type: "button" });
-      row.append(el("span", { class: "toc-date mono" }, dlabel(p)), el("span", { class: "toc-dots" }), el("span", { class: "toc-text" }, p.items.length > 1 ? `${first.title.ja} ほか${p.items.length - 1}件` : first.title.ja));
-      const dots = row.querySelector(".toc-dots"); p.items.slice(0, 8).forEach(it => { const s = el("i", { class: "dot" }); s.style.background = CATS[it.category]?.color || "var(--rule)"; dots.appendChild(s); });
-      row.addEventListener("click", () => go(i));
-      return row;
-    };
-    let curYear = null, group = null, futureHeader = false, monthBox = null, curMonth = null;
-    state.pages.forEach((p, i) => {
-      const known = strict ? (p.hdate || p.date) < hz : (p.hdate || p.date) <= hz;
-      if (p.kind === "era") {
-        if (!known && !reveal) return; // chapters that have not begun are not listed
-        curYear = null; curMonth = null;
-        const h = el("button", { class: "toc-era" + (i === state.cur ? " current" : "") + (known ? "" : " ahead"), type: "button" });
-        h.style.setProperty("--era", p.era.accent || "var(--ink)");
-        h.append(el("span", { class: "toc-era-no mono" }, `CHAPTER ${state.eras.indexOf(p.era) + 1}`), el("span", { class: "toc-era-title" }, p.era.title.en), el("span", { class: "toc-era-sub" }, p.era.title.ja));
-        h.addEventListener("click", () => go(i));
-        body.appendChild(h); group = null;
-        return;
+    const days = state.pages.map((p, i) => ({ p, i })).filter(x => x.p.kind === "day");
+    const filtered = state.cats.size !== Object.keys(CATS).length;
+    if (filtered) nav.appendChild(el("span", { class: "mono toc-filtered" }, `絞り込み中: ${[...state.cats].map(k => CATS[k].ja).join("・")}`));
+
+    // search: flat list over the known range
+    if (q) {
+      body.appendChild(el("div", { class: "toc-section mono" }, "検索結果 / RESULTS"));
+      let n = 0;
+      for (const { p, i } of days) {
+        if (!(isKnown(p) || reveal)) continue;
+        for (const it of p.items) if (hitQ(it, q)) { body.appendChild(itemRow(p, i, it)); n++; }
       }
-      if (known || reveal) {
-        if (!known && !futureHeader) { futureHeader = true; curYear = null; body.appendChild(el("div", { class: "toc-future mono" }, "この先 / AHEAD — 見出しを表示中")); }
-        const y = p.date.slice(0, 4);
-        if (y !== curYear) { curYear = y; group = el("div", { class: "toc-year" }); group.appendChild(el("div", { class: "toc-year-label" }, y)); body.appendChild(group); }
-        if (!hit(p)) return;
-        group.appendChild(titleRow(p, i));
-        return;
+      if (!n) body.appendChild(el("p", { class: "toc-empty" }, "該当なし"));
+      return;
+    }
+    // tier 1: month calendar
+    if (!state.tocMonth) {
+      const byYear = {};
+      for (const { p, i } of days) { const y = p.date.slice(0, 4), m = +p.date.slice(5, 7); ((byYear[y] ||= {})[m] ||= []).push({ p, i }); }
+      const curYm = state.pages[state.cur]?.date.slice(0, 7);
+      for (const y of Object.keys(byYear).sort()) {
+        const yb = el("div", { class: "cal-year" }); yb.appendChild(el("div", { class: "cal-year-label" }, y));
+        const grid = el("div", { class: "cal-grid" });
+        for (let m = 1; m <= 12; m++) {
+          const list = byYear[y][m]; const ym = `${y}-${String(m).padStart(2, "0")}`;
+          const cell = el("button", { class: "cal-cell", type: "button", disabled: list ? null : "" });
+          if (!list) cell.setAttribute("disabled", "");
+          const known = list ? list.some(x => isKnown(x.p)) : false;
+          const allKnown = list ? list.every(x => isKnown(x.p)) : false;
+          cell.classList.toggle("known", known); cell.classList.toggle("partial", known && !allKnown); cell.classList.toggle("current", ym === curYm);
+          cell.append(el("span", { class: "cal-m" }, `${m}月`), el("span", { class: "cal-n mono" }, list ? `${list.length}日` : ""));
+          if (list) cell.addEventListener("click", () => { state.tocMonth = ym; renderToc(); $("#toc-body").scrollTop = 0; });
+          grid.appendChild(cell);
+        }
+        yb.appendChild(grid); body.appendChild(yb);
       }
-      // ahead, hidden: months fold, days as chips
-      if (q) return;
-      if (!futureHeader) { futureHeader = true; curYear = null; body.appendChild(el("div", { class: "toc-future mono" }, "この先 / AHEAD — 月を開くと日付が並びます")); }
-      const ym = p.date.slice(0, 7);
-      if (ym !== curMonth) {
-        curMonth = ym;
-        monthBox = el("details", { class: "toc-month" });
-        const sum = el("summary", {}); sum.append(el("span", { class: "toc-month-label" }, `${ym.slice(0, 4)}年${+ym.slice(5, 7)}月`), el("span", { class: "toc-month-n mono" }, ""));
-        monthBox.append(sum, el("div", { class: "toc-chips" }));
-        body.appendChild(monthBox);
-      }
-      const chip = el("button", { class: "toc-chip mono", type: "button", title: pageLabel(p) }, p.precision === "day" ? p.date.slice(8, 10) : p.precision === "month" ? "月" : "年");
-      chip.addEventListener("click", () => go(i));
-      monthBox.querySelector(".toc-chips").appendChild(chip);
-      const n = monthBox.querySelectorAll(".toc-chip").length; monthBox.querySelector(".toc-month-n").textContent = `${n}日`;
-    });
+      setTimeout(() => $("#toc .cal-cell.current")?.scrollIntoView({ block: "center" }), 0);
+      return;
+    }
+    // tier 2: one month, every heading
+    const ym = state.tocMonth;
+    const back = el("button", { class: "toc-back mono", type: "button" }, "← カレンダー / ALL MONTHS");
+    back.addEventListener("click", () => { state.tocMonth = null; renderToc(); });
+    const prevM = days.filter(x => x.p.date.slice(0, 7) < ym).pop(), nextM = days.find(x => x.p.date.slice(0, 7) > ym);
+    const mnav = el("div", { class: "toc-mnav" });
+    const pb = el("button", { class: "toc-back mono", type: "button", disabled: prevM ? null : "" }, "← 前の月"); if (!prevM) pb.setAttribute("disabled", ""); else pb.addEventListener("click", () => { state.tocMonth = prevM.p.date.slice(0, 7); renderToc(); });
+    const nb = el("button", { class: "toc-back mono", type: "button" }, "次の月 →"); if (!nextM) nb.setAttribute("disabled", ""); else nb.addEventListener("click", () => { state.tocMonth = nextM.p.date.slice(0, 7); renderToc(); });
+    mnav.append(pb, nb);
+    nav.append(back, mnav);
+    body.appendChild(el("h3", { class: "toc-month-title" }, `${ym.slice(0, 4)}年${+ym.slice(5, 7)}月`));
+    let any = false;
+    for (const { p, i } of days) {
+      if (p.date.slice(0, 7) !== ym) continue;
+      any = true;
+      const known = isKnown(p) || reveal;
+      const dh = el("button", { class: "toc-day" + (i === state.cur ? " current" : "") + (known ? "" : " unknown"), type: "button" });
+      dh.append(el("span", { class: "toc-day-date mono" }, p.precision === "day" ? `${p.date.slice(8, 10)}日（${weekday(p.date)}）` : p.precision === "month" ? "月内（日付未確定）" : "年内（日付未確定）"), el("span", { class: "toc-day-n mono" }, known ? `${p.items.length}件` : ""));
+      dh.addEventListener("click", () => go(i));
+      body.appendChild(dh);
+      if (known) for (const it of p.items) body.appendChild(itemRow(p, i, it));
+    }
+    if (!any) body.appendChild(el("p", { class: "toc-empty" }, "この月に該当する項目はありません"));
+  }
+  function itemRow(p, i, it) {
+    const row = el("button", { class: "toc-item", type: "button" });
+    const dot = el("i", { class: "dot" }); dot.style.background = CATS[it.category]?.color || "var(--rule)";
+    row.append(el("span", { class: "toc-item-date mono" }, p.precision === "day" ? `${p.date.slice(5, 7)}.${p.date.slice(8, 10)}` : p.date.slice(0, 7).replace("-", ".")), dot, el("span", { class: "toc-item-text" }, it.title.ja), el("span", { class: "toc-item-cat mono" }, CATS[it.category]?.en || it.category));
+    row.addEventListener("click", () => { go(i); setTimeout(() => document.getElementById(it.id)?.scrollIntoView({ block: "start", behavior: "smooth" }), 80); });
+    return row;
   }
   function jumpToDate(v) {
     if (!/^\d{4}-\d{2}-\d{2}$/.test(v)) return;
@@ -329,6 +396,8 @@
     $("#toc-close").addEventListener("click", closeToc); $("#scrim").addEventListener("click", closeToc);
     $("#toc-q").addEventListener("input", renderToc);
     $("#toc-reveal").addEventListener("change", () => { store.set("njas-toc-reveal", $("#toc-reveal").checked ? "1" : "0"); renderToc(); });
+    const savedCats = store.get("njas-cats"); if (savedCats) { const s = new Set(savedCats.split(",").filter(k => CATS[k])); if (s.size) state.cats = s; }
+    buildCatChips();
     if (store.get("njas-toc-reveal") === "1") $("#toc-reveal").checked = true;
     $("#toc-date").addEventListener("change", e => jumpToDate(e.target.value));
     $("#index-link").addEventListener("click", e => { e.preventDefault(); showIndex(); });

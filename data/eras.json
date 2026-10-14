@@ -4,13 +4,13 @@
     "start": "2019-07-01",
     "end": "2022-07-21",
     "title": {
-      "ja": "序章",
-      "en": "Prologue"
+      "ja": "デビュー前",
+      "en": "Before Debut"
     },
-    "short": "Prologue",
+    "short": "Pre-debut",
     "caption": {
-      "ja": "ミン・ヒジンがプロデュースするガールズグループのオーディション広告から始まる。",
-      "en": "It begins with an audition ad for a girl group produced by Min Hee-jin."
+      "ja": "ミン・ヒジンが関わるガールズグループ計画に関する、デビュー前の公式発表と告知。",
+      "en": "Official announcements and notices before debut concerning the girl-group project led by Min Hee-jin."
     },
     "image": null,
     "accent": "#a0522d"
@@ -25,8 +25,8 @@
     },
     "short": "Attention",
     "caption": {
-      "ja": "予告なしに公開されたMVから、すべてが始まる。",
-      "en": "A music video appears without warning. Everything starts here."
+      "ja": "2022年7月22日、『Attention』MV公開を起点とする期間。",
+      "en": "Period beginning with the release of the 'Attention' music video on July 22, 2022."
     },
     "image": "mv-2022-07-22-attention-official-mv",
     "accent": "#2a78d6"
@@ -41,8 +41,8 @@
     },
     "short": "Ditto",
     "caption": {
-      "ja": "冬。先行公開曲とともに、次の章が開く。",
-      "en": "Winter. A pre-release opens the next chapter."
+      "ja": "2022年12月19日、『Ditto』の先行公開を起点とする期間。",
+      "en": "Period beginning with the pre-release of 'Ditto' on December 19, 2022."
     },
     "image": "mv-2022-12-19-ditto-official-mv-side-a",
     "accent": "#6250d6"
@@ -57,8 +57,8 @@
     },
     "short": "Super Shy",
     "caption": {
-      "ja": "デビューから1年。2nd EPのロールアウトが動き出す。",
-      "en": "One year since debut. The second EP rollout begins."
+      "ja": "2023年7月7日、『Super Shy』の先行公開を起点とする期間。",
+      "en": "Period beginning with the pre-release of 'Super Shy' on July 7, 2023."
     },
     "image": "mv-2023-07-07-super-shy-official-mv",
     "accent": "#1baf7a"
@@ -73,8 +73,8 @@
     },
     "short": "Bubble Gum",
     "caption": {
-      "ja": "春。先行公開曲から、再び連鎖が始まる。",
-      "en": "Spring. A pre-release sets off the chain again."
+      "ja": "2024年4月27日、『Bubble Gum』MV公開を起点とする期間。",
+      "en": "Period beginning with the release of the 'Bubble Gum' music video on April 27, 2024."
     },
     "image": "mv-2024-04-27-bubble-gum-official-mv",
     "accent": "#eb6834"
@@ -84,13 +84,13 @@
     "start": "2024-11-29",
     "end": "2025-11-11",
     "title": {
-      "ja": "通告",
-      "en": "The Notice"
+      "ja": "契約解除通告",
+      "en": "Termination Notice"
     },
-    "short": "The Notice",
+    "short": "Notice",
     "caption": {
-      "ja": "11月28日夜の記者会見。メンバーが専属契約の解除を通告する。",
-      "en": "A press conference on the night of Nov 28. The members give notice of termination."
+      "ja": "2024年11月28日の記者会見で、メンバーが専属契約の解除を通告した時点を起点とする期間。",
+      "en": "Period beginning with the November 28, 2024 press conference at which the members gave notice of contract termination."
     },
     "image": null,
     "accent": "#a0522d"
@@ -100,13 +100,13 @@
     "start": "2025-11-12",
     "end": null,
     "title": {
-      "ja": "帰還",
+      "ja": "復帰",
       "en": "Return"
     },
     "short": "Return",
     "caption": {
-      "ja": "ADORへの復帰が発表される。",
-      "en": "A return to ADOR is announced."
+      "ja": "2025年11月12日、ADORへの復帰発表を起点とする期間。",
+      "en": "Period beginning with the announced return to ADOR on November 12, 2025."
     },
     "image": null,
     "accent": "#008300"

@@ -129,6 +129,26 @@
         }
       }
     },
+    "detail": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "ja": {
+          "type": "string"
+        },
+        "en": {
+          "type": "string"
+        }
+      },
+      "description": "詳細（2〜5文）。事実のみ。クレジット、収録曲、会場、出演内容、掲載内容など。その日付時点で分かることに限る"
+    },
+    "credits": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string"
+      },
+      "description": "クレジット。キー例：director, producer, composer, lyricist, choreographer, photographer, stylist, label, publisher, broadcaster, venue"
+    },
     "source_url": {
       "type": "string",
       "pattern": "^https?://",
