@@ -365,8 +365,14 @@
       if (p.date.slice(0, 7) !== ym) continue;
       any = true;
       const known = isKnown(p) || reveal;
-      const dh = el("button", { class: "toc-day" + (i === state.cur ? " current" : "") + (known ? "" : " unknown"), type: "button" });
       const first = p.items[0];
+      if (known && p.items.length === 1) {
+        // single entry: one row carries date and heading
+        const row = itemRow(p, i, first); row.classList.add("toc-item-single"); if (i === state.cur) row.classList.add("current");
+        row.querySelector(".toc-item-date").textContent = p.precision === "day" ? `${p.date.slice(8, 10)}日（${weekday(p.date)}）` : p.precision === "month" ? "月内" : "年内";
+        body.appendChild(row); continue;
+      }
+      const dh = el("button", { class: "toc-day" + (i === state.cur ? " current" : "") + (known ? "" : " unknown"), type: "button" });
       const cut = (s, n) => (s.length > n ? s.slice(0, n).replace(/[、。,.\s]+$/, "") + "…" : s);
       const digest = known ? (cut(L(first.summary) || L(first.title), state.lang === "ja" ? 40 : 70) + (p.items.length > 1 ? (state.lang === "ja" ? `（ほか${p.items.length - 1}件）` : ` (+${p.items.length - 1})`) : "")) : "";
       dh.append(el("span", { class: "toc-day-date mono" }, p.precision === "day" ? `${p.date.slice(8, 10)}日（${weekday(p.date)}）` : p.precision === "month" ? "月内（日付未確定）" : "年内（日付未確定）"), el("span", { class: "toc-day-digest" }, digest));
