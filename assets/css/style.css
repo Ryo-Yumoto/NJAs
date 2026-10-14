@@ -202,16 +202,16 @@ button { font-family: inherit; }
 .toc-back { background: none; border: 1px solid var(--rule); color: var(--ink); border-radius: 999px; padding: 5px 10px; cursor: pointer; }
 .toc-back:disabled { opacity: .35; cursor: default; }
 .toc-filtered { color: var(--denim); }
-.cal-year { padding: 12px 16px 6px; }
-.cal-year-label { font-family: var(--f-display); font-size: 28px; line-height: 1; margin-bottom: 8px; }
-.cal-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; }
-.cal-cell { display: grid; gap: 2px; justify-items: start; padding: 8px 10px; border: 1px solid var(--rule); border-radius: 8px; background: var(--card); color: var(--ink-3); cursor: pointer; text-align: left; }
+.cal-year { padding: 10px 16px 4px; }
+.cal-year-label { font-family: var(--f-display); font-size: 24px; line-height: 1; margin-bottom: 6px; }
+.cal-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 5px; }
+.cal-cell { display: flex; justify-content: space-between; align-items: baseline; gap: 6px; padding: 6px 9px; border: 1px solid var(--rule); border-radius: 8px; background: var(--card); color: var(--ink-3); cursor: pointer; text-align: left; }
 .cal-cell:disabled { opacity: .25; cursor: default; background: transparent; border-style: dotted; }
 .cal-cell.known { color: var(--ink); border-color: var(--ink-3); }
 .cal-cell.partial { border-style: dashed; }
 .cal-cell.current { background: var(--ink); color: var(--paper); border-color: var(--ink); }
 .cal-cell.current .cal-n { color: var(--paper); opacity: .8; }
-.cal-m { font-family: var(--f-jp); font-size: 14px; font-weight: 700; }
+.cal-m { font-family: var(--f-jp); font-size: 13.5px; font-weight: 700; }
 .cal-n { font-size: 10px; color: var(--ink-3); }
 .toc-month-title { margin: 10px 16px 4px 20px; font-family: var(--f-jp); font-size: 15px; }
 .toc-day { width: 100%; display: grid; grid-template-columns: 92px 1fr; gap: 10px; align-items: start; background: none; border: 0; border-top: 1px solid var(--rule); color: var(--ink); padding: 10px 16px 6px 20px; margin-top: 6px; cursor: pointer; text-align: left; }

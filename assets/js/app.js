@@ -428,7 +428,7 @@
     const savedCats = store.get("njas-cats"); if (savedCats && savedCats.startsWith("|")) { state.cats = new Set(savedCats.slice(1).split(",").filter(k => CATS[k])); }
     buildCatChips();
     if (store.get("njas-toc-reveal") === "1") $("#toc-reveal").checked = true;
-    $("#toc-date").addEventListener("change", e => jumpToDate(e.target.value));
+
     $("#index-link").addEventListener("click", e => { e.preventDefault(); showIndex(); });
     $("#index-close").addEventListener("click", () => (state.cur >= 0 ? go(state.cur) : showCover()));
     $("#index-q").addEventListener("input", renderIndex);
