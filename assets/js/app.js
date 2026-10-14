@@ -313,7 +313,8 @@
           const known = list ? list.some(x => isKnown(x.p)) : false;
           const allKnown = list ? list.every(x => isKnown(x.p)) : false;
           cell.classList.toggle("known", known); cell.classList.toggle("partial", known && !allKnown); cell.classList.toggle("current", ym === curYm);
-          cell.append(el("span", { class: "cal-m" }, `${m}月`), el("span", { class: "cal-n mono" }, list ? `${list.length}日` : ""));
+          const nItems = list ? list.reduce((a, x) => a + x.p.items.length, 0) : 0;
+          cell.append(el("span", { class: "cal-m" }, `${m}月`), el("span", { class: "cal-n mono" }, list ? `${nItems}件` : ""));
           if (list) cell.addEventListener("click", () => { state.tocMonth = ym; renderToc(); $("#toc-body").scrollTop = 0; });
           grid.appendChild(cell);
         }
@@ -339,7 +340,9 @@
       any = true;
       const known = isKnown(p) || reveal;
       const dh = el("button", { class: "toc-day" + (i === state.cur ? " current" : "") + (known ? "" : " unknown"), type: "button" });
-      dh.append(el("span", { class: "toc-day-date mono" }, p.precision === "day" ? `${p.date.slice(8, 10)}日（${weekday(p.date)}）` : p.precision === "month" ? "月内（日付未確定）" : "年内（日付未確定）"), el("span", { class: "toc-day-n mono" }, known ? `${p.items.length}件` : ""));
+      const first = p.items[0];
+      const digest = known ? ((first.summary?.ja || first.title.ja) + (p.items.length > 1 ? `（ほか${p.items.length - 1}件）` : "")) : "";
+      dh.append(el("span", { class: "toc-day-date mono" }, p.precision === "day" ? `${p.date.slice(8, 10)}日（${weekday(p.date)}）` : p.precision === "month" ? "月内（日付未確定）" : "年内（日付未確定）"), el("span", { class: "toc-day-digest" }, digest));
       dh.addEventListener("click", () => go(i));
       body.appendChild(dh);
       if (known) for (const it of p.items) body.appendChild(itemRow(p, i, it));

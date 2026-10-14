@@ -211,12 +211,12 @@ button { font-family: inherit; }
 .cal-m { font-family: var(--f-jp); font-size: 14px; font-weight: 700; }
 .cal-n { font-size: 10px; color: var(--ink-3); }
 .toc-month-title { margin: 10px 16px 4px 20px; font-family: var(--f-jp); font-size: 15px; }
-.toc-day { width: 100%; display: flex; justify-content: space-between; align-items: center; background: none; border: 0; border-top: 1px solid var(--rule); color: var(--ink); padding: 9px 16px 6px 20px; margin-top: 6px; cursor: pointer; text-align: left; }
+.toc-day { width: 100%; display: grid; grid-template-columns: 92px 1fr; gap: 10px; align-items: start; background: none; border: 0; border-top: 1px solid var(--rule); color: var(--ink); padding: 10px 16px 6px 20px; margin-top: 6px; cursor: pointer; text-align: left; }
 .toc-day:hover { background: var(--paper-2); }
 .toc-day.current { box-shadow: inset 3px 0 var(--ink); }
 .toc-day.unknown { color: var(--ink-3); }
 .toc-day-date { font-size: 11.5px; }
-.toc-day-n { color: var(--ink-3); }
+.toc-day-digest { font-family: var(--f-jp); font-size: 12.5px; line-height: 1.5; color: var(--ink-2); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 .toc-item { width: 100%; display: grid; grid-template-columns: 40px 10px 1fr auto; gap: 8px; align-items: center; background: none; border: 0; color: var(--ink); text-align: left; padding: 5px 16px 5px 20px; cursor: pointer; font-family: var(--f-jp); font-size: 12.5px; }
 .toc-item:hover { background: var(--paper-2); }
 .toc-item-date { color: var(--ink-3); font-size: 10.5px; }
