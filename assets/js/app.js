@@ -197,9 +197,13 @@
     if (img) {
       const fig = $(".thumb", node); fig.hidden = false;
       fig.appendChild(el("img", { src: img.src, alt: "", loading: "lazy", decoding: "async" }));
-      if (isYt) {
+      if (isYt && !window.NJAS_NO_EMBED) {
         fig.classList.add("is-video"); fig.appendChild(el("span", { class: "play mono" }, "▶ PLAY"));
         fig.addEventListener("click", () => { const box = $(".media", node); box.hidden = false; box.innerHTML = ""; box.appendChild(el("iframe", { src: `https://www.youtube-nocookie.com/embed/${it.media.ref}?autoplay=1`, allow: "autoplay; encrypted-media; picture-in-picture", allowfullscreen: "", title: it.title.en })); fig.hidden = true; });
+      } else if (isYt) {
+        fig.classList.add("is-video"); fig.appendChild(el("span", { class: "play mono" }, "▶ OPEN ON YOUTUBE"));
+        const a = el("a", { href: `https://www.youtube.com/watch?v=${it.media.ref}`, target: "_blank", rel: "noopener", class: "thumb-link", "aria-label": "Open on YouTube" });
+        fig.appendChild(a);
       } else fig.addEventListener("click", () => openLightbox(it, img));
     }
     if (it.local_assets && it.local_assets.length > 1) { const box = $(".assets", node); box.hidden = false; for (const pth of it.local_assets.slice(1)) { const a = el("a", { href: "media/" + pth, target: "_blank", rel: "noopener" }); a.appendChild(el("img", { src: "media/" + pth, alt: it.title.ja, loading: "lazy" })); box.appendChild(a); } }
