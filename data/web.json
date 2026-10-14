@@ -30,7 +30,16 @@
     ],
     "verified": false,
     "note": "続編「A Rare Peek into Min Hee-jin's World」（Part 2）も同誌に掲載された。",
-    "editor_note": "The Be(Attitude) page shows no explicit date; 2022-03-24 is the citation date used by English Wikipedia (NME follow-up 2022-03-25; images uploaded March 2022). Part 2 dated 2022-04-15 by Wikipedia. Not an ADOR press release; included as the first public statement of the launch window."
+    "editor_note": "The Be(Attitude) page shows no explicit date; 2022-03-24 is the citation date used by English Wikipedia (NME follow-up 2022-03-25; images uploaded March 2022). Part 2 dated 2022-04-15 by Wikipedia. Not an ADOR press release; included as the first public statement of the launch window. | Page carries no explicit publication date; image paths point to March 2022.",
+    "detail": {
+      "ja": "ウェブマガジンBe(Attitude)のArtist Project 04「How Much Do You Know about Min Hee-jin?」のPart 1として公開された、ADOR代表ミン・ヒジンへのQ&A形式のテキストインタビュー（韓国語原文の英訳版、翻訳はKim Hye-jin、Kim Hyun-kyung、HKPP）。編集はHarry Jun、Kim Jae-hun、Park Sanha、Jin Chae-min、寄稿編集者はポップカルチャー評論家の차우진、撮影は송시영。ミン・ヒジンは新ガールズグループについて、2019年9月にオーディションを行い年内にキャスティングを終えたこと、2020年初頭から約2年間練習してきたこと、当初2021年に予定していたローンチがパンデミックで延期され、ADORの設立に伴い2022年の第3四半期にローンチする見込みであることを述べた。またグループの焦点を熟練度ではなく「楽しむこと」に置き、メンバーが楽しみながら最善を尽くせる環境を作りたいと語った。インタビュー時点でメンバーは未公開だった。",
+      "en": "A Q&A-style text interview with ADOR CEO Min Hee-jin, published as Part 1 of the web magazine Be(Attitude)'s Artist Project 04 'How Much Do You Know about Min Hee-jin?', in an English translation of the Korean original (translators Kim Hye-jin, Kim Hyun-kyung and HKPP). The editors were Harry Jun, Kim Jae-hun, Park Sanha and Jin Chae-min with contributing editor and pop-culture critic Cha Woo-jin, and photography by Song Si-young. On the new girl group Min said auditions were held in September 2019 with casting completed by year-end, that the members had trained for about two years since early 2020, and that the launch, originally planned for 2021 and delayed by the pandemic, was expected in the third quarter of 2022 under ADOR. She also said she had set the group's focus on enjoyment rather than proficiency and wanted an environment where members could do their best while having fun. The members had not been revealed at the time."
+    },
+    "credits": {
+      "outlet": "Be(Attitude)",
+      "photographer": "Song Si-young (송시영)",
+      "contributing_editor": "Cha Woo-jin (차우진)"
+    }
   },
   {
     "id": "web-2022-07-07-newjeans-official-youtube-channel-created",
@@ -62,7 +71,15 @@
     ],
     "verified": true,
     "note": "チャンネル作成時点ではグループ名は公表されておらず、公開は7月22日の「Attention」MVが最初。",
-    "editor_note": "Fetched the channel About page: joinedDateText 'Joined Jul 7, 2022', channelId UCMki_UkHb4qSc0qyEcOHHJw. YouTube renders the join date in the viewer's (US/Pacific) time, so KST could be 07-07 or 07-08. Creation dates of the official X (@NewJeans_ADOR) and Instagram (@newjeans_official) accounts could not be retrieved (X/Instagram and web.archive.org are blocked from this environment)."
+    "editor_note": "Fetched the channel About page: joinedDateText 'Joined Jul 7, 2022', channelId UCMki_UkHb4qSc0qyEcOHHJw. YouTube renders the join date in the viewer's (US/Pacific) time, so KST could be 07-07 or 07-08. Creation dates of the official X (@NewJeans_ADOR) and Instagram (@newjeans_official) accounts could not be retrieved (X/Instagram and web.archive.org are blocked from this environment). | not enriched further: only the channel About page is available as a source.",
+    "detail": {
+      "ja": "NewJeansの公式YouTubeチャンネル（ハンドル@NewJeans_official、チャンネルID UCMki_UkHb4qSc0qyEcOHHJw）がこの日に作成された。チャンネルのAboutページの参加日表示は「Joined Jul 7, 2022」で、YouTubeは閲覧者側のタイムゾーン（米国太平洋時間）で表示するため、韓国時間では7月7日または8日にあたる。チャンネル作成時点でグループ名やメンバーは公表されておらず、ADORによる最初の予告は7月1日に江南の大型ビジョンとSNSで行われていた。",
+      "en": "The official NewJeans YouTube channel (handle @NewJeans_official, channel ID UCMki_UkHb4qSc0qyEcOHHJw) was created on this date. The channel's About page shows 'Joined Jul 7, 2022'; since YouTube renders the join date in the viewer's US Pacific time, the KST date is July 7 or 8. At the time of creation the group name and members had not been announced; ADOR's first teaser had run on July 1 on Gangnam billboards and social media."
+    },
+    "credits": {
+      "platform": "YouTube",
+      "operator": "ADOR"
+    }
   },
   {
     "id": "web-2022-12-27-rolling-stone-omg-interview",
@@ -93,7 +110,15 @@
       "interview"
     ],
     "verified": false,
-    "editor_note": "rollingstone.comはアクセス制限で本文未取得。日付は検索結果（Rolling Stone India転載）による。"
+    "editor_note": "rollingstone.comはアクセス制限で本文未取得。日付は検索結果（Rolling Stone India転載）による。 | Content sourced from the Rolling Stone India reprint (rollingstoneindia.com); rollingstone.com itself not fetched.",
+    "detail": {
+      "ja": "米Rolling Stoneが2022年12月27日に公開したKristine Kwakによるテキスト形式のQ&Aインタビュー「NewJeans Owned 2022. They're Going Even Bigger in 2023」。初のシングルアルバム『OMG』（収録曲「Ditto」「OMG」）のリリースを前に行われ、メンバーはデビューEPと同様にハニとミンジが「Ditto」「OMG」の作詞に参加したこと、「Ditto」を冬に合う温かい曲、「OMG」をよりトレンディな曲と説明し、ヘインは「Ditto」を母親のきつい抱擁に例えた。ミンジは2本公開された「Ditto」MVに固定された筋書きはなく、解釈を開いておくことが魅力だと語った。ほかにファンダムBunniesとの友人のような関係、海外のストリートスタイルからの古着の影響、ヘインのキーホルダー好き、2023年はより多くのステージとコンテンツ、米国での対面活動を目指すことが話題になった。先行公開曲「Ditto」はこの時点でYouTube再生1000万回を超えていた。",
+      "en": "A text Q&A interview by Kristine Kwak, published by Rolling Stone on December 27, 2022 under the title 'NewJeans Owned 2022. They're Going Even Bigger in 2023', ahead of the first single album OMG (tracks 'Ditto' and 'OMG'). The members said Hanni and Minji had contributed lyrics to 'Ditto' and 'OMG' as on the debut EP, described 'Ditto' as warm and suited to winter and 'OMG' as more trendy, and Hyein compared 'Ditto' to a tight hug from a mother. Minji said the two 'Ditto' music videos had no fixed plot and that leaving them open was part of the appeal. Other topics were the friendship-like bond with the fandom Bunnies, secondhand inspiration from street style abroad, Hyein's fondness for keychains, and plans for more performances, more content and in-person US appearances in 2023. The pre-release single 'Ditto' had passed 10 million YouTube views at the time."
+    },
+    "credits": {
+      "outlet": "Rolling Stone",
+      "writer": "Kristine Kwak"
+    }
   },
   {
     "id": "web-2023-01-04-consequence-fan-chant-omg",
@@ -121,7 +146,15 @@
     "tags": [
       "interview"
     ],
-    "verified": true
+    "verified": true,
+    "detail": {
+      "ja": "米音楽メディアConsequenceのK-POPコラム「Fan Chant」でMary Sirokyが2023年1月4日（米東部時間14時45分）に公開したテキスト形式のインタビュー記事。2023年1月2日発売のシングルアルバム『OMG』、形成途上のチームの関係性、各メンバーの好きな冬のサウンドトラックなどを話題にしている。記事はタイトル曲「OMG」を弾むようなハイエナジーのサウンドと振付の曲と紹介し、MVが朴賛郁監督の2006年作『サイボーグでも大丈夫』を参照していること、先行シングル「Ditto」のクラブビートについても触れている。ヘリンは「メンバーと一緒に過ごすこと自体がとても楽しい」と語った。",
+      "en": "A text interview by Mary Siroky for Consequence's K-pop column 'Fan Chant', published January 4, 2023 at 2:45 pm ET. Topics included the single album OMG released January 2, 2023, the group's developing team dynamic and the members' favorite winter soundtracks. The article describes the focus track 'OMG' as bouncy and high-energy in sound and choreography, notes that its music video references Park Chan-wook's 2006 film 'I'm a Cyborg, But That's OK', and mentions the deconstructed club beat of the preceding single 'Ditto'. Haerin said it is so much fun just spending time together with the members."
+    },
+    "credits": {
+      "outlet": "Consequence",
+      "writer": "Mary Siroky"
+    }
   },
   {
     "id": "web-2023-01-27-nme-cover-interview-omg-ditto",
@@ -152,7 +185,19 @@
       "interview",
       "cover"
     ],
-    "verified": true
+    "verified": true,
+    "detail": {
+      "ja": "英NMEのBig Readカバーインタビュー「NewJeans: 'We want to show the industry that music shouldn't be divided by language'」（Gladys Yeo執筆、2023年1月27日公開）。撮影はNMEのためのSiyoung Song、ヘアはGiihee Naree、メイクはEunseo Lee、スタイリングはYumi Choi。「Hype Boy」の反響、1990年代から2000年代初頭のファッションや映画、音楽への関心とトレンドの循環、ミンジ・ハニ・ダニエルの作詞参加（ミンジは「Ditto」で初の作詞クレジットを得て、冬山のツリーハウスと焚き火の情景を想像したと語った）、ジャンルの混合への開放性、言語で音楽を分けるべきでないというハニの考えが語られた。記事は「OMG」をエネルギッシュで聴きやすい曲、「Ditto」を夢のようでボルチモア・クラブの影響を受けた曲と評し、「Ditto」の制作にOohyo、The Black Skirtsの조휴일、Ylva Dimbergが参加したことに触れている。",
+      "en": "NME's Big Read cover interview 'NewJeans: We want to show the industry that music shouldn't be divided by language', written by Gladys Yeo and published January 27, 2023. Photography was by Siyoung Song for NME, with hair by Giihee Naree, makeup by Eunseo Lee and styling by Yumi Choi. The members discussed the impact of 'Hype Boy', their interest in 1990s and early-2000s fashion, film and music and the cyclical nature of trends, lyric-writing by Minji, Hanni and Danielle (Minji earned her first songwriting credit on 'Ditto' and described imagining a winter mountain with a tree house and campfire), openness to genre mixing, and Hanni's view that music should not be divided by language. The article describes 'OMG' as energetic and easy on the ears and 'Ditto' as dreamy with Baltimore club influences, noting Oohyo, Cho Hyu-il of The Black Skirts and Ylva Dimberg among its credits."
+    },
+    "credits": {
+      "outlet": "NME",
+      "writer": "Gladys Yeo",
+      "photographer": "Siyoung Song",
+      "stylist": "Yumi Choi",
+      "hair": "Giihee Naree",
+      "makeup": "Eunseo Lee"
+    }
   },
   {
     "id": "web-2023-05-17-w-magazine-meet-newjeans",
@@ -180,7 +225,19 @@
     "tags": [
       "feature"
     ],
-    "verified": true
+    "verified": true,
+    "detail": {
+      "ja": "米W Magazineが2023年5月17日に「From the Magazine」として公開したAlex Hawgoodによるプロフィール記事「Meet NewJeans, the Fastest Rising K-Pop Act on the Planet」。撮影はYoona Shin、スタイリングはYumi Choi、ヘアはIljung Lee、メイクはNakyeum Lee。記事は「OMG」「Ditto」「Cookie」に見られる2000年代初頭のR&Bやボルチモア・クラブの要素、Billboardでの初週記録とロラパルーザ出演予定、各メンバーのラグジュアリーブランドのアンバサダー契約とリーバイスとの提携、デニムと「new genes」を掛けたグループ名とウサギのキャラクター、コカ・コーラとの楽曲「Zero」などを扱っている。ハニは特定の役割を分けていないと語り、ヘインは状況によって先頭に立つ人が変わると述べ、ヘリンは自由で自然であることが最大の強みだと語った。",
+      "en": "A profile by Alex Hawgood published by W Magazine on May 17, 2023 in its 'From the Magazine' section under the title 'Meet NewJeans, the Fastest Rising K-Pop Act on the Planet'. Photographs were by Yoona Shin, styling by Yumi Choi, hair by Iljung Lee and makeup by Nakyeum Lee. The piece covers the early-2000s R&B and Baltimore club elements in 'OMG', 'Ditto' and 'Cookie', the group's Billboard first-week records and upcoming Lollapalooza debut, the members' luxury ambassador deals and the Levi's partnership, the name's play on denim and 'new genes' with the recurring rabbit character, and the Coca-Cola song 'Zero'. Hanni said the group does not divide particular roles, Hyein said the person in the lead changes with the situation, and Haerin called being free and natural the group's biggest strength."
+    },
+    "credits": {
+      "outlet": "W Magazine",
+      "writer": "Alex Hawgood",
+      "photographer": "Yoona Shin",
+      "stylist": "Yumi Choi",
+      "hair": "Iljung Lee",
+      "makeup": "Nakyeum Lee"
+    }
   },
   {
     "id": "web-2023-05-23-time-next-generation-leaders-2023",
@@ -212,7 +269,14 @@
       "feature"
     ],
     "verified": false,
-    "editor_note": "TIMEの個別記事URL未確認（コレクションページには表示されず）。発表日5月23日は二次報道による。"
+    "editor_note": "TIMEの個別記事URL未確認（コレクションページには表示されず）。発表日5月23日は二次報道による。 | time.com collection page returned no readable content; details via kbizoom/Koreaboo coverage. Individual TIME article URL and author still unconfirmed.",
+    "detail": {
+      "ja": "米TIME誌は2023年5月23日に「2023 Next Generation Leaders」を発表し、NewJeansを同年唯一のK-POPアーティストとして選出した。二次報道によれば、TIMEは「OMG」と「Ditto」がBillboard Hot 100に5週間チャートインしたことや、韓国アーティストとして最速でSpotify再生10億回に達したことに触れつつ、先輩グループよりも速く節目に到達した新進のガールズグループと紹介した。付随インタビューでハニはK-POPが世界規模で急成長している幸運な時期にデビューしたと語り、ダニエルはプロセスを楽しみ自分たちが聴きたい音楽を作ることに集中していると述べた。同年のリストには俳優のFlorence Pughらも含まれる。",
+      "en": "TIME announced its '2023 Next Generation Leaders' on May 23, 2023, naming NewJeans as the only K-pop act on that year's list. According to secondary coverage, TIME described the group as a nascent girl group that had reached milestones faster than its seniors, citing 'OMG' and 'Ditto' spending five weeks on the Billboard Hot 100 and the group becoming the fastest Korean act to reach one billion Spotify streams. In the accompanying interview Hanni said NewJeans debuted at a fortunate time as K-pop grew quickly worldwide, and Danielle said the members were focused on enjoying the process and making music they want to hear. Actress Florence Pugh was among the others on the list."
+    },
+    "credits": {
+      "outlet": "TIME"
+    }
   },
   {
     "id": "web-2023-06-26-rolling-stone-future-25",
@@ -244,7 +308,14 @@
       "feature"
     ],
     "verified": false,
-    "editor_note": "rollingstone.comは本文未取得。公開日6月26日(現地)はSoompi(2023-06-27)/THE FIRST TIMESによる。"
+    "editor_note": "rollingstone.comは本文未取得。公開日6月26日(現地)はSoompi(2023-06-27)/THE FIRST TIMESによる。 | rollingstone.com not fetched; interview content about 'Get Up' mentioned in the existing summary could not be verified from Soompi.",
+    "detail": {
+      "ja": "米Rolling Stoneは2023年6月26日（現地時間）、音楽業界の未来を担う25組を選ぶ「Future 25」を公式サイトで発表し、NewJeansを選出した。同誌は2022年のサプライズリリース戦略によってNewJeansが世界で最も急速に台頭したアーティストの一つになったとし、2023年夏には新曲でさらに高みを目指すと記した。選出はハッシュタグ#RollingStoneFuture25とともにX（旧Twitter）でも告知された。Soompiは6月27日に報じている。",
+      "en": "On June 26, 2023 (local time) Rolling Stone published its 'Future 25' list of artists set to lead change in the music industry on its website, including NewJeans. The magazine wrote that the group's surprise-release strategy in 2022 had made it one of the fastest-rising acts in the world and that it was aiming even higher with new music that summer. The selection was also posted on X (formerly Twitter) with the hashtag #RollingStoneFuture25. Soompi reported it on June 27."
+    },
+    "credits": {
+      "outlet": "Rolling Stone"
+    }
   },
   {
     "id": "web-2023-07-21-first-anniversary-self-interview",
@@ -274,7 +345,14 @@
       "ador"
     ],
     "verified": false,
-    "editor_note": "公開媒体（ADOR公式/Weverse等）のURL未確認。中央日報記事(2023-07-21)による。"
+    "editor_note": "公開媒体（ADOR公式/Weverse等）のURL未確認。中央日報記事(2023-07-21)による。 | Original posting platform of the self-interview still unconfirmed; content via Korea JoongAng Daily (2023-07-21 18:08).",
+    "detail": {
+      "ja": "デビュー1周年の前日にあたる2023年7月21日（金）、2nd EP『Get Up』の発売（同日13時）に合わせて、各メンバーが質問に答える書面のセルフインタビューがADORを通じて公開された。中央日報英語版は「What makes NewJeans special」「Wonderful moments」「New adventures」の3つの見出しで抜粋を掲載した。ミンジはグループを最も特別にしているのは挑戦し続けてきたことだと述べ、ハニはメンバー同士の信頼と誠実さ、ミン・ヒジン代表やスタッフとの関係を挙げ、ダニエルはファンを友人であり家族だと表現してワールドツアーへの夢を語った。ヘリンは次が待ちきれない予測不能なグループでありたいと述べ、ヘインは5人の声を捉える努力と、誰にとっても聴きやすい作品を作りたいという思いを語った。",
+      "en": "On Friday, July 21, 2023, the day before the group's first debut anniversary and alongside the 1 pm release of the second EP Get Up, a written self-interview in which each member answered questions was released through ADOR. The Korea JoongAng Daily ran excerpts under three headings: 'What makes NewJeans special', 'Wonderful moments' and 'New adventures'. Minji said the challenges the group has taken on are what make it most special; Hanni credited the members' mutual trust and sincerity and their relationship with CEO Min Hee-jin and staff; Danielle described fans as friends and family and spoke of dreaming of a world tour; Haerin said the group wants to stay unpredictable so people cannot wait to see what is next; and Hyein spoke of the effort to capture the five members' voices and the aim of making future releases enjoyable to everyone."
+    },
+    "credits": {
+      "issuer": "ADOR"
+    }
   },
   {
     "id": "web-2023-07-24-dazed-get-up-interview",
@@ -302,7 +380,15 @@
     "tags": [
       "interview"
     ],
-    "verified": true
+    "verified": true,
+    "detail": {
+      "ja": "英Dazedの音楽セクションが2023年7月24日に公開したTaylor Glasbyによる書面Q&A形式のインタビュー「'We were surprised and flattered': NewJeans on becoming K-pop game-changers」。『Get Up』のリリースとデビュー1周年に合わせたもので、写真はADOR提供の12点のギャラリー。各メンバーは『Get Up』から好きな曲を挙げ（ヘリンは「Super Shy」、ダニエルは「New Jeans」、ハニとヘインは「Cool With You」、ミンジは「ASAP」）、ミンジはデビュー以来経験を積みフィードバックへの視野が広がったと語り、「Super Shy」にワッキングを取り入れた振付、ゲームチェンジャーと呼ばれることへの驚きと感謝（ヘインはプレッシャーではなく感謝だと説明）、ダニエルがPhoningで写真を記録していること、ヘインが革新と心地よい音楽を続けたいという展望を語った。記事は『Get Up』の初日売上120万枚やSpotify10億回再生最速到達にも触れている。",
+      "en": "A written Q&A interview by Taylor Glasby, published in Dazed's music section on July 24, 2023 under the title \"'We were surprised and flattered': NewJeans on becoming K-pop game-changers\", tied to the release of Get Up and the group's first anniversary, with a 12-image gallery credited to ADOR. Each member picked a favorite track from Get Up (Haerin 'Super Shy', Danielle 'New Jeans', Hanni and Hyein 'Cool With You', Minji 'ASAP'); Minji said the group had gained experience and a broader perspective on feedback since debut; the members discussed adding waacking to the 'Super Shy' choreography, their surprise and gratitude at being called game-changers (Hyein described it as gratitude rather than pressure), Danielle's habit of documenting memories with photos and the Phoning app, and Hyein's wish for the group to keep innovating and making feel-good music. The article also cited Get Up's 1.2 million first-day sales and the group's record pace to one billion Spotify streams."
+    },
+    "credits": {
+      "outlet": "Dazed",
+      "writer": "Taylor Glasby"
+    }
   },
   {
     "id": "web-2023-07-26-grammy-get-up-interview",
@@ -330,7 +416,15 @@
     "tags": [
       "interview"
     ],
-    "verified": true
+    "verified": true,
+    "detail": {
+      "ja": "GRAMMY.com（レコーディング・アカデミー）が2023年7月26日に公開したTássia Assisによるインタビュー記事「Record-Breaking Rookie Girl Group NewJeans Are 'Enjoying The Ride' On New Release」。2nd EP『Get Up』発売前夜にソウルからZoomで行われた5人へのQ&Aで、複数ジャンルを混ぜたEP制作と新しいダンススタイルやボーカルへの挑戦、急速な成功への向き合い方（ダニエルは「まだ初心者だと思っている」と語った）、リスボンとバルセロナで撮影したMVやロラパルーザ、サマーソニックへの出演予定、10代の日常に根ざした共感できる音楽と成長について、私生活とステージ上の人格の間に境界はないというハニの考えなどが語られた。ヘリンは「乗りこなすことを楽しむ、それがNewJeans」と述べた。",
+      "en": "An interview feature by Tassia Assis published on GRAMMY.com (the Recording Academy) on July 26, 2023 under the title \"Record-Breaking Rookie Girl Group NewJeans Are 'Enjoying The Ride' On New Release\". Conducted over Zoom from Seoul the night before the release of the second EP Get Up, the Q&A with all five members covered blending genres and trying new dance styles and vocal challenges on the EP, handling rapid success (Danielle said they still see themselves as beginners), music videos filmed in Lisbon and Barcelona and upcoming Lollapalooza and Summer Sonic performances, relatable music drawn from everyday teen experiences and growing up, and Hanni's view that there is no line between their personal and stage selves. Haerin said enjoying the ride is what makes NewJeans."
+    },
+    "credits": {
+      "outlet": "GRAMMY.com",
+      "writer": "Tassia Assis"
+    }
   },
   {
     "id": "web-2023-11-02-nbc-news-interview",
@@ -358,7 +452,15 @@
     "tags": [
       "interview"
     ],
-    "verified": true
+    "verified": true,
+    "detail": {
+      "ja": "NBC Newsが2023年11月2日（米東部時間12時20分）に公開したHanna Parkによるテキスト記事「NewJeans says they're more than solely K-pop stars as they break global barriers」。NewJeansがBillboard Music Awardsの「Top Billboard Global (Excl. U.S.) Artist」部門に女性グループとして初めてノミネートされ、Taylor Swift、The Weeknd、Bad Bunny、Ed Sheeranと並んだことを受けた取材で、同年のK-POPアーティストで最多の4部門にノミネートされた。ハニはノミネートを「絶対的な名誉」と語り、ダニエルは音楽に境界やジャンルはないと述べ、ミュージックコラムニストのJeff Benjaminは音楽優先の姿勢とジャージークラブの影響を受けたサウンドを評価した。練習生時代に同じ家で暮らし、現在も公演前に4〜5時間練習していること、ハニがオーストラリアの家族と毎日電話で話していることも紹介された。記事はロラパルーザ出演、『Get Up』のBillboard 200首位、Spotify10億回再生のギネス記録に触れている。",
+      "en": "A text article by Hanna Park published by NBC News on November 2, 2023 (12:20 pm EDT) under the title 'NewJeans says they're more than solely K-pop stars as they break global barriers'. It followed the group's nomination for Top Billboard Global (Excl. U.S.) Artist at the Billboard Music Awards, the first female group nominated in that category, alongside Taylor Swift, The Weeknd, Bad Bunny and Ed Sheeran, with four nominations in all, the most of any K-pop act that year. Hanni called the nomination an absolute honor, Danielle said there are no boundaries or genres in music, and Billboard columnist Jeff Benjamin credited their music-first approach and Jersey club-influenced sound. The piece noted that the members shared a house as trainees and still practice four to five hours before performances, and that Hanni talks to her family in Australia by phone every day, and cited the Lollapalooza performance, Get Up's No.1 on the Billboard 200 and the Guinness record for fastest K-pop act to one billion Spotify streams."
+    },
+    "credits": {
+      "outlet": "NBC News",
+      "writer": "Hanna Park"
+    }
   },
   {
     "id": "web-2024-01-03-realsound-2023-lookback-interview",
@@ -387,7 +489,15 @@
       "interview",
       "japan"
     ],
-    "verified": true
+    "verified": true,
+    "detail": {
+      "ja": "リアルサウンドが2024年1月3日12時に公開したメールインタビュー「NewJeans、世界的ブレイク果たした2023年を振り返る」（取材：泉夏音）。2023年12月中旬に実施され、MINJI、HANNI、DANIELLE、HAERIN、HYEINの5人が書面で回答した。2023年の総括としてMINJIは「あっという間に過ぎた一年」、HANNIは「NewJeansとBunniesの年」、DANIELLEは「贈り物のような一年」、HYEINは「大きな変化があった年」と語り、初のファンミーティング、海外の音楽フェス、大学祭での公演を思い出として挙げた。ステージ前の各自のルーティンや緊張への対処、ファンの期待に応えたいという気持ちやBunniesとのエネルギーの交換がモチベーションだと述べた。記事は「OMG」「Get Up」のリリース、日本デビュー前の第74回NHK紅白歌合戦への出演、年末の日本のテレビ出演にも触れている。",
+      "en": "An email interview published by Real Sound on January 3, 2024 at 12:00 JST under the title 'NewJeans look back on 2023, the year of their global breakthrough' (reporting by Kanon Izumi). Conducted in mid-December 2023, it had Minji, Hanni, Danielle, Haerin and Hyein answer in writing. Summing up 2023, Minji called it a year that passed in a flash, Hanni the year of NewJeans and Bunnies, Danielle a year like a gift and Hyein a year of major change, and the members named their first fan meeting, overseas festivals and a university festival performance as memories. They described personal pre-stage routines and ways of managing nerves, and said their motivation came from wanting to meet fans' expectations and the energy exchanged with Bunnies. The article also noted the 'OMG' and 'Get Up' releases, the group's appearance on the 74th NHK Kohaku Uta Gassen before its Japanese debut, and its year-end Japanese TV appearances."
+    },
+    "credits": {
+      "outlet": "Real Sound",
+      "interviewer": "Kanon Izumi (泉夏音)"
+    }
   },
   {
     "id": "web-2024-02-28-billboard-women-in-music-2024-cover-story",
@@ -419,7 +529,14 @@
       "cover"
     ],
     "verified": false,
-    "editor_note": "billboard.com記事URL未確認（サイトがアクセス制限）。"
+    "editor_note": "billboard.com記事URL未確認（サイトがアクセス制限）。 | billboard.com article not fetched; writer and photographer unconfirmed. Duplicates the magazine record for the same cover.",
+    "detail": {
+      "ja": "米Billboardは2024年2月28日（米国時間）、2024年Billboard Women in Musicの「Group of the Year」に選ばれたNewJeansのカバーストーリーとインタビューを公式サイトで公開した。撮影は韓屋を背景に行われ、Billboardは総括プロデューサー兼代表のミン・ヒジンを成功を導いた存在と紹介した。インタビューでメンバーは、デビュー前に新しく面白いことを試したかっただけで、それが「イージーリスニング」なサウンドにつながったと語り、初期のファンの支持はK-POPを変えようとしたからではなく歌い演じる曲を選んだ結果だと述べ、歌で人々に感動を与えたいという願いと、「Ditto」を聴けば昨冬を思い出すような長く記憶に残る存在になりたいと語った。二次報道によれば、メロンミュージックアワードとMAMAでの受賞についても語り、ハニは「現実離れしている」と表現した。授賞式は3月6日にロサンゼルスで開かれる予定だった。",
+      "en": "On February 28, 2024 (US time) Billboard published on its website the cover story and interview with NewJeans, named Group of the Year at the 2024 Billboard Women in Music. The shoot used a hanok backdrop, and Billboard credited executive producer and CEO Min Hee-jin as the leader behind the group's success. In the interview the members said they had simply wanted to try new and fun things before debut, which they believe led to their 'easy listening' sound, attributed early fan affection to the songs they chose to sing and perform rather than any plan to change K-pop, said they want to move people with their songs, and hoped to be remembered for a long time, with 'Ditto' bringing back memories of the previous winter. Secondary coverage adds that they discussed their Melon Music Awards and MAMA wins, which Hanni called surreal. The awards ceremony was scheduled for March 6 in Los Angeles."
+    },
+    "credits": {
+      "outlet": "Billboard"
+    }
   },
   {
     "id": "web-2024-07-22-second-anniversary-qa",
@@ -453,7 +570,15 @@
       "ador"
     ],
     "verified": false,
-    "editor_note": "ADOR公式掲載URL未確認。テンアジア(2024-07-22)、marie claire(2024-07-25)、Korea Times(2024-07-23)が同内容を掲載。"
+    "editor_note": "ADOR公式掲載URL未確認。テンアジア(2024-07-22)、marie claire(2024-07-25)、Korea Times(2024-07-23)が同内容を掲載。",
+    "detail": {
+      "ja": "デビュー2周年の2024年7月22日、ADORはメンバー5人の一問一答を報道資料として配布し、テンアジアは同日13時33分に「'데뷔 2주년' 뉴진스 민지 '뉴진스는 뉴진스라서 특별해'」として掲載した。ミンジは2年があっという間だったとし、自分のペースで成長することに集中していると述べ、東京ドームのファンミーティングを最も記憶に残る瞬間に挙げた。ハニは仕事への愛着が深まったこと、日本デビューの準備が楽しかったことを語り、ダニエルは「夢のような2年」と表現して東京ドームが初の海外ファンミーティングで緊張したがファンを見た瞬間に不安が消えたと語った。ヘリンはこの2年の変化として新しい宿舎を挙げ、東京ドームの無数のペンライトと輝く目が印象的だったと述べ、ヘインはデビューステージと東京ドームを忘れられない瞬間とし、負傷でメンバーと過ごせなかった時間があったため健康でいることを目標に挙げた。",
+      "en": "On July 22, 2024, the group's second debut anniversary, ADOR distributed a press release containing a Q&A with all five members, which Tenasia published at 13:33 under the headline \"'2nd debut anniversary' NewJeans' Minji: 'NewJeans is special because it's NewJeans'\". Minji said the two years had passed in an instant, that she was focusing on growing at her own pace, and named the Tokyo Dome fan meeting as her most memorable moment. Hanni said her love for the work had deepened and that preparing the Japan debut was genuinely fun; Danielle called it two years like a dream and said Tokyo Dome, her first overseas fan meeting, had made her nervous until she saw the fans. Haerin named a new dorm as the main change of the two years and recalled the countless light sticks and sparkling eyes at Tokyo Dome, and Hyein named the debut stage and Tokyo Dome as unforgettable and, having missed time with the members because of an injury, set staying healthy as her goal."
+    },
+    "credits": {
+      "issuer": "ADOR",
+      "outlet": "Tenasia (reporter Choi Ji-ye)"
+    }
   },
   {
     "id": "web-2024-07-23-korea-times-2nd-anniversary-interview",
@@ -481,7 +606,14 @@
     "tags": [
       "interview"
     ],
-    "verified": true
+    "verified": true,
+    "detail": {
+      "ja": "The Korea Timesが2024年7月23日8時36分に掲載した記事「NewJeans members reflect on 2 years in K-pop」。ADORが配布したデビュー2周年の書面Q&Aに基づき、ミンジは「NewJeansはNewJeansだから特別」「自分のペースで成長することにした」と語り、ダニエルは東京ドームのファンミーティングを「幸せな夢のよう」と表現し、ヘインは一つのコンセプトに固執せず常に新しい試みをしていると述べ、ヘリンは新しい宿舎に触れた。記事はデビュー以来の5作すべてが100万枚以上を売り上げたこと、Billboard Hot 100と200での首位、2024年6月26〜27日の東京ドームファンミーティングに2日間で約91,200人が来場し海外アーティストとしてデビュー後最短（1年11か月）で東京ドームに立ったこと、日本デビューシングル「Supernatural」の累計100万枚超えを紹介している。",
+      "en": "An article published by The Korea Times on July 23, 2024 at 8:36 am under the title 'NewJeans members reflect on 2 years in K-pop', based on the written second-anniversary Q&A distributed by ADOR. Minji said NewJeans is special because they are NewJeans and that she had decided to grow at her own pace; Danielle called the Tokyo Dome fan meeting like a happy dream; Hyein said the group always tries new concepts and styles instead of sticking to one; and Haerin mentioned the new dorm. The article cited that all five releases since debut had sold over one million copies each, the group's No.1s on the Billboard Hot 100 and Billboard 200, the Tokyo Dome fan meeting of June 26 to 27, 2024 drawing about 91,200 attendees over two days as the fastest Tokyo Dome appearance by a foreign act after debut (one year and eleven months), and the Japanese debut single 'Supernatural' passing one million cumulative sales."
+    },
+    "credits": {
+      "outlet": "The Korea Times"
+    }
   },
   {
     "id": "web-2024-07-25-marie-claire-korea-2nd-anniversary-qa",
@@ -510,7 +642,15 @@
     "tags": [
       "interview"
     ],
-    "verified": true
+    "verified": true,
+    "detail": {
+      "ja": "マリ・クレール コリアが2024年7月25日に掲載した記事「데뷔 2주년, 뉴진스가 밝힌 뒷이야기」。デビュー2周年の7月22日付でADORを通じて行われた書面の一問一答で、5人全員が各質問に回答した。ミンジは2年があっという間だったと語り、ダニエルは初の海外ファンミーティングだった東京ドームでBunniesを見た瞬間に恐れが消えたと述べ、ヘリンは観客席の無数のペンライト「ビンキボン」と輝く目が印象深かったと話した。ヘインは上半期に負傷で参加できなかった活動があったため健康でいることを目標に挙げ、ハニは2年で仕事への思いが深まり日本デビューの準備が楽しかったと語った。記事は5作すべてのミリオンセラーと、2日間で約91,000人を集めた東京ドームファンミーティングに触れている。担当はフリーランス寄稿編集者の박한빛누리。",
+      "en": "An article published by Marie Claire Korea on July 25, 2024 under the title 'Two years since debut: behind-the-scenes stories from NewJeans'. It was a written Q&A dated July 22, the second anniversary, conducted through ADOR, with all five members answering each question. Minji said the two years had passed in a flash; Danielle said her fear vanished the moment she saw the Bunnies at Tokyo Dome, her first overseas fan meeting; Haerin was struck by the countless Binky Bong light sticks and sparkling eyes in the crowd; Hyein, who missed some first-half activities through injury, set staying healthy as her goal; and Hanni said her commitment had deepened and that preparing the Japan debut was genuinely enjoyable. The article noted five million-selling releases and a Tokyo Dome fan meeting drawing about 91,000 over two days. The piece was handled by freelance contributing editor Park Han-bit-nu-ri."
+    },
+    "credits": {
+      "outlet": "Marie Claire Korea",
+      "editor": "Park Han-bit-nu-ri (박한빛누리)"
+    }
   },
   {
     "id": "web-2025-02-07-cnn-njz-interview",
@@ -543,7 +683,15 @@
       "njz"
     ],
     "verified": true,
-    "editor_note": "cnn.co.jpの抄訳記事(2025-02-07 JST)。CNN英語版の記事URLは未確認（取得不可）。"
+    "editor_note": "cnn.co.jpの抄訳記事(2025-02-07 JST)。CNN英語版の記事URLは未確認（取得不可）。",
+    "detail": {
+      "ja": "CNN.co.jpが2025年2月7日12時30分（日本時間）に掲載した、CNNのOscar Hollandによる独占インタビュー記事の日本語版（英語原題「K-pop act NewJeans unveils new identity — and a new name」）。グループは2月7日の公式発表に先立ち電話でCNNの取材に応じ、今後NJZとして活動すること、新名称はファンの提案から選ばれ元の名前の核となるアイデンティティを保っていること、3月に香港で開かれるComplexConでNJZとして初めてステージに立ち新曲も披露する予定であることを明らかにした。ヘインは新曲のサウンドを非常に独特だと表現し、ハニはよりシャープで大胆な方向性と異なるパフォーマンススタイルへの意欲を語り、改名を「厳しい時期をよりエキサイティングなものに変える」手段だと述べた。ダニエルはADORへの信頼を現時点で完全に失っていると語った。記事はADORによる広告契約差し止めの仮処分の審問が3月、本訴の審理が4月に予定されていることに触れている。",
+      "en": "The Japanese-language edition (CNN.co.jp, posted February 7, 2025 at 12:30 JST) of CNN's exclusive interview by Oscar Holland, originally titled 'K-pop act NewJeans unveils new identity, and a new name'. Speaking to CNN by phone before the official announcement of February 7, the group said it would now perform as NJZ, that the name was chosen from fan suggestions and keeps the core identity of the original, and that its first stage under the new name would be at ComplexCon in Hong Kong in March, where new songs would also be presented. Hyein described the new sound as highly distinctive, Hanni spoke of a sharper, bolder direction and different performance styles and called the rename a way to turn a hard period into something more exciting, and Danielle said she had completely lost trust in ADOR at this point. The article noted that a hearing on ADOR's injunction request to block advertising contracts was set for March, with the main trial in April."
+    },
+    "credits": {
+      "outlet": "CNN (Japanese edition CNN.co.jp)",
+      "writer": "Oscar Holland"
+    }
   },
   {
     "id": "web-2025-02-18-vogue-france-njz-feature",
@@ -572,7 +720,14 @@
       "njz"
     ],
     "verified": false,
-    "editor_note": "Sportskeedaの検索要約のみ。vogue.frの記事URLと内容（表紙/ウェブ特集か）は未確認。要検証。 | Reader-facing 'reportedly' wording and 'uncertain' tag moved here; still unverified (Sportskeeda search summary only)."
+    "editor_note": "Sportskeedaの検索要約のみ。vogue.frの記事URLと内容（表紙/ウェブ特集か）は未確認。要検証。 | Reader-facing 'reportedly' wording and 'uncertain' tag moved here; still unverified (Sportskeeda search summary only). | not enriched: Sportskeeda page returns 403 and no vogue.fr URL located; still unverified. | removed from reader text: [detail.ja] vogue.frの記事そのもの（表紙かウェブ特集か、撮影者、内容）は確認できていない。",
+    "detail": {
+      "ja": "二次報道（Sportskeeda、2025年2月）によれば、Vogue Franceは2025年2月18日、グループを改名後の名称NJZで紹介する特集を掲載し、「NJZ (ex-NewJeans)」と表記した。これはADORが2月10日に報道機関に対し、専属契約は依然有効であるとしてNJZではなくNewJeansの名称を使い続けるよう求めた後のことだった。",
+      "en": "According to secondary coverage (Sportskeeda, February 2025), Vogue France ran a feature on February 18, 2025 presenting the group under its new name, labeling them 'NJZ (ex-NewJeans)'. This came after ADOR asked media outlets on February 10 to keep using the NewJeans name rather than NJZ, arguing the exclusive contracts remained valid. The vogue.fr piece itself, including whether it was a cover or a web feature, its photographer and its content, could not be verified."
+    },
+    "credits": {
+      "outlet": "Vogue France"
+    }
   },
   {
     "id": "web-2025-03-26-bbc-korea-interview-ador-dispute",
@@ -602,7 +757,14 @@
       "njz"
     ],
     "verified": false,
-    "editor_note": "BBC記事URL未確認。NME(2025-03-27)の報道による。仮処分決定後の公開のため活動名義の扱いに注意。"
+    "editor_note": "BBC記事URL未確認。NME(2025-03-27)の報道による。仮処分決定後の公開のため活動名義の扱いに注意。 | BBC article URL not located; details via NME 2025-03-27. | removed from reader text: [detail.en] The interviewer, programme and format are not confirmed by NME's report.",
+    "detail": {
+      "ja": "BBCは2025年3月26日、ソウル中央地裁がADORの仮処分を認容した3月21日の決定の前後に分けて行った2回の対話からなるNewJeans（NJZ）のインタビューを公開した。NMEの3月27日の報道によれば、メンバーは独自活動を禁じる決定を「ショック」と表現し、ミンジは「呆然とした」と語り、ダニエルは最初は聞き間違いかと思ったと述べた。メンバーは2024年11月の契約解除の記者会見以来、激しい世間の監視を意識してきたと語り、ハニは若さを理由に軽く扱われるべきではないと主張し、ヘインは長い間感情を抑えてきたと述べた。決定当日に信頼関係の破綻が十分考慮されていないとして異議を申し立てたことにも触れている。インタビュアーと番組名、映像か記事かはNMEの報道からは確認できない。",
+      "en": "On March 26, 2025 the BBC published an interview with NewJeans (NJZ) made up of two conversations, one before and one after the Seoul Central District Court's March 21 decision granting ADOR's injunction. According to NME's report of March 27, the members called the ruling barring independent activities a shock, Minji said she was stunned, and Danielle said she at first thought she had misheard. They said they had been aware of intense public scrutiny since their November 2024 press conference announcing the termination of their contracts, Hanni argued their youth should not lead people to take them less seriously, and Hyein said they had held things in for a long time. The piece also noted that the group filed a legal objection on the day of the ruling, arguing it did not fully account for the breakdown of trust with ADOR."
+    },
+    "credits": {
+      "outlet": "BBC"
+    }
   },
   {
     "id": "web-2026-09-02-harpers-bazaar-korea-hyein-15-questions",
@@ -631,6 +793,14 @@
     "tags": [
       "interview"
     ],
-    "verified": true
+    "verified": true,
+    "detail": {
+      "ja": "Harper's BAZAAR Koreaは2026年9月2日、セレブリティインタビュー欄に記事「뉴진스 혜인이 직접 쓰고 그렸습니다! 요즘의 모든 것 15」を掲載した。約3年ぶりにBAZAARに戻ったヘインが、ボッテガ・ヴェネタとの9月号カバー撮影の合間に15の質問に手書きの文字とイラストで答え、現場で自ら撮ったポラロイドも掲載された。質問は最近一番楽しい時間、最近よく言う言葉、最近始めた趣味、愛着のあるキーリング、撮影に向かう途中で考えたこと、現場に必ず持っていくもの、よく検索する言葉、よく着る服、歌詞の覚え方、一人の時にすること、ファンの知らない習慣、挑戦したい音楽ジャンル、歌・ダンス・表情のうち得意なもの、今最も大切にしていること、ファンへの一言の15問。回答は画像として掲載されている。エディターは제혜윤。",
+      "en": "On September 2, 2026 Harper's Bazaar Korea published in its celebrity interview section the article 'NewJeans Hyein wrote and drew it herself! Everything these days, 15 questions'. Returning to Bazaar after about three years, Hyein answered fifteen questions by hand in writing and drawings during breaks in her September-issue cover shoot with Bottega Veneta, and polaroids she took on set were included. The questions covered what makes her day most pleasant lately, what she says most often, a hobby she recently took up, the keyring she is most attached to, what she thought about on the way to the shoot, the item she always brings to set, what she searches for most on her phone, the clothing item she wears most, her method for memorizing lyrics, what she does when alone, a habit fans do not know, a music genre she wants to try, whether singing, dancing or expressions is her strongest, what she values most right now, and one sentence for fans. The answers appear only as images. The editor was Je Hye-yoon."
+    },
+    "credits": {
+      "outlet": "Harper's Bazaar Korea",
+      "editor": "Je Hye-yoon (제혜윤)"
+    }
   }
 ]

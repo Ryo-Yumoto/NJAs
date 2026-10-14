@@ -231,6 +231,14 @@
   "page_url": "https://www.marketing-interactive.com/newjeans-hanni-gucci-campaign",
   "w": 1400
  },
+ "ad-2024-07-11-mcst-korea-tourism-ambassador": {
+  "fetched": "2026-10-14",
+  "file": "ad-2024-07-11-mcst-korea-tourism-ambassador.jpg",
+  "h": 400,
+  "image_url": "https://www.mcst.go.kr/site/images/main/mcst_logo.gif",
+  "page_url": "https://www.mcst.go.kr/kor/s_notice/press/pressView.jsp?pSeq=21213",
+  "w": 800
+ },
  "ad-2024-09-24-calvin-klein-ambassador": {
   "fetched": "2026-10-13",
   "file": "ad-2024-09-24-calvin-klein-ambassador.jpg",
@@ -637,6 +645,14 @@
   "h": 675,
   "image_url": "https://www.adb.org/sites/default/files/page/30884/images/adb-16by9.png",
   "page_url": "https://www.adb.org/annual-meeting/2023/events/opening-session",
+  "w": 1200
+ },
+ "live-2023-06-11-weverse-con-festival-2023": {
+  "fetched": "2026-10-14",
+  "file": "live-2023-06-11-weverse-con-festival-2023.jpg",
+  "h": 675,
+  "image_url": "https://i0.wp.com/leisurebyte.com/wp-content/uploads/2023/06/weverse-con-festival-day-2.jpg",
+  "page_url": "https://leisurebyte.com/2023-weverse-con-festival-day-2-enhypen/",
   "w": 1200
  },
  "live-2023-07-01-bunnies-camp": {
@@ -1239,9 +1255,9 @@
   "page_url": "https://www.marieclairekorea.com/fashion/2024/10/dior-21",
   "w": 1145
  },
- "magazine-2024-12-01-vogue-korea-2024-12-danielle": {
+ "magazine-2024-12-09-vogue-korea-danielle-omega-pictorial": {
   "fetched": "2026-10-13",
-  "file": "magazine-2024-12-01-vogue-korea-2024-12-danielle.jpg",
+  "file": "magazine-2024-12-09-vogue-korea-danielle-omega-pictorial.jpg",
   "h": 656,
   "image_url": "https://staticg.sportskeeda.com/editor/2024/12/a7404-17337690921296-1920.jpg",
   "page_url": "https://www.sportskeeda.com/us/k-pop/they-said-gonna-get-blacklisted-fans-react-newjeans-danielle-stuns-new-vogue-korea-cover-amidst-ador-contract-dispute",
@@ -2607,14 +2623,6 @@
   "page_url": "https://www.xportsnews.com/article/1312492",
   "w": 550
  },
- "notice-2021-11-01-ador-established": {
-  "fetched": "2026-10-13",
-  "file": "notice-2021-11-01-ador-established.jpg",
-  "h": 825,
-  "image_url": "https://menu.mtn.co.kr/upload/article/2022/07/06/2022070609122754404_00_321.jpg",
-  "page_url": "https://news.mtn.co.kr/news-detail/2022070609122754404",
-  "w": 550
- },
  "notice-2021-11-12-hybe-announces-new-label-ador": {
   "fetched": "2026-10-13",
   "file": "notice-2021-11-12-hybe-announces-new-label-ador.jpg",
@@ -3366,6 +3374,14 @@
   "image_url": "https://img.marieclairekorea.com/2024/05/mck_6641b0d456a5b.gif",
   "page_url": "https://www.marieclairekorea.com/celebrity/2024/05/fujiwara-hiroshi-newjeans/",
   "w": 800
+ },
+ "tweet-2024-05-20-how-sweet-release-schedule-phoning": {
+  "fetched": "2026-10-14",
+  "file": "tweet-2024-05-20-how-sweet-release-schedule-phoning.jpg",
+  "h": 360,
+  "image_url": "https://wimg.munhwa.com/news/legacy/gen_news/202405/2024052101039912069006_b.jpg",
+  "page_url": "https://www.munhwa.com/article/11430682",
+  "w": 540
  },
  "tweet-2024-09-24-calvin-klein-global-ambassador": {
   "fetched": "2026-10-13",
