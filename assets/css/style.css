@@ -103,8 +103,8 @@ button { font-family: inherit; }
 .links a:hover { color: var(--denim); border-color: var(--denim); }
 .tags { margin-top: 8px; display: flex; flex-wrap: wrap; gap: 8px; color: var(--ink-3); text-transform: none; letter-spacing: .02em; }
 .tags span::before { content: "#"; opacity: .6; }
-.thumb { margin: 0; position: relative; overflow: hidden; border-radius: 4px; background: var(--paper-2); outline: 1px solid var(--rule); cursor: zoom-in; }
-.thumb img { width: 100%; height: auto; display: block; transition: opacity .3s; }
+.thumb { margin: 0; position: relative; overflow: hidden; border-radius: 4px; background: var(--paper-2); outline: 1px solid var(--rule); cursor: zoom-in; display: flex; justify-content: center; }
+.thumb img { max-width: 100%; width: auto; height: auto; max-height: 520px; display: block; transition: opacity .3s; }
 .thumb:hover img { opacity: .92; }
 .thumb.is-video { cursor: pointer; }
 .thumb-link { position: absolute; inset: 0; }
@@ -261,6 +261,8 @@ button { font-family: inherit; }
   .toc-era { padding: 16px 16px 12px; }
   .entry-main { grid-template-columns: 1fr; }
   .thumb { order: -1; margin-bottom: 12px; }
+  .thumb img { max-height: 55vh; }
+  .era-img { max-height: 60vh; object-fit: contain; background: #000; }
   .t-ja { font-size: 19px; }
   .era-body { padding: 24px 18px 22px; }
   .era-page { min-height: calc(100vh - 160px); border-radius: 6px; }
