@@ -4720,7 +4720,7 @@
     },
     "summary": {
       "ja": "WOWOWのメンバー個別インタビュー番組 #1 MINJI、#2 HANNI、#3 DANIELLEを放送。",
-      "en": "WOWOW aired individual interview episodes for Minji, Hanni and Danielle."
+      "en": "WOWOW aired the individual interview episodes for Minji, Hanni and Danielle."
     },
     "source_url": "https://www.oricon.co.jp/news/2338316/full/",
     "reference_urls": [],
@@ -4734,14 +4734,15 @@
     ],
     "verified": true,
     "detail": {
-      "ja": "2024年9月22日19時から、WOWOWのNewJeans特集の第2弾としてメンバー別インタビュー番組『Ask Jeans! NewJeans interview』の#1 MINJI（19時）、#2 HANNI（19時20分）、#3 DANIELLE（19時40分）が連続で放送・配信された。放送後2週間のアーカイブ配信も行われた。残る#4 HAERINと#5 HYEINは10月13日の放送が予告された。",
-      "en": "On September 22, 2024 from 7:00 pm, WOWOW aired the first three episodes of Ask Jeans! NewJeans interview, the member-by-member interview series in its NewJeans feature: #1 Minji at 7:00, #2 Hanni at 7:20 and #3 Danielle at 7:40 pm, with a two-week catch-up window on WOWOW On Demand. Episodes #4 Haerin and #5 Hyein were scheduled for October 13."
+      "ja": "2024年9月22日19時から、WOWOWのNewJeans特集の第2弾として、メンバー別インタビュー番組『Ask Jeans! NewJeans interview』の#1 MINJI(19時)、#2 HANNI(19時20分)、#3 DANIELLE(19時40分)が連続で放送・配信された。放送後2週間はWOWOWオンデマンドでアーカイブ配信された。#4 HAERINと#5 HYEINは10月13日放送。",
+      "en": "On September 22, 2024, from 7:00 pm, WOWOW aired the first three episodes of Ask Jeans! NewJeans interview, the member-by-member interview series in its NewJeans feature: #1 Minji at 7:00, #2 Hanni at 7:20 and #3 Danielle at 7:40 pm, with a two-week catch-up window on WOWOW On Demand. Episodes #4 Haerin and #5 Hyein were scheduled for October 13."
     },
     "credits": {
       "broadcaster": "WOWOW",
       "program": "Ask Jeans! NewJeans interview",
       "streaming": "WOWOW On Demand"
-    }
+    },
+    "editor_note": "Air dates/times and the two-week catch-up window per Oricon (news 2338316, Sept 2024)."
   },
   {
     "id": "tv-2024-10-13-wowow-ask-jeans-interview-4-5",
@@ -4759,7 +4760,7 @@
       "en": "WOWOW: Ask Jeans! NewJeans interview #4–#5"
     },
     "summary": {
-      "ja": "WOWOWがヘリンとヘインのインタビュー回（#4、#5）を放送。",
+      "ja": "WOWOWがヘリンとヘインのインタビュー回(#4、#5)を放送。",
       "en": "WOWOW aired the Haerin and Hyein interview episodes (#4 and #5) of Ask Jeans!."
     },
     "source_url": "https://www.oricon.co.jp/news/2338316/full/",
@@ -4773,10 +4774,10 @@
       "interview"
     ],
     "verified": true,
-    "editor_note": "Exact October air date not legible in the source. | Removed 'in October 2024' retrospective framing; exact air date still unknown. | Air date resolved: Oricon (Sept 2024) gives Oct 13, 2024, 20:00 (#4) and 20:20 (#5). Record date 2024-10-01 is a placeholder and should be 2024-10-13. | date moved from 2024-10-01 to 2024-10-13 per enrichment sources (id tv-2024-10-01-wowow-ask-jeans-interview-4-5 -> tv-2024-10-13-wowow-ask-jeans-interview-4-5)",
+    "editor_note": "Exact October air date not legible in the source. | Removed 'in October 2024' retrospective framing; exact air date still unknown. | Air date resolved: Oricon (Sept 2024) gives Oct 13, 2024, 20:00 (#4) and 20:20 (#5). Record date 2024-10-01 is a placeholder and should be 2024-10-13. | date moved from 2024-10-01 to 2024-10-13 per enrichment sources (id tv-2024-10-01-wowow-ask-jeans-interview-4-5 -> tv-2024-10-13-wowow-ask-jeans-interview-4-5) / Air date resolved via Oricon (Sept 2024): Oct 13, 2024, 20:00 (#4) and 20:20 (#5); the record id/date was moved from the 2024-10-01 placeholder accordingly.",
     "detail": {
-      "ja": "WOWOWのメンバー別インタビュー番組『Ask Jeans! NewJeans interview』の#4 HAERINと#5 HYEINは、2024年10月13日の20時と20時20分に放送・配信された。9月22日に放送された#1から#3に続く回で、放送後2週間のアーカイブ配信も行われた。",
-      "en": "Episodes #4 Haerin and #5 Hyein of WOWOW's member interview series Ask Jeans! NewJeans interview aired on October 13, 2024 at 8:00 and 8:20 pm, following episodes #1 to #3 broadcast on September 22, with a two-week catch-up window on WOWOW On Demand."
+      "ja": "WOWOWのメンバー別インタビュー番組『Ask Jeans! NewJeans interview』の#4 HAERINと#5 HYEINが、2024年10月13日20時と20時20分に放送・配信された。9月22日放送の#1〜#3に続く回で、放送後2週間はWOWOWオンデマンドでアーカイブ配信された。",
+      "en": "Episodes #4 Haerin and #5 Hyein of WOWOW's member interview series Ask Jeans! NewJeans interview aired on October 13, 2024, at 8:00 and 8:20 pm, following episodes #1 to #3 broadcast on September 22, with a two-week catch-up window on WOWOW On Demand."
     },
     "credits": {
       "broadcaster": "WOWOW",

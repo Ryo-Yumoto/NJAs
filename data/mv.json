@@ -582,14 +582,15 @@
       "live-stream"
     ],
     "verified": false,
-    "editor_note": "Wikipedia (Korea Herald): countdown live held Aug 1, 2022. invidious publish date 2022-08-02 UTC (VOD). Time not confirmed. | 17:00 start and Cookie premiere per namu.wiki New Jeans(음반). YouTube page read via reader; upload date on YouTube: Aug 2, 2022 (PT).",
+    "editor_note": "Wikipedia (Korea Herald): countdown live held Aug 1, 2022. invidious publish date 2022-08-02 UTC (VOD). Time not confirmed. | 17:00 start and Cookie premiere per namu.wiki New Jeans(음반). YouTube page read via reader; upload date on YouTube: Aug 2, 2022 (PT). / Copyright line (ADOR) moved from detail to credits. Countdown live date per Wikipedia (Korea Herald); 17:00 start and Cookie premiere per namu.wiki; YouTube page read via reader, upload date Aug 2, 2022 (PT) is the VOD publish date; start time not independently confirmed.",
     "detail": {
-      "ja": "1st EP「New Jeans」の配信開始（8月1日18時KST）に先立ち、同日17時からNewJeans公式YouTubeチャンネルで配信されたカウントダウンライブのアーカイブ。配信中に「Cookie」のミュージックビデオが初公開された。権利表記はADOR。",
-      "en": "Archive of the countdown live streamed on the NewJeans YouTube channel from 17:00 KST on 1 August 2022, ahead of the 1st EP 'New Jeans' going live at 18:00. The 'Cookie' music video was premiered during the stream. Copyright ADOR."
+      "ja": "1st EP『New Jeans』の配信開始(8月1日18時KST)に先立ち、同日17時からNewJeans公式YouTubeチャンネルで配信されたカウントダウンライブのアーカイブ。配信中に「Cookie」のミュージックビデオが初公開された。",
+      "en": "Archive of the countdown live streamed on the NewJeans official YouTube channel from 17:00 KST on August 1, 2022, ahead of the 1st EP 'New Jeans' going live at 18:00. The 'Cookie' music video premiered during the stream."
     },
     "credits": {
       "channel": "NewJeans",
-      "label": "ADOR"
+      "label": "ADOR",
+      "copyright": "ADOR"
     }
   },
   {
@@ -1875,8 +1876,8 @@
       "en": "'OMG' COUNTDOWN LIVE"
     },
     "summary": {
-      "ja": "『OMG』発売（18:00）に先立ち17:00からYouTube/Weverseで行われたカウントダウン生配信。",
-      "en": "Countdown livestream on YouTube/Weverse at 5PM KST ahead of the 6PM 'OMG' release."
+      "ja": "『OMG』発売(18時)に先立ち17時からYouTube/Weverseで行われたカウントダウン生配信。",
+      "en": "Countdown livestream on YouTube and Weverse at 5PM KST ahead of the 6PM 'OMG' release."
     },
     "source_url": "https://www.youtube.com/watch?v=aJqS7BY5XE4",
     "reference_urls": [
@@ -1891,14 +1892,15 @@
       "live-stream"
     ],
     "verified": true,
-    "editor_note": "Time from the OMG promotion calendar (JAN. 2ND 5PM KST Countdown Live). | YouTube page read via reader; upload date on YouTube: Jan 2, 2023 (PT).",
+    "editor_note": "Time from the OMG promotion calendar (JAN. 2ND 5PM KST Countdown Live). | YouTube page read via reader; upload date on YouTube: Jan 2, 2023 (PT). / Copyright line (ADOR) moved from detail to credits. Time from the OMG promotion calendar (JAN. 2ND 5PM KST Countdown Live); YouTube page read via reader, upload date Jan 2, 2023 (PT).",
     "detail": {
-      "ja": "シングル1集「OMG」の配信開始（1月2日18時KST）の1時間前となる17時から、YouTubeとWeverseで配信されたカウントダウンライブのアーカイブ。NewJeans公式YouTubeチャンネルに掲載されている。権利表記はADOR。",
-      "en": "Archive of the countdown live streamed on YouTube and Weverse from 17:00 KST on 2 January 2023, one hour before the 1st single album 'OMG' went live at 18:00. Hosted on the NewJeans YouTube channel. Copyright ADOR."
+      "ja": "シングル1集『OMG』の配信開始(1月2日18時KST)の1時間前となる17時から、YouTubeとWeverseで配信されたカウントダウンライブのアーカイブ。NewJeans公式YouTubeチャンネルに掲載されている。",
+      "en": "Archive of the countdown live streamed on YouTube and Weverse from 17:00 KST on January 2, 2023, one hour before the 1st single album 'OMG' went live at 18:00. Hosted on the NewJeans official YouTube channel."
     },
     "credits": {
       "channel": "NewJeans",
-      "label": "ADOR"
+      "label": "ADOR",
+      "copyright": "ADOR"
     }
   },
   {
