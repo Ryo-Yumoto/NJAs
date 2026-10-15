@@ -30,4 +30,9 @@
 
 ## 補足：SNS投稿の埋め込み
 
-X投稿（media.type=x）は、`scripts/fetch_x.py`で事前取得した投稿データ（media/x/posts.json、画像はmedia/x/）から本サイト自身がカードとして描画する。外部スクリプトに依存しないため、本番・Artifact版の両方で同じ表示になる。削除済みの投稿はカードを出さず、元の投稿へのリンクを「削除済み」として残す。Instagram投稿（platform=instagram、source_urlが投稿URL）のみ、本番では公式の埋め込み（instagram.com/embed.js）を使い、Artifact版ではサムネイルとリンクの表示になる（build_artifact.pyがwindow.NJAS_NO_EMBEDを設定）。
+X投稿（media.type=x）は2段構えで表示する。
+
+- 本番（Cloudflare Pages）: Xの公式埋め込み（platform.twitter.com/widgets.js）を使う。スクリプトが描画するまでの間、および読み込みに失敗した場合は、`scripts/fetch_x.py`で事前取得した投稿データ（media/x/posts.json、画像はmedia/x/）から本サイト自身が描画するカードを表示する。
+- Artifact版（claude.ai上の確認用ページ）: ホスト側のコンテンツセキュリティポリシーにより、外部サイトのスクリプトとiframe（X、Instagram、YouTubeを含む）が一律に遮断される。そのため常に自前カードを表示する（build_artifact.pyがwindow.NJAS_NO_EMBEDを設定）。公式の埋め込みを使うには本番ホスティングが必要になる。
+
+削除済みの投稿はカードを出さず、元の投稿へのリンクを「削除済み」として残す。Instagram投稿（platform=instagram、source_urlが投稿URL）は、本番では公式の埋め込み（instagram.com/embed.js）、Artifact版ではサムネイルとリンクの表示になる。

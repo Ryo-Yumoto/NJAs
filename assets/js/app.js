@@ -199,18 +199,19 @@
     }
     wrap.appendChild(head);
     const list = el("div", { class: "day-list" });
-    for (const it of p.items) list.appendChild(renderItem(it));
+    p.items.forEach((it, k) => list.appendChild(renderItem(it, k + 1, p.items.length)));
     wrap.appendChild(list);
     return wrap;
   }
 
   /* ---------- entry ---------- */
-  function renderItem(it) {
+  function renderItem(it, pos, total) {
     const node = $("#tpl-item").content.firstElementChild.cloneNode(true);
     const cat = CATS[it.category] || { ja: it.category, en: it.category, color: "var(--rule)", ratio: "16 / 10" };
     node.style.setProperty("--cat", cat.color); node.id = it.id;
     const kind = (it.tags || []).find(t => KIND_TAGS.includes(t));
     $(".cat-label", node).textContent = `${cat.en} · ${cat.ja}${kind ? " · " + kind.replace("-", " ") : ""} · ${DATE_TYPES[it.date_type] || it.date_type}`;
+    if (total > 1) $(".meta", node).prepend(el("span", { class: "pill count mono", "aria-label": `${pos} of ${total} on this day` }, `${pos} / ${total}`));
     if (it.time) { const t = $(".time", node); t.hidden = false; t.textContent = `${it.time} KST`; }
     if (it.platform) { const pl = el("span", { class: "pill platform" }, ({ x: "X", instagram: "Instagram", weverse: "Weverse", phoning: "Phoning", tiktok: "TikTok", youtube: "YouTube", other: "SNS" })[it.platform] || it.platform); $(".meta", node).appendChild(pl); }
     if (it.entity === "njz") { const e = $(".entity", node); e.hidden = false; e.textContent = "NJZ"; }
@@ -234,7 +235,14 @@
     }
     const img = imageOf(it), isYt = it.media && it.media.type === "youtube" && it.media.ref;
     const xpost = it.media && it.media.type === "x" ? xPostOf(it.media.ref) : null;
-    if (xpost) { const box = $(".media", node); box.hidden = false; box.classList.add("xcard-box"); box.appendChild(xCard(it, xpost)); }
+    if (xpost && !window.NJAS_NO_EMBED) {
+      // production: official X embed; the native card stands in until widgets.js renders, and stays if the script is blocked
+      const box = $(".media", node); box.hidden = false; box.classList.add("xcard-box");
+      const card = xCard(it, xpost); box.appendChild(card);
+      const bq = el("blockquote", { class: "twitter-tweet", "data-dnt": "true", "data-theme": (document.documentElement.dataset.theme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light")) });
+      bq.appendChild(el("a", { href: xpost.url.replace("x.com", "twitter.com") }, xpost.url)); bq.hidden = true; box.appendChild(bq);
+      loadScript("https://platform.twitter.com/widgets.js", () => { bq.hidden = false; window.twttr?.widgets?.load(box); const t = setInterval(() => { if (box.querySelector("iframe")) { card.remove(); clearInterval(t); } }, 300); setTimeout(() => clearInterval(t), 15000); });
+    } else if (xpost) { const box = $(".media", node); box.hidden = false; box.classList.add("xcard-box"); box.appendChild(xCard(it, xpost)); }
     else if (img) {
       const fig = $(".thumb", node); fig.hidden = false;
       if (img.sprite) fig.appendChild(spriteCanvas(img.sprite, "thumb-cv")); else fig.appendChild(el("img", { src: img.src, alt: "", loading: "lazy", decoding: "async" }));
