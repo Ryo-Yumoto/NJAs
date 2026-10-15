@@ -6159,6 +6159,14 @@
   "page_url": "https://www.soompi.com/article/1564515wpp/newjeans-becomes-fastest-k-pop-group-to-achieve-million-selling-album-with-omg",
   "w": 900
  },
+ "record-2022-10-08-tma-2022-next-leader": {
+  "fetched": "2026-10-15",
+  "file": "record-2022-10-08-tma-2022-next-leader.jpg",
+  "h": 404,
+  "image_url": "http://img.tf.co.kr/article/home/2022/10/08/20225895166522605700.jpg",
+  "page_url": "https://news.tf.co.kr/read/ogmeta/1970328.htm",
+  "w": 640
+ },
  "record-2022-10-28-k-billboard-awards-2022-hot-rookie": {
   "fetched": "2026-10-15",
   "file": "record-2022-10-28-k-billboard-awards-2022-hot-rookie.jpg",
@@ -6543,14 +6551,6 @@
   "page_url": "https://www.soompi.com/article/1576843wpp/newjeans-becomes-1st-artist-in-history-to-sweep-top-3-spots-for-3-months-on-melons-monthly-chart",
   "w": 900
  },
- "record-2023-04-15-hype-boy-global-200-42-weeks": {
-  "fetched": "2026-10-15",
-  "file": "record-2023-04-15-hype-boy-global-200-42-weeks.jpg",
-  "h": 512,
-  "image_url": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/icons/icon-512x512.png",
-  "page_url": "https://www.billboard.com/charts/billboard-global-200/2023-04-15/",
-  "w": 512
- },
  "record-2023-04-30-hype-boy-mv-100m-views": {
   "fetched": "2026-10-15",
   "file": "record-2023-04-30-hype-boy-mv-100m-views.jpg",
@@ -6879,6 +6879,14 @@
   "page_url": "https://www.billboard.com/charts/billboard-200/2023-11-04/",
   "w": 512
  },
+ "record-2023-11-19-bbma-2023-top-global-kpop-artist": {
+  "fetched": "2026-10-15",
+  "file": "record-2023-11-19-bbma-2023-top-global-kpop-artist.jpg",
+  "h": 576,
+  "image_url": "https://www.billboard.com/wp-content/uploads/2023/11/BBMAs_newjeans_acceptanccespeeches_thumb_NEW.jpg?w=1024",
+  "page_url": "https://www.billboard.com/video/newjeans-bbmas-acceptance-speech/",
+  "w": 1024
+ },
  "record-2023-11-21-billboard-2023-year-end-charts": {
   "fetched": "2026-10-15",
   "file": "record-2023-11-21-billboard-2023-year-end-charts.jpg",
@@ -6927,6 +6935,22 @@
   "page_url": "https://www.abs-cbn.com/entertainment/12/03/23/bts-blackpink-newjeans-dominate-k-pop-streaming-in-2023-spotify",
   "w": 1200
  },
+ "record-2023-12-01-nme-50-best-songs-2023-super-shy": {
+  "fetched": "2026-10-15",
+  "file": "record-2023-12-01-nme-50-best-songs-2023-super-shy.jpg",
+  "h": 933,
+  "image_url": "https://www.nme.com/wp-content/uploads/2023/11/BEST-SONGS-NEW-2023-HERO@2560X1707-2136x1424.jpg",
+  "page_url": "https://www.nme.com/features/music-features/best-songs-of-2023-3551141",
+  "w": 1400
+ },
+ "record-2023-12-01-rolling-stone-100-best-songs-2023-super-shy": {
+  "fetched": "2026-10-15",
+  "file": "record-2023-12-01-rolling-stone-100-best-songs-2023-super-shy.jpg",
+  "h": 788,
+  "image_url": "https://www.rollingstone.com/wp-content/uploads/2023/11/Best-songs-2023-illo.jpg?crop=0px%2C30px%2C1800px%2C1014px&resize=1600%2C900",
+  "page_url": "https://www.rollingstone.com/music/music-lists/best-songs-of-2023-1234879541/newjeans-super-shy-1234894442/",
+  "w": 1400
+ },
  "record-2023-12-02-mma-2023-artist-of-the-year": {
   "fetched": "2026-10-15",
   "file": "record-2023-12-02-mma-2023-artist-of-the-year.jpg",
@@ -6965,14 +6989,6 @@
   "h": 600,
   "image_url": "https://0.soompi.io/wp-content/uploads/2023/12/02130715/NCT-DREAM-NewJeans-IVE.jpg",
   "page_url": "https://soompi.com/article/1629649wpp/winners-of-the-melon-music-awards-2023",
-  "w": 900
- },
- "record-2023-12-04-rolling-stone-100-best-songs-2023-super-shy": {
-  "fetched": "2026-10-15",
-  "file": "record-2023-12-04-rolling-stone-100-best-songs-2023-super-shy.jpg",
-  "h": 600,
-  "image_url": "https://0.soompi.io/wp-content/uploads/2023/12/01171358/NewJeans-TWICE-SEVENTEEN-V-Jisoo.jpg",
-  "page_url": "https://soompi.com/article/1629595wpp/newjeans-seventeen-twice-v-jisoo-fifty-fifty-aespa-and-jungkook-make-rolling-stones-the-100-best-songs-of-2023-list",
   "w": 900
  },
  "record-2023-12-07-billboard-100-best-songs-2023-super-shy": {
@@ -7062,6 +7078,14 @@
   "image_url": "https://images.khan.co.kr/article/2023/12/29/news-p.v1.20231229.4fdae2862aa6447e9c2b3ec51782ab20_P1.jpg",
   "page_url": "https://sports.khan.co.kr/article/202312290848003",
   "w": 700
+ },
+ "record-2023-12-29-omg-mv-200m-views": {
+  "fetched": "2026-10-15",
+  "file": "record-2023-12-29-omg-mv-200m-views.jpg",
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/12/29015830/newjeans-omg-3.jpg",
+  "page_url": "https://www.soompi.com/article/1634043wpp/newjeans-omg-becomes-their-1st-mv-to-hit-200-million-views",
+  "w": 900
  },
  "record-2023-12-30-japan-record-awards-65-excellent-work-ditto": {
   "fetched": "2026-10-15",
@@ -7167,6 +7191,14 @@
   "page_url": "https://www.koreajoongangdaily.com/lifestyle/newjeans-silica-gel-beenzino-win-big-at-korean-music-awards-2024/12357023",
   "w": 1200
  },
+ "record-2024-03-06-billboard-women-in-music-2024-group-of-the-year": {
+  "fetched": "2026-10-15",
+  "file": "record-2024-03-06-billboard-women-in-music-2024-group-of-the-year.jpg",
+  "h": 682,
+  "image_url": "https://www.billboard.com/wp-content/uploads/2024/03/BillboardWIM2024_NA_Coke_NewJeans-64.jpg?w=1024",
+  "page_url": "https://www.billboard.com/music/music-news/newjeans-receives-group-of-the-year-award-presented-by-coke-studio-1235628608/",
+  "w": 1024
+ },
  "record-2024-03-12-japan-gold-disc-award-38-best-3-new-artists-asia": {
   "fetched": "2026-10-15",
   "file": "record-2024-03-12-japan-gold-disc-award-38-best-3-new-artists-asia.jpg",
@@ -7191,9 +7223,9 @@
   "page_url": "https://kost1035.iheart.com/content/2024-03-31-2024-iheartradio-music-awards-see-the-full-list-of-winners",
   "w": 1200
  },
- "record-2024-04-29-forbes-korea-power-celebrity-40-2024": {
+ "record-2024-04-24-forbes-korea-power-celebrity-40-2024": {
   "fetched": "2026-10-15",
-  "file": "record-2024-04-29-forbes-korea-power-celebrity-40-2024.jpg",
+  "file": "record-2024-04-24-forbes-korea-power-celebrity-40-2024.jpg",
   "h": 787,
   "image_url": "https://staticg.sportskeeda.com/editor/2024/04/5f35c-17143933145820-1920.jpg",
   "page_url": "https://www.sportskeeda.com/us/k-pop/news-blackpink-bts-jimin-jungkook-newjeans-emerge-powerful-korean-artists-2024",
@@ -7271,20 +7303,20 @@
   "page_url": "https://www.soompi.com/article/1676541wpp/newjeans-super-shy-becomes-their-2nd-mv-to-hit-200-million-views",
   "w": 1200
  },
+ "record-2024-08-08-circle-cert-supernatural-triple-platinum-super-shy-streaming-platinum": {
+  "fetched": "2026-10-15",
+  "file": "record-2024-08-08-circle-cert-supernatural-triple-platinum-super-shy-streaming-platinum.jpg",
+  "h": 800,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2024/08/11143557/SEVENTEEN-RIIZE-NewJeans-TWS.jpg",
+  "page_url": "https://soompi.com/article/1680557wpp/seventeen-riize-newjeans-tws-twices-nayeon-and-wayv-earn-circle-quadruple-million-and-platinum-certifications",
+  "w": 1200
+ },
  "record-2024-08-08-variety-young-hollywood-impact-report-2024": {
   "fetched": "2026-10-15",
   "file": "record-2024-08-08-variety-young-hollywood-impact-report-2024.jpg",
   "h": 630,
   "image_url": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202408/08/koreajoongangdaily/20240808182741751qezk.jpg",
   "page_url": "https://v.daum.net/v/20240808182740517",
-  "w": 1200
- },
- "record-2024-08-11-circle-cert-supernatural-triple-platinum-super-shy-streaming-platinum": {
-  "fetched": "2026-10-15",
-  "file": "record-2024-08-11-circle-cert-supernatural-triple-platinum-super-shy-streaming-platinum.jpg",
-  "h": 800,
-  "image_url": "https://0.soompi.io/wp-content/uploads/2024/08/11143557/SEVENTEEN-RIIZE-NewJeans-TWS.jpg",
-  "page_url": "https://soompi.com/article/1680557wpp/seventeen-riize-newjeans-tws-twices-nayeon-and-wayv-earn-circle-quadruple-million-and-platinum-certifications",
   "w": 1200
  },
  "record-2024-08-13-cookie-mv-100m-views": {
@@ -7431,13 +7463,13 @@
   "page_url": "https://www.soompi.com/article/1712809wpp/winners-of-the-2024-asia-artist-awards",
   "w": 1200
  },
- "record-2025-01-01-omg-mv-300m-views": {
+ "record-2024-12-30-japan-record-awards-66-excellent-work-supernatural": {
   "fetched": "2026-10-15",
-  "file": "record-2025-01-01-omg-mv-300m-views.jpg",
-  "h": 630,
-  "image_url": "https://media.assettype.com/outlook-respawn/2026-01-16/vallnzf5/newjeans-omg-900m-streams-danielle-ador-lawsuit.jpg",
-  "page_url": "https://respawn.outlookindia.com/pop-culture/pop-culture-news/newjeans-omg-hits-900m-streams-amid-ador-danielle-legal-rift",
-  "w": 1200
+  "file": "record-2024-12-30-japan-record-awards-66-excellent-work-supernatural.jpg",
+  "h": 640,
+  "image_url": "https://www.jacompa.or.jp/record/images/66-00.jpg",
+  "page_url": "https://jacompa.or.jp/record/66.php",
+  "w": 960
  },
  "record-2025-01-04-gda-39-cosmopolitan-artist-award": {
   "fetched": "2026-10-15",
@@ -7455,6 +7487,14 @@
   "page_url": "https://soompi.com/article/1713809wpp/winners-of-2025-golden-disc-awards-day-1",
   "w": 900
  },
+ "record-2025-01-07-omg-mv-300m-views": {
+  "fetched": "2026-10-15",
+  "file": "record-2025-01-07-omg-mv-300m-views.jpg",
+  "h": 800,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2025/01/07003434/NewJeans-OMG-Concept-Teaser.jpeg",
+  "page_url": "https://www.soompi.com/article/1714617wpp/newjeans-omg-performance-ver-1-becomes-their-1st-mv-to-surpass-300-million-views",
+  "w": 1200
+ },
  "record-2025-02-02-riaj-supernatural-streaming-gold": {
   "fetched": "2026-10-15",
   "file": "record-2025-02-02-riaj-supernatural-streaming-gold.jpg",
@@ -7463,9 +7503,17 @@
   "page_url": "https://www.soompi.com/article/1719747wpp/twice-aespa-newjeans-seventeen-and-bigbang-earn-riaj-platinum-and-gold-certifications-for-streaming-in-japan",
   "w": 1200
  },
- "record-2025-05-16-billboard-21-under-21-2025": {
+ "record-2025-02-15-hanteo-music-awards-32-artist-of-the-year-bonsang": {
   "fetched": "2026-10-15",
-  "file": "record-2025-05-16-billboard-21-under-21-2025.jpg",
+  "file": "record-2025-02-15-hanteo-music-awards-32-artist-of-the-year-bonsang.jpg",
+  "h": 684,
+  "image_url": "https://resource.hanteonews.com/content/post/2025/02/17/cad584af-90e9-4487-93e7-9a1516e9e9a3.jpg",
+  "page_url": "https://www.hanteonews.com/en/article/75922",
+  "w": 1400
+ },
+ "record-2025-05-13-billboard-21-under-21-2025": {
+  "fetched": "2026-10-15",
+  "file": "record-2025-05-13-billboard-21-under-21-2025.jpg",
   "h": 683,
   "image_url": "https://image.koreajoongangdaily.com/11664769.jpg?imageId=11664769&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
   "page_url": "https://www.koreajoongangdaily.com/entertainment/newjeans-katseye-named-to-billboards-21-under-21-list-in-2025/11664441",
@@ -7527,9 +7575,9 @@
   "page_url": "https://en.edaily.co.kr/news/eda202607125092/",
   "w": 788
  },
- "record-2026-08-18-circle-cert-hype-boy-triple-platinum-cookie-platinum": {
+ "record-2026-08-06-circle-cert-hype-boy-triple-platinum-cookie-platinum": {
   "fetched": "2026-10-15",
-  "file": "record-2026-08-18-circle-cert-hype-boy-triple-platinum-cookie-platinum.jpg",
+  "file": "record-2026-08-06-circle-cert-hype-boy-triple-platinum-cookie-platinum.jpg",
   "h": 800,
   "image_url": "https://0.soompi.io/wp-content/uploads/2026/08/18153511/RIIZE-BOYNEXTDOOR-Stray-Kids-TREASURE.jpg",
   "page_url": "https://www.soompi.com/article/1863773wpp/riize-boynextdoor-stray-kids-treasure-ateez-newjeans-cortis-hearts2hearts-and-more-earn-circle-million-and-platinum-certifications",
@@ -7543,9 +7591,9 @@
   "page_url": "https://en.edaily.co.kr/news/eda202608225066",
   "w": 788
  },
- "record-2026-09-06-super-shy-spotify-900m": {
+ "record-2026-09-04-super-shy-spotify-900m": {
   "fetched": "2026-10-15",
-  "file": "record-2026-09-06-super-shy-spotify-900m.jpg",
+  "file": "record-2026-09-04-super-shy-spotify-900m.jpg",
   "h": 1400,
   "image_url": "https://eda.edailystatic.com/data/eda/image/2026/09/06/eda20260906100474.jpg",
   "page_url": "https://en.edaily.co.kr/news/eda202609065223",
