@@ -270,6 +270,41 @@
     "verified": true
   },
   {
+    "id": "content-2022-08-14-phoning-inkigayo-face-call",
+    "date": "2022-08-14",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "phoning",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Phoning 「人気歌謡」フェイスコール",
+      "en": "Phoning: 'Inkigayo' face call (all members)"
+    },
+    "summary": {
+      "ja": "Phoningでのライブ配信（約16分）。",
+      "en": "Live call on Phoning (about 16 minutes)."
+    },
+    "detail": {
+      "ja": "2022年8月14日、SBS「人気歌謡」出演日に合わせ、Phoningで全員参加のフェイスコール（約16分）が行われた。",
+      "en": "On August 14, 2022, the day of an SBS 'Inkigayo' appearance, an all-member face call of about 16 minutes was held on Phoning."
+    },
+    "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "phoning-live",
+      "live-stream"
+    ],
+    "verified": false,
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+  },
+  {
     "id": "content-2022-08-16-making-jeans-1st-ep-new-jeans-behind-ep-1",
     "date": "2022-08-16",
     "date_type": "release",
@@ -313,6 +348,52 @@
       "behind"
     ],
     "verified": true
+  },
+  {
+    "id": "content-2022-08-17-jeans-zine-newjeans-cafe-1",
+    "date": "2022-08-17",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "[Jeans' ZINE] NewJeans Cafe｜1分ショートクリップ",
+      "en": "[Jeans' ZINE] NewJeans Cafe | 1분 숏클립"
+    },
+    "summary": {
+      "ja": "自主制作バラエティ「Jeans' ZINE」。",
+      "en": "\"Jeans' ZINE\" variety episode."
+    },
+    "detail": {
+      "ja": "2022年8月17日、NewJeans公式YouTubeチャンネルで「NewJeans Cafe | 1분 숏클립」が公開された。NewJeans公式YouTubeチャンネルの自主制作バラエティ「Jeans' ZINE」の一編。メンバーがゲーム、料理、キャンプ、職業体験などのテーマに挑む。8月20日公開の「NewJeans Cafe」本編に先立つ1分のショートクリップ。",
+      "en": "On August 17, 2022, the official NewJeans YouTube channel released 'NewJeans Cafe | 1분 숏클립', an episode of \"Jeans' ZINE\", the NewJeans channel's self-produced variety series in which the members take on games, cooking, camping and job-experience themes. A one-minute short clip preceding the full 'NewJeans Cafe' episode released on August 20."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=cAcN5zdNeUw",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://thetvdb.com/series/jeans-zine/allseasons/official"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "cAcN5zdNeUw"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=cAcN5zdNeUw"
+    },
+    "tags": [
+      "jeans-zine",
+      "variety"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
   },
   {
     "id": "content-2022-08-20-jeans-zine-newjeans-cafe",
@@ -997,6 +1078,51 @@
     "verified": true
   },
   {
+    "id": "content-2022-09-10-yt-happy-chuseok-chuseok-greetings-from-newjeans",
+    "date": "2022-09-10",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Happy Chuseok!｜NewJeansの秋夕のご挨拶",
+      "en": "Happy Chuseok! | Chuseok Greetings from NewJeans"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2022年9月10日、NewJeans公式YouTubeチャンネルで「Happy Chuseok! | Chuseok Greetings from NewJeans」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。2022年の秋夕（9月10日）に合わせた約1分のご挨拶映像。",
+      "en": "On September 10, 2022, the official NewJeans YouTube channel released 'Happy Chuseok! | Chuseok Greetings from NewJeans', a stand-alone piece of content posted on the official NewJeans YouTube channel. A roughly one-minute greeting for Chuseok 2022 (September 10)."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=GO2slC7BG-g",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "GO2slC7BG-g"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=GO2slC7BG-g"
+    },
+    "tags": [
+      "clip",
+      "greeting"
+    ],
+    "verified": false,
+    "editor_note": "YouTube watch page (reader, US-Pacific display) shows 2022-09-09; greeting/preview-type uploads on this channel go up at midnight KST, which shifts the Pacific display a day earlier (verified pattern on 30 namu-dated items), so the following KST date 2022-09-10 is used. Not confirmed from a KST-dated source."
+  },
+  {
     "id": "content-2022-09-14-jeans-zine-newjeans-school-ep-2-l-1",
     "date": "2022-09-14",
     "date_type": "release",
@@ -1496,6 +1622,41 @@
     "verified": true
   },
   {
+    "id": "content-2022-10-06-phoning-hanni-birthday-face-call",
+    "date": "2022-10-06",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "phoning",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Phoning ハニ誕生日パーティー・フェイスコール",
+      "en": "Phoning: Hanni's birthday party face call"
+    },
+    "summary": {
+      "ja": "Phoningでのライブ配信（約35分）。",
+      "en": "Live call on Phoning (about 35 minutes)."
+    },
+    "detail": {
+      "ja": "2022年10月6日、ハニの誕生日を祝う全員参加のフェイスコール（約35分）がPhoningで行われた。",
+      "en": "On October 6, 2022, an all-member face call of about 35 minutes celebrating Hanni's birthday was held on Phoning."
+    },
+    "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "phoning-live",
+      "live-stream"
+    ],
+    "verified": false,
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+  },
+  {
     "id": "content-2022-10-07-light-jeans-1st-ep-new-jeans-music-show-behind-ep-1",
     "date": "2022-10-07",
     "date_type": "release",
@@ -1993,6 +2154,52 @@
     "editor_note": "Date and content from the fan-maintained namu.wiki \"NewJeans/Phoning LIVE\" log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. Phoning anniversary messages confirmed by iMBC (2022-10-30)."
   },
   {
+    "id": "content-2022-10-29-yt-debut-100th-day-special-quiz-show",
+    "date": "2022-10-29",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "デビュー100日記念 Special Quiz Show",
+      "en": "Debut 100th Day Special Quiz Show",
+      "original": "🐰데뷔 100일 기념💙 Special Quiz Show🥕"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2022年10月29日、NewJeans公式YouTubeチャンネルで「Debut 100th Day Special Quiz Show」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。デビュー100日を記念して全員で行ったクイズショー（約19分）。同日、ファンダム名「Bunnies」が公式に発表された。",
+      "en": "On October 29, 2022, the official NewJeans YouTube channel released 'Debut 100th Day Special Quiz Show', a stand-alone piece of content posted on the official NewJeans YouTube channel. A roughly 19-minute quiz show with all five members marking 100 days since debut; the fandom name Bunnies was officially announced the same day."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=JpX3-8hbtOE",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "JpX3-8hbtOE"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=JpX3-8hbtOE"
+    },
+    "tags": [
+      "clip",
+      "anniversary"
+    ],
+    "verified": true,
+    "editor_note": "YouTube page (reader, US-Pacific display) shows 2022-10-28; namu.wiki lists 2022-10-29 KST (midnight-KST upload shifts a day in Pacific). Using KST date."
+  },
+  {
     "id": "content-2022-11-11-light-jeans-konkuk-university-festival-2022-behind",
     "date": "2022-11-11",
     "date_type": "release",
@@ -2310,6 +2517,76 @@
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
   },
   {
+    "id": "content-2022-11-26-phoning-mma-afterparty-voice-call",
+    "date": "2022-11-26",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "phoning",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Phoning 2022 MMA打ち上げボイスコール",
+      "en": "Phoning: 2022 MMA after-party voice call"
+    },
+    "summary": {
+      "ja": "Phoningでのライブ配信（約12分）。",
+      "en": "Live call on Phoning (about 12 minutes)."
+    },
+    "detail": {
+      "ja": "2022年11月26日、「2022 Melon Music Awards」出演後に、ヘインのアカウントから全員参加のボイスコール（約12分）がPhoningで行われた。",
+      "en": "On November 26, 2022, after the group's appearance at the 2022 Melon Music Awards, an all-member voice call of about 12 minutes was held on Phoning from Hyein's account."
+    },
+    "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "phoning-live",
+      "live-stream"
+    ],
+    "verified": false,
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+  },
+  {
+    "id": "content-2022-11-30-phoning-mama-afterparty-face-call",
+    "date": "2022-11-30",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "phoning",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "Phoning MAMA打ち上げフェイスコール",
+      "en": "Phoning: MAMA after-party face call"
+    },
+    "summary": {
+      "ja": "Phoningでのライブ配信（約13分）。",
+      "en": "Live call on Phoning (about 13 minutes)."
+    },
+    "detail": {
+      "ja": "2022年11月30日、「2022 MAMA AWARDS」出演後に、ミンジのアカウントからフェイスコール（約13分）がPhoningで行われた。",
+      "en": "On November 30, 2022, after the 2022 MAMA Awards, a face call of about 13 minutes was held on Phoning from Minji's account."
+    },
+    "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "phoning-live",
+      "live-stream"
+    ],
+    "verified": false,
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+  },
+  {
     "id": "content-2022-12-01-jeans-zine-mbti-ep-1",
     "date": "2022-12-01",
     "date_type": "release",
@@ -2354,6 +2631,53 @@
     ],
     "verified": false,
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+  },
+  {
+    "id": "content-2022-12-02-light-jeans-w-korea-photoshoot-behind-ep-1",
+    "date": "2022-12-02",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "[Light Jeans] W KOREA 撮影ビハインド EP.1",
+      "en": "[Light Jeans] W KOREA Photoshoot Behind EP.1"
+    },
+    "summary": {
+      "ja": "ビハインド・シリーズ「Light Jeans」。",
+      "en": "'Light Jeans' behind-the-scenes episode."
+    },
+    "detail": {
+      "ja": "2022年12月2日、NewJeans公式YouTubeチャンネルで「W KOREA Photoshoot Behind EP.1」が公開された。NewJeans公式YouTubeチャンネルの軽いビハインド・シリーズ「Light Jeans」の一編。撮影現場、音楽番組、イベント、広告キャンペーンの舞台裏などを短くまとめる。12月9日公開のEP.2に続く、W KOREA撮影の舞台裏の前編。",
+      "en": "On December 2, 2022, the official NewJeans YouTube channel released 'W KOREA Photoshoot Behind EP.1', an episode of 'Light Jeans', the NewJeans channel's light behind-the-scenes series covering photoshoots, music shows, events and ad campaigns. Part one of the W KOREA shoot behind-the-scenes; EP.2 followed on December 9."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=iefFmb9IcxA",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://thetvdb.com/series/light-jeans/allseasons/official"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "iefFmb9IcxA"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=iefFmb9IcxA"
+    },
+    "tags": [
+      "light-jeans",
+      "behind",
+      "photoshoot"
+    ],
+    "verified": true,
+    "editor_note": "YouTube watch page fetched; KST date matches namu.wiki content table."
   },
   {
     "id": "content-2022-12-08-jeans-zine-mbti-ep-2",
@@ -2447,6 +2771,41 @@
     ],
     "verified": false,
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+  },
+  {
+    "id": "content-2022-12-13-phoning-aaa-afterparty-face-call",
+    "date": "2022-12-13",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "phoning",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Phoning 2022 AAA打ち上げフェイスコール",
+      "en": "Phoning: 2022 AAA after-party face call"
+    },
+    "summary": {
+      "ja": "Phoningでのライブ配信（約12分）。",
+      "en": "Live call on Phoning (about 12 minutes)."
+    },
+    "detail": {
+      "ja": "2022年12月13日、「2022 Asia Artist Awards」出演後に、打ち上げのフェイスコール（約12分）がPhoningで行われた。",
+      "en": "On December 13, 2022, after the 2022 Asia Artist Awards, an after-party face call of about 12 minutes was held on Phoning."
+    },
+    "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "phoning-live",
+      "live-stream"
+    ],
+    "verified": false,
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. Host account and member line-up for this entry are not stated in the log."
   },
   {
     "id": "content-2022-12-15-jeans-zine-2022-unseen-moments",
@@ -2666,6 +3025,50 @@
     "verified": true
   },
   {
+    "id": "content-2022-12-22-yt-holiday-talk-part-1",
+    "date": "2022-12-22",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans ホリデートーク Part.1",
+      "en": "NewJeans (뉴진스) Holiday Talk Part.1"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2022年12月22日、NewJeans公式YouTubeチャンネルで「Holiday Talk Part.1」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。12月21日に公開された「NewJeans Holiday Special」に関連した、メンバーのトーク映像の前編（約7分）。",
+      "en": "On December 22, 2022, the official NewJeans YouTube channel released 'Holiday Talk Part.1', a stand-alone piece of content posted on the official NewJeans YouTube channel. Part one (about 7 minutes) of a members' talk video released alongside 'NewJeans Holiday Special' (December 21)."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=fhMWILbfFdg",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "fhMWILbfFdg"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=fhMWILbfFdg"
+    },
+    "tags": [
+      "clip"
+    ],
+    "verified": true,
+    "editor_note": "YouTube page (reader, US-Pacific display) shows 2022-12-21; namu.wiki lists 2022-12-22 KST (midnight-KST upload shifts a day in Pacific). Using KST date."
+  },
+  {
     "id": "content-2022-12-23-yt-ditto-mv-reaction",
     "date": "2022-12-23",
     "date_type": "release",
@@ -2799,6 +3202,50 @@
       "seasons-greetings"
     ],
     "verified": true
+  },
+  {
+    "id": "content-2022-12-27-yt-holiday-talk-part-2",
+    "date": "2022-12-27",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans ホリデートーク Part.2",
+      "en": "NewJeans (뉴진스) Holiday Talk Part.2"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2022年12月27日、NewJeans公式YouTubeチャンネルで「Holiday Talk Part.2」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。ホリデートークの後編（約10分）。",
+      "en": "On December 27, 2022, the official NewJeans YouTube channel released 'Holiday Talk Part.2', a stand-alone piece of content posted on the official NewJeans YouTube channel. Part two (about 10 minutes) of the Holiday Talk."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=G5XRqw315hg",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "G5XRqw315hg"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=G5XRqw315hg"
+    },
+    "tags": [
+      "clip"
+    ],
+    "verified": true,
+    "editor_note": "YouTube page (reader, US-Pacific display) shows 2022-12-26; namu.wiki lists 2022-12-27 KST (midnight-KST upload shifts a day in Pacific). Using KST date."
   },
   {
     "id": "content-2022-12-29-jeans-zine-year-end-party-ep-2",
@@ -3196,6 +3643,41 @@
       "mv-behind"
     ],
     "verified": true
+  },
+  {
+    "id": "content-2023-01-16-phoning-minji-first-solo-voice-call",
+    "date": "2023-01-16",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "phoning",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "Phoning ミンジ初のソロ・ボイスコール",
+      "en": "Phoning: Minji's first solo voice call"
+    },
+    "summary": {
+      "ja": "Phoningでのライブ配信（約23分）。",
+      "en": "Live call on Phoning (about 23 minutes)."
+    },
+    "detail": {
+      "ja": "2023年1月16日、ミンジが初めて一人でPhoningのボイスコール（約23分）を行った。",
+      "en": "On January 16, 2023, Minji held her first solo voice call on Phoning (about 23 minutes)."
+    },
+    "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "phoning-live",
+      "live-stream"
+    ],
+    "verified": false,
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
   },
   {
     "id": "content-2023-01-19-jeans-zine-seollal-park-ep-1",
@@ -4119,6 +4601,96 @@
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
   },
   {
+    "id": "content-2023-03-17-yt-ditto-dance-clip",
+    "date": "2023-03-17",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans 『Ditto』ダンスクリップ",
+      "en": "NewJeans (뉴진스) 'Ditto' Dance Clip"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2023年3月17日、NewJeans公式YouTubeチャンネルで「'Ditto' Dance Clip」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。『Ditto』の振付を収めた約3分のダンスクリップ。",
+      "en": "On March 17, 2023, the official NewJeans YouTube channel released ''Ditto' Dance Clip', a stand-alone piece of content posted on the official NewJeans YouTube channel. A roughly three-minute choreography clip for 'Ditto'."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=2mYGh268vmA",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "2mYGh268vmA"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=2mYGh268vmA"
+    },
+    "tags": [
+      "clip",
+      "dance-practice"
+    ],
+    "verified": true,
+    "editor_note": "YouTube watch page fetched; KST date matches namu.wiki content table. Choreography clip; could alternatively be filed in mv.json next to the dance practices."
+  },
+  {
+    "id": "content-2023-03-17-yt-omg-dance-clip",
+    "date": "2023-03-17",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans 『OMG』ダンスクリップ",
+      "en": "NewJeans (뉴진스) 'OMG' Dance Clip"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2023年3月17日、NewJeans公式YouTubeチャンネルで「'OMG' Dance Clip」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。『OMG』の振付を収めた約4分のダンスクリップ。同日『Ditto』版も公開。",
+      "en": "On March 17, 2023, the official NewJeans YouTube channel released ''OMG' Dance Clip', a stand-alone piece of content posted on the official NewJeans YouTube channel. A roughly four-minute choreography clip for 'OMG', released the same day as the 'Ditto' clip."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=qNlCGt9agA0",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "qNlCGt9agA0"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=qNlCGt9agA0"
+    },
+    "tags": [
+      "clip",
+      "dance-practice"
+    ],
+    "verified": true,
+    "editor_note": "YouTube watch page fetched; KST date matches namu.wiki content table. Choreography clip; could alternatively be filed in mv.json next to the dance practices."
+  },
+  {
     "id": "content-2023-03-19-about-jeans-minji-scene-1-minji-vlog",
     "date": "2023-03-19",
     "date_type": "release",
@@ -4347,6 +4919,51 @@
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
   },
   {
+    "id": "content-2023-03-28-bunnies-welcome-to-bunnies-club-danielle",
+    "date": "2023-03-28",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "WELCOME to Bunnies Club! #DANIELLE",
+      "en": "WELCOME to Bunnies Club! #DANIELLE"
+    },
+    "summary": {
+      "ja": "Bunnies向け映像。",
+      "en": "Video for Bunnies."
+    },
+    "detail": {
+      "ja": "2023年3月28日、NewJeans公式YouTubeチャンネルで「WELCOME to Bunnies Club! #DANIELLE」が公開された。ファンダム「Bunnies」に向けて公式YouTubeチャンネルで公開された映像。3月30日のBunnies Membership開設に先立ち、メンバー別に公開された短い案内映像のダニエル版。出演はダニエル。",
+      "en": "On March 28, 2023, the official NewJeans YouTube channel released 'WELCOME to Bunnies Club! #DANIELLE', a video for the fandom Bunnies posted on the official YouTube channel. Danielle's edition of the short per-member clips released ahead of the Bunnies Membership launch on March 30. Featuring Danielle."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=4761LLzZQ3U",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "4761LLzZQ3U"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=4761LLzZQ3U"
+    },
+    "tags": [
+      "bunnies",
+      "fan-content"
+    ],
+    "verified": true,
+    "editor_note": "YouTube page (reader, US-Pacific display) shows 2023-03-27; namu.wiki lists 2023-03-28 KST (midnight-KST upload shifts a day in Pacific). Using KST date. Not on namu.wiki's current content table (Danielle-featuring rows were removed there)."
+  },
+  {
     "id": "content-2023-03-28-bunnies-welcome-to-bunnies-club-haerin",
     "date": "2023-03-28",
     "date_type": "release",
@@ -4571,6 +5188,41 @@
     ],
     "verified": false,
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+  },
+  {
+    "id": "content-2023-03-29-phoning-after-apple-event-face-call",
+    "date": "2023-03-29",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "phoning",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Phoning Appleイベント出席後のフェイスコール",
+      "en": "Phoning: face call after the Apple event"
+    },
+    "summary": {
+      "ja": "Phoningでのライブ配信（約12分）。",
+      "en": "Live call on Phoning (about 12 minutes)."
+    },
+    "detail": {
+      "ja": "2023年3月29日、Apple関連イベントに出席した後、全員参加のフェイスコール（約12分）がPhoningで行われた。",
+      "en": "On March 29, 2023, after attending an Apple event, the members held an all-member face call of about 12 minutes on Phoning."
+    },
+    "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "phoning-live",
+      "live-stream"
+    ],
+    "verified": false,
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
   },
   {
     "id": "content-2023-03-30-bunnies-bunnies-membership-open",
@@ -4839,6 +5491,44 @@
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
   },
   {
+    "id": "content-2023-04-11-phoning-danielle-birthday-face-call",
+    "date": "2023-04-11",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "phoning",
+    "members": [
+      "minji",
+      "hanni",
+      "danielle",
+      "hyein"
+    ],
+    "title": {
+      "ja": "Phoning ダニエル誕生日パーティー・フェイスコール",
+      "en": "Phoning: Danielle's birthday party face call"
+    },
+    "summary": {
+      "ja": "Phoningでのライブ配信（約39分）。",
+      "en": "Live call on Phoning (about 39 minutes)."
+    },
+    "detail": {
+      "ja": "2023年4月11日、ダニエルの誕生日を祝うフェイスコール（約39分）がPhoningで行われた。ミンジ、ハニ、ダニエル、ヘインが参加。",
+      "en": "On April 11, 2023, a face call of about 39 minutes celebrating Danielle's birthday was held on Phoning with Minji, Hanni, Danielle and Hyein."
+    },
+    "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "phoning-live",
+      "live-stream"
+    ],
+    "verified": false,
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+  },
+  {
     "id": "content-2023-04-12-light-jeans-23fw-seoul-fashion-week-photoshoot-behind",
     "date": "2023-04-12",
     "date_type": "release",
@@ -5024,6 +5714,53 @@
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
   },
   {
+    "id": "content-2023-04-25-light-jeans-danielle-vogue-photoshoot-behind",
+    "date": "2023-04-25",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "[Light Jeans] DANIELLE Vogue 撮影ビハインド",
+      "en": "[Light Jeans] DANIELLE Vogue Photoshoot Behind"
+    },
+    "summary": {
+      "ja": "ビハインド・シリーズ「Light Jeans」。",
+      "en": "'Light Jeans' behind-the-scenes episode."
+    },
+    "detail": {
+      "ja": "2023年4月25日、NewJeans公式YouTubeチャンネルで「DANIELLE Vogue Photoshoot Behind」が公開された。NewJeans公式YouTubeチャンネルの軽いビハインド・シリーズ「Light Jeans」の一編。撮影現場、音楽番組、イベント、広告キャンペーンの舞台裏などを短くまとめる。出演はダニエル。",
+      "en": "On April 25, 2023, the official NewJeans YouTube channel released 'DANIELLE Vogue Photoshoot Behind', an episode of 'Light Jeans', the NewJeans channel's light behind-the-scenes series covering photoshoots, music shows, events and ad campaigns. Featuring Danielle."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=f6x_m32y5u4",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://thetvdb.com/series/light-jeans/allseasons/official"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "f6x_m32y5u4"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=f6x_m32y5u4"
+    },
+    "tags": [
+      "light-jeans",
+      "behind",
+      "photoshoot"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table. Not on namu.wiki's current content table (Danielle-featuring rows were removed there)."
+  },
+  {
     "id": "content-2023-04-27-jeans-zine-ep-1-vs-um-um",
     "date": "2023-04-27",
     "date_type": "release",
@@ -5067,6 +5804,41 @@
       "variety"
     ],
     "verified": true
+  },
+  {
+    "id": "content-2023-04-27-phoning-hyein-birthday-face-call",
+    "date": "2023-04-27",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "phoning",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Phoning ヘイン誕生日パーティー・フェイスコール",
+      "en": "Phoning: Hyein's birthday party face call"
+    },
+    "summary": {
+      "ja": "Phoningでのライブ配信（約38分）。",
+      "en": "Live call on Phoning (about 38 minutes)."
+    },
+    "detail": {
+      "ja": "2023年4月27日、ヘインの誕生日を祝うフェイスコール（約38分）がPhoningで行われた。",
+      "en": "On April 27, 2023, a face call of about 38 minutes celebrating Hyein's birthday was held on Phoning."
+    },
+    "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "phoning-live",
+      "live-stream"
+    ],
+    "verified": false,
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
   },
   {
     "id": "content-2023-04-28-about-jeans-ep-2-hanni-vlog",
@@ -5205,6 +5977,41 @@
     "verified": true
   },
   {
+    "id": "content-2023-05-07-phoning-minji-birthday-face-call",
+    "date": "2023-05-07",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "phoning",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Phoning ミンジ誕生日パーティー・フェイスコール",
+      "en": "Phoning: Minji's birthday party face call"
+    },
+    "summary": {
+      "ja": "Phoningでのライブ配信（約41分）。",
+      "en": "Live call on Phoning (about 41 minutes)."
+    },
+    "detail": {
+      "ja": "2023年5月7日、ミンジの誕生日を祝う全員参加のフェイスコール（約41分）がPhoningで行われた。",
+      "en": "On May 7, 2023, an all-member face call of about 41 minutes celebrating Minji's birthday was held on Phoning."
+    },
+    "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "phoning-live",
+      "live-stream"
+    ],
+    "verified": false,
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+  },
+  {
     "id": "content-2023-05-09-light-jeans-stonehenge-behind",
     "date": "2023-05-09",
     "date_type": "release",
@@ -5338,6 +6145,41 @@
     ],
     "verified": true,
     "editor_note": "YouTube page (reader, US-Pacific display) shows 2023-05-11; namu.wiki lists 2023-05-12 KST (midnight-KST upload shifts a day in Pacific). Using KST date."
+  },
+  {
+    "id": "content-2023-05-15-phoning-haerin-birthday-face-call",
+    "date": "2023-05-15",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "phoning",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Phoning ヘリン誕生日パーティー・フェイスコール",
+      "en": "Phoning: Haerin's birthday party face call"
+    },
+    "summary": {
+      "ja": "Phoningでのライブ配信（約44分）。",
+      "en": "Live call on Phoning (about 44 minutes)."
+    },
+    "detail": {
+      "ja": "2023年5月15日、ヘリンの誕生日を祝う全員参加のフェイスコール（約44分）がPhoningで行われた。",
+      "en": "On May 15, 2023, an all-member face call of about 44 minutes celebrating Haerin's birthday was held on Phoning."
+    },
+    "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "phoning-live",
+      "live-stream"
+    ],
+    "verified": false,
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
   },
   {
     "id": "content-2023-05-18-jeans-zine-ep-2",
@@ -5521,6 +6363,52 @@
     "verified": true
   },
   {
+    "id": "content-2023-05-30-light-jeans-danielle-the-little-mermaid-korean-dubbing-behind",
+    "date": "2023-05-30",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "[Light Jeans] DANIELLE《リトル・マーメイド》韓国語吹替ビハインド",
+      "en": "[Light Jeans] DANIELLE 〈The Little Mermaid〉 Korean Dubbing Behind"
+    },
+    "summary": {
+      "ja": "ビハインド・シリーズ「Light Jeans」。",
+      "en": "'Light Jeans' behind-the-scenes episode."
+    },
+    "detail": {
+      "ja": "2023年5月30日、NewJeans公式YouTubeチャンネルで「DANIELLE 〈The Little Mermaid〉 Korean Dubbing Behind」が公開された。NewJeans公式YouTubeチャンネルの軽いビハインド・シリーズ「Light Jeans」の一編。撮影現場、音楽番組、イベント、広告キャンペーンの舞台裏などを短くまとめる。ダニエルがディズニー実写映画『リトル・マーメイド』（韓国公開2023年5月24日）韓国語吹替版でアリエルの声を担当した際の収録の舞台裏（約16分）。出演はダニエル。",
+      "en": "On May 30, 2023, the official NewJeans YouTube channel released 'DANIELLE 〈The Little Mermaid〉 Korean Dubbing Behind', an episode of 'Light Jeans', the NewJeans channel's light behind-the-scenes series covering photoshoots, music shows, events and ad campaigns. Roughly 16 minutes behind Danielle's recording sessions as the Korean dubbing voice of Ariel in Disney's live-action 'The Little Mermaid' (released in Korea on May 24, 2023). Featuring Danielle."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=tAfjh17efS8",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://thetvdb.com/series/light-jeans/allseasons/official"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "tAfjh17efS8"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=tAfjh17efS8"
+    },
+    "tags": [
+      "light-jeans",
+      "behind"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table. Not on namu.wiki's current content table (Danielle-featuring rows were removed there)."
+  },
+  {
     "id": "content-2023-06-01-jeans-zine-ep-2",
     "date": "2023-06-01",
     "date_type": "release",
@@ -5656,6 +6544,52 @@
     ],
     "verified": false,
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+  },
+  {
+    "id": "content-2023-06-14-light-jeans-danielle-ysl-beauty-behind",
+    "date": "2023-06-14",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "[Light Jeans] DANIELLE YSL Beauty ビハインド",
+      "en": "[Light Jeans] DANIELLE YSL Beauty Behind"
+    },
+    "summary": {
+      "ja": "ビハインド・シリーズ「Light Jeans」。",
+      "en": "'Light Jeans' behind-the-scenes episode."
+    },
+    "detail": {
+      "ja": "2023年6月14日、NewJeans公式YouTubeチャンネルで「DANIELLE YSL Beauty Behind」が公開された。NewJeans公式YouTubeチャンネルの軽いビハインド・シリーズ「Light Jeans」の一編。撮影現場、音楽番組、イベント、広告キャンペーンの舞台裏などを短くまとめる。出演はダニエル。",
+      "en": "On June 14, 2023, the official NewJeans YouTube channel released 'DANIELLE YSL Beauty Behind', an episode of 'Light Jeans', the NewJeans channel's light behind-the-scenes series covering photoshoots, music shows, events and ad campaigns. Featuring Danielle."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=vMaBr2NdaVc",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://thetvdb.com/series/light-jeans/allseasons/official"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "vMaBr2NdaVc"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=vMaBr2NdaVc"
+    },
+    "tags": [
+      "light-jeans",
+      "behind"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table. Not on namu.wiki's current content table (Danielle-featuring rows were removed there)."
   },
   {
     "id": "content-2023-06-15-jeans-zine-ep-2",
@@ -5888,6 +6822,51 @@
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
   },
   {
+    "id": "content-2023-07-11-yt-super-shy",
+    "date": "2023-07-11",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans 『Super Shy』応援法",
+      "en": "NewJeans (뉴진스) 'Super Shy' 응원법"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2023年7月11日、NewJeans公式YouTubeチャンネルで「'Super Shy' 응원법」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。7月7日に先行公開された『Super Shy』の応援法（掛け声）ガイド映像。",
+      "en": "On July 11, 2023, the official NewJeans YouTube channel released ''Super Shy' 응원법', a stand-alone piece of content posted on the official NewJeans YouTube channel. Fan-chant guide for 'Super Shy', the pre-release single out on July 7."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=latFcM2UMjc",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "latFcM2UMjc"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=latFcM2UMjc"
+    },
+    "tags": [
+      "clip",
+      "cheer-guide"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
     "id": "content-2023-07-13-making-jeans-super-shy-mv-behind",
     "date": "2023-07-13",
     "date_type": "release",
@@ -5935,6 +6914,51 @@
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
   },
   {
+    "id": "content-2023-07-14-yt-new-jeans-mv-reaction",
+    "date": "2023-07-14",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans 『New Jeans』MVリアクション",
+      "en": "NewJeans (뉴진스) 'New Jeans' MV Reaction"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2023年7月14日、NewJeans公式YouTubeチャンネルで「'New Jeans' MV Reaction」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。7月7日公開の『New Jeans』MVをメンバーが視聴するリアクション映像。",
+      "en": "On July 14, 2023, the official NewJeans YouTube channel released ''New Jeans' MV Reaction', a stand-alone piece of content posted on the official NewJeans YouTube channel. The members react to the 'New Jeans' MV released on July 7."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=Gf8Uk02naGQ",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "Gf8Uk02naGQ"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Gf8Uk02naGQ"
+    },
+    "tags": [
+      "clip",
+      "mv-reaction"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
     "id": "content-2023-07-19-making-jeans-youtube",
     "date": "2023-07-19",
     "date_type": "release",
@@ -5980,6 +7004,96 @@
     ],
     "verified": false,
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+  },
+  {
+    "id": "content-2023-07-21-yt-cool-with-you",
+    "date": "2023-07-21",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans 『Cool With You』応援法",
+      "en": "NewJeans (뉴진스) 'Cool With You' 응원법"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2023年7月21日、NewJeans公式YouTubeチャンネルで「'Cool With You' 응원법」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。2nd EP『Get Up』収録曲『Cool With You』の応援法ガイド映像。",
+      "en": "On July 21, 2023, the official NewJeans YouTube channel released ''Cool With You' 응원법', a stand-alone piece of content posted on the official NewJeans YouTube channel. Fan-chant guide for 'Cool With You' from the 2nd EP 'Get Up'."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=t6mb7PBh2OQ",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "t6mb7PBh2OQ"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=t6mb7PBh2OQ"
+    },
+    "tags": [
+      "clip",
+      "cheer-guide"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
+    "id": "content-2023-07-21-yt-eta",
+    "date": "2023-07-21",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans 『ETA』応援法",
+      "en": "NewJeans (뉴진스) 'ETA' 응원법"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2023年7月21日、NewJeans公式YouTubeチャンネルで「'ETA' 응원법」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。2nd EP『Get Up』収録曲『ETA』の応援法ガイド映像。",
+      "en": "On July 21, 2023, the official NewJeans YouTube channel released ''ETA' 응원법', a stand-alone piece of content posted on the official NewJeans YouTube channel. Fan-chant guide for 'ETA' from the 2nd EP 'Get Up'."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=wfbkBvmZ89M",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "wfbkBvmZ89M"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=wfbkBvmZ89M"
+    },
+    "tags": [
+      "clip",
+      "cheer-guide"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
   },
   {
     "id": "content-2023-07-22-newjeans-day-attention-mv-reaction-debut-1st-anniversary-ver",
@@ -6153,6 +7267,51 @@
     "editor_note": "Date and content from the fan-maintained namu.wiki \"NewJeans/Phoning LIVE\" log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
   },
   {
+    "id": "content-2023-07-28-yt-super-shy-mv-review",
+    "date": "2023-07-28",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans 『Super Shy』MVレビュー",
+      "en": "NewJeans (뉴진스) 'Super Shy' MV Review"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2023年7月28日、NewJeans公式YouTubeチャンネルで「'Super Shy' MV Review」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。『Super Shy』MVをメンバーが振り返るレビュー映像（約10分）。",
+      "en": "On July 28, 2023, the official NewJeans YouTube channel released ''Super Shy' MV Review', a stand-alone piece of content posted on the official NewJeans YouTube channel. The members look back on the 'Super Shy' MV (about 10 minutes)."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=WN8VOAL8A-k",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "WN8VOAL8A-k"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=WN8VOAL8A-k"
+    },
+    "tags": [
+      "clip",
+      "mv-reaction"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
     "id": "content-2023-08-03-making-jeans-eta-dance-practice-behind",
     "date": "2023-08-03",
     "date_type": "release",
@@ -6198,6 +7357,51 @@
     ],
     "verified": false,
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+  },
+  {
+    "id": "content-2023-08-04-yt-cool-with-you-mv-reaction",
+    "date": "2023-08-04",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans 『Cool With You』MVリアクション",
+      "en": "NewJeans (뉴진스) 'Cool With You' MV Reaction"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2023年8月4日、NewJeans公式YouTubeチャンネルで「'Cool With You' MV Reaction」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。7月20日公開の『Cool With You』MVへのメンバーのリアクション映像（約13分）。",
+      "en": "On August 4, 2023, the official NewJeans YouTube channel released ''Cool With You' MV Reaction', a stand-alone piece of content posted on the official NewJeans YouTube channel. The members react to the 'Cool With You' MV released on July 20 (about 13 minutes)."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=iiVGIpQEigM",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "iiVGIpQEigM"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=iiVGIpQEigM"
+    },
+    "tags": [
+      "clip",
+      "mv-reaction"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
   },
   {
     "id": "content-2023-08-10-making-jeans-cool-with-you-eta-recording-behind",
@@ -6293,6 +7497,87 @@
     "verified": true
   },
   {
+    "id": "content-2023-08-11-yt-eta-mv-review",
+    "date": "2023-08-11",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans 『ETA』MVレビュー",
+      "en": "NewJeans (뉴진스) 'ETA' MV Review"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2023年8月11日、NewJeans公式YouTubeチャンネルで「'ETA' MV Review」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。7月21日公開の『ETA』MVをメンバーが振り返るレビュー映像（約10分）。",
+      "en": "On August 11, 2023, the official NewJeans YouTube channel released ''ETA' MV Review', a stand-alone piece of content posted on the official NewJeans YouTube channel. The members look back on the 'ETA' MV released on July 21 (about 10 minutes)."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=SkTz_Cdk1FQ",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "SkTz_Cdk1FQ"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=SkTz_Cdk1FQ"
+    },
+    "tags": [
+      "clip",
+      "mv-reaction"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
+    "id": "content-2023-08-12-phoning-minji-first-individual-face-call",
+    "date": "2023-08-12",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "phoning",
+    "members": [
+      "minji",
+      "hanni"
+    ],
+    "title": {
+      "ja": "Phoning ミンジ初の個人フェイスコール",
+      "en": "Phoning: Minji's first individual face call"
+    },
+    "summary": {
+      "ja": "Phoningでのライブ配信（約61分）。",
+      "en": "Live call on Phoning (about 61 minutes)."
+    },
+    "detail": {
+      "ja": "2023年8月12日、ミンジが自身のアカウントから初めてフェイスコール（約61分）を行った。ハニも参加。",
+      "en": "On August 12, 2023, Minji held her first face call from her own account on Phoning (about 61 minutes), joined by Hanni."
+    },
+    "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "phoning-live",
+      "live-stream"
+    ],
+    "verified": false,
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+  },
+  {
     "id": "content-2023-08-17-making-jeans-cool-with-you-mv-behind",
     "date": "2023-08-17",
     "date_type": "release",
@@ -6339,6 +7624,96 @@
     "verified": true
   },
   {
+    "id": "content-2023-08-18-yt-asap-mv-reaction",
+    "date": "2023-08-18",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans 『ASAP』MVリアクション",
+      "en": "NewJeans (뉴진스) 'ASAP' MV Reaction"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2023年8月18日、NewJeans公式YouTubeチャンネルで「'ASAP' MV Reaction」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。7月26日公開の『ASAP』MVへのメンバーのリアクション映像。",
+      "en": "On August 18, 2023, the official NewJeans YouTube channel released ''ASAP' MV Reaction', a stand-alone piece of content posted on the official NewJeans YouTube channel. The members react to the 'ASAP' MV released on July 26."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=otq_g0EqEl0",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "otq_g0EqEl0"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=otq_g0EqEl0"
+    },
+    "tags": [
+      "clip",
+      "mv-reaction"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
+    "id": "content-2023-08-19-yt-imsupershy-reaction",
+    "date": "2023-08-19",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans #ImSuperShy リアクション",
+      "en": "NewJeans (뉴진스) #ImSuperShy Reaction"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2023年8月19日、NewJeans公式YouTubeチャンネルで「#ImSuperShy Reaction」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。『Super Shy』のショート動画チャレンジ「#ImSuperShy」に投稿された動画をメンバーが視聴するリアクション映像。",
+      "en": "On August 19, 2023, the official NewJeans YouTube channel released '#ImSuperShy Reaction', a stand-alone piece of content posted on the official NewJeans YouTube channel. The members watch videos posted for the '#ImSuperShy' short-form challenge for 'Super Shy'."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=Ru7ifQ4SVyU",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "Ru7ifQ4SVyU"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Ru7ifQ4SVyU"
+    },
+    "tags": [
+      "clip",
+      "mv-reaction"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
     "id": "content-2023-08-24-making-jeans-eta-mv-behind",
     "date": "2023-08-24",
     "date_type": "release",
@@ -6383,6 +7758,51 @@
       "mv-behind"
     ],
     "verified": true
+  },
+  {
+    "id": "content-2023-08-30-by-jeans-v-rainy-days-cover-by-danielle",
+    "date": "2023-08-30",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "[By Jeans] 'V - Rainy Days' カバー by DANIELLE",
+      "en": "[By Jeans] 'V - Rainy Days' Cover by DANIELLE"
+    },
+    "summary": {
+      "ja": "カバー・シリーズ「By Jeans」。",
+      "en": "'By Jeans' solo cover."
+    },
+    "detail": {
+      "ja": "2023年8月30日、NewJeans公式YouTubeチャンネルで「'V - Rainy Days' Cover by DANIELLE」が公開された。NewJeans公式YouTubeチャンネルのカバー・シリーズ「By Jeans」の一編。メンバーがソロで楽曲をカバーする。出演はダニエル。",
+      "en": "On August 30, 2023, the official NewJeans YouTube channel released ''V - Rainy Days' Cover by DANIELLE', an episode of 'By Jeans', the NewJeans channel's cover series in which a member performs a solo cover. Featuring Danielle."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=yYXk0OVlapc",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "yYXk0OVlapc"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=yYXk0OVlapc"
+    },
+    "tags": [
+      "by-jeans",
+      "cover"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table. Not on namu.wiki's current content table (Danielle-featuring rows were removed there)."
   },
   {
     "id": "content-2023-08-31-making-jeans-cool-with-you-dance-practice-behind",
@@ -6802,6 +8222,52 @@
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
   },
   {
+    "id": "content-2023-09-28-yt-happy-chuseok-newjeans-2023-chuseok-greeting",
+    "date": "2023-09-28",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Happy Chuseok! NewJeansの2023年秋夕のご挨拶",
+      "en": "Happy Chuseok! NewJeans' 2023 Chuseok Greeting",
+      "original": "Happy Chuseok! 뉴진스의 2023년 추석 인사 🐰🌕"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2023年9月28日、NewJeans公式YouTubeチャンネルで「Happy Chuseok! NewJeans' 2023 Chuseok Greeting」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。2023年の秋夕（9月29日）に合わせた約1分のご挨拶映像。",
+      "en": "On September 28, 2023, the official NewJeans YouTube channel released 'Happy Chuseok! NewJeans' 2023 Chuseok Greeting', a stand-alone piece of content posted on the official NewJeans YouTube channel. A roughly one-minute greeting for Chuseok 2023 (September 29)."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=t1-pGE1XsFw",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "t1-pGE1XsFw"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=t1-pGE1XsFw"
+    },
+    "tags": [
+      "clip",
+      "greeting"
+    ],
+    "verified": true,
+    "editor_note": "YouTube page (reader, US-Pacific display) shows 2023-09-27; namu.wiki lists 2023-09-28 KST (midnight-KST upload shifts a day in Pacific). Using KST date."
+  },
+  {
     "id": "content-2023-09-29-light-jeans-2023-chuseok-photoshoot-behind",
     "date": "2023-09-29",
     "date_type": "release",
@@ -6892,6 +8358,41 @@
       "cover"
     ],
     "verified": true
+  },
+  {
+    "id": "content-2023-10-06-phoning-hanni-birthday-face-call",
+    "date": "2023-10-06",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "phoning",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Phoning ハニ誕生日フェイスコール",
+      "en": "Phoning: Hanni's birthday face call"
+    },
+    "summary": {
+      "ja": "Phoningでのライブ配信（約24分）。",
+      "en": "Live call on Phoning (about 24 minutes)."
+    },
+    "detail": {
+      "ja": "2023年10月6日、ハニの誕生日を祝う全員参加のフェイスコール（約24分）がPhoningで行われた。",
+      "en": "On October 6, 2023, an all-member face call of about 24 minutes celebrating Hanni's birthday was held on Phoning."
+    },
+    "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "phoning-live",
+      "live-stream"
+    ],
+    "verified": false,
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
   },
   {
     "id": "content-2023-10-07-light-jeans-bunnyland-pop-up-behind",
@@ -7790,6 +9291,53 @@
     "editor_note": "YouTube page (reader, US-Pacific display) shows 2023-11-27; namu.wiki lists 2023-11-28 KST (midnight-KST upload shifts a day in Pacific). Using KST date."
   },
   {
+    "id": "content-2023-11-29-about-jeans-d-days-day-1-danielle-vlog",
+    "date": "2023-11-29",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "[About Jeans] :D Days (Day 1) オーストラリアに行ったダニ｜DANIELLE vlog",
+      "en": "[About Jeans] :D Days (Day 1) 호주에 갔다니 | DANIELLE vlog",
+      "original": ":D Days🌻 (Day 1) 호주에 갔다니 | DANIELLE vlog"
+    },
+    "summary": {
+      "ja": "Vlogシリーズ「About Jeans」。",
+      "en": "'About Jeans' vlog."
+    },
+    "detail": {
+      "ja": "2023年11月29日、NewJeans公式YouTubeチャンネルで「:D Days (Day 1) 호주에 갔다니 | DANIELLE vlog」が公開された。NewJeans公式YouTubeチャンネルのVlogシリーズ「About Jeans」の一編。メンバー自身が記録した旅行や日常の映像。ダニエルのVlogシリーズ「:D Days」の第1回（約27分）。オーストラリア滞在の記録。出演はダニエル。",
+      "en": "On November 29, 2023, the official NewJeans YouTube channel released ':D Days (Day 1) 호주에 갔다니 | DANIELLE vlog', an episode of 'About Jeans', the NewJeans channel's vlog series of travel and daily-life footage recorded by the members themselves. First entry (about 27 minutes) in Danielle's ':D Days' vlog series, recorded in Australia. Featuring Danielle."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=oMhrUjdkZRs",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://thetvdb.com/series/about-jeans/allseasons/official"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "oMhrUjdkZRs"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=oMhrUjdkZRs"
+    },
+    "tags": [
+      "about-jeans",
+      "vlog"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table. Not on namu.wiki's current content table (Danielle-featuring rows were removed there)."
+  },
+  {
     "id": "content-2023-11-29-yt-2024-seasons-greetings-preview-clip-2",
     "date": "2023-11-29",
     "date_type": "release",
@@ -8282,6 +9830,100 @@
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
   },
   {
+    "id": "content-2023-12-28-jeans-zine-ep-1",
+    "date": "2023-12-28",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "[Jeans' ZINE] ダニエルのヒーリング旅行 EP.1 モダニと動物の友達",
+      "en": "[Jeans' ZINE] 다니엘의 힐링 여행 EP.1 모다니와 동물 친구들",
+      "original": "[Jeans' ZINE🐢] 다니엘의 힐링 여행 EP.1 모다니와 동물 친구들🐰🦙🐴🐕🐷"
+    },
+    "summary": {
+      "ja": "自主制作バラエティ「Jeans' ZINE」。",
+      "en": "\"Jeans' ZINE\" variety episode."
+    },
+    "detail": {
+      "ja": "2023年12月28日、NewJeans公式YouTubeチャンネルで「다니엘의 힐링 여행 EP.1 모다니와 동물 친구들」が公開された。NewJeans公式YouTubeチャンネルの自主制作バラエティ「Jeans' ZINE」の一編。メンバーがゲーム、料理、キャンプ、職業体験などのテーマに挑む。出演はダニエル。",
+      "en": "On December 28, 2023, the official NewJeans YouTube channel released '다니엘의 힐링 여행 EP.1 모다니와 동물 친구들', an episode of \"Jeans' ZINE\", the NewJeans channel's self-produced variety series in which the members take on games, cooking, camping and job-experience themes. Featuring Danielle."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=waPS1dLcaxY",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://thetvdb.com/series/jeans-zine/allseasons/official"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "waPS1dLcaxY"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=waPS1dLcaxY"
+    },
+    "tags": [
+      "jeans-zine",
+      "variety"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table. Not on namu.wiki's current content table (Danielle-featuring rows were removed there)."
+  },
+  {
+    "id": "content-2024-01-04-jeans-zine-ep-2",
+    "date": "2024-01-04",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "[Jeans' ZINE] ダニエルのヒーリング旅行 EP.2 ひとりキャンプ",
+      "en": "[Jeans' ZINE] 다니엘의 힐링 여행 EP.2 나홀로 캠핑",
+      "original": "[Jeans' ZINE🐢] 다니엘의 힐링 여행 EP.2 나홀로 캠핑🏕🍳🎙"
+    },
+    "summary": {
+      "ja": "自主制作バラエティ「Jeans' ZINE」。",
+      "en": "\"Jeans' ZINE\" variety episode."
+    },
+    "detail": {
+      "ja": "2024年1月4日、NewJeans公式YouTubeチャンネルで「다니엘의 힐링 여행 EP.2 나홀로 캠핑」が公開された。NewJeans公式YouTubeチャンネルの自主制作バラエティ「Jeans' ZINE」の一編。メンバーがゲーム、料理、キャンプ、職業体験などのテーマに挑む。出演はダニエル。",
+      "en": "On January 4, 2024, the official NewJeans YouTube channel released '다니엘의 힐링 여행 EP.2 나홀로 캠핑', an episode of \"Jeans' ZINE\", the NewJeans channel's self-produced variety series in which the members take on games, cooking, camping and job-experience themes. Featuring Danielle."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=J5LrBDQxaqU",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://thetvdb.com/series/jeans-zine/allseasons/official"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "J5LrBDQxaqU"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=J5LrBDQxaqU"
+    },
+    "tags": [
+      "jeans-zine",
+      "variety"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table. Not on namu.wiki's current content table (Danielle-featuring rows were removed there)."
+  },
+  {
     "id": "content-2024-01-10-light-jeans-24ss-seoul-fashion-week-campaign-behind",
     "date": "2024-01-10",
     "date_type": "release",
@@ -8373,6 +10015,52 @@
     ],
     "verified": false,
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+  },
+  {
+    "id": "content-2024-01-16-light-jeans-danielle-ysl-beauty-behind",
+    "date": "2024-01-16",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "[Light Jeans] DANIELLE YSL Beauty ビハインド",
+      "en": "[Light Jeans] DANIELLE YSL Beauty Behind"
+    },
+    "summary": {
+      "ja": "ビハインド・シリーズ「Light Jeans」。",
+      "en": "'Light Jeans' behind-the-scenes episode."
+    },
+    "detail": {
+      "ja": "2024年1月16日、NewJeans公式YouTubeチャンネルで「DANIELLE YSL Beauty Behind」が公開された。NewJeans公式YouTubeチャンネルの軽いビハインド・シリーズ「Light Jeans」の一編。撮影現場、音楽番組、イベント、広告キャンペーンの舞台裏などを短くまとめる。2023年6月に続く、YSL Beauty撮影の2本目のビハインド。出演はダニエル。",
+      "en": "On January 16, 2024, the official NewJeans YouTube channel released 'DANIELLE YSL Beauty Behind', an episode of 'Light Jeans', the NewJeans channel's light behind-the-scenes series covering photoshoots, music shows, events and ad campaigns. Second YSL Beauty behind-the-scenes, following the June 2023 episode. Featuring Danielle."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=yNTLDTG6Ydg",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://thetvdb.com/series/light-jeans/allseasons/official"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "yNTLDTG6Ydg"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=yNTLDTG6Ydg"
+    },
+    "tags": [
+      "light-jeans",
+      "behind"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table. Not on namu.wiki's current content table (Danielle-featuring rows were removed there)."
   },
   {
     "id": "content-2024-01-18-jeans-zine-2023-ep-1-gingerbread-house",
@@ -8694,6 +10382,51 @@
     ],
     "verified": false,
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+  },
+  {
+    "id": "content-2024-02-09-yt-happy-seollal-newjeans-2024-lunar-new-year-greeting",
+    "date": "2024-02-09",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Happy Seollal! NewJeansの2024年ソルラル（旧正月）のご挨拶",
+      "en": "Happy Seollal! NewJeans' 2024 Lunar New Year Greeting"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2024年2月9日、NewJeans公式YouTubeチャンネルで「Happy Seollal! NewJeans' 2024 Lunar New Year Greeting」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。2024年のソルラル（2月10日）に合わせた約1分のご挨拶映像。",
+      "en": "On February 9, 2024, the official NewJeans YouTube channel released 'Happy Seollal! NewJeans' 2024 Lunar New Year Greeting', a stand-alone piece of content posted on the official NewJeans YouTube channel. A roughly one-minute greeting for Seollal 2024 (February 10)."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=3mUKCsBTP58",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "3mUKCsBTP58"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=3mUKCsBTP58"
+    },
+    "tags": [
+      "clip",
+      "greeting"
+    ],
+    "verified": false,
+    "editor_note": "YouTube watch page (reader, US-Pacific display) shows 2024-02-08; greeting/preview-type uploads on this channel go up at midnight KST, which shifts the Pacific display a day earlier (verified pattern on 30 namu-dated items), so the following KST date 2024-02-09 is used. Not confirmed from a KST-dated source."
   },
   {
     "id": "content-2024-02-13-light-jeans-2023-tma-behind",
@@ -9198,6 +10931,54 @@
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
   },
   {
+    "id": "content-2024-03-15-about-jeans-newjeans-vlog",
+    "date": "2024-03-15",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "minji",
+      "hanni"
+    ],
+    "title": {
+      "ja": "[About Jeans] ミンジとハニの宿舎初見学モーメント｜NewJeans Vlog",
+      "en": "[About Jeans] 민지와 하니의 숙소 첫 구경 모먼트 | NewJeans Vlog",
+      "original": "[About Jeans] 민지와 하니의 숙소 첫 구경 모먼트 🏠👀 | NewJeans Vlog"
+    },
+    "summary": {
+      "ja": "Vlogシリーズ「About Jeans」。",
+      "en": "'About Jeans' vlog."
+    },
+    "detail": {
+      "ja": "2024年3月15日、NewJeans公式YouTubeチャンネルで「민지와 하니의 숙소 첫 구경 모먼트 | NewJeans Vlog」が公開された。NewJeans公式YouTubeチャンネルのVlogシリーズ「About Jeans」の一編。メンバー自身が記録した旅行や日常の映像。出演はミンジ、ハニ。",
+      "en": "On March 15, 2024, the official NewJeans YouTube channel released '민지와 하니의 숙소 첫 구경 모먼트 | NewJeans Vlog', an episode of 'About Jeans', the NewJeans channel's vlog series of travel and daily-life footage recorded by the members themselves. Featuring Minji and Hanni."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=E1Fgm3kmywM",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://thetvdb.com/series/about-jeans/allseasons/official"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "E1Fgm3kmywM"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=E1Fgm3kmywM"
+    },
+    "tags": [
+      "about-jeans",
+      "vlog"
+    ],
+    "verified": true,
+    "editor_note": "YouTube watch page fetched; KST date matches namu.wiki content table."
+  },
+  {
     "id": "content-2024-03-18-about-jeans-3-haerin-vlog",
     "date": "2024-03-18",
     "date_type": "release",
@@ -9472,6 +11253,51 @@
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
   },
   {
+    "id": "content-2024-03-29-by-jeans-passenger-let-her-go-cover-by-danielle",
+    "date": "2024-03-29",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "[By Jeans] 'Passenger - Let Her Go' カバー by DANIELLE",
+      "en": "[By Jeans] 'Passenger - Let Her Go' Cover by DANIELLE"
+    },
+    "summary": {
+      "ja": "カバー・シリーズ「By Jeans」。",
+      "en": "'By Jeans' solo cover."
+    },
+    "detail": {
+      "ja": "2024年3月29日、NewJeans公式YouTubeチャンネルで「'Passenger - Let Her Go' Cover by DANIELLE」が公開された。NewJeans公式YouTubeチャンネルのカバー・シリーズ「By Jeans」の一編。メンバーがソロで楽曲をカバーする。出演はダニエル。",
+      "en": "On March 29, 2024, the official NewJeans YouTube channel released ''Passenger - Let Her Go' Cover by DANIELLE', an episode of 'By Jeans', the NewJeans channel's cover series in which a member performs a solo cover. Featuring Danielle."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=ydTtyQXtMLk",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "ydTtyQXtMLk"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ydTtyQXtMLk"
+    },
+    "tags": [
+      "by-jeans",
+      "cover"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table. Not on namu.wiki's current content table (Danielle-featuring rows were removed there)."
+  },
+  {
     "id": "content-2024-04-02-light-jeans-2024-billboard-women-in-music-short-behind",
     "date": "2024-04-02",
     "date_type": "release",
@@ -9560,6 +11386,53 @@
       "variety"
     ],
     "verified": true
+  },
+  {
+    "id": "content-2024-04-05-light-jeans-danielle-w-korea-photoshoot-behind",
+    "date": "2024-04-05",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "[Light Jeans] DANIELLE W KOREA 撮影ビハインド",
+      "en": "[Light Jeans] DANIELLE W KOREA Photoshoot Behind"
+    },
+    "summary": {
+      "ja": "ビハインド・シリーズ「Light Jeans」。",
+      "en": "'Light Jeans' behind-the-scenes episode."
+    },
+    "detail": {
+      "ja": "2024年4月5日、NewJeans公式YouTubeチャンネルで「DANIELLE W KOREA Photoshoot Behind」が公開された。NewJeans公式YouTubeチャンネルの軽いビハインド・シリーズ「Light Jeans」の一編。撮影現場、音楽番組、イベント、広告キャンペーンの舞台裏などを短くまとめる。出演はダニエル。",
+      "en": "On April 5, 2024, the official NewJeans YouTube channel released 'DANIELLE W KOREA Photoshoot Behind', an episode of 'Light Jeans', the NewJeans channel's light behind-the-scenes series covering photoshoots, music shows, events and ad campaigns. Featuring Danielle."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=9qOXpzcg8ME",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://thetvdb.com/series/light-jeans/allseasons/official"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "9qOXpzcg8ME"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=9qOXpzcg8ME"
+    },
+    "tags": [
+      "light-jeans",
+      "behind",
+      "photoshoot"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table. Not on namu.wiki's current content table (Danielle-featuring rows were removed there)."
   },
   {
     "id": "content-2024-04-09-light-jeans-hanni-w-korea-photoshoot-behind",
@@ -9835,6 +11708,41 @@
     "verified": true
   },
   {
+    "id": "content-2024-04-21-phoning-hyein-birthday-face-call",
+    "date": "2024-04-21",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "phoning",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Phoning ヘイン誕生日パーティー・フェイスコール",
+      "en": "Phoning: Hyein's birthday party face call"
+    },
+    "summary": {
+      "ja": "Phoningでのライブ配信（約40分）。",
+      "en": "Live call on Phoning (about 40 minutes)."
+    },
+    "detail": {
+      "ja": "2024年4月21日、ヘインの誕生日を祝う全員参加のフェイスコール（約40分）がPhoningで行われた。",
+      "en": "On April 21, 2024, an all-member face call of about 40 minutes celebrating Hyein's birthday was held on Phoning."
+    },
+    "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "phoning-live",
+      "live-stream"
+    ],
+    "verified": false,
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+  },
+  {
     "id": "content-2024-04-23-light-jeans-newjeans-in-singapore-with-nike",
     "date": "2024-04-23",
     "date_type": "release",
@@ -10063,6 +11971,41 @@
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
   },
   {
+    "id": "content-2024-05-07-phoning-minji-birthday-face-call",
+    "date": "2024-05-07",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "phoning",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Phoning ミンジ誕生日パーティー・フェイスコール",
+      "en": "Phoning: Minji's birthday party face call"
+    },
+    "summary": {
+      "ja": "Phoningでのライブ配信（約29分）。",
+      "en": "Live call on Phoning (about 29 minutes)."
+    },
+    "detail": {
+      "ja": "2024年5月7日、ミンジの誕生日を祝う全員参加のフェイスコール（約29分）がヘリンのアカウントからPhoningで行われた。",
+      "en": "On May 7, 2024, an all-member face call of about 29 minutes celebrating Minji's birthday was held on Phoning from Haerin's account."
+    },
+    "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "phoning-live",
+      "live-stream"
+    ],
+    "verified": false,
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+  },
+  {
     "id": "content-2024-05-08-light-jeans-billboard-women-in-music-photoshoot-behind",
     "date": "2024-05-08",
     "date_type": "release",
@@ -10236,6 +12179,41 @@
     ],
     "verified": false,
     "editor_note": "From namu.wiki \"Phoning\" page (app update history); not confirmed from an official notice."
+  },
+  {
+    "id": "content-2024-05-15-phoning-haerin-birthday-face-call",
+    "date": "2024-05-15",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "phoning",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Phoning ヘリン誕生日パーティー・フェイスコール",
+      "en": "Phoning: Haerin's birthday party face call"
+    },
+    "summary": {
+      "ja": "Phoningでのライブ配信（約39分）。",
+      "en": "Live call on Phoning (about 39 minutes)."
+    },
+    "detail": {
+      "ja": "2024年5月15日、ヘリンの誕生日を祝う全員参加のフェイスコール（約39分）がPhoningで行われた。",
+      "en": "On May 15, 2024, an all-member face call of about 39 minutes celebrating Haerin's birthday was held on Phoning."
+    },
+    "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "phoning-live",
+      "live-stream"
+    ],
+    "verified": false,
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
   },
   {
     "id": "content-2024-05-16-jeans-zine-ep-2",
@@ -10420,6 +12398,96 @@
       "vlog"
     ],
     "verified": true
+  },
+  {
+    "id": "content-2024-05-23-yt-bubble-gum",
+    "date": "2024-05-23",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans 『Bubble Gum』応援法",
+      "en": "NewJeans (뉴진스) 'Bubble Gum' 응원법"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2024年5月23日、NewJeans公式YouTubeチャンネルで「'Bubble Gum' 응원법」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。4月27日に先行公開された『Bubble Gum』の応援法ガイド映像。",
+      "en": "On May 23, 2024, the official NewJeans YouTube channel released ''Bubble Gum' 응원법', a stand-alone piece of content posted on the official NewJeans YouTube channel. Fan-chant guide for 'Bubble Gum', pre-released on April 27."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=wP-IVGgNj-I",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "wP-IVGgNj-I"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=wP-IVGgNj-I"
+    },
+    "tags": [
+      "clip",
+      "cheer-guide"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
+    "id": "content-2024-05-24-yt-how-sweet",
+    "date": "2024-05-24",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans 『How Sweet』応援法",
+      "en": "NewJeans (뉴진스) 'How Sweet' 응원법"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2024年5月24日、NewJeans公式YouTubeチャンネルで「'How Sweet' 응원법」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。同日発売のダブルシングル『How Sweet』タイトル曲の応援法ガイド映像。",
+      "en": "On May 24, 2024, the official NewJeans YouTube channel released ''How Sweet' 응원법', a stand-alone piece of content posted on the official NewJeans YouTube channel. Fan-chant guide for 'How Sweet', the title track of the double single released the same day."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=9u2xXFLQHdc",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "9u2xXFLQHdc"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=9u2xXFLQHdc"
+    },
+    "tags": [
+      "clip",
+      "cheer-guide"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
   },
   {
     "id": "content-2024-05-29-light-jeans-essential-campaign-behind",
@@ -10698,6 +12766,51 @@
     "verified": true
   },
   {
+    "id": "content-2024-06-14-yt-bubble-gum-mv-review",
+    "date": "2024-06-14",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans 『Bubble Gum』MVレビュー",
+      "en": "NewJeans (뉴진스) 'Bubble Gum' MV Review"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2024年6月14日、NewJeans公式YouTubeチャンネルで「'Bubble Gum' MV Review」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。『Bubble Gum』MVをメンバーが振り返るレビュー映像（約12分）。",
+      "en": "On June 14, 2024, the official NewJeans YouTube channel released ''Bubble Gum' MV Review', a stand-alone piece of content posted on the official NewJeans YouTube channel. The members look back on the 'Bubble Gum' MV (about 12 minutes)."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=77exoBXDIYQ",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "77exoBXDIYQ"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=77exoBXDIYQ"
+    },
+    "tags": [
+      "clip",
+      "mv-reaction"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
     "id": "content-2024-06-18-light-jeans-how-sweet-bubble-gum-music-show-behind-ep-1",
     "date": "2024-06-18",
     "date_type": "release",
@@ -10790,6 +12903,140 @@
     ],
     "verified": false,
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+  },
+  {
+    "id": "content-2024-06-20-yt-right-now",
+    "date": "2024-06-20",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans 『Right Now』応援法",
+      "en": "NewJeans (뉴진스) 'Right Now' 응원법"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2024年6月20日、NewJeans公式YouTubeチャンネルで「'Right Now' 응원법」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。6月17日にMVが公開された『Right Now』の応援法ガイド映像。",
+      "en": "On June 20, 2024, the official NewJeans YouTube channel released ''Right Now' 응원법', a stand-alone piece of content posted on the official NewJeans YouTube channel. Fan-chant guide for 'Right Now', whose MV was released on June 17."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=B0BEtgu2gp4",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "B0BEtgu2gp4"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=B0BEtgu2gp4"
+    },
+    "tags": [
+      "clip",
+      "cheer-guide"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
+    "id": "content-2024-06-20-yt-supernatural",
+    "date": "2024-06-20",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans 『Supernatural』応援法",
+      "en": "NewJeans (뉴진스) 'Supernatural' 응원법"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2024年6月20日、NewJeans公式YouTubeチャンネルで「'Supernatural' 응원법」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。6月21日発売の日本デビューシングル『Supernatural』の応援法ガイド映像。",
+      "en": "On June 20, 2024, the official NewJeans YouTube channel released ''Supernatural' 응원법', a stand-alone piece of content posted on the official NewJeans YouTube channel. Fan-chant guide for 'Supernatural', the Japanese debut single due June 21."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=KS-h2vMTDck",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "KS-h2vMTDck"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=KS-h2vMTDck"
+    },
+    "tags": [
+      "clip",
+      "cheer-guide"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
+    "id": "content-2024-06-22-yt-official-light-stick-user-guide",
+    "date": "2024-06-22",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans 公式ペンライト使用ガイド",
+      "en": "NewJeans (뉴진스) Official Light Stick User Guide (공식 응원봉 사용 안내)"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2024年6月22日、NewJeans公式YouTubeチャンネルで「Official Light Stick User Guide (공식 응원봉 사용 안내)」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。公式ペンライト「Binky Bong」の使い方を案内する約8分の映像。6月26〜27日の東京ドーム公演「Bunnies Camp 2024 Tokyo Dome」を前に公開された。",
+      "en": "On June 22, 2024, the official NewJeans YouTube channel released 'Official Light Stick User Guide (공식 응원봉 사용 안내)', a stand-alone piece of content posted on the official NewJeans YouTube channel. A roughly eight-minute guide to using the official light stick 'Binky Bong', released ahead of 'Bunnies Camp 2024 Tokyo Dome' on June 26-27."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=vKa-Yvw3QQA",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "vKa-Yvw3QQA"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=vKa-Yvw3QQA"
+    },
+    "tags": [
+      "clip"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
   },
   {
     "id": "content-2024-06-25-light-jeans-shinhan-sol-travel-check-card-campaign-behind",
@@ -11744,6 +13991,42 @@
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
   },
   {
+    "id": "content-2024-08-18-phoning-minji-hanni-four-hour-face-call",
+    "date": "2024-08-18",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "phoning",
+    "members": [
+      "minji",
+      "hanni"
+    ],
+    "title": {
+      "ja": "Phoning ミンジ＆ハニ 約4時間のフェイスコール",
+      "en": "Phoning: Minji and Hanni four-hour face call"
+    },
+    "summary": {
+      "ja": "Phoningでのライブ配信（約243分）。",
+      "en": "Live call on Phoning (about 243 minutes)."
+    },
+    "detail": {
+      "ja": "2024年8月18日、ミンジとハニがPhoningで約4時間3分にわたるフェイスコールを行った。Phoning LIVEとしては最長級の配信。",
+      "en": "On August 18, 2024, Minji and Hanni held a face call on Phoning lasting about four hours and three minutes, one of the longest Phoning lives on record."
+    },
+    "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "phoning-live",
+      "live-stream"
+    ],
+    "verified": false,
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+  },
+  {
     "id": "content-2024-08-20-light-jeans-supernatural-right-now-music-show-behind",
     "date": "2024-08-20",
     "date_type": "release",
@@ -12110,6 +14393,51 @@
       "vlog"
     ],
     "verified": true
+  },
+  {
+    "id": "content-2024-09-08-yt-i-wont-wait-im-feeling-newjeans-howsweet-clip",
+    "date": "2024-09-08",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "I won't wait, I'm feeling（『How Sweet』クリップ）",
+      "en": "I won't wait, I'm feeling (#NewJeans_HowSweet clip)",
+      "original": "I won't wait, I'm feeling🪩 #NewJeans #뉴진스 #NewJeans_HowSweet #NewJeans_is_Everywhere"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2024年9月8日、NewJeans公式YouTubeチャンネルで「I won't wait, I'm feeling (#NewJeans_HowSweet clip)」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。『How Sweet』の歌詞をタイトルにした約1分のクリップ。",
+      "en": "On September 8, 2024, the official NewJeans YouTube channel released 'I won't wait, I'm feeling (#NewJeans_HowSweet clip)', a stand-alone piece of content posted on the official NewJeans YouTube channel. A roughly one-minute clip titled after a lyric from 'How Sweet'."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=Hnmz2nvvqwA",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "Hnmz2nvvqwA"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Hnmz2nvvqwA"
+    },
+    "tags": [
+      "clip"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
   },
   {
     "id": "content-2024-09-10-light-jeans-korea-tourism-organization-behind",
@@ -12576,6 +14904,53 @@
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
   },
   {
+    "id": "content-2024-10-01-about-jeans-d-days-day-5-danielle-vlog",
+    "date": "2024-10-01",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "[About Jeans] :D Days (Day 5) モダニ 台北に行ったダニ〜〜｜DANIELLE vlog",
+      "en": "[About Jeans] :D Days (Day 5) 모다니 타이베이에 갔다니~~ | DANIELLE vlog",
+      "original": ":D Days🌻 (Day 5) 모다니 타이베이에 갔다니~~💞🌙✈️ | DANIELLE vlog"
+    },
+    "summary": {
+      "ja": "Vlogシリーズ「About Jeans」。",
+      "en": "'About Jeans' vlog."
+    },
+    "detail": {
+      "ja": "2024年10月1日、NewJeans公式YouTubeチャンネルで「:D Days (Day 5) 모다니 타이베이에 갔다니~~ | DANIELLE vlog」が公開された。NewJeans公式YouTubeチャンネルのVlogシリーズ「About Jeans」の一編。メンバー自身が記録した旅行や日常の映像。ダニエルのVlogシリーズ「:D Days」第5回。台北滞在の記録。出演はダニエル。",
+      "en": "On October 1, 2024, the official NewJeans YouTube channel released ':D Days (Day 5) 모다니 타이베이에 갔다니~~ | DANIELLE vlog', an episode of 'About Jeans', the NewJeans channel's vlog series of travel and daily-life footage recorded by the members themselves. Fifth entry in Danielle's ':D Days' vlog series, recorded in Taipei. Featuring Danielle."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=J09BhYfVGqU",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://thetvdb.com/series/about-jeans/allseasons/official"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "J09BhYfVGqU"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=J09BhYfVGqU"
+    },
+    "tags": [
+      "about-jeans",
+      "vlog"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table. Not on namu.wiki's current content table (Danielle-featuring rows were removed there)."
+  },
+  {
     "id": "content-2024-10-03-jeans-zine-ep-2",
     "date": "2024-10-03",
     "date_type": "release",
@@ -12619,6 +14994,86 @@
       "variety"
     ],
     "verified": true
+  },
+  {
+    "id": "content-2024-10-06-phoning-hanni-birthday-face-call",
+    "date": "2024-10-06",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "phoning",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Phoning ハニ誕生日パーティー・フェイスコール",
+      "en": "Phoning: Hanni's birthday party face call"
+    },
+    "summary": {
+      "ja": "Phoningでのライブ配信（約57分）。",
+      "en": "Live call on Phoning (about 57 minutes)."
+    },
+    "detail": {
+      "ja": "2024年10月6日、ハニの誕生日を祝う全員参加のフェイスコール（約57分）がPhoningで行われた。",
+      "en": "On October 6, 2024, an all-member face call of about 57 minutes celebrating Hanni's birthday was held on Phoning."
+    },
+    "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "phoning-live",
+      "live-stream"
+    ],
+    "verified": false,
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+  },
+  {
+    "id": "content-2024-10-06-yt-hannis-folder-what-home-feels-like",
+    "date": "2024-10-06",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "hanni's folder : what home feels like",
+      "en": "hanni's folder : what home feels like"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2024年10月6日、NewJeans公式YouTubeチャンネルで「hanni's folder : what home feels like」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。ハニの誕生日（10月6日）に公開された、ハニ自身の映像フォルダから編集した約5分の映像。出演はハニ。",
+      "en": "On October 6, 2024, the official NewJeans YouTube channel released 'hanni's folder : what home feels like', a stand-alone piece of content posted on the official NewJeans YouTube channel. A roughly five-minute video cut from Hanni's own footage, released on her birthday (October 6). Featuring Hanni."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=RmrxJyhKfPM",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "RmrxJyhKfPM"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=RmrxJyhKfPM"
+    },
+    "tags": [
+      "clip",
+      "vlog"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
   },
   {
     "id": "content-2024-10-08-about-jeans-ep-7-back-home-hanni-vlog",
@@ -12710,6 +15165,42 @@
     ],
     "verified": false,
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+  },
+  {
+    "id": "content-2024-10-11-phoning-minji-hanni-live",
+    "date": "2024-10-11",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "phoning",
+    "members": [
+      "minji",
+      "hanni"
+    ],
+    "title": {
+      "ja": "Phoning ミンジ＆ハニ ライブ",
+      "en": "Phoning: Minji and Hanni live"
+    },
+    "summary": {
+      "ja": "Phoningでのライブ配信（約44分）。",
+      "en": "Live call on Phoning (about 44 minutes)."
+    },
+    "detail": {
+      "ja": "2024年10月11日、ミンジのアカウントからハニと共にPhoningでライブ配信（約44分）を行った。",
+      "en": "On October 11, 2024, Minji went live on Phoning together with Hanni for about 44 minutes."
+    },
+    "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "phoning-live",
+      "live-stream"
+    ],
+    "verified": false,
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. Last entry in the namu log; the existing 2024-10-18 record (news-sourced) follows it."
   },
   {
     "id": "content-2024-10-15-light-jeans-pepero-behind",
@@ -12979,6 +15470,51 @@
       "photoshoot"
     ],
     "verified": true
+  },
+  {
+    "id": "content-2024-10-28-bunnies-day-newjeans-love-bunnies",
+    "date": "2024-10-28",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "[Bunnies Day] NewJeans Love Bunnies",
+      "en": "[Bunnies Day] NewJeans Love Bunnies"
+    },
+    "summary": {
+      "ja": "Bunnies向け映像。",
+      "en": "Video for Bunnies."
+    },
+    "detail": {
+      "ja": "2024年10月28日、NewJeans公式YouTubeチャンネルで「NewJeans Love Bunnies」が公開された。ファンダム「Bunnies」に向けて公式YouTubeチャンネルで公開された映像。ファンダム名「Bunnies」公開から2年の「Bunnies Day」に合わせた約40秒のメッセージ映像。",
+      "en": "On October 28, 2024, the official NewJeans YouTube channel released 'NewJeans Love Bunnies', a video for the fandom Bunnies posted on the official YouTube channel. A roughly 40-second message video for 'Bunnies Day', two years after the fandom name Bunnies was revealed."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=gnUpJLtfwJw",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "gnUpJLtfwJw"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=gnUpJLtfwJw"
+    },
+    "tags": [
+      "bunnies",
+      "fan-content"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table. Pacific display shows Oct 28, 2024; a midnight-KST upload would mean Oct 29 KST (the 100th-day anniversary date). Kept as Oct 28 for consistency with the existing 2025 Bunnies Day record."
   },
   {
     "id": "content-2024-10-30-by-jeans-laufey-falling-behind-cover-by-minji",
@@ -13432,6 +15968,51 @@
     "verified": true
   },
   {
+    "id": "content-2024-11-15-by-jeans-noah-cyrus-july-cover-by-danielle",
+    "date": "2024-11-15",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "[By Jeans] 'Noah Cyrus - July' カバー by DANIELLE",
+      "en": "[By Jeans] 'Noah Cyrus - July' Cover by DANIELLE"
+    },
+    "summary": {
+      "ja": "カバー・シリーズ「By Jeans」。",
+      "en": "'By Jeans' solo cover."
+    },
+    "detail": {
+      "ja": "2024年11月15日、NewJeans公式YouTubeチャンネルで「'Noah Cyrus - July' Cover by DANIELLE」が公開された。NewJeans公式YouTubeチャンネルのカバー・シリーズ「By Jeans」の一編。メンバーがソロで楽曲をカバーする。出演はダニエル。",
+      "en": "On November 15, 2024, the official NewJeans YouTube channel released ''Noah Cyrus - July' Cover by DANIELLE', an episode of 'By Jeans', the NewJeans channel's cover series in which a member performs a solo cover. Featuring Danielle."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=O3kS6fjj-Qs",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "O3kS6fjj-Qs"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=O3kS6fjj-Qs"
+    },
+    "tags": [
+      "by-jeans",
+      "cover"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table. Not on namu.wiki's current content table (Danielle-featuring rows were removed there)."
+  },
+  {
     "id": "content-2024-11-19-about-jeans-minji-scene-8-minji-vlog",
     "date": "2024-11-19",
     "date_type": "release",
@@ -13614,6 +16195,52 @@
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
   },
   {
+    "id": "content-2024-11-26-yt-2025-seasons-greetings-preview-clip-1",
+    "date": "2024-11-26",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "[Preview] NewJeans 2025 SEASON'S GREETINGS プレビュークリップ #1",
+      "en": "[Preview] NewJeans (뉴진스) 2025 SEASON'S GREETINGS Preview Clip #1"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2024年11月26日、NewJeans公式YouTubeチャンネルで「2025 SEASON'S GREETINGS Preview Clip #1」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。「2025 SEASON'S GREETINGS」のプレビュークリップ第1弾。",
+      "en": "On November 26, 2024, the official NewJeans YouTube channel released '2025 SEASON'S GREETINGS Preview Clip #1', a stand-alone piece of content posted on the official NewJeans YouTube channel. First preview clip for the '2025 SEASON'S GREETINGS' package."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=3OgNx9OxTPw",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "3OgNx9OxTPw"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=3OgNx9OxTPw"
+    },
+    "tags": [
+      "clip",
+      "seasons-greetings",
+      "preview"
+    ],
+    "verified": false,
+    "editor_note": "YouTube watch page (reader, US-Pacific display) shows 2024-11-25; greeting/preview-type uploads on this channel go up at midnight KST, which shifts the Pacific display a day earlier (verified pattern on 30 namu-dated items), so the following KST date 2024-11-26 is used. Not confirmed from a KST-dated source."
+  },
+  {
     "id": "content-2024-11-27-by-jeans-grentperez-clementine-cover-by-hanni",
     "date": "2024-11-27",
     "date_type": "release",
@@ -13701,6 +16328,52 @@
       "variety"
     ],
     "verified": true
+  },
+  {
+    "id": "content-2024-11-28-yt-2025-seasons-greetings-preview-clip-2",
+    "date": "2024-11-28",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "[Preview] NewJeans 2025 SEASON'S GREETINGS プレビュークリップ #2",
+      "en": "[Preview] NewJeans (뉴진스) 2025 SEASON'S GREETINGS Preview Clip #2"
+    },
+    "summary": {
+      "ja": "公式YouTubeの単発コンテンツ。",
+      "en": "Stand-alone official YouTube content."
+    },
+    "detail": {
+      "ja": "2024年11月28日、NewJeans公式YouTubeチャンネルで「2025 SEASON'S GREETINGS Preview Clip #2」が公開された。NewJeans公式YouTubeチャンネルで公開された単発コンテンツ。「2025 SEASON'S GREETINGS」のプレビュークリップ第2弾。",
+      "en": "On November 28, 2024, the official NewJeans YouTube channel released '2025 SEASON'S GREETINGS Preview Clip #2', a stand-alone piece of content posted on the official NewJeans YouTube channel. Second preview clip for the '2025 SEASON'S GREETINGS' package."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=sdwInKIu-Kg",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "sdwInKIu-Kg"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=sdwInKIu-Kg"
+    },
+    "tags": [
+      "clip",
+      "seasons-greetings",
+      "preview"
+    ],
+    "verified": false,
+    "editor_note": "YouTube watch page (reader, US-Pacific display) shows 2024-11-27; greeting/preview-type uploads on this channel go up at midnight KST, which shifts the Pacific display a day earlier (verified pattern on 30 namu-dated items), so the following KST date 2024-11-28 is used. Not confirmed from a KST-dated source."
   },
   {
     "id": "content-2024-12-03-light-jeans-billboard-artist-photoshoot-behind",
@@ -14115,6 +16788,53 @@
       "behind"
     ],
     "verified": true
+  },
+  {
+    "id": "content-2024-12-24-light-jeans-2025-seasons-greetings-behind",
+    "date": "2024-12-24",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "[Light Jeans] 2025 SEASON'S GREETINGS ビハインド",
+      "en": "[Light Jeans] 2025 SEASON'S GREETINGS Behind"
+    },
+    "summary": {
+      "ja": "ビハインド・シリーズ「Light Jeans」。",
+      "en": "'Light Jeans' behind-the-scenes episode."
+    },
+    "detail": {
+      "ja": "2024年12月24日、NewJeans公式YouTubeチャンネルで「2025 SEASON'S GREETINGS Behind」が公開された。NewJeans公式YouTubeチャンネルの軽いビハインド・シリーズ「Light Jeans」の一編。撮影現場、音楽番組、イベント、広告キャンペーンの舞台裏などを短くまとめる。「2025 SEASON'S GREETINGS」撮影の舞台裏（約15分）。",
+      "en": "On December 24, 2024, the official NewJeans YouTube channel released '2025 SEASON'S GREETINGS Behind', an episode of 'Light Jeans', the NewJeans channel's light behind-the-scenes series covering photoshoots, music shows, events and ad campaigns. About 15 minutes behind the '2025 SEASON'S GREETINGS' shoot."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=ukXxpw4Z2iM",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://thetvdb.com/series/light-jeans/allseasons/official"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "ukXxpw4Z2iM"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ukXxpw4Z2iM"
+    },
+    "tags": [
+      "light-jeans",
+      "behind",
+      "seasons-greetings"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
   },
   {
     "id": "content-2024-12-26-jeans-zine-ep-3",
@@ -14627,6 +17347,53 @@
     "verified": true
   },
   {
+    "id": "content-2025-02-11-light-jeans-kgma-2024-dance-practice-behind",
+    "date": "2025-02-11",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "[Light Jeans] KGMA 2024 ダンス練習ビハインド",
+      "en": "[Light Jeans] KGMA 2024 Dance Practice Behind"
+    },
+    "summary": {
+      "ja": "ビハインド・シリーズ「Light Jeans」。",
+      "en": "'Light Jeans' behind-the-scenes episode."
+    },
+    "detail": {
+      "ja": "2025年2月11日、NewJeans公式YouTubeチャンネルで「KGMA 2024 Dance Practice Behind」が公開された。NewJeans公式YouTubeチャンネルの軽いビハインド・シリーズ「Light Jeans」の一編。撮影現場、音楽番組、イベント、広告キャンペーンの舞台裏などを短くまとめる。2024年11月の「KGMA 2024」（Korea Grand Music Awards）出演に向けたダンス練習の舞台裏。",
+      "en": "On February 11, 2025, the official NewJeans YouTube channel released 'KGMA 2024 Dance Practice Behind', an episode of 'Light Jeans', the NewJeans channel's light behind-the-scenes series covering photoshoots, music shows, events and ad campaigns. Behind the dance practice for the group's appearance at the KGMA 2024 (Korea Grand Music Awards) in November 2024."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=mZeRbgRF2H0",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://thetvdb.com/series/light-jeans/allseasons/official"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "mZeRbgRF2H0"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=mZeRbgRF2H0"
+    },
+    "tags": [
+      "light-jeans",
+      "behind",
+      "dance-practice"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
     "id": "content-2025-02-13-light-jeans-vogue-photoshoot-behind",
     "date": "2025-02-13",
     "date_type": "release",
@@ -14764,6 +17531,100 @@
     "verified": true
   },
   {
+    "id": "content-2025-02-25-light-jeans-japan-music-show-coke-studio-live-2024-behind",
+    "date": "2025-02-25",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "[Light Jeans] 日本の音楽番組＆Coke STUDIO LIVE 2024 ビハインド",
+      "en": "[Light Jeans] Japan Music Show & Coke STUDIO LIVE 2024 Behind"
+    },
+    "summary": {
+      "ja": "ビハインド・シリーズ「Light Jeans」。",
+      "en": "'Light Jeans' behind-the-scenes episode."
+    },
+    "detail": {
+      "ja": "2025年2月25日、NewJeans公式YouTubeチャンネルで「Japan Music Show & Coke STUDIO LIVE 2024 Behind」が公開された。NewJeans公式YouTubeチャンネルの軽いビハインド・シリーズ「Light Jeans」の一編。撮影現場、音楽番組、イベント、広告キャンペーンの舞台裏などを短くまとめる。2024年末の日本の音楽番組出演と「Coke STUDIO LIVE 2024」の舞台裏。",
+      "en": "On February 25, 2025, the official NewJeans YouTube channel released 'Japan Music Show & Coke STUDIO LIVE 2024 Behind', an episode of 'Light Jeans', the NewJeans channel's light behind-the-scenes series covering photoshoots, music shows, events and ad campaigns. Behind the group's late-2024 Japanese music-show appearances and 'Coke STUDIO LIVE 2024'."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=jzBa2WqkxvI",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://thetvdb.com/series/light-jeans/allseasons/official"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "jzBa2WqkxvI"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=jzBa2WqkxvI"
+    },
+    "tags": [
+      "light-jeans",
+      "behind",
+      "music-show"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
+    "id": "content-2025-03-04-light-jeans-hanni-cosmopolitan-korea-photoshoot-behind",
+    "date": "2025-03-04",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "[Light Jeans] HANNI COSMOPOLITAN KOREA 撮影ビハインド",
+      "en": "[Light Jeans] HANNI COSMOPOLITAN KOREA Photoshoot Behind"
+    },
+    "summary": {
+      "ja": "ビハインド・シリーズ「Light Jeans」。",
+      "en": "'Light Jeans' behind-the-scenes episode."
+    },
+    "detail": {
+      "ja": "2025年3月4日、NewJeans公式YouTubeチャンネルで「HANNI COSMOPOLITAN KOREA Photoshoot Behind」が公開された。NewJeans公式YouTubeチャンネルの軽いビハインド・シリーズ「Light Jeans」の一編。撮影現場、音楽番組、イベント、広告キャンペーンの舞台裏などを短くまとめる。出演はハニ。",
+      "en": "On March 4, 2025, the official NewJeans YouTube channel released 'HANNI COSMOPOLITAN KOREA Photoshoot Behind', an episode of 'Light Jeans', the NewJeans channel's light behind-the-scenes series covering photoshoots, music shows, events and ad campaigns. Featuring Hanni."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=kaG_aNyPax4",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://thetvdb.com/series/light-jeans/allseasons/official"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "kaG_aNyPax4"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=kaG_aNyPax4"
+    },
+    "tags": [
+      "light-jeans",
+      "behind",
+      "photoshoot"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
     "id": "content-2025-03-06-light-jeans-minji-marie-claire-photoshoot-behind",
     "date": "2025-03-06",
     "date_type": "release",
@@ -14808,6 +17669,100 @@
       "photoshoot"
     ],
     "verified": true
+  },
+  {
+    "id": "content-2025-03-11-light-jeans-danielle-esquire-photoshoot-behind",
+    "date": "2025-03-11",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "[Light Jeans] DANIELLE Esquire 撮影ビハインド",
+      "en": "[Light Jeans] DANIELLE Esquire Photoshoot Behind"
+    },
+    "summary": {
+      "ja": "ビハインド・シリーズ「Light Jeans」。",
+      "en": "'Light Jeans' behind-the-scenes episode."
+    },
+    "detail": {
+      "ja": "2025年3月11日、NewJeans公式YouTubeチャンネルで「DANIELLE Esquire Photoshoot Behind」が公開された。NewJeans公式YouTubeチャンネルの軽いビハインド・シリーズ「Light Jeans」の一編。撮影現場、音楽番組、イベント、広告キャンペーンの舞台裏などを短くまとめる。出演はダニエル。",
+      "en": "On March 11, 2025, the official NewJeans YouTube channel released 'DANIELLE Esquire Photoshoot Behind', an episode of 'Light Jeans', the NewJeans channel's light behind-the-scenes series covering photoshoots, music shows, events and ad campaigns. Featuring Danielle."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=nXeOamUDCLo",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://thetvdb.com/series/light-jeans/allseasons/official"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "nXeOamUDCLo"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=nXeOamUDCLo"
+    },
+    "tags": [
+      "light-jeans",
+      "behind",
+      "photoshoot"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table. Not on namu.wiki's current content table (Danielle-featuring rows were removed there)."
+  },
+  {
+    "id": "content-2025-03-13-about-jeans-minji-scene-10-minji-vlog",
+    "date": "2025-03-13",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "[About Jeans] MINJI SCENE #10 ロンドンに行く？｜MINJI vlog",
+      "en": "[About Jeans] MINJI SCENE #10 런던 가요? | MINJI vlog",
+      "original": "[About Jeans] MINJI SCENE🎬 #10 런던 가요? | MINJI vlog"
+    },
+    "summary": {
+      "ja": "Vlogシリーズ「About Jeans」。",
+      "en": "'About Jeans' vlog."
+    },
+    "detail": {
+      "ja": "2025年3月13日、NewJeans公式YouTubeチャンネルで「MINJI SCENE #10 런던 가요? | MINJI vlog」が公開された。NewJeans公式YouTubeチャンネルのVlogシリーズ「About Jeans」の一編。メンバー自身が記録した旅行や日常の映像。ミンジのVlogシリーズ「MINJI SCENE」第10回。ロンドン滞在の記録。出演はミンジ。",
+      "en": "On March 13, 2025, the official NewJeans YouTube channel released 'MINJI SCENE #10 런던 가요? | MINJI vlog', an episode of 'About Jeans', the NewJeans channel's vlog series of travel and daily-life footage recorded by the members themselves. Tenth entry in Minji's 'MINJI SCENE' vlog series, recorded in London. Featuring Minji."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=ZKpC0VTrJvU",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://thetvdb.com/series/about-jeans/allseasons/official"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "ZKpC0VTrJvU"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ZKpC0VTrJvU"
+    },
+    "tags": [
+      "about-jeans",
+      "vlog"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
   },
   {
     "id": "content-2025-03-18-light-jeans-hanni-ugg-spring-summer-campaign-behind",
@@ -14856,6 +17811,52 @@
     "verified": true
   },
   {
+    "id": "content-2025-06-12-jeans-zine-plus-zip",
+    "date": "2025-06-12",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "[Jeans' ZINE+] 一日中体育の時間！.ZIP",
+      "en": "[Jeans' ZINE+] 하루 종일 체육 시간!.ZIP",
+      "original": "[Jeans' ZINE+] 하루 종일 체육 시간!.ZIP"
+    },
+    "summary": {
+      "ja": "「Jeans' ZINE+」総集編。",
+      "en": "\"Jeans' ZINE+\" compilation."
+    },
+    "detail": {
+      "ja": "2025年6月12日、NewJeans公式YouTubeチャンネルで「하루 종일 체육 시간!.ZIP」が公開された。「Jeans' ZINE」各企画の全エピソードを1本にまとめた再編集版「Jeans' ZINE+ .ZIP」。元の企画「하루 종일 체육 시간!」は2023年4月27日と5月4日（EP.1〜2）に公開された。",
+      "en": "On June 12, 2025, the official NewJeans YouTube channel released '하루 종일 체육 시간!.ZIP', a \"Jeans' ZINE+ .ZIP\" compilation re-editing a full \"Jeans' ZINE\" storyline into a single video. The original '하루 종일 체육 시간!' episodes were released on April 27 and May 4, 2023 (EP.1-2)."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=A6JJa5s5yqE",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "A6JJa5s5yqE"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=A6JJa5s5yqE"
+    },
+    "tags": [
+      "jeans-zine",
+      "compilation"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
     "id": "content-2025-06-17-jeans-clip-jeans-clip-0-1",
     "date": "2025-06-17",
     "date_type": "release",
@@ -14898,6 +17899,190 @@
       "clip"
     ],
     "verified": true
+  },
+  {
+    "id": "content-2025-06-19-jeans-zine-plus-zip",
+    "date": "2025-06-19",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "[Jeans' ZINE+] OMGプロダクション.ZIP",
+      "en": "[Jeans' ZINE+] 오엠지 프로덕션.ZIP",
+      "original": "[Jeans' ZINE+] 오엠지 프로덕션.ZIP"
+    },
+    "summary": {
+      "ja": "「Jeans' ZINE+」総集編。",
+      "en": "\"Jeans' ZINE+\" compilation."
+    },
+    "detail": {
+      "ja": "2025年6月19日、NewJeans公式YouTubeチャンネルで「오엠지 프로덕션.ZIP」が公開された。「Jeans' ZINE」各企画の全エピソードを1本にまとめた再編集版「Jeans' ZINE+ .ZIP」。元の企画「오엠지 프로덕션」は2023年4月6日と4月13日（EP.1〜2）に公開された。",
+      "en": "On June 19, 2025, the official NewJeans YouTube channel released '오엠지 프로덕션.ZIP', a \"Jeans' ZINE+ .ZIP\" compilation re-editing a full \"Jeans' ZINE\" storyline into a single video. The original '오엠지 프로덕션' episodes were released on April 6 and 13, 2023 (EP.1-2)."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=9INxDob4YT4",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "9INxDob4YT4"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=9INxDob4YT4"
+    },
+    "tags": [
+      "jeans-zine",
+      "compilation"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
+    "id": "content-2025-06-25-jeans-clip-jeans-clip-0-2",
+    "date": "2025-06-25",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Jeans' Clip # 0 2",
+      "en": "Jeans' Clip # 0 2",
+      "original": "Jeans' Clip # 0️⃣ 2️⃣ | NewJeans"
+    },
+    "summary": {
+      "ja": "短編クリップ「Jeans' Clip」。",
+      "en": "\"Jeans' Clip\" short clip."
+    },
+    "detail": {
+      "ja": "2025年6月25日、NewJeans公式YouTubeチャンネルで「Jeans' Clip # 0 2」が公開された。NewJeans公式YouTubeチャンネルで公開された短編クリップ・シリーズ「Jeans' Clip」の一編。",
+      "en": "On June 25, 2025, the official NewJeans YouTube channel released 'Jeans' Clip # 0 2', an entry in \"Jeans' Clip\", a short clip series posted on the NewJeans channel."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=bqX3vLRJLgg",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "bqX3vLRJLgg"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=bqX3vLRJLgg"
+    },
+    "tags": [
+      "jeans-clip",
+      "clip"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
+    "id": "content-2025-06-27-jeans-zine-plus-zip",
+    "date": "2025-06-27",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "[Jeans' ZINE+] 春のピクニック.ZIP",
+      "en": "[Jeans' ZINE+] 봄맞이 피크닉.ZIP",
+      "original": "[Jeans' ZINE+] 봄맞이 피크닉.ZIP"
+    },
+    "summary": {
+      "ja": "「Jeans' ZINE+」総集編。",
+      "en": "\"Jeans' ZINE+\" compilation."
+    },
+    "detail": {
+      "ja": "2025年6月27日、NewJeans公式YouTubeチャンネルで「봄맞이 피크닉.ZIP」が公開された。「Jeans' ZINE」各企画の全エピソードを1本にまとめた再編集版「Jeans' ZINE+ .ZIP」。元の企画「봄맞이 피크닉」は2023年6月8日〜22日（EP.1〜3）に公開された。",
+      "en": "On June 27, 2025, the official NewJeans YouTube channel released '봄맞이 피크닉.ZIP', a \"Jeans' ZINE+ .ZIP\" compilation re-editing a full \"Jeans' ZINE\" storyline into a single video. The original '봄맞이 피크닉' episodes were released between June 8 and 22, 2023 (EP.1-3)."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=yYznzbLNecA",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "yYznzbLNecA"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=yYznzbLNecA"
+    },
+    "tags": [
+      "jeans-zine",
+      "compilation"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
+    "id": "content-2025-07-02-jeans-zine-plus-zip",
+    "date": "2025-07-02",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "[Jeans' ZINE+] めちゃくちゃ称賛討論会.ZIP",
+      "en": "[Jeans' ZINE+] 엉망잔칭 토론회.ZIP",
+      "original": "[Jeans' ZINE+] 엉망잔칭 토론회.ZIP"
+    },
+    "summary": {
+      "ja": "「Jeans' ZINE+」総集編。",
+      "en": "\"Jeans' ZINE+\" compilation."
+    },
+    "detail": {
+      "ja": "2025年7月2日、NewJeans公式YouTubeチャンネルで「엉망잔칭 토론회.ZIP」が公開された。「Jeans' ZINE」各企画の全エピソードを1本にまとめた再編集版「Jeans' ZINE+ .ZIP」。元の企画「엉망잔칭 토론회」は2023年5月11日と5月18日（EP.1〜2）に公開された。",
+      "en": "On July 2, 2025, the official NewJeans YouTube channel released '엉망잔칭 토론회.ZIP', a \"Jeans' ZINE+ .ZIP\" compilation re-editing a full \"Jeans' ZINE\" storyline into a single video. The original '엉망잔칭 토론회' episodes were released on May 11 and 18, 2023 (EP.1-2)."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=yWvzZW_g5b0",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "yWvzZW_g5b0"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=yWvzZW_g5b0"
+    },
+    "tags": [
+      "jeans-zine",
+      "compilation"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
   },
   {
     "id": "content-2025-07-04-jeans-zine-plus-zip",
@@ -14944,6 +18129,98 @@
     "verified": true
   },
   {
+    "id": "content-2025-07-09-jeans-clip-jeans-clip-0-3",
+    "date": "2025-07-09",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Jeans' Clip # 0 3",
+      "en": "Jeans' Clip # 0 3",
+      "original": "Jeans' Clip # 0️⃣ 3️⃣ | NewJeans"
+    },
+    "summary": {
+      "ja": "短編クリップ「Jeans' Clip」。",
+      "en": "\"Jeans' Clip\" short clip."
+    },
+    "detail": {
+      "ja": "2025年7月9日、NewJeans公式YouTubeチャンネルで「Jeans' Clip # 0 3」が公開された。NewJeans公式YouTubeチャンネルで公開された短編クリップ・シリーズ「Jeans' Clip」の一編。",
+      "en": "On July 9, 2025, the official NewJeans YouTube channel released 'Jeans' Clip # 0 3', an entry in \"Jeans' Clip\", a short clip series posted on the NewJeans channel."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=5X2__AA0IdU",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "5X2__AA0IdU"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=5X2__AA0IdU"
+    },
+    "tags": [
+      "jeans-clip",
+      "clip"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
+    "id": "content-2025-07-11-jeans-zine-plus-zip",
+    "date": "2025-07-11",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "[Jeans' ZINE+] ニュージンスパランド.ZIP",
+      "en": "[Jeans' ZINE+] 뉴진스파랜드.ZIP",
+      "original": "[Jeans' ZINE+] 뉴진스파랜드.ZIP"
+    },
+    "summary": {
+      "ja": "「Jeans' ZINE+」総集編。",
+      "en": "\"Jeans' ZINE+\" compilation."
+    },
+    "detail": {
+      "ja": "2025年7月11日、NewJeans公式YouTubeチャンネルで「뉴진스파랜드.ZIP」が公開された。「Jeans' ZINE」各企画の全エピソードを1本にまとめた再編集版「Jeans' ZINE+ .ZIP」。元の企画「뉴진스파랜드」は2024年9月26日と10月3日（EP.1〜2）に公開された。",
+      "en": "On July 11, 2025, the official NewJeans YouTube channel released '뉴진스파랜드.ZIP', a \"Jeans' ZINE+ .ZIP\" compilation re-editing a full \"Jeans' ZINE\" storyline into a single video. The original '뉴진스파랜드' episodes were released on September 26 and October 3, 2024 (EP.1-2)."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=wLApx-mWc5Y",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "wLApx-mWc5Y"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=wLApx-mWc5Y"
+    },
+    "tags": [
+      "jeans-zine",
+      "compilation"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
     "id": "content-2025-07-16-jeans-zine-plus-grannies-farm-zip",
     "date": "2025-07-16",
     "date_type": "release",
@@ -14986,6 +18263,100 @@
       "compilation"
     ],
     "verified": true
+  },
+  {
+    "id": "content-2025-07-22-newjeans-day-happy-3rd-anniversary",
+    "date": "2025-07-22",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "[NewJeans Day] デビュー3周年おめでとう",
+      "en": "[NewJeans Day] Happy 3rd Anniversary",
+      "original": "[NewJeans Day🎂] Happy 3rd Anniversary🩷"
+    },
+    "summary": {
+      "ja": "デビュー記念日の記念映像。",
+      "en": "Debut-anniversary video."
+    },
+    "detail": {
+      "ja": "2025年7月22日、NewJeans公式YouTubeチャンネルで「Happy 3rd Anniversary」が公開された。デビュー記念日「NewJeans Day」（7月22日）に合わせて公式YouTubeチャンネルで公開された記念映像。デビュー3周年当日に公開された約20秒の記念映像。同日、ADORは公式SNSで「NewJeans Day On-Air」として未公開写真も公開した。",
+      "en": "On July 22, 2025, the official NewJeans YouTube channel released 'Happy 3rd Anniversary', an anniversary video posted on the official YouTube channel for 'NewJeans Day', the group's debut anniversary (July 22). A roughly 20-second anniversary clip released on the third debut anniversary; the same day ADOR also posted unreleased photos on official SNS as 'NewJeans Day On-Air'."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=zMTPU1rvhyM",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://www.tenasia.co.kr/article/2025072255084"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "zMTPU1rvhyM"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=zMTPU1rvhyM"
+    },
+    "tags": [
+      "anniversary",
+      "newjeans-day"
+    ],
+    "verified": true,
+    "editor_note": "YouTube page (reader, US-Pacific display) shows Jul 21/22, 2025; Korean media (TenAsia 2025-07-22) report both NewJeans Day videos as released on July 22 KST."
+  },
+  {
+    "id": "content-2025-07-22-newjeans-day-we-are-newjeans",
+    "date": "2025-07-22",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "[NewJeans Day] We are NewJeans",
+      "en": "[NewJeans Day] We are NewJeans",
+      "original": "[NewJeans Day🎂] We are NewJeans💫"
+    },
+    "summary": {
+      "ja": "デビュー記念日の記念映像。",
+      "en": "Debut-anniversary video."
+    },
+    "detail": {
+      "ja": "2025年7月22日、NewJeans公式YouTubeチャンネルで「We are NewJeans」が公開された。デビュー記念日「NewJeans Day」（7月22日）に合わせて公式YouTubeチャンネルで公開された記念映像。デビュー3周年に公開された約7分の映像。デビューからの歩みをまとめた内容。",
+      "en": "On July 22, 2025, the official NewJeans YouTube channel released 'We are NewJeans', an anniversary video posted on the official YouTube channel for 'NewJeans Day', the group's debut anniversary (July 22). A roughly seven-minute video released for the third debut anniversary, looking back over the group's activities since debut."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=vCLOISqUHYQ",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://www.tenasia.co.kr/article/2025072255084"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "vCLOISqUHYQ"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=vCLOISqUHYQ"
+    },
+    "tags": [
+      "anniversary",
+      "newjeans-day"
+    ],
+    "verified": true,
+    "editor_note": "YouTube page (reader, US-Pacific display) shows Jul 21/22, 2025; Korean media (TenAsia 2025-07-22) report both NewJeans Day videos as released on July 22 KST."
   },
   {
     "id": "content-2025-07-22-youtube-newjeans-day-on-air",
@@ -15115,6 +18486,144 @@
     "verified": true
   },
   {
+    "id": "content-2025-08-13-jeans-clip-jeans-clip-0-4",
+    "date": "2025-08-13",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Jeans' Clip # 0 4",
+      "en": "Jeans' Clip # 0 4",
+      "original": "Jeans' Clip # 0️⃣ 4️⃣ | NewJeans"
+    },
+    "summary": {
+      "ja": "短編クリップ「Jeans' Clip」。",
+      "en": "\"Jeans' Clip\" short clip."
+    },
+    "detail": {
+      "ja": "2025年8月13日、NewJeans公式YouTubeチャンネルで「Jeans' Clip # 0 4」が公開された。NewJeans公式YouTubeチャンネルで公開された短編クリップ・シリーズ「Jeans' Clip」の一編。",
+      "en": "On August 13, 2025, the official NewJeans YouTube channel released 'Jeans' Clip # 0 4', an entry in \"Jeans' Clip\", a short clip series posted on the NewJeans channel."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=YzUsB8MXTlw",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "YzUsB8MXTlw"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=YzUsB8MXTlw"
+    },
+    "tags": [
+      "jeans-clip",
+      "clip"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
+    "id": "content-2025-08-21-jeans-clip-jeans-clip-0-5",
+    "date": "2025-08-21",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Jeans' Clip # 0 5",
+      "en": "Jeans' Clip # 0 5",
+      "original": "Jeans' Clip # 0️⃣ 5️⃣ | NewJeans"
+    },
+    "summary": {
+      "ja": "短編クリップ「Jeans' Clip」。",
+      "en": "\"Jeans' Clip\" short clip."
+    },
+    "detail": {
+      "ja": "2025年8月21日、NewJeans公式YouTubeチャンネルで「Jeans' Clip # 0 5」が公開された。NewJeans公式YouTubeチャンネルで公開された短編クリップ・シリーズ「Jeans' Clip」の一編。",
+      "en": "On August 21, 2025, the official NewJeans YouTube channel released 'Jeans' Clip # 0 5', an entry in \"Jeans' Clip\", a short clip series posted on the NewJeans channel."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=7G6iDGlZNlY",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "7G6iDGlZNlY"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=7G6iDGlZNlY"
+    },
+    "tags": [
+      "jeans-clip",
+      "clip"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
+    "id": "content-2025-08-28-jeans-zine-plus-zip",
+    "date": "2025-08-28",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "[Jeans' ZINE+] 少し早い春のお出かけ.ZIP",
+      "en": "[Jeans' ZINE+] 조금 이른 봄놀이.ZIP",
+      "original": "[Jeans' ZINE+] 조금 이른 봄놀이.ZIP"
+    },
+    "summary": {
+      "ja": "「Jeans' ZINE+」総集編。",
+      "en": "\"Jeans' ZINE+\" compilation."
+    },
+    "detail": {
+      "ja": "2025年8月28日、NewJeans公式YouTubeチャンネルで「조금 이른 봄놀이.ZIP」が公開された。「Jeans' ZINE」各企画の全エピソードを1本にまとめた再編集版「Jeans' ZINE+ .ZIP」。元の企画「조금 이른 봄놀이」は2024年5月9日と5月16日（EP.1〜2）に公開された。",
+      "en": "On August 28, 2025, the official NewJeans YouTube channel released '조금 이른 봄놀이.ZIP', a \"Jeans' ZINE+ .ZIP\" compilation re-editing a full \"Jeans' ZINE\" storyline into a single video. The original '조금 이른 봄놀이' episodes were released on May 9 and 16, 2024 (EP.1-2)."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=iNHvelouaxI",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "iNHvelouaxI"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=iNHvelouaxI"
+    },
+    "tags": [
+      "jeans-zine",
+      "compilation"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
     "id": "content-2025-09-04-jeans-zine-plus-zip",
     "date": "2025-09-04",
     "date_type": "release",
@@ -15157,6 +18666,52 @@
       "compilation"
     ],
     "verified": true
+  },
+  {
+    "id": "content-2025-09-10-jeans-zine-plus-zip",
+    "date": "2025-09-10",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "[Jeans' ZINE+] 雨天中止特集.ZIP",
+      "en": "[Jeans' ZINE+] 우천 시 취소 특집.ZIP",
+      "original": "[Jeans' ZINE+] 우천 시 취소 특집.ZIP"
+    },
+    "summary": {
+      "ja": "「Jeans' ZINE+」総集編。",
+      "en": "\"Jeans' ZINE+\" compilation."
+    },
+    "detail": {
+      "ja": "2025年9月10日、NewJeans公式YouTubeチャンネルで「우천 시 취소 특집.ZIP」が公開された。「Jeans' ZINE」各企画の全エピソードを1本にまとめた再編集版「Jeans' ZINE+ .ZIP」。元の企画「우천 시 취소 특집」は2023年5月25日と6月1日（EP.1〜2）に公開された。",
+      "en": "On September 10, 2025, the official NewJeans YouTube channel released '우천 시 취소 특집.ZIP', a \"Jeans' ZINE+ .ZIP\" compilation re-editing a full \"Jeans' ZINE\" storyline into a single video. The original '우천 시 취소 특집' episodes were released on May 25 and June 1, 2023 (EP.1-2)."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=y82zHUsqRUc",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "y82zHUsqRUc"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=y82zHUsqRUc"
+    },
+    "tags": [
+      "jeans-zine",
+      "compilation"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
   },
   {
     "id": "content-2025-09-18-jeans-clip-jeans-clip-0-6",
@@ -15511,6 +19066,98 @@
     "verified": true
   },
   {
+    "id": "content-2025-11-13-jeans-zine-plus-zip",
+    "date": "2025-11-13",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "[Jeans' ZINE+] リントルフォレスト.ZIP",
+      "en": "[Jeans' ZINE+] 린틀포레스트.ZIP",
+      "original": "[Jeans' ZINE+] 린틀포레스트.ZIP"
+    },
+    "summary": {
+      "ja": "「Jeans' ZINE+」総集編。",
+      "en": "\"Jeans' ZINE+\" compilation."
+    },
+    "detail": {
+      "ja": "2025年11月13日、NewJeans公式YouTubeチャンネルで「린틀포레스트.ZIP」が公開された。「Jeans' ZINE」各企画の全エピソードを1本にまとめた再編集版「Jeans' ZINE+ .ZIP」。元の企画「린틀포레스트」は2024年2月22日と2月29日（EP.1〜2）に公開された。",
+      "en": "On November 13, 2025, the official NewJeans YouTube channel released '린틀포레스트.ZIP', a \"Jeans' ZINE+ .ZIP\" compilation re-editing a full \"Jeans' ZINE\" storyline into a single video. The original '린틀포레스트' episodes were released on February 22 and 29, 2024 (EP.1-2)."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=uffCXOcna9s",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "uffCXOcna9s"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=uffCXOcna9s"
+    },
+    "tags": [
+      "jeans-zine",
+      "compilation"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
+    "id": "content-2025-11-20-jeans-zine-plus-zip",
+    "date": "2025-11-20",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "[Jeans' ZINE+] 射撃王キム・ミンジ.ZIP",
+      "en": "[Jeans' ZINE+] 사격왕 김민지.ZIP",
+      "original": "[Jeans' ZINE+] 사격왕 김민지.ZIP"
+    },
+    "summary": {
+      "ja": "「Jeans' ZINE+」総集編。",
+      "en": "\"Jeans' ZINE+\" compilation."
+    },
+    "detail": {
+      "ja": "2025年11月20日、NewJeans公式YouTubeチャンネルで「사격왕 김민지.ZIP」が公開された。「Jeans' ZINE」各企画の全エピソードを1本にまとめた再編集版「Jeans' ZINE+ .ZIP」。元の企画「사격왕 김민지」は2024年3月7日と3月14日（EP.1〜2）に公開された。",
+      "en": "On November 20, 2025, the official NewJeans YouTube channel released '사격왕 김민지.ZIP', a \"Jeans' ZINE+ .ZIP\" compilation re-editing a full \"Jeans' ZINE\" storyline into a single video. The original '사격왕 김민지' episodes were released on March 7 and 14, 2024 (EP.1-2)."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=xuS9aw6sKQM",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "xuS9aw6sKQM"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=xuS9aw6sKQM"
+    },
+    "tags": [
+      "jeans-zine",
+      "compilation"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
     "id": "content-2025-11-28-jeans-clip-jeans-clip-0-9",
     "date": "2025-11-28",
     "date_type": "release",
@@ -15553,6 +19200,190 @@
       "clip"
     ],
     "verified": true
+  },
+  {
+    "id": "content-2025-12-04-jeans-zine-plus-zip",
+    "date": "2025-12-04",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "[Jeans' ZINE+] ちびっこ幼稚園 ハニ・ドゥル・セッ.ZIP",
+      "en": "[Jeans' ZINE+] 꼬마 유치원 하니 둘 셋.ZIP",
+      "original": "[Jeans' ZINE+] 꼬마 유치원 하니 둘 셋.ZIP"
+    },
+    "summary": {
+      "ja": "「Jeans' ZINE+」総集編。",
+      "en": "\"Jeans' ZINE+\" compilation."
+    },
+    "detail": {
+      "ja": "2025年12月4日、NewJeans公式YouTubeチャンネルで「꼬마 유치원 하니 둘 셋.ZIP」が公開された。「Jeans' ZINE」各企画の全エピソードを1本にまとめた再編集版「Jeans' ZINE+ .ZIP」。元の企画「꼬마 유치원 하니 둘 셋」は2024年3月21日と3月28日（EP.1〜2）に公開された。",
+      "en": "On December 4, 2025, the official NewJeans YouTube channel released '꼬마 유치원 하니 둘 셋.ZIP', a \"Jeans' ZINE+ .ZIP\" compilation re-editing a full \"Jeans' ZINE\" storyline into a single video. The original '꼬마 유치원 하니 둘 셋' episodes were released on March 21 and 28, 2024 (EP.1-2)."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=mM_y4-7MuPM",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "mM_y4-7MuPM"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=mM_y4-7MuPM"
+    },
+    "tags": [
+      "jeans-zine",
+      "compilation"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
+    "id": "content-2025-12-11-jeans-zine-plus-asap-wish-list-zip",
+    "date": "2025-12-11",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "[Jeans' ZINE+] ASAP Wish List.ZIP",
+      "en": "[Jeans' ZINE+] ASAP Wish List.ZIP",
+      "original": "[Jeans' ZINE+] ASAP Wish List.ZIP"
+    },
+    "summary": {
+      "ja": "「Jeans' ZINE+」総集編。",
+      "en": "\"Jeans' ZINE+\" compilation."
+    },
+    "detail": {
+      "ja": "2025年12月11日、NewJeans公式YouTubeチャンネルで「ASAP Wish List.ZIP」が公開された。「Jeans' ZINE」各企画の全エピソードを1本にまとめた再編集版「Jeans' ZINE+ .ZIP」。元の企画「ASAP Wish List」は2024年2月1日に公開された。",
+      "en": "On December 11, 2025, the official NewJeans YouTube channel released 'ASAP Wish List.ZIP', a \"Jeans' ZINE+ .ZIP\" compilation re-editing a full \"Jeans' ZINE\" storyline into a single video. The original 'ASAP Wish List' episodes were released on February 1, 2024."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=a0R3fQCmBKs",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "a0R3fQCmBKs"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=a0R3fQCmBKs"
+    },
+    "tags": [
+      "jeans-zine",
+      "compilation"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
+    "id": "content-2025-12-19-jeans-clip-jeans-clip-1-0",
+    "date": "2025-12-19",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Jeans' Clip # 1 0",
+      "en": "Jeans' Clip # 1 0",
+      "original": "Jeans' Clip # 1️⃣ 0️⃣ | NewJeans"
+    },
+    "summary": {
+      "ja": "短編クリップ「Jeans' Clip」。",
+      "en": "\"Jeans' Clip\" short clip."
+    },
+    "detail": {
+      "ja": "2025年12月19日、NewJeans公式YouTubeチャンネルで「Jeans' Clip # 1 0」が公開された。NewJeans公式YouTubeチャンネルで公開された短編クリップ・シリーズ「Jeans' Clip」の一編。",
+      "en": "On December 19, 2025, the official NewJeans YouTube channel released 'Jeans' Clip # 1 0', an entry in \"Jeans' Clip\", a short clip series posted on the NewJeans channel."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=yqzR4_SXCaM",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "yqzR4_SXCaM"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=yqzR4_SXCaM"
+    },
+    "tags": [
+      "jeans-clip",
+      "clip"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
+  },
+  {
+    "id": "content-2025-12-25-jeans-zine-plus-zip",
+    "date": "2025-12-25",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "[Jeans' ZINE+] 年末パーティー.ZIP",
+      "en": "[Jeans' ZINE+] 연말 파티.ZIP",
+      "original": "[Jeans' ZINE+] 연말 파티.ZIP"
+    },
+    "summary": {
+      "ja": "「Jeans' ZINE+」総集編。",
+      "en": "\"Jeans' ZINE+\" compilation."
+    },
+    "detail": {
+      "ja": "2025年12月25日、NewJeans公式YouTubeチャンネルで「연말 파티.ZIP」が公開された。「Jeans' ZINE」各企画の全エピソードを1本にまとめた再編集版「Jeans' ZINE+ .ZIP」。元の企画「연말 파티」は2024年1月18日と1月25日（「2023 연말 파티」EP.1〜2）に公開された。",
+      "en": "On December 25, 2025, the official NewJeans YouTube channel released '연말 파티.ZIP', a \"Jeans' ZINE+ .ZIP\" compilation re-editing a full \"Jeans' ZINE\" storyline into a single video. The original '연말 파티' episodes were released on January 18 and 25, 2024 ('2023 연말 파티' EP.1-2)."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=OMVoxddjWmM",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "OMVoxddjWmM"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=OMVoxddjWmM"
+    },
+    "tags": [
+      "jeans-zine",
+      "compilation"
+    ],
+    "verified": true,
+    "editor_note": "Date from the YouTube watch page fetched via reader (US-Pacific display). Regular-series uploads (evening KST) show the same calendar date in Pacific time, so this is treated as the KST date; not listed on namu.wiki's content table."
   },
   {
     "id": "content-2026-07-23-weverse-bunnies-club-access",

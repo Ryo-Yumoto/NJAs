@@ -546,6 +546,266 @@
     "platform": "x"
   },
   {
+    "id": "sns-2022-08-06-tiktok-1m-followers-attention-challenge",
+    "date": "2022-08-06",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "tiktok",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "公式TikTok100万フォロワー達成、「Attention」チャレンジ開始",
+      "en": "Official TikTok passes 1M followers; \"Attention\" challenge begins"
+    },
+    "summary": {
+      "ja": "公式TikTokが8月6日21時頃に100万フォロワーを達成し、同日「Attention」ダンスチャレンジが始まった。",
+      "en": "The official TikTok account passed one million followers around 21:00 on Aug 6, the day the \"Attention\" dance challenge started."
+    },
+    "detail": {
+      "ja": "ニューシス(2022年8月8日)がADORの発表として報じたところによると、NewJeansの公式TikTokアカウントは2022年8月6日21時頃に100万フォロワーを達成した(「뉴진스의 공식 틱톡 계정은 지난 6일 오후 9시께 100만 팔로워를 달성했다」)。同日デビュー曲「Attention」のダンスチャレンジが始まり、開始前に約6,000件だった同曲使用の投稿は8月8日13時時点で3万件近くに増えた。",
+      "en": "According to a Newsis report of 2022-08-08 citing ADOR, NewJeans' official TikTok account reached one million followers at around 21:00 on 2022-08-06. The \"Attention\" dance challenge for the debut song began the same day; posts using the song rose from about 6,000 before the challenge to nearly 30,000 by 13:00 on August 8."
+    },
+    "source_url": "https://mobile.newsis.com/view/NISX20220808_0001971195",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "@newjeans_official",
+      "tiktok",
+      "Attention",
+      "challenge",
+      "followers"
+    ],
+    "verified": false,
+    "time": "21:00",
+    "credits": {
+      "account": "@newjeans_official (TikTok)",
+      "label": "ADOR"
+    },
+    "editor_note": "Secondary source (Newsis, citing ADOR). Account opening date not stated in the article."
+  },
+  {
+    "id": "sns-2022-08-08-tiktok-attention-red-light-green-light",
+    "date": "2022-08-08",
+    "time": "23:34",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "tiktok",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "TikTok「Attention 꽃이 피었습니다!」動画",
+      "en": "TikTok video \"Attention light Green light!\""
+    },
+    "summary": {
+      "ja": "「だるまさんがころんだ」風の「Attention」動画を公式TikTokに投稿し、Xで告知。",
+      "en": "A \"red light, green light\"-style \"Attention\" video posted on the official TikTok and announced on X."
+    },
+    "detail": {
+      "ja": "2022年8月8日23時34分(KST)、公式X@NewJeans_ADORが「[TIkTok] Attention 꽃이 피었습니다! / Attention light Green light!」とTikTok動画へのリンク(vt.tiktok.com/ZSRM4vdA9)を投稿した。ハッシュタグは#NewJeans #뉴진스 #NewJeans_Attention #MINJI #HANNI #DANIELLE #HAERIN #HYEIN。韓国の遊び「무궁화 꽃이 피었습니다」(だるまさんがころんだ)になぞらえた動画。",
+      "en": "At 23:34 KST on 2022-08-08 @NewJeans_ADOR posted \"[TIkTok] Attention 꽃이 피었습니다! / Attention light Green light!\" with a link to the TikTok video (vt.tiktok.com/ZSRM4vdA9), tagged #NewJeans #뉴진스 #NewJeans_Attention #MINJI #HANNI #DANIELLE #HAERIN #HYEIN. The video plays on the Korean \"red light, green light\" game."
+    },
+    "credits": {
+      "account": "@newjeans_official (TikTok) / @NewJeans_ADOR (X)",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1556650134670233600",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1556650134670233600"
+    },
+    "tags": [
+      "@newjeans_official",
+      "tiktok",
+      "Attention",
+      "challenge"
+    ],
+    "verified": false,
+    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1556650134670233600 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [TIkTok📹] / Attention 꽃이 피었습니다!😆 / Attention light Green light!😆 /  / 🔗https://vt.tiktok.com/ZSRM4vdA9/?k=1 /  / #NewJeans #뉴진스 #NewJeans_Attention  /  #MINJI #HANNI #DANIELLE #HAERIN #HYEIN. Time is that of the X cross-post; the TikTok upload may be slightly earlier.",
+    "links": {
+      "tiktok": "https://vt.tiktok.com/ZSRM4vdA9/"
+    }
+  },
+  {
+    "id": "sns-2022-10-29-debut-100-days-post",
+    "date": "2022-10-29",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "デビュー100日記念投稿",
+      "en": "Debut 100 days post"
+    },
+    "summary": {
+      "ja": "デビュー100日目の0時に公式Xが「NewJeans DEBUT 100 DAYS」と投稿。",
+      "en": "At midnight on the 100th day since debut the official X account posted \"NewJeans DEBUT 100 DAYS\"."
+    },
+    "detail": {
+      "ja": "2022年10月29日0時00分(KST)、公式X@NewJeans_ADORが写真1点を添えて「NewJeans DEBUT 100 DAYS」と投稿した。ハッシュタグは#NewJeans #뉴진스 #100DAYS_WITH_NewJeans #WeAreNewJeans #데뷔100일。2022年7月22日のデビューから100日目にあたる。",
+      "en": "At 00:00 KST on 2022-10-29 the official X account @NewJeans_ADOR posted \"NewJeans DEBUT 100 DAYS\" with 1 photo, tagged #NewJeans #뉴진스 #100DAYS_WITH_NewJeans #WeAreNewJeans #데뷔100일. The day marked 100 days since the 2022-07-22 debut."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1586009899628220417",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1586009899628220417"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "100days",
+      "anniversary"
+    ],
+    "verified": true,
+    "editor_note": "Post text: 🐰NewJeans DEBUT 100 DAYS💕🎉 /  / #NewJeans #뉴진스 / #100DAYS_WITH_NewJeans / #WeAreNewJeans #데뷔100일 | Status 1586009899628220417 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2022-10-29-official-fanclub-name-bunnies",
+    "date": "2022-10-29",
+    "time": "12:57",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "公式ファンクラブ名「Bunnies」発表",
+      "en": "Official fanclub name \"Bunnies\" announced"
+    },
+    "summary": {
+      "ja": "デビュー100日に公式ファンクラブ名「Bunnies(버니즈)」を発表。",
+      "en": "On the 100th day since debut the official fanclub name \"Bunnies\" was announced."
+    },
+    "detail": {
+      "ja": "2022年10月29日12時57分(KST)、公式X@NewJeans_ADORが約6秒の動画1本とともに「NewJeans OFFICIAL FANCLUB “Bunnies” / 뉴진스의 공식 팬클럽명을 공개합니다! / You know who we are 우리는 버니즈!」(NewJeansの公式ファンクラブ名を公開します。私たちはバニーズ!)と投稿した。ハッシュタグは#WeAreBunnies #Bunnies #버니즈 #Tokki #NewJeans #뉴진스。英語版の同内容の投稿(status 1586205610164383744)も同時刻に投稿された。",
+      "en": "At 12:57 KST on 2022-10-29 the official X account @NewJeans_ADOR posted, with 1 video (about 6s): \"NewJeans OFFICIAL FANCLUB “Bunnies” / 뉴진스의 공식 팬클럽명을 공개합니다! / You know who we are 우리는 버니즈!\" (We announce NewJeans' official fanclub name — we are Bunnies!), tagged #WeAreBunnies #Bunnies #버니즈 #Tokki #NewJeans #뉴진스. An English version (status 1586205610164383744) went up at the same time."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1586205479344082945",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1586205479344082945"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "fandom",
+      "Bunnies",
+      "100days"
+    ],
+    "verified": true,
+    "editor_note": "Post text: NewJeans OFFICIAL FANCLUB “Bunnies” /  / 뉴진스의 공식 팬클럽명을 공개합니다! / You know who we are 😉 우리는 버니즈!✨ / 🐰💙🐰 /   / #WeAreBunnies / #Bunnies #버니즈 #Tokki  / #NewJeans #뉴진스 | Status 1586205479344082945 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | English twin status 1586205610164383744 also verified via fxtwitter (GIF, same time)."
+  },
+  {
+    "id": "sns-2022-10-29-official-light-stick-reveal",
+    "date": "2022-10-29",
+    "time": "12:58",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "公式応援棒(ライトスティック)公開",
+      "en": "Official light stick revealed"
+    },
+    "summary": {
+      "ja": "ファンクラブ名発表と同時に公式応援棒のデザインを公開、2023年第1四半期にWeverse Shop限定で発売と告知。",
+      "en": "Alongside the fanclub-name reveal, the official light stick design was unveiled, with release set for Q1 2023 exclusively on Weverse Shop."
+    },
+    "detail": {
+      "ja": "2022年10月29日12時58分(KST)、公式X@NewJeans_ADORが約10秒の動画1本を添えて「NewJeans OFFICIAL LIGHT STICK / 뉴진스와 버니즈의 의미가 담긴 응원봉 공개」(NewJeansとBunniesの意味を込めた応援棒を公開)と投稿。発売時期は「2023년 1분기 정식 출시」(2023年第1四半期正式発売)、販売先は「위버스샵 단독 판매」(Weverse Shop限定)とし、正式発売前に他で販売される商品は正規品ではないと注意を促した。",
+      "en": "At 12:58 KST on 2022-10-29 @NewJeans_ADOR posted \"NewJeans OFFICIAL LIGHT STICK / 뉴진스와 버니즈의 의미가 담긴 응원봉 공개\" (revealing the light stick carrying the meaning of NewJeans and Bunnies) with 1 video (about 10s). It stated an official release in Q1 2023, sold exclusively at Weverse Shop, and warned that any product sold elsewhere before release is not genuine."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1586205934421831680",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1586205934421831680"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "lightstick",
+      "goods",
+      "100days"
+    ],
+    "verified": true,
+    "editor_note": "Post text: NewJeans OFFICIAL LIGHT STICK  /  / 뉴진스와 버니즈의 의미가 담긴 응원봉 공개🐰 /  / 📅 2023년 1분기 정식 출시 / 📍 위버스샵 단독 판매 /   / *정식 출시 전 기타 판매처에서 판매되는 모든 상품은 정품이 아니므로 유의해 주시기 바랍니다.  /   / #WeAreBunnies / #Bunnies #버니즈 #Tokki  / #NewJeans #뉴진스 | Status 1586205934421831680 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2022-10-29-binky-bong-name-reveal",
+    "date": "2022-10-29",
+    "time": "19:01",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "応援棒の名称「빙키봉(Binky Bong)」公開",
+      "en": "Light stick name \"Binky Bong\" revealed"
+    },
+    "summary": {
+      "ja": "デビュー100日記念ライブ後、応援棒の名前が「빙키봉(Binky Bong)」と発表された。",
+      "en": "After the 100th-day live the light stick's name was announced as \"Binky Bong\"."
+    },
+    "detail": {
+      "ja": "2022年10月29日19時01分(KST)、公式X@NewJeans_ADORが約3秒の動画1本とともに「뉴진스와 버니즈의 서로를 향한 빛나는 마음을 담은 빙키봉! / Binky Bong with the shining hearts of NewJeans and Bunnies towards each other !」と投稿し、応援棒の名称を「빙키봉(Binky Bong)」と発表した。同日18時のデビュー100日記念ライブで名前を公開すると事前に告知されていた。ハッシュタグは#WeAreNewJeans #WeAreBunnies #Bunnies #버니즈 #Tokki #NewJeans #뉴진스。",
+      "en": "At 19:01 KST on 2022-10-29 @NewJeans_ADOR posted \"뉴진스와 버니즈의 서로를 향한 빛나는 마음을 담은 빙키봉! / Binky Bong with the shining hearts of NewJeans and Bunnies towards each other !\" with 1 video (about 3s), naming the light stick \"Binky Bong\". The name had been promised for the 100th-day anniversary live at 18:00 that day. Hashtags: #WeAreNewJeans #WeAreBunnies #Bunnies #버니즈 #Tokki #NewJeans #뉴진스."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1586297094012538881",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1586297094012538881"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "lightstick",
+      "BinkyBong",
+      "100days"
+    ],
+    "verified": true,
+    "editor_note": "Post text: 뉴진스와 버니즈의 서로를 향한 빛나는 마음을 담은 빙키봉! 🐰✨🐰 /  / Binky Bong with the shining hearts of NewJeans and Bunnies towards each other ! 🐰✨🐰 /  / #WeAreNewJeans  / #WeAreBunnies / #Bunnies #버니즈 #Tokki  / #NewJeans #뉴진스 | Status 1586297094012538881 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
+  },
+  {
     "id": "sns-2022-11-22-2023-seasons-greetings-notice",
     "date": "2022-11-22",
     "date_type": "post",
@@ -880,6 +1140,221 @@
     "platform": "x"
   },
   {
+    "id": "sns-2023-01-02-instagram-omg-release-day-post-1",
+    "date": "2023-01-02",
+    "time": "10:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "instagram",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Instagram「OMG」発売日の投稿(1)",
+      "en": "Instagram post on the \"OMG\" release day (1)"
+    },
+    "summary": {
+      "ja": "シングル『OMG』発売日の午前に公式Instagramへ投稿。",
+      "en": "A post on the official Instagram on the morning of the \"OMG\" single release day."
+    },
+    "detail": {
+      "ja": "2023年1月2日10時00分(KST)、公式Instagram @newjeans_officialに投稿された。マリ・クレール コリア(2023年1月3日)の「OMG」発売記事がこの投稿を埋め込んでおり、同日18時に発売されたシングルアルバム『OMG』の関連投稿とみられる。",
+      "en": "Posted at 10:00 KST on 2023-01-02 on the official Instagram @newjeans_official. Marie Claire Korea's 2023-01-03 article on the \"OMG\" release embeds this post; it appears to relate to the single album \"OMG\" released at 18:00 that day."
+    },
+    "credits": {
+      "account": "@newjeans_official",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.instagram.com/p/Cm5MDh1yTpc/",
+    "reference_urls": [
+      "https://www.marieclairekorea.com/celebrity/2023/01/omg-newjeans/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "@newjeans_official",
+      "OMG",
+      "release"
+    ],
+    "verified": false,
+    "editor_note": "Instagram page not fetchable; shortcode Cm5MDh1yTpc found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-01-02 10:00:30 KST. Post caption not retrieved; content described from the article context. | removed from reader text: [detail.ja] 投稿の本文・画像は未確認。 [detail.en] Caption and images not confirmed."
+  },
+  {
+    "id": "sns-2023-01-02-weverse-omg-fansign-notice",
+    "date": "2023-01-02",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "weverse",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Weverse告知「[OMG] 活動記念ファンサイン会のご案内」",
+      "en": "Weverse notice: \"[OMG] fan-sign event guide\""
+    },
+    "summary": {
+      "ja": "『OMG』活動記念ファンサイン会の案内がWeverseの公式コミュニティに掲載された。",
+      "en": "A guide to the \"OMG\" promotion fan-sign events was posted on the official Weverse community."
+    },
+    "detail": {
+      "ja": "2023年1月2日10時30分(KST)、公式X@NewJeans_ADORが「[안내] NewJeans [OMG] 활동 기념 팬사인회 안내 (+ENG/JPN) (+0102추가)」としてWeverseの告知(weverse.io/newjeansoffi…/notice/10328)へのリンクを投稿した。英語・日本語版が併載され、1月2日に追記が加えられた告知である。",
+      "en": "At 10:30 KST on 2023-01-02 @NewJeans_ADOR posted \"[Notice] NewJeans [OMG] fan-sign event guide (+ENG/JPN) (+0102 update)\" linking to the Weverse notice (weverse.io/newjeansofficial/notice/10328). The notice carried English and Japanese versions and an update added on January 2."
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/10328",
+    "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/1609723776467361796"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1609723776467361796"
+    },
+    "tags": [
+      "Weverse",
+      "notice",
+      "OMG",
+      "fansign"
+    ],
+    "verified": false,
+    "time": "10:30",
+    "credits": {
+      "account": "Weverse NewJeans official",
+      "label": "ADOR"
+    },
+    "editor_note": "Weverse notice page not fetched (login-gated); existence, title and date confirmed from the official X post (status 1609723776467361796 verified via fxtwitter). Time is that of the X post."
+  },
+  {
+    "id": "sns-2023-01-02-omg-available-now",
+    "date": "2023-01-02",
+    "time": "18:15",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「OMG」配信開始投稿",
+      "en": "\"OMG\" Available Now post"
+    },
+    "summary": {
+      "ja": "シングル「OMG」の配信開始を告知する投稿。",
+      "en": "Post announcing that the single \"OMG\" is available."
+    },
+    "detail": {
+      "ja": "2023年1月2日18時15分(KST)、公式X@NewJeans_ADORが「[Music] NewJeans 'OMG' Available Now」と配信リンク(ingrv.es/OMG)を投稿した。ハッシュタグは#NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto #Year_of_NewJeans。シングルアルバム『OMG』は同日18時に発売された。",
+      "en": "At 18:15 KST on 2023-01-02 @NewJeans_ADOR posted \"[Music] NewJeans 'OMG' Available Now\" with the streaming link ingrv.es/OMG, tagged #NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto #Year_of_NewJeans. The single album \"OMG\" was released at 18:00 that day."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1609840814217363457",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1609840814217363457"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "OMG",
+      "release"
+    ],
+    "verified": true,
+    "editor_note": "Post text: [Music🎵] / NewJeans 'OMG' / Available Now 🐰 /  / 🔗https://ingrv.es/OMG /  / #NewJeans #뉴진스  / #NewJeans_OMG #NewJeans_Ditto / #Year_of_NewJeans | Status 1609840814217363457 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2023-01-02-instagram-omg-release-day-post-2",
+    "date": "2023-01-02",
+    "time": "23:36",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "instagram",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Instagram「OMG」発売日の投稿(2)",
+      "en": "Instagram post on the \"OMG\" release day (2)"
+    },
+    "summary": {
+      "ja": "『OMG』発売日の夜に公式Instagramへ投稿。",
+      "en": "A post on the official Instagram on the night of the \"OMG\" release day."
+    },
+    "detail": {
+      "ja": "2023年1月2日23時36分(KST)、公式Instagram @newjeans_officialに投稿された。マリ・クレール コリア(2023年1月3日)の「OMG」発売記事の冒頭に埋め込まれている投稿で、同日発売の『OMG』に関するものとみられる。同日23時20分にも別の投稿(Cm6nm9xSCS3)がある。",
+      "en": "Posted at 23:36 KST on 2023-01-02 on the official Instagram @newjeans_official. It is the post embedded at the top of Marie Claire Korea's 2023-01-03 article on the \"OMG\" release and appears to concern the single released that day. Another post (Cm6nm9xSCS3) went up at 23:20 the same night."
+    },
+    "credits": {
+      "account": "@newjeans_official",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.instagram.com/p/Cm6pYZmSiFj/",
+    "reference_urls": [
+      "https://www.marieclairekorea.com/celebrity/2023/01/omg-newjeans/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "@newjeans_official",
+      "OMG",
+      "release"
+    ],
+    "verified": false,
+    "editor_note": "Instagram page not fetchable; shortcode Cm6pYZmSiFj found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-01-02 23:36:00 KST. Post caption not retrieved; content described from the article context. | Sibling shortcode Cm6nm9xSCS3 (2023-01-02 23:20 KST) also embedded in the same article. | removed from reader text: [detail.ja] 投稿の本文・画像は未確認。 [detail.en] Caption and images not confirmed."
+  },
+  {
+    "id": "sns-2023-01-21-danielle-lunar-new-year-apology",
+    "date": "2023-01-21",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "instagram",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "ダニエル、「Chinese New Year」表現について謝罪文を投稿",
+      "en": "Danielle posts apology over \"Chinese New Year\" wording"
+    },
+    "summary": {
+      "ja": "Phoningでの「Chinese New Year」というメッセージについて、ダニエルが公式SNSで謝罪した。",
+      "en": "Danielle apologised on the official SNS for a Phoning message that used the phrase \"Chinese New Year\"."
+    },
+    "detail": {
+      "ja": "2023年1月19日、ダニエルはファンアプリPhoningで「what r u bunnies doing for chinese new year?」と送信し、「Lunar New Year」と呼ぶべきだとの批判を受けた。1月21日、公式Instagramを通じて謝罪文を掲載し、間違いに気づいてすぐに削除したが既に多くの人に届いてしまったこと、旧正月は韓国を含む多くの国が祝う祝日であり自分の表現は不適切だったとして深く反省し謝罪すると述べた。",
+      "en": "On 2023-01-19 Danielle messaged on the fan app Phoning \"what r u bunnies doing for chinese new year?\", drawing criticism that it should be \"Lunar New Year\". On 2023-01-21 an apology was posted via the official Instagram: she wrote that she deleted it immediately on realising her mistake but it had already reached many people, that Lunar New Year is a holiday celebrated by many countries including Korea, and that her expression was inappropriate, for which she deeply apologised."
+    },
+    "source_url": "https://www.koreajoongangdaily.com/entertainment/chinese-commenters-target-any-mention-of-lunar-new-year/11550120",
+    "reference_urls": [
+      "https://www.bollywoodhungama.com/?p=1536202"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "@newjeans_official",
+      "apology",
+      "Phoning"
+    ],
+    "verified": false,
+    "credits": {
+      "account": "@newjeans_official",
+      "label": "ADOR"
+    },
+    "editor_note": "Secondary sources only; the Instagram post/story URL not located. Korea JoongAng Daily says the apology was posted on Instagram on Jan 21; Katadata (ID) gives Jan 23. Original Phoning message date Jan 19 (Phoning message deleted)."
+  },
+  {
     "id": "sns-2023-04-03-zero-release",
     "date": "2023-04-03",
     "date_type": "post",
@@ -1048,6 +1523,51 @@
     "platform": "x"
   },
   {
+    "id": "sns-2023-06-19-instagram-get-up-comeback-announcement",
+    "date": "2023-06-19",
+    "time": "10:55",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "instagram",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Instagram 2nd EP『Get Up』カムバック告知投稿",
+      "en": "Instagram post announcing the 2nd EP \"Get Up\""
+    },
+    "summary": {
+      "ja": "7月のカムバックと2nd EP『Get Up』の収録曲情報を伝える公式Instagram投稿。",
+      "en": "Official Instagram post announcing the July comeback and the track list of the 2nd EP \"Get Up\"."
+    },
+    "detail": {
+      "ja": "2023年6月19日10時55分(KST)、公式Instagram @newjeans_officialに投稿された。VOGUE KOREA(同日)はこの投稿を埋め込み、7月7日に先行公開される「New Jeans」、トリプルタイトル「Super Shy」「ETA」「Cool with You」、インタールード「Get Up」、エピローグ「ASAP」の6曲構成が公開されたと伝えた。同日の公式Xでも「Get Up」のComing Soon告知が行われている。",
+      "en": "Posted at 10:55 KST on 2023-06-19 on the official Instagram @newjeans_official. Vogue Korea (same day) embedded the post and reported the reveal of the 2nd EP \"Get Up\": prologue \"New Jeans\" (pre-released July 7), triple title tracks \"Super Shy\", \"ETA\" and \"Cool with You\", interlude \"Get Up\" and epilogue \"ASAP\". The official X account posted a \"Get Up\" Coming Soon notice the same day."
+    },
+    "credits": {
+      "account": "@newjeans_official",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.instagram.com/p/Ctp34EnS20f/",
+    "reference_urls": [
+      "https://www.vogue.co.kr/2023/06/19/7%ec%9b%94-%eb%89%b4%ec%a7%84%ec%8a%a4%ea%b0%80-%eb%8f%8c%ec%95%84%ec%98%a8%eb%8b%a4/",
+      "https://www.marieclairekorea.com/celebrity/2023/06/newjeans-comback/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "@newjeans_official",
+      "GetUp",
+      "comeback",
+      "announce"
+    ],
+    "verified": false,
+    "editor_note": "Instagram page not fetchable; shortcode Ctp34EnS20f found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-06-19 10:55:19 KST. Post caption not retrieved; content described from the article context."
+  },
+  {
     "id": "sns-2023-06-26-eta-teaser-post",
     "date": "2023-06-26",
     "time": "00:00",
@@ -1088,6 +1608,50 @@
       "label": "ADOR"
     },
     "platform": "x"
+  },
+  {
+    "id": "sns-2023-06-27-instagram-asap-teaser-post",
+    "date": "2023-06-27",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "instagram",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Instagram「ASAP」ティーザー投稿",
+      "en": "Instagram \"ASAP\" teaser post"
+    },
+    "summary": {
+      "ja": "『Get Up』収録曲「ASAP」のティーザー公開に合わせた公式Instagram投稿。",
+      "en": "Official Instagram post accompanying the teaser for \"ASAP\" from \"Get Up\"."
+    },
+    "detail": {
+      "ja": "2023年6月27日0時00分(KST)、公式Instagram @newjeans_officialに投稿された。マリ・クレール コリア(6月29日)は「ASAP」のティーザー(メンバーが金髪に変身し暗い森で誰かを探す映像)の説明とともにこの投稿を埋め込んでいる。公式YouTubeの「ASAP」Teaserも同日公開された。",
+      "en": "Posted at 00:00 KST on 2023-06-27 on the official Instagram @newjeans_official. Marie Claire Korea (June 29) embeds the post alongside its description of the \"ASAP\" teaser, in which the members appear blonde searching for someone in a dark forest. The \"ASAP\" teaser went up on the official YouTube channel the same day."
+    },
+    "credits": {
+      "account": "@newjeans_official",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.instagram.com/p/Ct9TWNryz_O/",
+    "reference_urls": [
+      "https://www.marieclairekorea.com/celebrity/2023/06/newjeans-comback/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "@newjeans_official",
+      "GetUp",
+      "ASAP",
+      "teaser"
+    ],
+    "verified": false,
+    "editor_note": "Instagram page not fetchable; shortcode Ct9TWNryz_O found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-06-27 00:00:56 KST. Post caption not retrieved; content described from the article context."
   },
   {
     "id": "sns-2023-06-28-get-up-2nd-ep-photo-post",
@@ -1131,6 +1695,135 @@
       "label": "ADOR"
     },
     "platform": "x"
+  },
+  {
+    "id": "sns-2023-06-28-instagram-get-up-2nd-ep-photo-1",
+    "date": "2023-06-28",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "instagram",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Instagram『Get Up』2nd EP Photo投稿(1)",
+      "en": "Instagram \"Get Up\" 2nd EP photo post (1)"
+    },
+    "summary": {
+      "ja": "バレリーナ衣装の『Get Up』アルバム写真を公式Instagramに投稿。",
+      "en": "Ballerina-styled \"Get Up\" album photos posted on the official Instagram."
+    },
+    "detail": {
+      "ja": "2023年6月28日0時00分(KST)、公式Instagram @newjeans_officialに投稿された。マリ・クレール コリア(6月29日)はシフォン素材の衣装とトウシューズでバレリーナに変身したアルバム公式写真の説明とともにこの投稿を埋め込んでいる。同時刻に2本目の投稿(Ct_4HV_L5EL)と公式Xの「2nd EP Photo」投稿も行われた。",
+      "en": "Posted at 00:00 KST on 2023-06-28 on the official Instagram @newjeans_official. Marie Claire Korea (June 29) embeds it with its description of the album photos in which the members appear as ballerinas in chiffon and pointe shoes. A second post (Ct_4HV_L5EL) and the official X \"2nd EP Photo\" post went up at the same minute."
+    },
+    "credits": {
+      "account": "@newjeans_official",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.instagram.com/p/Ct_4ENurW2C/",
+    "reference_urls": [
+      "https://www.marieclairekorea.com/celebrity/2023/06/newjeans-comback/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "@newjeans_official",
+      "GetUp",
+      "concept-photo"
+    ],
+    "verified": false,
+    "editor_note": "Instagram page not fetchable; shortcode Ct_4ENurW2C found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-06-28 00:00:16 KST. Post caption not retrieved; content described from the article context."
+  },
+  {
+    "id": "sns-2023-06-28-instagram-get-up-2nd-ep-photo-2",
+    "date": "2023-06-28",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "instagram",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Instagram『Get Up』2nd EP Photo投稿(2)",
+      "en": "Instagram \"Get Up\" 2nd EP photo post (2)"
+    },
+    "summary": {
+      "ja": "『Get Up』アルバム写真の2本目の公式Instagram投稿。",
+      "en": "Second official Instagram post of the \"Get Up\" album photos."
+    },
+    "detail": {
+      "ja": "2023年6月28日0時00分(KST)、公式Instagram @newjeans_officialに投稿された。マリ・クレール コリア(6月29日)はこの投稿を『Get Up』の全6曲にMVが制作されるという発表の説明とともに埋め込んでいる。同時刻の投稿Ct_4ENurW2Cと対になるアルバム写真投稿とみられる。",
+      "en": "Posted at 00:00 KST on 2023-06-28 on the official Instagram @newjeans_official. Marie Claire Korea (June 29) embeds it next to the announcement that all six \"Get Up\" tracks would get music videos; it appears to pair with the album-photo post Ct_4ENurW2C of the same minute."
+    },
+    "credits": {
+      "account": "@newjeans_official",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.instagram.com/p/Ct_4HV_L5EL/",
+    "reference_urls": [
+      "https://www.marieclairekorea.com/celebrity/2023/06/newjeans-comback/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "@newjeans_official",
+      "GetUp",
+      "concept-photo"
+    ],
+    "verified": false,
+    "editor_note": "Instagram page not fetchable; shortcode Ct_4HV_L5EL found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-06-28 00:00:42 KST. Post caption not retrieved; content described from the article context."
+  },
+  {
+    "id": "sns-2023-06-28-instagram-get-up-era-post-0628",
+    "date": "2023-06-28",
+    "time": "21:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "instagram",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Instagram『Get Up』プロモーション投稿(6月28日夜)",
+      "en": "Instagram \"Get Up\" promotion post (evening of June 28)"
+    },
+    "summary": {
+      "ja": "『Get Up』プロモーション期間中、6月28日夜の公式Instagram投稿。",
+      "en": "An official Instagram post from the evening of June 28 during \"Get Up\" promotion."
+    },
+    "detail": {
+      "ja": "2023年6月28日21時00分(KST)、公式Instagram @newjeans_officialに投稿された。マリ・クレール コリア(6月29日)のカムバック記事の冒頭に埋め込まれている投稿。",
+      "en": "Posted at 21:00 KST on 2023-06-28 on the official Instagram @newjeans_official. It is the post embedded at the top of Marie Claire Korea's June 29 comeback article."
+    },
+    "credits": {
+      "account": "@newjeans_official",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.instagram.com/p/CuCIRW0LFCs/",
+    "reference_urls": [
+      "https://www.marieclairekorea.com/celebrity/2023/06/newjeans-comback/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "@newjeans_official",
+      "GetUp",
+      "promotion"
+    ],
+    "verified": false,
+    "editor_note": "Instagram page not fetchable; shortcode CuCIRW0LFCs found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-06-28 21:00:21 KST. Post caption not retrieved; content described from the article context. | removed from reader text: [detail.ja] 投稿の本文・画像は未確認。 [detail.en] Caption and images not confirmed."
   },
   {
     "id": "sns-2023-06-29-get-up-bunny-beach-bag-packaging",
@@ -1296,6 +1989,279 @@
     "platform": "x"
   },
   {
+    "id": "sns-2023-07-22-debut-1st-anniversary-post",
+    "date": "2023-07-22",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "デビュー1周年記念投稿",
+      "en": "Debut 1st anniversary post"
+    },
+    "summary": {
+      "ja": "デビュー1周年の0時に「Happy 1st Anniversary, NewJeans and Bunnies!」と投稿。",
+      "en": "At midnight on the first anniversary: \"Happy 1st Anniversary, NewJeans and Bunnies!\""
+    },
+    "detail": {
+      "ja": "2023年7月22日0時00分(KST)、公式X@NewJeans_ADORが写真1点を添えて「[NewJeans Day] Happy 1st Anniversary, NewJeans and Bunnies!」と投稿した。ハッシュタグは#NewJeansDay #NewJeans_Debut_1st_Anniversary。前日7月21日には2nd EP『Get Up』が発売されている。",
+      "en": "At 00:00 KST on 2023-07-22 @NewJeans_ADOR posted \"[NewJeans Day] Happy 1st Anniversary, NewJeans and Bunnies!\" with 1 photo, tagged #NewJeansDay #NewJeans_Debut_1st_Anniversary. The 2nd EP \"Get Up\" had been released the previous day."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1682405079872311296",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1682405079872311296"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "anniversary",
+      "NewJeansDay"
+    ],
+    "verified": true,
+    "editor_note": "Post text: [NewJeans Day🎂] /  / Happy 1st Anniversary, NewJeans and Bunnies! 🎉🎶 /  / #NewJeansDay / #NewJeans_Debut_1st_Anniversary | Status 1682405079872311296 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2023-07-22-we-are-newjeans-anniversary-photos",
+    "date": "2023-07-22",
+    "time": "11:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "1周年記念「We Are NewJeans!」写真投稿",
+      "en": "1st anniversary \"We Are NewJeans!\" photo post"
+    },
+    "summary": {
+      "ja": "デビュー1周年当日に「We Are NewJeans!」として写真3点を投稿。",
+      "en": "On the first anniversary the account posted three photos captioned \"We Are NewJeans!\"."
+    },
+    "detail": {
+      "ja": "2023年7月22日11時00分(KST)、公式X@NewJeans_ADORが写真3点を添えて「[NewJeans Day] We Are NewJeans!」と投稿した。ハッシュタグは#NewJeansDay #NewJeans_Debut_1st_Anniversary。",
+      "en": "At 11:00 KST on 2023-07-22 @NewJeans_ADOR posted \"[NewJeans Day] We Are NewJeans!\" with 3 photos, tagged #NewJeansDay #NewJeans_Debut_1st_Anniversary."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1682571168447102976",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1682571168447102976"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "anniversary",
+      "NewJeansDay",
+      "photo"
+    ],
+    "verified": true,
+    "editor_note": "Post text: [NewJeans Day🎂] /  / We Are NewJeans! 📷 /  / #NewJeansDay / #NewJeans_Debut_1st_Anniversary | Status 1682571168447102976 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2023-07-22-weverse-bunnies-club-1st-anniversary",
+    "date": "2023-07-22",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "weverse",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Weverse Bunnies Club「NewJeans 1st Anniversary with Bunnies」",
+      "en": "Weverse Bunnies Club post \"NewJeans 1st Anniversary with Bunnies\""
+    },
+    "summary": {
+      "ja": "デビュー1周年に、Weverseのファンクラブ向けに1周年記念コンテンツが公開された。",
+      "en": "On the first anniversary, anniversary content for fanclub members was released on Weverse."
+    },
+    "detail": {
+      "ja": "2023年7月22日16時30分(KST)、公式X@NewJeans_ADORが「[Bunnies Club] NewJeans 1st Anniversary with Bunnies」としてWeverseへのリンク(weverse.onelink.me/qt3S/bve34pjn)を投稿した。ハッシュタグは#NewJeansDay #NewJeans_Debut_1st_Anniversary。Bunnies Clubは公式ファンクラブ会員向けのWeverse上のサービス名。",
+      "en": "At 16:30 KST on 2023-07-22 @NewJeans_ADOR posted \"[Bunnies Club] NewJeans 1st Anniversary with Bunnies\" with a Weverse link (weverse.onelink.me/qt3S/bve34pjn), tagged #NewJeansDay #NewJeans_Debut_1st_Anniversary. Bunnies Club is the Weverse-based service for official fanclub members."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1682654211207725057",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1682654211207725057"
+    },
+    "tags": [
+      "Weverse",
+      "BunniesClub",
+      "anniversary"
+    ],
+    "verified": false,
+    "time": "16:30",
+    "credits": {
+      "account": "Weverse NewJeans official",
+      "label": "ADOR"
+    },
+    "links": {
+      "weverse": "https://weverse.onelink.me/qt3S/bve34pjn"
+    },
+    "editor_note": "Weverse content itself not fetched (membership-gated); X post 1682654211207725057 verified via fxtwitter. Content of the Weverse post unknown beyond its title."
+  },
+  {
+    "id": "sns-2023-08-17-tiktok-eta-challenge-with-jimin",
+    "date": "2023-08-17",
+    "time": "17:01",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "tiktok",
+    "members": [
+      "danielle",
+      "hanni"
+    ],
+    "title": {
+      "ja": "TikTok「ETA」チャレンジ with BTS JIMIN",
+      "en": "TikTok \"ETA\" challenge with BTS' Jimin"
+    },
+    "summary": {
+      "ja": "ダニエルとハニがBTSのJIMINと踊る「ETA」チャレンジ動画を公式TikTokに投稿。",
+      "en": "Danielle and Hanni dance the \"ETA\" challenge with BTS' Jimin on the official TikTok."
+    },
+    "detail": {
+      "ja": "2023年8月17日17時01分(KST)、公式X@NewJeans_ADORが「[VIDEO] What's your ETA with #BTS #Jimin」とTikTok動画へのリンク(vt.tiktok.com/ZSLgBWmTC)を投稿した。ハッシュタグは#NewJeans #뉴진스 #DANIELLE #HANNI #NewJeans_ETA #Time_to_NewJeans。ダニエルとハニがBTSのJIMINと「ETA」を踊るチャレンジ動画。",
+      "en": "At 17:01 KST on 2023-08-17 @NewJeans_ADOR posted \"[VIDEO] What's your ETA with #BTS #Jimin\" with a link to the TikTok video (vt.tiktok.com/ZSLgBWmTC), tagged #NewJeans #뉴진스 #DANIELLE #HANNI #NewJeans_ETA #Time_to_NewJeans. Danielle and Hanni dance the \"ETA\" challenge with BTS' Jimin."
+    },
+    "credits": {
+      "account": "@newjeans_official (TikTok) / @NewJeans_ADOR (X)",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1692084120011362590",
+    "reference_urls": [
+      "https://sportskeeda.com/pop-culture/news-oh-my-god-bts-jimin-joins-new-jeans-eta-challenge-sending-fans-frenzy"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1692084120011362590"
+    },
+    "tags": [
+      "@newjeans_official",
+      "tiktok",
+      "ETA",
+      "challenge",
+      "BTS"
+    ],
+    "verified": false,
+    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1692084120011362590 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / What's your ETA ⏱️ with #BTS #Jimin 😆 /  / 🔗https://vt.tiktok.com/ZSLgBWmTC/ /  / #NewJeans #뉴진스 #DANIELLE #HANNI / #NewJeans_ETA / #Time_to_NewJeans. Time is that of the X cross-post; the TikTok upload may be slightly earlier.",
+    "links": {
+      "tiktok": "https://vt.tiktok.com/ZSLgBWmTC/"
+    }
+  },
+  {
+    "id": "sns-2023-08-22-tiktok-hype-voy-with-v",
+    "date": "2023-08-22",
+    "time": "11:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "tiktok",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "TikTok「Hype 'V'oy」チャレンジ with BTS V",
+      "en": "TikTok \"Hype 'V'oy\" challenge with BTS' V"
+    },
+    "summary": {
+      "ja": "BTSのVと踊る「Hype Boy」チャレンジ動画を「Hype 'V'oy」の題で公式TikTokに投稿。",
+      "en": "A \"Hype Boy\" challenge video with BTS' V, captioned \"Hype 'V'oy\", on the official TikTok."
+    },
+    "detail": {
+      "ja": "2023年8月22日11時00分(KST)、公式X@NewJeans_ADORが「[VIDEO] Hype 'V'oy with #BTS #V」とTikTok動画へのリンク(vt.tiktok.com/ZSLsDJUoC)を投稿した。ハッシュタグは#NewJeans #뉴진스 #NewJeans_HypeBoy #Time_to_NewJeans。曲名「Hype Boy」のBをVに置き換えた表記でBTSのVとのチャレンジ動画を告知した。",
+      "en": "At 11:00 KST on 2023-08-22 @NewJeans_ADOR posted \"[VIDEO] Hype 'V'oy with #BTS #V\" with a link to the TikTok video (vt.tiktok.com/ZSLsDJUoC), tagged #NewJeans #뉴진스 #NewJeans_HypeBoy #Time_to_NewJeans. The caption swaps the B of \"Hype Boy\" for V for the challenge video with BTS' V."
+    },
+    "credits": {
+      "account": "@newjeans_official (TikTok) / @NewJeans_ADOR (X)",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1693805343170826698",
+    "reference_urls": [
+      "https://www.sportskeeda.com/pop-culture/news-come-on-main-slayer-fans-go-gaga-kim-tae-hyung-joins-newjeans-hype-boy-challenge"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1693805343170826698"
+    },
+    "tags": [
+      "@newjeans_official",
+      "tiktok",
+      "HypeBoy",
+      "challenge",
+      "BTS"
+    ],
+    "verified": false,
+    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1693805343170826698 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / Hype 'V'oy with #BTS #V 🧸 /  / 🔗https://vt.tiktok.com/ZSLsDJUoC/ /  / #NewJeans #뉴진스  / #NewJeans_HypeBoy / #Time_to_NewJeans. Time is that of the X cross-post; the TikTok upload may be slightly earlier.",
+    "links": {
+      "tiktok": "https://vt.tiktok.com/ZSLsDJUoC/"
+    }
+  },
+  {
+    "id": "sns-2023-10-14-tiktok-ditto-challenge-with-jungkook",
+    "date": "2023-10-14",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "tiktok",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "TikTok「Ditto」チャレンジ with BTS JUNG KOOK",
+      "en": "TikTok \"Ditto\" challenge with BTS' Jung Kook"
+    },
+    "summary": {
+      "ja": "BTSのJUNG KOOKが参加した「Ditto」チャレンジ動画が公式TikTokに投稿された。",
+      "en": "A \"Ditto\" challenge video featuring BTS' Jung Kook was posted on the official TikTok."
+    },
+    "detail": {
+      "ja": "2023年10月14日(報道による)、NewJeansの公式TikTokにBTSのJUNG KOOKが参加した「Ditto」のチャレンジ動画が投稿された。同時にJUNG KOOK側のアカウントではNewJeansと彼のソロ曲「3D」を踊る動画が公開された。Gulf News(10月16日)は両動画が約300万回再生に達し、「Ditto」の方がより多く再生されたと報じた。",
+      "en": "On 2023-10-14 (per reports) a \"Ditto\" challenge video featuring BTS' Jung Kook was posted on NewJeans' official TikTok, while Jung Kook's own account posted a video of him dancing his solo \"3D\" with NewJeans. Gulf News (Oct 16) reported both videos at close to three million views, with the \"Ditto\" clip ahead."
+    },
+    "source_url": "https://www.sportskeeda.com/pop-culture/news-everything-i-waiting-for-fans-react-bts-jungkook-newjeans-join-forces-3d-ditto-challenge",
+    "reference_urls": [
+      "https://gulfnews.com/entertainment/watch-jungkook-and-newjeans-come-together-for-3d-and-ditto-tiktok-challenge-1.1697467282725"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "@newjeans_official",
+      "tiktok",
+      "Ditto",
+      "challenge",
+      "BTS"
+    ],
+    "verified": false,
+    "credits": {
+      "account": "@newjeans_official (TikTok)",
+      "label": "ADOR"
+    },
+    "editor_note": "Date 2023-10-14 from Sportskeeda; Gulf News (2023-10-16) says only \"this weekend\". TikTok video not fetched; no official X cross-post located."
+  },
+  {
     "id": "sns-2023-11-04-gods-worlds-2023",
     "date": "2023-11-04",
     "date_type": "post",
@@ -1416,6 +2382,48 @@
       "broadcaster": "ABC (Dick Clark's New Year's Rockin' Eve)"
     },
     "platform": "x"
+  },
+  {
+    "id": "sns-2024-01-16-minji-phoning-apology-letter",
+    "date": "2024-01-16",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "phoning",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "ミンジ、Phoningに謝罪文「안녕하세요 민지입니다」を投稿",
+      "en": "Minji posts apology letter \"Hello, this is Minji\" on Phoning"
+    },
+    "summary": {
+      "ja": "「カルグクス」発言をめぐる批判を受け、ミンジがファンアプリPhoningに謝罪文を投稿。",
+      "en": "After criticism over her \"kalguksu\" remark, Minji posted an apology letter on the fan app Phoning."
+    },
+    "detail": {
+      "ja": "2024年1月16日午後、ミンジはファンアプリPhoningに「안녕하세요 민지입니다」(こんにちは、ミンジです)と題した長文を投稿した。1月2日のライブ配信での態度と、以前のYouTube出演時の「칼국수가 뭐예요?」(カルグクスって何ですか)という発言をめぐる批判について、好き嫌いが激しくカルグクスを食べたことがなかったため無意識につぶやいたと説明し、「良くない態度に驚き傷ついたBunniesに本当に申し訳ない」と謝罪した。",
+      "en": "On the afternoon of 2024-01-16 Minji posted a long letter titled \"안녕하세요 민지입니다\" (Hello, this is Minji) on the fan app Phoning. Addressing criticism of her attitude in a January 2 live and her earlier \"What is kalguksu?\" remark on a YouTube appearance, she explained she had muttered it unthinkingly because she is a picky eater who had never tried kalguksu, and apologised to Bunnies who were surprised and hurt by the attitude she showed."
+    },
+    "source_url": "https://kbizoom.com/newjeans-minji-apologizes-for-the-kalguksu-incident-reflect-on-immature-attitude/",
+    "reference_urls": [
+      "https://www.koreatimes.co.kr/www/art/2024/01/398_367124.html",
+      "https://www.sportskeeda.com/pop-culture/news-they-need-leave-girl-alone-fans-defend-newjeans-minji-uploads-apology-letter-following-recent-kalguksu-controversy"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "Phoning",
+      "apology"
+    ],
+    "verified": false,
+    "credits": {
+      "account": "Phoning (Minji)",
+      "label": "ADOR"
+    },
+    "editor_note": "Phoning is a closed app; post not fetchable. Date and quoted content from Kbizoom / Korea Times / Sportskeeda."
   },
   {
     "id": "sns-2024-03-27-bunnies-camp-2024-tokyo-dome-announcement",
@@ -1587,6 +2595,342 @@
     "platform": "instagram"
   },
   {
+    "id": "sns-2024-04-26-instagram-how-sweet-concept-photos-2",
+    "date": "2024-04-26",
+    "time": "11:01",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "instagram",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Instagram「How Sweet」コンセプトフォト投稿(2本目)",
+      "en": "Instagram \"How Sweet\" concept photo post (second)"
+    },
+    "summary": {
+      "ja": "「How Sweet」コンセプトフォトの2本目の公式Instagram投稿。",
+      "en": "Second official Instagram post of the \"How Sweet\" concept photos."
+    },
+    "detail": {
+      "ja": "2024年4月26日11時01分(KST)、公式Instagram @newjeans_officialに投稿された。11時00分の1本目(C6NQhyCSPro)に続く「How Sweet」コンセプトフォトの投稿で、マリ・クレール コリア(5月2日)は5人それぞれの個性が際立つビジュアル、特にハニのショートヘアとダニエルのヒッピーパーマが話題になったと伝えた。",
+      "en": "Posted at 11:01 KST on 2024-04-26 on the official Instagram @newjeans_official, following the first \"How Sweet\" concept photo post (C6NQhyCSPro) at 11:00. Marie Claire Korea (May 2) noted the five distinct looks, especially Hanni's short cut and Danielle's hippie perm."
+    },
+    "credits": {
+      "account": "@newjeans_official",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.instagram.com/p/C6NQjYHSAiq/",
+    "reference_urls": [
+      "https://www.marieclairekorea.com/culture/music/2024/05/newjeans-bubble-gum/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "@newjeans_official",
+      "HowSweet",
+      "concept-photo"
+    ],
+    "verified": false,
+    "editor_note": "Instagram page not fetchable; shortcode C6NQjYHSAiq found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-04-26 11:01:06 KST. Post caption not retrieved; content described from the article context."
+  },
+  {
+    "id": "sns-2024-04-27-bubble-gum-release-day-post",
+    "date": "2024-04-27",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Bubble Gum」公開日の写真投稿",
+      "en": "\"Bubble Gum\" release-day photo post"
+    },
+    "summary": {
+      "ja": "「Bubble Gum」MV公開と同時に写真4点を投稿し、公式サイトnewjeans.krへ誘導。",
+      "en": "Posted four photos as the \"Bubble Gum\" MV went live, pointing to newjeans.kr for more."
+    },
+    "detail": {
+      "ja": "2024年4月27日0時00分(KST)、公式X@NewJeans_ADORが写真4点を添えて「Bubble Gum / Please check more photos on the website below! newjeans.kr」と投稿した。ハッシュタグは#NewJeans #뉴진스 #NewJeans_BubbleGum #NewJeans_HowSweet #NewJeans_is_Everywhere。同時刻に「Bubble Gum」Official MVの投稿(status 1783873702582755504)も行われた。",
+      "en": "At 00:00 KST on 2024-04-27 @NewJeans_ADOR posted \"Bubble Gum / Please check more photos on the website below! newjeans.kr\" with 4 photos, tagged #NewJeans #뉴진스 #NewJeans_BubbleGum #NewJeans_HowSweet #NewJeans_is_Everywhere. The \"Bubble Gum\" Official MV post (status 1783873702582755504) went up at the same minute."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1783873743225581973",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1783873743225581973"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "BubbleGum",
+      "release",
+      "photo"
+    ],
+    "verified": true,
+    "editor_note": "Post text: Bubble Gum 🫧 /  / Please check more photos on the website below! / 🔗https://newjeans.kr /  / #NewJeans #뉴진스 / #NewJeans_BubbleGum #NewJeans_HowSweet / #NewJeans_is_Everywhere | Status 1783873743225581973 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2024-04-27-instagram-bubble-gum-mv-release-post",
+    "date": "2024-04-27",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "instagram",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Instagram「Bubble Gum」MV公開投稿",
+      "en": "Instagram \"Bubble Gum\" MV release post"
+    },
+    "summary": {
+      "ja": "「Bubble Gum」MV公開の0時に公式Instagramへ投稿。",
+      "en": "Official Instagram post at midnight as the \"Bubble Gum\" MV went live."
+    },
+    "detail": {
+      "ja": "2024年4月27日0時00分(KST)、公式Instagram @newjeans_officialに投稿された。マリ・クレール コリア(5月2日)の記事冒頭に埋め込まれた投稿で、同時刻に公開された「Bubble Gum」ミュージックビデオに関するもの。同時刻に公式Xでも「Bubble Gum」の写真投稿とMV投稿が行われた。",
+      "en": "Posted at 00:00 KST on 2024-04-27 on the official Instagram @newjeans_official, the post embedded at the top of Marie Claire Korea's May 2 article; it concerns the \"Bubble Gum\" music video released at that minute. The official X account posted \"Bubble Gum\" photos and the MV link at the same time."
+    },
+    "credits": {
+      "account": "@newjeans_official",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.instagram.com/p/C6Opx_OyLxp/",
+    "reference_urls": [
+      "https://www.marieclairekorea.com/culture/music/2024/05/newjeans-bubble-gum/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "@newjeans_official",
+      "BubbleGum",
+      "MV",
+      "release"
+    ],
+    "verified": false,
+    "editor_note": "Instagram page not fetchable; shortcode C6Opx_OyLxp found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-04-27 00:00:47 KST. Post caption not retrieved; content described from the article context."
+  },
+  {
+    "id": "sns-2024-04-29-instagram-bubble-gum-era-post-0429",
+    "date": "2024-04-29",
+    "time": "11:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "instagram",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Instagram「Bubble Gum」関連投稿(4月29日)",
+      "en": "Instagram \"Bubble Gum\"-era post (April 29)"
+    },
+    "summary": {
+      "ja": "「Bubble Gum」公開2日後の公式Instagram投稿。",
+      "en": "Official Instagram post two days after the \"Bubble Gum\" release."
+    },
+    "detail": {
+      "ja": "2024年4月29日11時00分(KST)、公式Instagram @newjeans_officialに投稿された。マリ・クレール コリア(5月2日)は「Bubble Gum」MVがYouTube急上昇1位を獲得したという段落にこの投稿を埋め込んでいる。",
+      "en": "Posted at 11:00 KST on 2024-04-29 on the official Instagram @newjeans_official. Marie Claire Korea (May 2) embeds it in the paragraph about the \"Bubble Gum\" MV topping YouTube's trending chart."
+    },
+    "credits": {
+      "account": "@newjeans_official",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.instagram.com/p/C6U-30iyTa7/",
+    "reference_urls": [
+      "https://www.marieclairekorea.com/culture/music/2024/05/newjeans-bubble-gum/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "@newjeans_official",
+      "BubbleGum",
+      "promotion"
+    ],
+    "verified": false,
+    "editor_note": "Instagram page not fetchable; shortcode C6U-30iyTa7 found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-04-29 11:00:32 KST. Post caption not retrieved; content described from the article context. | removed from reader text: [detail.ja] 投稿の本文・画像は未確認。 [detail.en] Caption and images not confirmed."
+  },
+  {
+    "id": "sns-2024-04-30-instagram-right-now-mv-teaser-post",
+    "date": "2024-04-30",
+    "time": "23:59",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "instagram",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Instagram「Right Now」MVティーザー投稿",
+      "en": "Instagram \"Right Now\" MV teaser post"
+    },
+    "summary": {
+      "ja": "パワーパフガールズとの協業キャラクターが登場する「Right Now」MVティーザーの公式Instagram投稿。",
+      "en": "Official Instagram post of the \"Right Now\" MV teaser featuring the Powerpuff Girls-collaboration characters."
+    },
+    "detail": {
+      "ja": "2024年4月30日23時59分(KST)、公式Instagram @newjeans_officialに投稿された。VOGUE KOREA(5月1日)はこの投稿を埋め込み、夜の森を歩く5人のキャラクターが「Love Potion」に使う巨大な虹色の花に出会うティーザーで、日本デビューシングル『Supernatural』収録曲「Right Now」のものと伝えた。公式YouTubeのティーザーは5月1日0時公開。",
+      "en": "Posted at 23:59 KST on 2024-04-30 on the official Instagram @newjeans_official. Vogue Korea (May 1) embedded it, describing the teaser in which the five Powerpuff Girls-collaboration characters walk through a night forest and meet a giant rainbow flower for a \"Love Potion\"; \"Right Now\" is a track on the Japan debut single \"Supernatural\". The YouTube teaser went up at 00:00 on May 1."
+    },
+    "credits": {
+      "account": "@newjeans_official",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.instagram.com/p/C6Y8y_KyLs_/",
+    "reference_urls": [
+      "https://www.vogue.co.kr/2024/05/01/%eb%89%b4%ec%a7%84%ec%8a%a4x%eb%ac%b4%eb%9d%bc%ec%b9%b4%eb%af%b8-%eb%8b%a4%ec%b9%b4%ec%8b%9c-%ed%98%91%ec%97%85-right-now/",
+      "https://www.marieclairekorea.com/culture/music/2024/05/newjeans-bubble-gum/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "@newjeans_official",
+      "RightNow",
+      "teaser",
+      "Supernatural"
+    ],
+    "verified": false,
+    "editor_note": "Instagram page not fetchable; shortcode C6Y8y_KyLs_ found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-04-30 23:59:21 KST. Post caption not retrieved; content described from the article context."
+  },
+  {
+    "id": "sns-2024-05-06-minji-birthday-phoning-chat",
+    "date": "2024-05-06",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "phoning",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "ミンジ、誕生日前夜にPhoningでファンと交流",
+      "en": "Minji chats with fans on Phoning ahead of her birthday"
+    },
+    "summary": {
+      "ja": "HYBEとADORの対立が報じられる中、ミンジが誕生日(5月7日)を前にPhoningでファンを気遣うメッセージを送った。",
+      "en": "Amid reports of the HYBE-ADOR dispute, Minji sent reassuring messages on Phoning ahead of her May 7 birthday."
+    },
+    "detail": {
+      "ja": "2024年5月6日、ミンジはファンアプリPhoningでファンとやり取りし、心配して泣いたというファンに「泣いたの? 何の話? 泣かないで。私がいなくて寂しくて泣いたの?」と語りかけた(Kbizoom 5月9日の報道による)。HYBEとADORの経営権をめぐる対立が報じられていた時期で、翌5月7日はミンジの誕生日だった。",
+      "en": "On 2024-05-06 Minji chatted with fans on the fan app Phoning, telling a fan who said they had cried: \"Crying? What are you talking about? Don't cry. Did you cry because you missed me?\" (per Kbizoom, May 9). This was during the reported HYBE-ADOR management dispute, the day before her May 7 birthday."
+    },
+    "source_url": "https://kbizoom.com/minjis-birthday-comfort-hyeins-foot-fracture-danielles-confession-newjeans-isnt-really-smiling/",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "Phoning",
+      "birthday"
+    ],
+    "verified": false,
+    "credits": {
+      "account": "Phoning (Minji)",
+      "label": "ADOR"
+    },
+    "editor_note": "Secondary source only (Kbizoom); Phoning not fetchable; quote is an English translation."
+  },
+  {
+    "id": "sns-2024-05-08-danielle-phoning-message-quiet",
+    "date": "2024-05-08",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "phoning",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "ダニエル、Phoningで「少し静かだったのは…」とファンを安心させるメッセージ",
+      "en": "Danielle reassures fans on Phoning after a quieter-than-usual spell"
+    },
+    "summary": {
+      "ja": "ダニエルがPhoningで、グループがいつもより静かだったことを心配するBunniesに向けたメッセージを送った。",
+      "en": "Danielle sent a Phoning message for Bunnies who had worried because the group was quieter than usual."
+    },
+    "detail": {
+      "ja": "2024年5月8日、ダニエルはファンアプリPhoningで「いつもより少し静かだったので、心配していたBunniesもいました」と切り出し、ファンを安心させるメッセージを送った(Kbizoom 5月9日の報道による)。同日ADORはWeverseで、ヘインが足の微細骨折のため「How Sweet」活動を休むと告知している。",
+      "en": "On 2024-05-08 Danielle sent a message on the fan app Phoning, saying some Bunnies had been worried because the group was a little quieter than usual, and reassuring them (per Kbizoom, May 9). The same day ADOR announced on Weverse that Hyein would sit out \"How Sweet\" activities with a foot microfracture."
+    },
+    "source_url": "https://kbizoom.com/minjis-birthday-comfort-hyeins-foot-fracture-danielles-confession-newjeans-isnt-really-smiling/",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "Phoning"
+    ],
+    "verified": false,
+    "credits": {
+      "account": "Phoning (Danielle)",
+      "label": "ADOR"
+    },
+    "editor_note": "Secondary source only (Kbizoom); quote is an English translation."
+  },
+  {
+    "id": "sns-2024-05-08-weverse-hyein-activity-pause-notice",
+    "date": "2024-05-08",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "weverse",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "Weverse告知：ヘイン、足の微細骨折により「How Sweet」活動を休止",
+      "en": "Weverse notice: Hyein to sit out \"How Sweet\" activities with a foot microfracture"
+    },
+    "summary": {
+      "ja": "ADORがWeverseで、ヘインが足の微細骨折のため「How Sweet」の音楽番組などの公式活動に参加しないと告知。",
+      "en": "ADOR announced on Weverse that Hyein would not take part in official \"How Sweet\" activities, including music shows, due to a foot microfracture."
+    },
+    "detail": {
+      "ja": "2024年5月8日、ADORはWeverseの公式コミュニティで、ヘインが足の微細骨折と診断され、回復のためダブルシングル「How Sweet」の音楽番組やパフォーマンスなどの公式活動への参加を見合わせると告知した(Kbizoom 5月9日の報道による)。「How Sweet」は5月24日発売予定だった。",
+      "en": "On 2024-05-08 ADOR announced on the official Weverse community that Hyein, diagnosed with a microfracture in her foot, would refrain from official activities for the double single \"How Sweet\", including music broadcasts and performances, to recover (per Kbizoom, May 9). \"How Sweet\" was due on May 24."
+    },
+    "source_url": "https://kbizoom.com/minjis-birthday-comfort-hyeins-foot-fracture-danielles-confession-newjeans-isnt-really-smiling/",
+    "reference_urls": [],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "Weverse",
+      "notice",
+      "HowSweet",
+      "injury"
+    ],
+    "verified": false,
+    "credits": {
+      "account": "Weverse NewJeans official (ADOR)",
+      "label": "ADOR"
+    },
+    "editor_note": "Secondary source; Weverse notice URL not located."
+  },
+  {
     "id": "sns-2024-05-10-supernatural-packshot-preorder",
     "date": "2024-05-10",
     "time": "11:10",
@@ -1675,6 +3019,51 @@
     "platform": "instagram"
   },
   {
+    "id": "sns-2024-05-13-instagram-fujiwara-hiroshi-tshirt-post",
+    "date": "2024-05-13",
+    "time": "13:49",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "instagram",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Instagram 藤原ヒロシ協業Tシャツ投稿",
+      "en": "Instagram post on the Fujiwara Hiroshi collaboration T-shirt"
+    },
+    "summary": {
+      "ja": "『Supernatural』発売記念の藤原ヒロシ協業Tシャツを公式Instagramで公開。",
+      "en": "Official Instagram post revealing the Fujiwara Hiroshi collaboration T-shirt for the \"Supernatural\" release."
+    },
+    "detail": {
+      "ja": "2024年5月13日13時49分(KST)、公式Instagram @newjeans_officialに投稿された。マリ・クレール コリア(同日)はこの投稿を埋め込み、藤原ヒロシが手書きしたNewJeansとメンバーの名前、本人のサインが入った『Supernatural』発売記念Tシャツで、2024年6月21日に韓国と日本のポップアップストアで発売予定と伝えた。",
+      "en": "Posted at 13:49 KST on 2024-05-13 on the official Instagram @newjeans_official. Marie Claire Korea (same day) embedded it, describing a \"Supernatural\" release T-shirt bearing Fujiwara Hiroshi's handwritten NewJeans and member names and his signature, to go on sale at pop-up stores in Korea and Japan on 2024-06-21."
+    },
+    "credits": {
+      "account": "@newjeans_official",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.instagram.com/p/C65VTGTrIaz/",
+    "reference_urls": [
+      "https://www.marieclairekorea.com/celebrity/2024/05/fujiwara-hiroshi-newjeans/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "@newjeans_official",
+      "Supernatural",
+      "FujiwaraHiroshi",
+      "goods",
+      "collaboration"
+    ],
+    "verified": false,
+    "editor_note": "Instagram page not fetchable; shortcode C65VTGTrIaz found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-05-13 13:49:09 KST. Post caption not retrieved; content described from the article context."
+  },
+  {
     "id": "sns-2024-05-20-how-sweet-release-schedule-phoning",
     "date": "2024-05-20",
     "date_type": "announce",
@@ -1713,6 +3102,878 @@
       "platform": "Phoning"
     },
     "platform": "phoning"
+  },
+  {
+    "id": "sns-2024-05-24-how-sweet-d-day-post",
+    "date": "2024-05-24",
+    "time": "10:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「How Sweet」発売日D-Day投稿",
+      "en": "\"How Sweet\" release-day D-Day post"
+    },
+    "summary": {
+      "ja": "発売当日の予定(13時配信、16時MV、17時10分ミュージックバンク)を告知するD-Day投稿。",
+      "en": "D-Day post listing the day's schedule: 13:00 release, 16:00 MV, 17:10 Music Bank."
+    },
+    "detail": {
+      "ja": "2024年5月24日10時00分(KST)、公式X@NewJeans_ADORが写真2点を添えて「D-Day! / 13:00(KST) 'How Sweet' & 'Bubble Gum' 음원 발매 / 16:00(KST) 'How Sweet' MV 공개 / 17:10(KST) 뮤직뱅크」(13時「How Sweet」「Bubble Gum」音源発売、16時「How Sweet」MV公開、17時10分ミュージックバンク)と投稿した。ハッシュタグは#NewJeans #뉴진스 #NewJeans_HowSweet #NewJeans_BubbleGum #NewJeans_is_Everywhere。",
+      "en": "At 10:00 KST on 2024-05-24 @NewJeans_ADOR posted a D-Day schedule with 2 photos: 13:00 KST digital release of \"How Sweet\" & \"Bubble Gum\", 16:00 KST \"How Sweet\" MV, 17:10 KST Music Bank. Hashtags: #NewJeans #뉴진스 #NewJeans_HowSweet #NewJeans_BubbleGum #NewJeans_is_Everywhere."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1793809139363127518",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1793809139363127518"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "HowSweet",
+      "release",
+      "D-Day"
+    ],
+    "verified": true,
+    "editor_note": "Post text: ✅D-Day! /  / 🎵13:00(KST) 'How Sweet' & 'Bubble Gum' 음원 발매 / 🎬16:00(KST) 'How Sweet' MV 공개 / 📺17:10(KST) 뮤직뱅크 /  / #NewJeans #뉴진스 / #NewJeans_HowSweet #NewJeans_BubbleGum / #NewJeans_is_Everywhere | Status 1793809139363127518 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2024-05-24-how-sweet-available-now",
+    "date": "2024-05-24",
+    "time": "13:32",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「How Sweet」配信開始投稿",
+      "en": "\"How Sweet\" Available Now post"
+    },
+    "summary": {
+      "ja": "ダブルシングル「How Sweet」の配信開始を告知。",
+      "en": "Post announcing the double single \"How Sweet\" is available."
+    },
+    "detail": {
+      "ja": "2024年5月24日13時32分(KST)、公式X@NewJeans_ADORが「[Music] NewJeans 'How Sweet' Available Now」と配信リンク(newjeans.lnk.to/HowSweet)を投稿した。ハッシュタグは#NewJeans #뉴진스 #NewJeans_HowSweet #NewJeans_BubbleGum #NewJeans_is_Everywhere。",
+      "en": "At 13:32 KST on 2024-05-24 @NewJeans_ADOR posted \"[Music] NewJeans 'How Sweet' Available Now\" with the link newjeans.lnk.to/HowSweet, tagged #NewJeans #뉴진스 #NewJeans_HowSweet #NewJeans_BubbleGum #NewJeans_is_Everywhere."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1793862568857227310",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1793862568857227310"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "HowSweet",
+      "release"
+    ],
+    "verified": true,
+    "editor_note": "Post text: [Music🎵] / NewJeans 'How Sweet' / Available Now 📌 /  / 🔗http://newjeans.lnk.to/HowSweet /  / #NewJeans #뉴진스 / #NewJeans_HowSweet #NewJeans_BubbleGum / #NewJeans_is_Everywhere | Status 1793862568857227310 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2024-05-24-tiktok-how-sweet-favorite-flavor",
+    "date": "2024-05-24",
+    "time": "14:04",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "tiktok",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "TikTok「You're my favorite flavor」(How Sweet)動画",
+      "en": "TikTok \"You're my favorite flavor\" (\"How Sweet\") video"
+    },
+    "summary": {
+      "ja": "「How Sweet」発売日に公式TikTokへ投稿された動画をXで告知。",
+      "en": "A TikTok video posted on the \"How Sweet\" release day, announced on X."
+    },
+    "detail": {
+      "ja": "2024年5月24日14時04分(KST)、公式X@NewJeans_ADORが「[VIDEO] You're my favorite flavor」とTikTok動画へのリンク(vt.tiktok.com/ZSYYNWvvT)を投稿した。ハッシュタグは#NewJeans #뉴진스 #NewJeans_BubbleGum #NewJeans_is_Everywhere。「You're my favorite flavor」は「How Sweet」の歌詞の一節。",
+      "en": "At 14:04 KST on 2024-05-24 @NewJeans_ADOR posted \"[VIDEO] You're my favorite flavor\" with a link to the TikTok video (vt.tiktok.com/ZSYYNWvvT), tagged #NewJeans #뉴진스 #NewJeans_BubbleGum #NewJeans_is_Everywhere. \"You're my favorite flavor\" is a line from \"How Sweet\"."
+    },
+    "credits": {
+      "account": "@newjeans_official (TikTok) / @NewJeans_ADOR (X)",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1793870639771910398",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1793870639771910398"
+    },
+    "tags": [
+      "@newjeans_official",
+      "tiktok",
+      "HowSweet",
+      "BubbleGum",
+      "challenge"
+    ],
+    "verified": false,
+    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1793870639771910398 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / You're my favorite flavor 🫧🫧🫧 /  / 🔗https://vt.tiktok.com/ZSYYNWvvT/ /  / #NewJeans #뉴진스 / #NewJeans_BubbleGum / #NewJeans_is_Everywhere. Time is that of the X cross-post; the TikTok upload may be slightly earlier.",
+    "links": {
+      "tiktok": "https://vt.tiktok.com/ZSYYNWvvT/"
+    }
+  },
+  {
+    "id": "sns-2024-05-24-tiktok-bubble-gum-balloon-video",
+    "date": "2024-05-24",
+    "time": "14:06",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "tiktok",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "TikTok「이미 우린 저기 멀리 높이 있는 풍선 같이」(Bubble Gum)動画",
+      "en": "TikTok \"Bubble Gum\" video (\"like a balloon far up high\")"
+    },
+    "summary": {
+      "ja": "「Bubble Gum」の歌詞を添えた動画を公式TikTokに投稿し、Xで告知。",
+      "en": "A TikTok video captioned with a \"Bubble Gum\" lyric, announced on X."
+    },
+    "detail": {
+      "ja": "2024年5月24日14時06分(KST)、公式X@NewJeans_ADORが「[VIDEO] 이미 우린 저기 멀리 높이 있는 풍선 같이」(もう私たちはあの遠く高くにある風船みたいに)とTikTok動画へのリンク(vt.tiktok.com/ZSYYN7qeT)を投稿した。ハッシュタグは#NewJeans #뉴진스 #NewJeans_BubbleGum #NewJeans_is_Everywhere。",
+      "en": "At 14:06 KST on 2024-05-24 @NewJeans_ADOR posted \"[VIDEO] 이미 우린 저기 멀리 높이 있는 풍선 같이\" (a \"Bubble Gum\" lyric: already we're like a balloon far up high) with a link to the TikTok video (vt.tiktok.com/ZSYYN7qeT), tagged #NewJeans #뉴진스 #NewJeans_BubbleGum #NewJeans_is_Everywhere."
+    },
+    "credits": {
+      "account": "@newjeans_official (TikTok) / @NewJeans_ADOR (X)",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1793871110418952523",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1793871110418952523"
+    },
+    "tags": [
+      "@newjeans_official",
+      "tiktok",
+      "BubbleGum",
+      "challenge"
+    ],
+    "verified": false,
+    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1793871110418952523 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / 이미 우린 저기 멀리 높이 있는 풍선 같이🎈 /  / 🔗https://vt.tiktok.com/ZSYYN7qeT/ /  / #NewJeans #뉴진스 / #NewJeans_BubbleGum / #NewJeans_is_Everywhere. Time is that of the X cross-post; the TikTok upload may be slightly earlier.",
+    "links": {
+      "tiktok": "https://vt.tiktok.com/ZSYYN7qeT/"
+    }
+  },
+  {
+    "id": "sns-2024-05-24-how-sweet-mv-release-photos",
+    "date": "2024-05-24",
+    "time": "16:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「How Sweet」MV公開時の写真投稿",
+      "en": "\"How Sweet\" MV-release photo post"
+    },
+    "summary": {
+      "ja": "MV公開と同時刻に写真4点を投稿し、続きはPhoningで公開と案内。",
+      "en": "Four photos posted as the MV went live, with more promised on Phoning."
+    },
+    "detail": {
+      "ja": "2024年5月24日16時00分(KST)、公式X@NewJeans_ADORが写真4点を添えて「Don’t you know how sweet it tastes / ...See Phoning for more photos!」と投稿した。ハッシュタグは#NewJeans #뉴진스 #NewJeans_HowSweet #NewJeans_BubbleGum #NewJeans_is_Everywhere。同時刻に「How Sweet」Official MV(youtu.be/Q3K0TOvTOno)の投稿も行われた。",
+      "en": "At 16:00 KST on 2024-05-24 @NewJeans_ADOR posted \"Don’t you know how sweet it tastes / ...See Phoning for more photos!\" with 4 photos, tagged #NewJeans #뉴진스 #NewJeans_HowSweet #NewJeans_BubbleGum #NewJeans_is_Everywhere. The \"How Sweet\" Official MV post (youtu.be/Q3K0TOvTOno) went up at the same minute."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1793899770244943967",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1793899770244943967"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "HowSweet",
+      "photo",
+      "Phoning"
+    ],
+    "verified": true,
+    "editor_note": "Post text: Don’t you know how sweet it tastes🍭 /  / ...See Phoning for more photos!📱 /  / #NewJeans #뉴진스 / #NewJeans_HowSweet #NewJeans_BubbleGum / #NewJeans_is_Everywhere | Status 1793899770244943967 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2024-06-19-instagram-supernatural-mv-teaser-post",
+    "date": "2024-06-19",
+    "time": "23:59",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "instagram",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Instagram「Supernatural」MVティーザー投稿",
+      "en": "Instagram \"Supernatural\" MV teaser post"
+    },
+    "summary": {
+      "ja": "「Supernatural」MV公開前日の深夜に公式Instagramへ投稿。",
+      "en": "Official Instagram post just before midnight on the eve of the \"Supernatural\" MV premiere."
+    },
+    "detail": {
+      "ja": "2024年6月19日23時59分(KST)、公式Instagram @newjeans_officialに投稿された。VOGUE KOREA(7月5日)はこの投稿を、ADORが「Supernatural」のMVは2編構成であると説明した段落に埋め込んでいる。公式YouTubeでは6月20日に「Supernatural」Official MV Teaser 2が公開されており、それに合わせた投稿とみられる。",
+      "en": "Posted at 23:59 KST on 2024-06-19 on the official Instagram @newjeans_official. Vogue Korea (July 5) embeds it in the paragraph where ADOR explained the \"Supernatural\" MV would come in two parts. The \"Supernatural\" Official MV Teaser 2 went up on YouTube on June 20, and the post appears to accompany it."
+    },
+    "credits": {
+      "account": "@newjeans_official",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.instagram.com/p/C8ZsjaDSczz/",
+    "reference_urls": [
+      "https://www.vogue.co.kr/2024/07/05/%eb%89%b4%ec%a7%84%ec%8a%a4-supernatural-mv-%ed%8c%8c%ed%8a%b8-2-%ea%b3%b5%ea%b0%9c/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "@newjeans_official",
+      "Supernatural",
+      "teaser",
+      "MV"
+    ],
+    "verified": false,
+    "editor_note": "Instagram page not fetchable; shortcode C8ZsjaDSczz found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-06-19 23:59:27 KST. Post caption not retrieved; content described from the article context."
+  },
+  {
+    "id": "sns-2024-06-21-supernatural-d-day-post",
+    "date": "2024-06-21",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Supernatural」発売日D-Day投稿",
+      "en": "\"Supernatural\" release-day D-Day post"
+    },
+    "summary": {
+      "ja": "日本デビューシングル「Supernatural」発売日の0時にD-Day投稿。",
+      "en": "D-Day post at midnight on the release day of the Japan debut single \"Supernatural\"."
+    },
+    "detail": {
+      "ja": "2024年6月21日0時00分(KST)、公式X@NewJeans_ADORが写真1点を添えて「D-Day! / 2024.6.21.13:00(KST) 'Supernatural' & 'Right Now' 음원 발매 / 'Supernatural' MV 공개」(13時「Supernatural」「Right Now」音源発売、「Supernatural」MV公開)と投稿した。ハッシュタグは#NewJeans #뉴진스 #NewJeans_RightNow #NewJeans_Supernatural #NewJeans_is_Everywhere。",
+      "en": "At 00:00 KST on 2024-06-21 @NewJeans_ADOR posted a D-Day notice with 1 photo: 13:00 KST digital release of \"Supernatural\" & \"Right Now\" and the \"Supernatural\" MV premiere. Hashtags: #NewJeans #뉴진스 #NewJeans_RightNow #NewJeans_Supernatural #NewJeans_is_Everywhere."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1803805007189577909",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1803805007189577909"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "Supernatural",
+      "release",
+      "D-Day"
+    ],
+    "verified": true,
+    "editor_note": "Post text: ✅D-Day! /  / 2024.6.21.13:00(KST) / 🎵'Supernatural' & 'Right Now' 음원 발매 / 🎬'Supernatural' MV 공개 /  / #NewJeans #뉴진스 / #NewJeans_RightNow #NewJeans_Supernatural / #NewJeans_is_Everywhere | Status 1803805007189577909 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2024-06-21-supernatural-available-now",
+    "date": "2024-06-21",
+    "time": "13:23",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Supernatural」配信開始投稿",
+      "en": "\"Supernatural\" Available Now post"
+    },
+    "summary": {
+      "ja": "「Supernatural」の配信開始を告知。",
+      "en": "Post announcing \"Supernatural\" is available."
+    },
+    "detail": {
+      "ja": "2024年6月21日13時23分(KST)、公式X@NewJeans_ADORが「[Music] NewJeans 'Supernatural' Available Now」と配信リンク(newjeans.lnk.to/Supernatural)を投稿した。ハッシュタグは#NewJeans #뉴진스 #NewJeans_Supernatural #NewJeans_RightNow #NewJeans_is_Everywhere。同日13時に「Supernatural」Official MV (Part.1)も公開された。",
+      "en": "At 13:23 KST on 2024-06-21 @NewJeans_ADOR posted \"[Music] NewJeans 'Supernatural' Available Now\" with the link newjeans.lnk.to/Supernatural, tagged #NewJeans #뉴진스 #NewJeans_Supernatural #NewJeans_RightNow #NewJeans_is_Everywhere. The \"Supernatural\" Official MV (Part.1) had gone live at 13:00."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1804007193701994702",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1804007193701994702"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "Supernatural",
+      "release"
+    ],
+    "verified": true,
+    "editor_note": "Post text: [Music🎵] / NewJeans 'Supernatural' / Available Now 📌 /  / 🔗https://newjeans.lnk.to/Supernatural /  / #NewJeans #뉴진스 / #NewJeans_Supernatural #NewJeans_RightNow / #NewJeans_is_Everywhere | Status 1804007193701994702 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2024-06-26-bunnies-camp-tokyo-dome-d-day",
+    "date": "2024-06-26",
+    "time": "17:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Bunnies Camp 2024 Tokyo Dome D-Day投稿",
+      "en": "Bunnies Camp 2024 Tokyo Dome D-Day post"
+    },
+    "summary": {
+      "ja": "東京ドーム公演初日に動画付きのD-Day投稿。",
+      "en": "D-Day post with a short video on the first day of the Tokyo Dome fan meeting."
+    },
+    "detail": {
+      "ja": "2024年6月26日17時00分(KST)、公式X@NewJeans_ADORが約11秒の動画1本を添えて「D-Day! Bunnies Camp 2024 Tokyo Dome」と投稿した。ハッシュタグは#NewJeans #뉴진스 #BunniesCamp #BunniesCamp2024TokyoDome #NewJeans_is_Everywhere。ファンミーティングは6月26日・27日の2日間、東京ドームで開催された。",
+      "en": "At 17:00 KST on 2024-06-26 @NewJeans_ADOR posted \"D-Day! Bunnies Camp 2024 Tokyo Dome\" with 1 video (about 11s), tagged #NewJeans #뉴진스 #BunniesCamp #BunniesCamp2024TokyoDome #NewJeans_is_Everywhere. The fan meeting ran on June 26 and 27 at Tokyo Dome."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1805873636831904104",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1805873636831904104"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "BunniesCamp",
+      "TokyoDome",
+      "D-Day"
+    ],
+    "verified": true,
+    "editor_note": "Post text: ✔️D-Day!  / Bunnies Camp 2024 Tokyo Dome  /  / #NewJeans #뉴진스  / #BunniesCamp #BunniesCamp2024TokyoDome  / #NewJeans_is_Everywhere | Status 1805873636831904104 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2024-06-26-tokyo-dome-day1-thank-you",
+    "date": "2024-06-26",
+    "time": "23:45",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "東京ドーム初日の感謝コメント投稿",
+      "en": "Tokyo Dome day-1 thank-you post"
+    },
+    "summary": {
+      "ja": "東京ドーム初日終演後、日・韓・英の3言語でBunniesへ感謝を伝える投稿。",
+      "en": "After the first Tokyo Dome show, a trilingual (JA/KO/EN) thank-you to Bunnies."
+    },
+    "detail": {
+      "ja": "2024年6月26日23時45分(KST)、公式X@NewJeans_ADORが写真3点を添えて「[NewJeans Commentary] 今日、NewJeansを見に来てくれたすべてのBunnies！ 本当にありがとう！明日も頑張りましょう！」と投稿し、韓国語「오늘 뉴진스 보러 시간 내주신 모든 버니즈! 너무 고마워요! 내일도 뿌시쟝!」、英語「To all the Bunnies who took the time to come see NewJeans today! Thank you so much! Let's do our best tomorrow too!」を併記した。ハッシュタグは#NewJeans #BunniesCamp #BunniesCamp2024TokyoDome #NewJeans_is_Everywhere。",
+      "en": "At 23:45 KST on 2024-06-26 @NewJeans_ADOR posted \"[NewJeans Commentary]\" with 3 photos, in Japanese, Korean and English: \"To all the Bunnies who took the time to come see NewJeans today! Thank you so much! Let's do our best tomorrow too!\" (JA: 今日、NewJeansを見に来てくれたすべてのBunnies！ 本当にありがとう！明日も頑張りましょう！). Hashtags: #NewJeans #BunniesCamp #BunniesCamp2024TokyoDome #NewJeans_is_Everywhere."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1805983429621628958",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1805983429621628958"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "BunniesCamp",
+      "TokyoDome",
+      "thanks"
+    ],
+    "verified": true,
+    "editor_note": "Post text: [NewJeans Commentary👀] /  / 今日、NewJeansを見に来てくれたすべてのBunnies！ 本当にありがとう！明日も頑張りましょう！ / 오늘 뉴진스 보러 시간 내주신 모든 버니즈! 너무 고마워요! 내일도 뿌시쟝! / To all the Bunnies who took the time to come see NewJeans today! Thank you so much! Let's do our best tomorrow too! /  / #NewJeans / #BunniesCamp #BunniesCamp2024TokyoDome / #NewJeans_is_Everywhere | Status 1805983429621628958 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2024-06-29-instagram-bunnies-camp-tokyo-dome-photos",
+    "date": "2024-06-29",
+    "time": "15:39",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "instagram",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Instagram Bunnies Camp 2024 Tokyo Dome 写真投稿",
+      "en": "Instagram Bunnies Camp 2024 Tokyo Dome photo post"
+    },
+    "summary": {
+      "ja": "東京ドーム公演終了後、公式Instagramに公演写真を投稿。",
+      "en": "Official Instagram post of photos from the Tokyo Dome fan meeting after the shows."
+    },
+    "detail": {
+      "ja": "2024年6月29日15時39分(KST)、公式Instagram @newjeans_officialに投稿された。VOGUE KOREA(7月1日)はこの投稿を埋め込み、メンバーがステージで着用したエリ・ワキヤマ(Eri Wakiyama)協業のキャラクターTシャツを紹介した。「Bunnies Camp 2024 Tokyo Dome」は6月26日・27日に開催され、約9万1,200人を動員した。",
+      "en": "Posted at 15:39 KST on 2024-06-29 on the official Instagram @newjeans_official. Vogue Korea (July 1) embedded it when introducing the Eri Wakiyama-collaboration character T-shirts the members wore on stage. \"Bunnies Camp 2024 Tokyo Dome\" was held on June 26-27 for about 91,200 attendees."
+    },
+    "credits": {
+      "account": "@newjeans_official",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.instagram.com/p/C8yjQadg_hC/",
+    "reference_urls": [
+      "https://www.vogue.co.kr/2024/07/01/%eb%89%b4%ec%a7%84%ec%8a%a4-%eb%b2%84%eb%8b%88%ec%a6%88-%ec%ba%a0%ed%94%84%ec%97%90%ec%84%9c-%ec%9d%b8%ec%83%81-%ea%b9%8a%ec%97%88%eb%8d%98-%ec%9d%98%ec%83%81-2/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "@newjeans_official",
+      "BunniesCamp",
+      "TokyoDome",
+      "photo"
+    ],
+    "verified": false,
+    "editor_note": "Instagram page not fetchable; shortcode C8yjQadg_hC found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-06-29 15:39:13 KST. Post caption not retrieved; content described from the article context."
+  },
+  {
+    "id": "sns-2024-07-22-2-years-of-newjeans",
+    "date": "2024-07-22",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "デビュー2周年記念投稿「2 Years of NewJeans」",
+      "en": "Debut 2nd anniversary post \"2 Years of NewJeans\""
+    },
+    "summary": {
+      "ja": "2周年の0時に動画付きで「2 Years of NewJeans」と投稿。",
+      "en": "At midnight on the second anniversary: \"2 Years of NewJeans\" with a short video."
+    },
+    "detail": {
+      "ja": "2024年7月22日0時00分(KST)、公式X@NewJeans_ADORが約9秒の動画1本を添えて「[NewJeans Day] 2 Years of NewJeans」と投稿した。ハッシュタグは#NewJeans #뉴진스 #NewJeansDay #NewJeans_2nd_Anniversary。同時刻に「Bunnies Love NewJeans」動画の投稿も行われた。",
+      "en": "At 00:00 KST on 2024-07-22 @NewJeans_ADOR posted \"[NewJeans Day] 2 Years of NewJeans\" with 1 video (about 9s), tagged #NewJeans #뉴진스 #NewJeansDay #NewJeans_2nd_Anniversary. A \"Bunnies Love NewJeans\" video was posted at the same minute."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1815039071384993818",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1815039071384993818"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "anniversary",
+      "NewJeansDay"
+    ],
+    "verified": true,
+    "editor_note": "Post text: [NewJeans Day🎂] / 𝟮 𝗬𝗲𝗮𝗿𝘀 𝗼𝗳 𝗡𝗲𝘄𝗝𝗲𝗮𝗻𝘀 💙 /  / #NewJeans #뉴진스 / #NewJeansDay #NewJeans_2nd_Anniversary | Status 1815039071384993818 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2024-07-22-bunnies-love-newjeans-video",
+    "date": "2024-07-22",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2周年記念動画「Bunnies Love NewJeans」投稿",
+      "en": "2nd anniversary video \"Bunnies Love NewJeans\""
+    },
+    "summary": {
+      "ja": "2周年の0時に約32秒の動画「Bunnies Love NewJeans」を投稿。",
+      "en": "At midnight on the second anniversary a roughly 32-second video \"Bunnies Love NewJeans\" was posted."
+    },
+    "detail": {
+      "ja": "2024年7月22日0時00分(KST)、公式X@NewJeans_ADORが約32秒の動画1本を添えて「[NewJeans Day] Bunnies Love NewJeans」と投稿した。ハッシュタグは#NewJeans #뉴진스 #NewJeansDay #NewJeans_2nd_Anniversary。",
+      "en": "At 00:00 KST on 2024-07-22 @NewJeans_ADOR posted \"[NewJeans Day] Bunnies Love NewJeans\" with 1 video (about 32s), tagged #NewJeans #뉴진스 #NewJeansDay #NewJeans_2nd_Anniversary."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1815039038279295383",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1815039038279295383"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "anniversary",
+      "NewJeansDay",
+      "video"
+    ],
+    "verified": true,
+    "editor_note": "Post text: [NewJeans Day🎂] / Bunnies Love NewJeans 🐰💙 /  / #NewJeans #뉴진스  / #NewJeansDay #NewJeans_2nd_Anniversary | Status 1815039038279295383 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2024-07-22-this-is-newjeans-anniversary-photos",
+    "date": "2024-07-22",
+    "time": "11:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2周年記念「This is NewJeans」写真投稿",
+      "en": "2nd anniversary \"This is NewJeans\" photo post"
+    },
+    "summary": {
+      "ja": "2周年当日の11時に写真4点を「This is NewJeans」として投稿。",
+      "en": "Four photos captioned \"This is NewJeans\" at 11:00 on the second anniversary."
+    },
+    "detail": {
+      "ja": "2024年7月22日11時00分(KST)、公式X@NewJeans_ADORが写真4点を添えて「[NewJeans Day] This is NewJeans」と投稿した。ハッシュタグは#NewJeans #뉴진스 #NewJeansDay #NewJeans_2nd_Anniversary。「This is NewJeans」はSpotifyの公式プレイリスト名でもあり、同日12時には同プレイリストのフォロー特典スペシャルカードの案内も投稿された。",
+      "en": "At 11:00 KST on 2024-07-22 @NewJeans_ADOR posted \"[NewJeans Day] This is NewJeans\" with 4 photos, tagged #NewJeans #뉴진스 #NewJeansDay #NewJeans_2nd_Anniversary. \"This is NewJeans\" is also the name of the Spotify playlist; a post at 12:00 the same day announced a special card for followers of that playlist."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1815205125302153332",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1815205125302153332"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "anniversary",
+      "NewJeansDay",
+      "photo"
+    ],
+    "verified": true,
+    "editor_note": "Post text: [NewJeans Day🎂] / This is NewJeans☘️ /  / #NewJeans #뉴진스 / #NewJeansDay #NewJeans_2nd_Anniversary | Status 1815205125302153332 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2024-07-22-weverse-for-agent-bunnies",
+    "date": "2024-07-22",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "weverse",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Weverse 2周年コンテンツ「for Agent Bunnies」",
+      "en": "Weverse 2nd-anniversary content \"for Agent Bunnies\""
+    },
+    "summary": {
+      "ja": "デビュー2周年にWeverseで「for Agent Bunnies」と題したコンテンツを公開。",
+      "en": "On the second anniversary, content titled \"for Agent Bunnies\" was released on Weverse."
+    },
+    "detail": {
+      "ja": "2024年7月22日16時00分(KST)、公式X@NewJeans_ADORが「[NewJeans Day] for Agent Bunnies」としてWeverseへのリンク(go.weverse.io/qt3S/3gc6mmf5)を投稿した。ハッシュタグは#NewJeans #뉴진스 #NewJeansDay #NewJeans_2nd_Anniversary。",
+      "en": "At 16:00 KST on 2024-07-22 @NewJeans_ADOR posted \"[NewJeans Day] for Agent Bunnies\" with a Weverse link (go.weverse.io/qt3S/3gc6mmf5), tagged #NewJeans #뉴진스 #NewJeansDay #NewJeans_2nd_Anniversary."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1815280688259830008",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1815280688259830008"
+    },
+    "tags": [
+      "Weverse",
+      "anniversary",
+      "NewJeansDay"
+    ],
+    "verified": false,
+    "time": "16:00",
+    "credits": {
+      "account": "Weverse NewJeans official",
+      "label": "ADOR"
+    },
+    "links": {
+      "weverse": "https://go.weverse.io/qt3S/3gc6mmf5"
+    },
+    "editor_note": "Weverse content not fetched; X post 1815280688259830008 verified via fxtwitter. Content unknown beyond its title."
+  },
+  {
+    "id": "sns-2024-07-22-2nd-anniversary-phoning-live-notice",
+    "date": "2024-07-22",
+    "time": "18:20",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2周年記念Phoningライブ(19:22開始)告知",
+      "en": "Notice of the 2nd-anniversary Phoning Live (19:22 KST)"
+    },
+    "summary": {
+      "ja": "2周年当日、Phoningで19時22分からライブを行うと告知。",
+      "en": "Announced a Phoning Live starting at 19:22 KST on the second anniversary."
+    },
+    "detail": {
+      "ja": "2024年7月22日18時20分(KST)、公式X@NewJeans_ADORが「[NewJeans Day] NewJeans 2nd Anniversary party / 포닝 라이브가 19:22에 시작됩니다 / Phoning Live will begin shortly at 7:22PM (KST) / Live on Phoning」と投稿し、ライブ時間は変更の可能性があると付記した。開始時刻の19:22はデビュー日7月22日にちなむ。",
+      "en": "At 18:20 KST on 2024-07-22 @NewJeans_ADOR posted \"[NewJeans Day] NewJeans 2nd Anniversary party / Phoning Live will begin shortly at 7:22PM (KST) / Live on Phoning\", noting the live time was subject to change. The 19:22 start echoes the July 22 debut date."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1815315849861005491",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1815315849861005491"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "anniversary",
+      "NewJeansDay",
+      "Phoning",
+      "live"
+    ],
+    "verified": true,
+    "editor_note": "Post text: [NewJeans Day🎙] / NewJeans 2nd Anniversary party 🐰🪩 /  / 포닝 라이브가 19:22에 시작됩니다 🐰 / Phoning Live will begin shortly at 7:22PM (KST) /  / 📍Live on Phoning /  / *라이브 시간은 변동될 수 있습니다. / Live time is subject to change. | Status 1815315849861005491 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2024-07-22-2-years-of-newjeans-film",
+    "date": "2024-07-22",
+    "time": "20:25",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2周年記念映像「2 years of NewJeans」投稿",
+      "en": "2nd anniversary film \"2 years of NewJeans\""
+    },
+    "summary": {
+      "ja": "2周年の夜に約5分14秒の記念映像を投稿。",
+      "en": "A roughly 5-minute-14-second anniversary film posted on the evening of the second anniversary."
+    },
+    "detail": {
+      "ja": "2024年7月22日20時25分(KST)、公式X@NewJeans_ADORが約314秒の動画1本を添えて「[NewJeans Day] 2 years of NewJeans」と投稿した。ハッシュタグは#NewJeans #뉴진스 #NewJeansDay #NewJeans_2nd_Anniversary。",
+      "en": "At 20:25 KST on 2024-07-22 @NewJeans_ADOR posted \"[NewJeans Day] 2 years of NewJeans\" with 1 video (about 314s), tagged #NewJeans #뉴진스 #NewJeansDay #NewJeans_2nd_Anniversary."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1815347358944879039",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1815347358944879039"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "anniversary",
+      "NewJeansDay",
+      "video"
+    ],
+    "verified": true,
+    "editor_note": "Post text: [NewJeans Day🎂]  / 2 years of NewJeans🕢 /  / #NewJeans #뉴진스  / #NewJeansDay #NewJeans_2nd_Anniversary | Status 1815347358944879039 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2024-07-22-tiktok-oh-i-forgot-anniversary",
+    "date": "2024-07-22",
+    "time": "20:46",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "tiktok",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "TikTok「oh i forgot…」2周年動画",
+      "en": "TikTok \"oh i forgot…\" 2nd-anniversary video"
+    },
+    "summary": {
+      "ja": "2周年当日に公式TikTokへ投稿された動画をXで告知。",
+      "en": "A TikTok video posted on the second anniversary, announced on X."
+    },
+    "detail": {
+      "ja": "2024年7月22日20時46分(KST)、公式X@NewJeans_ADORが「[VIDEO] oh i forgot…」とTikTok動画へのリンク(vt.tiktok.com/ZSYWEokbw)を投稿した。ハッシュタグは#NewJeans #뉴진스 #NewJeansDay #NewJeans_2nd_Anniversary。",
+      "en": "At 20:46 KST on 2024-07-22 @NewJeans_ADOR posted \"[VIDEO] oh i forgot…\" with a link to the TikTok video (vt.tiktok.com/ZSYWEokbw), tagged #NewJeans #뉴진스 #NewJeansDay #NewJeans_2nd_Anniversary."
+    },
+    "credits": {
+      "account": "@newjeans_official (TikTok) / @NewJeans_ADOR (X)",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1815352677754359837",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1815352677754359837"
+    },
+    "tags": [
+      "@newjeans_official",
+      "tiktok",
+      "anniversary",
+      "NewJeansDay"
+    ],
+    "verified": false,
+    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1815352677754359837 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / oh i forgot… /  / 🔗https://vt.tiktok.com/ZSYWEokbw/ /  / #NewJeans #뉴진스 / #NewJeansDay #NewJeans_2nd_Anniversary. Time is that of the X cross-post; the TikTok upload may be slightly earlier.",
+    "links": {
+      "tiktok": "https://vt.tiktok.com/ZSYWEokbw/"
+    }
+  },
+  {
+    "id": "sns-2024-07-22-bunny-cake-ascii-post",
+    "date": "2024-07-22",
+    "time": "22:47",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2周年記念ウサギとケーキの顔文字投稿",
+      "en": "2nd anniversary bunny-with-cake emoticon post"
+    },
+    "summary": {
+      "ja": "2周年の夜、ウサギがケーキを差し出すアスキーアートと写真2点を投稿。",
+      "en": "An ASCII bunny holding a cake, with two photos, on the night of the second anniversary."
+    },
+    "detail": {
+      "ja": "2024年7月22日22時47分(KST)、公式X@NewJeans_ADORが写真2点を添えて「[NewJeans Day] /)/) ( . .) (つ🎂」というウサギがケーキを差し出すアスキーアートを投稿した。ハッシュタグは#NewJeans #뉴진스 #NewJeansDay #NewJeans_2nd_Anniversary。",
+      "en": "At 22:47 KST on 2024-07-22 @NewJeans_ADOR posted an ASCII bunny offering a cake (\"/)/) ( . .) (つ🎂\") under \"[NewJeans Day]\" with 2 photos, tagged #NewJeans #뉴진스 #NewJeansDay #NewJeans_2nd_Anniversary."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1815383185733382455",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1815383185733382455"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "anniversary",
+      "NewJeansDay",
+      "photo"
+    ],
+    "verified": true,
+    "editor_note": "Post text: [NewJeans Day🎂] / /)/) / ( . .) / (つ🎂 /  / #NewJeans #뉴진스 / #NewJeansDay #NewJeans_2nd_Anniversary | Status 1815383185733382455 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2024-07-22-love-is-here-anniversary-video",
+    "date": "2024-07-22",
+    "time": "23:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2周年記念動画「Love is here, sitting next to you」投稿",
+      "en": "2nd anniversary video \"Love is here, sitting next to you\""
+    },
+    "summary": {
+      "ja": "2周年の23時に約45秒の動画を投稿。",
+      "en": "A roughly 45-second video posted at 23:00 on the second anniversary."
+    },
+    "detail": {
+      "ja": "2024年7月22日23時00分(KST)、公式X@NewJeans_ADORが約45秒の動画1本を添えて「[NewJeans Day] Love is here, sitting next to you」(装飾文字)と投稿した。ハッシュタグは#NewJeans #뉴진스 #NewJeansDay #NewJeans_2nd_Anniversary。この日の公式Xの2周年関連投稿はこれが最後となった。",
+      "en": "At 23:00 KST on 2024-07-22 @NewJeans_ADOR posted \"[NewJeans Day] Love is here, sitting next to you\" (in stylised characters) with 1 video (about 45s), tagged #NewJeans #뉴진스 #NewJeansDay #NewJeans_2nd_Anniversary. It was the last anniversary post of the day on the official X account."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1815386325849079988",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1815386325849079988"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "anniversary",
+      "NewJeansDay",
+      "video"
+    ],
+    "verified": true,
+    "editor_note": "Post text: [NewJeans Day🎂] / 𝙻𝚘𝚟𝚎 𝚒𝚜 𝚑𝚎𝚛𝚎, 𝚜𝚒𝚝𝚝𝚒𝚗𝚐 𝚗𝚎𝚡𝚝 𝚝𝚘 𝚢𝚘𝚞 ☄. *. ⋆ /  / #NewJeans #뉴진스 / #NewJeansDay #NewJeans_2nd_Anniversary | Status 1815386325849079988 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
   },
   {
     "id": "sns-2024-09-24-calvin-klein-global-ambassador",
@@ -1755,6 +4016,86 @@
       "brand": "Calvin Klein"
     },
     "platform": "x"
+  },
+  {
+    "id": "sns-2024-11-28-members-phoning-parting-messages",
+    "date": "2024-11-28",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "phoning",
+    "members": [
+      "minji",
+      "hanni"
+    ],
+    "title": {
+      "ja": "専属契約解除会見後、メンバーがPhoningで別れのメッセージ",
+      "en": "Members send parting messages on Phoning after the contract-termination press conference"
+    },
+    "summary": {
+      "ja": "11月28日夜の緊急記者会見後、ミンジとハニを中心にメンバーがPhoningでBunniesへ別れのメッセージとミームを送った。",
+      "en": "After the emergency press conference on the night of Nov 28, members — notably Minji and Hanni — sent parting messages and memes to Bunnies on Phoning."
+    },
+    "detail": {
+      "ja": "2024年11月28日20時30分の緊急記者会見でADORとの専属契約解除を宣言した後、メンバーはADOR運営のファンアプリPhoningでBunniesへ別れのメッセージを送った。報道によれば、ミンジはプロフィール画像を「みんな、さようなら」と空へ昇るアニメのミームに変え、「Phoningでこれ以上会えなくても…! 方法を見つけてすぐ戻ってくる」と送り、ハニはプロフィールのメッセージを「see you on the other side」に変更した。",
+      "en": "After declaring the termination of their exclusive contracts with ADOR at an emergency press conference at 20:30 on 2024-11-28, the members sent parting messages to Bunnies on the ADOR-run fan app Phoning. Per reports, Minji changed her profile picture to an anime \"Goodbye, everyone\" meme and wrote \"Even if we can't meet more in Phoning...! I'll find a way and come back soon\", while Hanni changed her profile message to \"see you on the other side\"."
+    },
+    "source_url": "https://www.tenasia.com/amp/2024112942624",
+    "reference_urls": [
+      "https://sportskeeda.com/us/k-pop/personal-instagram-incoming-fans-speculate-newjeans-phoning-account-shut-following-group-s-contract-termination-ador"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "Phoning",
+      "contract-termination"
+    ],
+    "verified": false,
+    "credits": {
+      "account": "Phoning (members)",
+      "label": "ADOR"
+    },
+    "editor_note": "Messages sent late on Nov 28 KST after the 20:30 press conference; some outlets date the conference Nov 29 (time-zone). Phoning not fetchable; quotes are English translations from Tenasia/Sportskeeda."
+  },
+  {
+    "id": "sns-2024-12-14-jeanzforfree-instagram-first-post",
+    "date": "2024-12-14",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "instagram",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "メンバー運営Instagram @jeanzforfree 開設・初投稿",
+      "en": "Members' own Instagram @jeanzforfree opens with first post"
+    },
+    "summary": {
+      "ja": "メンバー5人が自ら開設したInstagramアカウント@jeanzforfreeの初投稿(集会参加者への食事提供)。",
+      "en": "First post on @jeanzforfree, the Instagram account the five members set up themselves, offering food to rally-goers."
+    },
+    "detail": {
+      "ja": "2024年12月14日、NewJeansのメンバー5人がADOR管理の公式アカウント@newjeans_officialとは別に自ら開設したInstagramアカウント@jeanzforfreeに初投稿した。中央日報(同日)によると、国会前の集会参加者への「小さな贈り物」として、メンバーが費用を負担したキンパ110本・飲み物250本・国飯200杯を用意し、「どのアーティストのものでもK-POPのペンライトを持っている人なら受け取れる」とした。同日16時時点でフォロワーは27万4,000人を超えた。",
+      "en": "On 2024-12-14 the five NewJeans members made the first post on @jeanzforfree, an Instagram account they set up themselves, separate from the ADOR-managed @newjeans_official. Per Korea JoongAng Daily (same day), the post offered a \"small gift\" to rally-goers near the National Assembly: 110 rolls of gimbap, 250 drinks and 200 bowls of soup with rice paid for by the members, available to anyone with a K-pop light stick regardless of artist. The account passed 274,000 followers by 16:00 that day."
+    },
+    "source_url": "https://www.instagram.com/jeanzforfree/",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/korea/newjeans-members-set-up-new-instagram-account-buy-food-for-rally-goers/12472435",
+      "https://abs-cbn.com/entertainment/showbiz/celebrities/2024/12/15/newjeans-members-open-new-instagram-account-amid-agency-mess-1050"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "@jeanzforfree",
+      "members-account"
+    ],
+    "verified": false,
+    "editor_note": "Members' self-run account, not ADOR-managed; included because it became the members' primary channel after the 2024-11-28 press conference. Post shortcode not located."
   },
   {
     "id": "sns-2025-02-01-njz-official-x-account-opened",
@@ -1837,6 +4178,217 @@
     "platform": "other"
   },
   {
+    "id": "sns-2025-03-27-weverse-bunnies-membership-extension-notice",
+    "date": "2025-03-27",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "weverse",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Weverse告知：Bunnies Membership 有効期間延長のご案内",
+      "en": "Weverse notice: Bunnies Membership validity extended"
+    },
+    "summary": {
+      "ja": "グローバル公式ファンクラブ「Bunnies」メンバーシップの有効期間延長がWeverseで告知された。",
+      "en": "An extension of the validity of the global official fanclub \"Bunnies\" membership was announced on Weverse."
+    },
+    "detail": {
+      "ja": "2025年3月27日10時00分(KST)、公式X@NewJeans_ADORが「[안내] NewJeans Global Official Fanclub “Bunnies” Membership 유효기간 연장 안내」としてWeverseの告知(weverse.io/newjeansofficial/notice/25941)へのリンクを投稿した。ハッシュタグは#NewJeans #뉴진스 #NewJeans_is_Everywhere。グループの活動が停止している中での、ファンクラブ会員向けの措置である。",
+      "en": "At 10:00 KST on 2025-03-27 @NewJeans_ADOR posted \"[Notice] NewJeans Global Official Fanclub “Bunnies” Membership validity extension guide\" linking to the Weverse notice (weverse.io/newjeansofficial/notice/25941), tagged #NewJeans #뉴진스 #NewJeans_is_Everywhere. The measure applied to fanclub members while group activities were halted."
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/25941",
+    "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/1905062215872360903"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1905062215872360903"
+    },
+    "tags": [
+      "Weverse",
+      "notice",
+      "Bunnies",
+      "membership"
+    ],
+    "verified": false,
+    "time": "10:00",
+    "credits": {
+      "account": "Weverse NewJeans official (ADOR)",
+      "label": "ADOR"
+    },
+    "editor_note": "Weverse notice not fetched (login-gated); existence/title/date confirmed from X post 1905062215872360903 (fxtwitter). Posted 6 days after the 2025-03-21 court injunction; entity kept newjeans as it is an ADOR notice."
+  },
+  {
+    "id": "sns-2025-04-16-mhdhh-friends-1000-days-post",
+    "date": "2025-04-16",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "instagram",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "デビュー1000日、メンバーのInstagramでBunniesへのメッセージ",
+      "en": "Debut 1,000th day: members' Instagram message to Bunnies"
+    },
+    "summary": {
+      "ja": "デビュー1000日目にメンバーのInstagramアカウントでBunniesへの感謝メッセージを投稿。",
+      "en": "On the 1,000th day since debut the members posted a thank-you message to Bunnies on their Instagram account."
+    },
+    "detail": {
+      "ja": "2025年4月16日、デビュー1000日目にあたり、メンバーが運用するInstagramアカウント(@mhdhh_friends)にひまわりの画像とともにBunniesへのメッセージが投稿された。報道によれば、Bunniesと過ごした1000日は純粋な幸せだったと感謝を伝える内容で、活動休止中の投稿となった。",
+      "en": "On 2025-04-16, the 1,000th day since debut, a message to Bunnies with a sunflower image was posted on the members-run Instagram account (@mhdhh_friends). Reports describe it as thanking Bunnies for 1,000 days of pure happiness, posted while group activities were paused."
+    },
+    "source_url": "https://www.instagram.com/mhdhh_friends/",
+    "reference_urls": [
+      "https://www.wikitree.co.kr/articles/1042850",
+      "https://www.tenasia.com/amp/2025041776304",
+      "https://sportskeeda.com/us/k-pop/news-every-day-together-another-adventure-newjeans-commemorate-1-000-days-instagram-lawsuit-ador-progresses"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "@mhdhh_friends",
+      "members-account",
+      "1000days"
+    ],
+    "verified": false,
+    "editor_note": "Members' self-run account (renamed from @jeanzforfree during the NJZ period). Entity kept as newjeans because the post marks NewJeans' 1,000th day; posted after the 2025-03-21 court injunction, during the activity pause. Post shortcode not located."
+  },
+  {
+    "id": "sns-2025-07-18-3rd-anniversary-d-4-on-air",
+    "date": "2025-07-18",
+    "time": "18:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "デビュー3周年D-4「NewJeans Day On-Air」投稿",
+      "en": "Debut 3rd anniversary D-4 \"NewJeans Day On-Air\" post"
+    },
+    "summary": {
+      "ja": "3周年の4日前から始まったカウントダウン投稿の初回(写真4点)。",
+      "en": "First of the countdown posts that began four days before the third anniversary (four photos)."
+    },
+    "detail": {
+      "ja": "2025年7月18日18時00分(KST)、公式X@NewJeans_ADORが写真4点を添えて「[NewJeans Day] NewJeans Debut 3rd Anniversary D-4 / NewJeans Day On-Air」と投稿した。ハッシュタグは#NewJeans #뉴진스 #NewJeansDay #NewJeans_3rd_Anniversary。以後D-3(7月19日)、D-2(7月20日)、D-1(7月21日)と同形式の投稿が続いた。",
+      "en": "At 18:00 KST on 2025-07-18 @NewJeans_ADOR posted \"[NewJeans Day] NewJeans Debut 3rd Anniversary D-4 / NewJeans Day On-Air\" with 4 photos, tagged #NewJeans #뉴진스 #NewJeansDay #NewJeans_3rd_Anniversary. D-3 (Jul 19), D-2 (Jul 20) and D-1 (Jul 21) posts in the same format followed."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1946132839013199918",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1946132839013199918"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "anniversary",
+      "NewJeansDay",
+      "countdown"
+    ],
+    "verified": true,
+    "editor_note": "Post text: [NewJeans Day🎂] / NewJeans Debut 3rd Anniversary D-4 🎉  /  / ✅NewJeans Day On-Air  /  / #NewJeans #뉴진스  / #NewJeansDay #NewJeans_3rd_Anniversary | Status 1946132839013199918 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | D-3 1946510321080045714, D-2 1946872787920212394, D-1 1947204919909593232 also in fx cache (verified)."
+  },
+  {
+    "id": "sns-2025-07-22-happy-3rd-anniversary-post",
+    "date": "2025-07-22",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "デビュー3周年記念投稿「Happy 3rd Anniversary」",
+      "en": "Debut 3rd anniversary post \"Happy 3rd Anniversary\""
+    },
+    "summary": {
+      "ja": "3周年の0時に約23秒の動画を添えて「Happy 3rd Anniversary」と投稿。",
+      "en": "At midnight on the third anniversary: \"Happy 3rd Anniversary\" with a roughly 23-second video."
+    },
+    "detail": {
+      "ja": "2025年7月22日0時00分(KST)、公式X@NewJeans_ADORが約23秒の動画1本を添えて「[NewJeans Day] Happy 3rd Anniversary」と投稿した。ハッシュタグは#NewJeans #뉴진스 #NewJeansDay #NewJeans_3rd_Anniversary。",
+      "en": "At 00:00 KST on 2025-07-22 @NewJeans_ADOR posted \"[NewJeans Day] Happy 3rd Anniversary\" with 1 video (about 23s), tagged #NewJeans #뉴진스 #NewJeansDay #NewJeans_3rd_Anniversary."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1947310605204943140",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1947310605204943140"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "anniversary",
+      "NewJeansDay"
+    ],
+    "verified": true,
+    "editor_note": "Post text: [NewJeans Day🎂]  / Happy 3rd Anniversary🩷 /  / #NewJeans #뉴진스  / #NewJeansDay #NewJeans_3rd_Anniversary | Status 1947310605204943140 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2026-04-21-happy-hyein-day",
+    "date": "2026-04-21",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "HAPPY HYEIN DAY 投稿",
+      "en": "HAPPY HYEIN DAY post"
+    },
+    "summary": {
+      "ja": "公式Xによるヘインの誕生日投稿(2026年4月21日)。",
+      "en": "Birthday post for Hyein on the official X account (2026-04-21)."
+    },
+    "detail": {
+      "ja": "2026年4月21日0時00分(KST)、公式X@NewJeans_ADORが写真4点を添えて「HAPPY HYEIN DAY」と投稿した。ハッシュタグは#HAPPY_HYEIN_DAY #NewJeans #HYEIN #뉴진스 #혜인。同時刻に同文の2本目の投稿(status 2046242501422665807)も行われた。",
+      "en": "At 00:00 KST on 2026-04-21 @NewJeans_ADOR posted \"HAPPY HYEIN DAY\" with 4 photos, tagged #HAPPY_HYEIN_DAY #NewJeans #HYEIN #뉴진스 #혜인. A second post with the same text (status 2046242501422665807) went up at the same time."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/2046242495559029197",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/2046242495559029197"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "birthday"
+    ],
+    "verified": true,
+    "editor_note": "Post text: HAPPY HYEIN DAY 🍰 /  / #HAPPY_HYEIN_DAY / #NewJeans #HYEIN / #뉴진스 #혜인 | Status 2046242495559029197 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | Twin status 2046242501422665807 also verified (4 photos)."
+  },
+  {
     "id": "sns-2026-05-07-happy-minji-day",
     "date": "2026-05-07",
     "date_type": "post",
@@ -1875,5 +4427,94 @@
       "label": "ADOR"
     },
     "platform": "x"
+  },
+  {
+    "id": "sns-2026-05-15-happy-haerin-day",
+    "date": "2026-05-15",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "HAPPY HAERIN DAY 投稿",
+      "en": "HAPPY HAERIN DAY post"
+    },
+    "summary": {
+      "ja": "公式Xによるヘリンの誕生日投稿(2026年5月15日)。",
+      "en": "Birthday post for Haerin on the official X account (2026-05-15)."
+    },
+    "detail": {
+      "ja": "2026年5月15日0時00分(KST)、公式X@NewJeans_ADORが写真4点を添えて「HAPPY HAERIN DAY」と投稿した。ハッシュタグは#HAPPY_HAERIN_DAY #NewJeans #HAERIN #뉴진스 #해린。同時刻に同文の2本目の投稿(status 2054939810717130963)も行われた。",
+      "en": "At 00:00 KST on 2026-05-15 @NewJeans_ADOR posted \"HAPPY HAERIN DAY\" with 4 photos, tagged #HAPPY_HAERIN_DAY #NewJeans #HAERIN #뉴진스 #해린. A second post with the same text (status 2054939810717130963) went up at the same time."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/2054939805218459724",
+    "reference_urls": [],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/2054939805218459724"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "birthday"
+    ],
+    "verified": true,
+    "editor_note": "Post text: HAPPY HAERIN DAY 🌵 /  / #HAPPY_HAERIN_DAY / #NewJeans #HAERIN / #뉴진스 #해린 | Status 2054939805218459724 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | Twin status 2054939810717130963 also verified (4 photos)."
+  },
+  {
+    "id": "sns-2026-07-22-instagram-4th-anniversary-post",
+    "date": "2026-07-22",
+    "time": "00:07",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "instagram",
+    "members": [
+      "minji",
+      "hanni",
+      "haerin",
+      "hyein"
+    ],
+    "title": {
+      "ja": "Instagram デビュー4周年投稿",
+      "en": "Instagram debut 4th anniversary post"
+    },
+    "summary": {
+      "ja": "4周年の0時過ぎ、公式Instagramに4人の近影を投稿。",
+      "en": "Just after midnight on the fourth anniversary the official Instagram posted new photos of the four members."
+    },
+    "detail": {
+      "ja": "2026年7月22日0時07分(KST)、公式Instagram @newjeans_officialに投稿された。Bandwagon Asia(同日)などはこの投稿を埋め込み、ミンジ・ハニ・ヘリン・ヘインの4人による「2026 Summer of NewJeans」フィルムシリーズのYouTube公開に合わせ、4人のグループ写真と個人写真が公式Instagramに掲載されたと報じた。ADORはこれを「4周年をファンと一緒に楽しむために制作した記念コンテンツ」と説明した。",
+      "en": "Posted at 00:07 KST on 2026-07-22 on the official Instagram @newjeans_official. Bandwagon Asia (same day) and others embedded it, reporting that a group photo and individual photos of Minji, Hanni, Haerin and Hyein were posted as the \"2026 Summer of NewJeans\" film series went up on YouTube. ADOR described the films as commemorative content made to enjoy the 4th anniversary with fans."
+    },
+    "credits": {
+      "account": "@newjeans_official",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.instagram.com/p/DbDzM-jEjM7/",
+    "reference_urls": [
+      "https://www.bandwagon.asia/articles/newjeans-without-danielle-reunite-to-celebrate-4th-anniversary-with-heartfelt-film-series",
+      "https://www.koreajoongangdaily.com/entertainment/is-newjeans-returning-ador-releases-clip-series-featuring-four-members/12785093"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "@newjeans_official",
+      "anniversary",
+      "NewJeansDay",
+      "2026SummerOfNewJeans"
+    ],
+    "verified": false,
+    "editor_note": "Instagram page not fetchable; shortcode DbDzM-jEjM7 found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2026-07-22 00:07:28 KST. Post caption not retrieved; content described from the article context. | Danielle not included (contract terminated 2025-12-29 per reports). Official X post for the 4th anniversary not located (no status ID found)."
   }
 ]

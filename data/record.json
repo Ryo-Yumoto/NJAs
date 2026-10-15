@@ -171,6 +171,38 @@
     "verified": false
   },
   {
+    "id": "record-2022-10-28-k-billboard-awards-2022-hot-rookie",
+    "date": "2022-10-28",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第1回The K-Billboard AwardsでHot Rookie賞",
+      "en": "Hot Rookie award at the 1st The K-Billboard Awards"
+    },
+    "summary": {
+      "ja": "2022年10月28日に開催された第1回The K-Billboard Awardsで、デビュー3年以内のチャート成績に基づくHot Rookie賞を受賞した。",
+      "en": "At the inaugural The K-Billboard Awards on October 28, 2022, NewJeans received the Hot Rookie award, given on chart performance within three years of debut."
+    },
+    "detail": {
+      "ja": "The K-Billboard Awardsは韓国で初めて開催されたビルボード関連の授賞式で、2022年10月28日に第1回が行われた。Hot Rookie賞はデビュー後3年以内のチャート成績をもとに4組に贈られ、NewJeansがその1組に選ばれた。",
+      "en": "The K-Billboard Awards held its first-ever ceremony on October 28, 2022. The Hot Rookie award went to four acts selected on chart performance within their first three years since debut, and NewJeans was one of them."
+    },
+    "source_url": "https://www.soompi.com/article/1551989wpp/winners-of-the-1st-ever-the-k-billboard-awards",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false,
+    "editor_note": "Soompi winners list only; venue not stated."
+  },
+  {
     "id": "record-2022-11-26-mma-2022-best-new-artist",
     "date": "2022-11-26",
     "date_type": "event",
@@ -1637,6 +1669,78 @@
     ]
   },
   {
+    "id": "record-2023-03-25-ditto-circle-digital-13th-week-no1",
+    "date": "2023-03-25",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Ditto」Circle週間デジタルチャートで通算13週目の1位、チャート史上最長",
+      "en": "Ditto logs a 13th week at No. 1 on the Circle Digital Chart, the longest run in the chart's history"
+    },
+    "summary": {
+      "ja": "2023年第12週（3月19〜25日）のCircle週間デジタルチャートで「Ditto」が通算13週目の1位となり、同チャート史上最長記録となった。",
+      "en": "On the Circle Digital Chart for week 12 of 2023 (March 19-25), Ditto logged its 13th week at No. 1, the longest run in the chart's history."
+    },
+    "detail": {
+      "ja": "「Ditto」は2022年第51週（12月18〜24日）にCircle週間デジタルチャートで初登場1位となり、2023年第5週にNCT 127「Ay-Yo」に1位を譲った1週を除き、第12週（3月19〜25日）まで1位を守った。通算13週の1位は同チャート史上最長となった。",
+      "en": "Ditto debuted at No. 1 on the Circle Digital Chart in week 51 of 2022 (December 18-24) and, apart from week 5 of 2023 when NCT 127's Ay-Yo took over, held the top spot through week 12 (March 19-25). Its 13 weeks at No. 1 are the most in the chart's history."
+    },
+    "source_url": "https://circlechart.kr/page_chart/onoff.circle?nationGbn=T&targetTime=12&hitYear=2023&termGbn=week&yearTime=3",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Circle_Digital_Chart_number_ones_of_2023",
+      "https://en.wikipedia.org/wiki/Ditto_(NewJeans_song)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart"
+    ],
+    "verified": false,
+    "editor_note": "Week list from Wikipedia's Circle number-ones list (11 weeks in 2023 + 2 in 2022). Dated to end of chart week 12."
+  },
+  {
+    "id": "record-2023-03-27-ditto-melon-daily-99-days",
+    "date": "2023-03-27",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Ditto」Melonデイリーチャート1位99日目、史上最多記録",
+      "en": "Ditto logs a 99th day at No. 1 on Melon's daily chart, the most ever"
+    },
+    "summary": {
+      "ja": "2022年12月19日の発売以来、「Ditto」は3月27日までMelonデイリーチャート1位を維持し、通算99日で同チャート史上最多の1位日数となった。",
+      "en": "Released December 19, 2022, Ditto held No. 1 on Melon's daily chart through March 27, 2023, a total of 99 days, the most in the chart's history."
+    },
+    "detail": {
+      "ja": "「Ditto」は2022年12月19日の公開翌日からMelonデイリーチャート1位を続け、3月上旬にBTS「Dynamite」の記録を更新した後も首位を守った。3月27日時点で1位日数は99日に達し、Melonデイリーチャート史上最多となった。",
+      "en": "Ditto topped Melon's daily chart from the day after its December 19, 2022 release, passed BTS's Dynamite record in early March and kept the lead. As of March 27, 2023 it had spent 99 days at No. 1, the most for any song on Melon's daily chart."
+    },
+    "source_url": "https://www.koreatimes.co.kr/www/art/2023/12/398_365182.html",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-ditto-sets-record-for-topping-melon-chart-77-days-straight/11173111"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "melon"
+    ],
+    "verified": false,
+    "editor_note": "99-day span (2022.12.19-2023.3.27) per TenAsia/Korea Times; whether every day was consecutive is phrased differently across outlets."
+  },
+  {
     "id": "record-2023-03-28-riaj-gold-hype-boy-ditto",
     "date": "2023-03-28",
     "date_type": "announce",
@@ -2165,6 +2269,41 @@
     },
     "tags": [
       "chart"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-07-22-super-shy-emerging-artists-no1",
+    "date": "2023-07-22",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Super Shy」でBillboard Emerging Artistsチャート初の1位",
+      "en": "NewJeans top Billboard's Emerging Artists chart for the first time with Super Shy"
+    },
+    "summary": {
+      "ja": "7月22日付Billboard Emerging ArtistsチャートでNewJeansが初めて1位となった。",
+      "en": "NewJeans reached No. 1 on the Billboard Emerging Artists chart dated July 22, 2023 for the first time."
+    },
+    "detail": {
+      "ja": "「Super Shy」がHot 100に66位で初登場した7月22日付チャート週、NewJeansはBillboardのEmerging Artistsチャートで初の1位を獲得した。同チャートは主要チャートで一定の成績に達していない新進アーティストを対象とする。",
+      "en": "In the chart week dated July 22, 2023, when Super Shy debuted at No. 66 on the Hot 100, NewJeans hit No. 1 on Billboard's Emerging Artists chart for the first time. The chart ranks developing acts that have not yet reached set thresholds on the main charts."
+    },
+    "source_url": "https://www.billboard.com/charts/emerging-artists/2023-07-22/",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Super_Shy"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "billboard"
     ],
     "verified": false
   },
@@ -2724,6 +2863,40 @@
     ]
   },
   {
+    "id": "record-2023-09-02-super-shy-circle-digital-8-weeks-no1",
+    "date": "2023-09-02",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Super Shy」Circle週間デジタルチャート8週連続1位",
+      "en": "Super Shy tops the Circle Digital Chart for an eighth consecutive week"
+    },
+    "summary": {
+      "ja": "2023年第35週（8月27日〜9月2日）のCircle週間デジタルチャートで「Super Shy」が8週連続1位となった。",
+      "en": "Super Shy logged an eighth straight week at No. 1 on the Circle Digital Chart for week 35 of 2023 (August 27-September 2)."
+    },
+    "detail": {
+      "ja": "「Super Shy」は7月第3週（7月9〜15日）のCircle週間デジタルチャートで1位に上がり、第35週（8月27日〜9月2日）まで8週連続で首位を守った。「Ditto」の通算13週に次ぐNewJeansの長期1位記録となった。",
+      "en": "Super Shy rose to No. 1 on the Circle Digital Chart for the week of July 9-15, 2023 and stayed there through week 35 (August 27-September 2), eight consecutive weeks, the group's longest run after Ditto's 13 weeks."
+    },
+    "source_url": "https://circlechart.kr/page_chart/onoff.circle?nationGbn=T&targetTime=35&hitYear=2023&termGbn=week&yearTime=3",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Circle_Digital_Chart_number_ones_of_2023"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart"
+    ],
+    "verified": false
+  },
+  {
     "id": "record-2023-09-07-circle-cert-get-up-million-new-jeans-million",
     "date": "2023-09-07",
     "date_type": "announce",
@@ -3095,5 +3268,3518 @@
     "reference_urls": [
       "https://www.soompi.com/article/1624260wpp/newjeans-becomes-1st-k-pop-girl-group-to-chart-an-album-in-top-100-of-billboard-200-for-14-weeks"
     ]
+  },
+  {
+    "id": "record-2023-11-07-spotify-3-billion-streams",
+    "date": "2023-11-07",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Spotify累計再生30億回突破",
+      "en": "NewJeans pass 3 billion cumulative Spotify streams"
+    },
+    "summary": {
+      "ja": "11月7日時点でNewJeans全楽曲のSpotify累計再生数が30億6,573万回に達し、デビューから約1年3か月で30億回を突破した。",
+      "en": "As of November 7, 2023, NewJeans' songs had 3,065,735,640 cumulative Spotify streams, passing 3 billion about a year and three months after debut."
+    },
+    "detail": {
+      "ja": "Spotify集計で11月7日時点のNewJeans全楽曲の累計再生数は3,065,735,640回となった。2023年3月に10億回（デビュー後219日、ギネス世界記録）、7月30日に20億回を超えてからおよそ3か月での到達となった。",
+      "en": "Spotify data put NewJeans' cumulative streams at 3,065,735,640 as of November 7, 2023. The group had passed 1 billion in March 2023 (219 days after debut, a Guinness World Record) and 2 billion on July 30, so 3 billion came about three months later."
+    },
+    "source_url": "https://www.tenasia.com/amp/2023110945864",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "streaming",
+      "spotify"
+    ],
+    "verified": false,
+    "editor_note": "TenAsia report dated Nov 9 (as of Nov 7); page not fetchable from this environment, figures from search index."
+  },
+  {
+    "id": "record-2023-11-19-bbma-2023-top-global-kpop-artist",
+    "date": "2023-11-19",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Billboard Music AwardsでTop Global K-Pop Artist受賞",
+      "en": "Top Global K-Pop Artist at the 2023 Billboard Music Awards"
+    },
+    "summary": {
+      "ja": "2023年11月19日（現地時間）のBillboard Music Awardsで、新設カテゴリーのTop Global K-Pop Artistを受賞した。",
+      "en": "At the 2023 Billboard Music Awards on November 19, 2023 (local time), NewJeans won the newly created Top Global K-Pop Artist award."
+    },
+    "detail": {
+      "ja": "2023年のBillboard Music Awardsはオンライン配信形式で行われ、K-POP部門が新設された。NewJeansはTop Global K-Pop Artistに選ばれ、「Super Shy」と「OMG」のパフォーマンス映像が配信された。同賞の候補にはBTSのJimin、Jung Kook、FIFTY FIFTY、Stray Kids、TOMORROW X TOGETHERが名を連ねていた。",
+      "en": "The 2023 Billboard Music Awards were presented in an online format with new K-pop categories. NewJeans won Top Global K-Pop Artist, with performances of Super Shy and OMG shown during the broadcast. The other nominees were BTS's Jimin, Jung Kook, FIFTY FIFTY, Stray Kids and TOMORROW X TOGETHER."
+    },
+    "source_url": "https://www.tenasia.co.kr/article/2023112115744",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award",
+      "us"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-11-21-billboard-2023-year-end-charts",
+    "date": "2023-11-21",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Billboard 2023年間チャート：『Get Up』Billboard 200で134位、「OMG」Global 200で41位",
+      "en": "Billboard 2023 year-end charts: Get Up No. 134 on the Billboard 200, OMG No. 41 on the Global 200"
+    },
+    "summary": {
+      "ja": "11月21日発表のBillboard 2023年間チャートで『Get Up』がBillboard 200の134位に入り、Global 200には5曲がランクインした。",
+      "en": "On Billboard's 2023 year-end charts released November 21, Get Up ranked No. 134 on the Billboard 200 and five NewJeans songs made the Global 200."
+    },
+    "detail": {
+      "ja": "Billboardが11月21日に発表した2023年の年間チャートで、『Get Up』は年間Billboard 200で134位（Top Album Sales 12位、World Albums 4位）となり、NewJeansとして初の年間Billboard 200入りを果たした。年間Global 200では「OMG」41位、「Ditto」52位、「Super Shy」117位、「Hype Boy」147位、「ETA」197位、Global Excl. U.S.では「Ditto」24位、「OMG」25位、「Hype Boy」49位、「Super Shy」84位、「ETA」165位にランクインし、Top Artistsでは86位だった。",
+      "en": "On the 2023 year-end charts Billboard published on November 21, Get Up placed No. 134 on the year-end Billboard 200 (No. 12 Top Album Sales, No. 4 World Albums), NewJeans' first year-end Billboard 200 entry. On the year-end Global 200, OMG ranked No. 41, Ditto No. 52, Super Shy No. 117, Hype Boy No. 147 and ETA No. 197; on Global Excl. U.S., Ditto No. 24, OMG No. 25, Hype Boy No. 49, Super Shy No. 84 and ETA No. 165. NewJeans ranked No. 86 on Top Artists."
+    },
+    "source_url": "https://www.billboard.com/charts/year-end/2023/billboard-200/",
+    "reference_urls": [
+      "https://www.soompi.com/article/1627782wpp/billboard-reveals-2023-year-end-charts"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "year-end",
+      "chart",
+      "billboard"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-11-29-mama-2023-artist-of-the-year",
+    "date": "2023-11-29",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 MAMA AWARDSでArtist of the Year（大賞）受賞",
+      "en": "Artist of the Year (Daesang) at the 2023 MAMA Awards"
+    },
+    "summary": {
+      "ja": "東京ドームで開催された2023 MAMA AWARDS 2日目（11月29日）で、大賞にあたるArtist of the Yearを受賞した。",
+      "en": "On Day 2 of the 2023 MAMA Awards at Tokyo Dome (November 29), NewJeans won the Artist of the Year grand prize."
+    },
+    "detail": {
+      "ja": "2023 MAMA AWARDSは11月28日・29日に東京ドームで開催され、NewJeansは2日目にArtist of the Yearを受賞した。ガールズグループが同賞を受賞するのは12年ぶりで、メンバーは授賞式に出席せず、受賞スピーチはなかった。同日にSong of the Year（「Ditto」）、Best Female Group、Best Dance Performance Female Groupも受賞し、計4冠となった。",
+      "en": "The 2023 MAMA Awards were held on November 28-29 at Tokyo Dome, and NewJeans won Artist of the Year on Day 2, the first girl group to take the award in 12 years. The members did not attend and gave no acceptance speech. The group also won Song of the Year (Ditto), Best Female Group and Best Dance Performance Female Group the same night, four trophies in all."
+    },
+    "source_url": "https://www.cjenm.com/en/news/2023-mama-awards-day-2-winners-list/",
+    "reference_urls": [
+      "https://soompi.com/article/1629187wpp/winners-of-2023-mama-awards-day-2"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": true
+  },
+  {
+    "id": "record-2023-11-29-mama-2023-best-dance-performance-female-group-ditto",
+    "date": "2023-11-29",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 MAMA AWARDSで「Ditto」がBest Dance Performance Female Group受賞",
+      "en": "Best Dance Performance Female Group for Ditto at the 2023 MAMA Awards"
+    },
+    "summary": {
+      "ja": "2023 MAMA AWARDS 2日目（東京ドーム）で「Ditto」がBest Dance Performance Female Groupを受賞した。",
+      "en": "Ditto won Best Dance Performance Female Group on Day 2 of the 2023 MAMA Awards at Tokyo Dome."
+    },
+    "detail": {
+      "ja": "11月29日、東京ドームで開催された2023 MAMA AWARDS 2日目で「Ditto」がBest Dance Performance Female Groupに選ばれた。NewJeansはこの日計4つのトロフィーを獲得した。",
+      "en": "On November 29 at Tokyo Dome, Ditto won Best Dance Performance Female Group on Day 2 of the 2023 MAMA Awards, one of four trophies NewJeans received that night."
+    },
+    "source_url": "https://www.cjenm.com/en/news/2023-mama-awards-day-2-winners-list/",
+    "reference_urls": [
+      "https://soompi.com/article/1629187wpp/winners-of-2023-mama-awards-day-2"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": true
+  },
+  {
+    "id": "record-2023-11-29-mama-2023-best-female-group",
+    "date": "2023-11-29",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 MAMA AWARDSでBest Female Group受賞",
+      "en": "Best Female Group at the 2023 MAMA Awards"
+    },
+    "summary": {
+      "ja": "2023 MAMA AWARDS 2日目（東京ドーム）でBest Female Groupを受賞した。",
+      "en": "NewJeans won Best Female Group on Day 2 of the 2023 MAMA Awards at Tokyo Dome."
+    },
+    "detail": {
+      "ja": "11月29日、東京ドームで開催された2023 MAMA AWARDS 2日目でBest Female Groupを受賞した。同日はArtist of the Year、Song of the Year、Best Dance Performance Female Groupも受賞した。",
+      "en": "On November 29 at Tokyo Dome, NewJeans won Best Female Group on Day 2 of the 2023 MAMA Awards, alongside Artist of the Year, Song of the Year and Best Dance Performance Female Group."
+    },
+    "source_url": "https://www.cjenm.com/en/news/2023-mama-awards-day-2-winners-list/",
+    "reference_urls": [
+      "https://soompi.com/article/1629187wpp/winners-of-2023-mama-awards-day-2"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": true
+  },
+  {
+    "id": "record-2023-11-29-mama-2023-song-of-the-year-ditto",
+    "date": "2023-11-29",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 MAMA AWARDSで「Ditto」がSong of the Year（大賞）受賞",
+      "en": "Song of the Year (Daesang) for Ditto at the 2023 MAMA Awards"
+    },
+    "summary": {
+      "ja": "2023 MAMA AWARDS 2日目（東京ドーム）で「Ditto」がSong of the Yearを受賞した。",
+      "en": "Ditto won Song of the Year on Day 2 of the 2023 MAMA Awards at Tokyo Dome."
+    },
+    "detail": {
+      "ja": "11月29日、東京ドームで開催された2023 MAMA AWARDS 2日目で「Ditto」がSong of the Yearに選ばれた。NewJeansは同日Artist of the Yearも受賞し、大賞2冠となった。",
+      "en": "On November 29 at Tokyo Dome, Ditto was named Song of the Year on Day 2 of the 2023 MAMA Awards. NewJeans also won Artist of the Year the same night, taking two grand prizes."
+    },
+    "source_url": "https://www.cjenm.com/en/news/2023-mama-awards-day-2-winners-list/",
+    "reference_urls": [
+      "https://soompi.com/article/1629187wpp/winners-of-2023-mama-awards-day-2"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": true
+  },
+  {
+    "id": "record-2023-11-29-spotify-wrapped-2023",
+    "date": "2023-11-29",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Spotify 2023年間集計：K-POPアーティスト4位、「OMG」「Ditto」「Super Shy」「Hype Boy」がK-POP楽曲トップ10入り",
+      "en": "Spotify's 2023 year-end: NewJeans 4th most-streamed K-pop act, four songs in the K-pop top 10"
+    },
+    "summary": {
+      "ja": "Spotifyの2023年の年間集計（Wrapped）で、NewJeansはK-POPアーティストで4番目に多く再生され、「OMG」「Ditto」「Super Shy」「Hype Boy」がK-POP楽曲の4・5・6・10位に入った。",
+      "en": "In Spotify's 2023 year-end Wrapped data, NewJeans was the fourth most-streamed K-pop act, with OMG, Ditto, Super Shy and Hype Boy at Nos. 4, 5, 6 and 10 among K-pop songs."
+    },
+    "detail": {
+      "ja": "Spotifyが発表した2023年の年間集計で、K-POPアーティストの再生数はBTS、BLACKPINK、Jung Kookに続きNewJeansが4位だった。K-POP楽曲では「OMG」が4位、「Ditto」が5位、「Super Shy」が6位、「Hype Boy」が10位に入り、トップ20に4曲が入った。",
+      "en": "In the 2023 year-end data Spotify released, NewJeans ranked fourth among K-pop artists by streams, behind BTS, BLACKPINK and Jung Kook. Among K-pop songs, OMG placed 4th, Ditto 5th, Super Shy 6th and Hype Boy 10th, four tracks in the top 20."
+    },
+    "source_url": "https://www.abs-cbn.com/entertainment/12/03/23/bts-blackpink-newjeans-dominate-k-pop-streaming-in-2023-spotify",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "year-end",
+      "streaming",
+      "spotify"
+    ],
+    "verified": false,
+    "editor_note": "Spotify Wrapped 2023 went live Nov 29, 2023; ABS-CBN report dated Dec 3 summarizing Spotify's K-pop release."
+  },
+  {
+    "id": "record-2023-12-01-nme-50-best-songs-2023-super-shy",
+    "date": "2023-12-01",
+    "date_type": "event",
+    "date_precision": "month",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Super Shy」がNME「2023年のベストソング50」で2位",
+      "en": "Super Shy ranked No. 2 on NME's 50 Best Songs of 2023"
+    },
+    "summary": {
+      "ja": "NMEの「The 50 best songs of 2023」で「Super Shy」が2位に選ばれ、同リストでK-POP楽曲として過去最高位となった。",
+      "en": "NME placed Super Shy at No. 2 on its 50 best songs of 2023, the highest position ever for a K-pop song on the list."
+    },
+    "detail": {
+      "ja": "NMEが2023年12月に発表した「The 50 best songs of 2023」で「Super Shy」が2位に選ばれた。前年は「Hype Boy」が26位だった。",
+      "en": "In December 2023 NME ranked Super Shy No. 2 on its 50 best songs of 2023; Hype Boy had placed No. 26 the previous year."
+    },
+    "source_url": "https://www.tenasia.com/amp/2023121295024",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "year-end",
+      "list"
+    ],
+    "verified": false,
+    "editor_note": "Exact NME publication day not confirmed; month precision."
+  },
+  {
+    "id": "record-2023-12-02-mma-2023-artist-of-the-year",
+    "date": "2023-12-02",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Melon Music AwardsでArtist of the Year（大賞）受賞",
+      "en": "Artist of the Year (Daesang) at the 2023 Melon Music Awards"
+    },
+    "summary": {
+      "ja": "12月2日にインスパイアアリーナで開催された2023 Melon Music Awardsで、大賞のArtist of the Yearを受賞した。",
+      "en": "At the 2023 Melon Music Awards at Inspire Arena on December 2, NewJeans won the Artist of the Year grand prize."
+    },
+    "detail": {
+      "ja": "2023 Melon Music Awardsは12月2日、仁川のインスパイアアリーナで開催された。NewJeansはArtist of the YearとSong of the Year（「Ditto」）の大賞2冠に加え、Best Group（Female）、Top 10、Millions Top 10を受賞し、計5冠となった。同年のMAMAとMMAの両方でArtist of the Yearを受賞した初の女性アーティストとなった。",
+      "en": "The 2023 Melon Music Awards took place on December 2 at Inspire Arena in Incheon. NewJeans won two grand prizes, Artist of the Year and Song of the Year for Ditto, plus Best Group (Female), Top 10 and Millions Top 10, five awards in all, becoming the first female act to win Artist of the Year at both MAMA and MMA in the same year."
+    },
+    "source_url": "https://soompi.com/article/1629649wpp/winners-of-the-melon-music-awards-2023",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/2023_Melon_Music_Awards"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-12-02-mma-2023-best-group-female",
+    "date": "2023-12-02",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Melon Music AwardsでBest Group（Female）受賞",
+      "en": "Best Group (Female) at the 2023 Melon Music Awards"
+    },
+    "summary": {
+      "ja": "2023 Melon Music AwardsでBest Group（Female）を受賞した。",
+      "en": "NewJeans won Best Group (Female) at the 2023 Melon Music Awards."
+    },
+    "detail": {
+      "ja": "12月2日の2023 Melon Music AwardsでBest Group（Female）を受賞した。同日に大賞2部門、Top 10、Millions Top 10も受賞した。",
+      "en": "On December 2, NewJeans won Best Group (Female) at the 2023 Melon Music Awards, along with two grand prizes, Top 10 and Millions Top 10."
+    },
+    "source_url": "https://soompi.com/article/1629649wpp/winners-of-the-melon-music-awards-2023",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/2023_Melon_Music_Awards"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-12-02-mma-2023-millions-top-10-get-up",
+    "date": "2023-12-02",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Melon Music Awardsで『Get Up』がMillions Top 10受賞",
+      "en": "Millions Top 10 for Get Up at the 2023 Melon Music Awards"
+    },
+    "summary": {
+      "ja": "2023 Melon Music Awardsで『Get Up』がMillions Top 10に選ばれた。",
+      "en": "Get Up received the Millions Top 10 award at the 2023 Melon Music Awards."
+    },
+    "detail": {
+      "ja": "12月2日の2023 Melon Music Awardsで、2ndミニアルバム『Get Up』がMillions Top 10を受賞した。『Get Up』はAlbum of the Yearの候補にも挙がっていた。",
+      "en": "On December 2, the second EP Get Up received the Millions Top 10 award at the 2023 Melon Music Awards. Get Up was also shortlisted for Album of the Year."
+    },
+    "source_url": "https://soompi.com/article/1629649wpp/winners-of-the-melon-music-awards-2023",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/2023_Melon_Music_Awards"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-12-02-mma-2023-song-of-the-year-ditto",
+    "date": "2023-12-02",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Melon Music Awardsで「Ditto」がSong of the Year（大賞）受賞",
+      "en": "Song of the Year (Daesang) for Ditto at the 2023 Melon Music Awards"
+    },
+    "summary": {
+      "ja": "2023 Melon Music Awardsで「Ditto」がSong of the Yearに選ばれた。",
+      "en": "Ditto was named Song of the Year at the 2023 Melon Music Awards."
+    },
+    "detail": {
+      "ja": "12月2日の2023 Melon Music Awardsで「Ditto」がSong of the Year（Best Song of the Year）を受賞した。NewJeansは同日Artist of the Yearも受賞した。",
+      "en": "At the 2023 Melon Music Awards on December 2, Ditto won Song of the Year (listed by Soompi as Best Song of the Year). NewJeans also took Artist of the Year the same night."
+    },
+    "source_url": "https://soompi.com/article/1629649wpp/winners-of-the-melon-music-awards-2023",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/2023_Melon_Music_Awards"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-12-02-mma-2023-top-10",
+    "date": "2023-12-02",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Melon Music AwardsでTop 10受賞",
+      "en": "Top 10 Artist at the 2023 Melon Music Awards"
+    },
+    "summary": {
+      "ja": "2023 Melon Music AwardsでTop 10アーティストに選ばれた（2年連続）。",
+      "en": "NewJeans was named a Top 10 Artist at the 2023 Melon Music Awards for the second year running."
+    },
+    "detail": {
+      "ja": "12月2日の2023 Melon Music AwardsでTop 10を受賞した。Top 10はaespa、BTS、(G)I-DLE、IVE、Jung Kook、LE SSERAFIM、イム・ヨンウン、NCT DREAM、NewJeans、SEVENTEENの10組だった。",
+      "en": "On December 2, NewJeans received the Top 10 award at the 2023 Melon Music Awards. The Top 10 were aespa, BTS, (G)I-DLE, IVE, Jung Kook, LE SSERAFIM, Lim Young-woong, NCT DREAM, NewJeans and SEVENTEEN."
+    },
+    "source_url": "https://soompi.com/article/1629649wpp/winners-of-the-melon-music-awards-2023",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/2023_Melon_Music_Awards"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-12-04-ditto-spotify-500m",
+    "date": "2023-12-04",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Ditto」Spotify再生5億回突破",
+      "en": "Ditto passes 500 million Spotify streams"
+    },
+    "summary": {
+      "ja": "「Ditto」のSpotify累計再生数が5億回を超え、「OMG」に続くNewJeans2曲目の5億回到達曲となった。",
+      "en": "Ditto passed 500 million cumulative streams on Spotify, NewJeans' second song to do so after OMG."
+    },
+    "detail": {
+      "ja": "2023年12月初旬、「Ditto」のSpotify累計再生数が5億回を突破した。11月7日時点で「OMG」が5億回超、「Ditto」と「Hype Boy」が4億回超だった。",
+      "en": "In early December 2023 Ditto passed 500 million cumulative Spotify streams. As of November 7, OMG had been above 500 million while Ditto and Hype Boy were above 400 million."
+    },
+    "source_url": "https://www.tenasia.com/amp/2023120421594",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "streaming",
+      "spotify"
+    ],
+    "verified": false,
+    "editor_note": "TenAsia report dated Dec 4, 2023 (title confirmed via search; body not fetchable). Exact crossing date not confirmed."
+  },
+  {
+    "id": "record-2023-12-04-rolling-stone-100-best-songs-2023-super-shy",
+    "date": "2023-12-04",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Super Shy」がRolling Stone「2023年のベストソング100」で6位",
+      "en": "Super Shy ranked No. 6 on Rolling Stone's 100 Best Songs of 2023"
+    },
+    "summary": {
+      "ja": "Rolling Stoneの「The 100 Best Songs of 2023」で「Super Shy」が6位に選ばれた。",
+      "en": "Rolling Stone placed Super Shy at No. 6 on its 100 Best Songs of 2023 list."
+    },
+    "detail": {
+      "ja": "Rolling Stoneが発表した「The 100 Best Songs of 2023」で「Super Shy」は6位にランクインし、K-POP楽曲として最上位だった。同リストにはSEVENTEEN、TWICE、V、JISOO、FIFTY FIFTY、aespa、Jung Kookの楽曲も選ばれた。",
+      "en": "Rolling Stone ranked Super Shy No. 6 on its 100 Best Songs of 2023, the highest K-pop entry on the list, which also included songs by SEVENTEEN, TWICE, V, JISOO, FIFTY FIFTY, aespa and Jung Kook."
+    },
+    "source_url": "https://soompi.com/article/1629595wpp/newjeans-seventeen-twice-v-jisoo-fifty-fifty-aespa-and-jungkook-make-rolling-stones-the-100-best-songs-of-2023-list",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "year-end",
+      "list"
+    ],
+    "verified": false,
+    "editor_note": "Exact Rolling Stone publication date unverified; Soompi article ID 1629595 is early Dec 2023."
+  },
+  {
+    "id": "record-2023-12-07-billboard-100-best-songs-2023-super-shy",
+    "date": "2023-12-07",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Super Shy」がBillboard「2023年のベストソング100」で38位",
+      "en": "Super Shy ranked No. 38 on Billboard's 100 Best Songs of 2023"
+    },
+    "summary": {
+      "ja": "Billboardスタッフ選出の「The 100 Best Songs of 2023」で「Super Shy」が38位に選ばれた。",
+      "en": "Billboard's staff-picked 100 Best Songs of 2023 placed Super Shy at No. 38."
+    },
+    "detail": {
+      "ja": "Billboardが12月7日に公開したスタッフ選出の「The 100 Best Songs of 2023」で「Super Shy」が38位に入った。同リストにはFIFTY FIFTY「Cupid」やJung Kook「Seven」も選ばれた。",
+      "en": "Billboard's staff list of The 100 Best Songs of 2023, published December 7, ranked Super Shy at No. 38, alongside FIFTY FIFTY's Cupid and Jung Kook's Seven."
+    },
+    "source_url": "https://www.soompi.com/article/1630610wpp/newjeans-fifty-fifty-and-btss-jungkook-make-billboards-the-100-best-songs-of-2023-list",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "year-end",
+      "list"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-12-14-aaa-2023-asia-celebrity-award",
+    "date": "2023-12-14",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Asia Artist AwardsでAsia Celebrity賞受賞",
+      "en": "Asia Celebrity Award at the 2023 Asia Artist Awards"
+    },
+    "summary": {
+      "ja": "2023 AAAでAsia Celebrity賞を受賞した。",
+      "en": "NewJeans received the Asia Celebrity Award at the 2023 AAA."
+    },
+    "detail": {
+      "ja": "2023 Asia Artist Awardsは12月14日、フィリピンのフィリピン・アリーナで開催された。NewJeansはSinger of the Year（大賞）とSong of the Year（大賞、「Ditto」）に加え、Fabulous賞、Best Choice賞、Asia Celebrity賞、Hot Trend賞を受賞し、計6冠となった。",
+      "en": "The 2023 Asia Artist Awards were held on December 14 at Philippine Arena. NewJeans won two grand prizes, Singer of the Year and Song of the Year for Ditto, plus the Fabulous, Best Choice, Asia Celebrity and Hot Trend awards, six trophies in all."
+    },
+    "source_url": "https://soompi.com/article/1631893wpp/winners-of-2023-asia-artist-awards-aaa",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-seventeen-take-top-honors-at-asia-artist-awards/11623448"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-12-14-aaa-2023-best-choice-award",
+    "date": "2023-12-14",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Asia Artist AwardsでBest Choice賞受賞",
+      "en": "Best Choice Award at the 2023 Asia Artist Awards"
+    },
+    "summary": {
+      "ja": "2023 AAAでBest Choice賞を受賞した。",
+      "en": "NewJeans received the Best Choice Award at the 2023 AAA."
+    },
+    "detail": {
+      "ja": "2023 Asia Artist Awardsは12月14日、フィリピンのフィリピン・アリーナで開催された。NewJeansはSinger of the Year（大賞）とSong of the Year（大賞、「Ditto」）に加え、Fabulous賞、Best Choice賞、Asia Celebrity賞、Hot Trend賞を受賞し、計6冠となった。",
+      "en": "The 2023 Asia Artist Awards were held on December 14 at Philippine Arena. NewJeans won two grand prizes, Singer of the Year and Song of the Year for Ditto, plus the Fabulous, Best Choice, Asia Celebrity and Hot Trend awards, six trophies in all."
+    },
+    "source_url": "https://soompi.com/article/1631893wpp/winners-of-2023-asia-artist-awards-aaa",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-seventeen-take-top-honors-at-asia-artist-awards/11623448"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-12-14-aaa-2023-fabulous-award",
+    "date": "2023-12-14",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Asia Artist AwardsでFabulous賞受賞",
+      "en": "Fabulous Award at the 2023 Asia Artist Awards"
+    },
+    "summary": {
+      "ja": "2023 AAAでFabulous賞を受賞した。",
+      "en": "NewJeans received the Fabulous Award at the 2023 AAA."
+    },
+    "detail": {
+      "ja": "2023 Asia Artist Awardsは12月14日、フィリピンのフィリピン・アリーナで開催された。NewJeansはSinger of the Year（大賞）とSong of the Year（大賞、「Ditto」）に加え、Fabulous賞、Best Choice賞、Asia Celebrity賞、Hot Trend賞を受賞し、計6冠となった。",
+      "en": "The 2023 Asia Artist Awards were held on December 14 at Philippine Arena. NewJeans won two grand prizes, Singer of the Year and Song of the Year for Ditto, plus the Fabulous, Best Choice, Asia Celebrity and Hot Trend awards, six trophies in all."
+    },
+    "source_url": "https://soompi.com/article/1631893wpp/winners-of-2023-asia-artist-awards-aaa",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-seventeen-take-top-honors-at-asia-artist-awards/11623448"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-12-14-aaa-2023-hot-trend-award",
+    "date": "2023-12-14",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Asia Artist AwardsでHot Trend賞受賞",
+      "en": "Hot Trend Award at the 2023 Asia Artist Awards"
+    },
+    "summary": {
+      "ja": "2023 AAAでHot Trend賞を受賞した。",
+      "en": "NewJeans received the Hot Trend Award at the 2023 AAA."
+    },
+    "detail": {
+      "ja": "2023 Asia Artist Awardsは12月14日、フィリピンのフィリピン・アリーナで開催された。NewJeansはSinger of the Year（大賞）とSong of the Year（大賞、「Ditto」）に加え、Fabulous賞、Best Choice賞、Asia Celebrity賞、Hot Trend賞を受賞し、計6冠となった。",
+      "en": "The 2023 Asia Artist Awards were held on December 14 at Philippine Arena. NewJeans won two grand prizes, Singer of the Year and Song of the Year for Ditto, plus the Fabulous, Best Choice, Asia Celebrity and Hot Trend awards, six trophies in all."
+    },
+    "source_url": "https://soompi.com/article/1631893wpp/winners-of-2023-asia-artist-awards-aaa",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-seventeen-take-top-honors-at-asia-artist-awards/11623448"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-12-14-aaa-2023-singer-of-the-year",
+    "date": "2023-12-14",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Asia Artist AwardsでSinger of the Year（大賞）受賞",
+      "en": "Singer of the Year (Daesang) at the 2023 Asia Artist Awards"
+    },
+    "summary": {
+      "ja": "フィリピン・アリーナで開催された2023 AAAで大賞のSinger of the Yearを受賞した。",
+      "en": "NewJeans won the Singer of the Year grand prize at the 2023 AAA at Philippine Arena."
+    },
+    "detail": {
+      "ja": "2023 Asia Artist Awardsは12月14日、フィリピンのフィリピン・アリーナで開催された。NewJeansはSinger of the Year（大賞）とSong of the Year（大賞、「Ditto」）に加え、Fabulous賞、Best Choice賞、Asia Celebrity賞、Hot Trend賞を受賞し、計6冠となった。",
+      "en": "The 2023 Asia Artist Awards were held on December 14 at Philippine Arena. NewJeans won two grand prizes, Singer of the Year and Song of the Year for Ditto, plus the Fabulous, Best Choice, Asia Celebrity and Hot Trend awards, six trophies in all."
+    },
+    "source_url": "https://soompi.com/article/1631893wpp/winners-of-2023-asia-artist-awards-aaa",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-seventeen-take-top-honors-at-asia-artist-awards/11623448"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-12-14-aaa-2023-song-of-the-year-ditto",
+    "date": "2023-12-14",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Asia Artist Awardsで「Ditto」がSong of the Year（大賞）受賞",
+      "en": "Song of the Year (Daesang) for Ditto at the 2023 Asia Artist Awards"
+    },
+    "summary": {
+      "ja": "2023 AAAで「Ditto」がSong of the Year（大賞）を受賞した。",
+      "en": "Ditto won the Song of the Year grand prize at the 2023 AAA."
+    },
+    "detail": {
+      "ja": "2023 Asia Artist Awardsは12月14日、フィリピンのフィリピン・アリーナで開催された。NewJeansはSinger of the Year（大賞）とSong of the Year（大賞、「Ditto」）に加え、Fabulous賞、Best Choice賞、Asia Celebrity賞、Hot Trend賞を受賞し、計6冠となった。",
+      "en": "The 2023 Asia Artist Awards were held on December 14 at Philippine Arena. NewJeans won two grand prizes, Singer of the Year and Song of the Year for Ditto, plus the Fabulous, Best Choice, Asia Celebrity and Hot Trend awards, six trophies in all."
+    },
+    "source_url": "https://soompi.com/article/1631893wpp/winners-of-2023-asia-artist-awards-aaa",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-seventeen-take-top-honors-at-asia-artist-awards/11623448"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-12-20-seoul-tourism-awards-2023-hallyu-star",
+    "date": "2023-12-20",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023ソウル観光大賞で韓流スター大賞受賞",
+      "en": "Seoul Tourism Hallyu Star Award at the 2023 Seoul Tourism Awards"
+    },
+    "summary": {
+      "ja": "12月20日の「2023ソウル観光人の日」行事で、ソウル観光韓流スター大賞を受賞した。",
+      "en": "At the 2023 Seoul Tourism Day event on December 20, NewJeans received the Seoul Tourism Hallyu Star Award."
+    },
+    "detail": {
+      "ja": "ソウル特別市観光協会は12月20日、ウェスティン朝鮮ホテルで第5回「2023ソウル観光人の日」行事を開催し、ソウル観光の発展に貢献した20の個人・団体にソウル観光大賞を授与した。NewJeansはソウル観光韓流スター大賞に、HYBEはソウル観光魅力大賞（観光広報部門）に選ばれた。",
+      "en": "On December 20, the Seoul Tourism Association held its fifth Seoul Tourism Day at the Westin Josun Hotel and presented Seoul Tourism Awards to 20 contributors. NewJeans received the Seoul Tourism Hallyu Star Award, while HYBE was honored in the tourism promotion category."
+    },
+    "source_url": "https://v.daum.net/v/20231219170149341",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false,
+    "editor_note": "Daum/Korean press preview dated Dec 19 for the Dec 20 ceremony."
+  },
+  {
+    "id": "record-2023-12-27-asian-pop-music-awards-2023-best-group-overseas",
+    "date": "2023-12-27",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Asian Pop Music AwardsでBest Group（海外部門）受賞",
+      "en": "Best Group (Overseas) at the 2023 Asian Pop Music Awards"
+    },
+    "summary": {
+      "ja": "12月27日にオンラインで発表された2023 Asian Pop Music Awardsで、海外部門のBest Groupに選ばれた。",
+      "en": "NewJeans was named Best Group (Overseas) at the 2023 Asian Pop Music Awards, announced online on December 27."
+    },
+    "detail": {
+      "ja": "2023 Asian Pop Music Awardsの受賞者は12月27日にオンラインイベントで発表された。NewJeansは海外部門のBest Groupを受賞し、『Get Up』がTop 20 Albums of the Year（海外）、「Super Shy」がTop 20 Songs of the Year（海外）に選ばれた。",
+      "en": "Winners of the 2023 Asian Pop Music Awards were unveiled at an online event on December 27. NewJeans won Best Group (Overseas), while Get Up was named among the Top 20 Albums of the Year (Overseas) and Super Shy among the Top 20 Songs of the Year (Overseas)."
+    },
+    "source_url": "https://www.sportskeeda.com/pop-culture/news-2023-asian-pop-music-awards-complete-winners-list-bts-jungkook-blackpink-s-jisoo-stray-kids-bag-wins",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false,
+    "editor_note": "Secondary sources only; some lists also credit Stray Kids in the same Best Group category."
+  },
+  {
+    "id": "record-2023-12-27-asian-pop-music-awards-2023-top-20-get-up-super-shy",
+    "date": "2023-12-27",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Asian Pop Music Awardsで『Get Up』と「Super Shy」がTop 20（海外部門）選出",
+      "en": "Get Up and Super Shy named in Top 20 Albums/Songs (Overseas) at the 2023 Asian Pop Music Awards"
+    },
+    "summary": {
+      "ja": "2023 Asian Pop Music Awardsで『Get Up』がTop 20 Albums、「Super Shy」がTop 20 Songs（海外部門）に選ばれた。",
+      "en": "At the 2023 Asian Pop Music Awards, Get Up was named a Top 20 Album and Super Shy a Top 20 Song in the overseas division."
+    },
+    "detail": {
+      "ja": "12月27日発表の2023 Asian Pop Music Awardsで、『Get Up』がTop 20 Albums of the Year（海外）、「Super Shy」がTop 20 Songs of the Year（海外）に選ばれた。前年は「Hype Boy」が同じTop 20 Songsに選ばれている。",
+      "en": "At the 2023 Asian Pop Music Awards announced on December 27, Get Up was listed among the Top 20 Albums of the Year (Overseas) and Super Shy among the Top 20 Songs of the Year (Overseas), a year after Hype Boy made the same songs list."
+    },
+    "source_url": "https://www.sportskeeda.com/pop-culture/news-2023-asian-pop-music-awards-complete-winners-list-bts-jungkook-blackpink-s-jisoo-stray-kids-bag-wins",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-12-29-circle-2023-album-sales-top-female-act",
+    "date": "2023-12-29",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart集計：2023年の女性K-POPアーティスト年間アルバム販売量1位（439万9,019枚）",
+      "en": "Circle Chart review: NewJeans top K-pop female act in 2023 album sales with 4,399,019 copies"
+    },
+    "summary": {
+      "ja": "Circle Chartの年間レビューで、NewJeansは2023年（1月1日〜12月16日）に3枚のアルバムで439万9,019枚を売り上げ、女性K-POPアーティストの年間販売量1位となった。",
+      "en": "Circle Chart's year-end review put NewJeans' 2023 album sales (January 1-December 16) at 4,399,019 copies across three albums, the most for a K-pop female act."
+    },
+    "detail": {
+      "ja": "Circle Chartのアルバム販売量レビューによると、NewJeansの2023年1月1日〜12月16日の累計販売量は『New Jeans』『OMG』『Get Up』の3枚で4,399,019枚となり、女性アーティストの2023年累計販売量シェア1位（15.4%）を記録した。",
+      "en": "According to Circle Chart's album-sales review, NewJeans sold 4,399,019 copies of New Jeans, OMG and Get Up between January 1 and December 16, 2023, the largest share (15.4%) among female artists for the year."
+    },
+    "source_url": "https://sports.khan.co.kr/article/202312290848003",
+    "reference_urls": [
+      "https://circlechart.kr/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "year-end",
+      "sales"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-12-29-omg-mv-200m-views",
+    "date": "2023-12-29",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「OMG」MV（Performance ver.1）YouTube再生2億回突破、NewJeans初",
+      "en": "OMG (Performance ver.1) MV passes 200 million YouTube views, the group's first"
+    },
+    "summary": {
+      "ja": "ADORによると12月29日、「OMG」Official MV（Performance ver.1）のYouTube再生回数が2億回を超え、NewJeansのMVとして初の2億回到達となった。",
+      "en": "ADOR said the OMG Official MV (Performance ver.1) passed 200 million YouTube views on December 29, 2023, the first NewJeans video to do so."
+    },
+    "detail": {
+      "ja": "2023年1月3日に公開された「OMG」Official MV（Performance ver.1）は、5月13日に1億回を突破した後、12月29日に2億回を超えた。NewJeansのMVで2億回に達したのはこれが初めてだった。",
+      "en": "Released January 3, 2023, the OMG Official MV (Performance ver.1) passed 100 million views on May 13 and 200 million on December 29, the first NewJeans music video to reach that mark."
+    },
+    "source_url": "https://www.tenasia.com/amp/2023123021854",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "views",
+      "youtube"
+    ],
+    "verified": false,
+    "editor_note": "TenAsia Dec 30, 2023 report (ADOR announcement); body not fetchable here, date from search summary."
+  },
+  {
+    "id": "record-2023-12-30-japan-record-awards-65-excellent-work-ditto",
+    "date": "2023-12-30",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第65回日本レコード大賞で「Ditto」が優秀作品賞受賞",
+      "en": "Excellent Work Award for Ditto at the 65th Japan Record Awards"
+    },
+    "summary": {
+      "ja": "第65回日本レコード大賞で「Ditto」が優秀作品賞を受賞し、海外アーティストとして初めて大賞候補となった。",
+      "en": "Ditto received the Excellent Work Award at the 65th Japan Record Awards, making NewJeans the first overseas act nominated for the Grand Prix."
+    },
+    "detail": {
+      "ja": "第65回日本レコード大賞は12月30日に新国立劇場で開催され、TBS系で生放送された。「Ditto」は11月22日に発表された優秀作品賞10作品に海外アーティストとして初めて選ばれ、大賞候補となった。NewJeansは同日、特別賞も受賞し、「Ditto」「ETA」「New Jeans」の3曲を披露した。",
+      "en": "The 65th Japan Record Awards were held on December 30 at the New National Theatre, Tokyo and broadcast live on TBS. Ditto had been named on November 22 among the ten Excellent Work Award songs, the first by an overseas act, making it a Grand Prix candidate. NewJeans also received a Special Award and performed Ditto, ETA and New Jeans."
+    },
+    "source_url": "https://www.koreajoongangdaily.com/entertainment/newjeans-wins-special-achievement-award-at-japan-record-awards/12009122",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award",
+      "japan"
+    ],
+    "verified": false,
+    "editor_note": "Dated to the ceremony; the Excellent Work Award list was announced Nov 22, 2023."
+  },
+  {
+    "id": "record-2023-12-30-japan-record-awards-65-special-award",
+    "date": "2023-12-30",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第65回日本レコード大賞で特別賞受賞",
+      "en": "Special Award at the 65th Japan Record Awards"
+    },
+    "summary": {
+      "ja": "第65回日本レコード大賞で特別賞を受賞した。",
+      "en": "NewJeans received the Special Award at the 65th Japan Record Awards."
+    },
+    "detail": {
+      "ja": "12月30日の第65回日本レコード大賞でNewJeansは特別賞を受賞した。同年の特別賞受賞者のうち海外アーティストはNewJeansのみだった。同日「Ditto」は優秀作品賞を受賞した。",
+      "en": "On December 30, NewJeans received the Special Award at the 65th Japan Record Awards, the only overseas act among that year's Special Award recipients. Ditto received the Excellent Work Award the same night."
+    },
+    "source_url": "https://www.koreajoongangdaily.com/entertainment/newjeans-wins-special-achievement-award-at-japan-record-awards/12009122",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award",
+      "japan"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-01-02-sma-33-best-song-omg",
+    "date": "2024-01-02",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第33回ソウル歌謡大賞で「OMG」が最優秀音源賞受賞",
+      "en": "Best Song Award for OMG at the 33rd Seoul Music Awards"
+    },
+    "summary": {
+      "ja": "第33回ソウル歌謡大賞で「OMG」が最優秀音源賞（Best Song Award）を受賞した。",
+      "en": "OMG won the Best Song Award at the 33rd Seoul Music Awards."
+    },
+    "detail": {
+      "ja": "2024年1月2日、バンコクで開催された第33回ソウル歌謡大賞で「OMG」がBest Song Awardを受賞した。NewJeansは同日本賞も受賞した。",
+      "en": "On January 2, 2024 in Bangkok, OMG received the Best Song Award at the 33rd Seoul Music Awards; NewJeans also took a Bonsang the same night."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/33rd_Seoul_Music_Awards",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-01-02-sma-33-bonsang",
+    "date": "2024-01-02",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第33回ソウル歌謡大賞で本賞受賞",
+      "en": "Bonsang at the 33rd Seoul Music Awards"
+    },
+    "summary": {
+      "ja": "バンコクのラジャマンガラ・スタジアムで開催された第33回ソウル歌謡大賞で本賞を受賞した。",
+      "en": "NewJeans won a Bonsang at the 33rd Seoul Music Awards at Rajamangala National Stadium in Bangkok."
+    },
+    "detail": {
+      "ja": "第33回ソウル歌謡大賞は2024年1月2日、タイ・バンコクのラジャマンガラ・スタジアムで開催された。NewJeansは本賞に加え、「OMG」で最優秀音源賞（Best Song Award）を受賞した。大賞はNCT DREAMが受賞した。",
+      "en": "The 33rd Seoul Music Awards were held on January 2, 2024 at Rajamangala National Stadium in Bangkok. NewJeans won a Bonsang and the Best Song Award for OMG; the Daesang went to NCT DREAM."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/33rd_Seoul_Music_Awards",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-01-05-super-shy-spotify-400m",
+    "date": "2024-01-05",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Super Shy」Spotify再生4億回突破",
+      "en": "Super Shy passes 400 million Spotify streams"
+    },
+    "summary": {
+      "ja": "「Super Shy」のSpotify累計再生数が4億回を超えた。",
+      "en": "Super Shy passed 400 million cumulative streams on Spotify."
+    },
+    "detail": {
+      "ja": "2023年7月7日に先行公開された「Super Shy」は、2024年1月初旬にSpotify累計再生数4億回を突破した。この時点で「OMG」と「Ditto」が5億回超、「Hype Boy」も4億回超となっていた。",
+      "en": "Pre-released on July 7, 2023, Super Shy passed 400 million cumulative Spotify streams in early January 2024. By then OMG and Ditto were above 500 million and Hype Boy above 400 million."
+    },
+    "source_url": "https://www.tenasia.com/amp/2024010551114",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "streaming",
+      "spotify"
+    ],
+    "verified": false,
+    "editor_note": "TenAsia report dated Jan 5, 2024 (title via search; body not fetchable). Exact crossing date not confirmed."
+  },
+  {
+    "id": "record-2024-01-06-gda-38-digital-daesang-ditto",
+    "date": "2024-01-06",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第38回ゴールデンディスクアワードで「Ditto」がデジタル音源大賞受賞",
+      "en": "Digital Daesang for Ditto at the 38th Golden Disc Awards"
+    },
+    "summary": {
+      "ja": "ジャカルタで開催された第38回ゴールデンディスクアワードで「Ditto」がデジタル音源部門大賞を受賞した。",
+      "en": "Ditto won the Digital Song of the Year Daesang at the 38th Golden Disc Awards in Jakarta."
+    },
+    "detail": {
+      "ja": "第38回ゴールデンディスクアワードは2024年1月6日、インドネシアのジャカルタ国際スタジアムで開催された。「Ditto」がデジタル音源部門の大賞（Digital Song of the Year）を受賞し、NewJeansにとって初のゴールデンディスク大賞となった。同日デジタル音源本賞も受賞し、アルバム大賞はSEVENTEEN『FML』だった。",
+      "en": "The 38th Golden Disc Awards were held on January 6, 2024 at Jakarta International Stadium. Ditto won the Digital Song of the Year Daesang, NewJeans' first Golden Disc grand prize; the group also received a Digital Song Bonsang, while the Album Daesang went to SEVENTEEN's FML."
+    },
+    "source_url": "https://www.soompi.com/article/1635576wpp/winners-of-the-golden-disc-awards-2024",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/golden-disc-newjeans-takes-grand-prize-for-ditto-at-golden-disc-awards/12004470"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-01-06-gda-38-digital-song-bonsang",
+    "date": "2024-01-06",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第38回ゴールデンディスクアワードでデジタル音源本賞受賞",
+      "en": "Digital Song Bonsang at the 38th Golden Disc Awards"
+    },
+    "summary": {
+      "ja": "第38回ゴールデンディスクアワードでデジタル音源本賞を受賞した（2年連続）。",
+      "en": "NewJeans received a Digital Song Bonsang at the 38th Golden Disc Awards, its second straight year."
+    },
+    "detail": {
+      "ja": "2024年1月6日、ジャカルタで開催された第38回ゴールデンディスクアワードでデジタル音源本賞を受賞した。同日「Ditto」でデジタル音源大賞も受賞した。",
+      "en": "On January 6, 2024 in Jakarta, NewJeans received a Digital Song Bonsang at the 38th Golden Disc Awards, the same night Ditto won the Digital Daesang."
+    },
+    "source_url": "https://www.soompi.com/article/1635576wpp/winners-of-the-golden-disc-awards-2024",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/golden-disc-newjeans-takes-grand-prize-for-ditto-at-golden-disc-awards/12004470"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-01-08-melon-2023-annual-chart-ditto-no1",
+    "date": "2024-01-08",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Melon 2023年間チャートで「Ditto」1位、トップ10に4曲",
+      "en": "Ditto tops Melon's 2023 annual chart; four NewJeans songs in the top 10"
+    },
+    "summary": {
+      "ja": "Melonが1月8日に発表した2023年間チャートで「Ditto」が1位、「Hype Boy」が2位、「OMG」が4位、「Attention」が8位に入った。",
+      "en": "On Melon's 2023 annual chart released January 8, Ditto was No. 1, Hype Boy No. 2, OMG No. 4 and Attention No. 8."
+    },
+    "detail": {
+      "ja": "Melonの2023年間チャートで「Ditto」が年間1位となった。「Hype Boy」2位、「OMG」4位、「Attention」8位と、NewJeansはトップ10に4曲を送り込んだ。「Ditto」は2023年にMelonデイリーチャート99日1位、週間チャート14週連続1位を記録していた。",
+      "en": "Ditto finished No. 1 on Melon's 2023 annual chart, with Hype Boy at No. 2, OMG at No. 4 and Attention at No. 8, giving NewJeans four of the top ten. During 2023 Ditto had logged 99 days at No. 1 on Melon's daily chart and 14 straight weeks on the weekly chart."
+    },
+    "source_url": "https://kbizoom.com/newjeans-ive-and-girl-groups-dominate-2023-melon-annual-chart/",
+    "reference_urls": [
+      "https://sg.news.yahoo.com/newjeans-ive-lead-south-koreas-215341590.html"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "year-end",
+      "chart",
+      "melon"
+    ],
+    "verified": false,
+    "editor_note": "Release date conflict: kbizoom says Jan 8, 2024; a Yahoo/NextShark piece dated Jan 2 already cites the chart. Attention is No. 8 or No. 9 depending on outlet."
+  },
+  {
+    "id": "record-2024-01-10-ccma-2023-artist-of-the-year-digital-ditto",
+    "date": "2024-01-10",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart Music Awards 2023で「Ditto」がArtist of the Year（デジタル）受賞",
+      "en": "Artist of the Year – Digital for Ditto at the Circle Chart Music Awards 2023"
+    },
+    "summary": {
+      "ja": "第13回Circle Chart Music Awardsで「Ditto」がArtist of the Year（デジタル部門）を受賞した。",
+      "en": "Ditto won Artist of the Year – Digital at the 13th Circle Chart Music Awards."
+    },
+    "detail": {
+      "ja": "Circle Chart Music Awards 2023（第13回）は2024年1月10日、釜山BEXCOで開催された。対象期間は2022年12月1日〜2023年11月30日で、NewJeansはArtist of the Year（デジタル、「Ditto」）、Artist of the Year（グローバルストリーミング、「Super Shy」）、Artist of the Year（ストリーミング・ユニークリスナー、「Ditto」）、Music Steady Seller of the Year（「Hype Boy」）の4冠で最多受賞となった。メンバーは欠席し、受賞メッセージ映像が流された。",
+      "en": "The 13th Circle Chart Music Awards were held on January 10, 2024 at BEXCO in Busan, covering December 1, 2022 to November 30, 2023. NewJeans took the most awards with four: Artist of the Year – Digital (Ditto), Artist of the Year – Global Streaming (Super Shy), Artist of the Year – Streaming Unique Listeners (Ditto) and Music Steady Seller of the Year (Hype Boy). The members did not attend; a video acceptance message was shown."
+    },
+    "source_url": "https://www.soompi.com/article/1636568wpp/winners-of-the-13th-circle-chart-music-awards",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-takes-home-most-awards-at-circle-chart-music-awards-2023/10494102"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-01-10-ccma-2023-artist-of-the-year-global-streaming-super-shy",
+    "date": "2024-01-10",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart Music Awards 2023で「Super Shy」がArtist of the Year（グローバルストリーミング）受賞",
+      "en": "Artist of the Year – Global Streaming for Super Shy at the Circle Chart Music Awards 2023"
+    },
+    "summary": {
+      "ja": "第13回Circle Chart Music Awardsで「Super Shy」がArtist of the Year（グローバルストリーミング部門）を受賞した。",
+      "en": "Super Shy won Artist of the Year – Global Streaming at the 13th Circle Chart Music Awards."
+    },
+    "detail": {
+      "ja": "Circle Chart Music Awards 2023（第13回）は2024年1月10日、釜山BEXCOで開催された。対象期間は2022年12月1日〜2023年11月30日で、NewJeansはArtist of the Year（デジタル、「Ditto」）、Artist of the Year（グローバルストリーミング、「Super Shy」）、Artist of the Year（ストリーミング・ユニークリスナー、「Ditto」）、Music Steady Seller of the Year（「Hype Boy」）の4冠で最多受賞となった。メンバーは欠席し、受賞メッセージ映像が流された。",
+      "en": "The 13th Circle Chart Music Awards were held on January 10, 2024 at BEXCO in Busan, covering December 1, 2022 to November 30, 2023. NewJeans took the most awards with four: Artist of the Year – Digital (Ditto), Artist of the Year – Global Streaming (Super Shy), Artist of the Year – Streaming Unique Listeners (Ditto) and Music Steady Seller of the Year (Hype Boy). The members did not attend; a video acceptance message was shown."
+    },
+    "source_url": "https://www.soompi.com/article/1636568wpp/winners-of-the-13th-circle-chart-music-awards",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-takes-home-most-awards-at-circle-chart-music-awards-2023/10494102"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-01-10-ccma-2023-artist-of-the-year-unique-listeners-ditto",
+    "date": "2024-01-10",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart Music Awards 2023で「Ditto」がArtist of the Year（ユニークリスナー）受賞",
+      "en": "Artist of the Year – Streaming Unique Listeners for Ditto at the Circle Chart Music Awards 2023"
+    },
+    "summary": {
+      "ja": "第13回Circle Chart Music Awardsで「Ditto」がArtist of the Year（ストリーミング・ユニークリスナー部門）を受賞した。",
+      "en": "Ditto won Artist of the Year – Streaming Unique Listeners at the 13th Circle Chart Music Awards."
+    },
+    "detail": {
+      "ja": "Circle Chart Music Awards 2023（第13回）は2024年1月10日、釜山BEXCOで開催された。対象期間は2022年12月1日〜2023年11月30日で、NewJeansはArtist of the Year（デジタル、「Ditto」）、Artist of the Year（グローバルストリーミング、「Super Shy」）、Artist of the Year（ストリーミング・ユニークリスナー、「Ditto」）、Music Steady Seller of the Year（「Hype Boy」）の4冠で最多受賞となった。メンバーは欠席し、受賞メッセージ映像が流された。",
+      "en": "The 13th Circle Chart Music Awards were held on January 10, 2024 at BEXCO in Busan, covering December 1, 2022 to November 30, 2023. NewJeans took the most awards with four: Artist of the Year – Digital (Ditto), Artist of the Year – Global Streaming (Super Shy), Artist of the Year – Streaming Unique Listeners (Ditto) and Music Steady Seller of the Year (Hype Boy). The members did not attend; a video acceptance message was shown."
+    },
+    "source_url": "https://www.soompi.com/article/1636568wpp/winners-of-the-13th-circle-chart-music-awards",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-takes-home-most-awards-at-circle-chart-music-awards-2023/10494102"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-01-10-ccma-2023-music-steady-seller-hype-boy",
+    "date": "2024-01-10",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart Music Awards 2023で「Hype Boy」がMusic Steady Seller of the Year受賞",
+      "en": "Music Steady Seller of the Year for Hype Boy at the Circle Chart Music Awards 2023"
+    },
+    "summary": {
+      "ja": "第13回Circle Chart Music Awardsで「Hype Boy」がMusic Steady Seller of the Year（ロングラン楽曲賞）を受賞した。",
+      "en": "Hype Boy won Music Steady Seller of the Year at the 13th Circle Chart Music Awards."
+    },
+    "detail": {
+      "ja": "Circle Chart Music Awards 2023（第13回）は2024年1月10日、釜山BEXCOで開催された。対象期間は2022年12月1日〜2023年11月30日で、NewJeansはArtist of the Year（デジタル、「Ditto」）、Artist of the Year（グローバルストリーミング、「Super Shy」）、Artist of the Year（ストリーミング・ユニークリスナー、「Ditto」）、Music Steady Seller of the Year（「Hype Boy」）の4冠で最多受賞となった。メンバーは欠席し、受賞メッセージ映像が流された。",
+      "en": "The 13th Circle Chart Music Awards were held on January 10, 2024 at BEXCO in Busan, covering December 1, 2022 to November 30, 2023. NewJeans took the most awards with four: Artist of the Year – Digital (Ditto), Artist of the Year – Global Streaming (Super Shy), Artist of the Year – Streaming Unique Listeners (Ditto) and Music Steady Seller of the Year (Hype Boy). The members did not attend; a video acceptance message was shown."
+    },
+    "source_url": "https://www.soompi.com/article/1636568wpp/winners-of-the-13th-circle-chart-music-awards",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-takes-home-most-awards-at-circle-chart-music-awards-2023/10494102"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-02-18-hanteo-music-awards-31-artist-of-the-year-bonsang",
+    "date": "2024-02-18",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第31回Hanteo Music AwardsでArtist of the Year（本賞）受賞",
+      "en": "Artist of the Year (Bonsang) at the 31st Hanteo Music Awards"
+    },
+    "summary": {
+      "ja": "東大門デザインプラザで開催された第31回Hanteo Music Awards（2月17〜18日）でArtist of the Year本賞を受賞した。",
+      "en": "NewJeans won an Artist of the Year Bonsang at the 31st Hanteo Music Awards, held February 17-18 at Dongdaemun Design Plaza."
+    },
+    "detail": {
+      "ja": "第31回Hanteo Music Awardsは2024年2月17日・18日にソウルの東大門デザインプラザで開催され、2023年のHanteoチャート実績をもとに表彰が行われた。NewJeansはArtist of the Year（本賞）を受賞した。前年は第30回で新人賞（Rookie of the Year）を受賞している。",
+      "en": "The 31st Hanteo Music Awards were held on February 17-18, 2024 at Dongdaemun Design Plaza in Seoul, honoring 2023 Hanteo Chart results. NewJeans received an Artist of the Year Bonsang, a year after winning Rookie of the Year at the 30th edition."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/31st_Hanteo_Music_Awards",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false,
+    "editor_note": "Day (Feb 18) per ja.wikipedia; en.wikipedia ceremony page text was ambiguous about the category name. Unverified against Hanteo's own announcement."
+  },
+  {
+    "id": "record-2024-02-21-ifpi-global-artist-chart-2023-no8",
+    "date": "2024-02-21",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "IFPI 2023年グローバル・アーティスト・チャート8位、女性グループ最上位",
+      "en": "No. 8 on IFPI's 2023 Global Artist Chart, the top girl group"
+    },
+    "summary": {
+      "ja": "国際レコード産業連盟（IFPI）が2月21日に発表した2023年のGlobal Artist ChartでNewJeansは8位に入り、K-POPガールズグループで最上位となった。",
+      "en": "NewJeans ranked No. 8 on IFPI's Global Artist Chart for 2023, announced February 21, 2024, the highest K-pop girl group."
+    },
+    "detail": {
+      "ja": "IFPIが発表した2023年のGlobal Artist Chart（フィジカル、ダウンロード、ストリーミングを合算）で、NewJeansはTaylor Swift、SEVENTEEN、Stray Kids、Drake、The Weeknd、Morgan Wallen、TOMORROW X TOGETHERに続く8位だった。トップ15にはK-POPアーティストが6組入り、女性アーティストではTaylor Swiftに次ぐ順位となった。",
+      "en": "On IFPI's 2023 Global Artist Chart, which combines physical sales, downloads and streaming, NewJeans placed No. 8 behind Taylor Swift, SEVENTEEN, Stray Kids, Drake, The Weeknd, Morgan Wallen and TOMORROW X TOGETHER. Six of the top 15 were K-pop acts, and NewJeans was second only to Taylor Swift among female artists."
+    },
+    "source_url": "https://soompi.com/article/1644082wpp/seventeen-stray-kids-txt-newjeans-ive-and-nct-dream-make-top-15-of-ifpis-global-artist-chart-for-2023",
+    "reference_urls": [
+      "https://www.ifpi.org/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "year-end",
+      "list"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-02-29-kma-21-best-kpop-album-get-up",
+    "date": "2024-02-29",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第21回韓国大衆音楽賞で『Get Up』が最優秀K-POPアルバム受賞",
+      "en": "Best K-Pop Album for Get Up at the 21st Korean Music Awards"
+    },
+    "summary": {
+      "ja": "第21回韓国大衆音楽賞で『Get Up』が最優秀K-POPアルバムを受賞した（前年の『New Jeans』に続き2年連続）。",
+      "en": "Get Up won Best K-Pop Album at the 21st Korean Music Awards, a second straight win after New Jeans."
+    },
+    "detail": {
+      "ja": "第21回韓国大衆音楽賞は2024年2月29日、ソウル・三成洞で開催された。NewJeansは「Ditto」で今年の歌（Song of the Year）と最優秀K-POP歌曲、『Get Up』で最優秀K-POPアルバムを受賞し、ノミネート5部門のうち3部門で受賞した。今年のアルバムはBeenzino『Nowitzki』、今年のミュージシャンはSilica Gelが受賞した。",
+      "en": "The 21st Korean Music Awards were held on February 29, 2024 in Samseong-dong, Seoul. NewJeans won Song of the Year and Best K-Pop Song for Ditto and Best K-Pop Album for Get Up, three of the five categories it was nominated in. Album of the Year went to Beenzino's Nowitzki and Musician of the Year to Silica Gel."
+    },
+    "source_url": "https://www.koreajoongangdaily.com/lifestyle/newjeans-silica-gel-beenzino-win-big-at-korean-music-awards-2024/12357023",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/21st_Korean_Music_Awards"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-02-29-kma-21-best-kpop-song-ditto",
+    "date": "2024-02-29",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第21回韓国大衆音楽賞で「Ditto」が最優秀K-POP歌曲受賞",
+      "en": "Best K-Pop Song for Ditto at the 21st Korean Music Awards"
+    },
+    "summary": {
+      "ja": "第21回韓国大衆音楽賞で「Ditto」が最優秀K-POP歌曲を受賞した（前年の「Attention」に続き2年連続）。",
+      "en": "Ditto won Best K-Pop Song at the 21st Korean Music Awards, a second straight win after Attention."
+    },
+    "detail": {
+      "ja": "第21回韓国大衆音楽賞は2024年2月29日、ソウル・三成洞で開催された。NewJeansは「Ditto」で今年の歌（Song of the Year）と最優秀K-POP歌曲、『Get Up』で最優秀K-POPアルバムを受賞し、ノミネート5部門のうち3部門で受賞した。今年のアルバムはBeenzino『Nowitzki』、今年のミュージシャンはSilica Gelが受賞した。",
+      "en": "The 21st Korean Music Awards were held on February 29, 2024 in Samseong-dong, Seoul. NewJeans won Song of the Year and Best K-Pop Song for Ditto and Best K-Pop Album for Get Up, three of the five categories it was nominated in. Album of the Year went to Beenzino's Nowitzki and Musician of the Year to Silica Gel."
+    },
+    "source_url": "https://www.koreajoongangdaily.com/lifestyle/newjeans-silica-gel-beenzino-win-big-at-korean-music-awards-2024/12357023",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/21st_Korean_Music_Awards"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-02-29-kma-21-song-of-the-year-ditto",
+    "date": "2024-02-29",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第21回韓国大衆音楽賞で「Ditto」が今年の歌受賞",
+      "en": "Song of the Year for Ditto at the 21st Korean Music Awards"
+    },
+    "summary": {
+      "ja": "第21回韓国大衆音楽賞で「Ditto」が今年の歌（Song of the Year）を受賞した。",
+      "en": "Ditto won Song of the Year at the 21st Korean Music Awards."
+    },
+    "detail": {
+      "ja": "第21回韓国大衆音楽賞は2024年2月29日、ソウル・三成洞で開催された。NewJeansは「Ditto」で今年の歌（Song of the Year）と最優秀K-POP歌曲、『Get Up』で最優秀K-POPアルバムを受賞し、ノミネート5部門のうち3部門で受賞した。今年のアルバムはBeenzino『Nowitzki』、今年のミュージシャンはSilica Gelが受賞した。",
+      "en": "The 21st Korean Music Awards were held on February 29, 2024 in Samseong-dong, Seoul. NewJeans won Song of the Year and Best K-Pop Song for Ditto and Best K-Pop Album for Get Up, three of the five categories it was nominated in. Album of the Year went to Beenzino's Nowitzki and Musician of the Year to Silica Gel."
+    },
+    "source_url": "https://www.koreajoongangdaily.com/lifestyle/newjeans-silica-gel-beenzino-win-big-at-korean-music-awards-2024/12357023",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/21st_Korean_Music_Awards"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-03-06-billboard-women-in-music-2024-group-of-the-year",
+    "date": "2024-03-06",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Billboard Women in Music 2024でGroup of the Year受賞（K-POPグループ初）",
+      "en": "Group of the Year at Billboard Women in Music 2024, a first for a K-pop group"
+    },
+    "summary": {
+      "ja": "3月6日（現地時間）、イングルウッドのYouTube Theaterで開催されたBillboard Women in Music 2024でGroup of the Yearを受賞した。",
+      "en": "On March 6, 2024 (local time), NewJeans received Group of the Year at Billboard Women in Music 2024 at the YouTube Theater in Inglewood."
+    },
+    "detail": {
+      "ja": "Billboard Women in Music 2024は3月6日（現地時間）、カリフォルニア州イングルウッドのYouTube Theaterで開催された。NewJeansはK-POPグループとして初めてGroup of the Yearに選ばれ、授賞式では「Super Shy」と「ETA」を披露した。",
+      "en": "Billboard Women in Music 2024 was held on March 6 (local time) at the YouTube Theater in Inglewood, California. NewJeans became the first K-pop group named Group of the Year and performed Super Shy and ETA at the ceremony."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award",
+      "us"
+    ],
+    "verified": false,
+    "editor_note": "Billboard's own announcement page not fetched; ja.wikipedia lists the date as March 8 (KST reporting)."
+  },
+  {
+    "id": "record-2024-03-12-japan-gold-disc-award-38-best-3-new-artists-asia",
+    "date": "2024-03-12",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第38回日本ゴールドディスク大賞でベスト3ニュー・アーティスト（アジア）受賞",
+      "en": "Best 3 New Artists (Asia) at the 38th Japan Gold Disc Award"
+    },
+    "summary": {
+      "ja": "日本レコード協会が発表した第38回日本ゴールドディスク大賞で、アジア部門のベスト3ニュー・アーティストに選ばれた。",
+      "en": "NewJeans was named one of the Best 3 New Artists (Asia) at the 38th Japan Gold Disc Award announced by the RIAJ."
+    },
+    "detail": {
+      "ja": "日本レコード協会は第38回日本ゴールドディスク大賞（対象期間2023年1月〜12月）の受賞者を発表し、NewJeansはアジア部門のベスト3ニュー・アーティストに選ばれた。同時に「OMG」がアジア部門のソング・オブ・ザ・イヤー・バイ・ストリーミングを受賞した。",
+      "en": "The Recording Industry Association of Japan announced the 38th Japan Gold Disc Award (covering January-December 2023), naming NewJeans among the Best 3 New Artists in the Asia division. OMG also won Song of the Year by Streaming (Asia)."
+    },
+    "source_url": "https://www.golddisc.jp/award/38/",
+    "reference_urls": [
+      "https://v.daum.net/v/20240313144246951",
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award",
+      "japan"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date: Korea Herald (Mar 13) says 'Tuesday' = Mar 12; ja.wikipedia lists Mar 13. Official page not fetched."
+  },
+  {
+    "id": "record-2024-03-12-japan-gold-disc-award-38-song-of-the-year-by-streaming-omg",
+    "date": "2024-03-12",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第38回日本ゴールドディスク大賞で「OMG」がソング・オブ・ザ・イヤー・バイ・ストリーミング（アジア）受賞",
+      "en": "Song of the Year by Streaming (Asia) for OMG at the 38th Japan Gold Disc Award"
+    },
+    "summary": {
+      "ja": "第38回日本ゴールドディスク大賞で「OMG」がアジア部門のソング・オブ・ザ・イヤー・バイ・ストリーミングを受賞した。",
+      "en": "OMG won Song of the Year by Streaming (Asia) at the 38th Japan Gold Disc Award."
+    },
+    "detail": {
+      "ja": "日本レコード協会が発表した第38回日本ゴールドディスク大賞で、「OMG」が2023年のストリーミング実績に基づくアジア部門のソング・オブ・ザ・イヤー・バイ・ストリーミングに選ばれた。NewJeansは同時にベスト3ニュー・アーティスト（アジア）も受賞した。",
+      "en": "At the 38th Japan Gold Disc Award announced by the RIAJ, OMG was named Song of the Year by Streaming in the Asia division on 2023 streaming results. NewJeans also received Best 3 New Artists (Asia)."
+    },
+    "source_url": "https://www.golddisc.jp/award/38/",
+    "reference_urls": [
+      "https://v.daum.net/v/20240313144246951",
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award",
+      "japan"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-04-01-iheartradio-music-awards-2024-best-new-artist-kpop",
+    "date": "2024-04-01",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 iHeartRadio Music AwardsでBest New Artist（K-Pop）受賞",
+      "en": "Best New Artist (K-Pop) at the 2024 iHeartRadio Music Awards"
+    },
+    "summary": {
+      "ja": "4月1日（現地時間）、ロサンゼルスのドルビー・シアターで開催された2024 iHeartRadio Music AwardsでK-Pop部門のBest New Artistを受賞した。",
+      "en": "On April 1, 2024 (local time) at the Dolby Theatre in Los Angeles, NewJeans won Best New Artist (K-Pop) at the 2024 iHeartRadio Music Awards."
+    },
+    "detail": {
+      "ja": "2024 iHeartRadio Music Awardsは4月1日（現地時間）にロサンゼルスのドルビー・シアターで開催され、K-Pop部門が新設された。NewJeansはBOYNEXTDOOR、RIIZE、xikers、ZEROBASEONEを抑えてBest New Artist（K-Pop）を受賞した。K-Pop Album of the YearはStray Kids『5-STAR』だった。",
+      "en": "The 2024 iHeartRadio Music Awards were held on April 1 (local time) at the Dolby Theatre in Los Angeles with new K-pop categories. NewJeans won Best New Artist (K-Pop) over BOYNEXTDOOR, RIIZE, xikers and ZEROBASEONE; K-Pop Album of the Year went to Stray Kids' 5-STAR."
+    },
+    "source_url": "https://kost1035.iheart.com/content/2024-03-31-2024-iheartradio-music-awards-see-the-full-list-of-winners",
+    "reference_urls": [
+      "https://usa.inquirer.net/147453/bts-wins-big-at-iheartradio-awards-jungkook-makes-history"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award",
+      "us"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-04-29-forbes-korea-power-celebrity-40-2024",
+    "date": "2024-04-29",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Forbes Korea「パワーセレブリティ40」2024年版で3位",
+      "en": "Ranked 3rd on Forbes Korea's 2024 Power Celebrity 40"
+    },
+    "summary": {
+      "ja": "Forbes Koreaの2024年パワーセレブリティ40でNewJeansはBLACKPINK、BTSのJiminに続く3位に選ばれた。",
+      "en": "Forbes Korea's 2024 Power Celebrity 40 placed NewJeans third, behind BLACKPINK and BTS's Jimin."
+    },
+    "detail": {
+      "ja": "Forbes Koreaが発表した2024年版パワーセレブリティ40で、NewJeansは前年の27位から3位に順位を上げた。1位はBLACKPINK、2位はJimin、以下Jung Kook、IVE、Stray Kidsなどが続いた。",
+      "en": "In Forbes Korea's 2024 Power Celebrity 40, NewJeans climbed from 27th the previous year to third. BLACKPINK ranked first and Jimin second, followed by acts including Jung Kook, IVE and Stray Kids."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Forbes_Korea_Power_Celebrity_40",
+    "reference_urls": [
+      "https://www.sportskeeda.com/us/k-pop/news-blackpink-bts-jimin-jungkook-newjeans-emerge-powerful-korean-artists-2024"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "list"
+    ],
+    "verified": false,
+    "editor_note": "Release date (Apr 29, 2024) from secondary coverage; Forbes Korea page not fetched."
+  },
+  {
+    "id": "record-2024-05-24-how-sweet-first-day-hanteo-800k",
+    "date": "2024-05-24",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『How Sweet』Hanteo初日売上80万枚超",
+      "en": "How Sweet sells over 800,000 copies on day one on Hanteo"
+    },
+    "summary": {
+      "ja": "5月24日発売のダブルシングル『How Sweet』はHanteoチャート集計で発売初日に80万枚以上を売り上げた。",
+      "en": "The double single How Sweet, released May 24, sold more than 800,000 copies on its first day according to Hanteo Chart."
+    },
+    "detail": {
+      "ja": "Hanteoチャートによると、5月24日に発売されたダブルシングル『How Sweet』は初日だけで80万枚以上を売り上げた。前作『Get Up』の初日は1,194,623枚だった。",
+      "en": "Hanteo Chart reported that the double single How Sweet, released May 24, 2024, sold more than 800,000 copies on its first day; the previous release Get Up had sold 1,194,623 on day one."
+    },
+    "source_url": "https://www.koreatimes.co.kr/www/art/2024/05/398_375333.html",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "sales"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-05-25-how-sweet-circle-album-weekly-no1",
+    "date": "2024-05-25",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『How Sweet』Circle週間アルバムチャート1位",
+      "en": "How Sweet debuts at No. 1 on the Circle Album Chart"
+    },
+    "summary": {
+      "ja": "2024年第21週（5月19〜25日）のCircle週間アルバムチャートで『How Sweet』が1位となった。",
+      "en": "How Sweet entered the Circle Album Chart at No. 1 for week 21 of 2024 (May 19-25)."
+    },
+    "detail": {
+      "ja": "5月24日発売の『How Sweet』は2024年第21週（5月19〜25日）のCircle週間アルバムチャートで初登場1位となった。タイトル曲「How Sweet」は同時期のCircle週間デジタルチャートで最高2位を記録した。",
+      "en": "Released May 24, How Sweet debuted at No. 1 on the Circle Album Chart for week 21 of 2024 (May 19-25). The title track peaked at No. 2 on the Circle Digital Chart in the same period."
+    },
+    "source_url": "https://circlechart.kr/page_chart/album.circle?nationGbn=T&targetTime=21&hitYear=2024&termGbn=week",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/How_Sweet"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-05-30-how-sweet-first-week-hanteo-884k",
+    "date": "2024-05-30",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『How Sweet』Hanteo初週売上884,717枚",
+      "en": "How Sweet logs 884,717 first-week sales on Hanteo"
+    },
+    "summary": {
+      "ja": "Hanteoチャート集計で『How Sweet』の初週（5月24〜30日）売上は884,717枚だった。",
+      "en": "Hanteo Chart put How Sweet's first-week sales (May 24-30) at 884,717 copies."
+    },
+    "detail": {
+      "ja": "Hanteoチャートによると、5月24日発売の『How Sweet』は発売から7日間で884,717枚を売り上げた。前作『Get Up』の初週1,650,181枚には及ばなかったが、『OMG』の初週701,241枚を上回った。",
+      "en": "According to Hanteo Chart, How Sweet sold 884,717 copies in its first seven days from May 24. The figure was below Get Up's first week of 1,650,181 but above OMG's 701,241."
+    },
+    "source_url": "https://v.daum.net/v/20240606174916614",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "sales"
+    ],
+    "verified": false,
+    "editor_note": "Korea Herald via Daum (Jun 6, 2024); 1.03M cumulative as of Jun 5."
+  },
+  {
+    "id": "record-2024-05-31-billboard-21-under-21-2024",
+    "date": "2024-05-31",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Billboard「21 Under 21」2024年版に選出（K-POPアーティスト唯一）",
+      "en": "Named to Billboard's 21 Under 21 list for 2024, the only K-pop act"
+    },
+    "summary": {
+      "ja": "Billboardが発表した2024年の「21 Under 21」にNewJeansが選ばれ、K-POPアーティストとして唯一の選出となった。",
+      "en": "NewJeans was named to Billboard's 21 Under 21 list for 2024, the only K-pop act included."
+    },
+    "detail": {
+      "ja": "Billboardの「21 Under 21」は、アルバム・楽曲セールス、ストリーミング、SNSのインプレッション、ラジオ・TVの到達、キャリアの軌跡と業界への影響力を基準に21歳以下の有力アーティストを選ぶ年次リスト。2024年版にNewJeansがK-POPアーティストとして唯一選ばれ、Billboardは同グループのGlobal 200トップ10入り3曲、Hot 100入り5曲などを挙げた。",
+      "en": "Billboard's annual 21 Under 21 list selects artists aged 21 and under on album and track sales, streaming, social media impressions, radio and TV audiences, career trajectory and industry impact. NewJeans was the only K-pop act on the 2024 list, with Billboard citing its three Global 200 top-10 hits and five Hot 100 entries."
+    },
+    "source_url": "https://asianews.network/newjeans-named-billboards-21-under-21-only-k-pop-act-to-make-the-annual-list/",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "list"
+    ],
+    "verified": false,
+    "editor_note": "Publication date reported as May 31 (local) by kbizoom and as May 16 by another outlet; Billboard page not fetched."
+  },
+  {
+    "id": "record-2024-06-08-how-sweet-global-200-debut-15",
+    "date": "2024-06-08",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「How Sweet」Billboard Global 200に15位で初登場",
+      "en": "How Sweet debuts at No. 15 on the Billboard Global 200"
+    },
+    "summary": {
+      "ja": "6月8日付Billboard Global 200で「How Sweet」が15位で初登場し、Bubbling Under Hot 100では12位となった。",
+      "en": "On the Billboard Global 200 dated June 8, 2024, How Sweet debuted at No. 15; it also reached No. 12 on Bubbling Under Hot 100."
+    },
+    "detail": {
+      "ja": "6月8日付のBillboardチャートで「How Sweet」はGlobal 200に15位で初登場し、World Digital Song Salesで4位、Bubbling Under Hot 100で12位、Hits of the Worldの香港と台湾のチャートで1位となった。Hot 100入りはしなかった。",
+      "en": "On the Billboard charts dated June 8, 2024, How Sweet entered the Global 200 at No. 15, World Digital Song Sales at No. 4 and Bubbling Under Hot 100 at No. 12, and topped Billboard's Hong Kong and Taiwan Songs charts. It did not enter the Hot 100."
+    },
+    "source_url": "https://www.billboard.com/charts/billboard-global-200/2024-06-08/",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/How_Sweet"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "billboard"
+    ],
+    "verified": false,
+    "editor_note": "Positions from Wikipedia (Billboard retrieved Jun 4, 2024); Billboard chart page returned 402 here."
+  },
+  {
+    "id": "record-2024-06-08-how-sweet-million-seller-circle",
+    "date": "2024-06-08",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『How Sweet』Circle集計で100万枚突破、4作連続ミリオンセラー",
+      "en": "How Sweet passes one million copies on Circle Chart, a fourth straight million-seller"
+    },
+    "summary": {
+      "ja": "ADORによると『How Sweet』はCircle Chart集計で6月8日時点1,085,355枚を売り上げ、NewJeans4作目のミリオンセラーとなった。",
+      "en": "ADOR said How Sweet had sold 1,085,355 copies as of June 8 on Circle Chart, NewJeans' fourth million-selling release."
+    },
+    "detail": {
+      "ja": "ADORはCircle Chartを引用し、5月24日発売の『How Sweet』が6月8日時点で1,085,355枚を売り上げたと発表した。『New Jeans』（159万枚）、『OMG』（166万枚）、『Get Up』（214万枚）に続く4作連続のミリオンセラーとなった。",
+      "en": "Citing Circle Chart, ADOR announced that How Sweet, released May 24, had sold 1,085,355 copies as of June 8, 2024. It followed New Jeans (1.59 million), OMG (1.66 million) and Get Up (2.14 million) as the group's fourth consecutive million-seller."
+    },
+    "source_url": "https://www.koreajoongangdaily.com/entertainment/newjeans-how-sweet-tops-1-million-copies-sold/12426745",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "sales",
+      "million-seller"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-06-21-supernatural-oricon-daily-no1",
+    "date": "2024-06-21",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Supernatural」オリコンデイリーシングルランキング1位（日本デビュー初日）",
+      "en": "Supernatural tops Oricon's Daily Singles Ranking on its Japanese release day"
+    },
+    "summary": {
+      "ja": "6月21日に日本で発売されたデビューシングル「Supernatural」はオリコンデイリーシングルランキングで発売日に1位となった。",
+      "en": "The Japanese debut single Supernatural, released June 21, topped Oricon's Daily Singles Ranking on its release day."
+    },
+    "detail": {
+      "ja": "日本デビューシングル「Supernatural」は6月21日の発売当日にオリコンデイリーシングルランキング1位となり、LINE MUSICやAWAの日本の配信チャートでも1位を記録した。ADORは「日本語シングルが韓国国内の音源チャートで上位に入るのは珍しい」とコメントした。",
+      "en": "Supernatural topped Oricon's Daily Singles Ranking on its June 21 release day and also reached No. 1 on Japanese streaming services LINE MUSIC and AWA. ADOR noted that it is uncommon for a Japanese single to rank high on Korean domestic charts."
+    },
+    "source_url": "https://www.koreajoongangdaily.com/entertainment/newjeans-tops-japans-oricon-chart-with-supernatural/12394400",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Supernatural_(NewJeans_song)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "japan"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-06-22-supernatural-circle-album-weekly-no1",
+    "date": "2024-06-22",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Supernatural』Circle週間アルバムチャート1位",
+      "en": "Supernatural debuts at No. 1 on the Circle Album Chart"
+    },
+    "summary": {
+      "ja": "2024年第25週（6月16〜22日）のCircle週間アルバムチャートで日本デビューシングル『Supernatural』が1位となった。",
+      "en": "The Japanese single Supernatural entered the Circle Album Chart at No. 1 for week 25 of 2024 (June 16-22)."
+    },
+    "detail": {
+      "ja": "6月21日発売の『Supernatural』は2024年第25週のCircle週間アルバムチャートで初登場1位となった。タイトル曲はCircle週間デジタルチャートで最高4位を記録した。",
+      "en": "Released June 21, Supernatural debuted at No. 1 on the Circle Album Chart for week 25 of 2024. The title track peaked at No. 4 on the Circle Digital Chart."
+    },
+    "source_url": "https://circlechart.kr/page_chart/album.circle?nationGbn=T&targetTime=25&hitYear=2024&termGbn=week",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Supernatural_(NewJeans_song)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-07-06-supernatural-global-200-debut-25",
+    "date": "2024-07-06",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Supernatural」Billboard Global 200に25位で初登場、World Digital Song Sales2位",
+      "en": "Supernatural debuts at No. 25 on the Billboard Global 200 and No. 2 on World Digital Song Sales"
+    },
+    "summary": {
+      "ja": "7月6日付Billboardチャートで「Supernatural」がGlobal 200に25位で初登場し、World Digital Song Salesでは2位となった。",
+      "en": "On the Billboard charts dated July 6, 2024, Supernatural debuted at No. 25 on the Global 200 and No. 2 on World Digital Song Sales."
+    },
+    "detail": {
+      "ja": "日本デビューシングル「Supernatural」は7月6日付Billboard Global 200に25位で初登場し、World Digital Song Salesで2位、Canadian Hot 100で100位となった。収録曲「Right Now」もGlobal 200に81位で入り、Billboard JAPAN Hot 100では「Supernatural」が7月3日付で7位を記録した。",
+      "en": "The Japanese debut single Supernatural entered the Billboard Global 200 at No. 25 on the chart dated July 6, 2024, reached No. 2 on World Digital Song Sales and No. 100 on the Canadian Hot 100. B-side Right Now also charted at No. 81 on the Global 200, and Supernatural peaked at No. 7 on the Billboard Japan Hot 100 dated July 3."
+    },
+    "source_url": "https://www.billboard.com/charts/billboard-global-200/2024-07-06/",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Supernatural_(NewJeans_song)",
+      "https://en.wikipedia.org/wiki/NewJeans_discography"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "billboard",
+      "japan"
+    ],
+    "verified": false,
+    "editor_note": "Positions from Wikipedia (Billboard retrieved Jul 2, 2024); chart page returned 402 here."
+  },
+  {
+    "id": "record-2024-07-11-supernatural-million-seller-circle",
+    "date": "2024-07-11",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Supernatural』Circle 6月月間アルバムチャートで100万枚突破、5作連続ミリオンセラー",
+      "en": "Supernatural passes one million copies on Circle's June chart, a fifth straight million-seller"
+    },
+    "summary": {
+      "ja": "Circle Chartの6月月間アルバムチャートで『Supernatural』が通常盤とWeverse盤合計1,021,730枚となり、NewJeans5作連続のミリオンセラーとなった。",
+      "en": "On Circle Chart's June monthly album chart, Supernatural totaled 1,021,730 copies across the standard and Weverse editions, NewJeans' fifth consecutive million-seller."
+    },
+    "detail": {
+      "ja": "ADORによると、6月21日発売の日本デビューシングル『Supernatural』はCircle Chartの6月月間アルバムチャートで通常盤とWeverse盤を合わせ1,021,730枚を記録した。『New Jeans』『OMG』『Get Up』『How Sweet』に続き、発売作品5作連続のミリオンセラーとなった。",
+      "en": "ADOR said the Japanese debut single Supernatural, released June 21, logged 1,021,730 copies (standard plus Weverse editions) on Circle Chart's June monthly album chart, making it the group's fifth consecutive million-selling release after New Jeans, OMG, Get Up and How Sweet."
+    },
+    "source_url": "https://v.daum.net/v/20240711172323135",
+    "reference_urls": [
+      "https://v.daum.net/v/20240711201539757"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "sales",
+      "million-seller"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-07-23-super-shy-mv-200m-views",
+    "date": "2024-07-23",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Super Shy」MV YouTube再生2億回突破、NewJeans2作目",
+      "en": "Super Shy MV passes 200 million YouTube views, the group's second"
+    },
+    "summary": {
+      "ja": "7月23日午後10時ごろ（KST）、「Super Shy」MVのYouTube再生回数が2億回を超え、「OMG」（Performance ver.1）に続くNewJeans2作目の2億回到達MVとなった。",
+      "en": "At around 10 p.m. KST on July 23, 2024, the Super Shy MV passed 200 million YouTube views, the group's second video to do so after OMG (Performance ver.1)."
+    },
+    "detail": {
+      "ja": "2023年7月7日午後1時に公開された「Super Shy」MVは、公開から1年16日で2億回に到達した。NewJeansのMVで2億回を超えたのは2023年12月の「OMG」Official MV（Performance ver.1）に続き2作目。",
+      "en": "Released July 7, 2023 at 1 p.m. KST, the Super Shy MV took just over a year and 16 days to reach 200 million views. It was NewJeans' second video past 200 million, after the OMG Official MV (Performance ver.1) in December 2023."
+    },
+    "source_url": "https://www.soompi.com/article/1676541wpp/newjeans-super-shy-becomes-their-2nd-mv-to-hit-200-million-views",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "views",
+      "youtube"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-08-08-variety-young-hollywood-impact-report-2024",
+    "date": "2024-08-08",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Varietyの「Young Hollywood Impact Report 2024」に選出",
+      "en": "Named to Variety's 2024 Young Hollywood Impact Report"
+    },
+    "summary": {
+      "ja": "Varietyが8月8日（現地時間）に発表した2024年のYoung Hollywood Impact ReportにNewJeansが唯一のK-POPグループとして選ばれた。",
+      "en": "NewJeans was the only K-pop group named to Variety's 2024 Young Hollywood Impact Report, published August 8 (local time)."
+    },
+    "detail": {
+      "ja": "Varietyは2024年のYoung Hollywood Impact Reportで、世界のエンターテインメント業界で最も影響力のある若手アーティストの一組としてNewJeansを選出した。Varietyは同グループのSpotifyの再生記録やBillboardチャートの実績、Coca-ColaやAppleとのブランドパートナーシップに言及した。",
+      "en": "Variety included NewJeans in its 2024 Young Hollywood Impact Report as one of the most influential young artists in global entertainment, citing its record Spotify streams, Billboard chart achievements and brand partnerships with Coca-Cola and Apple."
+    },
+    "source_url": "https://v.daum.net/v/20240808182740517",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "list"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-08-11-circle-cert-supernatural-triple-platinum-super-shy-streaming-platinum",
+    "date": "2024-08-11",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart認定：『Supernatural』トリプルプラチナ、「Super Shy」ストリーミング・プラチナ",
+      "en": "Circle Chart certification: Supernatural triple platinum, Super Shy streaming platinum"
+    },
+    "summary": {
+      "ja": "Circle Chartの8月認定で『Supernatural』がアルバム75万枚超のトリプルプラチナ、「Super Shy」が1億ストリーミング超のプラチナに認定された。",
+      "en": "In Circle Chart's August certifications, Supernatural was certified triple platinum for over 750,000 album units and Super Shy platinum for over 100 million streams."
+    },
+    "detail": {
+      "ja": "Circle Chart（韓国音楽コンテンツ協会）の2024年8月の認定で、日本デビューシングル『Supernatural』がアルバム部門でトリプルプラチナ（75万枚超）、「Super Shy」がストリーミング部門でプラチナ（1億回超）に認定された。",
+      "en": "In Circle Chart's (KMCA) August 2024 certifications, the Japanese single Supernatural received triple platinum in the album category (over 750,000 units) and Super Shy platinum in the streaming category (over 100 million streams)."
+    },
+    "source_url": "https://soompi.com/article/1680557wpp/seventeen-riize-newjeans-tws-twices-nayeon-and-wayv-earn-circle-quadruple-million-and-platinum-certifications",
+    "reference_urls": [
+      "https://circlechart.kr/page_chart/certification.circle"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "streaming"
+    ],
+    "verified": false,
+    "editor_note": "Dated to the Soompi roundup (Aug 11, 2024); Circle's own posting date (fan wiki: Aug 8) not verified."
+  },
+  {
+    "id": "record-2024-08-13-cookie-mv-100m-views",
+    "date": "2024-08-13",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Cookie」MV YouTube再生1億回突破",
+      "en": "Cookie MV passes 100 million YouTube views"
+    },
+    "summary": {
+      "ja": "8月13日午後8時55分ごろ（KST）、「Cookie」MVのYouTube再生回数が1億回を超えた。",
+      "en": "At around 8:55 p.m. KST on August 13, 2024, the Cookie MV passed 100 million YouTube views."
+    },
+    "detail": {
+      "ja": "2022年8月1日午後6時に公開された「Cookie」MVは、公開から2年12日で1億回に到達した。Soompiは「Hype Boy」（Performance ver.1）、「OMG」（Performance ver.1）、「Super Shy」に続く4作目の1億回MVと報じた。",
+      "en": "Released August 1, 2022 at 6 p.m. KST, the Cookie MV reached 100 million views two years and 12 days later. Soompi counted it as the group's fourth MV to hit the mark, after Hype Boy (Performance ver.1), OMG (Performance ver.1) and Super Shy."
+    },
+    "source_url": "https://soompi.com/article/1681245wpp/newjeans-cookie-becomes-their-4th-mv-to-hit-100-million-views",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "views",
+      "youtube"
+    ],
+    "verified": false,
+    "editor_note": "Soompi's count excludes the Ditto performance video (100M in Oct 2023); other outlets call Cookie the fifth."
+  },
+  {
+    "id": "record-2024-08-24-esports-awards-2024-content-of-the-year-gods",
+    "date": "2024-08-24",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Esports Awards 2024で「GODS ft. NewJeans」がContent of the Year受賞",
+      "en": "Content of the Year for GODS ft. NewJeans at the Esports Awards 2024"
+    },
+    "summary": {
+      "ja": "リヤドで開催されたEsports Awards 2024で、Riot Gamesの「GODS ft. NewJeans」ミュージックビデオがEsports Content of the Yearを受賞した。",
+      "en": "At the Esports Awards 2024 in Riyadh, Riot Games' GODS ft. NewJeans music video won Esports Content of the Year."
+    },
+    "detail": {
+      "ja": "Esports Awards 2024は8月24日、サウジアラビア・リヤドのフォーシーズンズ・キングダムセンターで開催された。League of Legends World Championship 2023のアンセム「GODS ft. NewJeans」のミュージックビデオがContent of the Yearを受賞し、Riot Gamesは同日Publisher of the Yearなども受賞した。",
+      "en": "The Esports Awards 2024 ceremony took place on August 24 at the Four Seasons Kingdom Centre in Riyadh, Saudi Arabia. The music video for GODS ft. NewJeans, the League of Legends World Championship 2023 anthem, won Content of the Year, one of several awards for Riot Games that night."
+    },
+    "source_url": "https://esportsawards.com/?p=9178",
+    "reference_urls": [
+      "https://www.esports.net/news/industry/esports-awards-2024-winners"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false,
+    "note": "受賞者はRiot Games（映像制作側）。"
+  },
+  {
+    "id": "record-2024-09-02-spotify-5-billion-streams",
+    "date": "2024-09-02",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Spotify累計再生50億回突破",
+      "en": "NewJeans pass 5 billion cumulative Spotify streams"
+    },
+    "summary": {
+      "ja": "ADORは9月2日、NewJeans全楽曲のSpotify累計再生数が8月末時点で50億回を超えたと発表した。",
+      "en": "On September 2, 2024, ADOR announced that NewJeans' songs had passed 5 billion cumulative Spotify streams as of the end of August."
+    },
+    "detail": {
+      "ja": "ADORの発表によると、デビューから約2年1か月でSpotify累計再生数が50億回を超えた。曲別では「OMG」が7億回超、「Ditto」と「Super Shy」が6億回超、「Hype Boy」が5億回超で、1億回を超えた楽曲は13曲に達した。再生の多い国は米国、日本、インドネシア、フィリピン、ブラジル、メキシコ、台湾、タイだった。",
+      "en": "ADOR said the group's cumulative Spotify streams passed 5 billion about two years and one month after debut. By song, OMG was above 700 million, Ditto and Super Shy above 600 million and Hype Boy above 500 million, with 13 songs over 100 million. The most streams came from the United States, Japan, Indonesia, the Philippines, Brazil, Mexico, Taiwan and Thailand."
+    },
+    "source_url": "http://www.kedglobal.com/newsView/ked202409020001",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "streaming",
+      "spotify"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-09-08-tma-2024-artist-of-the-year-bonsang",
+    "date": "2024-09-08",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 THE FACT MUSIC AWARDSでArtist of the Year（本賞）受賞",
+      "en": "Artist of the Year (Bonsang) at the 2024 The Fact Music Awards"
+    },
+    "summary": {
+      "ja": "京セラドーム大阪で開催された2024 TMAでArtist of the Year本賞を受賞した（2年連続）。",
+      "en": "NewJeans won an Artist of the Year Bonsang at the 2024 TMA at Kyocera Dome Osaka, its second straight year."
+    },
+    "detail": {
+      "ja": "2024 THE FACT MUSIC AWARDSは9月7日・8日に大阪の京セラドームで開催された。NewJeansは2日目の9月8日にArtist of the Year（本賞）、Worldwide Icon、World Best Performer、MUSINSA人気賞の4冠で、この日最多の受賞となった。大賞はaespaが受賞した。",
+      "en": "The 2024 The Fact Music Awards were held on September 7-8 at Kyocera Dome Osaka. On Day 2 (September 8) NewJeans won four awards, the most of the night: Artist of the Year (Bonsang), Worldwide Icon, World Best Performer and the MUSINSA Popularity Award. The Daesang went to aespa."
+    },
+    "source_url": "https://www.soompi.com/article/1686885wpp/winners-of-2024-the-fact-music-awards-tma-day-2",
+    "reference_urls": [
+      "https://news.tf.co.kr/read/ogmeta/2132091.htm"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-09-08-tma-2024-musinsa-popularity-award",
+    "date": "2024-09-08",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 THE FACT MUSIC AWARDSでMUSINSA人気賞受賞",
+      "en": "MUSINSA Popularity Award at the 2024 The Fact Music Awards"
+    },
+    "summary": {
+      "ja": "2024 TMAでMUSINSA人気賞を受賞した。",
+      "en": "NewJeans received the MUSINSA Popularity Award at the 2024 TMA."
+    },
+    "detail": {
+      "ja": "2024 THE FACT MUSIC AWARDSは9月7日・8日に大阪の京セラドームで開催された。NewJeansは2日目の9月8日にArtist of the Year（本賞）、Worldwide Icon、World Best Performer、MUSINSA人気賞の4冠で、この日最多の受賞となった。大賞はaespaが受賞した。",
+      "en": "The 2024 The Fact Music Awards were held on September 7-8 at Kyocera Dome Osaka. On Day 2 (September 8) NewJeans won four awards, the most of the night: Artist of the Year (Bonsang), Worldwide Icon, World Best Performer and the MUSINSA Popularity Award. The Daesang went to aespa."
+    },
+    "source_url": "https://www.soompi.com/article/1686885wpp/winners-of-2024-the-fact-music-awards-tma-day-2",
+    "reference_urls": [
+      "https://news.tf.co.kr/read/ogmeta/2132091.htm"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-09-08-tma-2024-world-best-performer",
+    "date": "2024-09-08",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 THE FACT MUSIC AWARDSでWorld Best Performer賞受賞",
+      "en": "World Best Performer Award at the 2024 The Fact Music Awards"
+    },
+    "summary": {
+      "ja": "2024 TMAでWorld Best Performer賞を受賞した。",
+      "en": "NewJeans received the World Best Performer Award at the 2024 TMA."
+    },
+    "detail": {
+      "ja": "2024 THE FACT MUSIC AWARDSは9月7日・8日に大阪の京セラドームで開催された。NewJeansは2日目の9月8日にArtist of the Year（本賞）、Worldwide Icon、World Best Performer、MUSINSA人気賞の4冠で、この日最多の受賞となった。大賞はaespaが受賞した。",
+      "en": "The 2024 The Fact Music Awards were held on September 7-8 at Kyocera Dome Osaka. On Day 2 (September 8) NewJeans won four awards, the most of the night: Artist of the Year (Bonsang), Worldwide Icon, World Best Performer and the MUSINSA Popularity Award. The Daesang went to aespa."
+    },
+    "source_url": "https://www.soompi.com/article/1686885wpp/winners-of-2024-the-fact-music-awards-tma-day-2",
+    "reference_urls": [
+      "https://news.tf.co.kr/read/ogmeta/2132091.htm"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-09-08-tma-2024-worldwide-icon",
+    "date": "2024-09-08",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 THE FACT MUSIC AWARDSでWorldwide Icon賞受賞",
+      "en": "Worldwide Icon Award at the 2024 The Fact Music Awards"
+    },
+    "summary": {
+      "ja": "2024 TMAでWorldwide Icon賞を受賞した。",
+      "en": "NewJeans received the Worldwide Icon Award at the 2024 TMA."
+    },
+    "detail": {
+      "ja": "2024 THE FACT MUSIC AWARDSは9月7日・8日に大阪の京セラドームで開催された。NewJeansは2日目の9月8日にArtist of the Year（本賞）、Worldwide Icon、World Best Performer、MUSINSA人気賞の4冠で、この日最多の受賞となった。大賞はaespaが受賞した。",
+      "en": "The 2024 The Fact Music Awards were held on September 7-8 at Kyocera Dome Osaka. On Day 2 (September 8) NewJeans won four awards, the most of the night: Artist of the Year (Bonsang), Worldwide Icon, World Best Performer and the MUSINSA Popularity Award. The Daesang went to aespa."
+    },
+    "source_url": "https://www.soompi.com/article/1686885wpp/winners-of-2024-the-fact-music-awards-tma-day-2",
+    "reference_urls": [
+      "https://news.tf.co.kr/read/ogmeta/2132091.htm"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-09-12-circle-cert-supernatural-million",
+    "date": "2024-09-12",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart認定：『Supernatural』ミリオン認定",
+      "en": "Circle Chart certification: Supernatural certified million"
+    },
+    "summary": {
+      "ja": "Circle Chartの9月認定で『Supernatural』が100万枚超のミリオン認定を受けた。",
+      "en": "In Circle Chart's September certifications, Supernatural was certified million for over 1,000,000 units."
+    },
+    "detail": {
+      "ja": "Circle Chart（韓国音楽コンテンツ協会）の2024年9月認定で、日本デビューシングル『Supernatural』が出荷100万枚超のミリオン認定を受けた。8月のトリプルプラチナ認定から1か月での昇格となった。",
+      "en": "In Circle Chart's (KMCA) September 2024 certifications, the Japanese single Supernatural received a million certification for over 1,000,000 units, a month after its triple platinum certification."
+    },
+    "source_url": "https://circlechart.kr/page_chart/certification.circle",
+    "reference_urls": [
+      "https://kpop.fandom.com/wiki/Supernatural_(NewJeans)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "million-seller"
+    ],
+    "verified": false,
+    "editor_note": "Date (Sept 12, 2024) from a fan wiki citing Soompi; not independently verified."
+  },
+  {
+    "id": "record-2024-09-29-riaj-omg-double-platinum-attention-platinum",
+    "date": "2024-09-29",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「OMG」ダブルプラチナ、「Attention」プラチナ",
+      "en": "RIAJ streaming certification: OMG double platinum, Attention platinum"
+    },
+    "summary": {
+      "ja": "日本レコード協会の9月のストリーミング認定で「OMG」が2億回超のダブルプラチナ、「Attention」が1億回超のプラチナに認定された。",
+      "en": "In the RIAJ's September streaming certifications, OMG was certified double platinum for over 200 million streams and Attention platinum for over 100 million."
+    },
+    "detail": {
+      "ja": "日本レコード協会（RIAJ）の2024年9月のストリーミング認定で、「OMG」が累計2億回超のダブルプラチナ、デビュー曲「Attention」が累計1億回超のプラチナに認定された。「OMG」は2023年8月にプラチナ認定を受けていた。",
+      "en": "In the Recording Industry Association of Japan's September 2024 streaming certifications, OMG received double platinum for over 200 million streams and debut track Attention platinum for over 100 million. OMG had been certified platinum in August 2023."
+    },
+    "source_url": "https://soompi.com/article/1691593wpp/newjeans-jungkook-aespa-ive-g-dragon-le-sserafim-bts-and-treasure-earn-riaj-platinum-and-gold-certifications-in-japan",
+    "reference_urls": [
+      "https://www.riaj.or.jp/f/data/cert/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "japan",
+      "streaming"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-10-25-edaily-culture-awards-11-frontier-award",
+    "date": "2024-10-25",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第11回イーデイリー文化大賞でフロンティア賞受賞",
+      "en": "Frontier Award at the 11th Edaily Culture Awards"
+    },
+    "summary": {
+      "ja": "10月25日に世宗文化会館で開催された第11回イーデイリー文化大賞でフロンティア賞を受賞し、「Bubble Gum」「How Sweet」を披露した。",
+      "en": "At the 11th Edaily Culture Awards at the Sejong Center on October 25, NewJeans received the Frontier Award and performed Bubble Gum and How Sweet."
+    },
+    "detail": {
+      "ja": "第11回イーデイリー文化大賞の授賞式は2024年10月25日午後、ソウル・光化門の世宗文化会館で開催された。NewJeansは授賞式に出席してフロンティア賞を受賞し、「Bubble Gum」と「How Sweet」のステージを披露した。",
+      "en": "The 11th Edaily Culture Awards ceremony was held on the afternoon of October 25, 2024 at the Sejong Center for the Performing Arts in Gwanghwamun, Seoul. NewJeans attended, received the Frontier Award and performed Bubble Gum and How Sweet."
+    },
+    "source_url": "https://www.segye.com/newsView/20241025514962",
+    "reference_urls": [
+      "https://www.vogue.co.kr/2024/10/29/%eb%89%b4%ec%a7%84%ec%8a%a4-%ec%8b%9c%ec%83%81%ec%8b%9d-%eb%a3%a9%ec%97%90-%eb%93%b1%ec%9e%a5%ed%95%9c-%eb%89%b4-%ec%ba%90%eb%a6%ad%ed%84%b0/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-10-29-hype-boy-spotify-600m",
+    "date": "2024-10-29",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Hype Boy」Spotify再生6億回突破",
+      "en": "Hype Boy passes 600 million Spotify streams"
+    },
+    "summary": {
+      "ja": "ADORは10月29日、「Hype Boy」のSpotify累計再生数が6億回を超えたと発表した。",
+      "en": "On October 29, 2024, ADOR announced that Hype Boy had passed 600 million cumulative Spotify streams."
+    },
+    "detail": {
+      "ja": "ADORはSpotifyの集計を引用し、「Hype Boy」の累計再生数が6億回を超えたと発表した。「Hype Boy」はNewJeansで最初に1億回再生に到達した楽曲で、公開から98日で1億回を記録していた。",
+      "en": "Citing Spotify, ADOR said Hype Boy's cumulative streams had passed 600 million. Hype Boy was the first NewJeans song to reach 100 million plays on the platform, doing so in 98 days."
+    },
+    "source_url": "https://www.koreaherald.com/article/3834111",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "streaming",
+      "spotify"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-11-13-hype-boy-mv-200m-views",
+    "date": "2024-11-13",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Hype Boy」MV（Performance ver.1）YouTube再生2億回突破、NewJeans3作目",
+      "en": "Hype Boy (Performance ver.1) MV passes 200 million YouTube views, the group's third"
+    },
+    "summary": {
+      "ja": "ADORによると11月13日、「Hype Boy」Official MV（Performance ver.1）のYouTube再生回数が2億回を超え、「OMG」「Super Shy」に続く3作目の2億回MVとなった。",
+      "en": "ADOR said the Hype Boy Official MV (Performance ver.1) passed 200 million YouTube views on November 13, 2024, the group's third video to do so after OMG and Super Shy."
+    },
+    "detail": {
+      "ja": "2022年8月18日公開の「Hype Boy」Official MV（Performance ver.1）は、ワンテイクで撮影されたパフォーマンス中心の映像で、2023年4月30日にNewJeansのMVとして初めて1億回を突破していた。11月13日に2億回を超え、「OMG」（Performance ver.1）、「Super Shy」に続く3作目となった。",
+      "en": "Released August 18, 2022, the Hype Boy Official MV (Performance ver.1), a one-take performance video, had been the group's first MV to pass 100 million views on April 30, 2023. On November 13, 2024 it passed 200 million, following OMG (Performance ver.1) and Super Shy."
+    },
+    "source_url": "https://v.daum.net/v/20241114173743542",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "views",
+      "youtube"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-11-16-kgma-2024-best-artist",
+    "date": "2024-11-16",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第1回Korea Grand Music AwardsでBest Artist受賞",
+      "en": "Best Artist at the 1st Korea Grand Music Awards"
+    },
+    "summary": {
+      "ja": "第1回Korea Grand Music AwardsでBest Artist（本賞）を受賞した。",
+      "en": "NewJeans received a Best Artist award at the 1st Korea Grand Music Awards."
+    },
+    "detail": {
+      "ja": "2024年11月16日の第1回Korea Grand Music Awardsアーティストデーで、NewJeansはBest Artistを受賞した。Best Artistは(G)I-DLE、チョン・ドンウォン、イ・ヨンジ、NewJeans、P1Harmony、STAYCの6組が受賞し、NewJeansは同日Grand Artist（大賞）も受賞した。",
+      "en": "On November 16, 2024, NewJeans received a Best Artist award on the Artist Day of the 1st Korea Grand Music Awards, alongside (G)I-DLE, Jeong Dong-won, Lee Young-ji, P1Harmony and STAYC. NewJeans also won the Grand Artist Daesang the same night."
+    },
+    "source_url": "https://www.soompi.com/article/1703865wpp/winners-of-1st-korea-grand-music-awards-kgma-day-1",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-11-16-kgma-2024-grand-artist-daesang",
+    "date": "2024-11-16",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第1回Korea Grand Music AwardsでGrand Artist（大賞）受賞",
+      "en": "Grand Artist (Daesang) at the 1st Korea Grand Music Awards"
+    },
+    "summary": {
+      "ja": "11月16日、インスパイアアリーナで開催された第1回Korea Grand Music Awards（アーティストデー）で大賞のGrand Artistを受賞した。",
+      "en": "On November 16 at Inspire Arena, NewJeans won the Grand Artist Daesang at the inaugural Korea Grand Music Awards (Artist Day)."
+    },
+    "detail": {
+      "ja": "第1回Korea Grand Music Awards（KGMA）は2024年11月16日・17日に仁川のインスパイアアリーナで開催され、NewJeansは初日のアーティストデーに出演した。大賞にあたるGrand Artistと本賞のBest Artistを受賞し、4曲を披露した。",
+      "en": "The first Korea Grand Music Awards (KGMA) were held on November 16-17, 2024 at Inspire Arena in Incheon, with NewJeans appearing on the opening Artist Day. The group won the Grand Artist Daesang and a Best Artist award and performed four songs."
+    },
+    "source_url": "https://www.soompi.com/article/1703865wpp/winners-of-1st-korea-grand-music-awards-kgma-day-1",
+    "reference_urls": [
+      "https://www.sportskeeda.com/us/k-pop/from-seventeen-new-jeans-2024-korea-grand-music-awards-artist-day-complete-winners-list-performances-highlights"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-11-22-mama-2024-fans-choice-top-10-female",
+    "date": "2024-11-22",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 MAMA AWARDSでFans' Choice Top 10（Female）選出",
+      "en": "Fans' Choice Top 10 (Female) at the 2024 MAMA Awards"
+    },
+    "summary": {
+      "ja": "京セラドーム大阪で開催された2024 MAMA AWARDS（Chapter 1 JAPAN）でFans' Choice Top 10（Female）に選ばれた。",
+      "en": "NewJeans was named to the Fans' Choice Top 10 (Female) at the 2024 MAMA Awards Chapter 1 in Osaka."
+    },
+    "detail": {
+      "ja": "2024 MAMA AWARDSは11月21日にロサンゼルス、11月22日・23日に京セラドーム大阪で開催された。NewJeansはaespa、IVE、(G)I-DLE、BABYMONSTER、IU、JENNIE、イ・ヨンジ、TWICE、UNISとともにFans' Choice Top 10（Female）に選ばれた。",
+      "en": "The 2024 MAMA Awards were held on November 21 in Los Angeles and November 22-23 at Kyocera Dome Osaka. NewJeans was among the Fans' Choice Top 10 (Female) with aespa, IVE, (G)I-DLE, BABYMONSTER, IU, JENNIE, Lee Young-ji, TWICE and UNIS."
+    },
+    "source_url": "https://www.nme.com/news/music/here-are-all-the-winners-from-the-2024-mama-awards-3815463",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/2024_MAMA_Awards"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false,
+    "editor_note": "Date inferred (Fans' Choice Top 10 presenters credited on Nov 22 chapter per Wikipedia); not confirmed with Mnet."
+  },
+  {
+    "id": "record-2024-11-30-mma-2024-millions-top-10-how-sweet",
+    "date": "2024-11-30",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 Melon Music Awardsで『How Sweet』がMillions Top 10受賞",
+      "en": "Millions Top 10 for How Sweet at the 2024 Melon Music Awards"
+    },
+    "summary": {
+      "ja": "2024 Melon Music Awardsで『How Sweet』がMillions Top 10に選ばれた。",
+      "en": "How Sweet received the Millions Top 10 award at the 2024 Melon Music Awards."
+    },
+    "detail": {
+      "ja": "11月30日の2024 Melon Music Awardsで、ダブルシングル『How Sweet』がMillions Top 10を受賞した。NewJeansは同日Top 10も受賞した。",
+      "en": "On November 30, the double single How Sweet received the Millions Top 10 award at the 2024 Melon Music Awards; NewJeans also took the Top 10 award."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/2024_Melon_Music_Awards",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-11-30-mma-2024-top-10",
+    "date": "2024-11-30",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 Melon Music AwardsでTop 10受賞",
+      "en": "Top 10 Artist at the 2024 Melon Music Awards"
+    },
+    "summary": {
+      "ja": "11月30日にインスパイアアリーナで開催された2024 Melon Music AwardsでTop 10に選ばれた（3年連続）。",
+      "en": "NewJeans was named a Top 10 Artist at the 2024 Melon Music Awards at Inspire Arena on November 30, its third straight year."
+    },
+    "detail": {
+      "ja": "2024 Melon Music Awardsは11月30日、仁川のインスパイアアリーナで開催された。NewJeansはTop 10を受賞し、『How Sweet』でMillions Top 10も受賞した。Artist of the YearとBest Group（Female）の候補にも挙がっていた。",
+      "en": "The 2024 Melon Music Awards were held on November 30 at Inspire Arena in Incheon. NewJeans received the Top 10 award and Millions Top 10 for How Sweet, and was also a nominee for Artist of the Year and Best Group (Female)."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/2024_Melon_Music_Awards",
+    "reference_urls": [
+      "https://www.nme.com/news/music/melon-music-awards-2024-nominations-3813547"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false,
+    "editor_note": "Wikipedia ceremony page; Soompi winners list not fetched."
+  },
+  {
+    "id": "record-2024-12-03-rolling-stone-100-best-songs-2024-how-sweet",
+    "date": "2024-12-03",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「How Sweet」がRolling Stone「2024年のベストソング100」で35位",
+      "en": "How Sweet ranked No. 35 on Rolling Stone's 100 Best Songs of 2024"
+    },
+    "summary": {
+      "ja": "Rolling Stoneの「The 100 Best Songs of 2024」で「How Sweet」が35位に選ばれた。",
+      "en": "Rolling Stone placed How Sweet at No. 35 on its 100 Best Songs of 2024."
+    },
+    "detail": {
+      "ja": "Rolling Stoneが12月3日に発表した「The 100 Best Songs of 2024」で、マイアミベース調のタイトル曲「How Sweet」が35位にランクインした。",
+      "en": "On Rolling Stone's The 100 Best Songs of 2024, published December 3, the Miami bass-flavored title track How Sweet ranked No. 35."
+    },
+    "source_url": "https://www.rollingstone.com/music/music-lists/best-songs-of-2024-1235176339/",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/How_Sweet"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "year-end",
+      "list"
+    ],
+    "verified": false,
+    "editor_note": "Rolling Stone URL not fetched; date and rank from Wikipedia (Dec 3, 2024) and TenAsia (Dec 5)."
+  },
+  {
+    "id": "record-2024-12-27-aaa-2024-artist-of-the-year-daesang",
+    "date": "2024-12-27",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 Asia Artist AwardsでArtist of the Year（歌手部門・大賞）受賞",
+      "en": "Artist of the Year (Singer, Daesang) at the 2024 Asia Artist Awards"
+    },
+    "summary": {
+      "ja": "バンコクで開催された2024 AAAで歌手部門の大賞Artist of the Yearを受賞した（2年連続）。",
+      "en": "NewJeans won the Artist of the Year (Singer) grand prize at the 2024 AAA in Bangkok, its second straight year."
+    },
+    "detail": {
+      "ja": "2024 Asia Artist Awards（第9回）は12月27日、タイ・バンコク近郊のインパクト・チャレンジャーホールで開催された。NewJeansはArtist of the Year（歌手部門・大賞）、Best Artist賞（音楽部門）、「How Sweet」でBest Performance賞を受賞し、「Bubble Gum」「Supernatural」「How Sweet」を披露した。",
+      "en": "The 9th Asia Artist Awards were held on December 27, 2024 at Impact Challenger Hall near Bangkok, Thailand. NewJeans won Artist of the Year (Singer, Daesang), the Best Artist Award (Music) and the Best Performance Award for How Sweet, and performed Bubble Gum, Supernatural and How Sweet."
+    },
+    "source_url": "https://www.soompi.com/article/1712809wpp/winners-of-the-2024-asia-artist-awards",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/9th_Asia_Artist_Awards"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-12-27-aaa-2024-best-artist-award",
+    "date": "2024-12-27",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 Asia Artist AwardsでBest Artist賞受賞",
+      "en": "Best Artist Award at the 2024 Asia Artist Awards"
+    },
+    "summary": {
+      "ja": "2024 AAAで音楽部門のBest Artist賞を受賞した。",
+      "en": "NewJeans received the Best Artist Award (Music) at the 2024 AAA."
+    },
+    "detail": {
+      "ja": "2024 Asia Artist Awards（第9回）は12月27日、タイ・バンコク近郊のインパクト・チャレンジャーホールで開催された。NewJeansはArtist of the Year（歌手部門・大賞）、Best Artist賞（音楽部門）、「How Sweet」でBest Performance賞を受賞し、「Bubble Gum」「Supernatural」「How Sweet」を披露した。",
+      "en": "The 9th Asia Artist Awards were held on December 27, 2024 at Impact Challenger Hall near Bangkok, Thailand. NewJeans won Artist of the Year (Singer, Daesang), the Best Artist Award (Music) and the Best Performance Award for How Sweet, and performed Bubble Gum, Supernatural and How Sweet."
+    },
+    "source_url": "https://www.soompi.com/article/1712809wpp/winners-of-the-2024-asia-artist-awards",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/9th_Asia_Artist_Awards"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-12-27-aaa-2024-best-performance-how-sweet",
+    "date": "2024-12-27",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 Asia Artist Awardsで「How Sweet」がBest Performance賞受賞",
+      "en": "Best Performance Award for How Sweet at the 2024 Asia Artist Awards"
+    },
+    "summary": {
+      "ja": "2024 AAAで「How Sweet」がBest Performance賞を受賞した。",
+      "en": "How Sweet received the Best Performance Award at the 2024 AAA."
+    },
+    "detail": {
+      "ja": "2024 Asia Artist Awards（第9回）は12月27日、タイ・バンコク近郊のインパクト・チャレンジャーホールで開催された。NewJeansはArtist of the Year（歌手部門・大賞）、Best Artist賞（音楽部門）、「How Sweet」でBest Performance賞を受賞し、「Bubble Gum」「Supernatural」「How Sweet」を披露した。",
+      "en": "The 9th Asia Artist Awards were held on December 27, 2024 at Impact Challenger Hall near Bangkok, Thailand. NewJeans won Artist of the Year (Singer, Daesang), the Best Artist Award (Music) and the Best Performance Award for How Sweet, and performed Bubble Gum, Supernatural and How Sweet."
+    },
+    "source_url": "https://www.soompi.com/article/1712809wpp/winners-of-the-2024-asia-artist-awards",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/9th_Asia_Artist_Awards"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2024-12-30-japan-record-awards-66-excellent-work-supernatural",
+    "date": "2024-12-30",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第66回日本レコード大賞で「Supernatural」が優秀作品賞受賞",
+      "en": "Excellent Work Award for Supernatural at the 66th Japan Record Awards"
+    },
+    "summary": {
+      "ja": "第66回日本レコード大賞で日本デビューシングル「Supernatural」が優秀作品賞を受賞し、2年連続で大賞候補となった。",
+      "en": "Supernatural, the Japanese debut single, received the Excellent Work Award at the 66th Japan Record Awards, a second straight Grand Prix nomination."
+    },
+    "detail": {
+      "ja": "第66回日本レコード大賞の優秀作品賞10作品は11月21日に発表され、「Supernatural」は海外アーティストの作品として唯一選ばれた。12月30日の授賞式では「Supernatural」を披露した。前年は「Ditto」が同賞を受賞している。",
+      "en": "The ten Excellent Work Award songs for the 66th Japan Record Awards were announced on November 21, with Supernatural the only work by an overseas act. NewJeans performed Supernatural at the December 30 ceremony, a year after Ditto received the same award."
+    },
+    "source_url": "https://leisurebyte.com/66th-japan-record-awards-winners/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award",
+      "japan"
+    ],
+    "verified": false,
+    "editor_note": "Dated to the ceremony; award list announced Nov 21, 2024. Official TBS/JACOMPA page not fetched."
+  },
+  {
+    "id": "record-2025-01-01-omg-mv-300m-views",
+    "date": "2025-01-01",
+    "date_type": "event",
+    "date_precision": "month",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「OMG」MV YouTube再生3億回突破、NewJeans初",
+      "en": "OMG MV passes 300 million YouTube views, the group's first"
+    },
+    "summary": {
+      "ja": "2025年1月、「OMG」MVのYouTube再生回数が3億回を超え、NewJeansのMVとして初の3億回到達となった。",
+      "en": "In January 2025 the OMG music video passed 300 million YouTube views, the first NewJeans video to reach the mark."
+    },
+    "detail": {
+      "ja": "2023年1月に公開された「OMG」MVは、2025年1月にYouTube再生回数3億回を超えた。NewJeansのMVで3億回に到達したのはこれが初めてだった。",
+      "en": "Released in January 2023, the OMG music video passed 300 million YouTube views in January 2025, the first NewJeans video to reach that milestone."
+    },
+    "source_url": "https://respawn.outlookindia.com/pop-culture/pop-culture-news/newjeans-omg-hits-900m-streams-amid-ador-danielle-legal-rift",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "views",
+      "youtube"
+    ],
+    "verified": false,
+    "editor_note": "Single secondary source (Outlook India, Jan 2026) gives 'Jan 2025'; which upload (Performance ver.1 vs. the story MV) is not specified. Month precision."
+  },
+  {
+    "id": "record-2025-01-04-gda-39-cosmopolitan-artist-award",
+    "date": "2025-01-04",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第39回ゴールデンディスクアワードでCosmopolitan Artist賞受賞",
+      "en": "Cosmopolitan Artist Award at the 39th Golden Disc Awards"
+    },
+    "summary": {
+      "ja": "第39回ゴールデンディスクアワードでCosmopolitan Artist賞を受賞した。",
+      "en": "NewJeans received the Cosmopolitan Artist Award at the 39th Golden Disc Awards."
+    },
+    "detail": {
+      "ja": "2025年1月4日、福岡で開催された第39回ゴールデンディスクアワード初日でCosmopolitan Artist賞を受賞した。同日「How Sweet」でデジタル音源本賞も受賞した。",
+      "en": "On January 4, 2025 in Fukuoka, NewJeans received the Cosmopolitan Artist Award on Day 1 of the 39th Golden Disc Awards, the same night it won a Digital Song Bonsang for How Sweet."
+    },
+    "source_url": "https://soompi.com/article/1713809wpp/winners-of-2025-golden-disc-awards-day-1",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/winners-of-the-39th-golden-disc-awards-in-fukuoka-in-pictures/12262037"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2025-01-04-gda-39-digital-song-bonsang-how-sweet",
+    "date": "2025-01-04",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第39回ゴールデンディスクアワードで「How Sweet」がデジタル音源本賞受賞",
+      "en": "Digital Song Bonsang for How Sweet at the 39th Golden Disc Awards"
+    },
+    "summary": {
+      "ja": "福岡のみずほPayPayドームで開催された第39回ゴールデンディスクアワードで「How Sweet」がデジタル音源本賞を受賞した（3年連続）。",
+      "en": "How Sweet earned NewJeans a Digital Song Bonsang at the 39th Golden Disc Awards at Mizuho PayPay Dome Fukuoka, a third straight year."
+    },
+    "detail": {
+      "ja": "第39回ゴールデンディスクアワードは2025年1月4日・5日に福岡のみずほPayPayドームで開催され、NewJeansは初日に出演した。「How Sweet」でデジタル音源本賞を受賞し、グローバルなファッションのトレンドを牽引するアーティストに贈られるCosmopolitan Artist賞も受賞、「Supernatural」と「How Sweet」を披露した。",
+      "en": "The 39th Golden Disc Awards were held on January 4-5, 2025 at Mizuho PayPay Dome Fukuoka, with NewJeans appearing on Day 1. The group won a Digital Song Bonsang for How Sweet and the Cosmopolitan Artist award, given to an artist leading global fashion trends, and performed Supernatural and How Sweet."
+    },
+    "source_url": "https://soompi.com/article/1713809wpp/winners-of-2025-golden-disc-awards-day-1",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/winners-of-the-39th-golden-disc-awards-in-fukuoka-in-pictures/12262037"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2025-02-02-riaj-supernatural-streaming-gold",
+    "date": "2025-02-02",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「Supernatural」ゴールド",
+      "en": "RIAJ streaming certification: Supernatural certified gold"
+    },
+    "summary": {
+      "ja": "日本レコード協会の2月のストリーミング認定で「Supernatural」が5,000万回超のゴールドに認定された。",
+      "en": "In the RIAJ's February streaming certifications, Supernatural was certified gold for over 50 million streams in Japan."
+    },
+    "detail": {
+      "ja": "日本レコード協会（RIAJ）の2025年2月発表のストリーミング認定で、日本デビューシングルの表題曲「Supernatural」が累計5,000万回超のゴールド認定を受けた。",
+      "en": "In the Recording Industry Association of Japan's streaming certifications announced in February 2025, the Japanese debut title track Supernatural received gold certification for over 50 million streams."
+    },
+    "source_url": "https://www.soompi.com/article/1719747wpp/twice-aespa-newjeans-seventeen-and-bigbang-earn-riaj-platinum-and-gold-certifications-for-streaming-in-japan",
+    "reference_urls": [
+      "https://www.riaj.or.jp/f/data/cert/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "japan",
+      "streaming"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2025-02-15-hanteo-music-awards-32-artist-of-the-year-bonsang",
+    "date": "2025-02-15",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第32回Hanteo Music AwardsでArtist of the Year（本賞）受賞",
+      "en": "Artist of the Year (Bonsang) at the 32nd Hanteo Music Awards"
+    },
+    "summary": {
+      "ja": "奨忠体育館で開催された第32回Hanteo Music Awards（2月15〜16日）でArtist of the Year本賞を受賞した（2年連続）。",
+      "en": "NewJeans won an Artist of the Year Bonsang at the 32nd Hanteo Music Awards, held February 15-16 at Jangchung Arena, its second straight year."
+    },
+    "detail": {
+      "ja": "第32回Hanteo Music Awardsは2025年2月15日・16日にソウルの奨忠体育館で開催され、2024年1月1日〜12月31日のHanteoチャート実績をもとに表彰が行われた。NewJeansはArtist of the Year（本賞）を受賞した。大賞のBest ArtistはaespaとTXTが受賞した。",
+      "en": "The 32nd Hanteo Music Awards were held on February 15-16, 2025 at Jangchung Arena in Seoul, based on Hanteo Chart data for January 1 to December 31, 2024. NewJeans received an Artist of the Year Bonsang; the Daesang-level Best Artist and Best Performance prizes went to aespa and TXT."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/32nd_Hanteo_Music_Awards",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false,
+    "editor_note": "Which of the two days the Bonsang was presented is not stated; dated to Day 1. Unverified against Hanteo's own list."
+  },
+  {
+    "id": "record-2025-04-10-circle-cert-how-sweet-million",
+    "date": "2025-04-10",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart認定：『How Sweet』ミリオン認定",
+      "en": "Circle Chart certification: How Sweet certified million"
+    },
+    "summary": {
+      "ja": "Circle Chartの4月認定で『How Sweet』が100万枚超のミリオン認定を受けた。",
+      "en": "In Circle Chart's April 2025 certifications, How Sweet was certified million for over 1,000,000 units."
+    },
+    "detail": {
+      "ja": "Circle Chart（韓国音楽コンテンツ協会）の2025年4月認定で、2024年5月発売のダブルシングル『How Sweet』が出荷100万枚超のミリオン認定を受けた。『How Sweet』は2024年7月にトリプルプラチナ認定を受けていた。",
+      "en": "In Circle Chart's (KMCA) April 2025 certifications, the May 2024 double single How Sweet received a million certification for over 1,000,000 units, following its triple platinum certification in July 2024."
+    },
+    "source_url": "https://circlechart.kr/page_chart/certification.circle",
+    "reference_urls": [
+      "https://breezewiki.discard.no/kpop/wiki/How_Sweet"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "million-seller"
+    ],
+    "verified": false,
+    "editor_note": "Date (Apr 10, 2025) and the Jul 11, 2024 triple platinum from a fan wiki citing Soompi; not independently verified. Certified during the activity pause."
+  },
+  {
+    "id": "record-2025-05-16-billboard-21-under-21-2025",
+    "date": "2025-05-16",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Billboard「21 Under 21」2025年版に2年連続選出",
+      "en": "Named to Billboard's 21 Under 21 for a second straight year (2025)"
+    },
+    "summary": {
+      "ja": "Billboardが5月16日（現地時間）に発表した2025年の「21 Under 21」にNewJeansが2年連続で選ばれた。",
+      "en": "NewJeans was named to Billboard's 21 Under 21 list for 2025, announced May 16 (local time), for a second consecutive year."
+    },
+    "detail": {
+      "ja": "Billboardの2025年版「21 Under 21」にNewJeansとKATSEYEが選ばれた。最年長メンバーMINJIが21歳のNewJeansは2年連続の選出となった。",
+      "en": "Billboard's 2025 edition of 21 Under 21 included NewJeans and KATSEYE. NewJeans, whose oldest member Minji was 21, made the list for the second year running."
+    },
+    "source_url": "https://www.koreajoongangdaily.com/entertainment/newjeans-katseye-named-to-billboards-21-under-21-list-in-2025/11664441",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "list"
+    ],
+    "verified": false,
+    "note": "2025年3月の仮処分決定により活動休止中の選出。"
+  },
+  {
+    "id": "record-2025-05-21-music-awards-japan-2025-best-kpop-song-ditto",
+    "date": "2025-05-21",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "MUSIC AWARDS JAPAN 2025で「Ditto」が最優秀K-Pop楽曲賞受賞",
+      "en": "Best K-Pop Song in Japan for Ditto at Music Awards Japan 2025"
+    },
+    "summary": {
+      "ja": "第1回MUSIC AWARDS JAPAN（京都・ロームシアター京都）で「Ditto」が最優秀K-Pop楽曲賞に選ばれた。",
+      "en": "Ditto was named Best K-Pop Song in Japan at the inaugural Music Awards Japan in Kyoto."
+    },
+    "detail": {
+      "ja": "第1回MUSIC AWARDS JAPAN 2025は5月21日・22日に京都で開催され、各部門の受賞が21日に発表された。「Ditto」はBillboard JAPANとオリコンの客観的指標と5,000人以上の音楽業界関係者の投票により最優秀K-Pop楽曲賞に選ばれ、スタッフが代理で受賞した。",
+      "en": "The first Music Awards Japan 2025 was held on May 21-22 in Kyoto, with category awards announced on the 21st. Ditto won Best K-Pop Song in Japan, decided by Billboard Japan and Oricon data together with votes from more than 5,000 music-industry professionals; staff accepted the award on the group's behalf."
+    },
+    "source_url": "https://www.oricon.co.jp/news/2385936/full/",
+    "reference_urls": [
+      "https://sbsstar.net/article/N1008110434/newjeans-continues-to-impact-japan-despite-hiatus-wins-best-kpop-song"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award",
+      "japan"
+    ],
+    "verified": false,
+    "note": "2025年3月の仮処分決定により活動休止中の受賞。"
+  },
+  {
+    "id": "record-2025-11-27-riaj-ditto-triple-platinum",
+    "date": "2025-11-27",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「Ditto」トリプルプラチナ（K-POPガールズグループ初）",
+      "en": "RIAJ streaming certification: Ditto triple platinum, a first for a K-pop girl group"
+    },
+    "summary": {
+      "ja": "日本レコード協会は「Ditto」が2025年10月時点で累計3億回を超えたとしてトリプルプラチナに認定した。K-POPガールズグループの楽曲では初。",
+      "en": "The RIAJ certified Ditto triple platinum for passing 300 million cumulative streams as of October 2025, the first K-pop girl group song to reach that level in Japan."
+    },
+    "detail": {
+      "ja": "日本レコード協会（RIAJ）は11月27日、「Ditto」が2025年10月時点で日本での累計ストリーミング3億回を超え、トリプルプラチナ認定を受けたと確認した。K-POPガールズグループの楽曲でストリーミングのトリプルプラチナ認定は初めて。NewJeansはこのほか「OMG」「Hype Boy」がダブルプラチナ、「ETA」「Super Shy」「Attention」がプラチナ認定を受けている。",
+      "en": "On November 27, the Recording Industry Association of Japan confirmed that Ditto had passed 300 million cumulative streams in Japan as of October 2025 and received triple platinum certification, the first for a K-pop girl group song in the streaming category. NewJeans also held double platinum for OMG and Hype Boy and platinum for ETA, Super Shy and Attention."
+    },
+    "source_url": "https://sbsstar.net/article/N1008346951/amid-turmoil-newjeans-ditto-goes-triple-platinum-in-japan",
+    "reference_urls": [
+      "https://www.riaj.or.jp/f/data/cert/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "japan",
+      "streaming"
+    ],
+    "verified": false,
+    "note": "活動休止中の認定。",
+    "editor_note": "SBS article says 'on the 27th' (Nov 27, 2025 per article date); RIAJ's own list not fetched."
+  },
+  {
+    "id": "record-2025-12-19-super-shy-spotify-800m",
+    "date": "2025-12-19",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Super Shy」Spotify再生8億回突破",
+      "en": "Super Shy passes 800 million Spotify streams"
+    },
+    "summary": {
+      "ja": "Spotifyによると「Super Shy」は12月19日時点で累計8億121万回再生され、「OMG」「Ditto」に続く3曲目の8億回到達曲となった。",
+      "en": "According to Spotify, Super Shy had 800,121,788 cumulative streams as of December 19, 2025, the group's third song past 800 million after OMG and Ditto."
+    },
+    "detail": {
+      "ja": "Spotifyは12月21日、「Super Shy」の累計再生数が19日時点で800,121,788回になったと発表した。この時点でNewJeansは1億回超の楽曲が15曲、「Hype Boy」が7億回超、「Attention」が5億回超、「New Jeans」と「ETA」が4億回超で、全楽曲の累計は70億回を超えていた。",
+      "en": "Spotify announced on December 21 that Super Shy had reached 800,121,788 streams as of the 19th. At that point NewJeans had 15 songs above 100 million streams, with Hype Boy above 700 million, Attention above 500 million and New Jeans and ETA above 400 million, and a catalog total above 7 billion."
+    },
+    "source_url": "https://sports.khan.co.kr/en/article/202512210949477",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "streaming",
+      "spotify"
+    ],
+    "verified": false,
+    "note": "活動休止中の記録。"
+  },
+  {
+    "id": "record-2026-01-14-omg-spotify-900m",
+    "date": "2026-01-14",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「OMG」Spotify再生9億回突破、NewJeans初",
+      "en": "OMG passes 900 million Spotify streams, the group's first"
+    },
+    "summary": {
+      "ja": "Spotifyによると「OMG」は1月14日時点で累計900,136,493回再生され、NewJeansの楽曲として初めて9億回を超えた。",
+      "en": "Spotify data showed OMG at 900,136,493 cumulative streams as of January 14, 2026, the first NewJeans song past 900 million."
+    },
+    "detail": {
+      "ja": "Spotifyが1月16日に公表した集計で、「OMG」の累計再生数は14日時点で900,136,493回となった。2025年3月に8億回を超えてから約10か月での到達。NewJeansの1億回超楽曲は15曲で、全楽曲の累計は72億回を超えていた。",
+      "en": "Spotify data reported on January 16 put OMG at 900,136,493 streams as of the 14th, about ten months after it passed 800 million in March 2025. NewJeans had 15 songs above 100 million streams and a catalog total above 7.2 billion."
+    },
+    "source_url": "https://sports.khan.co.kr/en/article/202601160853427",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "streaming",
+      "spotify"
+    ],
+    "verified": false,
+    "note": "活動休止中の記録。"
+  },
+  {
+    "id": "record-2026-02-20-new-jeans-song-spotify-500m",
+    "date": "2026-02-20",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「New Jeans」Spotify再生5億回突破、6曲目",
+      "en": "New Jeans passes 500 million Spotify streams, the group's sixth song to do so"
+    },
+    "summary": {
+      "ja": "Spotifyによると『Get Up』収録曲「New Jeans」は2月20日時点で累計500,296,407回再生され、5億回を超えた6曲目となった。",
+      "en": "Spotify data showed the Get Up track New Jeans at 500,296,407 cumulative streams as of February 20, 2026, the sixth NewJeans song past 500 million."
+    },
+    "detail": {
+      "ja": "Spotifyが2月22日に公表した集計で、2ndミニアルバム『Get Up』収録曲「New Jeans」の累計再生数は20日時点で500,296,407回となった。「OMG」9億回超、「Super Shy」「Ditto」8億回超、「Hype Boy」7億回超、「Attention」5億回超に続く6曲目の5億回到達で、全楽曲の累計は73億回を超えていた。",
+      "en": "Spotify data reported on February 22 put New Jeans, from the second EP Get Up, at 500,296,407 streams as of the 20th, the sixth song past 500 million after OMG (900 million+), Super Shy and Ditto (800 million+), Hype Boy (700 million+) and Attention (500 million+). The catalog total exceeded 7.3 billion."
+    },
+    "source_url": "https://sports.khan.co.kr/en/article/202602221142007",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "streaming",
+      "spotify"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2026-04-01-ditto-spotify-900m",
+    "date": "2026-04-01",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Ditto」Spotify再生9億回突破、2曲目",
+      "en": "Ditto passes 900 million Spotify streams, the group's second"
+    },
+    "summary": {
+      "ja": "Spotifyによると「Ditto」は4月1日時点で累計901,106,845回再生され、「OMG」に続く2曲目の9億回到達曲となった。",
+      "en": "Spotify data showed Ditto at 901,106,845 cumulative streams as of April 1, 2026, the second NewJeans song past 900 million after OMG."
+    },
+    "detail": {
+      "ja": "Spotifyが4月3日に公表した集計で、2022年12月19日公開の「Ditto」の累計再生数は4月1日時点で901,106,845回となった。NewJeansの1億回超楽曲は15曲、全楽曲の累計は74億回を超えていた。",
+      "en": "Spotify data reported on April 3 put Ditto, released December 19, 2022, at 901,106,845 streams as of April 1. NewJeans had 15 songs above 100 million streams and a catalog total above 7.4 billion."
+    },
+    "source_url": "https://sports.khan.co.kr/en/article/202604040027007",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "streaming",
+      "spotify"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2026-07-10-right-now-spotify-100m-all-tracks",
+    "date": "2026-07-10",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Right Now」Spotify再生1億回突破、全収録曲が1億回以上に",
+      "en": "Right Now passes 100 million Spotify streams; every released track now above 100 million"
+    },
+    "summary": {
+      "ja": "Spotifyによると「Right Now」は7月10日時点で累計1億回を超え、NewJeansの1億回超楽曲は16曲となり、発表済みの全収録曲が1億回以上となった。",
+      "en": "Spotify data showed Right Now passing 100 million streams as of July 10, 2026, the 16th NewJeans song to do so and the last of the group's released tracks to reach the mark."
+    },
+    "detail": {
+      "ja": "Spotifyが7月12日に公表した集計で、日本デビューシングル『Supernatural』収録曲「Right Now」の累計再生数が10日時点で1億回を超えた。これにより1stミニアルバム、2ndミニアルバム、1stシングル、2枚のダブルシングルに収録された全楽曲が1億回以上となった。",
+      "en": "Spotify data reported on July 12 showed Right Now, the B-side of the Japanese debut single Supernatural, passing 100 million streams as of the 10th. Every track on the group's two EPs, first single and two double singles had now passed 100 million."
+    },
+    "source_url": "https://en.edaily.co.kr/news/eda202607125092/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "streaming",
+      "spotify"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2026-08-18-circle-cert-hype-boy-triple-platinum-cookie-platinum",
+    "date": "2026-08-18",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart認定：「Hype Boy」ストリーミング・トリプルプラチナ、「Cookie」プラチナ",
+      "en": "Circle Chart certification: Hype Boy triple platinum, Cookie platinum for streaming"
+    },
+    "summary": {
+      "ja": "Circle Chartの8月認定で「Hype Boy」が3億ストリーミング超のトリプルプラチナ、「Cookie」が1億回超のプラチナに認定された。",
+      "en": "In Circle Chart's August 2026 certifications, Hype Boy was certified triple platinum for over 300 million streams and Cookie platinum for over 100 million."
+    },
+    "detail": {
+      "ja": "Circle Chart（韓国音楽コンテンツ協会）の2026年8月のストリーミング認定で、「Hype Boy」が累計3億回超のトリプルプラチナ、「Cookie」が累計1億回超のプラチナに認定された。「Hype Boy」は2023年3月にプラチナ認定を受けていた。",
+      "en": "In Circle Chart's (KMCA) August 2026 streaming certifications, Hype Boy received triple platinum for over 300 million streams and Cookie platinum for over 100 million. Hype Boy had first been certified platinum in March 2023."
+    },
+    "source_url": "https://www.soompi.com/article/1863773wpp/riize-boynextdoor-stray-kids-treasure-ateez-newjeans-cortis-hearts2hearts-and-more-earn-circle-million-and-platinum-certifications",
+    "reference_urls": [
+      "https://circlechart.kr/page_chart/certification.circle"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "streaming"
+    ],
+    "verified": false,
+    "editor_note": "Dated to the Soompi roundup (Aug 18, 2026)."
+  },
+  {
+    "id": "record-2026-08-18-spotify-8-billion-streams",
+    "date": "2026-08-18",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Spotify累計再生80億回突破",
+      "en": "NewJeans pass 8 billion cumulative Spotify streams"
+    },
+    "summary": {
+      "ja": "ADORによると8月18日時点でNewJeans全楽曲のSpotify累計再生数は8,020,095,363回に達し、デビューから約4年1か月で80億回を超えた。",
+      "en": "ADOR said NewJeans' songs had 8,020,095,363 cumulative Spotify streams as of August 18, 2026, passing 8 billion about four years and one month after debut."
+    },
+    "detail": {
+      "ja": "ADORが8月22日に発表した集計で、全楽曲のSpotify累計再生数は8月18日時点で8,020,095,363回となった。2024年9月の50億回から新曲の発表がないまま約2年で30億回を積み上げた。曲別では「Ditto」「OMG」が9億回超、「Super Shy」が8億回超、「Hype Boy」が7億回超、「New Jeans」「Attention」が5億回超で、前月の月間リスナーは約1,328万人だった。",
+      "en": "In figures ADOR announced on August 22, the catalog's cumulative Spotify streams stood at 8,020,095,363 as of August 18. The group had added about 3 billion streams in roughly two years since passing 5 billion in September 2024, without releasing new songs. Ditto and OMG were above 900 million, Super Shy above 800 million, Hype Boy above 700 million and New Jeans and Attention above 500 million; monthly listeners the previous month were about 13.28 million."
+    },
+    "source_url": "https://en.edaily.co.kr/news/eda202608225066",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "streaming",
+      "spotify"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2026-09-06-super-shy-spotify-900m",
+    "date": "2026-09-06",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Super Shy」Spotify再生9億回突破、3曲目",
+      "en": "Super Shy passes 900 million Spotify streams, the group's third"
+    },
+    "summary": {
+      "ja": "ADORは9月6日、「Super Shy」のSpotify累計再生数が9億回を超えたと発表した（9月4日時点948,670,000回）。",
+      "en": "On September 6, 2026, ADOR announced that Super Shy had passed 900 million Spotify streams, with 948,670,000 as of September 4."
+    },
+    "detail": {
+      "ja": "ADORの発表によると、「Super Shy」のSpotify累計再生数は9月4日時点で948,670,000回となり、「OMG」「Ditto」に続きNewJeansで3曲目の9億回到達曲となった。",
+      "en": "According to ADOR, Super Shy had 948,670,000 cumulative Spotify streams as of September 4, making it the third NewJeans song past 900 million after OMG and Ditto."
+    },
+    "source_url": "https://en.edaily.co.kr/news/eda202609065223",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "streaming",
+      "spotify"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date used; the 900M crossing itself was earlier (count was 948.67M on Sept 4). Korean outlets gave a slightly different figure (900,048,067)."
+  },
+  {
+    "id": "record-2026-10-05-super-shy-mv-300m-views",
+    "date": "2026-10-05",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Super Shy」MV YouTube再生3億回突破、NewJeans2作目",
+      "en": "Super Shy MV passes 300 million YouTube views, the group's second"
+    },
+    "summary": {
+      "ja": "10月5日午後11時ごろ（KST）、「Super Shy」MVのYouTube再生回数が3億回を超え、「OMG」に続くNewJeans2作目の3億回MVとなった。",
+      "en": "At around 11 p.m. KST on October 5, 2026, the Super Shy MV passed 300 million YouTube views, the group's second video to reach the mark after OMG."
+    },
+    "detail": {
+      "ja": "2023年7月7日に公開された「Super Shy」MVは、公開から約3年3か月で3億回に到達した。2024年7月に2億回を超えており、NewJeansのMVで3億回に達したのは「OMG」に続き2作目。",
+      "en": "Released July 7, 2023, the Super Shy MV reached 300 million views about three years and three months later, having passed 200 million in July 2024. It is the second NewJeans video to reach 300 million, after OMG."
+    },
+    "source_url": "https://otakukart.com/newjeans-super-shy-surpasses-300-million-views-becomes-groups-2nd-mv-to-reach-milestone/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "views",
+      "youtube"
+    ],
+    "verified": false,
+    "editor_note": "Otakukart (Oct 6, 2026) citing Soompi; the Soompi article itself was not located."
   }
 ]
