@@ -25,11 +25,11 @@
   const WD_JA = ["日", "月", "火", "水", "木", "金", "土"];
   const KIND_TAGS = ["teaser", "trailer", "concept-film", "lyric-video", "track-video", "dance-practice", "performance", "stage-cam", "audition", "pre-debut", "announcement"];
 
-  const state = { items: [], eras: [], images: {}, sprites: null, pages: [], byDate: {}, cur: -1, mode: "cover", showMeta: false, cats: new Set(Object.keys(CATS)), tocMonth: null, lang: "ja" };
+  const state = { items: [], eras: [], images: {}, sprites: null, xposts: {}, pages: [], byDate: {}, cur: -1, mode: "cover", showMeta: false, cats: new Set(Object.keys(CATS)), tocMonth: null, lang: "ja" };
   const L = o => (o ? (o[state.lang] || o.ja || o.en || "") : "");
 
   const $ = (sel, root = document) => root.querySelector(sel);
-  const el = (tag, attrs = {}, text) => { const n = document.createElement(tag); for (const [k, v] of Object.entries(attrs)) { if (v == null) continue; if (k === "class") n.className = v; else n.setAttribute(k, v); } if (text != null) n.textContent = text; return n; };
+  const el = (tag, attrs = {}, ...kids) => { const n = document.createElement(tag); for (const [k, v] of Object.entries(attrs)) { if (v == null) continue; if (k === "class") n.className = v; else n.setAttribute(k, v); } for (const c of kids) { if (c == null) continue; n.append(c instanceof Node ? c : String(c)); } return n; };
   const utc = d => Date.UTC(+d.slice(0, 4), +d.slice(5, 7) - 1, +d.slice(8, 10));
   const dayNum = date => Math.round((utc(date) - utc(DEBUT)) / 86400000) + 1;
   const dayLabel = date => (date < DEBUT ? "" : `DAY ${dayNum(date)}`);
@@ -69,6 +69,7 @@
     state.items = lists.flat().sort((a, b) => (sortKey(a) < sortKey(b) ? -1 : 1));
     try { state.eras = await (await fetch("data/eras.json", { cache: "no-store" })).json(); } catch (_) { state.eras = []; }
     try { const r = await fetch("media/auto/index.json", { cache: "no-store" }); if (r.ok) state.images = await r.json(); } catch (_) {}
+    try { const r = await fetch("media/x/posts.json", { cache: "no-store" }); if (r.ok) state.xposts = await r.json(); } catch (_) {}
     if (window.NJAS_SPRITES) { try { const r = await fetch(window.NJAS_SPRITES, { cache: "no-store" }); if (r.ok) state.sprites = await r.json(); } catch (_) {} }
     buildPages();
   }
@@ -232,7 +233,9 @@
       ($(".detail", node) || $(".desc", node)).after(dl);
     }
     const img = imageOf(it), isYt = it.media && it.media.type === "youtube" && it.media.ref;
-    if (img) {
+    const xpost = it.media && it.media.type === "x" ? xPostOf(it.media.ref) : null;
+    if (xpost) { const box = $(".media", node); box.hidden = false; box.classList.add("xcard-box"); box.appendChild(xCard(it, xpost)); }
+    else if (img) {
       const fig = $(".thumb", node); fig.hidden = false;
       if (img.sprite) fig.appendChild(spriteCanvas(img.sprite, "thumb-cv")); else fig.appendChild(el("img", { src: img.src, alt: "", loading: "lazy", decoding: "async" }));
       if (isYt && !window.NJAS_NO_EMBED) {
@@ -245,26 +248,18 @@
       } else fig.addEventListener("click", () => openLightbox(it, img));
     }
     if (it.local_assets && it.local_assets.length > 1) { const box = $(".assets", node); box.hidden = false; for (const pth of it.local_assets.slice(1)) { const a = el("a", { href: "media/" + pth, target: "_blank", rel: "noopener" }); a.appendChild(el("img", { src: "media/" + pth, alt: it.title.ja, loading: "lazy" })); box.appendChild(a); } }
-    // official embeds for SNS posts (production only; the artifact host blocks third-party scripts)
-    if (!window.NJAS_NO_EMBED && it.category === "sns") {
-      const url = (it.media && it.media.type === "x" && it.media.ref) || (it.platform === "instagram" && /instagram\.com\/(p|reel|tv)\//.test(it.source_url) ? it.source_url : null);
-      if (url && it.platform === "x") {
-        const box = $(".media", node); box.hidden = false; box.classList.add("embed");
-        const bq = el("blockquote", { class: "twitter-tweet", "data-dnt": "true", "data-theme": (document.documentElement.dataset.theme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light")) });
-        bq.appendChild(el("a", { href: url.replace("x.com", "twitter.com") }, url)); box.appendChild(bq);
-        loadScript("https://platform.twitter.com/widgets.js", () => window.twttr?.widgets?.load(box));
-        $(".thumb", node).hidden = true;
-      } else if (url && it.platform === "instagram") {
-        const box = $(".media", node); box.hidden = false; box.classList.add("embed");
-        const bq = el("blockquote", { class: "instagram-media", "data-instgrm-permalink": url.split("?")[0], "data-instgrm-version": "14" });
-        bq.appendChild(el("a", { href: url }, url)); box.appendChild(bq);
-        loadScript("https://www.instagram.com/embed.js", () => window.instgrm?.Embeds?.process());
-        $(".thumb", node).hidden = true;
-      }
+    // official Instagram embed (production only; the artifact host blocks third-party scripts). X posts use the native card above.
+    if (!window.NJAS_NO_EMBED && it.category === "sns" && it.platform === "instagram" && /instagram\.com\/(p|reel|tv)\//.test(it.source_url)) {
+      const url = it.source_url;
+      const box = $(".media", node); box.hidden = false; box.classList.add("embed");
+      const bq = el("blockquote", { class: "instagram-media", "data-instgrm-permalink": url.split("?")[0], "data-instgrm-version": "14" });
+      bq.appendChild(el("a", { href: url }, url)); box.appendChild(bq);
+      loadScript("https://www.instagram.com/embed.js", () => window.instgrm?.Embeds?.process());
+      $(".thumb", node).hidden = true;
     }
     const links = $(".links", node);
     if (isYt) links.appendChild(el("a", { href: `https://www.youtube.com/watch?v=${it.media.ref}`, target: "_blank", rel: "noopener" }, "youtube"));
-    if (it.media && it.media.type === "x" && it.media.ref) links.appendChild(el("a", { href: it.media.ref, target: "_blank", rel: "noopener" }, "open post"));
+    if (it.media && it.media.type === "x" && it.media.ref) { const gone = !xpost && state.xposts[xStatusId(it.media.ref)]?.unavailable; links.appendChild(el("a", { href: it.media.ref, target: "_blank", rel: "noopener", class: gone ? "gone" : "" }, gone ? (state.lang === "ja" ? "元の投稿（削除済み）" : "original post (removed)") : (state.lang === "ja" ? "Xで開く" : "open on X"))); }
     links.appendChild(el("a", { href: it.source_url, target: "_blank", rel: "noopener" }, "source"));
     for (const [k, u] of Object.entries(it.links || {})) links.appendChild(el("a", { href: u, target: "_blank", rel: "noopener", class: "svc" }, k.replace("_", " ")));
     if (state.showMeta) (it.reference_urls || []).forEach((u, i) => links.appendChild(el("a", { href: u, target: "_blank", rel: "noopener" }, `ref ${i + 1}`)));
@@ -274,6 +269,58 @@
   }
 
   const sheets = {};
+  /* ---------- X post cards (data pre-fetched by scripts/fetch_x.py) ---------- */
+  function xStatusId(url) { const m = /(?:x|twitter)\.com\/[^/]+\/status\/(\d+)/.exec(url || ""); return m ? m[1] : null; }
+  function xPostOf(url) { const id = xStatusId(url); const p = id && state.xposts[id]; return p && !p.unavailable ? p : null; }
+  function xImage(file) { const sp = state.sprites && state.sprites["x/" + file]; return sp ? { sprite: sp } : { src: "media/x/" + file }; }
+  function xTime(iso) {
+    if (!iso) return ""; const d = new Date(new Date(iso).getTime() + 9 * 3600 * 1000);
+    const z = n => String(n).padStart(2, "0");
+    return `${d.getUTCFullYear()}.${z(d.getUTCMonth() + 1)}.${z(d.getUTCDate())} ${z(d.getUTCHours())}:${z(d.getUTCMinutes())} KST`;
+  }
+  function xText(text) {
+    const p = el("p", { class: "x-text" });
+    const re = /(https?:\/\/\S+)|(#[\p{L}\p{N}_]+)|(@[A-Za-z0-9_]{1,15})/gu; let last = 0, m;
+    while ((m = re.exec(text))) {
+      if (m.index > last) p.appendChild(document.createTextNode(text.slice(last, m.index)));
+      const href = m[1] ? m[1] : m[2] ? `https://x.com/hashtag/${encodeURIComponent(m[2].slice(1))}` : `https://x.com/${m[3].slice(1)}`;
+      p.appendChild(el("a", { href, target: "_blank", rel: "noopener" }, m[1] ? m[1].replace(/^https?:\/\//, "") : m[0]));
+      last = m.index + m[0].length;
+    }
+    if (last < text.length) p.appendChild(document.createTextNode(text.slice(last)));
+    return p;
+  }
+  function xCard(it, post) {
+    const card = el("article", { class: "xcard" });
+    const head = el("header", { class: "x-head" });
+    const av = post.author?.avatar ? xImage(post.author.avatar) : null;
+    if (av) head.appendChild(av.sprite ? spriteCanvas(av.sprite, "x-avatar") : el("img", { class: "x-avatar", src: av.src, alt: "", loading: "lazy" }));
+    head.appendChild(el("div", { class: "x-names" }, el("span", { class: "x-name" }, post.author?.name || ""), el("span", { class: "x-handle mono" }, "@" + (post.author?.screen_name || ""))));
+    head.appendChild(el("a", { class: "x-mark mono", href: post.url, target: "_blank", rel: "noopener", "aria-label": "Open on X" }, "X"));
+    card.appendChild(head);
+    if (post.text) card.appendChild(xText(post.text));
+    if (post.media && post.media.length) {
+      const grid = el("div", { class: "x-media n" + Math.min(post.media.length, 4) });
+      post.media.forEach(me => {
+        const im = xImage(me.file);
+        const fig = el("figure", { class: "x-fig" + (me.type !== "photo" ? " is-video" : "") });
+        fig.style.aspectRatio = `${me.w} / ${me.h}`;
+        fig.appendChild(im.sprite ? spriteCanvas(im.sprite, "x-img") : el("img", { class: "x-img", src: im.src, alt: "", loading: "lazy", decoding: "async" }));
+        if (me.type !== "photo") { fig.appendChild(el("a", { class: "play mono", href: post.url, target: "_blank", rel: "noopener" }, "▶ " + (me.type === "gif" ? "GIF" : "VIDEO") + " ON X")); }
+        else fig.addEventListener("click", () => openLightbox(it, { sprite: im.sprite, src: im.src, from: post.url }));
+        grid.appendChild(fig);
+      });
+      card.appendChild(grid);
+    }
+    if (post.quote) {
+      const q = el("blockquote", { class: "x-quote" });
+      q.appendChild(el("div", { class: "x-names" }, el("span", { class: "x-name" }, post.quote.author?.name || ""), el("span", { class: "x-handle mono" }, "@" + (post.quote.author?.screen_name || ""))));
+      if (post.quote.text) q.appendChild(xText(post.quote.text));
+      card.appendChild(q);
+    }
+    card.appendChild(el("footer", { class: "x-foot mono" }, el("span", {}, xTime(post.created_at)), el("a", { href: post.url, target: "_blank", rel: "noopener" }, state.lang === "ja" ? "Xで見る ↗" : "View on X ↗")));
+    return card;
+  }
   function withSheet(src, cb) {
     const s = sheets[src];
     if (s && s.complete && s.naturalWidth) { cb(s); return; }
@@ -408,32 +455,33 @@
     mnav.append(pb, nb);
     nav.append(back, mnav);
     body.appendChild(el("h3", { class: "toc-month-title" }, `${ym.slice(0, 4)}年${+ym.slice(5, 7)}月`));
-    let any = false;
+    // flat list: one row per entry (date · title · category); unknown days stay as a date-only row
+    let any = false, lastDate = null;
     for (const { p, i } of days) {
       if (p.date.slice(0, 7) !== ym) continue;
       any = true;
       const known = isKnown(p) || reveal;
-      const first = p.items[0];
-      if (known && p.items.length === 1) {
-        // single entry: one row carries date and heading
-        const row = itemRow(p, i, first); row.classList.add("toc-item-single"); if (i === state.cur) row.classList.add("current");
-        row.querySelector(".toc-item-date").textContent = p.precision === "day" ? `${p.date.slice(8, 10)}日（${weekday(p.date)}）` : p.precision === "month" ? "月内" : "年内";
+      const newDay = p.key !== lastDate; lastDate = p.key;
+      if (!known) {
+        const row = el("button", { class: "toc-item unknown" + (newDay ? " day-start" : ""), type: "button" });
+        row.append(el("span", { class: "toc-item-date mono" }, dateLabel(p)), el("i", { class: "dot" }), el("span", { class: "toc-item-text dim" }, "·····"), el("span", { class: "toc-item-cat mono" }, ""));
+        row.addEventListener("click", () => go(i));
         body.appendChild(row); continue;
       }
-      const dh = el("button", { class: "toc-day" + (i === state.cur ? " current" : "") + (known ? "" : " unknown"), type: "button" });
-      const cut = (s, n) => (s.length > n ? s.slice(0, n).replace(/[、。,.\s]+$/, "") + "…" : s);
-      const digest = known ? (cut(L(first.summary) || L(first.title), state.lang === "ja" ? 40 : 70) + (p.items.length > 1 ? (state.lang === "ja" ? `（ほか${p.items.length - 1}件）` : ` (+${p.items.length - 1})`) : "")) : "";
-      dh.append(el("span", { class: "toc-day-date mono" }, p.precision === "day" ? `${p.date.slice(8, 10)}日（${weekday(p.date)}）` : p.precision === "month" ? "月内（日付未確定）" : "年内（日付未確定）"), el("span", { class: "toc-day-digest" }, digest));
-      dh.addEventListener("click", () => go(i));
-      body.appendChild(dh);
-      if (known) for (const it of p.items) body.appendChild(itemRow(p, i, it));
+      p.items.forEach((it, k) => {
+        const row = itemRow(p, i, it);
+        if (k === 0 && newDay) row.classList.add("day-start");
+        if (i === state.cur) row.classList.add("current");
+        body.appendChild(row);
+      });
     }
     if (!any) body.appendChild(el("p", { class: "toc-empty" }, "この月に該当する項目はありません"));
   }
+  function dateLabel(p) { return p.precision === "day" ? `${p.date.slice(5, 7)}.${p.date.slice(8, 10)}` : p.precision === "month" ? (state.lang === "ja" ? "月内" : "month") : (state.lang === "ja" ? "年内" : "year"); }
   function itemRow(p, i, it) {
     const row = el("button", { class: "toc-item", type: "button" });
     const dot = el("i", { class: "dot" }); dot.style.background = CATS[it.category]?.color || "var(--rule)";
-    row.append(el("span", { class: "toc-item-date mono" }, p.precision === "day" ? `${p.date.slice(5, 7)}.${p.date.slice(8, 10)}` : p.date.slice(0, 7).replace("-", ".")), dot, el("span", { class: "toc-item-text" }, L(it.title)), el("span", { class: "toc-item-cat mono" }, CATS[it.category]?.en || it.category));
+    row.append(el("span", { class: "toc-item-date mono" }, dateLabel(p)), dot, el("span", { class: "toc-item-text" }, L(it.title)), el("span", { class: "toc-item-cat mono" }, CATS[it.category]?.en || it.category));
     row.addEventListener("click", () => { go(i); setTimeout(() => document.getElementById(it.id)?.scrollIntoView({ block: "start", behavior: "smooth" }), 80); });
     return row;
   }

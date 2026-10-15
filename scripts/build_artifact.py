@@ -41,7 +41,20 @@ for f in manifest["files"]:
 groups = {}
 for rid, e in index.items():
     m = month_of.get(rid)
-    if m and (ROOT / "media/auto" / e["file"]).exists(): groups.setdefault(m, []).append((rid, e["file"]))
+    if m and (ROOT / "media/auto" / e["file"]).exists(): groups.setdefault(m, []).append((rid, ROOT / "media/auto" / e["file"]))
+# X post photos / video thumbnails and avatars (keyed "x/<file>", grouped by the first record's month)
+xposts_path = ROOT / "media/x/posts.json"
+xposts = json.loads(xposts_path.read_text()) if xposts_path.exists() else {}
+for sid, post in xposts.items():
+    recs = [r for r in post.get("records", []) if r in month_of]
+    m = min(month_of[r] for r in recs) if recs else None
+    if not m: continue
+    for me in post.get("media", []):
+        f = ROOT / "media/x" / me["file"]
+        if f.exists(): groups.setdefault(m, []).append(("x/" + me["file"], f))
+    av = (post.get("author") or {}).get("avatar")
+    if av and (ROOT / "media/x" / av).exists() and not any(k == "x/" + av for g in groups.values() for k, _ in g):
+        groups.setdefault("avatars", []).append(("x/" + av, ROOT / "media/x" / av))
 sprites = {}; sheet_files = []
 old = {p.name for p in (OUT / "sprites").glob("*.jpg")}
 for m, lst in sorted(groups.items()):
@@ -50,7 +63,7 @@ for m, lst in sorted(groups.items()):
     for pi, part in enumerate(parts):
         ims = []
         for rid, fn in part:
-            im = Image.open(ROOT / "media/auto" / fn).convert("RGB")
+            im = Image.open(fn).convert("RGB")
             if im.width > MAX_W: im = im.resize((MAX_W, round(im.height * MAX_W / im.width)), Image.LANCZOS)
             ims.append((rid, im))
         W = max(im.width for _, im in ims); H = min(sum(im.height for _, im in ims), MAX_SHEET_H)
@@ -66,6 +79,7 @@ for stale in old: (OUT / "sprites" / stale).unlink()
 (OUT / "sprites.json").write_text(json.dumps(sprites, separators=(",", ":")))
 files = {"assets/css/style.css": "assets/css/style.css", "assets/js/app.js": "assets/js/app.js", "sprites.json": "build/artifact/sprites.json"}
 for p in sorted((ROOT / "data").glob("*.json")): files[f"data/{p.name}"] = f"data/{p.name}"
+if xposts_path.exists(): files["media/x/posts.json"] = "media/x/posts.json"
 for n in sheet_files: files[f"sprites/{n}"] = f"build/artifact/sprites/{n}"
 (OUT / "files.json").write_text(json.dumps(files, indent=1))
 total = sum((OUT / "sprites" / n).stat().st_size for n in sheet_files)
