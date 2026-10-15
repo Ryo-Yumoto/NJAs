@@ -19,10 +19,14 @@
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/NewJeans"
+      "https://en.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=DAEK5GrLb_Y",
+      "https://www.youtube.com/watch?v=v3VoTXZXYjI",
+      "https://www.youtube.com/watch?v=soe4wfcKyiI"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "J0bFfJSlU_0"
     },
     "tags": [
       "music-show",
@@ -37,7 +41,11 @@
       "broadcaster": "Mnet",
       "program": "M COUNTDOWN",
       "label": "ADOR"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=J0bFfJSlU_0"
+    },
+    "editor_note": "公式動画: Mnet K-POP「[NewJeans - Attention] Hot Debut Stage | #엠카운트다운 EP.764 | Mnet 220804 방송」(2022-08-04); 関連3本をreference_urlsに記載"
   },
   {
     "id": "tv-2022-08-05-music-bank-debut-stage",
@@ -58,9 +66,14 @@
       "en": "Performed Attention on KBS2 Music Bank."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=CHp0Kaidr14",
+      "https://www.youtube.com/watch?v=Yi_0nsWsvY8",
+      "https://www.youtube.com/watch?v=q5oYGe8oPyQ"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "jV_NFT22SxI"
     },
     "tags": [
       "music-show",
@@ -75,7 +88,11 @@
       "broadcaster": "KBS 2TV",
       "program": "Music Bank",
       "label": "ADOR"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=jV_NFT22SxI"
+    },
+    "editor_note": "公式動画: KBS Kpop「Attention - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 220805 방송」(2022-08-05); 関連3本をreference_urlsに記載"
   },
   {
     "id": "tv-2022-08-07-inkigayo-debut-stage",
@@ -96,9 +113,15 @@
       "en": "Performed Attention and Cookie on SBS Inkigayo."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=wogyLl3BbjY",
+      "https://www.youtube.com/watch?v=c6URxEZbJP4",
+      "https://www.youtube.com/watch?v=2AgpBwagplU",
+      "https://www.youtube.com/watch?v=X5SeR_DVaiw"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "XRjKsj4q56s"
     },
     "tags": [
       "music-show",
@@ -113,7 +136,11 @@
       "broadcaster": "SBS",
       "program": "Inkigayo",
       "label": "ADOR"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=XRjKsj4q56s"
+    },
+    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - Attention @인기가요 inkigayo 20220807」(2022-08-07); 関連4本をreference_urlsに記載"
   },
   {
     "id": "tv-2022-08-11-mcountdown-attention",
@@ -136,7 +163,8 @@
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "suHqAf-2Exo"
     },
     "tags": [
       "music-show"
@@ -149,7 +177,11 @@
     "credits": {
       "broadcaster": "Mnet",
       "program": "M COUNTDOWN"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=suHqAf-2Exo"
+    },
+    "editor_note": "公式動画: Mnet K-POP「[NewJeans - Attention] #엠카운트다운 EP.765 | Mnet 220811 방송」(2022-08-11)"
   },
   {
     "id": "tv-2022-08-12-music-bank-hype-boy",
@@ -170,9 +202,13 @@
       "en": "Performed Hype Boy on Music Bank."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=0rzJ3Dj-glQ",
+      "https://www.youtube.com/watch?v=_k61Y_gaOxw"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "IQ69bf8uqME"
     },
     "tags": [
       "music-show"
@@ -185,7 +221,11 @@
     "credits": {
       "broadcaster": "KBS 2TV",
       "program": "Music Bank"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=IQ69bf8uqME"
+    },
+    "editor_note": "公式動画: KBS Kpop「Hype boy - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 220812 방송」(2022-08-12); 関連2本をreference_urlsに記載"
   },
   {
     "id": "tv-2022-08-13-sbs-radio-love-game",
@@ -210,7 +250,8 @@
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "vPN_t8XuSEE"
     },
     "tags": [
       "radio"
@@ -225,7 +266,10 @@
       "program": "Park So-hyun's Love Game",
       "dj": "Park So-hyun"
     },
-    "editor_note": "Program details per ja.wikipedia radio table; no contemporaneous article found for the broadcast content."
+    "editor_note": "Program details per ja.wikipedia radio table; no contemporaneous article found for the broadcast content. / 公式動画: SBS Radio 에라오「[FULL][4K] NewJeans (Danielle, Minji, Haerin) | Park So-hyun's Love Game | Weekly Top 10 Popular ...」(2022-08-13)",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=vPN_t8XuSEE"
+    }
   },
   {
     "id": "tv-2022-08-14-inkigayo-attention",
@@ -246,9 +290,12 @@
       "en": "Performed Attention on Inkigayo."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=-H-VBvGyWbA"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "YKeLPiX2weg"
     },
     "tags": [
       "music-show"
@@ -261,7 +308,11 @@
     "credits": {
       "broadcaster": "SBS",
       "program": "Inkigayo"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=YKeLPiX2weg"
+    },
+    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - Attention @인기가요 inkigayo 20220814」(2022-08-14); 関連1本をreference_urlsに記載"
   },
   {
     "id": "tv-2022-08-14-sbs-radio-cultwo-show",
@@ -282,9 +333,12 @@
       "en": "All members appeared on SBS Power FM's Cultwo Show."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=DEoh4Z4uH_0"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "wf5bRNl24tY"
     },
     "tags": [
       "radio"
@@ -299,7 +353,10 @@
       "program": "Cultwo Show",
       "dj": "Kim Tae-gyun"
     },
-    "editor_note": "Date and lineup per ja.wikipedia radio table; no contemporaneous article found for the broadcast content."
+    "editor_note": "Date and lineup per ja.wikipedia radio table; no contemporaneous article found for the broadcast content. / 公式動画: SBS Radio 에라오「[FULL][4K] The birth of the perfect \"God-tier rookie\" group you'll never get tired of! 💙NewJeans💙...」(2022-08-14); 関連1本をreference_urlsに記載",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=wf5bRNl24tY"
+    }
   },
   {
     "id": "tv-2022-08-18-mcountdown-attention-first-win",
@@ -339,7 +396,7 @@
       "broadcaster": "Mnet",
       "program": "M COUNTDOWN"
     },
-    "editor_note": "Nominees and no-live-broadcast detail per Soompi (Aug 18, 2022) and OSEN."
+    "editor_note": "Nominees and no-live-broadcast detail per Soompi (Aug 18, 2022) and OSEN. / 公式YouTube動画なし: NewJeans did not attend; Mnet K-POP has no clip for the 220818 win (only 220811/220825 stages)"
   },
   {
     "id": "tv-2022-08-19-music-bank-attention-win",
@@ -361,10 +418,16 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://www.youtube.com/watch?v=iW7B08-TlJ0",
+      "https://www.youtube.com/watch?v=DqU7QGO2hI4",
+      "https://www.youtube.com/watch?v=0E-gSXviJ3U",
+      "https://www.youtube.com/watch?v=ogklOvuqJH0",
+      "https://www.youtube.com/watch?v=DZPuz2z8z7M"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "iXM99GTJWsk"
     },
     "tags": [
       "music-show",
@@ -379,7 +442,10 @@
       "broadcaster": "KBS 2TV",
       "program": "Music Bank"
     },
-    "editor_note": "Points and nominee per Newsinside (KBS K-Chart) and Music Bank chart list."
+    "editor_note": "Points and nominee per Newsinside (KBS K-Chart) and Music Bank chart list. / 公式動画: KBS Kpop「Hype boy - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 220819 방송」(2022-08-19); 関連5本をreference_urlsに記載",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=iXM99GTJWsk"
+    }
   },
   {
     "id": "tv-2022-08-20-music-core-attention-win",
@@ -417,7 +483,7 @@
       "broadcaster": "MBC",
       "program": "Show! Music Core"
     },
-    "editor_note": "Points per Show! Music Core chart list (en.wikipedia); competing nominees not confirmed."
+    "editor_note": "Points per Show! Music Core chart list (en.wikipedia); competing nominees not confirmed. / 公式YouTube動画なし: No stage; NewJeans did not appear on Music Core 220820 and MBCkpop has no winner clip"
   },
   {
     "id": "tv-2022-08-21-inkigayo-attention-win",
@@ -439,10 +505,14 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://www.youtube.com/watch?v=5sp_qdC3_dg",
+      "https://www.youtube.com/watch?v=XPxdU5NOIW4",
+      "https://www.youtube.com/watch?v=YLy4iXLu0qI"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "E9VkRkKzktw"
     },
     "tags": [
       "music-show",
@@ -457,7 +527,10 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Nominees per Joynews24 (Aug 21, 2022); points per Inkigayo chart list. Joynews24 states Attention was performed; en.wikipedia live list records Hype Boy."
+    "editor_note": "Nominees per Joynews24 (Aug 21, 2022); points per Inkigayo chart list. Joynews24 states Attention was performed; en.wikipedia live list records Hype Boy. / 公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - Hype Boy @인기가요 inkigayo 20220821」(2022-08-21); 関連3本をreference_urlsに記載",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=E9VkRkKzktw"
+    }
   },
   {
     "id": "tv-2022-08-25-mcountdown-hype-boy",
@@ -480,7 +553,8 @@
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "GL2QFKnhxv8"
     },
     "tags": [
       "music-show"
@@ -493,7 +567,11 @@
     "credits": {
       "broadcaster": "Mnet",
       "program": "M COUNTDOWN"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=GL2QFKnhxv8"
+    },
+    "editor_note": "公式動画: Mnet K-POP「[NewJeans - Hype Boy] #엠카운트다운 EP.767 | Mnet 220825 방송」(2022-08-25)"
   },
   {
     "id": "tv-2022-08-26-music-bank-hurt",
@@ -514,9 +592,14 @@
       "en": "Performed Hurt on Music Bank."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=NTQFhv50AXg",
+      "https://www.youtube.com/watch?v=RpCVUJowDvA",
+      "https://www.youtube.com/watch?v=PrSzaKpCcfY"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "DGBpiPSUNMY"
     },
     "tags": [
       "music-show"
@@ -529,7 +612,11 @@
     "credits": {
       "broadcaster": "KBS 2TV",
       "program": "Music Bank"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=DGBpiPSUNMY"
+    },
+    "editor_note": "公式動画: KBS Kpop「Hurt - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 220826 방송」(2022-08-26); 関連3本をreference_urlsに記載"
   },
   {
     "id": "tv-2022-08-28-inkigayo-attention-win-2",
@@ -551,10 +638,13 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://www.youtube.com/watch?v=XsO8TTrQ4uA",
+      "https://www.youtube.com/watch?v=zV3jF5viZUY"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "4SjJzU05Qjc"
     },
     "tags": [
       "music-show",
@@ -569,7 +659,10 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Fifth-trophy count per OSEN/ANI reports of Aug 28, 2022."
+    "editor_note": "Fifth-trophy count per OSEN/ANI reports of Aug 28, 2022. / 公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - Hurt @인기가요 inkigayo 20220828」(2022-08-28); 関連2本をreference_urlsに記載",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=4SjJzU05Qjc"
+    }
   },
   {
     "id": "tv-2022-09-05-korea-broadcasting-awards",
@@ -592,7 +685,8 @@
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "xhRgoLReeFE"
     },
     "tags": [
       "award-show"
@@ -606,7 +700,10 @@
       "venue": "KBS Hall, Seoul",
       "organizer": "Korean Broadcasters Association"
     },
-    "editor_note": "Only en.wikipedia live-performance list (performance N/A) found; no press article located. Attendance role unverified."
+    "editor_note": "Only en.wikipedia live-performance list (performance N/A) found; no press article located. Attendance role unverified. / 公式動画: KBS Entertain「[제49회 한국방송대상 시상식] 축하공연 - 뉴진스 Attention [제 49회 한국방송대상] | KBS 220905 방송」(2022-09-05)",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=xhRgoLReeFE"
+    }
   },
   {
     "id": "tv-2022-10-08-the-fact-music-awards-2022",
@@ -631,7 +728,8 @@
       "https://ja.wikipedia.org/wiki/NewJeans"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "ygmKzYlCFZU"
     },
     "tags": [
       "award-show"
@@ -644,7 +742,11 @@
     "credits": {
       "venue": "KSPO Dome, Seoul",
       "organizer": "The Fact / Fan N Star"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ygmKzYlCFZU"
+    },
+    "editor_note": "公式動画:  THE FACT MUSIC AWARDS「[2022 더팩트 뮤직 어워즈] NewJeans (뉴진스) 'Hype Boy' + 'Attention' @TMA」(2025-03-10)"
   },
   {
     "id": "tv-2022-10-16-newjeans-code-in-busan",
@@ -667,17 +769,22 @@
     },
     "source_url": "https://en.wikipedia.org/wiki/NewJeans_Code_in_Busan",
     "reference_urls": [
-      "https://ja.wikipedia.org/wiki/NewJeans"
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=OcO4b-qdtwk",
+      "https://www.youtube.com/watch?v=M6i00-d3ekQ",
+      "https://www.youtube.com/watch?v=bcmY4_7wkaQ",
+      "https://www.youtube.com/watch?v=1COa96OCqHo"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "zA84NbBgPQE"
     },
     "tags": [
       "variety",
       "reality"
     ],
     "verified": false,
-    "editor_note": "Aired Oct 16 - Nov 6, 2022 (end date removed from the reader-facing summary).",
+    "editor_note": "Aired Oct 16 - Nov 6, 2022 (end date removed from the reader-facing summary). / 公式動画: SBS Entertainment「‘부산 구경도 식후경’ 뉴진스, 국밥집으로 이동 중에도 차 안에서 해피 에너지 뿜뿜★ | SBS 221016 방송 #뉴진스코드in부산 #newjeanscode #SBSenter」(2022-10-16); 関連4本をreference_urlsに記載",
     "detail": {
       "ja": "2022年10月16日12時10分（KST）、SBSで旅行リアリティ番組『NewJeans Code in Busan（뉴진스 코드 인 부산）』の第1話「뉴진스와 부산에서 만나요!」が放送された。釜山広域市と釜山観光公社が製作しSBSが放送する全3話の番組で、9月26日と27日に釜山で撮影された。5人は松島スカイパーク、富平カントン市場、太宗台、多大浦海水浴場などをQRコードを手がかりに巡る。製作総括はソン・ギフン、演出はユ・ギョンソクほか。配信はWavveで行われた。",
       "en": "NewJeans Code in Busan, a three-episode travel reality series produced by Busan Metropolitan City and the Busan Tourism Organization and distributed by SBS, premiered on SBS TV on October 16, 2022 at 12:10 KST with the episode 'See You in Busan with NewJeans!'. Filmed on September 26 and 27, 2022, it follows the five members as they visit Songdo Sky Park, Bupyeong Kkangtong Market, Taejongdae and Dadaepo Beach, guided by QR codes. Seong Ki-hun was executive producer and Yoo Gyeong-seok among the directors; the series streamed on Wavve."
@@ -688,6 +795,9 @@
       "executive_producer": "Seong Ki-hun",
       "director": "Yoo Gyeong-seok, Eom Jin-yong, Kim Na-yeon, Han Seon-woo",
       "streaming": "Wavve"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=zA84NbBgPQE"
     }
   },
   {
@@ -711,7 +821,8 @@
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "6MN1EsAnmkQ"
     },
     "tags": [
       "award-show"
@@ -725,7 +836,11 @@
       "venue": "KBS Hall, Seoul",
       "broadcaster": "KBS2",
       "host": "Kim Hye-soo, Yoo Yeon-seok"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=6MN1EsAnmkQ"
+    },
+    "editor_note": "公式動画: KBS Entertain「뉴진스, ‘Hype boy & Attention’ 축하공연 [제43회 청룡영화상 시상식] | KBS 221125 방송」(2022-11-25)"
   },
   {
     "id": "tv-2022-11-26-melon-music-awards-2022",
@@ -747,10 +862,16 @@
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
-      "https://ja.wikipedia.org/wiki/NewJeans"
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=tGR8jsPR_QQ",
+      "https://www.youtube.com/watch?v=KGCDS2aPzp0",
+      "https://www.youtube.com/watch?v=ujeOTwFCR3E",
+      "https://www.youtube.com/watch?v=Dxca41EhMb8",
+      "https://www.youtube.com/watch?v=VX04UnBtnFw"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "lxZSyy2vW64"
     },
     "tags": [
       "award-show"
@@ -763,7 +884,11 @@
     "credits": {
       "venue": "Gocheok Sky Dome, Seoul",
       "organizer": "Kakao Entertainment / Melon"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=lxZSyy2vW64"
+    },
+    "editor_note": "公式動画: Melon「[MMA2022 | 축하공연] NewJeans(뉴진스) - Hype Boy | #NewJeans #뉴진스」(2022-11-27); 関連5本をreference_urlsに記載"
   },
   {
     "id": "tv-2022-11-29-mama-awards-2022-day1",
@@ -784,9 +909,12 @@
       "en": "Joined a special collaboration stage with Ive, Le Sserafim, Kep1er and Nmixx on Day 1 at Kyocera Dome Osaka."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=IJks7TIDfnk"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "d2heDnR3sjc"
     },
     "tags": [
       "award-show"
@@ -800,7 +928,11 @@
       "venue": "Kyocera Dome Osaka",
       "broadcaster": "Mnet",
       "host": "Jeon Somi"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=d2heDnR3sjc"
+    },
+    "editor_note": "公式動画: Mnet K-POP「[2022 MAMA] IVE&Kep1er&NMIXX&LE SSERAFIM&NewJeans - CHEER UP | Mnet 221129 방송」(2022-11-29); 関連1本をreference_urlsに記載"
   },
   {
     "id": "tv-2022-11-30-mama-awards-2022-day2",
@@ -821,9 +953,16 @@
       "en": "Performed Attention, Cookie, Hurt and Hype Boy on Day 2."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=0qGu9KCdsFc",
+      "https://www.youtube.com/watch?v=8WIGyunER4g",
+      "https://www.youtube.com/watch?v=7iD2qXFnz_A",
+      "https://www.youtube.com/watch?v=0FXWJmNYF_c",
+      "https://www.youtube.com/watch?v=6PEAbwgPZVY"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "joTrsDAj8Yw"
     },
     "tags": [
       "award-show"
@@ -837,7 +976,11 @@
       "venue": "Kyocera Dome Osaka",
       "broadcaster": "Mnet",
       "host": "Park Bo-gum"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=joTrsDAj8Yw"
+    },
+    "editor_note": "公式動画: Mnet K-POP「[2022 MAMA] NewJeans - Cookie+Attention+Hurt+Hype boy (MAMA ver.) | Mnet 221130 방송」(2022-11-30); 関連5本をreference_urlsに記載"
   },
   {
     "id": "tv-2022-12-13-asia-artist-awards-2022",
@@ -859,10 +1002,16 @@
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
-      "https://ja.wikipedia.org/wiki/NewJeans"
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=W_Enh79U7rQ",
+      "https://www.youtube.com/watch?v=olBipFfHrRw",
+      "https://www.youtube.com/watch?v=chy5sO-Dbts",
+      "https://www.youtube.com/watch?v=4-OTCZjinEk",
+      "https://www.youtube.com/watch?v=W-R1K6qr4so"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "zOQNOiVw6IY"
     },
     "tags": [
       "award-show"
@@ -876,7 +1025,11 @@
       "venue": "Nippon Gaishi Hall, Nagoya",
       "organizer": "Star News",
       "host": "Jang Won-young, Leeteuk"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=zOQNOiVw6IY"
+    },
+    "editor_note": "公式動画: 스타뉴스 STARNEWS「[AAA직캠] 뉴진스 (NewJeans) ‘Intro+Attention’ 4K (NewJeans Fancam)」(2022-12-13); 関連5本をreference_urlsに記載"
   },
   {
     "id": "tv-2022-12-14-yoo-quiz-on-the-block",
@@ -898,15 +1051,23 @@
       "en": "All five members appeared on tvN's talk show Yoo Quiz on the Block."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=GNf43YSiI54",
+      "https://www.youtube.com/watch?v=8nY0jnzmE-c",
+      "https://www.youtube.com/watch?v=gY0uDKWGeR8",
+      "https://www.youtube.com/watch?v=7he_ctucR4M",
+      "https://www.youtube.com/watch?v=VON28mYkT5Y",
+      "https://www.youtube.com/watch?v=VxjG8vnN2bE"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "kLNTjXyJzNA"
     },
     "tags": [
       "variety"
     ],
     "verified": false,
-    "editor_note": "Date from ja.wikipedia; not confirmed on tvN's site. | Air date confirmed by Kuki News (Dec 15, 2022) ratings report; episode number not confirmed (likely ep. 172).",
+    "editor_note": "Date from ja.wikipedia; not confirmed on tvN's site. | Air date confirmed by Kuki News (Dec 15, 2022) ratings report; episode number not confirmed (likely ep. 172). / 公式動画: tvN Joy「'우리 모두 버니스' 2년 전부터 연습한 어텐션이 세상에 공개되기까지!#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.172 | tvN 221214 방송」(2022-12-15); 関連6本をreference_urlsに記載",
     "detail": {
       "ja": "2022年12月14日放送のtvN『ユ・クイズON THE BLOCK』にNewJeansの5人が出演し、デビュー準備の過程やアルバム制作の裏話を語った。同回にはソン・フンミン選手の父ソン・ウンジョン監督らも出演した。ニールセン・コリア基準の全国有料世帯視聴率は6.6%で、前回放送から1.3ポイント上昇した。",
       "en": "All five NewJeans members appeared on the December 14, 2022 episode of tvN's talk show You Quiz on the Block, discussing their pre-debut preparation and album production. The same episode featured Son Woong-jung, father of footballer Son Heung-min. The episode recorded a 6.6 percent nationwide paid-household rating (Nielsen Korea), up 1.3 points from the previous week."
@@ -915,6 +1076,9 @@
       "broadcaster": "tvN",
       "program": "You Quiz on the Block",
       "host": "Yoo Jae-suk, Jo Se-ho"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=kLNTjXyJzNA"
     }
   },
   {
@@ -937,10 +1101,16 @@
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
-      "https://ja.wikipedia.org/wiki/NewJeans"
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=4zGLOI5MYOQ",
+      "https://www.youtube.com/watch?v=2wtghRC8nuY",
+      "https://www.youtube.com/watch?v=PYl9WpAK_jY",
+      "https://www.youtube.com/watch?v=XRLDpWiFPKw",
+      "https://www.youtube.com/watch?v=ff5zVGvaL44"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "ovn2K0EqSPs"
     },
     "tags": [
       "year-end"
@@ -955,7 +1125,11 @@
       "venue": "Jamsil Arena, Seoul",
       "host": "Na In-woo, Jang Won-young, Kim Shin-young",
       "director": "Bang Geul-yi"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ovn2K0EqSPs"
+    },
+    "editor_note": "公式動画: KBS Kpop「뉴진스 (NewJeans) - Intro + Attention + Hype boy [2022 KBS 가요대축제] | KBS 221216 방송」(2022-12-16); 関連5本をreference_urlsに記載"
   },
   {
     "id": "tv-2022-12-17-sbs-entertainment-awards-2022",
@@ -978,7 +1152,8 @@
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "eZDtpRgro-4"
     },
     "tags": [
       "award-show"
@@ -992,7 +1167,10 @@
       "broadcaster": "SBS",
       "venue": "SBS Prism Tower, Seoul"
     },
-    "editor_note": "Venue and collaboration per en.wikipedia live-performance list; no press article fetched."
+    "editor_note": "Venue and collaboration per en.wikipedia live-performance list; no press article fetched. / 公式動画: SBS Entertainment「뉴진스×FC발라드림이 함께하는 초특급 콜라보 축하 무대! ＜Attention♪＞ #2022SBS연예대상 #SBSenter」(2022-12-17)",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=eZDtpRgro-4"
+    }
   },
   {
     "id": "tv-2022-12-24-sbs-gayo-daejeon-2022",
@@ -1013,9 +1191,15 @@
       "en": "Performed Attention and a Tell Me remix at the 2022 SBS Gayo Daejeon."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=tjIU70YK4s8",
+      "https://www.youtube.com/watch?v=vv6hmz-zYak",
+      "https://www.youtube.com/watch?v=X058whXm-i8",
+      "https://www.youtube.com/watch?v=vEbPFhNSgzk"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "VpI7WdNZSMs"
     },
     "tags": [
       "year-end"
@@ -1029,7 +1213,11 @@
       "broadcaster": "SBS",
       "venue": "Gocheok Sky Dome, Seoul",
       "host": "Key, Cha Eun-woo, An Yu-jin"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=VpI7WdNZSMs"
+    },
+    "editor_note": "公式動画: SBS Entertainment「뉴진스(NewJeans), 풋풋한 매력이 넘치는 무대 ＜Attention♬＞ #SBS가요대전 #SBSenter」(2022-12-24); 関連4本をreference_urlsに記載"
   },
   {
     "id": "tv-2022-12-28-ntv-music-award-2022",
@@ -1067,7 +1255,8 @@
     "credits": {
       "broadcaster": "Nippon TV",
       "program": "発表!今年イチバン聴いた歌～年間ミュージックアワード2022～"
-    }
+    },
+    "editor_note": "公式YouTube動画なし: NTV does not publish performance clips on YouTube; no official upload found"
   },
   {
     "id": "tv-2023-01-03-sbs-radio-power-time",
@@ -1090,7 +1279,8 @@
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "8J8m1xU02M0"
     },
     "tags": [
       "radio"
@@ -1104,7 +1294,11 @@
       "broadcaster": "SBS Power FM",
       "program": "Choi Hwa-jung's Power Time",
       "dj": "Choi Hwa-jung"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=8J8m1xU02M0"
+    },
+    "editor_note": "公式動画: SBS Radio 에라오「[FULL] OMG👀!! The \"God-babies\"🐰NewJeans🐰 visited Choi Pa Ta | Choi Hwa-jung's Power Time | 01/03/23」(2023-01-03)"
   },
   {
     "id": "tv-2023-01-04-sbs-radio-kim-young-chul",
@@ -1128,7 +1322,8 @@
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "Mq5tzsjjFf4"
     },
     "tags": [
       "radio"
@@ -1143,7 +1338,10 @@
       "program": "Kim Young-chul's Power FM",
       "dj": "Kim Young-chul"
     },
-    "editor_note": "Date and members per ja.wikipedia radio table; no contemporaneous article found."
+    "editor_note": "Date and members per ja.wikipedia radio table; no contemporaneous article found. / 公式動画: SBS Radio 에라오「[FULL] Oh my oh my God🤭 OMG 하게 되는 뉴진스(NewJeans) 민지, 다니엘 보는 라디오 | 김영철의 파워FM | 230104」(2023-01-03)",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Mq5tzsjjFf4"
+    }
   },
   {
     "id": "tv-2023-01-07-golden-disc-awards-37",
@@ -1165,10 +1363,15 @@
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
-      "https://ja.wikipedia.org/wiki/NewJeans"
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=j9h3jWNaKNY",
+      "https://www.youtube.com/watch?v=WyZERuR-bXs",
+      "https://www.youtube.com/watch?v=hBlaM7Wvt-c",
+      "https://www.youtube.com/watch?v=Q3sF0lV4nww"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "pXV-dJfu8JI"
     },
     "tags": [
       "award-show"
@@ -1182,7 +1385,11 @@
       "venue": "Rajamangala Stadium, Bangkok",
       "broadcaster": "JTBC (Korea), TBS/Paravi (Japan)",
       "host": "Sung Si-kyung, Lee Da-hee, Nichkhun, Park So-dam"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=pXV-dJfu8JI"
+    },
+    "editor_note": "公式動画: Golden Disc「[제37회 골든디스크] NewJeans - 'Opening + Attention (Golden Disc ver.) + Hype Boy + OMG' ♪｜JTBC 230107 방송」(2023-01-07); 関連4本をreference_urlsに記載"
   },
   {
     "id": "tv-2023-01-07-music-core-ditto-win",
@@ -1212,7 +1419,7 @@
       "win"
     ],
     "verified": false,
-    "editor_note": "ja.wikipedia lists 4 consecutive Music Core wins between Jan 7 and Feb 4, 2023; individual later dates not itemised. | Removed '1st of 4 consecutive weeks through Feb 4' from title/summary (future knowledge). | Nominees and no-appearance per Asia Economy (stoo.com) report; points per Music Core chart list.",
+    "editor_note": "ja.wikipedia lists 4 consecutive Music Core wins between Jan 7 and Feb 4, 2023; individual later dates not itemised. | Removed '1st of 4 consecutive weeks through Feb 4' from title/summary (future knowledge). | Nominees and no-appearance per Asia Economy (stoo.com) report; points per Music Core chart list. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
     "detail": {
       "ja": "2023年1月7日放送のMBC『ショー!音楽中心』で、NewJeansの「Ditto」が5,843点で1位を獲得した。1位候補はATEEZ「HALAZIA」、NCT DREAM「Candy」と「Ditto」で、NewJeansは同日バンコクでのゴールデンディスクアワード出演のため番組には出演せず、不在での受賞となった。「Ditto」は2022年12月19日に先行公開された楽曲で、音楽番組での1位はこれが最初である。",
       "en": "On the January 7, 2023 episode of MBC's Show! Music Core, Ditto won first place with 5,843 points against ATEEZ's HALAZIA and NCT Dream's Candy. NewJeans did not appear on the broadcast, being in Bangkok for the Golden Disc Awards the same day. It was the first music-show win for Ditto, pre-released on December 19, 2022."
@@ -1258,7 +1465,7 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Nominees and points per TV Daily report of Jan 8, 2023."
+    "editor_note": "Nominees and points per TV Daily report of Jan 8, 2023. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
   },
   {
     "id": "tv-2023-01-12-mcountdown-omg-win",
@@ -1296,7 +1503,7 @@
       "broadcaster": "Mnet",
       "program": "M COUNTDOWN"
     },
-    "editor_note": "Nominee and no-appearance per TV Daily; points per M Countdown chart list."
+    "editor_note": "Nominee and no-appearance per TV Daily; points per M Countdown chart list. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
   },
   {
     "id": "tv-2023-01-13-music-bank-ditto-win",
@@ -1319,7 +1526,8 @@
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "eH43tNSXQcI"
     },
     "tags": [
       "music-show",
@@ -1334,7 +1542,10 @@
       "broadcaster": "KBS 2TV",
       "program": "Music Bank"
     },
-    "editor_note": "Points and nominee per Newsinside (KBS K-Chart)."
+    "editor_note": "Points and nominee per Newsinside (KBS K-Chart). / 公式動画: KBS WORLD TV「(Interview) Winner's Ceremony - NewJeans 🏆 [Music Bank] | KBS WORLD TV 230113」(2023-01-13)",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=eH43tNSXQcI"
+    }
   },
   {
     "id": "tv-2023-01-15-inkigayo-omg-comeback-stage-win",
@@ -1356,10 +1567,17 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://www.youtube.com/watch?v=qaO0Wq3Acfs",
+      "https://www.youtube.com/watch?v=20mMVe-gEPs",
+      "https://www.youtube.com/watch?v=Nbw92qgezis",
+      "https://www.youtube.com/watch?v=jUNz-uTF--E",
+      "https://www.youtube.com/watch?v=KgyxvCLsUsI",
+      "https://www.youtube.com/watch?v=iV6k4CNS3Hw"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "-p1ftgMVWOc"
     },
     "tags": [
       "music-show",
@@ -1374,7 +1592,10 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Nominee (Le Sserafim) and comeback-stage detail per Joynews24 (Jan 15, 2023)."
+    "editor_note": "Nominee (Le Sserafim) and comeback-stage detail per Joynews24 (Jan 15, 2023). / 公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - OMG @인기가요 inkigayo 20230115」(2023-01-15); 関連6本をreference_urlsに記載",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=-p1ftgMVWOc"
+    }
   },
   {
     "id": "tv-2023-01-19-sbs-radio-cultwo-show-2",
@@ -1396,10 +1617,12 @@
     },
     "source_url": "https://www.xportsnews.com/article/1678790",
     "reference_urls": [
-      "https://ja.wikipedia.org/wiki/NewJeans"
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=g38ECzNX4ao"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "LZdR2z49Pxc"
     },
     "tags": [
       "radio"
@@ -1414,7 +1637,11 @@
       "program": "Cultwo Show",
       "dj": "Kim Tae-gyun",
       "special_dj": "Hwang Chi-yeul"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=LZdR2z49Pxc"
+    },
+    "editor_note": "公式動画: SBS Radio 에라오「[FULL] 버니즈의 심장을 Ra-ta-ta-ta💓 울리는 뉴진스(NewJeans)🐰 보는 라디오 | 두시탈출 컬투쇼 | 230119」(2023-01-19); 関連1本をreference_urlsに記載"
   },
   {
     "id": "tv-2023-01-19-seoul-music-awards-32",
@@ -1443,7 +1670,7 @@
       "award-show"
     ],
     "verified": false,
-    "editor_note": "Award per ja.wikipedia; in-person attendance not independently confirmed. | en.wikipedia 32nd SMA page: NewJeans not in performer list; in-person attendance still unconfirmed.",
+    "editor_note": "Award per ja.wikipedia; in-person attendance not independently confirmed. | en.wikipedia 32nd SMA page: NewJeans not in performer list; in-person attendance still unconfirmed. / 公式YouTube動画なし: Seoul Music Awards official channel has no NewJeans clip for the 32nd ceremony; only fan uploads exist",
     "detail": {
       "ja": "2023年1月19日、ソウル・オリンピック公園のオリンピック体操競技場（KSPO DOME）で第32回ソウル歌謡大賞が開かれ、NewJeansが新人賞を受賞した。同賞はスポーツソウルが主催し、KBS JoyとU+アイドルLiveで放送・配信された。司会はチェ・ミンホ、ミジュ、キム・イルジュン。NewJeansは人気賞と韓流特別賞にもノミネートされたが、出演者リストには含まれていない。",
       "en": "At the 32nd Seoul Music Awards on January 19, 2023 at the Olympic Gymnastics Arena (KSPO Dome) in Seoul, NewJeans received the Rookie of the Year award. Organized by Sports Seoul, the ceremony was broadcast on KBS Joy and U+Idol Live and hosted by Choi Min-ho, Mijoo and Kim Il-joong. NewJeans were also nominated for the Popularity Award and the Hallyu Special Award; they are not listed among the performers."
@@ -1474,9 +1701,16 @@
       "en": "Performed Ditto and OMG on Music Bank."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=tnGpaZBNBw8",
+      "https://www.youtube.com/watch?v=0R-tkdX8UUw",
+      "https://www.youtube.com/watch?v=8NFnxU8Ly1A",
+      "https://www.youtube.com/watch?v=uwh3jafqQ7U",
+      "https://www.youtube.com/watch?v=xFRcx5M2onY"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "X8jjlicVUyY"
     },
     "tags": [
       "music-show"
@@ -1489,7 +1723,11 @@
     "credits": {
       "broadcaster": "KBS 2TV",
       "program": "Music Bank"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=X8jjlicVUyY"
+    },
+    "editor_note": "公式動画: KBS Kpop「OMG - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230120 방송」(2023-01-20); 関連5本をreference_urlsに記載"
   },
   {
     "id": "tv-2023-01-26-mcountdown-omg-win-2",
@@ -1529,7 +1767,7 @@
       "broadcaster": "Mnet",
       "program": "M COUNTDOWN"
     },
-    "editor_note": "Per Soompi (Jan 26, 2023)."
+    "editor_note": "Per Soompi (Jan 26, 2023). / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
   },
   {
     "id": "tv-2023-01-27-music-bank-omg-win",
@@ -1552,10 +1790,18 @@
     "source_url": "https://www.osen.co.kr/article/G1112031653",
     "reference_urls": [
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-      "https://ja.wikipedia.org/wiki/NewJeans"
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=PsGe2R92x2U",
+      "https://www.youtube.com/watch?v=lSUb1DtZ1c4",
+      "https://www.youtube.com/watch?v=dvENOH3_fTc",
+      "https://www.youtube.com/watch?v=rMvkMwe4N8E",
+      "https://www.youtube.com/watch?v=GZkSOYN-V4g",
+      "https://www.youtube.com/watch?v=yKItFB_HPhE",
+      "https://www.youtube.com/watch?v=Rtl8b7H4kEo"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "6bVUjsUi9sw"
     },
     "tags": [
       "music-show",
@@ -1570,7 +1816,10 @@
       "broadcaster": "KBS 2TV",
       "program": "Music Bank"
     },
-    "editor_note": "Per Newsinside (KBS K-Chart) and Music Bank chart list."
+    "editor_note": "Per Newsinside (KBS K-Chart) and Music Bank chart list. / 公式動画: KBS Kpop「OMG - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230127 방송」(2023-01-27); 関連7本をreference_urlsに記載",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=6bVUjsUi9sw"
+    }
   },
   {
     "id": "tv-2023-01-29-inkigayo-ditto-win-2",
@@ -1592,10 +1841,14 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://www.youtube.com/watch?v=-rr-AOreXQU",
+      "https://www.youtube.com/watch?v=7b2Nbr34BW4",
+      "https://www.youtube.com/watch?v=xcRtOYjBYXc"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "jUmeh5yvy0M"
     },
     "tags": [
       "music-show",
@@ -1610,7 +1863,10 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Nominees per Xports News (Jan 29, 2023); points per Inkigayo chart list."
+    "editor_note": "Nominees per Xports News (Jan 29, 2023); points per Inkigayo chart list. / 公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - OMG @인기가요 inkigayo 20230129」(2023-01-29); 関連3本をreference_urlsに記載",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=jUmeh5yvy0M"
+    }
   },
   {
     "id": "tv-2023-02-05-inkigayo-ditto-win-3",
@@ -1648,7 +1904,7 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Triple crown per Inkigayo 2023 chart list; competing nominees not confirmed."
+    "editor_note": "Triple crown per Inkigayo 2023 chart list; competing nominees not confirmed. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
   },
   {
     "id": "tv-2023-02-11-hanteo-music-awards-2022",
@@ -1685,7 +1941,7 @@
       "venue": "Jamsil Indoor Gymnasium, Seoul",
       "organizer": "Hanteo Chart"
     },
-    "editor_note": "Per OSEN (Feb 11, 2023); attendance unverified."
+    "editor_note": "Per OSEN (Feb 11, 2023); attendance unverified. / 公式YouTube動画なし: No official Hanteo/SBS M clip of NewJeans found; only fan uploads"
   },
   {
     "id": "tv-2023-02-18-circle-chart-music-awards-2022",
@@ -1723,7 +1979,7 @@
       "organizer": "Circle Chart (KMCA)",
       "host": "Doyoung, Miyeon"
     },
-    "editor_note": "Per OSEN (Feb 18, 2023); performance not confirmed."
+    "editor_note": "Per OSEN (Feb 18, 2023); performance not confirmed. / 公式YouTube動画なし: CIRCLE CHART channel has no NewJeans stage/award clip (group was not present); only full-show VOD"
   },
   {
     "id": "tv-2023-03-19-inkigayo-omg-win-2",
@@ -1761,7 +2017,7 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Nominees per OSEN (Mar 19, 2023); points per chart list."
+    "editor_note": "Nominees per OSEN (Mar 19, 2023); points per chart list. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
   },
   {
     "id": "tv-2023-03-26-inkigayo-omg-win-3",
@@ -1799,7 +2055,7 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Per Soompi (Mar 26, 2023)."
+    "editor_note": "Per Soompi (Mar 26, 2023). / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
   },
   {
     "id": "tv-2023-04-02-inkigayo-hype-boy-win",
@@ -1839,7 +2095,7 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Per Soompi (Apr 2, 2023)."
+    "editor_note": "Per Soompi (Apr 2, 2023). / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
   },
   {
     "id": "tv-2023-07-01-the-music-day-2023",
@@ -1878,7 +2134,8 @@
       "broadcaster": "Nippon TV",
       "program": "THE MUSIC DAY 2023",
       "host": "Sho Sakurai"
-    }
+    },
+    "editor_note": "公式YouTube動画なし: NTV does not publish THE MUSIC DAY performances on YouTube; no official upload found"
   },
   {
     "id": "tv-2023-07-12-fns-music-festival-summer-2023",
@@ -1903,7 +2160,8 @@
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "ZETQ1MKypC8"
     },
     "tags": [
       "japan-tv"
@@ -1917,7 +2175,11 @@
       "broadcaster": "Fuji TV",
       "program": "2023 FNS歌謡祭 夏",
       "host": "Masaki Aiba, Yumi Nagashima"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ZETQ1MKypC8"
+    },
+    "editor_note": "公式動画: NewJeans「NewJeans (뉴진스) 'Ditto' Stage Cam @ 2023 FNS Music Festival Summer」(2023-07-26)"
   },
   {
     "id": "tv-2023-07-13-mcountdown-super-shy-win",
@@ -1955,7 +2217,7 @@
       "broadcaster": "Mnet",
       "program": "M COUNTDOWN"
     },
-    "editor_note": "Per Star News (Jul 13, 2023); points per chart list."
+    "editor_note": "Per Star News (Jul 13, 2023); points per chart list. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
   },
   {
     "id": "tv-2023-07-14-music-bank-get-up-comeback-stage",
@@ -1976,9 +2238,16 @@
       "en": "Performed Super Shy and New Jeans on Music Bank."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=IGUv1cW84zk",
+      "https://www.youtube.com/watch?v=2QSAl9BH3Y4",
+      "https://www.youtube.com/watch?v=tiuMOXVhu_A",
+      "https://www.youtube.com/watch?v=P14lg1Nlwa0",
+      "https://www.youtube.com/watch?v=DF3R2NNSqp4"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "y42YU8JkTKw"
     },
     "tags": [
       "music-show",
@@ -1992,7 +2261,11 @@
     "credits": {
       "broadcaster": "KBS 2TV",
       "program": "Music Bank"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=y42YU8JkTKw"
+    },
+    "editor_note": "公式動画: KBS Kpop「Super Shy - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230714 방송」(2023-07-14); 関連5本をreference_urlsに記載"
   },
   {
     "id": "tv-2023-07-15-ongaku-no-hi-2023",
@@ -2017,7 +2290,8 @@
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "SN1Gb4Pqdo4"
     },
     "tags": [
       "japan-tv"
@@ -2031,7 +2305,10 @@
       "broadcaster": "TBS",
       "program": "音楽の日2023"
     },
-    "editor_note": "Songs per en.wikipedia live-performance list (flagged citation needed there); broadcast time per ja.wikipedia."
+    "editor_note": "Songs per en.wikipedia live-performance list (flagged citation needed there); broadcast time per ja.wikipedia. / 公式動画: NewJeans「NewJeans (뉴진스) ‘OMG’ Stage Cam @ ONGAKUNOHI 2023」(2023-07-31)",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=SN1Gb4Pqdo4"
+    }
   },
   {
     "id": "tv-2023-07-16-inkigayo-get-up-comeback-stage",
@@ -2052,9 +2329,14 @@
       "en": "Performed Super Shy and New Jeans on Inkigayo."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=9HOXWE4fWTs",
+      "https://www.youtube.com/watch?v=1BdnTvFz5Bw",
+      "https://www.youtube.com/watch?v=7thwmPrkEhA"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "J9DlrnNlgfE"
     },
     "tags": [
       "music-show",
@@ -2068,7 +2350,11 @@
     "credits": {
       "broadcaster": "SBS",
       "program": "Inkigayo"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=J9DlrnNlgfE"
+    },
+    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - Super Shy @인기가요 inkigayo 20230716」(2023-07-16); 関連3本をreference_urlsに記載"
   },
   {
     "id": "tv-2023-07-21-music-bank-eta-stage",
@@ -2089,9 +2375,16 @@
       "en": "Performed three Get Up tracks on Music Bank on release day."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=-JF8q8Ulm6Q",
+      "https://www.youtube.com/watch?v=nagclz9y8X0",
+      "https://www.youtube.com/watch?v=xNpdWw7yJbo",
+      "https://www.youtube.com/watch?v=vS8jNklD5s8",
+      "https://www.youtube.com/watch?v=_WvdeubudAE"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "WN8IxUy4vhY"
     },
     "tags": [
       "music-show"
@@ -2104,7 +2397,11 @@
     "credits": {
       "broadcaster": "KBS 2TV",
       "program": "Music Bank"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=WN8IxUy4vhY"
+    },
+    "editor_note": "公式動画: KBS Kpop「Super Shy - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230721 방송」(2023-07-21); 関連5本をreference_urlsに記載"
   },
   {
     "id": "tv-2023-07-22-music-core-super-shy-win",
@@ -2144,7 +2441,7 @@
       "broadcaster": "MBC",
       "program": "Show! Music Core"
     },
-    "editor_note": "Points per Music Core chart list; nominees and appearance not confirmed."
+    "editor_note": "Points per Music Core chart list; nominees and appearance not confirmed. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
   },
   {
     "id": "tv-2023-07-23-inkigayo-super-shy-win",
@@ -2166,10 +2463,15 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://www.youtube.com/watch?v=7ZoPe5Rb7i0",
+      "https://www.youtube.com/watch?v=grZQ8e5Z3dI",
+      "https://www.youtube.com/watch?v=KKwi6BnWSmU",
+      "https://www.youtube.com/watch?v=crYY_Y9OczU"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "6xejzrLNGo8"
     },
     "tags": [
       "music-show",
@@ -2184,7 +2486,10 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Nominees per Korean press summary (Jul 23, 2023)."
+    "editor_note": "Nominees per Korean press summary (Jul 23, 2023). / 公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - ETA @인기가요 inkigayo 20230723」(2023-07-23); 関連4本をreference_urlsに記載",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=6xejzrLNGo8"
+    }
   },
   {
     "id": "tv-2023-07-28-music-bank-eta",
@@ -2205,9 +2510,14 @@
       "en": "Performed ETA on Music Bank."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=5qkoUt52MMw",
+      "https://www.youtube.com/watch?v=Nvo15vIrzRQ",
+      "https://www.youtube.com/watch?v=TBAqeYacoZ0"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "ZWE6uaN241U"
     },
     "tags": [
       "music-show"
@@ -2220,7 +2530,11 @@
     "credits": {
       "broadcaster": "KBS 2TV",
       "program": "Music Bank"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ZWE6uaN241U"
+    },
+    "editor_note": "公式動画: KBS Kpop「ETA - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230728 방송」(2023-07-28); 関連3本をreference_urlsに記載"
   },
   {
     "id": "tv-2023-07-30-inkigayo-eta",
@@ -2241,9 +2555,12 @@
       "en": "Performed ETA on Inkigayo."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=fmug4-ozV6E"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "_H1ilQy12uE"
     },
     "tags": [
       "music-show"
@@ -2256,7 +2573,11 @@
     "credits": {
       "broadcaster": "SBS",
       "program": "Inkigayo"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=_H1ilQy12uE"
+    },
+    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - ETA @인기가요 inkigayo 20230730」(2023-07-30); 関連1本をreference_urlsに記載"
   },
   {
     "id": "tv-2023-08-03-lollapalooza-chicago-stream",
@@ -2279,7 +2600,8 @@
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "Xw-rOxA0ItI"
     },
     "tags": [
       "us",
@@ -2287,7 +2609,7 @@
       "stream"
     ],
     "verified": false,
-    "editor_note": "Festival performance; broadcast/streaming platform not verified from an official source. | Hulu stream per Hulu schedule and American Songwriter; Weverse stream not confirmed by a source found. Set time per NME stage-times feature.",
+    "editor_note": "Festival performance; broadcast/streaming platform not verified from an official source. | Hulu stream per Hulu schedule and American Songwriter; Weverse stream not confirmed by a source found. Set time per NME stage-times feature. / 公式動画: NewJeans「NewJeans (뉴진스) Live @ Lollapalooza 2023 (Full Performance)」(2023-08-07)",
     "detail": {
       "ja": "2023年8月3日（現地時間）、米シカゴのグラント・パークで開かれた『Lollapalooza 2023』初日に、NewJeansがT-Mobileステージで17時からの枠に出演した。K-POPのガールグループとして同フェスティバル初の出演である。同フェスはHuluが8月3日から6日まで配信し、NewJeansの出演枠はHuluのチャンネル1で米東部時間18時05分に案内されていた。セットリストはコカ・コーラとのコラボ曲を除く全楽曲で構成された。",
       "en": "On August 3, 2023 (local time), NewJeans performed on the T-Mobile Stage in the 5 pm slot on day one of Lollapalooza 2023 in Grant Park, Chicago, the first K-pop girl group to play the festival. Hulu streamed the festival from August 3 to 6, with the NewJeans set listed on Hulu's Channel 1 at 6:05 pm ET. The set covered the group's catalogue except the Coca-Cola collaborations."
@@ -2295,6 +2617,9 @@
     "credits": {
       "venue": "Grant Park, Chicago (T-Mobile Stage)",
       "streaming": "Hulu"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Xw-rOxA0ItI"
     }
   },
   {
@@ -2316,9 +2641,13 @@
       "en": "Performed ETA on Music Bank."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=qwSeH9oocpM",
+      "https://www.youtube.com/watch?v=pDNltrE3LMo"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "N3JN676kYGE"
     },
     "tags": [
       "music-show"
@@ -2332,7 +2661,10 @@
       "broadcaster": "KBS 2TV",
       "program": "Music Bank"
     },
-    "editor_note": "Whether this stage was pre-recorded is not confirmed."
+    "editor_note": "Whether this stage was pre-recorded is not confirmed. / 公式動画: KBS Kpop「ETA - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230804 방송」(2023-08-04); 関連2本をreference_urlsに記載",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=N3JN676kYGE"
+    }
   },
   {
     "id": "tv-2023-08-06-inkigayo-super-shy",
@@ -2353,9 +2685,12 @@
       "en": "Performed Super Shy on Inkigayo."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=sw7UIeR_6Uc"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "nTUX-kRP17Q"
     },
     "tags": [
       "music-show"
@@ -2368,7 +2703,11 @@
     "credits": {
       "broadcaster": "SBS",
       "program": "Inkigayo"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=nTUX-kRP17Q"
+    },
+    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - Super Shy @인기가요 inkigayo 20230806」(2023-08-06); 関連1本をreference_urlsに記載"
   },
   {
     "id": "tv-2023-08-10-k-global-heart-dream-awards-2023",
@@ -2405,7 +2744,7 @@
       "venue": "KSPO Dome, Seoul",
       "host": "Jun Hyun-moo, Jang Do-yeon"
     },
-    "editor_note": "Per OSEN (Aug 9, 2023); whether NewJeans attended or performed is not confirmed."
+    "editor_note": "Per OSEN (Aug 9, 2023); whether NewJeans attended or performed is not confirmed. / 公式YouTube動画なし: No official organizer/broadcaster clip found for the 2023 K-Global Heart Dream Awards"
   },
   {
     "id": "tv-2023-08-10-mcountdown-eta-win",
@@ -2443,7 +2782,7 @@
       "broadcaster": "Mnet",
       "program": "M COUNTDOWN"
     },
-    "editor_note": "Per Xports News (Aug 10, 2023)."
+    "editor_note": "Per Xports News (Aug 10, 2023). / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
   },
   {
     "id": "tv-2023-08-13-inkigayo-cool-with-you",
@@ -2464,9 +2803,12 @@
       "en": "Performed Cool with You on Inkigayo."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=O0qtb-MB7O4"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "d0_q9F8l9Hc"
     },
     "tags": [
       "music-show"
@@ -2479,7 +2821,11 @@
     "credits": {
       "broadcaster": "SBS",
       "program": "Inkigayo"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=d0_q9F8l9Hc"
+    },
+    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - Cool With You @인기가요 inkigayo 20230813」(2023-08-13); 関連1本をreference_urlsに記載"
   },
   {
     "id": "tv-2023-08-16-show-champion-super-shy-win",
@@ -2517,7 +2863,7 @@
       "broadcaster": "MBC M",
       "program": "Show Champion"
     },
-    "editor_note": "Points and highlight-episode note per Show Champion chart list; TOP5 nominees not retrieved."
+    "editor_note": "Points and highlight-episode note per Show Champion chart list; TOP5 nominees not retrieved. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
   },
   {
     "id": "tv-2023-08-17-mcountdown-eta-win-2",
@@ -2555,7 +2901,7 @@
       "broadcaster": "Mnet",
       "program": "M COUNTDOWN"
     },
-    "editor_note": "Per M Countdown chart list (Mnet Plus celebration party citation); nominees not confirmed."
+    "editor_note": "Per M Countdown chart list (Mnet Plus celebration party citation); nominees not confirmed. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
   },
   {
     "id": "tv-2023-08-20-inkigayo-super-shy-win-2",
@@ -2593,7 +2939,7 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Per Mydaily (Aug 20, 2023)."
+    "editor_note": "Per Mydaily (Aug 20, 2023). / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
   },
   {
     "id": "tv-2023-08-25-music-bank-asap",
@@ -2614,9 +2960,14 @@
       "en": "Performed ASAP on Music Bank."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=MYLonsG8AZI",
+      "https://www.youtube.com/watch?v=NUYai_zF7wM",
+      "https://www.youtube.com/watch?v=V-ElZIgwHxU"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "vGxy5Imv6Nc"
     },
     "tags": [
       "music-show"
@@ -2629,7 +2980,11 @@
     "credits": {
       "broadcaster": "KBS 2TV",
       "program": "Music Bank"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=vGxy5Imv6Nc"
+    },
+    "editor_note": "公式動画: KBS Kpop「ASAP - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230825 방송」(2023-08-25); 関連3本をreference_urlsに記載"
   },
   {
     "id": "tv-2023-08-27-inkigayo-super-shy-win-3",
@@ -2651,10 +3006,14 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://www.youtube.com/watch?v=CYBFPM-ktW4",
+      "https://www.youtube.com/watch?v=GgU-q_KTiKY",
+      "https://www.youtube.com/watch?v=uixHWGeBDag"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "SGhugk1FsXo"
     },
     "tags": [
       "music-show",
@@ -2669,7 +3028,10 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Per Star News headline (Aug 27, 2023: NewJeans beat NewJeans); points not retrieved."
+    "editor_note": "Per Star News headline (Aug 27, 2023: NewJeans beat NewJeans); points not retrieved. / 公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - ASAP @인기가요 inkigayo 20230827」(2023-08-28); 関連3本をreference_urlsに記載",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=SGhugk1FsXo"
+    }
   },
   {
     "id": "tv-2023-09-03-inkigayo-eta-win",
@@ -2707,7 +3069,7 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Points per Asia Economy (stoo.com) report of Sept 3, 2023; nominees not legible in source."
+    "editor_note": "Points per Asia Economy (stoo.com) report of Sept 3, 2023; nominees not legible in source. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
   },
   {
     "id": "tv-2023-09-10-inkigayo-eta-win-2",
@@ -2745,7 +3107,7 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Per Inkigayo 2023 chart list and ja.wikipedia win table."
+    "editor_note": "Per Inkigayo 2023 chart list and ja.wikipedia win table. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
   },
   {
     "id": "tv-2023-09-14-nhk-music-expo-2023",
@@ -2785,7 +3147,7 @@
       "program": "NHK MUSIC EXPO 2023",
       "host": "Ryota Yamasato"
     },
-    "editor_note": "A later extended edition (Nov 4, 2023, BS4K) added an OMG performance; omitted from reader text as post-dated."
+    "editor_note": "A later extended edition (Nov 4, 2023, BS4K) added an OMG performance; omitted from reader text as post-dated. / 公式YouTube動画なし: NHK does not publish MUSIC EXPO performances on YouTube; no official upload found"
   },
   {
     "id": "tv-2023-10-10-the-fact-music-awards-2023",
@@ -2807,10 +3169,12 @@
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
-      "https://ja.wikipedia.org/wiki/NewJeans"
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=jeKFPHa9Kec"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "ND0uxS6pxFk"
     },
     "tags": [
       "award-show"
@@ -2824,7 +3188,11 @@
       "venue": "Namdong Gymnasium, Incheon",
       "organizer": "The Fact / Fan N Star",
       "host": "Jun Hyun-moo, Seohyun"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ND0uxS6pxFk"
+    },
+    "editor_note": "公式動画:  THE FACT MUSIC AWARDS「[2023 더팩트 뮤직 어워즈] NewJeans (뉴진스) 'Super Shy' + 'ETA' @TMA」(2025-02-03); 関連1本をreference_urlsに記載"
   },
   {
     "id": "tv-2023-10-21-venue101-presents-get-up-live",
@@ -2862,7 +3230,8 @@
     "credits": {
       "broadcaster": "NHK General TV",
       "program": "Venue101 Presents NewJeans \"Get Up\" Live"
-    }
+    },
+    "editor_note": "公式YouTube動画なし: NHK does not publish Venue101 performances on YouTube; no official upload found"
   },
   {
     "id": "tv-2023-10-22-music-bank-in-mexico",
@@ -2892,7 +3261,7 @@
       "world-tour"
     ],
     "verified": false,
-    "editor_note": "Date is the event date; KBS broadcast date not confirmed. | Broadcast date Nov 5, 2023 per KBS preview (Daum/News1, Nov 3, 2023).",
+    "editor_note": "Date is the event date; KBS broadcast date not confirmed. | Broadcast date Nov 5, 2023 per KBS preview (Daum/News1, Nov 3, 2023). / 公式YouTube動画なし: No KBS Kpop / KBS WORLD TV clip of NewJeans at Music Bank in Mexico found",
     "detail": {
       "ja": "2023年10月22日、メキシコシティのパラシオ・デ・ロス・デポルテスでKBS『ミュージックバンク』のワールドツアー第17回公演『MUSIC BANK in MEXICO』が開かれ、NewJeansが出演した。司会はパク・ボゴムで、出演はNewJeans、（G）I-DLE、ITZY、STAYC、AB6IX、TNXの6組。NewJeansは「Hype Boy」「OMG」「New Jeans」「Super Shy」「ETA」を披露し、ダニエルは『リトル・マーメイド』のOST「Part of Your World」をライブで初めて歌い、ハニは（G）I-DLEのミンニと「Recuérdame」を歌った。KBS 2TVでの放送は11月5日23時15分と予告された。",
       "en": "On October 22, 2023, KBS's Music Bank World Tour held its 17th show, Music Bank in Mexico, at Palacio de los Deportes in Mexico City, with NewJeans among six acts alongside (G)I-dle, ITZY, STAYC, AB6IX and TNX; Park Bo-gum hosted. NewJeans performed Hype Boy, OMG, New Jeans, Super Shy and ETA; Danielle sang Part of Your World from The Little Mermaid live for the first time, and Hanni sang Recuérdame with Minnie of (G)I-dle. KBS 2TV scheduled the broadcast for November 5 at 11:15 pm."
@@ -2925,10 +3294,15 @@
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
-      "https://ja.wikipedia.org/wiki/NewJeans"
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=BI4SnEZ_e2Q",
+      "https://www.youtube.com/watch?v=KMGeWyu4FbE",
+      "https://www.youtube.com/watch?v=1Nppg1IbmSM",
+      "https://www.youtube.com/watch?v=57TROO9jLAI"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "zGCAGWdXHPM"
     },
     "tags": [
       "award-show",
@@ -2942,7 +3316,11 @@
     "credits": {
       "organizer": "Billboard / Dick Clark Productions",
       "streaming": "billboard.com, BBMAs.watch"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=zGCAGWdXHPM"
+    },
+    "editor_note": "公式動画: NewJeans「NewJeans (뉴진스) 2023 Billboard Music Awards (Super Shy+OMG)」(2023-12-19); 関連4本をreference_urlsに記載"
   },
   {
     "id": "tv-2023-11-24-blue-dragon-film-awards-44",
@@ -2963,9 +3341,14 @@
       "en": "Performed ETA and Super Shy at the 44th Blue Dragon Film Awards."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=WDFephZ_Q94",
+      "https://www.youtube.com/watch?v=P1z0D64qJKA",
+      "https://www.youtube.com/watch?v=xIU__uoVqdA"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "yIBQpq5CHMA"
     },
     "tags": [
       "award-show"
@@ -2979,7 +3362,11 @@
       "venue": "KBS Hall, Seoul",
       "broadcaster": "KBS2",
       "host": "Kim Hye-soo, Yoo Yeon-seok"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=yIBQpq5CHMA"
+    },
+    "editor_note": "公式動画: KBS Entertain「NewJeans, ‘INTRO + ETA & Super Shy’ Celebratory Performance [The 44th Blue Dragon Film Awards] | ...」(2023-11-24); 関連3本をreference_urlsに記載"
   },
   {
     "id": "tv-2023-11-30-newjeans-yearbook-22-23",
@@ -3000,22 +3387,29 @@
       "en": "Documentary VOD covering the group's first year, released by ADOR/Hybe."
     },
     "source_url": "https://en.wikipedia.org/wiki/NewJeans_videography",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=HramRxsThE4",
+      "https://www.youtube.com/watch?v=AEpg7yJG-Ac"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "XSJqQaZfZLQ"
     },
     "tags": [
       "documentary",
       "vod"
     ],
     "verified": false,
-    "editor_note": "VOD release rather than a TV broadcast; date_type set to broadcast for sorting consistency with other video programs. | not enriched: no source found beyond the input; platform and runtime unverified.",
+    "editor_note": "VOD release rather than a TV broadcast; date_type set to broadcast for sorting consistency with other video programs. | not enriched: no source found beyond the input; platform and runtime unverified. / 公式動画: NewJeans「[Preview] NewJeans (뉴진스) Yearbook 22-23 Preview Clip #1」(2023-10-26); 関連2本をreference_urlsに記載",
     "detail": {
       "ja": "2023年11月30日、ADORとHYBEがNewJeansの最初の1年を追ったドキュメンタリー映像作品『NewJeans Yearbook 22-23』をVODとして公開した。デビュー準備から2023年の活動までを記録した内容で、テレビ放送ではなく映像配信としてリリースされた。",
       "en": "On November 30, 2023, ADOR and HYBE released NewJeans Yearbook 22-23, a documentary video covering the group's first year from debut preparations through 2023 activities, as a VOD title rather than a television broadcast."
     },
     "credits": {
       "producer": "ADOR / HYBE"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=XSJqQaZfZLQ"
     }
   },
   {
@@ -3038,10 +3432,14 @@
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
-      "https://ja.wikipedia.org/wiki/NewJeans"
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=MO3uEWJv4OY",
+      "https://www.youtube.com/watch?v=nDlNPbPnMUU",
+      "https://www.youtube.com/watch?v=jZSVOfmeVTs"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "MfO1FenJbKI"
     },
     "tags": [
       "award-show"
@@ -3055,7 +3453,11 @@
       "venue": "Inspire Arena, Incheon",
       "organizer": "Kakao Entertainment / Melon",
       "host": "An Yu-jin"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=MfO1FenJbKI"
+    },
+    "editor_note": "公式動画: Melon「[MMA2023] NewJeans - FULL Performance | #NewJeans #SuperShy #ETA #CoolWithYou #GetUp #ASAP #MMA2023」(2023-12-02); 関連3本をreference_urlsに記載"
   },
   {
     "id": "tv-2023-12-09-music-bank-global-festival-2023-japan",
@@ -3093,7 +3495,8 @@
       "broadcaster": "KBS 2TV",
       "venue": "Belluna Dome, Tokorozawa",
       "host": "Rowoon, Go Min-si, Lee Young-ji"
-    }
+    },
+    "editor_note": "公式YouTube動画なし: No KBS clip for the 2023 Music Bank Global Festival in Japan (Belluna Dome) found"
   },
   {
     "id": "tv-2023-12-14-asia-artist-awards-2023",
@@ -3115,10 +3518,14 @@
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
-      "https://ja.wikipedia.org/wiki/NewJeans"
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=YI-AtARfI7o",
+      "https://www.youtube.com/watch?v=hVJNEthXXoI",
+      "https://www.youtube.com/watch?v=LK6uf5xJgDM"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "5LxNE3usT40"
     },
     "tags": [
       "award-show"
@@ -3132,7 +3539,11 @@
       "venue": "Philippine Arena, Bocaue",
       "organizer": "Star News",
       "host": "Kang Daniel, Jang Won-young, Sung Han-bin"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=5LxNE3usT40"
+    },
+    "editor_note": "公式動画: ASIA ARTIST AWARDS 스타뉴스「[#AAA2023] NewJeans (뉴진스) - Broadcast Stage | Official Video」(2023-12-14); 関連3本をreference_urlsに記載"
   },
   {
     "id": "tv-2023-12-15-music-bank-global-festival-2023-seoul",
@@ -3170,7 +3581,7 @@
       "program": "2023 MUSIC BANK GLOBAL FESTIVAL",
       "host": "Rowoon, Jang Won-young (Part 1); Rowoon, Go Min-si, Lee Young-ji (Part 2)"
     },
-    "editor_note": "Correction: OSEN/Ilgan Sports (Dec 16, 2023) and the KBS Song Festival lineup place NewJeans in Part 2 (Japan, recorded Dec 9), not in the live KBS Hall Part 1. The previous summary ('performed at the Seoul leg') is not supported."
+    "editor_note": "Correction: OSEN/Ilgan Sports (Dec 16, 2023) and the KBS Song Festival lineup place NewJeans in Part 2 (Japan, recorded Dec 9), not in the live KBS Hall Part 1. The previous summary ('performed at the Seoul leg') is not supported. / 公式YouTube動画なし: No KBS Kpop / KBS WORLD TV NewJeans clip dated 231215 found"
   },
   {
     "id": "tv-2023-12-25-sbs-gayo-daejeon-2023",
@@ -3191,9 +3602,13 @@
       "en": "Performed New Jeans, ETA, Ditto and OMG (FRNK remix) at the 2023 SBS Gayo Daejeon."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=0RpjSMHBzo8",
+      "https://www.youtube.com/watch?v=zFJPBVOLr8s"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "tR9LwwP3Ms4"
     },
     "tags": [
       "year-end"
@@ -3207,7 +3622,11 @@
       "broadcaster": "SBS",
       "venue": "Inspire Arena, Incheon",
       "host": "Key, An Yu-jin, Yeonjun"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=tR9LwwP3Ms4"
+    },
+    "editor_note": "公式動画: SBSKPOP X INKIGAYO「Newjeans (뉴진스) - New Jeans + Ditto + OMG – FRNK Remix @가요대전 GayoDaejeon20231225」(2023-12-25); 関連2本をreference_urlsに記載"
   },
   {
     "id": "tv-2023-12-27-ntv-music-award-2023",
@@ -3245,7 +3664,8 @@
     "credits": {
       "broadcaster": "Nippon TV",
       "program": "発表!今年イチバン聴いた歌～年間ミュージックアワード2023～"
-    }
+    },
+    "editor_note": "公式YouTube動画なし: NTV does not publish performance clips on YouTube; no official upload found"
   },
   {
     "id": "tv-2023-12-30-japan-record-awards-65",
@@ -3286,7 +3706,8 @@
       "venue": "New National Theatre, Tokyo",
       "organizer": "Japan Composer's Association",
       "host": "Shinichiro Azumi, Haruna Kawaguchi"
-    }
+    },
+    "editor_note": "公式YouTube動画なし: TBS does not publish Japan Record Awards performances on YouTube; no official upload found"
   },
   {
     "id": "tv-2023-12-31-dick-clarks-new-years-rockin-eve",
@@ -3311,7 +3732,8 @@
       "https://en.wikipedia.org/wiki/NewJeans"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "k6vqIRScUTs"
     },
     "tags": [
       "us"
@@ -3326,7 +3748,10 @@
       "program": "Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2024",
       "producer": "Dick Clark Productions"
     },
-    "editor_note": "Recorded-in-Korea detail per ja.wikipedia Kohaku article; Billboard lineup announcement dated Dec 13, 2023."
+    "editor_note": "Recorded-in-Korea detail per ja.wikipedia Kohaku article; Billboard lineup announcement dated Dec 13, 2023. / 公式動画: NewJeans「NewJeans (뉴진스) New Year’s Rockin’ Eve 2024 (ETA+Super Shy)」(2024-01-01)",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=k6vqIRScUTs"
+    }
   },
   {
     "id": "tv-2023-12-31-nhk-kohaku-74",
@@ -3359,7 +3784,7 @@
       "year-end"
     ],
     "verified": true,
-    "editor_note": "Confirmed via a Dec 29, 2023 preview article (Yonhap via Daum); performance was pre-recorded per that report. | Removed 'before their Japanese debut' (the Japan debut had not been announced as of 2023-12-31).",
+    "editor_note": "Confirmed via a Dec 29, 2023 preview article (Yonhap via Daum); performance was pre-recorded per that report. | Removed 'before their Japanese debut' (the Japan debut had not been announced as of 2023-12-31). / 公式YouTube動画なし: NHK does not publish Kohaku performances on YouTube; no official upload found",
     "detail": {
       "ja": "2023年12月31日、NHK総合ほかで放送された『第74回NHK紅白歌合戦』にNewJeansが特別企画枠で初出場し、「OMG」「ETA」「Ditto」のスペシャルメドレーを披露した。出場は12月29日に発表され、メドレーの映像は事前収録であることが告知されていた。放送順は後半の10-FEETの次で、ディズニー100周年スペシャルメドレーの前。オープニングとYOASOBI「アイドル」のコラボステージにはNHKホールに生出演した。",
       "en": "NewJeans made their first appearance on NHK's 74th Kohaku Uta Gassen (第74回NHK紅白歌合戦) on December 31, 2023 as a special-feature act, performing a special medley of OMG, ETA and Ditto. Their participation was announced on December 29, and NHK stated in advance that the performance footage was pre-recorded. The medley aired in the second half after 10-FEET and before the Disney 100th anniversary medley; the members appeared live at NHK Hall for the opening and YOASOBI's Idol collaboration stage."
@@ -3390,10 +3815,14 @@
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
-      "https://ja.wikipedia.org/wiki/NewJeans"
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=JmZwZmi6g3Y",
+      "https://www.youtube.com/watch?v=UPGD8Gfpbt4",
+      "https://www.youtube.com/watch?v=8FpaiZrVoho"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "bbsZQ8x6i7U"
     },
     "tags": [
       "award-show"
@@ -3407,7 +3836,11 @@
       "venue": "Jakarta International Stadium, Jakarta",
       "broadcaster": "JTBC",
       "host": "Sung Si-kyung, Cha Eun-woo"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=bbsZQ8x6i7U"
+    },
+    "editor_note": "公式動画: Golden Disc「[38th Golden Disc Awards] NewJeans - Cool With You + Ditto♪｜JTBC 240106 방송」(2024-01-06); 関連3本をreference_urlsに記載"
   },
   {
     "id": "tv-2024-01-07-nhk-special-sekai-ni-hibiku-uta",
@@ -3444,7 +3877,8 @@
     "credits": {
       "broadcaster": "NHK General TV",
       "program": "NHKスペシャル 世界に響く歌～日韓POPS新時代～"
-    }
+    },
+    "editor_note": "公式YouTube動画なし: NHK did not upload the documentary; NHK MUSIC only posted a related Min Hee-jin interview excerpt (kUMl6mqXXyc, 2024-02-27)"
   },
   {
     "id": "tv-2024-03-06-billboard-women-in-music-2024",
@@ -3466,10 +3900,15 @@
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/NewJeans"
+      "https://en.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=SU2btdJYRgU",
+      "https://www.youtube.com/watch?v=fkR9B_QQvlM",
+      "https://www.youtube.com/watch?v=r5EDjVzzlHo",
+      "https://www.youtube.com/watch?v=e4TaDn2d058"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "8sHI3CSlxeQ"
     },
     "tags": [
       "award-show",
@@ -3483,7 +3922,11 @@
     "credits": {
       "venue": "YouTube Theater, Inglewood",
       "organizer": "Billboard"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=8sHI3CSlxeQ"
+    },
+    "editor_note": "公式動画: Billboard「NewJeans Performs “Super Shy” & “ETA” | Billboard Women In Music 2024」(2024-03-07); 関連4本をreference_urlsに記載"
   },
   {
     "id": "tv-2024-05-21-korea-on-stage-gyeongbokgung",
@@ -3504,15 +3947,24 @@
       "en": "Performed at KBS's Korea on Stage at Gyeongbokgung Palace."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=n_sh0TCZBfQ",
+      "https://www.youtube.com/watch?v=4ey8eGaz4EQ",
+      "https://www.youtube.com/watch?v=JOa0ZY05IZI",
+      "https://www.youtube.com/watch?v=JaG0AN_ciAg",
+      "https://www.youtube.com/watch?v=5zLxU1c9uvw",
+      "https://www.youtube.com/watch?v=zPzWASLWNSo",
+      "https://www.youtube.com/watch?v=ayvuwwguxZQ"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "px6COR5Xpug"
     },
     "tags": [
       "special"
     ],
     "verified": false,
-    "editor_note": "Event date; KBS broadcast date not confirmed. | Broadcast same day at 23:15 KST per The Fact (May 2024).",
+    "editor_note": "Event date; KBS broadcast date not confirmed. | Broadcast same day at 23:15 KST per The Fact (May 2024). / 公式動画: KBS Kpop「Super Shy - New Jeans [코리아 온 스테이지 - 뉴제너레이션] | KBS 240521 방송」(2024-05-21); 関連7本をreference_urlsに記載",
     "detail": {
       "ja": "2024年5月21日19時30分、ソウル・景福宮の興礼門前特設舞台で『2024コリア・オン・ステージ―ニュージェネレーション』が開かれ、KBS 2TVが同日23時15分から放送した。国家遺産庁の主催、国家遺産振興院とKBSの主管で、国家遺産庁の発足を記念する公演である。司会はNewJeansのダニエルが単独で務めた。NewJeansは最後に登場し、勤政殿で事前収録した「Cool With You」のスペシャルステージ映像に続き、「Ditto」「ETA」「Super Shy」を披露した。足を負傷したヘインは不参加で、4人での出演であった。KBS Worldが142か国に配信した。",
       "en": "The 2024 Korea on Stage – New Generation concert was held on May 21, 2024 at 7:30 pm on a special stage in front of Heungnyemun Gate at Gyeongbokgung Palace, Seoul, and aired on KBS 2TV at 11:15 pm the same day. Hosted by the Korea Heritage Service and organized by the Korea Heritage Agency and KBS to mark the agency's launch, the show was emceed solely by NewJeans' Danielle. NewJeans closed the program with a pre-recorded Cool With You special stage filmed at Geunjeongjeon Hall, followed by Ditto, ETA and Super Shy. Hyein, recovering from a foot injury, did not take part, so four members performed. KBS World carried the show to 142 countries."
@@ -3522,6 +3974,9 @@
       "venue": "Heungnyemun Gate, Gyeongbokgung Palace, Seoul",
       "organizer": "Korea Heritage Service / Korea Heritage Agency / KBS",
       "host": "Danielle"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=px6COR5Xpug"
     }
   },
   {
@@ -3546,9 +4001,17 @@
       "en": "Comeback stage with How Sweet and Bubble Gum (Hyein absent due to injury)."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=eTe7zOrZLUQ",
+      "https://www.youtube.com/watch?v=LwG1g5kFIWM",
+      "https://www.youtube.com/watch?v=rrA_u5Bi6yo",
+      "https://www.youtube.com/watch?v=xma5WwSGZw4",
+      "https://www.youtube.com/watch?v=UEELqlGOl_k",
+      "https://www.youtube.com/watch?v=zEFJpZ3U2rI"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "VA2h790SEPA"
     },
     "tags": [
       "music-show",
@@ -3562,7 +4025,11 @@
     "credits": {
       "broadcaster": "KBS 2TV",
       "program": "Music Bank"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=VA2h790SEPA"
+    },
+    "editor_note": "公式動画: KBS Kpop「How Sweet - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240524 방송」(2024-05-24); 関連6本をreference_urlsに記載"
   },
   {
     "id": "tv-2024-05-26-inkigayo-how-sweet-comeback-stage",
@@ -3586,9 +4053,16 @@
       "en": "Performed How Sweet and Bubble Gum on Inkigayo."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=-JFyYFJ7JH4",
+      "https://www.youtube.com/watch?v=m83YO2QZP-0",
+      "https://www.youtube.com/watch?v=k5jUwbAPrpo",
+      "https://www.youtube.com/watch?v=iuyqMFvIygo",
+      "https://www.youtube.com/watch?v=lQQm-rzNWDk"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "7fg_klS-2kw"
     },
     "tags": [
       "music-show",
@@ -3602,7 +4076,11 @@
     "credits": {
       "broadcaster": "SBS",
       "program": "Inkigayo"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=7fg_klS-2kw"
+    },
+    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) – How Sweet @인기가요 inkigayo 20240526」(2024-05-26); 関連5本をreference_urlsに記載"
   },
   {
     "id": "tv-2024-05-29-show-champion-how-sweet-win",
@@ -3642,7 +4120,7 @@
       "broadcaster": "MBC M",
       "program": "Show Champion"
     },
-    "editor_note": "Points per Show Champion chart list; TOP5 nominees not retrieved."
+    "editor_note": "Points per Show Champion chart list; TOP5 nominees not retrieved. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
   },
   {
     "id": "tv-2024-05-31-music-bank-how-sweet-win",
@@ -3665,10 +4143,16 @@
     "source_url": "https://en.wikipedia.org/wiki/How_Sweet",
     "reference_urls": [
       "https://ja.wikipedia.org/wiki/NewJeans",
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://www.youtube.com/watch?v=fvozIPz40eM",
+      "https://www.youtube.com/watch?v=fgkwEt3sCEM",
+      "https://www.youtube.com/watch?v=mWG_3MTr4kc",
+      "https://www.youtube.com/watch?v=KkHkn6IXhCg",
+      "https://www.youtube.com/watch?v=PJgVo3M7Sxk"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "JqjanOFxr-Q"
     },
     "tags": [
       "music-show",
@@ -3683,45 +4167,10 @@
       "broadcaster": "KBS 2TV",
       "program": "Music Bank"
     },
-    "editor_note": "Points per Music Bank chart list; competing nominee and performance not confirmed."
-  },
-  {
-    "id": "tv-2024-06-02-k-wave-concert-inkigayo",
-    "date": "2024-06-02",
-    "date_type": "broadcast",
-    "date_precision": "day",
-    "category": "tv",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "SBS『K-Wave Concert 人気歌謡』",
-      "en": "K-Wave Concert Inkigayo (SBS)"
-    },
-    "summary": {
-      "ja": "インスパイアアリーナで開催されたSBS『K-Wave Concert 人気歌謡』で「How Sweet」「Bubble Gum」「ETA」を披露。",
-      "en": "Performed How Sweet, Bubble Gum and ETA at SBS's K-Wave Concert Inkigayo."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "special"
-    ],
-    "verified": false,
-    "detail": {
-      "ja": "2024年6月2日、仁川のINSPIREアリーナで開かれたSBS『K-Wave Concert Inkigayo（K-WAVE 콘서트 인기가요）』にNewJeansが出演し、「How Sweet」「Bubble Gum」「ETA」を披露した。『人気歌謡』の特別編として編成された公演である。",
-      "en": "On June 2, 2024, NewJeans performed How Sweet, Bubble Gum and ETA at SBS's K-Wave Concert Inkigayo, a special concert edition of Inkigayo held at Inspire Arena in Incheon."
-    },
-    "credits": {
-      "broadcaster": "SBS",
-      "program": "K-Wave Concert Inkigayo",
-      "venue": "Inspire Arena, Incheon"
-    },
-    "editor_note": "Set per en.wikipedia live-performance list only."
+    "editor_note": "Points per Music Bank chart list; competing nominee and performance not confirmed. / 公式動画: KBS Kpop「How Sweet - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240531 방송」(2024-05-31); 関連5本をreference_urlsに記載",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=JqjanOFxr-Q"
+    }
   },
   {
     "id": "tv-2024-06-07-music-bank-how-sweet",
@@ -3742,9 +4191,13 @@
       "en": "Performed How Sweet on Music Bank."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=IEhmB-RpoX4",
+      "https://www.youtube.com/watch?v=UxGfaCjOSIM"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "q2xhULuEFjM"
     },
     "tags": [
       "music-show"
@@ -3757,7 +4210,11 @@
     "credits": {
       "broadcaster": "KBS 2TV",
       "program": "Music Bank"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=q2xhULuEFjM"
+    },
+    "editor_note": "公式動画: KBS Kpop「How Sweet - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240607 방송」(2024-06-07); 関連2本をreference_urlsに記載"
   },
   {
     "id": "tv-2024-06-08-music-core-how-sweet-win",
@@ -3797,7 +4254,7 @@
       "broadcaster": "MBC",
       "program": "Show! Music Core"
     },
-    "editor_note": "Points per Music Core chart list."
+    "editor_note": "Points per Music Core chart list. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
   },
   {
     "id": "tv-2024-06-09-2-days-1-night-season4",
@@ -3822,9 +4279,18 @@
       "en": "First terrestrial variety appearance, on KBS2's 2 Days & 1 Night (Cheorwon episode); Hyein absent due to injury."
     },
     "source_url": "https://sports.khan.co.kr/article/202406091112003",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=-LH-dPvNX0E",
+      "https://www.youtube.com/watch?v=vYYEsVfnAUc",
+      "https://www.youtube.com/watch?v=QYlwinrWJp0",
+      "https://www.youtube.com/watch?v=Dwu3y2suwhI",
+      "https://www.youtube.com/watch?v=KBg4fcCR6I4",
+      "https://www.youtube.com/watch?v=7dVSvbKqabo",
+      "https://www.youtube.com/watch?v=vj9QvRrXFVU"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "WPfsMSGJioQ"
     },
     "tags": [
       "variety"
@@ -3837,6 +4303,55 @@
     "credits": {
       "broadcaster": "KBS 2TV",
       "program": "2 Days & 1 Night Season 4"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=WPfsMSGJioQ"
+    },
+    "editor_note": "公式動画: KBS Entertain「1박 2일에 뉴진스가 떴다! 요정들의 첫 지상파 예능 나들이! [1박 2일 시즌4/Two Days and One Night 4] | KBS 240609 방송」(2024-06-09); 関連7本をreference_urlsに記載"
+  },
+  {
+    "id": "tv-2024-06-09-k-wave-concert-inkigayo",
+    "date": "2024-06-09",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "tv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "SBS『K-Wave Concert 人気歌謡』",
+      "en": "K-Wave Concert Inkigayo (SBS)"
+    },
+    "summary": {
+      "ja": "仁川で開催されたSBS『K-Wave Concert 人気歌謡』で「How Sweet」「Bubble Gum」「ETA」を披露。6月9日放送。",
+      "en": "Performed How Sweet, Bubble Gum and ETA at SBS's K-Wave Concert Inkigayo."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=MJZE4OF7iSA",
+      "https://www.youtube.com/watch?v=SEENRl55Cy4"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "IBgtzAbnxwI"
+    },
+    "tags": [
+      "special"
+    ],
+    "verified": false,
+    "detail": {
+      "ja": "2024年6月2日に仁川のINSPIREアリーナで開かれたSBS『K-Wave Concert Inkigayo（K-WAVE 콘서트 인기가요）』にNewJeansが出演し、「How Sweet」「Bubble Gum」「ETA」を披露した。『人気歌謡』の特別編として編成され、6月9日にSBSで放送された。",
+      "en": "NewJeans performed How Sweet, Bubble Gum and ETA at SBS's K-Wave Concert Inkigayo, a special concert edition of Inkigayo held at Inspire Arena in Incheon on June 2, 2024. The show was broadcast on SBS on June 9."
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "program": "K-Wave Concert Inkigayo",
+      "venue": "Inspire Arena, Incheon"
+    },
+    "editor_note": "Set per en.wikipedia live-performance list only. / 公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) – INTRO+How Sweet @인기가요 inkigayo 20240609」(2024-06-09); 関連2本をreference_urlsに記載 / date moved to broadcast date 2024-06-09 per the broadcaster's official upload (was tv-2024-06-02-k-wave-concert-inkigayo)",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=IBgtzAbnxwI"
     }
   },
   {
@@ -3858,9 +4373,13 @@
       "en": "Performed Bubble Gum on Music Bank."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=90Jqld7le-k",
+      "https://www.youtube.com/watch?v=QyMvxt1F0D0"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "PWZDbAT3L7o"
     },
     "tags": [
       "music-show"
@@ -3873,7 +4392,11 @@
     "credits": {
       "broadcaster": "KBS 2TV",
       "program": "Music Bank"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=PWZDbAT3L7o"
+    },
+    "editor_note": "公式動画: KBS Kpop「Bubble Gum - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240614 방송」(2024-06-14); 関連2本をreference_urlsに記載"
   },
   {
     "id": "tv-2024-06-15-music-core-how-sweet-win-2",
@@ -3913,7 +4436,7 @@
       "broadcaster": "MBC",
       "program": "Show! Music Core"
     },
-    "editor_note": "Per Music Core chart list; nominees not confirmed."
+    "editor_note": "Per Music Core chart list; nominees not confirmed. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
   },
   {
     "id": "tv-2024-06-16-inkigayo-bubble-gum",
@@ -3934,9 +4457,13 @@
       "en": "Performed Bubble Gum on Inkigayo."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=HHXGpHqC0DM",
+      "https://www.youtube.com/watch?v=_HXblE3mKbQ"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "i6E8O-PhaVI"
     },
     "tags": [
       "music-show"
@@ -3949,7 +4476,11 @@
     "credits": {
       "broadcaster": "SBS",
       "program": "Inkigayo"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=i6E8O-PhaVI"
+    },
+    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) – Bubble Gum @인기가요 inkigayo 20240616」(2024-06-16); 関連2本をreference_urlsに記載"
   },
   {
     "id": "tv-2024-06-21-mezamashi-8",
@@ -3990,7 +4521,8 @@
     "credits": {
       "broadcaster": "Fuji TV",
       "program": "めざまし8"
-    }
+    },
+    "editor_note": "公式YouTube動画なし: Fuji TV has no Mezamashi 8 clip of NewJeans on YouTube (only the Mezamashi TV performance clip)"
   },
   {
     "id": "tv-2024-06-21-mezamashi-tv",
@@ -4018,7 +4550,8 @@
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "bNOo8Hajqg4"
     },
     "tags": [
       "japan-tv"
@@ -4031,7 +4564,11 @@
     "credits": {
       "broadcaster": "Fuji TV",
       "program": "めざましテレビ"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=bNOo8Hajqg4"
+    },
+    "editor_note": "公式動画: めざましテレビチャンネル「【NewJeans】日本デビュー曲「Supernatural」を「めざましテレビ」で世界初披露！」(2024-06-29)"
   },
   {
     "id": "tv-2024-06-21-music-station",
@@ -4059,7 +4596,8 @@
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "o3-_lQXfwWE"
     },
     "tags": [
       "japan-tv"
@@ -4072,7 +4610,11 @@
     "credits": {
       "broadcaster": "TV Asahi",
       "program": "ミュージックステーション"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=o3-_lQXfwWE"
+    },
+    "editor_note": "公式動画: MUSIC STATION「【初登場】NewJeansの最近怖かったことが可愛すぎる【Mステ】」(2024-06-21)"
   },
   {
     "id": "tv-2024-06-22-with-music",
@@ -4114,7 +4656,8 @@
       "broadcaster": "Nippon TV",
       "program": "with MUSIC",
       "host": "Yumiko Udo, Kohei Matsushita"
-    }
+    },
+    "editor_note": "公式YouTube動画なし: NTV does not publish with MUSIC performances on YouTube; no official upload found"
   },
   {
     "id": "tv-2024-06-24-cdtv-live-live",
@@ -4155,7 +4698,8 @@
     "credits": {
       "broadcaster": "TBS",
       "program": "CDTVライブ!ライブ!"
-    }
+    },
+    "editor_note": "公式YouTube動画なし: CDTV official channel has no clip for the 2024-06-24 broadcast (only 07-01 and 08-17 talk clips)"
   },
   {
     "id": "tv-2024-06-29-venue101",
@@ -4196,7 +4740,8 @@
     "credits": {
       "broadcaster": "NHK General TV",
       "program": "Venue101"
-    }
+    },
+    "editor_note": "公式YouTube動画なし: NHK does not publish Venue101 performances on YouTube; no official upload found"
   },
   {
     "id": "tv-2024-07-01-cdtv-live-live-2",
@@ -4224,7 +4769,8 @@
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "ew98NQudOSk"
     },
     "tags": [
       "japan-tv"
@@ -4237,7 +4783,11 @@
     "credits": {
       "broadcaster": "TBS",
       "program": "CDTVライブ!ライブ!"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ew98NQudOSk"
+    },
+    "editor_note": "公式動画: CDTV 公式YouTube「【CDTV】NewJeans⚡️変身したい動物発表！🐱」(2024-07-01)"
   },
   {
     "id": "tv-2024-07-02-j-wave-spark",
@@ -4275,7 +4825,8 @@
       "broadcaster": "J-WAVE",
       "program": "SPARK",
       "navigator": "Kazuki Arai (King Gnu)"
-    }
+    },
+    "editor_note": "公式YouTube動画なし: J-WAVE radio appearance; no official video upload"
   },
   {
     "id": "tv-2024-07-03-fns-music-festival-summer-2024",
@@ -4314,7 +4865,8 @@
       "broadcaster": "Fuji TV",
       "program": "2024 FNS歌謡祭 夏",
       "host": "Masaki Aiba, Sayaka Inoue"
-    }
+    },
+    "editor_note": "公式YouTube動画なし: Fuji TV does not publish FNS performances on YouTube; no official upload found"
   },
   {
     "id": "tv-2024-07-06-the-music-day-2024",
@@ -4353,7 +4905,8 @@
       "broadcaster": "Nippon TV",
       "program": "THE MUSIC DAY 2024",
       "host": "Sho Sakurai"
-    }
+    },
+    "editor_note": "公式YouTube動画なし: NTV does not publish THE MUSIC DAY performances on YouTube; no official upload found"
   },
   {
     "id": "tv-2024-07-12-music-bank-supernatural",
@@ -4375,10 +4928,16 @@
     },
     "source_url": "https://news.tf.co.kr/read/ogmeta/2115296.htm",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://www.youtube.com/watch?v=NwUM63hucPc",
+      "https://www.youtube.com/watch?v=7FbDF0wWe_8",
+      "https://www.youtube.com/watch?v=8EDVYQCCQvk",
+      "https://www.youtube.com/watch?v=ZmPJyC0eVM8",
+      "https://www.youtube.com/watch?v=7XhRd6cVIyI"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "oMh7ZeZtf9o"
     },
     "tags": [
       "music-show"
@@ -4391,7 +4950,11 @@
     "credits": {
       "broadcaster": "KBS 2TV",
       "program": "Music Bank"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=oMh7ZeZtf9o"
+    },
+    "editor_note": "公式動画: KBS Kpop「Supernatural - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240712 방송」(2024-07-14); 関連5本をreference_urlsに記載"
   },
   {
     "id": "tv-2024-07-13-music-core-supernatural",
@@ -4413,10 +4976,13 @@
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
-      "https://news.tf.co.kr/read/ogmeta/2115296.htm"
+      "https://news.tf.co.kr/read/ogmeta/2115296.htm",
+      "https://www.youtube.com/watch?v=YxjRLPGC7wU",
+      "https://www.youtube.com/watch?v=S6jKNp-nagw"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "SEXfnNzARF4"
     },
     "tags": [
       "music-show"
@@ -4429,7 +4995,11 @@
     "credits": {
       "broadcaster": "MBC",
       "program": "Show! Music Core"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=SEXfnNzARF4"
+    },
+    "editor_note": "公式動画: MBCkpop「NewJeans (뉴진스) - Supernatural | Show! MusicCore | MBC240713방송」(2024-07-13); 関連2本をreference_urlsに記載"
   },
   {
     "id": "tv-2024-07-13-ongaku-no-hi-2024",
@@ -4466,7 +5036,7 @@
       "broadcaster": "TBS",
       "program": "音楽の日2024"
     },
-    "editor_note": "Remote-from-Korea listing per ja.wikipedia program page; song (Supernatural) per fan reports only, not confirmed by TBS."
+    "editor_note": "Remote-from-Korea listing per ja.wikipedia program page; song (Supernatural) per fan reports only, not confirmed by TBS. / 公式YouTube動画なし: TBS does not publish Ongaku no Hi performances on YouTube; no official upload found"
   },
   {
     "id": "tv-2024-07-14-inkigayo-supernatural",
@@ -4488,10 +5058,15 @@
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
-      "https://news.tf.co.kr/read/ogmeta/2115296.htm"
+      "https://news.tf.co.kr/read/ogmeta/2115296.htm",
+      "https://www.youtube.com/watch?v=FVr5HtBItV4",
+      "https://www.youtube.com/watch?v=zuoPyKL2rE4",
+      "https://www.youtube.com/watch?v=RlpPFYEqH3I",
+      "https://www.youtube.com/watch?v=X7Px2uXW1zs"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "86fJXRuP6Ko"
     },
     "tags": [
       "music-show"
@@ -4504,11 +5079,15 @@
     "credits": {
       "broadcaster": "SBS",
       "program": "Inkigayo"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=86fJXRuP6Ko"
+    },
+    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) – Supernatural @인기가요 inkigayo 20240714」(2024-07-14); 関連4本をreference_urlsに記載"
   },
   {
-    "id": "tv-2024-07-21-sbs-gayo-daejeon-summer-2024",
-    "date": "2024-07-21",
+    "id": "tv-2024-07-26-sbs-gayo-daejeon-summer-2024",
+    "date": "2024-07-26",
     "date_type": "broadcast",
     "date_precision": "day",
     "category": "tv",
@@ -4525,9 +5104,14 @@
       "en": "Performed How Sweet and Supernatural at SBS Gayo Daejeon Summer 2024, broadcast live from Inspire Arena, Incheon."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=5Tsp_Lj0qy4",
+      "https://www.youtube.com/watch?v=RNRMCYCYc_w",
+      "https://www.youtube.com/watch?v=5OwvrCEf75E"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "sP9U-kJWaYU"
     },
     "tags": [
       "year-end",
@@ -4535,15 +5119,18 @@
     ],
     "verified": false,
     "detail": {
-      "ja": "『2024 SBS歌謡大典』夏編（SBS Gayo Daejeon Summer）は仁川のINSPIREアリーナで開かれ、SBSが生中継した。司会はNCTのドヨン、TOMORROW X TOGETHERのヨンジュン、IVEのアン・ユジン。初めて夏と冬の2回に分けて開催された年の夏編で、NewJeansは「How Sweet」と「Supernatural」を披露した。",
-      "en": "The 2024 SBS Gayo Daejeon Summer was held at Inspire Arena in Incheon and broadcast live on SBS, hosted by Doyoung (NCT), Yeonjun (Tomorrow X Together) and An Yu-jin (Ive). It was the summer half of the first year the show was split into summer and winter editions. NewJeans performed How Sweet and Supernatural."
+      "ja": "『2024 SBS歌謡大典』夏編（SBS Gayo Daejeon Summer）は7月21日に仁川のINSPIREアリーナで開かれ、7月26日にSBSで放送された。司会はNCTのドヨン、TOMORROW X TOGETHERのヨンジュン、IVEのアン・ユジン。初めて夏と冬の2回に分けて開催された年の夏編で、NewJeansは「How Sweet」と「Supernatural」を披露した。",
+      "en": "The 2024 SBS Gayo Daejeon Summer was held at Inspire Arena in Incheon on July 21 and broadcast on SBS on July 26, hosted by Doyoung (NCT), Yeonjun (Tomorrow X Together) and An Yu-jin (Ive). It was the summer half of the first year the show was split into summer and winter editions. NewJeans performed How Sweet and Supernatural."
     },
     "credits": {
       "broadcaster": "SBS",
       "venue": "Inspire Arena, Incheon",
       "host": "Doyoung, Yeonjun, An Yu-jin"
     },
-    "editor_note": "Date conflict: the SBS Gayo Daejeon article (en.wikipedia) and the live record's editor note give July 21, 2024 as the event and live-broadcast date; the July 24 date comes only from the en.wikipedia live-performance list. Record date likely should be 2024-07-21. | date moved from 2024-07-24 to 2024-07-21 per SBS article (id renamed)"
+    "editor_note": "Date conflict: the SBS Gayo Daejeon article (en.wikipedia) and the live record's editor note give July 21, 2024 as the event and live-broadcast date; the July 24 date comes only from the en.wikipedia live-performance list. Record date likely should be 2024-07-21. | date moved from 2024-07-24 to 2024-07-21 per SBS article (id renamed) / 公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) – Intro + How Sweet + Supernatural @가요대전 썸머 GayoDaejeon Summer 20240726」(2024-07-26); 関連3本をreference_urlsに記載 / date moved to broadcast date 2024-07-26 per the broadcaster's official upload (was tv-2024-07-21-sbs-gayo-daejeon-summer-2024)",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=sP9U-kJWaYU"
+    }
   },
   {
     "id": "tv-2024-08-12-wowow-bunnies-camp-tokyo-dome",
@@ -4583,7 +5170,8 @@
     "credits": {
       "broadcaster": "WOWOW",
       "streaming": "WOWOW On Demand"
-    }
+    },
+    "editor_note": "公式YouTube動画なし: WOWOW broadcast; no official YouTube upload (NewJeans channel only has behind-the-scenes clips HIN03H2-u8M / f_lVGYQbXlM)"
   },
   {
     "id": "tv-2024-08-17-with-music-2",
@@ -4621,7 +5209,8 @@
     "credits": {
       "broadcaster": "Nippon TV",
       "program": "with MUSIC"
-    }
+    },
+    "editor_note": "公式YouTube動画なし: NTV does not publish with MUSIC performances on YouTube; no official upload found"
   },
   {
     "id": "tv-2024-08-19-cdtv-summer-fes-sp",
@@ -4646,7 +5235,8 @@
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "aXr_L_aka54"
     },
     "tags": [
       "japan-tv"
@@ -4660,7 +5250,10 @@
       "broadcaster": "TBS",
       "program": "CDTVライブ!ライブ! 夏フェスSP"
     },
-    "editor_note": "Per-member covers per en.wikipedia live-performance list; TBS listing confirms only the Utada cover and segment."
+    "editor_note": "Per-member covers per en.wikipedia live-performance list; TBS listing confirms only the Utada cover and segment. / 公式動画: CDTV 公式YouTube「【CDTV】NewJeans⚡️夏を8000倍楽しむぅ～～～～🐱」(2024-08-17)",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=aXr_L_aka54"
+    }
   },
   {
     "id": "tv-2024-09-08-the-fact-music-awards-2024",
@@ -4682,10 +5275,12 @@
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
-      "https://ja.wikipedia.org/wiki/NewJeans"
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=7S7dLZx1r5g"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "Y5ArLNBfvkc"
     },
     "tags": [
       "award-show",
@@ -4700,7 +5295,10 @@
       "venue": "Kyocera Dome Osaka",
       "organizer": "The Fact / Fan N Star"
     },
-    "editor_note": "Award list per en.wikipedia awards page (5) vs ja.wikipedia (4); speech per Korea JoongAng Daily headline (Sept 9, 2024)."
+    "editor_note": "Award list per en.wikipedia awards page (5) vs ja.wikipedia (4); speech per Korea JoongAng Daily headline (Sept 9, 2024). / 公式動画:  THE FACT MUSIC AWARDS「[2024 더팩트 뮤직 어워즈] NewJeans (뉴진스) 'ETA+OMG+Ditto+Hype Boy+Attention' + 'Bubble Gum+How Sweet' @TMA」(2024-12-30); 関連1本をreference_urlsに記載",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Y5ArLNBfvkc"
+    }
   },
   {
     "id": "tv-2024-09-22-wowow-ask-jeans-interview-1-3",
@@ -4742,7 +5340,7 @@
       "program": "Ask Jeans! NewJeans interview",
       "streaming": "WOWOW On Demand"
     },
-    "editor_note": "Air dates/times and the two-week catch-up window per Oricon (news 2338316, Sept 2024)."
+    "editor_note": "Air dates/times and the two-week catch-up window per Oricon (news 2338316, Sept 2024). / 公式YouTube動画なし: WOWOW interview program; no official YouTube upload"
   },
   {
     "id": "tv-2024-10-13-wowow-ask-jeans-interview-4-5",
@@ -4774,7 +5372,7 @@
       "interview"
     ],
     "verified": true,
-    "editor_note": "Exact October air date not legible in the source. | Removed 'in October 2024' retrospective framing; exact air date still unknown. | Air date resolved: Oricon (Sept 2024) gives Oct 13, 2024, 20:00 (#4) and 20:20 (#5). Record date 2024-10-01 is a placeholder and should be 2024-10-13. | date moved from 2024-10-01 to 2024-10-13 per enrichment sources (id tv-2024-10-01-wowow-ask-jeans-interview-4-5 -> tv-2024-10-13-wowow-ask-jeans-interview-4-5) / Air date resolved via Oricon (Sept 2024): Oct 13, 2024, 20:00 (#4) and 20:20 (#5); the record id/date was moved from the 2024-10-01 placeholder accordingly.",
+    "editor_note": "Exact October air date not legible in the source. | Removed 'in October 2024' retrospective framing; exact air date still unknown. | Air date resolved: Oricon (Sept 2024) gives Oct 13, 2024, 20:00 (#4) and 20:20 (#5). Record date 2024-10-01 is a placeholder and should be 2024-10-13. | date moved from 2024-10-01 to 2024-10-13 per enrichment sources (id tv-2024-10-01-wowow-ask-jeans-interview-4-5 -> tv-2024-10-13-wowow-ask-jeans-interview-4-5) / Air date resolved via Oricon (Sept 2024): Oct 13, 2024, 20:00 (#4) and 20:20 (#5); the record id/date was moved from the 2024-10-01 placeholder accordingly. / 公式YouTube動画なし: WOWOW interview program; no official YouTube upload",
     "detail": {
       "ja": "WOWOWのメンバー別インタビュー番組『Ask Jeans! NewJeans interview』の#4 HAERINと#5 HYEINが、2024年10月13日20時と20時20分に放送・配信された。9月22日放送の#1〜#3に続く回で、放送後2週間はWOWOWオンデマンドでアーカイブ配信された。",
       "en": "Episodes #4 Haerin and #5 Hyein of WOWOW's member interview series Ask Jeans! NewJeans interview aired on October 13, 2024, at 8:00 and 8:20 pm, following episodes #1 to #3 broadcast on September 22, with a two-week catch-up window on WOWOW On Demand."
@@ -4813,7 +5411,7 @@
       "wowow"
     ],
     "verified": true,
-    "editor_note": "Removed 'in November' retrospective framing. | Exact November air date not legible in Oricon sources; record date is a placeholder.",
+    "editor_note": "Removed 'in November' retrospective framing. | Exact November air date not legible in Oricon sources; record date is a placeholder. / 公式YouTube動画なし: WOWOW MV compilation broadcast; no official YouTube upload",
     "detail": {
       "ja": "WOWOWのNewJeans特集の最終回として、2024年11月にミュージックビデオ集『NewJeans Music Video Collection』が放送・配信された。同月には東京ドームのファンミーティング映像の再放送も編成された。",
       "en": "As the final installment of WOWOW's NewJeans feature, a NewJeans Music Video Collection was broadcast and streamed in November 2024, alongside a scheduled rebroadcast of the Tokyo Dome fan meeting the same month."
@@ -4858,7 +5456,8 @@
     "credits": {
       "broadcaster": "Nippon TV",
       "program": "with MUSIC"
-    }
+    },
+    "editor_note": "公式YouTube動画なし: NTV does not publish with MUSIC performances on YouTube; no official upload found"
   },
   {
     "id": "tv-2024-11-15-nino-san",
@@ -4896,7 +5495,8 @@
       "broadcaster": "Nippon TV",
       "program": "ニノさん",
       "host": "Kazunari Ninomiya"
-    }
+    },
+    "editor_note": "公式YouTube動画なし: NTV has no official Nino-san clip of NewJeans on YouTube (only news-aggregator uploads)"
   },
   {
     "id": "tv-2024-11-16-korea-grand-music-awards-2024",
@@ -4918,10 +5518,14 @@
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/NewJeans"
+      "https://en.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=KREKSUPia3k",
+      "https://www.youtube.com/watch?v=mZeRbgRF2H0",
+      "https://www.youtube.com/watch?v=GDee8r556Rc"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "-hyQdASWNnY"
     },
     "tags": [
       "award-show"
@@ -4936,7 +5540,11 @@
       "organizer": "Ilgan Sports",
       "host": "Nam Ji-hyun, Hanni",
       "streaming": "Kiswe, Wavve"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=-hyQdASWNnY"
+    },
+    "editor_note": "公式動画: ENA 이엔에이「[#2024KGMA] NewJeans(뉴진스) - Right now + Bubble gum + How sweet + Supernatural | #뉴진스 | ENA 241116」(2024-12-08); 関連3本をreference_urlsに記載"
   },
   {
     "id": "tv-2024-11-29-music-station-2",
@@ -4961,7 +5569,8 @@
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "GWXmvcX27UA"
     },
     "tags": [
       "japan-tv"
@@ -4974,7 +5583,11 @@
     "credits": {
       "broadcaster": "TV Asahi",
       "program": "ミュージックステーション"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=GWXmvcX27UA"
+    },
+    "editor_note": "公式動画: MUSIC STATION「NewJeansの ちょっとした特技が最高すぎる【Mステ】」(2024-11-29)"
   },
   {
     "id": "tv-2024-11-30-best-artist-2024",
@@ -5013,7 +5626,8 @@
     "credits": {
       "broadcaster": "Nippon TV",
       "program": "ベストアーティスト2024"
-    }
+    },
+    "editor_note": "公式YouTube動画なし: NTV does not publish Best Artist performances on YouTube; no official upload found"
   },
   {
     "id": "tv-2024-12-04-fns-music-festival-2024",
@@ -5053,7 +5667,8 @@
       "broadcaster": "Fuji TV",
       "program": "2024 FNS歌謡祭 第1夜",
       "host": "Masaki Aiba, Sayaka Inoue"
-    }
+    },
+    "editor_note": "公式YouTube動画なし: Fuji TV does not publish FNS performances on YouTube; no official upload found"
   },
   {
     "id": "tv-2024-12-16-cdtv-christmas-sp-2024",
@@ -5085,7 +5700,7 @@
       "year-end"
     ],
     "verified": false,
-    "editor_note": "ja.wikipedia gives Dec 16 (Monday, CDTV's regular slot); en.wikipedia lists Dec 12. Dec 16 used. | Dec 16 date confirmed by TBS listing and Real Sound (Dec 2024).",
+    "editor_note": "ja.wikipedia gives Dec 16 (Monday, CDTV's regular slot); en.wikipedia lists Dec 12. Dec 16 used. | Dec 16 date confirmed by TBS listing and Real Sound (Dec 2024). / 公式YouTube動画なし: CDTV official channel has no NewJeans clip for the 2024-12-16 Christmas SP",
     "detail": {
       "ja": "2024年12月16日18時30分から22時57分までTBS系で放送された『CDTVライブ!ライブ! クリスマスSP』にNewJeansが出演し、「出張ライブ!ライブ!」の企画で「Supernatural」と「OMG」をそれぞれフルサイズで披露した。全37組が出演する約4時間半の特番であった。",
       "en": "On December 16, 2024, NewJeans appeared on TBS's CDTV Live! Live! Christmas SP (CDTVライブ!ライブ! クリスマスSP), broadcast from 6:30 to 10:57 pm, performing full-length versions of Supernatural and OMG in the 'Shuccho Live! Live!' location segment. The roughly four-and-a-half-hour special featured 37 acts."
@@ -5115,17 +5730,24 @@
     },
     "source_url": "https://www.newsseoul.co.kr/news/view/1065613225775150",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://www.youtube.com/watch?v=787pxXYAj9o",
+      "https://www.youtube.com/watch?v=F-0ekmw6to0",
+      "https://www.youtube.com/watch?v=m-L2ls1A9pc",
+      "https://www.youtube.com/watch?v=WpW2MlGOgfU",
+      "https://www.youtube.com/watch?v=-Sej8rcFqRQ",
+      "https://www.youtube.com/watch?v=Rg93F_a29ww"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "fo4x29ksjmw"
     },
     "tags": [
       "year-end",
       "japan"
     ],
     "verified": true,
-    "editor_note": "Broadcast date; the live event was Dec 14, 2024 at Fukuoka Dome.",
+    "editor_note": "Broadcast date; the live event was Dec 14, 2024 at Fukuoka Dome. / 公式動画: KBS Kpop「Supernatural - 뉴진스(NewJeans) [뮤직뱅크 글로벌페스티벌 IN JAPAN] | KBS 241219 방송」(2024-12-19); 関連6本をreference_urlsに記載",
     "detail": {
       "ja": "2024年12月19日、KBS 2TVで『2024 MUSIC BANK GLOBAL FESTIVAL in JAPAN』が放送された。福岡のみずほPayPayドーム福岡で12月14日と15日に収録された公演で、司会はシン・イェウン、ムン・サンミン、LE SSERAFIMのホン・ウンチェ。NewJeansは12月14日の初日に出演し、「Super Shy」「How Sweet」「Supernatural」のステージが放送された。",
       "en": "On December 19, 2024, KBS 2TV broadcast the 2024 Music Bank Global Festival in Japan, recorded on December 14 and 15 at Mizuho PayPay Dome Fukuoka and hosted by Shin Ye-eun, Moon Sang-min and Hong Eun-chae of Le Sserafim. NewJeans had performed on the first day, December 14, and their stage of Super Shy, How Sweet and Supernatural was aired."
@@ -5135,6 +5757,9 @@
       "program": "2024 MUSIC BANK GLOBAL FESTIVAL in JAPAN",
       "venue": "Mizuho PayPay Dome Fukuoka",
       "host": "Shin Ye-eun, Moon Sang-min, Hong Eun-chae"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=fo4x29ksjmw"
     }
   },
   {
@@ -5165,7 +5790,7 @@
       "radio"
     ],
     "verified": true,
-    "editor_note": "Appearance during the contract dispute, after the Nov 28, 2024 termination notice; members avoided using the NewJeans name on air. | Per Mydaily and News1 (Dec 25, 2024); song title of Hanni's original per other reports (Darling, Darling) not confirmed in fetched text.",
+    "editor_note": "Appearance during the contract dispute, after the Nov 28, 2024 termination notice; members avoided using the NewJeans name on air. | Per Mydaily and News1 (Dec 25, 2024); song title of Hanni's original per other reports (Darling, Darling) not confirmed in fetched text. / 公式YouTube動画なし: CBS Radio (Kim Hyun-jung News Show) has no official YouTube upload of the NewJeans Christmas appearance found",
     "detail": {
       "ja": "2024年12月25日朝、CBS標準FMの時事番組『キム・ヒョンジョンのニュースショー』のクリスマス特集にNewJeansのミンジ、ハニ、ダニエル、ヘリン、ヘインが出演した。11月28日の専属契約解除の発表後、初めてのトーク番組出演で、番組側はグループ名を使わず5人の個人名で紹介した。5人は「きよしこの夜」を歌って番組を始め、ハニは自作曲をギターで弾き語りした後、メンバーが困難な時期を過ごしていると述べて涙を見せ、ヘインも涙を流した。来年の活動については「期待してほしい」と述べた。",
       "en": "On the morning of December 25, 2024, Minji, Hanni, Danielle, Haerin and Hyein appeared on the Christmas special of CBS Standard FM's current-affairs program Kim Hyun-jung's News Show, their first talk-show appearance since announcing on November 28 that they were terminating their exclusive contracts. The program introduced them by their individual names rather than the group name. The five opened by singing Silent Night; Hanni performed an original song on guitar and, saying the members were going through a hard period, broke into tears, as did Hyein. Asked about the coming year, they said to look forward to it."
@@ -5196,10 +5821,13 @@
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
-      "https://www.ytn.co.kr/_ln/0117_202412121440244570"
+      "https://www.ytn.co.kr/_ln/0117_202412121440244570",
+      "https://www.youtube.com/watch?v=-0tPDyqtimw",
+      "https://www.youtube.com/watch?v=G5CZg07iTAc"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "utGcrIdSQXE"
     },
     "tags": [
       "year-end"
@@ -5213,7 +5841,11 @@
       "broadcaster": "SBS",
       "venue": "Inspire Arena, Incheon",
       "host": "Doyoung, Yeonjun, An Yu-jin"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=utGcrIdSQXE"
+    },
+    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) - Ditto (250 Remix) + Cookie + Hype Boy @가요대전 GayoDaejeon 20241225」(2024-12-25); 関連2本をreference_urlsに記載"
   },
   {
     "id": "tv-2024-12-27-asia-artist-awards-2024",
@@ -5234,9 +5866,13 @@
       "en": "Won Artist of the Year (Daesang) in Bangkok; performed Bubble Gum, Supernatural and How Sweet."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=cVm3RZCfP88",
+      "https://www.youtube.com/watch?v=lL7UIUYRJ2I"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "9Wcpn-ppdsI"
     },
     "tags": [
       "award-show"
@@ -5250,7 +5886,11 @@
       "venue": "Impact Challenger Hall, Bangkok",
       "organizer": "Star News",
       "host": "Ryu Jun-yeol, Jang Won-young, Sung Han-bin"
-    }
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=9Wcpn-ppdsI"
+    },
+    "editor_note": "公式動画: ASIA ARTIST AWARDS 스타뉴스「[#AAA2024] NEWJEANS(뉴진스) - 'Bubble Gum + Supernatural + How Sweet' Broadcast Stage | Official Video」(2025-01-02); 関連2本をreference_urlsに記載"
   },
   {
     "id": "tv-2024-12-28-ntv-music-award-2024",
@@ -5291,7 +5931,7 @@
       "program": "発表!今年イチバン聴いた歌～年間ミュージックアワード2024～",
       "host": "Mone Kamishiraishi, Elaiza Ikeda"
     },
-    "editor_note": "Songs performed not confirmed from sources found."
+    "editor_note": "Songs performed not confirmed from sources found. / 公式YouTube動画なし: NTV does not publish performance clips on YouTube; no official upload found"
   },
   {
     "id": "tv-2024-12-30-japan-record-awards-66",
@@ -5332,11 +5972,12 @@
       "venue": "New National Theatre, Tokyo",
       "organizer": "Japan Composer's Association",
       "host": "Shinichiro Azumi, Haruna Kawaguchi"
-    }
+    },
+    "editor_note": "公式YouTube動画なし: TBS does not publish Japan Record Awards performances on YouTube; no official upload found"
   },
   {
-    "id": "tv-2025-01-04-golden-disc-awards-39",
-    "date": "2025-01-04",
+    "id": "tv-2025-01-06-golden-disc-awards-39",
+    "date": "2025-01-06",
     "date_type": "broadcast",
     "date_precision": "day",
     "category": "tv",
@@ -5349,22 +5990,26 @@
       "en": "39th Golden Disc Awards"
     },
     "summary": {
-      "ja": "福岡で開かれた第39回ゴールデンディスクアワードで「How Sweet」のデジタル音源本賞とコスモポリタン・アーティスト賞を受賞し、「Supernatural」「How Sweet」を披露した。",
+      "ja": "福岡で開かれた第39回ゴールデンディスクアワードで「How Sweet」のデジタル音源本賞とコスモポリタン・アーティスト賞を受賞し、「Supernatural」「How Sweet」を披露した（1月4日の授賞式をJTBCが1月6日に放送）。",
       "en": "Won a Digital Song Bonsang for How Sweet and the Cosmopolitan Artist Award at the 39th Golden Disc Awards in Fukuoka; performed Supernatural and How Sweet."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
-      "https://ja.wikipedia.org/wiki/NewJeans"
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=V5XBLmVaRqk",
+      "https://www.youtube.com/watch?v=PhMzwDEmX-0",
+      "https://www.youtube.com/watch?v=_Yyri9yXMBo"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "uws0tDw3yCo"
     },
     "tags": [
       "award-show",
       "japan"
     ],
     "verified": false,
-    "editor_note": "Still under the NewJeans name; the NJZ rebrand was announced Feb 7, 2025. | Date note: en.wikipedia (39th GDA) places the NewJeans performance on day one, January 4, 2025; the record is dated January 5. ja.wikipedia also lists Jan 4. Consider moving to 2025-01-04. | date moved from 2025-01-05 to 2025-01-04 per enrichment sources (id tv-2025-01-05-golden-disc-awards-39 -> tv-2025-01-04-golden-disc-awards-39)",
+    "editor_note": "Still under the NewJeans name; the NJZ rebrand was announced Feb 7, 2025. | Date note: en.wikipedia (39th GDA) places the NewJeans performance on day one, January 4, 2025; the record is dated January 5. ja.wikipedia also lists Jan 4. Consider moving to 2025-01-04. | date moved from 2025-01-05 to 2025-01-04 per enrichment sources (id tv-2025-01-05-golden-disc-awards-39 -> tv-2025-01-04-golden-disc-awards-39) / 公式動画: Golden Disc「[제39회 골든디스크] NewJeans (뉴진스) - 'Intro + Supernatural (Attention Mix) + How Sweet' ♪ | JTBC 250106 방송」(2025-01-05); 関連3本をreference_urlsに記載 / date moved to broadcast date 2025-01-06 per the broadcaster's official upload (was tv-2025-01-04-golden-disc-awards-39)",
     "detail": {
       "ja": "第39回ゴールデンディスクアワードは2025年1月4日と5日に福岡のみずほPayPayドーム福岡で開かれ、司会はソン・シギョン、チャ・ウヌ、ムン・ガヨン。NewJeansは「How Sweet」でデジタル音源部門本賞を受賞し、コスモポリタン・アーティスト賞（YUQIと同時受賞）も受けた。「How Sweet」はデジタル音源大賞にもノミネートされた。NewJeansは1月4日の初日にイントロ、「Supernatural（Attention mix）」「How Sweet」を披露した。チェジュ航空機事故を受けてJTBCの生中継は見送られ、放送は1月6日と7日に行われた。",
       "en": "The 39th Golden Disc Awards were held on January 4 and 5, 2025 at Mizuho PayPay Dome Fukuoka, hosted by Sung Si-kyung, Cha Eun-woo and Moon Ga-young. NewJeans won a Digital Song Bonsang for How Sweet, which was also nominated for the Digital Daesang, and the Cosmopolitan Artist Award shared with Yuqi. The group performed on day one, January 4, with an intro, Supernatural (Attention mix) and How Sweet. After the Jeju Air crash, JTBC's live broadcast was replaced by a recorded airing on January 6 and 7."
@@ -5373,6 +6018,9 @@
       "venue": "Mizuho PayPay Dome Fukuoka",
       "broadcaster": "JTBC",
       "host": "Sung Si-kyung, Cha Eun-woo, Moon Ga-young"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=uws0tDw3yCo"
     }
   },
   {
@@ -5395,16 +6043,23 @@
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
-      "https://ko.wikipedia.org/wiki/NewJeans_라이브_공연_목록"
+      "https://ko.wikipedia.org/wiki/NewJeans_라이브_공연_목록",
+      "https://www.youtube.com/watch?v=KIEYykVoblw",
+      "https://www.youtube.com/watch?v=t0D5nhylt44",
+      "https://www.youtube.com/watch?v=uHo8TOL3mGY",
+      "https://www.youtube.com/watch?v=vFlDlPduH4A",
+      "https://www.youtube.com/watch?v=FNYX3HLs5wo",
+      "https://www.youtube.com/watch?v=WXgEmAYhW-w"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "pCDlTJi8SVY"
     },
     "tags": [
       "year-end"
     ],
     "verified": false,
-    "editor_note": "Originally scheduled Dec 31, 2024; delayed due to the Jeju Air Flight 2216 accident. | Second set (order 30) per en.wikipedia MBC Gayo Daejejeon page; which night it aired not confirmed.",
+    "editor_note": "Originally scheduled Dec 31, 2024; delayed due to the Jeju Air Flight 2216 accident. | Second set (order 30) per en.wikipedia MBC Gayo Daejejeon page; which night it aired not confirmed. / 公式動画: MBCkpop「[2024 MBC 가요대제전] NewJeans - Right Now (Jazz Ver.) + Dance Break + How Sweet + Hurt, MBC 250129 방송」(2025-01-29); 関連6本をreference_urlsに記載",
     "detail": {
       "ja": "『2024 MBC歌謡大祭典』は当初2024年12月31日の生放送が予定されていたが、前日のチェジュ航空機事故を受けて中止され、事前収録のうえ2025年1月29日と30日の旧正月連休に放送された。司会はユナ（少女時代）、ミンホ（SHINee）、ドフン（TWS）。NewJeansは放送順2番目に登場して「Attention」を披露し、司会はグループ名「NewJeans」で紹介し、画面にもグループ名が表示された。番組後半には「Right Now（Jazz ver.）」「How Sweet」「Hurt」のステージも編成された。",
       "en": "The 2024 MBC Gayo Daejejeon, originally scheduled for live broadcast on December 31, 2024, was cancelled after the Jeju Air crash the day before, pre-recorded and aired on January 29 and 30, 2025 during the Lunar New Year holiday, hosted by Yoona (Girls' Generation), Minho (Shinee) and Dohoon (TWS). NewJeans appeared second in the running order with Attention; the hosts introduced them as NewJeans and the group name was shown on screen. A later block of the program included Right Now (Jazz ver.), How Sweet and Hurt."
@@ -5413,6 +6068,9 @@
       "broadcaster": "MBC",
       "program": "2024 MBC Gayo Daejejeon",
       "host": "Yoona, Minho, Dohoon"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=pCDlTJi8SVY"
     }
   },
   {
@@ -5446,7 +6104,7 @@
       "njz"
     ],
     "verified": false,
-    "editor_note": "Published by CNN Style Feb 6–7, 2025 (US/KST); exact CNN URL not captured. Independent activity during the dispute, before the Mar 21, 2025 injunction. | CNN article syndicated at kvia.com (Feb 6, 2025 US); Hanni's comments were by phone per the article.",
+    "editor_note": "Published by CNN Style Feb 6–7, 2025 (US/KST); exact CNN URL not captured. Independent activity during the dispute, before the Mar 21, 2025 injunction. | CNN article syndicated at kvia.com (Feb 6, 2025 US); Hanni's comments were by phone per the article. / 公式YouTube動画なし: CNN official channel has no upload of the NJZ interview; only re-uploads",
     "detail": {
       "ja": "2025年2月7日（韓国時間）、NewJeansのメンバー5人がCNN（CNN Style、記者オスカー・ホランド）の独占インタビューで新しいグループ名「NJZ」を発表した。ハニは改名を困難な時期をより前向きなものに変える方法と説明し、元の名前の本質を残したと述べ、ダニエルはファンの提案を長い時間をかけて検討したと語った。3月に香港のComplexConで新名義での初ステージと新曲の披露を予定していると明かした。ADORは同日、法的判断前の一方的な名称の発表は専属契約の重大な違反となり得るとの声明を出した。",
       "en": "On February 7, 2025 (KST), the five NewJeans members announced their new group name NJZ in an exclusive interview with CNN (CNN Style, by Oscar Holland). Hanni described the renaming as a way of turning a rough period into something more exciting and said it kept the essence of the original name; Danielle said the group had spent a long time weighing fan suggestions. They said they would perform under the new name for the first time and debut a new song at ComplexCon Hong Kong in March. ADOR responded the same day that announcing an unauthorized name before a legal ruling could constitute a material breach of the exclusive contract."
