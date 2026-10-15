@@ -32,10 +32,12 @@ NewJeansの公式活動（楽曲、MV、テレビ・ラジオ出演、雑誌、W
 | `data/<category>.json` | カテゴリ別レコード配列 |
 | `media/` | 非公開素材（スキャン画像等）。`local_assets`から相対参照 |
 | `media/auto/` | `scripts/fetch_images.py`が一次ソースから自動取得した代表画像と出所一覧（index.json） |
+| `media/x/` | `scripts/fetch_x.py`が取得したX投稿データ（posts.json）と投稿画像・アバター |
 | `data/eras.json` | 活動期の定義（期間、見出し、代表画像、配色） |
 | `scripts/validate.py` | データ検証（スキーマ、ID一意性、日付整合、並び順） |
 | `scripts/new_item.py` | 新規レコードの雛形生成 |
 | `scripts/fetch_images.py` | 各レコードの代表画像を取得（YouTubeサムネイル、ページのog:image） |
+| `scripts/fetch_x.py` | X投稿（media.type=x）の本文・投稿者・日時・画像を取得し、サイト内でカード表示するためのデータを`media/x/`に保存 |
 | `docs/operations.md` | 日常運用手順（追加・確認・公開） |
 | `docs/hosting.md` | 認証付きホスティング手順（Cloudflare Pages + Access） |
 | `docs/data-policy.md` | 日付・名義・確認済の判定ルール |

@@ -39,6 +39,8 @@ python3 scripts/fetch_images.py --only goods # カテゴリ指定
 python3 scripts/fetch_images.py --force      # 全件取り直し
 ```
 
+X投稿を参照するレコード（media.type=x）を追加したときは、`python3 scripts/fetch_x.py`も実行する（取得済みの投稿は再取得しない。`--force`で取り直し）。
+
 取得後に`media/auto/index.json`と画像をコミットする。画像が不適切（記事と無関係なロゴ等）な場合は、該当IDの画像ファイルとindex.jsonの行を削除するか、レコードに`image`を手動指定して上書きする。
 
 ## C. 確認状況を更新する

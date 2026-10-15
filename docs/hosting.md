@@ -30,4 +30,4 @@
 
 ## 補足：SNS投稿の埋め込み
 
-本番（Cloudflare Pages）では、SNSカテゴリの項目のうちX投稿（media.type=x）とInstagram投稿（platform=instagram、source_urlが投稿URL）は、公式の埋め込みウィジェット（platform.twitter.com/widgets.js、instagram.com/embed.js）でそのまま表示される。Artifact版は外部スクリプトが読み込めないため、サムネイルとリンクの表示になる（build_artifact.pyがwindow.NJAS_NO_EMBEDを設定）。
+X投稿（media.type=x）は、`scripts/fetch_x.py`で事前取得した投稿データ（media/x/posts.json、画像はmedia/x/）から本サイト自身がカードとして描画する。外部スクリプトに依存しないため、本番・Artifact版の両方で同じ表示になる。削除済みの投稿はカードを出さず、元の投稿へのリンクを「削除済み」として残す。Instagram投稿（platform=instagram、source_urlが投稿URL）のみ、本番では公式の埋め込み（instagram.com/embed.js）を使い、Artifact版ではサムネイルとリンクの表示になる（build_artifact.pyがwindow.NJAS_NO_EMBEDを設定）。
