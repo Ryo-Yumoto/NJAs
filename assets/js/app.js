@@ -25,7 +25,7 @@
   const WD_JA = ["日", "月", "火", "水", "木", "金", "土"];
   const KIND_TAGS = ["teaser", "trailer", "concept-film", "lyric-video", "track-video", "dance-practice", "performance", "stage-cam", "audition", "pre-debut", "announcement"];
 
-  const state = { items: [], eras: [], images: {}, pages: [], byDate: {}, cur: -1, mode: "cover", showMeta: false, cats: new Set(Object.keys(CATS)), tocMonth: null, lang: "ja" };
+  const state = { items: [], eras: [], images: {}, sprites: null, pages: [], byDate: {}, cur: -1, mode: "cover", showMeta: false, cats: new Set(Object.keys(CATS)), tocMonth: null, lang: "ja" };
   const L = o => (o ? (o[state.lang] || o.ja || o.en || "") : "");
 
   const $ = (sel, root = document) => root.querySelector(sel);
@@ -69,6 +69,7 @@
     state.items = lists.flat().sort((a, b) => (sortKey(a) < sortKey(b) ? -1 : 1));
     try { state.eras = await (await fetch("data/eras.json", { cache: "no-store" })).json(); } catch (_) { state.eras = []; }
     try { const r = await fetch("media/auto/index.json", { cache: "no-store" }); if (r.ok) state.images = await r.json(); } catch (_) {}
+    if (window.NJAS_SPRITES) { try { const r = await fetch(window.NJAS_SPRITES, { cache: "no-store" }); if (r.ok) state.sprites = await r.json(); } catch (_) {} }
     buildPages();
   }
   function buildPages() {
@@ -93,6 +94,8 @@
   function imageOf(it) {
     if (it.image && it.image.path) return { src: "media/" + it.image.path, from: it.image.source_url || it.source_url };
     if (it.local_assets && it.local_assets.length) return { src: "media/" + it.local_assets[0], from: it.source_url };
+    const sp = state.sprites && state.sprites[it.id];
+    if (sp) return { sprite: sp, from: (state.images[it.id] || {}).page_url || it.source_url };
     const a = state.images[it.id];
     if (a) return { src: "media/auto/" + a.file, from: a.page_url };
     if (it.media && it.media.type === "youtube" && it.media.ref) return { src: `https://i.ytimg.com/vi/${it.media.ref}/hqdefault.jpg`, from: it.source_url };
@@ -113,8 +116,8 @@
   function prefetchAround(idx) {
     for (const p of [state.pages[idx + 1], state.pages[idx + 2], state.pages[idx - 1]]) {
       if (!p) continue;
-      if (p.kind === "era") { const src = p.era.image && state.images[p.era.image] ? "media/auto/" + state.images[p.era.image].file : null; if (src) new Image().src = src; continue; }
-      for (const it of p.items.slice(0, 6)) { const im = imageOf(it); if (im) new Image().src = im.src; }
+      if (p.kind === "era") { const im = p.era.image ? imageOf({ id: p.era.image, source_url: "" }) : null; if (im) { if (im.sprite) withSheet(im.sprite.sheet, () => {}); else new Image().src = im.src; } continue; }
+      for (const it of p.items.slice(0, 6)) { const im = imageOf(it); if (!im) continue; if (im.sprite) withSheet(im.sprite.sheet, () => {}); else new Image().src = im.src; }
     }
   }
   function goKey(key) { const i = state.pages.findIndex(p => p.key === key); if (i >= 0) go(i); return i >= 0; }
@@ -166,8 +169,10 @@
     const era = p.era;
     const h = el("section", { class: "era-page" });
     h.style.setProperty("--era", era.accent || "var(--ink)");
+    const sp = era.image && state.sprites && state.sprites[era.image];
     const src = era.image && state.images[era.image] ? "media/auto/" + state.images[era.image].file : null;
-    if (src) { h.classList.add("has-img"); h.appendChild(el("img", { class: "era-img", src, alt: "" })); }
+    if (sp) { h.classList.add("has-img"); h.appendChild(spriteCanvas(sp, "era-img")); }
+    else if (src) { h.classList.add("has-img"); h.appendChild(el("img", { class: "era-img", src, alt: "" })); }
     const body = el("div", { class: "era-body" });
     const chapterNo = state.eras.indexOf(era) + 1;
     body.append(el("span", { class: "era-kicker mono" }, `ERA ${chapterNo} · 第${chapterNo}期`), el("h2", { class: "era-title" }, era.title.en), el("p", { class: "era-sub" }, era.title.ja), el("p", { class: "era-cap" }, L(era.caption)), el("p", { class: "era-range mono" }, `${fmtLong(era.start)} —`));
@@ -229,7 +234,7 @@
     const img = imageOf(it), isYt = it.media && it.media.type === "youtube" && it.media.ref;
     if (img) {
       const fig = $(".thumb", node); fig.hidden = false;
-      fig.appendChild(el("img", { src: img.src, alt: "", loading: "lazy", decoding: "async" }));
+      if (img.sprite) fig.appendChild(spriteCanvas(img.sprite, "thumb-cv")); else fig.appendChild(el("img", { src: img.src, alt: "", loading: "lazy", decoding: "async" }));
       if (isYt && !window.NJAS_NO_EMBED) {
         fig.classList.add("is-video"); fig.appendChild(el("span", { class: "play mono" }, "▶ PLAY"));
         fig.addEventListener("click", () => { const box = $(".media", node); box.hidden = false; box.innerHTML = ""; box.appendChild(el("iframe", { src: `https://www.youtube-nocookie.com/embed/${it.media.ref}?autoplay=1`, allow: "autoplay; encrypted-media; picture-in-picture", allowfullscreen: "", title: it.title.en })); fig.hidden = true; });
@@ -268,6 +273,20 @@
     return node;
   }
 
+  const sheets = {};
+  function withSheet(src, cb) {
+    const s = sheets[src];
+    if (s && s.complete && s.naturalWidth) { cb(s); return; }
+    if (s) { s.addEventListener("load", () => cb(s), { once: true }); return; }
+    const im = new Image(); im.src = src; sheets[src] = im; im.addEventListener("load", () => cb(im), { once: true });
+  }
+  // draws a sprite region into a canvas sized to the region; returns the canvas
+  function spriteCanvas(sp, cls) {
+    const cv = el("canvas", { width: String(sp.w), height: String(sp.h), class: cls || "" });
+    cv.style.aspectRatio = `${sp.w} / ${sp.h}`;
+    withSheet(sp.sheet, im => { cv.getContext("2d").drawImage(im, 0, sp.y, sp.w, sp.h, 0, 0, sp.w, sp.h); cv.classList.add("ready"); });
+    return cv;
+  }
   const loaded = {};
   function loadScript(src, onload) {
     if (loaded[src] === true) { onload && onload(); return; }
@@ -280,7 +299,9 @@
 
   /* ---------- lightbox ---------- */
   function openLightbox(it, img) {
-    $("#lb-img").src = img.src; $("#lb-img").alt = it.title.ja;
+    const old = $("#lb-canvas"); if (old) old.remove();
+    if (img.sprite) { $("#lb-img").hidden = true; const cv = spriteCanvas(img.sprite, "lb-cv"); cv.id = "lb-canvas"; $("#lb-img").after(cv); }
+    else { $("#lb-img").hidden = false; $("#lb-img").src = img.src; $("#lb-img").alt = it.title.ja; }
     $("#lb-meta").textContent = `${fmtLong(it.date)}${dayLabel(it.date) ? " · " + dayLabel(it.date) : ""} · ${CATS[it.category]?.en || it.category}`;
     $("#lb-title").textContent = L(it.title);
     const links = $("#lb-links"); links.innerHTML = ""; links.appendChild(el("a", { href: img.from, target: "_blank", rel: "noopener" }, "image source"));
