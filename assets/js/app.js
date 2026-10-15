@@ -240,6 +240,23 @@
       } else fig.addEventListener("click", () => openLightbox(it, img));
     }
     if (it.local_assets && it.local_assets.length > 1) { const box = $(".assets", node); box.hidden = false; for (const pth of it.local_assets.slice(1)) { const a = el("a", { href: "media/" + pth, target: "_blank", rel: "noopener" }); a.appendChild(el("img", { src: "media/" + pth, alt: it.title.ja, loading: "lazy" })); box.appendChild(a); } }
+    // official embeds for SNS posts (production only; the artifact host blocks third-party scripts)
+    if (!window.NJAS_NO_EMBED && it.category === "sns") {
+      const url = (it.media && it.media.type === "x" && it.media.ref) || (it.platform === "instagram" && /instagram\.com\/(p|reel|tv)\//.test(it.source_url) ? it.source_url : null);
+      if (url && it.platform === "x") {
+        const box = $(".media", node); box.hidden = false; box.classList.add("embed");
+        const bq = el("blockquote", { class: "twitter-tweet", "data-dnt": "true", "data-theme": (document.documentElement.dataset.theme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light")) });
+        bq.appendChild(el("a", { href: url.replace("x.com", "twitter.com") }, url)); box.appendChild(bq);
+        loadScript("https://platform.twitter.com/widgets.js", () => window.twttr?.widgets?.load(box));
+        $(".thumb", node).hidden = true;
+      } else if (url && it.platform === "instagram") {
+        const box = $(".media", node); box.hidden = false; box.classList.add("embed");
+        const bq = el("blockquote", { class: "instagram-media", "data-instgrm-permalink": url.split("?")[0], "data-instgrm-version": "14" });
+        bq.appendChild(el("a", { href: url }, url)); box.appendChild(bq);
+        loadScript("https://www.instagram.com/embed.js", () => window.instgrm?.Embeds?.process());
+        $(".thumb", node).hidden = true;
+      }
+    }
     const links = $(".links", node);
     if (isYt) links.appendChild(el("a", { href: `https://www.youtube.com/watch?v=${it.media.ref}`, target: "_blank", rel: "noopener" }, "youtube"));
     if (it.media && it.media.type === "x" && it.media.ref) links.appendChild(el("a", { href: it.media.ref, target: "_blank", rel: "noopener" }, "open post"));
@@ -249,6 +266,16 @@
     if (state.showMeta && it.editor_note) { const n = el("p", { class: "note mono editor" }, "EDITOR: " + it.editor_note); $(".entry-text", node).appendChild(n); }
     if (it.tags && it.tags.length) { const t = $(".tags", node); t.hidden = false; it.tags.forEach(x => t.appendChild(el("span", {}, x))); }
     return node;
+  }
+
+  const loaded = {};
+  function loadScript(src, onload) {
+    if (loaded[src] === true) { onload && onload(); return; }
+    if (loaded[src]) { loaded[src].push(onload); return; }
+    loaded[src] = [onload];
+    const s = el("script", { src, async: "" });
+    s.onload = () => { const cbs = loaded[src]; loaded[src] = true; cbs.forEach(cb => cb && cb()); };
+    document.head.appendChild(s);
   }
 
   /* ---------- lightbox ---------- */

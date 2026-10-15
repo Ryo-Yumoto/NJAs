@@ -27,3 +27,7 @@
 - `_headers`ファイルで`X-Robots-Tag: noindex`を全パスに付与済み。検索エンジンへの登録を防ぐ。
 - `media/`配下の非公開素材も同じAccessの内側で配信されるため、リポジトリに含めてよい。ただしリポジトリ容量（Pagesは1ファイル25MiB、合計20,000ファイルまで）に注意する。
 - Cloudflare以外の候補：Vercel（Password Protectionは有料プラン）、Netlify（同様に有料）、GitHub Pages（privateサイトはEnterpriseのみ）。無料でメール認証を付けられる点でCloudflareを採用した。
+
+## 補足：SNS投稿の埋め込み
+
+本番（Cloudflare Pages）では、SNSカテゴリの項目のうちX投稿（media.type=x）とInstagram投稿（platform=instagram、source_urlが投稿URL）は、公式の埋め込みウィジェット（platform.twitter.com/widgets.js、instagram.com/embed.js）でそのまま表示される。Artifact版は外部スクリプトが読み込めないため、サムネイルとリンクの表示になる（build_artifact.pyがwindow.NJAS_NO_EMBEDを設定）。
