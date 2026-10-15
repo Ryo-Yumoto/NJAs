@@ -1,1 +1,3099 @@
-[]
+[
+  {
+    "id": "record-2022-08-08-new-jeans-ep-first-day-hanteo",
+    "date": "2022-08-08",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "デビューEP『New Jeans』Hanteo初日売上262,815枚（ガールズグループのデビュー作史上最高）",
+      "en": "Debut EP New Jeans sells 262,815 copies on day one on Hanteo, a girl-group debut record"
+    },
+    "summary": {
+      "ja": "フィジカル発売初日に262,815枚を売り上げ、Hanteo史上ガールズグループのデビューアルバム初日最高記録を樹立した。",
+      "en": "The physical EP sold 262,815 copies on its first day, the highest first-day figure for any girl-group debut album in Hanteo history."
+    },
+    "detail": {
+      "ja": "Hanteoチャートによると、8月8日にフィジカル発売されたデビューEP『New Jeans』は初日だけで262,815枚を売り上げた。デビューアルバムの初日売上で20万枚を超えたガールズグループはNewJeansが初めてとされる。",
+      "en": "According to Hanteo Chart, the debut EP New Jeans, released physically on August 8, sold 262,815 copies on its first day alone. NewJeans became the only girl group to pass 200,000 first-day sales with a debut album."
+    },
+    "source_url": "https://www.soompi.com/article/1539846wpp/newjeans-breaks-record-for-highest-1st-day-sales-of-any-girl-group-debut-album-in-hanteo-history",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "sales"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://view.asiae.co.kr/en/article/2022082610270881708"
+    ]
+  },
+  {
+    "id": "record-2022-08-14-new-jeans-ep-first-week-hanteo",
+    "date": "2022-08-14",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "デビューEP『New Jeans』Hanteo初週売上311,271枚（ガールズグループのデビュー作史上最高）",
+      "en": "Debut EP New Jeans logs 311,271 first-week sales on Hanteo, a girl-group debut record"
+    },
+    "summary": {
+      "ja": "発売初週（8月8日〜14日）の売上311,271枚で、ガールズグループのデビューアルバム初週売上の最高記録を更新した。",
+      "en": "First-week sales (Aug 8-14) of 311,271 copies set a new record for a girl-group debut album."
+    },
+    "detail": {
+      "ja": "Hanteoチャートの集計で、デビューEP『New Jeans』は発売初週（2022年8月8日〜14日）に311,271枚を売り上げた。これはLE SSERAFIM『FEARLESS』の約307,450枚を上回る、ガールズグループのデビューアルバムとして史上最高の初週売上だった。",
+      "en": "Hanteo Chart tallied 311,271 copies sold in the EP's first week (August 8-14, 2022), surpassing the roughly 307,450 copies of LE SSERAFIM's FEARLESS to become the highest first-week sales for a girl-group debut album."
+    },
+    "source_url": "https://view.asiae.co.kr/en/article/2022082610270881708",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "sales"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1564515wpp/newjeans-becomes-fastest-k-pop-group-to-achieve-million-selling-album-with-omg"
+    ]
+  },
+  {
+    "id": "record-2022-08-20-attention-circle-digital-no1",
+    "date": "2022-08-20",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Attention」Circle Digital Chart週間1位（初の1位）",
+      "en": "Attention tops the Circle Digital Chart (first No. 1)"
+    },
+    "summary": {
+      "ja": "「Attention」が2022年第33週（8月14日〜20日）のCircle Digital Chartで1位を獲得し、グループ初の週間1位となった。",
+      "en": "Attention reached No. 1 on the Circle Digital Chart for the week of August 14-20, 2022, the group's first weekly No. 1."
+    },
+    "detail": {
+      "ja": "デビュー曲「Attention」は2022年8月14日〜20日付のCircle Digital Chart（総合デジタルチャート）で1位を記録した。前週は2位で、2週目に1位へ上昇した。",
+      "en": "The debut single Attention rose from No. 2 to No. 1 on the Circle Digital Chart for the week of August 14-20, 2022, the group's first No. 1 on the chart."
+    },
+    "source_url": "https://circlechart.kr/page_chart/onoff.circle",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Attention_(NewJeans_song)"
+    ],
+    "editor_note": "日付はチャート週の末日。Circle公式ページ未取得のためverified=false"
+  },
+  {
+    "id": "record-2022-09-01-attention-circle-monthly-aug-2022",
+    "date": "2022-09-01",
+    "date_type": "announce",
+    "date_precision": "month",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Attention」Circle月間デジタルチャート2022年8月1位",
+      "en": "Attention tops the Circle monthly digital chart for August 2022"
+    },
+    "summary": {
+      "ja": "「Attention」がCircle Chartの2022年8月月間デジタルチャートで1位を獲得した。",
+      "en": "Attention was No. 1 on Circle Chart's monthly digital chart for August 2022."
+    },
+    "detail": {
+      "ja": "Circle Chartが発表した2022年8月の月間総合デジタルチャートで、デビュー曲「Attention」が1位となった。デビューからわずか1か月余りでの月間1位だった。",
+      "en": "On Circle Chart's monthly digital chart for August 2022, the debut single Attention ranked No. 1, little more than a month after the group's debut."
+    },
+    "source_url": "https://circlechart.kr/page_chart/onoff.circle",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Attention_(NewJeans_song)"
+    ],
+    "editor_note": "発表日は9月上旬。日付は月精度"
+  },
+  {
+    "id": "record-2022-10-08-tma-2022-next-leader",
+    "date": "2022-10-08",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2022 The Fact Music Awards「Next Leader Award」受賞",
+      "en": "Next Leader Award at the 2022 The Fact Music Awards"
+    },
+    "summary": {
+      "ja": "デビュー後初の授賞式となるThe Fact Music Awardsで「Next Leader Award」を受賞した。",
+      "en": "NewJeans received the Next Leader Award at The Fact Music Awards, their first award show."
+    },
+    "detail": {
+      "ja": "2022年10月8日、ソウルのKSPOドームで開催された2022 The Fact Music Awards（TMA）でNewJeansはNext Leader Awardを受賞した。同日「Hype Boy」と「Attention」を披露している。",
+      "en": "At the 2022 The Fact Music Awards held October 8, 2022 at KSPO Dome in Seoul, NewJeans received the Next Leader Award and performed Hype Boy and Attention."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2022-11-26-mma-2022-best-new-artist",
+    "date": "2022-11-26",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2022 Melon Music Awards「新人賞（Best New Artist）」受賞",
+      "en": "Best New Artist at the 2022 Melon Music Awards"
+    },
+    "summary": {
+      "ja": "Melon Music Awards 2022で新人賞（Best New Artist）を受賞した。",
+      "en": "NewJeans won Best New Artist at the Melon Music Awards 2022."
+    },
+    "detail": {
+      "ja": "2022年11月26日、高尺スカイドームで3年ぶりに有観客開催されたMelon Music Awards 2022で、NewJeansはIVEとともにNew Artist of the Yearを受賞した。授賞式では「Cookie」「Hype Boy」「Attention」を披露した。",
+      "en": "At the Melon Music Awards 2022, held November 26, 2022 at Gocheok Sky Dome with a live audience for the first time in three years, NewJeans won New Artist of the Year alongside IVE and performed Cookie, Hype Boy and Attention."
+    },
+    "source_url": "https://www.soompi.com/article/1556004wpp/winners-of-the-melon-music-awards-2022",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2022-11-26-mma-2022-top-10",
+    "date": "2022-11-26",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2022 Melon Music Awards「Top 10 Artist」選出",
+      "en": "Top 10 Artist at the 2022 Melon Music Awards"
+    },
+    "summary": {
+      "ja": "Melon Music Awards 2022でTop 10 Artist（本賞）に選出された。",
+      "en": "NewJeans were named one of the Top 10 Artists (Bonsang) at the Melon Music Awards 2022."
+    },
+    "detail": {
+      "ja": "2022年11月26日のMelon Music Awards 2022で、NewJeansはBTS、IU、IVE、SEVENTEENらと並びTop 10 Artist（本賞）に選ばれた。デビュー年での本賞受賞となった。",
+      "en": "At the Melon Music Awards 2022 on November 26, NewJeans were among the Top 10 Artists (Bonsang) alongside BTS, IU, IVE and SEVENTEEN, in their debut year."
+    },
+    "source_url": "https://www.soompi.com/article/1556004wpp/winners-of-the-melon-music-awards-2022",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2022-12-01-asian-pop-music-awards-2022-hype-boy",
+    "date": "2022-12-01",
+    "date_type": "event",
+    "date_precision": "month",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2022 Asian Pop Music Awards「Top 20 Songs of the Year（海外）」に「Hype Boy」選出",
+      "en": "Hype Boy named among Top 20 Songs of the Year (Overseas) at the 2022 Asian Pop Music Awards"
+    },
+    "summary": {
+      "ja": "中国のAsian Pop Music Awards 2022で「Hype Boy」が海外部門のTop 20 Songs of the Yearに選ばれた。",
+      "en": "Hype Boy was selected for Top 20 Songs of the Year (Overseas) at the 2022 Asian Pop Music Awards."
+    },
+    "detail": {
+      "ja": "Asian Pop Music Awards 2022の海外部門で「Hype Boy」がTop 20 Songs of the Yearに選出された。",
+      "en": "At the 2022 Asian Pop Music Awards, Hype Boy was among the Top 20 Songs of the Year in the overseas division."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false,
+    "editor_note": "受賞発表日が未確認のため月精度（2022年12月）。要確認"
+  },
+  {
+    "id": "record-2022-12-01-rolling-stone-100-best-albums-2022",
+    "date": "2022-12-01",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Rolling Stone「2022年のベストアルバム100」に『New Jeans』が46位で選出",
+      "en": "New Jeans EP placed No. 46 on Rolling Stone's 100 Best Albums of 2022"
+    },
+    "summary": {
+      "ja": "米Rolling Stone誌の年間ベストアルバム100でデビューEP『New Jeans』が46位に選ばれた。",
+      "en": "Rolling Stone's year-end 100 Best Albums of 2022 ranked the debut EP New Jeans at No. 46."
+    },
+    "detail": {
+      "ja": "2022年12月1日（現地時間）に発表されたRolling Stoneの「The 100 Best Albums of 2022」で、デビューEP『New Jeans』は46位に入った。同誌は13分弱のEPに収められた「Attention」「Hype Boy」「Cookie」「Hurt」それぞれの個性と90年代ポップの美学を評価した。",
+      "en": "Published December 1, 2022 (local time), Rolling Stone's The 100 Best Albums of 2022 placed the debut EP New Jeans at No. 46, praising the distinct sound of Attention, Hype Boy, Cookie and Hurt and the EP's 90s pop aesthetic."
+    },
+    "source_url": "https://www.soompi.com/article/1556813wpp/btss-j-hope-blackpink-and-newjeans-make-rolling-stones-the-100-best-albums-of-2022-list",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "year-end",
+      "list"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2022-12-05-nme-50-best-songs-2022-hype-boy",
+    "date": "2022-12-05",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NME「2022年のベストソング50」で「Hype Boy」が26位（K-POP最高位）",
+      "en": "Hype Boy ranked No. 26 on NME's 50 Best Songs of 2022"
+    },
+    "summary": {
+      "ja": "英NMEの年間ベストソング50で「Hype Boy」がK-POP曲最高位の26位に選ばれた。",
+      "en": "NME's The 50 Best Songs of 2022 placed Hype Boy at No. 26, the highest K-pop entry."
+    },
+    "detail": {
+      "ja": "2022年12月5日（現地時間）に発表されたNMEの「The 50 Best Songs of 2022」で「Hype Boy」は26位に入り、同年のK-POP曲として最高位だった。NMEは90年代R&Bと現代的なポップ制作の融合を評価した。",
+      "en": "Announced December 5, 2022 (local time), NME's The 50 Best Songs of 2022 ranked Hype Boy at No. 26, the highest K-pop song on the list, praising its blend of 90s R&B and modern pop production."
+    },
+    "source_url": "https://www.soompi.com/article/1557420wpp/txt-ive-newjeans-sunmi-and-le-sserafim-make-nmes-the-50-best-songs-of-2022-list",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "year-end",
+      "list"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2022-12-05-rolling-stone-100-best-songs-2022-hype-boy",
+    "date": "2022-12-05",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Rolling Stone「2022年のベストソング100」で「Hype Boy」が24位（韓国曲最高位）",
+      "en": "Hype Boy ranked No. 24 on Rolling Stone's 100 Best Songs of 2022"
+    },
+    "summary": {
+      "ja": "Rolling Stoneの年間ベストソング100で「Hype Boy」が韓国曲最高位の24位に選ばれた。",
+      "en": "Hype Boy was the highest-ranked Korean song at No. 24 on Rolling Stone's 100 Best Songs of 2022."
+    },
+    "detail": {
+      "ja": "Rolling Stoneの年間リスト「The 100 Best Songs of 2022」で「Hype Boy」が24位となり、韓国の楽曲として最高位だった。同リストにはBLACKPINK「Pink Venom」（35位）やNCT 127「2 Baddies」（71位）なども入った。",
+      "en": "On Rolling Stone's The 100 Best Songs of 2022, Hype Boy came in at No. 24, the highest position for a Korean song; BLACKPINK's Pink Venom (No. 35) and NCT 127's 2 Baddies (No. 71) also made the list."
+    },
+    "source_url": "https://www.soompi.com/article/1557263wpp/newjeans-blackpink-seventeen-ive-and-more-make-rolling-stones-the-100-best-songs-of-2022-list",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "year-end",
+      "list"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2022-12-13-aaa-2022-best-new-artist",
+    "date": "2022-12-13",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2022 Asia Artist Awards「Best New Artist（新人賞）」受賞",
+      "en": "Best New Artist at the 2022 Asia Artist Awards"
+    },
+    "summary": {
+      "ja": "2022 Asia Artist Awardsで歌手部門の新人賞（Best New Artist）を受賞した。",
+      "en": "NewJeans received the Best New Artist (Singer) award at the 2022 Asia Artist Awards."
+    },
+    "detail": {
+      "ja": "2022年12月13日の2022 Asia Artist Awardsで、NewJeansはIVE、LE SSERAFIMとともに歌手部門のBest New Artistを受賞した。",
+      "en": "At the 2022 Asia Artist Awards on December 13, 2022, NewJeans were named Best New Artist (Singer) together with IVE and LE SSERAFIM."
+    },
+    "source_url": "https://www.soompi.com/article/1558355wpp/winners-of-2022-asia-artist-awards",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2022-12-13-aaa-2022-performance-of-the-year",
+    "date": "2022-12-13",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2022 Asia Artist Awards「Performance of the Year（大賞）」受賞",
+      "en": "Performance of the Year (Daesang) at the 2022 Asia Artist Awards"
+    },
+    "summary": {
+      "ja": "名古屋で開催された2022 Asia Artist AwardsでPerformance of the Year（大賞）を受賞した。",
+      "en": "NewJeans won the Performance of the Year Daesang at the 2022 Asia Artist Awards in Nagoya."
+    },
+    "detail": {
+      "ja": "2022年12月13日、日本ガイシホール（名古屋）で開催された2022 Asia Artist Awards（AAA）で、NewJeansは6つの大賞のうちPerformance of the Yearを受賞した。デビュー約5か月での大賞受賞となった。",
+      "en": "At the 2022 Asia Artist Awards held December 13, 2022 at Nippon Gaishi Hall in Nagoya, NewJeans received the Performance of the Year award, one of six Daesangs, about five months after debut."
+    },
+    "source_url": "https://www.soompi.com/article/1558355wpp/winners-of-2022-asia-artist-awards",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2022-12-25-ditto-certified-all-kill",
+    "date": "2022-12-25",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Ditto」初のCertified All-Kill（CAK）達成",
+      "en": "Ditto earns NewJeans' first Certified All-Kill"
+    },
+    "summary": {
+      "ja": "先行公開曲「Ditto」が12月25日午前10時30分にiChartのCertified All-Killを達成し、グループ初の記録となった。",
+      "en": "Pre-release single Ditto scored a Certified All-Kill on iChart at 10:30 a.m. KST on December 25, the group's first."
+    },
+    "detail": {
+      "ja": "2022年12月25日10時30分（KST）、InstizのiChartは「Ditto」がCertified All-Killを達成したと発表した。CAKはMelonの日間・TOP100、GenieとBugsの日間・リアルタイム、YouTube MusicのTop Songs、VIBE日間、FLOとiChartのリアルタイムの各チャートで同時に1位を取った曲に与えられる。",
+      "en": "At 10:30 a.m. KST on December 25, 2022, Instiz's iChart announced that Ditto had achieved a Certified All-Kill, which requires simultaneous No. 1s on Melon's daily and Top 100 charts, Genie and Bugs' daily and realtime charts, YouTube Music's Top Songs, VIBE's daily chart and the realtime charts of FLO and iChart."
+    },
+    "source_url": "https://www.soompi.com/article/1560052wpp/newjeans-achieves-1st-ever-certified-all-kill-with-ditto",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "all-kill"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2022-12-26-ditto-perfect-all-kill",
+    "date": "2022-12-26",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Ditto」初のPerfect All-Kill（PAK）達成",
+      "en": "Ditto earns NewJeans' first Perfect All-Kill"
+    },
+    "summary": {
+      "ja": "「Ditto」が12月26日0時30分にPerfect All-Killを達成し、2022年に7曲目のPAK曲となった。",
+      "en": "Ditto achieved a Perfect All-Kill at 12:30 a.m. KST on December 26, the seventh song to do so in 2022."
+    },
+    "detail": {
+      "ja": "2022年12月26日0時30分（KST）、iChartは「Ditto」がPerfect All-Kill（CAKに加えiChart週間チャート1位）を達成したと発表した。グループ初のPAKで、2022年ではTAEYEON「INVU」、(G)I-DLE「TOMBOY」「Nxde」、BIGBANG「Still Life」、IVE「After LIKE」、ユンナ「Event Horizon」に続く7曲目だった。",
+      "en": "At 12:30 a.m. KST on December 26, 2022, iChart announced that Ditto had achieved a Perfect All-Kill (a Certified All-Kill plus No. 1 on iChart's weekly chart), the group's first and only the seventh PAK of 2022 after songs by Taeyeon, (G)I-DLE (two), BIGBANG, IVE and Younha."
+    },
+    "source_url": "https://www.soompi.com/article/1560147wpp/newjeans-earns-1st-perfect-all-kill-of-their-career-with-ditto",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "all-kill"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2022-12-29-ditto-circle-weekly-double-crown",
+    "date": "2022-12-29",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Ditto」Circle週間デジタルチャート・Global K-Pop Chartで初登場1位",
+      "en": "Ditto debuts at No. 1 on Circle's weekly digital and Global K-Pop charts"
+    },
+    "summary": {
+      "ja": "「Ditto」がCircle週間総合デジタルチャートとGlobal K-Pop Chartで初登場1位を記録し、ダブルクラウンを獲得した。",
+      "en": "Ditto debuted at No. 1 on both Circle's overall digital chart and its Global K-Pop Chart, a double crown."
+    },
+    "detail": {
+      "ja": "12月29日に発表されたCircle Chartの週間集計（12月18日〜24日）で、先行公開曲「Ditto」が総合デジタルチャートとGlobal K-Pop Chartで初登場1位を獲得した。ストリーミングチャートでは2位、「Hype Boy」が3位だった。",
+      "en": "In Circle Chart's weekly rankings published December 29 (week of December 18-24), Ditto debuted at No. 1 on the overall digital chart and the Global K-Pop Chart, with No. 2 on the streaming chart while Hype Boy sat at No. 3."
+    },
+    "source_url": "https://www.soompi.com/article/1560743wpp/nct-dream-and-newjeans-earn-double-crowns-on-circle-gaon-weekly-charts",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-01-02-omg-first-day-hanteo-481k",
+    "date": "2023-01-02",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『OMG』Hanteo初日売上481,425枚、デビューEPの初週売上を1日で突破",
+      "en": "OMG sells 481,425 copies on day one on Hanteo, passing the debut EP's first-week total"
+    },
+    "summary": {
+      "ja": "『OMG』は発売初日に481,425枚を売り上げ、デビューEPの初週売上311,271枚をわずか1日で上回った。",
+      "en": "OMG sold 481,425 copies on its first day, beating the debut EP's first-week total of 311,271 in a single day."
+    },
+    "detail": {
+      "ja": "Hanteoチャートによると、2023年1月2日に発売された1stシングルアルバム『OMG』は初日に481,425枚を売り上げた。これはデビューEP『New Jeans』の初週売上311,271枚を1日で超える数字だった。同日タイトル曲「OMG」はBugs（21時）とGenie（23時）のリアルタイムチャートで1位に上がった。",
+      "en": "Per Hanteo Chart, the first single album OMG, released January 2, 2023, sold 481,425 copies on its first day, exceeding the debut EP's first-week total of 311,271 in one day. The title track reached No. 1 on Bugs (9 p.m.) and Genie (11 p.m.) realtime charts the same day."
+    },
+    "source_url": "https://www.soompi.com/article/1561304wpp/newjeans-surpasses-1st-week-sales-of-debut-album-in-only-1-day-with-omg-tops-itunes-charts-around-the-world",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "sales"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1561968wpp/newjeans-achieves-4th-highest-1st-week-sales-of-any-girl-group-in-hanteo-history-with-omg"
+    ]
+  },
+  {
+    "id": "record-2023-01-02-omg-stock-preorders-800k",
+    "date": "2023-01-02",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『OMG』初動出荷数（ストック予約）80万枚で自己記録更新",
+      "en": "OMG reaches 800,000 stock pre-orders, a personal record"
+    },
+    "summary": {
+      "ja": "1stシングルアルバム『OMG』の初動出荷数が80万枚に達し、デビューEPの約45万枚を大きく上回った。",
+      "en": "The first single album OMG reached 800,000 stock pre-orders, nearly double the roughly 450,000 for the debut EP."
+    },
+    "detail": {
+      "ja": "2023年1月2日時点で1stシングルアルバム『OMG』の初動出荷数（ストック予約）は80万枚に達した。デビューEP『New Jeans』の約45万枚（当時ガールズグループのデビュー作として史上最高）のほぼ2倍となる。",
+      "en": "As of January 2, 2023, the first single album OMG had reached 800,000 stock pre-orders, nearly double the roughly 450,000 for the debut EP New Jeans, which had itself set the record for a girl-group debut album."
+    },
+    "source_url": "https://www.soompi.com/article/1561157wpp/newjeans-breaks-personal-record-for-stock-pre-orders-with-omg",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "sales"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-01-07-gda-37-digital-bonsang-attention",
+    "date": "2023-01-07",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第37回Golden Disc Awards「デジタル音源部門本賞」受賞（「Attention」）",
+      "en": "Digital Song Bonsang for Attention at the 37th Golden Disc Awards"
+    },
+    "summary": {
+      "ja": "第37回Golden Disc Awardsでデジタル音源部門の本賞（Best Digital Song）を受賞した。",
+      "en": "NewJeans received a Digital Song Bonsang at the 37th Golden Disc Awards."
+    },
+    "detail": {
+      "ja": "2023年1月7日の第37回Golden Disc Awardsで、NewJeansはBIGBANG、(G)I-DLE、IVE、イム・ヨンウン、PSYらと並びデジタル音源部門本賞（Best Digital Song Bonsang）を受賞した。対象曲は「Attention」。",
+      "en": "At the 37th Golden Disc Awards on January 7, 2023, NewJeans received a Best Digital Song Bonsang for Attention, alongside BIGBANG, (G)I-DLE, IVE, Lim Young Woong and PSY."
+    },
+    "source_url": "https://www.soompi.com/article/1561876wpp/winners-of-the-golden-disc-awards-2023",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ]
+  },
+  {
+    "id": "record-2023-01-07-gda-37-rookie-artist-of-the-year",
+    "date": "2023-01-07",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第37回Golden Disc Awards「Rookie Artist of the Year（新人賞）」受賞",
+      "en": "Rookie Artist of the Year at the 37th Golden Disc Awards"
+    },
+    "summary": {
+      "ja": "バンコクで開催された第37回Golden Disc AwardsでRookie Artist of the Yearを受賞した。",
+      "en": "NewJeans won Rookie Artist of the Year at the 37th Golden Disc Awards in Bangkok."
+    },
+    "detail": {
+      "ja": "2023年1月7日、タイ・バンコクのラジャマンガラ・スタジアムで開催された第37回Golden Disc Awardsで、NewJeansはIVE、LE SSERAFIMとともにRookie Artist of the Yearを受賞した。「Attention」「Hype Boy」「OMG」を披露した。",
+      "en": "At the 37th Golden Disc Awards, held January 7, 2023 at Rajamangala Stadium in Bangkok, NewJeans received Rookie Artist of the Year alongside IVE and LE SSERAFIM and performed Attention, Hype Boy and OMG."
+    },
+    "source_url": "https://www.soompi.com/article/1561876wpp/winners-of-the-golden-disc-awards-2023",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-01-07-omg-oricon-daily-singles-no1",
+    "date": "2023-01-07",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『OMG』オリコン デイリーシングルランキング初登場1位（初日20,638枚）",
+      "en": "OMG debuts at No. 1 on Oricon's Daily Singles Ranking with 20,638 copies"
+    },
+    "summary": {
+      "ja": "『OMG』が日本のオリコン デイリーシングルランキングで1位となり、グループ初のオリコン1位を記録した。",
+      "en": "OMG entered Oricon's daily singles chart at No. 1, the group's first Oricon chart-topper."
+    },
+    "detail": {
+      "ja": "2023年1月7日、オリコンは1stシングルアルバム『OMG』がデイリーシングルランキングで初登場1位になったと発表した。日本での発売初日の売上は20,638枚だった。先行曲「Ditto」は週間ストリーミングランキングで6位に初登場していた。",
+      "en": "On January 7, 2023, Oricon announced that the single album OMG had debuted at No. 1 on its Daily Singles Ranking with 20,638 copies sold on its first day in Japan. Ditto had earlier debuted at No. 6 on Oricon's weekly streaming ranking."
+    },
+    "source_url": "https://www.soompi.com/article/1561909wpp/newjeans-tops-oricons-daily-singles-chart-for-1st-time-with-omg",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "japan"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-01-08-omg-first-week-hanteo-701k",
+    "date": "2023-01-08",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『OMG』Hanteo初週売上701,241枚（ガールズグループ史上4位）",
+      "en": "OMG logs 701,241 first-week sales on Hanteo, fourth-highest for a girl group"
+    },
+    "summary": {
+      "ja": "『OMG』は発売初週（1月2日〜8日）に701,241枚を売り上げ、Hanteo史上ガールズグループ4位の初週売上となった。",
+      "en": "OMG sold 701,241 copies in its first week (Jan 2-8), the fourth-highest first week for a girl-group album in Hanteo history."
+    },
+    "detail": {
+      "ja": "Hanteoチャートによると、『OMG』は発売初週（2023年1月2日〜8日）に701,241枚を売り上げた。これはBLACKPINK『BORN PINK』、aespa『Girls』、IVE『After LIKE』に次ぐガールズグループ史上4位の初週売上で、グループの自己記録を倍以上更新した。",
+      "en": "Hanteo Chart reported 701,241 copies sold in OMG's first week (January 2-8, 2023), the fourth-highest first-week total for a girl-group album after BLACKPINK's BORN PINK, aespa's Girls and IVE's After LIKE, and more than double the group's previous record."
+    },
+    "source_url": "https://www.soompi.com/article/1561968wpp/newjeans-achieves-4th-highest-1st-week-sales-of-any-girl-group-in-hanteo-history-with-omg",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "sales"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-01-12-circle-cert-new-jeans-double-platinum",
+    "date": "2023-01-12",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart認定：『New Jeans』ダブルプラチナ（50万枚）",
+      "en": "Circle Chart certification: New Jeans EP certified double platinum"
+    },
+    "summary": {
+      "ja": "Circle Chartがデビューアルバム『New Jeans』を50万枚超のダブルプラチナに認定した。",
+      "en": "Circle Chart certified the debut EP New Jeans double platinum for over 500,000 copies sold."
+    },
+    "detail": {
+      "ja": "2023年1月12日発表のCircle Chart認定で、デビューEP『New Jeans』はRM『Indigo』とともにダブルプラチナ（アルバム50万枚超）に認定された。Circleの認定はプラチナが25万枚、ミリオンが100万枚。",
+      "en": "In Circle Chart's certifications announced January 12, 2023, the debut EP New Jeans was certified double platinum (over 500,000 copies), alongside RM's Indigo. Circle certifies albums platinum at 250,000 and million at 1,000,000 copies."
+    },
+    "source_url": "https://www.soompi.com/article/1562676wpp/itzy-earns-circle-million-certification-red-velvet-le-sserafim-rm-newjeans-and-more-go-double-triple-platinum",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://circlechart.kr/page_chart/certification.circle"
+    ]
+  },
+  {
+    "id": "record-2023-01-12-circle-weekly-quintuple-crown-omg",
+    "date": "2023-01-12",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle週間チャートで5冠（『OMG』アルバム1位、「OMG」「Ditto」でデジタル・ストリーミング・ダウンロード・Global K-Pop 1位）",
+      "en": "Quintuple crown on Circle's weekly charts with OMG and Ditto"
+    },
+    "summary": {
+      "ja": "1月1日〜7日のCircle週間チャートで、アルバム・ダウンロード・デジタル・ストリーミング・Global K-Popの5つのチャートを制した。",
+      "en": "For the week of January 1-7, NewJeans topped five Circle charts: album, download, digital, streaming and Global K-Pop."
+    },
+    "detail": {
+      "ja": "Circle Chartの2023年1月1日〜7日週間集計で、『OMG』がアルバムチャート1位（Weverse盤も2位）、「OMG」がダウンロードチャート初登場1位、「Ditto」が総合デジタルとストリーミングで1位を維持し、Global K-Pop Chartも制して5冠となった。",
+      "en": "In Circle Chart's weekly rankings for January 1-7, 2023, OMG debuted at No. 1 on the album chart (its Weverse edition at No. 2), the title track OMG debuted at No. 1 on the download chart, Ditto held No. 1 on the digital and streaming charts, and the group also topped the Global K-Pop Chart."
+    },
+    "source_url": "https://www.soompi.com/article/1562711wpp/newjeans-scores-quintuple-crown-on-weekly-circle-charts-blackpink-continues-reign-on-social-chart",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-01-13-ditto-uk-singles-debut-95",
+    "date": "2023-01-13",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Ditto」英Official Singles Chart初登場95位（グループ初のUKチャート入り）",
+      "en": "Ditto debuts at No. 95 on the UK Official Singles Chart"
+    },
+    "summary": {
+      "ja": "「Ditto」が英国Official Singles Chart（1月13日〜19日付）に95位で初登場し、デビュー6か月弱でのUKチャート入りはK-POPガールズグループ最速となった。",
+      "en": "Ditto entered the UK Official Singles Chart at No. 95 for the week of January 13-19, the fastest UK chart entry by a K-pop girl group."
+    },
+    "detail": {
+      "ja": "2023年1月13日（現地時間）、英Official Chartsは「Ditto」が1月13日〜19日付Official Singles Chartに95位で初登場したと発表した。グループ初のUKチャート入りで、デビューから6か月未満での達成はK-POPガールズグループ史上最速だった。",
+      "en": "On January 13, 2023 (local time), the UK's Official Charts announced that Ditto had debuted at No. 95 on the Official Singles Chart for January 13-19, the group's first UK chart entry and the fastest by a K-pop girl group, under six months after debut."
+    },
+    "source_url": "https://www.officialcharts.com/charts/singles-chart/20230113/7501/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "uk"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1562850wpp/newjeans-becomes-fastest-k-pop-girl-group-to-debut-on-uks-official-singles-chart-with-ditto"
+    ]
+  },
+  {
+    "id": "record-2023-01-13-omg-oricon-weekly-single-no1",
+    "date": "2023-01-13",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『OMG』オリコン週間シングルランキング1位（56,560ポイント）",
+      "en": "OMG tops Oricon's weekly Combined Singles Ranking with 56,560 points"
+    },
+    "summary": {
+      "ja": "『OMG』がオリコンの週間シングルランキング（1月2日〜8日）で1位となり、2016年以降デビューのガールズグループとして初の快挙となった。",
+      "en": "OMG topped Oricon's weekly singles ranking for January 2-8, the first by a girl group debuting after 2016."
+    },
+    "detail": {
+      "ja": "2023年1月13日にオリコンが発表した1月2日〜8日付の週間シングルランキング（CD・ダウンロード・ストリーミングを合算）で、『OMG』が56,560ポイントで1位を獲得した。2016年以降にデビューしたガールズグループとしては初の1位。同時に『New Jeans』は週間デジタルアルバムランキングで15位の自己最高を記録した。",
+      "en": "On January 13, 2023 Oricon released its weekly singles ranking (combining CD sales, downloads and streams) for January 2-8, with OMG at No. 1 on 56,560 points, the first No. 1 for a girl group that debuted after 2016. The debut EP also reached a new peak of No. 15 on the weekly digital album ranking."
+    },
+    "source_url": "https://www.soompi.com/article/1562817wpp/newjeans-becomes-1st-girl-group-debuting-after-2016-to-top-oricons-weekly-single-rankings-chart-with-omg",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "japan"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-01-14-ditto-global-200-top-10",
+    "date": "2023-01-14",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Ditto」Billboard Global 200で8位、初のトップ10入り",
+      "en": "Ditto reaches No. 8 on the Billboard Global 200, the group's first top 10"
+    },
+    "summary": {
+      "ja": "2023年1月14日付Billboard Global 200で「Ditto」が8位、Global Excl. U.S.で4位を記録し、いずれもグループ初のトップ10入りとなった。",
+      "en": "On the Billboard Global 200 dated January 14, 2023, Ditto rose to No. 8 (and No. 4 on Global Excl. U.S.), the group's first top-10 entries."
+    },
+    "detail": {
+      "ja": "Billboardが2023年1月9日に発表した1月14日付チャートで、「Ditto」はGlobal 200で前週26位から8位に、Global Excl. U.S.で11位から4位に上昇した。集計期間（2022年12月30日〜2023年1月5日）の全世界ストリーミングは4,650万回、販売は4,000超。それまでの自己最高はGlobal 200で「Hype Boy」52位、「Attention」54位だった。",
+      "en": "On the charts dated January 14, 2023 (announced January 9), Ditto jumped from No. 26 to No. 8 on the Global 200 and from No. 11 to No. 4 on Global Excl. U.S., with 46.5 million global streams and over 4,000 sales in the December 30-January 5 tracking week. The group's previous Global 200 bests were Hype Boy (No. 52) and Attention (No. 54)."
+    },
+    "source_url": "https://www.billboard.com/charts/billboard-global-200/2023-01-14/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "billboard"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1562234wpp/newjeans-scores-their-first-top-10-hits-on-billboards-global-200-and-global-excl-u-s-charts-with-ditto"
+    ]
+  },
+  {
+    "id": "record-2023-01-16-melon-weekly-top3-sweep",
+    "date": "2023-01-16",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Melon週間チャートで「Ditto」「OMG」「Hype Boy」が1〜3位を独占",
+      "en": "Ditto, OMG and Hype Boy occupy the top three on Melon's weekly chart"
+    },
+    "summary": {
+      "ja": "1月9日〜15日のMelon週間チャートで1〜3位を独占し、アイドルグループとしては2NE1、BIGBANGに続く3組目となった。",
+      "en": "On Melon's weekly chart for January 9-15, NewJeans held Nos. 1-3, the third idol group ever after 2NE1 and BIGBANG."
+    },
+    "detail": {
+      "ja": "Melonの2023年1月9日〜15日週間チャートで「Ditto」「OMG」「Hype Boy」が1位から3位を独占した。Melon史上6組目、アイドルグループでは2NE1（2010年）、BIGBANG（2015年）に続く3組目で、8年ぶりの記録。4曲目の「Attention」も7位に入り、トップ10に4曲を送り込んだ。",
+      "en": "On Melon's weekly chart for January 9-15, 2023, Ditto, OMG and Hype Boy took Nos. 1, 2 and 3, making NewJeans the sixth artist and third idol group (after 2NE1 in 2010 and BIGBANG in 2015) to sweep the top three, the first in eight years. Attention also sat at No. 7, giving the group four songs in the top 10."
+    },
+    "source_url": "https://www.soompi.com/article/1563199wpp/newjeans-joins-bigbang-and-2ne1-as-only-idol-groups-ever-to-simultaneously-occupy-top-3-spots-on-melons-weekly-chart",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "melon"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-01-19-sma-32-rookie-of-the-year",
+    "date": "2023-01-19",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第32回Seoul Music Awards「新人賞」受賞",
+      "en": "Rookie of the Year at the 32nd Seoul Music Awards"
+    },
+    "summary": {
+      "ja": "KSPOドームで開催された第32回Seoul Music Awardsで新人賞を受賞した。",
+      "en": "NewJeans received Rookie of the Year at the 32nd Seoul Music Awards at KSPO Dome."
+    },
+    "detail": {
+      "ja": "2023年1月19日、ソウルのKSPOドームで開催された第32回Seoul Music Awardsで、NewJeansはTNX、LE SSERAFIMとともにRookie of the Yearを受賞した。",
+      "en": "At the 32nd Seoul Music Awards held January 19, 2023 at KSPO Dome in Seoul, NewJeans were named Rookie of the Year together with TNX and LE SSERAFIM."
+    },
+    "source_url": "https://www.soompi.com/article/1563655wpp/winners-of-the-32nd-seoul-music-awards",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-01-21-ditto-hot-100-debut-96",
+    "date": "2023-01-21",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Ditto」Billboard Hot 100に96位で初登場（グループ初のHot 100入り）",
+      "en": "Ditto debuts at No. 96 on the Billboard Hot 100, the group's first entry"
+    },
+    "summary": {
+      "ja": "2023年1月21日付Billboard Hot 100に「Ditto」が96位で初登場し、K-POPガールズグループとして4組目かつ最速のHot 100入りとなった。",
+      "en": "Ditto entered the Billboard Hot 100 dated January 21, 2023 at No. 96, making NewJeans the fourth and fastest K-pop girl group to chart."
+    },
+    "detail": {
+      "ja": "Billboardが2023年1月17日（現地時間）に発表した1月21日付Hot 100で「Ditto」が96位に初登場した。Wonder Girls、BLACKPINK、TWICEに続くK-POPガールズグループ4組目、BTSを含めてもK-POPグループ5組目のHot 100入りで、デビュー約半年での達成は最速だった。",
+      "en": "Announced January 17, 2023 (local time), the Hot 100 dated January 21 saw Ditto debut at No. 96, the group's first entry. NewJeans became the fourth K-pop girl group (after Wonder Girls, BLACKPINK and TWICE) and fifth K-pop group overall to chart, and the fastest to do so, roughly six months after debut."
+    },
+    "source_url": "https://www.billboard.com/charts/hot-100/2023-01-21/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "billboard"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1563345wpp/newjeans-debuts-on-billboards-hot-100-making-them-4th-and-fastest-k-pop-girl-group-ever-to-do-so"
+    ]
+  },
+  {
+    "id": "record-2023-01-21-omg-ditto-global-200-two-top-10",
+    "date": "2023-01-21",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「OMG」10位・「Ditto」9位、Billboard Global 200トップ10に2曲同時ランクイン",
+      "en": "OMG (No. 10) and Ditto (No. 9) chart simultaneously in the Global 200 top 10"
+    },
+    "summary": {
+      "ja": "1月21日付Billboard Global 200で「Ditto」9位、「OMG」10位となり、2曲同時トップ10はK-POPグループとしてBTS、BLACKPINKに続く3組目。",
+      "en": "On the Global 200 dated January 21, Ditto (No. 9) and OMG (No. 10) made NewJeans the third K-pop group, after BTS and BLACKPINK, with two simultaneous top-10 hits."
+    },
+    "detail": {
+      "ja": "Billboardが1月17日に発表した2023年1月21日付チャートで、「OMG」はGlobal Excl. U.S.で7位、Global 200で10位に上昇し、「Ditto」はそれぞれ5位と9位を維持した。Global 200のトップ10に2曲を同時に送り込んだK-POPグループはBTS、BLACKPINKに続く3組目で、デビュー6か月未満での達成は最速だった。",
+      "en": "On the charts dated January 21, 2023 (announced January 17), OMG rose to No. 7 on Global Excl. U.S. and No. 10 on the Global 200 while Ditto held at No. 5 and No. 9, making NewJeans the third K-pop group after BTS and BLACKPINK, and the fastest, to place two songs in the Global 200 top 10 at once."
+    },
+    "source_url": "https://www.billboard.com/charts/billboard-global-200/2023-01-21/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "billboard"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1563343wpp/newjeans-becomes-3rd-and-fastest-k-pop-group-in-billboard-history-to-chart-2-songs-simultaneously-in-top-10-of-global-200"
+    ]
+  },
+  {
+    "id": "record-2023-01-27-omg-million-seller-circle",
+    "date": "2023-01-27",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『OMG』がCircle Chart集計で100万枚突破、初のミリオンセラー",
+      "en": "OMG passes one million copies on Circle Chart, NewJeans' first million-seller"
+    },
+    "summary": {
+      "ja": "『OMG』の累計売上が1,013,462枚に達し、発売3週半でグループ初のミリオンセラーとなった。",
+      "en": "OMG's cumulative sales reached 1,013,462 copies about three and a half weeks after release, the group's first million-selling album."
+    },
+    "detail": {
+      "ja": "Circle Chartによると、2023年1月27日時点で1stシングルアルバム『OMG』の累計売上は1,013,462枚となった。1月2日の発売から約3週間半、2022年8月のデビューから約6か月での初ミリオンセラーで、ミリオンアルバムを持つK-POPガールズグループとしては史上7組目、最年少かつ最速だった。内訳はフィジカル約72万枚、Weverseアルバム約29万枚。",
+      "en": "According to Circle Chart, OMG had sold 1,013,462 copies as of January 27, 2023, roughly three and a half weeks after its January 2 release and six months after debut. NewJeans became the seventh K-pop girl group with a million-selling album and the youngest and fastest to do so; about 720,000 were physical copies and nearly 290,000 Weverse albums."
+    },
+    "source_url": "https://www.soompi.com/article/1564515wpp/newjeans-becomes-fastest-k-pop-group-to-achieve-million-selling-album-with-omg",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "sales",
+      "million-seller"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-01-28-omg-hot-100-debut-91",
+    "date": "2023-01-28",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「OMG」Billboard Hot 100に91位で初登場、複数曲チャートインはK-POP最速",
+      "en": "OMG debuts at No. 91 on the Hot 100, the fastest K-pop act to land multiple entries"
+    },
+    "summary": {
+      "ja": "1月28日付Billboard Hot 100に「OMG」が91位で初登場し、「Ditto」に続く2曲目のHot 100入りとなった。",
+      "en": "OMG entered the Hot 100 dated January 28, 2023 at No. 91, NewJeans' second entry a week after Ditto."
+    },
+    "detail": {
+      "ja": "Billboardが2023年1月24日（現地時間）に発表した1月28日付Hot 100で、「OMG」が91位に初登場した。前週の「Ditto」（96位）に続く2曲目で、デビュー6か月での複数曲チャートインはK-POPアーティスト史上最速。複数曲をHot 100に送ったK-POPグループはBTS、BLACKPINKに続く3組目となった。",
+      "en": "Announced January 24, 2023 (local time), the Hot 100 dated January 28 saw OMG debut at No. 91, the group's second entry after Ditto (No. 96 the week before). Six months after debut, NewJeans became the fastest K-pop act with multiple Hot 100 entries and the third K-pop group to do so after BTS and BLACKPINK."
+    },
+    "source_url": "https://www.billboard.com/charts/hot-100/2023-01-28/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "billboard"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1564133wpp/newjeans-omg-debuts-on-billboards-hot-100-making-them-fastest-k-pop-artist-in-history-to-chart-multiple-entries"
+    ]
+  },
+  {
+    "id": "record-2023-02-02-melon-monthly-jan-2023-top3",
+    "date": "2023-02-02",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Melon月間チャート（2023年1月）で1〜3位を独占、アイドルグループ史上初",
+      "en": "NewJeans sweep the top three on Melon's monthly chart for January 2023"
+    },
+    "summary": {
+      "ja": "Melonの2023年1月月間チャートで「Ditto」1位、「OMG」2位、「Hype Boy」3位となり、アイドルグループとして初めて月間トップ3を独占した。",
+      "en": "On Melon's monthly chart for January 2023, Ditto, OMG and Hype Boy ranked Nos. 1-3, the first idol group ever to sweep the monthly top three."
+    },
+    "detail": {
+      "ja": "Melonが公開した2023年1月の月間チャートで、「Ditto」が8ランク上昇して1位、「OMG」が2位に初登場、「Hype Boy」が3位となった。月間トップ3の独占はBusker Busker（2012年4月）、MC Mong（2014年11月）に続く3組目で、女性アーティストおよびアイドルグループとしては初。月間チャートはストリーミング40%・ダウンロード60%で算出される。",
+      "en": "On Melon's monthly chart for January 2023, Ditto climbed eight places to No. 1, OMG debuted at No. 2 and Hype Boy came in at No. 3. Only Busker Busker (April 2012) and MC Mong (November 2014) had previously swept the monthly top three; NewJeans were the first female act and first idol group to do so. The chart weights streaming 40% and downloads 60%."
+    },
+    "source_url": "https://www.soompi.com/article/1565130wpp/newjeans-becomes-1st-idol-group-in-history-to-rank-in-top-3-spots-on-melons-monthly-chart",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "melon"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-02-09-circle-cert-new-jeans-weverse-platinum",
+    "date": "2023-02-09",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart認定：『New Jeans』（Weverse盤）プラチナ",
+      "en": "Circle Chart certification: New Jeans (Weverse edition) certified platinum"
+    },
+    "summary": {
+      "ja": "デビューEP『New Jeans』のWeverseアルバム版がCircle Chartのプラチナ（25万枚超）に認定された。",
+      "en": "The Weverse edition of the debut EP was certified platinum (over 250,000 copies) by Circle Chart."
+    },
+    "detail": {
+      "ja": "2023年2月9日発表のCircle Chart認定で、デビューEP『New Jeans』のWeverse版がプラチナ（25万枚超）に認定された。",
+      "en": "In Circle Chart's certifications announced February 9, 2023, the Weverse edition of the debut EP New Jeans was certified platinum for over 250,000 copies."
+    },
+    "source_url": "https://www.soompi.com/article/1566088wpp/seventeen-and-nct-dream-earn-circle-gaon-triple-million-and-million-certifications-ateez-newjeans-and-more-go-platinum",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://circlechart.kr/page_chart/certification.circle"
+    ]
+  },
+  {
+    "id": "record-2023-02-09-circle-monthly-jan-2023-ditto",
+    "date": "2023-02-09",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle月間チャート（2023年1月）で「Ditto」が3冠、『OMG』アルバム2位",
+      "en": "Ditto earns a triple crown on Circle's monthly charts for January 2023"
+    },
+    "summary": {
+      "ja": "Circle Chartの2023年1月月間チャートで「Ditto」が総合デジタル・ストリーミング・Global K-Popの3部門1位、「OMG」が3部門で2位となった。",
+      "en": "On Circle's monthly charts for January 2023, Ditto topped the digital, streaming and Global K-Pop charts, with OMG at No. 2 on all three."
+    },
+    "detail": {
+      "ja": "2023年2月9日に発表されたCircle Chartの1月月間チャートで、「Ditto」が総合デジタルチャート、ストリーミングチャート、Global K-Pop Chartの3部門で1位、「OMG」が同3部門で2位、「Hype Boy」がデジタル・ストリーミングで4位となった。アルバムチャートでは『OMG』通常盤が2位、Weverse盤が5位に入った。",
+      "en": "In Circle Chart's monthly rankings for January 2023, published February 9, Ditto was No. 1 on the overall digital, streaming and Global K-Pop charts, OMG was No. 2 on all three, and Hype Boy was No. 4 on the digital and streaming charts. On the monthly album chart, OMG's standard edition debuted at No. 2 and its Weverse edition at No. 5."
+    },
+    "source_url": "https://www.soompi.com/article/1566104wpp/txt-nct-127-newjeans-taeyang-jimin-and-blackpink-top-circle-monthly-and-weekly-charts",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-02-11-artist-100-debut",
+    "date": "2023-02-11",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Billboard Artist 100に98位で初登場",
+      "en": "NewJeans debut at No. 98 on the Billboard Artist 100"
+    },
+    "summary": {
+      "ja": "2023年2月11日付Billboard Artist 100にNewJeansが98位で初めてランクインした。",
+      "en": "NewJeans entered the Billboard Artist 100 dated February 11, 2023 at No. 98, their first week on the chart."
+    },
+    "detail": {
+      "ja": "Billboardの2023年2月11日付Artist 100でNewJeansが98位に初登場した。同週のHot 100では「OMG」が自己最高の77位、「Ditto」が4週連続で90位に入っていた。",
+      "en": "On the Billboard Artist 100 dated February 11, 2023, NewJeans debuted at No. 98. The same week OMG reached a then-peak of No. 77 and Ditto spent a fourth week on the Hot 100 at No. 90."
+    },
+    "source_url": "https://www.billboard.com/charts/artist-100/2023-02-11/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "billboard"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1565850wpp/newjeans-omg-climbs-to-their-highest-ranking-yet-on-billboards-hot-100-ditto-spends-4th-week-on-chart"
+    ]
+  },
+  {
+    "id": "record-2023-02-11-hanteo-music-awards-30-rookie",
+    "date": "2023-02-11",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第30回Hanteo Music Awards「新人賞（女性）」受賞",
+      "en": "Rookie of the Year (Female) at the 30th Hanteo Music Awards"
+    },
+    "summary": {
+      "ja": "初の有観客開催となったHanteo Music Awards 2022で新人賞（女性部門）を受賞した。",
+      "en": "NewJeans won Rookie of the Year (Female) at the first in-person Hanteo Music Awards."
+    },
+    "detail": {
+      "ja": "2023年2月11日、ソウル蚕室アリーナで開催されたHanteo Music Awards 2022（第30回）の2日目で、NewJeansはKep1erとともにRookie of the Year（Female）を受賞した。",
+      "en": "On February 11, 2023, at the second night of the Hanteo Music Awards 2022 (30th) at Jamsil Arena in Seoul, NewJeans received Rookie of the Year (Female) alongside Kep1er."
+    },
+    "source_url": "https://www.soompi.com/article/1566372wpp/winners-of-hanteo-music-awards-2022-day-2",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-02-18-ccma-2022-rookie-digital",
+    "date": "2023-02-18",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart Music Awards 2022「Rookie of the Year（デジタル音源部門）」受賞",
+      "en": "Rookie of the Year (Digital) at the Circle Chart Music Awards 2022"
+    },
+    "summary": {
+      "ja": "Circle Chart Music Awards（旧Gaon Chart Music Awards）で新人賞（デジタル音源部門）を受賞した。",
+      "en": "NewJeans won Rookie of the Year (Digital Music) at the first Circle Chart Music Awards."
+    },
+    "detail": {
+      "ja": "2023年2月18日、Gaon Chart Music Awardsから改称して初開催となったCircle Chart Music Awardsで、NewJeansはRookie of the Year（Digital Music）を受賞した。フィジカルアルバム部門の新人賞はIVEだった。",
+      "en": "On February 18, 2023, at the first ceremony held under the Circle Chart Music Awards name (formerly the Gaon Chart Music Awards), NewJeans won Rookie of the Year (Digital Music); IVE took the physical-album rookie award."
+    },
+    "source_url": "https://www.soompi.com/article/1567185wpp/winners-of-the-circle-gaon-chart-music-awards",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-02-18-ditto-hot-100-peak-82",
+    "date": "2023-02-18",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Ditto」Billboard Hot 100で82位の自己最高位",
+      "en": "Ditto peaks at No. 82 on the Billboard Hot 100"
+    },
+    "summary": {
+      "ja": "2月18日付Hot 100で「Ditto」が5週目に82位へ上昇し、自己最高位を記録した。",
+      "en": "On the Hot 100 dated February 18, 2023, Ditto rose to No. 82 in its fifth week, its peak position."
+    },
+    "detail": {
+      "ja": "2023年2月18日付Billboard Hot 100で、「Ditto」はチャートイン5週目に82位へ上昇し自己最高位となった。同週「OMG」も74位の自己最高を記録し、「Ditto」はWorld Digital Song Salesで9位、Global Excl. U.S.で11位、Global 200で14位に入った。",
+      "en": "On the Billboard Hot 100 dated February 18, 2023, Ditto climbed to No. 82 in its fifth week, its peak. The same week it ranked No. 9 on World Digital Song Sales, No. 11 on Global Excl. U.S. and No. 14 on the Global 200."
+    },
+    "source_url": "https://www.billboard.com/charts/hot-100/2023-02-18/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "billboard"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1566718wpp/newjeans-becomes-2nd-highest-ranking-k-pop-girl-group-in-billboard-hot-100-history-as-omg-hits-new-peak"
+    ]
+  },
+  {
+    "id": "record-2023-02-18-omg-hot-100-peak-74",
+    "date": "2023-02-18",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「OMG」Billboard Hot 100で74位の自己最高位、K-POPガールズグループ史上2番目の高順位",
+      "en": "OMG peaks at No. 74 on the Hot 100, second-highest ever for a K-pop girl group"
+    },
+    "summary": {
+      "ja": "2月18日付Hot 100で「OMG」が4週連続上昇して74位となり、BLACKPINKに次ぐK-POPガールズグループ史上2番目の順位を記録した。",
+      "en": "On the Hot 100 dated February 18, 2023, OMG climbed to No. 74 in its fourth week, the second-highest Hot 100 placement by a K-pop girl group after BLACKPINK."
+    },
+    "detail": {
+      "ja": "Billboardが2023年2月14日（現地時間）に発表した2月18日付Hot 100で、「OMG」は初登場91位→79位→77位に続き74位へ上昇し、4週連続で自己最高を更新した。これによりNewJeansはWonder Girlsを抜き、BLACKPINKに次いでHot 100で2番目に高い順位を記録したK-POPガールズグループとなった。",
+      "en": "Announced February 14, 2023 (local time), the Hot 100 dated February 18 had OMG at No. 74 after debuting at No. 91 and rising to Nos. 79 and 77, a new peak every week. NewJeans overtook Wonder Girls to become the second-highest-charting K-pop girl group in Hot 100 history, behind BLACKPINK."
+    },
+    "source_url": "https://www.billboard.com/charts/hot-100/2023-02-18/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "billboard"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1566718wpp/newjeans-becomes-2nd-highest-ranking-k-pop-girl-group-in-billboard-hot-100-history-as-omg-hits-new-peak"
+    ]
+  },
+  {
+    "id": "record-2023-02-20-new-jeans-ep-million-seller",
+    "date": "2023-02-20",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "デビューEP『New Jeans』が100万枚突破、2作目のミリオンセラー",
+      "en": "Debut EP New Jeans passes one million copies, the group's second million-seller"
+    },
+    "summary": {
+      "ja": "ADORは『New Jeans』がCircle Chart集計で1,036,811枚を売り上げたと発表。Circle集計開始（2011年）以来、デビューアルバムのミリオン達成は初。",
+      "en": "ADOR announced that New Jeans had sold 1,036,811 copies per Circle Chart, the first debut album to pass one million since Circle began compiling data in 2011."
+    },
+    "detail": {
+      "ja": "2023年2月20日、ADORはデビューEP『New Jeans』が2022年8月から2023年2月11日までにCircle Chart集計で1,036,811枚を売り上げたと発表した。Circle Chartが集計を始めた2011年以降、デビューアルバムでミリオンを達成したのは初めて。1月の『OMG』に続き、約半年で2作のミリオンアルバムを持つことになった。",
+      "en": "On February 20, 2023, ADOR announced that the debut EP New Jeans had sold 1,036,811 copies from August 2022 through February 11, 2023 per Circle Chart, the first debut album to top one million since Circle began collecting data in 2011. Following OMG in January, the group had two million-selling albums within about six months."
+    },
+    "source_url": "https://www.soompi.com/article/1567525wpp/newjeans-achieves-2nd-million-selling-album-with-self-titled-debut-ep",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "sales",
+      "million-seller"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-02-27-ditto-melon-weekly-10-weeks",
+    "date": "2023-02-27",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Ditto」Melon週間チャート10週連続1位、Melon史上初",
+      "en": "Ditto tops Melon's weekly chart for a 10th straight week, a Melon first"
+    },
+    "summary": {
+      "ja": "「Ditto」が2月20日〜26日のMelon週間チャートで10週連続1位となり、2004年のサービス開始以来の最長連続1位記録を樹立した。",
+      "en": "Ditto topped Melon's weekly chart for February 20-26, its 10th consecutive week at No. 1, the longest run since Melon launched in 2004."
+    },
+    "detail": {
+      "ja": "2023年2月27日発表のMelon週間チャート（2月20日〜26日）で「Ditto」が10週連続1位を記録した。2022年12月19日の公開以来70日間1位を保ち、2004年11月のサービス開始以来最長の連続1位となった。非連続で10週超の1位はBTS「Dynamite」のみ。Bugsでも10週連続1位で同サイトの記録を更新した。",
+      "en": "Announced February 27, 2023, Melon's weekly chart for February 20-26 had Ditto at No. 1 for a 10th consecutive week, 70 straight days on top since its December 19, 2022 release, the longest consecutive No. 1 run since Melon launched in November 2004; only BTS's Dynamite had exceeded 10 weeks non-consecutively. Ditto also set a 10-week record on Bugs."
+    },
+    "source_url": "https://www.soompi.com/article/1569746wpp/newjeans-ditto-becomes-1st-song-in-melon-history-to-chart-at-no-1-for-10-consecutive-weeks",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "melon"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-03-05-ditto-melon-daily-76-days",
+    "date": "2023-03-05",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Ditto」Melonデイリーチャート1位76日目、「Dynamite」を抜き歴代最多",
+      "en": "Ditto logs a 76th day at No. 1 on Melon's daily chart, passing Dynamite"
+    },
+    "summary": {
+      "ja": "3月5日、「Ditto」がMelonデイリーチャートで76日目の1位を記録し、BTS「Dynamite」を抜いて同チャート史上最多日数となった。",
+      "en": "On March 5, 2023, Ditto spent its 76th day at No. 1 on Melon's daily chart, overtaking BTS's Dynamite for the most days at No. 1 in the chart's history."
+    },
+    "detail": {
+      "ja": "2023年3月5日、「Ditto」はMelonデイリーチャート（2014年1月1日開始）で76日目の1位を記録し、それまでの最多記録だったBTS「Dynamite」を上回った。同週には週間チャート10週連続1位の記録も樹立している。",
+      "en": "On March 5, 2023, Ditto recorded its 76th day at No. 1 on Melon's daily chart (launched January 1, 2014), surpassing the previous record held by BTS's Dynamite. The same week it had set the record for 10 consecutive weeks atop Melon's weekly chart."
+    },
+    "source_url": "https://www.soompi.com/article/1570513wpp/newjeans-ditto-overtakes-btss-dynamite-to-become-song-with-most-days-at-no-1-on-melon-chart",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "melon"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-03-05-kma-20-best-kpop-album-new-jeans",
+    "date": "2023-03-05",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第20回韓国大衆音楽賞「最優秀K-POPアルバム」受賞（『New Jeans』）",
+      "en": "Best K-Pop Album for New Jeans at the 20th Korean Music Awards"
+    },
+    "summary": {
+      "ja": "デビューEP『New Jeans』が第20回韓国大衆音楽賞のBest K-Pop Albumに選ばれた。",
+      "en": "The debut EP New Jeans won Best K-Pop Album at the 20th Korean Music Awards."
+    },
+    "detail": {
+      "ja": "2023年3月5日の第20回韓国大衆音楽賞で、デビューEP『New Jeans』がBest K-Pop Albumを受賞した。NewJeansはこの日、新人賞・最優秀K-POP曲と合わせて3冠となった。",
+      "en": "At the 20th Korean Music Awards on March 5, 2023, the debut EP New Jeans won Best K-Pop Album, giving the group three trophies that night together with Rookie of the Year and Best K-Pop Song."
+    },
+    "source_url": "https://www.soompi.com/article/1570505wpp/winners-of-the-2023-korean-music-awards",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-03-05-kma-20-best-kpop-song-attention",
+    "date": "2023-03-05",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第20回韓国大衆音楽賞「最優秀K-POP曲」受賞（「Attention」）",
+      "en": "Best K-Pop Song for Attention at the 20th Korean Music Awards"
+    },
+    "summary": {
+      "ja": "「Attention」が第20回韓国大衆音楽賞のBest K-Pop Songに選ばれた。",
+      "en": "Attention won Best K-Pop Song at the 20th Korean Music Awards."
+    },
+    "detail": {
+      "ja": "2023年3月5日の第20回韓国大衆音楽賞で、デビュー曲「Attention」がBest K-Pop Songを受賞した。同曲はSong of the Yearにもノミネートされていた（受賞はユンナ「Event Horizon」）。",
+      "en": "At the 20th Korean Music Awards on March 5, 2023, the debut single Attention won Best K-Pop Song; it was also nominated for Song of the Year, which went to Younha's Event Horizon."
+    },
+    "source_url": "https://www.soompi.com/article/1570505wpp/winners-of-the-2023-korean-music-awards",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-03-05-kma-20-rookie-of-the-year",
+    "date": "2023-03-05",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第20回韓国大衆音楽賞「今年の新人」受賞",
+      "en": "Rookie of the Year at the 20th Korean Music Awards"
+    },
+    "summary": {
+      "ja": "評論家らが選ぶ韓国大衆音楽賞で今年の新人（Rookie of the Year）を受賞した。",
+      "en": "NewJeans won Rookie of the Year at the critic-voted Korean Music Awards."
+    },
+    "detail": {
+      "ja": "2023年3月5日に発表された第20回韓国大衆音楽賞（Korean Music Awards）で、6部門ノミネートのNewJeansはRookie of the Yearを受賞した。同賞は売上ではなく音楽的達成を基準とする。ビデオ受賞コメントでミン・ヒジン代表、ADORスタッフ、Bunniesへ感謝を述べた。",
+      "en": "At the 20th Korean Music Awards, announced March 5, 2023, NewJeans, nominated in six categories, won Rookie of the Year. The awards are judged on musical achievement rather than sales. In a video acceptance speech the members thanked CEO Min Hee Jin, ADOR staff and fan club Bunnies."
+    },
+    "source_url": "https://www.soompi.com/article/1570505wpp/winners-of-the-2023-korean-music-awards",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-03-08-spotify-1-billion-streams-219-days",
+    "date": "2023-03-08",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Spotify累計10億ストリーミング突破（デビューから219日、K-POP最速）",
+      "en": "NewJeans pass 1 billion Spotify streams in 219 days, the fastest K-pop act"
+    },
+    "summary": {
+      "ja": "デビュー219日目の3月8日にSpotify累計再生10億回を突破し、K-POPアーティスト最速記録となった。",
+      "en": "On March 8, 2023, 219 days after debut, NewJeans' catalogue passed 1 billion Spotify streams, the fastest for any K-pop act."
+    },
+    "detail": {
+      "ja": "2023年3月8日、NewJeansはSpotifyでの累計ストリーミング10億回を突破した。デビューから219日での達成で、それまでの記録（BLACKPINKのLISA 411日、BTSのJungkook 409日）を大きく更新した。当時Spotifyにあった楽曲はデビューEPの4曲と『OMG』の2曲の計6曲のみだった。",
+      "en": "On March 8, 2023, NewJeans surpassed 1 billion cumulative streams on Spotify, 219 days after debut, far faster than the previous marks of 411 days (BLACKPINK's Lisa) and 409 days (BTS's Jungkook). At the time only six songs were on Spotify: the four tracks of the debut EP and the two from OMG."
+    },
+    "source_url": "https://www.guinnessworldrecords.com/world-records/746515-fastest-k-pop-act-to-reach-1-billion-streams-on-spotify",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "streaming",
+      "spotify"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://www.soompi.com/article/1585416wpp/newjeans-officially-breaks-guinness-world-record-for-fastest-k-pop-act-to-reach-1-billion-streams-on-spotify"
+    ]
+  },
+  {
+    "id": "record-2023-03-09-circle-cert-hype-boy-streaming-platinum",
+    "date": "2023-03-09",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart認定：「Hype Boy」ストリーミング・プラチナ（1億回）",
+      "en": "Circle Chart certification: Hype Boy certified platinum for 100 million streams"
+    },
+    "summary": {
+      "ja": "「Hype Boy」がCircle Chartのストリーミング部門で1億回超のプラチナに認定され、グループ初のストリーミング認定となった。",
+      "en": "Hype Boy was certified platinum in Circle Chart's streaming category for over 100 million streams, the group's first streaming certification."
+    },
+    "detail": {
+      "ja": "2023年3月9日発表のCircle Chart認定のストリーミング部門で、「Hype Boy」が累計1億回超のプラチナに認定された。同部門ではIU「Love Poem」（ダブルプラチナ）、チャン・ボムジュン「Your Shampoo Scent in the Flowers」（トリプルプラチナ）も認定された。",
+      "en": "In the streaming category of Circle Chart's March 9, 2023 certifications, Hype Boy was certified platinum for surpassing 100 million streams, alongside IU's Love Poem (double platinum) and Jang Beom June's Your Shampoo Scent in the Flowers (triple platinum)."
+    },
+    "source_url": "https://www.soompi.com/article/1571691wpp/txt-scores-double-million-circle-certification-newjeans-blackpink-twice-and-more-go-triple-double-platinum",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "streaming"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://circlechart.kr/page_chart/certification.circle"
+    ]
+  },
+  {
+    "id": "record-2023-03-09-circle-cert-omg-new-jeans-triple-platinum",
+    "date": "2023-03-09",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart認定：『OMG』『New Jeans』トリプルプラチナ、『OMG』Weverse盤プラチナ",
+      "en": "Circle Chart certification: OMG and New Jeans triple platinum, OMG (Weverse) platinum"
+    },
+    "summary": {
+      "ja": "『OMG』とデビューEP『New Jeans』がそれぞれ75万枚超のトリプルプラチナ、『OMG』Weverse盤がプラチナに認定された。",
+      "en": "OMG and the debut EP New Jeans were each certified triple platinum (over 750,000 copies) and OMG's Weverse edition platinum."
+    },
+    "detail": {
+      "ja": "2023年3月9日発表のCircle Chart認定で、NewJeansは3つのアルバム認定を獲得した。『OMG』と『New Jeans』がそれぞれ75万枚超でトリプルプラチナ、『OMG』のWeverse版がプラチナ（25万枚超）となった。",
+      "en": "In Circle Chart's certifications announced March 9, 2023, NewJeans earned three album certifications: OMG and New Jeans each went triple platinum for over 750,000 copies, and the Weverse edition of OMG was certified platinum (over 250,000)."
+    },
+    "source_url": "https://www.soompi.com/article/1571691wpp/txt-scores-double-million-circle-certification-newjeans-blackpink-twice-and-more-go-triple-double-platinum",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://circlechart.kr/page_chart/certification.circle"
+    ]
+  },
+  {
+    "id": "record-2023-03-28-riaj-gold-hype-boy-ditto",
+    "date": "2023-03-28",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「Hype Boy」「Ditto」ゴールド（5,000万回）",
+      "en": "RIAJ streaming certification: Hype Boy and Ditto certified gold"
+    },
+    "summary": {
+      "ja": "日本レコード協会（RIAJ）が「Hype Boy」「Ditto」を各5,000万回再生超のゴールドに認定、グループ初のRIAJ認定となった。",
+      "en": "The RIAJ certified Hype Boy and Ditto gold for over 50 million streams each in Japan, NewJeans' first RIAJ certifications."
+    },
+    "detail": {
+      "ja": "2023年3月28日頃に発表された日本レコード協会（RIAJ）の2023年2月度ストリーミング認定で、「Hype Boy」と「Ditto」がそれぞれ5,000万回再生を超えゴールドに認定された。RIAJのストリーミング認定はシルバー3,000万回、ゴールド5,000万回、プラチナ1億回。",
+      "en": "In the RIAJ's streaming certifications for February 2023 (reported March 28), Hype Boy and Ditto were each certified gold for surpassing 50 million streams in Japan. RIAJ streaming tiers are silver (30 million), gold (50 million) and platinum (100 million)."
+    },
+    "source_url": "https://www.soompi.com/article/1575871wpp/bts-earns-their-3rd-triple-platinum-riaj-certification-in-japan-for-streaming-newjeans-goes-gold-for-1st-time",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "japan",
+      "streaming"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.riaj.or.jp/f/data/cert/"
+    ]
+  },
+  {
+    "id": "record-2023-04-02-melon-monthly-top3-three-months",
+    "date": "2023-04-02",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Melon月間チャート1〜3位を3か月連続で独占、史上初",
+      "en": "NewJeans sweep Melon's monthly top three for a third straight month, a first"
+    },
+    "summary": {
+      "ja": "ADORは3月のMelon月間チャートでも「Ditto」「OMG」「Hype Boy」が1〜3位となり、1〜3月の3か月連続でトップ3を独占したと発表した。",
+      "en": "ADOR announced that Ditto, OMG and Hype Boy again held Nos. 1-3 on Melon's monthly chart for March, a three-month sweep covering all of Q1 2023."
+    },
+    "detail": {
+      "ja": "2023年4月2日、ADORはMelonの3月月間チャートで「Ditto」が1位、「OMG」2位、「Hype Boy」3位となり、1月・2月・3月と3か月連続でトップ3を独占したと発表した。Melon史上初の記録。「Ditto」はデイリーチャートで99日間1位、週間チャートで14週連続1位も記録している。",
+      "en": "On April 2, 2023, ADOR announced that Ditto (No. 1), OMG (No. 2) and Hype Boy (No. 3) had swept Melon's monthly chart for March, following identical top-threes in January and February, a first in Melon's history. Ditto had by then spent 99 days at No. 1 on the daily chart and 14 consecutive weeks atop the weekly chart."
+    },
+    "source_url": "https://www.soompi.com/article/1576843wpp/newjeans-becomes-1st-artist-in-history-to-sweep-top-3-spots-for-3-months-on-melons-monthly-chart",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "melon"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-04-15-hype-boy-global-200-42-weeks",
+    "date": "2023-04-15",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Hype Boy」Billboard Global 200で42週チャートイン、K-POP女性アーティスト最長",
+      "en": "Hype Boy charts a 42nd week on the Billboard Global 200, longest for a K-pop female act"
+    },
+    "summary": {
+      "ja": "「Hype Boy」がBillboard Global 200に通算42週ランクインし、K-POP女性アーティストの楽曲として最長記録となった。",
+      "en": "Hype Boy spent its 42nd week on the Billboard Global 200, the longest run by a K-pop female act."
+    },
+    "detail": {
+      "ja": "2022年8月にチャートインした「Hype Boy」は、2023年4月15日付Billboard Global 200で通算42週目のランクインを記録し、K-POP女性アーティストの楽曲として同チャート最長記録となった（最高位52位）。",
+      "en": "Hype Boy, which first entered the chart in August 2022, logged its 42nd week on the Billboard Global 200 dated April 15, 2023, the longest run by any K-pop female act on the chart (peak No. 52)."
+    },
+    "source_url": "https://www.billboard.com/charts/billboard-global-200/2023-04-15/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "billboard"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Hype_Boy"
+    ],
+    "editor_note": "週数と日付はWikipedia（Hype Boy）記載の引用週に基づく。要確認"
+  },
+  {
+    "id": "record-2023-04-30-hype-boy-mv-100m-views",
+    "date": "2023-04-30",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Hype Boy」Official MV（Performance ver.1）YouTube1億回再生、グループ初",
+      "en": "Hype Boy Performance ver.1 MV hits 100 million YouTube views, the group's first"
+    },
+    "summary": {
+      "ja": "4月30日19時40分頃、「Hype Boy」Official MV（Performance ver.1）がYouTubeで1億回再生を突破し、NewJeans初の1億回MVとなった。",
+      "en": "At around 7:40 p.m. KST on April 30, 2023, the Hype Boy Performance ver.1 video passed 100 million YouTube views, NewJeans' first video to do so."
+    },
+    "detail": {
+      "ja": "2023年4月30日19時40分頃（KST）、「'Hype Boy' Official MV (Performance ver.1)」がYouTubeで1億回再生を超えた。2022年8月18日18時の公開から約8か月12日1時間での到達で、NewJeansの動画として初の1億回突破となった。",
+      "en": "At about 7:40 p.m. KST on April 30, 2023, the Hype Boy Official MV (Performance ver.1) surpassed 100 million views on YouTube, about 8 months, 12 days and 1 hour after its release on August 18, 2022 at 6 p.m. KST, the first NewJeans video to reach the milestone."
+    },
+    "source_url": "https://www.soompi.com/article/1583782wpp/newjeans-hype-boy-becomes-their-1st-mv-to-hit-100-million-views",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "views",
+      "youtube"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-05-01-gold-house-a100-2023",
+    "date": "2023-05-01",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Gold House「A100 List 2023」に選出",
+      "en": "NewJeans named to Gold House's 2023 A100 List"
+    },
+    "summary": {
+      "ja": "最も影響力のあるアジア系100人を選ぶGold HouseのA100 List 2023に、エンターテインメント＆メディア部門で選出された。",
+      "en": "Gold House included NewJeans in its 2023 A100 List of the most impactful Asians, in the entertainment and media category."
+    },
+    "detail": {
+      "ja": "2023年5月1日、Gold Houseは2023年のA100 Listを発表し、NewJeansがGOT7のジャクソンとともにエンターテインメント＆メディア部門で選ばれた。Gold Houseはデビューアルバムでのミリオンセラー達成と「Ditto」「OMG」でのBillboard Hot 100入りを評価した。",
+      "en": "On May 1, 2023, Gold House unveiled its A100 List for 2023, naming NewJeans (with GOT7's Jackson) in entertainment and media, citing the million-selling debut album and the group's Hot 100 entries with Ditto and OMG."
+    },
+    "source_url": "https://www.soompi.com/article/1583973wpp/newjeans-and-got7s-jackson-make-gold-houses-2023-a100-list-of-most-impactful-asians",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "list"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-05-07-guinness-world-record-spotify",
+    "date": "2023-05-07",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ギネス世界記録に認定：「Spotifyで10億ストリーミングに最速で到達したK-POPアーティスト」",
+      "en": "Guinness World Records certifies NewJeans as fastest K-pop act to 1 billion Spotify streams"
+    },
+    "summary": {
+      "ja": "ギネス世界記録が、デビューから219日でSpotify10億回再生に達したNewJeansをK-POP最速として認定した。",
+      "en": "Guinness World Records recognized NewJeans for reaching 1 billion Spotify streams in 219 days, the fastest K-pop act."
+    },
+    "detail": {
+      "ja": "2023年5月上旬、Guinness World RecordsはNewJeansを「Fastest K-pop act to reach 1 billion streams on Spotify」として認定した。達成日は2023年3月8日、デビューから219日。当時Spotifyにあった楽曲は「Attention」「Hype Boy」「Cookie」「Hurt」「Ditto」「OMG」の6曲のみで、グループ初のギネス記録となった。",
+      "en": "In early May 2023, Guinness World Records recognized NewJeans as the fastest K-pop act to reach 1 billion streams on Spotify, a milestone hit on March 8, 2023, 219 days after debut, with only six songs available (Attention, Hype Boy, Cookie, Hurt, Ditto and OMG). It was the group's first Guinness record."
+    },
+    "source_url": "https://www.guinnessworldrecords.com/world-records/746515-fastest-k-pop-act-to-reach-1-billion-streams-on-spotify",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award",
+      "streaming",
+      "spotify"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://www.soompi.com/article/1585416wpp/newjeans-officially-breaks-guinness-world-record-for-fastest-k-pop-act-to-reach-1-billion-streams-on-spotify"
+    ]
+  },
+  {
+    "id": "record-2023-05-11-circle-cert-omg-million-attention-platinum",
+    "date": "2023-05-11",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart認定：『OMG』ミリオン、「Attention」ストリーミング・プラチナ",
+      "en": "Circle Chart certification: OMG certified million, Attention streaming platinum"
+    },
+    "summary": {
+      "ja": "Circle Chartが『OMG』を100万枚超のミリオンに正式認定し、「Attention」をストリーミング1億回超のプラチナに認定した。",
+      "en": "Circle Chart officially certified OMG as a million-seller and Attention platinum for over 100 million streams."
+    },
+    "detail": {
+      "ja": "2023年5月11日発表のCircle Chart認定で、1stシングルアルバム『OMG』がミリオン（100万枚超）認定を受けた。ストリーミング部門では「Attention」が1億回超でプラチナに認定され、IVE「After LIKE」、ユンナ「Event Horizon」なども同時に認定された。",
+      "en": "In Circle Chart's certifications announced May 11, 2023, the single album OMG received an official million certification (over 1,000,000 copies). In the streaming category, Attention was certified platinum for over 100 million streams, together with songs such as IVE's After LIKE and Younha's Event Horizon."
+    },
+    "source_url": "https://www.soompi.com/article/1586652wpp/blackpinks-jisoo-btss-jimin-twice-and-newjeans-achieve-circle-million-certifications-nmixx-ikon-and-more-go-platinum",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "streaming"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://circlechart.kr/page_chart/certification.circle"
+    ]
+  },
+  {
+    "id": "record-2023-05-13-omg-mv-100m-views",
+    "date": "2023-05-13",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「OMG」Official MV（Performance ver.1）YouTube1億回再生、最速記録",
+      "en": "OMG Performance ver.1 MV hits 100 million views, the group's fastest"
+    },
+    "summary": {
+      "ja": "5月13日21時前、「OMG」Official MV（Performance ver.1）が公開から約130日で1億回再生を突破し、グループ2本目かつ最速の1億回MVとなった。",
+      "en": "Just before 9 p.m. KST on May 13, 2023, the OMG Performance ver.1 video passed 100 million views about 130 days after release, the group's second and fastest."
+    },
+    "detail": {
+      "ja": "2023年5月13日21時直前（KST）、「'OMG' Official MV (Performance ver.1)」がYouTubeで1億回再生を超えた。1月3日19時30分の公開から約130日（4か月10日）での達成で、「Hype Boy」（Performance ver.1）に続く2本目、かつ約8か月12日だった前記録を大きく更新する最速記録となった。",
+      "en": "Just before 9 p.m. KST on May 13, 2023, the OMG Official MV (Performance ver.1) surpassed 100 million YouTube views, roughly 130 days (4 months and 10 days) after its January 3 release, the group's second 100-million video and the fastest, beating the roughly 8 months and 12 days of Hype Boy (Performance ver.1)."
+    },
+    "source_url": "https://www.soompi.com/article/1587071wpp/newjeans-omg-becomes-their-fastest-mv-to-hit-100-million-views",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "views",
+      "youtube"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-05-18-forbes-30-under-30-asia-2023",
+    "date": "2023-05-18",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Forbes「30 Under 30 Asia 2023」（Entertainment & Sports）に選出",
+      "en": "NewJeans named to Forbes 30 Under 30 Asia 2023"
+    },
+    "summary": {
+      "ja": "Forbesの「30 Under 30 Asia 2023」でEntertainment & Sports部門に選ばれた。",
+      "en": "Forbes included NewJeans in the Entertainment & Sports category of its 30 Under 30 Asia 2023 list."
+    },
+    "detail": {
+      "ja": "2023年5月に発表されたForbes「30 Under 30 Asia」2023年版のEntertainment & Sports部門に、NewJeansがLE SSERAFIM、チョン・ジソ、キム・ヘユン、イ・ユミらとともに選出された。Forbesは「Attention」のYouTube約1.3億回再生や「OMG」の9,000万回超、Golden Disc Awards新人賞受賞などに言及した。",
+      "en": "In May 2023 Forbes named NewJeans to the Entertainment & Sports category of its 30 Under 30 Asia 2023 list, alongside LE SSERAFIM, Jung Ji So, Kim Hye Yoon and Lee Yoo Mi, citing roughly 130 million YouTube views for Attention, over 90 million for OMG, and the Golden Disc Awards rookie win."
+    },
+    "source_url": "https://www.soompi.com/article/1588311wpp/newjeans-le-sserafim-jung-ji-so-kim-hye-yoon-and-lee-yoo-mi-named-to-forbes-30-under-30-asia-list-for-2023",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "list"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-05-23-time-next-generation-leaders-2023",
+    "date": "2023-05-23",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "TIME誌「2023 Next Generation Leaders」に選出",
+      "en": "NewJeans named to TIME's 2023 Next Generation Leaders"
+    },
+    "summary": {
+      "ja": "TIME誌が2023年のNext Generation LeadersにNewJeansを選出。K-POPアーティストとして唯一の選出だった。",
+      "en": "TIME named NewJeans to its 2023 Next Generation Leaders list, the only K-pop act included."
+    },
+    "detail": {
+      "ja": "2023年5月23日（現地時間）、TIME誌は2023年の「Next Generation Leaders」を発表し、NewJeansをフローレンス・ピュー、Bizarrapらとともに選出した。TIMEは「2曲のシングルが今年Billboard Hot 100に5週間ランクインし、3月にはわずか219日でSpotify10億回再生に達した韓国最速のアーティストになった」と紹介した。",
+      "en": "On May 23, 2023 (local time), TIME announced its 2023 Next Generation Leaders, including NewJeans alongside Florence Pugh and Bizarrap. TIME noted that two of the group's singles had spent five weeks on the Billboard Hot 100 that year and that in March they became the fastest Korean act to hit 1 billion Spotify streams, in 219 days."
+    },
+    "source_url": "https://time.com/collection/next-generation-leaders/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "list"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1589691wpp/newjeans-named-to-time-magazines-next-generation-leaders-list-for-2023"
+    ]
+  },
+  {
+    "id": "record-2023-06-28-riaj-ditto-platinum-attention-gold",
+    "date": "2023-06-28",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「Ditto」プラチナ（1億回）、「Attention」ゴールド",
+      "en": "RIAJ streaming certification: Ditto platinum, Attention gold"
+    },
+    "summary": {
+      "ja": "「Ditto」が日本で1億回再生を超えプラチナに認定され、グループ初のRIAJプラチナとなった。「Attention」はゴールド（5,000万回）。",
+      "en": "Ditto was certified platinum for over 100 million streams in Japan, NewJeans' first RIAJ platinum, while Attention went gold."
+    },
+    "detail": {
+      "ja": "日本レコード協会（RIAJ）の2023年5月度ストリーミング認定で、「Ditto」が1億回再生超のプラチナ、「Attention」が5,000万回超のゴールドに認定された。韓国語曲でのプラチナ認定で、同時にLE SSERAFIM「ANTIFRAGILE」も初のプラチナを獲得した。",
+      "en": "In the RIAJ's streaming certifications for May 2023, Ditto was certified platinum for surpassing 100 million streams in Japan and Attention gold for 50 million. It was the group's first RIAJ platinum, earned with a Korean-language song; LE SSERAFIM's ANTIFRAGILE received its first platinum at the same time."
+    },
+    "source_url": "https://www.soompi.com/article/1597181wpp/le-sserafim-and-newjeans-earn-their-1st-platinum-certifications-in-japan-for-streaming-aespa-and-bts-go-gold",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "japan",
+      "streaming"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.riaj.or.jp/f/data/cert/"
+    ]
+  },
+  {
+    "id": "record-2023-07-14-super-shy-uk-singles-debut-59",
+    "date": "2023-07-14",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Super Shy」英Official Singles Chart初登場59位、自己最高位",
+      "en": "Super Shy debuts at No. 59 on the UK Official Singles Chart, a new high"
+    },
+    "summary": {
+      "ja": "「Super Shy」が英Official Singles Chartに59位で初登場し、UKで複数曲をチャートインさせた最速のK-POPガールズグループとなった。",
+      "en": "Super Shy entered the UK Official Singles Chart at No. 59, making NewJeans the fastest K-pop girl group with multiple UK chart entries."
+    },
+    "detail": {
+      "ja": "2023年7月14日、英Official Chartsは先行シングル「Super Shy」がOfficial Singles Chartに59位で初登場したと発表した。「Ditto」（最高95位）に続く2曲目のチャートインで、グループ初のトップ60入り。デビュー1年未満で複数曲をチャートインさせたK-POPガールズグループは初で、2023年に複数曲を初登場させた女性K-POPアーティストとしても唯一だった。",
+      "en": "On July 14, 2023, the UK's Official Charts announced that pre-release single Super Shy had debuted at No. 59 on the Official Singles Chart, the group's second entry after Ditto (peak No. 95) and first top-60 placement. NewJeans became the fastest K-pop girl group to chart multiple songs in the UK, under a year after debut."
+    },
+    "source_url": "https://www.officialcharts.com/charts/singles-chart/20230714/7501/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "uk"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1600777wpp/newjeans-becomes-fastest-k-pop-girl-group-to-debut-multiple-songs-on-uks-official-singles-chart-with-super-shy"
+    ]
+  },
+  {
+    "id": "record-2023-07-16-super-shy-perfect-all-kill",
+    "date": "2023-07-16",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Super Shy」Perfect All-Kill達成（通算2曲目）",
+      "en": "Super Shy achieves a Perfect All-Kill, the group's second"
+    },
+    "summary": {
+      "ja": "7月16日朝、iChartが「Super Shy」のPerfect All-Kill達成を発表。「Ditto」に続く2曲目のPAKで、2023年では4曲目。",
+      "en": "On the morning of July 16, 2023, iChart announced that Super Shy had scored a Perfect All-Kill, the group's second after Ditto and only the fourth of 2023."
+    },
+    "detail": {
+      "ja": "2023年7月16日午前、InstizのiChartは先行シングル「Super Shy」がPerfect All-Killを達成したと発表した。グループでは「Ditto」に続く2曲目で、2023年公開曲ではIVE「Kitsch」「I AM」、(G)I-DLE「Queencard」に続く4曲目。なお「Ditto」はPAK累計時間655時間の史上最長記録を持つ。",
+      "en": "On the morning of July 16, 2023, Instiz's iChart announced a Perfect All-Kill for pre-release single Super Shy, the group's second after Ditto and only the fourth song released in 2023 to do so, after IVE's Kitsch and I AM and (G)I-DLE's Queencard. Ditto by then held the record for most cumulative hours at PAK status (655)."
+    },
+    "source_url": "https://www.soompi.com/article/1600829wpp/newjeans-achieves-perfect-all-kill-with-super-shy",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "all-kill"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-07-20-get-up-stock-preorders-1-72m",
+    "date": "2023-07-20",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Get Up』初動出荷数172万枚、自己記録を倍増",
+      "en": "Get Up passes 1.72 million stock pre-orders, more than doubling the group's record"
+    },
+    "summary": {
+      "ja": "YG PLUSは7月20日時点で2ndミニアルバム『Get Up』の初動出荷数が172万枚を超えたと発表した。",
+      "en": "Distributor YG PLUS announced that the second mini album Get Up had surpassed 1.72 million stock pre-orders as of July 20."
+    },
+    "detail": {
+      "ja": "2023年7月21日、アルバム流通元のYG PLUSは、7月20日時点で2ndミニアルバム『Get Up』の初動出荷数（ストック予約）が172万枚を超えたと発表した。『OMG』の80万枚から2倍以上の自己記録更新となった。",
+      "en": "On July 21, 2023, distributor YG PLUS announced that as of July 20 the second mini album Get Up had passed 1.72 million stock pre-orders, more than double the group's previous record of 800,000 set by OMG."
+    },
+    "source_url": "https://www.soompi.com/article/1602035wpp/newjeans-doubles-personal-record-by-surpassing-1-72-million-stock-pre-orders-for-get-up",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "sales"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-07-21-get-up-first-day-hanteo-1-19m",
+    "date": "2023-07-21",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Get Up』Hanteo初日売上1,194,623枚、ガールズグループ史上2位",
+      "en": "Get Up sells 1,194,623 copies on day one on Hanteo, second-highest for a girl group"
+    },
+    "summary": {
+      "ja": "『Get Up』は発売初日に1,194,623枚を売り上げ、初日で『OMG』の初週売上を超えた。ガールズグループの初日売上としてはaespa『MY WORLD』に次ぐ2位。",
+      "en": "Get Up sold 1,194,623 copies on its release day, beating OMG's entire first week in one day and ranking second among girl-group albums after aespa's MY WORLD."
+    },
+    "detail": {
+      "ja": "Hanteoチャートによると、2023年7月21日13時に発売された『Get Up』は初日だけで1,194,623枚を売り上げた。『OMG』が持っていた初日記録481,425枚と初週記録701,241枚をいずれも1日で上回り、ガールズグループのアルバムとしてaespa『MY WORLD』に次ぐ史上2位の初日売上となった。",
+      "en": "According to Hanteo Chart, Get Up, released July 21, 2023 at 1 p.m. KST, sold 1,194,623 copies on its first day, surpassing in a single day both the first-day (481,425) and first-week (701,241) records set by OMG, and ranking second among girl-group albums for first-day sales behind aespa's MY WORLD."
+    },
+    "source_url": "https://www.soompi.com/article/1602182wpp/newjeans-get-up-achieves-2nd-highest-1st-day-sales-of-any-girl-group-album-in-history-with-over-1-1-million-copies-sold",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "sales"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-07-22-get-up-apple-music-itunes-no1",
+    "date": "2023-07-22",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Get Up』Apple Music 17地域・iTunes 9地域でアルバムチャート1位",
+      "en": "Get Up tops Apple Music album charts in 17 regions and iTunes in nine"
+    },
+    "summary": {
+      "ja": "発売翌日の7月22日10時までに『Get Up』はApple Music Top Albumsで17地域、iTunes Top Albumsで9地域の1位に達した。",
+      "en": "By 10 a.m. KST on July 22, Get Up had hit No. 1 on Apple Music Top Albums charts in at least 17 regions and iTunes Top Albums charts in at least nine."
+    },
+    "detail": {
+      "ja": "2023年7月21日13時の発売直後から『Get Up』は各国のApple Music・iTunesチャートを駆け上がり、7月22日10時（KST）時点でApple Music Top Albumsチャートで少なくとも17地域、iTunes Top Albumsチャートで少なくとも9地域の1位を獲得した。",
+      "en": "Immediately after its July 21, 2023 release, Get Up climbed Apple Music and iTunes charts worldwide; by 10 a.m. KST on July 22 it was No. 1 on Apple Music Top Albums in at least 17 regions and on iTunes Top Albums in at least nine."
+    },
+    "source_url": "https://www.soompi.com/article/1602259wpp/newjeans-tops-apple-music-and-itunes-charts-across-the-globe-with-get-up",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-07-22-super-shy-global-200-no2",
+    "date": "2023-07-22",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Super Shy」Billboard Global 200で2位に初登場、グループ最高位",
+      "en": "Super Shy debuts at No. 2 on the Billboard Global 200, the group's best"
+    },
+    "summary": {
+      "ja": "7月22日付Billboard Global 200とGlobal Excl. U.S.で「Super Shy」が2位に初登場し、グループ最高位を記録した。",
+      "en": "Super Shy debuted at No. 2 on both the Billboard Global 200 and Global Excl. U.S. charts dated July 22, 2023, the group's highest placements."
+    },
+    "detail": {
+      "ja": "2023年7月22日付Billboard Global 200で「Super Shy」が2位に初登場した。集計週の全世界ストリーミングは6,300万回、販売は6,000。Global Excl. U.S.でも2位で、いずれも「Ditto」の最高8位・4位を上回るグループ最高位となった。同週、もう1曲の先行曲「New Jeans」はGlobal 200で32位、Global Excl. U.S.で19位に初登場した。",
+      "en": "On the Billboard Global 200 dated July 22, 2023, Super Shy debuted at No. 2 with 63 million global streams and 6,000 sales in the tracking week, and also at No. 2 on Global Excl. U.S., beating Ditto's previous bests of No. 8 and No. 4. The other pre-release track New Jeans debuted at No. 32 on the Global 200 and No. 19 on Global Excl. U.S. the same week."
+    },
+    "source_url": "https://www.billboard.com/charts/billboard-global-200/2023-07-22/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "billboard"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Super_Shy",
+      "https://www.soompi.com/article/1601437wpp/newjeans-becomes-fastest-k-pop-group-in-billboard-history-to-debut-3-songs-on-hot-100"
+    ]
+  },
+  {
+    "id": "record-2023-07-22-super-shy-hot-100-debut-66",
+    "date": "2023-07-22",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Super Shy」Billboard Hot 100に66位で初登場、3曲目のHot 100入りはK-POPグループ最速",
+      "en": "Super Shy debuts at No. 66 on the Hot 100, the group's third entry and a K-pop speed record"
+    },
+    "summary": {
+      "ja": "7月22日付Hot 100に「Super Shy」が66位で初登場し、当時の自己最高位を更新。デビュー1年未満で3曲をHot 100に送ったK-POPグループは史上最速。",
+      "en": "Super Shy entered the Hot 100 dated July 22, 2023 at No. 66, then the group's best, making NewJeans the fastest K-pop group to chart three songs."
+    },
+    "detail": {
+      "ja": "Billboardが2023年7月18日（現地時間）に発表した7月22日付Hot 100で、「Super Shy」が66位に初登場した（「Ditto」最高82位、「OMG」最高74位を上回る）。同曲はDigital Song Salesにも45位で初登場し、Global 200・Global Excl. U.S.・World Digital Song Salesでは2位を記録。NewJeansはArtist 100にも47位で再登場した。",
+      "en": "Announced July 18, 2023 (local time), the Hot 100 dated July 22 saw Super Shy debut at No. 66, above the peaks of Ditto (No. 82) and OMG (No. 74). The song also debuted at No. 45 on Digital Song Sales and at No. 2 on the Global 200, Global Excl. U.S. and World Digital Song Sales, while NewJeans re-entered the Artist 100 at No. 47."
+    },
+    "source_url": "https://www.billboard.com/charts/hot-100/2023-07-22/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "billboard"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1601437wpp/newjeans-becomes-fastest-k-pop-group-in-billboard-history-to-debut-3-songs-on-hot-100"
+    ]
+  },
+  {
+    "id": "record-2023-07-23-super-shy-circle-weekly-triple-crown",
+    "date": "2023-07-23",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Super Shy」Circle週間チャートで3冠（総合デジタル・ストリーミング・Global K-Pop 1位）",
+      "en": "Super Shy earns a triple crown on Circle's weekly charts"
+    },
+    "summary": {
+      "ja": "「Super Shy」がCircle週間総合デジタルチャート、ストリーミングチャート、Global K-Pop Chartで1位となり、Circle Digital Chartでの3曲目の1位となった。",
+      "en": "Super Shy topped Circle's weekly overall digital, streaming and Global K-Pop charts, the group's third Circle Digital Chart No. 1."
+    },
+    "detail": {
+      "ja": "2023年7月23日に発表されたCircle Chartの週間集計で、先行シングル「Super Shy」が総合デジタルチャート、ストリーミングチャート、Global K-Pop Chartの3部門で1位となった。Circle Digital Chartでの1位は「Attention」「Ditto」に続く3曲目。",
+      "en": "In Circle Chart's weekly rankings published July 23, 2023, pre-release single Super Shy shot to No. 1 on the overall digital chart, the streaming chart and the Global K-Pop Chart, the group's third Circle Digital Chart No. 1 after Attention and Ditto."
+    },
+    "source_url": "https://www.soompi.com/article/1602479wpp/exo-tops-circle-weekly-album-chart-newjeans-earns-triple-crown",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Super_Shy"
+    ]
+  },
+  {
+    "id": "record-2023-07-27-get-up-first-week-hanteo-1-65m",
+    "date": "2023-07-27",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Get Up』Hanteo初週売上1,650,181枚、女性アーティスト史上2位",
+      "en": "Get Up logs 1,650,181 first-week sales on Hanteo, second-highest for a female act"
+    },
+    "summary": {
+      "ja": "『Get Up』は発売初週に1,650,181枚を売り上げ、Hanteo史上女性アーティスト2位（aespa『MY WORLD』に次ぐ）の初週売上を記録した。",
+      "en": "Get Up sold 1,650,181 copies in its first week, the second-highest first-week total for a female act in Hanteo history after aespa's MY WORLD."
+    },
+    "detail": {
+      "ja": "Hanteoチャートの集計で、『Get Up』は発売初週（2023年7月21日〜27日）に1,650,181枚を売り上げた。『OMG』の初週記録701,241枚の2倍以上で、グループ初の初週ミリオン。女性アーティストのアルバムとしてはaespa『MY WORLD』に次ぐHanteo史上2位の初週売上となった。",
+      "en": "Hanteo Chart reported 1,650,181 copies sold in Get Up's first week (July 21-27, 2023), more than double OMG's 701,241 and the group's first million-selling first week. It ranked as the second-highest first-week total for a female act in Hanteo history, behind aespa's MY WORLD."
+    },
+    "source_url": "https://www.soompi.com/article/1603406wpp/newjeans-achieves-2nd-highest-1st-week-sales-of-any-female-artist-in-hanteo-history-with-get-up",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "sales"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/newjeanss-get-up-sells-over-165-million-copies-in-first-week-of-release/10591281"
+    ]
+  },
+  {
+    "id": "record-2023-07-28-get-up-uk-albums-15-super-shy-52",
+    "date": "2023-07-28",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Get Up』英Official Albums Chart初登場15位、「Super Shy」52位の自己最高位",
+      "en": "Get Up debuts at No. 15 on the UK Official Albums Chart; Super Shy peaks at No. 52"
+    },
+    "summary": {
+      "ja": "『Get Up』が英Official Albums Chartに15位で初登場（BLACKPINKに続くK-POPガールズグループ2組目）、「Super Shy」はシングルチャートで52位に上昇した。",
+      "en": "Get Up entered the UK Official Albums Chart at No. 15, the second K-pop girl-group album ever to chart, while Super Shy rose to No. 52."
+    },
+    "detail": {
+      "ja": "2023年7月28日、英Official Chartsは『Get Up』がOfficial Albums Chartに15位で初登場したと発表した。同チャートに入ったK-POPガールズグループはBLACKPINKに続く2組目で、トップ15入りは『THE ALBUM』『BORN PINK』に続く3作目。同週「Super Shy」は3週目に52位へ上昇しグループ最高位を更新した。",
+      "en": "On July 28, 2023, the UK's Official Charts announced that Get Up had debuted at No. 15 on the Official Albums Chart, only the second K-pop girl group to chart (after BLACKPINK) and the third girl-group album in the top 15 after THE ALBUM and BORN PINK. The same week Super Shy climbed to No. 52 in its third week, a new group high on the singles chart."
+    },
+    "source_url": "https://www.officialcharts.com/charts/albums-chart/20230728/7502/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "uk"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1603749wpp/newjeans-becomes-2nd-k-pop-girl-group-ever-to-enter-top-15-of-uks-official-albums-chart-with-get-up"
+    ]
+  },
+  {
+    "id": "record-2023-07-31-spotify-2-billion-streams",
+    "date": "2023-07-31",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Spotify累計20億ストリーミング突破（デビュー約1年）",
+      "en": "NewJeans surpass 2 billion cumulative Spotify streams about a year after debut"
+    },
+    "summary": {
+      "ja": "ADORは7月末時点でNewJeansのSpotify累計再生数が20億回を超えたと発表した。",
+      "en": "ADOR announced that NewJeans' cumulative Spotify streams had passed 2 billion by the end of July 2023."
+    },
+    "detail": {
+      "ja": "2023年8月1日、ADORはNewJeans楽曲のSpotify累計ストリーミングが7月末時点で20億回を突破したと発表した。3月8日の10億回（デビュー219日）から約5か月での倍増で、7月21日発売の『Get Up』収録曲の好調が寄与した。",
+      "en": "On August 1, 2023, ADOR announced that NewJeans' songs had surpassed 2 billion cumulative streams on Spotify as of the end of July, doubling the 1 billion reached on March 8 (219 days after debut) in about five months, helped by the tracks of Get Up released July 21."
+    },
+    "source_url": "https://www.kedglobal.com/newsAmp/ked202308010001",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "streaming",
+      "spotify"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://v.daum.net/v/20230801091958716",
+      "https://www.tenasia.com/amp/2023080164894"
+    ]
+  },
+  {
+    "id": "record-2023-08-05-cool-with-you-hot-100-debut-93",
+    "date": "2023-08-05",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Cool With You」Billboard Hot 100に93位で初登場",
+      "en": "Cool With You debuts at No. 93 on the Billboard Hot 100"
+    },
+    "summary": {
+      "ja": "『Get Up』のタイトル曲「Cool With You」が8月5日付Billboard Hot 100に93位で初登場した。",
+      "en": "Get Up title track Cool With You entered the Billboard Hot 100 dated August 5, 2023 at No. 93."
+    },
+    "detail": {
+      "ja": "2023年8月5日付Billboard Hot 100で「Cool With You」が93位に初登場し、グループ5曲目のHot 100入りとなった。同じ週に「Super Shy」48位、「ETA」81位もランクインしている。",
+      "en": "Cool With You debuted at No. 93 on the Billboard Hot 100 dated August 5, 2023, the group's fifth Hot 100 entry, in the same week as Super Shy (No. 48) and ETA (No. 81)."
+    },
+    "source_url": "https://www.billboard.com/charts/hot-100/2023-08-05/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "billboard"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1604915wpp/newjeans-debuts-at-no-1-on-billboard-200-becomes-1st-k-pop-girl-group-ever-to-chart-3-songs-simultaneously-on-hot-100"
+    ]
+  },
+  {
+    "id": "record-2023-08-05-eta-hot-100-debut-81",
+    "date": "2023-08-05",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「ETA」Billboard Hot 100に81位で初登場",
+      "en": "ETA debuts at No. 81 on the Billboard Hot 100"
+    },
+    "summary": {
+      "ja": "『Get Up』のタイトル曲「ETA」が8月5日付Billboard Hot 100に81位で初登場した。",
+      "en": "Get Up title track ETA entered the Billboard Hot 100 dated August 5, 2023 at No. 81."
+    },
+    "detail": {
+      "ja": "2023年8月5日付Billboard Hot 100で「ETA」が81位に初登場した。グループとして「Ditto」「OMG」「Super Shy」に続く4曲目のHot 100入り。同週、Global 200では「ETA」が上位に入り、Billboard 200では『Get Up』が1位だった。",
+      "en": "ETA debuted at No. 81 on the Billboard Hot 100 dated August 5, 2023, the group's fourth Hot 100 entry after Ditto, OMG and Super Shy, in the same week Get Up topped the Billboard 200."
+    },
+    "source_url": "https://www.billboard.com/charts/hot-100/2023-08-05/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "billboard"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1604915wpp/newjeans-debuts-at-no-1-on-billboard-200-becomes-1st-k-pop-girl-group-ever-to-chart-3-songs-simultaneously-on-hot-100"
+    ]
+  },
+  {
+    "id": "record-2023-08-05-get-up-billboard-200-no1",
+    "date": "2023-08-05",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Get Up』Billboard 200で初登場1位（126,500ユニット）",
+      "en": "Get Up debuts at No. 1 on the Billboard 200 with 126,500 units"
+    },
+    "summary": {
+      "ja": "8月5日付Billboard 200で『Get Up』が1位に初登場。BLACKPINKに続きBillboard 200を制した2組目のK-POPガールズグループとなった。",
+      "en": "Get Up entered the Billboard 200 dated August 5, 2023 at No. 1, making NewJeans the second K-pop girl group to top the chart after BLACKPINK."
+    },
+    "detail": {
+      "ja": "Billboardが2023年8月2日（現地時間）に発表した8月5日付Billboard 200で、2ndミニアルバム『Get Up』が1位に初登場した。Luminateによると7月27日までの集計週で126,500ユニット（アルバム販売101,500、SEA 24,500＝オンデマンド音声ストリーミング3,439万回、TEA 500）を記録した。Billboard 200の1位を獲得したK-POPアーティストはBTS、SuperM、Stray Kids、BLACKPINK、TXTに続く6組目で、女性ではBLACKPINK『BORN PINK』以来。",
+      "en": "Announced August 2, 2023 (local time), the Billboard 200 dated August 5 had Get Up at No. 1, the group's first entry on the chart. Per Luminate it earned 126,500 equivalent album units in the week ending July 27 (101,500 traditional album sales, 24,500 SEA units from 34.39 million on-demand audio streams, and 500 TEA units). NewJeans became the sixth K-pop act to top the Billboard 200 after BTS, SuperM, Stray Kids, BLACKPINK and TXT, and the second girl group."
+    },
+    "source_url": "https://www.billboard.com/charts/billboard-200/2023-08-05/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "billboard"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1604915wpp/newjeans-debuts-at-no-1-on-billboard-200-becomes-1st-k-pop-girl-group-ever-to-chart-3-songs-simultaneously-on-hot-100",
+      "https://en.wikipedia.org/wiki/Get_Up_(EP)"
+    ]
+  },
+  {
+    "id": "record-2023-08-05-super-shy-hot-100-peak-48",
+    "date": "2023-08-05",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Super Shy」Billboard Hot 100で48位の自己最高位、3曲同時ランクインはK-POPガールズグループ初",
+      "en": "Super Shy peaks at No. 48 on the Hot 100 as NewJeans chart three songs at once"
+    },
+    "summary": {
+      "ja": "8月5日付Hot 100で「Super Shy」が48位の自己最高位に上昇し、「ETA」「Cool With You」とともに3曲同時にランクインしたK-POPガールズグループ初の記録となった。",
+      "en": "On the Hot 100 dated August 5, 2023, Super Shy rose to a new peak of No. 48 while ETA and Cool With You also charted, the first time a K-pop girl group placed three songs simultaneously."
+    },
+    "detail": {
+      "ja": "2023年8月5日付Billboard Hot 100で、「Super Shy」はチャートイン3週目に48位へ上昇しグループ最高位を更新した。同週『Get Up』収録の「ETA」が81位、「Cool With You」が93位に初登場し、K-POPガールズグループとして初めて3曲を同時にHot 100に送り込んだ。",
+      "en": "On the Billboard Hot 100 dated August 5, 2023, Super Shy climbed to No. 48 in its third week, the group's highest placement to date, while ETA (No. 81) and Cool With You (No. 93) debuted the same week, the first time a K-pop girl group charted three songs simultaneously on the Hot 100."
+    },
+    "source_url": "https://www.billboard.com/charts/hot-100/2023-08-05/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "billboard"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1604915wpp/newjeans-debuts-at-no-1-on-billboard-200-becomes-1st-k-pop-girl-group-ever-to-chart-3-songs-simultaneously-on-hot-100"
+    ]
+  },
+  {
+    "id": "record-2023-08-10-k-global-heart-dream-awards-2023",
+    "date": "2023-08-10",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 K Global Heart Dream Awards「K Global Best Music Award」受賞",
+      "en": "K Global Best Music Award at the 2023 K Global Heart Dream Awards"
+    },
+    "summary": {
+      "ja": "2023 K Global Heart Dream AwardsでK Global Best Music Awardを受賞した。",
+      "en": "NewJeans received the K Global Best Music Award at the 2023 K Global Heart Dream Awards."
+    },
+    "detail": {
+      "ja": "2023年8月10日に開催された2023 K Global Heart Dream Awardsで、NewJeansはaespa、(G)I-DLE、IVE、LE SSERAFIMとともにK Global Best Music Awardを受賞した。",
+      "en": "At the 2023 K Global Heart Dream Awards held August 10, 2023, NewJeans received the K Global Best Music Award alongside aespa, (G)I-DLE, IVE and LE SSERAFIM."
+    },
+    "source_url": "https://www.soompi.com/article/1606446wpp/winners-of-2023-k-global-heart-dream-awards",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-08-12-circle-cert-ditto-streaming-platinum",
+    "date": "2023-08-12",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart認定：「Ditto」ストリーミング・プラチナ（1億回）",
+      "en": "Circle Chart certification: Ditto certified platinum for 100 million streams"
+    },
+    "summary": {
+      "ja": "「Ditto」がCircle Chartのストリーミング部門で1億回超のプラチナに認定された。",
+      "en": "Ditto was certified platinum by Circle Chart for surpassing 100 million streams."
+    },
+    "detail": {
+      "ja": "2023年8月12日発表のCircle Chart認定のストリーミング部門で、「Ditto」がBTOB「Only one for me」とともに1億回再生超のプラチナに認定された。グループのストリーミング認定は「Hype Boy」「Attention」に続く3曲目。",
+      "en": "In the streaming category of Circle Chart's certifications announced August 12, 2023, Ditto was certified platinum for reaching 100 million streams, alongside BTOB's Only one for me, the group's third streaming certification after Hype Boy and Attention."
+    },
+    "source_url": "https://www.soompi.com/article/1606729wpp/stray-kids-and-ateez-earn-circle-quintuple-million-and-million-certifications-blackpinks-lisa-ive-gi-dle-shinee-ncts-taeyong-newjeans-and-btob-go-platinum",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "streaming"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://circlechart.kr/page_chart/certification.circle"
+    ]
+  },
+  {
+    "id": "record-2023-08-15-circle-monthly-july-2023-super-shy",
+    "date": "2023-08-15",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle月間チャート（2023年7月）で「Super Shy」が3冠、『Get Up』アルバム3位",
+      "en": "Super Shy earns a triple crown on Circle's monthly charts for July 2023"
+    },
+    "summary": {
+      "ja": "Circle Chartの7月月間チャートで「Super Shy」が総合デジタル・ストリーミング・Global K-Popの3部門1位となった。",
+      "en": "On Circle's monthly charts for July 2023, Super Shy topped the overall digital, streaming and Global K-Pop charts."
+    },
+    "detail": {
+      "ja": "2023年8月15日に発表されたCircle Chartの7月月間チャートで、「Super Shy」が総合デジタルチャート、ストリーミングチャート、Global K-Pop Chartの3部門で1位となった。月間アルバムチャートでは『Get Up』が3位、Weverse版が9位に入った。",
+      "en": "In Circle Chart's monthly rankings for July 2023, published August 15, Super Shy was No. 1 on the overall digital, streaming and Global K-Pop charts, while Get Up entered the monthly album chart at No. 3 with its Weverse edition at No. 9."
+    },
+    "source_url": "https://www.soompi.com/article/1607293wpp/nct-dream-newjeans-itzy-treasure-and-fifty-fifty-top-circle-monthly-and-weekly-charts",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-08-19-hot-100-three-songs-five-weeks",
+    "date": "2023-08-19",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Hot 100で3曲がそれぞれ5週チャートイン、K-POPガールズグループ初",
+      "en": "Three NewJeans songs each spend five weeks on the Hot 100, a K-pop girl-group first"
+    },
+    "summary": {
+      "ja": "8月19日付Hot 100で「Super Shy」が5週目（66位）を記録し、「Ditto」「OMG」と合わせ3曲を5週ずつチャートインさせた初の女性K-POPアーティストとなった。",
+      "en": "On the Hot 100 dated August 19, 2023, Super Shy logged a fifth week (No. 66), making NewJeans the first female K-pop act with three songs charting five weeks each, after Ditto and OMG."
+    },
+    "detail": {
+      "ja": "Billboardが2023年8月15日（現地時間）に発表した8月19日付Hot 100で、「Super Shy」が66位で5週連続のランクインとなった。「Ditto」「OMG」も同年に5週ずつチャートインしており、3曲を5週ずつチャートインさせたK-POPアーティストはBTSに続く2組目、女性では初。同週『Get Up』はBillboard 200で3週連続トップ15（12位）、World Albums 3週連続1位、Tastemaker Albums 1位を記録した。",
+      "en": "Announced August 15, 2023 (local time), the Hot 100 dated August 19 had Super Shy at No. 66 in its fifth consecutive week; with Ditto and OMG having each spent five weeks earlier in the year, NewJeans became the first female K-pop act, and second overall after BTS, with three songs charting five weeks each. The same week Get Up spent a third week in the Billboard 200 top 15 (No. 12), a third week at No. 1 on World Albums, and topped Tastemaker Albums."
+    },
+    "source_url": "https://www.billboard.com/charts/hot-100/2023-08-19/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "billboard"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1607322wpp/newjeans-becomes-1st-k-pop-girl-group-in-billboard-hot-100-history-to-chart-3-songs-for-5-weeks"
+    ]
+  },
+  {
+    "id": "record-2023-08-23-riaj-omg-platinum",
+    "date": "2023-08-23",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「OMG」プラチナ（1億回）",
+      "en": "RIAJ streaming certification: OMG certified platinum"
+    },
+    "summary": {
+      "ja": "「OMG」が日本で1億回再生を超え、RIAJのプラチナに認定された。",
+      "en": "OMG was certified platinum by the RIAJ for surpassing 100 million streams in Japan."
+    },
+    "detail": {
+      "ja": "日本レコード協会（RIAJ）の2023年7月度ストリーミング認定で、「OMG」がBLACKPINK「Kill This Love」とともに1億回再生超のプラチナに認定された。グループのRIAJプラチナは「Ditto」に続く2曲目。",
+      "en": "In the RIAJ's streaming certifications for July 2023, OMG was certified platinum for over 100 million streams in Japan, alongside BLACKPINK's Kill This Love, the group's second RIAJ platinum after Ditto."
+    },
+    "source_url": "https://www.soompi.com/article/1608970wpp/newjeans-twices-nayeon-blackpink-and-stray-kids-earn-platinum-and-gold-certifications-for-streaming-in-japan",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "japan",
+      "streaming"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.riaj.or.jp/f/data/cert/"
+    ]
+  },
+  {
+    "id": "record-2023-08-26-get-up-billboard-200-four-weeks-top-20",
+    "date": "2023-08-26",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Get Up』Billboard 200トップ20に4週連続、K-POPガールズグループ初",
+      "en": "Get Up spends a fourth week in the Billboard 200 top 20, a K-pop girl-group first"
+    },
+    "summary": {
+      "ja": "8月26日付Billboard 200で『Get Up』が16位となり、4週連続トップ20入りしたK-POPガールズグループ初のアルバムとなった。",
+      "en": "On the Billboard 200 dated August 26, 2023, Get Up ranked No. 16, the first K-pop girl-group album to spend four weeks in the top 20."
+    },
+    "detail": {
+      "ja": "Billboardが2023年8月22日（現地時間）に発表した8月26日付Billboard 200で、『Get Up』は4ランク下げて16位となり、K-POPガールズグループのアルバムとして初めて4週連続でトップ20に入った。同週World Albumsでは4週連続1位、Top Album Sales・Top Current Album Sales・Tastemaker Albumsでは3位だった。",
+      "en": "Announced August 22, 2023 (local time), the Billboard 200 dated August 26 had Get Up at No. 16, the first K-pop girl-group album to spend four weeks in the top 20. It also logged a fourth straight week at No. 1 on World Albums and No. 3 on Top Album Sales, Top Current Album Sales and Tastemaker Albums."
+    },
+    "source_url": "https://www.billboard.com/charts/billboard-200/2023-08-26/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "billboard"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1608606wpp/newjeans-get-up-becomes-1st-k-pop-girl-group-album-in-billboard-200-history-to-chart-in-top-20-for-4-weeks"
+    ]
+  },
+  {
+    "id": "record-2023-09-07-circle-cert-get-up-million-new-jeans-million",
+    "date": "2023-09-07",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart認定：『Get Up』ミリオン、『Get Up』Weverse盤プラチナ、『New Jeans』ミリオン",
+      "en": "Circle Chart certification: Get Up and New Jeans certified million, Get Up (Weverse) platinum"
+    },
+    "summary": {
+      "ja": "Circle Chartが『Get Up』とデビューEP『New Jeans』をミリオンに正式認定し、『Get Up』Weverse版をプラチナに認定した。",
+      "en": "Circle Chart officially certified Get Up and the debut EP New Jeans as million-sellers and the Weverse edition of Get Up platinum."
+    },
+    "detail": {
+      "ja": "2023年9月7日発表のCircle Chart認定で、『Get Up』通常版がミリオン（100万枚超）、Weverse版がプラチナ（25万枚超）に認定された。2022年8月発売のデビューEP『New Jeans』も正式にミリオン認定を受け、グループのミリオン認定アルバムは『OMG』と合わせ3作となった。",
+      "en": "In Circle Chart's certifications announced September 7, 2023, the standard edition of Get Up was certified million (over 1,000,000 copies) and its Weverse edition platinum (over 250,000). The debut EP New Jeans, released August 2022, also received an official million certification, giving the group three million-certified albums including OMG."
+    },
+    "source_url": "https://www.soompi.com/article/1612296wpp/nct-dream-newjeans-exo-treasure-zerobaseone-and-gi-dle-earn-circle-triple-million-and-million-certifications",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "million-seller"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://circlechart.kr/page_chart/certification.circle"
+    ]
+  },
+  {
+    "id": "record-2023-09-28-riaj-hype-boy-platinum",
+    "date": "2023-09-28",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「Hype Boy」プラチナ（1億回）",
+      "en": "RIAJ streaming certification: Hype Boy certified platinum"
+    },
+    "summary": {
+      "ja": "「Hype Boy」が日本で1億回再生を超え、RIAJのプラチナに認定された。",
+      "en": "Hype Boy was certified platinum by the RIAJ for over 100 million streams in Japan."
+    },
+    "detail": {
+      "ja": "日本レコード協会（RIAJ）の2023年8月度ストリーミング認定で、「Hype Boy」が1億回再生超のプラチナに認定された。「Ditto」「OMG」に続くグループ3曲目のRIAJプラチナ。",
+      "en": "In the RIAJ's streaming certifications for August 2023, Hype Boy was certified platinum for surpassing 100 million streams in Japan, the group's third RIAJ platinum after Ditto and OMG."
+    },
+    "source_url": "https://www.soompi.com/article/1616668wpp/le-sserafim-newjeans-stray-kids-bts-seventeen-and-izone-earn-platinum-and-gold-certifications-for-streaming-in-japan",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "japan",
+      "streaming"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.riaj.or.jp/f/data/cert/"
+    ]
+  },
+  {
+    "id": "record-2023-09-29-debut-ep-spotify-1-billion",
+    "date": "2023-09-29",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "デビューEP『New Jeans』がSpotify累計10億ストリーミング突破",
+      "en": "Debut EP New Jeans passes 1 billion cumulative Spotify streams"
+    },
+    "summary": {
+      "ja": "デビューEP『New Jeans』（4曲）のSpotify累計再生が10億回を超え、K-POPガールズグループのアルバムとして初の記録と報じられた。",
+      "en": "The four-track debut EP New Jeans surpassed 1 billion combined Spotify streams, reported as the first album by a K-pop girl group to do so."
+    },
+    "detail": {
+      "ja": "2023年9月末、デビューEP『New Jeans』収録4曲（「Attention」「Hype Boy」「Cookie」「Hurt」）のSpotify累計ストリーミングが10億回を突破したと報じられた。このうち「Hype Boy」は約4億911万回。K-POPガールズグループのアルバムが10億回を超えたのは初とされた。",
+      "en": "In late September 2023 it was reported that the four tracks of the debut EP New Jeans (Attention, Hype Boy, Cookie and Hurt) had surpassed 1 billion combined Spotify streams, with Hype Boy alone at about 409.1 million, reported as the first album by a K-pop girl group to pass the mark."
+    },
+    "source_url": "https://www.tenasia.com/amp/2023092966854",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "streaming",
+      "spotify"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://sportskeeda.com/pop-culture/news-good-music-always-wins-fans-ecstatic-newjeans-debut-project-becomes-first-album-surpass-1-billion-streams-spotify"
+    ],
+    "editor_note": "TenAsia 2023-09-29報道に基づく。達成日の時刻は未確認"
+  },
+  {
+    "id": "record-2023-10-05-super-shy-mv-100m-views",
+    "date": "2023-10-05",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Super Shy」MV YouTube1億回再生、公開90日で最速記録",
+      "en": "Super Shy MV hits 100 million YouTube views in 90 days, the group's fastest"
+    },
+    "summary": {
+      "ja": "10月5日18時30分前、「Super Shy」MVが公開から90日と5時間で1億回再生を突破し、グループ3本目かつ最速の1億回MVとなった。",
+      "en": "Shortly before 6:30 p.m. KST on October 5, 2023, the Super Shy MV passed 100 million views just over 90 days and 5 hours after release, the group's third and fastest."
+    },
+    "detail": {
+      "ja": "2023年10月5日18時30分直前（KST）、「Super Shy」のMVがYouTubeで1億回再生を超えた。7月7日13時の公開から90日5時間余りでの到達で、「Hype Boy」（Performance ver.1）、「OMG」（Performance ver.1）に続く3本目の1億回MV。約130日だった「OMG」の記録を更新しグループ最速となった。",
+      "en": "Shortly before 6:30 p.m. KST on October 5, 2023, the Super Shy music video surpassed 100 million YouTube views, just over 90 days and 5 hours after its July 7 release, the group's third 100-million video after Hype Boy (Performance ver.1) and OMG (Performance ver.1) and the fastest, beating OMG's roughly 130 days."
+    },
+    "source_url": "https://www.soompi.com/article/1618016wpp/newjeans-super-shy-becomes-their-fastest-mv-to-hit-100-million-views",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "views",
+      "youtube"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-10-07-get-up-world-albums-nine-weeks-no1",
+    "date": "2023-10-07",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Get Up』Billboard World Albums通算9週1位、K-POPガールズグループ初",
+      "en": "Get Up logs a ninth week at No. 1 on Billboard's World Albums chart"
+    },
+    "summary": {
+      "ja": "10月7日付Billboard World Albumsで『Get Up』が通算9週目の1位となり、K-POPガールズグループのアルバムとして初の9週1位。同週Billboard 200では10週連続トップ60（60位）。",
+      "en": "On the chart dated October 7, 2023, Get Up spent a ninth non-consecutive week atop World Albums, a first for a K-pop girl-group album, and a 10th straight week in the Billboard 200 top 60 (No. 60)."
+    },
+    "detail": {
+      "ja": "2023年10月7日付Billboardチャートで、『Get Up』はWorld Albumsで通算9週目の1位を記録し、K-POPガールズグループのアルバムとして初めて同チャートで9週1位に達した。Billboard 200では10週連続でトップ60内（60位）にとどまり、これも女性K-POPアーティストとして初。「Super Shy」はPop Airplayで最高37位に戻った。",
+      "en": "On the Billboard charts dated October 7, 2023, Get Up reached a ninth non-consecutive week at No. 1 on World Albums, the first K-pop girl-group album to do so, and stayed in the Billboard 200 top 60 for a 10th consecutive week (No. 60), another first for a female K-pop act. Super Shy returned to its peak of No. 37 on Pop Airplay."
+    },
+    "source_url": "https://www.billboard.com/charts/world-albums/2023-10-07/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "billboard"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1618372wpp/newjeans-becomes-1st-k-pop-girl-group-to-chart-an-album-for-10-weeks-in-top-60-of-billboard-200"
+    ]
+  },
+  {
+    "id": "record-2023-10-10-tma-2023-artist-of-the-year-bonsang",
+    "date": "2023-10-10",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 The Fact Music Awards「Artist of the Year（本賞）」受賞",
+      "en": "Artist of the Year (Bonsang) at the 2023 The Fact Music Awards"
+    },
+    "summary": {
+      "ja": "仁川南洞体育館で開催された2023 The Fact Music AwardsでArtist of the Year（本賞）を受賞した。",
+      "en": "NewJeans received an Artist of the Year Bonsang at the 2023 The Fact Music Awards in Incheon."
+    },
+    "detail": {
+      "ja": "2023年10月10日、仁川の南洞体育館で開催された2023 The Fact Music Awardsで、NewJeansはaespa、ATEEZ、IVE、SEVENTEEN、Stray Kidsらと並びArtist of the Year（本賞）を受賞した。「Super Shy」「ETA」を披露した。",
+      "en": "At the 2023 The Fact Music Awards held October 10, 2023 at Namdong Gymnasium in Incheon, NewJeans received an Artist of the Year Bonsang alongside aespa, ATEEZ, IVE, SEVENTEEN and Stray Kids, and performed Super Shy and ETA."
+    },
+    "source_url": "https://www.soompi.com/article/1618814wpp/winners-of-2023-the-fact-music-awards",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-10-10-tma-2023-listeners-choice",
+    "date": "2023-10-10",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 The Fact Music Awards「Listener's Choice Award」受賞",
+      "en": "Listener's Choice Award at the 2023 The Fact Music Awards"
+    },
+    "summary": {
+      "ja": "2023 The Fact Music AwardsでListener's Choice Awardを受賞した。",
+      "en": "NewJeans won the Listener's Choice Award at the 2023 The Fact Music Awards."
+    },
+    "detail": {
+      "ja": "2023年10月10日の2023 The Fact Music Awardsで、NewJeansはArtist of the Year（本賞）に加えListener's Choice Awardを受賞した。",
+      "en": "At the 2023 The Fact Music Awards on October 10, 2023, NewJeans received the Listener's Choice Award in addition to an Artist of the Year Bonsang."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1618814wpp/winners-of-2023-the-fact-music-awards"
+    ]
+  },
+  {
+    "id": "record-2023-10-21-korea-popular-culture-arts-awards-2023",
+    "date": "2023-10-21",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023大韓民国大衆文化芸術賞「文化体育観光部長官表彰」受賞",
+      "en": "Minister of Culture, Sports and Tourism Commendation at the 2023 Korea Popular Culture and Arts Awards"
+    },
+    "summary": {
+      "ja": "政府主催の2023大韓民国大衆文化芸術賞で、NewJeansは文化体育観光部長官表彰を受けた。",
+      "en": "At the government-run 2023 Korea Popular Culture and Arts Awards, NewJeans received the Minister of Culture, Sports and Tourism Commendation."
+    },
+    "detail": {
+      "ja": "2023年10月21日、国立劇場ヘオルム劇場で開催された2023大韓民国大衆文化芸術賞で、NewJeansはイム・シワン、IVE、THE BOYZ、MeloMance、250らとともに文化体育観光部長官表彰を受けた。同賞は大衆文化の発展に貢献した芸術家を顕彰する政府の賞。",
+      "en": "On October 21, 2023, at the Korea Popular Culture and Arts Awards held at the Haeoreum Grand Theater, NewJeans received the Minister of Culture, Sports and Tourism Commendation alongside Im Siwan, IVE, THE BOYZ, MeloMance and 250. The government awards recognize contributions to the development of popular culture."
+    },
+    "source_url": "https://www.soompi.com/article/1621157wpp/winners-of-2023-korea-popular-culture-and-arts-awards",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-10-28-mtv-vmaj-2023-best-buzz",
+    "date": "2023-10-28",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 MTV Video Music Awards Japan「Best Buzz Award」受賞",
+      "en": "Best Buzz Award at the 2023 MTV Video Music Awards Japan"
+    },
+    "summary": {
+      "ja": "MTV VMAJ 2023でBest Buzz Awardを受賞した。",
+      "en": "NewJeans won the Best Buzz Award at the 2023 MTV Video Music Awards Japan."
+    },
+    "detail": {
+      "ja": "2023年10月28日に発表された2023 MTV Video Music Awards Japanの受賞者で、NewJeansはBest Buzz Awardを受賞した。Stray Kids、ASTROのチャ・ウヌ、THE BOYZ（Best Asia Group）も受賞した。",
+      "en": "Among the 2023 MTV Video Music Awards Japan winners announced October 28, 2023, NewJeans took the Best Buzz Award; Stray Kids, ASTRO's Cha Eun Woo and THE BOYZ (Best Asia Group) also won."
+    },
+    "source_url": "https://www.soompi.com/article/1622681wpp/stray-kids-astros-cha-eun-woo-newjeans-and-the-boyz-win-at-2023-mtv-video-music-awards-japan",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award",
+      "japan"
+    ],
+    "verified": false
+  },
+  {
+    "id": "record-2023-10-28-riaj-super-shy-gold",
+    "date": "2023-10-28",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「Super Shy」ゴールド（5,000万回）",
+      "en": "RIAJ streaming certification: Super Shy certified gold"
+    },
+    "summary": {
+      "ja": "「Super Shy」が日本で5,000万回再生を超え、RIAJのゴールドに認定された。",
+      "en": "Super Shy was certified gold by the RIAJ for over 50 million streams in Japan."
+    },
+    "detail": {
+      "ja": "日本レコード協会（RIAJ）の2023年9月度ストリーミング認定で、「Super Shy」がJungkook「Seven」（クリーン版）、LE SSERAFIM「Eve, Psyche & The Bluebeard's wife」とともに5,000万回再生超のゴールドに認定された。",
+      "en": "In the RIAJ's streaming certifications for September 2023, Super Shy was certified gold for surpassing 50 million streams in Japan, alongside Jungkook's Seven (clean version) and LE SSERAFIM's Eve, Psyche & The Bluebeard's wife."
+    },
+    "source_url": "https://www.soompi.com/article/1622641wpp/blackpink-btss-jungkook-newjeans-le-sserafim-and-seventeen-earn-platinum-and-gold-certifications-for-streaming-in-japan",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "japan",
+      "streaming"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.riaj.or.jp/f/data/cert/"
+    ]
+  },
+  {
+    "id": "record-2023-11-04-get-up-billboard-200-14-weeks-top-100",
+    "date": "2023-11-04",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Get Up』Billboard 200トップ100に14週連続、K-POPガールズグループ最長級",
+      "en": "Get Up spends a 14th week in the Billboard 200 top 100"
+    },
+    "summary": {
+      "ja": "11月4日付Billboard 200で『Get Up』が98位となり、女性K-POPアーティストとして初めて14週連続トップ100入り。『BORN PINK』を抜きガールズグループ史上2番目の長期チャートインとなった。",
+      "en": "On the Billboard 200 dated November 4, 2023, Get Up ranked No. 98, the first album by a female K-pop act to spend 14 weeks in the top 100, passing BORN PINK as the second-longest-charting K-pop girl-group album."
+    },
+    "detail": {
+      "ja": "2023年11月4日付Billboard 200で『Get Up』は98位にとどまり、8月の初登場1位以来一度もトップ100を外れずに14週連続ランクインした。女性K-POPアーティストのアルバムとして初の記録で、BLACKPINK『BORN PINK』を抜き、『THE ALBUM』（26週）に次ぐガールズグループ史上2番目の長期チャートインとなった。同週NewJeansはArtist 100に通算18週目（92位）でランクインした。",
+      "en": "On the Billboard 200 dated November 4, 2023, Get Up held at No. 98, its 14th consecutive week without leaving the top 100 since debuting at No. 1 in August, a first for a female K-pop act. It overtook BLACKPINK's BORN PINK to become the second-longest-charting K-pop girl-group album, behind THE ALBUM (26 weeks). NewJeans also logged an 18th week on the Artist 100 (No. 92)."
+    },
+    "source_url": "https://www.billboard.com/charts/billboard-200/2023-11-04/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "billboard"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1624260wpp/newjeans-becomes-1st-k-pop-girl-group-to-chart-an-album-in-top-100-of-billboard-200-for-14-weeks"
+    ]
+  }
+]
