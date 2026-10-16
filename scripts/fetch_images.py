@@ -29,6 +29,8 @@ INDEX = OUT / "index.json"
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 SKIP_HOSTS = ("wikipedia.org", "namu.wiki", "wikidata.org", "x.com", "twitter.com", "youtube.com", "youtu.be")
 MIN_SIDE, MAX_SIDE = 320, 1400
+# site-wide placeholder images (logos, category covers) that og:image returns for every page
+GENERIC_IMAGE = (r"shop\.weverse\.io/weverseshop-og\.png", r"billboard\.com/.*/assets/app/icons/", r"sportskeeda\.com/.*/cover-images/category/", r"linkareer\.com/images/og/preview\.png", r"/weverse-og\.png", r"instagram\.com/static/images/ico/")
 lock = threading.Lock()
 
 def session():
@@ -95,7 +97,7 @@ def candidates(it):
 def work(it, s):
     for kind, url in candidates(it):
         img_url = url if kind == "direct" else (x_media(s, url) if kind == "x" else page_image(s, url))
-        if not img_url: continue
+        if not img_url or any(re.search(g, img_url) for g in GENERIC_IMAGE): continue
         im = download(s, img_url)
         if im is None: continue
         if kind == "direct" and im.size[1] == 90: continue  # yt placeholder

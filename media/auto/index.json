@@ -3447,30 +3447,6 @@
   "page_url": "https://i.ytimg.com/vi/YujaE27VmSA/maxresdefault.jpg",
   "w": 1280
  },
- "goods-2022-07-25-new-jeans-1st-ep-bag-ver": {
-  "fetched": "2026-10-13",
-  "file": "goods-2022-07-25-new-jeans-1st-ep-bag-ver.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/JPY/artists/82/notices/2368",
-  "w": 1200
- },
- "goods-2022-07-25-new-jeans-1st-ep-bluebook-ver": {
-  "fetched": "2026-10-13",
-  "file": "goods-2022-07-25-new-jeans-1st-ep-bluebook-ver.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/JPY/artists/82/notices/2368",
-  "w": 1200
- },
- "goods-2022-07-25-new-jeans-1st-ep-weverse-albums-ver": {
-  "fetched": "2026-10-13",
-  "file": "goods-2022-07-25-new-jeans-1st-ep-weverse-albums-ver.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/JPY/artists/82/notices/2368",
-  "w": 1200
- },
  "goods-2022-08-11-debut-popup-store-the-hyundai-seoul": {
   "fetched": "2026-10-13",
   "file": "goods-2022-08-11-debut-popup-store-the-hyundai-seoul.jpg",
@@ -3479,52 +3455,12 @@
   "page_url": "https://economist.co.kr/article/view/ecn202208110032",
   "w": 800
  },
- "goods-2022-09-02-new-jeans-1st-ep-official-merch": {
-  "fetched": "2026-10-13",
-  "file": "goods-2022-09-02-new-jeans-1st-ep-official-merch.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/2623",
-  "w": 1200
- },
  "goods-2022-11-22-2023-seasons-greetings-room-722": {
-  "fetched": "2026-10-13",
+  "fetched": "2026-10-16",
   "file": "goods-2022-11-22-2023-seasons-greetings-room-722.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/3180",
-  "w": 1200
- },
- "goods-2022-12-12-omg-message-card-ver": {
-  "fetched": "2026-10-13",
-  "file": "goods-2022-12-12-omg-message-card-ver.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/JPY/artists/82/notices/3144",
-  "w": 1200
- },
- "goods-2022-12-12-omg-weverse-albums-ver": {
-  "fetched": "2026-10-13",
-  "file": "goods-2022-12-12-omg-weverse-albums-ver.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/JPY/artists/82/notices/3144",
-  "w": 1200
- },
- "goods-2022-12-20-nu-jeans-official-merch": {
-  "fetched": "2026-10-13",
-  "file": "goods-2022-12-20-nu-jeans-official-merch.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/3171",
-  "w": 1200
- },
- "goods-2022-12-20-omg-official-merch": {
-  "fetched": "2026-10-13",
-  "file": "goods-2022-12-20-omg-official-merch.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/3172",
+  "h": 600,
+  "image_url": "https://process.filestackapi.com/crop=d:%5B0%2C0%2C1920%2C960%5D/resize=w:1200%2Ch:600%2Cf:crop%2Ca:center/pjpg=q:90/compress/Lcf4n86R2WzLAzN0HwNg",
+  "page_url": "https://www.bandwagon.asia/articles/kpop-seasons-greetings-newjeans-shinee-monsta-x-nct-red-velvet-twice-ateez-list-2023",
   "w": 1200
  },
  "goods-2022-12-23-omg-nu-jeans-popup-nudake": {
@@ -3536,20 +3472,12 @@
   "w": 1200
  },
  "goods-2023-03-30-official-light-stick-binky-bong": {
-  "fetched": "2026-10-13",
+  "fetched": "2026-10-16",
   "file": "goods-2023-03-30-official-light-stick-binky-bong.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/3700",
-  "w": 1200
- },
- "goods-2023-04-04-light-stick-and-parts-set-2nd-round": {
-  "fetched": "2026-10-13",
-  "file": "goods-2023-04-04-light-stick-and-parts-set-2nd-round.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/3723",
-  "w": 1200
+  "h": 864,
+  "image_url": "https://cdn-contents.weverseshop.io/public/shop/1f6792197b6bff2133d2ae368aaa7743.png",
+  "page_url": "https://shop.weverse.io/en/shop/USD/artists/82/sales/14249",
+  "w": 720
  },
  "goods-2023-04-14-2023-seasons-greetings-re-release": {
   "fetched": "2026-10-13",
@@ -3557,38 +3485,6 @@
   "h": 600,
   "image_url": "https://cdnweb01.wikitree.co.kr/webdata/editor/202303/24/202303241505388569.jpg",
   "page_url": "https://www.wikitree.co.kr/articles/839656",
-  "w": 1200
- },
- "goods-2023-06-16-bunnies-camp-2023-official-merch": {
-  "fetched": "2026-10-13",
-  "file": "goods-2023-06-16-bunnies-camp-2023-official-merch.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/4061",
-  "w": 1200
- },
- "goods-2023-06-19-get-up-bunny-beach-bag-ver": {
-  "fetched": "2026-10-13",
-  "file": "goods-2023-06-19-get-up-bunny-beach-bag-ver.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/JPY/artists/82/notices/4096",
-  "w": 1200
- },
- "goods-2023-06-19-get-up-powerpuff-girls-x-nj-box-ver": {
-  "fetched": "2026-10-13",
-  "file": "goods-2023-06-19-get-up-powerpuff-girls-x-nj-box-ver.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/JPY/artists/82/notices/4096",
-  "w": 1200
- },
- "goods-2023-06-19-get-up-weverse-albums-ver": {
-  "fetched": "2026-10-13",
-  "file": "goods-2023-06-19-get-up-weverse-albums-ver.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/JPY/artists/82/notices/4096",
   "w": 1200
  },
  "goods-2023-08-02-line-friends-x-newjeans-exclusive-collection-preorder": {
@@ -3631,53 +3527,13 @@
   "page_url": "https://snkrdunk.com/en/magazine/2023/07/21/line-friends-teases-upcoming-collab-with-newjeans/",
   "w": 1024
  },
- "goods-2023-11-29-2024-seasons-greetings": {
-  "fetched": "2026-10-13",
-  "file": "goods-2023-11-29-2024-seasons-greetings.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/notices/4975",
-  "w": 1200
- },
  "goods-2024-04-26-how-sweet-standard-ver": {
-  "fetched": "2026-10-13",
+  "fetched": "2026-10-16",
   "file": "goods-2024-04-26-how-sweet-standard-ver.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/5748",
-  "w": 1200
- },
- "goods-2024-04-26-how-sweet-weverse-albums-ver": {
-  "fetched": "2026-10-13",
-  "file": "goods-2024-04-26-how-sweet-weverse-albums-ver.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/5748",
-  "w": 1200
- },
- "goods-2024-05-10-supernatural-nj-x-murakami-cross-bag-ver": {
-  "fetched": "2026-10-13",
-  "file": "goods-2024-05-10-supernatural-nj-x-murakami-cross-bag-ver.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/5839",
-  "w": 1200
- },
- "goods-2024-05-10-supernatural-nj-x-murakami-drawstring-bag-ver": {
-  "fetched": "2026-10-13",
-  "file": "goods-2024-05-10-supernatural-nj-x-murakami-drawstring-bag-ver.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/5839",
-  "w": 1200
- },
- "goods-2024-05-10-supernatural-weverse-albums-ver": {
-  "fetched": "2026-10-13",
-  "file": "goods-2024-05-10-supernatural-weverse-albums-ver.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/5839",
-  "w": 1200
+  "h": 960,
+  "image_url": "https://newsimg.koreatimes.co.kr/2024/04/26/2fef09d3-a757-4fcc-b7d7-b3b88567e9c6.jpg",
+  "page_url": "https://www.koreatimes.co.kr/www/art/2024/04/398_373562.html",
+  "w": 720
  },
  "goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa": {
   "fetched": "2026-10-13",
@@ -3685,22 +3541,6 @@
   "h": 683,
   "image_url": "https://image.koreajoongangdaily.com/12268603.jpg?imageId=12268603&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
   "page_url": "https://www.koreajoongangdaily.com/entertainment/newjeans-to-open-pop-up-store-for-latest-single-how-sweet/12268275",
-  "w": 1200
- },
- "goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki": {
-  "fetched": "2026-10-13",
-  "file": "goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/5999",
-  "w": 1200
- },
- "goods-2024-06-12-how-sweet-official-merch": {
-  "fetched": "2026-10-13",
-  "file": "goods-2024-06-12-how-sweet-official-merch.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/6038",
   "w": 1200
  },
  "goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite": {
@@ -3727,14 +3567,6 @@
   "page_url": "https://www.fashionsnap.com/article/2024-06-26/linefriends-newjeans/",
   "w": 1280
  },
- "goods-2024-06-28-bunnies-camp-2024-tokyo-dome-official-merch-weverse-shop": {
-  "fetched": "2026-10-13",
-  "file": "goods-2024-06-28-bunnies-camp-2024-tokyo-dome-official-merch-weverse-shop.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/6117",
-  "w": 1200
- },
  "goods-2024-07-01-line-friends-square-online-murakami-restock-preorder": {
   "fetched": "2026-10-13",
   "file": "goods-2024-07-01-line-friends-square-online-murakami-restock-preorder.jpg",
@@ -3743,21 +3575,13 @@
   "page_url": "https://snkrdunk.com/en/magazine/2024/03/28/newjeans-takashi-murakami-hyein-seo-bunnies-camp-tokyo-dome-hanni-danielle-minji-haerin/",
   "w": 1024
  },
- "goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural": {
-  "fetched": "2026-10-13",
-  "file": "goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/6115",
-  "w": 1200
- },
  "goods-2024-11-27-2025-seasons-greetings-fairy-association": {
-  "fetched": "2026-10-13",
+  "fetched": "2026-10-16",
   "file": "goods-2024-11-27-2025-seasons-greetings-fairy-association.jpg",
-  "h": 630,
-  "image_url": "https://shop.weverse.io/weverseshop-og.png",
-  "page_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/7091",
-  "w": 1200
+  "h": 864,
+  "image_url": "https://cdn-contents.weverseshop.io/public/shop/a37e14c32d5ff6edaa4d037210ee8757.png",
+  "page_url": "https://shop.weverse.io/en/shop/USD/artists/82/sales/33401",
+  "w": 720
  },
  "goods-2025-01-06-funko-pop-newjeans-figures-teased": {
   "fetched": "2026-10-13",
@@ -3877,38 +3701,6 @@
   "h": 800,
   "image_url": "https://contents.oricon.co.jp/upimg/news/2273000/2272452/20230322_194643_p_o_63512513.jpg",
   "page_url": "https://www.oricon.co.jp/news/2272452/full/",
-  "w": 1200
- },
- "live-2023-09-14-seoul-national-univ-festival": {
-  "fetched": "2026-10-13",
-  "file": "live-2023-09-14-seoul-national-univ-festival.jpg",
-  "h": 630,
-  "image_url": "https://community.linkareer.com/images/og/preview.png",
-  "page_url": "https://community.linkareer.com/jayuu/2251369",
-  "w": 1200
- },
- "live-2023-09-14-sungkyunkwan-univ-festival": {
-  "fetched": "2026-10-13",
-  "file": "live-2023-09-14-sungkyunkwan-univ-festival.jpg",
-  "h": 630,
-  "image_url": "https://community.linkareer.com/images/og/preview.png",
-  "page_url": "https://community.linkareer.com/jayuu/2251369",
-  "w": 1200
- },
- "live-2023-09-15-hongik-univ-festival": {
-  "fetched": "2026-10-13",
-  "file": "live-2023-09-15-hongik-univ-festival.jpg",
-  "h": 630,
-  "image_url": "https://community.linkareer.com/images/og/preview.png",
-  "page_url": "https://community.linkareer.com/jayuu/2251369",
-  "w": 1200
- },
- "live-2023-09-15-kyung-hee-univ-festival": {
-  "fetched": "2026-10-13",
-  "file": "live-2023-09-15-kyung-hee-univ-festival.jpg",
-  "h": 630,
-  "image_url": "https://community.linkareer.com/images/og/preview.png",
-  "page_url": "https://community.linkareer.com/jayuu/2251369",
   "w": 1200
  },
  "live-2023-10-07-coke-studio-superpop-japan-2023": {
@@ -6336,12 +6128,12 @@
   "w": 900
  },
  "record-2023-01-14-ditto-global-200-top-10": {
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-16",
   "file": "record-2023-01-14-ditto-global-200-top-10.jpg",
-  "h": 512,
-  "image_url": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/icons/icon-512x512.png",
-  "page_url": "https://www.billboard.com/charts/billboard-global-200/2023-01-14/",
-  "w": 512
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/01/09140704/NewJeans-3.jpg",
+  "page_url": "https://www.soompi.com/article/1562234wpp/newjeans-scores-their-first-top-10-hits-on-billboards-global-200-and-global-excl-u-s-charts-with-ditto",
+  "w": 900
  },
  "record-2023-01-16-melon-weekly-top3-sweep": {
   "fetched": "2026-10-15",
@@ -6360,20 +6152,20 @@
   "w": 900
  },
  "record-2023-01-21-ditto-hot-100-debut-96": {
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-16",
   "file": "record-2023-01-21-ditto-hot-100-debut-96.jpg",
-  "h": 512,
-  "image_url": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/icons/icon-512x512.png",
-  "page_url": "https://www.billboard.com/charts/hot-100/2023-01-21/",
-  "w": 512
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/01/17092725/NewJeans-9.jpg",
+  "page_url": "https://www.soompi.com/article/1563345wpp/newjeans-debuts-on-billboards-hot-100-making-them-4th-and-fastest-k-pop-girl-group-ever-to-do-so",
+  "w": 900
  },
  "record-2023-01-21-omg-ditto-global-200-two-top-10": {
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-16",
   "file": "record-2023-01-21-omg-ditto-global-200-two-top-10.jpg",
-  "h": 512,
-  "image_url": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/icons/icon-512x512.png",
-  "page_url": "https://www.billboard.com/charts/billboard-global-200/2023-01-21/",
-  "w": 512
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/01/17085328/NewJeans-2-2.jpg",
+  "page_url": "https://www.soompi.com/article/1563343wpp/newjeans-becomes-3rd-and-fastest-k-pop-group-in-billboard-history-to-chart-2-songs-simultaneously-in-top-10-of-global-200",
+  "w": 900
  },
  "record-2023-01-27-omg-million-seller-circle": {
   "fetched": "2026-10-15",
@@ -6384,12 +6176,12 @@
   "w": 900
  },
  "record-2023-01-28-omg-hot-100-debut-91": {
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-16",
   "file": "record-2023-01-28-omg-hot-100-debut-91.jpg",
-  "h": 512,
-  "image_url": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/icons/icon-512x512.png",
-  "page_url": "https://www.billboard.com/charts/hot-100/2023-01-28/",
-  "w": 512
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/01/24132105/NewJeans-11.jpg",
+  "page_url": "https://www.soompi.com/article/1564133wpp/newjeans-omg-debuts-on-billboards-hot-100-making-them-fastest-k-pop-artist-in-history-to-chart-multiple-entries",
+  "w": 900
  },
  "record-2023-02-02-melon-monthly-jan-2023-top3": {
   "fetched": "2026-10-15",
@@ -6416,12 +6208,12 @@
   "w": 900
  },
  "record-2023-02-11-artist-100-debut": {
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-16",
   "file": "record-2023-02-11-artist-100-debut.jpg",
-  "h": 512,
-  "image_url": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/icons/icon-512x512.png",
-  "page_url": "https://www.billboard.com/charts/artist-100/2023-02-11/",
-  "w": 512
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/02/08062415/NewJeans.jpg",
+  "page_url": "https://www.soompi.com/article/1565850wpp/newjeans-omg-climbs-to-their-highest-ranking-yet-on-billboards-hot-100-ditto-spends-4th-week-on-chart",
+  "w": 900
  },
  "record-2023-02-11-hanteo-music-awards-30-rookie": {
   "fetched": "2026-10-15",
@@ -6440,20 +6232,20 @@
   "w": 900
  },
  "record-2023-02-18-ditto-hot-100-peak-82": {
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-16",
   "file": "record-2023-02-18-ditto-hot-100-peak-82.jpg",
-  "h": 512,
-  "image_url": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/icons/icon-512x512.png",
-  "page_url": "https://www.billboard.com/charts/hot-100/2023-02-18/",
-  "w": 512
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/02/14054639/NewJeans-2.jpg",
+  "page_url": "https://www.soompi.com/article/1566718wpp/newjeans-becomes-2nd-highest-ranking-k-pop-girl-group-in-billboard-hot-100-history-as-omg-hits-new-peak",
+  "w": 900
  },
  "record-2023-02-18-omg-hot-100-peak-74": {
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-16",
   "file": "record-2023-02-18-omg-hot-100-peak-74.jpg",
-  "h": 512,
-  "image_url": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/icons/icon-512x512.png",
-  "page_url": "https://www.billboard.com/charts/hot-100/2023-02-18/",
-  "w": 512
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/02/14054639/NewJeans-2.jpg",
+  "page_url": "https://www.soompi.com/article/1566718wpp/newjeans-becomes-2nd-highest-ranking-k-pop-girl-group-in-billboard-hot-100-history-as-omg-hits-new-peak",
+  "w": 900
  },
  "record-2023-02-20-new-jeans-ep-million-seller": {
   "fetched": "2026-10-15",
@@ -6655,29 +6447,21 @@
   "page_url": "https://www.soompi.com/article/1602259wpp/newjeans-tops-apple-music-and-itunes-charts-across-the-globe-with-get-up",
   "w": 900
  },
- "record-2023-07-22-super-shy-emerging-artists-no1": {
-  "fetched": "2026-10-15",
-  "file": "record-2023-07-22-super-shy-emerging-artists-no1.jpg",
-  "h": 512,
-  "image_url": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/icons/icon-512x512.png",
-  "page_url": "https://www.billboard.com/charts/emerging-artists/2023-07-22/",
-  "w": 512
- },
  "record-2023-07-22-super-shy-global-200-no2": {
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-16",
   "file": "record-2023-07-22-super-shy-global-200-no2.jpg",
-  "h": 512,
-  "image_url": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/icons/icon-512x512.png",
-  "page_url": "https://www.billboard.com/charts/billboard-global-200/2023-07-22/",
-  "w": 512
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/07/18063454/NewJeans-7.jpg",
+  "page_url": "https://www.soompi.com/article/1601437wpp/newjeans-becomes-fastest-k-pop-group-in-billboard-history-to-debut-3-songs-on-hot-100",
+  "w": 900
  },
  "record-2023-07-22-super-shy-hot-100-debut-66": {
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-16",
   "file": "record-2023-07-22-super-shy-hot-100-debut-66.jpg",
-  "h": 512,
-  "image_url": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/icons/icon-512x512.png",
-  "page_url": "https://www.billboard.com/charts/hot-100/2023-07-22/",
-  "w": 512
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/07/18063454/NewJeans-7.jpg",
+  "page_url": "https://www.soompi.com/article/1601437wpp/newjeans-becomes-fastest-k-pop-group-in-billboard-history-to-debut-3-songs-on-hot-100",
+  "w": 900
  },
  "record-2023-07-23-super-shy-circle-weekly-triple-crown": {
   "fetched": "2026-10-15",
@@ -6712,20 +6496,20 @@
   "w": 699
  },
  "record-2023-08-05-cool-with-you-hot-100-debut-93": {
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-16",
   "file": "record-2023-08-05-cool-with-you-hot-100-debut-93.jpg",
-  "h": 512,
-  "image_url": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/icons/icon-512x512.png",
-  "page_url": "https://www.billboard.com/charts/hot-100/2023-08-05/",
-  "w": 512
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/08/02140259/NewJeans-1.jpg",
+  "page_url": "https://www.soompi.com/article/1604915wpp/newjeans-debuts-at-no-1-on-billboard-200-becomes-1st-k-pop-girl-group-ever-to-chart-3-songs-simultaneously-on-hot-100",
+  "w": 900
  },
  "record-2023-08-05-eta-hot-100-debut-81": {
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-16",
   "file": "record-2023-08-05-eta-hot-100-debut-81.jpg",
-  "h": 512,
-  "image_url": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/icons/icon-512x512.png",
-  "page_url": "https://www.billboard.com/charts/hot-100/2023-08-05/",
-  "w": 512
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/08/02140259/NewJeans-1.jpg",
+  "page_url": "https://www.soompi.com/article/1604915wpp/newjeans-debuts-at-no-1-on-billboard-200-becomes-1st-k-pop-girl-group-ever-to-chart-3-songs-simultaneously-on-hot-100",
+  "w": 900
  },
  "record-2023-08-05-get-up-billboard-200-no1": {
   "fetched": "2026-10-15",
@@ -6736,12 +6520,12 @@
   "w": 900
  },
  "record-2023-08-05-super-shy-hot-100-peak-48": {
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-16",
   "file": "record-2023-08-05-super-shy-hot-100-peak-48.jpg",
-  "h": 512,
-  "image_url": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/icons/icon-512x512.png",
-  "page_url": "https://www.billboard.com/charts/hot-100/2023-08-05/",
-  "w": 512
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/08/02140259/NewJeans-1.jpg",
+  "page_url": "https://www.soompi.com/article/1604915wpp/newjeans-debuts-at-no-1-on-billboard-200-becomes-1st-k-pop-girl-group-ever-to-chart-3-songs-simultaneously-on-hot-100",
+  "w": 900
  },
  "record-2023-08-10-k-global-heart-dream-awards-2023": {
   "fetched": "2026-10-15",
@@ -6768,12 +6552,12 @@
   "w": 900
  },
  "record-2023-08-19-hot-100-three-songs-five-weeks": {
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-16",
   "file": "record-2023-08-19-hot-100-three-songs-five-weeks.jpg",
-  "h": 512,
-  "image_url": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/icons/icon-512x512.png",
-  "page_url": "https://www.billboard.com/charts/hot-100/2023-08-19/",
-  "w": 512
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/08/15151220/NewJeans-6.jpg",
+  "page_url": "https://www.soompi.com/article/1607322wpp/newjeans-becomes-1st-k-pop-girl-group-in-billboard-hot-100-history-to-chart-3-songs-for-5-weeks",
+  "w": 900
  },
  "record-2023-08-23-riaj-omg-platinum": {
   "fetched": "2026-10-15",
@@ -6807,14 +6591,6 @@
   "page_url": "https://www.soompi.com/article/1616668wpp/le-sserafim-newjeans-stray-kids-bts-seventeen-and-izone-earn-platinum-and-gold-certifications-for-streaming-in-japan",
   "w": 900
  },
- "record-2023-09-29-debut-ep-spotify-1-billion": {
-  "fetched": "2026-10-15",
-  "file": "record-2023-09-29-debut-ep-spotify-1-billion.jpg",
-  "h": 675,
-  "image_url": "https://staticg.sportskeeda.com/skm/assets/cover-images/category/pop-culture.png",
-  "page_url": "https://sportskeeda.com/pop-culture/news-good-music-always-wins-fans-ecstatic-newjeans-debut-project-becomes-first-album-surpass-1-billion-streams-spotify",
-  "w": 1200
- },
  "record-2023-10-05-super-shy-mv-100m-views": {
   "fetched": "2026-10-15",
   "file": "record-2023-10-05-super-shy-mv-100m-views.jpg",
@@ -6824,12 +6600,12 @@
   "w": 900
  },
  "record-2023-10-07-get-up-world-albums-nine-weeks-no1": {
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-16",
   "file": "record-2023-10-07-get-up-world-albums-nine-weeks-no1.jpg",
-  "h": 512,
-  "image_url": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/icons/icon-512x512.png",
-  "page_url": "https://www.billboard.com/charts/world-albums/2023-10-07/",
-  "w": 512
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/10/07174225/NewJeans-1.jpg",
+  "page_url": "https://www.soompi.com/article/1618372wpp/newjeans-becomes-1st-k-pop-girl-group-to-chart-an-album-for-10-weeks-in-top-60-of-billboard-200",
+  "w": 900
  },
  "record-2023-10-10-tma-2023-artist-of-the-year-bonsang": {
   "fetched": "2026-10-15",
@@ -6872,12 +6648,12 @@
   "w": 900
  },
  "record-2023-11-04-get-up-billboard-200-14-weeks-top-100": {
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-16",
   "file": "record-2023-11-04-get-up-billboard-200-14-weeks-top-100.jpg",
-  "h": 512,
-  "image_url": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/icons/icon-512x512.png",
-  "page_url": "https://www.billboard.com/charts/billboard-200/2023-11-04/",
-  "w": 512
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/11/04220532/NewJeans.jpg",
+  "page_url": "https://www.soompi.com/article/1624260wpp/newjeans-becomes-1st-k-pop-girl-group-to-chart-an-album-in-top-100-of-billboard-200-for-14-weeks",
+  "w": 900
  },
  "record-2023-11-19-bbma-2023-top-global-kpop-artist": {
   "fetched": "2026-10-15",
@@ -6888,12 +6664,12 @@
   "w": 1024
  },
  "record-2023-11-21-billboard-2023-year-end-charts": {
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-16",
   "file": "record-2023-11-21-billboard-2023-year-end-charts.jpg",
-  "h": 512,
-  "image_url": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/icons/icon-512x512.png",
-  "page_url": "https://www.billboard.com/charts/year-end/2023/billboard-200/",
-  "w": 512
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/11/21124540/Stray-Kids-Jungkook-NewJeans-TXT-FIFTY-FIFTY-Jimin.jpg",
+  "page_url": "https://www.soompi.com/article/1627782wpp/billboard-reveals-2023-year-end-charts",
+  "w": 900
  },
  "record-2023-11-29-mama-2023-artist-of-the-year": {
   "fetched": "2026-10-15",
@@ -7053,22 +6829,6 @@
   "h": 630,
   "image_url": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202312/19/ned/20231219170150874mlcb.jpg",
   "page_url": "https://v.daum.net/v/20231219170149341",
-  "w": 1200
- },
- "record-2023-12-27-asian-pop-music-awards-2023-best-group-overseas": {
-  "fetched": "2026-10-15",
-  "file": "record-2023-12-27-asian-pop-music-awards-2023-best-group-overseas.jpg",
-  "h": 675,
-  "image_url": "https://staticg.sportskeeda.com/skm/assets/cover-images/category/pop-culture.png",
-  "page_url": "https://www.sportskeeda.com/pop-culture/news-2023-asian-pop-music-awards-complete-winners-list-bts-jungkook-blackpink-s-jisoo-stray-kids-bag-wins",
-  "w": 1200
- },
- "record-2023-12-27-asian-pop-music-awards-2023-top-20-get-up-super-shy": {
-  "fetched": "2026-10-15",
-  "file": "record-2023-12-27-asian-pop-music-awards-2023-top-20-get-up-super-shy.jpg",
-  "h": 675,
-  "image_url": "https://staticg.sportskeeda.com/skm/assets/cover-images/category/pop-culture.png",
-  "page_url": "https://www.sportskeeda.com/pop-culture/news-2023-asian-pop-music-awards-complete-winners-list-bts-jungkook-blackpink-s-jisoo-stray-kids-bag-wins",
   "w": 1200
  },
  "record-2023-12-29-circle-2023-album-sales-top-female-act": {
@@ -7255,14 +7015,6 @@
   "page_url": "https://asianews.network/newjeans-named-billboards-21-under-21-only-k-pop-act-to-make-the-annual-list/",
   "w": 855
  },
- "record-2024-06-08-how-sweet-global-200-debut-15": {
-  "fetched": "2026-10-15",
-  "file": "record-2024-06-08-how-sweet-global-200-debut-15.jpg",
-  "h": 512,
-  "image_url": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/icons/icon-512x512.png",
-  "page_url": "https://www.billboard.com/charts/billboard-global-200/2024-06-08/",
-  "w": 512
- },
  "record-2024-06-08-how-sweet-million-seller-circle": {
   "fetched": "2026-10-15",
   "file": "record-2024-06-08-how-sweet-million-seller-circle.jpg",
@@ -7278,14 +7030,6 @@
   "image_url": "https://image.koreajoongangdaily.com/12394802.jpg?imageId=12394802&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
   "page_url": "https://www.koreajoongangdaily.com/entertainment/newjeans-tops-japans-oricon-chart-with-supernatural/12394400",
   "w": 1200
- },
- "record-2024-07-06-supernatural-global-200-debut-25": {
-  "fetched": "2026-10-15",
-  "file": "record-2024-07-06-supernatural-global-200-debut-25.jpg",
-  "h": 512,
-  "image_url": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/icons/icon-512x512.png",
-  "page_url": "https://www.billboard.com/charts/billboard-global-200/2024-07-06/",
-  "w": 512
  },
  "record-2024-07-11-supernatural-million-seller-circle": {
   "fetched": "2026-10-15",
@@ -7807,6 +7551,14 @@
   "page_url": "https://www.marieclairekorea.com/celebrity/2023/01/omg-newjeans/",
   "w": 570
  },
+ "sns-2023-01-02-instagram-omg-release-day-post-2": {
+  "fetched": "2026-10-16",
+  "file": "sns-2023-01-02-instagram-omg-release-day-post-2.jpg",
+  "h": 381,
+  "image_url": "https://img.marieclairekorea.com/2023/01/mck_63b3c2d77b63b.jpg",
+  "page_url": "https://www.marieclairekorea.com/celebrity/2023/01/omg-newjeans/",
+  "w": 570
+ },
  "sns-2023-01-21-danielle-lunar-new-year-apology": {
   "fetched": "2026-10-15",
   "file": "sns-2023-01-21-danielle-lunar-new-year-apology.jpg",
@@ -7846,6 +7598,14 @@
   "image_url": "https://www.vogue.co.kr/wp_data/vogue/2023/06/style_649019a1aaaea-1920x1080.jpeg?x=647&y=702&ver=1.1.57",
   "page_url": "https://www.vogue.co.kr/2023/06/19/7%ec%9b%94-%eb%89%b4%ec%a7%84%ec%8a%a4%ea%b0%80-%eb%8f%8c%ec%95%84%ec%98%a8%eb%8b%a4/",
   "w": 1400
+ },
+ "sns-2023-06-27-instagram-asap-teaser-post": {
+  "fetched": "2026-10-16",
+  "file": "sns-2023-06-27-instagram-asap-teaser-post.jpg",
+  "h": 867,
+  "image_url": "https://img.marieclairekorea.com/2023/06/mck_649d2c7c6b9e2-scaled.jpg",
+  "page_url": "https://www.marieclairekorea.com/celebrity/2023/06/newjeans-comback/",
+  "w": 1300
  },
  "sns-2023-06-28-get-up-2nd-ep-photo-post": {
   "fetched": "2026-10-13",
@@ -7927,28 +7687,12 @@
   "page_url": "https://x.com/NewJeans_ADOR/status/1682571168447102976",
   "w": 640
  },
- "sns-2023-08-17-tiktok-eta-challenge-with-jimin": {
-  "fetched": "2026-10-15",
-  "file": "sns-2023-08-17-tiktok-eta-challenge-with-jimin.jpg",
-  "h": 675,
-  "image_url": "https://staticg.sportskeeda.com/skm/assets/cover-images/category/pop-culture.png",
-  "page_url": "https://sportskeeda.com/pop-culture/news-oh-my-god-bts-jimin-joins-new-jeans-eta-challenge-sending-fans-frenzy",
-  "w": 1200
- },
- "sns-2023-08-22-tiktok-hype-voy-with-v": {
-  "fetched": "2026-10-15",
-  "file": "sns-2023-08-22-tiktok-hype-voy-with-v.jpg",
-  "h": 675,
-  "image_url": "https://staticg.sportskeeda.com/skm/assets/cover-images/category/pop-culture.png",
-  "page_url": "https://www.sportskeeda.com/pop-culture/news-come-on-main-slayer-fans-go-gaga-kim-tae-hyung-joins-newjeans-hype-boy-challenge",
-  "w": 1200
- },
  "sns-2023-10-14-tiktok-ditto-challenge-with-jungkook": {
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-16",
   "file": "sns-2023-10-14-tiktok-ditto-challenge-with-jungkook.jpg",
-  "h": 675,
-  "image_url": "https://staticg.sportskeeda.com/skm/assets/cover-images/category/pop-culture.png",
-  "page_url": "https://www.sportskeeda.com/pop-culture/news-everything-i-waiting-for-fans-react-bts-jungkook-newjeans-join-forces-3d-ditto-challenge",
+  "h": 900,
+  "image_url": "https://media.assettype.com/gulfnews%2Fimport%2F2023%2F10%2F16%2FJungkook-and-NewJeans--new-TikTok-challenge-goes-viral_18b38eba6a2_medium.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+  "page_url": "https://gulfnews.com/entertainment/watch-jungkook-and-newjeans-come-together-for-3d-and-ditto-tiktok-challenge-1.1697467282725",
   "w": 1200
  },
  "sns-2023-11-04-gods-worlds-2023": {
@@ -8126,6 +7870,14 @@
   "image_url": "https://pbs.twimg.com/media/GOU0Vq7aEAA9Bdm.jpg",
   "page_url": "https://x.com/NewJeans_ADOR/status/1793899770244943967",
   "w": 1200
+ },
+ "sns-2024-06-19-instagram-supernatural-mv-teaser-post": {
+  "fetched": "2026-10-16",
+  "file": "sns-2024-06-19-instagram-supernatural-mv-teaser-post.jpg",
+  "h": 788,
+  "image_url": "https://www.vogue.co.kr/wp_data/vogue/2024/07/style_6687715c38adc-1920x1080.jpg?x=1501&y=1536&ver=1.1.57",
+  "page_url": "https://www.vogue.co.kr/2024/07/05/%eb%89%b4%ec%a7%84%ec%8a%a4-supernatural-mv-%ed%8c%8c%ed%8a%b8-2-%ea%b3%b5%ea%b0%9c/",
+  "w": 1400
  },
  "sns-2024-06-21-supernatural-d-day-post": {
   "fetched": "2026-10-15",
