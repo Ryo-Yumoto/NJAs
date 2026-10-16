@@ -43,6 +43,12 @@ X投稿を参照するレコード（media.type=x）を追加したときは、`
 
 取得後に`media/auto/index.json`と画像をコミットする。画像が不適切（記事と無関係なロゴ等）な場合は、該当IDの画像ファイルとindex.jsonの行を削除するか、レコードに`image`を手動指定して上書きする。
 
+自動取得の除外規則（scripts/fetch_images.py）:
+- `image.path`または`local_assets`を持つレコード（手動ギャラリー）は取得しない。
+- `media/auto/blocked.json`の`hashes`（保存後JPEGのMD5）に一致する画像は破棄する。汎用画像（Weverse Shopのアーティスト共通画像、LINE FRIENDS SQUAREロゴ等）を登録する。
+- `media/auto/blocked.json`の`ids`に挙げたレコードは取得しない。到達できる画像が別日の活動のものしかない場合に使う。
+- X投稿のカード画像（pbs.twimg.com/card_img）はリンク先の汎用画像であることが多いため、常に除外する。
+
 ## C. 確認状況を更新する
 
 一次ソースで確認が取れたら`verified: true`にし、`source_url`を一次ソースに差し替え、`note`の未確認理由を削除する。
