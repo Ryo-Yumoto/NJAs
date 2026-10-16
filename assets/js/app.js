@@ -279,7 +279,9 @@
         fig.addEventListener("click", () => openLightbox(it, im));
         box.appendChild(fig);
       });
-      box.appendChild(el("span", { class: "g-count mono" }, `${galleryItems.length} ${state.lang === "ja" ? "点" : "items"}`));
+      const cnt = el("span", { class: "g-count mono" }, `1 / ${galleryItems.length}`);
+      box.after(cnt);
+      box.addEventListener("scroll", () => { const i = Math.round(box.scrollLeft / Math.max(1, box.clientWidth)); cnt.textContent = `${Math.min(galleryItems.length, i + 1)} / ${galleryItems.length}`; }, { passive: true });
     }
     // official Instagram / TikTok embeds (production only; the artifact host blocks third-party scripts). X posts use the native card above.
     if (!window.NJAS_NO_EMBED && it.category === "sns" && (it.platform === "instagram" || it.platform === "tiktok")) {

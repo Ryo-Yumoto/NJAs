@@ -191,14 +191,14 @@ canvas.x-avatar { width: 40px !important; height: 40px !important; }
 .x-foot a:hover { color: var(--denim); }
 .links a.gone { color: var(--ink-3); border-bottom-style: dashed; }
 
-/* gallery: horizontal, swipeable strip of individual images (no cropping) */
-.gallery { position: relative; margin-top: 10px; display: flex; gap: 8px; overflow-x: auto; overscroll-behavior-x: contain; scroll-snap-type: x mandatory; padding: 2px 2px 8px; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
+/* gallery: full-width swipeable carousel, one image per view (no cropping) */
+.gallery { position: relative; margin-top: 12px; display: flex; gap: 0; overflow-x: auto; overscroll-behavior-x: contain; scroll-snap-type: x mandatory; padding: 0 0 6px; scrollbar-width: none; -webkit-overflow-scrolling: touch; max-width: 100%; }
 .gallery::-webkit-scrollbar { display: none; }
-.g-item { margin: 0; flex: 0 0 auto; scroll-snap-align: start; cursor: zoom-in; max-width: 82vw; display: grid; gap: 6px; align-content: start; }
-.g-item img, .g-item canvas { display: block; height: 260px; width: auto; max-width: 82vw; border-radius: 4px; outline: 1px solid var(--rule); }
-.g-item canvas:not(.ready) { background: var(--paper-2); width: 200px; }
-.g-cap { font-family: var(--f-jp); font-size: 11.5px; line-height: 1.4; color: var(--ink-2); max-width: 100%; }
-.g-count { position: sticky; right: 0; align-self: flex-end; flex: 0 0 auto; font-size: 10px; color: var(--ink-3); padding-left: 6px; }
+.g-item { margin: 0; flex: 0 0 100%; width: 100%; scroll-snap-align: center; scroll-snap-stop: always; cursor: zoom-in; display: grid; gap: 8px; align-content: start; justify-items: center; padding: 0 2px; box-sizing: border-box; }
+.g-item img, .g-item canvas { display: block; max-width: 100%; width: auto; height: auto; max-height: 360px; border-radius: 4px; outline: 1px solid var(--rule); }
+.g-item canvas:not(.ready) { background: var(--paper-2); width: 60%; aspect-ratio: 1; }
+.g-cap { font-family: var(--f-jp); font-size: 12px; line-height: 1.4; color: var(--ink-2); max-width: 100%; text-align: center; padding: 0 8px; }
+.g-count { position: static; align-self: auto; display: block; width: 100%; text-align: right; font-size: 10px; color: var(--ink-3); margin-top: 4px; }
 
 /* ---------- era (chapter) page ---------- */
 .era-page { position: relative; min-height: calc(100vh - 170px); min-height: calc(100dvh - 170px); border-radius: 8px; overflow: hidden; background: color-mix(in srgb, var(--era) 9%, var(--paper-2)); display: grid; align-items: end; isolation: isolate; }
@@ -367,6 +367,7 @@ canvas.era-img { max-height: 70vh; max-height: 70dvh; width: auto; max-width: 10
   .thumb { order: -1; margin: 0 auto 12px; }
   .thumb img, .thumb canvas { max-height: 55vh; max-height: 55dvh; }
   .x-fig, .x-fig img, .x-fig canvas { max-height: 55vh; max-height: 55dvh; }
+  .g-item img, .g-item canvas { max-height: 50vh; max-height: 50dvh; }
   .era-img { max-height: 60vh; max-height: 60dvh; object-fit: contain; background: #000; }
   .t-ja { font-size: 19px; }
   .era-body { padding: 24px 18px 22px; }
