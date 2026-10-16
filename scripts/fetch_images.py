@@ -14,7 +14,7 @@ Provenance is written to media/auto/index.json (id -> file, image URL, page URL)
 Usage: python3 scripts/fetch_images.py [--only CATEGORY] [--force] [--workers 6]
 Re-runs skip ids already present in index.json unless --force.
 """
-import argparse, io, json, os, re, sys, time, threading
+import argparse, hashlib, io, json, os, re, sys, time, threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
@@ -30,7 +30,7 @@ UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML,
 SKIP_HOSTS = ("wikipedia.org", "namu.wiki", "wikidata.org", "x.com", "twitter.com", "youtube.com", "youtu.be")
 MIN_SIDE, MAX_SIDE = 320, 1400
 # site-wide placeholder images (logos, category covers) that og:image returns for every page
-GENERIC_IMAGE = (r"shop\.weverse\.io/weverseshop-og\.png", r"billboard\.com/.*/assets/app/icons/", r"sportskeeda\.com/.*/cover-images/category/", r"linkareer\.com/images/og/preview\.png", r"/weverse-og\.png", r"instagram\.com/static/images/ico/", r"pbs\.twimg\.com/card_img/2110547047569059840/")
+GENERIC_IMAGE = (r"shop\.weverse\.io/weverseshop-og\.png", r"billboard\.com/.*/assets/app/icons/", r"sportskeeda\.com/.*/cover-images/category/", r"linkareer\.com/images/og/preview\.png", r"/weverse-og\.png", r"instagram\.com/static/images/ico/", r"pbs\.twimg\.com/card_img/")
 lock = threading.Lock()
 
 def session():
@@ -94,7 +94,10 @@ def candidates(it):
     yield ("page", it["source_url"])
     for u in it.get("reference_urls", []): yield ("page", u)
 
+BLOCKED = json.loads((OUT / "blocked.json").read_text()) if (OUT / "blocked.json").exists() else {"hashes": [], "ids": []}
+
 def work(it, s):
+    if it.get("image", {}).get("path") or it.get("local_assets") or it["id"] in BLOCKED.get("ids", []): return None  # curated or suppressed
     for kind, url in candidates(it):
         img_url = url if kind == "direct" else (x_media(s, url) if kind == "x" else page_image(s, url))
         if not img_url or any(re.search(g, img_url) for g in GENERIC_IMAGE): continue
@@ -103,6 +106,7 @@ def work(it, s):
         if kind == "direct" and im.size[1] == 90: continue  # yt placeholder
         f = OUT / f"{it['id']}.jpg"
         im.save(f, "JPEG", quality=82, optimize=True, progressive=True)
+        if hashlib.md5(f.read_bytes()).hexdigest() in BLOCKED.get("hashes", []): f.unlink(); continue  # known generic image
         return {"file": f.name, "image_url": img_url, "page_url": url, "w": im.size[0], "h": im.size[1], "fetched": time.strftime("%Y-%m-%d")}
     return None
 

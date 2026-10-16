@@ -1730,6 +1730,47 @@
     "editor_note": "公式動画: KBS Kpop「OMG - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230120 방송」(2023-01-20); 関連5本をreference_urlsに記載"
   },
   {
+    "id": "tv-2023-01-20-music-bank-minji-special-mc",
+    "date": "2023-01-20",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "tv",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "KBS『ミュージックバンク』ミンジがスペシャルMC",
+      "en": "KBS Music Bank: Minji as special MC"
+    },
+    "summary": {
+      "ja": "チャン・ウォニョンの降板後、ミンジがKBS『ミュージックバンク』のスペシャルMCを務め、初めて番組進行を担当した。",
+      "en": "After Jang Won-young left, Minji hosted KBS's Music Bank as a special MC, her first time presenting a show."
+    },
+    "detail": {
+      "ja": "1月13日の放送を最後にIVEのチャン・ウォニョンがMCを降板し、ミンジがスペシャルMCとして穴を埋めた。番組ではチェ・ミンに「スペシャル銀行長」と紹介され、「Hype Boy」に合わせて踊りながらあいさつした。「進行は初めてで本当に緊張する。今日と来週の2週間、全力を尽くす」と語り、自作の掛け声も披露した。",
+      "en": "With Ive's Jang Won-young having left the show after the 13 January broadcast, Minji filled in as special MC. Introduced by co-host Choi Min as the 'special bank manager', she greeted viewers by dancing to 'Hype Boy'. She said it was her first time hosting and that she would do her best for two weeks, this week and next, and showed off a chant she had made up herself."
+    },
+    "source_url": "https://v.daum.net/v/20230120181225514",
+    "reference_urls": [
+      "https://v.daum.net/v/20230118175431460"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "credits": {
+      "broadcaster": "KBS2",
+      "co_host": "Choi Min"
+    },
+    "tags": [
+      "mc",
+      "music-show",
+      "kbs"
+    ],
+    "verified": false,
+    "editor_note": "Same broadcast as existing group record tv-2023-01-20-music-bank-ditto-omg (which does not mention her MC role); this record covers the individual hosting. TV Report 2023-01-18 confirmed via ADOR. Second week (27 Jan) not separately verified. / Source is a press report (Daum News); not confirmed against an official page."
+  },
+  {
     "id": "tv-2023-01-26-mcountdown-omg-win-2",
     "date": "2023-01-26",
     "date_type": "broadcast",
@@ -1820,6 +1861,44 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=6bVUjsUi9sw"
     }
+  },
+  {
+    "id": "tv-2023-01-29-inkigayo-danielle-special-mc",
+    "date": "2023-01-29",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "tv",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "SBS『人気歌謡』ダニエルがスペシャルMC",
+      "en": "SBS Inkigayo: Danielle as special MC"
+    },
+    "summary": {
+      "ja": "ドラマ撮影で欠席したノ・ジョンウィに代わり、ダニエルがSBS『人気歌謡』のスペシャルMCを務めた。",
+      "en": "Danielle hosted SBS's Inkigayo as a special MC, standing in for actor Roh Jeong-eui."
+    },
+    "detail": {
+      "ja": "ドラマ撮影のため欠席した俳優ノ・ジョンウィの代わりに、ダニエルがスペシャルMCとしてTOMORROW X TOGETHERのヨンジュン、俳優ソ・ボムジュンと進行を務めた。音楽番組のMCは初めてで、「今日は『人気歌謡』のビタミンになって良いエネルギーを届けたい」とあいさつした。",
+      "en": "Danielle stood in for actor Roh Jeong-eui, who was away filming a drama, co-hosting with Tomorrow X Together's Yeonjun and actor Seo Bum-june. It was her first time hosting a music show, and she said she wanted to be Inkigayo's vitamin for the day and pass on good energy to viewers."
+    },
+    "source_url": "https://v.daum.net/v/20230129155355649",
+    "media": {
+      "type": "none"
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "co_hosts": "Yeonjun (TXT), Seo Bum-june"
+    },
+    "tags": [
+      "mc",
+      "music-show",
+      "sbs"
+    ],
+    "verified": false,
+    "editor_note": "Same episode as existing group record tv-2023-01-29-inkigayo-ditto-win-2 (no MC mention there). / Source is a press report (Daum News); not confirmed against an official page."
   },
   {
     "id": "tv-2023-01-29-inkigayo-ditto-win-2",
@@ -4173,6 +4252,49 @@
     }
   },
   {
+    "id": "tv-2024-06-02-k-wave-concert-inkigayo-haerin-mc",
+    "date": "2024-06-02",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "tv",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "SBS「K-WAVE コンサート 人気歌謡」ヘリンがMC",
+      "en": "SBS K-Wave Concert Inkigayo: Haerin as MC"
+    },
+    "summary": {
+      "ja": "仁川インスパイアアリーナで開かれたSBS「K-WAVE コンサート 人気歌謡」で、ヘリンがデビュー後初めてMCを務めた。",
+      "en": "Haerin took on her first MC role at SBS's K-Wave Concert Inkigayo at Inspire Arena in Incheon."
+    },
+    "detail": {
+      "ja": "SBSは5月27日、6月2日に仁川・永宗島のインスパイアアリーナで開催する「K-WAVE コンサート 人気歌謡」のMCをATEEZのユンホ、ヘリン、ZEROBASEONEのハン・ユジンが務めると発表した。ヘリンにとってデビュー後初のMC挑戦。aespa、ITZY、ILLITなどが出演し、NewJeansも出演した。",
+      "en": "SBS announced on 27 May that Ateez's Yunho, Haerin and Zerobaseone's Han Yu-jin would host K-Wave Concert Inkigayo at Inspire Arena on Yeongjong Island, Incheon, on 2 June. It was Haerin's first MC role since debut. The lineup included aespa, ITZY and ILLIT, and NewJeans also performed."
+    },
+    "source_url": "https://v.daum.net/v/20240527152941885",
+    "reference_urls": [
+      "https://v.daum.net/v/20240527140417564",
+      "https://v.daum.net/v/20240607143601289"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "credits": {
+      "broadcaster": "SBS",
+      "venue": "Inspire Arena, Incheon",
+      "co_hosts": "Yunho (Ateez), Han Yu-jin (Zerobaseone)"
+    },
+    "tags": [
+      "mc",
+      "music-show",
+      "sbs"
+    ],
+    "verified": false,
+    "editor_note": "Event date 2 June (concert); SBS broadcast 9 June is covered by existing group record tv-2024-06-09-k-wave-concert-inkigayo, which does not mention the MC role. Source is the pre-event SBS announcement (Sports Donga). / Source is a press report (Daum News); not confirmed against an official page."
+  },
+  {
     "id": "tv-2024-06-07-music-bank-how-sweet",
     "date": "2024-06-07",
     "date_type": "broadcast",
@@ -5545,6 +5667,48 @@
       "youtube": "https://www.youtube.com/watch?v=-hyQdASWNnY"
     },
     "editor_note": "公式動画: ENA 이엔에이「[#2024KGMA] NewJeans(뉴진스) - Right now + Bubble gum + How sweet + Supernatural | #뉴진스 | ENA 241116」(2024-12-08); 関連3本をreference_urlsに記載"
+  },
+  {
+    "id": "tv-2024-11-27-superman-returns-minji",
+    "date": "2024-11-27",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "tv",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "KBS2『スーパーマンが帰ってきた』ミンジが出演",
+      "en": "KBS2 The Return of Superman: Minji guests",
+      "original": "슈퍼맨이 돌아왔다"
+    },
+    "summary": {
+      "ja": "ミンジがKBS2の育児バラエティ『スーパーマンが帰ってきた』に出演し、キム・ジュノの息子ウヌ・ジョンウ兄弟と過ごした。",
+      "en": "Minji guested on KBS2's parenting show The Return of Superman, spending a day with Kim Jun-ho's sons Eun-woo and Jung-woo."
+    },
+    "detail": {
+      "ja": "第550回「君を愛するのはスーパーナチュラル」編に出演し、元フェンシング代表キム・ジュノの息子ウヌ・ジョンウ兄弟に会った。ミンジにとって初の単独バラエティ出演。兄弟の映像をすべて見ているファンだと明かし、呼び方を「お姉さん」か「おばさん」かで1か月前から悩んでいたと話すと、ウヌは迷わず「お姉さん」を選んだ。",
+      "en": "In episode 550, titled 'Loving You Is Supernatural', Minji met Eun-woo and Jung-woo, sons of former national fencer Kim Jun-ho. It was her first solo variety appearance. She said she had watched all of the brothers' videos and had spent a month wondering whether they would call her 'big sister' or 'auntie'; Eun-woo chose 'big sister' without hesitation."
+    },
+    "source_url": "https://v.daum.net/v/20241126081050400",
+    "reference_urls": [
+      "https://v.daum.net/v/20241028111717043",
+      "https://v.daum.net/v/20241127181424703"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "credits": {
+      "broadcaster": "KBS2",
+      "program": "The Return of Superman (ep. 550)"
+    },
+    "tags": [
+      "variety",
+      "kbs"
+    ],
+    "verified": false,
+    "editor_note": "KBS confirmed the appearance on 28 Oct 2024 (Sports Kyunghyang); broadcast date 27 Nov (Wed) and episode number 550 per Sports Donga 2024-11-26. / Source is a press report (Daum News); not confirmed against an official page."
   },
   {
     "id": "tv-2024-11-29-music-station-2",

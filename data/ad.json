@@ -225,43 +225,41 @@
     }
   },
   {
-    "id": "ad-2022-10-01-hanni-gucci-ambassador",
-    "date": "2022-10-01",
-    "date_type": "announce",
-    "date_precision": "month",
+    "id": "ad-2022-09-21-hyein-diesel-hannam-opening",
+    "date": "2022-09-21",
+    "date_type": "event",
+    "date_precision": "day",
     "category": "ad",
     "entity": "newjeans",
     "members": [
-      "hanni"
+      "hyein"
     ],
     "title": {
-      "ja": "ハニ、グッチのブランドアンバサダーに",
-      "en": "Hanni named Gucci brand ambassador"
+      "ja": "ヘイン、ディーゼル漢南洞ストアのオープニングイベントに出席",
+      "en": "Hyein attends Diesel Hannam-dong store opening"
     },
     "summary": {
-      "ja": "グッチがハニをブランドアンバサダーに起用し、11月1日の景福宮での「Gucci Cosmogonie Seoul」ショーに出席予定と発表。",
-      "en": "Gucci named Hanni a brand ambassador, with her set to attend the Gucci Cosmogonie Seoul show at Gyeongbokgung on November 1."
+      "ja": "ディーゼルが漢南洞に国内初の単独店舗をオープンし、記念イベントにヘインが出席した。",
+      "en": "Hyein attended the opening event for Diesel's first store in Hannam-dong, Seoul."
     },
-    "source_url": "https://en.wikipedia.org/wiki/Hanni_(singer)",
-    "reference_urls": [
-      "https://www.marketing-interactive.com/newjeans-hanni-gucci-campaign"
-    ],
+    "detail": {
+      "ja": "ディーゼルが漢南洞に初の店舗をオープンし、アンバサダーのパク・ジェボムのほか、シックK、BIBI、(G)I-DLEのミンニ、TOMORROW X TOGETHERのヨンジュン、ヘインの6人が出席した。出席者はグレン・マーティンスによる新作アイテムでスタイリングを披露した。",
+      "en": "Diesel opened its first store in Hannam-dong, and six guests attended: ambassador Jay Park, Sik-K, BIBI, (G)I-DLE's Minnie, Tomorrow X Together's Yeonjun and Hyein. They wore styling from Glenn Martens' new Diesel pieces."
+    },
+    "source_url": "https://v.daum.net/v/20220926220004759",
     "media": {
       "type": "none"
     },
+    "credits": {
+      "brand": "Diesel",
+      "venue": "Diesel Hannam-dong, Seoul"
+    },
     "tags": [
-      "luxury",
-      "ambassador"
+      "event",
+      "fashion"
     ],
     "verified": false,
-    "editor_note": "October 2022; sources differ on the exact day (Oct 22 vs Oct 28). | Seoul Shinmun (m.seoul.co.kr 2022-10-29) dates the announcement to Oct 28; the record's Oct 1 date is month-precision. / Announcement details from Seoul Shinmun (m.seoul.co.kr, 2022-10-29), which dates the announcement to 28 October; other sources give 22 October. The record's 1 October date is month-precision.",
-    "detail": {
-      "ja": "グッチが10月28日、ハニをブランドアンバサダーに起用したと発表した。ハニのスタイルに対する確固たる哲学がポップカルチャーの関心を集めており、多様性と自己表現を受け入れるブランドのビジョンに合致するという説明だった。ハニは11月1日に景福宮で開かれる「Gucci Cosmogonie Seoul」ショーに出席する予定。グッチのアンバサダーにはEXOのカイ、IU、イ・ジョンジェ、シン・ミナが名を連ねていた。",
-      "en": "Gucci announced Hanni as a brand ambassador on October 28. The house said her firm philosophy on style draws attention in pop culture and fits its vision of embracing diversity and self-expression. Hanni was scheduled to attend the 'Gucci Cosmogonie Seoul' show at Gyeongbokgung Palace on November 1. Gucci's existing ambassadors included EXO's Kai, IU, Lee Jung-jae and Shin Min-a."
-    },
-    "credits": {
-      "brand": "Gucci"
-    }
+    "editor_note": "Wedding21 News (2022-09-26) says the store opened on the 21st with the guests attending; event date taken as the opening day. / Source is a press report (Daum News); not confirmed against an official page."
   },
   {
     "id": "ad-2022-10-01-skt-0-iphone-14-pro-cm",
@@ -374,6 +372,46 @@
     },
     "credits": {
       "brand": "Shinhan Bank (New SOL)"
+    }
+  },
+  {
+    "id": "ad-2022-10-28-hanni-gucci-ambassador",
+    "date": "2022-10-28",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "ハニ、グッチのブランドアンバサダーに",
+      "en": "Hanni named Gucci brand ambassador"
+    },
+    "summary": {
+      "ja": "グッチがハニをブランドアンバサダーに起用し、11月1日の景福宮での「Gucci Cosmogonie Seoul」ショーに出席予定と発表。",
+      "en": "Gucci named Hanni a brand ambassador, with her set to attend the Gucci Cosmogonie Seoul show at Gyeongbokgung on November 1."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Hanni_(singer)",
+    "reference_urls": [
+      "https://www.marketing-interactive.com/newjeans-hanni-gucci-campaign",
+      "https://v.daum.net/v/20221028173034675"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "luxury",
+      "ambassador"
+    ],
+    "verified": false,
+    "editor_note": "October 2022; sources differ on the exact day (Oct 22 vs Oct 28). | Seoul Shinmun (m.seoul.co.kr 2022-10-29) dates the announcement to Oct 28; the record's Oct 1 date is month-precision. / Announcement details from Seoul Shinmun (m.seoul.co.kr, 2022-10-29), which dates the announcement to 28 October; other sources give 22 October. The record's 1 October date is month-precision. / 2026-10-16: dated to 28 Oct 2022 (day precision) per Sports Kyunghyang report of the official announcement (v.daum.net/v/20221028173034675).",
+    "detail": {
+      "ja": "グッチが10月28日、ハニをブランドアンバサダーに起用したと発表した。ハニのスタイルに対する確固たる哲学がポップカルチャーの関心を集めており、多様性と自己表現を受け入れるブランドのビジョンに合致するという説明だった。ハニは11月1日に景福宮で開かれる「Gucci Cosmogonie Seoul」ショーに出席する予定。グッチのアンバサダーにはEXOのカイ、IU、イ・ジョンジェ、シン・ミナが名を連ねていた。",
+      "en": "Gucci announced Hanni as a brand ambassador on October 28. The house said her firm philosophy on style draws attention in pop culture and fits its vision of embracing diversity and self-expression. Hanni was scheduled to attend the 'Gucci Cosmogonie Seoul' show at Gyeongbokgung Palace on November 1. Gucci's existing ambassadors included EXO's Kai, IU, Lee Jung-jae and Shin Min-a."
+    },
+    "credits": {
+      "brand": "Gucci"
     }
   },
   {
@@ -1017,6 +1055,52 @@
     "editor_note": "Details from Wikitree (2023-03-14 15:46 KST); press framing removed from reader text."
   },
   {
+    "id": "ad-2023-03-24-hanni-gucci-horsebit-1955-campaign",
+    "date": "2023-03-24",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "グッチ「ホースビット 1955」キャンペーン——ハニ、ハリー・ベイリー、ジュリア・ガーナー",
+      "en": "Gucci Horsebit 1955 campaign with Hanni, Halle Bailey and Julia Garner"
+    },
+    "summary": {
+      "ja": "グッチのホースビット1955バッグの新キャンペーンに、ハニがハリー・ベイリー、ジュリア・ガーナーと共に登場した。",
+      "en": "Hanni appeared with Halle Bailey and Julia Garner in Gucci's new campaign for the Horsebit 1955 bag."
+    },
+    "detail": {
+      "ja": "グッチのグローバルブランドアンバサダーとして、ハニがホースビット1955ハンドバッグのキャンペーン映像・ビジュアルに登場した。撮影はフォトグラファーデュオのマート＆マーカス。共演は『リトル・マーメイド』主演のハリー・ベイリーと俳優ジュリア・ガーナーで、グッチは各分野で地位を築く3人の女性アーティストが参加したと説明した。",
+      "en": "As a Gucci global brand ambassador, Hanni appeared in the campaign film and visuals for the Horsebit 1955 handbag, shot by photographer duo Mert & Marcus. She was joined by Halle Bailey, star of the upcoming The Little Mermaid, and actor Julia Garner; Gucci said the campaign brought together three women artists each established in their own field."
+    },
+    "source_url": "https://v.daum.net/v/20230324133702848",
+    "reference_urls": [
+      "https://v.daum.net/v/20230325091928324",
+      "https://en.wikipedia.org/wiki/Hanni_(singer)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202303/25/mydaily/20230325091928510vnyr.jpg",
+      "source_url": "https://v.daum.net/v/20230325091928324"
+    },
+    "credits": {
+      "brand": "Gucci",
+      "photographer": "Mert & Marcus"
+    },
+    "tags": [
+      "gucci",
+      "campaign",
+      "luxury"
+    ],
+    "verified": false,
+    "editor_note": "Sports Donga 2023-03-24 reports the campaign as newly released; MyDaily 2023-03-25 adds co-stars and photographers. Gucci official page not fetched. / Source is a press report (Daum News); not confirmed against an official page."
+  },
+  {
     "id": "ad-2023-03-30-coca-cola-global-ambassador",
     "date": "2023-03-30",
     "date_type": "announce",
@@ -1053,6 +1137,50 @@
       "announced_by": "ADOR"
     },
     "editor_note": "Soompi dates ADOR's statement to March 31 KST while the article is dated March 30 US time. / Details from Soompi, which dates ADOR's statement to 31 March KST while the article is dated 30 March US time. Press framing removed."
+  },
+  {
+    "id": "ad-2023-04-01-hanni-armani-power-fabric-campaign",
+    "date": "2023-04-01",
+    "date_type": "release",
+    "date_precision": "month",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "アルマーニ ビューティ「パワー ファブリック＋」キャンペーン——ハニ",
+      "en": "Armani Beauty Power Fabric+ Foundation campaign - Hanni"
+    },
+    "summary": {
+      "ja": "ジョルジオ アルマーニ ビューティが、グローバルアンバサダーのハニを起用した初のキャンペーン「パワー ファブリック＋ ファンデーション」を公開した。",
+      "en": "Giorgio Armani Beauty released its first campaign with global ambassador Hanni, for Power Fabric+ Foundation."
+    },
+    "detail": {
+      "ja": "2月にアルマーニ ビューティのグローバルメイクアップアンバサダーに起用されたハニの初の公式キャンペーンで、ファンデーション「パワー ファブリック＋」を使った白い肌のビジュアルが公開された。ハニは「軽くて楽な使用感が良く、カバー力と自然なツヤに満足した」とコメントした。",
+      "en": "This was the first official campaign for Hanni since she became Armani Beauty's global make-up ambassador in February, with visuals built around the Power Fabric+ foundation. Hanni said she liked how light and comfortable it felt, and was happy with the coverage and natural glow."
+    },
+    "source_url": "https://v.daum.net/v/20230402161206154",
+    "reference_urls": [
+      "https://www.globalcosmeticsnews.com/armani-makeup-taps-into-gen-z-with-k-pop-star-hanni-appointed/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202304/02/xportsnews/20230402161208124ufex.jpg",
+      "source_url": "https://v.daum.net/v/20230402161206154"
+    },
+    "credits": {
+      "brand": "Giorgio Armani Beauty"
+    },
+    "tags": [
+      "armani",
+      "beauty",
+      "campaign"
+    ],
+    "verified": false,
+    "editor_note": "Xportsnews (2023-04-02) says the campaign was released \"recently\"; Global Cosmetics News said the campaign would run from April. Exact launch day unconfirmed, so month precision. / Source is a press report (Daum News); not confirmed against an official page."
   },
   {
     "id": "ad-2023-04-03-coca-cola-zero-cm-zero",
@@ -1093,6 +1221,49 @@
       "director": "Sung-hwi (성휘)"
     },
     "editor_note": "Director credit from the English Wikipedia videography; sourcing frame removed from reader text."
+  },
+  {
+    "id": "ad-2023-04-05-stonehenge-brand-muse",
+    "date": "2023-04-05",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "STONEHENgE ブランドミューズ",
+      "en": "STONEHENgE brand muses",
+      "original": "스톤헨지 뮤즈"
+    },
+    "summary": {
+      "ja": "ジュエリーブランドSTONEHENgEがチョン・ジヒョンに続く新ミューズにNewJeansを起用した。",
+      "en": "Jewellery brand STONEHENgE named NewJeans its new muses alongside Jun Ji-hyun."
+    },
+    "detail": {
+      "ja": "ジュエリーブランドSTONEHENgE（ストーンヘンジ）は、既存モデルのチョン・ジヒョンに加えてNewJeansを新たなブランドミューズに起用し、MZ世代まで含めたより若くトレンディなブランドへの拡張を図るとした。NewJeansを通じて従来のエレガントなスタイルとは異なるアイコニックなジュエリールックを見せる計画で、新しい広告キャンペーンは4月中に順次公開するとした。",
+      "en": "Jewellery brand STONEHENgE named NewJeans new brand muses alongside its existing model Jun Ji-hyun, aiming to broaden into a younger, more trend-led brand that reaches the MZ generation. It planned to show iconic jewellery looks different from its usual elegant style through the group, with the new ad campaign to be released in stages during April."
+    },
+    "credits": {
+      "brand": "STONEHENgE"
+    },
+    "source_url": "https://lady.khan.co.kr/entertainment/article/202304051015001",
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://img.khan.co.kr/lady/2023/04/05/news-p.v1.20230405.bf98c48d222d41f7ad7dc7327d895a0e.jpg",
+      "source_url": "https://lady.khan.co.kr/entertainment/article/202304051015001"
+    },
+    "tags": [
+      "stonehenge",
+      "jewelry",
+      "fashion",
+      "ambassador"
+    ],
+    "verified": false,
+    "editor_note": "Lady Kyunghyang (2023-04-05 10:15); STONEHENgE's own announcement not fetched. Related content records: content-2023-05-09-light-jeans-stonehenge-behind and later STONEHENgE behind videos."
   },
   {
     "id": "ad-2023-04-26-haerin-dior-ambassador",
@@ -1169,6 +1340,47 @@
     "credits": {
       "brand": "McDonald's"
     }
+  },
+  {
+    "id": "ad-2023-06-30-nike-seoul-football-jersey-campaign",
+    "date": "2023-06-30",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NIKE Seoul フットボールジャージー キャンペーン",
+      "en": "Nike Seoul football jersey campaign"
+    },
+    "summary": {
+      "ja": "Nike SeoulがNewJeansを起用し、各国代表ジャージーをスタイリングしたキャンペーンを公開した。",
+      "en": "Nike Seoul released a campaign of NewJeans styling national-team football jerseys."
+    },
+    "detail": {
+      "ja": "Nike Seoulは、Air Max Day 2023に続くNewJeansとのキャンペーンとして、サッカー代表ジャージーを現代的に着こなすビジュアルを公開した。ハニはオーストラリアのクロップドTシャツ、ミンジはUSAのトップ、ヘリンとヘインは韓国代表ジャージーを着用し、足元はAir Max 95、Air Max 97、Air Force 1 '07などが合わせられた。",
+      "en": "Nike Seoul released visuals of NewJeans giving football jerseys a modern twist, following their Air Max Day 2023 work together. Hanni wore a cropped Australia tee, Minji a USA top, and Haerin and Hyein Korea jerseys, paired with sneakers including the Air Max 95, Air Max 97 and Air Force 1 '07."
+    },
+    "credits": {
+      "brand": "Nike (Nike Seoul)"
+    },
+    "source_url": "https://snkrdunk.com/en/magazine/2023/06/30/newjeans-shows-trendy-jersey-styles-in-nike-seouls-latest-campaign/",
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://snkrdunk.s3.ap-northeast-1.amazonaws.com/en/magazine/wp-content/uploads/2023/06/30174353/NewJeans-x-Nike-Seoul-Jersey-Campaign.jpg",
+      "source_url": "https://snkrdunk.com/en/magazine/2023/06/30/newjeans-shows-trendy-jersey-styles-in-nike-seouls-latest-campaign/"
+    },
+    "tags": [
+      "nike",
+      "fashion",
+      "campaign"
+    ],
+    "verified": false,
+    "editor_note": "SNKRDUNK (URL dated 2023-06-30, updated 2023-07-04 noting Nike Seoul's behind-the-scenes Instagram post); Nike Seoul's own post not fetched, so the release day is per SNKRDUNK. Danielle's jersey not identified."
   },
   {
     "id": "ad-2023-07-01-powerpuff-girls-get-up-collab",
@@ -1286,6 +1498,140 @@
     "editor_note": "Singapore and Manila pop-ups in the existing summary are later rollouts not covered by the August 2023 Korean sources."
   },
   {
+    "id": "ad-2023-08-01-spotify-bunnyland-campaign",
+    "date": "2023-08-01",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Spotify × NewJeans「Bunnyland」キャンペーン",
+      "en": "Spotify x NewJeans 'Bunnyland' campaign"
+    },
+    "summary": {
+      "ja": "Spotifyが『Get Up』を記念し、ソウルとジャカルタのポップアップや巨大Spotibuniniを展開した。",
+      "en": "Spotify marked 'Get Up' with Bunnyland pop-ups in Seoul and Jakarta and giant Spotibunini installations."
+    },
+    "detail": {
+      "ja": "Spotifyは2nd EP『Get Up』を記念し、音楽の好みから「推しメン」を診断するマイクロサイト「Bunnyland」と各メンバーのプレイリストを公開した。ソウルとジャカルタでは8月6日までポップアップを開き、レトロなアーケードゲームやプレイリストステーション、フォトスポットを設け、SpotifyとNewJeansからの特典を用意した。Spotifyのヘッドホンを着けた巨大な「Spotibunini」（IPXのmininiとNewJeansのTOKKIを組み合わせたキャラクター）が東京・渋谷、ジャカルタ、マニラ、ソウルのオリンピック公園に設置され、8月3日にはロラパルーザにBunnylandの空間を設ける予定とされた。",
+      "en": "To mark the 2nd EP Get Up, Spotify launched 'Bunnyland', a microsite matching listeners with their NewJeans 'hero' by music taste, with playlists curated by each member. Pop-ups in Seoul and Jakarta ran until August 6 with retro arcade games, playlist stations, photo spots and special gifts from Spotify and NewJeans. Giant 'Spotibunini' figures (combining IPX's minini and NewJeans' TOKKI) wearing Spotify headphones were installed in Tokyo's Shibuya, Jakarta, Manila and Seoul's Olympic Park, and a Bunnyland space was planned at Lollapalooza on August 3."
+    },
+    "credits": {
+      "brand": "Spotify"
+    },
+    "source_url": "https://newsroom.spotify.com/2023-08-01/newjeans-celebrates-its-new-ep-with-bunnyland-pop-ups-interactive-playlists-and-larger-than-life-installations/",
+    "reference_urls": [
+      "https://marketech-apac.com/newjeans-teams-up-with-spotify-to-celebrate-new-ep-with-pop-ups-interactive-playlists-and-outdoor-installations/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://storage.googleapis.com/pr-newsroom-wp/1/2023/08/spotify_newjeans_bunnyland-1920x733.jpg",
+      "source_url": "https://newsroom.spotify.com/2023-08-01/newjeans-celebrates-its-new-ep-with-bunnyland-pop-ups-interactive-playlists-and-larger-than-life-installations/"
+    },
+    "tags": [
+      "spotify",
+      "pop-up",
+      "get-up",
+      "campaign"
+    ],
+    "verified": true,
+    "editor_note": "Spotify newsroom post dated 2023-08-01 (pop-ups opened 'last Friday', i.e. 2023-07-28). Related content record: content-2023-10-07-light-jeans-bunnyland-pop-up-behind."
+  },
+  {
+    "id": "ad-2023-08-08-hanni-chaumet-bee-my-love-popup",
+    "date": "2023-08-08",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "ハニ、ショーメ「ビー マイ ラブ」ポップアップのフォトコールに出席",
+      "en": "Hanni attends Chaumet 'Bee My Love' pop-up photocall"
+    },
+    "summary": {
+      "ja": "新世界百貨店江南店のショーメ「ビー マイ ラブ」ポップアップストアのオープン記念フォトコールにハニが出席した。",
+      "en": "Hanni attended the photocall for Chaumet's Bee My Love pop-up store at Shinsegae Department Store Gangnam."
+    },
+    "detail": {
+      "ja": "ショーメが、ミツバチに着想を得たハニカムモチーフの「ビー マイ ラブ」コレクションのポップアップストアを新世界百貨店江南店で8月に開き、オープン記念フォトコールにハニが出席した。ハニは同コレクションの新作を着用した。",
+      "en": "Chaumet ran a pop-up store for its bee-inspired, honeycomb-motif Bee My Love collection at Shinsegae Department Store Gangnam in August, and Hanni attended its photocall wearing new pieces from the line."
+    },
+    "source_url": "https://www.marieclairekorea.com/fashion/2023/08/chaumet-hanni/",
+    "reference_urls": [
+      "https://v.daum.net/v/20230808141530137"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://img.marieclairekorea.com/2023/08/mck_64d1dcda3e1b6.jpg",
+      "source_url": "https://www.marieclairekorea.com/fashion/2023/08/chaumet-hanni/"
+    },
+    "credits": {
+      "brand": "Chaumet",
+      "venue": "Shinsegae Department Store Gangnam, Seoul"
+    },
+    "tags": [
+      "chaumet",
+      "jewelry",
+      "event"
+    ],
+    "verified": true,
+    "editor_note": "Marie Claire Korea (2023-08-08) and Ajunews/SS (2023-08-08 morning photocall). Chaumet is not described as appointing her ambassador in these sources."
+  },
+  {
+    "id": "ad-2023-08-14-haerin-dior-rose-des-vents-campaign",
+    "date": "2023-08-14",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ディオール ファインジュエリー「ローズ デ ヴァン」キャンペーン——ヘリン",
+      "en": "Dior Joaillerie Rose des Vents campaign - Haerin"
+    },
+    "summary": {
+      "ja": "ディオールが、ジュエリーのグローバルアンバサダーのヘリンを起用した「ローズ デ ヴァン」ラインの新キャンペーンを公開した。",
+      "en": "Dior released a new Rose des Vents campaign featuring Haerin, its global jewellery ambassador."
+    },
+    "detail": {
+      "ja": "ディオールが、ディオール ジュエリーのグローバルアンバサダーとして活動するヘリンとの新キャンペーンを公開した。ヘリンが着けたのはヴィクトワール・ドゥ・カステラーヌがデザインした「ローズ デ ヴァン」ラインの新作で、アイコニックな「ディオール トライバル」を再解釈したローズ デ ヴァン トライバル イヤリングなどが登場した。",
+      "en": "Dior released a new campaign with Haerin, its global ambassador for Dior jewellery. She wears new pieces from the Rose des Vents line designed by Victoire de Castellane, including Rose des Vents Tribales earrings that reinterpret the house's iconic Dior Tribales."
+    },
+    "source_url": "https://v.daum.net/v/20230814195038166",
+    "reference_urls": [
+      "https://v.daum.net/v/20230814141503094"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202308/14/lofficielhommes/20230814195039496iwln.jpg",
+      "source_url": "https://v.daum.net/v/20230814195038166"
+    },
+    "credits": {
+      "brand": "Dior Joaillerie"
+    },
+    "tags": [
+      "dior",
+      "jewelry",
+      "campaign"
+    ],
+    "verified": false,
+    "editor_note": "L'Officiel Korea and Star News (both 2023-08-14) report the release on the 14th. / Source is a press report (Daum News); not confirmed against an official page."
+  },
+  {
     "id": "ad-2023-08-14-hyundai-department-store-duty-free",
     "date": "2023-08-14",
     "date_type": "announce",
@@ -1363,6 +1709,88 @@
     "editor_note": "No September 2023 announcement located (search budget exhausted); month-precision retained. | removed from reader text: [detail.ja] 2023年10月17日の報道では、京畿道義王市のロッテプレミアムアウトレット タイムヴィラスで開かれたペペロのポップアップ「Hello 빼빼로월드」で、公式アンバサダーのNewJeansとキャラクターのペペロフレンズを用いた展示と商品が紹介された。 [detail.ja] 英語版Wikipediaのビデオグラフィーは米国で放映されたCM「Say Hello with Pepero」（2023年10月26日報道）を記録しており、同社はLAとホーチミンでの屋外広告も展開した。 [detail.ja] 起用の正確な発表日は確認できていない。 [detail.en] Coverage of October 17, 2023 described the 'Hello Pepero World' pop-up at Lotte Premium Outlet Time Villas in Uiwang, Gyeonggi-do, with displays and products using official ambassador NewJeans and the Pepero Friends characters. [detail.en] The English Wikipedia videography lists the US commercial 'Say Hello with Pepero' (reported October 26, 2023), and the company also ran outdoor ads in Los Angeles and Ho Chi Minh City. [detail.en] The exact announcement date of the appointment could not be confirmed."
   },
   {
+    "id": "ad-2023-09-14-haerin-dior-rose-celeste-campaign",
+    "date": "2023-09-14",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ディオール ファインジュエリー キャンペーン第2章「ローズ セレスト」——ヘリン",
+      "en": "Dior Joaillerie campaign, chapter two (Rose Céleste) - Haerin"
+    },
+    "summary": {
+      "ja": "ディオール ファインジュエリーが、ヘリンとの「ローズ デ ヴァン」キャンペーン第2章を公開し、ローズ セレストの新作を披露した。",
+      "en": "Dior Joaillerie released the second chapter of its campaign with Haerin, featuring new Rose Céleste pieces."
+    },
+    "detail": {
+      "ja": "ディオールが、ジュエリーのグローバルアンバサダーのヘリンとのキャンペーンの第2章を公開した。登場したのは「ローズ セレスト」ラインの新作で、ムッシュ ディオールの占星術への情熱に着想を得て、太陽と月をリバーシブルのデザインで表現している。",
+      "en": "Dior released the second chapter of its campaign with Haerin, its global jewellery ambassador. It features new pieces from the Rose Céleste line, inspired by Monsieur Dior's passion for astrology, with reversible designs depicting the sun and the moon."
+    },
+    "source_url": "https://v.daum.net/v/20230914153903991",
+    "reference_urls": [
+      "https://v.daum.net/v/20230916161313307"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202309/14/startoday/20230914153906050mufc.jpg",
+      "source_url": "https://v.daum.net/v/20230914153903991"
+    },
+    "credits": {
+      "brand": "Dior Joaillerie"
+    },
+    "tags": [
+      "dior",
+      "jewelry",
+      "campaign"
+    ],
+    "verified": false,
+    "editor_note": "Star Today (2023-09-14) says Dior released it on the 14th; L'Officiel Korea (2023-09-16) details the Rose Céleste line. / Source is a press report (Daum News); not confirmed against an official page."
+  },
+  {
+    "id": "ad-2023-09-15-danielle-burberry-winter-2023-popup",
+    "date": "2023-09-15",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "ダニエル、バーバリー 2023 ウィンター・コレクション ポップアップのフォトコールに出席",
+      "en": "Danielle attends Burberry Winter 2023 pop-up photocall"
+    },
+    "summary": {
+      "ja": "新世界百貨店江南店で開かれたバーバリー2023ウィンターコレクションのポップアップストアのオープン記念フォトコールにダニエルが出席した。",
+      "en": "Danielle attended the opening photocall for Burberry's Winter 2023 collection pop-up at Shinsegae Department Store Gangnam."
+    },
+    "detail": {
+      "ja": "バーバリーのグローバルアンバサダーとして、ダニエルがソウル・瑞草区の新世界百貨店江南店で開かれた2023ウィンターコレクションのポップアップストアのオープン記念フォトコールに出席した。",
+      "en": "As a Burberry global ambassador, Danielle attended the opening photocall for the Winter 2023 collection pop-up store at Shinsegae Department Store Gangnam in Seocho-gu, Seoul."
+    },
+    "source_url": "https://v.daum.net/v/20230915100253371",
+    "media": {
+      "type": "none"
+    },
+    "credits": {
+      "brand": "Burberry",
+      "venue": "Shinsegae Department Store Gangnam, Seoul"
+    },
+    "tags": [
+      "burberry",
+      "fashion",
+      "event"
+    ],
+    "verified": false,
+    "editor_note": "News1 photo report (2023-09-15). / Source is a press report (Daum News); not confirmed against an official page."
+  },
+  {
     "id": "ad-2023-10-01-skt-iphone-15-pro-made-in-0",
     "date": "2023-10-01",
     "date_type": "release",
@@ -1401,6 +1829,46 @@
     }
   },
   {
+    "id": "ad-2023-11-01-haerin-dior-canton-road-hong-kong",
+    "date": "2023-11-01",
+    "date_type": "event",
+    "date_precision": "month",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ヘリン、香港のディオール カントン・ロード店イベントに出席",
+      "en": "Haerin attends Dior Canton Road store event in Hong Kong"
+    },
+    "summary": {
+      "ja": "ヘリンが香港で開かれたディオールのカントン・ロード店のイベントに、チャ・ウヌ、キム・ミンハと共に出席した。",
+      "en": "Haerin attended Dior's Canton Road store event in Hong Kong with Cha Eun-woo and Kim Min-ha."
+    },
+    "detail": {
+      "ja": "ヘリンが11月20日に香港へ出国し、ディオールのカントン・ロード店のイベントに出席した。ディオールのアンバサダーのチャ・ウヌ、俳優キム・ミンハも参加。ヘリンは出国時、ディオール2024クルーズコレクションのDストライプのマリニエールジャケットとレディ D-ジョイ バッグを合わせていた。",
+      "en": "Haerin left for Hong Kong on 20 November to attend Dior's Canton Road store event, alongside Dior ambassador Cha Eun-woo and actor Kim Min-ha. At departure she wore a D-Stripes marinière jacket from the Dior Cruise 2024 collection with a Lady D-Joy bag."
+    },
+    "source_url": "https://v.daum.net/v/20231128171122668",
+    "reference_urls": [
+      "https://v.daum.net/v/20231122031145137"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "credits": {
+      "brand": "Dior",
+      "venue": "Dior Canton Road, Hong Kong"
+    },
+    "tags": [
+      "dior",
+      "event"
+    ],
+    "verified": false,
+    "editor_note": "L'Officiel Korea (2023-11-28) reports the event; Wedding21 (2023-11-22) gives the 20 Nov departure. Exact event day not stated, so month precision. / Source is a press report (Daum News); not confirmed against an official page."
+  },
+  {
     "id": "ad-2023-12-01-shinhan-super-sol-cm",
     "date": "2023-12-01",
     "date_type": "release",
@@ -1437,6 +1905,48 @@
       "brand": "Shinhan Financial Group (Super SOL)",
       "director": "Lee Hyun-ji (이현지)"
     }
+  },
+  {
+    "id": "ad-2023-12-15-nike-air-max-90-lv8-campaign",
+    "date": "2023-12-15",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NIKE Air Max 90 LV8 キャンペーン",
+      "en": "Nike Air Max 90 LV8 campaign"
+    },
+    "summary": {
+      "ja": "Nike SeoulがNewJeansを起用したウィメンズ「Air Max 90 LV8」のキャンペーンビジュアルを公開した。",
+      "en": "Nike Seoul released campaign visuals of NewJeans for the women's Air Max 90 LV8."
+    },
+    "detail": {
+      "ja": "Nike SeoulはNewJeansをモデルに、ウィメンズ「Air Max 90 LV8」のキャンペーン画像と映像を公開した。紹介されたのは「Sail/Phantom/Light Ore Wood Brown」（FD4328-100）と「Light Iron Ore/Light Pumice/Smokey Mauve/Platinum Violet」（FD4328-001）の2色で、価格は各150ドル、発売は2024年1月11日予定とされた。NewJeansとの公式コラボモデルではなく、既存モデルのキャンペーンである。",
+      "en": "Nike Seoul released campaign images and video of NewJeans for the women's Air Max 90 LV8. The featured colourways were 'Sail/Phantom/Light Ore Wood Brown' (FD4328-100) and 'Light Iron Ore/Light Pumice/Smokey Mauve/Platinum Violet' (FD4328-001), at 150 US dollars each, with release listed for January 11, 2024. It was a campaign for an existing model, not an official NewJeans collaboration shoe."
+    },
+    "credits": {
+      "brand": "Nike (Nike Seoul)"
+    },
+    "source_url": "https://snkrdunk.com/en/magazine/2023/12/15/newjeans-nike-air-max-90-collab-hyein-haerin-minji-danielle-hanni",
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://snkrdunk.s3.ap-northeast-1.amazonaws.com/en/magazine/wp-content/uploads/2023/12/16113947/NewJeans-Nike-Air-Max-90-LV8.webp",
+      "source_url": "https://snkrdunk.com/en/magazine/2023/12/15/newjeans-nike-air-max-90-collab-hyein-haerin-minji-danielle-hanni"
+    },
+    "tags": [
+      "nike",
+      "air-max",
+      "fashion",
+      "campaign"
+    ],
+    "verified": false,
+    "editor_note": "SNKRDUNK (URL dated 2023-12-15; page later updated 2024-02-16 with further campaign images). Nike's own announcement not fetched. Later appearances (Singapore, Feb 2024) kept out of this record."
   },
   {
     "id": "ad-2024-01-01-nike-orchard-road-collab",
@@ -1590,6 +2100,45 @@
     "editor_note": "Details via YTN/Kyunghyang 2025-03-27 retrospectives; those later reports (non-renewal, banner removal) are omitted from reader text. / Exact appointment date not given in the coverage; English Wikipedia places it in March 2024. Details via YTN/Kyunghyang retrospectives of 2025-03-27; those later developments (non-renewal, banner removal) stay out of reader text."
   },
   {
+    "id": "ad-2024-03-11-minji-nec-election-campaign",
+    "date": "2024-03-11",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "中央選挙管理委員会 第22代国会議員選挙 広報映像——ミンジ",
+      "en": "National Election Commission campaign for the 22nd general election - Minji"
+    },
+    "summary": {
+      "ja": "ミンジが出演した中央選挙管理委員会の第22代国会議員選挙の広報映像「4月10日、ミンジが伝える私たちの話」がオンラインで公開された。",
+      "en": "The National Election Commission released its 22nd general election promotional video starring Minji online."
+    },
+    "detail": {
+      "ja": "中央選挙管理委員会の第22代国会議員選挙の広報広告にミンジが出演し、「4月10日、ミンジが伝える私たちの話」と題した映像がオンラインチャンネルで公開された。若い世代に投票参加を呼びかける内容。",
+      "en": "Minji appeared in the National Election Commission's advertising for the 22nd National Assembly election, and a video titled 'April 10, our story told by Minji' was posted on online channels. The campaign encouraged younger voters to take part in the election."
+    },
+    "source_url": "https://v.daum.net/v/20240410135830103",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Minji_(singer)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "credits": {
+      "client": "National Election Commission"
+    },
+    "tags": [
+      "public-campaign",
+      "election"
+    ],
+    "verified": false,
+    "editor_note": "Release date taken from TV Report (2024-04-10), which says the video went up on 11 March; NEC official upload not fetched. Do not mention her own vote (10 Apr) here."
+  },
+  {
     "id": "ad-2024-03-13-hanni-ugg-global-ambassador",
     "date": "2024-03-13",
     "date_type": "announce",
@@ -1627,6 +2176,49 @@
     "editor_note": "Campaign details from Nylon Singapore; press framing removed from reader text."
   },
   {
+    "id": "ad-2024-03-15-shinhan-sol-travel-check-card-cm",
+    "date": "2024-03-15",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "新韓銀行 SOLトラベル チェックカード CM",
+      "en": "Shinhan Bank SOL Travel check card commercial",
+      "original": "날마다 득(得)되는 트래블 카드"
+    },
+    "summary": {
+      "ja": "新韓銀行がNewJeans出演の「SOLトラベル チェックカード」の映像広告を公開した。",
+      "en": "Shinhan Bank released a commercial starring NewJeans for its SOL Travel check card."
+    },
+    "detail": {
+      "ja": "新韓銀行は3月15日、NewJeansが出演する「SOLトラベル チェックカード」の映像広告を公開し、テレビ、YouTubeショート、デジタル媒体、新聞、屋外広告で展開した。カードは旅行だけでなく日常でも使える「날마다 득(得)되는 트래블 카드」として打ち出され、30通貨の両替手数料100%優遇、海外決済・海外ATM引き出し手数料の免除、国内コンビニ5%割引などの特典を備えた。",
+      "en": "On March 15 Shinhan Bank released a video ad starring NewJeans for its SOL Travel check card, running on TV, YouTube Shorts, digital media, newspapers and outdoor ads. The card was pitched as 'a travel card that benefits you every day', with a 100% exchange-rate preference across 30 currencies, no fees on overseas payments or overseas ATM withdrawals, and 5% off at Korean convenience stores among its perks."
+    },
+    "credits": {
+      "advertiser": "Shinhan Bank",
+      "brand": "SOL Travel check card"
+    },
+    "source_url": "https://www.smarttoday.co.kr/ko-kr/articles/45627",
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://cdn.www.smarttoday.co.kr/w900/q75/article-images/202403/45627_38968_2743.jpg",
+      "source_url": "https://www.smarttoday.co.kr/ko-kr/articles/45627"
+    },
+    "tags": [
+      "shinhan",
+      "finance",
+      "cm"
+    ],
+    "verified": false,
+    "editor_note": "Smart Today (2024-03-14) reporting the ad release on March 15; Shinhan's own release not fetched. Earlier Shinhan records: ad-2022-10-11-shinhan-bank-new-sol-model, ad-2023-12-01-shinhan-super-sol-cm."
+  },
+  {
     "id": "ad-2024-03-22-danielle-celine-global-ambassador",
     "date": "2024-03-22",
     "date_type": "announce",
@@ -1662,6 +2254,51 @@
       "brand": "Celine"
     },
     "editor_note": "Statement text via Design Scene; L'Officiel Singapore covered the appointment the same day with imagery courtesy of Celine. Press framing removed."
+  },
+  {
+    "id": "ad-2024-03-25-danielle-ysl-loveshine-factory-paris",
+    "date": "2024-03-25",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "ダニエル、パリでのイヴ・サンローラン・ボーテ「ラブシャイン ファクトリー」に出席",
+      "en": "Danielle attends YSL Beauty 'Loveshine Factory' in Paris"
+    },
+    "summary": {
+      "ja": "イヴ・サンローラン・ボーテが新作リップ「ラブシャイン」の発売を記念してパリで開いたグローバルイベントに、ダニエルが出席した。",
+      "en": "Danielle attended YSL Beauty's global Loveshine Factory event in Paris, held to launch its new Loveshine lipstick."
+    },
+    "detail": {
+      "ja": "ダニエルが現地時間3月25日、パリで開かれたイヴ・サンローラン・ボーテのグローバルイベント「LOVESHINE FACTORY」に出席した。新しいシャインリップスティック「ラブシャイン」の発売を記念したイベントで、ダニエルはブランドのアンバサダーとして参加した。",
+      "en": "On 25 March local time, Danielle attended YSL Beauty's global event LOVESHINE FACTORY in Paris, held to mark the launch of its new shine lipstick Loveshine, as a brand ambassador."
+    },
+    "source_url": "https://v.daum.net/v/20240330043302754",
+    "reference_urls": [
+      "https://www.marieclairekorea.com/beauty/2024/04/yslbeauty-2/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202403/30/WEDDING21/20240330043304673hiub.jpg",
+      "source_url": "https://v.daum.net/v/20240330043302754"
+    },
+    "credits": {
+      "brand": "YSL Beauty",
+      "venue": "Paris"
+    },
+    "tags": [
+      "ysl-beauty",
+      "beauty",
+      "event"
+    ],
+    "verified": false,
+    "editor_note": "Wedding21 News (2024-03-30) from brand release. A Seoul edition of the pop-up she visited in April is mentioned by Marie Claire Korea (2024-04-25) but not added. / Source is a press report (Daum News); not confirmed against an official page."
   },
   {
     "id": "ad-2024-03-28-hanni-gucci-beauty-ambassador",
@@ -1780,6 +2417,50 @@
     }
   },
   {
+    "id": "ad-2024-04-12-haerin-dior-rose-des-vents-campaign",
+    "date": "2024-04-12",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ディオール「ローズ デ ヴァン」新キャンペーン（エトワール デ ヴァン）——ヘリン",
+      "en": "Dior Rose des Vents campaign (Étoile des Vents) - Haerin"
+    },
+    "summary": {
+      "ja": "ディオールが、ヘリンを起用したローズ デ ヴァン コレクションの新キャンペーンを公開し、新作エトワール デ ヴァンを紹介した。",
+      "en": "Dior released a new Rose des Vents campaign with Haerin, introducing the new Étoile des Vents pieces."
+    },
+    "detail": {
+      "ja": "ディオールが、ジュエリーのグローバルアンバサダーのヘリンとの新しいキャンペーン写真を公開した。ヘリンはローズ デ ヴァン コレクションの新作「エトワール デ ヴァン」のネックレスを着用。ヴィクトワール・ドゥ・カステラーヌが手がけ、ダイヤモンドをあしらったローズゴールドのネックレス2種が登場した。",
+      "en": "Dior released new campaign images with its global jewellery ambassador Haerin. She wears the new Étoile des Vents from the Rose des Vents collection, created by Victoire de Castellane, including two rose-gold necklaces set with diamonds."
+    },
+    "source_url": "https://v.daum.net/v/20240412155042524",
+    "reference_urls": [
+      "https://v.daum.net/v/20240413232428040"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202404/12/NEWS1/20240412155043983ydtt.jpg",
+      "source_url": "https://v.daum.net/v/20240412155042524"
+    },
+    "credits": {
+      "brand": "Dior Joaillerie"
+    },
+    "tags": [
+      "dior",
+      "jewelry",
+      "campaign"
+    ],
+    "verified": false,
+    "editor_note": "News1 (2024-04-12) reports Dior released the images on the 12th; L'Officiel Korea (2024-04-13) gives product names. / Source is a press report (Daum News); not confirmed against an official page."
+  },
+  {
     "id": "ad-2024-05-01-lotte-wellfood-zero-cm-right-now",
     "date": "2024-05-01",
     "date_type": "release",
@@ -1815,6 +2496,51 @@
     "credits": {
       "brand": "Lotte Wellfood (ZERO)"
     }
+  },
+  {
+    "id": "ad-2024-05-03-danielle-celine-summer-24-campaign",
+    "date": "2024-05-03",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "セリーヌ「サマー24」キャンペーン——ダニエル（エディ・スリマン撮影）",
+      "en": "Celine Summer 24 campaign - Danielle (shot by Hedi Slimane)"
+    },
+    "summary": {
+      "ja": "セリーヌがグローバルアンバサダーのダニエルを起用した初のキャンペーンを公開した。撮影とスタイリングはエディ・スリマン。",
+      "en": "Celine released its first campaign with global ambassador Danielle, styled and photographed by Hedi Slimane."
+    },
+    "detail": {
+      "ja": "セリーヌが、グローバルアンバサダーのダニエルとの新キャンペーンを公開した。4月にパリで撮影され、アーティスティック・ディレクターのエディ・スリマンが人選からスタイリング、撮影までを手がけた。ダニエルはウィメンズ サマー24「ラ コレクシオン ドゥ ラ ビブリオテーク ナショナル」のレザーのシャスール ジャケットやトリオンフ レザージャケット、セリーヌ ヴィクトワール バッグを着用した。",
+      "en": "Celine released a new campaign with its global ambassador Danielle. Shot in Paris in April, it was overseen end to end by artistic director Hedi Slimane, from casting to styling and photography. Danielle wears the leather Chasseur jacket and Triomphe leather jacket from the Women's Summer 24 collection 'La Collection de la Bibliothèque Nationale', along with the Celine Victoire bag."
+    },
+    "source_url": "https://www.marieclairekorea.com/fashion/2024/05/celine-danielle-3/",
+    "reference_urls": [
+      "https://v.daum.net/v/20240506103901403"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://img.marieclairekorea.com/2024/05/mck_663497205702e.jpg",
+      "source_url": "https://www.marieclairekorea.com/fashion/2024/05/celine-danielle-3/"
+    },
+    "credits": {
+      "brand": "Celine",
+      "photographer": "Hedi Slimane"
+    },
+    "tags": [
+      "celine",
+      "fashion",
+      "campaign"
+    ],
+    "verified": true,
+    "editor_note": "Marie Claire Korea (2024-05-03 17:23 KST) reports the campaign as released; Herald Economy (2024-05-06) adds shoot details from Celine."
   },
   {
     "id": "ad-2024-05-09-lotte-zero-japan-cm",
@@ -1853,6 +2579,44 @@
       "brand": "Lotte (Japan), ZERO"
     },
     "editor_note": "Member comments from ORICON NEWS; release stated as 'around 9 May' in the source, given as 9 May to match the record date. Press framing removed."
+  },
+  {
+    "id": "ad-2024-05-10-hanni-gucci-beauty-cosmopolitan-video",
+    "date": "2024-05-10",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "グッチ ビューティ×コスモポリタン ブランデッド映像——ハニ",
+      "en": "Gucci Beauty x Cosmopolitan Korea branded video - Hanni"
+    },
+    "summary": {
+      "ja": "グッチ ビューティのアンバサダー就任後初の活動として、ハニが出演するブランデッド映像がコスモポリタン コリアの公式SNSで公開された。",
+      "en": "As her first activity as Gucci Beauty ambassador, a branded video starring Hanni went up on Cosmopolitan Korea's official social media."
+    },
+    "detail": {
+      "ja": "グッチ ビューティの国内販売を担うLG生活健康によると、ハニとコスモポリタン コリアのコラボによるブランデッド映像が10日午後から公式SNSで公開された。「ハニの好きなものでいっぱいの時間」をテーマに、グッチ ビューティのベストセラーを使った5つのメイクアップを紹介する内容。7日にはデジタルカバーが先行公開されていた。",
+      "en": "According to LG H&H, which distributes Gucci Beauty in Korea, a branded video made by Hanni and Cosmopolitan Korea was posted on the magazine's official social media from the afternoon of the 10th. Themed 'time filled with the things Hanni likes', it shows five make-up looks using Gucci Beauty bestsellers. A digital cover had been released on the 7th."
+    },
+    "source_url": "https://v.daum.net/v/20240510141023260",
+    "media": {
+      "type": "none"
+    },
+    "credits": {
+      "brand": "Gucci Beauty",
+      "publisher": "Cosmopolitan Korea"
+    },
+    "tags": [
+      "gucci-beauty",
+      "beauty",
+      "video"
+    ],
+    "verified": false,
+    "editor_note": "Dailian (2024-05-10) citing LG H&H. Related digital cover exists as magazine-2024-05-07-cosmopolitan-korea-hanni-gucci-beauty. / Source is a press report (Daum News); not confirmed against an official page."
   },
   {
     "id": "ad-2024-05-14-murakami-powerpuff-right-now",
@@ -1929,6 +2693,51 @@
       "brand": "Gucci (Horsebit 1955)"
     },
     "editor_note": "Details from MARKETING-INTERACTIVE (2024-05-21); the photographer and further campaign details are not given in the report."
+  },
+  {
+    "id": "ad-2024-05-23-haerin-denim-dior-oblique-campaign",
+    "date": "2024-05-23",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ディオール「Denim Dior Oblique」キャンペーン——ヘリン",
+      "en": "Dior 'Denim Dior Oblique' campaign - Haerin"
+    },
+    "summary": {
+      "ja": "ディオールがヘリンを起用した「デニム ディオール オブリーク」キャンペーンを公開した。",
+      "en": "Dior released its Denim Dior Oblique campaign starring Haerin."
+    },
+    "detail": {
+      "ja": "ディオールが5月23日、ヘリンとの「デニム ディオール オブリーク」キャンペーンを公開した。マリア・グラツィア・キウリが新しいファブリックで再解釈した女性服のエッセンシャルアイテムを紹介するもので、ウォッシュド ヴィンテージ加工のジャカードデニムにモチーフをダークブルーからホワイトへのグラデーションで施した。ヘリンはニューヨークの街並みを背景に、新素材のディオール ブックトートなどを紹介した。",
+      "en": "Dior released its Denim Dior Oblique campaign with Haerin on 23 May. It presents women's essentials reinterpreted by Maria Grazia Chiuri in a new fabric, a jacquard denim with a washed vintage effect on which the motif shades from dark blue to white. Set against New York streets, the campaign shows pieces including the Dior Book Tote in the new signature material."
+    },
+    "source_url": "https://v.daum.net/v/20240523161650548",
+    "reference_urls": [
+      "https://v.daum.net/v/20240526141759526"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202405/26/lofficielhommes/20240526141800954lpah.jpg",
+      "source_url": "https://v.daum.net/v/20240526141759526"
+    },
+    "credits": {
+      "brand": "Dior",
+      "creative_director": "Maria Grazia Chiuri"
+    },
+    "tags": [
+      "dior",
+      "fashion",
+      "campaign"
+    ],
+    "verified": false,
+    "editor_note": "MoneyWeek (2024-05-23) gives the 23 May release; L'Officiel Korea (2024-05-26) repeats the brand release. / Source is a press report (Daum News); not confirmed against an official page."
   },
   {
     "id": "ad-2024-06-01-krafton-pubg-collab",
@@ -2045,6 +2854,90 @@
     "editor_note": "MCST page body is in an attachment (HWPX/PDF) not fetched; campaign markets unverified. / Campaign theme from Yonhap; CM appearance from English Wikipedia. The MCST press release body is an attachment (HWPX/PDF) not fetched; campaign markets unverified."
   },
   {
+    "id": "ad-2024-08-21-danielle-ysl-ink-vinyl-tint-campaign",
+    "date": "2024-08-21",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "イヴ・サンローラン・ボーテ「インク ビニール ティント」キャンペーン——ダニエル",
+      "en": "YSL Beauty Ink Vinyl Tint campaign - Danielle"
+    },
+    "summary": {
+      "ja": "イヴ・サンローラン・ボーテが新作「インク ビニール ティント」を発売し、ダニエルを起用したキャンペーンビジュアルを公開した。",
+      "en": "YSL Beauty launched its new Ink Vinyl Tint with campaign visuals featuring Danielle."
+    },
+    "detail": {
+      "ja": "イヴ・サンローラン・ボーテが新作リップ「インク ビニール ティント」の発売に合わせ、ダニエルとのキャンペーン写真を公開した。パリで撮影され、ダニエルはオールブラックのスタイリングでカリスマのある雰囲気を見せた。",
+      "en": "YSL Beauty released campaign images with Danielle to launch its new Ink Vinyl Tint lip product. Shot in Paris, the campaign shows her in all-black styling with a bold, charismatic look."
+    },
+    "source_url": "https://v.daum.net/v/20240822024940619",
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202408/22/WEDDING21/20240822024942602kxil.jpg",
+      "source_url": "https://v.daum.net/v/20240822024940619"
+    },
+    "credits": {
+      "brand": "YSL Beauty"
+    },
+    "tags": [
+      "ysl-beauty",
+      "beauty",
+      "campaign"
+    ],
+    "verified": false,
+    "editor_note": "Wedding21 News (2024-08-22) says YSL Beauty released the campaign on the 21st with the product launch. / Source is a press report (Daum News); not confirmed against an official page."
+  },
+  {
+    "id": "ad-2024-08-26-kao-essential-premium-sports-day-cm",
+    "date": "2024-08-26",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "花王 エッセンシャル プレミアム 新CM「体育祭」篇",
+      "en": "Kao Essential Premium commercial 'Sports Day'"
+    },
+    "summary": {
+      "ja": "花王エッセンシャルのNewJeans出演CM第2弾「体育祭」篇が全国で放送開始された。",
+      "en": "Kao Essential's second NewJeans commercial, 'Sports Day', began airing nationwide in Japan."
+    },
+    "detail": {
+      "ja": "花王「エッセンシャル プレミアム」のNewJeans出演CM第2弾「体育祭」篇が8月26日から全国で放送された。体育祭の朝の身支度から競技に奮闘するまでを描き、「Bubble Gum」に合わせて日本のCMで初めてダンスを披露した。同日から10月7日まで、エッセンシャル製品を2,000円以上購入すると抽選500名にA3ポスター6枚の「Essential with NewJeans ミニポスターセット」が当たる店頭キャンペーンVol.2も行われた。",
+      "en": "The second NewJeans commercial for Kao's Essential Premium, 'Sports Day', began airing nationwide on August 26. It follows the members from their morning routine on sports day to competing in events, and features their first dance in a Japanese commercial, set to 'Bubble Gum'. From the same day to October 7, the in-store 'Essential with NewJeans Present Campaign Vol. 2' offered 500 winners a mini poster set of six A3 posters for purchases of Essential products of 2,000 yen or more."
+    },
+    "credits": {
+      "advertiser": "Kao",
+      "brand": "Essential Premium"
+    },
+    "source_url": "https://realsound.jp/2024/08/post-1759153.html",
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://realsound.jp/wp-content/uploads/2024/08/20240825-newjeans-01.jpg",
+      "source_url": "https://realsound.jp/2024/08/post-1759153.html"
+    },
+    "tags": [
+      "kao",
+      "essential",
+      "japan",
+      "cm"
+    ],
+    "verified": false,
+    "editor_note": "Real Sound (2024-08-26); Kao release not fetched. First CM: ad-2024-04-01-kao-essential-cm-japan. Related content record: content-2024-10-17-light-jeans-essential-sports-day-campaign-behind."
+  },
+  {
     "id": "ad-2024-09-01-skt-iphone-16-pro-cm",
     "date": "2024-09-01",
     "date_type": "release",
@@ -2122,6 +3015,90 @@
     }
   },
   {
+    "id": "ad-2024-09-27-pepero-day-2024-show-your-love-campaign",
+    "date": "2024-09-27",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ペペロデー2024 グローバルキャンペーン「Show your love with Pepero」",
+      "en": "Pepero Day 2024 global campaign 'Show your love with Pepero'",
+      "original": "빼빼로로 사랑을 나누세요"
+    },
+    "summary": {
+      "ja": "ロッテウェルフードがNewJeansを再びペペロのグローバルアンバサダーに起用し、2024年の統合キャンペーンを始めた。",
+      "en": "Lotte Wellfood reappointed NewJeans as Pepero's global ambassadors for its 2024 Pepero Day campaign."
+    },
+    "detail": {
+      "ja": "ロッテウェルフードは前年に続きNewJeansをペペロデーの統合グローバルキャンペーンのアンバサダーに起用し、スローガンを「Show your love with Pepero（ペペロで愛を分かち合おう）」とした。キャンペーンは「分かち合い」というペペロの中核的価値と、11月11日がペペロデーであることを打ち出す内容だった。前年はニューヨークのタイムズスクエアとロサンゼルスのコリアタウンでNewJeansのデジタル屋外広告を展開していた。",
+      "en": "Lotte Wellfood again named NewJeans ambassadors for its integrated global Pepero Day campaign, under the slogan 'Show your love with Pepero'. The campaign emphasised sharing as Pepero's core brand value and November 11 as Pepero Day. The previous year it had run digital outdoor ads featuring NewJeans in New York's Times Square and Los Angeles' Koreatown."
+    },
+    "credits": {
+      "advertiser": "Lotte Wellfood",
+      "brand": "Pepero"
+    },
+    "source_url": "https://biz.newdaily.co.kr/site/data/html/2024/09/27/2024092700068.amp.html",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "pepero",
+      "lotte-wellfood",
+      "food",
+      "ambassador"
+    ],
+    "verified": false,
+    "editor_note": "NewDaily (2024-09-27); Lotte Wellfood press release not fetched. Related content record: content-2024-10-15-light-jeans-pepero-behind."
+  },
+  {
+    "id": "ad-2024-10-24-danielle-ysl-ink-blur-tint-campaign",
+    "date": "2024-10-24",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "イヴ・サンローラン・ボーテ「インク ブラー ティント」キャンペーン——ダニエル",
+      "en": "YSL Beauty Ink Blur Tint campaign - Danielle"
+    },
+    "summary": {
+      "ja": "イヴ・サンローラン・ボーテが新作「インク ブラー ティント」の発売を記念し、ダニエルとのキャンペーンビジュアルを公開した。",
+      "en": "YSL Beauty released campaign visuals with Danielle to mark the launch of its new Ink Blur Tint."
+    },
+    "detail": {
+      "ja": "イヴ・サンローラン・ボーテが、8月発売の「インク ビニール ティント」に続く秋冬向けの新作「インク ブラー ティント」のキャンペーンを公開した。ダニエルはオールブラックの衣装とポニーテールで、ローズピンクの216番「ピンク ドミネーション」、234番「ベリー サティスファクション」などを使ったメイクを見せた。",
+      "en": "YSL Beauty released the campaign for Ink Blur Tint, its autumn/winter follow-up to August's Ink Vinyl Tint. Danielle appears in all black with a ponytail, wearing shades including the rose-pink No. 216 'Pink Domination' and No. 234 'Berry Satisfaction'."
+    },
+    "source_url": "https://v.daum.net/v/20241024104950971",
+    "reference_urls": [
+      "https://v.daum.net/v/20241027224555053"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202410/27/WEDDING21/20241027224557402wlfy.jpg",
+      "source_url": "https://v.daum.net/v/20241027224555053"
+    },
+    "credits": {
+      "brand": "YSL Beauty"
+    },
+    "tags": [
+      "ysl-beauty",
+      "beauty",
+      "campaign"
+    ],
+    "verified": false,
+    "editor_note": "Sports Kyunghyang (2024-10-24) reports the release on the 24th. / Source is a press report (Daum News); not confirmed against an official page."
+  },
+  {
     "id": "ad-2024-10-31-indomie-global-ambassador",
     "date": "2024-10-31",
     "date_type": "announce",
@@ -2162,42 +3139,135 @@
     }
   },
   {
-    "id": "ad-2026-09-07-haerin-beauty-brand-photocall",
-    "date": "2026-09-07",
+    "id": "ad-2024-12-17-danielle-omega-ambassador",
+    "date": "2024-12-17",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "ダニエル、オメガのグローバルアンバサダーに",
+      "en": "Danielle named Omega global ambassador"
+    },
+    "summary": {
+      "ja": "ADORが、ダニエルがスイスの高級時計ブランド、オメガのグローバルアンバサダーに起用されたと発表した。",
+      "en": "ADOR announced that Danielle had been named a global ambassador for Swiss watchmaker Omega."
+    },
+    "detail": {
+      "ja": "ADORが、ダニエルがスイスの高級時計メーカー、オメガの「スターファミリー」に加わりグローバルアンバサダーになったと発表し、写真も公開した。ダニエルは「時計はさまざまな方法で自分のスタイルを表現できる。多くのインスピレーションを与えてくれる方々と共にブランドの一員になれて驚いている」とコメントした。",
+      "en": "ADOR announced that Danielle had joined Swiss luxury watchmaker Omega's 'star family' as a global ambassador, releasing photos alongside the news. Danielle said watches let her express her style in many ways and that she was amazed to join the brand alongside people who give her so much inspiration."
+    },
+    "source_url": "https://v.daum.net/v/20241217183008769",
+    "reference_urls": [
+      "https://v.daum.net/v/20241218160731597",
+      "https://en.wikipedia.org/wiki/Danielle_(singer)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202412/17/starnews/20241217183010133brnc.jpg",
+      "source_url": "https://v.daum.net/v/20241217183008769"
+    },
+    "credits": {
+      "brand": "Omega",
+      "announced_by": "ADOR"
+    },
+    "tags": [
+      "omega",
+      "watch",
+      "ambassador"
+    ],
+    "verified": false,
+    "editor_note": "Star News (2024-12-17) citing ADOR. Existing magazine-2024-12-09-vogue-korea-danielle-omega-pictorial predates the formal appointment. / Source is a press report (Daum News); not confirmed against an official page."
+  },
+  {
+    "id": "ad-2025-03-14-hanni-ugg-golden-rise-sandal-campaign",
+    "date": "2025-03-14",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "UGG 2025年春夏サンダルコレクション——ハニ",
+      "en": "UGG spring/summer 2025 sandal collection - Hanni"
+    },
+    "summary": {
+      "ja": "新世界インターナショナルが、UGGの春夏サンダルコレクションをグローバルアンバサダーのハニと共に展開すると発表した。",
+      "en": "Shinsegae International launched UGG's spring/summer sandal collection, promoted with global ambassador Hanni."
+    },
+    "detail": {
+      "ja": "新世界インターナショナルが、UGGの春夏シーズンのサンダルコレクションを発売し、グローバルアンバサダーのハニと共にマーケティングを展開すると発表した。新作「ゴールデンライズ」は約11cmの厚底で、ストラップの着脱により3通りに履ける。",
+      "en": "Shinsegae International released UGG's spring/summer sandal collection and said it would promote it with global ambassador Hanni. The new Golden Rise sandal has a platform of about 11 cm and a detachable strap that allows three ways to wear it."
+    },
+    "source_url": "https://v.daum.net/v/20250314104501235",
+    "reference_urls": [
+      "https://v.daum.net/v/20250314155658214"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202503/14/mk/20250314104504277xbag.jpg",
+      "source_url": "https://v.daum.net/v/20250314104501235"
+    },
+    "credits": {
+      "brand": "UGG",
+      "distributor": "Shinsegae International"
+    },
+    "tags": [
+      "ugg",
+      "fashion",
+      "campaign"
+    ],
+    "verified": false,
+    "editor_note": "Maeil Business (2025-03-14). During the NJZ period, but the brand promoted her as 'Hanni' (UGG global ambassador under the pre-existing contract), not under the NJZ name, so entity newjeans. / Source is a press report (Daum News); not confirmed against an official page."
+  },
+  {
+    "id": "ad-2025-06-18-danielle-omega-aqua-terra-kyoto",
+    "date": "2025-06-18",
     "date_type": "event",
     "date_precision": "day",
     "category": "ad",
     "entity": "newjeans",
     "members": [
-      "haerin"
+      "danielle"
     ],
     "title": {
-      "ja": "ヘリン、ラグジュアリービューティブランドのフォトコールに登場",
-      "en": "Haerin appears at luxury beauty brand photocall"
+      "ja": "ダニエル、京都でのオメガ「アクアテラ 30mm」発表イベントに出席",
+      "en": "Danielle attends Omega Aqua Terra 30mm launch in Kyoto"
     },
     "summary": {
-      "ja": "ヘリンがロッテ百貨店蚕室店でのラグジュアリービューティブランドのフォトコールに登場、約18か月ぶりの公式の場。",
-      "en": "Haerin's first official appearance in about 18 months, at a luxury beauty brand photocall at Lotte Department Store Jamsil."
+      "ja": "京都で開かれたオメガの新作時計「アクアテラ 30mm」の発表イベントに、グローバルアンバサダーのダニエルが出席した。",
+      "en": "Danielle attended Omega's launch event for the new Aqua Terra 30mm watch in Kyoto as a global ambassador."
     },
-    "source_url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260908/long-time-no-see-haerin-newjeans-star-makes-1st-official-appearance-in-18-months",
+    "detail": {
+      "ja": "ダニエルが6月18日、京都で開かれたオメガの新作「アクアテラ 30mm」の発表イベントにグローバルアンバサダーとして出席した。金髪のボブに黒のオフショルダードレスで登場し、ADORのスタッフが同行したと報じられた。",
+      "en": "On 18 June, Danielle attended Omega's launch event for the new Aqua Terra 30mm in Kyoto as a global ambassador, appearing with a blonde bob in a black off-the-shoulder dress; ADOR staff reportedly accompanied her."
+    },
+    "source_url": "https://v.daum.net/v/20250619134559814",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/NewJeans"
+      "https://v.daum.net/v/20250619123830888"
     ],
     "media": {
       "type": "none"
     },
+    "credits": {
+      "brand": "Omega",
+      "venue": "Kyoto"
+    },
     "tags": [
-      "beauty",
+      "omega",
+      "watch",
       "event"
     ],
     "verified": false,
-    "editor_note": "Korea Times (Sep 8, 2026) does not name the brand; en.wikipedia notes her Aug 2026 Marie Claire Korea feature was for Dior Beauty. Event date inferred as Monday Sep 7, 2026. | Brand still unnamed in the Korea Times/Xportsnews report. / From The Korea Times (2026-09-08 15:44, based on Xportsnews), which does not name the brand and quotes no remarks from Haerin; English Wikipedia notes her August 2026 Marie Claire Korea feature was for Dior Beauty. Event date inferred as Monday 7 September 2026. Press framing removed.",
-    "detail": {
-      "ja": "ヘリンがソウル・松坡区のロッテ百貨店蚕室店で午後に開かれたラグジュアリービューティブランドのフォトコールに登場した。公式の場への登場は約18か月ぶりで、黒いドレスに白いカーディガンを合わせた装いでフォトウォールに立ち、ファンは「会いたかった」と声援を送った。ヘリンは8月に、ディオール ビューティとの『マリ・クレール コリア』9月号表紙で復帰後初の個人活動を行っていた。",
-      "en": "Haerin appeared at a luxury beauty brand's afternoon photocall at Lotte Department Store's Jamsil branch in Songpa District, Seoul. It was her first official public appearance in about 18 months; she wore a black dress with a white cardigan, posed at the photo wall and was greeted by fans calling out that they had missed her. Her first solo project after returning, the Marie Claire Korea September cover with Dior Beauty, had been revealed in August."
-    },
-    "credits": {
-      "venue": "Lotte Department Store Jamsil, Seoul"
-    }
+    "editor_note": "Segye Ilbo (2025-06-19). Appeared as Omega ambassador with ADOR, not under the NJZ name, so entity newjeans. Court ruling context omitted from reader text. / Source is a press report (Daum News); not confirmed against an official page."
   }
 ]

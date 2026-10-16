@@ -202,6 +202,54 @@
     "editor_note": "NME公式記事(2023-01-27)に基づく。 / Cut for length: shoot credits (photography Siyoung Song, hair Giihee Naree, makeup Eunseo Lee, styling Yumi Choi; retained in credits) and the EN mention of Oohyo, Cho Hyu-il of The Black Skirts and Ylva Dimberg among the 'Ditto' credits."
   },
   {
+    "id": "web-2023-05-12-danielle-ariel-korean-dub-announced",
+    "date": "2023-05-12",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "ダニエル、実写『リトル・マーメイド』韓国語吹替版のアリエル役に",
+      "en": "Danielle announced as Ariel in the Korean dub of The Little Mermaid"
+    },
+    "summary": {
+      "ja": "ディズニー・コリアが、実写映画『リトル・マーメイド』韓国語吹替版のアリエル役をダニエルが務めると公式発表した。",
+      "en": "Disney Korea officially announced that Danielle voices Ariel in the Korean dub of the live-action The Little Mermaid."
+    },
+    "detail": {
+      "ja": "ウォルト・ディズニー・カンパニー・コリアが公式SNSで「韓国のアリエルはNewJeansのダニエル」と発表し、劇中歌「Part of Your World」（저곳으로）を歌う場面の一部を公開した。ディズニー本社で行われた公式オーディションを経て起用されたと説明した。5月2日にはウルスラ役のチョン・ヨンジュ、セバスチャン役のチョン・サンフンの参加とともに、アリエル役をシルエットだけで公開する「GUESS WHO?」イベントが行われていた。映画は同月に韓国で公開予定。",
+      "en": "The Walt Disney Company Korea announced on its official social media that 'Korea's Ariel is NewJeans' Danielle', releasing part of a scene in which she sings 'Part of Your World'. It said she was chosen through an official audition held at Disney headquarters. On 2 May Disney had named musical actors Jung Young-ju and Jung Sang-hoon to the Korean dub cast and shown Ariel's voice only as a silhouette in a 'GUESS WHO?' event. The film was due in Korean cinemas later that month."
+    },
+    "source_url": "https://v.daum.net/v/20230512163411060",
+    "reference_urls": [
+      "https://v.daum.net/v/20230502113801299",
+      "https://v.daum.net/v/20230517151604015",
+      "https://en.wikipedia.org/wiki/Danielle_(singer)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202305/17/koreaherald/20230517151605811vpoi.jpg",
+      "source_url": "https://v.daum.net/v/20230517151604015"
+    },
+    "credits": {
+      "film": "The Little Mermaid (2023)",
+      "distributor": "The Walt Disney Company Korea",
+      "role": "Ariel (Korean dub)"
+    },
+    "tags": [
+      "disney",
+      "voice-acting",
+      "film"
+    ],
+    "verified": false,
+    "editor_note": "Casting announcement 12 May 2023 per YTN (Daum 20230512163411060); silhouette teaser 2 May per Hankyung (Daum 20230502113801299). Disney Korea SNS post itself not fetched. / Source is a press report (Daum News); not confirmed against an official page."
+  },
+  {
     "id": "web-2023-05-17-w-magazine-meet-newjeans",
     "date": "2023-05-17",
     "date_type": "publish",
@@ -280,6 +328,49 @@
     "credits": {
       "outlet": "TIME"
     }
+  },
+  {
+    "id": "web-2023-05-24-the-little-mermaid-korean-dub-release",
+    "date": "2023-05-24",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "『リトル・マーメイド』韓国公開——ダニエルがアリエルの声を担当",
+      "en": "The Little Mermaid opens in Korea with Danielle voicing Ariel"
+    },
+    "summary": {
+      "ja": "ダニエルがアリエル役の声を担当した実写映画『リトル・マーメイド』韓国語吹替版が韓国の劇場で公開された。",
+      "en": "Disney's live-action The Little Mermaid opened in Korean cinemas, with Danielle voicing Ariel in the Korean dub."
+    },
+    "detail": {
+      "ja": "ディズニーの実写ミュージカル映画『リトル・マーメイド』が韓国で公開され、韓国語吹替版ではダニエルが主人公アリエルの声を担当した。ダニエルにとって初めての声優・演技の仕事で、劇中歌の韓国語版「저곳으로（Part of Your World）」も歌っている。英語版でアリエルを演じたのはハリー・ベイリー。",
+      "en": "Disney's live-action musical The Little Mermaid opened in South Korea, with Danielle voicing the lead role of Ariel in the Korean-dubbed version. It was her first voice-acting role, and she also sings the Korean version of 'Part of Your World' in the film. Halle Bailey plays Ariel in the English version."
+    },
+    "source_url": "https://v.daum.net/v/20230517151604015",
+    "reference_urls": [
+      "https://v.daum.net/v/20230530170211287",
+      "https://v.daum.net/v/20230512163411060"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "credits": {
+      "film": "The Little Mermaid (2023)",
+      "distributor": "The Walt Disney Company Korea",
+      "role": "Ariel (Korean dub)"
+    },
+    "tags": [
+      "disney",
+      "voice-acting",
+      "film"
+    ],
+    "verified": false,
+    "editor_note": "Korean release date 24 May 2023 stated in Korea Herald (2023-05-17) and Disney Korea casting coverage; dubbed-version reception covered by Sports Seoul 2023-05-30 (not used in reader text). / Source is a press report (Daum News); not confirmed against an official page."
   },
   {
     "id": "web-2023-06-26-rolling-stone-future-25",
@@ -659,6 +750,43 @@
       "editor": "Park Han-bit-nu-ri (박한빛누리)"
     },
     "editor_note": "marie claire Korea公式記事(2024-07-25)に基づく。 / Cut for length: handled by freelance contributing editor Park Han-bit-nu-ri (박한빛누리; retained in credits)."
+  },
+  {
+    "id": "web-2024-12-06-halmyungsoo-hyein",
+    "date": "2024-12-06",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "パク・ミョンス「ハルミョンス」——ヘインと延禧洞散歩",
+      "en": "Park Myung-soo's 'Halmyungsoo': a walk around Yeonhui-dong with Hyein",
+      "original": "할명수"
+    },
+    "summary": {
+      "ja": "パク・ミョンスのYouTubeチャンネル「ハルミョンス」第212回に、ヘインが一人で出演し延禧洞を一緒に歩いた。",
+      "en": "Hyein appeared on her own in episode 212 of Park Myung-soo's YouTube show Halmyungsoo, walking around Yeonhui-dong."
+    },
+    "detail": {
+      "ja": "パク・ミョンスのYouTubeチャンネル「ハルミョンス」で「NewJeansヘインが好きな街を紹介します」と題した第212回が公開された。「延禧洞半周」をテーマに、ヘインが散歩の相棒として出演した。パク・ミョンスは足の甲のけがの具合を気遣い、ヘインは「不思議な感じ」と笑った。",
+      "en": "Park Myung-soo's YouTube channel Halmyungsoo posted episode 212, titled 'Introducing the neighbourhood NewJeans' Hyein likes'. Themed as half a lap of Yeonhui-dong, it featured Hyein as his walking companion. Park asked after the foot injury she had been recovering from, and Hyein laughed that the pairing felt surreal."
+    },
+    "source_url": "https://v.daum.net/v/20241206194306130",
+    "reference_urls": [
+      "https://v.daum.net/v/20241207050002044"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "web-variety",
+      "youtube"
+    ],
+    "verified": false,
+    "editor_note": "Secondary only (Xportsnews 2024-12-06); YouTube video ID not retrieved. Category web used for a third-party YouTube show."
   },
   {
     "id": "web-2025-02-07-cnn-njz-interview",

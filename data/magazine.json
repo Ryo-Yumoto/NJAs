@@ -416,6 +416,47 @@
     }
   },
   {
+    "id": "magazine-2023-05-23-w-korea-seoul-jazz-festival-2023-minji",
+    "date": "2023-05-23",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "W Korea 第15回ソウルジャズフェスティバル2023特別版 表紙——ミンジ（シャネル）",
+      "en": "W Korea 15th Seoul Jazz Festival 2023 special edition cover - Minji x Chanel"
+    },
+    "summary": {
+      "ja": "ミンジがシャネルと共にW Koreaの「第15回ソウルジャズフェスティバル2023」特別版の表紙を飾った。3種類のカバーで公開。",
+      "en": "Minji covered W Korea's special edition for the 15th Seoul Jazz Festival 2023 with Chanel, in three cover versions."
+    },
+    "detail": {
+      "ja": "ADORが、ミンジとシャネルによるW Korea「第15回ソウルジャズフェスティバル2023」特別版のグラビアを公開した。3種類のカバーで、音楽を楽しむサマーガールの姿を表現した。ミンジはシャネルのビューティ、ファッション、ウォッチ＆ジュエリー部門のアンバサダーとして活動している。",
+      "en": "ADOR released Minji's pictorial with Chanel for W Korea's special edition marking the 15th Seoul Jazz Festival 2023. Across three covers she portrays a summer girl who loves music. Minji is Chanel's ambassador for beauty, fashion, and watches and jewellery."
+    },
+    "source_url": "https://v.daum.net/v/20230523093300145",
+    "reference_urls": [
+      "https://v.daum.net/v/20230523093002994",
+      "https://en.wikipedia.org/wiki/Minji_(singer)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "credits": {
+      "publisher": "W Korea",
+      "brand": "Chanel"
+    },
+    "tags": [
+      "chanel",
+      "seoul-jazz-festival"
+    ],
+    "verified": false,
+    "editor_note": "Star Today (2023-05-23) citing ADOR. Companion 2024 edition exists as magazine-2024-05-31-w-korea-seoul-jazz-festival-2024-minji. / Source is a press report (Daum News); not confirmed against an official page."
+  },
+  {
     "id": "magazine-2023-06-01-dazed-korea-2023-06-danielle",
     "date": "2023-06-01",
     "date_type": "publish",
@@ -580,6 +621,51 @@
       "makeup": "Oh Gil-ju (오길주)",
       "location": "Gyeongbokgung Palace, Seoul"
     }
+  },
+  {
+    "id": "magazine-2023-06-22-w-korea-2023-07-danielle-omega",
+    "date": "2023-06-22",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "W Korea 2023年7月号——ダニエル×オメガ",
+      "en": "W Korea July 2023 - Danielle x Omega"
+    },
+    "summary": {
+      "ja": "ダニエルがスイスの時計メーカー、オメガのアクアテラ シェードコレクションを着けたW Korea 7月号のグラビアが公開された。",
+      "en": "Danielle's W Korea July issue pictorial wearing Omega's Aqua Terra Shades collection was released."
+    },
+    "detail": {
+      "ja": "ダニエルがオメガのタイムピースを使った、幻想的でシックなムードのグラビアを公開した。時計はすべてアクアテラ シェード コレクションで、ダニエルは各時計の色に合わせたスタイリングを披露した。W Korea 7月号とウェブサイト、公式Instagramで公開された。",
+      "en": "Danielle released a dreamy, chic pictorial built around Omega timepieces, all from the Aqua Terra Shades collection, with styling matched to each watch's colour. It appeared in W Korea's July issue and on its website and official Instagram."
+    },
+    "source_url": "https://v.daum.net/v/20230622102327163",
+    "reference_urls": [
+      "https://v.daum.net/v/20230622093837347",
+      "https://v.daum.net/v/20230622101026689"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202306/22/newsis/20230622102327187urdp.jpg",
+      "source_url": "https://v.daum.net/v/20230622102327163"
+    },
+    "credits": {
+      "publisher": "W Korea",
+      "brand": "Omega"
+    },
+    "tags": [
+      "omega",
+      "watch"
+    ],
+    "verified": false,
+    "editor_note": "Newsis/Kyunghyang/News1 (2023-06-22), images credited to W Korea and Omega. / Source is a press report (Daum News); not confirmed against an official page."
   },
   {
     "id": "magazine-2023-06-30-v-magazine-v143-cover",
@@ -828,6 +914,49 @@
     "editor_note": "Photographer/stylist not shown on the visible part of the page (login wall). / 公式ページの可視部分（ログイン壁）に撮影者・スタイリストの記載なし。 / Cut for length: editor Hwang In-ae (retained in credits)."
   },
   {
+    "id": "magazine-2023-09-27-vogue-korea-hanni-gucci-rosso-ancora",
+    "date": "2023-09-27",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "Vogue Korea——ハニ×グッチ「ロッソ アンコーラ」（The Shape of Love）",
+      "en": "Vogue Korea - Hanni x Gucci 'Rosso Ancora' pictorial ('The Shape of Love')"
+    },
+    "summary": {
+      "ja": "グッチの新しい赤「ロッソ アンコーラ」を再解釈するプロジェクトで、ハニがVogue Koreaと組んだグラビアが公開された。",
+      "en": "Hanni teamed with Vogue Korea on a pictorial reinterpreting Gucci's new red, Rosso Ancora."
+    },
+    "detail": {
+      "ja": "グッチがミラノのアンコーラ・ショーを記念した「レッド テイクオーバー」プロジェクトで、ハニとVogue Korea、Stray Kidsのリノと W Korea、俳優パク・ギュヨンとDazed Koreaがそれぞれ組み、新色ロッソ アンコーラを再解釈するグラビアを制作した。ハニのVogue Koreaのグラビアのテーマは「愛のかたち（The Shape of Love）」。ロッソ アンコーラは創業者グッチオ・グッチがロンドンのサヴォイホテルで働いていた頃に着想を得た色とされる。",
+      "en": "For Gucci's Red Takeover project marking the Ancora show in Milan, Hanni and Vogue Korea, Stray Kids' Lee Know and W Korea, and actor Park Gyu-young and Dazed Korea each produced pictorials reinterpreting the new colour Rosso Ancora. Hanni's Vogue Korea shoot was themed 'The Shape of Love'. Rosso Ancora is said to have been inspired by founder Guccio Gucci's time working at the Savoy Hotel in London."
+    },
+    "source_url": "https://v.daum.net/v/20230927180847948",
+    "reference_urls": [
+      "https://v.daum.net/v/20231001234341267"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202310/01/WEDDING21/20231001234343718stuz.jpg",
+      "source_url": "https://v.daum.net/v/20231001234341267"
+    },
+    "credits": {
+      "publisher": "Vogue Korea",
+      "brand": "Gucci"
+    },
+    "tags": [
+      "gucci"
+    ],
+    "verified": false,
+    "editor_note": "Segye Ilbo (2023-09-27) and Wedding21 (2023-10-01). Print issue month not stated. / Source is a press report (Daum News); not confirmed against an official page."
+  },
+  {
     "id": "magazine-2023-11-01-marie-claire-korea-2023-11-danielle",
     "date": "2023-11-01",
     "date_type": "publish",
@@ -867,6 +996,182 @@
       "brand": "Burberry"
     },
     "editor_note": "公式ページには画像3点のみ。カバーの種類数、撮影者などのクレジットは記載なし。"
+  },
+  {
+    "id": "magazine-2023-11-08-esquire-korea-minji-moncler",
+    "date": "2023-11-08",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "Esquire Korea デジタルカバー「E イシュー」——ミンジ×モンクレール",
+      "en": "Esquire Korea digital cover 'E Issue' - Minji x Moncler"
+    },
+    "summary": {
+      "ja": "ミンジがEsquire Koreaのデジタルカバーを飾り、モンクレールのアウターを着たグラビアが公開された。",
+      "en": "Minji fronted an Esquire Korea digital cover, wearing Moncler outerwear."
+    },
+    "detail": {
+      "ja": "Esquire Koreaが、ミンジのデジタルコンテンツパッケージ「エスクァイア E イシュー」を公開した。ミンジはイタリアのブランド、モンクレールのさまざまなアウターやアクセサリーを着用した。",
+      "en": "Esquire Korea released 'Esquire E Issue', a digital content package featuring Minji, who wears a range of outerwear and accessories from the Italian brand Moncler."
+    },
+    "source_url": "https://v.daum.net/v/20231108183250899",
+    "reference_urls": [
+      "https://v.daum.net/v/20231108102755036"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202311/08/spotvnews/20231108183251588gajr.jpg",
+      "source_url": "https://v.daum.net/v/20231108183250899"
+    },
+    "credits": {
+      "publisher": "Esquire Korea",
+      "brand": "Moncler"
+    },
+    "tags": [
+      "moncler",
+      "digital-cover"
+    ],
+    "verified": false,
+    "editor_note": "SPOTV News and Newsis (2023-11-08). / Source is a press report (Daum News); not confirmed against an official page."
+  },
+  {
+    "id": "magazine-2023-11-16-allure-korea-2023-12-danielle",
+    "date": "2023-11-16",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "Allure Korea 2023年12月号 表紙——ダニエル",
+      "en": "Allure Korea December 2023 cover - Danielle"
+    },
+    "summary": {
+      "ja": "ダニエルがイタリアのラグジュアリーブランドのジュエリーを着け、Allure Korea 12月号の表紙を飾った。",
+      "en": "Danielle covered Allure Korea's December issue, wearing jewellery from an Italian luxury brand."
+    },
+    "detail": {
+      "ja": "Allure Koreaが、ダニエルの12月号表紙を公開した。イタリアのラグジュアリーブランドのジュエリーを着けたナチュラルかつシックな姿。インタビューでは「NewJeansとして世界中で歌い踊り、多くの人と音楽を分かち合いたい。いつか自分で作詞・作曲した曲も聴かせたい」と語った。",
+      "en": "Allure Korea revealed Danielle's December cover, moving between natural and chic looks in jewellery from an Italian luxury brand. In the interview she said she wanted to sing and dance around the world as part of NewJeans and share their music with many people, and one day to play songs she has written and composed herself."
+    },
+    "source_url": "https://v.daum.net/v/20231116144323810",
+    "reference_urls": [
+      "https://v.daum.net/v/20231116135833604"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202311/16/iMBC/20231116144325094gdot.jpg",
+      "source_url": "https://v.daum.net/v/20231116144323810"
+    },
+    "credits": {
+      "publisher": "Allure Korea"
+    },
+    "tags": [
+      "jewelry"
+    ],
+    "verified": false,
+    "editor_note": "iMBC and Ilgan Sports (2023-11-16). Jewellery brand not named in sources. / Source is a press report (Daum News); not confirmed against an official page."
+  },
+  {
+    "id": "magazine-2023-11-30-vogue-hong-kong-2023-12-haerin",
+    "date": "2023-11-30",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "Vogue Hong Kong 2023年12月号 表紙——ヘリン×ディオール",
+      "en": "Vogue Hong Kong December 2023 cover - Haerin x Dior"
+    },
+    "summary": {
+      "ja": "Vogue Hong Kongが、ヘリンとディオールによる12月号の表紙を公開した。",
+      "en": "Vogue Hong Kong revealed its December cover featuring Haerin with Dior."
+    },
+    "detail": {
+      "ja": "Vogue Hong Kongが、ヘリンとディオールが組んだ12月号の表紙とグラビアを公開した。ディオールのアンバサダーとして活動するヘリンは、ロマンティックなスタイルで登場した。",
+      "en": "Vogue Hong Kong revealed its December issue cover and pictorial featuring Haerin with Dior, for which she is an ambassador, in romantic styling."
+    },
+    "source_url": "https://v.daum.net/v/20231130125807234",
+    "reference_urls": [
+      "https://v.daum.net/v/20231130213901911",
+      "https://en.wikipedia.org/wiki/Haerin"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202311/30/ilgansports/20231130125809820ftzv.jpg",
+      "source_url": "https://v.daum.net/v/20231130125807234"
+    },
+    "credits": {
+      "publisher": "Vogue Hong Kong",
+      "brand": "Dior"
+    },
+    "tags": [
+      "dior"
+    ],
+    "verified": false,
+    "editor_note": "Ilgan Sports and Star Today (2023-11-30). Related behind-the-scenes content exists (content-2024-03-11-light-jeans-haerin-vogue-hong-kong-photoshoot-behind). / Source is a press report (Daum News); not confirmed against an official page."
+  },
+  {
+    "id": "magazine-2023-12-01-marie-claire-korea-2023-12-minji-chanel-beauty",
+    "date": "2023-12-01",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "Marie Claire Korea 2023年12月号 デジタルカバー——ミンジ×シャネル ビューティ",
+      "en": "Marie Claire Korea December 2023 digital cover - Minji x Chanel Beauty"
+    },
+    "summary": {
+      "ja": "Marie Claire Koreaが、シャネル ビューティとミンジによる12月号デジタルカバーのティザーを公開した。",
+      "en": "Marie Claire Korea unveiled teasers for its December digital cover with Minji and Chanel Beauty."
+    },
+    "detail": {
+      "ja": "Marie Claire Koreaがシャネル ビューティとミンジによる12月号デジタルカバーのティザー映像とティザーカバーを公開し、続いてビューティグラビアを掲載した。冬の童話のような雪景色の中で、ミンジはシャネルのルージュ ココ フラッシュ90「ジュール」やレ ベージュ ジェル タッチ ファンデーションを使ったメイクを披露した。",
+      "en": "Marie Claire Korea released a teaser film and teaser cover for its December digital cover with Minji and Chanel Beauty, followed by the beauty pictorial. Set in a snowy winter-fairytale landscape, it features make-up including Chanel Rouge Coco Flash 90 'Jour' and Les Beiges gel touch foundation."
+    },
+    "source_url": "https://www.marieclairekorea.com/beauty/2023/12/marie-claire-digital-edition1-newjeans-minji/",
+    "reference_urls": [
+      "https://www.marieclairekorea.com/beauty/2023/12/chanel-beauty-newjeans-minji/",
+      "https://v.daum.net/v/20231204102103991"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://img.marieclairekorea.com/2023/11/mck_65686c55d2bab.jpg",
+      "source_url": "https://www.marieclairekorea.com/beauty/2023/12/marie-claire-digital-edition1-newjeans-minji/"
+    },
+    "credits": {
+      "publisher": "Marie Claire Korea",
+      "brand": "Chanel Beauty"
+    },
+    "tags": [
+      "chanel",
+      "beauty",
+      "digital-cover"
+    ],
+    "verified": true,
+    "editor_note": "Fetched publisher pages (2023-12-01 teaser, 2023-12-04 pictorial #1)."
   },
   {
     "id": "magazine-2023-12-07-elle-korea-d-edition-haerin-dior",
@@ -1113,6 +1418,50 @@
     }
   },
   {
+    "id": "magazine-2024-02-29-w-korea-2024-03-minji-chanel",
+    "date": "2024-02-29",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "W Korea 2024年3月号——ミンジ×シャネル（パリ）",
+      "en": "W Korea March 2024 - Minji x Chanel (Paris)"
+    },
+    "summary": {
+      "ja": "ミンジがパリを背景に、シャネルの2024春夏プレタポルテを着たW Korea 3月号のグラビアが公開された。",
+      "en": "Minji's W Korea March pictorial, shot in Paris in Chanel's Spring/Summer 2024 ready-to-wear, was released."
+    },
+    "detail": {
+      "ja": "シャネルのアンバサダーのミンジが、パリを背景にW Korea 3月号のグラビアに登場した。ヴィラ・ノアイユの芸術精神に着想を得たシャネル2024春夏プレタポルテコレクションを着用し、キッチュな小物を使った少女らしい雰囲気から洗練されたイメージまでを見せた。",
+      "en": "Chanel ambassador Minji appeared in a W Korea March pictorial shot in Paris, wearing Chanel's Spring/Summer 2024 ready-to-wear collection inspired by the artistic spirit of the Villa Noailles. She moves from a girlish look with kitsch props to more polished styling."
+    },
+    "source_url": "https://v.daum.net/v/20240229111305294",
+    "reference_urls": [
+      "https://v.daum.net/v/20240301131843764",
+      "https://v.daum.net/v/20240304004844255"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202403/01/sportskhan/20240301131844289abhm.jpg",
+      "source_url": "https://v.daum.net/v/20240301131843764"
+    },
+    "credits": {
+      "publisher": "W Korea",
+      "brand": "Chanel"
+    },
+    "tags": [
+      "chanel"
+    ],
+    "verified": false,
+    "editor_note": "MHN Sports (2024-02-29) first report; Sports Kyunghyang (2024-03-01) quotes W Korea releasing on the 1st. Not to be confused with magazine-2024-03-01-w-korea-2024-03-haerin (Haerin cover of same issue month). / Source is a press report (Daum News); not confirmed against an official page."
+  },
+  {
     "id": "magazine-2024-03-01-vogue-korea-2024-03-hyein",
     "date": "2024-03-01",
     "date_type": "publish",
@@ -1245,6 +1594,52 @@
       "brand": "Chaumet"
     },
     "editor_note": "公式記事の掲載時刻は2024-03-04 14:01。具体的なジュエリーの品名は記載なし。 / Cut for length: photography Kim Sin-ae, hair Lee Hye-jin, makeup Lee Sol, styling Choi Yu-mi, nails Heo Jin-hee, set Choi Seo-yun (retained in credits)."
+  },
+  {
+    "id": "magazine-2024-04-16-marie-claire-korea-2024-05-danielle-celine",
+    "date": "2024-04-16",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "Marie Claire Korea 2024年5月号 表紙——ダニエル×セリーヌ",
+      "en": "Marie Claire Korea May 2024 cover - Danielle x Celine"
+    },
+    "summary": {
+      "ja": "ダニエルがセリーヌの2024サマーコレクションを着て、Marie Claire Korea 5月号の表紙を飾った。",
+      "en": "Danielle covered Marie Claire Korea's May issue in Celine's Summer 2024 collection."
+    },
+    "detail": {
+      "ja": "Marie Claire Koreaが、セリーヌのグローバルアンバサダーのダニエルとの5月号表紙を公開した。クロシェのミニドレスやバンダナ、デニムのルックなどでセリーヌ by エディ・スリマンを着こなした。インタビューでは「自分の声で誰かの心を癒やしたい。そんな音楽家になれるよういつも祈っている」と語った。",
+      "en": "Marie Claire Korea revealed its May cover with Celine global ambassador Danielle, wearing Celine by Hedi Slimane in looks including a crochet mini dress, a bandana and denim. In the interview she said she wanted to comfort people's hearts with her voice and always prays to become that kind of musician."
+    },
+    "source_url": "https://v.daum.net/v/20240416200608236",
+    "reference_urls": [
+      "https://www.marieclairekorea.com/fashion/2024/04/celine-19/",
+      "https://v.daum.net/v/20240425020007207"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://img.marieclairekorea.com/2024/04/mck_662b45e6905a0.jpg",
+      "source_url": "https://www.marieclairekorea.com/fashion/2024/04/celine-19/"
+    },
+    "credits": {
+      "publisher": "Marie Claire Korea",
+      "brand": "Celine",
+      "photographer": "Park Jong-ha",
+      "stylist": "Choi Yu-mi"
+    },
+    "tags": [
+      "celine"
+    ],
+    "verified": false,
+    "editor_note": "Sports Donga (2024-04-16) cover reveal; Marie Claire Korea pictorial #1 (2024-04-26, reference 2024年5月号) fetched. / Source is a press report (Daum News); not confirmed against an official page."
   },
   {
     "id": "magazine-2024-05-01-elle-japon-2024-05-hyein",
@@ -1557,6 +1952,50 @@
     }
   },
   {
+    "id": "magazine-2024-09-11-dazed-korea-music-issue-2024-hanni-gucci",
+    "date": "2024-09-11",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "Dazed Korea 2024年ミュージック＆ミュージシャン号——ハニ×グッチ",
+      "en": "Dazed Korea 2024 Music & Musician issue - Hanni x Gucci"
+    },
+    "summary": {
+      "ja": "Dazed Koreaが、ハニとグッチによるグラビアとインタビューを公開した。2024年ミュージック＆ミュージシャン号に掲載。",
+      "en": "Dazed Korea released a pictorial and interview with Hanni and Gucci for its 2024 Music & Musician issue."
+    },
+    "detail": {
+      "ja": "Dazed Koreaが、グッチのグローバルブランドアンバサダーのハニとのグラビアを公開した。ハニはグッチ2024秋冬コレクションを着用。インタビューでは、デビュー2周年とグッチと歩んだ約2年を振り返り「グッチは私がほぼ初めて一緒に仕事をしたブランド」と語った。",
+      "en": "Dazed Korea released a pictorial with Hanni, a Gucci global brand ambassador, wearing Gucci's Fall/Winter 2024 collection. In the interview she looked back on her second debut anniversary and nearly two years with Gucci, calling it almost the first brand she had worked with."
+    },
+    "source_url": "https://dazedkorea.com/2024/09/13/%ed%9b%84-%ed%92%8d%ec%84%a0%ec%9d%84-%eb%b6%88%ec%9e%90-%eb%91%90%eb%91%a5%ec%8b%a4-%eb%b6%80%ed%92%80%ec%96%b4-%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%97%b4%ea%b8%b0%ea%b5%ac-%eb%96%a0%ec%98%a4%eb%a5%b4/",
+    "reference_urls": [
+      "https://v.daum.net/v/20240911162602289",
+      "https://v.daum.net/v/20240911134459537"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://dazedkorea.com/wp-content/uploads/2026/03/1579746-scaled.jpg",
+      "source_url": "https://dazedkorea.com/2024/09/13/%ed%9b%84-%ed%92%8d%ec%84%a0%ec%9d%84-%eb%b6%88%ec%9e%90-%eb%91%90%eb%91%a5%ec%8b%a4-%eb%b6%80%ed%92%80%ec%96%b4-%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%97%b4%ea%b8%b0%ea%b5%ac-%eb%96%a0%ec%98%a4%eb%a5%b4/"
+    },
+    "credits": {
+      "publisher": "Dazed Korea",
+      "brand": "Gucci"
+    },
+    "tags": [
+      "gucci"
+    ],
+    "verified": true,
+    "editor_note": "Newsis (2024-09-11) reveal; full pictorial posted on dazedkorea.com 2024-09-13 (fetched via WP API)."
+  },
+  {
     "id": "magazine-2024-09-13-harpers-bazaar-korea-2024-09-minji",
     "date": "2024-09-13",
     "date_type": "publish",
@@ -1686,6 +2125,93 @@
       "brand": "Chanel Beauty"
     },
     "editor_note": "公式記事のキーワード欄にルージュ アリュール ヴェルヴェットが挙げられている。公開日の詳細は未確認（月精度）。 / Cut for length: photography Ahn Ju-young, makeup Lee Na-gyeom, hair Lee Hye-jin, styling Choi Yu-mi, nails Kim Su-ji (retained in credits), prop styling Lee Ye-seul."
+  },
+  {
+    "id": "magazine-2024-10-15-dazed-korea-2024-11-minji-chanel",
+    "date": "2024-10-15",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "Dazed Korea 2024年11月号 表紙——ミンジ×シャネル",
+      "en": "Dazed Korea November 2024 cover - Minji x Chanel"
+    },
+    "summary": {
+      "ja": "Dazed Koreaが11月号の表紙ラインナップを公開し、ミンジがシャネル2024/25クルーズコレクションで表紙を飾った。",
+      "en": "Dazed Korea revealed its November covers, including Minji in Chanel's 2024/25 Cruise collection."
+    },
+    "detail": {
+      "ja": "Dazed Koreaが11月号のカバーラインナップを公開し、ミンジが表紙の一人に名を連ねた。グラビアでは、シャネルのアンバサダーとして2024/25クルーズコレクションを着用した。インタビューでは「どこに出しても恥ずかしくない存在になりたい」とファンへの思いを語った。",
+      "en": "Dazed Korea revealed its November cover lineup, with Minji among the cover stars. In the pictorial she wears Chanel's 2024/25 Cruise collection as a brand ambassador, and in the interview she said that seeing her fans made her want to become someone they could be proud of anywhere."
+    },
+    "source_url": "https://dazedkorea.com/2024/10/15/11%ec%9b%94%ed%98%b8-%ec%bb%a4%eb%b2%84/",
+    "reference_urls": [
+      "https://dazedkorea.com/2024/10/18/%ec%83%a4%eb%84%ac-2024-25-%ed%81%ac%eb%a3%a8%ec%a6%88-%ec%bb%ac%eb%a0%89%ec%85%98%ec%9d%84-%ec%9e%85%ec%9d%80-%ec%95%b0%eb%b0%b0%ec%84%9c%eb%8d%94-%eb%af%bc%ec%a7%80%ea%b0%80-%eb%aa%a8%eb%93%a0/",
+      "https://v.daum.net/v/20241018192344809"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://dazedkorea.com/wp-content/uploads/2026/03/6349363-scaled.jpg",
+      "source_url": "https://dazedkorea.com/2024/10/18/%ec%83%a4%eb%84%ac-2024-25-%ed%81%ac%eb%a3%a8%ec%a6%88-%ec%bb%ac%eb%a0%89%ec%85%98%ec%9d%84-%ec%9e%85%ec%9d%80-%ec%95%b0%eb%b0%b0%ec%84%9c%eb%8d%94-%eb%af%bc%ec%a7%80%ea%b0%80-%eb%aa%a8%eb%93%a0/"
+    },
+    "credits": {
+      "publisher": "Dazed Korea",
+      "brand": "Chanel"
+    },
+    "tags": [
+      "chanel"
+    ],
+    "verified": true,
+    "editor_note": "Publisher posts fetched via dazedkorea.com WP API (cover list 2024-10-15, pictorial 2024-10-18)."
+  },
+  {
+    "id": "magazine-2024-10-21-esquire-korea-danielle-celine",
+    "date": "2024-10-21",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "Esquire Korea 表紙——ダニエル×セリーヌ",
+      "en": "Esquire Korea cover - Danielle x Celine"
+    },
+    "summary": {
+      "ja": "セリーヌのグローバルアンバサダーのダニエルが、セリーヌと共にEsquire Koreaの表紙を飾った。",
+      "en": "Celine global ambassador Danielle covered Esquire Korea with Celine."
+    },
+    "detail": {
+      "ja": "ダニエルがセリーヌと共にEsquire Koreaの表紙を飾った。撮影はアートホールで行われ、舞台と客席を背景にセリーヌのルックを表現した。インタビューでは「Tシャツにオーバーオールで友達と映画を見に行くのが一番楽しい10代」としつつ、セリーヌを着ると映画の主人公になった気分になると語った。",
+      "en": "Danielle covered Esquire Korea with Celine in a shoot at an art hall, using the stage and seating as a backdrop. In the interview she described herself as a teenager who most enjoys going to the movies with friends in a T-shirt and overalls, but said wearing Celine makes her feel like the heroine of a film."
+    },
+    "source_url": "https://v.daum.net/v/20241021172110325",
+    "reference_urls": [
+      "https://v.daum.net/v/20241021170105374"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202410/21/10asia/20241021170106589rbzh.jpg",
+      "source_url": "https://v.daum.net/v/20241021170105374"
+    },
+    "credits": {
+      "publisher": "Esquire Korea",
+      "brand": "Celine"
+    },
+    "tags": [
+      "celine"
+    ],
+    "verified": false,
+    "editor_note": "Star Today and Tenasia (2024-10-21). Issue month not stated (likely November 2024). / Source is a press report (Daum News); not confirmed against an official page."
   },
   {
     "id": "magazine-2024-10-25-billboard-korea-billboard-artist-no1",
@@ -1857,6 +2383,46 @@
     }
   },
   {
+    "id": "magazine-2024-11-28-dazed-korea-haerin-dior-seongsu",
+    "date": "2024-11-28",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "Dazed Korea「HAERIN IN DIOR SEONGSU」——ヘリン×ディオール",
+      "en": "Dazed Korea 'Haerin in Dior Seongsu' - Haerin x Dior"
+    },
+    "summary": {
+      "ja": "ホリデーシーズン仕様のディオール聖水で、ヘリンがディオール2025クルーズコレクションを着たDazed Koreaのグラビアが公開された。",
+      "en": "Dazed Korea published a pictorial of Haerin in Dior's 2025 Cruise collection at Dior Seongsu, dressed for the holiday season."
+    },
+    "detail": {
+      "ja": "Dazed Koreaが、ホリデーシーズンに合わせて装いを変えたディオール聖水で撮影したヘリンのグラビアを公開した。ヘリンはスコットランドの文化と職人技を称えたマリア・グラツィア・キウリの2025クルーズコレクションのツイードのセットアップやレディ ディオール バッグなどを着用した。",
+      "en": "Dazed Korea published a pictorial of Haerin shot at Dior Seongsu, transformed for the holiday season. She wears pieces from Maria Grazia Chiuri's Cruise 2025 collection, a celebration of Scottish culture and craftsmanship, including tweed sets and Lady Dior bags."
+    },
+    "source_url": "https://dazedkorea.com/2024/11/28/%eb%94%94%ec%98%ac-%ec%84%b1%ec%88%98%ec%9d%98-%eb%b9%9b%eb%82%98%eb%8a%94-%ed%95%b4%ec%a0%80%ec%97%90%ec%84%9c-2025%eb%85%84-%eb%94%94%ec%98%ac-%ed%81%ac%eb%a3%a8%ec%a6%88-%ec%bb%ac%eb%a0%89%ec%85%98/",
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://dazedkorea.com/wp-content/uploads/2026/03/4275636-scaled.jpg",
+      "source_url": "https://dazedkorea.com/2024/11/28/%eb%94%94%ec%98%ac-%ec%84%b1%ec%88%98%ec%9d%98-%eb%b9%9b%eb%82%98%eb%8a%94-%ed%95%b4%ec%a0%80%ec%97%90%ec%84%9c-2025%eb%85%84-%eb%94%94%ec%98%ac-%ed%81%ac%eb%a3%a8%ec%a6%88-%ec%bb%ac%eb%a0%89%ec%85%98/"
+    },
+    "credits": {
+      "publisher": "Dazed Korea",
+      "brand": "Dior"
+    },
+    "tags": [
+      "dior"
+    ],
+    "verified": true,
+    "editor_note": "Publisher post fetched via dazedkorea.com WP API (2024-11-28). Print issue not stated."
+  },
+  {
     "id": "magazine-2024-12-09-vogue-korea-danielle-omega-pictorial",
     "date": "2024-12-09",
     "date_type": "publish",
@@ -1897,6 +2463,50 @@
       "set_design": "Kwon Do-hyung (권도형)",
       "brand": "Omega"
     }
+  },
+  {
+    "id": "magazine-2024-12-16-dazed-korea-2025-01-hyein-louis-vuitton",
+    "date": "2024-12-16",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "Dazed Korea 2025年1月号 別冊表紙——ヘイン×ルイ・ヴィトン（村上隆）",
+      "en": "Dazed Korea January 2025 supplement cover - Hyein x Louis Vuitton (Takashi Murakami)"
+    },
+    "summary": {
+      "ja": "Dazed Koreaの2025年1月号で、ヘインがルイ・ヴィトン×村上隆のリエディションを着て別冊の表紙を飾った。",
+      "en": "Hyein fronted the supplement cover of Dazed Korea's January 2025 issue in the Louis Vuitton x Takashi Murakami re-edition."
+    },
+    "detail": {
+      "ja": "Dazed Koreaが2025年1月号のカバーラインナップを公開し、別冊（SUPPLEMENT）の表紙をヘインが飾った。グラビアでは、2003年春夏に初登場したルイ・ヴィトンと村上隆のコラボのリエディションコレクションのバッグやウェアを着用した。インタビューでは村上隆とのコラボについて「不思議でありがたい」と語った。",
+      "en": "Dazed Korea revealed its January 2025 cover lineup, with Hyein on the supplement cover. In the pictorial she wears bags and clothing from the re-edition of Louis Vuitton's collaboration with Takashi Murakami, first launched in Spring/Summer 2003, and said in the interview that working with Murakami's designs felt surreal and she was grateful."
+    },
+    "source_url": "https://dazedkorea.com/2024/12/16/1%ec%9b%94%ed%98%b8-%ec%bb%a4%eb%b2%84/",
+    "reference_urls": [
+      "https://dazedkorea.com/2025/01/10/%eb%ac%b4%eb%9d%bc%ec%b9%b4%eb%af%b8%ec%9d%98-%ea%bd%83%eb%93%a4%ec%9d%84-%ea%b0%80%eb%a1%9c%ec%a7%80%eb%a5%b4%eb%a9%b0-%ec%95%84%ed%8a%b8-%ed%8c%a8%ec%85%98-%ec%9d%8c%ec%95%85%ec%9d%84-%eb%84%98/",
+      "https://v.daum.net/v/20241227094504132"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://dazedkorea.com/wp-content/uploads/2026/03/2923072-scaled.jpg",
+      "source_url": "https://dazedkorea.com/2025/01/10/%eb%ac%b4%eb%9d%bc%ec%b9%b4%eb%af%b8%ec%9d%98-%ea%bd%83%eb%93%a4%ec%9d%84-%ea%b0%80%eb%a1%9c%ec%a7%80%eb%a5%b4%eb%a9%b0-%ec%95%84%ed%8a%b8-%ed%8c%a8%ec%85%98-%ec%9d%8c%ec%95%85%ec%9d%84-%eb%84%98/"
+    },
+    "credits": {
+      "publisher": "Dazed Korea",
+      "brand": "Louis Vuitton"
+    },
+    "tags": [
+      "louis-vuitton"
+    ],
+    "verified": true,
+    "editor_note": "Publisher posts via dazedkorea.com WP API (cover list 2024-12-16; web pictorial 2025-01-10); quote reported 2024-12-27."
   },
   {
     "id": "magazine-2025-01-01-elle-korea-2025-01-minji",
@@ -2068,6 +2678,47 @@
       "executive_producer": "Navin Pillay",
       "location": "Seoul"
     }
+  },
+  {
+    "id": "magazine-2025-04-16-spur-2025-06-danielle-celine",
+    "date": "2025-04-16",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "SPUR 2025年6月号 表紙——ダニエル×セリーヌ",
+      "en": "SPUR June 2025 cover - Danielle x Celine"
+    },
+    "summary": {
+      "ja": "日本の雑誌『SPUR』が公式SNSで、ダニエルとセリーヌによる6月号の表紙を公開した。",
+      "en": "Japan's SPUR revealed its June cover of Danielle with Celine on its official social media."
+    },
+    "detail": {
+      "ja": "『SPUR』が公式SNSで、セリーヌのグローバルアンバサダーのダニエルによる6月号表紙を公開した。「夏の日差し」をテーマに、2025年サマーコレクションのクロシェのトップスやストライプのフレアパンツなどを着こなした。",
+      "en": "SPUR revealed on its official social media the June cover of Celine global ambassador Danielle. Themed around summer sunshine, the shoot shows her in Summer 2025 pieces including a crochet top and striped flared trousers."
+    },
+    "source_url": "https://v.daum.net/v/20250416132659825",
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202504/16/ilgansports/20250416132700703tada.jpg",
+      "source_url": "https://v.daum.net/v/20250416132659825"
+    },
+    "credits": {
+      "publisher": "SPUR (Shueisha)",
+      "brand": "Celine"
+    },
+    "tags": [
+      "celine",
+      "japan"
+    ],
+    "verified": false,
+    "editor_note": "Ilgan Sports (2025-04-16). Within the NJZ period, but SPUR/Celine presented her as Celine ambassador Danielle; the NJZ name is not confirmed in sources, so entity newjeans (cf. magazine-2025-03-01-elle-singapore-2025-03-danielle, which was under NJZ). / Source is a press report (Daum News); not confirmed against an official page."
   },
   {
     "id": "magazine-2026-09-01-harpers-bazaar-korea-2026-09-hyein",

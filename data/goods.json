@@ -620,6 +620,123 @@
     ]
   },
   {
+    "id": "goods-2023-02-01-lg-gram-style-newjeans-limited-edition",
+    "date": "2023-02-01",
+    "time": "20:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "LG gram Style NewJeans リミテッドエディション",
+      "en": "LG gram Style NewJeans Limited Edition",
+      "original": "LG 그램 Style 뉴진스 리미티드 에디션"
+    },
+    "summary": {
+      "ja": "LGエレクトロニクスが14型「LG gram Style」のNewJeans限定版200台をライブコマースで販売した。",
+      "en": "LG Electronics sold 200 units of a NewJeans limited edition of the 14-inch LG gram Style through a live-commerce broadcast."
+    },
+    "detail": {
+      "ja": "LGエレクトロニクスは2月1日20時、自社オンラインブランドショップのライブ放送「エラショー」で「LG gram Style NewJeans リミテッドエディション」を200台限定で販売した。本体、マウス、ポーチなどにNewJeansのうさぎのデザインを施し、「ビッグバニー」（14Z90RS-XA5NK）と「ミニバニー」（14Z90RS-XA5JK）の2タイプで展開した。LGの製品ページでは定価2,764,000ウォン、販売価格2,490,000ウォンと表示され、LGE.COMのみでの限定販売とされた。",
+      "en": "At 8 pm on February 1 LG Electronics sold the 'LG gram Style NewJeans Limited Edition', limited to 200 units, on 'Ella Show', the live broadcast of its online brand shop. The laptop, mouse and pouch carried NewJeans' rabbit design, in two types, 'Big Bunny' (14Z90RS-XA5NK) and 'Mini Bunny' (14Z90RS-XA5JK). LG's product pages list a price of 2,764,000 won with a selling price of 2,490,000 won, sold exclusively through LGE.COM."
+    },
+    "credits": {
+      "brand": "LG Electronics (LG gram Style)",
+      "sale_channel": "LGE.COM online brand shop (live broadcast 'Ella Show')"
+    },
+    "source_url": "https://www.lg.co.kr/media/release/25864",
+    "reference_urls": [
+      "https://www.lge.co.kr/notebook/14z90rs-xa5nk",
+      "https://www.lge.co.kr/notebook/14z90rs-xa5jk",
+      "https://biz.sbs.co.kr/amp/article/20000101557"
+    ],
+    "links": {
+      "official": "https://www.lge.co.kr/notebook/14z90rs-xa5nk",
+      "related": "https://www.lg.co.kr/media/release/25864"
+    },
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-02-01-lg-gram-style-newjeans-limited-edition/cover.jpg",
+      "source_url": "https://www.lge.co.kr/notebook/14z90rs-xa5nk"
+    },
+    "tags": [
+      "collab",
+      "lg",
+      "lg-gram",
+      "electronics",
+      "limited-edition"
+    ],
+    "verified": true,
+    "editor_note": "LG press release (lg.co.kr/media/release/25864, dated 2023-01-30) gives the 200-unit sale on 2023-02-01 20:00 via the OBS live show; model names, prices and 'LGE.COM only' from the LG product pages read 2026-10-16. Matching campaign record: ad-2023-02-02-lg-gram-style-collab. The 6-minute sell-out (SBS Biz) is left out of reader text as secondary. / Official LG product gallery images (Big Bunny 14Z90RS-XA5NK / Mini Bunny 14Z90RS-XA5JK).",
+    "local_assets": [
+      "goods/goods-2023-02-01-lg-gram-style-newjeans-limited-edition/01.jpg",
+      "goods/goods-2023-02-01-lg-gram-style-newjeans-limited-edition/02.jpg",
+      "goods/goods-2023-02-01-lg-gram-style-newjeans-limited-edition/03.jpg",
+      "goods/goods-2023-02-01-lg-gram-style-newjeans-limited-edition/04.jpg",
+      "goods/goods-2023-02-01-lg-gram-style-newjeans-limited-edition/05.jpg",
+      "goods/goods-2023-02-01-lg-gram-style-newjeans-limited-edition/06.jpg"
+    ],
+    "asset_titles": [
+      "LG gram Style NewJeans Limited Edition (Big Bunny) - lid",
+      "LG gram Style NewJeans Limited Edition (Big Bunny) - NewJeans wallpaper",
+      "LG gram Style NewJeans Limited Edition (Big Bunny) - box",
+      "LG gram Style NewJeans Limited Edition (Mini Bunny)",
+      "LG gram Style NewJeans Limited Edition (Mini Bunny) - lid",
+      "LG gram Style NewJeans Limited Edition (Mini Bunny) - rear view"
+    ]
+  },
+  {
+    "id": "goods-2023-03-09-mcdonalds-korea-newjeans-special-kit-app-event",
+    "date": "2023-03-09",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "マクドナルド韓国 NewJeansスペシャルキット（アプリ抽選）",
+      "en": "McDonald's Korea NewJeans Special Kit (app ladder game)",
+      "original": "뉴진스 스페셜 키트"
+    },
+    "summary": {
+      "ja": "マクドナルド韓国のアプリで、NewJeansのミニ等身大パネルなどが入った限定キットが当たるゲームが始まった。",
+      "en": "McDonald's Korea's app began a game offering a limited NewJeans Special Kit with a mini standee and more."
+    },
+    "detail": {
+      "ja": "マクドナルド韓国は、NewJeansをモデルにした新メニュー「マッククリスピー クリーミーオニオン」などの発売に合わせ、3月9日から公式アプリのあみだくじゲームで景品を提供した。限定数の「NewJeansスペシャルキット」はNewJeansのミニ等身大パネル、マクドナルド×NewJeansステッカー、1万ウォン分の金額券、フライドポテトのキーリングで構成され、ほかにバーガーやマックカフェの割引クーポンが当たった。ゲームは1日1回参加でき、29日まで実施された。",
+      "en": "Alongside new menu items fronted by NewJeans such as the McCrispy Creamy Onion, McDonald's Korea offered prizes through a ladder game in its official app from March 9. The limited 'NewJeans Special Kit' contained a NewJeans mini standee, McDonald's x NewJeans stickers, a 10,000-won McDonald's voucher and a French fries keyring, while other draws gave burger and McCafe discount coupons. The game could be played once a day and ran until the 29th."
+    },
+    "credits": {
+      "brand": "McDonald's Korea",
+      "sale_channel": "McDonald's app"
+    },
+    "source_url": "https://biz.newdaily.co.kr/site/data/html/2023/03/23/2023032300096.amp.html",
+    "reference_urls": [
+      "https://www.imaeil.com/page/view/2023031510144612643"
+    ],
+    "links": {
+      "related": "https://biz.newdaily.co.kr/site/data/html/2023/03/23/2023032300096.amp.html"
+    },
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "collab",
+      "mcdonalds",
+      "food",
+      "giveaway"
+    ],
+    "verified": false,
+    "editor_note": "Start date (March 9) from Maeil Shinmun (2023-03-15, '지난 9일부터'); kit contents and end date (29th) from NewDaily (2023-03-23). The kit was a prize, not sold. Matching campaign record: ad-2023-02-27-mcdonalds-korea-model (its detail already mentions the kit)."
+  },
+  {
     "id": "goods-2023-03-30-bunnies-global-official-fanclub-membership",
     "date": "2023-03-30",
     "date_type": "sale_start",
@@ -815,6 +932,68 @@
     ]
   },
   {
+    "id": "goods-2023-04-11-cokeplay-coca-cola-zero-newjeans-goods-event",
+    "date": "2023-04-11",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "コカ・コーラ ゼロ × NewJeans 限定グッズイベント（CokePLAY）",
+      "en": "Coca-Cola Zero x NewJeans limited goods event (CokePLAY)",
+      "original": "코카-콜라 제로 X 뉴진스 이벤트"
+    },
+    "summary": {
+      "ja": "韓国コカ・コーラの公式ストアCokePLAYで、ゼロの購入者にNewJeansフォトブックが当たる企画を実施した。",
+      "en": "Coca-Cola Korea's CokePLAY store ran a Coca-Cola Zero purchase event with a limited NewJeans photobook as a prize."
+    },
+    "detail": {
+      "ja": "CokePLAYで4月11日から30日まで「뉴진스의 맛있는 제로, 코카-콜라 제로!」イベントを実施し、コカ・コーラ ゼロ全品が対象となった。1箱以上の購入で限定版「コカ・コーラ フォトブック（with NewJeans）」（50名）、2箱以上でバング＆オルフセンのスピーカー コカ・コーラ エディション（1名）の抽選に自動応募され、当選発表は5月16日とされた。期間中はMV感想投稿で使えるクーポンも配布された。",
+      "en": "CokePLAY ran the event 'NewJeans' delicious Zero, Coca-Cola Zero!' from April 11 to 30, covering all Coca-Cola Zero products. Buying one box or more entered shoppers into a draw for the limited 'Coca-Cola Photobook (with NewJeans)' (50 winners), and two boxes or more for a Bang & Olufsen speaker Coca-Cola edition (one winner), with winners due to be announced on May 16. Coupons were also given for posting a review of the music video."
+    },
+    "credits": {
+      "brand": "Coca-Cola Korea",
+      "sale_channel": "CokePLAY"
+    },
+    "source_url": "https://cokeplay.cocacola.co.kr/event/list/view/b11b0062-e047-11ee-924e-0a6dd866741b?listType=endedEventList",
+    "reference_urls": [
+      "https://www.coca-cola.com/kr/ko/offerings/brand-story/coca-cola-zero-photobook"
+    ],
+    "links": {
+      "related": "https://cokeplay.cocacola.co.kr/event/list/view/b11b0062-e047-11ee-924e-0a6dd866741b?listType=endedEventList"
+    },
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-04-11-cokeplay-coca-cola-zero-newjeans-goods-event/cover.jpg",
+      "source_url": "https://cokeplay.cocacola.co.kr/event/list/view/b11b0062-e047-11ee-924e-0a6dd866741b?listType=endedEventList"
+    },
+    "tags": [
+      "collab",
+      "coca-cola",
+      "photobook",
+      "event"
+    ],
+    "verified": true,
+    "editor_note": "Period, prizes and winner date read from the official CokePLAY event page (ended-event archive) and its event image, 2026-10-16. The photobook was a prize, not sold separately. Matching campaign records: ad-2023-03-30-coca-cola-global-ambassador, ad-2023-04-03-coca-cola-zero-cm-zero. / Photobook photos from Coca-Cola Korea's brand-story page (2023-05-26).",
+    "local_assets": [
+      "goods/goods-2023-04-11-cokeplay-coca-cola-zero-newjeans-goods-event/01.jpg",
+      "goods/goods-2023-04-11-cokeplay-coca-cola-zero-newjeans-goods-event/02.jpg",
+      "goods/goods-2023-04-11-cokeplay-coca-cola-zero-newjeans-goods-event/03.jpg",
+      "goods/goods-2023-04-11-cokeplay-coca-cola-zero-newjeans-goods-event/04.jpg"
+    ],
+    "asset_titles": [
+      "Event panel: Coca-Cola Zero line-up, B&O speaker Coca-Cola edition, Coca-Cola photobook (with NewJeans)",
+      "Coca-Cola photobook (with NewJeans) - envelope and cover",
+      "Coca-Cola photobook (with NewJeans) - cover",
+      "Coca-Cola photobook (with NewJeans) - inside spread"
+    ]
+  },
+  {
     "id": "goods-2023-04-14-2023-seasons-greetings-re-release",
     "date": "2023-04-14",
     "date_type": "sale_start",
@@ -859,6 +1038,231 @@
     ],
     "asset_titles": [
       "NewJeans 2023 SEASON’S GREETINGS"
+    ]
+  },
+  {
+    "id": "goods-2023-04-18-coca-cola-zero-lemon-cokeplay-preorder",
+    "date": "2023-04-18",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "コカ・コーラ ゼロ レモン 先行予約（CokePLAY・NewJeans）",
+      "en": "Coca-Cola Zero Lemon pre-order with NewJeans (CokePLAY)",
+      "original": "CokePLAY 단독 코카-콜라 제로 레몬 사전구매"
+    },
+    "summary": {
+      "ja": "NewJeansをモデルにした新フレーバー「コカ・コーラ ゼロ レモン」の先行予約がCokePLAYで始まった。",
+      "en": "CokePLAY opened exclusive pre-orders for Coca-Cola Zero Lemon, a new flavour fronted by NewJeans."
+    },
+    "detail": {
+      "ja": "韓国コカ・コーラの公式ストアCokePLAYで、新フレーバー「コカ・コーラ ゼロ レモン」の単独先行予約を4月18日から27日まで受け付け、4月28日以降に順次発送するとした。キービジュアルにはゼロ レモンの缶を手にしたNewJeansが登場し、ページには「뉴진스의 맛있는 제로」のコピーとNewJeansからCokePLAY会員へのあいさつ動画が掲載された。購入者対象の抽選で、2箱以上はバング＆オルフセン Beosound A1 第2世代（1名）、1箱以上は限定版「コカ・コーラ フォトブック（with NewJeans）」（250名）とコントゥアーカップ（10名）が当たった。",
+      "en": "Coca-Cola Korea's CokePLAY store took exclusive pre-orders for the new flavour Coca-Cola Zero Lemon from April 18 to 27, with shipping in order from April 28. The key visual showed NewJeans holding Zero Lemon cans, and the page carried the line 'NewJeans' delicious Zero' and a greeting video from NewJeans to CokePLAY members. Buyers entered draws for a Bang & Olufsen Beosound A1 2nd Gen (one winner, two boxes or more), and, for one box or more, the limited 'Coca-Cola Photobook (with NewJeans)' (250 winners) and a contour cup (10 winners)."
+    },
+    "credits": {
+      "brand": "Coca-Cola Korea",
+      "sale_channel": "CokePLAY"
+    },
+    "source_url": "https://event.cokeplay.cocacola.co.kr/preorder/cocacolazerolemon.html",
+    "reference_urls": [
+      "https://www.insight.co.kr/news/436739"
+    ],
+    "links": {
+      "related": "https://cokeplay.cocacola.co.kr/event/list/view/b11b0062-e047-11ee-924e-0a6dd866741b?listType=endedEventList"
+    },
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-04-18-coca-cola-zero-lemon-cokeplay-preorder/cover.jpg",
+      "source_url": "https://event.cokeplay.cocacola.co.kr/preorder/cocacolazerolemon.html"
+    },
+    "tags": [
+      "collab",
+      "coca-cola",
+      "beverage",
+      "pre-order",
+      "photobook"
+    ],
+    "verified": true,
+    "editor_note": "Pre-order window (2023.04.18-04.27, shipping from 04.28) and prizes read from the official CokePLAY pre-order page images (kv.jpg, 02.jpg), 2026-10-16. Insight (2023-04-25) reports the general launch on May 1; not stated in reader text. Product is a Coca-Cola flavour with NewJeans as campaign models, not NewJeans-branded packaging.",
+    "local_assets": [
+      "goods/goods-2023-04-18-coca-cola-zero-lemon-cokeplay-preorder/01.jpg",
+      "goods/goods-2023-04-18-coca-cola-zero-lemon-cokeplay-preorder/02.jpg"
+    ],
+    "asset_titles": [
+      "Coca-Cola Zero Lemon 355 ml can",
+      "Pre-order prizes: B&O Beosound A1 2nd Gen / Coca-Cola photobook (with NewJeans) / contour cup"
+    ]
+  },
+  {
+    "id": "goods-2023-06-01-coca-cola-x-newjeans-special-package",
+    "date": "2023-06-01",
+    "date_type": "release",
+    "date_precision": "month",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "コカ・コーラ × NewJeans スペシャルパッケージ（Coke Studio）",
+      "en": "Coca-Cola x NewJeans Special Package (Coke Studio)",
+      "original": "코카콜라 X 뉴진스 스페셜 패키지"
+    },
+    "summary": {
+      "ja": "Coke StudioとNewJeansのロゴを組み合わせたコカ・コーラの限定缶・ボトルが韓国で発売された。",
+      "en": "Coca-Cola cans and bottles combining the Coke Studio and NewJeans logos went on sale in Korea."
+    },
+    "detail": {
+      "ja": "コカ・コーラは、Coke Studioのグローバルアンバサダーを務めるNewJeansとのスペシャルパッケージを発売した。Coke StudioとNewJeansのロゴを異なる書体で組み合わせたロゴプレイのデザインで、NewJeansロゴの色が異なる2種類を用意した。LG生活健康の子会社コカ・コーラ飲料を通じて、マート、コンビニ、オンラインで販売された。",
+      "en": "Coca-Cola released a special package with NewJeans, global ambassadors of its music platform Coke Studio. The logo-play design combined the Coke Studio and NewJeans logos in different typefaces, in two versions with differently coloured NewJeans logos. It was sold at supermarkets, convenience stores and online through Coca-Cola Beverage, a subsidiary of LG H&H."
+    },
+    "credits": {
+      "brand": "Coca-Cola (Coke Studio)",
+      "distributor": "Coca-Cola Beverage (LG H&H)"
+    },
+    "source_url": "https://www.madtimes.co.kr/news/articleView.html?idxno=17806",
+    "reference_urls": [
+      "https://cokeplay.cocacola.co.kr/event/list/view/b1382215-e047-11ee-924e-0a6dd866741b?listType=endedEventList"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-06-01-coca-cola-x-newjeans-special-package/cover.jpg",
+      "source_url": "https://www.madtimes.co.kr/news/articleView.html?idxno=17806"
+    },
+    "tags": [
+      "collab",
+      "coca-cola",
+      "coke-studio",
+      "packaging"
+    ],
+    "verified": false,
+    "editor_note": "Launch reported by MADTimes on 2023-06-05 ('출시한다'); exact shelf date not found, so month precision. Image is the press photo of the cans/bottles. / Second image is from the later CokePLAY 'NewJeans planning pack' page showing the same can design.",
+    "local_assets": [
+      "goods/goods-2023-06-01-coca-cola-x-newjeans-special-package/01.jpg",
+      "goods/goods-2023-06-01-coca-cola-x-newjeans-special-package/02.jpg"
+    ],
+    "asset_titles": [
+      "Coca-Cola x NewJeans Special Package (cans and bottles)",
+      "Coca-Cola x NewJeans special package can boxes (CokePLAY)"
+    ]
+  },
+  {
+    "id": "goods-2023-06-01-mcdonalds-korea-chicken-world-newjeans-packaging",
+    "date": "2023-06-01",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "マクドナルド韓国 NewJeansスペシャルパッケージ（Chicken World）",
+      "en": "McDonald's Korea NewJeans special packaging (Chicken World)",
+      "original": "맥도날드 X 뉴진스 스페셜 패키지"
+    },
+    "summary": {
+      "ja": "マクドナルド韓国でNewJeansのうさぎとMロゴをあしらった特別パッケージのチキンメニューが登場した。",
+      "en": "McDonald's Korea began serving chicken meals in special packaging featuring NewJeans' bunny and the M logo."
+    },
+    "detail": {
+      "ja": "マクドナルド韓国はアジア展開キャンペーン「Fly to the McDonald's Chicken World」の第1弾として6月1日から、NewJeansのうさぎとMロゴ、ドット絵のバーガーやポテトを配した特別パッケージでチキンメニューを提供した。一部店舗はメンバーの写真で内装や座席が飾られ、「Chicken Dance」チャレンジと毎週の抽選も行われた。予告ではフィリピン（6月13日）、タイ（6月28日）、インドネシア（7月12日）、ブルネイ（9月1日）、マレーシア（9月7日）、香港（10月24日）、台湾（10月25日）と続き、シンガポールとベトナムは「近日」とされた。",
+      "en": "As the first stop of its Asian campaign 'Fly to the McDonald's Chicken World', McDonald's Korea served chicken meals from June 1 in special packaging featuring NewJeans' bunny, the M logo and pixel-art burgers and fries. Selected stores were decorated with photos of the members on interiors and seats, alongside a 'Chicken Dance' challenge and weekly lucky draws. The teaser schedule listed the Philippines (June 13), Thailand (June 28), Indonesia (July 12), Brunei (September 1), Malaysia (September 7), Hong Kong (October 24) and Taiwan (October 25), with Singapore and Vietnam 'upcoming'."
+    },
+    "credits": {
+      "brand": "McDonald's Korea"
+    },
+    "source_url": "https://snkrdunk.com/en/magazine/2023/05/26/mcdonalds-and-newjeans-launches-fly-to-the-mcdonalds-chicken-world-campaign-in-asia",
+    "reference_urls": [
+      "https://bandwagon.asia/articles/newjeans-mcdonalds-chicken-world-coming-mcdo-philippines-singapore-indonesia-thailand-malaysia-vietnam-dates-meal-2023"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-06-01-mcdonalds-korea-chicken-world-newjeans-packaging/cover.jpg",
+      "source_url": "https://snkrdunk.com/en/magazine/2023/05/26/mcdonalds-and-newjeans-launches-fly-to-the-mcdonalds-chicken-world-campaign-in-asia"
+    },
+    "tags": [
+      "collab",
+      "mcdonalds",
+      "food",
+      "packaging"
+    ],
+    "verified": false,
+    "editor_note": "No McDonald's Korea primary page fetched; facts from SNKRDUNK (2023-05-26, updated 05-29) and Bandwagon. Some reports give June 2 for the Korean start; the schedule visual says 01 JUN. Matching campaign record: ad-2023-06-01-mcdonalds-newjeans-collab-launch. Market dates follow McDonald's 'Fly to the McDonald's Chicken World' schedule visual (reproduced by SNKRDUNK 2023-05-26). / Cover is the official market schedule visual.",
+    "local_assets": [
+      "goods/goods-2023-06-01-mcdonalds-korea-chicken-world-newjeans-packaging/01.jpg",
+      "goods/goods-2023-06-01-mcdonalds-korea-chicken-world-newjeans-packaging/02.jpg",
+      "goods/goods-2023-06-01-mcdonalds-korea-chicken-world-newjeans-packaging/03.jpg",
+      "goods/goods-2023-06-01-mcdonalds-korea-chicken-world-newjeans-packaging/04.jpg"
+    ],
+    "asset_titles": [
+      "McDonald's x NewJeans packaging (bags, cup, nugget box)",
+      "McDonald's x NewJeans paper bag",
+      "NewJeans bunny pixel art on packaging",
+      "Campaign visual 'Are you ready?'"
+    ]
+  },
+  {
+    "id": "goods-2023-06-13-mcdonalds-philippines-newjeans-packaging",
+    "date": "2023-06-13",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "マクドナルド フィリピン NewJeans限定パッケージ",
+      "en": "McDonald's Philippines NewJeans limited packaging"
+    },
+    "summary": {
+      "ja": "マクドナルドのNewJeansコラボがフィリピンに上陸し、限定パッケージのチキンメニューが販売された。",
+      "en": "The McDonald's x NewJeans collaboration reached the Philippines with chicken meals in limited NewJeans packaging."
+    },
+    "detail": {
+      "ja": "「McDonald's Chicken World」キャンペーンの2か国目として、6月13日からフィリピンのマクドナルドで展開された。6ピースのチキンマックナゲットとマックチキンがそれぞれ99ペソで提供され、NewJeansのロゴとカラーをあしらった限定パッケージが用いられた。",
+      "en": "The Philippines became the second stop of the 'McDonald's Chicken World' campaign from June 13. Six-piece Chicken McNuggets and the McChicken were offered at 99 pesos each, served in limited-edition packaging with NewJeans' logos and colours."
+    },
+    "credits": {
+      "brand": "McDonald's Philippines"
+    },
+    "source_url": "https://tribune.net.ph/2023/06/14/phl-welcomes-mcdonalds-chicken-world-with-newjeans",
+    "reference_urls": [
+      "https://www.dzrh.com.ph/post/newjeans-x-mcdonalds-to-arrive-in-the-ph-on-june-13",
+      "https://snkrdunk.com/en/magazine/2023/05/26/mcdonalds-and-newjeans-launches-fly-to-the-mcdonalds-chicken-world-campaign-in-asia"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-06-13-mcdonalds-philippines-newjeans-packaging/cover.jpg",
+      "source_url": "https://www.dzrh.com.ph/post/newjeans-x-mcdonalds-to-arrive-in-the-ph-on-june-13"
+    },
+    "tags": [
+      "collab",
+      "mcdonalds",
+      "food",
+      "packaging",
+      "philippines"
+    ],
+    "verified": false,
+    "editor_note": "Secondary sources only (Daily Tribune 2023-06-15, DZRH 2023-06-04); McDonald's Philippines primary post not fetched. Matching campaign record: ad-2023-06-01-mcdonalds-newjeans-collab-launch. Market dates follow McDonald's 'Fly to the McDonald's Chicken World' schedule visual (reproduced by SNKRDUNK 2023-05-26). / No Philippines-specific product photo found; item shows the campaign-wide packaging design.",
+    "local_assets": [
+      "goods/goods-2023-06-13-mcdonalds-philippines-newjeans-packaging/01.jpg"
+    ],
+    "asset_titles": [
+      "McDonald's x NewJeans packaging (campaign-wide design)"
     ]
   },
   {
@@ -1095,6 +1499,109 @@
     ]
   },
   {
+    "id": "goods-2023-06-28-mcdonalds-thailand-newjeans-sets",
+    "date": "2023-06-28",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "マクドナルド タイ NewJeansコラボセット",
+      "en": "McDonald's Thailand NewJeans collaboration sets"
+    },
+    "summary": {
+      "ja": "タイのマクドナルドでNewJeansのバケツと紙袋が付く3種のコラボセットが発売された。",
+      "en": "McDonald's Thailand launched three collaboration sets served in NewJeans buckets and paper bags."
+    },
+    "detail": {
+      "ja": "「McDonald's Chicken World」キャンペーンのタイ展開として、フライドチキン、ソフトドリンク、ポテト、チキンナゲットを組み合わせた3種のセットを199、299、399バーツで販売した。注文品はNewJeansデザインのバケツと紙袋で提供され、限定のコレクティブルやフォトカードは付かなかった。コラボメニューは8月31日までの販売とされた。",
+      "en": "For the Thai leg of the 'McDonald's Chicken World' campaign, three sets combining fried chicken, soft drinks, fries and chicken nuggets were sold at 199, 299 and 399 baht. Orders came in NewJeans-designed buckets and paper bags, without exclusive collectibles or photocards. The collaboration menu was to be sold until August 31."
+    },
+    "credits": {
+      "brand": "McDonald's Thailand"
+    },
+    "source_url": "https://thebeat.asia/bangkok/delish/happenings/get-hyped-you-can-now-order-the-mcdonalds-x-newjeans-collab-menu",
+    "reference_urls": [
+      "https://www.marketingoops.com/news/biz-news/mcdonalds-new-jeans/",
+      "https://snkrdunk.com/en/magazine/2023/05/26/mcdonalds-and-newjeans-launches-fly-to-the-mcdonalds-chicken-world-campaign-in-asia"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-06-28-mcdonalds-thailand-newjeans-sets/cover.jpg",
+      "source_url": "https://thebeat.asia/bangkok/delish/happenings/get-hyped-you-can-now-order-the-mcdonalds-x-newjeans-collab-menu"
+    },
+    "tags": [
+      "collab",
+      "mcdonalds",
+      "food",
+      "packaging",
+      "thailand"
+    ],
+    "verified": false,
+    "editor_note": "The Beat Asia (published 2023-07-03) cites a McThai post of 2023-06-26 but gives no start date; 28 June is from the campaign schedule visual. Matching campaign record: ad-2023-06-01-mcdonalds-newjeans-collab-launch. Market dates follow McDonald's 'Fly to the McDonald's Chicken World' schedule visual (reproduced by SNKRDUNK 2023-05-26). / No Thailand-specific product photo with a verified direct URL found; cover is the article's campaign visual.",
+    "local_assets": []
+  },
+  {
+    "id": "goods-2023-07-12-mcdonalds-indonesia-newjeans-k-meals",
+    "date": "2023-07-12",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "マクドナルド インドネシア NewJeans K-Meals",
+      "en": "McDonald's Indonesia NewJeans K-Meals"
+    },
+    "summary": {
+      "ja": "インドネシアのマクドナルドでNewJeansパッケージのK-Mealsが発売され、購入特典が毎週配られた。",
+      "en": "McDonald's Indonesia launched K-Meals in NewJeans packaging, with weekly purchase gifts."
+    },
+    "detail": {
+      "ja": "インドネシアでは7月12日から8月27日まで「McD x NewJeans」のK-Mealsを販売し、マックスパイシーやマックナゲット6ピース、パナス・スペシャルなどのセットがNewJeansのうさぎとMを組み合わせたロゴ入りパッケージで提供された。K-Meals購入者には週替わりの限定特典が付き、初週（7月12日〜18日）はポストカードだった。アプリを含む全チャネルで購入できた。",
+      "en": "In Indonesia the 'McD x NewJeans' K-Meals were sold from July 12 to August 27, with sets such as the McSpicy, six-piece McNuggets and PaNas Special served in packaging with a logo combining NewJeans' bunny and the M. K-Meals buyers received a weekly-changing exclusive gift, a postcard in the first week (July 12 to 18). They could be bought through all channels, including the app."
+    },
+    "credits": {
+      "brand": "McDonald's Indonesia"
+    },
+    "source_url": "https://momsmoney.kontan.co.id/news/promo-mcd-x-newjeans-beli-k-meals-gratis-eksklusif-postcard-kpopers-wajib-beli",
+    "reference_urls": [
+      "https://www.liputan6.com/regional/read/5343506/daftar-menu-kolaborasi-mcd-x-newjeans-lengkap-dengan-harga-dan-merchandise",
+      "https://snkrdunk.com/en/magazine/2023/05/26/mcdonalds-and-newjeans-launches-fly-to-the-mcdonalds-chicken-world-campaign-in-asia"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-07-12-mcdonalds-indonesia-newjeans-k-meals/cover.jpg",
+      "source_url": "https://momsmoney.kontan.co.id/news/promo-mcd-x-newjeans-beli-k-meals-gratis-eksklusif-postcard-kpopers-wajib-beli"
+    },
+    "tags": [
+      "collab",
+      "mcdonalds",
+      "food",
+      "packaging",
+      "indonesia"
+    ],
+    "verified": false,
+    "editor_note": "Kontan MomsMoney (2023-07-12) and Liputan6 (2023-07-13); McDonald's Indonesia primary post not fetched. Liputan6 also mentions a 'McD x NewJeans Special Kit' with a photocard but without sale details, so it is left out. Matching campaign record: ad-2023-06-01-mcdonalds-newjeans-collab-launch. Market dates follow McDonald's 'Fly to the McDonald's Chicken World' schedule visual (reproduced by SNKRDUNK 2023-05-26).",
+    "local_assets": [
+      "goods/goods-2023-07-12-mcdonalds-indonesia-newjeans-k-meals/01.jpg",
+      "goods/goods-2023-07-12-mcdonalds-indonesia-newjeans-k-meals/02.jpg"
+    ],
+    "asset_titles": [
+      "McD x NewJeans packaging pattern (Indonesia)",
+      "K-Meals free exclusive merchandise (postcards and stickers)"
+    ]
+  },
+  {
     "id": "goods-2023-08-02-line-friends-x-newjeans-exclusive-collection-preorder",
     "date": "2023-08-02",
     "date_type": "sale_start",
@@ -1203,6 +1710,61 @@
       "label": "ADOR",
       "venue": "LINE FRIENDS Gangnam / Hongdae stores, Seoul"
     }
+  },
+  {
+    "id": "goods-2023-09-07-mcdonalds-malaysia-newjeans-chicken-dance",
+    "date": "2023-09-07",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "マクドナルド マレーシア NewJeans Chicken Dance キャンペーン",
+      "en": "McDonald's Malaysia 'NewJeans Chicken Dance' menu and packaging"
+    },
+    "summary": {
+      "ja": "マレーシアのマクドナルドでNewJeans特別パッケージの期間限定チキンメニューが発売された。",
+      "en": "McDonald's Malaysia launched limited-time chicken items in special NewJeans packaging."
+    },
+    "detail": {
+      "ja": "マレーシアでは9月7日から「NewJeans Chicken Dance Campaign」として、スパイシー・クリスピー・チキンバーガー（9.95リンギット）、シーウィード・マックシェーカーフライ、スパイシー・クリスピー・チキンラップ（10.90リンギット）を期間限定で販売した。食事とドリンクはMロゴにドット絵のポテト、バーガー、NewJeansのうさぎを配した特別パッケージで提供され、ブキッ・ビンタン店はフォトコーナー付きのNewJeans仕様に改装された。",
+      "en": "Malaysia's 'NewJeans Chicken Dance Campaign' began on September 7 with a limited-time Spicy Crispy Chicken Burger (RM9.95), Seaweed McShaker Fries and Spicy Crispy Chicken Wrap (RM10.90). Meals and drinks came in special packaging pairing the M logo with pixel-art fries, burgers and the NewJeans bunny, and the Bukit Bintang outlet was given a NewJeans makeover with photo corners."
+    },
+    "credits": {
+      "brand": "McDonald's Malaysia"
+    },
+    "source_url": "https://thesmartlocal.my/newjeans-mcdonalds/",
+    "reference_urls": [
+      "https://www.marketing-interactive.com/mcdonalds-x-newjeans-collaboration-to-land-in-malaysia-this-month",
+      "https://snkrdunk.com/en/magazine/2023/05/26/mcdonalds-and-newjeans-launches-fly-to-the-mcdonalds-chicken-world-campaign-in-asia"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-09-07-mcdonalds-malaysia-newjeans-chicken-dance/cover.jpg",
+      "source_url": "https://thesmartlocal.my/newjeans-mcdonalds/"
+    },
+    "tags": [
+      "collab",
+      "mcdonalds",
+      "food",
+      "packaging",
+      "malaysia"
+    ],
+    "verified": false,
+    "editor_note": "TheSmartLocal Malaysia (2023-09-06); McDonald's Malaysia primary post not fetched. Matching campaign record: ad-2023-06-01-mcdonalds-newjeans-collab-launch. Market dates follow McDonald's 'Fly to the McDonald's Chicken World' schedule visual (reproduced by SNKRDUNK 2023-05-26).",
+    "local_assets": [
+      "goods/goods-2023-09-07-mcdonalds-malaysia-newjeans-chicken-dance/01.jpg",
+      "goods/goods-2023-09-07-mcdonalds-malaysia-newjeans-chicken-dance/02.jpg"
+    ],
+    "asset_titles": [
+      "Spicy Crispy Chicken Burger, Seaweed McShaker Fries and Spicy Crispy Chicken Wrap in NewJeans packaging",
+      "NewJeans-themed Bukit Bintang outlet"
+    ]
   },
   {
     "id": "goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop",
@@ -1334,6 +1896,251 @@
     }
   },
   {
+    "id": "goods-2023-09-25-line-friends-us-bunini-costume-plush-preorder",
+    "date": "2023-09-25",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "LINE FRIENDS SQUARE（米国）bunini コスチュームぬいぐるみ・キーリング予約",
+      "en": "LINE FRIENDS SQUARE (US) bunini Costume Plush and Doll Keyring pre-order"
+    },
+    "summary": {
+      "ja": "LINE FRIENDSの米国オンラインストアでbuniniのコスチュームぬいぐるみとキーリングの予約が始まった。",
+      "en": "LINE FRIENDS' US online store opened pre-orders for bunini costume plush and doll keyrings."
+    },
+    "detail": {
+      "ja": "LINE FRIENDS SQUAREの米国オンラインストアは「NewJeans Pre-order Event」として、NewJeansのTokkiとmininiを掛け合わせたキャラクターbuniniの商品の予約を受け付けた。対象はbuniniのコスチュームぬいぐるみとドールキーリングで、いずれもホワイト、イエロー、ブルー、ピンク、グリーンの5色展開だった。",
+      "en": "LINE FRIENDS SQUARE's US online store took pre-orders in a 'NewJeans Pre-order Event' for bunini, the character combining NewJeans' Tokki and minini. The line-up was the bunini Costume Plush and the bunini Doll Keyring, each in white, yellow, blue, pink and green."
+    },
+    "credits": {
+      "brand": "IPX (LINE FRIENDS)",
+      "sale_channel": "LINE FRIENDS SQUARE US online"
+    },
+    "source_url": "https://linefriendssquare.us/collections/9-25-newjeans-pre-order-event",
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-09-25-line-friends-us-bunini-costume-plush-preorder/cover.jpg",
+      "source_url": "https://linefriendssquare.us/collections/9-25-newjeans-pre-order-event"
+    },
+    "tags": [
+      "collab",
+      "line-friends",
+      "bunini",
+      "pre-order"
+    ],
+    "verified": false,
+    "editor_note": "Date taken from the official collection handle '9-25-newjeans-pre-order-event' (products.json lists the items, created 2023-08-30, published as regular stock 2023-10-10); no dated announcement found. Matching campaign record: ad-2023-08-01-line-friends-collab-2023.",
+    "local_assets": [
+      "goods/goods-2023-09-25-line-friends-us-bunini-costume-plush-preorder/01.jpg",
+      "goods/goods-2023-09-25-line-friends-us-bunini-costume-plush-preorder/02.jpg",
+      "goods/goods-2023-09-25-line-friends-us-bunini-costume-plush-preorder/03.jpg",
+      "goods/goods-2023-09-25-line-friends-us-bunini-costume-plush-preorder/04.jpg",
+      "goods/goods-2023-09-25-line-friends-us-bunini-costume-plush-preorder/05.jpg",
+      "goods/goods-2023-09-25-line-friends-us-bunini-costume-plush-preorder/06.jpg",
+      "goods/goods-2023-09-25-line-friends-us-bunini-costume-plush-preorder/07.jpg",
+      "goods/goods-2023-09-25-line-friends-us-bunini-costume-plush-preorder/08.jpg",
+      "goods/goods-2023-09-25-line-friends-us-bunini-costume-plush-preorder/09.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans bunini Costume Plush (Yellow)",
+      "NewJeans bunini Costume Plush (Blue)",
+      "NewJeans bunini Costume Plush (Pink)",
+      "NewJeans bunini Costume Plush (Green)",
+      "NewJeans bunini Doll Keyring (White)",
+      "NewJeans bunini Doll Keyring (Yellow)",
+      "NewJeans bunini Doll Keyring (Blue)",
+      "NewJeans bunini Doll Keyring (Pink)",
+      "NewJeans bunini Doll Keyring (Green)"
+    ]
+  },
+  {
+    "id": "goods-2023-09-28-cokeplay-coca-cola-newjeans-planning-pack",
+    "date": "2023-09-28",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "コカ・コーラ × NewJeans 企画パック（CokePLAY）",
+      "en": "Coca-Cola x NewJeans planning pack (CokePLAY)",
+      "original": "뉴진스 기획팩 특가 이벤트"
+    },
+    "summary": {
+      "ja": "CokePLAYでNewJeansパッケージ缶24本にタトゥーステッカーを付けた企画パックを特価販売した。",
+      "en": "CokePLAY sold NewJeans-package 24-can packs with tattoo stickers at a special price."
+    },
+    "detail": {
+      "ja": "CokePLAYは9月28日から11月30日まで「뉴진스 기획팩 특가 이벤트」を実施した。「コカ・コーラ350ml缶×24＋タトゥーステッカー2枚」と「コカ・コーラ ゼロ355ml缶×24＋タトゥーステッカー2枚」の2種で、いずれもCokePLAY単独の32%割引で19,900ウォンとされた。缶と箱にはコカ・コーラ × NewJeansのスペシャルパッケージのデザインが使われ、限定企画商品のため在庫次第で品切れになるとされた。",
+      "en": "CokePLAY ran the 'NewJeans planning pack special price event' from September 28 to November 30. Two packs were offered, 24 Coca-Cola 350 ml cans plus two tattoo stickers and 24 Coca-Cola Zero 355 ml cans plus two tattoo stickers, each at 19,900 won, a 32% CokePLAY-exclusive discount. The cans and boxes used the Coca-Cola x NewJeans special package design, and as limited products they could sell out depending on stock."
+    },
+    "credits": {
+      "brand": "Coca-Cola Korea",
+      "sale_channel": "CokePLAY"
+    },
+    "source_url": "https://cokeplay.cocacola.co.kr/event/list/view/b1382215-e047-11ee-924e-0a6dd866741b?listType=endedEventList",
+    "links": {
+      "related": "https://www.madtimes.co.kr/news/articleView.html?idxno=17806"
+    },
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-09-28-cokeplay-coca-cola-newjeans-planning-pack/cover.jpg",
+      "source_url": "https://cokeplay.cocacola.co.kr/event/list/view/b1382215-e047-11ee-924e-0a6dd866741b?listType=endedEventList"
+    },
+    "tags": [
+      "collab",
+      "coca-cola",
+      "coke-studio",
+      "packaging"
+    ],
+    "verified": true,
+    "editor_note": "Period, pack contents and price read from the official CokePLAY ended-event page and its images, 2026-10-16.",
+    "local_assets": [
+      "goods/goods-2023-09-28-cokeplay-coca-cola-newjeans-planning-pack/01.jpg",
+      "goods/goods-2023-09-28-cokeplay-coca-cola-newjeans-planning-pack/02.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans planning pack (Coca-Cola / Coca-Cola Zero 24 cans + tattoo stickers)",
+      "Coca-Cola x NewJeans special package - 350 ml x 24 / Zero 355 ml x 24 (19,900 won)"
+    ]
+  },
+  {
+    "id": "goods-2023-10-01-newjeans-x-pepero-special-edition",
+    "date": "2023-10-01",
+    "date_type": "release",
+    "date_precision": "month",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans × ペペロ スペシャルエディション",
+      "en": "NewJeans x Pepero Special Edition",
+      "original": "뉴진스 x 빼빼로 스페셜 에디션"
+    },
+    "summary": {
+      "ja": "ロッテウェルフードがNewJeansの写真をパッケージにしたペペロの限定エディションを発売した。",
+      "en": "Lotte Wellfood released limited Pepero editions with NewJeans images on the packaging."
+    },
+    "detail": {
+      "ja": "ペペロのグローバルアンバサダーを務めるNewJeansの写真をパッケージに入れた「NewJeans × ペペロ スペシャルエディション」が、ペペロデー（11月11日）に向けて発売された。ロッテウェルフードの公式オンラインモール「スイートモール」に特設カテゴリーが設けられ、アーモンドペペロ8箱セットなどが販売された。京畿道義王市のロッテプレミアムアウトレット・タイムヴィラスで10月29日まで開かれたポップアップ「Hello ペペロワールド」でも、同エディションとキーリング、ヘアピン、Tシャツ、エコバッグ、ポストカード、ステッカーなどのグッズが販売された。",
+      "en": "The 'NewJeans x Pepero Special Edition', with photos of Pepero's global ambassadors NewJeans on the packaging, was released ahead of Pepero Day (November 11). Lotte Wellfood's official online mall, Sweet Mall, opened a dedicated category selling items such as an eight-box Almond Pepero set. The edition was also sold at the pop-up 'Hello Pepero World', held until October 29 at Lotte Premium Outlets Time Villas in Uiwang, Gyeonggi Province, alongside goods such as keyrings, hairpins, T-shirts, eco bags, postcards and stickers."
+    },
+    "credits": {
+      "brand": "Lotte Wellfood (Pepero)",
+      "sale_channel": "Lotte Wellfood Sweet Mall / 'Hello Pepero World' pop-up"
+    },
+    "source_url": "https://m.lottesweetmall.com/product/project.html?cate_no=1271",
+    "reference_urls": [
+      "https://www.sidae.com/article/2023102015200842813",
+      "https://www.sedaily.com/NewsView/29VUD0WYDA",
+      "https://www.mt.co.kr/living/2023/09/01/2023090109264385224"
+    ],
+    "links": {
+      "related": "https://www.mt.co.kr/living/2023/09/01/2023090109264385224"
+    },
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-10-01-newjeans-x-pepero-special-edition/cover.jpg",
+      "source_url": "https://www.sidae.com/article/2023102015200842813"
+    },
+    "tags": [
+      "collab",
+      "pepero",
+      "lotte-wellfood",
+      "food",
+      "packaging",
+      "pop-up"
+    ],
+    "verified": false,
+    "editor_note": "Sweet Mall category page (cate_no=1271) still carries the title '뉴진스 x 빼빼로 스페셜 에디션' but its products are no longer listed; a product review dated 2023-11-12 confirms sale. Plan announced 2023-09-01 (Money Today), edition confirmed for 'this year' by Seoul Economic Daily 2023-10-05; pop-up details from Money S (sidae) 2023-10-21. Exact release day not found, hence month precision. Matching campaign record: ad-2023-09-01-lotte-wellfood-pepero-model. / No packshot of the edition with a verified direct URL found; Sweet Mall product pages have been removed.",
+    "local_assets": [
+      "goods/goods-2023-10-01-newjeans-x-pepero-special-edition/01.jpg"
+    ],
+    "asset_titles": [
+      "'Hello Pepero World' pop-up, Lotte Premium Outlets Time Villas"
+    ]
+  },
+  {
+    "id": "goods-2023-10-10-line-friends-us-newjeans-x-coller-new-arrivals",
+    "date": "2023-10-10",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "LINE FRIENDS SQUARE（米国）NewJeans × COLLER ほか新商品",
+      "en": "LINE FRIENDS SQUARE (US) NewJeans x COLLER and Get Up new arrivals"
+    },
+    "summary": {
+      "ja": "LINE FRIENDSの米国ストアにNewJeans × COLLERのワッペンスティコンや「Get Up」グッズが入荷した。",
+      "en": "NewJeans x COLLER wappen sticons and 'Get Up' goods arrived at LINE FRIENDS' US store."
+    },
+    "detail": {
+      "ja": "LINE FRIENDS SQUAREの米国オンラインストアで「NJ New Arrivals」として、アクセサリーブランドCOLLERとのコラボ「NewJeans X COLLER TOKKI Wappen Reverse Sticon」（イエロー、ブルー、ピンク、グリーン）が販売された。あわせて「Get Up」のポストカードセット、ミンジ、ハニ、ダニエル、ヘインのメタルミラーキーリング、ヘリンとヘインのマウスパッド、COLLERのカラビナストラップとAirPods Proケース、buniniのコスチュームぬいぐるみとドールキーリングが並んだ。",
+      "en": "LINE FRIENDS SQUARE's US online store listed 'NJ New Arrivals' including the 'NewJeans X COLLER TOKKI Wappen Reverse Sticon' (yellow, blue, pink and green), a collaboration with accessory brand COLLER. Alongside were a 'Get Up' postcard set, metal mirror keyrings for Minji, Hanni, Danielle and Hyein, mouse pads for Haerin and Hyein, a COLLER carabiner strap and AirPods Pro case, and bunini costume plush and doll keyrings."
+    },
+    "credits": {
+      "brand": "IPX (LINE FRIENDS) / COLLER",
+      "sale_channel": "LINE FRIENDS SQUARE US online"
+    },
+    "source_url": "https://linefriendssquare.us/collections/10-10_nj-new-arrivals",
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-10-10-line-friends-us-newjeans-x-coller-new-arrivals/cover.jpg",
+      "source_url": "https://linefriendssquare.us/collections/10-10_nj-new-arrivals"
+    },
+    "tags": [
+      "collab",
+      "line-friends",
+      "coller",
+      "get-up"
+    ],
+    "verified": true,
+    "editor_note": "Official LINE FRIENDS SQUARE US collection '10-10_nj-new-arrivals' products.json (published_at 2023-10-10 for the listed items; two mouse pads were published later, 2023-10-20 and 2024-01-09, but are in the collection). Metal mirror keyring for Haerin not present in the collection.",
+    "local_assets": [
+      "goods/goods-2023-10-10-line-friends-us-newjeans-x-coller-new-arrivals/01.jpg",
+      "goods/goods-2023-10-10-line-friends-us-newjeans-x-coller-new-arrivals/02.jpg",
+      "goods/goods-2023-10-10-line-friends-us-newjeans-x-coller-new-arrivals/03.jpg",
+      "goods/goods-2023-10-10-line-friends-us-newjeans-x-coller-new-arrivals/04.jpg",
+      "goods/goods-2023-10-10-line-friends-us-newjeans-x-coller-new-arrivals/05.jpg",
+      "goods/goods-2023-10-10-line-friends-us-newjeans-x-coller-new-arrivals/06.jpg",
+      "goods/goods-2023-10-10-line-friends-us-newjeans-x-coller-new-arrivals/07.jpg",
+      "goods/goods-2023-10-10-line-friends-us-newjeans-x-coller-new-arrivals/08.jpg",
+      "goods/goods-2023-10-10-line-friends-us-newjeans-x-coller-new-arrivals/09.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans X COLLER TOKKI Wappen Reverse Sticon (Blue)",
+      "NewJeans X COLLER TOKKI Wappen Reverse Sticon (Pink)",
+      "NewJeans X COLLER TOKKI Wappen Reverse Sticon (Green)",
+      "NewJeans Get Up Post Card Set",
+      "NewJeans Get Up Metal Mirror Keyring (MINJI)",
+      "NewJeans Get Up Metal Mirror Keyring (HANNI)",
+      "NewJeans Get Up Metal Mirror Keyring (HYEIN)",
+      "COLLER Carabiner Strap Light Blue",
+      "COLLER AirPods Pro Case Light Blue"
+    ]
+  },
+  {
     "id": "goods-2023-10-17-weverse-by-fans-newjeans-custom-merch",
     "date": "2023-10-17",
     "date_type": "sale_start",
@@ -1369,6 +2176,106 @@
     "credits": {
       "platform": "Weverse Shop (Weverse Company)"
     }
+  },
+  {
+    "id": "goods-2023-10-25-mcdonalds-taiwan-newjeans-packaging",
+    "date": "2023-10-25",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "台湾マクドナルド NewJeansコラボパッケージ",
+      "en": "McDonald's Taiwan NewJeans collaboration packaging",
+      "original": "麥當勞 × NewJeans 潮味包裝"
+    },
+    "summary": {
+      "ja": "台湾マクドナルドでナゲット購入者向けにNewJeansコラボパッケージが登場し、限定記念缶も配られた。",
+      "en": "McDonald's Taiwan served nugget meals in NewJeans collaboration packaging, with a limited NewJeans Coca-Cola can."
+    },
+    "detail": {
+      "ja": "台湾マクドナルドは10月25日から11月14日（なくなり次第終了）まで、チキンマックナゲット関連の購入者にNewJeansとのコラボパッケージを提供した。対象は4・6・10ピースのナゲット箱、シェアボックス、Mサイズのコールドドリンクカップ、8号紙袋で、うさぎのキャラクターとドット絵のナゲット、ポテト、ドリンクが描かれた。ドライブスルーでシェアボックスと対象ドリンクを購入すると、330mlの「コカ・コーラ NewJeans限定記念缶」も付く企画が行われた。",
+      "en": "From October 25 to November 14 (while stocks lasted) McDonald's Taiwan gave NewJeans collaboration packaging to buyers of Chicken McNuggets meals. It covered the 4-, 6- and 10-piece nugget boxes, the share box, the medium cold-drink cup and the No. 8 paper bag, decorated with the rabbit character and pixel-art nuggets, fries and drinks. Drive-thru customers buying a share box with an eligible drink could also receive a 330 ml 'Coca-Cola NewJeans limited commemorative can'."
+    },
+    "credits": {
+      "brand": "McDonald's Taiwan"
+    },
+    "source_url": "https://www.mcdonalds.com/tw/zh-tw/newsroom/2023/20231020.html",
+    "reference_urls": [
+      "https://www.marieclaire.com.tw/lifestyle/taste/75566/newjeans-mcdonald",
+      "https://snkrdunk.com/en/magazine/2023/05/26/mcdonalds-and-newjeans-launches-fly-to-the-mcdonalds-chicken-world-campaign-in-asia"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-10-25-mcdonalds-taiwan-newjeans-packaging/cover.jpg",
+      "source_url": "https://www.marieclaire.com.tw/lifestyle/taste/75566/newjeans-mcdonald"
+    },
+    "tags": [
+      "collab",
+      "mcdonalds",
+      "coca-cola",
+      "food",
+      "packaging",
+      "taiwan"
+    ],
+    "verified": false,
+    "editor_note": "Official McDonald's Taiwan newsroom (2023-10-20) returned 403 to direct fetch (and the archive was unreachable); facts from Marie Claire Taiwan (updated 2023-10-20) and search-engine extracts of the official newsroom text. The drive-thru can offer's exact conditions are worded unclearly in the secondary source. Matching campaign record: ad-2023-06-01-mcdonalds-newjeans-collab-launch. Market dates follow McDonald's 'Fly to the McDonald's Chicken World' schedule visual (reproduced by SNKRDUNK 2023-05-26).",
+    "local_assets": [
+      "goods/goods-2023-10-25-mcdonalds-taiwan-newjeans-packaging/01.jpg",
+      "goods/goods-2023-10-25-mcdonalds-taiwan-newjeans-packaging/02.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans collaboration packaging (nugget boxes, share box, cup, paper bag)",
+      "Coca-Cola NewJeans limited commemorative can (Coke Studio design)"
+    ]
+  },
+  {
+    "id": "goods-2023-11-02-mcdonalds-singapore-newjeans-meal",
+    "date": "2023-11-02",
+    "time": "11:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "マクドナルド シンガポール NewJeansコラボメニュー",
+      "en": "McDonald's Singapore NewJeans collaboration meal"
+    },
+    "summary": {
+      "ja": "シンガポールのマクドナルドでNewJeansをイメージした特別パッケージのコラボメニューが発売された。",
+      "en": "McDonald's Singapore launched a NewJeans collaboration meal in special-edition packaging."
+    },
+    "detail": {
+      "ja": "シンガポールでは11月2日11時から、NewJeansとのコラボメニューを販売した。K-スイート＆スパイシーソースを絡めたチキン・マッククリスピー、クリスカットフライ、新作のシーソルト・チョコレート・フラッペで構成され、NewJeansのうさぎのロゴを配した特別仕様の箱で提供された。",
+      "en": "In Singapore the NewJeans collaboration meal went on sale at 11 am on November 2. It comprised a Chicken McCrispy coated in K-Sweet & Spicy sauce, Crisscut Fries and the new Sea Salt Chocolate Frappé, served in special-edition boxes featuring NewJeans' bunny logo."
+    },
+    "credits": {
+      "brand": "McDonald's Singapore"
+    },
+    "source_url": "https://www.nme.com/news/newjeans-mcdonalds-collaboration-singapore-3528742",
+    "reference_urls": [
+      "https://snkrdunk.com/en/magazine/2023/05/26/mcdonalds-and-newjeans-launches-fly-to-the-mcdonalds-chicken-world-campaign-in-asia"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "collab",
+      "mcdonalds",
+      "food",
+      "packaging",
+      "singapore"
+    ],
+    "verified": false,
+    "editor_note": "NME (2023-11-02); McDonald's Singapore primary post not fetched. The May schedule had listed Singapore as 'upcoming'. Matching campaign record: ad-2023-06-01-mcdonalds-newjeans-collab-launch. Market dates follow McDonald's 'Fly to the McDonald's Chicken World' schedule visual (reproduced by SNKRDUNK 2023-05-26)."
   },
   {
     "id": "goods-2023-11-23-line-friends-hang-out-with-newjeans-collection",
@@ -1499,6 +2406,132 @@
     ]
   },
   {
+    "id": "goods-2024-01-30-nike-by-you-x-newjeans-orchard-road",
+    "date": "2024-01-30",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Nike By You × NewJeans 限定コレクション（Nike Orchard Road）",
+      "en": "Nike By You x NewJeans limited collection (Nike Orchard Road)"
+    },
+    "summary": {
+      "ja": "シンガポールのNike Orchard Road限定で、NewJeansグラフィックを入れられるコレクションが販売された。",
+      "en": "A collection customisable with NewJeans graphics went on sale exclusively at Nike Orchard Road in Singapore."
+    },
+    "detail": {
+      "ja": "ナイキはシンガポールの旗艦店Nike Orchard Roadで、1月30日から2月4日までの「Member Days」期間に、NewJeansとの限定コレクションを店頭販売した。Tシャツ、パーカー、エコバッグ、キャップをNike By YouのNewJeansグラフィックでカスタマイズでき、価格は39〜49ドルと報じられた。2月3日のNewJeansの店内公演に当選した会員には、公演後の限定ショッピングでAir Max 90 LV8を優先購入できる機会が用意された。",
+      "en": "Nike sold a limited NewJeans collection in store at its Singapore flagship Nike Orchard Road during 'Member Days' from January 30 to February 4. A T-shirt, hoodie, eco bag and cap could be customised with Nike By You NewJeans graphics, reported at 39 to 49 dollars. Members who won places at NewJeans' in-store performance on February 3 were promised first dibs on the Air Max 90 LV8 in an exclusive shopping session afterwards."
+    },
+    "credits": {
+      "brand": "Nike (Nike Orchard Road, Nike By You)"
+    },
+    "source_url": "https://mothership.sg/2024/01/newjeans-performing-orchard-road-nike/",
+    "reference_urls": [
+      "https://www.highsnobiety.com/p/newjeans-nike-collab-2024/",
+      "https://mustsharenews.com/newjeans-nike-orchard-road/",
+      "https://about.nike.com/en/newsroom/releases/nike-orchard-road-opens-in-singapore"
+    ],
+    "links": {
+      "related": "https://about.nike.com/en/newsroom/releases/nike-orchard-road-opens-in-singapore"
+    },
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2024-01-30-nike-by-you-x-newjeans-orchard-road/cover.jpg",
+      "source_url": "https://mothership.sg/2024/01/newjeans-performing-orchard-road-nike/"
+    },
+    "tags": [
+      "collab",
+      "nike",
+      "nike-by-you",
+      "fashion",
+      "singapore"
+    ],
+    "verified": false,
+    "editor_note": "Member Days dates from Mothership and Mustsharenews (2024-01-27); items and price range from Highsnobiety (which says 'until February 3'). Nike's newsroom release (2024-02-03) confirms the store opening and performance but does not mention the NewJeans graphics. Matching records: ad-2024-01-01-nike-orchard-road-collab, live-2024-02-03-nike-orchard-road-singapore. / No product photos of the Nike By You x NewJeans pieces with verified direct URLs found.",
+    "local_assets": [
+      "goods/goods-2024-01-30-nike-by-you-x-newjeans-orchard-road/01.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans at Nike Orchard Road (Nike newsroom)"
+    ]
+  },
+  {
+    "id": "goods-2024-02-23-line-friends-play-with-bunini-collection",
+    "date": "2024-02-23",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "LINE FRIENDS「Play with bunini」コレクション",
+      "en": "LINE FRIENDS 'Play with bunini' collection"
+    },
+    "summary": {
+      "ja": "LINE FRIENDSのオンラインストアで、buniniのぬいぐるみや雑貨の新コレクションが発売された。",
+      "en": "LINE FRIENDS' online stores released a new collection of bunini plush and accessories."
+    },
+    "detail": {
+      "ja": "LINE FRIENDS SQUAREの米国オンラインストアは2月23日、「NewJeans Play with bunini」としてbuniniのミックスカラーのコスチュームぬいぐるみ、プラッシュスティコン、ミニポーチ、ドールクローゼット用ジャンプスーツ、レターセットを販売した。韓国のLINE FRIENDS SQUAREオンラインでも2月26日、bunini メッセージ人形（55,000ウォン）、フード付きブランケット（42,000ウォン）、ルームシューズ（30,000ウォン）、ヘアバンド、ミニクロスバッグ、フェイスクッションなどのbunini商品が公開された。",
+      "en": "On February 23 LINE FRIENDS SQUARE's US online store released 'NewJeans Play with bunini', with mixed-colour bunini costume plush, plush sticons, mini pouches, doll-closet jumpsuits and a letter set. On February 26 LINE FRIENDS SQUARE's Korean online store listed bunini items including the bunini message (talking) plush (55,000 won), hooded blanket (42,000 won), plush room shoes (30,000 won), headbands, mini crossbody bags and face cushions."
+    },
+    "credits": {
+      "brand": "IPX (LINE FRIENDS)",
+      "sale_channel": "LINE FRIENDS SQUARE online (US / Korea)"
+    },
+    "source_url": "https://linefriendssquare.us/collections/newjeans-play-with-bunini",
+    "reference_urls": [
+      "https://linefriendssquare.com/collections/nj_bunini-talking-plush"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2024-02-23-line-friends-play-with-bunini-collection/cover.jpg",
+      "source_url": "https://linefriendssquare.us/collections/newjeans-play-with-bunini"
+    },
+    "tags": [
+      "collab",
+      "line-friends",
+      "bunini"
+    ],
+    "verified": true,
+    "editor_note": "Dates are the published_at values in the official stores' products.json (US collection 'newjeans-play-with-bunini' 2024-02-23; Korean collection 'nj_bunini-talking-plush' 2024-02-26), read 2026-10-16; Korean prices as listed there. No dated announcement post found.",
+    "local_assets": [
+      "goods/goods-2024-02-23-line-friends-play-with-bunini-collection/01.jpg",
+      "goods/goods-2024-02-23-line-friends-play-with-bunini-collection/02.jpg",
+      "goods/goods-2024-02-23-line-friends-play-with-bunini-collection/03.jpg",
+      "goods/goods-2024-02-23-line-friends-play-with-bunini-collection/04.jpg",
+      "goods/goods-2024-02-23-line-friends-play-with-bunini-collection/05.jpg",
+      "goods/goods-2024-02-23-line-friends-play-with-bunini-collection/06.jpg",
+      "goods/goods-2024-02-23-line-friends-play-with-bunini-collection/07.jpg",
+      "goods/goods-2024-02-23-line-friends-play-with-bunini-collection/08.jpg",
+      "goods/goods-2024-02-23-line-friends-play-with-bunini-collection/09.jpg",
+      "goods/goods-2024-02-23-line-friends-play-with-bunini-collection/10.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans bunini Costume Plush (Pink Mixed)",
+      "NewJeans bunini Letter Set",
+      "NewJeans bunini Plush Sticon (White)",
+      "NewJeans bunini Doll Closet Jumpsuit 1",
+      "NewJeans bunini Plush Mini Pouch (Pink Mixed)",
+      "bunini Hooded Blanket (Pink)",
+      "bunini Plush Room Shoes (Blue)",
+      "bunini Plush Headband (Yellow)",
+      "bunini Plush Mini Crossbody Bag (Green)",
+      "bunini Face Cushion (Yellow)"
+    ]
+  },
+  {
     "id": "goods-2024-04-26-how-sweet-standard-ver",
     "date": "2024-04-26",
     "date_type": "sale_start",
@@ -1599,6 +2632,55 @@
     "asset_titles": [
       "NewJeans ‘How Sweet’ Standard ver. (Weverse Albums ver.)"
     ]
+  },
+  {
+    "id": "goods-2024-04-26-newjeans-popup-store-tokyo-shibuya109",
+    "date": "2024-04-26",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans POP-UP STORE in TOKYO（SHIBUYA109）",
+      "en": "NewJeans POP-UP STORE in TOKYO (SHIBUYA109)"
+    },
+    "summary": {
+      "ja": "SHIBUYA109渋谷店で、衣料と雑貨の2店舗からなるNewJeansのポップアップストアが開店した。",
+      "en": "A two-shop NewJeans pop-up store selling apparel and merch opened at SHIBUYA109 Shibuya."
+    },
+    "detail": {
+      "ja": "「NewJeans × SHIBUYA109 45th ANNIVERSARY CAMPAIGN」の一環として、4月26日から5月19日までSHIBUYA109渋谷店で「NewJeans POP-UP STORE in TOKYO」を開いた。アパレルを扱う「Clothing」と、韓国のポップアップで完売した人気商品などの雑貨を中心とする「Merch -Best Collection-」の2店舗で構成された。来店予約は4月15日17時から先着順で受け付けた。",
+      "en": "As part of the 'NewJeans x SHIBUYA109 45th ANNIVERSARY CAMPAIGN', the 'NewJeans POP-UP STORE in TOKYO' ran at SHIBUYA109 Shibuya from April 26 to May 19. It comprised two shops, 'Clothing' for apparel and 'Merch -Best Collection-' focused on goods, including popular items that had sold out at a pop-up in Korea. Visit reservations opened first-come, first-served at 5 pm on April 15."
+    },
+    "credits": {
+      "venue": "SHIBUYA109 Shibuya"
+    },
+    "source_url": "https://www.fashionsnap.com/article/2024-04-10/109-newjrans/",
+    "reference_urls": [
+      "https://japan.stripes.com/travel/pop-up-stores-in-tokyo-may-2024.html"
+    ],
+    "links": {
+      "related": "https://www.fashionsnap.com/article/2024-04-10/109-newjrans/"
+    },
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2024-04-26-newjeans-popup-store-tokyo-shibuya109/cover.jpg",
+      "source_url": "https://www.fashionsnap.com/article/2024-04-10/109-newjrans/"
+    },
+    "tags": [
+      "pop-up",
+      "shibuya109",
+      "japan",
+      "official-md"
+    ],
+    "verified": false,
+    "editor_note": "FASHIONSNAP (2024-04-10) and Stripes Japan (Merch shop on 1F and B1F); SHIBUYA109's own campaign page not fetched; product line-up not found. Matching campaign record: ad-2024-04-10-shibuya109-45th-anniversary. / Cover is the campaign visual; no product line-up images found.",
+    "local_assets": []
   },
   {
     "id": "goods-2024-05-10-supernatural-nj-x-murakami-cross-bag-ver",
@@ -1998,6 +3080,64 @@
       "NJ X COLLER FURRY BUNNY PLUSH KEYRING (TIDE BLUE)",
       "NJ X COLLER BUNNY PLUSH KEYRING (WHITE)",
       "NJ X COLLER METAL STICON SET (4PCS)"
+    ]
+  },
+  {
+    "id": "goods-2024-06-12-pubg-newjeans-collaboration-items",
+    "date": "2024-06-12",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "PUBG: BATTLEGROUNDS × NewJeans コラボアイテム（PC）",
+      "en": "PUBG: BATTLEGROUNDS x NewJeans collaboration items (PC)"
+    },
+    "summary": {
+      "ja": "PUBGのPC版にNewJeansのメンバー衣装やコラボアイテムが実装され、ゲーム内で入手可能になった。",
+      "en": "NewJeans member costumes and collaboration items arrived in PUBG on PC, obtainable in game."
+    },
+    "detail": {
+      "ja": "KRAFTONの『PUBG: BATTLEGROUNDS』PC版で6月12日、NewJeansとのコラボアイテムが実装された（コンソール版は6月20日予定）。メンバーごとにビーニー、衣装、ブーツと、ミンジ・ハニ・ヘリンはヘルメット、ダニエル・ヘインはバックパックのスキンが用意され、衣装セットや武器スキン、スプレーなど19種をワークショップの特別製作で作れた。ストアのPUBG X NewJeansルートキャッシュや関連コスメティックで得られるPUBG X NewJeansトークンを使う仕組みで、PC版トークンの期限は7月15日とされた。",
+      "en": "NewJeans collaboration items went live in KRAFTON's PUBG: BATTLEGROUNDS on PC on June 12, with consoles due on June 20. Each member had beanie, outfit and boot skins, plus helmets for Minji, Hanni and Haerin and backpacks for Danielle and Hyein, and 19 items including costume sets, weapon skins and sprays could be made through the Workshop's Special Crafting. They used PUBG X NewJeans Tokens obtained from PUBG X NewJeans Loot Caches and related store cosmetics, with PC tokens expiring on July 15."
+    },
+    "credits": {
+      "brand": "KRAFTON (PUBG: BATTLEGROUNDS)"
+    },
+    "source_url": "https://www.oneesports.gg/pubg/pubg-newjeans-collaboration-release-date",
+    "reference_urls": [
+      "https://primagames.com/tips/how-to-get-pubg-x-newjeans-tokens-in-pubg",
+      "https://koreaproductpost.com/pubg-battleground-x-newjeans-krafton-collab-skins-event/"
+    ],
+    "links": {
+      "related": "https://krafton.com/en/?p=28891"
+    },
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2024-06-12-pubg-newjeans-collaboration-items/cover.jpg",
+      "source_url": "https://www.oneesports.gg/pubg/pubg-newjeans-collaboration-release-date"
+    },
+    "tags": [
+      "collab",
+      "pubg",
+      "krafton",
+      "game",
+      "digital-item"
+    ],
+    "verified": false,
+    "editor_note": "KRAFTON's official release (krafton.com, 2024-06-03) returned 403; item list from ONE Esports (2024-06-12), token/crafting mechanics from Prima Games guides. Matching campaign record: ad-2024-06-01-krafton-pubg-collab.",
+    "local_assets": [
+      "goods/goods-2024-06-12-pubg-newjeans-collaboration-items/01.jpg",
+      "goods/goods-2024-06-12-pubg-newjeans-collaboration-items/02.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans characters & costumes (in-game store visual)",
+      "PUBG X NewJeans bunny care package / loot cache"
     ]
   },
   {
@@ -2492,6 +3632,57 @@
     ]
   },
   {
+    "id": "goods-2024-11-09-pepero-newjeans-edition-us-grove-popup",
+    "date": "2024-11-09",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ペペロ NewJeansエディション（米国）とザ・グローブのポップアップ",
+      "en": "Pepero NewJeans edition package in the US and pop-up at The Grove",
+      "original": "빼빼로 뉴진스 에디션 패키지"
+    },
+    "summary": {
+      "ja": "ロッテ商事米州法人がLAでペペロデーのポップアップを開き、NewJeansエディションのパッケージを展開した。",
+      "en": "Lotte Corporation's US branch held a Pepero Day pop-up in Los Angeles alongside NewJeans edition packaging."
+    },
+    "detail": {
+      "ja": "ロッテ商事米州法人は、ペペロデーを前に11月9日と10日の2日間、ロサンゼルスのショッピングモール、ザ・グローブでポップアップを開き、試食やゲームによる商品プレゼントを行った。2年連続のブランドアンバサダーであるNewJeansがキャンペーン「Show your love with Pepero」に参加し、NewJeansの写真を使ったエディションパッケージと、店頭でのペペロデー価格割引が展開された。",
+      "en": "Ahead of Pepero Day, Lotte Corporation's US branch held a two-day pop-up on November 9 and 10 at The Grove shopping mall in Los Angeles, with tastings and product prizes through games. NewJeans, brand ambassadors for a second straight year, featured in the 'Show your love with Pepero' campaign, with an edition package using their images and Pepero Day price discounts in stores."
+    },
+    "credits": {
+      "brand": "Lotte Wellfood (Pepero)",
+      "organizer": "Lotte Corporation US branch"
+    },
+    "source_url": "https://www.heraldk.com/article/2024110815580519058",
+    "links": {
+      "related": "https://biz.newdaily.co.kr/site/data/html/2024/09/27/2024092700068.amp.html"
+    },
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2024-11-09-pepero-newjeans-edition-us-grove-popup/cover.jpg",
+      "source_url": "https://www.heraldk.com/article/2024110815580519058"
+    },
+    "tags": [
+      "collab",
+      "pepero",
+      "lotte",
+      "food",
+      "packaging",
+      "pop-up",
+      "usa"
+    ],
+    "verified": false,
+    "editor_note": "Herald Economy US edition (2024-11-08); no primary Lotte page found. Which Pepero SKUs carried the NewJeans edition is not stated. / Cover shows an in-store Pepero Day display with NewJeans edition packs; no individual packshots found.",
+    "local_assets": []
+  },
+  {
     "id": "goods-2024-11-27-2025-seasons-greetings-fairy-association",
     "date": "2024-11-27",
     "date_type": "sale_start",
@@ -2621,5 +3812,119 @@
       "event": "ComplexCon Hong Kong 2025 (AsiaWorld-Expo)",
       "account": "@njz_official"
     }
+  },
+  {
+    "id": "goods-2025-03-29-essential-premium-newjeans-x-murakami-special-design",
+    "date": "2025-03-29",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "エッセンシャル プレミアム NewJeans×MURAKAMI スペシャルデザイン",
+      "en": "Essential Premium NewJeans x MURAKAMI special design packages"
+    },
+    "summary": {
+      "ja": "花王エッセンシャルから村上隆が描いたNewJeansキャラクターの数量限定パッケージが発売された。",
+      "en": "Kao's Essential released limited packages featuring Takashi Murakami's NewJeans characters."
+    },
+    "detail": {
+      "ja": "花王のヘアケアブランド「エッセンシャル プレミアム」から、村上隆が描いたNewJeansのキャラクターとお花をあしらった数量限定パッケージが3月29日に全国のドラッグストアなどで発売された。バリアシャンプー・コンディショナーセット「シルキー＆スムース」「グロウ＆モイスト」（各2,640円）とウォータートリートメント EXスムース（1,320円）の3品で、なくなり次第終了とされた。3月24日から5月7日まで、2,000円以上の購入で抽選250名にポストカードとステッカー入りスペシャルボックスセットが当たるキャンペーンも行われた。",
+      "en": "On March 29 Kao's hair-care brand Essential Premium released limited-quantity packages featuring Takashi Murakami's NewJeans characters and flowers, at drugstores and other retailers nationwide. The three items were the Barrier Shampoo and Conditioner sets 'Silky & Smooth' and 'Glow & Moist' (2,640 yen each) and the Water Treatment EX Smooth (1,320 yen), sold until stocks ran out. From March 24 to May 7, purchases of 2,000 yen or more entered a draw for 250 special box sets of postcards and stickers."
+    },
+    "credits": {
+      "brand": "Kao (Essential Premium)",
+      "design": "Takashi Murakami"
+    },
+    "source_url": "https://www.fashion-press.net/news/131281",
+    "links": {
+      "related": "https://www.kao.co.jp/essential/topics/250324_campaign/"
+    },
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2025-03-29-essential-premium-newjeans-x-murakami-special-design/cover.jpg",
+      "source_url": "https://www.fashion-press.net/news/131281"
+    },
+    "tags": [
+      "collab",
+      "kao",
+      "essential",
+      "murakami",
+      "japan",
+      "packaging"
+    ],
+    "verified": false,
+    "editor_note": "FASHION PRESS (updated 2025-03-17); Kao's campaign page (kao.co.jp/essential/topics/250324_campaign/) now returns 404. Released during the NJZ period but under the NewJeans name (Kao's contract via ADOR), so entity 'newjeans'. Matching campaign record: ad-2024-04-01-kao-essential-cm-japan.",
+    "local_assets": [
+      "goods/goods-2025-03-29-essential-premium-newjeans-x-murakami-special-design/01.jpg",
+      "goods/goods-2025-03-29-essential-premium-newjeans-x-murakami-special-design/02.jpg",
+      "goods/goods-2025-03-29-essential-premium-newjeans-x-murakami-special-design/03.jpg",
+      "goods/goods-2025-03-29-essential-premium-newjeans-x-murakami-special-design/04.jpg",
+      "goods/goods-2025-03-29-essential-premium-newjeans-x-murakami-special-design/05.jpg",
+      "goods/goods-2025-03-29-essential-premium-newjeans-x-murakami-special-design/06.jpg",
+      "goods/goods-2025-03-29-essential-premium-newjeans-x-murakami-special-design/07.jpg",
+      "goods/goods-2025-03-29-essential-premium-newjeans-x-murakami-special-design/08.jpg",
+      "goods/goods-2025-03-29-essential-premium-newjeans-x-murakami-special-design/09.jpg",
+      "goods/goods-2025-03-29-essential-premium-newjeans-x-murakami-special-design/10.jpg"
+    ],
+    "asset_titles": [
+      "Barrier Shampoo Glow & Moist (NewJeans x MURAKAMI design)",
+      "Barrier Conditioner Glow & Moist (NewJeans x MURAKAMI design)",
+      "Barrier Shampoo Silky & Smooth (NewJeans x MURAKAMI design)",
+      "Barrier Conditioner Silky & Smooth (NewJeans x MURAKAMI design)",
+      "Water Treatment EX Smooth (NewJeans x MURAKAMI design)",
+      "Shampoo & Conditioner set Silky & Smooth (2,640 yen)",
+      "Shampoo & Conditioner set Glow & Moist (2,640 yen)",
+      "Water Treatment EX Smooth package (1,320 yen)",
+      "Special box set with postcards and stickers (campaign prize)",
+      "In-store panels"
+    ]
+  },
+  {
+    "id": "goods-2025-05-01-indomie-mi-goreng-popup-seongsu",
+    "date": "2025-05-01",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "インドミー ミーゴレン ポップアップストア（聖水洞）",
+      "en": "Indomie Mi Goreng pop-up store (Seongsu-dong)"
+    },
+    "summary": {
+      "ja": "NewJeansがモデルを務めるインドミーの限定ラーメンパックを扱うポップアップがソウル聖水洞で開かれた。",
+      "en": "A pop-up for Indomie, fronted by NewJeans, opened in Seoul's Seongsu-dong with a limited ramen pack."
+    },
+    "detail": {
+      "ja": "NewJeansがグローバルアンバサダーを務めるインドミーのミーゴレン・ポップアップストアが、5月1日から13日までソウル・聖水洞で開かれた。1か月間販売される限定ラーメンパックが用意された。ADORは4月26日、このポップアップはブランドの提携会社がADORの事前承認を得て行う公式イベントだとし、ファンアカウントを通じた広報や個人情報収集には関与していないと説明した。",
+      "en": "An Indomie Mi Goreng pop-up store for the brand fronted by global ambassadors NewJeans ran in Seoul's Seongsu-dong from May 1 to 13, with a limited-edition ramen pack on sale for one month. On April 26 ADOR said the pop-up was an official event run by the brand's partner company with ADOR's prior approval, and that it was not involved in promotion or personal-data collection through fan accounts."
+    },
+    "credits": {
+      "brand": "Indomie (Indofood)"
+    },
+    "source_url": "https://kbizoom.com/newjeans-pop-up-store-controversy/",
+    "reference_urls": [
+      "https://sportskeeda.com/us/music/ador-responds-indomie-x-newjeans-pop-up-store-promotion-certain-fan-clubs-amidst-ongoing-legal-feud-374ee9f0",
+      "https://www.allkpop.com/article/2025/04/newjeans-x-indomie-pop-up-store-opens-in-seoul"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "collab",
+      "indomie",
+      "food",
+      "pop-up"
+    ],
+    "verified": false,
+    "editor_note": "Secondary only (KBIZoom 2025-04-26; Sportskeeda and allkpop blocked to fetch, known via search extracts). allkpop reportedly describes a set of 20 Mi Goreng packs with 7 limited postcards and online sales from May 1 - not confirmed, so omitted. Exact venue name not found. Held during the NJZ period but as an ADOR-approved NewJeans brand event, so entity 'newjeans'. Matching campaign record: ad-2024-10-31-indomie-global-ambassador."
   }
 ]

@@ -1201,6 +1201,53 @@
     }
   },
   {
+    "id": "music-2024-02-20-iu-shh-feat-hyein",
+    "date": "2024-02-20",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "IU「Shh..」（feat. ヘイン、チョ・ウォンソン）",
+      "en": "IU 'Shh..' (feat. Hyein, Joe Won-sun)",
+      "original": "쉬 (Shh..)"
+    },
+    "summary": {
+      "ja": "IUの6thミニアルバム『The Winning』収録曲「Shh..」に、ヘインがチョ・ウォンソンと共にフィーチャリング参加。",
+      "en": "Hyein features with Joe Won-sun on 'Shh..', a track on IU's sixth EP The Winning."
+    },
+    "detail": {
+      "ja": "IUの6thミニアルバム『The Winning』が2月20日に発売され、3曲目の「Shh..」にヘインとローラーコースター出身のチョ・ウォンソンがフィーチャリングで参加した。ヘインにとってグループ外での初の歌唱参加となる。トラックリストは2月5日に公開され、スペシャルナレーションの参加者は伏せられていた。アルバムの全曲の作詞はIUが手がけた。",
+      "en": "IU's sixth EP The Winning was released on 20 February, with Hyein and former Rollercoaster vocalist Joe Won-sun featured on the third track, 'Shh..'. It was Hyein's first vocal feature outside the group. The track list had been revealed on 5 February, with the special narrator left undisclosed. IU wrote the lyrics for every song on the EP."
+    },
+    "source_url": "https://v.daum.net/v/20240205154629300",
+    "reference_urls": [
+      "https://v.daum.net/v/20240221073901177",
+      "https://www.marieclairekorea.com/celebrity/2024/02/iu-3/",
+      "https://en.wikipedia.org/wiki/The_Winning"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "credits": {
+      "artist": "IU",
+      "featuring": "Hyein, Joe Won-sun",
+      "lyricist": "IU",
+      "label": "EDAM Entertainment",
+      "album": "The Winning"
+    },
+    "tags": [
+      "feature",
+      "collaboration",
+      "iu"
+    ],
+    "verified": false,
+    "editor_note": "Track list/feature and 20 Feb release date confirmed via Korea Herald (Daum 20240205154629300) and Marie Claire Korea (2024-02-05); release date also per en.wikipedia The Winning. Special narrator was revealed as Patti Kim on 2024-02-21 (omitted from reader text as later than record date). Streaming links not retrieved (iTunes API returned empty). / Source is a press report (Daum News); not confirmed against an official page."
+  },
+  {
     "id": "music-2024-05-24-bubble-gum",
     "date": "2024-05-24",
     "date_type": "release",
