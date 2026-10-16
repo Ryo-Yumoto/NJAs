@@ -1,4 +1,4 @@
-# NJAs - NewJeans Archive
+# NJA - NewJeans Archive
 
 NewJeansの公式活動（楽曲、MV、テレビ・ラジオ出演、雑誌、WEBインタビュー、広告、SNS投稿、グッズ、ライブ、公式発表、公式コンテンツ、受賞・記録）を日付順に閲覧する非公開アーカイブサイト。
 
