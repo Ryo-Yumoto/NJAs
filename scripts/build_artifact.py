@@ -42,6 +42,13 @@ groups = {}
 for rid, e in index.items():
     m = month_of.get(rid)
     if m and (ROOT / "media/auto" / e["file"]).exists(): groups.setdefault(m, []).append((rid, ROOT / "media/auto" / e["file"]))
+# curated assets (image.path, local_assets) keyed "a/<path>"
+for f in manifest["files"]:
+    for it in json.loads((ROOT / "data" / f).read_text()):
+        paths = ([it["image"]["path"]] if (it.get("image") or {}).get("path") else []) + list(it.get("local_assets") or [])
+        for pth in paths:
+            fp = ROOT / "media" / pth
+            if fp.exists(): groups.setdefault(it["date"][:7], []).append(("a/" + pth, fp))
 # X post photos / video thumbnails and avatars (keyed "x/<file>", grouped by the first record's month)
 xposts_path = ROOT / "media/x/posts.json"
 xposts = json.loads(xposts_path.read_text()) if xposts_path.exists() else {}

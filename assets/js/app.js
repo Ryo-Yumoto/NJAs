@@ -100,9 +100,10 @@
     }
     state.pages = pages;
   }
+  function assetImg(path, from) { const sp = state.sprites && state.sprites["a/" + path]; return sp ? { sprite: sp, from } : { src: "media/" + path, from }; }
   function imageOf(it) {
-    if (it.image && it.image.path) return { src: "media/" + it.image.path, from: it.image.source_url || it.source_url };
-    if (it.local_assets && it.local_assets.length) return { src: "media/" + it.local_assets[0], from: it.source_url };
+    if (it.image && it.image.path) return assetImg(it.image.path, it.image.source_url || it.source_url);
+    if (it.local_assets && it.local_assets.length) return assetImg(it.local_assets[0], it.source_url);
     const sp = state.sprites && state.sprites[it.id];
     if (sp) return { sprite: sp, from: (state.images[it.id] || {}).page_url || it.source_url };
     const a = state.images[it.id];
@@ -263,7 +264,19 @@
         fig.appendChild(a);
       } else fig.addEventListener("click", () => openLightbox(it, img));
     }
-    if (it.local_assets && it.local_assets.length > 1) { const box = $(".assets", node); box.hidden = false; for (const pth of it.local_assets.slice(1)) { const a = el("a", { href: "media/" + pth, target: "_blank", rel: "noopener" }); a.appendChild(el("img", { src: "media/" + pth, alt: it.title.ja, loading: "lazy" })); box.appendChild(a); } }
+    // gallery: individual images under the cover (cover = image.path, or the first local asset)
+    const galleryItems = it.image && it.image.path ? (it.local_assets || []) : (it.local_assets || []).slice(1);
+    if (galleryItems.length) {
+      const box = $(".assets", node); box.hidden = false; box.className = "assets gallery";
+      galleryItems.forEach((pth, k) => {
+        const im = assetImg(pth, (it.image && it.image.source_url) || it.source_url);
+        const fig = el("figure", { class: "g-item", "aria-label": `${k + 1} / ${galleryItems.length}` });
+        fig.appendChild(im.sprite ? spriteCanvas(im.sprite, "g-img") : el("img", { class: "g-img", src: im.src, alt: "", loading: "lazy", decoding: "async" }));
+        fig.addEventListener("click", () => openLightbox(it, im));
+        box.appendChild(fig);
+      });
+      box.appendChild(el("span", { class: "g-count mono" }, `${galleryItems.length} ${state.lang === "ja" ? "点" : "items"}`));
+    }
     // official Instagram / TikTok embeds (production only; the artifact host blocks third-party scripts). X posts use the native card above.
     if (!window.NJAS_NO_EMBED && it.category === "sns" && (it.platform === "instagram" || it.platform === "tiktok")) {
       const cands = [(it.links || {})[it.platform], it.source_url, ...Object.values(it.links || {})].filter(Boolean);
