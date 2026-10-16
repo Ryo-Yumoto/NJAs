@@ -3,8 +3,10 @@
 
 Spec (JSON, keyed by record id):
   {"goods-2023-11-23-line-friends-hang-out-with-newjeans-collection":
-     {"cover": "https://.../lineup.jpg", "items": ["https://.../item1.jpg", ...],
+     {"cover": "https://.../lineup.jpg",
+      "items": ["https://.../item1.jpg", {"url": "https://.../item2.jpg", "title": "TOTE BAG (WHITE)"}, ...],
       "source": "https://page/where/the/images/come/from", "note": "optional editor note"}}
+Items may be plain URLs or {"url", "title"}; titles are stored in record.asset_titles (same order as local_assets).
 
 Files go to media/<category>/<id>/cover.jpg and media/<category>/<id>/01.jpg ...
 The record gets image = {"path": "<category>/<id>/cover.jpg", "source_url": source}
@@ -54,20 +56,23 @@ def main(spec_path):
             if d.exists(): shutil.rmtree(d)
             d.mkdir(parents=True)
             cover = fetch(s, sp["cover"]) if sp.get("cover") else None
-            items = []
-            for n, u in enumerate(sp.get("items") or [], 1):
+            items, titles = [], []
+            for n, it in enumerate(sp.get("items") or [], 1):
+                u, title = (it["url"], it.get("title")) if isinstance(it, dict) else (it, None)
                 im = fetch(s, u)
                 if im is None: continue
-                name = f"{n:02d}.jpg"; im.save(d / name, "JPEG", quality=88, optimize=True); items.append(f"{cat}/{r['id']}/{name}")
+                name = f"{n:02d}.jpg"; im.save(d / name, "JPEG", quality=88, optimize=True); items.append(f"{cat}/{r['id']}/{name}"); titles.append(title or "")
             if cover is None and items:
                 # no usable cover: promote the first item
-                cover_path = items.pop(0)
+                cover_path = items.pop(0); titles.pop(0)
             elif cover is not None:
                 cover.save(d / "cover.jpg", "JPEG", quality=88, optimize=True); cover_path = f"{cat}/{r['id']}/cover.jpg"
             else:
                 shutil.rmtree(d); done[r["id"]] = "nothing fetched"; continue
             r["image"] = {"path": cover_path, "source_url": sp.get("source") or r.get("source_url")}
             r["local_assets"] = items
+            if any(titles): r["asset_titles"] = titles
+            else: r.pop("asset_titles", None)
             if sp.get("note"): r["editor_note"] = (r.get("editor_note") + " / " if r.get("editor_note") else "") + sp["note"]
             done[r["id"]] = f"cover + {len(items)} items"; changed = True
         if changed: fp.write_text(json.dumps(rows, ensure_ascii=False, indent=2) + "\n")

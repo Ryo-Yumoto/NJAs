@@ -273,7 +273,9 @@
       galleryItems.forEach((pth, k) => {
         const im = assetImg(pth, (it.image && it.image.source_url) || it.source_url);
         const fig = el("figure", { class: "g-item", "aria-label": `${k + 1} / ${galleryItems.length}` });
-        fig.appendChild(im.sprite ? spriteCanvas(im.sprite, "g-img") : el("img", { class: "g-img", src: im.src, alt: "", loading: "lazy", decoding: "async" }));
+        const titles = it.image && it.image.path ? (it.asset_titles || []) : (it.asset_titles || []).slice(1);
+        fig.appendChild(im.sprite ? spriteCanvas(im.sprite, "g-img") : el("img", { class: "g-img", src: im.src, alt: titles[k] || "", loading: "lazy", decoding: "async" }));
+        if (titles[k]) fig.appendChild(el("figcaption", { class: "g-cap" }, titles[k]));
         fig.addEventListener("click", () => openLightbox(it, im));
         box.appendChild(fig);
       });
@@ -605,7 +607,7 @@
       if (e.key === "ArrowLeft" || e.key === "k") { if (state.cur <= 0) showCover(); else go(state.cur - 1); }
     });
     let tx = null, ty = null;
-    document.addEventListener("touchstart", e => { tx = e.touches[0].clientX; ty = e.touches[0].clientY; }, { passive: true });
+    document.addEventListener("touchstart", e => { if (e.target.closest(".gallery, .x-media, .media, .toc, .lightbox")) { tx = ty = null; return; } tx = e.touches[0].clientX; ty = e.touches[0].clientY; }, { passive: true });
     document.addEventListener("touchend", e => {
       if (tx == null || state.mode !== "page" || !$("#lightbox").hidden || !$("#toc").hidden) return;
       const dx = e.changedTouches[0].clientX - tx, dy = e.changedTouches[0].clientY - ty; tx = ty = null;

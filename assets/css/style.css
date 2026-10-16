@@ -194,9 +194,10 @@ canvas.x-avatar { width: 40px !important; height: 40px !important; }
 /* gallery: horizontal, swipeable strip of individual images (no cropping) */
 .gallery { position: relative; margin-top: 10px; display: flex; gap: 8px; overflow-x: auto; overscroll-behavior-x: contain; scroll-snap-type: x mandatory; padding: 2px 2px 8px; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
 .gallery::-webkit-scrollbar { display: none; }
-.g-item { margin: 0; flex: 0 0 auto; scroll-snap-align: start; cursor: zoom-in; }
-.g-item img, .g-item canvas { display: block; height: 150px; width: auto; max-width: 70vw; border-radius: 4px; outline: 1px solid var(--rule); }
-.g-item canvas:not(.ready) { background: var(--paper-2); width: 150px; }
+.g-item { margin: 0; flex: 0 0 auto; scroll-snap-align: start; cursor: zoom-in; max-width: 82vw; display: grid; gap: 6px; align-content: start; }
+.g-item img, .g-item canvas { display: block; height: 260px; width: auto; max-width: 82vw; border-radius: 4px; outline: 1px solid var(--rule); }
+.g-item canvas:not(.ready) { background: var(--paper-2); width: 200px; }
+.g-cap { font-family: var(--f-jp); font-size: 11.5px; line-height: 1.4; color: var(--ink-2); max-width: 100%; }
 .g-count { position: sticky; right: 0; align-self: flex-end; flex: 0 0 auto; font-size: 10px; color: var(--ink-3); padding-left: 6px; }
 
 /* ---------- era (chapter) page ---------- */

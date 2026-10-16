@@ -252,6 +252,13 @@
     "editor_note": {
       "type": "string",
       "description": "編集者用メモ（出典の食い違い、未確認理由、作業履歴）。本モードでは表示しない"
+    },
+    "asset_titles": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "local_assetsと同じ順の各画像の名称（商品名など）。省略可"
     }
   }
 }
