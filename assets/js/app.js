@@ -264,14 +264,26 @@
       } else fig.addEventListener("click", () => openLightbox(it, img));
     }
     if (it.local_assets && it.local_assets.length > 1) { const box = $(".assets", node); box.hidden = false; for (const pth of it.local_assets.slice(1)) { const a = el("a", { href: "media/" + pth, target: "_blank", rel: "noopener" }); a.appendChild(el("img", { src: "media/" + pth, alt: it.title.ja, loading: "lazy" })); box.appendChild(a); } }
-    // official Instagram embed (production only; the artifact host blocks third-party scripts). X posts use the native card above.
-    if (!window.NJAS_NO_EMBED && it.category === "sns" && it.platform === "instagram" && /instagram\.com\/(p|reel|tv)\//.test(it.source_url)) {
-      const url = it.source_url;
-      const box = $(".media", node); box.hidden = false; box.classList.add("embed");
-      const bq = el("blockquote", { class: "instagram-media", "data-instgrm-permalink": url.split("?")[0], "data-instgrm-version": "14" });
-      bq.appendChild(el("a", { href: url }, url)); box.appendChild(bq);
-      loadScript("https://www.instagram.com/embed.js", () => window.instgrm?.Embeds?.process());
-      $(".thumb", node).hidden = true;
+    // official Instagram / TikTok embeds (production only; the artifact host blocks third-party scripts). X posts use the native card above.
+    if (!window.NJAS_NO_EMBED && it.category === "sns" && (it.platform === "instagram" || it.platform === "tiktok")) {
+      const cands = [(it.links || {})[it.platform], it.source_url, ...Object.values(it.links || {})].filter(Boolean);
+      const ig = cands.find(u => /instagram\.com\/(p|reel|tv)\/[A-Za-z0-9_-]+/.test(u));
+      const tt = cands.find(u => /tiktok\.com\/@[^/]+\/video\/\d+/.test(u));
+      if (it.platform === "instagram" && ig) {
+        const url = ig.split("?")[0].replace(/\/?$/, "/");
+        const box = $(".media", node); box.hidden = false; box.classList.add("embed");
+        const bq = el("blockquote", { class: "instagram-media", "data-instgrm-permalink": url, "data-instgrm-version": "14" });
+        bq.appendChild(el("a", { href: url }, url)); box.appendChild(bq);
+        loadScript("https://www.instagram.com/embed.js", () => window.instgrm?.Embeds?.process());
+        $(".thumb", node).hidden = true;
+      } else if (it.platform === "tiktok" && tt) {
+        const url = tt.split("?")[0], vid = /video\/(\d+)/.exec(url)[1];
+        const box = $(".media", node); box.hidden = false; box.classList.add("embed");
+        const bq = el("blockquote", { class: "tiktok-embed", cite: url, "data-video-id": vid });
+        bq.appendChild(el("section", {}, el("a", { href: url, target: "_blank", rel: "noopener" }, url))); box.appendChild(bq);
+        loadScript("https://www.tiktok.com/embed.js", () => {});
+        $(".thumb", node).hidden = true;
+      }
     }
     const links = $(".links", node);
     if (isYt) links.appendChild(el("a", { href: `https://www.youtube.com/watch?v=${it.media.ref}`, target: "_blank", rel: "noopener" }, "youtube"));
