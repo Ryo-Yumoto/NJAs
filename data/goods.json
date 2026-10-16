@@ -1414,7 +1414,39 @@
       "venue": "Tokyo Dome",
       "sale_channel": "Weverse Shop JAPAN (pickup) / on-site"
     },
-    "editor_note": "Notice 20456 read via WebFetch (en/ja); item list and JPY prices are embedded as images and were not extracted. / Sales methods from Weverse notice 20456 (read via WebFetch, en/ja); the item list and JPY prices are embedded as images in the notice and were not extracted. Item description and 9 AM JST start from SNKRDUNK (update of 2024-06-24, secondary)."
+    "editor_note": "Notice 20456 read via WebFetch (en/ja); item list and JPY prices are embedded as images and were not extracted. / Sales methods from Weverse notice 20456 (read via WebFetch, en/ja); the item list and JPY prices are embedded as images in the notice and were not extracted. Item description and 9 AM JST start from SNKRDUNK (update of 2024-06-24, secondary). / cover = official venue lineup & JPY price list (26 tiles); items (720x864, lineup order) = NJ Supernatural photocard set, MURAKAMI plush keyring, acrylic phone grip, pin badge, cap, NJ Supernatural fan, bunini fan cover, TOKKI fan cover, MURAKAMI fan cover, fan keyring, light stick acc., light stick bag, Tokyo Dome tote (white, blue), T-shirts (white, purple, blue), MURAKAMI T-shirt (black), T-shirts (light gray, heather gray), sticker pack, metal keyring, light stick strap, towel, can badge set, bandana; venue-only 'dot sticon' has no product image",
+    "image": {
+      "path": "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/cover.jpg",
+      "source_url": "https://weverse.io/newjeansofficial/notice/20456 (cover: attached lineup/price list, 1754x2480); items: Weverse Shop product thumbnails of the same products, https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/{26894,26885,26905,26911,26900,26895,26897,26896,26915,26918,26888,26898,26675-26688}"
+    },
+    "local_assets": [
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/01.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/02.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/03.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/04.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/05.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/06.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/07.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/08.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/09.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/10.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/11.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/12.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/13.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/14.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/15.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/16.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/17.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/18.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/19.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/20.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/21.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/22.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/23.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/24.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/25.jpg",
+      "goods/goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite/26.jpg"
+    ]
   },
   {
     "id": "goods-2024-06-26-supernatural-popup-line-friends-square-myeongdong",
@@ -1549,7 +1581,27 @@
       "artwork": "Takashi Murakami",
       "sale_channel": "Weverse Shop GLOBAL"
     },
-    "editor_note": "Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/6117). / Sale facts from Weverse Shop GLOBAL notice 6117 (posted 2024-06-25; shop.weverse.io, read 2026-10-14); no prices stated."
+    "editor_note": "Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/6117). / Sale facts from Weverse Shop GLOBAL notice 6117 (posted 2024-06-25; shop.weverse.io, read 2026-10-14); no prices stated. / cover = official Tokyo Dome MD lineup posted by @NewJeans_jp 2024-06-21 (same artwork as the Weverse venue lineup; the Weverse Shop notice has no lineup image); items (720x864) = tote bag white, tote bag blue, T-shirts white, purple, blue, light gray, heather gray, NewJeans x MURAKAMI T-shirts (black), MURAKAMI towel, MURAKAMI bandana / 末尾4点は第2次予約（Weverse Shop notice 6191、2024-07-05開始）のステッカーパック、メタルキーリング、ペンライトストラップ、缶バッジセット",
+    "image": {
+      "path": "goods/goods-2024-06-28-bunnies-camp-2024-tokyo-dome-official-merch-weverse-shop/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/6117 (text only); items: https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/26675-26682,26686,26688; cover: https://x.com/NewJeans_jp/status/1804119575157682376"
+    },
+    "local_assets": [
+      "goods/goods-2024-06-28-bunnies-camp-2024-tokyo-dome-official-merch-weverse-shop/01.jpg",
+      "goods/goods-2024-06-28-bunnies-camp-2024-tokyo-dome-official-merch-weverse-shop/02.jpg",
+      "goods/goods-2024-06-28-bunnies-camp-2024-tokyo-dome-official-merch-weverse-shop/03.jpg",
+      "goods/goods-2024-06-28-bunnies-camp-2024-tokyo-dome-official-merch-weverse-shop/04.jpg",
+      "goods/goods-2024-06-28-bunnies-camp-2024-tokyo-dome-official-merch-weverse-shop/05.jpg",
+      "goods/goods-2024-06-28-bunnies-camp-2024-tokyo-dome-official-merch-weverse-shop/06.jpg",
+      "goods/goods-2024-06-28-bunnies-camp-2024-tokyo-dome-official-merch-weverse-shop/07.jpg",
+      "goods/goods-2024-06-28-bunnies-camp-2024-tokyo-dome-official-merch-weverse-shop/08.jpg",
+      "goods/goods-2024-06-28-bunnies-camp-2024-tokyo-dome-official-merch-weverse-shop/09.jpg",
+      "goods/goods-2024-06-28-bunnies-camp-2024-tokyo-dome-official-merch-weverse-shop/10.jpg",
+      "goods/goods-2024-06-28-bunnies-camp-2024-tokyo-dome-official-merch-weverse-shop/11.jpg",
+      "goods/goods-2024-06-28-bunnies-camp-2024-tokyo-dome-official-merch-weverse-shop/12.jpg",
+      "goods/goods-2024-06-28-bunnies-camp-2024-tokyo-dome-official-merch-weverse-shop/13.jpg",
+      "goods/goods-2024-06-28-bunnies-camp-2024-tokyo-dome-official-merch-weverse-shop/14.jpg"
+    ]
   },
   {
     "id": "goods-2024-07-01-line-friends-square-online-murakami-restock-preorder",
