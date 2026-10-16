@@ -80,6 +80,13 @@ http://localhost:8080/ で表示確認。URLの`#`以降に絞り込み状態が
 | goods | Weverse Shop、公式サイトのNOTICE |
 | live | 公式サイトのNOTICE、主催者・フェス公式サイト、Weverse告知 |
 
+### F2. 機械的に取得できるエンドポイント（2026-10-16 確認）
+
+- Weverse 告知: `/notice/v1.0/community-81/notices?pageNo=N` で一覧、`/notice/v1.0/notice-<id>` で本文と添付画像。署名付きリクエストが必要（Playwright不要）。
+- Weverse Shop カテゴリ: `categories/<parent>?subCategoryId=<id>&page=N`。本ネットワークからは常にUS（USD）ショップが返るため、GLOBALショップの並び順は取得できない。
+- LINE FRIENDS（Shopify）: linefriendssquare.com / .us / .jp の `collections/<handle>/products.json`。公開中の商品しか返らないため、過去ドロップの全量にはならない。ポップアップ告知は `/blogs/event/`。
+- X 投稿: api.fxtwitter.com（scripts/fetch_x.py）。投稿のカード画像（pbs.twimg.com/card_img）はリンク先の汎用画像のことがあるため、代表画像には使わない。
+
 ## 作業の委任ルール（モデルの使い分け）
 
 - 調査・収集・URL解決・画像探索・本文推敲など、エージェントに委任する作業はFableの1段下のモデル（Opus）で実行する。Fableはこのセッション本体（設計、レビュー、統合判断、公開）に限る。
