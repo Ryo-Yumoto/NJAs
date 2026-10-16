@@ -586,7 +586,7 @@
       "account": "@newjeans_official (TikTok)",
       "label": "ADOR"
     },
-    "editor_note": "Secondary source (Newsis, citing ADOR). Account opening date not stated in the article. / Figures from a Newsis report of 2022-08-08 citing ADOR's announcement ('뉴진스의 공식 틱톡 계정은 지난 6일 오후 9시께 100만 팔로워를 달성했다'). The same report gives nearly 30,000 posts using the song as of 13:00 on 2022-08-08; omitted from reader text because it post-dates the record. Account opening date not stated."
+    "editor_note": "Secondary source (Newsis, citing ADOR). Account opening date not stated in the article. / Figures from a Newsis report of 2022-08-08 citing ADOR's announcement ('뉴진스의 공식 틱톡 계정은 지난 6일 오후 9시께 100만 팔로워를 달성했다'). The same report gives nearly 30,000 posts using the song as of 13:00 on 2022-08-08; omitted from reader text because it post-dates the record. Account opening date not stated. / No dedicated 1M-followers TikTok video found in the official account's playlists (Attention, Hype Boy, Cookie, NewJeans Day, New Jeans; checked 2026-10-16 via api/mix/item_list). Nearest Attention-challenge videos: 7128326516286508290 ('5 Bunnies joined Attention Challenge', 2022-08-05 18:47 KST) and 7128568980381469954 ('@enhypen #선우 님과 Attention challenge!', 2022-08-06 10:28 KST); neither is confirmed as the challenge launch, so no link set."
   },
   {
     "id": "sns-2022-08-08-tiktok-attention-red-light-green-light",
@@ -617,7 +617,9 @@
       "label": "ADOR"
     },
     "source_url": "https://x.com/NewJeans_ADOR/status/1556650134670233600",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://vt.tiktok.com/ZSRM4vdA9/"
+    ],
     "media": {
       "type": "x",
       "ref": "https://x.com/NewJeans_ADOR/status/1556650134670233600"
@@ -629,9 +631,9 @@
       "challenge"
     ],
     "verified": false,
-    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1556650134670233600 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [TIkTok📹] / Attention 꽃이 피었습니다!😆 / Attention light Green light!😆 /  / 🔗https://vt.tiktok.com/ZSRM4vdA9/?k=1 /  / #NewJeans #뉴진스 #NewJeans_Attention  /  #MINJI #HANNI #DANIELLE #HAERIN #HYEIN. Time is that of the X cross-post; the TikTok upload may be slightly earlier.",
+    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1556650134670233600 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [TIkTok📹] / Attention 꽃이 피었습니다!😆 / Attention light Green light!😆 /  / 🔗https://vt.tiktok.com/ZSRM4vdA9/?k=1 /  / #NewJeans #뉴진스 #NewJeans_Attention  /  #MINJI #HANNI #DANIELLE #HAERIN #HYEIN. Time is that of the X cross-post; the TikTok upload may be slightly earlier. / Short link redirects to the TikTok home page from this network, so the full URL was found in the official account's TikTok playlist data (api/mix/item_list via headless Chromium) and verified 2026-10-16 via TikTok oEmbed: author newjeans_official, caption \"Attention 꽃이 피었습니다! Attention light green light! #NewJeans #NewJeans_Attention ...\" (matches the X cross-post); TikTok createTime 2022-08-08 23:09 KST.",
     "links": {
-      "tiktok": "https://vt.tiktok.com/ZSRM4vdA9/"
+      "tiktok": "https://www.tiktok.com/@newjeans_official/video/7129507192322968833"
     }
   },
   {
@@ -1337,7 +1339,10 @@
     },
     "source_url": "https://www.koreajoongangdaily.com/entertainment/chinese-commenters-target-any-mention-of-lunar-new-year/11550120",
     "reference_urls": [
-      "https://www.bollywoodhungama.com/?p=1536202"
+      "https://www.bollywoodhungama.com/?p=1536202",
+      "https://www.soompi.com/article/1563860wpp/newjeans-danielle-apologizes-for-calling-lunar-new-year-chinese-new-year",
+      "https://www.koreaboo.com/news/newjeans-danielle-apologizes-calling-lunar-new-year-chinese-new-year/",
+      "https://www.osen.co.kr/article/G1112028844"
     ],
     "media": {
       "type": "none"
@@ -1352,7 +1357,10 @@
       "account": "@newjeans_official",
       "label": "ADOR"
     },
-    "editor_note": "Secondary sources only; the Instagram post/story URL not located. Korea JoongAng Daily says the apology was posted on Instagram on Jan 21; Katadata (ID) gives Jan 23. Original Phoning message date Jan 19 (Phoning message deleted)."
+    "editor_note": "Secondary sources only; the Instagram post/story URL not located. Korea JoongAng Daily says the apology was posted on Instagram on Jan 21; Katadata (ID) gives Jan 23. Original Phoning message date Jan 19 (Phoning message deleted). / Apology was a feed post on @newjeans_official (OSEN 2023-01-21: posted via NewJeans' official Instagram). Shortcode Cnql5uLSuV5 taken from the Instagram embeds in Soompi and Koreaboo; verified 2026-10-16: HEAD 200, embed page shows owner newjeans_official and caption beginning '안녕하세요 뉴진스 다니엘입니다. 지난 1월 19일 목요일에 포닝에서...'; media-ID timestamp 2023-01-21 14:29 KST, confirming the Jan 21 date (Katadata's Jan 23 is wrong).",
+    "links": {
+      "instagram": "https://www.instagram.com/p/Cnql5uLSuV5/"
+    }
   },
   {
     "id": "sns-2023-04-03-zero-release",
@@ -2149,7 +2157,8 @@
     },
     "source_url": "https://x.com/NewJeans_ADOR/status/1692084120011362590",
     "reference_urls": [
-      "https://sportskeeda.com/pop-culture/news-oh-my-god-bts-jimin-joins-new-jeans-eta-challenge-sending-fans-frenzy"
+      "https://sportskeeda.com/pop-culture/news-oh-my-god-bts-jimin-joins-new-jeans-eta-challenge-sending-fans-frenzy",
+      "https://vt.tiktok.com/ZSLgBWmTC/"
     ],
     "media": {
       "type": "x",
@@ -2163,9 +2172,9 @@
       "BTS"
     ],
     "verified": false,
-    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1692084120011362590 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / What's your ETA ⏱️ with #BTS #Jimin 😆 /  / 🔗https://vt.tiktok.com/ZSLgBWmTC/ /  / #NewJeans #뉴진스 #DANIELLE #HANNI / #NewJeans_ETA / #Time_to_NewJeans. Time is that of the X cross-post; the TikTok upload may be slightly earlier.",
+    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1692084120011362590 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / What's your ETA ⏱️ with #BTS #Jimin 😆 /  / 🔗https://vt.tiktok.com/ZSLgBWmTC/ /  / #NewJeans #뉴진스 #DANIELLE #HANNI / #NewJeans_ETA / #Time_to_NewJeans. Time is that of the X cross-post; the TikTok upload may be slightly earlier. / Short link redirects to the TikTok home page from this network, so the full URL was found in the official account's TikTok playlist data (api/mix/item_list via headless Chromium) and verified 2026-10-16 via TikTok oEmbed: author newjeans_official, caption \"What's your ETA with #BTS #Jimin ... #NewJeans_ETA #Time_to_NewJeans\" (matches the X cross-post); TikTok createTime 2023-08-17 16:58 KST.",
     "links": {
-      "tiktok": "https://vt.tiktok.com/ZSLgBWmTC/"
+      "tiktok": "https://www.tiktok.com/@newjeans_official/video/7268197418263416082"
     }
   },
   {
@@ -2198,7 +2207,8 @@
     },
     "source_url": "https://x.com/NewJeans_ADOR/status/1693805343170826698",
     "reference_urls": [
-      "https://www.sportskeeda.com/pop-culture/news-come-on-main-slayer-fans-go-gaga-kim-tae-hyung-joins-newjeans-hype-boy-challenge"
+      "https://www.sportskeeda.com/pop-culture/news-come-on-main-slayer-fans-go-gaga-kim-tae-hyung-joins-newjeans-hype-boy-challenge",
+      "https://vt.tiktok.com/ZSLsDJUoC/"
     ],
     "media": {
       "type": "x",
@@ -2212,14 +2222,14 @@
       "BTS"
     ],
     "verified": false,
-    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1693805343170826698 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / Hype 'V'oy with #BTS #V 🧸 /  / 🔗https://vt.tiktok.com/ZSLsDJUoC/ /  / #NewJeans #뉴진스  / #NewJeans_HypeBoy / #Time_to_NewJeans. Time is that of the X cross-post; the TikTok upload may be slightly earlier.",
+    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1693805343170826698 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / Hype 'V'oy with #BTS #V 🧸 /  / 🔗https://vt.tiktok.com/ZSLsDJUoC/ /  / #NewJeans #뉴진스  / #NewJeans_HypeBoy / #Time_to_NewJeans. Time is that of the X cross-post; the TikTok upload may be slightly earlier. / Full TikTok URL taken from the TikTok embeds on GMA Network and KBizoom coverage (vt.tiktok.com short link redirects to the TikTok home page from this network); verified 2026-10-16 via TikTok oEmbed: author newjeans_official, caption \"Hype 'V'oy with #BTS #V ... #NewJeans_HypeBoy #Time_to_NewJeans\" (matches the X cross-post); video-ID timestamp 2023-08-22 10:58 KST.",
     "links": {
-      "tiktok": "https://vt.tiktok.com/ZSLsDJUoC/"
+      "tiktok": "https://www.tiktok.com/@newjeans_official/video/7269960095524588818"
     }
   },
   {
-    "id": "sns-2023-10-14-tiktok-ditto-challenge-with-jungkook",
-    "date": "2023-10-14",
+    "id": "sns-2023-10-15-tiktok-ditto-challenge-with-jungkook",
+    "date": "2023-10-15",
     "date_type": "post",
     "date_precision": "day",
     "category": "sns",
@@ -2259,7 +2269,11 @@
       "account": "@newjeans_official (TikTok)",
       "label": "ADOR"
     },
-    "editor_note": "Date 2023-10-14 from Sportskeeda; Gulf News (2023-10-16) says only \"this weekend\". TikTok video not fetched; no official X cross-post located. / Date 2023-10-14 from Sportskeeda; Gulf News (2023-10-16) says only 'this weekend' and reported both videos at close to three million views with the 'Ditto' clip ahead (post-dates the record, so left out of reader text). TikTok video not fetched; no official X cross-post located."
+    "editor_note": "Date 2023-10-14 from Sportskeeda; Gulf News (2023-10-16) says only \"this weekend\". TikTok video not fetched; no official X cross-post located. / Date 2023-10-14 from Sportskeeda; Gulf News (2023-10-16) says only 'this weekend' and reported both videos at close to three million views with the 'Ditto' clip ahead (post-dates the record, so left out of reader text). TikTok video not fetched; no official X cross-post located. / Official TikTok URL taken from the TikTok embed in the Gulf News report; verified 2026-10-16 via TikTok oEmbed: author newjeans_official, caption \"Ra-ta-ta-ta with #BTS #JungKook #NewJeans #뉴진스 #NewJeans_ditto\". Video-ID timestamp decodes to 2023-10-15 10:58 KST (2023-10-14 in US time zones), so the record date 2023-10-14 (Sportskeeda) reflects US time; KST upload date is 2023-10-15. / date moved to 2023-10-15 (TikTok createTime 10:58 KST; the 10-14 date was US time)",
+    "links": {
+      "tiktok": "https://www.tiktok.com/@newjeans_official/video/7289998786703789330"
+    },
+    "time": "10:58"
   },
   {
     "id": "sns-2023-11-04-gods-worlds-2023",
@@ -3217,7 +3231,9 @@
       "label": "ADOR"
     },
     "source_url": "https://x.com/NewJeans_ADOR/status/1793870639771910398",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://vt.tiktok.com/ZSYYNWvvT/"
+    ],
     "media": {
       "type": "x",
       "ref": "https://x.com/NewJeans_ADOR/status/1793870639771910398"
@@ -3230,9 +3246,9 @@
       "challenge"
     ],
     "verified": false,
-    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1793870639771910398 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / You're my favorite flavor 🫧🫧🫧 /  / 🔗https://vt.tiktok.com/ZSYYNWvvT/ /  / #NewJeans #뉴진스 / #NewJeans_BubbleGum / #NewJeans_is_Everywhere. Time is that of the X cross-post; the TikTok upload may be slightly earlier.",
+    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1793870639771910398 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / You're my favorite flavor 🫧🫧🫧 /  / 🔗https://vt.tiktok.com/ZSYYNWvvT/ /  / #NewJeans #뉴진스 / #NewJeans_BubbleGum / #NewJeans_is_Everywhere. Time is that of the X cross-post; the TikTok upload may be slightly earlier. / Short link redirects to the TikTok home page from this network, so the full URL was found in the official account's TikTok playlist data (api/mix/item_list via headless Chromium) and verified 2026-10-16 via TikTok oEmbed: author newjeans_official, caption \"You're my favorite flavor ... #NewJeans_BubbleGum #newjeans_is_everywhere\" (matches the X cross-post); TikTok createTime 2024-05-24 14:00 KST.",
     "links": {
-      "tiktok": "https://vt.tiktok.com/ZSYYNWvvT/"
+      "tiktok": "https://www.tiktok.com/@newjeans_official/video/7372416016846015762"
     }
   },
   {
@@ -3264,7 +3280,9 @@
       "label": "ADOR"
     },
     "source_url": "https://x.com/NewJeans_ADOR/status/1793871110418952523",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://vt.tiktok.com/ZSYYN7qeT/"
+    ],
     "media": {
       "type": "x",
       "ref": "https://x.com/NewJeans_ADOR/status/1793871110418952523"
@@ -3276,9 +3294,9 @@
       "challenge"
     ],
     "verified": false,
-    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1793871110418952523 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / 이미 우린 저기 멀리 높이 있는 풍선 같이🎈 /  / 🔗https://vt.tiktok.com/ZSYYN7qeT/ /  / #NewJeans #뉴진스 / #NewJeans_BubbleGum / #NewJeans_is_Everywhere. Time is that of the X cross-post; the TikTok upload may be slightly earlier.",
+    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1793871110418952523 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / 이미 우린 저기 멀리 높이 있는 풍선 같이🎈 /  / 🔗https://vt.tiktok.com/ZSYYN7qeT/ /  / #NewJeans #뉴진스 / #NewJeans_BubbleGum / #NewJeans_is_Everywhere. Time is that of the X cross-post; the TikTok upload may be slightly earlier. / Short link redirects to the TikTok home page from this network, so the full URL was found in the official account's TikTok playlist data (api/mix/item_list via headless Chromium) and verified 2026-10-16 via TikTok oEmbed: author newjeans_official, caption \"이미 우린 저기 멀리 높이 있는 풍선 같이 ... #NewJeans_BubbleGum #NewJeans_is_Everywhere\" (matches the X cross-post); TikTok createTime 2024-05-24 14:01 KST.",
     "links": {
-      "tiktok": "https://vt.tiktok.com/ZSYYN7qeT/"
+      "tiktok": "https://www.tiktok.com/@newjeans_official/video/7372426734999784721"
     }
   },
   {
@@ -3872,7 +3890,9 @@
       "label": "ADOR"
     },
     "source_url": "https://x.com/NewJeans_ADOR/status/1815352677754359837",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://vt.tiktok.com/ZSYWEokbw/"
+    ],
     "media": {
       "type": "x",
       "ref": "https://x.com/NewJeans_ADOR/status/1815352677754359837"
@@ -3884,9 +3904,9 @@
       "NewJeansDay"
     ],
     "verified": false,
-    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1815352677754359837 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / oh i forgot… /  / 🔗https://vt.tiktok.com/ZSYWEokbw/ /  / #NewJeans #뉴진스 / #NewJeansDay #NewJeans_2nd_Anniversary. Time is that of the X cross-post; the TikTok upload may be slightly earlier.",
+    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1815352677754359837 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / oh i forgot… /  / 🔗https://vt.tiktok.com/ZSYWEokbw/ /  / #NewJeans #뉴진스 / #NewJeansDay #NewJeans_2nd_Anniversary. Time is that of the X cross-post; the TikTok upload may be slightly earlier. / Short link redirects to the TikTok home page from this network, so the full URL was found in the official account's TikTok playlist data (Right Now playlist, api/mix/item_list via headless Chromium) and verified 2026-10-16 via TikTok oEmbed: author newjeans_official, caption \"oh i forgot... #NewJeans #뉴진스 #NewJeansDay #NewJeans_2nd_Anniversary\" (matches the X cross-post); TikTok createTime 2024-07-22 20:35 KST.",
     "links": {
-      "tiktok": "https://vt.tiktok.com/ZSYWEokbw/"
+      "tiktok": "https://www.tiktok.com/@newjeans_official/video/7394422408586726657"
     }
   },
   {
@@ -4085,7 +4105,9 @@
     "source_url": "https://www.instagram.com/jeanzforfree/",
     "reference_urls": [
       "https://www.koreajoongangdaily.com/korea/newjeans-members-set-up-new-instagram-account-buy-food-for-rally-goers/12472435",
-      "https://abs-cbn.com/entertainment/showbiz/celebrities/2024/12/15/newjeans-members-open-new-instagram-account-amid-agency-mess-1050"
+      "https://abs-cbn.com/entertainment/showbiz/celebrities/2024/12/15/newjeans-members-open-new-instagram-account-amid-agency-mess-1050",
+      "https://www.soompi.com/article/1710372wpp/newjeans-members-launch-new-instagram-account",
+      "https://www.gmanetwork.com/entertainment/showbiznews/news/118439/newjeans-unveils-new-instagram-account-for-fans/story"
     ],
     "media": {
       "type": "none"
@@ -4095,7 +4117,7 @@
       "members-account"
     ],
     "verified": false,
-    "editor_note": "Members' self-run account, not ADOR-managed; included because it became the members' primary channel after the 2024-11-28 press conference. Post shortcode not located. / Details and follower count from Korea JoongAng Daily (2024-12-14). Members' self-run account, not ADOR-managed; included because it became the members' primary channel after the 2024-11-28 press conference. Post shortcode not located."
+    "editor_note": "Members' self-run account, not ADOR-managed; included because it became the members' primary channel after the 2024-11-28 press conference. Post shortcode not located. / Details and follower count from Korea JoongAng Daily (2024-12-14). Members' self-run account, not ADOR-managed; included because it became the members' primary channel after the 2024-11-28 press conference. Post shortcode not located. / First feed post shortcode DDjGCTWSlrE located via the Instagram embeds in Soompi and GMA Network (media-ID timestamp 2024-12-14 15:15 KST), but as of 2026-10-16 instagram.com/p/DDjGCTWSlrE/ serves no post data (same response as a nonexistent shortcode; embed page empty), consistent with the April 2025 wipe of the account (renamed jeanzforfree -> njz_official -> mhdhh_friends, all posts deleted, per Malay Mail 2025-04-05). Not set as links.instagram because the embed would be broken."
   },
   {
     "id": "sns-2025-02-01-njz-official-x-account-opened",
@@ -4126,7 +4148,7 @@
       "account"
     ],
     "verified": false,
-    "editor_note": "Exact opening date not confirmed (month precision). Rebrand to NJZ announced on Instagram 2025-02-07. After the 2025-03-21 injunction the account later went dormant/renamed. | Removed 'in February 2025' retrospective framing from the summary. | fxtwitter returns 'User not found' for @NJZ_official as of 2026-10-14 (account renamed/removed). Soapcentral page blocked (Cloudflare); date 02-27 from WebSearch summary of fan-news coverage, unverified against the platform. | exact opening date unconfirmed; month precision",
+    "editor_note": "Exact opening date not confirmed (month precision). Rebrand to NJZ announced on Instagram 2025-02-07. After the 2025-03-21 injunction the account later went dormant/renamed. | Removed 'in February 2025' retrospective framing from the summary. | fxtwitter returns 'User not found' for @NJZ_official as of 2026-10-14 (account renamed/removed). Soapcentral page blocked (Cloudflare); date 02-27 from WebSearch summary of fan-news coverage, unverified against the platform. | exact opening date unconfirmed; month precision / No Instagram post applies: the record is about the @NJZ_official X account opening (platform field says instagram but the subject is X); the members' Instagram (@njz_official, later @mhdhh_friends) had all posts deleted in April 2025 (Malay Mail 2025-04-05), so no NJZ-era Instagram post can be embedded. / platform corrected to x (record is about the @NJZ_official X account)",
     "detail": {
       "ja": "ADORとの専属契約をめぐる紛争の中で開設されたNJZ名義の公式アカウント。メンバーは2025年2月7日に新名称NJZとロゴを発表し、同月後半（報道では2月27日）に@NJZ_official名義のX、YouTube、TikTokアカウントの開設を各自のInstagramで告知した。各アカウントは「NJZ」の文字とうさぎの顔を共通のブランディングに用いた。ADORは、事前協議なく開設されたアカウントは専属契約違反にあたるとの立場を示した。",
       "en": "Official accounts under the NJZ name, opened amid the dispute over the members' exclusive contract with ADOR. The members announced the new name NJZ and logo on February 7, 2025 and, later that month (February 27 per reports), used their personal Instagram accounts to announce X, YouTube and TikTok accounts under @NJZ_official. The accounts shared the branding of the letters 'NJZ' with a bunny face. ADOR stated that accounts opened without prior consultation breached the exclusive contract."
@@ -4134,7 +4156,7 @@
     "credits": {
       "account": "@NJZ_official"
     },
-    "platform": "instagram"
+    "platform": "x"
   },
   {
     "id": "sns-2025-03-22-njz-complexcon-d-1-teaser",
@@ -4249,7 +4271,8 @@
     "reference_urls": [
       "https://www.wikitree.co.kr/articles/1042850",
       "https://www.tenasia.com/amp/2025041776304",
-      "https://sportskeeda.com/us/k-pop/news-every-day-together-another-adventure-newjeans-commemorate-1-000-days-instagram-lawsuit-ador-progresses"
+      "https://sportskeeda.com/us/k-pop/news-every-day-together-another-adventure-newjeans-commemorate-1-000-days-instagram-lawsuit-ador-progresses",
+      "https://www.malaymail.com/news/showbiz/2025/04/05/rip-njz-2025-2025-newjeans-wipes-instagram-accounts-name-replaced-with-mhdhh/171972"
     ],
     "media": {
       "type": "none"
@@ -4260,7 +4283,7 @@
       "1000days"
     ],
     "verified": false,
-    "editor_note": "Members' self-run account (renamed from @jeanzforfree during the NJZ period). Entity kept as newjeans because the post marks NewJeans' 1,000th day; posted after the 2025-03-21 court injunction, during the activity pause. Post shortcode not located. / Post content known only through reports; shortcode not located. Members' self-run account (renamed from @jeanzforfree during the NJZ period); entity kept as newjeans because the post marks NewJeans' 1,000th day; posted after the 2025-03-21 injunction."
+    "editor_note": "Members' self-run account (renamed from @jeanzforfree during the NJZ period). Entity kept as newjeans because the post marks NewJeans' 1,000th day; posted after the 2025-03-21 court injunction, during the activity pause. Post shortcode not located. / Post content known only through reports; shortcode not located. Members' self-run account (renamed from @jeanzforfree during the NJZ period); entity kept as newjeans because the post marks NewJeans' 1,000th day; posted after the 2025-03-21 injunction. / No feed-post URL exists: the 1,000-day sunflower message was an Instagram Story on @mhdhh_friends (Wikitree photo credit '@mhdhh_friends (Instagram Story)'; Recreio: shared 'utilizando a ferramenta stories'), so it has expired and cannot be embedded."
   },
   {
     "id": "sns-2025-07-18-3rd-anniversary-d-4-on-air",
