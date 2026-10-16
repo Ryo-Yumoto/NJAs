@@ -31,7 +31,7 @@
       "limited"
     ],
     "verified": true,
-    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/2368, '07/25 UPDATED'). / Sale facts from Weverse Shop GLOBAL notice 2368 ('07/25 UPDATED'), read from shop.weverse.io on 2026-10-14; the notice states no price. Sourcing frame removed from reader text.",
+    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/2368, '07/25 UPDATED'). / Sale facts from Weverse Shop GLOBAL notice 2368 ('07/25 UPDATED'), read from shop.weverse.io on 2026-10-14; the notice states no price. Sourcing frame removed from reader text. / cover = Weverse Shop packshot of the Black bag (no separate lineup image; the official X post is a video); items (720x864) = Weverse Shop GLOBAL packshots of Bag ver. Black, White, Red",
     "detail": {
       "ja": "1st EP『New Jeans』のBag ver.はBlack・White・Redの3色（W210×H210mm）の限定盤で、各バッグにピンナップブック1冊（W145×H100mm、68ページ）、CD1枚、フォトカード5枚を収める。予約受付は7月25日11時から8月7日23時59分（KST）、発売・出荷は8月8日予定（海外発送可）。Weverse Shopでの購入はHanteo・Gaonチャートに100%反映される。購入上限は色ごとに6点で数量限定。公式Xは同じ日の11時03分に「限定盤 limited Album」として告知した。",
       "en": "The Bag ver. of the 1st EP New Jeans is a limited edition in three colours, Black, White and Red (W210xH210mm), each bag holding one pin-up book (W145xH100mm, 68 pages), one CD and five photocards. Pre-orders ran from 11:00 on July 25 to 23:59 on August 7 (KST), with release and shipping set for August 8 (global shipping available). Weverse Shop purchases counted 100% toward the Hanteo and Gaon charts. Orders were limited to six per colour, in limited quantities. The official X account announced it at 11:03 that day as a 'limited Album'."
@@ -39,7 +39,21 @@
     "credits": {
       "label": "ADOR",
       "sale_channel": "Weverse Shop GLOBAL"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2022-07-25-new-jeans-1st-ep-bag-ver/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/{9314,9315,9316}"
+    },
+    "local_assets": [
+      "goods/goods-2022-07-25-new-jeans-1st-ep-bag-ver/01.jpg",
+      "goods/goods-2022-07-25-new-jeans-1st-ep-bag-ver/02.jpg",
+      "goods/goods-2022-07-25-new-jeans-1st-ep-bag-ver/03.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans 1st EP 'New Jeans' Bag (Black) ver. (LIMITED)",
+      "NewJeans 1st EP 'New Jeans' Bag (White) ver. (LIMITED)",
+      "NewJeans 1st EP 'New Jeans' Bag (Red) ver. (LIMITED)"
+    ]
   },
   {
     "id": "goods-2022-07-25-new-jeans-1st-ep-bluebook-ver",
@@ -73,7 +87,7 @@
       "weverse-shop"
     ],
     "verified": true,
-    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/2368). / Sale facts and component specs from Weverse Shop GLOBAL notice 2368 (shop.weverse.io, read 2026-10-14); no price stated in the notice. Minor dimensions (log book W180xH255mm, ID card W86xH54mm, mini poster W225xH300mm) trimmed for length.",
+    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/2368). / Sale facts and component specs from Weverse Shop GLOBAL notice 2368 (shop.weverse.io, read 2026-10-14); no price stated in the notice. Minor dimensions (log book W180xH255mm, ID card W86xH54mm, mini poster W225xH300mm) trimmed for length. / cover = Weverse Shop packshot (group Bluebook); items = Weverse Shop GLOBAL listings Bluebook ver. (Random) and (Set); the shop shows one packshot per listing, not per member version",
     "detail": {
       "ja": "グループ1種とメンバー別5種の全6種。アウトボックス（W234×H309×T25mm）、ログブック（68ページ）、ピンナップブック（W225×H300mm、76ページ）、Phoningマニュアルブック（7枚）、CD、IDカード、ステッカーパック（3枚）、フォトカード5枚（W55×H85mm）、ミニポスター6枚で構成され、マニュアルブックとミニポスター以外は形態ごとに異なる。予約は7月25日11時から8月7日（KST）、発売・出荷は8月8日予定。購入上限はRANDOM6点、SET6点で、Weverse Shopでの売上はHanteo・Gaonチャートに反映される。",
       "en": "Six versions, one group and five member editions. Each contains an outbox (W234xH309xT25mm), a 68-page log book, a pin-up book (W225xH300mm, 76 pages), a seven-sheet Phoning manual book, a CD, an ID card, a three-sheet sticker pack, five photocards (W55xH85mm) and six mini posters; all but the manual book and mini posters differ by version. Pre-orders ran from 11:00 on July 25 to August 7 (KST), with release and shipping set for August 8. Limits were six RANDOM and six SET, and Weverse Shop sales counted toward the Hanteo and Gaon charts."
@@ -81,7 +95,19 @@
     "credits": {
       "label": "ADOR",
       "sale_channel": "Weverse Shop GLOBAL"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2022-07-25-new-jeans-1st-ep-bluebook-ver/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/{9312,9313}"
+    },
+    "local_assets": [
+      "goods/goods-2022-07-25-new-jeans-1st-ep-bluebook-ver/01.jpg",
+      "goods/goods-2022-07-25-new-jeans-1st-ep-bluebook-ver/02.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans 1st EP 'New Jeans' Bluebook ver. (Random)",
+      "NewJeans 1st EP 'New Jeans' Bluebook ver. (Set)"
+    ]
   },
   {
     "id": "goods-2022-07-25-new-jeans-1st-ep-weverse-albums-ver",
@@ -114,7 +140,7 @@
       "weverse-shop"
     ],
     "verified": true,
-    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/2368). / Sale facts from Weverse Shop GLOBAL notice 2368 (shop.weverse.io, read 2026-10-14); no price stated in the notice.",
+    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/2368). / Sale facts from Weverse Shop GLOBAL notice 2368 (shop.weverse.io, read 2026-10-14); no price stated in the notice. / cover = Weverse Albums ver. packshot (outbox net) attached to the official @NewJeans_ADOR pre-order post (2022-07-25); item = Weverse Shop GLOBAL packshot (sales/9317)",
     "detail": {
       "ja": "CDを含まず、QRカードからWeverse Albumsアプリで音源を聴く形態。アウトボックス（W62×H90×T15mm）、歌詞（W55×H85mm、28ページ）、フォトカード10枚セット（3種からランダム1セット）、QRカード（3種からランダム1枚）で構成される。予約は7月25日11時から8月7日（KST）、発売・出荷は8月8日予定で、購入上限は40点。公式Xは同日11時01分にWeverse Shopへのリンクを添えて告知した。",
       "en": "A format with no CD: the QR card unlocks the audio in the Weverse Albums app. It consists of an outbox (W62xH90xT15mm), a 28-page lyric booklet (W55xH85mm), a set of ten photocards (one random set of three) and a QR card (one random of three). Pre-orders ran from 11:00 on July 25 to August 7 (KST), with release and shipping set for August 8 and a limit of 40 per customer. The official X account announced it at 11:01 that day with a Weverse Shop link."
@@ -122,7 +148,17 @@
     "credits": {
       "label": "ADOR",
       "sale_channel": "Weverse Shop GLOBAL"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2022-07-25-new-jeans-1st-ep-weverse-albums-ver/cover.jpg",
+      "source_url": "https://x.com/NewJeans_ADOR/status/1551387006046900224"
+    },
+    "local_assets": [
+      "goods/goods-2022-07-25-new-jeans-1st-ep-weverse-albums-ver/01.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans 1st EP 'New Jeans' Weverse Albums ver."
+    ]
   },
   {
     "id": "goods-2022-08-11-debut-popup-store-the-hyundai-seoul",
@@ -201,7 +237,51 @@
       "label": "ADOR",
       "sale_channel": "Weverse Shop GLOBAL"
     },
-    "editor_note": "Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/2623). / Sale facts from Weverse Shop GLOBAL notice 2623 (shop.weverse.io, read 2026-10-14); no prices stated in the notice."
+    "editor_note": "Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/2623). / Sale facts from Weverse Shop GLOBAL notice 2623 (shop.weverse.io, read 2026-10-14); no prices stated in the notice. / no lineup image found (notice 2623 is text only); cover = first product; items (720x864) = the 18 Weverse Shop GLOBAL products in notice order (8 shipping 9/14, then 10 made-to-order shipping 10/19)",
+    "image": {
+      "path": "goods/goods-2022-09-02-new-jeans-1st-ep-official-merch/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/{9345,9348,9349,9350,9351,9353,9354,9358,9343,9344,9638,9346,9347,9352,9355,9356,9357,9639}"
+    },
+    "local_assets": [
+      "goods/goods-2022-09-02-new-jeans-1st-ep-official-merch/01.jpg",
+      "goods/goods-2022-09-02-new-jeans-1st-ep-official-merch/02.jpg",
+      "goods/goods-2022-09-02-new-jeans-1st-ep-official-merch/03.jpg",
+      "goods/goods-2022-09-02-new-jeans-1st-ep-official-merch/04.jpg",
+      "goods/goods-2022-09-02-new-jeans-1st-ep-official-merch/05.jpg",
+      "goods/goods-2022-09-02-new-jeans-1st-ep-official-merch/06.jpg",
+      "goods/goods-2022-09-02-new-jeans-1st-ep-official-merch/07.jpg",
+      "goods/goods-2022-09-02-new-jeans-1st-ep-official-merch/08.jpg",
+      "goods/goods-2022-09-02-new-jeans-1st-ep-official-merch/09.jpg",
+      "goods/goods-2022-09-02-new-jeans-1st-ep-official-merch/10.jpg",
+      "goods/goods-2022-09-02-new-jeans-1st-ep-official-merch/11.jpg",
+      "goods/goods-2022-09-02-new-jeans-1st-ep-official-merch/12.jpg",
+      "goods/goods-2022-09-02-new-jeans-1st-ep-official-merch/13.jpg",
+      "goods/goods-2022-09-02-new-jeans-1st-ep-official-merch/14.jpg",
+      "goods/goods-2022-09-02-new-jeans-1st-ep-official-merch/15.jpg",
+      "goods/goods-2022-09-02-new-jeans-1st-ep-official-merch/16.jpg",
+      "goods/goods-2022-09-02-new-jeans-1st-ep-official-merch/17.jpg",
+      "goods/goods-2022-09-02-new-jeans-1st-ep-official-merch/18.jpg"
+    ],
+    "asset_titles": [
+      "PHOTO SET VER.1",
+      "TOKKI RING",
+      "ACRYLIC RING",
+      "CROP TEE",
+      "MUG",
+      "MASKING TAPE (ATTENTION / ILLUSTRATION)",
+      "ACRYLIC TOPPER SET",
+      "MINI POSTER SET VER.1",
+      "BADGE",
+      "KEYRING",
+      "PHOTO SET VER.2",
+      "SMARTTOK",
+      "STICKER PACK",
+      "MASKING TAPE (TOKKI / TRACK LIST)",
+      "NOTE BOARD",
+      "PHONE CASE (IPHONE)",
+      "PHONE CASE (GALAXY)",
+      "MINI POSTER SET VER.2"
+    ]
   },
   {
     "id": "goods-2022-11-22-2023-seasons-greetings-room-722",
@@ -235,7 +315,7 @@
       "weverse-shop"
     ],
     "verified": true,
-    "editor_note": "Exact pre-order start date not confirmed (the 11-22 X post links the Weverse notice); Weverse Shop notice 3180 confirms 2nd/3rd pre-order rounds shipping 2022-12-22 and 2023-01-13. | Removed from the summary: sold out right after its December 2022 release (future knowledge as of 11-22). | Notice 9982 read via WebFetch in ko and en views. Pre-order date confirmed as 2022-11-25 11:00 KST (input said unconfirmed). / Removed provenance from reader text: details from Weverse notice 9982 (linked from the November 22 X post), which states no price; Korean-language tagline replaced with a translation.",
+    "editor_note": "Exact pre-order start date not confirmed (the 11-22 X post links the Weverse notice); Weverse Shop notice 3180 confirms 2nd/3rd pre-order rounds shipping 2022-12-22 and 2023-01-13. | Removed from the summary: sold out right after its December 2022 release (future knowledge as of 11-22). | Notice 9982 read via WebFetch in ko and en views. Pre-order date confirmed as 2022-11-25 11:00 KST (input said unconfirmed). / Removed provenance from reader text: details from Weverse notice 9982 (linked from the November 22 X post), which states no price; Korean-language tagline replaced with a translation. / cover = official ROOM 722 contents lineup image attached to the @NewJeans_ADOR post (1920x2480); item = Weverse Shop GLOBAL packshot (sales/13045)",
     "detail": {
       "ja": "11月22日に公式Xで発売が案内された。「Welcome to ROOM 722!」と題し、NewJeansの寮の722号室では何があったのだろう、と呼びかけ、722号室の日常から「第1回NewJeansアワード」、新年の抱負までデビュー1年目と2023年を収めた。構成はデスクカレンダー（26ページ）、ハードカバーダイアリー（160ページ）、フォトブック（76ページ）、ステッカーパック、ミニポスター7枚、イヤーポスター、プレイングカード（フォトカード）54枚、スペシャル映像（約77分、韓英日中字幕）のデジタルコードカード、ドアハンガー、キーリング、メモパッド。Weverse Shop GLOBALで11月25日11時（KST）に予約が始まり12月7日発売、米国ストアは2023年1月31日発売で、国内販売店は後日案内とされた。",
       "en": "Announced on the official X account on November 22. Under 'Welcome to ROOM 722!', it asks what went on in NewJeans' dorm room 722, covering daily life there, 'the 1st NewJeans Awards' and resolutions for 2023 from the debut year. Contents: desk calendar (26 pages), hard-cover diary (160 pages), photobook (76 pages), sticker pack, seven mini posters, year poster, 54 playing cards (photocards), a digital code card for a special video (about 77 minutes, Korean/English/Japanese/Chinese subtitles), door hanger, keyring and memo pad. Pre-orders opened on Weverse Shop GLOBAL at 11:00 KST on November 25 with release on December 7 (US store release January 31, 2023); Korean retailers were to be announced later."
@@ -243,7 +323,17 @@
     "credits": {
       "label": "ADOR",
       "sale_channel": "Weverse Shop GLOBAL / Weverse Shop USA"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2022-11-22-2023-seasons-greetings-room-722/cover.jpg",
+      "source_url": "https://x.com/NewJeans_ADOR/status/1594888405229473794"
+    },
+    "local_assets": [
+      "goods/goods-2022-11-22-2023-seasons-greetings-room-722/01.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans 2023 SEASON’S GREETINGS"
+    ]
   },
   {
     "id": "goods-2022-12-12-omg-message-card-ver",
@@ -277,7 +367,7 @@
       "weverse-shop"
     ],
     "verified": true,
-    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/3144 and 3145). USD price from the USA notice; KRW price not stated. / Sale facts from Weverse Shop GLOBAL notice 3144 and USA notice 3145 (shop.weverse.io, read 2026-10-14); USD price from the USA notice, KRW price not stated.",
+    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/3144 and 3145). USD price from the USA notice; KRW price not stated. / Sale facts from Weverse Shop GLOBAL notice 3144 and USA notice 3145 (shop.weverse.io, read 2026-10-14); USD price from the USA notice, KRW price not stated. / cover = Weverse Shop packshot (the official X post is a video); items = Weverse Shop GLOBAL listings Message Card ver. (Random) and (Set)",
     "detail": {
       "ja": "アウトボックス6種（W129×H174×T21mm）、メッセージカード25枚（6種）、フォトブック52ページ（6種）、歌詞カード12ページ、CD-R、フォトカード5枚、ステッカー2枚で構成される。予約は2022年12月12日11時から2023年1月1日23時59分（KST）、発売・出荷は1月2日予定（海外発送可）で、売上はHanteo・Circleチャートに100%反映される。予約特典はRANDOM購入で未公開フォトカード1枚とフォトカードフレーム1枚、SET購入で未公開フォトカード6枚、フレーム6枚、未公開レンチキュラー2枚（5種からランダム）。購入上限はRANDOM6点、SET6点で、米国ストアでの価格は21.90ドル。",
       "en": "Six outbox versions (W129xH174xT21mm), 25 message cards (six versions), a 52-page photobook (six versions), a 12-page lyric card, a CD-R, five photocards and two stickers. Pre-orders ran from 11:00 on December 12, 2022 to 23:59 on January 1, 2023 (KST), with release and shipping set for January 2 (global shipping available); sales counted 100% toward the Hanteo and Circle charts. Pre-order gifts were one unreleased photocard and one photocard frame per RANDOM, and six unreleased photocards, six frames and two unreleased lenticulars (random of five) per SET. Limits were six RANDOM and six SET. The US store price was USD 21.90."
@@ -285,7 +375,19 @@
     "credits": {
       "label": "ADOR",
       "sale_channel": "Weverse Shop GLOBAL / USA"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2022-12-12-omg-message-card-ver/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/{13105,13108}"
+    },
+    "local_assets": [
+      "goods/goods-2022-12-12-omg-message-card-ver/01.jpg",
+      "goods/goods-2022-12-12-omg-message-card-ver/02.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans ‘OMG’ Message Card ver. (Random)",
+      "NewJeans ‘OMG’ Message Card ver. (Set)"
+    ]
   },
   {
     "id": "goods-2022-12-12-omg-weverse-albums-ver",
@@ -316,7 +418,7 @@
       "weverse-shop"
     ],
     "verified": true,
-    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/3144 and 3145). / Sale facts from Weverse Shop GLOBAL notice 3144 and USA notice 3145 (shop.weverse.io, read 2026-10-14).",
+    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/3144 and 3145). / Sale facts from Weverse Shop GLOBAL notice 3144 and USA notice 3145 (shop.weverse.io, read 2026-10-14). / cover/item = Weverse Shop GLOBAL packshot (sales/13109)",
     "detail": {
       "ja": "アウトボックス（W58×H89×T11mm）、歌詞カード（W55×H85mm、28ページ）、フォトカード10枚セット（3種からランダム1セット）、QRカード（3種からランダム1枚）で構成される。予約は2022年12月12日11時から2023年1月1日（KST）、発売・出荷は1月2日予定。予約特典は未公開レンチキュラーしおり1枚（3種からランダム）。購入上限は40点で、ファンサインイベントの応募対象外。米国ストアでの価格は11.98ドル。",
       "en": "An outbox (W58xH89xT11mm), a 28-page lyric card (W55xH85mm), a set of ten photocards (one random set of three) and a QR card (one random of three). Pre-orders ran from 11:00 on December 12, 2022 to January 1, 2023 (KST), with release and shipping set for January 2. The pre-order gift was one unreleased lenticular bookmark (random of three). The limit was 40 per customer, and the version was not eligible for fansign entry. The US store price was USD 11.98."
@@ -324,7 +426,17 @@
     "credits": {
       "label": "ADOR",
       "sale_channel": "Weverse Shop GLOBAL / USA"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2022-12-12-omg-weverse-albums-ver/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/{13109}"
+    },
+    "local_assets": [
+      "goods/goods-2022-12-12-omg-weverse-albums-ver/01.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans ‘OMG’ Weverse Albums ver."
+    ]
   },
   {
     "id": "goods-2022-12-20-nu-jeans-official-merch",
@@ -365,7 +477,33 @@
       "collaboration": "Nudake",
       "sale_channel": "Weverse Shop GLOBAL"
     },
-    "editor_note": "Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/3171). / Sale facts from Weverse Shop GLOBAL notice 3171 (shop.weverse.io, read 2026-10-14); no prices stated. The link to the nine pop-up items is from Korea JoongAng Daily (2022-12-16)."
+    "editor_note": "Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/3171). / Sale facts from Weverse Shop GLOBAL notice 3171 (shop.weverse.io, read 2026-10-14); no prices stated. The link to the nine pop-up items is from Korea JoongAng Daily (2022-12-16). / no lineup image (notice 3171 text only); cover = first product; items = the 9 NU+JEANS products on Weverse Shop GLOBAL in notice order",
+    "image": {
+      "path": "goods/goods-2022-12-20-nu-jeans-official-merch/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/{13161,13162,13163,13164,13165,13166,13167,13168,13169}"
+    },
+    "local_assets": [
+      "goods/goods-2022-12-20-nu-jeans-official-merch/01.jpg",
+      "goods/goods-2022-12-20-nu-jeans-official-merch/02.jpg",
+      "goods/goods-2022-12-20-nu-jeans-official-merch/03.jpg",
+      "goods/goods-2022-12-20-nu-jeans-official-merch/04.jpg",
+      "goods/goods-2022-12-20-nu-jeans-official-merch/05.jpg",
+      "goods/goods-2022-12-20-nu-jeans-official-merch/06.jpg",
+      "goods/goods-2022-12-20-nu-jeans-official-merch/07.jpg",
+      "goods/goods-2022-12-20-nu-jeans-official-merch/08.jpg",
+      "goods/goods-2022-12-20-nu-jeans-official-merch/09.jpg"
+    ],
+    "asset_titles": [
+      "NU+JEANS POSING TOPPER",
+      "NU+JEANS DANCING TOPPER",
+      "NU+JEANS HEART TOPPER",
+      "NU+JEANS CAKE KNIFE",
+      "NU+JEANS NAPKIN & HOLDER SET",
+      "NU+JEANS MINI POP-UP CARD SET",
+      "NU+JEANS LETTER POUCH",
+      "NU+JEANS PAPER ORNAMENT",
+      "NU+JEANS GARLAND"
+    ]
   },
   {
     "id": "goods-2022-12-20-omg-official-merch",
@@ -398,7 +536,7 @@
       "omg"
     ],
     "verified": true,
-    "editor_note": "Notice is from the US store and lists PST; KST date used. | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/3170 global, 3172 USA). Input cited only the USA notice; the global notice lists the item (POSTER) and a 2023-01-13 ship date. / Sale facts from Weverse Shop GLOBAL notice 3170 and USA notice 3172 (shop.weverse.io, read 2026-10-14); no prices stated. The US notice lists PST; the KST date is used for the record.",
+    "editor_note": "Notice is from the US store and lists PST; KST date used. | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/3170 global, 3172 USA). Input cited only the USA notice; the global notice lists the item (POSTER) and a 2023-01-13 ship date. / Sale facts from Weverse Shop GLOBAL notice 3170 and USA notice 3172 (shop.weverse.io, read 2026-10-14); no prices stated. The US notice lists PST; the KST date is used for the record. / single product: Weverse Shop GLOBAL POSTER (sales/13178; USA listing is sales/13158)",
     "detail": {
       "ja": "1st Single『OMG』公式MDのPOSTER。Weverse Shop GLOBALでは12月20日11時から26日17時59分（KST）まで予約を受け付け、2023年1月13日から出荷（海外発送可）。購入上限はオプションごとに3点、計18点までで、委託販売のため他商品とは同梱できない。米国ストアでは12月19日18時から26日1時（PST）まで予約を受け付け、2月3日出荷、オプションごとに3点まで。",
       "en": "The POSTER from the 1st Single OMG official merch. Weverse Shop GLOBAL took pre-orders from 11:00 on December 20 to 17:59 on December 26 (KST), shipping from January 13, 2023 (global shipping available), limited to three per option and 18 in total; it was sold on consignment and could not ship with other products. The US store took pre-orders from 6:00 PM on December 19 to 1:00 AM on December 26 (PST), shipping February 3, three per option."
@@ -406,7 +544,17 @@
     "credits": {
       "label": "ADOR",
       "sale_channel": "Weverse Shop GLOBAL / USA"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2022-12-20-omg-official-merch/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/{13178}"
+    },
+    "local_assets": [
+      "goods/goods-2022-12-20-omg-official-merch/01.jpg"
+    ],
+    "asset_titles": [
+      "POSTER"
+    ]
   },
   {
     "id": "goods-2022-12-23-omg-nu-jeans-popup-nudake",
@@ -438,7 +586,7 @@
       "omg"
     ],
     "verified": false,
-    "editor_note": "Dates from Korea JoongAng Daily (2022-12-16). | Cake price from Ilgan Sports 2023-01-12 (secondary); exact store addresses not confirmed from an official page. / Dates, cakes and ADOR comment from Korea JoongAng Daily (2022-12-16); cake price from Ilgan Sports (2023-01-12, secondary); exact store addresses not confirmed from an official page. Press framing removed.",
+    "editor_note": "Dates from Korea JoongAng Daily (2022-12-16). | Cake price from Ilgan Sports 2023-01-12 (secondary); exact store addresses not confirmed from an official page. / Dates, cakes and ADOR comment from Korea JoongAng Daily (2022-12-16); cake price from Ilgan Sports (2023-01-12, secondary); exact store addresses not confirmed from an official page. Press framing removed. / Nudake's official project page 'OMG! NU+JEANS'; cover = the giant rabbit-cake object in the pop-up space; items = NU+JEANS cake + the GOODS in page order (names as Nudake lists them, Korean)",
     "detail": {
       "ja": "デザートブランドNudakeとのポップアップで、ソウル聖水洞と江南区ドサン公園付近の2店舗でケーキと季節商品、グッズを販売した。「OMG」MVにも登場したケーキ5種と、ツリートッパーセットやガーランドなど9品目のグッズが並び、うさぎ型のNewJeansケーキは1個36,000ウォン。ADORは「冬の雰囲気を持つ『OMG』の延長線上にあるポップアップ」と説明した。会期は2023年1月21日まで。",
       "en": "A pop-up with dessert brand Nudake at two Seoul locations, in Seongsu-dong and near Dosan Park in Gangnam, selling cakes, seasonal items and merch. The five cakes also appear in the 'OMG' music video, and nine merch items including tree topper sets and garlands were on sale; the rabbit-shaped NewJeans cake cost 36,000 KRW. ADOR described the pop-up as an extension of the winter-themed OMG. It ran until January 21, 2023."
@@ -447,7 +595,29 @@
       "collaboration": "Nudake (Gentle Monster group)",
       "label": "ADOR",
       "venue": "Nudake Seongsu / Dosan Park area, Seoul"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2022-12-23-omg-nu-jeans-popup-nudake/cover.jpg",
+      "source_url": "https://www.nudake.com/kr/project/nu-jeans/"
+    },
+    "local_assets": [
+      "goods/goods-2022-12-23-omg-nu-jeans-popup-nudake/01.jpg",
+      "goods/goods-2022-12-23-omg-nu-jeans-popup-nudake/02.jpg",
+      "goods/goods-2022-12-23-omg-nu-jeans-popup-nudake/03.jpg",
+      "goods/goods-2022-12-23-omg-nu-jeans-popup-nudake/04.jpg",
+      "goods/goods-2022-12-23-omg-nu-jeans-popup-nudake/05.jpg",
+      "goods/goods-2022-12-23-omg-nu-jeans-popup-nudake/06.jpg",
+      "goods/goods-2022-12-23-omg-nu-jeans-popup-nudake/07.jpg"
+    ],
+    "asset_titles": [
+      "누+진스 케이크",
+      "하트 토퍼",
+      "팝업 카드 세트",
+      "페이퍼 오너먼트",
+      "가랜드",
+      "냅킨/냅킨 홀더",
+      "댄싱 토퍼"
+    ]
   },
   {
     "id": "goods-2023-03-30-bunnies-global-official-fanclub-membership",
@@ -477,7 +647,7 @@
       "bunnies"
     ],
     "verified": true,
-    "editor_note": "Membership kit contents/date not confirmed from an official page. | Notice 12893 read via WebFetch (ko/en). Membership price and kit still unconfirmed. / From Weverse notice 12893 (read via WebFetch, ko/en); the notice gives no price, benefits or kit contents, and these remain unconfirmed from an official page. The 12 May 2023 notice making the fan meeting 2 DAY PASS membership-only was dropped from reader text as later than the record date.",
+    "editor_note": "Membership kit contents/date not confirmed from an official page. | Notice 12893 read via WebFetch (ko/en). Membership price and kit still unconfirmed. / From Weverse notice 12893 (read via WebFetch, ko/en); the notice gives no price, benefits or kit contents, and these remain unconfirmed from an official page. The 12 May 2023 notice making the fan meeting 2 DAY PASS membership-only was dropped from reader text as later than the record date. / cover only: 2023 Bunnies membership card image from the Weverse Shop membership listing (JAPAN shop, sales/14367, opened with the GL membership on 2023-03-30); the GL listing of 2023 is no longer served and no kit images were published",
     "detail": {
       "ja": "NewJeansのグローバル公式ファンクラブ「Bunnies」メンバーシップの加入受付が、11時（KST）にWeverseで始まった。Weverseは事前の告知で、多様なコンテンツとイベントで構成するメンバーシップの新規加入について3月30日に追って案内するとしていた。同じ告知では公式ペンライトについても、3月29日11時に商品公開、30日11時と18時に販売開始と案内された。",
       "en": "Sign-up for the NewJeans Global Official Fanclub 'Bunnies' Membership opened on Weverse at 11:00 KST. Weverse's advance notice had said details of new sign-ups for the membership, built around a range of content and events, would follow on March 30. The same notice covered the official light stick: product reveal on March 29 at 11:00 and sales on March 30 at 11:00 and 18:00."
@@ -485,7 +655,12 @@
     "credits": {
       "platform": "Weverse",
       "label": "ADOR"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2023-03-30-bunnies-global-official-fanclub-membership/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/14367"
+    },
+    "local_assets": []
   },
   {
     "id": "goods-2023-03-30-official-light-stick-binky-bong",
@@ -527,7 +702,43 @@
       "label": "ADOR",
       "sale_channel": "Weverse Shop GLOBAL"
     },
-    "editor_note": "Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/3700, 3709). KRW price from the live sale page, which may reflect current rather than launch pricing; JPY store shows 6,080 JPY currently. / Sale facts from Weverse Shop GLOBAL notices 3700 and 3709 (shop.weverse.io, read 2026-10-14). The 49,000 KRW Light Stick price seen on the live sale page (sales/14249) was dropped from reader text because it may reflect current rather than launch pricing (JPY store currently shows 6,080 JPY)."
+    "editor_note": "Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/3700, 3709). KRW price from the live sale page, which may reflect current rather than launch pricing; JPY store shows 6,080 JPY currently. / Sale facts from Weverse Shop GLOBAL notices 3700 and 3709 (shop.weverse.io, read 2026-10-14). The 49,000 KRW Light Stick price seen on the live sale page (sales/14249) was dropped from reader text because it may reflect current rather than launch pricing (JPY store currently shows 6,080 JPY). / cover = poster frame of the official light stick reveal video, @NewJeans_ADOR 2022-10-29 (x.com/NewJeans_ADOR/status/1586205934421831680, 1080x1080); items = Weverse Shop GLOBAL: Light Stick, Parts x6, Parts (HEART & STAR), Light Stick & Parts Set x6",
+    "image": {
+      "path": "goods/goods-2023-03-30-official-light-stick-binky-bong/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/{14249,14376,14377,14378,14379,14380,14381,14251,14382,14383,14384,14385,14386,14387}"
+    },
+    "local_assets": [
+      "goods/goods-2023-03-30-official-light-stick-binky-bong/01.jpg",
+      "goods/goods-2023-03-30-official-light-stick-binky-bong/02.jpg",
+      "goods/goods-2023-03-30-official-light-stick-binky-bong/03.jpg",
+      "goods/goods-2023-03-30-official-light-stick-binky-bong/04.jpg",
+      "goods/goods-2023-03-30-official-light-stick-binky-bong/05.jpg",
+      "goods/goods-2023-03-30-official-light-stick-binky-bong/06.jpg",
+      "goods/goods-2023-03-30-official-light-stick-binky-bong/07.jpg",
+      "goods/goods-2023-03-30-official-light-stick-binky-bong/08.jpg",
+      "goods/goods-2023-03-30-official-light-stick-binky-bong/09.jpg",
+      "goods/goods-2023-03-30-official-light-stick-binky-bong/10.jpg",
+      "goods/goods-2023-03-30-official-light-stick-binky-bong/11.jpg",
+      "goods/goods-2023-03-30-official-light-stick-binky-bong/12.jpg",
+      "goods/goods-2023-03-30-official-light-stick-binky-bong/13.jpg",
+      "goods/goods-2023-03-30-official-light-stick-binky-bong/14.jpg"
+    ],
+    "asset_titles": [
+      "Light Stick",
+      "Light Stick Parts (MINJI)",
+      "Light Stick Parts (HANNI)",
+      "Light Stick Parts (DANIELLE)",
+      "Light Stick Parts (HAERIN)",
+      "Light Stick Parts (HYEIN)",
+      "Light Stick Parts (NJ & TOKKI)",
+      "Light Stick Parts (HEART & STAR)",
+      "Light Stick & Parts Set (MINJI)",
+      "Light Stick & Parts Set (HANNI)",
+      "Light Stick & Parts Set (DANIELLE)",
+      "Light Stick & Parts Set (HAERIN)",
+      "Light Stick & Parts Set (HYEIN)",
+      "Light Stick & Parts Set (NJ & TOKKI)"
+    ]
   },
   {
     "id": "goods-2023-04-04-light-stick-and-parts-set-2nd-round",
@@ -565,7 +776,43 @@
       "label": "ADOR",
       "sale_channel": "Weverse Shop GLOBAL"
     },
-    "editor_note": "Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/3723). / Sale facts from Weverse Shop GLOBAL notice 3723 (shop.weverse.io, read 2026-10-14); no prices stated."
+    "editor_note": "Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/3723). / Sale facts from Weverse Shop GLOBAL notice 3723 (shop.weverse.io, read 2026-10-14); no prices stated. / same products as the first sale (notice 3723 reopened the same listings); cover = poster frame of the official light stick reveal video (x.com/NewJeans_ADOR/status/1586205934421831680); items = Weverse Shop GLOBAL Light Stick, Parts x6, Parts (HEART & STAR), Light Stick & Parts Set x6",
+    "image": {
+      "path": "goods/goods-2023-04-04-light-stick-and-parts-set-2nd-round/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/{14249,14376,14377,14378,14379,14380,14381,14251,14382,14383,14384,14385,14386,14387}"
+    },
+    "local_assets": [
+      "goods/goods-2023-04-04-light-stick-and-parts-set-2nd-round/01.jpg",
+      "goods/goods-2023-04-04-light-stick-and-parts-set-2nd-round/02.jpg",
+      "goods/goods-2023-04-04-light-stick-and-parts-set-2nd-round/03.jpg",
+      "goods/goods-2023-04-04-light-stick-and-parts-set-2nd-round/04.jpg",
+      "goods/goods-2023-04-04-light-stick-and-parts-set-2nd-round/05.jpg",
+      "goods/goods-2023-04-04-light-stick-and-parts-set-2nd-round/06.jpg",
+      "goods/goods-2023-04-04-light-stick-and-parts-set-2nd-round/07.jpg",
+      "goods/goods-2023-04-04-light-stick-and-parts-set-2nd-round/08.jpg",
+      "goods/goods-2023-04-04-light-stick-and-parts-set-2nd-round/09.jpg",
+      "goods/goods-2023-04-04-light-stick-and-parts-set-2nd-round/10.jpg",
+      "goods/goods-2023-04-04-light-stick-and-parts-set-2nd-round/11.jpg",
+      "goods/goods-2023-04-04-light-stick-and-parts-set-2nd-round/12.jpg",
+      "goods/goods-2023-04-04-light-stick-and-parts-set-2nd-round/13.jpg",
+      "goods/goods-2023-04-04-light-stick-and-parts-set-2nd-round/14.jpg"
+    ],
+    "asset_titles": [
+      "Light Stick",
+      "Light Stick Parts (MINJI)",
+      "Light Stick Parts (HANNI)",
+      "Light Stick Parts (DANIELLE)",
+      "Light Stick Parts (HAERIN)",
+      "Light Stick Parts (HYEIN)",
+      "Light Stick Parts (NJ & TOKKI)",
+      "Light Stick Parts (HEART & STAR)",
+      "Light Stick & Parts Set (MINJI)",
+      "Light Stick & Parts Set (HANNI)",
+      "Light Stick & Parts Set (DANIELLE)",
+      "Light Stick & Parts Set (HAERIN)",
+      "Light Stick & Parts Set (HYEIN)",
+      "Light Stick & Parts Set (NJ & TOKKI)"
+    ]
   },
   {
     "id": "goods-2023-04-14-2023-seasons-greetings-re-release",
@@ -594,7 +841,7 @@
       "seasons-greetings"
     ],
     "verified": false,
-    "editor_note": "Secondary source (Wikitree 2023-03-25). | Secondary source (Wikitree 2023-03-25); re-release sale channel and price not confirmed. / Announcement and background from Wikitree (2023-03-25, secondary); contents from Weverse notice 9982 plus Wikitree. Re-release sale channel and price not confirmed. The 'unusual re-release' press characterization was dropped.",
+    "editor_note": "Secondary source (Wikitree 2023-03-25). | Secondary source (Wikitree 2023-03-25); re-release sale channel and price not confirmed. / Announcement and background from Wikitree (2023-03-25, secondary); contents from Weverse notice 9982 plus Wikitree. Re-release sale channel and price not confirmed. The 'unusual re-release' press characterization was dropped. / cover = packshot attached to Weverse notice 12896 (Additional Release Notice, 3746x3227); item = Weverse Shop GLOBAL re-release listing (sales/14623)",
     "detail": {
       "ja": "2022年12月の発売直後に完売し品薄が続いていた「NewJeans 2023 SEASON'S GREETINGS」を、追加発売を求める声に応えて再び販売した。ADORは3月24日にWeverseコミュニティとファンアプリPhoningで告知していた。構成はデスクカレンダー、ダイアリー、フォトブック（76ページ）、プレイングカード（フォトカード）54枚、ミニポスター、イヤーポスター、デジタルコードカードなど。",
       "en": "'NewJeans 2023 SEASON'S GREETINGS' had sold out immediately after its December 2022 launch and remained scarce, so it was released again in answer to fan requests. ADOR announced the re-release on March 24 through the Weverse community and the fan app Phoning. Contents include a desk calendar, diary, 76-page photobook, 54 playing cards (photocards), mini posters, a year poster and a digital code card."
@@ -602,7 +849,17 @@
     "credits": {
       "label": "ADOR",
       "platform": "Weverse / Phoning"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2023-04-14-2023-seasons-greetings-re-release/cover.jpg",
+      "source_url": "https://weverse.io/newjeansofficial/notice/12896"
+    },
+    "local_assets": [
+      "goods/goods-2023-04-14-2023-seasons-greetings-re-release/01.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans 2023 SEASON’S GREETINGS"
+    ]
   },
   {
     "id": "goods-2023-06-16-bunnies-camp-2023-official-merch",
@@ -643,7 +900,43 @@
       "label": "ADOR",
       "sale_channel": "Weverse Shop GLOBAL"
     },
-    "editor_note": "Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/4061). / Sale facts from Weverse Shop GLOBAL notice 4061 (shop.weverse.io, read 2026-10-14); the notice lists items only on the category page and states no prices. The apparel/stationery description comes from the original input record."
+    "editor_note": "Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/4061). / Sale facts from Weverse Shop GLOBAL notice 4061 (shop.weverse.io, read 2026-10-14); the notice lists items only on the category page and states no prices. The apparel/stationery description comes from the original input record. / cover = official merch lineup & price list attached to Weverse notice 14244 (1000x6859, tall); items = the 14 Weverse Shop GLOBAL products (sales/15893-15906, shop order)",
+    "image": {
+      "path": "goods/goods-2023-06-16-bunnies-camp-2023-official-merch/cover.jpg",
+      "source_url": "https://weverse.io/newjeansofficial/notice/14244"
+    },
+    "local_assets": [
+      "goods/goods-2023-06-16-bunnies-camp-2023-official-merch/01.jpg",
+      "goods/goods-2023-06-16-bunnies-camp-2023-official-merch/02.jpg",
+      "goods/goods-2023-06-16-bunnies-camp-2023-official-merch/03.jpg",
+      "goods/goods-2023-06-16-bunnies-camp-2023-official-merch/04.jpg",
+      "goods/goods-2023-06-16-bunnies-camp-2023-official-merch/05.jpg",
+      "goods/goods-2023-06-16-bunnies-camp-2023-official-merch/06.jpg",
+      "goods/goods-2023-06-16-bunnies-camp-2023-official-merch/07.jpg",
+      "goods/goods-2023-06-16-bunnies-camp-2023-official-merch/08.jpg",
+      "goods/goods-2023-06-16-bunnies-camp-2023-official-merch/09.jpg",
+      "goods/goods-2023-06-16-bunnies-camp-2023-official-merch/10.jpg",
+      "goods/goods-2023-06-16-bunnies-camp-2023-official-merch/11.jpg",
+      "goods/goods-2023-06-16-bunnies-camp-2023-official-merch/12.jpg",
+      "goods/goods-2023-06-16-bunnies-camp-2023-official-merch/13.jpg",
+      "goods/goods-2023-06-16-bunnies-camp-2023-official-merch/14.jpg"
+    ],
+    "asset_titles": [
+      "BUNNIES CAMP PHOTO CARD SET",
+      "BUNNIES CAMP PHOTOBOOK",
+      "BUNNIES CAMP PHOTO SET",
+      "BUNNIES CAMP PHOTO CARD BINDER",
+      "BUNNIES CAMP KEYRING",
+      "BUNNIES CAMP CHARM",
+      "BUNNIES CAMP BOTTLE",
+      "BUNNIES CAMP WAPPEN",
+      "BUNNIES CAMP TEE",
+      "BUNNIES CAMP SET-UP HOODIE",
+      "BUNNIES CAMP SET-UP PANTS",
+      "BUNNIES CAMP BALL CAP",
+      "BUNNIES CAMP GYM SACK",
+      "BUNNIES CAMP FABRIC POUCH"
+    ]
   },
   {
     "id": "goods-2023-06-19-get-up-bunny-beach-bag-ver",
@@ -677,7 +970,7 @@
       "weverse-shop"
     ],
     "verified": true,
-    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/4096 '06/29 UPDATED', 4099 USA). JPY price from Kstyle 2023-06-30 reproducing the Japan release info. / Sale facts and components from Weverse Shop GLOBAL notice 4096 ('06/29 UPDATED') and USA notice 4099 (shop.weverse.io, read 2026-10-14); JPY price from Kstyle (2023-06-30) reproducing the Japan release info. Some dimensions trimmed for length.",
+    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/4096 '06/29 UPDATED', 4099 USA). JPY price from Kstyle 2023-06-30 reproducing the Japan release info. / Sale facts and components from Weverse Shop GLOBAL notice 4096 ('06/29 UPDATED') and USA notice 4099 (shop.weverse.io, read 2026-10-14); JPY price from Kstyle (2023-06-30) reproducing the Japan release info. Some dimensions trimmed for length. / cover = Weverse Shop packshot; items = Weverse Shop GLOBAL listings Bunny Beach Bag ver. (Random) and (Set)",
     "detail": {
       "ja": "アウトボックス6種（W215×H227×T38mm）、バッグ3種、インナーボックス3種（ランダム1種）、フォトブック（共通1冊と形態別2冊、各84ページ）、歌詞24ページ、ポストカード5枚、ブックマーク、ステッカー3枚、フォトカード5枚、CD-Rで構成される。予約は6月19日11時から7月20日23時59分（KST）、発売・出荷は7月21日予定。Weverse Shop GLOBAL限定の予約特典はRANDOMでフォトカード1枚とフォトフォンタブ1枚、SETでフォトカード6枚、フォンタブ6枚、ロゴストラップ1本、ホログラムフォトフレーム1枚。購入上限はRANDOM6点、SET4点で、日本価格は3,025円（税込）。",
       "en": "Six outbox versions (W215xH227xT38mm), a bag in three versions, an inner box (random of three), photobooks (one common plus two version-specific, 84 pages each), 24-page lyrics, five postcards, a bookmark, three stickers, five photocards and a CD-R. Pre-orders ran from 11:00 on June 19 to 23:59 on July 20 (KST), with release and shipping set for July 21. Weverse Shop GLOBAL-exclusive pre-order gifts were one photocard and one photo phone tab per RANDOM, and six photocards, six phone tabs, one logo strap and one holographic photo frame per SET. Limits were six RANDOM and four SET. The Japan price was 3,025 JPY including tax."
@@ -685,7 +978,19 @@
     "credits": {
       "label": "ADOR",
       "sale_channel": "Weverse Shop GLOBAL / USA / JAPAN"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2023-06-19-get-up-bunny-beach-bag-ver/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/{15994,15995}"
+    },
+    "local_assets": [
+      "goods/goods-2023-06-19-get-up-bunny-beach-bag-ver/01.jpg",
+      "goods/goods-2023-06-19-get-up-bunny-beach-bag-ver/02.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans 2nd EP 'Get Up' Bunny Beach Bag ver. (Random)",
+      "NewJeans 2nd EP 'Get Up' Bunny Beach Bag ver. (Set)"
+    ]
   },
   {
     "id": "goods-2023-06-19-get-up-powerpuff-girls-x-nj-box-ver",
@@ -717,7 +1022,7 @@
       "powerpuff-girls"
     ],
     "verified": true,
-    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/4096, 4099). / Sale facts and components from Weverse Shop GLOBAL notice 4096 and USA notice 4099 (shop.weverse.io, read 2026-10-14); JPY price from Kstyle.",
+    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/4096, 4099). / Sale facts and components from Weverse Shop GLOBAL notice 4096 and USA notice 4099 (shop.weverse.io, read 2026-10-14); JPY price from Kstyle. / cover/item = Weverse Shop GLOBAL packshot THE POWERPUFF GIRLS X NJ Box ver. (Random) (sales/15997)",
     "detail": {
       "ja": "Cartoon Networkの『パワーパフ ガールズ』とのコラボ盤。アウトボックス2種（W197×H133×T28mm、ランダム）、フォトブック3冊（各84ページ）、歌詞24ページ、ポストカード5枚、ブックマーク2枚、ステッカー3枚、フォトカード5枚、CD-Rで構成され、フォトブック1冊と歌詞、ステッカー1枚はBunny Beach Bag ver.と共通。予約は6月19日11時から7月20日（KST）、発売は7月21日予定。Weverse Shop GLOBAL限定の予約特典はグループフォトカード1枚とフォトノートブックタブ1枚で、購入上限はRANDOM6点。米国ストア版には北米限定ポストカードが付き、日本価格は2,750円（税込）。",
       "en": "A collaboration edition with Cartoon Network's The Powerpuff Girls: an outbox in two versions (W197xH133xT28mm, random), three 84-page photobooks, 24-page lyrics, five postcards, two bookmarks, three stickers, five photocards and a CD-R; one photobook, the lyrics and one sticker are shared with the Bunny Beach Bag ver. Pre-orders ran from 11:00 on June 19 to July 20 (KST), with release set for July 21. The Weverse Shop GLOBAL-exclusive pre-order gift was one group photocard and one photo notebook tab, with a limit of six RANDOM. The US store edition adds a North American retail-exclusive postcard. The Japan price was 2,750 JPY including tax."
@@ -726,7 +1031,17 @@
       "label": "ADOR",
       "collaboration": "Cartoon Network (The Powerpuff Girls)",
       "sale_channel": "Weverse Shop GLOBAL / USA / JAPAN"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2023-06-19-get-up-powerpuff-girls-x-nj-box-ver/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/{15997}"
+    },
+    "local_assets": [
+      "goods/goods-2023-06-19-get-up-powerpuff-girls-x-nj-box-ver/01.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans 2nd EP 'Get Up' THE POWERPUFF GIRLS X NJ Box ver. (Random)"
+    ]
   },
   {
     "id": "goods-2023-06-19-get-up-weverse-albums-ver",
@@ -757,7 +1072,7 @@
       "weverse-shop"
     ],
     "verified": true,
-    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/4096, 4099). / Sale facts from Weverse Shop GLOBAL notice 4096 and USA notice 4099 (shop.weverse.io, read 2026-10-14); no price stated.",
+    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/4096, 4099). / Sale facts from Weverse Shop GLOBAL notice 4096 and USA notice 4099 (shop.weverse.io, read 2026-10-14); no price stated. / cover = Weverse Shop packshot; items = Weverse Shop GLOBAL listings Weverse Albums ver. (Random) and (Set)",
     "detail": {
       "ja": "アウトボックス3種（W62×H92×T16mm）、歌詞28ページ（W55×H85mm）、フォトカード10枚セット（3種）、QRカード（3種）で構成される。予約は6月19日11時から7月20日23時59分（KST）、発売・出荷は7月21日予定。Weverse Shop GLOBAL限定の予約特典はRANDOMで取り外せるロゴステッカー1枚（3種からランダム）、SETで3枚セット。購入上限はRANDOM40点、SET15点で、ビデオ通話ファンサイン抽選の対象外。米国ストアではBillboardチャート集計の対象外だった。",
       "en": "An outbox in three versions (W62xH92xT16mm), 28-page lyrics (W55xH85mm), a set of ten photocards (three versions) and a QR card (three versions). Pre-orders ran from 11:00 on June 19 to 23:59 on July 20 (KST), with release and shipping set for July 21. The Weverse Shop GLOBAL-exclusive pre-order gift was one removable logo sticker (random of three) per RANDOM or a set of three per SET. Limits were 40 RANDOM and 15 SET; the version was not eligible for the video-call fansign raffle, and on the US store it was excluded from Billboard chart counting."
@@ -765,7 +1080,19 @@
     "credits": {
       "label": "ADOR",
       "sale_channel": "Weverse Shop GLOBAL / USA"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2023-06-19-get-up-weverse-albums-ver/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/{16000,16001}"
+    },
+    "local_assets": [
+      "goods/goods-2023-06-19-get-up-weverse-albums-ver/01.jpg",
+      "goods/goods-2023-06-19-get-up-weverse-albums-ver/02.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans 2nd EP 'Get Up' Weverse Albums ver. (Random)",
+      "NewJeans 2nd EP 'Get Up' Weverse Albums ver. (Set)"
+    ]
   },
   {
     "id": "goods-2023-08-02-line-friends-x-newjeans-exclusive-collection-preorder",
@@ -796,7 +1123,7 @@
       "bunini"
     ],
     "verified": false,
-    "editor_note": "Dates from SNKRDUNK Magazine's running update; LINE FRIENDS official notice not fetched. | Launch date reworded as the announced schedule. | Secondary sources (Lady Kyunghyang, MTN, SNKRDUNK); LINE FRIENDS official notice not fetched; no prices found. / Facts from Lady Kyunghyang (2023-08-01), MTN (2023-08-10) and SNKRDUNK Magazine's running update (all secondary); LINE FRIENDS official notice not fetched; no prices found. Press framing removed.",
+    "editor_note": "Dates from SNKRDUNK Magazine's running update; LINE FRIENDS official notice not fetched. | Launch date reworded as the announced schedule. | Secondary sources (Lady Kyunghyang, MTN, SNKRDUNK); LINE FRIENDS official notice not fetched; no prices found. / Facts from Lady Kyunghyang (2023-08-01), MTN (2023-08-10) and SNKRDUNK Magazine's running update (all secondary); LINE FRIENDS official notice not fetched; no prices found. Press framing removed. / LINE FRIENDS SQUARE US (ex LINE FRIENDS COLLECTION) 'NJ PRE ORDER EVENT' collection; items = the 10 products still published (collection lists 22); no lineup image, cover = first product",
     "detail": {
       "ja": "IPX（旧LINE FRIENDS）がNewJeansとの公式IP商品事業の提携を発表し、2nd EP『Get Up』に合わせた最初のコレクションのオンライン予約を8月4日まで実施した。IMPRESSIVE PRESENTとLINE FRIENDS COLLECTIONで、ぬいぐるみやスマホケースなどbunini版とパワーパフガールズ版の一部商品を受け付け、50ドル以上の注文には「Get Up」エコバッグが付いた。buniniはNewJeansのうさぎ（Tokki）とIPXのmininiを掛け合わせた新キャラクターで、「ASAP」MVに登場した。一部商品は公開直後に完売し、8月17日19時（PDT）にLINE FRIENDS COLLECTIONでグローバル発売される予定だった。",
       "en": "IPX (formerly LINE FRIENDS) announced an official NewJeans IP merchandise partnership and ran online pre-orders for the first collection, tied to the 2nd EP Get Up, until August 4. The IMPRESSIVE PRESENT mall and LINE FRIENDS COLLECTION took orders for selected bunini and Powerpuff Girls-version items such as plush toys and phone cases, and orders over USD 50 came with a 'Get Up' reusable bag. bunini is a new character combining NewJeans' rabbit Tokki with IPX's minini, first seen in the 'ASAP' music video. Some items sold out shortly after going live, and a global launch on LINE FRIENDS COLLECTION was set for August 17 at 7 PM PDT."
@@ -805,7 +1132,35 @@
       "brand": "IPX (LINE FRIENDS)",
       "label": "ADOR",
       "sale_channel": "LINE FRIENDS COLLECTION / IMPRESSIVE PRESENT"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2023-08-02-line-friends-x-newjeans-exclusive-collection-preorder/cover.jpg",
+      "source_url": "https://linefriendssquare.us/collections/nj-pre-order-event"
+    },
+    "local_assets": [
+      "goods/goods-2023-08-02-line-friends-x-newjeans-exclusive-collection-preorder/01.jpg",
+      "goods/goods-2023-08-02-line-friends-x-newjeans-exclusive-collection-preorder/02.jpg",
+      "goods/goods-2023-08-02-line-friends-x-newjeans-exclusive-collection-preorder/03.jpg",
+      "goods/goods-2023-08-02-line-friends-x-newjeans-exclusive-collection-preorder/04.jpg",
+      "goods/goods-2023-08-02-line-friends-x-newjeans-exclusive-collection-preorder/05.jpg",
+      "goods/goods-2023-08-02-line-friends-x-newjeans-exclusive-collection-preorder/06.jpg",
+      "goods/goods-2023-08-02-line-friends-x-newjeans-exclusive-collection-preorder/07.jpg",
+      "goods/goods-2023-08-02-line-friends-x-newjeans-exclusive-collection-preorder/08.jpg",
+      "goods/goods-2023-08-02-line-friends-x-newjeans-exclusive-collection-preorder/09.jpg",
+      "goods/goods-2023-08-02-line-friends-x-newjeans-exclusive-collection-preorder/10.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans bunini Costume Plush (Yellow)",
+      "NewJeans bunini Costume Plush (Blue)",
+      "NewJeans bunini Costume Plush (White)",
+      "NewJeans bunini Costume Plush (Green)",
+      "NewJeans bunini Costume Plush (Pink)",
+      "NewJeans bunini Doll Keyring (White)",
+      "NewJeans bunini Doll Keyring (Yellow)",
+      "NewJeans bunini Doll Keyring (Blue)",
+      "NewJeans bunini Doll Keyring (Pink)",
+      "NewJeans bunini Doll Keyring (Green)"
+    ]
   },
   {
     "id": "goods-2023-08-11-line-friends-newjeans-popup-gangnam-hongdae",
@@ -878,7 +1233,7 @@
       "collab"
     ],
     "verified": false,
-    "editor_note": "Secondary source; PDT date. | Secondary source (SNKRDUNK running update); PDT date. | removed from reader text: [detail.ja] 価格は確認できていない。 [detail.en] Prices were not confirmed. / From SNKRDUNK's running update (2023-09-07, secondary); PDT date; prices not confirmed.",
+    "editor_note": "Secondary source; PDT date. | Secondary source (SNKRDUNK running update); PDT date. | removed from reader text: [detail.ja] 価格は確認できていない。 [detail.en] Prices were not confirmed. / From SNKRDUNK's running update (2023-09-07, secondary); PDT date; prices not confirmed. / LINE FRIENDS SQUARE US 'NewJeans 2nd Edition' collection; items = the 20 products still published (collection lists 27); no lineup image, cover = first product",
     "detail": {
       "ja": "パワーパフガールズ×NewJeansのカードホルダー、バニーペン、ネックピローなどの追加商品が、19時（PDT）にLINE FRIENDS COLLECTIONでグローバル発売された。初回と同様、50,000ウォン以上の注文には「Get Up」エコバッグが付く。2nd EP『Get Up』に合わせたIPX（旧LINE FRIENDS）との公式IP商品の、第2弾のオンライン展開だった。",
       "en": "Additional Powerpuff Girls x NewJeans items including card holders, bunny pens and neck pillows launched globally on LINE FRIENDS COLLECTION at 7 PM PDT. As with the first drop, orders over 50,000 KRW came with a 'Get Up' reusable bag. It was the second online wave of the official IP merchandise with IPX (formerly LINE FRIENDS) tied to the 2nd EP Get Up."
@@ -887,7 +1242,55 @@
       "brand": "IPX (LINE FRIENDS)",
       "collaboration": "Cartoon Network (The Powerpuff Girls)",
       "sale_channel": "LINE FRIENDS COLLECTION"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/cover.jpg",
+      "source_url": "https://linefriendssquare.us/collections/newjeans-2nd-edition-pre-order"
+    },
+    "local_assets": [
+      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/01.jpg",
+      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/02.jpg",
+      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/03.jpg",
+      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/04.jpg",
+      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/05.jpg",
+      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/06.jpg",
+      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/07.jpg",
+      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/08.jpg",
+      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/09.jpg",
+      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/10.jpg",
+      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/11.jpg",
+      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/12.jpg",
+      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/13.jpg",
+      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/14.jpg",
+      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/15.jpg",
+      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/16.jpg",
+      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/17.jpg",
+      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/18.jpg",
+      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/19.jpg",
+      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/20.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans TOKKI Plush Face Pouch (Yellow)",
+      "NewJeans TOKKI Plush Face Pouch (Blue)",
+      "NewJeans TOKKI Plush Face Pouch (Pink)",
+      "NewJeans TOKKI Plush Face Pouch (Green)",
+      "NewJeans TOKKI Plush Eye Mask (Yellow)",
+      "NewJeans TOKKI Plush Eye Mask (Blue)",
+      "NewJeans TOKKI Plush Eye Mask (Pink)",
+      "NewJeans TOKKI Plush Eye Mask (Green)",
+      "NewJeans bunini Keyring (Blue Multi)",
+      "NewJeans bunini Keyring (Pink Multi)",
+      "NewJeans bunini Plush Photo Card Holder Keyring (Yellow)",
+      "NewJeans bunini Plush Photo Card Holder Keyring (White)",
+      "NewJeans bunini Plush Photo Card Holder Keyring (Blue)",
+      "NewJeans bunini Plush Photo Card Holder Keyring (Pink)",
+      "NewJeans bunini Plush Photo Card Holder Keyring (Green)",
+      "NewJeans bunini Plush Pen (Yellow)",
+      "NewJeans bunini Plush Pen (White)",
+      "NewJeans bunini Plush Pen (Blue)",
+      "NewJeans bunini Plush Pen (Pink)",
+      "NewJeans bunini Plush Pen (Green)"
+    ]
   },
   {
     "id": "goods-2023-09-23-play-line-friends-newjeans-popup-manila",
@@ -995,7 +1398,7 @@
       "collab"
     ],
     "verified": false,
-    "editor_note": "Secondary source; PST date. | Secondary source (SNKRDUNK running update); PST date. | removed from reader text: [detail.ja] 価格は確認できていない。 [detail.en] Prices were not confirmed. / From SNKRDUNK's running update (2023-11-23, secondary); PST date; prices not confirmed.",
+    "editor_note": "Secondary source; PST date. | Secondary source (SNKRDUNK running update); PST date. | removed from reader text: [detail.ja] 価格は確認できていない。 [detail.en] Prices were not confirmed. / From SNKRDUNK's running update (2023-11-23, secondary); PST date; prices not confirmed. / LINE FRIENDS SQUARE US 'Hang Out with NewJeans' collection; items = the 15 products still published (collection lists 24); no lineup image, cover = first product",
     "detail": {
       "ja": "LINE FRIENDSとNewJeansの追加コレクションで、グラフィックTシャツ、バッグ、ヘアバンドなどで構成され、18時（PST）にLINE FRIENDS COLLECTIONでグローバル発売された。8月の初回コレクション、9月のパワーパフガールズ版第2弾、10月のスマホケース（パワーパフガールズ版を含み、購入ごとにキャラクターフォトカード付き、10月17〜19日PDTに予約受付）に続く展開。",
       "en": "An additional LINE FRIENDS x NewJeans collection of graphic tees, bags, headbands and more, launched globally on LINE FRIENDS COLLECTION at 6 PM PST. It followed the first collection in August, the Powerpuff Girls second drop in September and the October smartphone-case line-up (including Powerpuff Girls designs, with a character photocard per case, pre-ordered October 17 to 19 PDT)."
@@ -1003,7 +1406,45 @@
     "credits": {
       "brand": "IPX (LINE FRIENDS)",
       "sale_channel": "LINE FRIENDS COLLECTION"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2023-11-23-line-friends-hang-out-with-newjeans-collection/cover.jpg",
+      "source_url": "https://linefriendssquare.us/collections/hang-out-with-newjeans"
+    },
+    "local_assets": [
+      "goods/goods-2023-11-23-line-friends-hang-out-with-newjeans-collection/01.jpg",
+      "goods/goods-2023-11-23-line-friends-hang-out-with-newjeans-collection/02.jpg",
+      "goods/goods-2023-11-23-line-friends-hang-out-with-newjeans-collection/03.jpg",
+      "goods/goods-2023-11-23-line-friends-hang-out-with-newjeans-collection/04.jpg",
+      "goods/goods-2023-11-23-line-friends-hang-out-with-newjeans-collection/05.jpg",
+      "goods/goods-2023-11-23-line-friends-hang-out-with-newjeans-collection/06.jpg",
+      "goods/goods-2023-11-23-line-friends-hang-out-with-newjeans-collection/07.jpg",
+      "goods/goods-2023-11-23-line-friends-hang-out-with-newjeans-collection/08.jpg",
+      "goods/goods-2023-11-23-line-friends-hang-out-with-newjeans-collection/09.jpg",
+      "goods/goods-2023-11-23-line-friends-hang-out-with-newjeans-collection/10.jpg",
+      "goods/goods-2023-11-23-line-friends-hang-out-with-newjeans-collection/11.jpg",
+      "goods/goods-2023-11-23-line-friends-hang-out-with-newjeans-collection/12.jpg",
+      "goods/goods-2023-11-23-line-friends-hang-out-with-newjeans-collection/13.jpg",
+      "goods/goods-2023-11-23-line-friends-hang-out-with-newjeans-collection/14.jpg",
+      "goods/goods-2023-11-23-line-friends-hang-out-with-newjeans-collection/15.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans bunini Hooded Blanket (Blue)",
+      "NewJeans bunini Hooded Blanket (Green)",
+      "NewJeans bunini Plush Crossbody Mini Bag (Pink)",
+      "NewJeans bunini Plush Crossbody Mini Bag (White)",
+      "NewJeans bunini Bag Charm (Yellow)",
+      "NewJeans bunini Bag Charm (Green)",
+      "NewJeans bunini Bag Charm (Pink)",
+      "NewJeans bunini Hooded Blanket (White)",
+      "NewJeans bunini Hooded Blanket (Yellow)",
+      "NewJeans bunini Hooded Blanket (Pink)",
+      "NewJeans bunini Bag Charm (Blue)",
+      "NewJeans bunini Plush Crossbody Mini Bag (Blue)",
+      "NewJeans bunini Plush Crossbody Mini Bag (Green)",
+      "NewJeans bunini Plush Crossbody Mini Bag (Yellow)",
+      "NewJeans Plush Cat Ear Headband"
+    ]
   },
   {
     "id": "goods-2023-11-29-2024-seasons-greetings",
@@ -1037,7 +1478,7 @@
       "weverse-shop"
     ],
     "verified": true,
-    "editor_note": "Additional pre-order rounds opened 2023-12-08, 12-15 and 12-29. | Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/4975; later rounds 5053 on 12-08, 5085 on 12-15, 5152 on 12-29). / Sale facts and contents from Weverse Shop GLOBAL notice 4975 (shop.weverse.io, read 2026-10-14); no price stated. Later pre-order rounds (notices 5053 on 12-08, 5085 on 12-15, 5152 on 12-29) are after the record date and stay out of reader text.",
+    "editor_note": "Additional pre-order rounds opened 2023-12-08, 12-15 and 12-29. | Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/4975; later rounds 5053 on 12-08, 5085 on 12-15, 5152 on 12-29). / Sale facts and contents from Weverse Shop GLOBAL notice 4975 (shop.weverse.io, read 2026-10-14); no price stated. Later pre-order rounds (notices 5053 on 12-08, 5085 on 12-15, 5152 on 12-29) are after the record date and stay out of reader text. / cover = packshot attached to Weverse notice 16549 (1920x1920); item = Weverse Shop GLOBAL packshot (sales/20800)",
     "detail": {
       "ja": "予約は11月29日11時から12月10日23時59分（KST）、発売・出荷は12月11日予定（海外発送可）。アウトボックス（213×313×30mm）にデスクカレンダー（26ページ）、綴じ部分が見える製本のダイアリー（160ページ）、フォトブック（80ページ、210×297mm）、ハンドブック（28ページ）、イヤーポスター、ミニポスター7枚、フォトフレームキーリングとIDポートレート5枚、ウィークリーチャレンジカード（53枚とインデックスカード4枚、ケース入り）、デジタルコードセット（約88分・最大4Kの映像、韓英日中字幕、再生プラスチックにシルバーチェーン）、ステッカー3枚を収める。Weverse Shop GLOBALの予約特典は未公開ホログラムグループ写真1枚とドアハンギングフォトフレーム1枚、購入上限は8点。FSC認証紙と大豆インクを使用した。",
       "en": "Pre-orders ran from 11:00 on November 29 to 23:59 on December 10 (KST), with release and shipping set for December 11 (global shipping available). The outbox (213x313x30mm) holds a 26-page desk calendar, an exposed-binding 160-page diary, an 80-page photobook (210x297mm), a 28-page handbook, a year poster, seven mini posters, a photo frame keyring with five ID portraits, weekly challenge cards (53 cards plus four index cards in a case), a digital code set (about 88 minutes of video up to 4K, Korean/English/Japanese/Chinese subtitles, recycled plastic with a silver chain) and three stickers. Weverse Shop GLOBAL pre-order gifts were one unreleased holographic group photo and one door-hanging photo frame, with a limit of eight. The set uses FSC-certified paper and soy ink."
@@ -1045,7 +1486,17 @@
     "credits": {
       "label": "ADOR",
       "sale_channel": "Weverse Shop GLOBAL"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2023-11-29-2024-seasons-greetings/cover.jpg",
+      "source_url": "https://weverse.io/newjeansofficial/notice/16549"
+    },
+    "local_assets": [
+      "goods/goods-2023-11-29-2024-seasons-greetings/01.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans 2024 SEASON'S GREETINGS"
+    ]
   },
   {
     "id": "goods-2024-04-26-how-sweet-standard-ver",
@@ -1078,7 +1529,7 @@
       "weverse-shop"
     ],
     "verified": true,
-    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/5748); components and JPY price from Tower Records (retailer). / Sale facts from Weverse Shop GLOBAL notice 5748 (shop.weverse.io, read 2026-10-14); components, track list and JPY price from the Tower Records listing (2024-04-26, retailer). Hanteo/Circle chart counting, outbox size and fansign-raffle eligibility trimmed from detail.ja for length (kept in detail.en).",
+    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/5748); components and JPY price from Tower Records (retailer). / Sale facts from Weverse Shop GLOBAL notice 5748 (shop.weverse.io, read 2026-10-14); components, track list and JPY price from the Tower Records listing (2024-04-26, retailer). Hanteo/Circle chart counting, outbox size and fansign-raffle eligibility trimmed from detail.ja for length (kept in detail.en). / cover = Weverse Shop packshot; items = Weverse Shop USA Standard ver. (Random packshot, sales/24745) and Weverse Shop GLOBAL Standard ver. (Set) (sales/25520); the GLOBAL (Random) listing is no longer served",
     "detail": {
       "ja": "予約は4月26日11時から5月23日23時59分（KST）、発売・出荷は5月24日予定（海外発送可）で、売上はHanteo・Circleチャートに反映される。Standard ver.はグループ1種とメンバー別5種の全6形態で、アウトボックス（312×312×25mm）、インタビューブック（44ページ）、フォトブック（76ページ）、ミニポスター、CD、CDエンベロープ、ステッカーパック（5枚）、フォトカード5枚、ポストカード、ブックマークを収め、収録曲は「How Sweet」「Bubble Gum」と各インスト。予約特典はRANDOMでフォトカード1枚とホログラムフォトフレーム1枚（6種からランダム）、SETでフォトカード6枚、フレーム6枚、ロゴ缶ケース。購入上限はRANDOM10点、SET2点で、ビデオ通話ファンサイン抽選の対象。日本価格は2,420円（税込）。",
       "en": "Pre-orders ran from 11:00 on April 26 to 23:59 on May 23 (KST), with release and shipping set for May 24 (global shipping available); sales counted toward the Hanteo and Circle charts. The Standard ver. comes in six versions (one group, five member) with an outbox (312x312x25mm), a 44-page interview book, a 76-page photobook, a mini poster, CD, CD envelope, five-piece sticker pack, five photocards, a postcard and a bookmark. Tracks are 'How Sweet', 'Bubble Gum' and both instrumentals. Pre-order gifts were one photocard and one holographic photo frame (random of six) per RANDOM, and six photocards, six frames and a logo tin case per SET. Limits were ten RANDOM and two SET, with eligibility for the video-call fansign raffle. The Japan price was 2,420 JPY including tax."
@@ -1086,7 +1537,19 @@
     "credits": {
       "label": "ADOR",
       "sale_channel": "Weverse Shop GLOBAL / USA / JAPAN"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2024-04-26-how-sweet-standard-ver/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/{24745,25520}"
+    },
+    "local_assets": [
+      "goods/goods-2024-04-26-how-sweet-standard-ver/01.jpg",
+      "goods/goods-2024-04-26-how-sweet-standard-ver/02.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans 'How Sweet' Standard ver.",
+      "NewJeans 'How Sweet' Standard ver. (Set)"
+    ]
   },
   {
     "id": "goods-2024-04-26-how-sweet-weverse-albums-ver",
@@ -1117,7 +1580,7 @@
       "weverse-shop"
     ],
     "verified": true,
-    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/5748); components from Tower Records. / Sale facts from Weverse Shop GLOBAL notice 5748 (shop.weverse.io, read 2026-10-14); components from the Tower Records listing; no price stated in the notice.",
+    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/5748); components from Tower Records. / Sale facts from Weverse Shop GLOBAL notice 5748 (shop.weverse.io, read 2026-10-14); components from the Tower Records listing; no price stated in the notice. / cover/item = Weverse Shop USA packshot of the three Weverse Albums ver. outboxes (sales/24746); the GLOBAL listing is no longer served",
     "detail": {
       "ja": "予約は4月26日11時から5月23日（KST）、発売・出荷は5月24日予定。アウトボックス3種（62×92×16mm）、歌詞ブック28ページ（55×85mm）、形態別フォトカード10枚セット、QRカードで構成され、CDを含まないQRカード形式。予約特典はRANDOMでロゴカードスキンステッカー1枚（3種からランダム）、SETで3枚セット。購入上限はRANDOM30点、SET10点。",
       "en": "Pre-orders ran from 11:00 on April 26 to May 23 (KST), with release and shipping set for May 24. It consists of an outbox in three versions (62x92x16mm), a 28-page lyric book (55x85mm), a version-specific set of ten photocards and a QR card, in the CD-free QR-card format. Pre-order gifts were one logo card-skin sticker (random of three) per RANDOM or a set of three per SET. Limits were 30 RANDOM and ten SET."
@@ -1125,7 +1588,17 @@
     "credits": {
       "label": "ADOR",
       "sale_channel": "Weverse Shop GLOBAL / USA / JAPAN"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2024-04-26-how-sweet-weverse-albums-ver/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/{24746}"
+    },
+    "local_assets": [
+      "goods/goods-2024-04-26-how-sweet-weverse-albums-ver/01.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans ‘How Sweet’ Standard ver. (Weverse Albums ver.)"
+    ]
   },
   {
     "id": "goods-2024-05-10-supernatural-nj-x-murakami-cross-bag-ver",
@@ -1157,7 +1630,7 @@
       "murakami"
     ],
     "verified": true,
-    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/5839). SNKRDUNK cites Weverse Shop prices ranging US$8.93-75.85 across versions (not per version). / Sale facts from Weverse Shop GLOBAL notice 5839 (shop.weverse.io, read 2026-10-14); bag design and contents from Xports News. No price stated in the notice; SNKRDUNK cites Weverse Shop prices of USD 8.93 to 75.85 across versions (not per version).",
+    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/5839). SNKRDUNK cites Weverse Shop prices ranging US$8.93-75.85 across versions (not per version). / Sale facts from Weverse Shop GLOBAL notice 5839 (shop.weverse.io, read 2026-10-14); bag design and contents from Xports News. No price stated in the notice; SNKRDUNK cites Weverse Shop prices of USD 8.93 to 75.85 across versions (not per version). / cover = Weverse Shop packshot of the five bags; items = Weverse Shop GLOBAL listings Cross Bag ver. (Random) and (Set)",
     "detail": {
       "ja": "日本デビューシングル『Supernatural』の予約は5月10日11時から6月20日23時59分（KST）、発売・出荷は6月21日予定（海外発送可）。NJ X MURAKAMI Cross Bag ver.は5色展開で、うさぎ型のBinky Bongと村上隆のフラワーを組み合わせたキャラクターが描かれ、フォトブック、ジュエルケース、ブックレット、フォトカード、ポストカードを収める。予約特典はRANDOMでフォトカード1枚とフォトマグネット1枚（5種からランダム、購入形態と同じ絵柄）、SETでフォトカード5枚、マグネット5枚、ロゴステッカー3枚。購入上限はRANDOM15点、SET3点。",
       "en": "Pre-orders for the Japan debut single Supernatural ran from 11:00 on May 10 to 23:59 on June 20 (KST), with release and shipping set for June 21 (global shipping available). The NJ X MURAKAMI Cross Bag ver. comes in five colors, carrying a character that combines the rabbit-shaped Binky Bong with Takashi Murakami's flower, and holds a photobook, jewel case, booklet, photocards and a postcard. Pre-order gifts were one photocard and one photo magnet (random of five, matching the version bought) per RANDOM, and five photocards, five magnets and three logo stickers per SET. Limits were 15 RANDOM and three SET."
@@ -1166,7 +1639,19 @@
       "label": "ADOR",
       "artwork": "Takashi Murakami",
       "sale_channel": "Weverse Shop GLOBAL / USA / JAPAN"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2024-05-10-supernatural-nj-x-murakami-cross-bag-ver/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/{25139,25140}"
+    },
+    "local_assets": [
+      "goods/goods-2024-05-10-supernatural-nj-x-murakami-cross-bag-ver/01.jpg",
+      "goods/goods-2024-05-10-supernatural-nj-x-murakami-cross-bag-ver/02.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans 'Supernatural' NJ X MURAKAMI Cross Bag ver. (Random)",
+      "NewJeans 'Supernatural' NJ X MURAKAMI Cross Bag ver. (Set)"
+    ]
   },
   {
     "id": "goods-2024-05-10-supernatural-nj-x-murakami-drawstring-bag-ver",
@@ -1198,7 +1683,7 @@
       "murakami"
     ],
     "verified": true,
-    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/5839). / Sale facts from Weverse Shop GLOBAL notice 5839 (shop.weverse.io, read 2026-10-14); design and contents from Xports News; no price stated in the notice.",
+    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/5839). / Sale facts from Weverse Shop GLOBAL notice 5839 (shop.weverse.io, read 2026-10-14); design and contents from Xports News; no price stated in the notice. / cover/item = Weverse Shop GLOBAL packshot (sales/25138)",
     "detail": {
       "ja": "予約は5月10日11時から6月20日（KST）、発売・出荷は6月21日予定。バッグは1種で、フラワーキャラクターに加えて村上隆が直接スケッチしたメンバー別キャラクターが描かれ、フォトブック、ジュエルケース、ブックレット、フォトカード、ポストカードなどを収める。予約特典はグループ画像のコースター1枚と同じ画像のホログラムグループフォトカード1枚で、購入上限は15点。",
       "en": "Pre-orders ran from 11:00 on May 10 to June 20 (KST), with release and shipping set for June 21. The bag comes in one version and carries, alongside the flower character, member characters sketched by Takashi Murakami himself; it holds a photobook, jewel case, booklet, photocards and a postcard. The pre-order gift was one coaster with the group image and a holographic group photocard of the same image, with a limit of 15."
@@ -1207,7 +1692,17 @@
       "label": "ADOR",
       "artwork": "Takashi Murakami",
       "sale_channel": "Weverse Shop GLOBAL / USA / JAPAN"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2024-05-10-supernatural-nj-x-murakami-drawstring-bag-ver/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/{25138}"
+    },
+    "local_assets": [
+      "goods/goods-2024-05-10-supernatural-nj-x-murakami-drawstring-bag-ver/01.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans 'Supernatural' NJ X MURAKAMI Drawstring Bag ver."
+    ]
   },
   {
     "id": "goods-2024-05-10-supernatural-weverse-albums-ver",
@@ -1238,7 +1733,7 @@
       "weverse-shop"
     ],
     "verified": true,
-    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/5839). / Sale facts from Weverse Shop GLOBAL notice 5839 (shop.weverse.io, read 2026-10-14); graphic/format description from SNKRDUNK; no price stated in the notice.",
+    "editor_note": "Release date reworded as the announced schedule (not stated as already released). | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/5839). / Sale facts from Weverse Shop GLOBAL notice 5839 (shop.weverse.io, read 2026-10-14); graphic/format description from SNKRDUNK; no price stated in the notice. / cover = Weverse Shop packshot; items = Weverse Shop GLOBAL listings Weverse Albums ver. (Random) and (Set)",
     "detail": {
       "ja": "村上隆のアートワークを使った3種のグラフィックで、QRカード形式。予約は5月10日11時から6月20日（KST）、発売・出荷は6月21日予定。予約特典はRANDOMでロゴフォトカードLホルダー1枚（3種からランダム）、SETで3枚セット。購入上限はRANDOM30点、SET10点。",
       "en": "Three graphic variations using Takashi Murakami's artwork, in the QR-card format. Pre-orders ran from 11:00 on May 10 to June 20 (KST), with release and shipping set for June 21. Pre-order gifts were one logo photocard L-holder (random of three) per RANDOM or a set of three per SET. Limits were 30 RANDOM and ten SET."
@@ -1247,7 +1742,19 @@
       "label": "ADOR",
       "artwork": "Takashi Murakami",
       "sale_channel": "Weverse Shop GLOBAL / USA / JAPAN"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2024-05-10-supernatural-weverse-albums-ver/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/{25141,25146}"
+    },
+    "local_assets": [
+      "goods/goods-2024-05-10-supernatural-weverse-albums-ver/01.jpg",
+      "goods/goods-2024-05-10-supernatural-weverse-albums-ver/02.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans 'Supernatural' Weverse Albums ver. (Random)",
+      "NewJeans 'Supernatural' Weverse Albums ver. (Set)"
+    ]
   },
   {
     "id": "goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa",
@@ -1279,7 +1786,7 @@
       "how-sweet"
     ],
     "verified": false,
-    "editor_note": "Secondary source (Korea JoongAng Daily 2024-05-31). | Secondary sources (Korea JoongAng Daily; heyPOP/Insight via search summary); no prices found. / Dates, concept and entry from Korea JoongAng Daily (2024-05-31); item list and reservation sell-out from Korean coverage (heyPOP/Insight via search summary); no prices found. Press framing removed.",
+    "editor_note": "Secondary source (Korea JoongAng Daily 2024-05-31). | Secondary sources (Korea JoongAng Daily; heyPOP/Insight via search summary); no prices found. / Dates, concept and entry from Korea JoongAng Daily (2024-05-31); item list and reservation sell-out from Korean coverage (heyPOP/Insight via search summary); no prices found. Press framing removed. / cover = key visual of LINE FRIENDS SQUARE's official 'How Sweet' pop-up page (3840x5000); items = products of its showcase lineup collection still published (21, names as listed, Korean)",
     "detail": {
       "ja": "IPX（旧LINE FRIENDS）と共同で、ソウル江南区のLINE FRIENDS SQUARE新沙店で6月17日まで開いたポップアップ。楽曲に合わせたヴィンテージのレコードショップをコンセプトに、キーリング、人形、バッグ、ポーチ、傘などを販売し、入場はオンライン事前登録か現地登録。商品にはbuniniのプラッシュキーリングやサウンドキーリング、ラビットストリングバッグとファーリーバニーキーリングの「NewJeans COLLERエディション」、フォトカード、パワーパフガールズ版Tシャツ、スマートトックがあり、初日の事前予約枠は20分足らずで埋まった。商品は釜山や台湾、タイ、マレーシア、インドネシア、中国、米国などのLINE FRIENDS店舗でも順次販売される予定だった。",
       "en": "A joint pop-up with IPX (formerly LINE FRIENDS) at LINE FRIENDS SQUARE Sinsa in Gangnam, Seoul, running until June 17. Themed as a vintage record shop to match the single, it sold keyrings, dolls, bags, pouches, umbrellas and more, with entry by online pre-registration or on-site sign-up. Items included bunini plush and sound keyrings, a 'NewJeans COLLER edition' rabbit string bag and furry bunny keyring, photocards, Powerpuff Girls-version T-shirts and smart toks, and the first day's reservation slots filled in under 20 minutes. The merchandise was to roll out to LINE FRIENDS stores in Busan, Taiwan, Thailand, Malaysia, Indonesia, China, the US and elsewhere."
@@ -1288,7 +1795,57 @@
       "brand": "IPX (LINE FRIENDS)",
       "label": "ADOR",
       "venue": "LINE FRIENDS SQUARE Sinsa, Seoul"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa/cover.jpg",
+      "source_url": "https://linefriendssquare.com/blogs/event/newjeans-howsweet"
+    },
+    "local_assets": [
+      "goods/goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa/01.jpg",
+      "goods/goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa/02.jpg",
+      "goods/goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa/03.jpg",
+      "goods/goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa/04.jpg",
+      "goods/goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa/05.jpg",
+      "goods/goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa/06.jpg",
+      "goods/goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa/07.jpg",
+      "goods/goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa/08.jpg",
+      "goods/goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa/09.jpg",
+      "goods/goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa/10.jpg",
+      "goods/goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa/11.jpg",
+      "goods/goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa/12.jpg",
+      "goods/goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa/13.jpg",
+      "goods/goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa/14.jpg",
+      "goods/goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa/15.jpg",
+      "goods/goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa/16.jpg",
+      "goods/goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa/17.jpg",
+      "goods/goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa/18.jpg",
+      "goods/goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa/19.jpg",
+      "goods/goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa/20.jpg",
+      "goods/goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa/21.jpg"
+    ],
+    "asset_titles": [
+      "NJ X 꼴레 퍼리 버니 플러시 키링 (TIDE BLUE)",
+      "NJ How Sweet 책받침",
+      "NJ How Sweet 포카홀더 키링",
+      "NJ How Sweet 아크릴 스탠드",
+      "NJ X 꼴레 메탈 스티콘 세트 (4개입)",
+      "NJ X 꼴레 나비 패딩 스티콘",
+      "NJ How Sweet 아크릴 포토 키링",
+      "bunini 미니 코스튬 키링 (WHITE)",
+      "NJ How Sweet 포토 스티콘",
+      "NJ How Sweet PVC 스티커팩",
+      "NJ X 꼴레 래빗 파우치 (TIDE BLUE)",
+      "NJ X 꼴레 버니 플러시 키링 (WHITE)",
+      "NJ X 꼴레 카드지갑 세트 (SHADE BLACK)",
+      "NJ X 꼴레 래빗 파우치 (WHITE)",
+      "NJ X 꼴레 래빗 파우치 (SHADE BLACK)",
+      "NJ X 꼴레 카드지갑 세트 (MIDNIGHT BLUE)",
+      "bunini 인형 클로젯 How Sweet 로고 민소매 셋업",
+      "bunini 메시지 인형 키링 (GREEN)",
+      "NJ X 꼴레 래빗 스트링백 (FUCHSIA PINK)",
+      "NJ X 꼴레 카드지갑 세트 (WHITE)",
+      "TOKKI 3단 자동 우산 (BLUE)"
+    ]
   },
   {
     "id": "goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki",
@@ -1330,7 +1887,55 @@
       "collaboration": "IPX (LINE FRIENDS) / Cartoon Network",
       "sale_channel": "Weverse Shop GLOBAL"
     },
-    "editor_note": "Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/5999). / Sale facts from Weverse Shop GLOBAL notice 5999 (posted 2024-06-05; shop.weverse.io, read 2026-10-14); no prices stated."
+    "editor_note": "Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/5999). / Sale facts from Weverse Shop GLOBAL notice 5999 (posted 2024-06-05; shop.weverse.io, read 2026-10-14); no prices stated. / notice 5999 is text only; cover = first product; items = Weverse Shop GLOBAL products grouped by the notice lines (How Sweet, THE POWERPUFF GIRLS X NewJeans, bunini, TOKKI), each line in sale-id order",
+    "image": {
+      "path": "goods/goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/{26240,26241,26242,26243,26244,26248,26251,26252,26253,26239,26245,26249,26250,26233,26234,26238,26246,26235,26236,26247}"
+    },
+    "local_assets": [
+      "goods/goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki/01.jpg",
+      "goods/goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki/02.jpg",
+      "goods/goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki/03.jpg",
+      "goods/goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki/04.jpg",
+      "goods/goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki/05.jpg",
+      "goods/goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki/06.jpg",
+      "goods/goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki/07.jpg",
+      "goods/goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki/08.jpg",
+      "goods/goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki/09.jpg",
+      "goods/goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki/10.jpg",
+      "goods/goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki/11.jpg",
+      "goods/goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki/12.jpg",
+      "goods/goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki/13.jpg",
+      "goods/goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki/14.jpg",
+      "goods/goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki/15.jpg",
+      "goods/goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki/16.jpg",
+      "goods/goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki/17.jpg",
+      "goods/goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki/18.jpg",
+      "goods/goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki/19.jpg",
+      "goods/goods-2024-06-12-collaboration-merch-june-2024-powerpuff-bunini-tokki/20.jpg"
+    ],
+    "asset_titles": [
+      "NJ How Sweet T-SHIRTS",
+      "NJ How Sweet T-SHIRTS",
+      "NJ How Sweet PHOTO CARD SET",
+      "NJ How Sweet PHOTO CARD HOLDER KEYRING",
+      "NJ How Sweet MINI CD CASE KEYRING",
+      "NJ How Sweet ACRYLIC PHOTO KEYRING",
+      "NJ How Sweet ACRYLIC STAND",
+      "NJ How Sweet PHOTO STICON",
+      "NJ How Sweet PENCIL BOARD",
+      "THE POWERPUFF GIRLS x NJ T-SHIRTS",
+      "THE POWERPUFF GIRLS X NJ METAL KEYRING",
+      "THE POWERPUFF GIRLS X NJ PHONE GRIP",
+      "THE POWERPUFF GIRLS X NJ METAL STICON",
+      "bunini MINI COSTUME KEYRING",
+      "bunini TALKING PLUSH KEYRING",
+      "bunini DOLL CLOSET How Sweet SET UP",
+      "bunini 5-TIER PATTERN UMBRELLA",
+      "TOKKI BEADS STRAP (LONG)",
+      "TOKKI BEADS STRAP",
+      "TOKKI 3-TIER UMBRELLA (BLUE)"
+    ]
   },
   {
     "id": "goods-2024-06-12-how-sweet-official-merch",
@@ -1361,7 +1966,7 @@
       "how-sweet"
     ],
     "verified": true,
-    "editor_note": "US-store notice lists PDT; KST date used. | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/6038, USA store). / Sale facts from Weverse Shop USA notice 6038 (shop.weverse.io, read 2026-10-14); the notice lists PDT and no prices; the KST date is used for the record.",
+    "editor_note": "US-store notice lists PDT; KST date used. | Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/6038, USA store). / Sale facts from Weverse Shop USA notice 6038 (shop.weverse.io, read 2026-10-14); the notice lists PDT and no prices; the KST date is used for the record. / Weverse Shop USA notice 6038 points to the category; items = the 8 USA products in the How Sweet category order (sales/26299-26308); cover = first product (no lineup image)",
     "detail": {
       "ja": "Weverse Shop USAでの予約で、6月11日19時（PDT、12日11時KST）から売り切れまで受け付け、7月3日から出荷。既製の数量限定品で、品目はカテゴリーページに掲載され、購入上限は特記がない限り2点。配送先は米国内（アラスカ・ハワイ含む）のみで、私書箱やAPO/FPO/DPO宛ては不可とされた。",
       "en": "Weverse Shop USA pre-orders opened at 7 PM PDT on June 11 (11:00 KST on June 12) and ran until sold out, shipping from July 3. The pre-made items were limited in quantity and listed on the category page, with a limit of two unless stated otherwise. Shipping was to US addresses only (including Alaska and Hawaii), excluding P.O. boxes and APO/FPO/DPO addresses."
@@ -1369,7 +1974,31 @@
     "credits": {
       "label": "ADOR",
       "sale_channel": "Weverse Shop USA"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2024-06-12-how-sweet-official-merch/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/categories/1134?subCategoryId=4299"
+    },
+    "local_assets": [
+      "goods/goods-2024-06-12-how-sweet-official-merch/01.jpg",
+      "goods/goods-2024-06-12-how-sweet-official-merch/02.jpg",
+      "goods/goods-2024-06-12-how-sweet-official-merch/03.jpg",
+      "goods/goods-2024-06-12-how-sweet-official-merch/04.jpg",
+      "goods/goods-2024-06-12-how-sweet-official-merch/05.jpg",
+      "goods/goods-2024-06-12-how-sweet-official-merch/06.jpg",
+      "goods/goods-2024-06-12-how-sweet-official-merch/07.jpg",
+      "goods/goods-2024-06-12-how-sweet-official-merch/08.jpg"
+    ],
+    "asset_titles": [
+      "NJ How Sweet MINI CD CASE KEYRING",
+      "NJ How Sweet T-SHIRTS",
+      "NJ How Sweet PHOTO CARD HOLDER KEYRING",
+      "NJ How Sweet PHOTO CARD SET",
+      "NJ X COLLER RABBIT STRING BAG",
+      "NJ X COLLER FURRY BUNNY PLUSH KEYRING (TIDE BLUE)",
+      "NJ X COLLER BUNNY PLUSH KEYRING (WHITE)",
+      "NJ X COLLER METAL STICON SET (4PCS)"
+    ]
   },
   {
     "id": "goods-2024-06-26-bunnies-camp-2024-tokyo-dome-official-merch-onsite",
@@ -1511,7 +2140,7 @@
       "supernatural"
     ],
     "verified": false,
-    "editor_note": "Secondary sources (Marie Claire Korea, SNKRDUNK). | Secondary sources (Korea JoongAng Daily 2024-06-20, Marie Claire Korea 2024-07-01); no prices found. / Secondary sources: Korea JoongAng Daily (2024-06-20) for the opening, reservations and collaborator roles; Marie Claire Korea (2024-07-01) for the reservation sell-out, item list and Murakami's visit; no prices found. Press framing removed.",
+    "editor_note": "Secondary sources (Marie Claire Korea, SNKRDUNK). | Secondary sources (Korea JoongAng Daily 2024-06-20, Marie Claire Korea 2024-07-01); no prices found. / Secondary sources: Korea JoongAng Daily (2024-06-20) for the opening, reservations and collaborator roles; Marie Claire Korea (2024-07-01) for the reservation sell-out, item list and Murakami's visit; no prices found. Press framing removed. / cover = key visual of LINE FRIENDS SQUARE's official 'Supernatural' pop-up page (Myeongdong, 3840x5000); items = still-published products of its Supernatural (6) and MURAKAMI (9) showcase collections; the Fujiwara showcase collection is empty",
     "detail": {
       "ja": "「Supernatural」ポップアップはソウル明洞と東京渋谷で同時に開き、入場予約はシングル発売の2時間前、6月21日11時に始まった。村上隆はNJ Tokkiと自身のフラワーを組み合わせたキャラクターとメンバー別の新キャラクター（IPXが補正）を手がけ、藤原ヒロシの手書きロゴはTシャツ、バンダナ、キャップ、バッグに使われた。明洞の事前予約は5分足らずで埋まり、村上隆のプラッシュキーリング、クッション、アクリルスマートトック、ボールペン、Binky Bong用デコパーツ、帽子、Tシャツ、バッグ、ポーチ、バッジなどを販売。初日は村上隆本人が来店し、ミン・ヒジン代表と写真に収まった。会期は7月10日までで、現地の入場予約は10時から。",
       "en": "The 'Supernatural' pop-ups opened simultaneously in Myeong-dong, Seoul, and Shibuya, Tokyo, with entry reservations opening on June 21 at 11:00, two hours before the single's release. Takashi Murakami created a character merging NJ Tokki with his flower and new per-member characters (retouched by IPX), and Hiroshi Fujiwara's handwritten logos appeared on T-shirts, bandanas, caps and bags, alongside keyrings, cushions, pouches and badges. Myeongdong reservations filled in under five minutes; the shop sold Murakami plush keyrings, cushions, acrylic smart toks, ballpoint pens, Binky Bong decoration parts, hats, T-shirts and bags. Murakami visited on opening day and was photographed with Min Hee-jin. The run lasted until July 10, with on-site entry reservations from 10 AM."
@@ -1520,7 +2149,45 @@
       "brand": "IPX (LINE FRIENDS)",
       "artwork": "Takashi Murakami / Hiroshi Fujiwara",
       "venue": "LINE FRIENDS SQUARE Myeongdong, Seoul"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2024-06-26-supernatural-popup-line-friends-square-myeongdong/cover.jpg",
+      "source_url": "https://linefriendssquare.com/blogs/event/newjeans-supernatural"
+    },
+    "local_assets": [
+      "goods/goods-2024-06-26-supernatural-popup-line-friends-square-myeongdong/01.jpg",
+      "goods/goods-2024-06-26-supernatural-popup-line-friends-square-myeongdong/02.jpg",
+      "goods/goods-2024-06-26-supernatural-popup-line-friends-square-myeongdong/03.jpg",
+      "goods/goods-2024-06-26-supernatural-popup-line-friends-square-myeongdong/04.jpg",
+      "goods/goods-2024-06-26-supernatural-popup-line-friends-square-myeongdong/05.jpg",
+      "goods/goods-2024-06-26-supernatural-popup-line-friends-square-myeongdong/06.jpg",
+      "goods/goods-2024-06-26-supernatural-popup-line-friends-square-myeongdong/07.jpg",
+      "goods/goods-2024-06-26-supernatural-popup-line-friends-square-myeongdong/08.jpg",
+      "goods/goods-2024-06-26-supernatural-popup-line-friends-square-myeongdong/09.jpg",
+      "goods/goods-2024-06-26-supernatural-popup-line-friends-square-myeongdong/10.jpg",
+      "goods/goods-2024-06-26-supernatural-popup-line-friends-square-myeongdong/11.jpg",
+      "goods/goods-2024-06-26-supernatural-popup-line-friends-square-myeongdong/12.jpg",
+      "goods/goods-2024-06-26-supernatural-popup-line-friends-square-myeongdong/13.jpg",
+      "goods/goods-2024-06-26-supernatural-popup-line-friends-square-myeongdong/14.jpg",
+      "goods/goods-2024-06-26-supernatural-popup-line-friends-square-myeongdong/15.jpg"
+    ],
+    "asset_titles": [
+      "NJ Supernatural 부채 (HAERIN)",
+      "NJ Supernatural 부채 (HANNI)",
+      "TOKKI 부채 커버",
+      "NJ Supernatural 부채 (DANIELLE)",
+      "bunini 부채 커버 (PINK MIXED)",
+      "bunini 부채 커버 (YELLOW MIXED)",
+      "NewJeans x MURAKAMI 젤펜",
+      "NewJeans x MURAKAMI 메탈 키링",
+      "NewJeans x MURAKAMI 포카 홀더 키링",
+      "NewJeans x MURAKAMI 부채 키링",
+      "NewJeans x MURAKAMI 메탈 핀뱃지",
+      "NewJeans x MURAKAMI 아크릴 스마트톡",
+      "NewJeans x MURAKAMI LIGHT STICK 액세서리 (FLOWER)",
+      "NewJeans x MURAKAMI 티셔츠 (MELANGE GRAY)",
+      "NewJeans x MURAKAMI LIGHT STICK 가방"
+    ]
   },
   {
     "id": "goods-2024-06-26-supernatural-popup-line-friends-square-shibuya",
@@ -1558,7 +2225,7 @@
       "japan"
     ],
     "verified": false,
-    "editor_note": "Secondary sources (Fashionsnap, Time Out Tokyo). | Fashionsnap and Time Out Tokyo read directly; no NewJeans item prices found. / From Fashionsnap (2024-06-26) and Time Out Tokyo (2024-06-27), read directly; no NewJeans item prices found. Press framing removed; store address, floor area and opening hours trimmed from detail.ja for length.",
+    "editor_note": "Secondary sources (Fashionsnap, Time Out Tokyo). | Fashionsnap and Time Out Tokyo read directly; no NewJeans item prices found. / From Fashionsnap (2024-06-26) and Time Out Tokyo (2024-06-27), read directly; no NewJeans item prices found. Press framing removed; store address, floor area and opening hours trimmed from detail.ja for length. / cover only: LINE FRIENDS' 'NEWJEANS SUPERNATURAL SPECIAL EDITION' key visual (870x1127) from its official blog, not a Shibuya-specific poster; no official Shibuya item list found",
     "detail": {
       "ja": "ラインフレンズジャパンが渋谷・公園通り（神南1-19-10 PARKWAY SQUARE 2）に開業した3フロア約990㎡の旗艦店の第1弾コラボで、7月15日まで開催した。2階では日本限定の「NewJeans × Hiroshi Fujiwara」のTシャツ、バンダナ、帽子、バッグとbuniniグッズ、「パワーパフガールズ × NJ」アイテムを扱い、事前予約制の地下1階メディアゾーンでは12台のプロジェクターでMVとメンバーのコメント映像を流し、村上隆とのコラボ商品を販売した。開店前に村上隆とミン・ヒジンが来店し、村上は準備期間中、ミン・ヒジンと毎日LINEでやり取りしたと話した。営業は11時〜20時。",
       "en": "LINE Friends Japan opened its three-floor flagship of about 990 square metres on Koen-dori (1-19-10 Jinnan, PARKWAY SQUARE 2) with the 'NewJeans Supernatural POP-UP' as its first collaboration, running until July 15. The second floor carried Japan-exclusive 'NewJeans x Hiroshi Fujiwara' T-shirts, bandanas, hats and bags plus bunini goods and 'Powerpuff Girls x NJ' items; the reservation-only basement media zone screened music videos and member comment videos on twelve projectors and sold the Takashi Murakami collaboration items. Murakami and Min Hee-jin visited before opening, and Murakami said he had exchanged LINE messages with Min every day during preparation. Hours were 11:00 to 20:00."
@@ -1567,7 +2234,12 @@
       "brand": "LINE Friends Japan (IPX)",
       "artwork": "Takashi Murakami / Hiroshi Fujiwara",
       "venue": "LINE FRIENDS SQUARE SHIBUYA, Tokyo"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2024-06-26-supernatural-popup-line-friends-square-shibuya/cover.jpg",
+      "source_url": "https://linefriendssquare.us/blogs/collections/newjeans-x-hiroshi-fujiwara"
+    },
+    "local_assets": []
   },
   {
     "id": "goods-2024-06-28-bunnies-camp-2024-tokyo-dome-official-merch-weverse-shop",
@@ -1676,7 +2348,7 @@
       "collab"
     ],
     "verified": false,
-    "editor_note": "Secondary source (SNKRDUNK). | Second restock round (2024-07-17 to 07-19) removed from the summary as later than this record's date. | Secondary source (SNKRDUNK); LINE FRIENDS post not fetched. | removed from reader text: [detail.ja] 価格は確認できていない。 [detail.en] Prices were not confirmed. / From SNKRDUNK's update of 2024-06-28 (secondary), which cites a LINE FRIENDS announcement post not fetched here; prices not confirmed. A second restock round (2024-07-17 to 07-19) stays out of reader text as later than the record date.",
+    "editor_note": "Secondary source (SNKRDUNK). | Second restock round (2024-07-17 to 07-19) removed from the summary as later than this record's date. | Secondary source (SNKRDUNK); LINE FRIENDS post not fetched. | removed from reader text: [detail.ja] 価格は確認できていない。 [detail.en] Prices were not confirmed. / From SNKRDUNK's update of 2024-06-28 (secondary), which cites a LINE FRIENDS announcement post not fetched here; prices not confirmed. A second restock round (2024-07-17 to 07-19) stays out of reader text as later than the record date. / LINE FRIENDS SQUARE (KR online) NewJeans x MURAKAMI showcase collection; items = the 9 still-published products; which items were in the restock is not stated officially; cover = first product",
     "detail": {
       "ja": "初回発売で入手できなかったファンに向けて、NewJeans × 村上隆コレクションの一部商品が再入荷され、LINE FRIENDS SQUARE Onlineで14時から7月3日18時（KST）まで予約を受け付けた。対象は6月26日からLINE FRIENDS SQUARE明洞・渋谷のポップアップで販売されていたぬいぐるみ、アパレル、フラワーモチーフのアイテムなど。",
       "en": "Selected NewJeans x Takashi Murakami items were restocked for fans who missed the initial launch, with LINE FRIENDS SQUARE Online taking pre-orders from 14:00 until 18:00 on July 3 (KST). They were items sold from June 26 at the LINE FRIENDS SQUARE Myeongdong and Shibuya pop-ups, including plush toys, apparel and Murakami flower pieces."
@@ -1685,7 +2357,33 @@
       "brand": "IPX (LINE FRIENDS)",
       "artwork": "Takashi Murakami",
       "sale_channel": "LINE FRIENDS SQUARE Online"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2024-07-01-line-friends-square-online-murakami-restock-preorder/cover.jpg",
+      "source_url": "https://linefriendssquare.com/collections/nj_showcase_murakami"
+    },
+    "local_assets": [
+      "goods/goods-2024-07-01-line-friends-square-online-murakami-restock-preorder/01.jpg",
+      "goods/goods-2024-07-01-line-friends-square-online-murakami-restock-preorder/02.jpg",
+      "goods/goods-2024-07-01-line-friends-square-online-murakami-restock-preorder/03.jpg",
+      "goods/goods-2024-07-01-line-friends-square-online-murakami-restock-preorder/04.jpg",
+      "goods/goods-2024-07-01-line-friends-square-online-murakami-restock-preorder/05.jpg",
+      "goods/goods-2024-07-01-line-friends-square-online-murakami-restock-preorder/06.jpg",
+      "goods/goods-2024-07-01-line-friends-square-online-murakami-restock-preorder/07.jpg",
+      "goods/goods-2024-07-01-line-friends-square-online-murakami-restock-preorder/08.jpg",
+      "goods/goods-2024-07-01-line-friends-square-online-murakami-restock-preorder/09.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans x MURAKAMI 젤펜",
+      "NewJeans x MURAKAMI 메탈 키링",
+      "NewJeans x MURAKAMI 포카 홀더 키링",
+      "NewJeans x MURAKAMI 부채 키링",
+      "NewJeans x MURAKAMI 메탈 핀뱃지",
+      "NewJeans x MURAKAMI 아크릴 스마트톡",
+      "NewJeans x MURAKAMI LIGHT STICK 액세서리 (FLOWER)",
+      "NewJeans x MURAKAMI 티셔츠 (MELANGE GRAY)",
+      "NewJeans x MURAKAMI LIGHT STICK 가방"
+    ]
   },
   {
     "id": "goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural",
@@ -1729,7 +2427,69 @@
       "collaboration": "Hiroshi Fujiwara / Takashi Murakami",
       "sale_channel": "Weverse Shop GLOBAL / USA"
     },
-    "editor_note": "Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/6115 global, 6177 USA). / Sale facts from Weverse Shop GLOBAL notice 6115 (posted 2024-06-26) and USA notice 6177 (shop.weverse.io, read 2026-10-14); no prices stated."
+    "editor_note": "Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/6115 global, 6177 USA). / Sale facts from Weverse Shop GLOBAL notice 6115 (posted 2024-06-26) and USA notice 6177 (shop.weverse.io, read 2026-10-14); no prices stated. / notice 6115 is text only; cover = first product; items = Weverse Shop GLOBAL products grouped by notice line (Supernatural, NewJeans X Hiroshi Fujiwara, NewJeans X MURAKAMI), each in sale-id order",
+    "image": {
+      "path": "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/{26894,26895,26896,26897,26884,26890,26891,26892,26885,26886,26887,26888,26889,26898,26899,26900,26902,26903,26905,26906,26907,26908,26909,26911,26913,26915,26918}"
+    },
+    "local_assets": [
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/01.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/02.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/03.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/04.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/05.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/06.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/07.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/08.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/09.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/10.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/11.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/12.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/13.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/14.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/15.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/16.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/17.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/18.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/19.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/20.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/21.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/22.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/23.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/24.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/25.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/26.jpg",
+      "goods/goods-2024-07-03-collaboration-merch-july-2024-fujiwara-murakami-supernatural/27.jpg"
+    ],
+    "asset_titles": [
+      "NJ Supernatural PHOTOCARD SET",
+      "NJ Supernatural FAN",
+      "TOKKI FAN COVER",
+      "bunini FAN COVER",
+      "NewJeans X Hiroshi Fujiwara COLLER T-SHIRTS",
+      "NewJeans X Hiroshi Fujiwara COLLER BASEBALL CAP",
+      "NewJeans X Hiroshi Fujiwara COLLER BACKPACK",
+      "NewJeans X Hiroshi Fujiwara COLLER BANDANA",
+      "NewJeans X MURAKAMI PLUSH KEYRING",
+      "NewJeans X MURAKAMI PLUSH KEYRING (FLOWER)",
+      "NewJeans X MURAKAMI POUCH (FLOWER)",
+      "NewJeans X MURAKAMI LIGHT STICK ACC.",
+      "NewJeans X MURAKAMI CUSHION 30CM",
+      "NewJeans X MURAKAMI LIGHT STICK BAG",
+      "NewJeans X MURAKAMI T-SHIRTS",
+      "NewJeans X MURAKAMI BASEBALL CAP",
+      "NewJeans X MURAKAMI DART STICON",
+      "NewJeans X MURAKAMI PLUSH STICON",
+      "NewJeans X MURAKAMI ACRYLIC PHONE GRIP",
+      "NewJeans X MURAKAMI GEL PEN",
+      "NewJeans X MURAKAMI REUSABLE BAG (M)",
+      "NewJeans X MURAKAMI REUSABLE BAG (L)",
+      "NewJeans X MURAKAMI PHOTOCARD HOLDER KEYRING",
+      "NewJeans X MURAKAMI METAL PIN BADGE",
+      "NewJeans X MURAKAMI METAL KEYRING",
+      "NewJeans X MURAKAMI FAN COVER",
+      "NewJeans X MURAKAMI FAN KEYRING"
+    ]
   },
   {
     "id": "goods-2024-11-27-2025-seasons-greetings-fairy-association",
@@ -1762,7 +2522,7 @@
       "weverse-shop"
     ],
     "verified": true,
-    "editor_note": "Weverse Shop Japan release 2024-12-24; Weverse Shop US 2025-01-15. | Release date reworded as the announced schedule (not stated as already released). | Notice 23850 via WebFetch; Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/7091). / From Weverse notice 23850 (via WebFetch) and Weverse Shop GLOBAL notice 7091 (shop.weverse.io, read 2026-10-14); no price stated. Korean retailer names (YES24, Aladin, Kyobo Hottracks, KakaoTalk Gift, OUTBOX), photobook titles, outbox size, folder set, flyer, PET card and subtitle languages trimmed from detail.ja for length (kept in detail.en). Japan (12-24) and US (2025-01-15) release dates are announced schedule within 120 days of the record date.",
+    "editor_note": "Weverse Shop Japan release 2024-12-24; Weverse Shop US 2025-01-15. | Release date reworded as the announced schedule (not stated as already released). | Notice 23850 via WebFetch; Weverse Shop notice read directly from shop.weverse.io (server-rendered JSON) on 2026-10-14 (notices/7091). / From Weverse notice 23850 (via WebFetch) and Weverse Shop GLOBAL notice 7091 (shop.weverse.io, read 2026-10-14); no price stated. Korean retailer names (YES24, Aladin, Kyobo Hottracks, KakaoTalk Gift, OUTBOX), photobook titles, outbox size, folder set, flyer, PET card and subtitle languages trimmed from detail.ja for length (kept in detail.en). Japan (12-24) and US (2025-01-15) release dates are announced schedule within 120 days of the record date. / cover = packshot attached to Weverse notice 23850 (2500x2500); item = Weverse Shop GLOBAL packshot (sales/33401)",
     "detail": {
       "ja": "妖精たちの組織「Fairy Association」の知られざる活動を描いた構成。予約は11月27日11時から12月11日23時59分（KST）、発売はWeverse Shop GLOBALと韓国の販売店（YES24、アラジン、教保ホットトラックス、カカオトークギフト、OUTBOX）が12月12日、Weverse Shop JAPANとユニバーサルミュージックジャパンが12月24日、米国ストアが2025年1月15日。アウトボックス（228×287×50mm）にフォルダー5点セット、デスクカレンダー、ダイアリー（160ページ）、フォトブック2冊（『The Fairy Association Initiative』『The Lives of Fairies』、各64ページ）、チラシ、イヤーポスター、ミニポスター7枚、PETカード、フォトカード52枚セット、デジタルコードセット（約80分、韓英日中西字幕）、ステッカー3枚を収める。GLOBAL予約特典はフォトスタンドセットとチャレンジカードで、購入上限は6点。",
       "en": "Themed on the fairies' 'Fairy Association' and its unseen activities. Pre-orders ran from 11:00 on November 27 to 23:59 on December 11 (KST), with release on December 12 on Weverse Shop GLOBAL and at Korean retailers (YES24, Aladin, Kyobo Hottracks, KakaoTalk Gift, OUTBOX), December 24 on Weverse Shop JAPAN and Universal Music Japan, and January 15, 2025 on the US store. The outbox (228x287x50mm) holds a five-piece folder set, a desk calendar, a 160-page diary, two 64-page photobooks ('The Fairy Association Initiative' and 'The Lives of Fairies'), a flyer, a year poster, seven mini posters, a PET card, a set of 52 photocards, a digital code set (about 80 minutes, Korean/English/Japanese/Chinese/Spanish subtitles) and three stickers. GLOBAL pre-order gifts were a photo stand set and a challenge card, with a limit of six."
@@ -1770,7 +2530,17 @@
     "credits": {
       "label": "ADOR",
       "sale_channel": "Weverse Shop GLOBAL / USA / JAPAN, Universal Music Japan, Korean retailers"
-    }
+    },
+    "image": {
+      "path": "goods/goods-2024-11-27-2025-seasons-greetings-fairy-association/cover.jpg",
+      "source_url": "https://weverse.io/newjeansofficial/notice/23850"
+    },
+    "local_assets": [
+      "goods/goods-2024-11-27-2025-seasons-greetings-fairy-association/01.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans 2025 SEASON'S GREETINGS"
+    ]
   },
   {
     "id": "goods-2025-01-06-funko-pop-newjeans-figures-teased",
