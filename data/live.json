@@ -1,5 +1,126 @@
 [
   {
+    "id": "live-2022-08-02-chanel-n1-de-chanel-garden-photocall",
+    "date": "2022-08-02",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "シャネル・ビューティー「N°1 DE CHANEL GARDEN」オープン記念フォトコール",
+      "en": "CHANEL Beauty 'N°1 DE CHANEL GARDEN' opening photocall"
+    },
+    "summary": {
+      "ja": "ソウル・聖水洞で開かれたシャネル・ビューティーのポップアップ「N°1 DE CHANEL GARDEN」のオープン記念フォトコールに5人で参加した。",
+      "en": "The five members attended the opening photocall for CHANEL Beauty's 'N°1 DE CHANEL GARDEN' pop-up in Seongsu-dong, Seoul."
+    },
+    "detail": {
+      "ja": "ソウル城東区聖水洞で開かれたシャネル・ビューティーのポップアップ「N°1 DE CHANEL GARDEN」オープン記念フォトコールに、メンバー5人が参加した。ショーケースを行わずにデビューしたNewJeansにとって、初の公式スケジュールとして報じられた。",
+      "en": "All five members attended the opening photocall for CHANEL Beauty's 'N°1 DE CHANEL GARDEN' pop-up in Seongsu-dong, Seongdong-gu, Seoul. Press described it as the first official public schedule for NewJeans, who had debuted without a showcase."
+    },
+    "credits": {
+      "venue": "Seongsu-dong, Seoul",
+      "brand": "CHANEL"
+    },
+    "source_url": "https://www.ajunews.com/view/20220802225429722",
+    "reference_urls": [
+      "https://www.mhnse.com/news/articleView.html?idxno=129866",
+      "https://www.xportsnews.com/article/1612829"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "event",
+      "brand-event"
+    ],
+    "verified": false
+  },
+  {
+    "id": "live-2022-08-12-new-jeans-weverse-shop-video-call-fansign",
+    "date": "2022-08-12",
+    "time": "20:00",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『New Jeans』Weverse Shop予約購入者対象 映像通話ファンサイン会",
+      "en": "'New Jeans' Weverse Shop pre-order video call fansign"
+    },
+    "summary": {
+      "ja": "デビューEP『New Jeans』のWeverse Shop予約購入者から抽選で選ばれたファンとの映像通話ファンサイン会。",
+      "en": "Video call fansign for raffle winners among Weverse Shop pre-order buyers of the debut EP 'New Jeans'."
+    },
+    "detail": {
+      "ja": "デビューEP『New Jeans』をWeverse Shopで予約購入し応募した人の中から抽選で当選者を選び、映像通話でのファンサイン会を行った。通話はメンバー1人あたり1分、計5分の形式。Weverse Shopの当選者発表では「1st Video Call Fansign」と案内された。",
+      "en": "Winners were drawn from fans who pre-ordered the debut EP 'New Jeans' on Weverse Shop and entered the raffle, and took part in a fansign held over video call. Each call ran one minute per member, five minutes in total. Weverse Shop's winner announcement billed it as the '1st Video Call Fansign'."
+    },
+    "credits": {
+      "organizer": "Weverse Shop"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/events/517",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/events/510"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "fansign",
+      "video-call"
+    ],
+    "verified": true,
+    "editor_note": "Date/time from Weverse Shop event 517 (winner announcement: Fri. August 12, 2022, 8:00 PM KST); event 510 = original announcement. Held over KakaoTalk video call."
+  },
+  {
+    "id": "live-2022-08-21-new-jeans-weverse-shop-offline-fansign",
+    "date": "2022-08-21",
+    "time": "19:00",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『New Jeans』Weverse Shop購入者対象 オフラインファンサイン会",
+      "en": "'New Jeans' Weverse Shop offline fansign"
+    },
+    "summary": {
+      "ja": "デビューEP『New Jeans』のWeverse Shop購入者から抽選された50人を招いたソウルでの対面ファンサイン会。",
+      "en": "In-person fansign in Seoul for 50 raffle winners who bought the debut EP 'New Jeans' on Weverse Shop."
+    },
+    "detail": {
+      "ja": "デビューEP『New Jeans』をWeverse Shopで購入し、8月10日から12日までの応募期間に応募した人の中から抽選で50人を選び、ソウルで対面のファンサイン会を開いた。会場は当選者に個別に案内された。新型コロナウイルス対策のガイドラインに沿って運営された。",
+      "en": "Fifty winners were drawn from fans who bought the debut EP 'New Jeans' on Weverse Shop and entered between August 10 and 12, and met the members at an in-person fansign in Seoul. The venue was disclosed to winners individually, and the event ran under COVID-19 prevention guidelines."
+    },
+    "credits": {
+      "organizer": "Weverse Shop",
+      "venue": "Seoul (undisclosed)"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/events/520",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/events/519"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "fansign",
+      "offline"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop event 519 (announcement: scheduled Sun. August 21, 2022, 7:00 PM KST, Seoul, 50 winners) and 520 (winner announcement, same date)."
+  },
+  {
     "id": "live-2022-09-21-dankook-danfesta",
     "date": "2022-09-21",
     "date_type": "event",
@@ -80,6 +201,46 @@
     "editor_note": "Per Wikitree (Sept 24, 2022); setlist not reported."
   },
   {
+    "id": "live-2022-09-30-incheon-departure-kcon-saudi-arabia",
+    "date": "2022-09-30",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "KCON 2022 サウジアラビア出演のため仁川空港から出国",
+      "en": "Departs Incheon for KCON 2022 Saudi Arabia"
+    },
+    "summary": {
+      "ja": "KCON 2022 サウジアラビア出演のため、仁川国際空港からリヤドへ出国した。デビュー後初の海外公演に向けた出国。",
+      "en": "Left Incheon International Airport for Riyadh to perform at KCON 2022 Saudi Arabia, their first overseas show since debuting."
+    },
+    "detail": {
+      "ja": "メンバー5人が「KCON 2022 Saudi Arabia」に出演するため、仁川国際空港からサウジアラビア・リヤドへ出国した。デビュー後初の海外公演に向けた出国で、多くの報道陣が空港での様子を伝えた。",
+      "en": "The five members left Incheon International Airport for Riyadh, Saudi Arabia, to appear at KCON 2022 Saudi Arabia. It was their departure for their first overseas performance since debut, and the airport scene drew wide press coverage."
+    },
+    "credits": {
+      "venue": "Incheon International Airport"
+    },
+    "source_url": "https://news.nate.com/view/20220930n29055",
+    "reference_urls": [
+      "https://www.news1.kr/entertain/celebrity-topic/4819201",
+      "https://www.fnnews.com/news/202209301341182078",
+      "https://www.xportsnews.com/article/1636176"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "airport",
+      "overseas"
+    ],
+    "verified": false
+  },
+  {
     "id": "live-2022-10-01-kcon-2022-saudi-arabia",
     "date": "2022-10-01",
     "date_type": "event",
@@ -121,6 +282,45 @@
     }
   },
   {
+    "id": "live-2022-10-14-gimpo-departure-kcon-japan",
+    "date": "2022-10-14",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "KCON 2022 JAPAN出演のため金浦空港から出国",
+      "en": "Departs Gimpo for KCON 2022 Japan"
+    },
+    "summary": {
+      "ja": "KCON 2022 JAPAN出演のため、金浦国際空港から東京へ出国した。",
+      "en": "Left Gimpo International Airport for Tokyo to appear at KCON 2022 Japan."
+    },
+    "detail": {
+      "ja": "メンバー5人が「KCON 2022 JAPAN」に出演するため、午前に金浦国際空港から日本・東京へ出国した。",
+      "en": "The five members left Gimpo International Airport for Tokyo in the morning to appear at KCON 2022 Japan."
+    },
+    "credits": {
+      "venue": "Gimpo International Airport"
+    },
+    "source_url": "https://www.xportsnews.com/article/1641769",
+    "reference_urls": [
+      "https://www.asiatoday.co.kr/kn/view.php?key=20221014010006617",
+      "https://mydaily.co.kr/m/page/view/2022101408481405209"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "airport",
+      "overseas"
+    ],
+    "verified": false
+  },
+  {
     "id": "live-2022-10-15-kcon-2022-japan",
     "date": "2022-10-15",
     "date_type": "event",
@@ -160,6 +360,47 @@
       "venue": "Ariake Arena, Tokyo",
       "organizer": "CJ ENM"
     }
+  },
+  {
+    "id": "live-2022-10-27-konkuk-univ-green-zone",
+    "date": "2022-10-27",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "建国大学校 2022年大学祭「緑色地帯」",
+      "en": "Konkuk University 2022 festival 'Green Zone'",
+      "original": "건국대학교 녹색지대"
+    },
+    "summary": {
+      "ja": "ソウルの建国大学校で開かれた大学祭「緑色地帯（THE GREEN ZONE）」のステージに出演した。",
+      "en": "Performed at Konkuk University's 'Green Zone' festival on its Seoul campus."
+    },
+    "detail": {
+      "ja": "建国大学校の2022年大学祭「緑色地帯」は10月26日から28日までソウルキャンパスで開かれ、NewJeansは27日のステージに出演した。同年の出演者にはJannabi、パク・ジェボム、ダイナミック・デュオらが名を連ねた。",
+      "en": "Konkuk University held its 2022 festival 'Green Zone' on its Seoul campus from October 26 to 28, and NewJeans performed on the 27th. The festival lineup also included Jannabi, Jay Park and Dynamic Duo."
+    },
+    "credits": {
+      "venue": "Konkuk University Seoul Campus"
+    },
+    "source_url": "https://www.youtube.com/watch?v=cVXh3zrlfYE",
+    "reference_urls": [
+      "https://namu.wiki/w/%EA%B1%B4%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90/%ED%96%89%EC%82%AC",
+      "https://namu.wiki/w/NewJeans/%EA%B3%B5%EC%97%B0%20%EB%B0%8F%20%ED%96%89%EC%82%AC"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "university",
+      "university-festival"
+    ],
+    "verified": false,
+    "editor_note": "Performance confirmed by the official Light Jeans video \"Konkuk University Festival 2022 Behind\" (posted 2022-11-11); the date 27 Oct is from namu.wiki (festival 26-28 Oct; NewJeans listed on 10.27). No press article found."
   },
   {
     "id": "live-2022-12-16-kbs-song-festival",
@@ -245,6 +486,203 @@
     }
   },
   {
+    "id": "live-2023-01-04-omg-weverse-shop-video-call-fansign",
+    "date": "2023-01-04",
+    "time": "20:00",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『OMG』予約購入者対象 映像通話ファンサイン会（Weverse Shop）",
+      "en": "'OMG' pre-order video call fansign (Weverse Shop)"
+    },
+    "summary": {
+      "ja": "シングル『OMG』のWeverse Shop予約購入者から抽選された50人と、メンバーが映像通話で交流したファンサイン会。",
+      "en": "Video call fansign for 50 raffle winners among Weverse Shop pre-order buyers of the single album 'OMG'."
+    },
+    "detail": {
+      "ja": "シングルアルバム『OMG』Message Card ver.をWeverse Shop GLOBALで予約購入し応募した人から抽選で50人を選び、カカオトークの映像通話でファンサイン会を行った。通話はメンバー1人あたり1分、計5分で、当選者には直筆サイン入りアルバムが送られる。応募期間は2022年12月12日から2023年1月1日まで。",
+      "en": "Fifty winners were drawn from Weverse Shop GLOBAL pre-order buyers of the 'OMG' Message Card version and joined a fansign held over KakaoTalk video call, one minute per member and five minutes in total. Winners also received a signed album. Entries ran from December 12, 2022 to January 1, 2023."
+    },
+    "credits": {
+      "organizer": "Weverse Shop"
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/10177",
+    "reference_urls": [
+      "https://weverse.io/newjeansofficial/notice/10190",
+      "https://shop.weverse.io/en/shop/USD/artists/82/events/550",
+      "https://shop.weverse.io/en/shop/USD/artists/82/events/558"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1602121189425840128"
+    },
+    "tags": [
+      "fansign",
+      "video-call"
+    ],
+    "verified": true,
+    "editor_note": "Weverse notices 10190 (Weverse Shop event page) and 10177 (fansign guide) give 2023-01-04 20:00 KST. X post 1602121189425840128 links notice 10190."
+  },
+  {
+    "id": "live-2023-01-15-omg-yes24-video-call-fansign",
+    "date": "2023-01-15",
+    "time": "19:00",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『OMG』活動記念 映像通話ファンサイン会（YES24）",
+      "en": "'OMG' promotion video call fansign (YES24)"
+    },
+    "summary": {
+      "ja": "『OMG』活動を記念し、YES24での購入者から抽選された50人と映像通話で行ったファンサイン会。",
+      "en": "Video call fansign marking 'OMG' promotions, for 50 raffle winners who bought the album at YES24."
+    },
+    "detail": {
+      "ja": "シングルアルバム『OMG』の活動を記念したファンサイン会の一つで、販売店YES24で『OMG』Message Card ver.を購入した人から抽選で50人を選び、映像通話で行った。応募期間は1月3日から5日まで。Weverse Albums ver.は対象外だった。",
+      "en": "One of the fansigns marking the 'OMG' promotions: 50 winners were drawn from buyers of the 'OMG' Message Card version at retailer YES24 and met the members over video call. Entries ran from January 3 to 5; the Weverse Albums version was not eligible."
+    },
+    "credits": {
+      "organizer": "YES24"
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/10329",
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1610086166384054272"
+    },
+    "tags": [
+      "fansign",
+      "video-call"
+    ],
+    "verified": true
+  },
+  {
+    "id": "live-2023-01-20-omg-music-plant-video-call-fansign",
+    "date": "2023-01-20",
+    "time": "20:00",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『OMG』活動記念 映像通話ファンサイン会（Music Plant）",
+      "en": "'OMG' promotion video call fansign (Music Plant)"
+    },
+    "summary": {
+      "ja": "『OMG』活動を記念し、ミュージックプラントでの購入者から抽選された50人と映像通話で行ったファンサイン会。",
+      "en": "Video call fansign marking 'OMG' promotions, for 50 raffle winners who bought the album at Music Plant."
+    },
+    "detail": {
+      "ja": "シングルアルバム『OMG』の活動を記念したファンサイン会の一つで、販売店ミュージックプラントで『OMG』Message Card ver.を購入した人から抽選で50人を選び、映像通話で行った。応募期間は1月4日から6日まで。",
+      "en": "One of the fansigns marking the 'OMG' promotions: 50 winners were drawn from buyers of the 'OMG' Message Card version at retailer Music Plant and met the members over video call. Entries ran from January 4 to 6."
+    },
+    "credits": {
+      "organizer": "Music Plant"
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/10330",
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1610448427820654592"
+    },
+    "tags": [
+      "fansign",
+      "video-call"
+    ],
+    "verified": true
+  },
+  {
+    "id": "live-2023-01-26-omg-music-korea-offline-fansign",
+    "date": "2023-01-26",
+    "time": "20:00",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『OMG』活動記念 オフラインファンサイン会（Music Korea）",
+      "en": "'OMG' promotion offline fansign (Music Korea)"
+    },
+    "summary": {
+      "ja": "『OMG』活動を記念し、ミュージックコリアでの購入者から抽選された50人とソウルで対面したファンサイン会。",
+      "en": "In-person fansign in Seoul marking 'OMG' promotions, for 50 raffle winners who bought the album at Music Korea."
+    },
+    "detail": {
+      "ja": "シングルアルバム『OMG』の活動を記念したファンサイン会の一つで、販売店ミュージックコリアのオンラインモールで『OMG』Message Card ver.を購入した人から抽選で50人を選び、ソウルで対面形式で行った。会場は当選者に個別に案内された。応募期間は1月6日から8日まで。",
+      "en": "One of the fansigns marking the 'OMG' promotions: 50 winners were drawn from buyers of the 'OMG' Message Card version at the Music Korea online mall and met the members in person in Seoul, at a venue disclosed to winners only. Entries ran from January 6 to 8."
+    },
+    "credits": {
+      "organizer": "Music Korea",
+      "venue": "Seoul (undisclosed)"
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/10331",
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1611173330471600128"
+    },
+    "tags": [
+      "fansign",
+      "offline"
+    ],
+    "verified": true
+  },
+  {
+    "id": "live-2023-02-24-hanni-gucci-fw23-milan",
+    "date": "2023-02-24",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "ハニ、グッチ 2023年秋冬ウィメンズショー（ミラノ）出席",
+      "en": "Hanni at the Gucci Fall/Winter 2023 show in Milan"
+    },
+    "summary": {
+      "ja": "グッチのグローバルアンバサダーとして、ミラノ・ファッションウィークのグッチ2023年秋冬ショーに出席した。",
+      "en": "As a Gucci global ambassador, Hanni sat front row at Gucci's Fall/Winter 2023 show during Milan Fashion Week."
+    },
+    "detail": {
+      "ja": "ハニがグッチのグローバルブランドアンバサダーとして、ミラノ・ファッションウィークで行われたグッチ2023年秋冬ウィメンズコレクションのショーに出席した。2022年のアンバサダー就任後、ハニにとって初のグッチのファッションショー出席となった。2月22日に仁川国際空港からミラノへ出国した。",
+      "en": "Hanni attended Gucci's Fall/Winter 2023 women's show at Milan Fashion Week as a global brand ambassador, her first Gucci runway show since being named ambassador in 2022. She left Incheon International Airport for Milan on February 22."
+    },
+    "credits": {
+      "venue": "Milan",
+      "brand": "Gucci"
+    },
+    "source_url": "https://www.harpersbazaar.com.sg/fashion/runway/newjeans-hanni-heart-evangelista-and-high-glamour-at-gucci-fall-winter-2023",
+    "reference_urls": [
+      "https://www.mydaily.co.kr/page/view/2023022211163105794",
+      "https://www.tatlerasia.com/style/fashion/newjeans-hanni-gucci-cruise-2024-fashion-show-seoul-korea-outfit-jackie-kennedy-style"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "event",
+      "fashion-event",
+      "overseas"
+    ],
+    "verified": false,
+    "editor_note": "Show held 24 Feb 2023 local time (early 25 Feb in some time zones). Departure 22 Feb per MyDaily photo article."
+  },
+  {
     "id": "live-2023-03-04-tokyo-girls-collection-2023-ss",
     "date": "2023-03-04",
     "date_type": "event",
@@ -285,6 +723,175 @@
     "editor_note": "Opening-stage placement per Modelpress headline; three-song set per en.wikipedia list, Modelpress names Ditto only."
   },
   {
+    "id": "live-2023-03-06-hyein-louis-vuitton-fw23-paris",
+    "date": "2023-03-06",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "ヘイン、ルイ・ヴィトン 2023-24年秋冬ウィメンズショー（パリ）出席",
+      "en": "Hyein at the Louis Vuitton Fall/Winter 2023 show in Paris"
+    },
+    "summary": {
+      "ja": "ルイ・ヴィトンのアンバサダーとして、パリ・ファッションウィークの2023-24年秋冬ウィメンズショーに出席した。",
+      "en": "As a Louis Vuitton ambassador, Hyein attended the Women's Fall/Winter 2023-2024 show at Paris Fashion Week."
+    },
+    "detail": {
+      "ja": "ヘインがルイ・ヴィトンのアンバサダーとして、パリ・ファッションウィークで行われた2023-24年秋冬ウィメンズコレクションのショーに出席し、最前列に座った。ヘインにとって初めてのファッションウィークとなった。3月5日に仁川国際空港からパリへ出国した。",
+      "en": "Hyein attended the Louis Vuitton Women's Fall/Winter 2023-2024 show at Paris Fashion Week as a brand ambassador, seated in the front row. It was her first fashion week. She left Incheon International Airport for Paris on March 5."
+    },
+    "credits": {
+      "venue": "Paris",
+      "brand": "Louis Vuitton"
+    },
+    "source_url": "https://envimedia.co/newjeans-hyein-brought-the-black-nail-polish-trend-to-paris-fashion-week/",
+    "reference_urls": [
+      "https://www.xportsnews.com/article/1695406",
+      "https://www.harpersbazaar.com.sg/fashion/newjeans-hyein-zendaya-louis-vuitton-fall-winter-2023"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "event",
+      "fashion-event",
+      "overseas"
+    ],
+    "verified": false
+  },
+  {
+    "id": "live-2023-03-15-seoul-fashion-week-2023-fw-ulkin",
+    "date": "2023-03-15",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 F/W ソウル・ファッションウィーク「ul:kin」コレクション出席",
+      "en": "2023 F/W Seoul Fashion Week: ul:kin collection"
+    },
+    "summary": {
+      "ja": "ソウル・ファッションウィークの広報大使として、東大門デザインプラザで行われたul:kinのコレクションショーに出席した。",
+      "en": "As Seoul Fashion Week ambassadors, the members attended designer Lee Sung-dong's ul:kin show at Dongdaemun Design Plaza."
+    },
+    "detail": {
+      "ja": "ソウル市の広報大使としてソウル・ファッションウィークのグローバル広報大使を務めるNewJeansが、東大門デザインプラザ（DDP）で開かれた2023 F/W ソウル・ファッションウィークで、デザイナー イ・ソンドンのブランドul:kinのコレクションショーに出席し、フォトタイムに応じた。",
+      "en": "Serving as global ambassadors for Seoul Fashion Week after being appointed Seoul city ambassadors, NewJeans attended designer Lee Sung-dong's ul:kin show at the 2023 F/W Seoul Fashion Week at Dongdaemun Design Plaza (DDP) and posed for photographers."
+    },
+    "credits": {
+      "venue": "Dongdaemun Design Plaza (DDP), Seoul",
+      "brand": "ul:kin"
+    },
+    "source_url": "https://www.xportsnews.com/article/1699938",
+    "reference_urls": [
+      "https://www.mt.co.kr/living/2023/02/25/2023022410470476733",
+      "https://www.newspim.com/news/view/20230315000760"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "event",
+      "fashion-event",
+      "government-event"
+    ],
+    "verified": false
+  },
+  {
+    "id": "live-2023-03-29-apple-gangnam-press-preview",
+    "date": "2023-03-29",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Apple 江南 プレスプレビュー（Today at Apple NewJeansリスニングセッション）",
+      "en": "Apple Gangnam press preview (Today at Apple NewJeans listening session)"
+    },
+    "summary": {
+      "ja": "ソウルのApple 江南オープン前のプレスプレビューに参加し、「OMG」を空間オーディオで聴くセッションを紹介した。",
+      "en": "Joined the press preview of Apple Gangnam in Seoul, introducing a Today at Apple session playing 'OMG' in Spatial Audio."
+    },
+    "detail": {
+      "ja": "3月31日オープンのApple 江南（ソウル江南区）で開かれた報道陣向けの事前公開に合わせ、メンバーが記者懇談会に参加した。店舗では「OMG（Apple Music Edition）」を空間オーディオで聴くToday at Appleセッション「NewJeansと一緒に楽しむ音楽セッション」が用意された。メンバーは店舗やセッションの感想を語った。",
+      "en": "Ahead of the March 31 opening of Apple Gangnam in Seoul's Gangnam district, the members took part in a press briefing at the store's media preview. The store prepared a Today at Apple session in which visitors could listen to 'OMG (Apple Music Edition)' in Spatial Audio with NewJeans, and the members shared their impressions of the store and the session."
+    },
+    "credits": {
+      "venue": "Apple Gangnam, Seoul",
+      "brand": "Apple"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1640987155060146176",
+    "reference_urls": [
+      "https://www.apple.com/newsroom/2023/03/apple-gangnam-will-welcome-first-customers-this-friday-march-31-in-south-korea/",
+      "https://byline.network/2023/03/30-214",
+      "https://newstomato.com/ReadNews.aspx?no=1182689"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1640987155060146176"
+    },
+    "image": {
+      "url": "https://pbs.twimg.com/media/FsXeQBGaEAEO2PB.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_ADOR/status/1640987155060146176"
+    },
+    "tags": [
+      "showcase",
+      "listening-session",
+      "brand-event"
+    ],
+    "verified": false,
+    "editor_note": "Official X post (2023-03-29 17:00 KST) announces the Today at Apple session; members' attendance at the press briefing from Byline Network (quotes from Minji, Haerin, Hyein, Hanni). Newstomato dates the media preview to 29 Mar; Byline article published 30 Mar. Existing content record content-2023-03-29-phoning-after-apple-event-face-call matches this date."
+  },
+  {
+    "id": "live-2023-04-29-hyein-louis-vuitton-pre-fall-2023-seoul",
+    "date": "2023-04-29",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "ヘイン、ルイ・ヴィトン 2023 プレフォール・コレクションショー（ソウル・潜水橋）出席",
+      "en": "Hyein at the Louis Vuitton Pre-Fall 2023 show on Jamsugyo Bridge, Seoul"
+    },
+    "summary": {
+      "ja": "ルイ・ヴィトンが漢江の潜水橋で初公開した2023プレフォール・コレクションのショーに、アンバサダーとして出席した。",
+      "en": "Hyein attended Louis Vuitton's Pre-Fall 2023 show, unveiled on Seoul's Jamsugyo Bridge over the Han River, as an ambassador."
+    },
+    "detail": {
+      "ja": "ルイ・ヴィトンが2023年プレフォール・コレクションを初公開したショーが、ソウルの漢江に架かる潜水橋で開かれ、ブランドアンバサダーのヘインがテヨン、ペ・ドゥナとともに出席した。2023〜2024年の韓国訪問の年に合わせ、市民と観光客がともに楽しむ文化行事として開催された。",
+      "en": "Louis Vuitton unveiled its Pre-Fall 2023 collection with a show on Jamsugyo Bridge over the Han River in Seoul, attended by brand ambassadors including Hyein, Taeyeon and Bae Doona. It was staged as a cultural event for the 2023-2024 Visit Korea Year."
+    },
+    "credits": {
+      "venue": "Jamsugyo Bridge, Seoul",
+      "brand": "Louis Vuitton"
+    },
+    "source_url": "https://www.mksports.co.kr/news/entertain/10724940",
+    "reference_urls": [
+      "https://www.tatlerasia.com/style/fashion/louis-vuitton-pre-fall-2023-fashion-show-seoul-newjeans-hyein-snsd-taeyeon-mingyu-korean-celebrities"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "event",
+      "fashion-event"
+    ],
+    "verified": false
+  },
+  {
     "id": "live-2023-05-03-adb-annual-meeting-opening",
     "date": "2023-05-03",
     "date_type": "event",
@@ -322,6 +929,85 @@
       "venue": "Songdo Convensia, Incheon",
       "organizer": "Asian Development Bank / Ministry of Economy and Finance"
     }
+  },
+  {
+    "id": "live-2023-05-16-hanni-gucci-cruise-2024-gyeongbokgung",
+    "date": "2023-05-16",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "ハニ、グッチ 2024 クルーズショー（景福宮）出席",
+      "en": "Hanni at the Gucci Cruise 2024 show at Gyeongbokgung Palace"
+    },
+    "summary": {
+      "ja": "ソウルの景福宮・勤政殿で開かれたグッチ2024クルーズショーに、グローバルアンバサダーとして出席した。",
+      "en": "Hanni attended the Gucci Cruise 2024 show at Geunjeongjeon in Seoul's Gyeongbokgung Palace as a global ambassador."
+    },
+    "detail": {
+      "ja": "グッチの韓国初の旗艦ブティック開店25周年を記念して、ソウルの景福宮・勤政殿で2024クルーズコレクションのショーが開かれ、ハニがグローバルブランドアンバサダーとして出席しフォトコールに応じた。ハニにとって2回目のグッチのショー出席となった。",
+      "en": "Gucci staged its Cruise 2024 show at Geunjeongjeon in Seoul's Gyeongbokgung Palace, marking 25 years since its first flagship boutique in Korea, and Hanni attended the photocall and show as a global brand ambassador. It was her second Gucci show."
+    },
+    "credits": {
+      "venue": "Gyeongbokgung Palace, Seoul",
+      "brand": "Gucci"
+    },
+    "source_url": "https://www.ajunews.com/view/20230517065943387",
+    "reference_urls": [
+      "https://www.topstarnews.net/news/articleView.html?idxno=15337753",
+      "https://www.nylon.com/fashion/gucci-cruise-2024-runway-show-front-row-newjeans-aespa-kpop/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "event",
+      "fashion-event"
+    ],
+    "verified": false
+  },
+  {
+    "id": "live-2023-05-18-little-mermaid-korean-dub-preview-stage-greeting",
+    "date": "2023-05-18",
+    "time": "20:00",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "映画『リトル・マーメイド』韓国語吹替版試写会 舞台挨拶",
+      "en": "'The Little Mermaid' Korean-dub preview screening stage greeting",
+      "original": "영화 <인어공주> 한국어 더빙 버전 시사회"
+    },
+    "summary": {
+      "ja": "ダニエルが韓国語吹替版でアリエルの声を担当した映画『リトル・マーメイド』の試写会に登壇した。",
+      "en": "Danielle, the Korean voice of Ariel, appeared at a preview screening of the Korean-dubbed 'The Little Mermaid'."
+    },
+    "detail": {
+      "ja": "CGV龍山アイパークモール4館で開かれた映画『リトル・マーメイド』韓国語吹替版の試写会に、ダニエルがチョン・ヨンジュ、チョン・サンフンとともに参加予定として告知された。ADORはNewJeansのWeverseで、ダニエルが参加したMVティザーへの応援投稿をした人を抽選で試写会に招待するイベントを行った。",
+      "en": "Danielle was announced to attend a preview screening of the Korean-dubbed 'The Little Mermaid' at CGV Yongsan I'Park Mall, Hall 4, together with Jeong Young-ju and Jung Sang-hoon. ADOR ran an event on NewJeans' Weverse inviting fans who posted messages of support for Danielle's MV teaser to the screening by raffle."
+    },
+    "credits": {
+      "venue": "CGV Yongsan I'Park Mall, Seoul"
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/13540",
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1656935994950828033"
+    },
+    "tags": [
+      "event",
+      "film"
+    ],
+    "verified": true,
+    "editor_note": "Weverse notice 13540 (2023-05-12): screening 5/18 20:00 KST, attendees Danielle, Jeong Young-ju, Jung Sang-hoon (subject to change). Attendance on the day not separately confirmed."
   },
   {
     "id": "live-2023-06-11-weverse-con-festival-2023",
@@ -364,6 +1050,42 @@
     }
   },
   {
+    "id": "live-2023-06-28-minji-chanel-code-color-popup-photocall",
+    "date": "2023-06-28",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "ミンジ、シャネル「CODE COLOR」ポップアップ オープン記念フォトコール",
+      "en": "Minji at the CHANEL 'Code Color' pop-up opening photocall"
+    },
+    "summary": {
+      "ja": "ソウル・聖水洞のLAYER 41で開かれたシャネル「CODE COLOR」ポップアップのオープン記念フォトコールに出席した。",
+      "en": "Minji attended the opening photocall for CHANEL's 'Code Color' pop-up at LAYER 41 in Seongsu-dong, Seoul."
+    },
+    "detail": {
+      "ja": "シャネルを象徴する色の名前を冠したポップアップ「CODE COLOR」のオープン記念フォトコールが、ソウル城東区のLAYER 41で開かれ、ミンジが出席してフォトタイムに応じた。",
+      "en": "Minji attended and posed at the opening photocall for CHANEL's 'Code Color' pop-up, named after the house's signature colours, at LAYER 41 in Seongdong-gu, Seoul."
+    },
+    "credits": {
+      "venue": "LAYER 41, Seongsu-dong, Seoul",
+      "brand": "CHANEL"
+    },
+    "source_url": "https://www.newsinstar.com/news/article.html?no=73939",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "event",
+      "brand-event"
+    ],
+    "verified": false
+  },
+  {
     "id": "live-2023-07-01-bunnies-camp",
     "date": "2023-07-01",
     "date_type": "event",
@@ -404,6 +1126,122 @@
       "organizer": "ADOR",
       "streaming": "Weverse"
     }
+  },
+  {
+    "id": "live-2023-07-26-get-up-weverse-shop-video-call-fansign",
+    "date": "2023-07-26",
+    "time": "20:00",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Get Up』予約購入者対象 映像通話ファンサイン会（Weverse Shop）",
+      "en": "'Get Up' pre-order video call fansign (Weverse Shop)"
+    },
+    "summary": {
+      "ja": "2nd EP『Get Up』のWeverse Shop予約購入者から抽選されたファンと、映像通話で行ったファンサイン会。",
+      "en": "Video call fansign for raffle winners among Weverse Shop pre-order buyers of the second EP 'Get Up'."
+    },
+    "detail": {
+      "ja": "2nd EP『Get Up』のBunny Beach Bag ver.またはTHE POWERPUFF GIRLS X NJ Box ver.をWeverse Shop GLOBALで予約購入し応募した人から当選者を選び、カカオトークの映像通話でファンサイン会を行った。通話はメンバー1人あたり1分、計5分。予約期間は6月19日から7月20日までだった。",
+      "en": "Winners were drawn from Weverse Shop GLOBAL pre-order buyers of the 'Get Up' Bunny Beach Bag or THE POWERPUFF GIRLS X NJ Box version and took part in a KakaoTalk video call fansign, one minute per member and five minutes in total. The pre-order window ran from June 19 to July 20."
+    },
+    "credits": {
+      "organizer": "Weverse Shop"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/events/647",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/events/634",
+      "https://weverse.io/newjeansofficial/notice/14125"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "fansign",
+      "video-call"
+    ],
+    "verified": true,
+    "editor_note": "Date/time from Weverse Shop event 647 (raffle winner announcement: Wed. July 26, 2023, 8:00 PM KST); event 634 and Weverse notice 14125 said the date would be announced later."
+  },
+  {
+    "id": "live-2023-07-30-get-up-yes24-video-call-fansign",
+    "date": "2023-07-30",
+    "time": "19:00",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Get Up』活動記念 映像通話ファンサイン会（YES24）",
+      "en": "'Get Up' promotion video call fansign (YES24)"
+    },
+    "summary": {
+      "ja": "2nd EP『Get Up』の活動を記念し、YES24での購入者から抽選されたファンと映像通話で行ったファンサイン会。",
+      "en": "Video call fansign marking the 'Get Up' promotions, for raffle winners who bought the EP at YES24."
+    },
+    "detail": {
+      "ja": "2nd EP『Get Up』の活動を記念したファンサイン会の一つ。YES24でBunny Beach Bag ver.またはTHE POWERPUFF GIRLS X NJ Box ver.を購入した人から当選者を選んで行った。抽選人数は50人。",
+      "en": "One of the fansigns marking the 'Get Up' promotions. Winners were drawn from buyers of the Bunny Beach Bag or THE POWERPUFF GIRLS X NJ Box version at YES24. Fifty winners were selected."
+    },
+    "credits": {
+      "organizer": "YES24"
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/14513",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "fansign",
+      "video-call"
+    ],
+    "verified": true
+  },
+  {
+    "id": "live-2023-07-31-incheon-departure-lollapalooza",
+    "date": "2023-07-31",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ロラパルーザ・シカゴ出演のため仁川空港から出国",
+      "en": "Departs Incheon for Lollapalooza Chicago"
+    },
+    "summary": {
+      "ja": "米国の音楽フェス「ロラパルーザ・シカゴ」に出演するため、メンバー5人が仁川国際空港からシカゴへ出国した。",
+      "en": "Left Incheon International Airport for Chicago to perform at Lollapalooza."
+    },
+    "detail": {
+      "ja": "メンバー5人が米国の音楽フェス「ロラパルーザ・シカゴ」出演のため、午前に仁川国際空港からシカゴへ出国した。メンバーそれぞれ異なるスタイリングの空港ファッションが報じられた。",
+      "en": "The five members left Incheon International Airport for Chicago in the morning to perform at Lollapalooza Chicago, with press covering each member's airport look."
+    },
+    "credits": {
+      "venue": "Incheon International Airport"
+    },
+    "source_url": "https://news.nate.com/view/20230731n07399?mid=e1100",
+    "reference_urls": [
+      "https://www.kpopstarz.com/articles/313930/20230803/newjeans-spotted-incheon-international-airport.htm",
+      "https://inkistyle.com/newjeans-incheon-airport-july-31-2023/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "airport",
+      "overseas"
+    ],
+    "verified": false
   },
   {
     "id": "live-2023-08-03-lollapalooza-chicago-2023",
@@ -449,6 +1287,80 @@
     }
   },
   {
+    "id": "live-2023-08-06-get-up-sound-wave-offline-fansign",
+    "date": "2023-08-06",
+    "time": "19:00",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Get Up』活動記念 オフラインファンサイン会（サウンドウェーブ）",
+      "en": "'Get Up' promotion offline fansign (Sound Wave)"
+    },
+    "summary": {
+      "ja": "2nd EP『Get Up』の活動を記念し、サウンドウェーブでの購入者から抽選されたファンと対面で行ったファンサイン会。",
+      "en": "In-person fansign marking the 'Get Up' promotions, for raffle winners who bought the EP at Sound Wave."
+    },
+    "detail": {
+      "ja": "2nd EP『Get Up』の活動を記念したファンサイン会の一つ。サウンドウェーブでBunny Beach Bag ver.またはTHE POWERPUFF GIRLS X NJ Box ver.を購入した人から当選者を選んで行った。会場はソウル・汝矣島のIFCモールで、抽選人数は50人。",
+      "en": "One of the fansigns marking the 'Get Up' promotions. Winners were drawn from buyers of the Bunny Beach Bag or THE POWERPUFF GIRLS X NJ Box version at Sound Wave. It was held at IFC Mall in Yeouido, Seoul, for 50 winners."
+    },
+    "credits": {
+      "organizer": "Sound Wave",
+      "venue": "IFC Mall, Seoul"
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/14552",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "fansign",
+      "offline"
+    ],
+    "verified": true
+  },
+  {
+    "id": "live-2023-08-10-get-up-aladin-video-call-fansign",
+    "date": "2023-08-10",
+    "time": "20:00",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Get Up』活動記念 映像通話ファンサイン会（アラジン）",
+      "en": "'Get Up' promotion video call fansign (Aladin)"
+    },
+    "summary": {
+      "ja": "2nd EP『Get Up』の活動を記念し、アラジンでの購入者から抽選されたファンと映像通話で行ったファンサイン会。",
+      "en": "Video call fansign marking the 'Get Up' promotions, for raffle winners who bought the EP at Aladin."
+    },
+    "detail": {
+      "ja": "2nd EP『Get Up』の活動を記念したファンサイン会の一つ。アラジンでBunny Beach Bag ver.またはTHE POWERPUFF GIRLS X NJ Box ver.を購入した人から当選者を選んで行った。抽選人数は50人。",
+      "en": "One of the fansigns marking the 'Get Up' promotions. Winners were drawn from buyers of the Bunny Beach Bag or THE POWERPUFF GIRLS X NJ Box version at Aladin. Fifty winners were selected."
+    },
+    "credits": {
+      "organizer": "Aladin"
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/14558",
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1682926000450011137"
+    },
+    "tags": [
+      "fansign",
+      "video-call"
+    ],
+    "verified": true
+  },
+  {
     "id": "live-2023-08-11-kpop-super-live-jamboree",
     "date": "2023-08-11",
     "date_type": "event",
@@ -492,6 +1404,81 @@
     "editor_note": "Attendance (about 45,000) reported by press on Aug 12, after the event; omitted from reader text. Live TV broadcaster not confirmed from fetched sources (KBS reported elsewhere, unverified here)."
   },
   {
+    "id": "live-2023-08-16-get-up-music-korea-video-call-fansign",
+    "date": "2023-08-16",
+    "time": "20:00",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Get Up』活動記念 映像通話ファンサイン会（ミュージックコリア）",
+      "en": "'Get Up' promotion video call fansign (Music Korea)"
+    },
+    "summary": {
+      "ja": "2nd EP『Get Up』の活動を記念し、ミュージックコリアでの購入者から抽選されたファンと映像通話で行ったファンサイン会。",
+      "en": "Video call fansign marking the 'Get Up' promotions, for raffle winners who bought the EP at Music Korea."
+    },
+    "detail": {
+      "ja": "2nd EP『Get Up』の活動を記念したファンサイン会の一つ。ミュージックコリアでBunny Beach Bag ver.またはTHE POWERPUFF GIRLS X NJ Box ver.を購入した人から当選者を選んで行った。抽選人数は50人。",
+      "en": "One of the fansigns marking the 'Get Up' promotions. Winners were drawn from buyers of the Bunny Beach Bag or THE POWERPUFF GIRLS X NJ Box version at Music Korea. Fifty winners were selected."
+    },
+    "credits": {
+      "organizer": "Music Korea"
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/14560",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "fansign",
+      "video-call"
+    ],
+    "verified": true
+  },
+  {
+    "id": "live-2023-08-17-gimpo-departure-summer-sonic",
+    "date": "2023-08-17",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "サマーソニック2023出演のため金浦空港から出国",
+      "en": "Departs Gimpo for Summer Sonic 2023"
+    },
+    "summary": {
+      "ja": "日本の音楽フェス「SUMMER SONIC 2023」出演のため、金浦国際空港から東京へ出国した。",
+      "en": "Left Gimpo International Airport for Tokyo to perform at Summer Sonic 2023."
+    },
+    "detail": {
+      "ja": "メンバー5人が「SUMMER SONIC 2023」出演のため、午後に金浦国際空港から日本・東京へ出国した。出国前には報道陣のフォトタイムに応じた。",
+      "en": "The five members left Gimpo International Airport for Tokyo in the afternoon to perform at Summer Sonic 2023, posing for photographers before departure."
+    },
+    "credits": {
+      "venue": "Gimpo International Airport"
+    },
+    "source_url": "https://www.xportsnews.com/article/1760280",
+    "reference_urls": [
+      "https://www.mksports.co.kr/news/entertain/10809569",
+      "https://www.topstarnews.net/news/articleView.html?idxno=15382885"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "airport",
+      "overseas"
+    ],
+    "verified": false
+  },
+  {
     "id": "live-2023-08-19-summer-sonic-2023-tokyo",
     "date": "2023-08-19",
     "date_type": "event",
@@ -531,6 +1518,119 @@
       "venue": "ZOZO Marine Stadium, Chiba (MARINE STAGE)",
       "organizer": "Creativeman Productions"
     }
+  },
+  {
+    "id": "live-2023-08-22-get-up-dear-my-muse-video-call-fansign",
+    "date": "2023-08-22",
+    "time": "20:00",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Get Up』活動記念 映像通話ファンサイン会（DEAR MY MUSE）",
+      "en": "'Get Up' promotion video call fansign (DEAR MY MUSE)"
+    },
+    "summary": {
+      "ja": "2nd EP『Get Up』の活動を記念し、メンバーごとに30人ずつ計150人と映像通話で行ったファンサイン会。",
+      "en": "Video call fansign marking the 'Get Up' promotions, with 30 winners per member and 150 in total."
+    },
+    "detail": {
+      "ja": "2nd EP『Get Up』の活動を記念したファンサイン会の一つ。販売店DEAR MY MUSEでBunny Beach Bag ver.を購入した人から、メンバーごとに30人、計150人を抽選した。当選者は応募したメンバー1人と映像通話を行い、そのメンバーのサインを受け取る形式だった。",
+      "en": "One of the fansigns marking the 'Get Up' promotions. Thirty winners per member, 150 in all, were drawn from buyers of the Bunny Beach Bag version at retailer DEAR MY MUSE. Each winner had a video call with the one member they had applied for and received that member's autograph."
+    },
+    "credits": {
+      "organizer": "DEAR MY MUSE"
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/14711",
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1686655574535249920"
+    },
+    "tags": [
+      "fansign",
+      "video-call"
+    ],
+    "verified": true
+  },
+  {
+    "id": "live-2023-08-25-get-up-m2u-offline-fansign",
+    "date": "2023-08-25",
+    "time": "20:00",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Get Up』活動記念 オフラインファンサイン会（エムツーユーレコード）",
+      "en": "'Get Up' promotion offline fansign (M2U Record)"
+    },
+    "summary": {
+      "ja": "2nd EP『Get Up』の活動を記念し、エムツーユーレコードでの購入者から抽選されたファンと対面で行ったファンサイン会。",
+      "en": "In-person fansign marking the 'Get Up' promotions, for raffle winners who bought the EP at M2U Record."
+    },
+    "detail": {
+      "ja": "2nd EP『Get Up』の活動を記念したファンサイン会の一つ。エムツーユーレコードでBunny Beach Bag ver.またはTHE POWERPUFF GIRLS X NJ Box ver.を購入した人から当選者を選んで行った。会場はソウルのスターフィールドCOEXモールで、抽選人数は50人。",
+      "en": "One of the fansigns marking the 'Get Up' promotions. Winners were drawn from buyers of the Bunny Beach Bag or THE POWERPUFF GIRLS X NJ Box version at M2U Record. It was held at Starfield COEX Mall in Seoul, for 50 winners."
+    },
+    "credits": {
+      "organizer": "M2U Record",
+      "venue": "Starfield COEX Mall, Seoul"
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/14587",
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1683650777452253184"
+    },
+    "tags": [
+      "fansign",
+      "offline"
+    ],
+    "verified": true
+  },
+  {
+    "id": "live-2023-08-29-get-up-private-offline-fansign",
+    "date": "2023-08-29",
+    "time": "19:00",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Get Up』活動記念 非公開オフラインファンサイン会（Sound Wave・M2U）",
+      "en": "'Get Up' promotion private offline fansign (Sound Wave / M2U)"
+    },
+    "summary": {
+      "ja": "2nd EP『Get Up』の活動を記念し、サウンドウェーブとエムツーユーの購入者計50人を招いた非公開の対面ファンサイン会。",
+      "en": "Private in-person fansign marking the 'Get Up' promotions, for 50 winners drawn from Sound Wave and M2U buyers."
+    },
+    "detail": {
+      "ja": "2nd EP『Get Up』の活動を記念したファンサイン会の一つで、非公開のオフライン形式で行われた。サウンドウェーブとエムツーユーでBunny Beach Bag ver.またはTHE POWERPUFF GIRLS X NJ Box ver.を購入した人から25人ずつ、計50人を抽選した。会場はソウルで、当選者に個別に案内された。",
+      "en": "One of the fansigns marking the 'Get Up' promotions, held as a private offline event. Twenty-five winners each were drawn from buyers of the Bunny Beach Bag or THE POWERPUFF GIRLS X NJ Box version at Sound Wave and M2U, 50 in all. The Seoul venue was disclosed to winners individually."
+    },
+    "credits": {
+      "organizer": "Sound Wave / M2U Record",
+      "venue": "Seoul (undisclosed)"
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/14755",
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1688361817805111296"
+    },
+    "tags": [
+      "fansign",
+      "offline"
+    ],
+    "verified": true
   },
   {
     "id": "live-2023-09-14-seoul-national-univ-festival",
@@ -689,6 +1789,100 @@
     }
   },
   {
+    "id": "live-2023-09-22-hanni-gucci-ancora-ss24-milan",
+    "date": "2023-09-22",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "ハニ、グッチ「Ancora」2024年春夏ショー（ミラノ）出席",
+      "en": "Hanni at Gucci 'Ancora' Spring/Summer 2024 show in Milan"
+    },
+    "summary": {
+      "ja": "サバト・デ・サルノの初コレクションとなったグッチ2024年春夏ショー「Gucci Ancora」に、ミラノで出席した。",
+      "en": "Hanni attended 'Gucci Ancora', Sabato De Sarno's debut Spring/Summer 2024 collection for Gucci, in Milan."
+    },
+    "detail": {
+      "ja": "ミラノ・ファッションウィークで、サバト・デ・サルノのグッチでのデビューとなる2024年春夏コレクション「Gucci Ancora」のショーが行われ、ハニがグローバルブランドアンバサダーとして最前列に座った。公式Xではショー会場でのハニの写真が公開された。",
+      "en": "Hanni sat front row as a global brand ambassador at 'Gucci Ancora', Sabato De Sarno's debut Spring/Summer 2024 collection for Gucci at Milan Fashion Week. NewJeans' official X shared photos of her at the show."
+    },
+    "credits": {
+      "venue": "Milan",
+      "brand": "Gucci"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1707002151677956549",
+    "reference_urls": [
+      "https://hypebae.com/jp/2023/9/gucci-spring-summer-2024-menswear-womenswear-milan-fashion-week-runway",
+      "https://www.harpersbazaar.com.sg/fashion/gucci-spring-summer24-attracts-the-likes-of-new-jeans-hanni-and-more"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1707002151677956549"
+    },
+    "image": {
+      "url": "https://pbs.twimg.com/media/F7Brui9bgAAFSsY.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_ADOR/status/1707002151677956549"
+    },
+    "tags": [
+      "event",
+      "fashion-event",
+      "overseas"
+    ],
+    "verified": false,
+    "editor_note": "Official X post (2023-09-27) 'HANNI at #GucciSS24 in Milan' confirms attendance; show date 22 Sep 2023 local from Hypebae JP."
+  },
+  {
+    "id": "live-2023-10-02-hyein-louis-vuitton-ss24-paris",
+    "date": "2023-10-02",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "ヘイン、ルイ・ヴィトン 2024年春夏ウィメンズショー（パリ）出席",
+      "en": "Hyein at the Louis Vuitton Spring/Summer 2024 show in Paris"
+    },
+    "summary": {
+      "ja": "パリ・ファッションウィークのルイ・ヴィトン2024年春夏ウィメンズショーに、アンバサダーとして出席した。",
+      "en": "Hyein attended the Louis Vuitton Women's Spring/Summer 2024 show at Paris Fashion Week as an ambassador."
+    },
+    "detail": {
+      "ja": "パリ・ファッションウィークで行われたルイ・ヴィトン2024年春夏ウィメンズコレクションのショーに、ブランドアンバサダーのヘインが出席した。公式Xではショーでのヘインの写真が公開された。",
+      "en": "Hyein attended the Louis Vuitton Women's Spring/Summer 2024 show at Paris Fashion Week as a brand ambassador, and NewJeans' official X shared a photo of her at the show."
+    },
+    "credits": {
+      "venue": "Paris",
+      "brand": "Louis Vuitton"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1710188139615326489",
+    "reference_urls": [
+      "https://www.sportskeeda.com/lifestyle/news-netizens-go-gaga-newjeans-hyein-s-look-louis-vuitton-spring-summer-2024-show-how-real",
+      "https://envimedia.co/newjeans-hyein-brought-the-black-nail-polish-trend-to-paris-fashion-week/"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1710188139615326489"
+    },
+    "image": {
+      "url": "https://pbs.twimg.com/media/F7vA1g5aEAALhB0.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_ADOR/status/1710188139615326489"
+    },
+    "tags": [
+      "event",
+      "fashion-event",
+      "overseas"
+    ],
+    "verified": false,
+    "editor_note": "Official X post (2023-10-06) 'HYEIN at #LVSS24 in Paris'; date 2 Oct 2023 from Sportskeeda."
+  },
+  {
     "id": "live-2023-10-07-coke-studio-superpop-japan-2023",
     "date": "2023-10-07",
     "date_type": "event",
@@ -729,6 +1923,44 @@
       "venue": "Pia Arena MM, Yokohama",
       "organizer": "Coca-Cola (Japan)"
     }
+  },
+  {
+    "id": "live-2023-10-21-incheon-departure-music-bank-mexico",
+    "date": "2023-10-21",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ミュージックバンク in メキシコ出演のため仁川空港から出国",
+      "en": "Departs Incheon for Music Bank in Mexico"
+    },
+    "summary": {
+      "ja": "KBS「ミュージックバンク in メキシコ」出演のため、仁川国際空港第2ターミナルから出国した。",
+      "en": "Left Incheon International Airport Terminal 2 to appear at KBS 'Music Bank in Mexico'."
+    },
+    "detail": {
+      "ja": "メンバー5人がKBS「Music Bank in Mexico」の公演日程のため、仁川国際空港第2ターミナルから出国した。同日は(G)I-DLEやMCのパク・ボゴムも同じ公演のため出国した。",
+      "en": "The five members left Incheon International Airport Terminal 2 for KBS 'Music Bank in Mexico'. (G)I-DLE and MC Park Bo-gum also departed the same day for the show."
+    },
+    "credits": {
+      "venue": "Incheon International Airport Terminal 2"
+    },
+    "source_url": "https://news.nate.com/view/20231021n06678",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=JfcfAY9sR40"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "airport",
+      "overseas"
+    ],
+    "verified": false
   },
   {
     "id": "live-2023-10-22-music-bank-in-mexico",
@@ -773,6 +2005,42 @@
     "editor_note": "Attendance (about 15,000) per KBS preview published Nov 3, after the event; omitted from reader text."
   },
   {
+    "id": "live-2023-11-06-hyundai-duty-free-5th-anniversary-photocall",
+    "date": "2023-11-06",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "現代百貨店免税店 オープン5周年記念フォトコール",
+      "en": "Hyundai Department Store Duty Free 5th anniversary photocall"
+    },
+    "summary": {
+      "ja": "モデルを務める現代百貨店免税店のオープン5周年記念フォトコールに、ザ・現代ソウルで5人そろって出席した。",
+      "en": "The five members attended the 5th-anniversary photocall for Hyundai Department Store Duty Free, which they front, at The Hyundai Seoul."
+    },
+    "detail": {
+      "ja": "広告モデルを務める現代百貨店免税店のオープン5周年を記念したフォトコールが、ソウル永登浦区のザ・現代ソウルで開かれ、メンバー5人が出席した。",
+      "en": "All five members attended a photocall at The Hyundai Seoul in Yeongdeungpo-gu marking the fifth anniversary of Hyundai Department Store Duty Free, for which they are advertising models."
+    },
+    "credits": {
+      "venue": "The Hyundai Seoul",
+      "brand": "Hyundai Department Store Duty Free"
+    },
+    "source_url": "https://www.ajunews.com/view/20231106225710709",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "event",
+      "brand-event"
+    ],
+    "verified": false
+  },
+  {
     "id": "live-2023-11-19-lol-worlds-2023-opening-ceremony",
     "date": "2023-11-19",
     "date_type": "event",
@@ -810,6 +2078,53 @@
       "venue": "Gocheok Sky Dome, Seoul",
       "organizer": "Riot Games"
     }
+  },
+  {
+    "id": "live-2023-11-21-haerin-dior-road-cruise-party-hong-kong",
+    "date": "2023-11-21",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ヘリン、ディオール「Road Cruise」パーティー（香港）出席",
+      "en": "Haerin at the Dior Road Cruise party in Hong Kong"
+    },
+    "summary": {
+      "ja": "香港・尖沙咀のディオール旗艦店で開かれたクルーズ2024コレクションのパーティーに、アンバサダーとして出席した。",
+      "en": "Haerin attended Dior's Cruise 2024 'Road Cruise' party at its Canton Road flagship in Tsim Sha Tsui, Hong Kong, as an ambassador."
+    },
+    "detail": {
+      "ja": "ディオールが香港・尖沙咀の広東道旗艦店でクルーズ2024コレクションを記念したパーティーを開き、アンバサダーのヘリンがチャ・ウヌらとともに出席した。ヘリンはクルーズ2024コレクションの白いドレスで登場した。公式Xでは「HAERIN @Dior Cruise 24 in Hong Kong」として写真が公開された。",
+      "en": "Dior held a party for its Cruise 2024 collection at the Canton Road flagship in Tsim Sha Tsui, Hong Kong, attended by ambassadors including Haerin and Cha Eun-woo. Haerin wore a white dress from the Cruise 2024 collection, and NewJeans' official X shared photos captioned 'HAERIN @Dior Cruise 24 in Hong Kong'."
+    },
+    "credits": {
+      "venue": "Dior Canton Road flagship, Hong Kong",
+      "brand": "Dior"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1727612956882640899",
+    "reference_urls": [
+      "https://kbizoom.com/cha-eun-woo-newjeans-haerin-and-more-turn-dior-event-in-hong-kong-into-a-visual-party/",
+      "https://sportskeeda.com/lifestyle/news-newjeans-haerin-s-look-dior-road-cruise-party-wins-internet-she-s-princess-coded-look"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1727612956882640899"
+    },
+    "image": {
+      "url": "https://pbs.twimg.com/media/F_m2VPUa4AArJ5C.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_ADOR/status/1727612956882640899"
+    },
+    "tags": [
+      "event",
+      "fashion-event",
+      "overseas"
+    ],
+    "verified": false,
+    "editor_note": "Official X post 2023-11-23; event date 21 Nov 2023 (local) from Sportskeeda/KBIZoom, not confirmed on an official page."
   },
   {
     "id": "live-2023-12-09-music-bank-global-festival-2023-japan",
@@ -896,6 +2211,133 @@
     }
   },
   {
+    "id": "live-2024-01-19-haerin-dior-men-fw24-paris",
+    "date": "2024-01-19",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ヘリン、ディオール メン 2024年秋冬ショー（パリ）出席",
+      "en": "Haerin at the Dior Men Fall/Winter 2024 show in Paris"
+    },
+    "summary": {
+      "ja": "パリ・メンズ・ファッションウィークで行われたディオール メンの2024年秋冬ショーに出席した。",
+      "en": "Haerin attended the Dior Men Fall/Winter 2024 show during Paris Men's Fashion Week."
+    },
+    "detail": {
+      "ja": "パリ・メンズ・ファッションウィーク期間中に行われたディオール メンの2024年秋冬コレクションのショーに、ディオールのアンバサダーであるヘリンが出席した。ヘリンにとって初めてのディオールのファッションウィークのショー出席と報じられた。",
+      "en": "Haerin, a Dior ambassador, attended the Dior Men Fall/Winter 2024 show during Paris Men's Fashion Week, reported as her first Dior fashion-week show."
+    },
+    "credits": {
+      "venue": "Paris",
+      "brand": "Dior"
+    },
+    "source_url": "https://www.tatlerasia.com/style/fashion/newjeans-haerin-dior-looks",
+    "reference_urls": [
+      "https://kbizoom.com/?p=594742"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "event",
+      "fashion-event",
+      "overseas"
+    ],
+    "verified": false,
+    "editor_note": "Date from a Tatler Asia photo caption (19 Jan 2024, outside Dior during Paris Men's Fashion Week); Tatler page could not be fetched (403). KBIZoom (21 Jan 2024) confirms attendance without a date."
+  },
+  {
+    "id": "live-2024-01-23-minji-chanel-haute-couture-ss24-paris",
+    "date": "2024-01-23",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "ミンジ、シャネル 2024年春夏オートクチュールショー（パリ）出席",
+      "en": "Minji at the CHANEL Spring/Summer 2024 Haute Couture show in Paris"
+    },
+    "summary": {
+      "ja": "パリのグラン・パレ・エフェメールで行われたシャネル2024年春夏オートクチュールのショーに、アンバサダーとして出席した。",
+      "en": "Minji attended the CHANEL Spring/Summer 2024 Haute Couture show at the Grand Palais Éphémère in Paris as an ambassador."
+    },
+    "detail": {
+      "ja": "パリ・オートクチュール・ファッションウィークで、シャネル2024年春夏オートクチュールコレクションのショーがグラン・パレ・エフェメールで行われ、シャネルのアンバサダーであるミンジが出席した。ミンジにとって初めてのファッションウィーク出席となった。公式Xでは「CHANEL SHOW」として写真が公開された。",
+      "en": "Minji, a CHANEL ambassador, attended the house's Spring/Summer 2024 Haute Couture show at the Grand Palais Éphémère during Paris Haute Couture Week, her first fashion week. NewJeans' official X shared a photo captioned 'CHANEL SHOW'."
+    },
+    "credits": {
+      "venue": "Grand Palais Éphémère, Paris",
+      "brand": "CHANEL"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1750174114424467900",
+    "reference_urls": [
+      "https://sportskeeda.com/lifestyle/news-newjeans-minji-s-look-chanel-ss24-haute-couture-collection-stuns-fans-the-prettiest-girl-ever-exist",
+      "https://tienphong.vn/show-haute-couture-chanel-minji-newjeans-nhan-sac-yeu-kieu-tan-chi-loi-tre-trung-post1607311.html"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1750174114424467900"
+    },
+    "image": {
+      "url": "https://pbs.twimg.com/media/GEnbeqwaYAAmWO4.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_ADOR/status/1750174114424467900"
+    },
+    "tags": [
+      "event",
+      "fashion-event",
+      "overseas"
+    ],
+    "verified": false,
+    "editor_note": "Official X post 2024-01-25 00:10 KST; show date 23 Jan 2024 from Sportskeeda."
+  },
+  {
+    "id": "live-2024-02-02-incheon-departure-singapore",
+    "date": "2024-02-02",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "海外日程のため仁川空港からシンガポールへ出国",
+      "en": "Departs Incheon for Singapore"
+    },
+    "summary": {
+      "ja": "海外日程に参加するため、NewJeansのメンバーが午前に仁川国際空港からシンガポールへ向けて出国した。",
+      "en": "Left Incheon International Airport for Singapore for an overseas schedule."
+    },
+    "detail": {
+      "ja": "メンバーが海外日程に参加するため、午前に仁川国際空港からシンガポールへ出国した。",
+      "en": "The members left Incheon International Airport for Singapore in the morning for an overseas schedule."
+    },
+    "credits": {
+      "venue": "Incheon International Airport"
+    },
+    "source_url": "https://news.nate.com/view/20240202n06345",
+    "reference_urls": [
+      "https://www.clien.net/service/board/park/18569066"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "airport",
+      "overseas"
+    ],
+    "verified": false,
+    "editor_note": "Xportsnews photo article via Nate. The schedule was the Nike Orchard Road event on 3 Feb (live-2024-02-03-nike-orchard-road-singapore); the article only says \"overseas schedule\"."
+  },
+  {
     "id": "live-2024-02-03-nike-orchard-road-singapore",
     "date": "2024-02-03",
     "date_type": "event",
@@ -937,6 +2379,52 @@
     "editor_note": "Straits Times report could not be fetched; set per en.wikipedia list."
   },
   {
+    "id": "live-2024-02-23-hanni-gucci-fw24-milan",
+    "date": "2024-02-23",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "ハニ、グッチ 2024年秋冬ショー（ミラノ）出席",
+      "en": "Hanni at the Gucci Fall/Winter 2024 show in Milan"
+    },
+    "summary": {
+      "ja": "ミラノ・ファッションウィーク3日目に行われたグッチ2024年秋冬ウィメンズショーに、アンバサダーとして出席した。",
+      "en": "Hanni attended Gucci's Fall/Winter 2024 women's show on day three of Milan Fashion Week as an ambassador."
+    },
+    "detail": {
+      "ja": "ミラノ・ファッションウィーク3日目に行われたグッチ2024年秋冬ウィメンズコレクションのショーに、グローバルブランドアンバサダーのハニが出席した。公式Xでは「HANNI at #GucciFW24 in Milan」として写真が公開された。",
+      "en": "Hanni attended Gucci's Fall/Winter 2024 women's show on the third day of Milan Fashion Week as a global brand ambassador, and NewJeans' official X shared a photo captioned 'HANNI at #GucciFW24 in Milan'."
+    },
+    "credits": {
+      "venue": "Milan",
+      "brand": "Gucci"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1762251201561682053",
+    "reference_urls": [
+      "https://v.daum.net/v/5kqYzQXDOE"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1762251201561682053"
+    },
+    "image": {
+      "url": "https://pbs.twimg.com/media/GHQon3aagAA-Lws.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_ADOR/status/1762251201561682053"
+    },
+    "tags": [
+      "event",
+      "fashion-event",
+      "overseas"
+    ],
+    "verified": false,
+    "editor_note": "Official X post 2024-02-27; show date 23 Feb 2024 local from Fashionn via Daum."
+  },
+  {
     "id": "live-2024-03-02-iu-her-world-tour-seoul-guest",
     "date": "2024-03-02",
     "date_type": "event",
@@ -975,6 +2463,139 @@
       "organizer": "EDAM Entertainment"
     },
     "editor_note": "Songs per en.wikipedia list; Harper's Bazaar Korea confirms guest slot and Hyein's Shh.. feature."
+  },
+  {
+    "id": "live-2024-03-05-hyein-louis-vuitton-fw24-paris",
+    "date": "2024-03-05",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "ヘイン、ルイ・ヴィトン 2024年秋冬ウィメンズショー（パリ）出席",
+      "en": "Hyein at the Louis Vuitton Fall/Winter 2024 show in Paris"
+    },
+    "summary": {
+      "ja": "パリ・ファッションウィークのルイ・ヴィトン2024年秋冬ウィメンズショーに、アンバサダーとして出席した。",
+      "en": "Hyein attended the Louis Vuitton Women's Fall/Winter 2024 show at Paris Fashion Week as an ambassador."
+    },
+    "detail": {
+      "ja": "パリ・ファッションウィークで行われたルイ・ヴィトン2024年秋冬ウィメンズコレクションのショーに、ブランドアンバサダーのヘインがオールブラックのルックで出席した。公式Xでは「HYEIN at #LVFW24 in Paris」として写真が公開された。",
+      "en": "Hyein attended the Louis Vuitton Women's Fall/Winter 2024 show at Paris Fashion Week as a brand ambassador, in an all-black look. NewJeans' official X shared photos captioned 'HYEIN at #LVFW24 in Paris'."
+    },
+    "credits": {
+      "venue": "Paris",
+      "brand": "Louis Vuitton"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1765527785236562195",
+    "reference_urls": [
+      "https://www.marieclairekorea.com/celebrity/2024/03/2024fwparisfashionweekkartist/"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1765527785236562195"
+    },
+    "image": {
+      "url": "https://pbs.twimg.com/media/GIBWZa8bMAAGBMe.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_ADOR/status/1765527785236562195"
+    },
+    "tags": [
+      "event",
+      "fashion-event",
+      "overseas"
+    ],
+    "verified": false,
+    "editor_note": "Official X post 2024-03-07 confirms attendance; 5 Mar 2024 is the LV FW24 show date (namu.wiki schedule via search); Marie Claire Korea recap has no date."
+  },
+  {
+    "id": "live-2024-04-15-haerin-dior-fall-2024-new-york",
+    "date": "2024-04-15",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ヘリン、ディオール 2024年秋冬ショー（ニューヨーク・ブルックリン美術館）出席",
+      "en": "Haerin at the Dior Fall 2024 show at the Brooklyn Museum, New York"
+    },
+    "summary": {
+      "ja": "ニューヨークのブルックリン美術館で行われたディオール2024年秋冬ショーに、アンバサダーとして出席した。",
+      "en": "Haerin attended Dior's Fall 2024 show at the Brooklyn Museum in New York as an ambassador."
+    },
+    "detail": {
+      "ja": "ディオールがニューヨークのブルックリン美術館で2024年秋冬コレクションのショーを行い、アンバサダーのヘリンが最前列に座った。",
+      "en": "Dior presented its Fall 2024 collection at the Brooklyn Museum in New York, with ambassador Haerin seated in the front row."
+    },
+    "credits": {
+      "venue": "Brooklyn Museum, New York",
+      "brand": "Dior"
+    },
+    "source_url": "https://grazia.sg/fashion/newjeans-haerin-dior-fall-2024-fashion-show-new-york-outfit-airport-fashion/",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Haerin"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "event",
+      "fashion-event",
+      "overseas"
+    ],
+    "verified": false,
+    "editor_note": "Show on 15 Apr 2024 New York time (Grazia SG published 16 Apr 09:00 UTC); Wikipedia lists 16 Apr (KST)."
+  },
+  {
+    "id": "live-2024-04-23-minji-chanel-rouge-allure-popup-photocall",
+    "date": "2024-04-23",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "ミンジ、シャネル「ルージュ アリュール」ポップアップ オープン記念フォトコール",
+      "en": "Minji at the CHANEL Rouge Allure pop-up opening photocall"
+    },
+    "summary": {
+      "ja": "ソウル・聖水洞で開かれたシャネル「ルージュ アリュール」ポップアップ（CHANEL NUIT BLANCHE SEOUL）のフォトコールに出席した。",
+      "en": "Minji attended the photocall for CHANEL's Rouge Allure pop-up, 'CHANEL NUIT BLANCHE SEOUL', in Seongsu-dong, Seoul."
+    },
+    "detail": {
+      "ja": "シャネルのリップ「ルージュ アリュール」のポップアップ（CHANEL NUIT BLANCHE SEOUL）のオープン記念フォトコールがソウル城東区で開かれ、ミンジが出席した。ポップアップは4月29日から5月26日まで運営されると案内された。公式Xでは「MINJI @ CHANEL NUIT BLANCHE SEOUL」として写真が公開された。",
+      "en": "Minji attended the opening photocall in Seongdong-gu, Seoul, for CHANEL's Rouge Allure lipstick pop-up 'CHANEL NUIT BLANCHE SEOUL', which was to run from April 29 to May 26. NewJeans' official X later shared photos captioned 'MINJI @ CHANEL NUIT BLANCHE SEOUL'."
+    },
+    "credits": {
+      "venue": "Seongsu-dong, Seoul",
+      "brand": "CHANEL"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1783828374156439690",
+    "reference_urls": [
+      "https://www.ajunews.com/view/20240423180655195",
+      "https://www.sedaily.com/article/13879288"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1783828374156439690"
+    },
+    "image": {
+      "url": "https://pbs.twimg.com/media/GMFr1eva8AAmy49.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_ADOR/status/1783828374156439690"
+    },
+    "tags": [
+      "event",
+      "brand-event"
+    ],
+    "verified": false,
+    "editor_note": "Official X post 2024-04-26; photocall date 23 Apr 2024 from Aju Business Daily."
   },
   {
     "id": "live-2024-05-21-korea-on-stage-gyeongbokgung",
@@ -1176,6 +2797,51 @@
     }
   },
   {
+    "id": "live-2024-05-29-haerin-dioriviera-popup-opening",
+    "date": "2024-05-29",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ヘリン、ディオール・ビューティー「ディオリビエラ」ポップアップ オープニングイベント出席",
+      "en": "Haerin at the Dior Beauty 'Dioriviera' pop-up opening"
+    },
+    "summary": {
+      "ja": "ソウル・聖水洞で開かれたディオール・ビューティーのポップアップ「ディオリビエラ」のオープニングイベントに出席した。",
+      "en": "Haerin attended the opening event of Dior Beauty's 'Dioriviera' pop-up in Seongsu-dong, Seoul."
+    },
+    "detail": {
+      "ja": "南仏リビエラの夏をテーマにしたクリスチャン・ディオール・ビューティーのポップアップ「ディオリビエラ」のオープニングイベントがソウル・聖水洞で開かれ、ディオールのハウスアンバサダーであるヘリンがチャ・ウヌ、ハン・ソヒ、キム・ヨナとともに出席した。公式Xでは同日、イベントでのヘリンの写真が公開された。",
+      "en": "Christian Dior Beauty opened its 'Dioriviera' pop-up, themed on the Riviera summer, in Seongsu-dong, Seoul, with house ambassadors Haerin, Cha Eun-woo, Han So-hee and Kim Yuna attending the opening event. NewJeans' official X shared photos of Haerin at the event the same day."
+    },
+    "credits": {
+      "venue": "Seongsu-dong, Seoul",
+      "brand": "Dior"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1795779624384835809",
+    "reference_urls": [
+      "https://www.elle.co.kr/article/1866160"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1795779624384835809"
+    },
+    "image": {
+      "url": "https://pbs.twimg.com/media/GOvWxTVasAAwbqc.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_ADOR/status/1795779624384835809"
+    },
+    "tags": [
+      "event",
+      "brand-event"
+    ],
+    "verified": true,
+    "editor_note": "Official X post 2024-05-29 20:30 KST 'HAERIN at the dioriviera pop-up event'; Elle Korea gives the opening as 29 May."
+  },
+  {
     "id": "live-2024-05-30-dongguk-univ-festival",
     "date": "2024-05-30",
     "date_type": "event",
@@ -1290,6 +2956,48 @@
     }
   },
   {
+    "id": "live-2024-06-01-how-sweet-weverse-shop-video-call-fansign",
+    "date": "2024-06-01",
+    "time": "13:00",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『How Sweet』予約購入者対象 映像通話ファンサイン会（Weverse Shop）",
+      "en": "'How Sweet' pre-order video call fansign (Weverse Shop)"
+    },
+    "summary": {
+      "ja": "『How Sweet』のWeverse Shop予約購入者から抽選された50人と、5人のメンバーが映像通話で交流したファンサイン会。",
+      "en": "Video call fansign with all five members for 50 raffle winners among Weverse Shop pre-order buyers of 'How Sweet'."
+    },
+    "detail": {
+      "ja": "ダブルシングル『How Sweet』のStandard ver.をWeverse Shop GLOBALで予約購入し応募した人から抽選で50人を選び、カカオトークの映像通話でファンサイン会を行った。参加メンバーはミンジ、ハニ、ダニエル、ヘリン、ヘインの5人。通話はメンバー1人あたり1分、計5分。",
+      "en": "Fifty winners were drawn from Weverse Shop GLOBAL pre-order buyers of the 'How Sweet' Standard version and joined a KakaoTalk video call fansign with Minji, Hanni, Danielle, Haerin and Hyein, one minute per member and five minutes in total."
+    },
+    "credits": {
+      "organizer": "Weverse Shop"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/events/808",
+    "reference_urls": [
+      "https://weverse.io/newjeansofficial/notice/19071",
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/9723"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1783677379875143690"
+    },
+    "tags": [
+      "fansign",
+      "video-call"
+    ],
+    "verified": true,
+    "editor_note": "Time 13:00 KST from Weverse Shop event 808 (winner announcement). Weverse notice 19071 gave the date with details to follow. Hyein was sitting out music shows/performances for 'How Sweet' (foot fracture, Weverse notice 19366) but the fansign notices list all five members; actual attendance not separately confirmed."
+  },
+  {
     "id": "live-2024-06-02-k-wave-concert-inkigayo",
     "date": "2024-06-02",
     "date_type": "event",
@@ -1328,6 +3036,44 @@
       "venue": "Inspire Arena, Incheon",
       "broadcaster": "SBS"
     }
+  },
+  {
+    "id": "live-2024-06-03-how-sweet-music-plant-video-call-fansign",
+    "date": "2024-06-03",
+    "time": "16:00",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『How Sweet』発売記念 映像通話ファンサイン会（ミュージックプラント）",
+      "en": "'How Sweet' release video call fansign (Music Plant)"
+    },
+    "summary": {
+      "ja": "『How Sweet』発売を記念し、ミュージックプラントでの購入者から抽選された50人と映像通話で行ったファンサイン会。",
+      "en": "Video call fansign marking the 'How Sweet' release, for 50 raffle winners who bought the single at Music Plant."
+    },
+    "detail": {
+      "ja": "ダブルシングル『How Sweet』の発売を記念したファンサイン会の一つ。ミュージックプラントでStandard ver.を1枚以上購入した人から抽選で50人を選んだ。参加メンバーはミンジ、ハニ、ダニエル、ヘリン、ヘインの5人と告知された。",
+      "en": "One of the fansigns marking the release of the double single 'How Sweet'. Fifty winners were drawn from buyers of at least one Standard version at Music Plant, and the notice listed all five members, Minji, Hanni, Danielle, Haerin and Hyein, as taking part."
+    },
+    "credits": {
+      "organizer": "Music Plant"
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/19543",
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1791287522225446950"
+    },
+    "tags": [
+      "fansign",
+      "video-call"
+    ],
+    "verified": true,
+    "editor_note": "Hyein was sitting out music shows/performances for 'How Sweet' (foot fracture, Weverse notice 19366) but the fansign notices list all five members; actual attendance not separately confirmed."
   },
   {
     "id": "live-2024-06-04-coke-studio-tokyo-fan-event",
@@ -1369,6 +3115,162 @@
       "organizer": "Coca-Cola (Japan) / Spotify",
       "brand": "Coca-Cola"
     }
+  },
+  {
+    "id": "live-2024-06-06-how-sweet-yes24-offline-fansign",
+    "date": "2024-06-06",
+    "time": "14:00",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『How Sweet』発売記念 オフラインファンサイン会（YES24）",
+      "en": "'How Sweet' release offline fansign (YES24)"
+    },
+    "summary": {
+      "ja": "『How Sweet』発売を記念し、YES24での購入者から抽選された50人とソウルで対面したファンサイン会。",
+      "en": "In-person fansign in Seoul marking the 'How Sweet' release, for 50 raffle winners who bought the single at YES24."
+    },
+    "detail": {
+      "ja": "ダブルシングル『How Sweet』の発売を記念したファンサイン会の一つ。YES24でStandard ver.を1枚以上購入した人から抽選で50人を選んだ。参加メンバーはミンジ、ハニ、ダニエル、ヘリン、ヘインの5人と告知された。会場はソウルで、当選者に個別に案内された。",
+      "en": "One of the fansigns marking the release of the double single 'How Sweet'. Fifty winners were drawn from buyers of at least one Standard version at YES24, and the notice listed all five members, Minji, Hanni, Danielle, Haerin and Hyein, as taking part. The Seoul venue was disclosed to winners individually."
+    },
+    "credits": {
+      "organizer": "YES24",
+      "venue": "Seoul (undisclosed)"
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/19736",
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1793824240061604304"
+    },
+    "tags": [
+      "fansign",
+      "offline"
+    ],
+    "verified": true,
+    "editor_note": "Hyein was sitting out music shows/performances for 'How Sweet' (foot fracture, Weverse notice 19366) but the fansign notices list all five members; actual attendance not separately confirmed."
+  },
+  {
+    "id": "live-2024-06-06-how-sweet-aladin-offline-fansign",
+    "date": "2024-06-06",
+    "time": "16:30",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『How Sweet』発売記念 オフラインファンサイン会（アラジン）",
+      "en": "'How Sweet' release offline fansign (Aladin)"
+    },
+    "summary": {
+      "ja": "『How Sweet』発売を記念し、アラジンでの購入者から抽選された50人とソウルで対面したファンサイン会。",
+      "en": "In-person fansign in Seoul marking the 'How Sweet' release, for 50 raffle winners who bought the single at Aladin."
+    },
+    "detail": {
+      "ja": "ダブルシングル『How Sweet』の発売を記念したファンサイン会の一つ。アラジンでStandard ver.を1枚以上購入した人から抽選で50人を選んだ。参加メンバーはミンジ、ハニ、ダニエル、ヘリン、ヘインの5人と告知された。会場はソウルで、当選者に個別に案内された。",
+      "en": "One of the fansigns marking the release of the double single 'How Sweet'. Fifty winners were drawn from buyers of at least one Standard version at Aladin, and the notice listed all five members, Minji, Hanni, Danielle, Haerin and Hyein, as taking part. The Seoul venue was disclosed to winners individually."
+    },
+    "credits": {
+      "organizer": "Aladin",
+      "venue": "Seoul (undisclosed)"
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/19746",
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1794549013053612111"
+    },
+    "tags": [
+      "fansign",
+      "offline"
+    ],
+    "verified": true,
+    "editor_note": "Hyein was sitting out music shows/performances for 'How Sweet' (foot fracture, Weverse notice 19366) but the fansign notices list all five members; actual attendance not separately confirmed."
+  },
+  {
+    "id": "live-2024-06-07-how-sweet-music-korea-video-call-fansign",
+    "date": "2024-06-07",
+    "time": "20:30",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『How Sweet』発売記念 映像通話ファンサイン会（ミュージックコリア）",
+      "en": "'How Sweet' release video call fansign (Music Korea)"
+    },
+    "summary": {
+      "ja": "『How Sweet』発売を記念し、ミュージックコリアでの購入者から抽選された50人と映像通話で行ったファンサイン会。",
+      "en": "Video call fansign marking the 'How Sweet' release, for 50 raffle winners who bought the single at Music Korea."
+    },
+    "detail": {
+      "ja": "ダブルシングル『How Sweet』の発売を記念したファンサイン会の一つ。ミュージックコリアでStandard ver.を1枚以上購入した人から抽選で50人を選んだ。参加メンバーはミンジ、ハニ、ダニエル、ヘリン、ヘインの5人と告知された。",
+      "en": "One of the fansigns marking the release of the double single 'How Sweet'. Fifty winners were drawn from buyers of at least one Standard version at Music Korea, and the notice listed all five members, Minji, Hanni, Danielle, Haerin and Hyein, as taking part."
+    },
+    "credits": {
+      "organizer": "Music Korea"
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/19843",
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1795273787849482551"
+    },
+    "tags": [
+      "fansign",
+      "video-call"
+    ],
+    "verified": true,
+    "editor_note": "Hyein was sitting out music shows/performances for 'How Sweet' (foot fracture, Weverse notice 19366) but the fansign notices list all five members; actual attendance not separately confirmed."
+  },
+  {
+    "id": "live-2024-06-20-gimpo-departure-japan-debut",
+    "date": "2024-06-20",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本デビューを控え金浦空港から東京へ出国",
+      "en": "Departs Gimpo for Tokyo ahead of Japan debut"
+    },
+    "summary": {
+      "ja": "日本デビューシングル発売を前に、金浦国際空港から東京へ出国した。ヘインが合流し、約2か月ぶりに5人そろっての出国となった。",
+      "en": "Left Gimpo International Airport for Tokyo ahead of the Japanese debut single, with Hyein rejoining for the first full-group departure in about two months."
+    },
+    "detail": {
+      "ja": "日本デビューシングル『Supernatural』の6月21日発売と、6月26・27日の東京ドームでのファンミーティングを控え、メンバーが午前に金浦国際空港から東京へ出国した。けがから回復中のヘインも合流し、約2か月ぶりに5人そろっての出国となった。",
+      "en": "Ahead of the June 21 release of the Japanese debut single 'Supernatural' and the June 26-27 Tokyo Dome fan meeting, the members left Gimpo International Airport for Tokyo in the morning. Hyein, recovering from injury, joined them, making it the first full five-member departure in about two months."
+    },
+    "credits": {
+      "venue": "Gimpo International Airport"
+    },
+    "source_url": "https://www.mksports.co.kr/news/entertain/11046291",
+    "reference_urls": [
+      "https://www.news1.kr/entertain/celebrity-topic/5453183",
+      "https://www.xportsnews.com/article/1872212"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "airport",
+      "overseas",
+      "japan"
+    ],
+    "verified": false
   },
   {
     "id": "live-2024-06-26-bunnies-camp-2024-tokyo-dome",
@@ -1416,6 +3318,94 @@
     }
   },
   {
+    "id": "live-2024-06-29-supernatural-offline-event-osaka",
+    "date": "2024-06-29",
+    "time": "11:30",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Supernatural』シリアルナンバー特典オフラインイベント（大阪）",
+      "en": "'Supernatural' serial-number offline event (Osaka)"
+    },
+    "summary": {
+      "ja": "日本デビューシングル『Supernatural』の購入特典として大阪で開かれた、個別サイン会や全員トーク会などの特典会。",
+      "en": "Purchase-benefit event in Osaka for the Japanese debut single 'Supernatural', with individual fansigns and all-member talk sessions."
+    },
+    "detail": {
+      "ja": "日本デビューシングル『Supernatural』のNJ X MURAKAMI Drawstring Bag ver.／Cross Bag ver.（Weverse Shop JAPAN、UNIVERSAL MUSIC STORE）に付いたシリアルナンバーで応募するオフラインイベントで、大阪府内の非公開会場で開かれた。ミニトークの後のメンバー個別サイン会、Bunnies Membership (JP)会員限定の全員サイン会、メンバー5人とファン1人が話す全員トーク会の計6部構成。参加メンバーはミンジ、ハニ、ダニエル、ヘリン、ヘインの5人と告知された。",
+      "en": "An offline event entered via serial numbers included with the NJ X MURAKAMI Drawstring Bag and Cross Bag versions of the Japanese debut single 'Supernatural' (Weverse Shop JAPAN and UNIVERSAL MUSIC STORE), held at an undisclosed venue in Osaka. It ran in six parts: individual member fansigns after a mini talk, all-member fansigns for Bunnies Membership (JP) members, and all-member talk sessions in which the five members chatted with one fan at a time. All five members, Minji, Hanni, Danielle, Haerin and Hyein, were listed."
+    },
+    "credits": {
+      "organizer": "UNIVERSAL MUSIC JAPAN",
+      "venue": "Osaka (undisclosed)"
+    },
+    "source_url": "https://www.newjeans.jp/news/yjjsxf",
+    "reference_urls": [
+      "https://news.livedoor.com/topics/detail/26646173/",
+      "https://www.hmv.co.jp/news/article/240501172/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "fansign",
+      "japan",
+      "overseas",
+      "offline"
+    ],
+    "verified": true,
+    "editor_note": "newjeans.jp notice (2024-05-28) lists 6/29 Osaka (parts from 11:30) and 6/30 Tokyo (parts from 12:30); venues disclosed to winners only. Hyein was not taking part in Japanese music shows/performances (Weverse notice 20389, 2024-06-20) but was to join other schedules flexibly; her attendance at these events is not separately confirmed."
+  },
+  {
+    "id": "live-2024-06-30-supernatural-offline-event-tokyo",
+    "date": "2024-06-30",
+    "time": "12:30",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Supernatural』シリアルナンバー特典オフラインイベント（東京）",
+      "en": "'Supernatural' serial-number offline event (Tokyo)"
+    },
+    "summary": {
+      "ja": "日本デビューシングル『Supernatural』の購入特典として東京で開かれた、個別サイン会や全員トーク会などの特典会。",
+      "en": "Purchase-benefit event in Tokyo for the Japanese debut single 'Supernatural', with individual fansigns and all-member talk sessions."
+    },
+    "detail": {
+      "ja": "日本デビューシングル『Supernatural』のNJ X MURAKAMI Drawstring Bag ver.／Cross Bag ver.（Weverse Shop JAPAN、UNIVERSAL MUSIC STORE）に付いたシリアルナンバーで応募するオフラインイベントで、東京都内の非公開会場で開かれた。ミニトークの後のメンバー個別サイン会、Bunnies Membership (JP)会員限定の全員サイン会、メンバー5人とファン1人が話す全員トーク会の計6部構成。参加メンバーはミンジ、ハニ、ダニエル、ヘリン、ヘインの5人と告知された。",
+      "en": "An offline event entered via serial numbers included with the NJ X MURAKAMI Drawstring Bag and Cross Bag versions of the Japanese debut single 'Supernatural' (Weverse Shop JAPAN and UNIVERSAL MUSIC STORE), held at an undisclosed venue in Tokyo. It ran in six parts: individual member fansigns after a mini talk, all-member fansigns for Bunnies Membership (JP) members, and all-member talk sessions in which the five members chatted with one fan at a time. All five members, Minji, Hanni, Danielle, Haerin and Hyein, were listed."
+    },
+    "credits": {
+      "organizer": "UNIVERSAL MUSIC JAPAN",
+      "venue": "Tokyo (undisclosed)"
+    },
+    "source_url": "https://www.newjeans.jp/news/yjjsxf",
+    "reference_urls": [
+      "https://news.livedoor.com/topics/detail/26646173/",
+      "https://www.hmv.co.jp/news/article/240501172/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "fansign",
+      "japan",
+      "overseas",
+      "offline"
+    ],
+    "verified": true,
+    "editor_note": "newjeans.jp notice (2024-05-28) lists 6/29 Osaka (parts from 11:30) and 6/30 Tokyo (parts from 12:30); venues disclosed to winners only. Hyein was not taking part in Japanese music shows/performances (Weverse notice 20389, 2024-06-20) but was to join other schedules flexibly; her attendance at these events is not separately confirmed."
+  },
+  {
     "id": "live-2024-07-21-sbs-gayo-daejeon-summer",
     "date": "2024-07-21",
     "date_type": "event",
@@ -1457,6 +3447,45 @@
       "broadcaster": "SBS",
       "host": "Doyoung, Yeonjun, An Yu-jin"
     }
+  },
+  {
+    "id": "live-2024-07-26-hyein-louis-vuitton-popup-photocall",
+    "date": "2024-07-26",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "ヘイン、ルイ・ヴィトン ポップアップストア オープン記念フォトコール",
+      "en": "Hyein at the Louis Vuitton pop-up store opening photocall"
+    },
+    "summary": {
+      "ja": "ソウルの新世界百貨店江南店で開かれたルイ・ヴィトン ウィメンズ・コレクションのポップアップ開店記念フォトコールに出席した。",
+      "en": "Hyein attended the opening photocall for a Louis Vuitton women's collection pop-up at Shinsegae Department Store Gangnam, Seoul."
+    },
+    "detail": {
+      "ja": "ルイ・ヴィトンが新世界百貨店江南店で8月11日まで運営するウィメンズ・コレクションのポップアップストアのオープン記念フォトコールが開かれ、ヘインがチョン・ホヨン、ウォン・ジアンらとともに出席した。",
+      "en": "Louis Vuitton held an opening photocall for its women's collection pop-up store at Shinsegae Department Store Gangnam, running until August 11, attended by Hyein along with Jung Ho-yeon, Won Ji-an and others."
+    },
+    "credits": {
+      "venue": "Shinsegae Department Store Gangnam, Seoul",
+      "brand": "Louis Vuitton"
+    },
+    "source_url": "https://news.nate.com/view/20240726n11692",
+    "reference_urls": [
+      "https://news.nate.com/view/20240726n12395"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "event",
+      "brand-event"
+    ],
+    "verified": false
   },
   {
     "id": "live-2024-08-03-coupang-play-series-halftime-show",
@@ -1580,6 +3609,96 @@
     }
   },
   {
+    "id": "live-2024-09-20-hanni-gucci-ss25-milan",
+    "date": "2024-09-20",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "ハニ、グッチ 2025年春夏ウィメンズショー（ミラノ）出席",
+      "en": "Hanni at the Gucci Spring/Summer 2025 show in Milan"
+    },
+    "summary": {
+      "ja": "ミラノのトリエンナーレで行われたグッチ2025年春夏ウィメンズショーに、グローバルアンバサダーとして出席した。",
+      "en": "Hanni attended Gucci's Spring/Summer 2025 women's show at the Triennale Milano as a global ambassador."
+    },
+    "detail": {
+      "ja": "ミラノ・ファッションウィーク期間中、トリエンナーレ・ミラノで行われたグッチ2025年春夏ウィメンズコレクションのショーに、グローバルブランドアンバサダーのハニが出席した。9月18日に仁川国際空港からミラノへ出国した。公式Xでは「A day with Gucci」として映像が公開された。",
+      "en": "Hanni attended Gucci's Spring/Summer 2025 women's show at the Triennale Milano during Milan Fashion Week as a global brand ambassador, having left Incheon International Airport for Milan on September 18. NewJeans' official X shared a 'A day with Gucci' video."
+    },
+    "credits": {
+      "venue": "Triennale Milano",
+      "brand": "Gucci"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1839198218812350598",
+    "reference_urls": [
+      "https://www.newsinstar.com/news/article.html?no=79409",
+      "https://rain-mag.com/gucci-womens-ss25-sabato-de-sarnos-60s-revival-draws-dakota-johnson-daisy-edgar-jones-jin-hanni-and-more/"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1839198218812350598"
+    },
+    "tags": [
+      "event",
+      "fashion-event",
+      "overseas"
+    ],
+    "verified": false,
+    "editor_note": "Official X video post 2024-09-26 (#GucciSS25); show date 20 Sep 2024 from Rain Magazine/Bella Media. One Korean report gives the 19th local; most sources say 20 Sep."
+  },
+  {
+    "id": "live-2024-10-01-hyein-louis-vuitton-ss25-paris",
+    "date": "2024-10-01",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "ヘイン、ルイ・ヴィトン 2025年春夏ウィメンズショー（パリ）出席",
+      "en": "Hyein at the Louis Vuitton Spring/Summer 2025 show in Paris"
+    },
+    "summary": {
+      "ja": "パリ・ファッションウィークのルイ・ヴィトン2025年春夏ウィメンズショーに、アンバサダーとして出席した。",
+      "en": "Hyein attended the Louis Vuitton Women's Spring/Summer 2025 show at Paris Fashion Week as an ambassador."
+    },
+    "detail": {
+      "ja": "パリ・ファッションウィークで行われたルイ・ヴィトン2025年春夏ウィメンズコレクションのショーに、3年目のブランドアンバサダーとなるヘインが出席した。公式Xでは「#LVSS25」として写真が公開された。",
+      "en": "Hyein, in her third year as a Louis Vuitton ambassador, attended the Women's Spring/Summer 2025 show at Paris Fashion Week. NewJeans' official X shared photos tagged #LVSS25."
+    },
+    "credits": {
+      "venue": "Paris",
+      "brand": "Louis Vuitton"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1842127523863216339",
+    "reference_urls": [
+      "https://news.nate.com/view/20241002n28539",
+      "https://www.voguehk.com/en/article/fashion/asian-celebrities-fashion-week-ss25/"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1842127523863216339"
+    },
+    "image": {
+      "url": "https://pbs.twimg.com/media/GZB56B6bAAMWYmV.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_ADOR/status/1842127523863216339"
+    },
+    "tags": [
+      "event",
+      "fashion-event",
+      "overseas"
+    ],
+    "verified": false,
+    "editor_note": "Official X post 2024-10-04; show date 1 Oct 2024 local from Newsen via Nate."
+  },
+  {
     "id": "live-2024-10-19-coke-studio-live-2024-saitama",
     "date": "2024-10-19",
     "date_type": "event",
@@ -1620,6 +3739,98 @@
       "venue": "Saitama Super Arena, Saitama",
       "organizer": "Coca-Cola (Japan)"
     }
+  },
+  {
+    "id": "live-2024-11-28-danielle-celine-cheongdam-flagship-photocall",
+    "date": "2024-11-28",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "ダニエル、セリーヌ清潭フラッグシップストア オープン記念フォトコール",
+      "en": "Danielle at the CELINE Cheongdam flagship opening photocall"
+    },
+    "summary": {
+      "ja": "ソウル・清潭洞のセリーヌ清潭フラッグシップストアのオープン記念フォトコールに、グローバルアンバサダーとして出席した。",
+      "en": "Danielle attended the opening photocall for CELINE's Cheongdam flagship store in Seoul as a global ambassador."
+    },
+    "detail": {
+      "ja": "セリーヌのグローバルアンバサダーであるダニエルが、ソウル江南区清潭洞で開かれたセリーヌ清潭フラッグシップストアのオープン記念フォトコールに出席した。同じ行事にはパク・ボゴム、スジ、TWSらも出席した。",
+      "en": "Danielle, a CELINE global ambassador, attended the opening photocall for the CELINE Cheongdam flagship store in Cheongdam-dong, Seoul, alongside Park Bo-gum, Suzy and TWS."
+    },
+    "credits": {
+      "venue": "CELINE Cheongdam flagship, Seoul",
+      "brand": "CELINE"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1866392437033427294",
+    "reference_urls": [
+      "https://www.etnews.com/20241128000450",
+      "https://www.xportsnews.com/article/1934999"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1866392437033427294"
+    },
+    "image": {
+      "url": "https://pbs.twimg.com/media/GebCBUmboAAlHwk.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_ADOR/status/1866392437033427294"
+    },
+    "tags": [
+      "event",
+      "brand-event"
+    ],
+    "verified": false,
+    "editor_note": "Official X post 2024-12-10 (#CELINECHEONGDAM) shows Danielle at the store; photocall date 28 Nov 2024 from ETNews. Same day as the members' press conference (notice-2024-11-28-termination-press-conference); not mentioned in the text."
+  },
+  {
+    "id": "live-2024-12-06-haerin-dior-beauty-holiday-popup-photocall",
+    "date": "2024-12-06",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ヘリン、ディオール・ビューティー ホリデー・ポップアップ オープン記念フォトコール",
+      "en": "Haerin at the Dior Beauty holiday pop-up opening photocall"
+    },
+    "summary": {
+      "ja": "ソウル・蚕室のロッテワールドモールで開かれたディオール・ビューティーのホリデー・ポップアップのフォトコールに出席した。",
+      "en": "Haerin attended the photocall for Dior Beauty's holiday pop-up at Lotte World Mall in Jamsil, Seoul."
+    },
+    "detail": {
+      "ja": "クリスチャン・ディオール・ビューティーのホリデー・ポップアップのオープン記念フォトコールがソウル・蚕室のロッテワールドモール1階アトリウムで開かれ、ヘリンがキム・ヨナ、ナム・ジュヒョク、ハン・ソヒとともに出席した。ポップアップは12月7日から26日まで運営される。",
+      "en": "Haerin attended the opening photocall for Christian Dior Beauty's holiday pop-up in the first-floor atrium of Lotte World Mall in Jamsil, Seoul, with Kim Yuna, Nam Joo-hyuk and Han So-hee. The pop-up runs from December 7 to 26."
+    },
+    "credits": {
+      "venue": "Lotte World Mall, Seoul",
+      "brand": "Dior"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1865229762991686060",
+    "reference_urls": [
+      "https://www.xportsnews.com/article/1938062",
+      "https://www.topstarnews.net/news/articleView.html?idxno=15579129"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1865229762991686060"
+    },
+    "image": {
+      "url": "https://pbs.twimg.com/media/GeKgk6mbQAAJuDV.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_ADOR/status/1865229762991686060"
+    },
+    "tags": [
+      "event",
+      "brand-event"
+    ],
+    "verified": false,
+    "editor_note": "Official X post 2024-12-07 (#디올홀리데이팝업); photocall date 6 Dec 2024 from Xportsnews."
   },
   {
     "id": "live-2024-12-07-yoasobi-asia-tour-incheon-guest",
@@ -1786,6 +3997,92 @@
     }
   },
   {
+    "id": "live-2025-01-17-haerin-dior-lip-glow-popup-opening",
+    "date": "2025-01-17",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ヘリン、ディオール「リップ グロウ」ポップアップ オープニングイベント出席",
+      "en": "Haerin at the Dior Lip Glow pop-up opening"
+    },
+    "summary": {
+      "ja": "ソウルの新世界百貨店江南店で開かれたディオール「リップ グロウ」ポップアップのオープニングイベントに出席した。",
+      "en": "Haerin attended the opening event of the Dior Lip Glow pop-up at Shinsegae Department Store Gangnam, Seoul."
+    },
+    "detail": {
+      "ja": "新しくなった「ディオール アディクト リップ グロウ」の発売を記念したポップアップが、新世界百貨店江南店センターシティ1階で2月2日まで開かれ、初日のオープニングイベントにハウスアンバサダーのヘリンがキム・ヨナ、ハン・ソヒ、ナム・ジュヒョクとともに出席した。公式Xではポップアップでのヘリンの写真が公開された。",
+      "en": "Dior's pop-up celebrating the new Dior Addict Lip Glow opened on the first floor of Shinsegae Department Store Gangnam's Central City, running until February 2, and house ambassador Haerin attended the opening event with Kim Yuna, Han So-hee and Nam Joo-hyuk. NewJeans' official X shared photos of her at the pop-up."
+    },
+    "credits": {
+      "venue": "Shinsegae Department Store Gangnam, Seoul",
+      "brand": "Dior"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1880540642151186762",
+    "reference_urls": [
+      "https://www.dt.co.kr/article/11641362",
+      "https://view.asiae.co.kr/article/2025012313461508757"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1880540642151186762"
+    },
+    "image": {
+      "url": "https://pbs.twimg.com/media/GhkFvu3aIAAxxLF.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_ADOR/status/1880540642151186762"
+    },
+    "tags": [
+      "event",
+      "brand-event"
+    ],
+    "verified": false,
+    "editor_note": "Official X post 2025-01-18 (#디올립글로우팝업); opening event 17 Jan 2025 per search summary of Digital Times/Asiae (DT page fetched but body text not extracted)."
+  },
+  {
+    "id": "live-2025-03-22-njz-incheon-departure-hong-kong",
+    "date": "2025-03-22",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "njz",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NJZ、コンプレックスコン香港出演のため仁川空港から出国",
+      "en": "NJZ depart Incheon for ComplexCon Hong Kong"
+    },
+    "summary": {
+      "ja": "ComplexCon香港出演のため、メンバー5人が仁川国際空港から香港へ出国した。",
+      "en": "The five members left Incheon International Airport for Hong Kong to perform at ComplexCon Hong Kong."
+    },
+    "detail": {
+      "ja": "ComplexCon Hong Kong 2025のステージに立つため、ミンジ、ハニ、ダニエル、ヘリン、ヘインの5人が午前に仁川国際空港から香港へ出国した。空港には多くの報道陣が集まった。",
+      "en": "Minji, Hanni, Danielle, Haerin and Hyein left Incheon International Airport for Hong Kong in the morning to perform at ComplexCon Hong Kong 2025, with a large press pack at the airport."
+    },
+    "credits": {
+      "venue": "Incheon International Airport"
+    },
+    "source_url": "https://www.tenasia.co.kr/article/2025032215144",
+    "reference_urls": [
+      "https://www.asiaartistawards.com/news/detail/126698/all",
+      "https://www.youtube.com/watch?v=y32PeyRHy0w"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "airport",
+      "overseas",
+      "njz"
+    ],
+    "verified": false
+  },
+  {
     "id": "live-2025-03-23-complexcon-hong-kong-2025",
     "date": "2025-03-23",
     "date_type": "event",
@@ -1826,5 +4123,126 @@
       "venue": "AsiaWorld-Expo, Hong Kong",
       "organizer": "Complex / ComplexCon"
     }
+  },
+  {
+    "id": "live-2025-03-24-njz-incheon-arrival-hong-kong",
+    "date": "2025-03-24",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "njz",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NJZ、コンプレックスコン香港を終え仁川空港に帰国",
+      "en": "NJZ return to Incheon from ComplexCon Hong Kong"
+    },
+    "summary": {
+      "ja": "ComplexCon香港の日程を終え、メンバー5人が仁川国際空港第1ターミナルから帰国した。",
+      "en": "The five members returned through Incheon International Airport Terminal 1 after the ComplexCon Hong Kong schedule."
+    },
+    "detail": {
+      "ja": "ComplexCon Hong Kongの日程を終えたミンジ、ハニ、ダニエル、ヘリン、ヘインが、午後に仁川国際空港第1ターミナルから入国した。メンバーは自分の名前などが入ったNJZのキャップをかぶっていたと報じられた。",
+      "en": "Minji, Hanni, Danielle, Haerin and Hyein arrived back through Incheon International Airport Terminal 1 in the afternoon after the ComplexCon Hong Kong schedule, reportedly wearing NJZ caps printed with their names."
+    },
+    "credits": {
+      "venue": "Incheon International Airport Terminal 1"
+    },
+    "source_url": "https://www.xportsnews.com/article/1977035",
+    "reference_urls": [
+      "https://www.xportsnews.com/article/1977016",
+      "https://v.daum.net/v/20250324155632834"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "airport",
+      "overseas",
+      "njz"
+    ],
+    "verified": false
+  },
+  {
+    "id": "live-2026-07-19-haerin-hyein-incheon-arrival-us",
+    "date": "2026-07-19",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "haerin",
+      "hyein"
+    ],
+    "title": {
+      "ja": "ヘリン・ヘイン、米国日程を終え仁川空港に帰国",
+      "en": "Haerin and Hyein return to Incheon from the US"
+    },
+    "summary": {
+      "ja": "ヘリンとヘインが米国での海外日程を終え、仁川国際空港第2ターミナルから帰国した。",
+      "en": "Haerin and Hyein returned through Incheon International Airport Terminal 2 after an overseas schedule in the US."
+    },
+    "detail": {
+      "ja": "ヘリンとヘインが米国での海外日程を終え、午後に仁川国際空港第2ターミナルから入国した。空港での2人の姿は約1年4か月ぶりと報じられた。",
+      "en": "Haerin and Hyein arrived back through Incheon International Airport Terminal 2 in the afternoon after an overseas schedule in the US. Press noted it was the first such airport sighting of the two in about a year and four months."
+    },
+    "credits": {
+      "venue": "Incheon International Airport Terminal 2"
+    },
+    "source_url": "https://www.newsen.com/news_view.php?uid=202607192102521310",
+    "reference_urls": [
+      "https://news.nate.com/view/20260719n14805",
+      "https://www.indinews.co.kr/news/articleView.html?idxno=12879"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "airport",
+      "overseas"
+    ],
+    "verified": false,
+    "editor_note": "Purpose of the US trip not disclosed in press; Newsen photo/video articles only. Departure date unknown."
+  },
+  {
+    "id": "live-2026-09-07-haerin-rouge-dior-on-stage-popup-photocall",
+    "date": "2026-09-07",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ヘリン、ディオール・ビューティー「ルージュ ディオール オン ステージ」ポップアップ フォトコール",
+      "en": "Haerin at the Dior Beauty 'Rouge Dior On Stage' pop-up photocall"
+    },
+    "summary": {
+      "ja": "ソウル・蚕室のロッテ百貨店アベニュエルで開かれたディオール・ビューティーのポップアップのフォトコールに出席した。",
+      "en": "Haerin attended the photocall for Dior Beauty's 'Rouge Dior On Stage' pop-up at Lotte Department Store Avenuel Jamsil, Seoul."
+    },
+    "detail": {
+      "ja": "クリスチャン・ディオール・ビューティー「ルージュ ディオール オン ステージ」コレクションのポップアップ開店記念フォトコールが、ソウル松坡区のロッテ百貨店蚕室店アベニュエルで開かれ、ヘリンが出席した。ADOR復帰後、ヘリンが初めて公の場に姿を見せた公式日程と報じられ、会場には多くのファンが集まった。",
+      "en": "Haerin attended the opening photocall for Christian Dior Beauty's 'Rouge Dior On Stage' collection pop-up at Lotte Department Store Avenuel Jamsil in Songpa-gu, Seoul. Press reported it as her first official public appearance since returning to ADOR, and a large crowd of fans gathered."
+    },
+    "credits": {
+      "venue": "Lotte Department Store Avenuel Jamsil, Seoul",
+      "brand": "Dior"
+    },
+    "source_url": "https://www.ajunews.com/view/20260908005328120",
+    "reference_urls": [
+      "https://www.nc.press/news/articleView.html?idxno=626186",
+      "https://www.topstarnews.net/news/articleView.html?idxno=16247117"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "event",
+      "brand-event"
+    ],
+    "verified": false
   }
 ]
