@@ -52,6 +52,14 @@
       if (state.mode === "page") renderPage(); if (!$("#toc").hidden) renderToc();
     });
   }
+  function initTextSize() {
+    const steps = [0.85, 0.92, 1, 1.1, 1.2, 1.35, 1.5];
+    let i = Math.max(0, steps.indexOf(parseFloat(store.get("njas-txt") || "1"))); if (i < 0) i = 2;
+    const apply = () => { document.documentElement.style.setProperty("--txt", String(steps[i])); $("#fs-val").textContent = Math.round(steps[i] * 100) + "%"; $("#fs-minus").disabled = i === 0; $("#fs-plus").disabled = i === steps.length - 1; store.set("njas-txt", String(steps[i])); };
+    $("#fs-minus").addEventListener("click", () => { if (i > 0) { i--; apply(); } });
+    $("#fs-plus").addEventListener("click", () => { if (i < steps.length - 1) { i++; apply(); } });
+    apply();
+  }
   function initTheme() {
     const saved = store.get("njas-theme");
     if (saved === "dark" || saved === "light") document.documentElement.dataset.theme = saved;
@@ -568,6 +576,6 @@
     window.addEventListener("hashchange", route);
   }
 
-  initLang(); initTheme(); wire();
+  initLang(); initTheme(); initTextSize(); wire();
   load().then(route).catch(err => { $("#cover .lede").textContent = "Failed to load data: " + err.message; });
 })();
