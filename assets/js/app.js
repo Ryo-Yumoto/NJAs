@@ -25,7 +25,7 @@
   const WD_JA = ["日", "月", "火", "水", "木", "金", "土"];
   const KIND_TAGS = ["teaser", "trailer", "concept-film", "lyric-video", "track-video", "dance-practice", "performance", "stage-cam", "audition", "pre-debut", "announcement"];
 
-  const state = { items: [], eras: [], images: {}, sprites: null, xposts: {}, pages: [], byDate: {}, cur: -1, mode: "cover", showMeta: false, cats: new Set(Object.keys(CATS)), tocMonth: null, lang: "ja" };
+  const state = { items: [], eras: [], images: {}, sprites: null, xposts: {}, read: new Set(), pages: [], byDate: {}, cur: -1, mode: "cover", showMeta: false, cats: new Set(Object.keys(CATS)), tocMonth: null, lang: "ja" };
   const L = o => (o ? (o[state.lang] || o.ja || o.en || "") : "");
 
   const $ = (sel, root = document) => root.querySelector(sel);
@@ -111,6 +111,7 @@
     const p = state.pages[idx];
     if (push && location.hash !== "#" + p.key) history.pushState(null, "", "#" + p.key);
     store.set("njas-bookmark", p.key);
+    if (!state.read.has(p.key)) { state.read.add(p.key); store.set("njas-read", JSON.stringify([...state.read])); }
     renderPage(); if (!keepToc) closeToc(); window.scrollTo({ top: 0 });
     prefetchAround(idx);
   }
@@ -364,12 +365,11 @@
   }
   function closeLightbox() { const lb = $("#lightbox"); if (lb.hidden) return; lb.hidden = true; $("#lb-img").src = ""; document.body.style.overflow = ""; }
 
-  /* ---------- table of contents (knowledge horizon = current page date) ---------- */
-  function horizon() { const p = state.pages[state.cur]; return p ? (p.hdate || p.date) : "0000-00-00"; }
-  function isKnown(p) { const hz = state.mode === "page" ? horizon() : "0000-00-00"; const strict = state.pages[state.cur]?.kind === "era"; const d = p.hdate || p.date; return strict ? d < hz : d <= hz; }
+  /* ---------- table of contents (read state = pages already visited) ---------- */
+  const isRead = p => state.read.has(p.key);
   function openToc() {
     $("#toc").hidden = false; $("#scrim").hidden = false; $("#toc-btn").setAttribute("aria-expanded", "true");
-    const p = state.pages[state.cur]; state.tocMonth = p ? p.date.slice(0, 7) : null;
+    state.tocMonth = null;
     renderToc(); setTimeout(() => $("#toc .current")?.scrollIntoView({ block: "center" }), 0);
   }
   function closeToc() { $("#toc").hidden = true; $("#scrim").hidden = true; $("#toc-btn").setAttribute("aria-expanded", "false"); }
@@ -381,16 +381,16 @@
       b.style.setProperty("--chip", v.color); b.append(el("i", { class: "sw" }), el("span", {}, `${v.ja}`));
       b.addEventListener("click", () => {
         if (state.cats.has(k)) state.cats.delete(k); else state.cats.add(k);
-        store.set("njas-cats", state.cats.size === Object.keys(CATS).length ? "" : ("|" + [...state.cats].join(",")));
+        store.set("njas-cats2", state.cats.size === Object.keys(CATS).length ? "" : ("|" + [...state.cats].join(",")));
         applyFilter();
       });
       box.appendChild(b);
     }
     const tools = el("div", { class: "toc-cat-tools" });
     const all = el("button", { class: "chip chip-all", type: "button" }, "全選択");
-    all.addEventListener("click", () => { state.cats = new Set(Object.keys(CATS)); store.set("njas-cats", ""); applyFilter(); });
+    all.addEventListener("click", () => { state.cats = new Set(Object.keys(CATS)); store.set("njas-cats2", ""); applyFilter(); });
     const none = el("button", { class: "chip chip-all", type: "button" }, "全解除");
-    none.addEventListener("click", () => { state.cats = new Set(); store.set("njas-cats", "|"); applyFilter(); });
+    none.addEventListener("click", () => { state.cats = new Set(); store.set("njas-cats2", "|"); applyFilter(); });
     tools.append(all, none); box.appendChild(tools);
   }
   function applyFilter() {
@@ -412,7 +412,6 @@
   function renderToc() {
     const body = $("#toc-body"), nav = $("#toc-nav"); body.innerHTML = ""; nav.innerHTML = "";
     const q = $("#toc-q").value.trim().toLowerCase();
-    const reveal = $("#toc-reveal").checked;
     const days = state.pages.map((p, i) => ({ p, i })).filter(x => x.p.kind === "day");
     if (!state.cats.size) { body.appendChild(el("p", { class: "toc-empty" }, "表示するカテゴリが選択されていません。")); return; }
 
@@ -421,7 +420,6 @@
       body.appendChild(el("div", { class: "toc-section mono" }, "検索結果 / RESULTS"));
       let n = 0;
       for (const { p, i } of days) {
-        if (!(isKnown(p) || reveal)) continue;
         for (const it of p.items) if (hitQ(it, q)) { body.appendChild(itemRow(p, i, it)); n++; }
       }
       if (!n) body.appendChild(el("p", { class: "toc-empty" }, "該当なし"));
@@ -439,9 +437,9 @@
           const list = byYear[y][m]; const ym = `${y}-${String(m).padStart(2, "0")}`;
           const cell = el("button", { class: "cal-cell", type: "button" });
           if (!list) cell.setAttribute("disabled", "");
-          const known = list ? list.some(x => isKnown(x.p)) : false;
-          const allKnown = list ? list.every(x => isKnown(x.p)) : false;
-          cell.classList.toggle("known", known); cell.classList.toggle("partial", known && !allKnown); cell.classList.toggle("current", ym === curYm);
+          const some = list ? list.some(x => isRead(x.p)) : false;
+          const all = list ? list.every(x => isRead(x.p)) : false;
+          cell.classList.toggle("done", all); cell.classList.toggle("partial", some && !all); cell.classList.toggle("current", ym === curYm);
           const nItems = list ? list.reduce((a, x) => a + x.p.items.length, 0) : 0;
           cell.append(el("span", { class: "cal-m" }, `${m}月`), el("span", { class: "cal-n mono" }, list ? `${nItems}件` : ""));
           if (list) cell.addEventListener("click", () => { state.tocMonth = ym; renderToc(); $("#toc-body").scrollTop = 0; });
@@ -463,19 +461,12 @@
     mnav.append(pb, nb);
     nav.append(back, mnav);
     body.appendChild(el("h3", { class: "toc-month-title" }, `${ym.slice(0, 4)}年${+ym.slice(5, 7)}月`));
-    // flat list: one row per entry (date · title · category); unknown days stay as a date-only row
+    // flat list: one row per entry (date · title · category); pages already visited are marked read
     let any = false, lastDate = null;
     for (const { p, i } of days) {
       if (p.date.slice(0, 7) !== ym) continue;
       any = true;
-      const known = isKnown(p) || reveal;
       const newDay = p.key !== lastDate; lastDate = p.key;
-      if (!known) {
-        const row = el("button", { class: "toc-item unknown" + (newDay ? " day-start" : ""), type: "button" });
-        row.append(el("span", { class: "toc-item-date mono" }, dateLabel(p)), el("i", { class: "dot" }), el("span", { class: "toc-item-text dim" }, "·····"), el("span", { class: "toc-item-cat mono" }, ""));
-        row.addEventListener("click", () => go(i));
-        body.appendChild(row); continue;
-      }
       p.items.forEach((it, k) => {
         const row = itemRow(p, i, it);
         if (k === 0 && newDay) row.classList.add("day-start");
@@ -487,7 +478,7 @@
   }
   function dateLabel(p) { return p.precision === "day" ? `${p.date.slice(5, 7)}.${p.date.slice(8, 10)}` : p.precision === "month" ? (state.lang === "ja" ? "月内" : "month") : (state.lang === "ja" ? "年内" : "year"); }
   function itemRow(p, i, it) {
-    const row = el("button", { class: "toc-item", type: "button" });
+    const row = el("button", { class: "toc-item" + (isRead(p) ? " read" : ""), type: "button" });
     const dot = el("i", { class: "dot" }); dot.style.background = CATS[it.category]?.color || "var(--rule)";
     row.append(el("span", { class: "toc-item-date mono" }, dateLabel(p)), dot, el("span", { class: "toc-item-text" }, L(it.title)), el("span", { class: "toc-item-cat mono" }, CATS[it.category]?.en || it.category));
     row.addEventListener("click", () => { go(i); setTimeout(() => document.getElementById(it.id)?.scrollIntoView({ block: "start", behavior: "smooth" }), 80); });
@@ -535,10 +526,9 @@
     $("#toc-btn").addEventListener("click", () => ($("#toc").hidden ? openToc() : closeToc()));
     $("#toc-close").addEventListener("click", closeToc); $("#scrim").addEventListener("click", closeToc);
     $("#toc-q").addEventListener("input", renderToc);
-    $("#toc-reveal").addEventListener("change", () => { store.set("njas-toc-reveal", $("#toc-reveal").checked ? "1" : "0"); renderToc(); });
-    const savedCats = store.get("njas-cats"); if (savedCats && savedCats.startsWith("|")) { state.cats = new Set(savedCats.slice(1).split(",").filter(k => CATS[k])); }
+    const savedCats = store.get("njas-cats2"); if (savedCats && savedCats.startsWith("|")) { state.cats = new Set(savedCats.slice(1).split(",").filter(k => CATS[k])); }
     buildCatChips();
-    if (store.get("njas-toc-reveal") === "1") $("#toc-reveal").checked = true;
+    try { state.read = new Set(JSON.parse(store.get("njas-read") || "[]")); } catch (_) { state.read = new Set(); }
 
     $("#index-link").addEventListener("click", e => { e.preventDefault(); showIndex(); });
     $("#index-close").addEventListener("click", () => (state.cur >= 0 ? go(state.cur) : showCover()));
