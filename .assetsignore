@@ -11,3 +11,4 @@ wrangler.jsonc
 README.md
 *.py
 *.md
+.wrangler

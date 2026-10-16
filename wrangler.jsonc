@@ -1,7 +1,7 @@
 {
   // Cloudflare Workers (static assets). Deployed by Workers Builds on push; no build step.
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "njas",
+  "name": "nja",
   "compatibility_date": "2026-10-01",
   "assets": {
     "directory": "./",

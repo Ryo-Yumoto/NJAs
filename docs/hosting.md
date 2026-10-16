@@ -1,6 +1,16 @@
-# 認証付きホスティング（Cloudflare Pages + Cloudflare Access）
+# 認証付きホスティング（Cloudflare Workers 静的アセット + Cloudflare Access）
 
-目的：スマホからも閲覧できる非公開サイトにする。静的ファイルのみなので、Cloudflare Pagesで配信し、Cloudflare Access（Zero Trust）でメール認証をかける。個人利用の範囲では無料枠で収まる。
+目的：スマホからも閲覧できる非公開サイトにする。静的ファイルのみなので、Cloudflare Workers（静的アセット配信、Workers BuildsによるGit連携）で配信し、Cloudflare Access（Zero Trust）でメール認証をかける。個人利用の範囲では無料枠で収まる。
+
+## 現在の構成（2026-10-16）
+
+- Worker名：`nja`、URL：`https://nja.<account-subdomain>.workers.dev`
+- 連携ブランチ：`claude/initial-site`（pushごとに自動デプロイ。Deploy command は `npx wrangler deploy`）
+- 設定：`wrangler.jsonc`（`assets.directory = ./`）、`.assetsignore`（.git、build、scripts、tools、docs などを配信対象から除外）
+- 認証：Workers & Pages → nja → Access タブで Cloudflare Access を有効化し、自分のメールアドレスのみ許可（One-time PIN）
+- `_headers`（noindex、画像キャッシュ）は静的アセットでも有効
+
+以下はPagesで構成する場合の手順（予備）。
 
 ## 前提
 
