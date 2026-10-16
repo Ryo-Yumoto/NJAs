@@ -1,0 +1,13 @@
+# excluded from the deployed static assets (Workers)
+.git
+.gitignore
+.assetsignore
+build
+scripts
+tools
+docs
+node_modules
+wrangler.jsonc
+README.md
+*.py
+*.md
