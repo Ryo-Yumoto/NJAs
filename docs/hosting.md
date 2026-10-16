@@ -6,11 +6,13 @@
 
 - GitHubリポジトリ`Ryo-Yumoto/NJAs`はprivateのままにする。
 - Cloudflareアカウント（無料）を持っている。
+- 本番ブランチは`main`。作業ブランチ`claude/initial-site`の内容を`main`に反映した時点でデプロイされる。
 
 ## 手順
 
 1. Cloudflare Dashboard > Workers & Pages > Create > Pages > Connect to Git で本リポジトリを選択する。
 2. Build settings
+   - Production branch: `main`
    - Framework preset: None
    - Build command: （空欄）
    - Build output directory: `/`
