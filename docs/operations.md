@@ -79,3 +79,8 @@ http://localhost:8080/ で表示確認。URLの`#`以降に絞り込み状態が
 | record | Billboard、Circle Chart、Oricon、ADOR公式SNSの節目告知、受賞式公式サイト |
 | goods | Weverse Shop、公式サイトのNOTICE |
 | live | 公式サイトのNOTICE、主催者・フェス公式サイト、Weverse告知 |
+
+## 作業の委任ルール（モデルの使い分け）
+
+- 調査・収集・URL解決・画像探索など「探して集める」作業は、Fableではなく下位モデル（Sonnet、単純な取得はHaiku）のエージェントに委任する。Fableは設計、レビュー、統合判断、本文の最終確認に使う。
+- 大きな収集処理は深夜（JST 3〜5時）にまとめて実行し、日中はトークン上限を圧迫しない。
