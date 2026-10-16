@@ -289,6 +289,8 @@ canvas.era-img { max-height: 70vh; width: auto; max-width: 100%; margin: 0 auto;
 .toc-cats .chip .sw { width: 8px; height: 8px; border-radius: 2px; background: var(--chip); opacity: .3; }
 .toc-cats .chip[aria-pressed="true"] { color: var(--ink); }
 .toc-cats .chip[aria-pressed="true"] .sw { opacity: 1; }
+.toc-members { margin-top: 6px; padding-top: 8px; border-top: 1px dashed var(--rule); }
+.chip-member[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
 .toc-cat-tools { width: 100%; display: flex; gap: 10px; margin-top: 2px; }
 .toc-cats .chip-all { color: var(--ink-2); border: 1px solid var(--rule); padding: 4px 10px; }
 .toc-nav { display: flex; justify-content: space-between; align-items: center; gap: 8px; padding: 8px 16px; border-bottom: 1px solid var(--rule); min-height: 20px; flex-wrap: wrap; }

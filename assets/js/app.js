@@ -25,7 +25,7 @@
   const WD_JA = ["日", "月", "火", "水", "木", "金", "土"];
   const KIND_TAGS = ["teaser", "trailer", "concept-film", "lyric-video", "track-video", "dance-practice", "performance", "stage-cam", "audition", "pre-debut", "announcement"];
 
-  const state = { items: [], eras: [], images: {}, sprites: null, xposts: {}, read: new Set(), pages: [], byDate: {}, cur: -1, mode: "cover", showMeta: false, cats: new Set(Object.keys(CATS)), tocMonth: null, lang: "ja" };
+  const state = { items: [], eras: [], images: {}, sprites: null, xposts: {}, read: new Set(), member: null, pages: [], byDate: {}, cur: -1, mode: "cover", showMeta: false, cats: new Set(Object.keys(CATS)), tocMonth: null, lang: "ja" };
   const L = o => (o ? (o[state.lang] || o.ja || o.en || "") : "");
 
   const $ = (sel, root = document) => root.querySelector(sel);
@@ -49,7 +49,7 @@
     b.addEventListener("click", () => {
       state.lang = state.lang === "ja" ? "en" : "ja"; store.set("njas-lang", state.lang);
       b.textContent = state.lang === "ja" ? "EN" : "JA"; document.documentElement.setAttribute("data-lang", state.lang);
-      if (state.mode === "page") renderPage(); if (!$("#toc").hidden) renderToc();
+      buildMemberChips(); if (state.mode === "page") renderPage(); if (!$("#toc").hidden) renderToc();
     });
   }
   function initTextSize() {
@@ -86,7 +86,9 @@
     // page key: exact day "YYYY-MM-DD"; month-only records "YYYY-MM"; year-only "YYYY" (sorted before the days they precede)
     const byKey = {};
     for (const it of state.items) {
-      if (!state.cats.has(it.category)) continue; const k = it.date_precision === "month" ? it.date.slice(0, 7) : it.date_precision === "year" ? it.date.slice(0, 4) : it.date; (byKey[k] ||= []).push(it); }
+      if (!state.cats.has(it.category)) continue;
+      if (state.member && !(it.members || []).includes(state.member)) continue;
+      const k = it.date_precision === "month" ? it.date.slice(0, 7) : it.date_precision === "year" ? it.date.slice(0, 4) : it.date; (byKey[k] ||= []).push(it); }
     state.byDate = byKey;
     // month-only pages sit at the END of their month, year-only pages at the end of their year (nothing inside them can be "early")
     const sortDate = k => (k.length === 7 ? k + "-32" : k.length === 4 ? k + "-13-00" : k);
@@ -441,11 +443,22 @@
     none.addEventListener("click", () => { state.cats = new Set(); store.set("njas-cats2", "|"); applyFilter(); });
     tools.append(all, none); box.appendChild(tools);
   }
+  function buildMemberChips() {
+    const box = $("#toc-members"); if (!box) return; box.innerHTML = "";
+    const mk = (key, label) => {
+      const b = el("button", { class: "chip chip-member", type: "button", "data-member": key || "", "aria-pressed": String((state.member || "") === (key || "")) }, label);
+      b.addEventListener("click", () => { state.member = key; store.set("njas-member", key || ""); applyFilter(); });
+      return b;
+    };
+    box.appendChild(mk(null, state.lang === "ja" ? "全員" : "All"));
+    for (const [k, v] of Object.entries(MEMBERS)) if (k !== "all") box.appendChild(mk(k, state.lang === "ja" ? ({ minji: "ミンジ", hanni: "ハニ", danielle: "ダニエル", haerin: "ヘリン", hyein: "ヘイン" })[k] : v));
+  }
   function applyFilter() {
     const key = state.pages[state.cur]?.key || state.lastKey;
     if (key) state.lastKey = key;
     buildPages();
     document.querySelectorAll("#toc-cats [data-cat]").forEach(b => b.setAttribute("aria-pressed", String(state.cats.has(b.dataset.cat))));
+    document.querySelectorAll("#toc-members [data-member]").forEach(b => b.setAttribute("aria-pressed", String((state.member || "") === b.dataset.member)));
     if (state.mode === "page") {
       if (!state.pages.length) { state.cur = -1; renderEmptyPage(); }
       else {
@@ -577,7 +590,7 @@
     $("#toc-close").addEventListener("click", closeToc); $("#scrim").addEventListener("click", closeToc);
     $("#toc-q").addEventListener("input", renderToc);
     const savedCats = store.get("njas-cats2"); if (savedCats && savedCats.startsWith("|")) { state.cats = new Set(savedCats.slice(1).split(",").filter(k => CATS[k])); }
-    buildCatChips();
+    buildCatChips(); const sm = store.get("njas-member"); if (sm && MEMBERS[sm]) state.member = sm; buildMemberChips();
     try { state.read = new Set(JSON.parse(store.get("njas-read") || "[]")); } catch (_) { state.read = new Set(); }
 
     $("#index-link").addEventListener("click", e => { e.preventDefault(); showIndex(); });
