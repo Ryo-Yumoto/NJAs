@@ -113,7 +113,7 @@
     store.set("njas-bookmark", p.key);
     if (!state.read.has(p.key)) { state.read.add(p.key); store.set("njas-read", JSON.stringify([...state.read])); }
     renderPage(); if (!keepToc) closeToc(); window.scrollTo({ top: 0 });
-    prefetchAround(idx);
+    prefetchAround(idx); setTimeout(updateNav, 0); setTimeout(updateNav, 400);
   }
   function prefetchAround(idx) {
     for (const p of [state.pages[idx + 1], state.pages[idx + 2], state.pages[idx - 1]]) {
@@ -212,7 +212,6 @@
     node.style.setProperty("--cat", cat.color); node.id = it.id;
     const kind = (it.tags || []).find(t => KIND_TAGS.includes(t));
     $(".cat-label", node).textContent = `${cat.en} · ${cat.ja}${kind ? " · " + kind.replace("-", " ") : ""} · ${DATE_TYPES[it.date_type] || it.date_type}`;
-    if (total > 1) $(".meta", node).prepend(el("span", { class: "pill count mono", "aria-label": `${pos} of ${total} on this day` }, `${pos} / ${total}`));
     if (it.time) { const t = $(".time", node); t.hidden = false; t.textContent = `${it.time} KST`; }
     if (it.platform) { const pl = el("span", { class: "pill platform" }, ({ x: "X", instagram: "Instagram", weverse: "Weverse", phoning: "Phoning", tiktok: "TikTok", youtube: "YouTube", other: "SNS" })[it.platform] || it.platform); $(".meta", node).appendChild(pl); }
     if (it.entity === "njz") { const e = $(".entity", node); e.hidden = false; e.textContent = "NJZ"; }
@@ -372,6 +371,22 @@
     state.tocMonth = null;
     renderToc(); setTimeout(() => $("#toc .current")?.scrollIntoView({ block: "center" }), 0);
   }
+  /* bottom nav: scroll progress of the page and the entry in view (n / N) */
+  let navTick = false;
+  function updateNav() {
+    navTick = false;
+    const fill = $("#progress-fill"); if (!fill) return;
+    const max = document.documentElement.scrollHeight - innerHeight;
+    fill.style.width = (max > 0 ? Math.min(100, Math.max(0, scrollY / max * 100)) : 100) + "%";
+    const p = state.pages[state.cur]; const cnt = $("#day-count");
+    if (!p || p.kind !== "day" || state.mode !== "page") { cnt.textContent = ""; return; }
+    const entries = [...document.querySelectorAll("#page .entry")]; if (!entries.length) { cnt.textContent = ""; return; }
+    const line = innerHeight * 0.38; let cur = 0;
+    entries.forEach((e, k) => { if (e.getBoundingClientRect().top <= line) cur = k; });
+    if (max > 0 && scrollY >= max - 2) cur = entries.length - 1;
+    cnt.textContent = `${cur + 1} / ${entries.length}`;
+  }
+  function scheduleNav() { if (!navTick) { navTick = true; requestAnimationFrame(updateNav); } }
   function closeToc() { $("#toc").hidden = true; $("#scrim").hidden = true; $("#toc-btn").setAttribute("aria-expanded", "false"); }
   const hitQ = (it, q) => !q || [it.title.ja, it.title.en, it.title.original, it.summary?.ja, it.summary?.en, it.detail?.ja, ...(it.tags || [])].filter(Boolean).join(" ").toLowerCase().includes(q);
   function buildCatChips() {
@@ -522,6 +537,8 @@
     $("#resume-btn").addEventListener("click", () => goKey(store.get("njas-bookmark")));
     $("#brand").addEventListener("click", e => { e.preventDefault(); showCover(); });
     $("#prev-btn").addEventListener("click", () => { if (state.cur <= 0) showCover(); else go(state.cur - 1); });
+    $("#pager-mid").addEventListener("click", openToc);
+    addEventListener("scroll", scheduleNav, { passive: true }); addEventListener("resize", scheduleNav);
     $("#next-btn").addEventListener("click", () => go(state.cur + 1));
     $("#toc-btn").addEventListener("click", () => ($("#toc").hidden ? openToc() : closeToc()));
     $("#toc-close").addEventListener("click", closeToc); $("#scrim").addEventListener("click", closeToc);

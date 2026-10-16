@@ -14,15 +14,8 @@
 </head>
 <body class="book">
   <header class="bar">
-    <div class="bar-inner">
-      <a class="bar-brand" href="#" id="brand">NJAs</a>
-      <div class="bar-mid mono" id="bar-pos"></div>
-      <div class="bar-right">
-        <button class="bar-btn mono" id="toc-btn" type="button" aria-expanded="false" aria-controls="toc">目次 / CONTENTS</button>
-        <button class="bar-btn mono" id="lang-btn" type="button" aria-label="表示言語切替">EN</button>
-        <button class="theme-btn mono" id="theme-btn" type="button" aria-label="テーマ切替">◐</button>
-      </div>
-    </div>
+    <a class="bar-brand" href="#" id="brand">NJAs</a>
+    <button class="bar-menu mono" id="toc-btn" type="button" aria-expanded="false" aria-controls="toc" aria-label="目次とメニュー">MENU</button>
   </header>
 
   <!-- cover -->
@@ -47,7 +40,9 @@
   <main class="page" id="page" hidden></main>
 
   <nav class="pager" id="pager" hidden>
+    <div class="progress" aria-hidden="true"><i id="progress-fill"></i></div>
     <button class="pager-btn prev" id="prev-btn" type="button"><span class="mono">← PREV</span><span class="pager-date" id="prev-date"></span></button>
+    <button class="pager-mid" id="pager-mid" type="button" aria-label="目次を開く"><span class="pager-pos mono" id="bar-pos"></span><span class="pager-count mono" id="day-count"></span></button>
     <button class="pager-btn next" id="next-btn" type="button"><span class="mono">NEXT →</span><span class="pager-date" id="next-date"></span></button>
   </nav>
 
@@ -55,7 +50,11 @@
   <aside class="toc" id="toc" hidden>
     <div class="toc-head">
       <span class="toc-title">目次 <span class="mono dim">CONTENTS</span></span>
-      <button class="bar-btn mono" id="toc-close" type="button">CLOSE ✕</button>
+      <span class="toc-head-tools">
+        <button class="bar-btn mono" id="lang-btn" type="button" aria-label="表示言語切替">EN</button>
+        <button class="theme-btn mono" id="theme-btn" type="button" aria-label="テーマ切替">◐</button>
+        <button class="bar-btn mono" id="toc-close" type="button">CLOSE ✕</button>
+      </span>
     </div>
     <div class="toc-search">
       <input id="toc-q" type="search" placeholder="検索 / search" autocomplete="off" spellcheck="false">
