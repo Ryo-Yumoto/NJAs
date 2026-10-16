@@ -118,10 +118,10 @@ body:not(.reading) .bar-brand { opacity: 0; pointer-events: none; }
 .day-kicker { color: var(--ink-3); }
 .day-date { margin: 6px 0 0; font-weight: 800; font-size: clamp(44px, 9vw, 104px); letter-spacing: -.06em; line-height: .9; font-variant-numeric: tabular-nums; }
 .day-sub { margin-top: 10px; font-family: var(--f-display); font-style: italic; font-size: 24px; color: var(--ink-2); }
-.day-list { display: grid; }
+.day-list { display: grid; grid-template-columns: minmax(0, 1fr); }
 
 /* ---------- entry ---------- */
-.entry { border-bottom: 1px solid var(--rule); padding: 22px 0 24px; position: relative; }
+.entry { border-bottom: 1px solid var(--rule); padding: 22px 0 24px; position: relative; min-width: 0; max-width: 100%; }
 .entry-main { display: grid; grid-template-columns: 1fr 300px; gap: 0 28px; align-items: start; }
 .entry-main:has(.thumb[hidden]) { grid-template-columns: 1fr; }
 .entry-text { min-width: 0; }

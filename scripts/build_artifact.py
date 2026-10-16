@@ -15,7 +15,7 @@ from PIL import Image
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "build" / "artifact"; (OUT / "sprites").mkdir(parents=True, exist_ok=True)
-MAX_W, MAX_SHEET_H, MAX_PER_SHEET = 900, 60000, 40
+MAX_W, MAX_SHEET_H, MAX_PER_SHEET = 900, 30000, 40  # browsers refuse to decode images taller than 32767px
 
 html = (ROOT / "index.html").read_text(encoding="utf-8")
 head = re.search(r"<head>(.*?)</head>", html, re.S).group(1)
@@ -66,18 +66,23 @@ sprites = {}; sheet_files = []
 old = {p.name for p in (OUT / "sprites").glob("*.jpg")}
 for m, lst in sorted(groups.items()):
     lst.sort()
-    parts = [lst[i:i + MAX_PER_SHEET] for i in range(0, len(lst), MAX_PER_SHEET)]
-    for pi, part in enumerate(parts):
-        ims = []
-        for rid, fn in part:
-            im = Image.open(fn).convert("RGB")
-            if im.width > MAX_W: im = im.resize((MAX_W, round(im.height * MAX_W / im.width)), Image.LANCZOS)
-            ims.append((rid, im))
-        W = max(im.width for _, im in ims); H = min(sum(im.height for _, im in ims), MAX_SHEET_H)
+    # load + downscale first, then split into parts by cumulative height and count
+    loaded = []
+    for rid, fn in lst:
+        im = Image.open(fn).convert("RGB")
+        if im.width > MAX_W: im = im.resize((MAX_W, round(im.height * MAX_W / im.width)), Image.LANCZOS)
+        if im.height > MAX_SHEET_H: im = im.resize((round(im.width * MAX_SHEET_H / im.height), MAX_SHEET_H), Image.LANCZOS)
+        loaded.append((rid, im))
+    parts, cur, h = [], [], 0
+    for rid, im in loaded:
+        if cur and (h + im.height > MAX_SHEET_H or len(cur) >= MAX_PER_SHEET): parts.append(cur); cur, h = [], 0
+        cur.append((rid, im)); h += im.height
+    if cur: parts.append(cur)
+    for pi, ims in enumerate(parts):
+        W = max(im.width for _, im in ims); H = sum(im.height for _, im in ims)
         sheet = Image.new("RGB", (W, H), (0, 0, 0)); y = 0
         name = f"{m}{'' if len(parts) == 1 else '-' + chr(97 + pi)}.jpg"
         for rid, im in ims:
-            if y + im.height > H: break
             sheet.paste(im, (0, y)); sprites[rid] = {"sheet": f"sprites/{name}", "y": y, "w": im.width, "h": im.height}; y += im.height
         sheet = sheet.crop((0, 0, W, y))
         sheet.save(OUT / "sprites" / name, "JPEG", quality=80, optimize=True, progressive=True)
