@@ -3,4 +3,5 @@
   Cache-Control: no-cache
 
 /media/*
+  ! Cache-Control
   Cache-Control: public, max-age=604800
