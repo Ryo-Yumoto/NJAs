@@ -24,3 +24,8 @@
 | 2026-10-17 | magazine-2024-02-01-elle-japon-2024-02-haerin | source_urlが2025年号のtower.jp記事 | 未確認 |
 | 2026-10-17 | magazine-2023-03-20-vogue-korea-danielle-ysl-beauty | Vogue記事はYSL Beauty、namuは同日をBurberryと記載 | 未確認 |
 | 2026-10-17 | 月精度のad 7件（olens→2023-03-01、lotte-itagum-japan-cm→2023-10-16、musinsa-global-ambassador→2022-10-05、megastudy-megapass-cm→2022-10-13、5252-by-oioi-22fw→2022-10-11、skt-0-iphone-14-pro-cm→2022-09-30、krafton-pubg-collab→2024-06-12） | 一覧ページでは日付が特定できる。確認のうえ日精度に変更 | 未確認 |
+| 2026-10-17 | goods-2022-11-22-2023-seasons-greetings-room-722 | Weverse予約開始は2022-11-25（notice 3002） | 未確認 |
+| 2026-10-17 | magazine-2024-10-15-dazed-korea-2024-11-minji-chanel | Weverse Shop商品ページでは発行2024-10-30、予約開始10-16 | 未確認 |
+| 2026-10-17 | magazine-2026-09-01-marie-claire-korea-2026-09-haerin / magazine-2026-09-01-harpers-bazaar-korea-2026-09-hyein | 発行日は2026-08-25 / 2026-09-07（月精度→日精度に変更可） | 未確認 |
+| 2026-10-17 | goods-2023-10-17-weverse-by-fans-newjeans-custom-merch | サービス開始告知は2023-10-16 18:00 KST、NewJeansアパレルは2023-12-05開始（notice 5033） | 未確認 |
+| 2026-10-17 | （新規候補）Nike By You x NewJeans カスタムショップのNike Style Hongdae・Nike Seoul移設 2024-02-15〜03-25 | SNKRDUNKのみ。一次ソース要確認 | 未着手 |

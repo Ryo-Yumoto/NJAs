@@ -943,25 +943,29 @@
     }
   },
   {
-    "id": "ad-2023-03-01-nike-air-max-campaign",
-    "date": "2023-03-01",
+    "id": "ad-2023-03-02-nike-air-max-campaign",
+    "date": "2023-03-02",
     "date_type": "release",
-    "date_precision": "month",
+    "date_precision": "day",
     "category": "ad",
     "entity": "newjeans",
     "members": [
       "all"
     ],
     "title": {
-      "ja": "NIKE Air Max キャンペーン",
-      "en": "Nike Air Max campaign"
+      "ja": "ナイキ・コリア Air Max Day 2023 ウィメンズキャンペーン",
+      "en": "Nike Korea Air Max Day 2023 women's campaign"
     },
     "summary": {
-      "ja": "ABCマートがナイキのAir Max Day記念キャンペーンのモデルにNewJeansとZior Parkを起用、テーマは「MAXXED OUT」。",
-      "en": "ABC Mart cast NewJeans and Zior Park in its Nike Air Max Day campaign under the theme 'MAXXED OUT'."
+      "ja": "ナイキ・コリアがAir Max Day（3月26日）を前に、NewJeansを起用したウィメンズAir Maxコレクションのキャンペーンを公開した。",
+      "en": "Nike Korea released a campaign for its women's Air Max collection ahead of Air Max Day (March 26), featuring NewJeans."
     },
-    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "source_url": "https://snkrdunk.com/en/magazine/2023/03/03/nike-korea-celebrates-air-max-day-with-newjeans/",
+    "reference_urls": [
+      "https://snkrdunk.com/en/magazine/2023/02/14/nike-debuts-the-air-max-pulse-with-newjeans",
+      "https://hypebae.com/jp/2023/3/newjeans-nike-air-max-campaign-photos-info",
+      "https://hypebeast.com/zh/2023/3/newjeans-nike-air-max-new-campaign"
+    ],
     "media": {
       "type": "none"
     },
@@ -969,10 +973,10 @@
       "fashion"
     ],
     "verified": false,
-    "editor_note": "Month per secondary sources; no official Nike announcement date found. | The campaign appears to have been run by retailer ABC Mart rather than Nike Korea directly (Metro Seoul 2023-03-08). / Month per secondary sources (Metro Seoul 2023-03-08, Harper's Bazaar Korea 2023-03-14); no official Nike announcement date found. The campaign appears to have been run by retailer ABC Mart rather than Nike Korea directly.",
+    "editor_note": "Month per secondary sources; no official Nike announcement date found. | The campaign appears to have been run by retailer ABC Mart rather than Nike Korea directly (Metro Seoul 2023-03-08). / Month per secondary sources (Metro Seoul 2023-03-08, Harper's Bazaar Korea 2023-03-14); no official Nike announcement date found. The campaign appears to have been run by retailer ABC Mart rather than Nike Korea directly. / 2026-10-17 review: This record previously described the ABC-MART Grand Stage 'MAXXED OUT' campaign; that was a separate retailer campaign and is now its own record (ad-2023-03-08-abc-mart-grand-stage-air-max-day-maxxed-out, in the 'new' array of ad_fixes.json). This record now covers Nike Korea's own Air Max Day 2023 women's campaign, which fits its ID slug. Date: SNKRDUNK's article was published 2023-03-03 13:25 SGT (article:published_time) and its 'Where to buy' lists the Nike Korea women's Air Max Day collection on 2023-03-02; no Nike Korea post or page was fetched, so the day is provisional (verified=false). SNKRDUNK's page carries later updates (Air Max Pulse imagery on 2023-03-26, Air Max 90 video on 2023-12-16), which are kept out of the reader text. Related behind-the-scenes: content-2023-04-18-light-jeans-nike-air-max-behind. Wikipedia source replaced.",
     "detail": {
-      "ja": "ABCマートがナイキのAir Max Day（3月26日）を記念したキャンペーンのモデルに、NewJeansとミュージシャンのZior Parkを起用した。2組は「MAXXED OUT」をテーマに即興的な発想や創造的なアイデアについて語り合い、多彩なスタイリングを披露した。映像のフルバージョンはABCマート グランドステージのInstagramとYouTubeで公開され、エアマックスのスタイルのコツを投票するイベントも行われた。",
-      "en": "ABC Mart cast NewJeans and musician Zior Park as models for its campaign marking Nike's Air Max Day (March 26). Under the theme 'MAXXED OUT' the two acts talked about spontaneous thinking and creative ideas and showed a range of styling. The full video ran on ABC Mart Grand Stage's Instagram and YouTube, with a vote on Air Max style tips."
+      "ja": "ナイキ・コリア（Nike Seoul）は、Air Max Day（3月26日）に向けたウィメンズ限定のAir MaxコレクションのキャンペーンにNewJeansを起用した。クッション材を敷いた床と「AIR」の文字を配した近未来的なセットで、メンバーはナイキのウェアにAir Maxを合わせた。ヘインはAir Max 90 AMD、ヘリンとミンジはAir Max Bliss、ダニエルとハニはAir Max 90「Triple White」を着用した。コレクションはAir Max 90やAir Max Bliss、Air Max 97 SEなど9型で構成された。",
+      "en": "Nike Korea (Nike Seoul) cast NewJeans in the campaign for its women's-exclusive Air Max collection for Air Max Day (March 26). On a futuristic set with padded flooring and 'AIR' lettering, the members paired Nike apparel with Air Max shoes: Hyein in the Air Max 90 AMD, Haerin and Minji in the Air Max Bliss, and Danielle and Hanni in the Air Max 90 'Triple White'. The collection comprised nine models including the Air Max 90, Air Max Bliss and Air Max 97 SE."
     },
     "credits": {
       "advertiser": "ABC Mart (Nike Air Max Day campaign)",
@@ -1015,6 +1019,48 @@
       "brand": "Levi's"
     },
     "editor_note": "Deal details and quotes from MARKETECH APAC; press framing removed from reader text."
+  },
+  {
+    "id": "ad-2023-03-08-abc-mart-grand-stage-air-max-day-maxxed-out",
+    "date": "2023-03-08",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ABCマート グランドステージ ナイキAir Max Dayキャンペーン「MAXXED OUT」",
+      "en": "ABC-MART Grand Stage Nike Air Max Day campaign 'MAXXED OUT'",
+      "original": "ABC마트 그랜드 스테이지 나이키 에어맥스 데이 캠페인 'MAXXED OUT'"
+    },
+    "summary": {
+      "ja": "ABCマートがナイキのAir Max Day（3月26日）記念キャンペーンのモデルにNewJeansとZior Parkを起用し、テーマは「MAXXED OUT」。",
+      "en": "ABC-MART named NewJeans and Zior Park models for its campaign marking Nike's Air Max Day (March 26), themed 'MAXXED OUT'."
+    },
+    "detail": {
+      "ja": "ABCマートは、ナイキのAir Max Day（3月26日）を記念してABCマート グランドステージで展開するナイキとの協業キャンペーンのモデルに、NewJeansとミュージシャンのZior Parkを起用した。2組は「MAXXED OUT」をテーマに即興的な発想や創造的なアイデアについて語り合い、多彩なスタイリングを披露した。映像のフルバージョンはABCマート グランドステージの公式InstagramとYouTubeで公開された。期間中はグランドステージの店舗とオンラインでAir Max購入者にキーリングが配られ、公式サイトでは3月26日正午まで、4人のスタイリストが提案するAir Maxスタイルへの投票イベントが行われた。",
+      "en": "ABC-MART named NewJeans and musician Zior Park as models for the Nike collaboration campaign it ran at ABC-MART Grand Stage to mark Nike's Air Max Day (March 26). Under the theme 'MAXXED OUT' the two acts talked about spontaneous thinking and creative ideas and showed a range of styling. The full video was released on ABC-MART Grand Stage's official Instagram and YouTube. During the campaign Grand Stage stores and the online mall gave an Air Max keyring with Air Max purchases while stocks lasted, and the official site ran a vote on Air Max styles proposed by four stylists until noon on March 26."
+    },
+    "credits": {
+      "advertiser": "ABC-MART Korea (ABC-MART Grand Stage)",
+      "brand": "Nike Air Max",
+      "co-model": "Zior Park"
+    },
+    "source_url": "https://www.metroseoul.co.kr/article/20230308500372",
+    "reference_urls": [
+      "https://www.insight.co.kr/news/431866",
+      "https://www.harpersbazaar.co.kr/article/75801"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "fashion"
+    ],
+    "verified": false,
+    "editor_note": "Split out of ad-2023-03-01-nike-air-max-campaign on 2026-10-17. Facts from ABC-MART's press release as carried by Metro Seoul (2023-03-08 14:12 KST) and Insight (2023-03-08 11:33 KST, which calls it the campaign's second year); ABC-MART's own Instagram/YouTube posts were not fetched, so the video's exact upload date is unconfirmed (verified=false). Separate from Nike Korea's own Air Max Day 2023 campaign (ad-2023-03-01-nike-air-max-campaign)."
   },
   {
     "id": "ad-2023-03-14-danielle-ysl-beauty-ambassador",
@@ -1308,22 +1354,25 @@
     "id": "ad-2023-06-01-mcdonalds-newjeans-collab-launch",
     "date": "2023-06-01",
     "date_type": "release",
-    "date_precision": "month",
+    "date_precision": "day",
     "category": "ad",
     "entity": "newjeans",
     "members": [
       "all"
     ],
     "title": {
-      "ja": "マクドナルド × NewJeans コラボ商品",
-      "en": "McDonald's x NewJeans collaboration launch"
+      "ja": "マクドナルド「NewJeans Chicken Dance」キャンペーン 韓国で開始",
+      "en": "McDonald's 'NewJeans Chicken Dance' campaign launches in Korea"
     },
     "summary": {
-      "ja": "マクドナルドとのコラボ「McDonald's Chicken World」が韓国を皮切りにアジア9か国・地域へ、CM「マックリスピー！」をYouTubeで公開。",
-      "en": "The 'McDonald's Chicken World' collaboration rolled out from Korea to nine more Asian markets, with the McCrispy commercial on YouTube."
+      "ja": "マクドナルド・コリア主導の初のグローバルキャンペーン「Fly to the McDonald's Chicken World」がNewJeansとともに韓国で始まった。",
+      "en": "'Fly to the McDonald's Chicken World', the first global campaign led by McDonald's Korea, launched in Korea with NewJeans."
     },
-    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "source_url": "https://snkrdunk.com/en/magazine/2023/05/26/mcdonalds-and-newjeans-launches-fly-to-the-mcdonalds-chicken-world-campaign-in-asia",
+    "reference_urls": [
+      "https://www.insight.co.kr/news/439687",
+      "https://bandwagon.asia/articles/newjeans-mcdonalds-chicken-world-coming-mcdo-philippines-singapore-indonesia-thailand-malaysia-vietnam-dates-meal-2023"
+    ],
     "media": {
       "type": "none"
     },
@@ -1332,10 +1381,10 @@
       "collab"
     ],
     "verified": false,
-    "editor_note": "Rewritten so the Philippines/Thailand rollouts are not stated as completed on the Korean launch date. | Bandwagon (2023-05-26) gives the country list but not dates or menu; Korean launch details unverified. | removed from reader text: [detail.ja] 韓国のセット内容と価格は確認できていない。 [detail.en] The Korean set contents and prices could not be confirmed. / Country list from Bandwagon (2023-05-26), which gives no dates or menu; Korean set contents and prices unconfirmed. English Wikipedia records the cross-branded product as a June 2023 collaboration; that framing removed from reader text.",
+    "editor_note": "Rewritten so the Philippines/Thailand rollouts are not stated as completed on the Korean launch date. | Bandwagon (2023-05-26) gives the country list but not dates or menu; Korean launch details unverified. | removed from reader text: [detail.ja] 韓国のセット内容と価格は確認できていない。 [detail.en] The Korean set contents and prices could not be confirmed. / Country list from Bandwagon (2023-05-26), which gives no dates or menu; Korean set contents and prices unconfirmed. English Wikipedia records the cross-branded product as a June 2023 collaboration; that framing removed from reader text. / 2026-10-17 review: Date precision changed from month to day. Korean start 2023-06-01 and the market dates are from McDonald's official 'Fly to the McDonald's Chicken World' schedule visual reproduced by SNKRDUNK (published 2023-05-26 05:25 UTC, updated 05-29 with packaging photos); McDonald's Korea's press release is reproduced by Insight (2023-05-26 11:35 KST: first global campaign led by McDonald's Korea, launch 'next month 1st' with a new menu, Chicken Song dance challenge, weekly draws, member-photo interiors and standees, ten markets in H2). No McDonald's Korea page or post was fetched (mcdonalds.co.kr story pages return 404), hence verified=false. Removed the claim that the commercial titled 'Crispiness that makes even NewJeans dance, McCrispy!' was uploaded to YouTube on June 1: it came from Wikipedia and could not be confirmed. The new burger names (McCrispy/McSpicy Hot & Cheese) appear only in coverage from 2023-06-20 and are left out. Packaging/market goods are separate records (goods-2023-06-01-mcdonalds-korea-chicken-world-newjeans-packaging, -06-13 Philippines, -06-28 Thailand, -07-12 Indonesia, -09-07 Malaysia, -10-25 Taiwan, -11-02 Singapore). Wikipedia source replaced.",
     "detail": {
-      "ja": "マクドナルド・コリアは5月26日、NewJeansとのコラボキャンペーン「McDonald's Chicken World」の展開国と到着日を予告するティーザー映像を公開し、韓国を皮切りにフィリピン、タイ、インドネシア、ブルネイ、マレーシア、香港、台湾、シンガポール、ベトナムで展開するとした。6月1日にはマクドナルド・コリアのYouTubeでCM「NewJeansも踊り出すサクサク感、マックリスピー！」が公開された。",
-      "en": "On May 26 McDonald's Korea released a teaser listing the countries and arrival dates for its NewJeans collaboration 'McDonald's Chicken World', starting in South Korea and extending to the Philippines, Thailand, Indonesia, Brunei, Malaysia, Hong Kong, Taiwan, Singapore and Vietnam. On June 1 the commercial 'Crispiness that makes even NewJeans dance, McCrispy!' was uploaded to McDonald's Korea's YouTube channel."
+      "ja": "マクドナルド・コリアは5月26日、NewJeansとのキャンペーンを韓国を皮切りにアジア10か国・地域で順次展開すると発表し、6月1日に韓国で開始した。Mロゴやバーガー、ポテト、うさぎのキャラクターをあしらったスペシャルパッケージでチキンメニューを提供し、「マクドナルド・チキンソング」に合わせたダンスチャレンジや毎週の抽選、メンバーの写真で飾った店内と等身大パネルも用意された。公式スケジュールでは韓国（6月1日）に続き、フィリピン（6月13日）、タイ（6月28日）、インドネシア（7月12日）、ブルネイ（9月1日）、マレーシア（9月7日）、香港（10月24日）、台湾（10月25日）での開始が予定され、シンガポールとベトナムは「近日」とされた。",
+      "en": "On May 26 McDonald's Korea announced a NewJeans campaign that would roll out across ten Asian markets starting with Korea, and it launched in Korea on June 1. Chicken menu items came in special packaging featuring the M logo, burgers, fries and a bunny character, with a dance challenge to the 'McDonald's Chicken Song', weekly prize draws, and stores decorated with member photos and life-size standees. The official schedule listed Korea (June 1) followed by the Philippines (June 13), Thailand (June 28), Indonesia (July 12), Brunei (September 1), Malaysia (September 7), Hong Kong (October 24) and Taiwan (October 25), with Singapore and Vietnam 'upcoming'."
     },
     "credits": {
       "brand": "McDonald's"
@@ -1949,26 +1998,30 @@
     "editor_note": "SNKRDUNK (URL dated 2023-12-15; page later updated 2024-02-16 with further campaign images). Nike's own announcement not fetched. Later appearances (Singapore, Feb 2024) kept out of this record."
   },
   {
-    "id": "ad-2024-01-01-nike-orchard-road-collab",
-    "date": "2024-01-01",
+    "id": "ad-2024-01-27-nike-orchard-road-collab",
+    "date": "2024-01-27",
     "date_type": "announce",
-    "date_precision": "month",
+    "date_precision": "day",
     "category": "ad",
     "entity": "newjeans",
     "members": [
       "all"
     ],
     "title": {
-      "ja": "NIKE × NewJeans シンガポール限定コラボ",
-      "en": "Nike x NewJeans Orchard Road collaboration"
+      "ja": "ナイキ・オーチャードロード「Member Days」にNewJeans出演発表（シンガポール）",
+      "en": "NewJeans announced for Nike Orchard Road Member Days (Singapore)"
     },
     "summary": {
-      "ja": "ナイキがシンガポールの新旗艦店Nike Orchard Roadの開業に合わせNewJeansとコラボ、Air Max 90 LV8を中心に限定商品を展開。",
-      "en": "Nike marked the opening of its Singapore flagship Nike Orchard Road with a NewJeans collaboration centred on the Air Max 90 LV8."
+      "ja": "ナイキがアプリで、シンガポールの旗艦店Nike Orchard Roadの会員向け催しにNewJeansが出演すると告知し、店舗限定のNike By You x NewJeansコレクションも案内した。",
+      "en": "Nike announced in its app that NewJeans would appear at a members' event at its Singapore flagship Nike Orchard Road, alongside a store-exclusive Nike By You x NewJeans collection."
     },
-    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "source_url": "https://mothership.sg/2024/01/newjeans-performing-orchard-road-nike/",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+      "https://mustsharenews.com/newjeans-nike-orchard-road/",
+      "https://www.bandwagon.asia/articles/newjeans-to-perform-at-singapore-s-nike-orchard-road-this-february-wild-entertainment-group-ador-k-pop-super-shy-contest-2024",
+      "https://www.timeout.com/singapore/news/k-pop-girl-group-newjeans-live-at-nike-orchard-road-heres-how-to-stand-a-chance-to-catch-them-live-012924",
+      "https://snkrdunk.com/en/magazine/?p=204229",
+      "https://about.nike.com/en/newsroom/releases/nike-orchard-road-opens-in-singapore"
     ],
     "media": {
       "type": "none"
@@ -1978,10 +2031,10 @@
       "collab"
     ],
     "verified": false,
-    "editor_note": "The Feb 3, 2024 in-store performance was removed from the summary (later than this record's date; see the live record for Feb 3). | Only the Nike newsroom piece (2024-02-03) was found; the January announcement date per en.wikipedia could not be independently confirmed. | removed from reader text: [detail.en] Nike's newsroom piece on the opening is dated February 3, 2024, the day of the performance. / Only the Nike newsroom piece (2024-02-03, the day of the in-store performance) was found; the January announcement date per English Wikipedia could not be independently confirmed. The 3 February performance stays out of reader text (see the live record).",
+    "editor_note": "The Feb 3, 2024 in-store performance was removed from the summary (later than this record's date; see the live record for Feb 3). | Only the Nike newsroom piece (2024-02-03) was found; the January announcement date per en.wikipedia could not be independently confirmed. | removed from reader text: [detail.en] Nike's newsroom piece on the opening is dated February 3, 2024, the day of the performance. / Only the Nike newsroom piece (2024-02-03, the day of the in-store performance) was found; the January announcement date per English Wikipedia could not be independently confirmed. The 3 February performance stays out of reader text (see the live record). / 2026-10-17 review: Date corrected from 2024-01 (month, per en.wikipedia) to 2024-01-27, the day the Nike App announcement was reported (Mothership 27 Jan 14:50 SGT, Mustsharenews 27 Jan 17:44, Bandwagon 27 Jan); the Nike App post itself was not accessible, hence verified=false. Member Days ran 2024-01-30 to 02-04 (Mothership, Time Out 29 Jan); the in-store sale is goods-2024-01-30-nike-by-you-x-newjeans-orchard-road and the show is live-2024-02-03-nike-orchard-road-singapore. Removed the claim that the Air Max 90 LV8 was the centre of the exclusive products: no source calls it a NewJeans product; reports only give contest winners priority purchase of the (existing) Air Max 90 LV8, and Nike's newsroom (2024-02-03) does not mention it (see ad-2023-12-15-nike-air-max-90-lv8-campaign). Removed store-size facts and the 'expand the definition of sport' framing because they come from Nike's newsroom release dated 2024-02-03, later than this record. Item list/prices (T-shirt, hoodie, tote, cap, 39–49 USD) appear only in later updates (SNKRDUNK 31 Jan, Highsnobiety) and stay in the goods record. The ID keeps '2024-01-01' because IDs never change (data-policy §5); its date part no longer matches.",
     "detail": {
-      "ja": "ナイキがシンガポールの新旗艦店Nike Orchard Road（3フロア、約2,600平方メートルで中国を除くアジア最大のナイキ単独店舗）の開業に合わせ、NewJeansとのコラボレーションを発表した。店舗会員はシンガポールのスポーツ熱やアスリートの物語から着想したNike By You x NewJeansのグラフィックで一部アパレルをパーソナライズでき、限定商品の中心にはAir Max 90 LV8が据えられた。ナイキはNewJeansをシンガポールでの初公演に招待し、スポーツの定義を広げてより多くの人、特に女性と女の子をスポーツに招くという共通の目標を掲げた。",
-      "en": "Nike announced a NewJeans collaboration for the opening of its new Singapore flagship Nike Orchard Road, a three-level store of about 2,600 square metres and the largest single-brand Nike store in Asia outside China. Store members could personalise selected apparel with Nike By You x NewJeans graphics inspired by Singapore's sporting passion and athletes' stories, with the Air Max 90 LV8 at the centre of the exclusive products. Nike invited NewJeans for their first performance in Singapore, framing the shared goal as expanding the definition of sport and inviting more people, especially women and girls, into it."
+      "ja": "ナイキは公式アプリで、1月19日に開業したシンガポールの旗艦店Nike Orchard Roadで、NewJeansが2月3日にシンガポール初の公演を行うと告知した。公演は会員向けの非公開イベントで、参加希望者は1月30日にアプリ上の質問「あなたが一番のNewJeansファンである理由」に答えて応募する。1月30日から2月4日までの「Member Days」期間中、同店限定でNike By You x NewJeansのコレクションが販売される。当選者には公演後の会員限定ショッピングで、既存モデルのAir Max 90 LV8を優先購入できる機会が用意された。",
+      "en": "Nike announced in its app that NewJeans would give their first Singapore performance on February 3 at Nike Orchard Road, the flagship that opened on January 19. The performance was a closed members' event, entered by answering the app question 'Tell us why you are the biggest NewJeans fan' on January 30. During 'Member Days' from January 30 to February 4 the store would sell a limited Nike By You x NewJeans collection available only there. Winners were also promised first dibs on the Air Max 90 LV8, an existing Nike model, in a members-only shopping session after the show."
     },
     "credits": {
       "brand": "Nike (Nike Orchard Road, Nike By You)"
