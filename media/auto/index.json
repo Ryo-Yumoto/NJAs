@@ -39,14 +39,6 @@
   "page_url": "https://www.wkorea.com/?p=214870",
   "w": 1200
  },
- "ad-2022-09-21-hyein-diesel-hannam-opening": {
-  "fetched": "2026-10-16",
-  "file": "ad-2022-09-21-hyein-diesel-hannam-opening.jpg",
-  "h": 630,
-  "image_url": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202209/26/WEDDING21/20220926220007620mgcb.jpg",
-  "page_url": "https://v.daum.net/v/20220926220004759",
-  "w": 1200
- },
  "ad-2022-10-01-skt-0-iphone-14-pro-cm": {
   "fetched": "2026-10-13",
   "file": "ad-2022-10-01-skt-0-iphone-14-pro-cm.jpg",
@@ -199,14 +191,6 @@
   "page_url": "https://storage.googleapis.com/pr-newsroom-wp/1/2023/08/spotify_newjeans_bunnyland-1920x733.jpg",
   "w": 1400
  },
- "ad-2023-08-08-hanni-chaumet-bee-my-love-popup": {
-  "fetched": "2026-10-16",
-  "file": "ad-2023-08-08-hanni-chaumet-bee-my-love-popup.jpg",
-  "h": 535,
-  "image_url": "https://img.marieclairekorea.com/2023/08/mck_64d1dcda3e1b6.jpg",
-  "page_url": "https://img.marieclairekorea.com/2023/08/mck_64d1dcda3e1b6.jpg",
-  "w": 800
- },
  "ad-2023-08-14-haerin-dior-rose-des-vents-campaign": {
   "fetched": "2026-10-16",
   "file": "ad-2023-08-14-haerin-dior-rose-des-vents-campaign.jpg",
@@ -230,22 +214,6 @@
   "image_url": "https://t1.daumcdn.net/news/202309/14/startoday/20230914153906050mufc.jpg",
   "page_url": "https://t1.daumcdn.net/news/202309/14/startoday/20230914153906050mufc.jpg",
   "w": 597
- },
- "ad-2023-09-15-danielle-burberry-winter-2023-popup": {
-  "fetched": "2026-10-16",
-  "file": "ad-2023-09-15-danielle-burberry-winter-2023-popup.jpg",
-  "h": 630,
-  "image_url": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202309/15/NEWS1/20230915100255104wzbc.jpg",
-  "page_url": "https://v.daum.net/v/20230915100253371",
-  "w": 1200
- },
- "ad-2023-11-01-haerin-dior-canton-road-hong-kong": {
-  "fetched": "2026-10-16",
-  "file": "ad-2023-11-01-haerin-dior-canton-road-hong-kong.jpg",
-  "h": 630,
-  "image_url": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202311/28/lofficielhommes/20231128171123509zaqy.jpg",
-  "page_url": "https://v.daum.net/v/20231128171122668",
-  "w": 1200
  },
  "ad-2023-12-15-nike-air-max-90-lv8-campaign": {
   "fetched": "2026-10-16",
@@ -294,14 +262,6 @@
   "image_url": "https://www.datocms-assets.com/55010/1711099231-1711083234-celine_danielle_print.jpg?auto=format&fit=max&w=1200",
   "page_url": "https://www.lofficielsingapore.com/fashion/celine-announces-new-global-ambassador-danielle-of-newjeans-fashion-celebrity-news",
   "w": 1120
- },
- "ad-2024-03-25-danielle-ysl-loveshine-factory-paris": {
-  "fetched": "2026-10-16",
-  "file": "ad-2024-03-25-danielle-ysl-loveshine-factory-paris.jpg",
-  "h": 750,
-  "image_url": "https://t1.daumcdn.net/news/202403/30/WEDDING21/20240330043304673hiub.jpg",
-  "page_url": "https://t1.daumcdn.net/news/202403/30/WEDDING21/20240330043304673hiub.jpg",
-  "w": 600
  },
  "ad-2024-03-28-hanni-gucci-beauty-ambassador": {
   "fetched": "2026-10-13",
@@ -438,14 +398,6 @@
   "image_url": "https://t1.daumcdn.net/news/202503/14/mk/20250314104504277xbag.jpg",
   "page_url": "https://t1.daumcdn.net/news/202503/14/mk/20250314104504277xbag.jpg",
   "w": 700
- },
- "ad-2025-06-18-danielle-omega-aqua-terra-kyoto": {
-  "fetched": "2026-10-16",
-  "file": "ad-2025-06-18-danielle-omega-aqua-terra-kyoto.jpg",
-  "h": 630,
-  "image_url": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202506/19/segye/20250619134600008wkax.png",
-  "page_url": "https://v.daum.net/v/20250619134559814",
-  "w": 1200
  },
  "content-2022-08-11-light-jeans-we-are-newjeans-behind": {
   "fetched": "2026-10-15",
@@ -3719,6 +3671,14 @@
   "page_url": "https://www.segye.com/newsView/20220526519042",
   "w": 680
  },
+ "live-2022-09-21-hyein-diesel-hannam-opening": {
+  "fetched": "2026-10-16",
+  "file": "live-2022-09-21-hyein-diesel-hannam-opening.jpg",
+  "h": 630,
+  "image_url": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202209/26/WEDDING21/20220926220007620mgcb.jpg",
+  "page_url": "https://v.daum.net/v/20220926220004759",
+  "w": 1200
+ },
  "live-2022-09-24-yonsei-akaraka": {
   "fetched": "2026-10-13",
   "file": "live-2022-09-24-yonsei-akaraka.jpg",
@@ -3887,6 +3847,14 @@
   "page_url": "https://www.audacy.com/b96/news/newjeans-talk-super-shy-their-new-ep-at-lollapalooza",
   "w": 1200
  },
+ "live-2023-08-08-hanni-chaumet-bee-my-love-popup": {
+  "fetched": "2026-10-16",
+  "file": "live-2023-08-08-hanni-chaumet-bee-my-love-popup.jpg",
+  "h": 535,
+  "image_url": "https://img.marieclairekorea.com/2023/08/mck_64d1dcda3e1b6.jpg",
+  "page_url": "https://img.marieclairekorea.com/2023/08/mck_64d1dcda3e1b6.jpg",
+  "w": 800
+ },
  "live-2023-08-11-kpop-super-live-jamboree": {
   "fetched": "2026-10-13",
   "file": "live-2023-08-11-kpop-super-live-jamboree.jpg",
@@ -3909,6 +3877,14 @@
   "h": 800,
   "image_url": "https://contents.oricon.co.jp/upimg/news/2273000/2272452/20230322_194643_p_o_63512513.jpg",
   "page_url": "https://www.oricon.co.jp/news/2272452/full/",
+  "w": 1200
+ },
+ "live-2023-09-15-danielle-burberry-winter-2023-popup": {
+  "fetched": "2026-10-16",
+  "file": "live-2023-09-15-danielle-burberry-winter-2023-popup.jpg",
+  "h": 630,
+  "image_url": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202309/15/NEWS1/20230915100255104wzbc.jpg",
+  "page_url": "https://v.daum.net/v/20230915100253371",
   "w": 1200
  },
  "live-2023-09-22-hanni-gucci-ancora-ss24-milan": {
@@ -3950,6 +3926,14 @@
   "image_url": "https://0.soompi.io/wp-content/uploads/2023/07/26202506/NewJeans-AB6IX.jpg",
   "page_url": "https://soompi.com/article/1603263wpp/music-bank-in-mexico-announces-performer-lineup",
   "w": 900
+ },
+ "live-2023-11-01-haerin-dior-canton-road-hong-kong": {
+  "fetched": "2026-10-16",
+  "file": "live-2023-11-01-haerin-dior-canton-road-hong-kong.jpg",
+  "h": 630,
+  "image_url": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202311/28/lofficielhommes/20231128171123509zaqy.jpg",
+  "page_url": "https://v.daum.net/v/20231128171122668",
+  "w": 1200
  },
  "live-2023-11-06-hyundai-duty-free-5th-anniversary-photocall": {
   "fetched": "2026-10-16",
@@ -4046,6 +4030,14 @@
   "image_url": "https://pbs.twimg.com/media/GIBWZa8bMAAGBMe.jpg?name=orig",
   "page_url": "https://pbs.twimg.com/media/GIBWZa8bMAAGBMe.jpg?name=orig",
   "w": 853
+ },
+ "live-2024-03-25-danielle-ysl-loveshine-factory-paris": {
+  "fetched": "2026-10-16",
+  "file": "live-2024-03-25-danielle-ysl-loveshine-factory-paris.jpg",
+  "h": 750,
+  "image_url": "https://t1.daumcdn.net/news/202403/30/WEDDING21/20240330043304673hiub.jpg",
+  "page_url": "https://t1.daumcdn.net/news/202403/30/WEDDING21/20240330043304673hiub.jpg",
+  "w": 600
  },
  "live-2024-04-15-haerin-dior-fall-2024-new-york": {
   "fetched": "2026-10-16",
@@ -4302,6 +4294,14 @@
   "image_url": "https://image.xportsnews.com/contents/images/upload/article/2025/0324/1742814140925868.jpg",
   "page_url": "https://www.xportsnews.com/article/1977035",
   "w": 550
+ },
+ "live-2025-06-18-danielle-omega-aqua-terra-kyoto": {
+  "fetched": "2026-10-16",
+  "file": "live-2025-06-18-danielle-omega-aqua-terra-kyoto.jpg",
+  "h": 630,
+  "image_url": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202506/19/segye/20250619134600008wkax.png",
+  "page_url": "https://v.daum.net/v/20250619134559814",
+  "w": 1200
  },
  "live-2026-07-19-haerin-hyein-incheon-arrival-us": {
   "fetched": "2026-10-16",
@@ -7175,9 +7175,9 @@
   "page_url": "https://www.soompi.com/article/1621157wpp/winners-of-2023-korea-popular-culture-and-arts-awards",
   "w": 900
  },
- "record-2023-10-28-mtv-vmaj-2023-best-buzz": {
+ "record-2023-10-27-mtv-vmaj-2023-best-buzz": {
   "fetched": "2026-10-15",
-  "file": "record-2023-10-28-mtv-vmaj-2023-best-buzz.jpg",
+  "file": "record-2023-10-27-mtv-vmaj-2023-best-buzz.jpg",
   "h": 600,
   "image_url": "https://0.soompi.io/wp-content/uploads/2023/10/27234558/Stray-Kids-Cha-Eun-Woo-NewJeans-THE-BOYZ.jpg",
   "page_url": "https://www.soompi.com/article/1622681wpp/stray-kids-astros-cha-eun-woo-newjeans-and-the-boyz-win-at-2023-mtv-video-music-awards-japan",
@@ -7503,17 +7503,17 @@
   "page_url": "https://www.billboard.com/music/music-news/newjeans-receives-group-of-the-year-award-presented-by-coke-studio-1235628608/",
   "w": 1024
  },
- "record-2024-03-12-japan-gold-disc-award-38-best-3-new-artists-asia": {
+ "record-2024-03-13-japan-gold-disc-award-38-best-3-new-artists-asia": {
   "fetched": "2026-10-15",
-  "file": "record-2024-03-12-japan-gold-disc-award-38-best-3-new-artists-asia.jpg",
+  "file": "record-2024-03-13-japan-gold-disc-award-38-best-3-new-artists-asia.jpg",
   "h": 630,
   "image_url": "https://www.golddisc.jp/award/38/img_ogp/ogp.png",
   "page_url": "https://www.golddisc.jp/award/38/",
   "w": 1200
  },
- "record-2024-03-12-japan-gold-disc-award-38-song-of-the-year-by-streaming-omg": {
+ "record-2024-03-13-japan-gold-disc-award-38-song-of-the-year-by-streaming-omg": {
   "fetched": "2026-10-15",
-  "file": "record-2024-03-12-japan-gold-disc-award-38-song-of-the-year-by-streaming-omg.jpg",
+  "file": "record-2024-03-13-japan-gold-disc-award-38-song-of-the-year-by-streaming-omg.jpg",
   "h": 630,
   "image_url": "https://www.golddisc.jp/award/38/img_ogp/ogp.png",
   "page_url": "https://www.golddisc.jp/award/38/",

@@ -20,7 +20,7 @@
    "date": "2022-08-13",
    "title": "New Jeans EP tops the Circle weekly Album Chart",
    "url": "https://en.wikipedia.org/wiki/New_Jeans_(EP)",
-   "record": null,
+   "record": "record-2022-08-13-new-jeans-ep-circle-album-weekly-no1",
    "exclude": null,
    "note": "chart week 32 of 2022 (Aug 7-13); week unverified – en lists KOR peak 1"
   },
@@ -308,7 +308,7 @@
    "date": "2023-01-01",
    "title": "The Business of Fashion BoF 500 (2023)",
    "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-   "record": null,
+   "record": "record-2023-09-01-bof-500-class-of-2023",
    "exclude": null,
    "note": "date: year only (en list gives 2023)"
   },
@@ -317,7 +317,7 @@
    "date": "2023-01-01",
    "title": "Forbes Korea Power Celebrity 40 (2023) – 27th",
    "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-   "record": null,
+   "record": "record-2023-04-24-forbes-korea-power-celebrity-40-2023",
    "exclude": null,
    "note": "date: year only"
   },
@@ -328,7 +328,7 @@
    "url": "https://en.wikipedia.org/wiki/Hype_Boy",
    "record": null,
    "exclude": null,
-   "note": "date: year only"
+   "note": "date: year only | 公開ソースなし（Radioscopeは購読制）。収録保留。"
   },
   {
    "key": "archive-2023-01-02-omg-first-day-hanteo-481k",
@@ -772,6 +772,15 @@
    "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
   },
   {
+   "key": "riaj-certification-2023-04-01-omg-gold",
+   "date": "2023-04-01",
+   "title": "RIAJ certification: OMG Gold (streaming, certified 2023-03)",
+   "url": "https://www.riaj.or.jp/f/data/cert/sm.html",
+   "record": null,
+   "exclude": null,
+   "note": "2026-10-17 の照合で判明（RIAJ検索データ / BPI）。未収録。"
+  },
+  {
    "key": "archive-2023-04-02-melon-monthly-top3-three-months",
    "date": "2023-04-02",
    "title": "NewJeans sweep Melon's monthly top three for a third straight month, a first",
@@ -1010,7 +1019,7 @@
    "date": "2023-08-05",
    "title": "Get Up debuts at No. 1 on Billboard's World Albums chart",
    "url": "https://en.wikipedia.org/wiki/Get_Up_(EP)",
-   "record": null,
+   "record": "record-2023-08-05-get-up-world-albums-no1",
    "exclude": null,
    "note": "first of nine weeks at No. 1 (the ninth week is record-2023-10-07-get-up-world-albums-nine-weeks-no1)"
   },
@@ -1199,9 +1208,18 @@
    "date": "2023-10-28",
    "title": "2023 MTV Video Music Awards Japan – Best Buzz Award",
    "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-   "record": "record-2023-10-28-mtv-vmaj-2023-best-buzz",
+   "record": "record-2023-10-27-mtv-vmaj-2023-best-buzz",
    "exclude": null,
    "note": "ja Wikipedia gives 2023-10-27"
+  },
+  {
+   "key": "riaj-certification-2023-11-01-eta-gold",
+   "date": "2023-11-01",
+   "title": "RIAJ certification: ETA Gold (streaming, certified 2023-10)",
+   "url": "https://www.riaj.or.jp/f/data/cert/sm.html",
+   "record": null,
+   "exclude": null,
+   "note": "2026-10-17 の照合で判明（RIAJ検索データ / BPI）。未収録。"
   },
   {
    "key": "archive-2023-11-04-get-up-billboard-200-14-weeks-top-100",
@@ -1379,7 +1397,7 @@
    "date": "2023-12-01",
    "title": "RIAJ certification: Cookie Gold (streaming)",
    "url": "https://en.wikipedia.org/wiki/Cookie_(song)",
-   "record": null,
+   "record": "record-2024-02-01-riaj-cookie-gold",
    "exclude": null,
    "note": "RIAJ 2023-11 certification (announced the following month); month precision"
   },
@@ -1622,7 +1640,7 @@
    "date": "2024-01-01",
    "title": "Circle certification: New Jeans (Weverse) 2x Platinum",
    "url": "https://en.wikipedia.org/wiki/New_Jeans_(EP)",
-   "record": null,
+   "record": "record-2024-03-07-circle-cert-new-jeans-weverse-double-platinum",
    "exclude": null,
    "note": "date: year only (certyear 2024)"
   },
@@ -1631,7 +1649,7 @@
    "date": "2024-01-01",
    "title": "Circle certification: OMG streaming Platinum",
    "url": "https://en.wikipedia.org/wiki/OMG_(NewJeans_song)",
-   "record": null,
+   "record": "record-2024-01-11-circle-cert-omg-streaming-platinum",
    "exclude": null,
    "note": "month precision (January 2024)"
   },
@@ -1642,7 +1660,7 @@
    "url": "https://en.wikipedia.org/wiki/Attention_(NewJeans_song)",
    "record": null,
    "exclude": null,
-   "note": "date: year only"
+   "note": "date: year only | 公開ソースなし（Radioscopeは購読制）。収録保留。"
   },
   {
    "key": "sma-2024-01-02-best-song-award-omg",
@@ -1775,7 +1793,7 @@
    "date": "2024-01-11",
    "title": "2024 Clio Music Awards – Silver for YouTube '#ImSuperShy' campaign",
    "url": "https://ja.wikipedia.org/wiki/NewJeans",
-   "record": null,
+   "record": "record-2024-01-01-clio-music-2024-imsupershy-silver",
    "exclude": null,
    "note": "listed on ja Wikipedia only"
   },
@@ -1865,7 +1883,7 @@
    "date": "2024-03-12",
    "title": "2024 Japan Gold Disc Awards – Best 3 New Artists – Asia",
    "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-   "record": "record-2024-03-12-japan-gold-disc-award-38-best-3-new-artists-asia",
+   "record": "record-2024-03-13-japan-gold-disc-award-38-best-3-new-artists-asia",
    "exclude": null,
    "note": "ja Wikipedia gives 2024-03-13"
   },
@@ -1874,7 +1892,7 @@
    "date": "2024-03-12",
    "title": "2024 Japan Gold Disc Awards – Song of the Year by Streaming – Asia (OMG)",
    "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-   "record": "record-2024-03-12-japan-gold-disc-award-38-song-of-the-year-by-streaming-omg",
+   "record": "record-2024-03-13-japan-gold-disc-award-38-song-of-the-year-by-streaming-omg",
    "exclude": null,
    "note": "ja Wikipedia gives 2024-03-13"
   },
@@ -1883,7 +1901,7 @@
    "date": "2024-03-18",
    "title": "2024 Spikes Asia Awards – Brand or Product Integration into Music Content (ETA) [Bronze]",
    "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-   "record": null,
+   "record": "record-2024-03-18-spikes-asia-2024-eta-bronze",
    "exclude": null,
    "note": "date from ja Wikipedia (2024-03-18)"
   },
@@ -1913,6 +1931,15 @@
    "record": null,
    "exclude": null,
    "note": "nomination"
+  },
+  {
+   "key": "riaj-certification-2024-04-01-ditto-2x-platinum",
+   "date": "2024-04-01",
+   "title": "RIAJ certification: Ditto Double Platinum (streaming, certified 2024-03)",
+   "url": "https://www.riaj.or.jp/f/data/cert/sm.html",
+   "record": null,
+   "exclude": null,
+   "note": "2026-10-17 の照合で判明（RIAJ検索データ / BPI）。未収録。"
   },
   {
    "key": "forbes-korea-power-celebrity-40-2024-04-24-3rd",
@@ -1964,7 +1991,7 @@
    "date": "2024-06-01",
    "title": "RIAJ certification: ETA Platinum (streaming)",
    "url": "https://en.wikipedia.org/wiki/ETA_(song)",
-   "record": null,
+   "record": "record-2024-06-01-riaj-eta-platinum",
    "exclude": null,
    "note": "RIAJ 2024-05 certification (announced the following month); month precision"
   },
@@ -1973,7 +2000,7 @@
    "date": "2024-06-01",
    "title": "RIAJ certification: Super Shy Platinum (streaming)",
    "url": "https://en.wikipedia.org/wiki/Super_Shy",
-   "record": null,
+   "record": "record-2024-06-01-riaj-super-shy-platinum",
    "exclude": null,
    "note": "RIAJ 2024-05 certification (announced the following month); month precision"
   },
@@ -2018,7 +2045,7 @@
    "date": "2024-07-01",
    "title": "RIAJ certification: Supernatural Gold (physical single)",
    "url": "https://en.wikipedia.org/wiki/Supernatural_(NewJeans_song)",
-   "record": null,
+   "record": "record-2024-07-01-riaj-supernatural-single-gold",
    "exclude": null,
    "note": "RIAJ 2024-06 certification (announced the following month); month precision"
   },
@@ -2054,7 +2081,7 @@
    "date": "2024-08-01",
    "title": "RIAJ certification: New Jeans (song) Gold (streaming)",
    "url": "https://en.wikipedia.org/wiki/New_Jeans_(song)",
-   "record": null,
+   "record": "record-2024-08-01-riaj-new-jeans-song-gold",
    "exclude": null,
    "note": "RIAJ 2024-07 certification (announced the following month); month precision"
   },
@@ -2126,7 +2153,7 @@
    "date": "2024-09-08",
    "title": "2024 The Fact Music Awards – TMA Popularity Award",
    "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-   "record": null,
+   "record": "record-2024-09-08-tma-2024-musinsa-popularity-award",
    "exclude": null,
    "note": null
   },
@@ -2189,7 +2216,7 @@
    "date": "2024-10-01",
    "title": "Circle certification: How Sweet (Weverse) Platinum",
    "url": "https://en.wikipedia.org/wiki/How_Sweet",
-   "record": null,
+   "record": "record-2024-10-10-circle-cert-how-sweet-weverse-platinum",
    "exclude": null,
    "note": "month precision (October 2024)"
   },
@@ -2216,7 +2243,7 @@
    "date": "2024-11-01",
    "title": "Circle certification: ETA streaming Platinum",
    "url": "https://en.wikipedia.org/wiki/ETA_(song)",
-   "record": null,
+   "record": "record-2024-11-07-circle-cert-eta-streaming-platinum",
    "exclude": null,
    "note": "month precision (November 2024)"
   },
@@ -2396,7 +2423,7 @@
    "date": "2024-12-01",
    "title": "RIAJ certification: How Sweet Gold (streaming)",
    "url": "https://en.wikipedia.org/wiki/How_Sweet",
-   "record": null,
+   "record": "record-2024-12-01-riaj-how-sweet-gold",
    "exclude": null,
    "note": "RIAJ 2024-11 certification (announced the following month); month precision"
   },
@@ -2459,7 +2486,7 @@
    "date": "2025-01-01",
    "title": "Forbes Korea K-Idol of the Year 30 (2025) – 10th",
    "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-   "record": null,
+   "record": "record-2025-12-01-forbes-korea-k-idol-of-the-year-2025",
    "exclude": null,
    "note": "date: year only"
   },
@@ -2470,7 +2497,7 @@
    "url": "https://en.wikipedia.org/wiki/ETA_(song)",
    "record": null,
    "exclude": null,
-   "note": "date: year only"
+   "note": "date: year only | 公開ソースなし（Radioscopeは購読制）。収録保留。"
   },
   {
    "key": "rmnz-certification-2025-01-01-omg-platinum",
@@ -2479,7 +2506,7 @@
    "url": "https://en.wikipedia.org/wiki/OMG_(NewJeans_song)",
    "record": null,
    "exclude": null,
-   "note": "date: year only"
+   "note": "date: year only | 公開ソースなし（Radioscopeは購読制）。収録保留。"
   },
   {
    "key": "rmnz-certification-2025-01-01-super-shy-platinum",
@@ -2488,7 +2515,7 @@
    "url": "https://en.wikipedia.org/wiki/Super_Shy",
    "record": null,
    "exclude": null,
-   "note": "date: year only"
+   "note": "date: year only | 公開ソースなし（Radioscopeは購読制）。収録保留。"
   },
   {
    "key": "archive-2025-01-04-gda-39-cosmopolitan-artist-award",
@@ -2657,7 +2684,7 @@
    "date": "2025-06-01",
    "title": "Circle certification: Ditto streaming 2x Platinum",
    "url": "https://en.wikipedia.org/wiki/Ditto_(song)",
-   "record": null,
+   "record": "record-2025-06-12-circle-cert-ditto-streaming-double-platinum",
    "exclude": null,
    "note": "month precision (June 2025)"
   },
@@ -2702,7 +2729,7 @@
    "date": "2025-08-01",
    "title": "Circle certification: Attention streaming 2x Platinum",
    "url": "https://en.wikipedia.org/wiki/Attention_(NewJeans_song)",
-   "record": null,
+   "record": "record-2025-08-07-circle-cert-attention-streaming-double-platinum",
    "exclude": null,
    "note": "month precision (August 2025)"
   },
@@ -2711,7 +2738,7 @@
    "date": "2025-09-01",
    "title": "Circle certification: How Sweet streaming Platinum",
    "url": "https://en.wikipedia.org/wiki/How_Sweet",
-   "record": null,
+   "record": "record-2025-09-11-circle-cert-how-sweet-streaming-platinum",
    "exclude": null,
    "note": "month precision (September 2025)"
   },
@@ -2720,7 +2747,7 @@
    "date": "2025-09-01",
    "title": "RIAJ certification: Hype Boy 2x Platinum (streaming)",
    "url": "https://en.wikipedia.org/wiki/Hype_Boy",
-   "record": null,
+   "record": "record-2025-09-01-riaj-hype-boy-double-platinum",
    "exclude": null,
    "note": "RIAJ 2025-08 certification (announced the following month); month precision"
   },
@@ -2729,7 +2756,7 @@
    "date": "2025-10-01",
    "title": "RIAJ certification: Bubble Gum Gold (streaming)",
    "url": "https://en.wikipedia.org/wiki/Bubble_Gum_(NewJeans_song)",
-   "record": null,
+   "record": "record-2025-10-01-riaj-bubble-gum-gold",
    "exclude": null,
    "note": "RIAJ 2025-09 certification (announced the following month); month precision"
   },
@@ -2756,7 +2783,7 @@
    "date": "2026-01-01",
    "title": "BPI certification: OMG Silver (UK)",
    "url": "https://en.wikipedia.org/wiki/OMG_(NewJeans_song)",
-   "record": null,
+   "record": "record-2026-10-02-bpi-omg-silver",
    "exclude": null,
    "note": "certyear 2026; date: year only"
   },
@@ -2767,7 +2794,7 @@
    "url": "https://en.wikipedia.org/wiki/Ditto_(song)",
    "record": null,
    "exclude": null,
-   "note": "date: year only"
+   "note": "date: year only | 公開ソースなし（Radioscopeは購読制）。収録保留。"
   },
   {
    "key": "archive-2026-01-14-omg-spotify-900m",
@@ -2783,9 +2810,18 @@
    "date": "2026-02-01",
    "title": "BPI certification: Get Up Silver (UK)",
    "url": "https://en.wikipedia.org/wiki/Get_Up_(EP)",
-   "record": null,
+   "record": "record-2026-02-13-bpi-get-up-silver",
    "exclude": null,
    "note": "certyear 2026, listed by 2026-02-13; month approximate"
+  },
+  {
+   "key": "bpi-certification-2026-02-13-super-shy-silver",
+   "date": "2026-02-13",
+   "title": "BPI certification: Super Shy Silver (UK)",
+   "url": "https://www.bpi.co.uk/brit-certified/",
+   "record": null,
+   "exclude": null,
+   "note": "2026-10-17 の照合で判明（RIAJ検索データ / BPI）。未収録。"
   },
   {
    "key": "archive-2026-02-20-new-jeans-song-spotify-500m",
@@ -2801,7 +2837,7 @@
    "date": "2026-03-01",
    "title": "Circle certification: OMG (Weverse) 2x Platinum",
    "url": "https://en.wikipedia.org/wiki/OMG_(single_album)",
-   "record": null,
+   "record": "record-2026-04-09-circle-cert-omg-weverse-double-platinum",
    "exclude": null,
    "note": "month precision (March 2026)"
   },
@@ -2819,7 +2855,7 @@
    "date": "2026-07-01",
    "title": "Circle certification: Supernatural (Weverse) Platinum",
    "url": "https://en.wikipedia.org/wiki/Supernatural_(NewJeans_song)",
-   "record": null,
+   "record": "record-2026-07-09-circle-cert-supernatural-weverse-platinum",
    "exclude": null,
    "note": "month precision (July 2026)"
   },

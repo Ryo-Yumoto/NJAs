@@ -161,6 +161,43 @@
     }
   },
   {
+    "id": "live-2022-09-21-hyein-diesel-hannam-opening",
+    "date": "2022-09-21",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "ヘイン、ディーゼル漢南洞ストアのオープニングイベントに出席",
+      "en": "Hyein attends Diesel Hannam-dong store opening"
+    },
+    "summary": {
+      "ja": "ディーゼルが漢南洞に国内初の単独店舗をオープンし、記念イベントにヘインが出席した。",
+      "en": "Hyein attended the opening event for Diesel's first store in Hannam-dong, Seoul."
+    },
+    "detail": {
+      "ja": "ディーゼルが漢南洞に初の店舗をオープンし、アンバサダーのパク・ジェボムのほか、シックK、BIBI、(G)I-DLEのミンニ、TOMORROW X TOGETHERのヨンジュン、ヘインの6人が出席した。出席者はグレン・マーティンスによる新作アイテムでスタイリングを披露した。",
+      "en": "Diesel opened its first store in Hannam-dong, and six guests attended: ambassador Jay Park, Sik-K, BIBI, (G)I-DLE's Minnie, Tomorrow X Together's Yeonjun and Hyein. They wore styling from Glenn Martens' new Diesel pieces."
+    },
+    "source_url": "https://v.daum.net/v/20220926220004759",
+    "media": {
+      "type": "none"
+    },
+    "credits": {
+      "brand": "Diesel",
+      "venue": "Diesel Hannam-dong, Seoul"
+    },
+    "tags": [
+      "event",
+      "fashion"
+    ],
+    "verified": false,
+    "editor_note": "Wedding21 News (2022-09-26) says the store opened on the 21st with the guests attending; event date taken as the opening day. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-17: moved from ad to live (attendance event, per data-policy 2026-10-16)."
+  },
+  {
     "id": "live-2022-09-24-yonsei-akaraka",
     "date": "2022-09-24",
     "date_type": "event",
@@ -351,7 +388,7 @@
       "festival",
       "japan"
     ],
-    "editor_note": "Day assignment (Oct 15) from Wikipedia and an Indonesian lineup report; not confirmed from the official day-by-day lineup. | Day-2 assignment confirmed by the ja.wikipedia KCON day-by-day lineup table (Oct 15: IVE / JO1 / NewJeans / TXT / fromis_9 / ATBO / DKZ / KQ Fellaz 2).",
+    "editor_note": "Day assignment (Oct 15) from Wikipedia and an Indonesian lineup report; not confirmed from the official day-by-day lineup. | Day-2 assignment confirmed by the ja.wikipedia KCON day-by-day lineup table (Oct 15: IVE / JO1 / NewJeans / TXT / fromis_9 / ATBO / DKZ / KQ Fellaz 2). / 2026-10-17 review: Minji as special MC on day 2 not confirmed. Oricon/NME name Hwang Min-hyun as MC for all three days; crank-in day-2 report (2022-10-17) names no other MC; the en.wikipedia Minji claim cites Natalie (497627), which could not be fetched (403/405). Not added; detail left as is.",
     "detail": {
       "ja": "東京・有明アリーナで開かれた『KCON 2022 JAPAN』（10月14日から16日）の2日目に出演し、「Attention」「Hype Boy」を披露した。同日の出演者はIVE、JO1、TOMORROW X TOGETHER、fromis_9、ATBO、DKZ、KQ Fellaz 2で、MCはファン・ミニョン。日本での初ステージだった。",
       "en": "NewJeans performed on day two of KCON 2022 Japan (14–16 October) at Ariake Arena in Tokyo, singing 'Attention' and 'Hype Boy'. The day's lineup also featured IVE, JO1, TOMORROW X TOGETHER, fromis_9, ATBO, DKZ and KQ Fellaz 2, with Hwang Min-hyun as MC. It was the group's first stage in Japan."
@@ -401,6 +438,48 @@
     ],
     "verified": false,
     "editor_note": "Performance confirmed by the official Light Jeans video \"Konkuk University Festival 2022 Behind\" (posted 2022-11-11); the date 27 Oct is from namu.wiki (festival 26-28 Oct; NewJeans listed on 10.27). No press article found."
+  },
+  {
+    "id": "live-2022-10-28-w-korea-love-your-w-2022",
+    "date": "2022-10-28",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "W Korea『Love Your W』2022 出演",
+      "en": "W Korea 'Love Your W' 2022 charity event"
+    },
+    "summary": {
+      "ja": "ソウルのフォーシーズンズホテルで開かれたW Koreaの乳がん啓発チャリティー『Love Your W』でステージを披露。",
+      "en": "Performed at W Korea's Love Your W breast-cancer awareness charity event at the Four Seasons Hotel Seoul."
+    },
+    "detail": {
+      "ja": "W Koreaの創刊17周年を記念した乳がん認識向上キャンペーンのチャリティーイベント『Love Your W』が、ソウルのフォーシーズンズホテルで開かれ、NewJeansが出演して「Attention」などのステージを披露した。",
+      "en": "NewJeans performed, including 'Attention', at Love Your W, W Korea's breast-cancer awareness charity event marking the magazine's 17th anniversary, held at the Four Seasons Hotel Seoul."
+    },
+    "source_url": "https://www.youtube.com/watch?v=ffHFjeXq3mE",
+    "reference_urls": [
+      "https://inkistyle.com/w-korea-love-your-w-event-october-28-2022/",
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "ffHFjeXq3mE"
+    },
+    "credits": {
+      "venue": "Four Seasons Hotel Seoul",
+      "organizer": "W Korea"
+    },
+    "tags": [
+      "event",
+      "charity"
+    ],
+    "verified": false,
+    "editor_note": "Performance confirmed by W KOREA's official YouTube upload '[Love Your W 4K 고화질 무대] 뉴진스(NewJeans) ‘Attention’ by W Korea' (uploaded 2022-11-24 per ja.wikipedia citation; title/channel confirmed via oEmbed). Event date Oct 28, 2022 and venue from inkistyle and ja.wikipedia; no W Korea page with the date was fetched (wkorea.com search blocked). Full setlist not confirmed."
   },
   {
     "id": "live-2022-12-16-kbs-song-festival",
@@ -1331,6 +1410,51 @@
     "verified": true
   },
   {
+    "id": "live-2023-08-08-hanni-chaumet-bee-my-love-popup",
+    "date": "2023-08-08",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "ハニ、ショーメ「ビー マイ ラブ」ポップアップのフォトコールに出席",
+      "en": "Hanni attends Chaumet 'Bee My Love' pop-up photocall"
+    },
+    "summary": {
+      "ja": "新世界百貨店江南店のショーメ「ビー マイ ラブ」ポップアップストアのオープン記念フォトコールにハニが出席した。",
+      "en": "Hanni attended the photocall for Chaumet's Bee My Love pop-up store at Shinsegae Department Store Gangnam."
+    },
+    "detail": {
+      "ja": "ショーメが、ミツバチに着想を得たハニカムモチーフの「ビー マイ ラブ」コレクションのポップアップストアを新世界百貨店江南店で8月に開き、オープン記念フォトコールにハニが出席した。ハニは同コレクションの新作を着用した。",
+      "en": "Chaumet ran a pop-up store for its bee-inspired, honeycomb-motif Bee My Love collection at Shinsegae Department Store Gangnam in August, and Hanni attended its photocall wearing new pieces from the line."
+    },
+    "source_url": "https://www.marieclairekorea.com/fashion/2023/08/chaumet-hanni/",
+    "reference_urls": [
+      "https://v.daum.net/v/20230808141530137"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://img.marieclairekorea.com/2023/08/mck_64d1dcda3e1b6.jpg",
+      "source_url": "https://www.marieclairekorea.com/fashion/2023/08/chaumet-hanni/"
+    },
+    "credits": {
+      "brand": "Chaumet",
+      "venue": "Shinsegae Department Store Gangnam, Seoul"
+    },
+    "tags": [
+      "chaumet",
+      "jewelry",
+      "event"
+    ],
+    "verified": true,
+    "editor_note": "Marie Claire Korea (2023-08-08) and Ajunews/SS (2023-08-08 morning photocall). Chaumet is not described as appointing her ambassador in these sources. / 2026-10-17: moved from ad to live (attendance event)."
+  },
+  {
     "id": "live-2023-08-10-get-up-aladin-video-call-fansign",
     "date": "2023-08-10",
     "time": "20:00",
@@ -1718,6 +1842,44 @@
     }
   },
   {
+    "id": "live-2023-09-15-danielle-burberry-winter-2023-popup",
+    "date": "2023-09-15",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "ダニエル、バーバリー 2023 ウィンター・コレクション ポップアップのフォトコールに出席",
+      "en": "Danielle attends Burberry Winter 2023 pop-up photocall"
+    },
+    "summary": {
+      "ja": "新世界百貨店江南店で開かれたバーバリー2023ウィンターコレクションのポップアップストアのオープン記念フォトコールにダニエルが出席した。",
+      "en": "Danielle attended the opening photocall for Burberry's Winter 2023 collection pop-up at Shinsegae Department Store Gangnam."
+    },
+    "detail": {
+      "ja": "バーバリーのグローバルアンバサダーとして、ダニエルがソウル・瑞草区の新世界百貨店江南店で開かれた2023ウィンターコレクションのポップアップストアのオープン記念フォトコールに出席した。",
+      "en": "As a Burberry global ambassador, Danielle attended the opening photocall for the Winter 2023 collection pop-up store at Shinsegae Department Store Gangnam in Seocho-gu, Seoul."
+    },
+    "source_url": "https://v.daum.net/v/20230915100253371",
+    "media": {
+      "type": "none"
+    },
+    "credits": {
+      "brand": "Burberry",
+      "venue": "Shinsegae Department Store Gangnam, Seoul"
+    },
+    "tags": [
+      "burberry",
+      "fashion",
+      "event"
+    ],
+    "verified": false,
+    "editor_note": "News1 photo report (2023-09-15). / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-17: moved from ad to live (attendance event)."
+  },
+  {
     "id": "live-2023-09-15-hongik-univ-festival",
     "date": "2023-09-15",
     "date_type": "event",
@@ -2013,6 +2175,46 @@
       "host": "Park Bo-gum"
     },
     "editor_note": "Attendance (about 15,000) per KBS preview published Nov 3, after the event; omitted from reader text."
+  },
+  {
+    "id": "live-2023-11-01-haerin-dior-canton-road-hong-kong",
+    "date": "2023-11-01",
+    "date_type": "event",
+    "date_precision": "month",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ヘリン、香港のディオール カントン・ロード店イベントに出席",
+      "en": "Haerin attends Dior Canton Road store event in Hong Kong"
+    },
+    "summary": {
+      "ja": "ヘリンが香港で開かれたディオールのカントン・ロード店のイベントに、チャ・ウヌ、キム・ミンハと共に出席した。",
+      "en": "Haerin attended Dior's Canton Road store event in Hong Kong with Cha Eun-woo and Kim Min-ha."
+    },
+    "detail": {
+      "ja": "ヘリンが11月20日に香港へ出国し、ディオールのカントン・ロード店のイベントに出席した。ディオールのアンバサダーのチャ・ウヌ、俳優キム・ミンハも参加。ヘリンは出国時、ディオール2024クルーズコレクションのDストライプのマリニエールジャケットとレディ D-ジョイ バッグを合わせていた。",
+      "en": "Haerin left for Hong Kong on 20 November to attend Dior's Canton Road store event, alongside Dior ambassador Cha Eun-woo and actor Kim Min-ha. At departure she wore a D-Stripes marinière jacket from the Dior Cruise 2024 collection with a Lady D-Joy bag."
+    },
+    "source_url": "https://v.daum.net/v/20231128171122668",
+    "reference_urls": [
+      "https://v.daum.net/v/20231122031145137"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "credits": {
+      "brand": "Dior",
+      "venue": "Dior Canton Road, Hong Kong"
+    },
+    "tags": [
+      "dior",
+      "event"
+    ],
+    "verified": false,
+    "editor_note": "L'Officiel Korea (2023-11-28) reports the event; Wedding21 (2023-11-22) gives the 20 Nov departure. Exact event day not stated, so month precision. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-17: moved from ad to live (attendance event)."
   },
   {
     "id": "live-2023-11-06-hyundai-duty-free-5th-anniversary-photocall",
@@ -2524,6 +2726,51 @@
     ],
     "verified": false,
     "editor_note": "Official X post 2024-03-07 confirms attendance; 5 Mar 2024 is the LV FW24 show date (namu.wiki schedule via search); Marie Claire Korea recap has no date."
+  },
+  {
+    "id": "live-2024-03-25-danielle-ysl-loveshine-factory-paris",
+    "date": "2024-03-25",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "ダニエル、パリでのイヴ・サンローラン・ボーテ「ラブシャイン ファクトリー」に出席",
+      "en": "Danielle attends YSL Beauty 'Loveshine Factory' in Paris"
+    },
+    "summary": {
+      "ja": "イヴ・サンローラン・ボーテが新作リップ「ラブシャイン」の発売を記念してパリで開いたグローバルイベントに、ダニエルが出席した。",
+      "en": "Danielle attended YSL Beauty's global Loveshine Factory event in Paris, held to launch its new Loveshine lipstick."
+    },
+    "detail": {
+      "ja": "ダニエルが現地時間3月25日、パリで開かれたイヴ・サンローラン・ボーテのグローバルイベント「LOVESHINE FACTORY」に出席した。新しいシャインリップスティック「ラブシャイン」の発売を記念したイベントで、ダニエルはブランドのアンバサダーとして参加した。",
+      "en": "On 25 March local time, Danielle attended YSL Beauty's global event LOVESHINE FACTORY in Paris, held to mark the launch of its new shine lipstick Loveshine, as a brand ambassador."
+    },
+    "source_url": "https://v.daum.net/v/20240330043302754",
+    "reference_urls": [
+      "https://www.marieclairekorea.com/beauty/2024/04/yslbeauty-2/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202403/30/WEDDING21/20240330043304673hiub.jpg",
+      "source_url": "https://v.daum.net/v/20240330043302754"
+    },
+    "credits": {
+      "brand": "YSL Beauty",
+      "venue": "Paris"
+    },
+    "tags": [
+      "ysl-beauty",
+      "beauty",
+      "event"
+    ],
+    "verified": false,
+    "editor_note": "Wedding21 News (2024-03-30) from brand release. A Seoul edition of the pop-up she visited in April is mentioned by Marie Claire Korea (2024-04-25) but not added. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-17: moved from ad to live (attendance event)."
   },
   {
     "id": "live-2024-04-15-haerin-dior-fall-2024-new-york",
@@ -3458,7 +3705,7 @@
     "tags": [
       "broadcast-concert"
     ],
-    "editor_note": "Held and broadcast live on 2024-07-21 at Inspire Arena, Incheon (not Daegu). Wikipedia lists July 24, which appears to be an error. | July 21 date confirmed by the SBS Gayo Daejeon article (en.wikipedia); the tv-category record carries July 24.",
+    "editor_note": "Held and broadcast live on 2024-07-21 at Inspire Arena, Incheon (not Daegu). Wikipedia lists July 24, which appears to be an error. | July 21 date confirmed by the SBS Gayo Daejeon article (en.wikipedia); the tv-category record carries July 24. / 2026-10-17 review: event date 2024-07-21 confirmed (Ajunews blue carpet 07-21; NCT 127 Weverse notice '7/21 (일) ... 생방송'). SBS's TV airing is listed as 2024-07-26 on the SBS program page, so 'SBSが生中継' in the detail is doubtful (the 07-21 live was likely an online stream; NCT 127's notice calls it 생방송). Consider rewording detail to drop the SBS live-broadcast claim. en.wikipedia's July 24 is unsupported.",
     "detail": {
       "ja": "仁川のINSPIREアリーナで初の夏開催となる『2024 SBS歌謡大典』夏編（SBS Gayo Daejeon Summer）が開かれ、SBSが生中継した。司会はドヨン、ヨンジュン、アン・ユジン。NewJeansは「How Sweet」と「Supernatural」を披露した。",
       "en": "The first SBS Gayo Daejeon Summer was held at Inspire Arena in Incheon and broadcast live on SBS, hosted by Doyoung, Yeonjun and An Yu-jin. NewJeans performed 'How Sweet' and 'Supernatural'."
@@ -4195,6 +4442,47 @@
       "njz"
     ],
     "verified": false
+  },
+  {
+    "id": "live-2025-06-18-danielle-omega-aqua-terra-kyoto",
+    "date": "2025-06-18",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "ダニエル、京都でのオメガ「アクアテラ 30mm」発表イベントに出席",
+      "en": "Danielle attends Omega Aqua Terra 30mm launch in Kyoto"
+    },
+    "summary": {
+      "ja": "京都で開かれたオメガの新作時計「アクアテラ 30mm」の発表イベントに、グローバルアンバサダーのダニエルが出席した。",
+      "en": "Danielle attended Omega's launch event for the new Aqua Terra 30mm watch in Kyoto as a global ambassador."
+    },
+    "detail": {
+      "ja": "ダニエルが6月18日、京都で開かれたオメガの新作「アクアテラ 30mm」の発表イベントにグローバルアンバサダーとして出席した。金髪のボブに黒のオフショルダードレスで登場し、ADORのスタッフが同行したと報じられた。",
+      "en": "On 18 June, Danielle attended Omega's launch event for the new Aqua Terra 30mm in Kyoto as a global ambassador, appearing with a blonde bob in a black off-the-shoulder dress; ADOR staff reportedly accompanied her."
+    },
+    "source_url": "https://v.daum.net/v/20250619134559814",
+    "reference_urls": [
+      "https://v.daum.net/v/20250619123830888"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "credits": {
+      "brand": "Omega",
+      "venue": "Kyoto"
+    },
+    "tags": [
+      "omega",
+      "watch",
+      "event"
+    ],
+    "verified": false,
+    "editor_note": "Segye Ilbo (2025-06-19). Appeared as Omega ambassador with ADOR, not under the NJZ name, so entity newjeans. Court ruling context omitted from reader text. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-17: moved from ad to live (attendance event)."
   },
   {
     "id": "live-2026-07-19-haerin-hyein-incheon-arrival-us",

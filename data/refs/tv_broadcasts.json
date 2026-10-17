@@ -165,7 +165,7 @@
    "title": "KCON 2022 Japan (Minji as MC)",
    "url": "https://en.wikipedia.org/wiki/Minji_(singer)",
    "record": null,
-   "exclude": null,
+   "exclude": "未確認：ORICON・NMEは3日間のMCをファン・ミニョンと記載し、ミンジのMCを裏付ける一次ソースがない（2026-10-17）",
    "note": "Minji co-hosted with Junki Kono (JO1) and Hwang Min-hyun; en page lists the year as 2023 but KCON 2022 Japan was held on 2022-10-14/16; Mnet broadcast date unverified"
   },
   {
@@ -335,7 +335,7 @@
    "date": "2023-01-14",
    "title": "Show! Music Core (#1 win: Ditto)",
    "url": "https://en.wikipedia.org/wiki/Ditto_(song)",
-   "record": null,
+   "record": "tv-2023-01-14-music-core-ditto-win-2",
    "exclude": null,
    "note": "Music show #1: Ditto"
   },
@@ -407,7 +407,7 @@
    "date": "2023-01-28",
    "title": "Show! Music Core (#1 win: Ditto)",
    "url": "https://en.wikipedia.org/wiki/Ditto_(song)",
-   "record": null,
+   "record": "tv-2023-01-28-music-core-ditto-win-3",
    "exclude": null,
    "note": "Music show #1: Ditto"
   },
@@ -434,7 +434,7 @@
    "date": "2023-02-04",
    "title": "Show! Music Core (#1 win: Ditto)",
    "url": "https://en.wikipedia.org/wiki/Ditto_(song)",
-   "record": null,
+   "record": "tv-2023-02-04-music-core-ditto-win-4",
    "exclude": null,
    "note": "Music show #1: Ditto"
   },
@@ -641,7 +641,7 @@
    "date": "2023-08-11",
    "title": "K-pop Super Live (2023 World Scout Jamboree closing concert)",
    "url": "https://en.wikipedia.org/wiki/Hyein",
-   "record": null,
+   "record": "tv-2023-08-11-kbs-kpop-super-live-jamboree",
    "exclude": null,
    "note": "Hyein co-hosted (with Gong Myung and Yuna); KBS live broadcast; NewJeans performed ETA and Hype Boy"
   },
@@ -1037,7 +1037,7 @@
    "date": "2024-06-22",
    "title": "Show! Music Core (#1 win: How Sweet)",
    "url": "https://en.wikipedia.org/wiki/How_Sweet",
-   "record": null,
+   "record": "tv-2024-06-22-music-core-how-sweet-win-3",
    "exclude": null,
    "note": "Music show #1: How Sweet"
   },

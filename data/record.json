@@ -36,6 +36,41 @@
     "editor_note": "Hanteoチャート初日集計に基づく。 / No Hanteo primary (hanteochart/hanteonews) page for the 262,815 first-day figure could be reached; Hanteo News site search is JS-only and web search returned no Hanteo article. Figure corroborated only by secondary press (Soompi/The Fact citing Hanteo)."
   },
   {
+    "id": "record-2022-08-13-new-jeans-ep-circle-album-weekly-no1",
+    "date": "2022-08-13",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "デビューEP『New Jeans』Circle週間アルバムチャート1位",
+      "en": "New Jeans EP debuts at No. 1 on the Circle Album Chart"
+    },
+    "summary": {
+      "ja": "デビューEP『New Jeans』が2022年第33週（8月7〜13日）のCircle週間アルバムチャートで初登場1位となった。",
+      "en": "The debut EP New Jeans entered the Circle Album Chart at No. 1 for week 33 of 2022 (August 7-13)."
+    },
+    "detail": {
+      "ja": "8月8日に発売されたデビューEP『New Jeans』が、2022年第33週（8月7〜13日）のCircle週間アルバムチャートで初登場1位となった。同じ週にWeverse Albums版も5位に入った。",
+      "en": "Released on August 8, the debut EP New Jeans debuted at No. 1 on the Circle Album Chart for week 33 of 2022 (August 7-13). Its Weverse Albums edition entered at No. 5 the same week."
+    },
+    "source_url": "https://circlechart.kr/page_chart/album.circle?nationGbn=T&targetTime=33&hitYear=2022&termGbn=week",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/New_Jeans_(EP)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart"
+    ],
+    "verified": true,
+    "editor_note": "Circle album chart API (week 33/2022, Aug 7-13 per the page's week selector): 1st EP `New Jeans` rank 1 (RankStatus new), Weverse edition rank 5. Ledger said week 32; Circle numbering puts Aug 7-13 in week 33. Fetched 2026-10-17."
+  },
+  {
     "id": "record-2022-08-14-new-jeans-ep-first-week-hanteo",
     "date": "2022-08-14",
     "date_type": "event",
@@ -1922,6 +1957,41 @@
     "editor_note": "Melon monthly history not retrievable; not contradicted."
   },
   {
+    "id": "record-2023-04-24-forbes-korea-power-celebrity-40-2023",
+    "date": "2023-04-24",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Forbes Korea「パワーセレブリティ40」2023年版で27位",
+      "en": "Ranked 27th on Forbes Korea's 2023 Power Celebrity 40"
+    },
+    "summary": {
+      "ja": "Forbes Koreaの2023年版パワーセレブリティ40で27位に入り、デビュー翌年に初めてランクインした。",
+      "en": "Forbes Korea's 2023 Power Celebrity 40 placed NewJeans 27th, their first appearance on the list."
+    },
+    "detail": {
+      "ja": "Forbes Koreaの2023年版パワーセレブリティ40の総合順位で27位に入った。同誌は前年7月デビューのNewJeansを次世代のグローバルスターと紹介し、デビュー作『New Jeans』の初日販売記録などに触れた。広告界で評価を急上昇させたセレブの一組にも挙げた。",
+      "en": "NewJeans ranked 27th overall in Forbes Korea's 2023 Power Celebrity 40. The magazine introduced the group, which debuted the previous July, as a next-generation global star and cited records such as the first-day sales of the debut EP New Jeans. It also named them among the celebrities whose value in advertising had soared."
+    },
+    "source_url": "https://www.forbeskorea.co.kr/news/articleView.html?idxno=337785",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "list"
+    ],
+    "verified": true,
+    "editor_note": "Forbes Korea '2023 파워 셀러브리티 40 | 종합순위' (published 2023-04-24 11:40 KST): '뉴진스가 27위에 포함됐다'. Ledger had year only; first appearance stated as new entry is inferred from 'new entrants' section and debut in July 2022."
+  },
+  {
     "id": "record-2023-04-30-hype-boy-mv-100m-views",
     "date": "2023-04-30",
     "date_type": "event",
@@ -2735,6 +2805,42 @@
     "editor_note": "Billboard発表（2023-08-02）とLuminate集計に基づく。 / Billboard 200 dated 2023-08-05: 2nd EP 'Get Up' debuts at No. 1. Unit figure (126,500) comes from Billboard chart-beat reporting, not re-checked."
   },
   {
+    "id": "record-2023-08-05-get-up-world-albums-no1",
+    "date": "2023-08-05",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Get Up』Billboard World Albums初登場1位",
+      "en": "Get Up debuts at No. 1 on Billboard's World Albums chart"
+    },
+    "summary": {
+      "ja": "2nd EP『Get Up』が2023年8月5日付のBillboard World Albumsで初登場1位となった。",
+      "en": "The second EP Get Up debuted at No. 1 on Billboard's World Albums chart dated August 5, 2023."
+    },
+    "detail": {
+      "ja": "7月21日発売の2nd EP『Get Up』が、2023年8月5日付のBillboard World Albumsで初登場1位となった。同じ週のBillboard 200でも1位で初登場した。",
+      "en": "Released on July 21, the second EP Get Up debuted at No. 1 on Billboard's World Albums chart dated August 5, 2023. It also entered the Billboard 200 at No. 1 the same week."
+    },
+    "source_url": "https://www.billboard.com/charts/world-albums/2023-08-05/",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Get_Up_(EP)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chart",
+      "billboard"
+    ],
+    "verified": true,
+    "editor_note": "Billboard World Albums dated 2023-08-05: No. 1 NEW, 2nd EP 'Get Up', weeks at No. 1 = 1. Billboard 200 No. 1 the same week is record-2023-08-05-get-up-billboard-200-no1."
+  },
+  {
     "id": "record-2023-08-05-super-shy-hot-100-peak-48",
     "date": "2023-08-05",
     "date_type": "event",
@@ -2984,6 +3090,44 @@
     "editor_note": "Billboard 200 dated 2023-08-26: 2nd EP 'Get Up' No. 16 (LW 12, peak 1, 4th week) - fourth straight week inside the top 20."
   },
   {
+    "id": "record-2023-09-01-bof-500-class-of-2023",
+    "date": "2023-09-01",
+    "date_type": "announce",
+    "date_precision": "month",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "The Business of Fashion「BoF 500」2023年版に選出",
+      "en": "NewJeans named to The Business of Fashion's BoF 500 (Class of 2023)"
+    },
+    "summary": {
+      "ja": "英ファッションメディアThe Business of Fashionが選ぶ「BoF 500」の2023年の新規選出者に、BTSとともに名を連ねた。",
+      "en": "NewJeans were among the new names added to The Business of Fashion's BoF 500 in 2023, alongside BTS."
+    },
+    "detail": {
+      "ja": "世界のファッション業界を形づくる人物を選ぶThe Business of Fashionの「BoF 500」で、2023年の新規選出者に加わった。韓国からの選出は4組で、エンターテインメント分野ではBTSとNewJeansの2組だった。",
+      "en": "NewJeans were added to The Business of Fashion's BoF 500, its index of people shaping the global fashion industry, in the 2023 intake. Four Korean entries were selected that year, with BTS and NewJeans the only two from entertainment."
+    },
+    "source_url": "https://www.businessoffashion.com/community/people/newjeans",
+    "reference_urls": [
+      "https://fashionunited.com/news/people/pharrell-williams-sabato-de-sarno-among-entrants-in-2023-s-the-bof-500/2023092956123",
+      "https://www.fashionsnap.com/article/2023-09-29/bof500-new-addtions-2023/",
+      "https://www.newsis.com/view/NISX20231007_0002474911"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "list",
+      "fashion"
+    ],
+    "verified": false,
+    "editor_note": "BoF profile page returns 403 to this environment. Class of 2023 additions reported 2023-09-29 (FashionUnited, Fashionsnap); BoF published a NewJeans feature with an exclusive cover image on 2023-10-06 (Newsis 2023-10-07). Exact announcement day unconfirmed, so month precision. Ledger had year only."
+  },
+  {
     "id": "record-2023-09-02-super-shy-circle-digital-8-weeks-no1",
     "date": "2023-09-02",
     "date_type": "event",
@@ -3054,7 +3198,7 @@
       "https://circlechart.kr/page_chart/certification.circle",
       "https://www.soompi.com/article/1612296wpp/nct-dream-newjeans-exo-treasure-zerobaseone-and-gi-dle-earn-circle-triple-million-and-million-certifications"
     ],
-    "editor_note": "Circle Chart album certification list (API /data/api/cert/chart): 2023-09-07 Get Up 1M, New Jeans (1st EP) 1M, Get Up (Weverse) 1P. Exact match."
+    "editor_note": "Circle Chart album certification list (API /data/api/cert/chart): 2023-09-07 Get Up 1M, New Jeans (1st EP) 1M, Get Up (Weverse) 1P. Exact match. / 2026-10-17 review: re-fetched Circle album certification API: 1st EP `New Jeans` 1M Certify_Date 2023-09-07 (with Get Up 1M and Get Up (Weverse) 1P). en.wikipedia's '2024-09' for the New Jeans million is wrong (2024-09-12 is the Supernatural million)."
   },
   {
     "id": "record-2023-09-28-riaj-hype-boy-platinum",
@@ -3306,8 +3450,8 @@
     "editor_note": "KOCCA 대중문화예술종합정보시스템 2023 winners list: under 문화체육관광부장관 표창 - 뉴진스 (가수). Ceremony 2023-10-21 per MCST release."
   },
   {
-    "id": "record-2023-10-28-mtv-vmaj-2023-best-buzz",
-    "date": "2023-10-28",
+    "id": "record-2023-10-27-mtv-vmaj-2023-best-buzz",
+    "date": "2023-10-27",
     "date_type": "event",
     "date_precision": "day",
     "category": "record",
@@ -3336,7 +3480,11 @@
       "japan"
     ],
     "verified": false,
-    "editor_note": "mtvjapan.com keeps no VMAJ 2023 winners page (event site now only covers 2026); only Oricon/RealSound/Bandwagon reports of the Oct 27, 2023 announcement (winners announced Oct 27; the record's Oct 28 is the ceremony date). Not contradicted."
+    "editor_note": "mtvjapan.com keeps no VMAJ 2023 winners page (event site now only covers 2026); only Oricon/RealSound/Bandwagon reports of the Oct 27, 2023 announcement (winners announced Oct 27; the record's Oct 28 is the ceremony date). Not contradicted. / 2026-10-17 review: Real Sound (2023-10-27 18:03) reports the VMAJ 2023 award winners (incl. Best Buzz Award: NewJeans) announced that day; the ceremony was 2023-11-22 (Video of the Year announced there). The previous note calling Oct 28 the ceremony date was wrong; Oct 28 is only the Soompi report date. Id should become record-2023-10-27-mtv-vmaj-2023-best-buzz and the detail's '10月28日発表'/'announced October 28' changed to 27.",
+    "reference_urls": [
+      "https://realsound.jp/2023/10/post-1473015.html",
+      "https://www.bandwagon.asia/articles/here-are-the-winners-of-the-2023-mtv-vmas-japan-be-first-yoasobi-idol-bright-vachirawit-aiko-list-"
+    ]
   },
   {
     "id": "record-2023-10-28-riaj-super-shy-gold",
@@ -3553,7 +3701,7 @@
       "award"
     ],
     "verified": true,
-    "editor_note": "MAMA official 2023 winners page lists NewJeans as SAMSUNG Galaxy Artist of the Year."
+    "editor_note": "MAMA official 2023 winners page lists NewJeans as SAMSUNG Galaxy Artist of the Year. / 2026-10-17 review: CJ ENM newsroom '2023 MAMA AWARDS: DAY 2 Winner's List' (2023-11-30) lists Artist of the Year, Song of the Year, Best Female Group and Best Dance Performance Female Group for NewJeans among Day 2 winners. Day 1 = Nov 28, Day 2 = Nov 29 (Tokyo Dome). ja.wikipedia's Nov 28 is the Day 1 date; keep Nov 29."
   },
   {
     "id": "record-2023-11-29-mama-2023-best-dance-performance-female-group-ditto",
@@ -3589,7 +3737,7 @@
       "award"
     ],
     "verified": true,
-    "editor_note": "MAMA official 2023 winners page lists NewJeans (Ditto) as Best Dance Performance Female Group."
+    "editor_note": "MAMA official 2023 winners page lists NewJeans (Ditto) as Best Dance Performance Female Group. / 2026-10-17 review: CJ ENM newsroom '2023 MAMA AWARDS: DAY 2 Winner's List' (2023-11-30) lists Artist of the Year, Song of the Year, Best Female Group and Best Dance Performance Female Group for NewJeans among Day 2 winners. Day 1 = Nov 28, Day 2 = Nov 29 (Tokyo Dome). ja.wikipedia's Nov 28 is the Day 1 date; keep Nov 29."
   },
   {
     "id": "record-2023-11-29-mama-2023-best-female-group",
@@ -3625,7 +3773,7 @@
       "award"
     ],
     "verified": true,
-    "editor_note": "MAMA official 2023 winners page lists NewJeans as Best Female Group."
+    "editor_note": "MAMA official 2023 winners page lists NewJeans as Best Female Group. / 2026-10-17 review: CJ ENM newsroom '2023 MAMA AWARDS: DAY 2 Winner's List' (2023-11-30) lists Artist of the Year, Song of the Year, Best Female Group and Best Dance Performance Female Group for NewJeans among Day 2 winners. Day 1 = Nov 28, Day 2 = Nov 29 (Tokyo Dome). ja.wikipedia's Nov 28 is the Day 1 date; keep Nov 29."
   },
   {
     "id": "record-2023-11-29-mama-2023-song-of-the-year-ditto",
@@ -3661,7 +3809,7 @@
       "award"
     ],
     "verified": true,
-    "editor_note": "MAMA official 2023 winners page lists NewJeans - Ditto as SAMSUNG Galaxy Song of the Year."
+    "editor_note": "MAMA official 2023 winners page lists NewJeans - Ditto as SAMSUNG Galaxy Song of the Year. / 2026-10-17 review: CJ ENM newsroom '2023 MAMA AWARDS: DAY 2 Winner's List' (2023-11-30) lists Artist of the Year, Song of the Year, Best Female Group and Best Dance Performance Female Group for NewJeans among Day 2 winners. Day 1 = Nov 28, Day 2 = Nov 29 (Tokyo Dome). ja.wikipedia's Nov 28 is the Day 1 date; keep Nov 29."
   },
   {
     "id": "record-2023-11-29-spotify-wrapped-2023",
@@ -4447,7 +4595,7 @@
       "japan"
     ],
     "verified": true,
-    "editor_note": "Dated to the ceremony; the Excellent Work Award list was announced Nov 22, 2023. / Japan Composer's Association official 65th JRA page lists Ditto / NewJeans under 優秀作品賞; ceremony 2023-12-30."
+    "editor_note": "Dated to the ceremony; the Excellent Work Award list was announced Nov 22, 2023. / Japan Composer's Association official 65th JRA page lists Ditto / NewJeans under 優秀作品賞; ceremony 2023-12-30. / 2026-10-17 review: the 65th JRA Excellent Work and Special Award list was announced on 2023-11-22; awards were presented at the ceremony on 2023-12-30 (jacompa.or.jp/record/65.php). Kept dated to the ceremony; no separate announce record needed."
   },
   {
     "id": "record-2023-12-30-japan-record-awards-65-special-award",
@@ -4484,7 +4632,45 @@
       "japan"
     ],
     "verified": true,
-    "editor_note": "Official 65th JRA page lists NewJeans under 特別賞 (with ano and Jujutsu Kaisen); ceremony 2023-12-30."
+    "editor_note": "Official 65th JRA page lists NewJeans under 特別賞 (with ano and Jujutsu Kaisen); ceremony 2023-12-30. / 2026-10-17 review: the 65th JRA Excellent Work and Special Award list was announced on 2023-11-22; awards were presented at the ceremony on 2023-12-30 (jacompa.or.jp/record/65.php). Kept dated to the ceremony; no separate announce record needed."
+  },
+  {
+    "id": "record-2024-01-01-clio-music-2024-imsupershy-silver",
+    "date": "2024-01-01",
+    "date_type": "announce",
+    "date_precision": "month",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 Clio Music Awards：YouTube「#ImSuperShy」キャンペーンがシルバー",
+      "en": "YouTube's #ImSuperShy campaign wins Silver at the 2024 Clio Music Awards"
+    },
+    "summary": {
+      "ja": "NewJeansとYouTubeショートの「#ImSuperShy」キャンペーンが、2024 Clio Music Awardsでシルバーを受賞した。",
+      "en": "The #ImSuperShy campaign by YouTube Shorts with NewJeans won Silver at the 2024 Clio Music Awards."
+    },
+    "detail": {
+      "ja": "「Super Shy」の公開に合わせてYouTubeショートで展開された「#ImSuperShy」ダンスチャレンジのキャンペーンが、2024 Clio Music AwardsのFan Engagement部門（Design）でシルバーを受賞した。受賞者はYouTube。同アワードでは「Ditto」MVがFilm & Video部門のグランプリ候補（ショートリスト）にも選ばれた。",
+      "en": "The #ImSuperShy dance-challenge campaign run on YouTube Shorts for the release of 'Super Shy' won Silver in the Fan Engagement (Design) category of the 2024 Clio Music Awards, with YouTube as the winning entrant. The 'Ditto' music video was also shortlisted for the Grand Clio in Film & Video."
+    },
+    "source_url": "https://clios.com/music/winner/fan-engagement/youtube/imsupershy-508885",
+    "reference_urls": [
+      "https://kbizoom.com/?p=593481",
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://clios.com/music/winner/film-video/newjeans/ditto-509201"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award",
+      "advertising"
+    ],
+    "verified": false,
+    "editor_note": "Clio winner page (cited by ja.wikipedia, accessed 2024-01-15) now returns 404 and has no Wayback snapshot reachable from here. kbizoom (2024-01-17) reports the Silver in Fan Engagement / Design and the Ditto MV shortlist. ja.wikipedia dates the results to 2024-01-11 (not independently confirmed), so month precision. Award entrant is YouTube; Coca-Cola 'Be Who You Are (Real Magic)' wins in the same year are not NewJeans' own entries and are omitted."
   },
   {
     "id": "record-2024-01-02-sma-33-best-song-omg",
@@ -4849,6 +5035,79 @@
     "editor_note": "CCMA official press release: 올해의 롱런 음원상: NewJeans 'Hype boy'."
   },
   {
+    "id": "record-2024-01-11-circle-cert-omg-streaming-platinum",
+    "date": "2024-01-11",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart認定：「OMG」ストリーミング・プラチナ",
+      "en": "Circle Chart certification: OMG certified platinum for streaming"
+    },
+    "summary": {
+      "ja": "Circle Chartの1月のストリーミング認定で、「OMG」が累計1億回超のプラチナに認定された。",
+      "en": "'OMG' was certified platinum for over 100 million streams in Circle Chart's January 2024 certifications."
+    },
+    "detail": {
+      "ja": "2023年1月2日に発表された「OMG」が、Circle Chart（韓国音楽コンテンツ協会）の2024年1月11日付ストリーミング認定で、累計1億回超のプラチナを獲得した。",
+      "en": "'OMG', released on January 2, 2023, received platinum certification for over 100 million streams in Circle Chart's (KMCA) streaming certifications dated January 11, 2024."
+    },
+    "source_url": "https://circlechart.kr/page_cert/chart.circle?serviceGbn=S1040",
+    "reference_urls": [
+      "https://circlechart.kr/page_chart/certification.circle"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "streaming"
+    ],
+    "verified": true,
+    "editor_note": "Circle streaming certification list (API /data/api/cert/chart, S1040), fetched 2026-10-17: `OMG` / OMG 1P, Certify_Date 2024-01-11."
+  },
+  {
+    "id": "record-2024-02-01-riaj-cookie-gold",
+    "date": "2024-02-01",
+    "date_type": "announce",
+    "date_precision": "month",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「Cookie」ゴールド",
+      "en": "RIAJ streaming certification: Cookie certified gold"
+    },
+    "summary": {
+      "ja": "日本レコード協会の2024年1月度ストリーミング認定で、「Cookie」が5,000万回超のゴールドとなった。",
+      "en": "'Cookie' was certified gold for over 50 million streams in Japan in the RIAJ's streaming certifications for January 2024."
+    },
+    "detail": {
+      "ja": "デビューEP『New Jeans』収録の「Cookie」が、日本レコード協会（RIAJ）の2024年1月度ストリーミング認定で、累計5,000万回超のゴールドを獲得した。RIAJは各月の認定作品を原則として翌月下旬に公表している。",
+      "en": "'Cookie', from the debut EP New Jeans, received gold certification for over 50 million streams in Japan in the Recording Industry Association of Japan's streaming certifications for January 2024. The RIAJ normally publishes each month's certifications in the latter part of the following month."
+    },
+    "source_url": "https://www.riaj.or.jp/data/st/search/",
+    "reference_urls": [
+      "https://www.riaj.or.jp/data/st/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "japan",
+      "streaming"
+    ],
+    "verified": true,
+    "editor_note": "RIAJ streaming certification search API (/f/data/api/StProducts/index.json?n_artist=NewJeans), fetched 2026-10-17: Cookie ゴールド, year_month 2024-01 (start_date 2022-08-01). The ledger's 2023-11 (en.wikipedia) is not supported by RIAJ; dated to the announcement month 2024-02 (month precision, day 01)."
+  },
+  {
     "id": "record-2024-02-18-hanteo-music-awards-31-artist-of-the-year-bonsang",
     "date": "2024-02-18",
     "date_type": "event",
@@ -5064,11 +5323,46 @@
       "us"
     ],
     "verified": true,
-    "editor_note": "Billboard's own announcement page not fetched; ja.wikipedia lists the date as March 8 (KST reporting). / Billboard official: NewJeans received Group of the Year at Billboard Women in Music 2024 (YouTube Theater, Mar 6, 2024); honoree list announced Jan 23/24, 2024 (billboard.com/lists/2024-billboard-women-in-music-awards-honorees-...)."
+    "editor_note": "Billboard's own announcement page not fetched; ja.wikipedia lists the date as March 8 (KST reporting). / Billboard official: NewJeans received Group of the Year at Billboard Women in Music 2024 (YouTube Theater, Mar 6, 2024); honoree list announced Jan 23/24, 2024 (billboard.com/lists/2024-billboard-women-in-music-awards-honorees-...). / 2026-10-17 review: Billboard partner article (published 2024-03-08) says the award was received 'during Billboard's Women In Music event on Wednesday, March 6' at YouTube Theater. ja.wikipedia's Mar 8 matches the Billboard article's publication date, not the event (Mar 6 PT = Mar 7 KST). Keep Mar 6 (local date)."
   },
   {
-    "id": "record-2024-03-12-japan-gold-disc-award-38-best-3-new-artists-asia",
-    "date": "2024-03-12",
+    "id": "record-2024-03-07-circle-cert-new-jeans-weverse-double-platinum",
+    "date": "2024-03-07",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart認定：『New Jeans』Weverse Albums版ダブルプラチナ",
+      "en": "Circle Chart certification: New Jeans (Weverse Albums) certified double platinum"
+    },
+    "summary": {
+      "ja": "デビューEP『New Jeans』のWeverse Albums版が、Circle Chartの3月認定で50万枚超のダブルプラチナとなった。",
+      "en": "The Weverse Albums edition of the debut EP New Jeans was certified double platinum (over 500,000) by Circle Chart in March 2024."
+    },
+    "detail": {
+      "ja": "2022年8月発売のデビューEP『New Jeans』のWeverse Albums版が、Circle Chart（韓国音楽コンテンツ協会）の2024年3月7日付アルバム認定で、50万枚超のダブルプラチナを獲得した。同版は2023年2月にプラチナ認定を受けていた。",
+      "en": "The Weverse Albums edition of the debut EP New Jeans, released in August 2022, was certified double platinum (over 500,000 units) in Circle Chart's (KMCA) album certifications dated March 7, 2024. The edition had been certified platinum in February 2023."
+    },
+    "source_url": "https://circlechart.kr/page_cert/chart.circle?serviceGbn=ALBUM",
+    "reference_urls": [
+      "https://circlechart.kr/page_chart/certification.circle"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification"
+    ],
+    "verified": true,
+    "editor_note": "Circle album certification list, fetched 2026-10-17: 1st EP `New Jeans` (Weverse) 2P, Certify_Date 2024-03-07. Ledger had year only. Earlier platinum = record-2023-02-09-circle-cert-new-jeans-weverse-platinum."
+  },
+  {
+    "id": "record-2024-03-13-japan-gold-disc-award-38-best-3-new-artists-asia",
+    "date": "2024-03-13",
     "date_type": "event",
     "date_precision": "day",
     "category": "record",
@@ -5090,9 +5384,10 @@
     },
     "source_url": "https://www.golddisc.jp/award/38/best-new-artist12.html",
     "reference_urls": [
+      "https://www.golddisc.jp/award/38/",
+      "https://www.oricon.co.jp/news/2318030/full/",
       "https://v.daum.net/v/20240313144246951",
-      "https://ja.wikipedia.org/wiki/NewJeans",
-      "https://www.golddisc.jp/award/38/"
+      "https://ja.wikipedia.org/wiki/NewJeans"
     ],
     "media": {
       "type": "none"
@@ -5102,11 +5397,11 @@
       "japan"
     ],
     "verified": true,
-    "editor_note": "Announcement date: Korea Herald (Mar 13) says 'Tuesday' = Mar 12; ja.wikipedia lists Mar 13. Official page not fetched. / RIAJ Japan Gold Disc Award 38th official site lists NewJeans under ベスト3ニュー・アーティスト (Best 3 New Artists) in the アジア部門 (Asia) section; New Artist of the Year (Asia) went to LE SSERAFIM."
+    "editor_note": "Announcement date: Korea Herald (Mar 13) says 'Tuesday' = Mar 12; ja.wikipedia lists Mar 13. Official page not fetched. / RIAJ Japan Gold Disc Award 38th official site lists NewJeans under ベスト3ニュー・アーティスト (Best 3 New Artists) in the アジア部門 (Asia) section; New Artist of the Year (Asia) went to LE SSERAFIM. / 2026-10-17 review: Oricon (2024-03-13 00:00) states RIAJ announced the 38th Japan Gold Disc Award on the 13th. golddisc.jp Prize_1 lists アジア部門 ベスト3ニュー・アーティスト. Korea Herald's 'Tuesday (Mar 12)' does not match the announcement. Id should become record-2024-03-13-..."
   },
   {
-    "id": "record-2024-03-12-japan-gold-disc-award-38-song-of-the-year-by-streaming-omg",
-    "date": "2024-03-12",
+    "id": "record-2024-03-13-japan-gold-disc-award-38-song-of-the-year-by-streaming-omg",
+    "date": "2024-03-13",
     "date_type": "event",
     "date_precision": "day",
     "category": "record",
@@ -5128,6 +5423,8 @@
     },
     "source_url": "https://www.golddisc.jp/award/38/",
     "reference_urls": [
+      "https://www.golddisc.jp/award/38/Prize_2.html",
+      "https://www.oricon.co.jp/news/2318030/full/",
       "https://v.daum.net/v/20240313144246951",
       "https://ja.wikipedia.org/wiki/NewJeans"
     ],
@@ -5138,8 +5435,44 @@
       "award",
       "japan"
     ],
+    "verified": true,
+    "editor_note": "golddisc.jp 38th award site lists artist-category winners (NewJeans appears under Best 3 New Artists, Asia) but the Song of the Year by Streaming (Asia) winner is not shown in the fetched pages (Prize_2.html carries only category definitions); OMG is not mentioned anywhere on the site text. Unverified. / 2026-10-17 review: golddisc.jp/award/38/Prize_2.html lists ソング・オブ・ザ・イヤー・バイ・ストリーミング アジア部門 = OMG / NewJeans (the earlier 'not on the site' note was wrong). Announcement date 2024-03-13 per Oricon (2024-03-13 00:00, '13日に発表'). Id should become record-2024-03-13-..."
+  },
+  {
+    "id": "record-2024-03-18-spikes-asia-2024-eta-bronze",
+    "date": "2024-03-18",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Spikes Asia 2024で「ETA」MVがブロンズ受賞",
+      "en": "ETA music video wins Bronze at Spikes Asia 2024"
+    },
+    "summary": {
+      "ja": "Apple「Shot on iPhone」と組んだ「ETA」MVが、Spikes Asia 2024のMusic部門でブロンズを受賞した。",
+      "en": "The 'ETA' music video, made with Apple's Shot on iPhone campaign, won Bronze in the Music category at Spikes Asia 2024."
+    },
+    "detail": {
+      "ja": "アジア太平洋地域の広告祭Spikes Asiaが3月18日に2024年の受賞作とショートリストを発表し、「ETA」MVがMusic部門の「Brand or Product Integration into Music Content」でブロンズを受賞した。同MVはアップルコリアの「Shot on iPhone」キャンペーンの一環としてシン・ウソク監督がiPhoneで撮影した作品。同じ部門で「Coca-Cola Massita」キャンペーンもショートリストに入った。",
+      "en": "Spikes Asia, the Asia-Pacific advertising festival, announced its 2024 winners and shortlists on March 18, and the 'ETA' music video won Bronze for Brand or Product Integration into Music Content in the Music category. Directed by Shin Woo-seok, the video was shot on iPhone as part of Apple Korea's Shot on iPhone campaign. NewJeans' 'Coca-Cola Massita' campaign was also shortlisted in the same category."
+    },
+    "source_url": "https://www.koreajoongangdaily.com/entertainment/newjeans-eta-video-earns-bronze-at-spikes-asia-awards/11408697",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award",
+      "advertising"
+    ],
     "verified": false,
-    "editor_note": "golddisc.jp 38th award site lists artist-category winners (NewJeans appears under Best 3 New Artists, Asia) but the Song of the Year by Streaming (Asia) winner is not shown in the fetched pages (Prize_2.html carries only category definitions); OMG is not mentioned anywhere on the site text. Unverified."
+    "editor_note": "Korea JoongAng Daily (2024-03-18 18:38 KST): 'The Spikes Asia Awards released the winners and shortlists for this year on Monday' (= Mar 18). Official Spikes Asia / Love the Work winners page not fetched."
   },
   {
     "id": "record-2024-04-01-iheartradio-music-awards-2024-best-new-artist-kpop",
@@ -5352,6 +5685,80 @@
     "editor_note": "Publication date reported as May 31 (local) by kbizoom and as May 16 by another outlet; Billboard page not fetched. / Billboard 21 Under 21 2024 list (published 2024-05-31) includes NewJeans (entry position 15)."
   },
   {
+    "id": "record-2024-06-01-riaj-eta-platinum",
+    "date": "2024-06-01",
+    "date_type": "announce",
+    "date_precision": "month",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「ETA」プラチナ",
+      "en": "RIAJ streaming certification: ETA certified platinum"
+    },
+    "summary": {
+      "ja": "日本レコード協会の2024年5月度ストリーミング認定で、「ETA」が1億回超のプラチナとなった。",
+      "en": "'ETA' was certified platinum for over 100 million streams in Japan in the RIAJ's streaming certifications for May 2024."
+    },
+    "detail": {
+      "ja": "2nd EP『Get Up』収録の「ETA」が、日本レコード協会（RIAJ）の2024年5月度ストリーミング認定で、累計1億回超のプラチナを獲得した。同曲は2023年10月度にゴールドを獲得していた。同じ月に「Super Shy」もプラチナとなった。",
+      "en": "'ETA', from the second EP Get Up, received platinum certification for over 100 million streams in Japan in the Recording Industry Association of Japan's streaming certifications for May 2024. The song had gone gold in October 2023, and 'Super Shy' was certified platinum in the same month."
+    },
+    "source_url": "https://www.riaj.or.jp/data/st/search/",
+    "reference_urls": [
+      "https://www.riaj.or.jp/data/st/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "japan",
+      "streaming"
+    ],
+    "verified": true,
+    "editor_note": "RIAJ streaming certification search API, fetched 2026-10-17: ETA プラチナ year_month 2024-05 (ゴールド 2023-10). Dated to the announcement month 2024-06 (month precision)."
+  },
+  {
+    "id": "record-2024-06-01-riaj-super-shy-platinum",
+    "date": "2024-06-01",
+    "date_type": "announce",
+    "date_precision": "month",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「Super Shy」プラチナ",
+      "en": "RIAJ streaming certification: Super Shy certified platinum"
+    },
+    "summary": {
+      "ja": "日本レコード協会の2024年5月度ストリーミング認定で、「Super Shy」が1億回超のプラチナとなった。",
+      "en": "'Super Shy' was certified platinum for over 100 million streams in Japan in the RIAJ's streaming certifications for May 2024."
+    },
+    "detail": {
+      "ja": "2023年7月7日に先行公開された「Super Shy」が、日本レコード協会（RIAJ）の2024年5月度ストリーミング認定で、累計1億回超のプラチナを獲得した。同曲は2023年9月度にゴールドを獲得していた。同じ月に「ETA」もプラチナとなった。",
+      "en": "'Super Shy', pre-released on July 7, 2023, received platinum certification for over 100 million streams in Japan in the Recording Industry Association of Japan's streaming certifications for May 2024. It had gone gold in September 2023, and 'ETA' was certified platinum in the same month."
+    },
+    "source_url": "https://www.riaj.or.jp/data/st/search/",
+    "reference_urls": [
+      "https://www.riaj.or.jp/data/st/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "japan",
+      "streaming"
+    ],
+    "verified": true,
+    "editor_note": "RIAJ streaming certification search API, fetched 2026-10-17: Super Shy プラチナ year_month 2024-05 (ゴールド 2023-09). Dated to the announcement month 2024-06 (month precision)."
+  },
+  {
     "id": "record-2024-06-08-how-sweet-global-200-debut-15",
     "date": "2024-06-08",
     "date_type": "event",
@@ -5496,6 +5903,42 @@
     "editor_note": "Circle album chart week 25/2024 (Jun 16-22): Supernatural No. 1 (1,079,214), Weverse edition No. 6."
   },
   {
+    "id": "record-2024-07-01-riaj-supernatural-single-gold",
+    "date": "2024-07-01",
+    "date_type": "announce",
+    "date_precision": "month",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本レコード協会ゴールドディスク認定：シングル『Supernatural』ゴールド",
+      "en": "RIAJ certification: Supernatural single certified gold"
+    },
+    "summary": {
+      "ja": "日本デビューシングル『Supernatural』が、日本レコード協会の2024年6月度ゴールドディスク認定でゴールドとなった。",
+      "en": "The Japanese debut single Supernatural was certified gold in the RIAJ's physical certifications for June 2024."
+    },
+    "detail": {
+      "ja": "日本デビューシングル『NewJeans 'Supernatural'』（ADOR）が、日本レコード協会（RIAJ）の2024年6月度ゴールドディスク認定で、シングル部門のゴールド（10万枚）に認定された。",
+      "en": "The Japanese debut single NewJeans 'Supernatural' (ADOR) was certified gold (100,000 units) in the single category of the Recording Industry Association of Japan's gold disc certifications for June 2024."
+    },
+    "source_url": "https://www.riaj.or.jp/data/gd/search/",
+    "reference_urls": [
+      "https://www.riaj.or.jp/data/gd/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "japan"
+    ],
+    "verified": true,
+    "editor_note": "RIAJ gold disc search API (/f/data/api/GdProducts/index.json?n_artist=NewJeans), fetched 2026-10-17: NewJeans 'Supernatural', シングル, ゴールド, year_month 2024-06, sales_date 2024-06-22, ADOR Co.,Ltd. Dated to the following month (month precision)."
+  },
+  {
     "id": "record-2024-07-06-supernatural-global-200-debut-25",
     "date": "2024-07-06",
     "date_type": "event",
@@ -5602,6 +6045,43 @@
     ],
     "verified": true,
     "editor_note": "Soompi (2024-07-23): Super Shy MV passed 200M views on July 23 at around 10 p.m. KST, the group's second."
+  },
+  {
+    "id": "record-2024-08-01-riaj-new-jeans-song-gold",
+    "date": "2024-08-01",
+    "date_type": "announce",
+    "date_precision": "month",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「New Jeans」ゴールド",
+      "en": "RIAJ streaming certification: New Jeans (song) certified gold"
+    },
+    "summary": {
+      "ja": "日本レコード協会の2024年7月度ストリーミング認定で、楽曲「New Jeans」が5,000万回超のゴールドとなった。",
+      "en": "The song 'New Jeans' was certified gold for over 50 million streams in Japan in the RIAJ's streaming certifications for July 2024."
+    },
+    "detail": {
+      "ja": "2023年7月7日に「Super Shy」とともに先行公開された「New Jeans」が、日本レコード協会（RIAJ）の2024年7月度ストリーミング認定で、累計5,000万回超のゴールドを獲得した。",
+      "en": "'New Jeans', pre-released alongside 'Super Shy' on July 7, 2023, received gold certification for over 50 million streams in Japan in the Recording Industry Association of Japan's streaming certifications for July 2024."
+    },
+    "source_url": "https://www.riaj.or.jp/data/st/search/",
+    "reference_urls": [
+      "https://www.riaj.or.jp/data/st/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "japan",
+      "streaming"
+    ],
+    "verified": true,
+    "editor_note": "RIAJ streaming certification search API, fetched 2026-10-17: New Jeans ゴールド year_month 2024-07 (start_date 2023-07-07). Dated to the announcement month 2024-08 (month precision)."
   },
   {
     "id": "record-2024-08-08-circle-cert-supernatural-triple-platinum-super-shy-streaming-platinum",
@@ -5999,6 +6479,41 @@
     "editor_note": "RIAJ monthly streaming certification archive unreachable. Unverified."
   },
   {
+    "id": "record-2024-10-10-circle-cert-how-sweet-weverse-platinum",
+    "date": "2024-10-10",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart認定：『How Sweet』Weverse Albums版プラチナ",
+      "en": "Circle Chart certification: How Sweet (Weverse Albums) certified platinum"
+    },
+    "summary": {
+      "ja": "『How Sweet』のWeverse Albums版が、Circle Chartの10月のアルバム認定で25万枚超のプラチナとなった。",
+      "en": "The Weverse Albums edition of How Sweet was certified platinum (over 250,000) in Circle Chart's October 2024 certifications."
+    },
+    "detail": {
+      "ja": "2024年5月24日発売のダブルシングル『How Sweet』のWeverse Albums版が、Circle Chart（韓国音楽コンテンツ協会）の2024年10月10日付アルバム認定で、25万枚超のプラチナを獲得した。",
+      "en": "The Weverse Albums edition of the double single How Sweet, released on May 24, 2024, was certified platinum (over 250,000 units) in Circle Chart's (KMCA) album certifications dated October 10, 2024."
+    },
+    "source_url": "https://circlechart.kr/page_cert/chart.circle?serviceGbn=ALBUM",
+    "reference_urls": [
+      "https://circlechart.kr/page_chart/certification.circle"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification"
+    ],
+    "verified": true,
+    "editor_note": "Circle album certification list, fetched 2026-10-17: How Sweet (Weverse) 1P, Certify_Date 2024-10-10."
+  },
+  {
     "id": "record-2024-10-25-edaily-culture-awards-11-frontier-award",
     "date": "2024-10-25",
     "date_type": "event",
@@ -6069,6 +6584,42 @@
       "https://www.koreaherald.com/article/3834111"
     ],
     "editor_note": "Korea Herald 2024-10-29: Hype Boy hit 600 million Spotify streams, ADOR said Tuesday (Oct 29); fourth NewJeans song to do so. / Removed provenance from reader text: ADOR cited Spotify's count."
+  },
+  {
+    "id": "record-2024-11-07-circle-cert-eta-streaming-platinum",
+    "date": "2024-11-07",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart認定：「ETA」ストリーミング・プラチナ",
+      "en": "Circle Chart certification: ETA certified platinum for streaming"
+    },
+    "summary": {
+      "ja": "Circle Chartの11月のストリーミング認定で、『Get Up』収録の「ETA」が累計1億回超のプラチナとなった。",
+      "en": "'ETA' from Get Up was certified platinum for over 100 million streams in Circle Chart's November 2024 certifications."
+    },
+    "detail": {
+      "ja": "2nd EP『Get Up』（2023年7月21日発売）の収録曲「ETA」が、Circle Chart（韓国音楽コンテンツ協会）の2024年11月7日付ストリーミング認定で、累計1億回超のプラチナを獲得した。",
+      "en": "'ETA', from the second EP Get Up released on July 21, 2023, received platinum certification for over 100 million streams in Circle Chart's (KMCA) streaming certifications dated November 7, 2024."
+    },
+    "source_url": "https://circlechart.kr/page_cert/chart.circle?serviceGbn=S1040",
+    "reference_urls": [
+      "https://circlechart.kr/page_chart/certification.circle"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "streaming"
+    ],
+    "verified": true,
+    "editor_note": "Circle streaming certification list, fetched 2026-10-17: 2nd EP `Get Up` / ETA 1P, Certify_Date 2024-11-07."
   },
   {
     "id": "record-2024-11-13-hype-boy-mv-200m-views",
@@ -6283,6 +6834,43 @@
     ],
     "verified": true,
     "editor_note": "Wikipedia ceremony page; Soompi winners list not fetched. / Melon MMA official history data 2024: TOP10 includes NewJeans."
+  },
+  {
+    "id": "record-2024-12-01-riaj-how-sweet-gold",
+    "date": "2024-12-01",
+    "date_type": "announce",
+    "date_precision": "month",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「How Sweet」ゴールド",
+      "en": "RIAJ streaming certification: How Sweet certified gold"
+    },
+    "summary": {
+      "ja": "日本レコード協会の2024年11月度ストリーミング認定で、「How Sweet」が5,000万回超のゴールドとなった。",
+      "en": "'How Sweet' was certified gold for over 50 million streams in Japan in the RIAJ's streaming certifications for November 2024."
+    },
+    "detail": {
+      "ja": "2024年5月24日発表の「How Sweet」が、日本レコード協会（RIAJ）の2024年11月度ストリーミング認定で、累計5,000万回超のゴールドを獲得した。",
+      "en": "'How Sweet', released on May 24, 2024, received gold certification for over 50 million streams in Japan in the Recording Industry Association of Japan's streaming certifications for November 2024."
+    },
+    "source_url": "https://www.riaj.or.jp/data/st/search/",
+    "reference_urls": [
+      "https://www.riaj.or.jp/data/st/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "japan",
+      "streaming"
+    ],
+    "verified": true,
+    "editor_note": "RIAJ streaming certification search API, fetched 2026-10-17: How Sweet ゴールド year_month 2024-11. Dated to the announcement month 2024-12 (month precision)."
   },
   {
     "id": "record-2024-12-03-rolling-stone-100-best-songs-2024-how-sweet",
@@ -6760,6 +7348,188 @@
     "editor_note": "MUSIC AWARDS JAPAN official 2025 awards page lists BEST K-POP SONG IN JAPAN / 最優秀K-Pop楽曲賞: Ditto - NewJeans (Premiere Ceremony 2025-05-21)."
   },
   {
+    "id": "record-2025-06-12-circle-cert-ditto-streaming-double-platinum",
+    "date": "2025-06-12",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart認定：「Ditto」ストリーミング・ダブルプラチナ",
+      "en": "Circle Chart certification: Ditto certified double platinum for streaming"
+    },
+    "summary": {
+      "ja": "Circle Chartの6月のストリーミング認定で、「Ditto」が累計2億回超のダブルプラチナとなった。",
+      "en": "'Ditto' was certified double platinum for over 200 million streams in Circle Chart's June 2025 certifications."
+    },
+    "detail": {
+      "ja": "2022年12月19日に先行公開された「Ditto」が、Circle Chart（韓国音楽コンテンツ協会）の2025年6月12日付ストリーミング認定で、累計2億回超のダブルプラチナを獲得した。2023年8月にプラチナ認定を受けていた。",
+      "en": "'Ditto', pre-released on December 19, 2022, received double platinum certification for over 200 million streams in Circle Chart's (KMCA) streaming certifications dated June 12, 2025. It had been certified platinum in August 2023."
+    },
+    "source_url": "https://circlechart.kr/page_cert/chart.circle?serviceGbn=S1040",
+    "reference_urls": [
+      "https://circlechart.kr/page_chart/certification.circle"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "streaming"
+    ],
+    "verified": true,
+    "editor_note": "Circle streaming certification list, fetched 2026-10-17: `OMG` / Ditto 2P, Certify_Date 2025-06-12. Earlier platinum = record-2023-08-12-circle-cert-ditto-streaming-platinum. Certified during the activity pause."
+  },
+  {
+    "id": "record-2025-08-07-circle-cert-attention-streaming-double-platinum",
+    "date": "2025-08-07",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart認定：「Attention」ストリーミング・ダブルプラチナ",
+      "en": "Circle Chart certification: Attention certified double platinum for streaming"
+    },
+    "summary": {
+      "ja": "Circle Chartの8月のストリーミング認定で、デビュー曲「Attention」が累計2億回超のダブルプラチナとなった。",
+      "en": "The debut song 'Attention' was certified double platinum for over 200 million streams in Circle Chart's August 2025 certifications."
+    },
+    "detail": {
+      "ja": "2022年8月1日発表のデビュー曲「Attention」が、Circle Chart（韓国音楽コンテンツ協会）の2025年8月7日付ストリーミング認定で、累計2億回超のダブルプラチナを獲得した。2023年5月にプラチナ認定を受けていた。",
+      "en": "The debut song 'Attention', released on August 1, 2022, received double platinum certification for over 200 million streams in Circle Chart's (KMCA) streaming certifications dated August 7, 2025. It had been certified platinum in May 2023."
+    },
+    "source_url": "https://circlechart.kr/page_cert/chart.circle?serviceGbn=S1040",
+    "reference_urls": [
+      "https://circlechart.kr/page_chart/certification.circle"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "streaming"
+    ],
+    "verified": true,
+    "editor_note": "Circle streaming certification list, fetched 2026-10-17: 1st EP `New Jeans` / Attention 2P, Certify_Date 2025-08-07. Earlier platinum = record-2023-05-11-circle-cert-omg-million-attention-platinum."
+  },
+  {
+    "id": "record-2025-09-01-riaj-hype-boy-double-platinum",
+    "date": "2025-09-01",
+    "date_type": "announce",
+    "date_precision": "month",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「Hype Boy」ダブル・プラチナ",
+      "en": "RIAJ streaming certification: Hype Boy certified double platinum"
+    },
+    "summary": {
+      "ja": "日本レコード協会の2025年8月度ストリーミング認定で、「Hype Boy」が2億回超のダブル・プラチナとなった。",
+      "en": "'Hype Boy' was certified double platinum for over 200 million streams in Japan in the RIAJ's streaming certifications for August 2025."
+    },
+    "detail": {
+      "ja": "デビューEP『New Jeans』収録の「Hype Boy」が、日本レコード協会（RIAJ）の2025年8月度ストリーミング認定で、累計2億回超のダブル・プラチナを獲得した。同曲は2023年8月度にプラチナを獲得していた。",
+      "en": "'Hype Boy', from the debut EP New Jeans, received double platinum certification for over 200 million streams in Japan in the Recording Industry Association of Japan's streaming certifications for August 2025. It had been certified platinum in August 2023."
+    },
+    "source_url": "https://www.riaj.or.jp/data/st/search/",
+    "reference_urls": [
+      "https://www.riaj.or.jp/data/st/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "japan",
+      "streaming"
+    ],
+    "verified": true,
+    "editor_note": "RIAJ streaming certification search API, fetched 2026-10-17: Hype Boy ダブル・プラチナ year_month 2025-08 (プラチナ 2023-08). Dated to the announcement month 2025-09 (month precision). Certified during the activity pause."
+  },
+  {
+    "id": "record-2025-09-11-circle-cert-how-sweet-streaming-platinum",
+    "date": "2025-09-11",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart認定：「How Sweet」ストリーミング・プラチナ",
+      "en": "Circle Chart certification: How Sweet certified platinum for streaming"
+    },
+    "summary": {
+      "ja": "Circle Chartの9月のストリーミング認定で、「How Sweet」が累計1億回超のプラチナとなった。",
+      "en": "'How Sweet' was certified platinum for over 100 million streams in Circle Chart's September 2025 certifications."
+    },
+    "detail": {
+      "ja": "2024年5月24日発表の「How Sweet」が、Circle Chart（韓国音楽コンテンツ協会）の2025年9月11日付ストリーミング認定で、累計1億回超のプラチナを獲得した。",
+      "en": "'How Sweet', released on May 24, 2024, received platinum certification for over 100 million streams in Circle Chart's (KMCA) streaming certifications dated September 11, 2025."
+    },
+    "source_url": "https://circlechart.kr/page_cert/chart.circle?serviceGbn=S1040",
+    "reference_urls": [
+      "https://circlechart.kr/page_chart/certification.circle"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "streaming"
+    ],
+    "verified": true,
+    "editor_note": "Circle streaming certification list, fetched 2026-10-17: How Sweet / How Sweet 1P, Certify_Date 2025-09-11."
+  },
+  {
+    "id": "record-2025-10-01-riaj-bubble-gum-gold",
+    "date": "2025-10-01",
+    "date_type": "announce",
+    "date_precision": "month",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「Bubble Gum」ゴールド",
+      "en": "RIAJ streaming certification: Bubble Gum certified gold"
+    },
+    "summary": {
+      "ja": "日本レコード協会の2025年9月度ストリーミング認定で、「Bubble Gum」が5,000万回超のゴールドとなった。",
+      "en": "'Bubble Gum' was certified gold for over 50 million streams in Japan in the RIAJ's streaming certifications for September 2025."
+    },
+    "detail": {
+      "ja": "『How Sweet』収録の「Bubble Gum」が、日本レコード協会（RIAJ）の2025年9月度ストリーミング認定で、累計5,000万回超のゴールドを獲得した。",
+      "en": "'Bubble Gum', from How Sweet, received gold certification for over 50 million streams in Japan in the Recording Industry Association of Japan's streaming certifications for September 2025."
+    },
+    "source_url": "https://www.riaj.or.jp/data/st/search/",
+    "reference_urls": [
+      "https://www.riaj.or.jp/data/st/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "japan",
+      "streaming"
+    ],
+    "verified": true,
+    "editor_note": "RIAJ streaming certification search API, fetched 2026-10-17: Bubble Gum ゴールド year_month 2025-09 (start_date 2024-05-24). Dated to the announcement month 2025-10 (month precision)."
+  },
+  {
     "id": "record-2025-11-27-riaj-ditto-triple-platinum",
     "date": "2025-11-27",
     "date_type": "event",
@@ -6796,6 +7566,41 @@
     "verified": false,
     "note": "活動休止中の認定。",
     "editor_note": "SBS article says 'on the 27th' (Nov 27, 2025 per article date); RIAJ's own list not fetched. / RIAJ monthly streaming certification archive unreachable. Unverified."
+  },
+  {
+    "id": "record-2025-12-01-forbes-korea-k-idol-of-the-year-2025",
+    "date": "2025-12-01",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Forbes Korea「今年のK-アイドル30」2025年版で10位",
+      "en": "Ranked 10th on Forbes Korea's Korean Idols of the Year 2025"
+    },
+    "summary": {
+      "ja": "Forbes Korea 2025年12月号の「KOREAN IDOLS OF THE YEAR 2025（今年のKアイドル30）」で10位に選ばれた。",
+      "en": "Forbes Korea's December 2025 issue ranked NewJeans 10th in its Korean Idols of the Year 2025 list of 30."
+    },
+    "detail": {
+      "ja": "Forbes Korea 2025年12月号の企画「KOREAN IDOLS OF THE YEAR 2025」で、国内外で幅広く愛されるK-POPアイドル30組の10位に選ばれた。同誌はNewJeansをZ世代とグローバル市場で大きな話題を呼んだガールズグループと紹介した。1位はBLACKPINKのジェニーだった。",
+      "en": "Forbes Korea's December 2025 feature Korean Idols of the Year 2025 placed NewJeans 10th among 30 K-pop idols loved at home and abroad. The magazine described them as a girl group that created a major buzz among Gen Z and in the global market. BLACKPINK's Jennie ranked first."
+    },
+    "source_url": "https://www.forbeskorea.co.kr/news/articleView.html?idxno=401039",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "list"
+    ],
+    "verified": true,
+    "editor_note": "Forbes Korea '글로벌 팬덤이 사랑한 K팝 대표 아이콘' (online 2025-12-01 08:23 KST; 202512호 p.112): '10. 뉴진스'. Ledger had year only (2025-01-01)."
   },
   {
     "id": "record-2025-12-19-super-shy-spotify-800m",
@@ -6872,6 +7677,42 @@
     ]
   },
   {
+    "id": "record-2026-02-13-bpi-get-up-silver",
+    "date": "2026-02-13",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "BPI認定：『Get Up』シルバー（英国）",
+      "en": "BPI certification: Get Up certified Silver in the UK"
+    },
+    "summary": {
+      "ja": "英国レコード産業協会（BPI）が2nd EP『Get Up』を英国でのシルバー（6万ユニット）に認定した。",
+      "en": "The BPI certified the second EP Get Up Silver (60,000 units) in the United Kingdom."
+    },
+    "detail": {
+      "ja": "2023年7月21日発売の2nd EP『Get Up』が、英国レコード産業協会（BPI）から2026年2月13日付でアルバムのシルバー認定（6万ユニット）を受けた。同じ日に「Super Shy」もシングルのシルバー認定を受けた。",
+      "en": "The second EP Get Up, released on July 21, 2023, was certified Silver (60,000 units) as an album by the British Phonographic Industry on February 13, 2026. 'Super Shy' was certified Silver as a single on the same date."
+    },
+    "source_url": "https://certified-awards.bpi.co.uk/?search=NewJeans",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Get_Up_(EP)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "uk"
+    ],
+    "verified": true,
+    "editor_note": "BPI Certified Awards search (certified-awards.bpi.co.uk), fetched 2026-10-17: NEWJEANS 2ND EP 'GET UP', Silver, Album, label Polydor, certified 13.02.2026. Same date: SUPER SHY Silver (single, ADOR) — not in the ledger and not in existing records."
+  },
+  {
     "id": "record-2026-02-20-new-jeans-song-spotify-500m",
     "date": "2026-02-20",
     "date_type": "event",
@@ -6939,6 +7780,76 @@
     "reference_urls": [
       "https://sports.khan.co.kr/en/article/202604040027007"
     ]
+  },
+  {
+    "id": "record-2026-04-09-circle-cert-omg-weverse-double-platinum",
+    "date": "2026-04-09",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart認定：『OMG』Weverse Albums版ダブルプラチナ",
+      "en": "Circle Chart certification: OMG (Weverse Albums) certified double platinum"
+    },
+    "summary": {
+      "ja": "シングル『OMG』のWeverse Albums版が、Circle Chartの4月のアルバム認定で50万枚超のダブルプラチナとなった。",
+      "en": "The Weverse Albums edition of the single OMG was certified double platinum (over 500,000) in Circle Chart's April 2026 certifications."
+    },
+    "detail": {
+      "ja": "2023年1月2日発売のシングル『OMG』のWeverse Albums版が、Circle Chart（韓国音楽コンテンツ協会）の2026年4月9日付アルバム認定で、50万枚超のダブルプラチナを獲得した。",
+      "en": "The Weverse Albums edition of the single OMG, released on January 2, 2023, was certified double platinum (over 500,000 units) in Circle Chart's (KMCA) album certifications dated April 9, 2026."
+    },
+    "source_url": "https://circlechart.kr/page_cert/chart.circle?serviceGbn=ALBUM",
+    "reference_urls": [
+      "https://circlechart.kr/page_chart/certification.circle"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification"
+    ],
+    "verified": true,
+    "editor_note": "Circle album certification list, fetched 2026-10-17: `OMG` (Weverse) 2P, Certify_Date 2026-04-09. Ledger placed it in March 2026 (en.wikipedia); Circle's own date is April 9."
+  },
+  {
+    "id": "record-2026-07-09-circle-cert-supernatural-weverse-platinum",
+    "date": "2026-07-09",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart認定：『Supernatural』Weverse Albums版プラチナ",
+      "en": "Circle Chart certification: Supernatural (Weverse Albums) certified platinum"
+    },
+    "summary": {
+      "ja": "日本デビューシングル『Supernatural』のWeverse Albums版が、Circle Chartの7月認定で25万枚超のプラチナとなった。",
+      "en": "The Weverse Albums edition of the Japanese debut single Supernatural was certified platinum (over 250,000) by Circle Chart in July 2026."
+    },
+    "detail": {
+      "ja": "2024年6月21日発売の日本デビューシングル『Supernatural』のWeverse Albums版が、Circle Chart（韓国音楽コンテンツ協会）の2026年7月9日付アルバム認定で、25万枚超のプラチナを獲得した。",
+      "en": "The Weverse Albums edition of the Japanese debut single Supernatural, released on June 21, 2024, was certified platinum (over 250,000 units) in Circle Chart's (KMCA) album certifications dated July 9, 2026."
+    },
+    "source_url": "https://circlechart.kr/page_cert/chart.circle?serviceGbn=ALBUM",
+    "reference_urls": [
+      "https://circlechart.kr/page_chart/certification.circle"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification"
+    ],
+    "verified": true,
+    "editor_note": "Circle album certification list, fetched 2026-10-17: Supernatural (Weverse) 1P, Certify_Date 2026-07-09."
   },
   {
     "id": "record-2026-07-10-right-now-spotify-100m-all-tracks",
@@ -7084,6 +7995,42 @@
     "reference_urls": [
       "https://en.edaily.co.kr/news/eda202609065223"
     ]
+  },
+  {
+    "id": "record-2026-10-02-bpi-omg-silver",
+    "date": "2026-10-02",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "BPI認定：「OMG」シルバー（英国）",
+      "en": "BPI certification: OMG certified Silver in the UK"
+    },
+    "summary": {
+      "ja": "英国レコード産業協会（BPI）が「OMG」を英国でのシングル・シルバー（20万ユニット）に認定した。",
+      "en": "The BPI certified 'OMG' Silver (200,000 units) as a single in the United Kingdom."
+    },
+    "detail": {
+      "ja": "2023年1月2日発表の「OMG」が、英国レコード産業協会（BPI）から2026年10月2日付でシングルのシルバー認定（20万ユニット）を受けた。",
+      "en": "'OMG', released on January 2, 2023, was certified Silver (200,000 units) as a single by the British Phonographic Industry on October 2, 2026."
+    },
+    "source_url": "https://certified-awards.bpi.co.uk/?search=NewJeans",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/OMG_(NewJeans_song)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "uk"
+    ],
+    "verified": true,
+    "editor_note": "BPI Certified Awards search, fetched 2026-10-17: NEWJEANS OMG, Silver, Single, ADOR, certified 02.10.2026. Ledger had year only (2026-01-01)."
   },
   {
     "id": "record-2026-10-05-super-shy-mv-300m-views",

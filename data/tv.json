@@ -1410,7 +1410,10 @@
       "en": "'Ditto' took its first music-show win on Show! Music Core with 5,843 points while NewJeans were in Bangkok."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://imbbs.imbc.com/v2/view.aspx?bid=chart_ranking&list_id=7105558&page=1&list_use=1",
+      "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2023)"
+    ],
     "media": {
       "type": "none"
     },
@@ -1418,8 +1421,8 @@
       "music-show",
       "win"
     ],
-    "verified": false,
-    "editor_note": "ja.wikipedia lists 4 consecutive Music Core wins between Jan 7 and Feb 4, 2023; individual later dates not itemised. | Removed '1st of 4 consecutive weeks through Feb 4' from title/summary (future knowledge). | Nominees and no-appearance per Asia Economy (stoo.com) report; points per Music Core chart list. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "verified": true,
+    "editor_note": "ja.wikipedia lists 4 consecutive Music Core wins between Jan 7 and Feb 4, 2023; individual later dates not itemised. | Removed '1st of 4 consecutive weeks through Feb 4' from title/summary (future knowledge). | Nominees and no-appearance per Asia Economy (stoo.com) report; points per Music Core chart list. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip / 2026-10-17 review: MBC official chart post '2023년 1월 7일 음악중심 차트': 1 NewJeans Ditto 5,843 (2 NCT DREAM Candy 5,157; 3 ATEEZ HALAZIA 3,915). Jan 14 is a separate (2nd) win, now tv-2023-01-14-music-core-ditto-win-2; NewJeans did not appear on either broadcast (OSEN 2023-01-14), so the en TV list's 'Music Core stage on Jan 14' is wrong.",
     "detail": {
       "ja": "MBC『ショー！音楽中心』で「Ditto」が5,843点で1位を獲得した。1位候補はATEEZ「HALAZIA」、NCT DREAM「Candy」と「Ditto」。NewJeansは同じ日にバンコクでゴールデンディスクアワードに出演していたため番組には出ず、不在での受賞となった。2022年12月19日に先行公開された「Ditto」にとって、音楽番組での最初の1位だった。",
       "en": "'Ditto' won first place on MBC's Show! Music Core with 5,843 points against ATEEZ's 'HALAZIA' and NCT Dream's 'Candy'. NewJeans were absent, being in Bangkok for the Golden Disc Awards the same day. It was the first music-show win for 'Ditto', pre-released on December 19, 2022."
@@ -1546,6 +1549,47 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=eH43tNSXQcI"
     }
+  },
+  {
+    "id": "tv-2023-01-14-music-core-ditto-win-2",
+    "date": "2023-01-14",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "tv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ショー!音楽中心「Ditto」2週連続1位",
+      "en": "Show! Music Core: Ditto wins #1 (2nd week)"
+    },
+    "summary": {
+      "ja": "MBC『ショー！音楽中心』で「Ditto」が7,002点で前週に続き1位となり、出演はなく不在での受賞だった。",
+      "en": "'Ditto' won Show! Music Core for a second straight week with 7,002 points; NewJeans did not appear on the show."
+    },
+    "detail": {
+      "ja": "MBC『ショー！音楽中心』で「Ditto」が7,002点で1位を獲得した。1位候補はNCT DREAM「Candy」（4,706点）、ムンビン＆サナ「Madness」と「Ditto」。NewJeansはこの日の放送に出演しておらず、トロフィーはMCが後日渡すと伝えた。1月7日に続く同番組2週連続の1位。",
+      "en": "'Ditto' won first place on MBC's Show! Music Core with 7,002 points, ahead of NCT Dream's 'Candy' (4,706) and Moonbin & Sanha's 'Madness'. NewJeans did not appear on the broadcast, and the MCs said the trophy would be passed on to them. It was the song's second consecutive win on the program after January 7."
+    },
+    "source_url": "https://imbbs.imbc.com/v2/view.aspx?bid=chart_ranking&list_id=7105976&page=1&list_use=1",
+    "reference_urls": [
+      "https://www.osen.co.kr/article/G1112025240",
+      "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2023)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "credits": {
+      "broadcaster": "MBC",
+      "program": "Show! Music Core"
+    },
+    "tags": [
+      "music-show",
+      "win"
+    ],
+    "verified": true,
+    "editor_note": "MBC official chart post '2023년 1월 14일 음악중심 차트' (posted 2023-01-16): 1 NewJeans Ditto 7,002; 2 NCT DREAM Candy 4,706; 3 Moonbin & Sanha Madness 2,913. OSEN (2023-01-14 16:46): NewJeans did not appear; MCs to deliver trophy. No official stage clip."
   },
   {
     "id": "tv-2023-01-15-inkigayo-omg-comeback-stage-win",
@@ -1863,6 +1907,47 @@
     }
   },
   {
+    "id": "tv-2023-01-28-music-core-ditto-win-3",
+    "date": "2023-01-28",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "tv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ショー!音楽中心「Ditto」1位（通算3回目）",
+      "en": "Show! Music Core: Ditto wins #1 (3rd win)"
+    },
+    "summary": {
+      "ja": "MBC『ショー！音楽中心』で「Ditto」が6,758点で1位となり、同番組での通算3回目の1位を不在で受けた。",
+      "en": "'Ditto' won Show! Music Core with 6,758 points, its third win on the program, received in NewJeans' absence."
+    },
+    "detail": {
+      "ja": "MBC『ショー！音楽中心』で「Ditto」が6,758点で1位を獲得した。1位候補はSOL（テヤン）「VIBE (feat. Jimin of BTS)」（5,098点）、NCT DREAM「Candy」と「Ditto」。NewJeansは放送に出演していない。1月21日は放送休止で、同番組では1月7日・14日に続く3回目の1位。",
+      "en": "'Ditto' won first place on MBC's Show! Music Core with 6,758 points, ahead of Taeyang's 'VIBE (feat. Jimin of BTS)' (5,098) and NCT Dream's 'Candy'. NewJeans did not appear on the broadcast. With no show on January 21, it was the song's third win on the program after January 7 and 14."
+    },
+    "source_url": "https://imbbs.imbc.com/v2/view.aspx?bid=chart_ranking&list_id=7106859&page=1&list_use=1",
+    "reference_urls": [
+      "https://www.osen.co.kr/article/G1112031888",
+      "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2023)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "credits": {
+      "broadcaster": "MBC",
+      "program": "Show! Music Core"
+    },
+    "tags": [
+      "music-show",
+      "win"
+    ],
+    "verified": true,
+    "editor_note": "MBC official chart post '2023년 1월 28일 음악중심 차트' (posted 2023-01-30): 1 NewJeans Ditto 6,758; 2 Taeyang VIBE 5,098; 3 NCT DREAM Candy 4,131. OSEN (2023-01-28 16:40): NewJeans absent. Jan 21 cancellation per MBC notice cited by en.wikipedia."
+  },
+  {
     "id": "tv-2023-01-29-inkigayo-danielle-special-mc",
     "date": "2023-01-29",
     "date_type": "broadcast",
@@ -1946,6 +2031,46 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=jUmeh5yvy0M"
     }
+  },
+  {
+    "id": "tv-2023-02-04-music-core-ditto-win-4",
+    "date": "2023-02-04",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "tv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ショー!音楽中心「Ditto」1位（通算4回目）",
+      "en": "Show! Music Core: Ditto wins #1 (4th win)"
+    },
+    "summary": {
+      "ja": "MBC『ショー！音楽中心』で「Ditto」が5,690点で1位となり、同番組での通算4回目の1位となった。",
+      "en": "'Ditto' won Show! Music Core with 5,690 points, its fourth win on the program."
+    },
+    "detail": {
+      "ja": "MBC『ショー！音楽中心』で「Ditto」が5,690点で1位を獲得した。1位候補はTOMORROW X TOGETHER「Sugar Rush Ride」（4,816点）、SOL（テヤン）「VIBE」と「Ditto」。同番組では1月7日・14日・28日に続く4回目の1位。",
+      "en": "'Ditto' won first place on MBC's Show! Music Core with 5,690 points, ahead of Tomorrow X Together's 'Sugar Rush Ride' (4,816) and Taeyang's 'VIBE'. It was the song's fourth win on the program, after January 7, 14 and 28."
+    },
+    "source_url": "https://imbbs.imbc.com/v2/view.aspx?bid=chart_ranking&list_id=7107305&page=1&list_use=1",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2023)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "credits": {
+      "broadcaster": "MBC",
+      "program": "Show! Music Core"
+    },
+    "tags": [
+      "music-show",
+      "win"
+    ],
+    "verified": true,
+    "editor_note": "MBC official chart post '2023년 2월 4일 음악중심 차트' (posted 2023-02-06): 1 NewJeans Ditto 5,690; 2 TXT Sugar Rush Ride 4,816; 3 Taeyang VIBE 3,647. Whether NewJeans appeared that day was not confirmed (no stage expected; omitted from reader text)."
   },
   {
     "id": "tv-2023-02-05-inkigayo-ditto-win-3",
@@ -2862,6 +2987,52 @@
       "program": "M COUNTDOWN"
     },
     "editor_note": "Per Xports News (Aug 10, 2023). / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
+  },
+  {
+    "id": "tv-2023-08-11-kbs-kpop-super-live-jamboree",
+    "date": "2023-08-11",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "tv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "KBS 2TV『K-POPスーパーライブ』（世界スカウトジャンボリー閉幕公演）生中継",
+      "en": "KBS 2TV live broadcast of 'K-pop Super Live' (World Scout Jamboree closing concert)",
+      "original": "K-POP 슈퍼 라이브"
+    },
+    "summary": {
+      "ja": "KBS 2TVが生中継した世界スカウトジャンボリー閉幕公演でヘインがMCを務め、NewJeansが「ETA」「Hype Boy」を披露。",
+      "en": "KBS 2TV aired the World Scout Jamboree closing concert live, with Hyein as co-MC and NewJeans performing 'ETA' and 'Hype Boy'."
+    },
+    "detail": {
+      "ja": "ソウルワールドカップ競技場で開かれた第25回世界スカウトジャンボリーの閉幕公演『K-POPスーパーライブ』を、KBS 2TVとKBS WORLD TVのYouTubeチャンネルが19時から生中継した。この日の『ミュージックバンク』は休止となった。MCは俳優コン・ミョン、ITZYのユナ、NewJeansのヘインが務め、NewJeansは第2部で「ETA」「Hype Boy」を披露した。",
+      "en": "KBS 2TV and the KBS WORLD TV YouTube channel broadcast live from 7 pm the closing concert of the 25th World Scout Jamboree, K-pop Super Live, at Seoul World Cup Stadium; Music Bank was cancelled that day. Actor Gong Myung, ITZY's Yuna and NewJeans' Hyein hosted, and NewJeans performed 'ETA' and 'Hype Boy' in the second part."
+    },
+    "source_url": "https://www.soompi.com/article/1606623wpp/music-bank-to-not-air-today-kbs-to-live-stream-jamboree-k-pop-super-live-concert-instead",
+    "reference_urls": [
+      "https://www.newdaily.co.kr/site/data/html/2023/08/11/2023081100074.amp.html",
+      "https://nocutnews.co.kr/news/5990674",
+      "https://www.mcst.go.kr/english/policy/pressView.jsp?pSeq=288",
+      "https://en.wikipedia.org/wiki/Hyein"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "time": "19:00",
+    "credits": {
+      "broadcaster": "KBS 2TV",
+      "venue": "Seoul World Cup Stadium, Seoul",
+      "host": "Gong Myung, Yuna, Hyein"
+    },
+    "tags": [
+      "special",
+      "host"
+    ],
+    "verified": false,
+    "editor_note": "Broadcast: Soompi (2023-08-11) — closing ceremony 5:30 pm KST, concert live from 7 pm on KBS2 and KBS WORLD TV YouTube. Hosts: NewDaily (2023-08-11) — Gong Myung, Yuna, Hyein. Music Bank cancellation: Nocut (2023-08-08) citing the show's Aug 7 notice. Setlist/part per live-2023-08-11-kpop-super-live-jamboree (MCST source). No official KBS page fetched."
   },
   {
     "id": "tv-2023-08-13-inkigayo-cool-with-you",
@@ -4739,6 +4910,47 @@
     "editor_note": "公式動画: MUSIC STATION「【初登場】NewJeansの最近怖かったことが可愛すぎる【Mステ】」(2024-06-21)"
   },
   {
+    "id": "tv-2024-06-22-music-core-how-sweet-win-3",
+    "date": "2024-06-22",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "tv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ショー!音楽中心「How Sweet」3週連続1位",
+      "en": "Show! Music Core: How Sweet wins #1 (3rd week)"
+    },
+    "summary": {
+      "ja": "MBC『ショー！音楽中心』で「How Sweet」が7,125点で1位となり、同番組で3週連続の1位を記録した。",
+      "en": "'How Sweet' won Show! Music Core with 7,125 points, its third consecutive week at No. 1 on the program."
+    },
+    "detail": {
+      "ja": "MBC『ショー！音楽中心』で「How Sweet」が7,125点で1位を獲得した。1位候補はaespa「Armageddon」（5,678点）、IVE「HEYA」と「How Sweet」。6月8日、15日に続く同番組3週連続の1位。",
+      "en": "'How Sweet' won first place on MBC's Show! Music Core with 7,125 points, ahead of aespa's 'Armageddon' (5,678) and IVE's 'HEYA'. It was the song's third consecutive win on the program, following June 8 and 15."
+    },
+    "source_url": "https://imbbs.imbc.com/v2/view.aspx?bid=chart_ranking&list_id=7139560&page=1&list_use=1",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2024)",
+      "https://en.wikipedia.org/wiki/How_Sweet"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "credits": {
+      "broadcaster": "MBC",
+      "program": "Show! Music Core"
+    },
+    "tags": [
+      "music-show",
+      "win"
+    ],
+    "verified": true,
+    "editor_note": "MBC official chart post '2024년 6월 22일 음악중심 차트' (posted 2024-06-24): 1 NewJeans How Sweet 7,125; 2 aespa Armageddon 5,678; 3 IVE HEYA 4,093. Appearance on the day not confirmed; no stage described."
+  },
+  {
     "id": "tv-2024-06-22-with-music",
     "date": "2024-06-22",
     "date_type": "broadcast",
@@ -5227,9 +5439,11 @@
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
+      "https://programs.sbs.co.kr/programTemplate/amp/vod/2024sbsgayosummer/22000535062",
       "https://www.youtube.com/watch?v=5Tsp_Lj0qy4",
       "https://www.youtube.com/watch?v=RNRMCYCYc_w",
-      "https://www.youtube.com/watch?v=5OwvrCEf75E"
+      "https://www.youtube.com/watch?v=5OwvrCEf75E",
+      "https://www.ajunews.com/view/20240721171710042"
     ],
     "media": {
       "type": "youtube",
@@ -5239,7 +5453,7 @@
       "year-end",
       "special"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "『2024 SBS歌謡大典』夏編は7月21日に仁川のINSPIREアリーナで開かれ、7月26日にSBSで放送された。司会はNCTのドヨン、TOMORROW X TOGETHERのヨンジュン、IVEのアン・ユジン。初めて夏と冬の2回に分けて開催された年の夏編で、NewJeansは「How Sweet」と「Supernatural」を披露した。",
       "en": "The 2024 SBS Gayo Daejeon Summer was held at Inspire Arena in Incheon on July 21 and broadcast on SBS on July 26, hosted by Doyoung (NCT), Yeonjun (Tomorrow X Together) and An Yu-jin (Ive). It was the summer half of the first year the show was split into summer and winter editions, and NewJeans performed 'How Sweet' and 'Supernatural'."
@@ -5249,7 +5463,7 @@
       "venue": "Inspire Arena, Incheon",
       "host": "Doyoung, Yeonjun, An Yu-jin"
     },
-    "editor_note": "Date conflict: the SBS Gayo Daejeon article (en.wikipedia) and the live record's editor note give July 21, 2024 as the event and live-broadcast date; the July 24 date comes only from the en.wikipedia live-performance list. Record date likely should be 2024-07-21. | date moved from 2024-07-24 to 2024-07-21 per SBS article (id renamed) / 公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) – Intro + How Sweet + Supernatural @가요대전 썸머 GayoDaejeon Summer 20240726」(2024-07-26); 関連3本をreference_urlsに記載 / date moved to broadcast date 2024-07-26 per the broadcaster's official upload (was tv-2024-07-21-sbs-gayo-daejeon-summer-2024)",
+    "editor_note": "Date conflict: the SBS Gayo Daejeon article (en.wikipedia) and the live record's editor note give July 21, 2024 as the event and live-broadcast date; the July 24 date comes only from the en.wikipedia live-performance list. Record date likely should be 2024-07-21. | date moved from 2024-07-24 to 2024-07-21 per SBS article (id renamed) / 公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) – Intro + How Sweet + Supernatural @가요대전 썸머 GayoDaejeon Summer 20240726」(2024-07-26); 関連3本をreference_urlsに記載 / date moved to broadcast date 2024-07-26 per the broadcaster's official upload (was tv-2024-07-21-sbs-gayo-daejeon-summer-2024) / 2026-10-17 review: SBS program page '2024 SBS 가요대전 SUMMER 1회' lists 방송일 2024.07.26; event held 2024-07-21 at Inspire Arena (Ajunews blue-carpet report). en.wikipedia live list's July 24 is unsupported by any source.",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=sP9U-kJWaYU"
     }
@@ -5854,7 +6068,9 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://realsound.jp/2024/12/post-1866933.html",
+      "https://thetv.jp/program/0000979177/135/"
     ],
     "media": {
       "type": "none"
@@ -5863,8 +6079,8 @@
       "japan-tv",
       "year-end"
     ],
-    "verified": false,
-    "editor_note": "ja.wikipedia gives Dec 16 (Monday, CDTV's regular slot); en.wikipedia lists Dec 12. Dec 16 used. | Dec 16 date confirmed by TBS listing and Real Sound (Dec 2024). / 公式YouTube動画なし: CDTV official channel has no NewJeans clip for the 2024-12-16 Christmas SP",
+    "verified": true,
+    "editor_note": "ja.wikipedia gives Dec 16 (Monday, CDTV's regular slot); en.wikipedia lists Dec 12. Dec 16 used. | Dec 16 date confirmed by TBS listing and Real Sound (Dec 2024). / 公式YouTube動画なし: CDTV official channel has no NewJeans clip for the 2024-12-16 Christmas SP / 2026-10-17 review: WEBザテレビジョン listing (CDTVライブ！ライブ！クリスマスSP, 2024年12月16日 TBS, NewJeans 出演) and Real Sound (2024-12-09: 放送日時 2024年12月16日（月）18:30～22:57; NewJeans 'Supernatural' and 'OMG' full size in 出張ライブ！ライブ！). en.wikipedia's Dec 12 is not supported (possibly the location-shoot date; unconfirmed). TBS's own episode page no longer exists (404).",
     "detail": {
       "ja": "18時30分から22時57分までTBS系で放送された『CDTVライブ！ライブ！ クリスマスSP』に出演し、「出張ライブ！ライブ！」の企画で「Supernatural」と「OMG」をそれぞれフルサイズで披露した。全37組が出演する約4時間半の特番だった。",
       "en": "NewJeans appeared on TBS's CDTV Live! Live! Christmas SP, broadcast from 6:30 to 10:57 pm, performing full-length versions of 'Supernatural' and 'OMG' in the 'Shuccho Live! Live!' location segment. The roughly four-and-a-half-hour special featured 37 acts."
@@ -6160,6 +6376,7 @@
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
       "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://v.daum.net/v/20241203102216824",
       "https://www.youtube.com/watch?v=V5XBLmVaRqk",
       "https://www.youtube.com/watch?v=PhMzwDEmX-0",
       "https://www.youtube.com/watch?v=_Yyri9yXMBo"
@@ -6172,8 +6389,8 @@
       "award-show",
       "japan"
     ],
-    "verified": false,
-    "editor_note": "Still under the NewJeans name; the NJZ rebrand was announced Feb 7, 2025. | Date note: en.wikipedia (39th GDA) places the NewJeans performance on day one, January 4, 2025; the record is dated January 5. ja.wikipedia also lists Jan 4. Consider moving to 2025-01-04. | date moved from 2025-01-05 to 2025-01-04 per enrichment sources (id tv-2025-01-05-golden-disc-awards-39 -> tv-2025-01-04-golden-disc-awards-39) / 公式動画: Golden Disc「[제39회 골든디스크] NewJeans (뉴진스) - 'Intro + Supernatural (Attention Mix) + How Sweet' ♪ | JTBC 250106 방송」(2025-01-05); 関連3本をreference_urlsに記載 / date moved to broadcast date 2025-01-06 per the broadcaster's official upload (was tv-2025-01-04-golden-disc-awards-39)",
+    "verified": true,
+    "editor_note": "Still under the NewJeans name; the NJZ rebrand was announced Feb 7, 2025. | Date note: en.wikipedia (39th GDA) places the NewJeans performance on day one, January 4, 2025; the record is dated January 5. ja.wikipedia also lists Jan 4. Consider moving to 2025-01-04. | date moved from 2025-01-05 to 2025-01-04 per enrichment sources (id tv-2025-01-05-golden-disc-awards-39 -> tv-2025-01-04-golden-disc-awards-39) / 公式動画: Golden Disc「[제39회 골든디스크] NewJeans (뉴진스) - 'Intro + Supernatural (Attention Mix) + How Sweet' ♪ | JTBC 250106 방송」(2025-01-05); 関連3本をreference_urlsに記載 / date moved to broadcast date 2025-01-06 per the broadcaster's official upload (was tv-2025-01-04-golden-disc-awards-39) / 2026-10-17 review: ceremony Jan 4-5, 2025 at PayPay Dome; NewJeans were on the Jan 4 (day 1) lineup (MyDaily via Daum, 2024-12-03; planned JTBC2/JTBC4 live 6 pm). Broadcast date 2025-01-06 confirmed by the official Golden Disc YouTube upload uws0tDw3yCo titled 'JTBC 250106 방송'. en.wikipedia's Jan 5 is day 2, not NewJeans' day. No change to date.",
     "detail": {
       "ja": "福岡のみずほPayPayドーム福岡で1月4日と5日に開かれた第39回ゴールデンディスクアワードで、「How Sweet」によりデジタル音源部門本賞を受賞し、コスモポリタン・アーティスト賞（YUQIと同時受賞）も受けた。「How Sweet」はデジタル音源大賞にもノミネート。NewJeansは1月4日の初日にイントロ、「Supernatural（Attention mix）」「How Sweet」を披露した。司会はソン・シギョン、チャ・ウヌ、ムン・ガヨン。チェジュ航空機事故を受けてJTBCの生中継は見送られ、放送は1月6日と7日に行われた。",
       "en": "At the 39th Golden Disc Awards, held on January 4 and 5 at Mizuho PayPay Dome Fukuoka, NewJeans won a Digital Song Bonsang for 'How Sweet', which was also nominated for the Digital Daesang, and the Cosmopolitan Artist Award shared with Yuqi. They performed on day one, January 4, with an intro, 'Supernatural' (Attention mix) and 'How Sweet'. Sung Si-kyung, Cha Eun-woo and Moon Ga-young hosted. After the Jeju Air crash, JTBC's live broadcast was replaced by a recorded airing on January 6 and 7."
