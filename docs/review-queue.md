@@ -16,3 +16,11 @@
 | 2026-10-17 | record-2023-12-30-japan-record-awards-65 | 受賞発表は 2023-11-22（式典日は維持） | 未確認 |
 | 2026-10-17 | live-2022-10-15-kcon-2022-japan | MC にミンジを含めるか未確認（en Wikipedia は 2023 と記載） | 未確認 |
 | 2026-10-17 | ad-2022-09-21-hyein-diesel-hannam ほか5件（Hanni Chaumet、Danielle Burberry、Haerin Dior HK、Danielle YSL、Danielle Omega） | 2026-10-16 方針では登壇イベントは live。ad のまま置くか live に移すか | 未決 |
+| 2026-10-17 | magazine-2022-08-20-elle-korea-super-elle-2022-09 ほか日付違い8件（gq-korea-comme-des-garcons 09-23、w-korea-seoul-jazz-festival-2023-minji 05-14、w-korea-2023-07-danielle-omega 06-15/06-19、v-magazine-v143-cover 06-26、harpers-bazaar-korea-hanni-armani 09-08、esquire-korea-danielle-celine 10-11、marie-claire-korea-2024-03-hanni-chaumet 02-29、harpers-bazaar-korea-2024-09-minji 09-10） | namu/公式投稿の公開日とレコード日付が数日違う | 未確認 |
+| 2026-10-17 | magazine 1日違い8件（vogue-korea-hanni 09-27、esquire-minji 11-08、allure-danielle 11-16、vogue-hong-kong-haerin 11-30、marie-claire-minji 12-01、harpers-bazaar-minji 2024-01-04、harpers-bazaar-haerin 2024-05-03、w-korea-seoul-jazz-festival-2024 05-31） | 時差・公開時刻の差の可能性。KST基準で統一するか確認 | 未確認 |
+| 2026-10-17 | ad-2022-10-11-shinhan-bank-new-sol-model / ad-2023-02-27-mcdonalds-korea-model / ad-2023-02-22-seoul-fashion-week-ambassador | namu 10-20 / fandom 02-24 / namu 02-25 | 未確認 |
+| 2026-10-17 | magazine-2023-06-15-w-korea-vol7-hanni | タイトルが「June 2023」だがVol.7は7月号 | 未確認 |
+| 2026-10-17 | magazine-2024-05-01-elle-korea-2024-05-d-edition-minji | namuは2024年3月デジタルカバー（2024-03-29公開） | 未確認 |
+| 2026-10-17 | magazine-2024-02-01-elle-japon-2024-02-haerin | source_urlが2025年号のtower.jp記事 | 未確認 |
+| 2026-10-17 | magazine-2023-03-20-vogue-korea-danielle-ysl-beauty | Vogue記事はYSL Beauty、namuは同日をBurberryと記載 | 未確認 |
+| 2026-10-17 | 月精度のad 7件（olens→2023-03-01、lotte-itagum-japan-cm→2023-10-16、musinsa-global-ambassador→2022-10-05、megastudy-megapass-cm→2022-10-13、5252-by-oioi-22fw→2022-10-11、skt-0-iphone-14-pro-cm→2022-09-30、krafton-pubg-collab→2024-06-12） | 一覧ページでは日付が特定できる。確認のうえ日精度に変更 | 未確認 |

@@ -1,0 +1,851 @@
+{
+ "name": "discography",
+ "category": "music",
+ "scope": "NewJeans（NJZ名義期を含む）とメンバー個人の音源リリース全件（EP・シングルアルバム・デジタルシングル・日本シングル・OST・客演・リミックス・ソロ曲・先行公開曲、未発表の公式披露曲、EP初回CD）と、それらの公式MV・MVパフォーマンス版・パフォーマンスビデオ・スペシャルビデオ（note=\"mv\"、mvセクションに対応）。ティザー・ダンス練習・ステージカム・Shortsは含めない。",
+ "source": "https://en.wikipedia.org/wiki/NewJeans_discography, https://en.wikipedia.org/wiki/NewJeans_videography, https://ja.wikipedia.org/wiki/NewJeans#ディスコグラフィ, https://namu.wiki/w/NewJeans/음반 (mirror namu.moe), https://kpop.fandom.com/wiki/NewJeans#Discography, https://www.youtube.com/@HYBELABELS, https://www.youtube.com/@NewJeans_official, https://en.wikipedia.org/wiki/Danielle_(singer), https://en.wikipedia.org/wiki/Hyein",
+ "fetched": "2026-10-17",
+ "match": "manual",
+ "items": [
+  {
+   "key": "attention-official-mv-2022-07-22",
+   "date": "2022-07-22",
+   "title": "'Attention' Official MV",
+   "url": "https://www.youtube.com/watch?v=js1CtxSY38I",
+   "record": "mv-2022-07-22-attention-official-mv",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "attention-official-mv-performance-ver-2022-07-22",
+   "date": "2022-07-22",
+   "title": "'Attention' Official MV (Performance ver.)",
+   "url": "https://www.youtube.com/watch?v=x8RIixqumUc",
+   "record": "mv-2022-07-22-attention-official-mv-performance-ver",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "hype-boy-official-mv-danielle-haerin-ver-2022-07-23",
+   "date": "2022-07-23",
+   "title": "'Hype Boy' Official MV (DANIELLE&HAERIN ver.)",
+   "url": "https://www.youtube.com/watch?v=9wUKhEgnllc",
+   "record": "mv-2022-07-23-hype-boy-danielle-haerin-ver",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "hype-boy-official-mv-hanni-ver-2022-07-23",
+   "date": "2022-07-23",
+   "title": "'Hype Boy' Official MV (HANNI ver.)",
+   "url": "https://www.youtube.com/watch?v=jM-K-h9gUdM",
+   "record": "mv-2022-07-23-hype-boy-hanni-ver",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "hype-boy-official-mv-hyein-ver-2022-07-23",
+   "date": "2022-07-23",
+   "title": "'Hype Boy' Official MV (HYEIN ver.)",
+   "url": "https://www.youtube.com/watch?v=j6r7Px6w2ik",
+   "record": "mv-2022-07-23-hype-boy-hyein-ver",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "hype-boy-official-mv-intro-2022-07-23",
+   "date": "2022-07-23",
+   "title": "'Hype Boy' Official MV (Intro)",
+   "url": "https://www.youtube.com/watch?v=SHYWqy_X-tU",
+   "record": "mv-2022-07-23-hype-boy-intro",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "hype-boy-official-mv-minji-ver-2022-07-23",
+   "date": "2022-07-23",
+   "title": "'Hype Boy' Official MV (MINJI ver.)",
+   "url": "https://www.youtube.com/watch?v=Rrf8uQFvICE",
+   "record": "mv-2022-07-23-hype-boy-minji-ver",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "hurt-official-mv-2022-07-25",
+   "date": "2022-07-25",
+   "title": "'Hurt' Official MV",
+   "url": "https://www.youtube.com/watch?v=tVIXY14aJms",
+   "record": "mv-2022-07-25-hurt-official-mv",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "attention-2022-08-01",
+   "date": "2022-08-01",
+   "title": "Attention",
+   "url": "https://music.apple.com/kr/album/newjeans-1st-ep-new-jeans/1635469682",
+   "record": "music-2022-08-01-attention-debut-single",
+   "exclude": null,
+   "note": "MVは2022-07-22にサプライズ公開。音源配信はEP発売日の2022-08-01"
+  },
+  {
+   "key": "cookie-2022-08-01",
+   "date": "2022-08-01",
+   "title": "Cookie",
+   "url": "https://music.apple.com/kr/album/newjeans-1st-ep-new-jeans/1635469682",
+   "record": "music-2022-08-01-cookie",
+   "exclude": null
+  },
+  {
+   "key": "cookie-official-mv-2022-08-01",
+   "date": "2022-08-01",
+   "title": "'Cookie' Official MV",
+   "url": "https://www.youtube.com/watch?v=VOmIplFAGeg",
+   "record": "mv-2022-08-01-cookie-official-mv",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "hurt-2022-08-01",
+   "date": "2022-08-01",
+   "title": "Hurt (1st EP track)",
+   "url": "https://music.apple.com/kr/album/newjeans-1st-ep-new-jeans/1635469682",
+   "record": "music-2022-08-01-new-jeans-ep",
+   "exclude": null,
+   "note": "EP収録曲。単独レコードなし、EPレコードでカバー。MVは2022-07-25"
+  },
+  {
+   "key": "hype-boy-2022-08-01",
+   "date": "2022-08-01",
+   "title": "Hype Boy",
+   "url": "https://music.apple.com/kr/album/newjeans-1st-ep-new-jeans/1635469682",
+   "record": "music-2022-08-01-hype-boy",
+   "exclude": null,
+   "note": "MVは2022-07-23公開"
+  },
+  {
+   "key": "new-jeans-ep-2022-08-01",
+   "date": "2022-08-01",
+   "title": "1st EP 'New Jeans'",
+   "url": "https://music.apple.com/kr/album/newjeans-1st-ep-new-jeans/1635469682",
+   "record": "music-2022-08-01-new-jeans-ep",
+   "exclude": null
+  },
+  {
+   "key": "new-jeans-ep-physical-2022-08-08",
+   "date": "2022-08-08",
+   "title": "1st EP 'New Jeans' physical release (Bluebook / Bag / Weverse Albums ver.)",
+   "url": "https://en.wikipedia.org/wiki/New_Jeans_(EP)",
+   "record": "goods-2022-07-25-new-jeans-1st-ep-bluebook-ver",
+   "exclude": null,
+   "note": "CD発売日2022-08-08（en.wikipedia）。goodsレコードは予約開始日07-25で版別（bag-ver, weverse-albums-verも） | covering record (goods) dated 2022-07-25"
+  },
+  {
+   "key": "hype-boy-special-performance-video-2022-08-13",
+   "date": "2022-08-13",
+   "title": "'Hype Boy' Special Performance Video",
+   "url": "https://www.youtube.com/watch?v=Gw2jHej29QE",
+   "record": "mv-2022-08-13-hype-boy-special-performance-video",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "hurt-special-video-2022-08-17",
+   "date": "2022-08-17",
+   "title": "'Hurt' Special Video",
+   "url": "https://www.youtube.com/watch?v=-L7eMf6Yf84",
+   "record": "mv-2022-08-17-hurt-special-video",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "hype-boy-official-mv-performance-ver-1-2022-08-18",
+   "date": "2022-08-18",
+   "title": "'Hype Boy' Official MV (Performance ver.1)",
+   "url": "https://www.youtube.com/watch?v=11cta61wi0g",
+   "record": "mv-2022-08-18-hype-boy-official-mv-performance-ver-1",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "hype-boy-official-mv-performance-ver-2-2022-08-24",
+   "date": "2022-08-24",
+   "title": "'Hype Boy' Official MV (Performance ver.2)",
+   "url": "https://www.youtube.com/watch?v=S4UEJePR0UE",
+   "record": "mv-2022-08-24-hype-boy-official-mv-performance-ver-2",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "ditto-2022-12-19",
+   "date": "2022-12-19",
+   "title": "Ditto (pre-release single)",
+   "url": "https://music.apple.com/kr/album/ditto-single/1657231957",
+   "record": "music-2022-12-19-ditto",
+   "exclude": null
+  },
+  {
+   "key": "ditto-official-mv-side-a-2022-12-19",
+   "date": "2022-12-19",
+   "title": "'Ditto' Official MV (side A)",
+   "url": "https://www.youtube.com/watch?v=pSUydWEqKwE",
+   "record": "mv-2022-12-19-ditto-official-mv-side-a",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "ditto-official-mv-side-b-2022-12-19",
+   "date": "2022-12-19",
+   "title": "'Ditto' Official MV (side B)",
+   "url": "https://www.youtube.com/watch?v=V37TaRdVUQY",
+   "record": "mv-2022-12-19-ditto-official-mv-side-b",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "hurt-250-remix-special-video-2022-12-28",
+   "date": "2022-12-28",
+   "title": "'Hurt (250 Remix)' Special Video",
+   "url": "https://www.youtube.com/watch?v=uONSk48LW1A",
+   "record": "mv-2022-12-28-hurt-250-remix-special-video",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "ditto-performance-video-2022-12-30",
+   "date": "2022-12-30",
+   "title": "'Ditto' Performance Video",
+   "url": "https://www.youtube.com/watch?v=Km71Rr9K-Bw",
+   "record": "mv-2022-12-30-ditto-performance-video",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "ditto-performance-video-danielle-ver-2022-12-31",
+   "date": "2022-12-31",
+   "title": "'Ditto' Performance Video (DANIELLE ver.)",
+   "url": "https://www.youtube.com/watch?v=YJ76c3QQ0Yo",
+   "record": "mv-2022-12-31-ditto-performance-danielle-ver",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "ditto-performance-video-fix-ver-2022-12-31",
+   "date": "2022-12-31",
+   "title": "'Ditto' Performance Video (Fix ver.)",
+   "url": "https://www.youtube.com/watch?v=QJPk1K1QF-U",
+   "record": "mv-2022-12-31-ditto-performance-fix-ver",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "ditto-performance-video-haerin-ver-2022-12-31",
+   "date": "2022-12-31",
+   "title": "'Ditto' Performance Video (HAERIN ver.)",
+   "url": "https://www.youtube.com/watch?v=YuUYjG8lO4E",
+   "record": "mv-2022-12-31-ditto-performance-haerin-ver",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "ditto-performance-video-hanni-ver-2022-12-31",
+   "date": "2022-12-31",
+   "title": "'Ditto' Performance Video (HANNI ver.)",
+   "url": "https://www.youtube.com/watch?v=_nTXZuR_Cs0",
+   "record": "mv-2022-12-31-ditto-performance-hanni-ver",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "ditto-performance-video-hyein-ver-2022-12-31",
+   "date": "2022-12-31",
+   "title": "'Ditto' Performance Video (HYEIN ver.)",
+   "url": "https://www.youtube.com/watch?v=nprwN0QhgnI",
+   "record": "mv-2022-12-31-ditto-performance-hyein-ver",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "ditto-performance-video-minji-ver-2022-12-31",
+   "date": "2022-12-31",
+   "title": "'Ditto' Performance Video (MINJI ver.)",
+   "url": "https://www.youtube.com/watch?v=sUz5DERlAok",
+   "record": "mv-2022-12-31-ditto-performance-minji-ver",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "omg-2023-01-02",
+   "date": "2023-01-02",
+   "title": "OMG",
+   "url": "https://music.apple.com/kr/album/newjeans-omg-single/1659513441",
+   "record": "music-2023-01-02-omg",
+   "exclude": null
+  },
+  {
+   "key": "omg-official-mv-2023-01-02",
+   "date": "2023-01-02",
+   "title": "'OMG' Official MV",
+   "url": "https://www.youtube.com/watch?v=_ZAgIHmHLdc",
+   "record": "mv-2023-01-02-omg-official-mv",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "omg-single-album-2023-01-02",
+   "date": "2023-01-02",
+   "title": "1st single album 'OMG'",
+   "url": "https://music.apple.com/kr/album/newjeans-omg-single/1659513441",
+   "record": "music-2023-01-02-omg-single-album",
+   "exclude": null,
+   "note": "CD（Message Card ver./Weverse Albums ver.）も同日発売。goods-2022-12-12-omg-message-card-ver"
+  },
+  {
+   "key": "omg-official-mv-performance-ver-1-2023-01-03",
+   "date": "2023-01-03",
+   "title": "'OMG' Official MV (Performance ver.1)",
+   "url": "https://www.youtube.com/watch?v=sVTy_wmn5SU",
+   "record": "mv-2023-01-03-omg-official-mv-performance-ver-1",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "omg-official-mv-performance-ver-2-2023-01-03",
+   "date": "2023-01-03",
+   "title": "'OMG' Official MV (Performance ver.2)",
+   "url": "https://www.youtube.com/watch?v=dgKui19_rU0",
+   "record": "mv-2023-01-03-omg-official-mv-performance-ver-2",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "omg-official-mv-performance-ver-3-2023-01-04",
+   "date": "2023-01-04",
+   "title": "'OMG' Official MV (Performance ver.3)",
+   "url": "https://www.youtube.com/watch?v=eKZzOcgN4AI",
+   "record": "mv-2023-01-04-omg-official-mv-performance-ver-3",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "omg-performance-video-danielle-ver-2023-01-08",
+   "date": "2023-01-08",
+   "title": "'OMG' Performance Video (DANIELLE ver.)",
+   "url": "https://www.youtube.com/watch?v=DoVvF2LVAPk",
+   "record": "mv-2023-01-08-omg-performance-danielle-ver",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "omg-performance-video-fix-ver-2023-01-08",
+   "date": "2023-01-08",
+   "title": "'OMG' Performance Video (Fix ver.)",
+   "url": "https://www.youtube.com/watch?v=m3sM0zIG1jY",
+   "record": "mv-2023-01-08-omg-performance-fix-ver",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "omg-performance-video-haerin-ver-2023-01-08",
+   "date": "2023-01-08",
+   "title": "'OMG' Performance Video (HAERIN ver.)",
+   "url": "https://www.youtube.com/watch?v=BTwAFikXV_o",
+   "record": "mv-2023-01-08-omg-performance-haerin-ver",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "omg-performance-video-hanni-ver-2023-01-08",
+   "date": "2023-01-08",
+   "title": "'OMG' Performance Video (HANNI ver.)",
+   "url": "https://www.youtube.com/watch?v=h4RI18NeN6g",
+   "record": "mv-2023-01-08-omg-performance-hanni-ver",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "omg-performance-video-hyein-ver-2023-01-08",
+   "date": "2023-01-08",
+   "title": "'OMG' Performance Video (HYEIN ver.)",
+   "url": "https://www.youtube.com/watch?v=bXjM1nFMxr8",
+   "record": "mv-2023-01-08-omg-performance-hyein-ver",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "omg-performance-video-minji-ver-2023-01-08",
+   "date": "2023-01-08",
+   "title": "'OMG' Performance Video (MINJI ver.)",
+   "url": "https://www.youtube.com/watch?v=F4yf9J9Ea5g",
+   "record": "mv-2023-01-08-omg-performance-minji-ver",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "zero-2023-04-03",
+   "date": "2023-04-03",
+   "title": "Zero (Coca-Cola Zero Sugar campaign song)",
+   "url": "https://music.apple.com/kr/album/zero-single/1678545730",
+   "record": "music-2023-04-03-zero",
+   "exclude": null
+  },
+  {
+   "key": "zero-official-mv-2023-04-03",
+   "date": "2023-04-03",
+   "title": "'Zero' Official MV",
+   "url": "https://www.youtube.com/watch?v=XIOoqJyx8E4",
+   "record": "mv-2023-04-03-zero-official-mv",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "zero-performance-video-2023-04-10",
+   "date": "2023-04-10",
+   "title": "'Zero' Performance Video",
+   "url": "https://www.youtube.com/watch?v=DrNtuAgwWgQ",
+   "record": "mv-2023-04-10-zero-performance-video",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "the-little-mermaid-korean-ost-2023-05-01",
+   "date": "2023-05-01",
+   "title": "The Little Mermaid (Korean Original Motion Picture Soundtrack) - Danielle as Ariel",
+   "url": "https://www.last.fm/music/Danielle/_/Part+of+Your+World/+albums",
+   "record": null,
+   "exclude": null,
+   "note": "韓国語版サントラ全体（Last.fmで15曲版5/22・デラックス版5/26の記載）。ダニエル歌唱の収録曲と配信日は要確認（月精度）"
+  },
+  {
+   "key": "part-of-your-world-danielle-2023-05-17",
+   "date": "2023-05-17",
+   "title": "Part of Your World (The Little Mermaid Korean soundtrack ver.) - Danielle",
+   "url": "https://music.apple.com/kr/album/part-of-your-world-from-the-little-mermaid/1688078623",
+   "record": "music-2023-05-17-danielle-part-of-your-world",
+   "exclude": null,
+   "note": "18:00 KST配信"
+  },
+  {
+   "key": "part-of-your-world-danielle-mv-2023-05-17",
+   "date": "2023-05-17",
+   "title": "'Part of Your World' (The Little Mermaid Korean ver.) MV - Danielle (Disney Music Korea VEVO)",
+   "url": "https://soompi.com/article/1586816wpp/watch-newjeanss-danielle-to-dub-ariel-role-for-the-little-mermaid-film-disney-reveals-part-of-your-world-teasers",
+   "record": null,
+   "exclude": null,
+   "note": "mv | ディズニー・ミュージック・コリアVEVOで公開"
+  },
+  {
+   "key": "be-who-you-are-real-magic-2023-05-31",
+   "date": "2023-05-31",
+   "title": "Be Who You Are (Real Magic) - Jon Batiste feat. NewJeans, J.I.D, Camilo, Cat Burns",
+   "url": "https://www.coca-cola.com/xe/en/media-center/coke-studio-second-season-jon-batiste-new-anthem",
+   "record": "music-2023-05-31-be-who-you-are-real-magic",
+   "exclude": null,
+   "note": "Coca-Colaの発表は米国5/31付（KSTでは6/1の可能性）"
+  },
+  {
+   "key": "be-who-you-are-real-magic-mv-2023-05-31",
+   "date": "2023-05-31",
+   "title": "'Be Who You Are (Real Magic)' Official Music Video (Coke Studio)",
+   "url": "https://www.coca-cola.com/xe/en/media-center/coke-studio-second-season-jon-batiste-new-anthem",
+   "record": null,
+   "exclude": null,
+   "note": "mv | Coke Studio公式チャンネル。米国5/31公開"
+  },
+  {
+   "key": "zero-jid-remix-2023-06-21",
+   "date": "2023-06-21",
+   "title": "Zero (J.I.D Remix)",
+   "url": "https://www.melon.com/album/detail.htm?albumId=11269317",
+   "record": "music-2023-06-21-zero-j-i-d-remix",
+   "exclude": null,
+   "note": "en.wikipediaは配信を2023-06-20（米国時間）と記載"
+  },
+  {
+   "key": "zero-jid-remix-mv-2023-06-21",
+   "date": "2023-06-21",
+   "title": "'Zero (J.I.D Remix)' Music Video",
+   "url": "https://www.youtube.com/watch?v=akUtjUv1TlA",
+   "record": null,
+   "exclude": null,
+   "note": "mv | en.wikipedia Zero記事（MVは6/21公開）"
+  },
+  {
+   "key": "new-jeans-official-mv-2023-07-07",
+   "date": "2023-07-07",
+   "title": "'New Jeans' Official MV",
+   "url": "https://www.youtube.com/watch?v=kcelgrGY1h8",
+   "record": "mv-2023-07-07-new-jeans-official-mv",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "new-jeans-song-2023-07-07",
+   "date": "2023-07-07",
+   "title": "New Jeans (pre-release single)",
+   "url": "https://music.apple.com/kr/album/newjeans-super-shy-single/1692686264",
+   "record": "music-2023-07-07-new-jeans-song",
+   "exclude": null
+  },
+  {
+   "key": "super-shy-2023-07-07",
+   "date": "2023-07-07",
+   "title": "Super Shy (pre-release single)",
+   "url": "https://music.apple.com/kr/album/newjeans-super-shy-single/1692686264",
+   "record": "music-2023-07-07-super-shy",
+   "exclude": null
+  },
+  {
+   "key": "super-shy-official-mv-2023-07-07",
+   "date": "2023-07-07",
+   "title": "'Super Shy' Official MV",
+   "url": "https://www.youtube.com/watch?v=ArmDp-zijuc",
+   "record": "mv-2023-07-07-super-shy-official-mv",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "cool-with-you-get-up-official-mv-side-b-2023-07-20",
+   "date": "2023-07-20",
+   "title": "'Cool With You' & 'Get Up' Official MV (side B)",
+   "url": "https://www.youtube.com/watch?v=nJDMAjwxthM",
+   "record": "mv-2023-07-20-cool-with-you-get-up-official-mv-side-b",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "cool-with-you-official-mv-side-a-2023-07-20",
+   "date": "2023-07-20",
+   "title": "'Cool With You' Official MV (side A)",
+   "url": "https://www.youtube.com/watch?v=zsYSSVoQnP4",
+   "record": "mv-2023-07-20-cool-with-you-official-mv-side-a",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "asap-2023-07-21",
+   "date": "2023-07-21",
+   "title": "ASAP (2nd EP track)",
+   "url": "https://music.apple.com/kr/album/newjeans-2nd-ep-get-up/1695951888",
+   "record": "music-2023-07-21-get-up-ep",
+   "exclude": null,
+   "note": "EP収録曲。単独レコードなし、EPレコードでカバー。MVは2023-07-26"
+  },
+  {
+   "key": "cool-with-you-2023-07-21",
+   "date": "2023-07-21",
+   "title": "Cool With You",
+   "url": "https://music.apple.com/kr/album/newjeans-2nd-ep-get-up/1695951888",
+   "record": "music-2023-07-21-cool-with-you",
+   "exclude": null
+  },
+  {
+   "key": "cool-with-you-official-mv-performance-ver-2023-07-21",
+   "date": "2023-07-21",
+   "title": "'Cool With You' Official MV (Performance ver.)",
+   "url": "https://www.youtube.com/watch?v=kKsivrgoyDw",
+   "record": "mv-2023-07-21-cool-with-you-official-mv-performance-ver",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "eta-2023-07-21",
+   "date": "2023-07-21",
+   "title": "ETA",
+   "url": "https://music.apple.com/kr/album/newjeans-2nd-ep-get-up/1695951888",
+   "record": "music-2023-07-21-eta",
+   "exclude": null
+  },
+  {
+   "key": "eta-official-mv-2023-07-21",
+   "date": "2023-07-21",
+   "title": "'ETA' Official MV (shot on iPhone 14 Pro)",
+   "url": "https://www.youtube.com/watch?v=jOTfBlKSQYY",
+   "record": "mv-2023-07-21-eta-official-mv",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "get-up-ep-2023-07-21",
+   "date": "2023-07-21",
+   "title": "2nd EP 'Get Up'",
+   "url": "https://music.apple.com/kr/album/newjeans-2nd-ep-get-up/1695951888",
+   "record": "music-2023-07-21-get-up-ep",
+   "exclude": null,
+   "note": "CD（Bunny Beach Bag ver./Powerpuff Girls x NJ Box ver./Weverse Albums ver.）同日発売"
+  },
+  {
+   "key": "get-up-song-2023-07-21",
+   "date": "2023-07-21",
+   "title": "Get Up (2nd EP track)",
+   "url": "https://music.apple.com/kr/album/newjeans-2nd-ep-get-up/1695951888",
+   "record": "music-2023-07-21-get-up-ep",
+   "exclude": null,
+   "note": "EP収録曲。単独レコードなし、EPレコードでカバー"
+  },
+  {
+   "key": "eta-official-mv-performance-ver-2023-07-25",
+   "date": "2023-07-25",
+   "title": "'ETA' Official MV (Performance ver.)",
+   "url": "https://www.youtube.com/watch?v=s4Ow55AbdCg",
+   "record": "mv-2023-07-25-eta-official-mv-performance-ver",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "asap-official-mv-2023-07-26",
+   "date": "2023-07-26",
+   "title": "'ASAP' Official MV",
+   "url": "https://www.youtube.com/watch?v=dJdqn5v4Dkw",
+   "record": "mv-2023-07-26-asap-official-mv",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "beautiful-restriction-2023-09-01",
+   "date": "2023-09-01",
+   "title": "Beautiful Restriction (A Time Called You OST)",
+   "url": "https://music.apple.com/kr/album/beautiful-restriction-from-a-time-called-you-music/1704145215",
+   "record": "music-2023-09-01-beautiful-restriction",
+   "exclude": null
+  },
+  {
+   "key": "beautiful-restriction-mv-2023-09-01",
+   "date": "2023-09-01",
+   "title": "'Beautiful Restriction' (A Time Called You OST) MV",
+   "url": "https://www.youtube.com/watch?v=rgatpvBpwpU",
+   "record": null,
+   "exclude": null,
+   "note": "mv | ja.wikipedia MV一覧に記載"
+  },
+  {
+   "key": "gods-2023-10-04",
+   "date": "2023-10-04",
+   "title": "GODS (League of Legends Worlds 2023 Anthem)",
+   "url": "https://en.wikipedia.org/wiki/NewJeans_discography",
+   "record": "music-2023-10-04-gods",
+   "exclude": null
+  },
+  {
+   "key": "gods-official-mv-2023-10-04",
+   "date": "2023-10-04",
+   "title": "GODS ft. NewJeans (Official Music Video) | Worlds 2023 Anthem",
+   "url": "https://www.youtube.com/watch?v=C3GouGa0noM",
+   "record": "mv-2023-10-04-gods-ft-newjeans-official-music-video-worlds-2023-anthem",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "our-night-my-demon-ost-2023-11-24",
+   "date": "2023-11-24",
+   "title": "Our Night Is More Beautiful Than Your Day (My Demon OST Part 1)",
+   "url": "https://news.tf.co.kr/read/ogmeta/2055014.htm",
+   "record": "music-2023-11-24-our-night-my-demon-ost",
+   "exclude": null,
+   "note": "11-24 18:00 KST。ja.wikipediaは2024-03-02と記載（誤りの可能性）"
+  },
+  {
+   "key": "attention-250-remix-2023-12-19",
+   "date": "2023-12-19",
+   "title": "Attention (250 Remix) (NJWMX track)",
+   "url": "https://music.apple.com/kr/album/njwmx/1719675892",
+   "record": "music-2023-12-19-njwmx",
+   "exclude": null,
+   "note": "リミックスアルバム収録曲（en.wikipedia Other charted songs）。NJWMXレコードでカバー"
+  },
+  {
+   "key": "cookie-frnk-remix-2023-12-19",
+   "date": "2023-12-19",
+   "title": "Cookie (FRNK Remix) (NJWMX track)",
+   "url": "https://music.apple.com/kr/album/njwmx/1719675892",
+   "record": "music-2023-12-19-njwmx",
+   "exclude": null,
+   "note": "リミックスアルバム収録曲（en.wikipedia Other charted songs）。NJWMXレコードでカバー"
+  },
+  {
+   "key": "ditto-250-remix-2023-12-19",
+   "date": "2023-12-19",
+   "title": "Ditto (250 Remix) (NJWMX track)",
+   "url": "https://music.apple.com/kr/album/njwmx/1719675892",
+   "record": "music-2023-12-19-njwmx",
+   "exclude": null,
+   "note": "リミックスアルバム収録曲（en.wikipedia Other charted songs）。NJWMXレコードでカバー"
+  },
+  {
+   "key": "hurt-250-remix-2023-12-19",
+   "date": "2023-12-19",
+   "title": "Hurt (250 Remix) (NJWMX track)",
+   "url": "https://music.apple.com/kr/album/njwmx/1719675892",
+   "record": "music-2023-12-19-njwmx",
+   "exclude": null,
+   "note": "リミックスアルバム収録曲（en.wikipedia Other charted songs）。NJWMXレコードでカバー"
+  },
+  {
+   "key": "hype-boy-250-remix-2023-12-19",
+   "date": "2023-12-19",
+   "title": "Hype Boy (250 Remix) (NJWMX track)",
+   "url": "https://music.apple.com/kr/album/njwmx/1719675892",
+   "record": "music-2023-12-19-njwmx",
+   "exclude": null,
+   "note": "リミックスアルバム収録曲（en.wikipedia Other charted songs）。NJWMXレコードでカバー"
+  },
+  {
+   "key": "njwmx-2023-12-19",
+   "date": "2023-12-19",
+   "title": "Remix album 'NJWMX'",
+   "url": "https://music.apple.com/kr/album/njwmx/1719675892",
+   "record": "music-2023-12-19-njwmx",
+   "exclude": null
+  },
+  {
+   "key": "omg-frnk-remix-2023-12-19",
+   "date": "2023-12-19",
+   "title": "OMG (FRNK Remix) (NJWMX track)",
+   "url": "https://music.apple.com/kr/album/njwmx/1719675892",
+   "record": "music-2023-12-19-njwmx",
+   "exclude": null,
+   "note": "リミックスアルバム収録曲（en.wikipedia Other charted songs）。NJWMXレコードでカバー"
+  },
+  {
+   "key": "shh-iu-feat-hyein-2024-02-20",
+   "date": "2024-02-20",
+   "title": "Shh.. - IU feat. Hyein, Joe Won-sun (special narration Patti Kim)",
+   "url": "https://en.wikipedia.org/wiki/Hyein",
+   "record": "music-2024-02-20-iu-shh-feat-hyein",
+   "exclude": null,
+   "note": "IU 6th EP The Winning収録"
+  },
+  {
+   "key": "shh-iu-feat-hyein-mv-2024-02-23",
+   "date": "2024-02-23",
+   "title": "IU 'Shh..' MV (feat. Hyein, Joe Won-sun; stars Tang Wei)",
+   "url": "https://www.gmanetwork.com/entertainment/showbiznews/iu-drops-cinematic-music-video-shh/110084",
+   "record": null,
+   "exclude": null,
+   "note": "mv | 公開日は2024-02-23 00:00 KSTとする報道と同日18:00とする報道あり。ヘインは歌唱参加（映像出演は未確認）"
+  },
+  {
+   "key": "bubble-gum-official-mv-2024-04-27",
+   "date": "2024-04-27",
+   "title": "'Bubble Gum' Official MV",
+   "url": "https://www.youtube.com/watch?v=ft70sAYrFyY",
+   "record": "mv-2024-04-27-bubble-gum-official-mv",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "bubble-gum-2024-05-24",
+   "date": "2024-05-24",
+   "title": "Bubble Gum",
+   "url": "https://music.apple.com/kr/album/how-sweet-ep/1744448415",
+   "record": "music-2024-05-24-bubble-gum",
+   "exclude": null,
+   "note": "MVは2024-04-27先行公開"
+  },
+  {
+   "key": "how-sweet-2024-05-24",
+   "date": "2024-05-24",
+   "title": "How Sweet",
+   "url": "https://music.apple.com/kr/album/how-sweet-ep/1744448415",
+   "record": "music-2024-05-24-how-sweet",
+   "exclude": null
+  },
+  {
+   "key": "how-sweet-official-mv-2024-05-24",
+   "date": "2024-05-24",
+   "title": "'How Sweet' Official MV",
+   "url": "https://www.youtube.com/watch?v=Q3K0TOvTOno",
+   "record": "mv-2024-05-24-how-sweet-official-mv",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "how-sweet-performance-video-coke-studio-2024-05-24",
+   "date": "2024-05-24",
+   "title": "'How Sweet' Performance Video | Coke Studio",
+   "url": "https://www.youtube.com/watch?v=Ec0Z1v7jKDQ",
+   "record": "mv-2024-05-24-how-sweet-performance-video-coke-studio",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "how-sweet-single-album-2024-05-24",
+   "date": "2024-05-24",
+   "title": "2nd single album 'How Sweet'",
+   "url": "https://music.apple.com/kr/album/how-sweet-ep/1744448415",
+   "record": "music-2024-05-24-how-sweet-single-album",
+   "exclude": null,
+   "note": "CD（Standard ver./Weverse Albums ver.）同日発売"
+  },
+  {
+   "key": "right-now-official-mv-2024-06-17",
+   "date": "2024-06-17",
+   "title": "'Right Now' Official MV",
+   "url": "https://www.youtube.com/watch?v=m6pTbEz4w3o",
+   "record": "mv-2024-06-17-right-now-official-mv",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "right-now-2024-06-21",
+   "date": "2024-06-21",
+   "title": "Right Now",
+   "url": "https://music.apple.com/kr/album/supernatural-single/1750576829",
+   "record": "music-2024-06-21-right-now",
+   "exclude": null,
+   "note": "MVは2024-06-17先行公開"
+  },
+  {
+   "key": "supernatural-2024-06-21",
+   "date": "2024-06-21",
+   "title": "Supernatural",
+   "url": "https://music.apple.com/kr/album/supernatural-single/1750576829",
+   "record": "music-2024-06-21-supernatural",
+   "exclude": null
+  },
+  {
+   "key": "supernatural-japan-single-2024-06-21",
+   "date": "2024-06-21",
+   "title": "Japan 1st single 'Supernatural'",
+   "url": "https://music.apple.com/jp/album/supernatural-ep/1752131587",
+   "record": "music-2024-06-21-supernatural-japan-single",
+   "exclude": null,
+   "note": "CD（NJ X MURAKAMI Drawstring Bag ver./Cross Bag ver./Weverse Albums ver.）同日"
+  },
+  {
+   "key": "supernatural-official-mv-part-1-2024-06-21",
+   "date": "2024-06-21",
+   "title": "'Supernatural' Official MV (Part.1)",
+   "url": "https://www.youtube.com/watch?v=ZncbtRo7RXs",
+   "record": "mv-2024-06-21-supernatural-official-mv-part-1",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "butterflies-with-you-danielle-2024-06-26",
+   "date": "2024-06-26",
+   "title": "Butterflies (With You) - Danielle (self-written, unreleased; premiered at Bunnies Camp 2024 Tokyo Dome)",
+   "url": "https://en.wikipedia.org/wiki/Danielle_(singer)",
+   "record": null,
+   "exclude": null,
+   "note": "音源未配信。live-2024-06-26-bunnies-camp-2024-tokyo-domeで初披露（韓国報道）。en.wikipediaの作詞作曲クレジット表に記載"
+  },
+  {
+   "key": "supernatural-official-mv-part-2-2024-07-05",
+   "date": "2024-07-05",
+   "title": "'Supernatural' Official MV (Part.2)",
+   "url": "https://www.youtube.com/watch?v=A4S8zl50AdM",
+   "record": "mv-2024-07-05-supernatural-official-mv-part-2",
+   "exclude": null,
+   "note": "mv"
+  },
+  {
+   "key": "pit-stop-2025-03-23",
+   "date": "2025-03-23",
+   "title": "Pit Stop (unreleased; performed by NJZ at ComplexCon Hong Kong)",
+   "url": "https://en.wikipedia.org/wiki/NewJeans",
+   "record": "music-2025-03-23-pit-stop",
+   "exclude": null,
+   "note": "未発表曲。NJZ名義、仮処分後の公演"
+  }
+ ]
+}

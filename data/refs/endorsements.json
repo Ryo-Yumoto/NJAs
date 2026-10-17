@@ -1,0 +1,960 @@
+{
+ "name": "endorsements",
+ "category": "ad",
+ "scope": "NewJeans（NJZ名義期を含む）とメンバー個人のブランド起用・アンバサダー就任・広告（CM・キャンペーン）・公的機関の広報大使・ブランドコラボの全件。就任発表とキャンペーン公開は別項目。購入可能な商品はgoodsレコードでカバーされる場合あり。デビュー前のオーディション告知は含めない。",
+ "source": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4 (mirror namu.moe; 광고 목록・홍보대사 목록・콜라보레이션 목록), https://namu.wiki/w/민지(NewJeans), https://namu.wiki/w/하니(NewJeans), https://namu.wiki/w/해린, https://namu.wiki/w/혜인, https://en.wikipedia.org/wiki/NewJeans#Endorsements, https://en.wikipedia.org/wiki/NewJeans_videography#Commercials, https://ja.wikipedia.org/wiki/NewJeans#広告, https://kpop.fandom.com/wiki/NewJeans#Endorsements, https://kpop.fandom.com/wiki/Danielle_(NewJeans), member en.wikipedia articles, brand press",
+ "fetched": "2026-10-17",
+ "match": "manual",
+ "items": [
+  {
+   "key": "hyein-diesel-2022-09-21-hannam-opening",
+   "date": "2022-09-21",
+   "title": "Hyein attends Diesel Hannam store opening",
+   "url": "https://v.daum.net/v/20220926220004759",
+   "record": "ad-2022-09-21-hyein-diesel-hannam-opening",
+   "exclude": null,
+   "note": "既存レコードの出典のみ"
+  },
+  {
+   "key": "skt-2022-09-30-iphone-14-pro-cm",
+   "date": "2022-09-30",
+   "title": "SK Telecom 0 (New0) iPhone 14 Pro commercial - first commercial ad",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2022-10-01-skt-0-iphone-14-pro-cm",
+   "exclude": null,
+   "note": "本編30秒動画は2022-10-07 | existing record is month-precision (2022-10-01); source gives 2022-09-30"
+  },
+  {
+   "key": "musinsa-2022-10-05-global-ambassador",
+   "date": "2022-10-05",
+   "title": "Named MUSINSA global ambassadors",
+   "url": "https://kpop.fandom.com/wiki/NewJeans#Endorsements",
+   "record": "ad-2022-11-01-musinsa-global-ambassador",
+   "exclude": null,
+   "note": "existing record is month-precision (2022-11-01); source gives 2022-10-05"
+  },
+  {
+   "key": "megastudy-2022-10-06-model",
+   "date": "2022-10-06",
+   "title": "Named Megastudy (2024 Megapass) models",
+   "url": "https://kpop.fandom.com/wiki/NewJeans#Endorsements",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "pinkfong-2022-10-06-baby-shark-collab",
+   "date": "2022-10-06",
+   "title": "Pinkfong (Baby Shark) x NewJeans collaboration",
+   "url": "https://en.wikipedia.org/wiki/NewJeans",
+   "record": "ad-2022-10-06-pinkfong-baby-shark-collab",
+   "exclude": null
+  },
+  {
+   "key": "oioi-2022-10-07-model",
+   "date": "2022-10-07",
+   "title": "Named 5252 by O!Oi models",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null,
+   "note": "kpop.fandomは10-06"
+  },
+  {
+   "key": "oioi-2022-10-11-22fw-campaign",
+   "date": "2022-10-11",
+   "title": "5252 by O!Oi 22FW campaign",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2022-09-01-5252-by-oioi-22fw",
+   "exclude": null,
+   "note": "ファッションフィルム10-27、冬キャンペーン11-14 | existing record is month-precision (2022-09-01); source gives 2022-10-11"
+  },
+  {
+   "key": "megastudy-2022-10-13-megapass-cm",
+   "date": "2022-10-13",
+   "title": "Megastudy '2024 0won Megapass' commercial",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2022-11-01-megastudy-megapass-cm",
+   "exclude": null,
+   "note": "existing record is month-precision (2022-11-01); source gives 2022-10-13"
+  },
+  {
+   "key": "shinhan-bank-2022-10-20-new-sol-model",
+   "date": "2022-10-20",
+   "title": "Named Shinhan Bank New SOL models",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2022-10-11-shinhan-bank-new-sol-model",
+   "exclude": null,
+   "note": "namuは10-20、既存レコードの出典（Hankyung）は10-11 | existing record date differs: record 2022-10-11 vs source 2022-10-20"
+  },
+  {
+   "key": "gucci-2022-10-28-hanni-ambassador",
+   "date": "2022-10-28",
+   "title": "Hanni named Gucci brand ambassador",
+   "url": "https://en.wikipedia.org/wiki/Hanni_(singer)",
+   "record": "ad-2022-10-28-hanni-gucci-ambassador",
+   "exclude": null
+  },
+  {
+   "key": "nudake-2022-12-16-collab",
+   "date": "2022-12-16",
+   "title": "Nudake x NewJeans 'OMG! NU+JEANS' collaboration",
+   "url": "https://en.wikipedia.org/wiki/NewJeans",
+   "record": "ad-2022-12-16-nudake-collab",
+   "exclude": null,
+   "note": "ポップアップは12-23〜2023-01-21（goods-2022-12-23-omg-nu-jeans-popup-nudake）"
+  },
+  {
+   "key": "musinsa-2022-12-20-campaign",
+   "date": "2022-12-20",
+   "title": "MUSINSA x NewJeans first campaign ('New Style, NewJeans only at MUSINSA')",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null,
+   "note": "ティザー12-18"
+  },
+  {
+   "key": "louis-vuitton-2022-12-30-hyein-ambassador",
+   "date": "2022-12-30",
+   "title": "Hyein named Louis Vuitton brand ambassador",
+   "url": "https://www.koreajoongangdaily.com/entertainment/newjeanss-hyein-named-louis-vuitton-brand-ambassador/10960146",
+   "record": "ad-2022-12-30-hyein-louis-vuitton-ambassador",
+   "exclude": null
+  },
+  {
+   "key": "burberry-2023-01-06-danielle-ambassador",
+   "date": "2023-01-06",
+   "title": "Danielle named Burberry global ambassador",
+   "url": "https://www.soompi.com/article/1561701wpp/newjeans-danielle-named-global-ambassador-for-burberry",
+   "record": "ad-2023-01-06-danielle-burberry-ambassador",
+   "exclude": null
+  },
+  {
+   "key": "kcdf-2023-01-06-hanji-collab",
+   "date": "2023-01-06",
+   "title": "Korea Craft & Design Foundation hanji collaboration video",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "musinsa-2023-01-20-year-of-bunny-campaign",
+   "date": "2023-01-20",
+   "title": "MUSINSA 'NewJeans Style for the Year of Bunny' campaign",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "lg-gram-2023-01-25-global-ambassador",
+   "date": "2023-01-25",
+   "title": "Named LG gram global ambassadors",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "nike-2023-01-26-a-feel-for-every-you",
+   "date": "2023-01-26",
+   "title": "Nike 'A Feel For Every You' campaign - Minji and Haerin",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null,
+   "note": "動画1/27、nike.com映像画報・インタビュー2/13"
+  },
+  {
+   "key": "lg-gram-2023-02-02-style-limited-edition",
+   "date": "2023-02-02",
+   "title": "LG gram Style NewJeans Limited Edition launch (sold out in 6 minutes)",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2023-02-02-lg-gram-style-collab",
+   "exclude": null,
+   "note": "商品はgoods-2023-02-01-lg-gram-style-newjeans-limited-edition。2/7ファンサイン会"
+  },
+  {
+   "key": "armani-beauty-2023-02-08-hanni-ambassador",
+   "date": "2023-02-08",
+   "title": "Hanni named Armani Beauty global ambassador",
+   "url": "https://cosmeticsbusiness.com/armani-beauty-names-k-pop-singer-hanni-as-new-global-make-up-ambassador-206682",
+   "record": "ad-2023-02-08-hanni-armani-beauty-ambassador",
+   "exclude": null
+  },
+  {
+   "key": "chanel-2023-02-14-minji-ambassador",
+   "date": "2023-02-14",
+   "title": "Minji named Chanel Korea ambassador (fashion, beauty, watches & jewelry)",
+   "url": "https://www.koreajoongangdaily.com/entertainment/minji-of-newjeans-is-appointed-newest-chanel-korea-ambassador/11022231",
+   "record": "ad-2023-02-14-minji-chanel-korea-ambassador",
+   "exclude": null,
+   "note": "en.wikipediaは02-13"
+  },
+  {
+   "key": "seoul-city-2023-02-16-pr-ambassador",
+   "date": "2023-02-16",
+   "title": "Appointed Seoul city PR ambassadors",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2023-02-16-seoul-city-pr-ambassador",
+   "exclude": null
+  },
+  {
+   "key": "carin-2023-02-23-model",
+   "date": "2023-02-23",
+   "title": "Named CARIN eyewear models",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2023-02-23-carin-eyewear-model",
+   "exclude": null,
+   "note": "個人フィルム2/27〜3/17、特別パッケージ3/28"
+  },
+  {
+   "key": "mcdonalds-2023-02-24-model",
+   "date": "2023-02-24",
+   "title": "Named McDonald's Korea models",
+   "url": "https://kpop.fandom.com/wiki/NewJeans#Endorsements",
+   "record": "ad-2023-02-27-mcdonalds-korea-model",
+   "exclude": null,
+   "note": "existing record date differs: record 2023-02-27 vs source 2023-02-24"
+  },
+  {
+   "key": "seoul-fashion-week-2023-02-25-ambassador",
+   "date": "2023-02-25",
+   "title": "Appointed 2023 F/W Seoul Fashion Week ambassadors",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2023-02-22-seoul-fashion-week-ambassador",
+   "exclude": null,
+   "note": "existing record date differs: record 2023-02-22 vs source 2023-02-25"
+  },
+  {
+   "key": "olens-2023-03-01-ambassador",
+   "date": "2023-03-01",
+   "title": "Named Olens ambassadors (23 S/S 'Blooming Spring')",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2023-01-01-olens-contact-lens-model",
+   "exclude": null
+  },
+  {
+   "key": "mcdonalds-2023-03-02-mccrispy-cm",
+   "date": "2023-03-02",
+   "title": "McDonald's Korea McCrispy commercial",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null,
+   "note": "アプリ限定キット3/9はgoods-2023-03-09"
+  },
+  {
+   "key": "nike-2023-03-02-air-max-campaign",
+   "date": "2023-03-02",
+   "title": "Nike Air Max campaign",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2023-03-01-nike-air-max-campaign",
+   "exclude": null
+  },
+  {
+   "key": "oioi-2023-03-03-23ss-campaign",
+   "date": "2023-03-03",
+   "title": "5252 by O!Oi 23S/S campaign",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "levis-2023-03-06-global-ambassador",
+   "date": "2023-03-06",
+   "title": "Named Levi's global ambassadors",
+   "url": "https://marketech-apac.com/levis-taps-k-pop-girl-group-newjeans-as-its-newest-global-ambassador/",
+   "record": "ad-2023-03-06-levis-global-ambassador",
+   "exclude": null
+  },
+  {
+   "key": "ysl-beauty-2023-03-14-danielle-ambassador",
+   "date": "2023-03-14",
+   "title": "Danielle named YSL Beauty ambassador",
+   "url": "https://www.wikitree.co.kr/articles/836489",
+   "record": "ad-2023-03-14-danielle-ysl-beauty-ambassador",
+   "exclude": null,
+   "note": "kpop.fandomは03-13"
+  },
+  {
+   "key": "gucci-2023-03-24-hanni-horsebit-1955",
+   "date": "2023-03-24",
+   "title": "Gucci Horsebit 1955 campaign - Hanni with Halle Bailey and Julia Garner",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2023-03-24-hanni-gucci-horsebit-1955-campaign",
+   "exclude": null,
+   "note": "namuのハニ投稿は03-23、Gucci公式発表03-24"
+  },
+  {
+   "key": "armani-beauty-2023-03-30-hanni-power-fabric",
+   "date": "2023-03-30",
+   "title": "Armani Beauty Power Fabric+ Foundation campaign - Hanni",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2023-04-01-hanni-armani-power-fabric-campaign",
+   "exclude": null,
+   "note": "existing record is month-precision (2023-04-01); source gives 2023-03-30"
+  },
+  {
+   "key": "coca-cola-2023-03-30-global-ambassador",
+   "date": "2023-03-30",
+   "title": "Named Coca-Cola global ambassadors",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2023-03-30-coca-cola-global-ambassador",
+   "exclude": null
+  },
+  {
+   "key": "apple-2023-03-31-today-at-apple-gangnam",
+   "date": "2023-03-31",
+   "title": "Apple Gangnam opening 'Today at Apple' NewJeans OMG spatial-audio session",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "live-2023-03-29-apple-gangnam-press-preview",
+   "exclude": null,
+   "note": "covering record (live) dated 2023-03-29"
+  },
+  {
+   "key": "coca-cola-2023-04-03-zero-campaign",
+   "date": "2023-04-03",
+   "title": "Coca-Cola Zero campaign with 'Zero'",
+   "url": "https://www.soompi.com/article/1576456wpp/newjeans-becomes-global-ambassadors-for-coca-cola",
+   "record": "ad-2023-04-03-coca-cola-zero-cm-zero",
+   "exclude": null
+  },
+  {
+   "key": "stonehenge-2023-04-05-muse",
+   "date": "2023-04-05",
+   "title": "Named STONEHENgE muses",
+   "url": "https://lady.khan.co.kr/entertainment/article/202304051015001",
+   "record": "ad-2023-04-05-stonehenge-brand-muse",
+   "exclude": null
+  },
+  {
+   "key": "dior-2023-04-26-haerin-ambassador",
+   "date": "2023-04-26",
+   "title": "Haerin named Dior global jewelry ambassador and house ambassador (fashion, beauty)",
+   "url": "https://snkrdunk.com/en/magazine/2023/04/26/newjeans-haerin-is-diors-latest-global-ambassador",
+   "record": "ad-2023-04-26-haerin-dior-ambassador",
+   "exclude": null
+  },
+  {
+   "key": "louis-vuitton-2023-04-29-hyein-house-ambassador",
+   "date": "2023-04-29",
+   "title": "Hyein becomes Louis Vuitton house ambassador (Pre-Fall 2023 show, Seoul)",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null,
+   "note": "同日のショー出席はlive-2023-04-29-hyein-louis-vuitton-pre-fall-2023-seoul"
+  },
+  {
+   "key": "armani-beauty-2023-05-03-hanni-lip-maestro-satin",
+   "date": "2023-05-03",
+   "title": "Armani Beauty Lip Maestro Satin campaign - Hanni",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "levis-2023-05-20-501-150th-concert",
+   "date": "2023-05-20",
+   "title": "Levi's 501 150th anniversary 'Live in Levi's' music concert (Seoul)",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null,
+   "note": "live扱いの可能性"
+  },
+  {
+   "key": "mcdonalds-2023-06-01-chicken-dance-campaign",
+   "date": "2023-06-01",
+   "title": "McDonald's x NewJeans 'Chicken Dance' global campaign launch",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2023-06-01-mcdonalds-newjeans-collab-launch",
+   "exclude": null,
+   "note": "各国パッケージ等はgoodsに個別レコード"
+  },
+  {
+   "key": "coca-cola-2023-06-05-special-package",
+   "date": "2023-06-05",
+   "title": "Coca-Cola x NewJeans special package (Coke Studio)",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "goods-2023-06-01-coca-cola-x-newjeans-special-package",
+   "exclude": null
+  },
+  {
+   "key": "nike-2023-06-30-football-seoul-jersey",
+   "date": "2023-06-30",
+   "title": "Nike Football Seoul jersey campaign",
+   "url": "https://snkrdunk.com/en/magazine/2023/06/30/newjeans-shows-trendy-jersey-styles-in-nike-seouls-latest-campaign/",
+   "record": "ad-2023-06-30-nike-seoul-football-jersey-campaign",
+   "exclude": null
+  },
+  {
+   "key": "powerpuff-girls-2023-07-01-get-up-collab",
+   "date": "2023-07-01",
+   "title": "The Powerpuff Girls x NewJeans (Get Up) collaboration",
+   "url": "https://en.wikipedia.org/wiki/NewJeans#Endorsements",
+   "record": "ad-2023-07-01-powerpuff-girls-get-up-collab",
+   "exclude": null,
+   "note": "月精度"
+  },
+  {
+   "key": "dior-2023-07-10-haerin-rose-des-vents",
+   "date": "2023-07-10",
+   "title": "Dior Joaillerie 'Rose des Vents' campaign - Haerin",
+   "url": "https://namu.wiki/w/%ED%95%B4%EB%A6%B0",
+   "record": null,
+   "exclude": null,
+   "note": "ヘリン個人ページ（Dior投稿07-10/11）。既存ad-2023-08-14-haerin-dior-rose-des-vents-campaignとの同一性要確認"
+  },
+  {
+   "key": "apple-2023-07-21-eta-shot-on-iphone",
+   "date": "2023-07-21",
+   "title": "Apple 'Shot on iPhone' - ETA music video (iPhone 14 Pro)",
+   "url": "https://9to5mac.com/2023/07/24/apple-newjeans-video-iphone-14-pro/",
+   "record": "ad-2023-07-21-apple-eta-shot-on-iphone",
+   "exclude": null
+  },
+  {
+   "key": "line-friends-2023-08-01-collab",
+   "date": "2023-08-01",
+   "title": "LINE FRIENDS x NewJeans collaboration (2023)",
+   "url": "https://en.wikipedia.org/wiki/NewJeans#Endorsements",
+   "record": "ad-2023-08-01-line-friends-collab-2023",
+   "exclude": null,
+   "note": "月精度。商品はgoods（2023-08-02予約開始ほか）"
+  },
+  {
+   "key": "spotify-2023-08-01-bunnyland",
+   "date": "2023-08-01",
+   "title": "Spotify x NewJeans 'Bunnyland' campaign",
+   "url": "https://newsroom.spotify.com/2023-08-01/newjeans-celebrates-its-new-ep-with-bunnyland-pop-ups-interactive-playlists-and-larger-than-life-installations/",
+   "record": "ad-2023-08-01-spotify-bunnyland-campaign",
+   "exclude": null
+  },
+  {
+   "key": "chaumet-2023-08-08-hanni-bee-my-love-popup",
+   "date": "2023-08-08",
+   "title": "Hanni attends Chaumet 'Bee My Love' pop-up",
+   "url": "https://www.marieclairekorea.com/fashion/2023/08/chaumet-hanni/",
+   "record": "ad-2023-08-08-hanni-chaumet-bee-my-love-popup",
+   "exclude": null
+  },
+  {
+   "key": "seoul-fashion-week-2023-08-09-24ss-campaign",
+   "date": "2023-08-09",
+   "title": "Seoul Fashion Week 2024 S/S campaign (promotional film and posters)",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "dior-2023-08-14-haerin-rose-des-vents-campaign",
+   "date": "2023-08-14",
+   "title": "Dior Joaillerie Rose des Vents campaign - Haerin",
+   "url": "https://v.daum.net/v/20230814195038166",
+   "record": "ad-2023-08-14-haerin-dior-rose-des-vents-campaign",
+   "exclude": null,
+   "note": "既存レコードの出典のみ"
+  },
+  {
+   "key": "hyundai-duty-free-2023-08-14-model",
+   "date": "2023-08-14",
+   "title": "Named Hyundai Department Store Duty Free exclusive models",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2023-08-14-hyundai-department-store-duty-free",
+   "exclude": null
+  },
+  {
+   "key": "chanel-2023-08-15-minji-n1-red-camellia",
+   "date": "2023-08-15",
+   "title": "Chanel N°1 DE CHANEL red camellia skincare campaign - Minji",
+   "url": "https://namu.wiki/w/%EB%AF%BC%EC%A7%80(NewJeans)",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "pepero-2023-09-01-global-ambassador",
+   "date": "2023-09-01",
+   "title": "Named Lotte Wellfood Pepero global ambassadors",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2023-09-01-lotte-wellfood-pepero-model",
+   "exclude": null,
+   "note": "en.wikipedia videography: Pepero CM 'Say Hello with Pepero'（米国）"
+  },
+  {
+   "key": "dior-2023-09-14-haerin-rose-celeste",
+   "date": "2023-09-14",
+   "title": "Dior Joaillerie campaign chapter two (Rose Céleste) - Haerin",
+   "url": "https://v.daum.net/v/20230914153903991",
+   "record": "ad-2023-09-14-haerin-dior-rose-celeste-campaign",
+   "exclude": null,
+   "note": "ヘリン個人ページのDior投稿は09-11"
+  },
+  {
+   "key": "burberry-2023-09-15-danielle-winter-popup",
+   "date": "2023-09-15",
+   "title": "Danielle attends Burberry Winter 2023 pop-up",
+   "url": "https://v.daum.net/v/20230915100253371",
+   "record": "ad-2023-09-15-danielle-burberry-winter-2023-popup",
+   "exclude": null
+  },
+  {
+   "key": "skt-2023-10-06-iphone-15-pro-cm",
+   "date": "2023-10-06",
+   "title": "SK Telecom 'Made in 0' iPhone 15 Pro commercial",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2023-10-01-skt-iphone-15-pro-made-in-0",
+   "exclude": null
+  },
+  {
+   "key": "lotte-2023-10-16-itagum-japan",
+   "date": "2023-10-16",
+   "title": "Lotte (Japan) gum commercial models - Itagum 'Hello, New Me' featuring OMG",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2023-01-01-lotte-itagum-japan-cm",
+   "exclude": null
+  },
+  {
+   "key": "dior-2023-11-01-haerin-canton-road",
+   "date": "2023-11-01",
+   "title": "Haerin attends Dior Canton Road store event, Hong Kong",
+   "url": "https://v.daum.net/v/20231128171122668",
+   "record": "ad-2023-11-01-haerin-dior-canton-road-hong-kong",
+   "exclude": null,
+   "note": "月精度（報道11-28）"
+  },
+  {
+   "key": "skt-2023-11-06-adot-call-recording",
+   "date": "2023-11-06",
+   "title": "SK Telecom A. (adot) iPhone call-recording commercial",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "musinsa-2023-11-18-black-friday",
+   "date": "2023-11-18",
+   "title": "MUSINSA 'Mujinjang Black Friday' campaign",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "nike-2023-12-15-air-max-90-lv8",
+   "date": "2023-12-15",
+   "title": "Nike Air Max 90 LV8 campaign",
+   "url": "https://snkrdunk.com/en/magazine/2023/12/15/newjeans-nike-air-max-90-collab-hyein-haerin-minji-danielle-hanni",
+   "record": "ad-2023-12-15-nike-air-max-90-lv8-campaign",
+   "exclude": null,
+   "note": "namuのナイキ・エアマックス節は2024-02-17「FIND YOUR MAX」"
+  },
+  {
+   "key": "shinhan-financial-2023-12-17-super-sol",
+   "date": "2023-12-17",
+   "title": "Named Shinhan Financial Group Super SOL integrated models",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2023-12-01-shinhan-super-sol-cm",
+   "exclude": null
+  },
+  {
+   "key": "stonehenge-2024-01-03-winter-collection",
+   "date": "2024-01-03",
+   "title": "STONEHENgE 2024 Winter Collection campaign",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null,
+   "note": "春2/15、夏5/2、MINJI x CROSSING 8/14"
+  },
+  {
+   "key": "seoul-fashion-week-2024-01-22-24fw-campaign",
+   "date": "2024-01-22",
+   "title": "Seoul Fashion Week 24 F/W campaign",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "nike-2024-01-30-orchard-road-collab",
+   "date": "2024-01-30",
+   "title": "Nike By You x NewJeans collection at Nike Orchard Road, Singapore",
+   "url": "https://en.wikipedia.org/wiki/NewJeans#Endorsements",
+   "record": "ad-2024-01-01-nike-orchard-road-collab",
+   "exclude": null,
+   "note": "商品goods-2024-01-30、イベントlive-2024-02-03"
+  },
+  {
+   "key": "coca-cola-2024-02-01-zero-lemon",
+   "date": "2024-02-01",
+   "title": "Coca-Cola Zero Lemon (2024) campaign",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "coca-cola-2024-02-05-japan-cm",
+   "date": "2024-02-05",
+   "title": "Coca-Cola Zero Japan TV commercial",
+   "url": "https://www.coca-cola.com/jp/ja/media-center/news-20240205-00",
+   "record": "ad-2024-02-05-coca-cola-zero-japan-cm",
+   "exclude": null
+  },
+  {
+   "key": "lotte-zero-2024-02-15-model",
+   "date": "2024-02-15",
+   "title": "Named Lotte Wellfood ZERO brand models",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2024-02-15-lotte-wellfood-zero-model",
+   "exclude": null
+  },
+  {
+   "key": "stonehenge-2024-02-15-spring-campaign",
+   "date": "2024-02-15",
+   "title": "STONEHENgE 24 Spring campaign",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "calvin-klein-2024-02-20-model",
+   "date": "2024-02-20",
+   "title": "Named Calvin Klein models",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "minji-nec-2024-03-11-election-campaign",
+   "date": "2024-03-11",
+   "title": "National Election Commission 22nd general election campaign - Minji",
+   "url": "https://v.daum.net/v/20240410135830103",
+   "record": "ad-2024-03-11-minji-nec-election-campaign",
+   "exclude": null
+  },
+  {
+   "key": "ugg-2024-03-13-hanni-global-ambassador",
+   "date": "2024-03-13",
+   "title": "Hanni named UGG global ambassador",
+   "url": "https://nylon.com.sg/?p=8981",
+   "record": "ad-2024-03-13-hanni-ugg-global-ambassador",
+   "exclude": null
+  },
+  {
+   "key": "shinhan-bank-2024-03-15-sol-travel-card",
+   "date": "2024-03-15",
+   "title": "Shinhan SOL Travel check card commercial",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2024-03-15-shinhan-sol-travel-check-card-cm",
+   "exclude": null
+  },
+  {
+   "key": "ugg-2024-03-15-hanni-to-playlist",
+   "date": "2024-03-15",
+   "title": "UGG x Hanni 'TO-Play List' campaign",
+   "url": "https://namu.wiki/w/%ED%95%98%EB%8B%88(NewJeans)",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "celine-2024-03-22-danielle-ambassador",
+   "date": "2024-03-22",
+   "title": "Danielle named Celine global ambassador",
+   "url": "https://www.lofficielsingapore.com/fashion/celine-announces-new-global-ambassador-danielle-of-newjeans-fashion-celebrity-news",
+   "record": "ad-2024-03-22-danielle-celine-global-ambassador",
+   "exclude": null
+  },
+  {
+   "key": "incheon-customs-2024-03-22-ambassador",
+   "date": "2024-03-22",
+   "title": "Appointed Incheon Airport Customs PR ambassadors",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2024-03-01-incheon-airport-customs-ambassador",
+   "exclude": null
+  },
+  {
+   "key": "ysl-beauty-2024-03-25-danielle-loveshine-paris",
+   "date": "2024-03-25",
+   "title": "Danielle attends YSL Beauty 'Loveshine Factory' in Paris",
+   "url": "https://v.daum.net/v/20240330043302754",
+   "record": "ad-2024-03-25-danielle-ysl-loveshine-factory-paris",
+   "exclude": null
+  },
+  {
+   "key": "gucci-beauty-2024-03-28-hanni-ambassador",
+   "date": "2024-03-28",
+   "title": "Hanni named Gucci Beauty global ambassador",
+   "url": "https://cosmeticsbusiness.com/newjeans-idol-hanni-named-gucci-beauty-ambassador",
+   "record": "ad-2024-03-28-hanni-gucci-beauty-ambassador",
+   "exclude": null,
+   "note": "namuは03-24"
+  },
+  {
+   "key": "kao-2024-04-08-essential-cm",
+   "date": "2024-04-08",
+   "title": "Kao Essential (Japan) commercial 'A sparkling morning begins' featuring Bubble Gum",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2024-04-01-kao-essential-cm-japan",
+   "exclude": null
+  },
+  {
+   "key": "shibuya109-2024-04-10-45th-anniversary",
+   "date": "2024-04-10",
+   "title": "SHIBUYA109 45th anniversary campaign",
+   "url": "https://www.fashionsnap.com/article/2024-04-10/109-newjrans/",
+   "record": "ad-2024-04-10-shibuya109-45th-anniversary",
+   "exclude": null
+  },
+  {
+   "key": "dior-2024-04-12-haerin-etoile-des-vents",
+   "date": "2024-04-12",
+   "title": "Dior Rose des Vents (Étoile des Vents) campaign - Haerin",
+   "url": "https://v.daum.net/v/20240412155042524",
+   "record": "ad-2024-04-12-haerin-dior-rose-des-vents-campaign",
+   "exclude": null
+  },
+  {
+   "key": "british-museum-2024-05-01-audio-guide",
+   "date": "2024-05-01",
+   "title": "British Museum Korean gallery audio guide recorded by NewJeans",
+   "url": "https://en.wikipedia.org/wiki/NewJeans#Endorsements",
+   "record": null,
+   "exclude": null,
+   "note": "en.wikipedia「2024年5月」のみ（月精度）"
+  },
+  {
+   "key": "celine-2024-05-03-danielle-summer-24",
+   "date": "2024-05-03",
+   "title": "Celine Summer 24 campaign - Danielle",
+   "url": "https://www.marieclairekorea.com/fashion/2024/05/celine-danielle-3/",
+   "record": "ad-2024-05-03-danielle-celine-summer-24-campaign",
+   "exclude": null
+  },
+  {
+   "key": "lotte-zero-2024-05-09-japan-cm",
+   "date": "2024-05-09",
+   "title": "Lotte ZERO (Japan) commercial 'This is おいしい Zero'",
+   "url": "https://www.oricon.co.jp/news/2326157/full/",
+   "record": "ad-2024-05-09-lotte-zero-japan-cm",
+   "exclude": null
+  },
+  {
+   "key": "lotte-zero-2024-05-09-korea-cm",
+   "date": "2024-05-09",
+   "title": "Lotte ZERO (Korea) commercial 'Delicious, ZERO' featuring Right Now",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2024-05-01-lotte-wellfood-zero-cm-right-now",
+   "exclude": null
+  },
+  {
+   "key": "gucci-beauty-2024-05-10-hanni-cosmopolitan-video",
+   "date": "2024-05-10",
+   "title": "Gucci Beauty x Cosmopolitan Korea branded video - Hanni",
+   "url": "https://v.daum.net/v/20240510141023260",
+   "record": "ad-2024-05-10-hanni-gucci-beauty-cosmopolitan-video",
+   "exclude": null
+  },
+  {
+   "key": "fujiwara-hiroshi-2024-05-11-collab",
+   "date": "2024-05-11",
+   "title": "Hiroshi Fujiwara x NewJeans collaboration",
+   "url": "https://en.wikipedia.org/wiki/NewJeans#Endorsements",
+   "record": "sns-2024-05-11-fujiwara-hiroshi-collab-photos",
+   "exclude": null,
+   "note": "商品はgoods-2024-07-03"
+  },
+  {
+   "key": "murakami-2024-05-14-powerpuff-right-now",
+   "date": "2024-05-14",
+   "title": "Takashi Murakami x Powerpuff Girls collaboration for Right Now / Supernatural",
+   "url": "https://www.harpersbazaar.my/lifestyle/culture/newjeans-unveils-collaboration-with-takashi-murakami-and-the-powerpuff-girls-for-right-now-music-video/",
+   "record": "ad-2024-05-14-murakami-powerpuff-right-now",
+   "exclude": null
+  },
+  {
+   "key": "coca-cola-2024-05-15-delicious-magic",
+   "date": "2024-05-15",
+   "title": "Coca-Cola 'Add delicious magic' campaign (Minji 5/22, Hanni & Danielle 9/9)",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "gucci-2024-05-21-hanni-horsebit-1955",
+   "date": "2024-05-21",
+   "title": "Gucci Horsebit 1955 global campaign - Hanni",
+   "url": "https://www.marketing-interactive.com/newjeans-hanni-gucci-campaign",
+   "record": "ad-2024-05-21-hanni-gucci-horsebit-1955-campaign",
+   "exclude": null,
+   "note": "ハニ個人ページは05-25"
+  },
+  {
+   "key": "dior-2024-05-23-haerin-denim-dior-oblique",
+   "date": "2024-05-23",
+   "title": "Dior 'Denim Dior Oblique' campaign - Haerin",
+   "url": "https://v.daum.net/v/20240523161650548",
+   "record": "ad-2024-05-23-haerin-denim-dior-oblique-campaign",
+   "exclude": null
+  },
+  {
+   "key": "line-friends-2024-06-01-collab",
+   "date": "2024-06-01",
+   "title": "LINE FRIENDS x NewJeans collaboration (2024)",
+   "url": "https://en.wikipedia.org/wiki/NewJeans#Endorsements",
+   "record": "ad-2024-06-01-line-friends-collab-2024",
+   "exclude": null,
+   "note": "月精度"
+  },
+  {
+   "key": "shinhan-card-2024-06-10-sol-pay",
+   "date": "2024-06-10",
+   "title": "Shinhan Card SOL Pay commercial",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "pubg-2024-06-12-collab",
+   "date": "2024-06-12",
+   "title": "PUBG: BATTLEGROUNDS x NewJeans collaboration (PC 6/12, mobile 6/18, console 6/20)",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2024-06-01-krafton-pubg-collab",
+   "exclude": null,
+   "note": "既存レコードは月精度"
+  },
+  {
+   "key": "korea-tourism-2024-07-11-honorary-ambassador",
+   "date": "2024-07-11",
+   "title": "Appointed 2024 Korea Tourism honorary ambassadors (MCST / Korea Tourism Organization)",
+   "url": "https://www.mcst.go.kr/kor/s_notice/press/pressView.jsp?pSeq=21213",
+   "record": "ad-2024-07-11-mcst-korea-tourism-ambassador",
+   "exclude": null,
+   "note": "namu（韓国観光公社）は07-03、文化体育観光部発表は07-11"
+  },
+  {
+   "key": "seoul-fashion-week-2024-08-09-25ss-campaign",
+   "date": "2024-08-09",
+   "title": "Seoul Fashion Week 25 S/S campaign (global ambassadors)",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "ysl-beauty-2024-08-21-danielle-ink-vinyl",
+   "date": "2024-08-21",
+   "title": "YSL Beauty Ink Vinyl Tint campaign - Danielle",
+   "url": "https://v.daum.net/v/20240822024940619",
+   "record": "ad-2024-08-21-danielle-ysl-ink-vinyl-tint-campaign",
+   "exclude": null
+  },
+  {
+   "key": "kao-2024-08-26-essential-sports-day",
+   "date": "2024-08-26",
+   "title": "Kao Essential Premium commercial 'Sports Day'",
+   "url": "https://realsound.jp/2024/08/post-1759153.html",
+   "record": "ad-2024-08-26-kao-essential-premium-sports-day-cm",
+   "exclude": null
+  },
+  {
+   "key": "pepero-2024-09-02-reappointment",
+   "date": "2024-09-02",
+   "title": "Re-appointed Lotte Wellfood Pepero global ambassadors",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "skt-2024-09-13-iphone-16-pro-cm",
+   "date": "2024-09-13",
+   "title": "SK Telecom iPhone 16 Pro commercial",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2024-09-01-skt-iphone-16-pro-cm",
+   "exclude": null
+  },
+  {
+   "key": "shinhan-securities-2024-09-23-cm",
+   "date": "2024-09-23",
+   "title": "Shinhan Securities commercial",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "calvin-klein-2024-09-24-ambassador",
+   "date": "2024-09-24",
+   "title": "Named Calvin Klein global ambassadors (Fall 2024 campaign)",
+   "url": "https://variety.com/2024/shopping/news/newjeans-calvin-klein-ambassadors-campaign-1236154299/",
+   "record": "ad-2024-09-24-calvin-klein-ambassador",
+   "exclude": null
+  },
+  {
+   "key": "pepero-2024-09-27-show-your-love",
+   "date": "2024-09-27",
+   "title": "Pepero Day 2024 global campaign 'Show your love with Pepero'",
+   "url": "https://biz.newdaily.co.kr/site/data/html/2024/09/27/2024092700068.amp.html",
+   "record": "ad-2024-09-27-pepero-day-2024-show-your-love-campaign",
+   "exclude": null,
+   "note": "特別パッケージ10-15"
+  },
+  {
+   "key": "ysl-beauty-2024-10-24-danielle-ink-blur",
+   "date": "2024-10-24",
+   "title": "YSL Beauty Ink Blur Tint campaign - Danielle",
+   "url": "https://v.daum.net/v/20241024104950971",
+   "record": "ad-2024-10-24-danielle-ysl-ink-blur-tint-campaign",
+   "exclude": null
+  },
+  {
+   "key": "indomie-2024-10-31-global-ambassador",
+   "date": "2024-10-31",
+   "title": "Named Indomie global brand ambassadors",
+   "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+   "record": "ad-2024-10-31-indomie-global-ambassador",
+   "exclude": null
+  },
+  {
+   "key": "omega-2024-12-17-danielle-ambassador",
+   "date": "2024-12-17",
+   "title": "Danielle named Omega ambassador",
+   "url": "https://v.daum.net/v/20241217183008769",
+   "record": "ad-2024-12-17-danielle-omega-ambassador",
+   "exclude": null,
+   "note": "kpop.fandomは12-18"
+  },
+  {
+   "key": "ugg-2025-03-14-hanni-golden-rise",
+   "date": "2025-03-14",
+   "title": "UGG spring/summer 2025 sandal campaign - Hanni",
+   "url": "https://v.daum.net/v/20250314104501235",
+   "record": "ad-2025-03-14-hanni-ugg-golden-rise-sandal-campaign",
+   "exclude": null,
+   "note": "NJZ名義期の個人ブランド案件"
+  },
+  {
+   "key": "kao-2025-03-29-essential-murakami-package",
+   "date": "2025-03-29",
+   "title": "Kao Essential Premium NewJeans x MURAKAMI special design packages",
+   "url": "https://www.fashion-press.net/news/131281",
+   "record": "goods-2025-03-29-essential-premium-newjeans-x-murakami-special-design",
+   "exclude": null,
+   "note": "goodsレコードでカバー"
+  },
+  {
+   "key": "indomie-2025-05-01-mi-goreng-popup",
+   "date": "2025-05-01",
+   "title": "Indomie Mi Goreng pop-up store (Seongsu-dong)",
+   "url": "https://kbizoom.com/newjeans-pop-up-store-controversy/",
+   "record": "goods-2025-05-01-indomie-mi-goreng-popup-seongsu",
+   "exclude": null,
+   "note": "goodsレコードでカバー"
+  },
+  {
+   "key": "omega-2025-06-18-danielle-aqua-terra-kyoto",
+   "date": "2025-06-18",
+   "title": "Danielle attends Omega Aqua Terra 30mm launch in Kyoto",
+   "url": "https://v.daum.net/v/20250619134559814",
+   "record": "ad-2025-06-18-danielle-omega-aqua-terra-kyoto",
+   "exclude": null
+  },
+  {
+   "key": "dior-2026-08-26-haerin-beauty-photos",
+   "date": "2026-08-26",
+   "title": "Dior releases new photos of Haerin (Dior Beauty)",
+   "url": "https://koreatimes.co.kr/entertainment/k-pop/20260826/newjeans-haerin-returns-to-spotlight-in-new-dior-photos-amid-hiatus",
+   "record": null,
+   "exclude": null,
+   "note": "Korea Times報道。キャンペーン名は要確認"
+  }
+ ]
+}
