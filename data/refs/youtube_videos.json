@@ -1,0 +1,3850 @@
+{
+ "name": "youtube_videos",
+ "category": "content",
+ "scope": "公式YouTubeチャンネル（@NewJeans_official）の長尺動画の全件。Shortsは含めない（docs/data-policy.md 2026-10-16）。",
+ "source": "https://www.youtube.com/@NewJeans_official/videos",
+ "fetched": "2026-10-17",
+ "match": "youtube_id",
+ "items": [
+  {
+   "key": "-9Pw3ibD9NU",
+   "date": "2022-10-13",
+   "title": "[Light Jeans] NewJeans GQ Photoshoot Behind 📕",
+   "url": "https://www.youtube.com/watch?v=-9Pw3ibD9NU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "-L7eMf6Yf84",
+   "date": "2022-10-13",
+   "title": "NewJeans(뉴진스) 'Hurt' Special Video",
+   "url": "https://www.youtube.com/watch?v=-L7eMf6Yf84",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "1VAn7CX_omg",
+   "date": "2022-10-13",
+   "title": "NewJeans (뉴진스) 'Attention' Dance Practice",
+   "url": "https://www.youtube.com/watch?v=1VAn7CX_omg",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "1k_lhOiTr4A",
+   "date": "2022-10-13",
+   "title": "[Jeans’ ZINE] NewJeans Bakery Bonus Clip 🍪",
+   "url": "https://www.youtube.com/watch?v=1k_lhOiTr4A",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "5yYqxv5T0uY",
+   "date": "2022-10-13",
+   "title": "[Light Jeans] HANNI & HYEIN's Spain Shopping Haul 🛍 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=5yYqxv5T0uY",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "6AR_hBqR274",
+   "date": "2022-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 1st EP 'New Jeans' Behind EP.2",
+   "url": "https://www.youtube.com/watch?v=6AR_hBqR274",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "7Dpexy-ghNE",
+   "date": "2022-10-13",
+   "title": "[Light Jeans] NewJeans Short-form Day!",
+   "url": "https://www.youtube.com/watch?v=7Dpexy-ghNE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "8Lp9tQXixbQ",
+   "date": "2022-10-13",
+   "title": "[Light Jeans] 1st EP 'New Jeans' Music Show Behind EP.2",
+   "url": "https://www.youtube.com/watch?v=8Lp9tQXixbQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "9IV9Wju5f0Q",
+   "date": "2022-10-13",
+   "title": "[NewZips] 뉴진스.zip OPEN!🔍 EP.1ㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=9IV9Wju5f0Q",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "9JcJ5E1BloU",
+   "date": "2022-10-13",
+   "title": "NewJeans (뉴진스) 'Hype Boy' Dance Practice",
+   "url": "https://www.youtube.com/watch?v=9JcJ5E1BloU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "9yXe2HXcqcQ",
+   "date": "2022-10-13",
+   "title": "NewJeans (뉴진스) 'Cookie' Dance Practice",
+   "url": "https://www.youtube.com/watch?v=9yXe2HXcqcQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "9yYA6rymmBk",
+   "date": "2022-10-13",
+   "title": "[Jeans’ ZINE] NewJeans Bakery EP.1",
+   "url": "https://www.youtube.com/watch?v=9yYA6rymmBk",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "CktgcnjlQ0w",
+   "date": "2022-10-13",
+   "title": "[Light Jeans] NewJeans (뉴진스) 'Attention' MV Reaction",
+   "url": "https://www.youtube.com/watch?v=CktgcnjlQ0w",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "DAjNQv5TXfU",
+   "date": "2022-10-13",
+   "title": "NewJeans (뉴진스) 'Hype Boy' Dance Practice (ver.3)",
+   "url": "https://www.youtube.com/watch?v=DAjNQv5TXfU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "DZgvde-FH-E",
+   "date": "2022-10-13",
+   "title": "[Light Jeans] NewJeans In Spain 🕶☀️(Home Video ver.)",
+   "url": "https://www.youtube.com/watch?v=DZgvde-FH-E",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "FgghNM1useE",
+   "date": "2022-10-13",
+   "title": "NewJeans 'Moving Photos' Clip 😉",
+   "url": "https://www.youtube.com/watch?v=FgghNM1useE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "GO2slC7BG-g",
+   "date": "2022-10-13",
+   "title": "Happy Chuseok! | Chuseok Greetings from NewJeans",
+   "url": "https://www.youtube.com/watch?v=GO2slC7BG-g",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "GRbB059IVTM",
+   "date": "2022-10-13",
+   "title": "[Jeans’ ZINE] NewJeans Bakery | 1분 숏클립",
+   "url": "https://www.youtube.com/watch?v=GRbB059IVTM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Gw2jHej29QE",
+   "date": "2022-10-13",
+   "title": "NewJeans (뉴진스) 'Hype Boy' Special Performance Video",
+   "url": "https://www.youtube.com/watch?v=Gw2jHej29QE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "HzTEsxk3PG4",
+   "date": "2022-10-13",
+   "title": "[Jeans’ ZINE] NewJeans Cafe ☕️",
+   "url": "https://www.youtube.com/watch?v=HzTEsxk3PG4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "IdV3bcTjKZM",
+   "date": "2022-10-13",
+   "title": "[Jeans' ZINE] NewJeans School EP.2ㅣ1분 숏클립",
+   "url": "https://www.youtube.com/watch?v=IdV3bcTjKZM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "NzbZrknwTgA",
+   "date": "2022-10-13",
+   "title": "[NewZips] Welcome to 뉴캠프🚞💨 EP.2ㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=NzbZrknwTgA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "QesCP2Z2n8g",
+   "date": "2022-10-13",
+   "title": "[Light Jeans] 'We Are NewJeans' Behind",
+   "url": "https://www.youtube.com/watch?v=QesCP2Z2n8g",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Sv2MLXAT8Bw",
+   "date": "2022-10-13",
+   "title": "NewJeans (뉴진스) 'Attention' Dance Practice (ver.3)",
+   "url": "https://www.youtube.com/watch?v=Sv2MLXAT8Bw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "TZm_Wp-3bFE",
+   "date": "2022-10-13",
+   "title": "[Jeans’ ZINE] NewJeans Bakery EP.2",
+   "url": "https://www.youtube.com/watch?v=TZm_Wp-3bFE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "ToHZmJZnGYc",
+   "date": "2022-10-13",
+   "title": "[Light Jeans] 1st EP 'New Jeans' Music Show Behind EP.1",
+   "url": "https://www.youtube.com/watch?v=ToHZmJZnGYc",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "W3aHJHMJHWc",
+   "date": "2022-10-13",
+   "title": "[Making Jeans] 뉴진스(NewJeans) 1st EP 'New Jeans' Behind EP.3(Final)",
+   "url": "https://www.youtube.com/watch?v=W3aHJHMJHWc",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "XcqAB1tIfhg",
+   "date": "2022-10-13",
+   "title": "NewJeans (뉴진스) 'Hype Boy' Dance Practice (ver.2)",
+   "url": "https://www.youtube.com/watch?v=XcqAB1tIfhg",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "XwUdoDcgfng",
+   "date": "2022-10-13",
+   "title": "[NewZips] Last Day In 뉴캠프 ⛺️🌳 EP.3ㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=XwUdoDcgfng",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "a6QHqiQXkjA",
+   "date": "2022-10-13",
+   "title": "NewJeans (뉴진스) 'Cookie' Dance Practice (ver.3)",
+   "url": "https://www.youtube.com/watch?v=a6QHqiQXkjA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "akBsvbxUR-4",
+   "date": "2022-10-13",
+   "title": "[Jeans' ZINE] NewJeans School EP.1 l 1분 숏클립",
+   "url": "https://www.youtube.com/watch?v=akBsvbxUR-4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "cAcN5zdNeUw",
+   "date": "2022-10-13",
+   "title": "[Jeans’ ZINE] NewJeans Cafe | 1분 숏클립",
+   "url": "https://www.youtube.com/watch?v=cAcN5zdNeUw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "cOfyM-AfY2o",
+   "date": "2022-10-13",
+   "title": "[Jeans' ZINE] NewJeans School EP.2",
+   "url": "https://www.youtube.com/watch?v=cOfyM-AfY2o",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "dUjycIDNjmY",
+   "date": "2022-10-13",
+   "title": "[Light Jeans] ‘NewJeans Pop-up Store’ Behind📍🐰💙",
+   "url": "https://www.youtube.com/watch?v=dUjycIDNjmY",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "eohetbWPXfQ",
+   "date": "2022-10-13",
+   "title": "[Jeans' ZINE] NewJeans School EP.1",
+   "url": "https://www.youtube.com/watch?v=eohetbWPXfQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "fbPaDZVgfrU",
+   "date": "2022-10-13",
+   "title": "[Light Jeans] NewJeans (뉴진스) 'Hype Boy' MV Reaction",
+   "url": "https://www.youtube.com/watch?v=fbPaDZVgfrU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "ieHyH22dJAA",
+   "date": "2022-10-13",
+   "title": "[Light Jeans] NewJeans (뉴진스) 'COUNTDOWN LIVE' Behind 🎬🐰",
+   "url": "https://www.youtube.com/watch?v=ieHyH22dJAA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "mzkbi6xNmSg",
+   "date": "2022-10-13",
+   "title": "NewJeans (뉴진스) 'Attention' Dance Practice (ver.2)",
+   "url": "https://www.youtube.com/watch?v=mzkbi6xNmSg",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "pVyT0bEfBNA",
+   "date": "2022-10-13",
+   "title": "[Light Jeans] Happy Chuseok with NewJeans 🐰🌕",
+   "url": "https://www.youtube.com/watch?v=pVyT0bEfBNA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "qtcL3mtAZNI",
+   "date": "2022-10-13",
+   "title": "[Jeans’ ZINE] NewJeans Bakery EP.2 | 1분 숏클립",
+   "url": "https://www.youtube.com/watch?v=qtcL3mtAZNI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "tsCqgK9Gsp4",
+   "date": "2022-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 1st EP 'New Jeans' Behind EP.1",
+   "url": "https://www.youtube.com/watch?v=tsCqgK9Gsp4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "ulwrgndExOI",
+   "date": "2022-10-13",
+   "title": "[NewZips] 📁 Teaser ㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=ulwrgndExOI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "yM5JW2kK3yw",
+   "date": "2022-10-13",
+   "title": "NewJeans (뉴진스) 'Cookie' Dance Practice (ver.2)",
+   "url": "https://www.youtube.com/watch?v=yM5JW2kK3yw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "zA1ZxRTHEN0",
+   "date": "2022-10-13",
+   "title": "[Light Jeans] 'We Are NewJeans' Behind (Home Video ver.)",
+   "url": "https://www.youtube.com/watch?v=zA1ZxRTHEN0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "zNLRL1GYTDE",
+   "date": "2022-10-13",
+   "title": "NewJeans(뉴진스) Dance Tips💡",
+   "url": "https://www.youtube.com/watch?v=zNLRL1GYTDE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "zfdI4ItNEJQ",
+   "date": "2022-10-13",
+   "title": "NewJeans (뉴진스) 1st EP ‘New Jeans’ COUNTDOWN LIVE",
+   "url": "https://www.youtube.com/watch?v=zfdI4ItNEJQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "0UQeLKExXx0",
+   "date": "2023-10-13",
+   "title": "[About Jeans] MINJI SCENE🎬 #1 졸업식 가요? | MINJI vlog",
+   "url": "https://www.youtube.com/watch?v=0UQeLKExXx0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "1Mr-WwnEPHE",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] NU+JEANS Pop-up Behind 🐰🍰 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=1Mr-WwnEPHE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "2-BnGiwzefw",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] HANNI Marie Claire Photoshoot Behind | NewJeans",
+   "url": "https://www.youtube.com/watch?v=2-BnGiwzefw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "2kKXWN7JFqA",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'OMG' MV Reaction",
+   "url": "https://www.youtube.com/watch?v=2kKXWN7JFqA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "2mYGh268vmA",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Ditto' Dance Clip",
+   "url": "https://www.youtube.com/watch?v=2mYGh268vmA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "2stXsYCNI3M",
+   "date": "2023-10-13",
+   "title": "WELCOME to Bunnies Club! #HANNI | NewJeans",
+   "url": "https://www.youtube.com/watch?v=2stXsYCNI3M",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "3AyaOSiNHRE",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Tell me (FRNK Remix)'",
+   "url": "https://www.youtube.com/watch?v=3AyaOSiNHRE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "3NtTgRh5NCQ",
+   "date": "2023-10-13",
+   "title": "[By Jeans] 'AKMU - Love Lee' Cover by HAERIN | NewJeans",
+   "url": "https://www.youtube.com/watch?v=3NtTgRh5NCQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "3U8MXq0NRQ8",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] Seollal Park 설날파크🏹 EP.1 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=3U8MXq0NRQ8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "3a4SWUE-bFk",
+   "date": "2023-10-13",
+   "title": "Debut 1st Anniversary 〈Dear.Bunnies〉🐰",
+   "url": "https://www.youtube.com/watch?v=3a4SWUE-bFk",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "4761LLzZQ3U",
+   "date": "2023-10-13",
+   "title": "WELCOME to Bunnies Club! #DANIELLE | NewJeans",
+   "url": "https://www.youtube.com/watch?v=4761LLzZQ3U",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "52Zj-B_sYJE",
+   "date": "2023-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 'ETA' Dance Practice Behind",
+   "url": "https://www.youtube.com/watch?v=52Zj-B_sYJE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "5EyMNU8gxZs",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'ASAP' Dance Practice",
+   "url": "https://www.youtube.com/watch?v=5EyMNU8gxZs",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "5HutVgXuJnM",
+   "date": "2023-10-13",
+   "title": "[NewZips] Bucket List SHOPPING! 👖🛒 EP.4ㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=5HutVgXuJnM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "5kCafaXvvQk",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] SPUR Photoshoot Behind | NewJeans",
+   "url": "https://www.youtube.com/watch?v=5kCafaXvvQk",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "61slpNrHgUE",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) Special Interview : The First Year",
+   "url": "https://www.youtube.com/watch?v=61slpNrHgUE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "7wpHXLgYMgo",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] 오엠지 프로덕션 「폭풍의 신입사원」 🌪 EP.2 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=7wpHXLgYMgo",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "8-yLpmM5yyI",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] Highsnobiety  Photoshoot Behind 🌠 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=8-yLpmM5yyI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "8DdQEpSuTC8",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] NewTube EP.2 최고의 콘텐츠🖍🎨🔮🍰🥊 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=8DdQEpSuTC8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "8KkUl1xsgXA",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] Summer memories in Spain 🍃ㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=8KkUl1xsgXA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "8L51gF1Wb74",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] MBTI 탐구 시간💭 EP.1ㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=8L51gF1Wb74",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "8oEWf0dnvC8",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] NewJeans POP-UP @LINE FRIENDS",
+   "url": "https://www.youtube.com/watch?v=8oEWf0dnvC8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "9F6s04gbQPw",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] 봄맞이 피크닉 EP.3 감성 백일장과 2% 부족한 보물찾기 🌿 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=9F6s04gbQPw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "9fP26lxq-wo",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'ASAP' Dance Practice (Fix ver.)",
+   "url": "https://www.youtube.com/watch?v=9fP26lxq-wo",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "BTwAFikXV_o",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'OMG' Performance Video (HAERIN ver.)",
+   "url": "https://www.youtube.com/watch?v=BTwAFikXV_o",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "BpB6b6ABL6c",
+   "date": "2023-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 'Cool With You' MV Behind",
+   "url": "https://www.youtube.com/watch?v=BpB6b6ABL6c",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "DVKHksk0ku4",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] 2022 Unseen Moments 🎬ㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=DVKHksk0ku4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "De-sTnypQc4",
+   "date": "2023-10-13",
+   "title": "[Preview] NewJeans (뉴진스) 2023 SEASON’S GREETINGS Clip #1",
+   "url": "https://www.youtube.com/watch?v=De-sTnypQc4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "DgEuHOhDf04",
+   "date": "2023-10-13",
+   "title": "[By Jeans] 'Stephanie Poetri - I Love You 3000' Cover by MINJI | NewJeans",
+   "url": "https://www.youtube.com/watch?v=DgEuHOhDf04",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Dg_sagtPGSE",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'New Jeans' Dance Practice",
+   "url": "https://www.youtube.com/watch?v=Dg_sagtPGSE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "DoVvF2LVAPk",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'OMG' Performance Video (DANIELLE ver.)",
+   "url": "https://www.youtube.com/watch?v=DoVvF2LVAPk",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "DrNtuAgwWgQ",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Zero' Performance Video",
+   "url": "https://www.youtube.com/watch?v=DrNtuAgwWgQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Dxca41EhMb8",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 2022 MMA Dance Practice (Cookie+Hype Boy+Attention)",
+   "url": "https://www.youtube.com/watch?v=Dxca41EhMb8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "F4yf9J9Ea5g",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'OMG' Performance Video (MINJI ver.)",
+   "url": "https://www.youtube.com/watch?v=F4yf9J9Ea5g",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "G5XRqw315hg",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) Holiday Talk🐰🎁 Part.2",
+   "url": "https://www.youtube.com/watch?v=G5XRqw315hg",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "G9HtwbsQSUE",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] 언제든지 달려가는 오엠지 프로덕션🎬 EP.1 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=G9HtwbsQSUE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "GOgwYxOQ0xc",
+   "date": "2023-10-13",
+   "title": "[About Jeans] 미술관 나들이☀️ | NewJeans Vlog",
+   "url": "https://www.youtube.com/watch?v=GOgwYxOQ0xc",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "G_1zDzhAz9w",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Ditto' Dance Practice",
+   "url": "https://www.youtube.com/watch?v=G_1zDzhAz9w",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Ga84_voQcjM",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] NME Photoshoot Behind | NewJeans",
+   "url": "https://www.youtube.com/watch?v=Ga84_voQcjM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Gf8Uk02naGQ",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'New Jeans' MV Reaction",
+   "url": "https://www.youtube.com/watch?v=Gf8Uk02naGQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "GgTSiSVTWos",
+   "date": "2023-10-13",
+   "title": "[NewZips] Final.zip 💾💖 EP.7ㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=GgTSiSVTWos",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "HDx16EP2OGU",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] HYEIN Harper's BAZAAR Behind 🍃 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=HDx16EP2OGU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "HOv6pjM2GaY",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] 2023 SEASON’S GREETINGS Behind🚪ㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=HOv6pjM2GaY",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "IUbqY-V7XCw",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] 우천 시 취소 특집 EP.1 갑자기 집캉스..?🌦| NewJeans",
+   "url": "https://www.youtube.com/watch?v=IUbqY-V7XCw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Ib03M64J-sM",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] 봄맞이 피크닉 EP.2 다시 찾아온 엉망잔칭의 기운 💭 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=Ib03M64J-sM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "JLgMA9eSHKc",
+   "date": "2023-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 'Cool With You' & 'ETA' Recording Behind",
+   "url": "https://www.youtube.com/watch?v=JLgMA9eSHKc",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "JpX3-8hbtOE",
+   "date": "2023-10-13",
+   "title": "🐰데뷔 100일 기념💙 Special Quiz Show🥕",
+   "url": "https://www.youtube.com/watch?v=JpX3-8hbtOE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "KEDZ9z7tlCw",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] KCON 2022 SAUDI ARABIA BehindㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=KEDZ9z7tlCw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Km71Rr9K-Bw",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Ditto' Performance Video",
+   "url": "https://www.youtube.com/watch?v=Km71Rr9K-Bw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "LkJOwHmkySI",
+   "date": "2023-10-13",
+   "title": "[NewZips] 토끼 구출 작전 💣💥EP.5ㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=LkJOwHmkySI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "M3yExM39L9Y",
+   "date": "2023-10-13",
+   "title": "Bunnies Membership OPEN!🐰 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=M3yExM39L9Y",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Mn5ZzRZ9yto",
+   "date": "2023-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 'Ditto' & 'OMG' Recording Behind(Final)",
+   "url": "https://www.youtube.com/watch?v=Mn5ZzRZ9yto",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "N8CPj5xk8Qs",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] 신나는 미술시간🎨ㅣ1st EP 'New Jeans'",
+   "url": "https://www.youtube.com/watch?v=N8CPj5xk8Qs",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "O8j22bBsui0",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] W KOREA Photoshoot Behind 🎁 EP.2ㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=O8j22bBsui0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "OC-vrNs6K8w",
+   "date": "2023-10-13",
+   "title": "[About Jeans] 오늘을, 기록혠 1 ⊹ 파리의 오늘 | HYEIN vlog",
+   "url": "https://www.youtube.com/watch?v=OC-vrNs6K8w",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "OHA7clGQ69A",
+   "date": "2023-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 'Super Shy' MV Behind",
+   "url": "https://www.youtube.com/watch?v=OHA7clGQ69A",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "OTkvNyYHtCA",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] Valentine’s Day for Bunnies! EP.2 Dear. 버니즈💌🍫 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=OTkvNyYHtCA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "P5ZjAfam2_4",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] GRANNIE'S FARM EP.1 딸기농장을 부탁해 🍓 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=P5ZjAfam2_4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Q3sF0lV4nww",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) The 37th GOLDEN DISC AWARDS Dance Practice",
+   "url": "https://www.youtube.com/watch?v=Q3sF0lV4nww",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "QJPk1K1QF-U",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Ditto' Performance Video (Fix ver.)",
+   "url": "https://www.youtube.com/watch?v=QJPk1K1QF-U",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "QsJzosJzxRo",
+   "date": "2023-10-13",
+   "title": "[About Jeans] 재미로 하니🙃 EP.2 밀라노 가는 재미 | HANNI vlog",
+   "url": "https://www.youtube.com/watch?v=QsJzosJzxRo",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "R-Vflly99ZM",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Cool With You' Dance Practice",
+   "url": "https://www.youtube.com/watch?v=R-Vflly99ZM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "R3RWk87geM8",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] 하루 종일 체육 시간! 🤸‍♀️ EP.1 인삼펀삼 vs UM UM | NewJeans",
+   "url": "https://www.youtube.com/watch?v=R3RWk87geM8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Ru7ifQ4SVyU",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) #ImSuperShy Reaction 🫣",
+   "url": "https://www.youtube.com/watch?v=Ru7ifQ4SVyU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "SAbXCLI7DG8",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] HANNI Armani beauty Behind 💋 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=SAbXCLI7DG8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "SHYF8J0xfDU",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] Let's Jiggle Jiggle!🙌ㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=SHYF8J0xfDU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "SK7QlN-ILtg",
+   "date": "2023-10-13",
+   "title": "Something Happened in Bunnies Camp 🐰🏕 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=SK7QlN-ILtg",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "SN1Gb4Pqdo4",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) ‘OMG’ Stage Cam @ ONGAKUNOHI 2023",
+   "url": "https://www.youtube.com/watch?v=SN1Gb4Pqdo4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "SkTz_Cdk1FQ",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'ETA' MV Review",
+   "url": "https://www.youtube.com/watch?v=SkTz_Cdk1FQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "T6CWrx166Z0",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'INTRO+OMG' Stage Cam @ 2023 Weverse Con Festival",
+   "url": "https://www.youtube.com/watch?v=T6CWrx166Z0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "TBx6lToicIs",
+   "date": "2023-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 'Ditto' MV Behind",
+   "url": "https://www.youtube.com/watch?v=TBx6lToicIs",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "UXgF4u1TGis",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] NIKE Campaign Shoot Behind",
+   "url": "https://www.youtube.com/watch?v=UXgF4u1TGis",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "UsGsYtFW_MU",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] YEAR END PARTY 🪩 EP.1 연말 결산 토크!ㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=UsGsYtFW_MU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "VSxl6S34pHI",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] Valentine’s Day for Bunnies! EP.1 초콜릿 게임🤎 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=VSxl6S34pHI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "VX04UnBtnFw",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] 2022 MMA Behind ㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=VX04UnBtnFw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "WLtFsiaYiB8",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] 2nd EP 'Get Up' Music Show Behind ✨ EP.1 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=WLtFsiaYiB8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "WN8VOAL8A-k",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Super Shy' MV Review",
+   "url": "https://www.youtube.com/watch?v=WN8VOAL8A-k",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "WW9YAR6824Q",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] HAERIN W KOREA Photoshoot Behind 🌸 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=WW9YAR6824Q",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Wcz3g_TX7Pw",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] Game Day EP.2 포즈 369, 진짜 가짜, 라이어 게임 🎰 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=Wcz3g_TX7Pw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "XAFItXV6ark",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] 엉망잔칭 토론회 EP.1 엉망의 서막 (feat. 터진 오디오💥) | NewJeans",
+   "url": "https://www.youtube.com/watch?v=XAFItXV6ark",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "XIOoqJyx8E4",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Zero' Official MV",
+   "url": "https://www.youtube.com/watch?v=XIOoqJyx8E4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Xw-rOxA0ItI",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) Live @ Lollapalooza 2023 (Full Performance)",
+   "url": "https://www.youtube.com/watch?v=Xw-rOxA0ItI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "XymBDoK1b_k",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] 봄맞이 피크닉 EP.1 피크닉 즐기는 법🧺 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=XymBDoK1b_k",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Y2J1iYL5VPQ",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] 엉망잔칭 토론회 EP.2 엉망잔칭의 끝👑 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=Y2J1iYL5VPQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "YBJk2dUzLiY",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] 'Ditto' & 'OMG' Music Show Behind | NewJeans",
+   "url": "https://www.youtube.com/watch?v=YBJk2dUzLiY",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "YJ76c3QQ0Yo",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Ditto' Performance Video (DANIELLE ver.)",
+   "url": "https://www.youtube.com/watch?v=YJ76c3QQ0Yo",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "YY7-2DSCTZQ",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] 2023 Chuseok Photoshoot Behind 🐰🌕 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=YY7-2DSCTZQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Yb0G-IeZn0E",
+   "date": "2023-10-13",
+   "title": "뉴진스가 전하는 2023학년도 수능 응원 메시지📝",
+   "url": "https://www.youtube.com/watch?v=Yb0G-IeZn0E",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "YuUYjG8lO4E",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Ditto' Performance Video (HAERIN ver.)",
+   "url": "https://www.youtube.com/watch?v=YuUYjG8lO4E",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Z460rT2md8I",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) Listening To 'Ditto'🎵",
+   "url": "https://www.youtube.com/watch?v=Z460rT2md8I",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "ZETQ1MKypC8",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Ditto' Stage Cam @ 2023 FNS Music Festival Summer",
+   "url": "https://www.youtube.com/watch?v=ZETQ1MKypC8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "ZLhIr5ko3jI",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] NewTube EP.1 채널 오픈🎬 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=ZLhIr5ko3jI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "ZdqvZW7dvq0",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] 2nd EP 'Get Up' Music Show Behind 🎀 EP.2 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=ZdqvZW7dvq0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "ZlyE2fEpsd8",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Ditto' 응원법",
+   "url": "https://www.youtube.com/watch?v=ZlyE2fEpsd8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "_0PhzI1ZwF0",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] 23FW Seoul Fashion Week Photoshoot Behind | NewJeans",
+   "url": "https://www.youtube.com/watch?v=_0PhzI1ZwF0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "_Xs1ZCMfa2Y",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'OMG' Dance Practice",
+   "url": "https://www.youtube.com/watch?v=_Xs1ZCMfa2Y",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "_iEeYsmDZ4Y",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] 'Ditto'&'OMG' Performance Video Behind 🏫🛋🎸👯‍♀️",
+   "url": "https://www.youtube.com/watch?v=_iEeYsmDZ4Y",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "_nTXZuR_Cs0",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Ditto' Performance Video (HANNI ver.)",
+   "url": "https://www.youtube.com/watch?v=_nTXZuR_Cs0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "_tGwvBVsIFo",
+   "date": "2023-10-13",
+   "title": "WELCOME to Bunnies Club! #MINJI | NewJeans",
+   "url": "https://www.youtube.com/watch?v=_tGwvBVsIFo",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "aAqCiKOCaWM",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] 우천 시 취소 특집 EP.2 집캉스 하우스 탈출기 🔐 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=aAqCiKOCaWM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "aJqS7BY5XE4",
+   "date": "2023-10-13",
+   "title": "NewJeans(뉴진스) \"OMG\" COUNTDOWN LIVE",
+   "url": "https://www.youtube.com/watch?v=aJqS7BY5XE4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "acJTj4TrZ3Y",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE+] 랜덤 지목 댄스 👉🕺 OMG+Ditto+Hype Boy (Full ver.) | NewJeans",
+   "url": "https://www.youtube.com/watch?v=acJTj4TrZ3Y",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "au7sxy4R5Rw",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] Seollal Park 설날파크🎲 EP.2 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=au7sxy4R5Rw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "bTfMp582l34",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'OMG' 응원법",
+   "url": "https://www.youtube.com/watch?v=bTfMp582l34",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "bXjM1nFMxr8",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'OMG' Performance Video (HYEIN ver.)",
+   "url": "https://www.youtube.com/watch?v=bXjM1nFMxr8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "cVXh3zrlfYE",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] Konkuk University Festival 2022 BehindㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=cVXh3zrlfYE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "ciZtj919Q-k",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] LEVI'S® Photoshoot Behind 👖| NewJeans",
+   "url": "https://www.youtube.com/watch?v=ciZtj919Q-k",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "cqgjrD0L08A",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] GRANNIE'S FARM EP.2 딸기잼 말고 더 있는 🍓 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=cqgjrD0L08A",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "eOmBsNbdUP4",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] STONEHENgE Behind 🌟 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=eOmBsNbdUP4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "f6x_m32y5u4",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] DANIELLE Vogue Photoshoot Behind | NewJeans",
+   "url": "https://www.youtube.com/watch?v=f6x_m32y5u4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "f7cNY8vYA2Y",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Cool With You' Dance Practice (Fix ver.)",
+   "url": "https://www.youtube.com/watch?v=f7cNY8vYA2Y",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "fHi1mAYCHnI",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'New Jeans' Dance Practice (Fix ver.)",
+   "url": "https://www.youtube.com/watch?v=fHi1mAYCHnI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "fMmCiHzIV70",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] OIOI 22FW Photoshoot Behind | NewJeans",
+   "url": "https://www.youtube.com/watch?v=fMmCiHzIV70",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "fhMWILbfFdg",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) Holiday Talk🐰🎁 Part.1",
+   "url": "https://www.youtube.com/watch?v=fhMWILbfFdg",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "gxVxGSoj7Y0",
+   "date": "2023-10-13",
+   "title": "[NewZips] Pajama Party 🌃✨ EP.6ㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=gxVxGSoj7Y0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "h4RI18NeN6g",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'OMG' Performance Video (HANNI ver.)",
+   "url": "https://www.youtube.com/watch?v=h4RI18NeN6g",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "hCvQ5ce2RSc",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] 하루 종일 체육 시간!  🎾 EP.2 승부욕에 진심인 편 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=hCvQ5ce2RSc",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "i4O06hEHJx8",
+   "date": "2023-10-13",
+   "title": "Do Everything You Want at Bunnies Club! | NewJeans",
+   "url": "https://www.youtube.com/watch?v=i4O06hEHJx8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "iF777W0uIeQ",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] MUSINSA Photoshoot BehindㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=iF777W0uIeQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "iVi4PgN3ndw",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] NIKE Air Max Behind | NewJeans",
+   "url": "https://www.youtube.com/watch?v=iVi4PgN3ndw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "iefFmb9IcxA",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] W KOREA Photoshoot Behind🎄EP.1ㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=iefFmb9IcxA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "iiVGIpQEigM",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Cool With You' MV Reaction",
+   "url": "https://www.youtube.com/watch?v=iiVGIpQEigM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "ir6ndUQ2pS4",
+   "date": "2023-10-13",
+   "title": "[About Jeans] Chicago Shopping Day 👛 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=ir6ndUQ2pS4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "jCeji_YZRCU",
+   "date": "2023-10-13",
+   "title": "WELCOME to Bunnies Club! #HAERIN | NewJeans",
+   "url": "https://www.youtube.com/watch?v=jCeji_YZRCU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "jeKFPHa9Kec",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 2023 TMA Dance Practice",
+   "url": "https://www.youtube.com/watch?v=jeKFPHa9Kec",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "jimmEPMTft4",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] Bunnyland Pop-Up Behind | NewJeans",
+   "url": "https://www.youtube.com/watch?v=jimmEPMTft4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "kIDFwr4WIns",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] 랜덤 지목 댄스 Behind | NewJeans",
+   "url": "https://www.youtube.com/watch?v=kIDFwr4WIns",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "kNJcVolNJaU",
+   "date": "2023-10-13",
+   "title": "[Preview] NewJeans (뉴진스) 2023 SEASON’S GREETINGS Clip #2",
+   "url": "https://www.youtube.com/watch?v=kNJcVolNJaU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "knRVMlRu1xU",
+   "date": "2023-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 'OMG' Dance Practice Behind",
+   "url": "https://www.youtube.com/watch?v=knRVMlRu1xU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "latFcM2UMjc",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Super Shy' 응원법",
+   "url": "https://www.youtube.com/watch?v=latFcM2UMjc",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "m3sM0zIG1jY",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'OMG' Performance Video (Fix ver.)",
+   "url": "https://www.youtube.com/watch?v=m3sM0zIG1jY",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "mG3fCtQZ60Y",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] 2nd EP 'Get Up' Music Show Behind 🦋 EP.3 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=mG3fCtQZ60Y",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "n6UioIF7ryY",
+   "date": "2023-10-13",
+   "title": "[By Jeans] 'V - Slow Dancing' Cover by HYEIN | NewJeans",
+   "url": "https://www.youtube.com/watch?v=n6UioIF7ryY",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "nH3QsG1m7S8",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] MBTI 탐구 시간💥 EP.2ㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=nH3QsG1m7S8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "nfyXn-bKzU8",
+   "date": "2023-10-13",
+   "title": "Happy Seollal! | NewJeans' 2023 Lunar New Year Greeting",
+   "url": "https://www.youtube.com/watch?v=nfyXn-bKzU8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "nh0xMF3wxG0",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE+] 랜덤 지목 댄스 👉🕺 OMG+Ditto+Hype Boy | NewJeans",
+   "url": "https://www.youtube.com/watch?v=nh0xMF3wxG0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "nprwN0QhgnI",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Ditto' Performance Video (HYEIN ver.)",
+   "url": "https://www.youtube.com/watch?v=nprwN0QhgnI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "oIysDTZk48w",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] 2023년 추석맞이 스몰 토크 🐰🌕 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=oIysDTZk48w",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "oYatRQzoEu0",
+   "date": "2023-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 'ETA' MV Behind",
+   "url": "https://www.youtube.com/watch?v=oYatRQzoEu0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "otq_g0EqEl0",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'ASAP' MV Reaction",
+   "url": "https://www.youtube.com/watch?v=otq_g0EqEl0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "pnMtLeV1sac",
+   "date": "2023-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 'OMG' MV Behind",
+   "url": "https://www.youtube.com/watch?v=pnMtLeV1sac",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "qD7htOkMX4Q",
+   "date": "2023-10-13",
+   "title": "Let’s Make A Cake Together🐰🍰 #Bunnies🔥",
+   "url": "https://www.youtube.com/watch?v=qD7htOkMX4Q",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "qNlCGt9agA0",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'OMG' Dance Clip",
+   "url": "https://www.youtube.com/watch?v=qNlCGt9agA0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "qOLv8Wy-d-k",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) ‘Attention’ MV Reaction (Debut 1st Anniversary ver.)",
+   "url": "https://www.youtube.com/watch?v=qOLv8Wy-d-k",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "qsHvdRA0a6o",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Super Shy' Dance Practice (Fix ver.)",
+   "url": "https://www.youtube.com/watch?v=qsHvdRA0a6o",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "sUz5DERlAok",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Ditto' Performance Video (MINJI ver.)",
+   "url": "https://www.youtube.com/watch?v=sUz5DERlAok",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "t1-pGE1XsFw",
+   "date": "2023-10-13",
+   "title": "Happy Chuseok! NewJeans' 2023 Chuseok Greeting 🐰🌕",
+   "url": "https://www.youtube.com/watch?v=t1-pGE1XsFw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "t6mb7PBh2OQ",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Cool With You' 응원법",
+   "url": "https://www.youtube.com/watch?v=t6mb7PBh2OQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "tAfjh17efS8",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] DANIELLE 〈The Little Mermaid〉 Korean Dubbing Behind🫧 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=tAfjh17efS8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "tRtf6WlpS6E",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] SKT Photoshoot Behind | NewJeans",
+   "url": "https://www.youtube.com/watch?v=tRtf6WlpS6E",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "tkZXfSxcDlU",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] YEAR END PARTY 🎤 EP.2 파티 타임!ㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=tkZXfSxcDlU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "tqbe3zu3qjM",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'ETA' Dance Practice (Fix ver.)",
+   "url": "https://www.youtube.com/watch?v=tqbe3zu3qjM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "u8319ZVFAx8",
+   "date": "2023-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 'Super Shy' Recording Behind",
+   "url": "https://www.youtube.com/watch?v=u8319ZVFAx8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "u8tsJhU3Olg",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] OIOI 23SS Photoshoot Behind | NewJeans",
+   "url": "https://www.youtube.com/watch?v=u8tsJhU3Olg",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "uONSk48LW1A",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Hurt (250 Remix)' Special Video",
+   "url": "https://www.youtube.com/watch?v=uONSk48LW1A",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "ugdHkP4kZpQ",
+   "date": "2023-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 'New Jeans' & 'ASAP' MV Behind (Final)",
+   "url": "https://www.youtube.com/watch?v=ugdHkP4kZpQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "vMaBr2NdaVc",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] DANIELLE YSL Beauty Behind 💄 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=vMaBr2NdaVc",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "vOe_2Fg-FRU",
+   "date": "2023-10-13",
+   "title": "WELCOME to Bunnies Club! #HYEIN | NewJeans",
+   "url": "https://www.youtube.com/watch?v=vOe_2Fg-FRU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "wJcTtHJhd2Q",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] 2023 Weverse Con Festival Behind 🎈 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=wJcTtHJhd2Q",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "wU2siJ2c5TA",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Super Shy' Dance Practice",
+   "url": "https://www.youtube.com/watch?v=wU2siJ2c5TA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "wfbkBvmZ89M",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'ETA' 응원법",
+   "url": "https://www.youtube.com/watch?v=wfbkBvmZ89M",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "wtnGGyCIk64",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'Ditto' MV Reaction",
+   "url": "https://www.youtube.com/watch?v=wtnGGyCIk64",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "xWRS5zyJbHA",
+   "date": "2023-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 'Cool With You' Dance Practice Behind",
+   "url": "https://www.youtube.com/watch?v=xWRS5zyJbHA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "xYOb2z8JWNM",
+   "date": "2023-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 2nd EP Jacket Photoshoot Behind",
+   "url": "https://www.youtube.com/watch?v=xYOb2z8JWNM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "xbUoOT4gXZg",
+   "date": "2023-10-13",
+   "title": "[About Jeans] 재미로 하니🙃 EP.1 LA 가는 재미 | HANNI vlog",
+   "url": "https://www.youtube.com/watch?v=xbUoOT4gXZg",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "xbb1OxLkGCg",
+   "date": "2023-10-13",
+   "title": "📺 NewJeans Holiday Special🎄💫",
+   "url": "https://www.youtube.com/watch?v=xbb1OxLkGCg",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "xbvjjhyaoSA",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'OMG' Dance Practice (Fix ver.)",
+   "url": "https://www.youtube.com/watch?v=xbvjjhyaoSA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "xwUkRvwJ79E",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] McDonald's Behind | NewJeans",
+   "url": "https://www.youtube.com/watch?v=xwUkRvwJ79E",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "yYXk0OVlapc",
+   "date": "2023-10-13",
+   "title": "[By Jeans] 'V - Rainy Days' Cover by DANIELLE | NewJeans",
+   "url": "https://www.youtube.com/watch?v=yYXk0OVlapc",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "yh9UdeSPTdQ",
+   "date": "2023-10-13",
+   "title": "[Jeans' ZINE] Game Day EP.1 007빵, 텔레스테이션 🕹 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=yh9UdeSPTdQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "z_7GGGbaXkU",
+   "date": "2023-10-13",
+   "title": "[Light Jeans] MINJI ELLE Photoshoot Behind | NewJeans",
+   "url": "https://www.youtube.com/watch?v=z_7GGGbaXkU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "zzwWzLY7kEo",
+   "date": "2023-10-13",
+   "title": "NewJeans (뉴진스) 'ETA' Dance Practice",
+   "url": "https://www.youtube.com/watch?v=zzwWzLY7kEo",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "-sXbmJd_KHM",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'Hype Boy' Stage Cam @ HONGIK UNIVERSITY",
+   "url": "https://www.youtube.com/watch?v=-sXbmJd_KHM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "12GuHGTYenI",
+   "date": "2024-10-13",
+   "title": "[About Jeans] 미술관 나들이 2탄☀️ | NewJeans Vlog",
+   "url": "https://www.youtube.com/watch?v=12GuHGTYenI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "13CXZeoeMa8",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] NewJeans in Singapore with Nike🌴 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=13CXZeoeMa8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "1gUnvlQtcDY",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'Supernatural' Dance Practice (Fix ver.)",
+   "url": "https://www.youtube.com/watch?v=1gUnvlQtcDY",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "28fpCU4X_jI",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] HYEIN Vogue Korea Photoshoot Behind 🪽 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=28fpCU4X_jI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "2Su9AhAV2Pk",
+   "date": "2024-10-13",
+   "title": "[About Jeans] 재미로 하니🙃 EP.3 두 번째 밀라노 가는 재미 | HANNI vlog",
+   "url": "https://www.youtube.com/watch?v=2Su9AhAV2Pk",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "2rE4uldOSrw",
+   "date": "2024-10-13",
+   "title": "[About Jeans] 재미로 하니🙃 EP.7 back home 🏡 | HANNI vlog",
+   "url": "https://www.youtube.com/watch?v=2rE4uldOSrw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "3TjZzsKPBGw",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] Billboard Women In Music Photoshoot Behind🌷 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=3TjZzsKPBGw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "3jr25MANlOI",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'How Sweet' Dance Practice (Fix ver.)",
+   "url": "https://www.youtube.com/watch?v=3jr25MANlOI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "3mUKCsBTP58",
+   "date": "2024-10-13",
+   "title": "Happy Seollal! NewJeans’ 2024 Lunar New Year Greeting 🪁",
+   "url": "https://www.youtube.com/watch?v=3mUKCsBTP58",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "3y9_jmVPhHM",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] 24SS Seoul Fashion Week Campaign Behind | NewJeans",
+   "url": "https://www.youtube.com/watch?v=3y9_jmVPhHM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "45PssTBLYN4",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] 'How Sweet' & 'Bubble Gum' Music Show Behind EP.1| NewJeans",
+   "url": "https://www.youtube.com/watch?v=45PssTBLYN4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "4xer6EPtYdw",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'Right Now' Dance Practice",
+   "url": "https://www.youtube.com/watch?v=4xer6EPtYdw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "50LYcGiWDBY",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE] 제1회 JZ 퀴즈쇼 EP.2 예상했어 나 🧐 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=50LYcGiWDBY",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "57TROO9jLAI",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] 2023 Billboard Music Awards Behind 🪩 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=57TROO9jLAI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "5OwvrCEf75E",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 2024 SBS 가요대전 Summer Dance Practice",
+   "url": "https://www.youtube.com/watch?v=5OwvrCEf75E",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "6ExTQx1gzLk",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE] 조금 이른 봄놀이 EP.2 비가 와도 직진 직진🛶 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=6ExTQx1gzLk",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "77exoBXDIYQ",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'Bubble Gum' MV Review",
+   "url": "https://www.youtube.com/watch?v=77exoBXDIYQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "7ue846qIYMY",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'How Sweet' MV Review",
+   "url": "https://www.youtube.com/watch?v=7ue846qIYMY",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "7xOZolSZyGo",
+   "date": "2024-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 'Supernatural' & 'Right Now' Recording Behind",
+   "url": "https://www.youtube.com/watch?v=7xOZolSZyGo",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "7yZz_eZC_vs",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] The Face Magazine Photoshoot Behind 🔦 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=7yZz_eZC_vs",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "83kvhmsfGk4",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] Shinhan SOL Travel Check Card Campaign Behind 💳 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=83kvhmsfGk4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "8FpaiZrVoho",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) The 38th GOLDEN DISC AWARDS Dance Practice",
+   "url": "https://www.youtube.com/watch?v=8FpaiZrVoho",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "8KT2buwnNtY",
+   "date": "2024-10-13",
+   "title": "[About Jeans] 재미로 하니🙃 EP.6 daily scraps 🗑 | HANNI vlog",
+   "url": "https://www.youtube.com/watch?v=8KT2buwnNtY",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "8Usgble0HZk",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] 24FW Seoul Fashion Week Campaign Behind🌃 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=8Usgble0HZk",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "8b-ODdKLf_k",
+   "date": "2024-10-13",
+   "title": "[About Jeans] 재미로 하니🙃 EP.4 미아랑 밀리를 보러 가는 재미 | HANNI vlog",
+   "url": "https://www.youtube.com/watch?v=8b-ODdKLf_k",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "8mSTSg3OnD4",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] Essential Campaign Behind🫧 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=8mSTSg3OnD4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "8pMReO11Ln8",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] LEVI'S® 501CUSTOMIZATION Hero Campaign Behind🧢 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=8pMReO11Ln8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "8sbFY6TO1zY",
+   "date": "2024-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 'How Sweet' & 'Bubble Gum' Dance Practice Behind",
+   "url": "https://www.youtube.com/watch?v=8sbFY6TO1zY",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "958bjfKWAD4",
+   "date": "2024-10-13",
+   "title": "[About Jeans] MINJI SCENE🎬 #5 비아리츠 가요? | MINJI vlog",
+   "url": "https://www.youtube.com/watch?v=958bjfKWAD4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "9nKMVI8OEEs",
+   "date": "2024-10-13",
+   "title": "NewJeans' Cheering Message for the 2024 College Scholastic Ability Test 📝",
+   "url": "https://www.youtube.com/watch?v=9nKMVI8OEEs",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "9qOXpzcg8ME",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] DANIELLE W KOREA Photoshoot Behind 🕶️ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=9qOXpzcg8ME",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "9u2xXFLQHdc",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'How Sweet' 응원법",
+   "url": "https://www.youtube.com/watch?v=9u2xXFLQHdc",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "9xK5GdVOAIA",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] NIKE Air Max Campaign Shoot Behind 👟 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=9xK5GdVOAIA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "AEpg7yJG-Ac",
+   "date": "2024-10-13",
+   "title": "[Preview] NewJeans (뉴진스) Yearbook 22-23 Preview Clip #3",
+   "url": "https://www.youtube.com/watch?v=AEpg7yJG-Ac",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "AiKeq-fQOUI",
+   "date": "2024-10-13",
+   "title": "[About Jeans] 걍해린 2걍. 도쿄 나들이 | HAERIN vlog",
+   "url": "https://www.youtube.com/watch?v=AiKeq-fQOUI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "AqPjuir_KoA",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] Coca-Cola Behind 🥤 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=AqPjuir_KoA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "B0BEtgu2gp4",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'Right Now' 응원법",
+   "url": "https://www.youtube.com/watch?v=B0BEtgu2gp4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "B2MwERJTFLQ",
+   "date": "2024-10-13",
+   "title": "[About Jeans] 재미로 하니🙃 EP.5  Phamily trip to Vietnam🪷 | HANNI vlog",
+   "url": "https://www.youtube.com/watch?v=B2MwERJTFLQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "BCdstqea_Pk",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE👾] 체험 삶의 목장 EP.1 일일 목장장 이혜인 👩‍🌾💦 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=BCdstqea_Pk",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "BRYL_vYTKiQ",
+   "date": "2024-10-13",
+   "title": "[NewJeans Day🎂] Bunnies Love NewJeans 🐰💙",
+   "url": "https://www.youtube.com/watch?v=BRYL_vYTKiQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "BgQh6ThOj9Q",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE🍥] 린틀포레스트 EP.1 맷돌 커피 장인 강해린 (feat.🌵) | NewJeans",
+   "url": "https://www.youtube.com/watch?v=BgQh6ThOj9Q",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "BxeFmWY8Rps",
+   "date": "2024-10-13",
+   "title": "[About Jeans] 오늘을, 기록혠 3 ⊹ 두 번째 파리의 오늘 | HYEIN vlog",
+   "url": "https://www.youtube.com/watch?v=BxeFmWY8Rps",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "DoHvCdl35qk",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] 'How Sweet' & 'Bubble Gum' Music Show Behind EP.2 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=DoHvCdl35qk",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "E1Fgm3kmywM",
+   "date": "2024-10-13",
+   "title": "[About Jeans] 민지와 하니의 숙소 첫 구경 모먼트 🏠👀 | NewJeans Vlog",
+   "url": "https://www.youtube.com/watch?v=E1Fgm3kmywM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "EWaojqzNBpg",
+   "date": "2024-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 'Right Now' MV Behind",
+   "url": "https://www.youtube.com/watch?v=EWaojqzNBpg",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Ec0Z1v7jKDQ",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) ‘How Sweet’ Performance Video | Coke Studio",
+   "url": "https://www.youtube.com/watch?v=Ec0Z1v7jKDQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "FKHqiV-9xLA",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'Supernatural' Dance Practice",
+   "url": "https://www.youtube.com/watch?v=FKHqiV-9xLA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "FN_KHxXZC0k",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE] 제2회 엉망잔칭 토론회 EP.1 데자부🤦‍♀️ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=FN_KHxXZC0k",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "GKWeCIIOpb0",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] MINJI Harper's BAZAAR Photoshoot Behind💄 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=GKWeCIIOpb0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "GLGk6TGANP8",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'Super Shy' Stage Cam @ KYUNGHEE UNIVERSITY",
+   "url": "https://www.youtube.com/watch?v=GLGk6TGANP8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "GPQI83T-cR4",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 7",
+   "url": "https://www.youtube.com/watch?v=GPQI83T-cR4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "H-PeJ06fXZM",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] OLENS Behind 💐  | NewJeans",
+   "url": "https://www.youtube.com/watch?v=H-PeJ06fXZM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "HIN03H2-u8M",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] Bunnies Camp 2024 Tokyo Dome Behind EP.1  | NewJeans",
+   "url": "https://www.youtube.com/watch?v=HIN03H2-u8M",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "HWiiwmzPJe4",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'How Sweet' Stage Cam @ KOREA UNIVERSITY",
+   "url": "https://www.youtube.com/watch?v=HWiiwmzPJe4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Hnmz2nvvqwA",
+   "date": "2024-10-13",
+   "title": "I won't wait, I'm feeling🪩 #NewJeans #뉴진스 #NewJeans_HowSweet #NewJeans_is_Everywhere",
+   "url": "https://www.youtube.com/watch?v=Hnmz2nvvqwA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "HramRxsThE4",
+   "date": "2024-10-13",
+   "title": "[Preview] NewJeans (뉴진스) Yearbook 22-23 Preview Clip #2",
+   "url": "https://www.youtube.com/watch?v=HramRxsThE4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "I8QdQxABg3w",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] CARIN Photoshoot Behind 🕶️",
+   "url": "https://www.youtube.com/watch?v=I8QdQxABg3w",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "IHEaDw8bQ5I",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] HANNI UGG Behind🤍  | NewJeans",
+   "url": "https://www.youtube.com/watch?v=IHEaDw8bQ5I",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Iw43IE9xA-s",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE] 뉴진스파랜드 EP.1 축 개업 ♨ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=Iw43IE9xA-s",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Izj4le3N2BE",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] University Festivals 2023 Behind | NewJeans",
+   "url": "https://www.youtube.com/watch?v=Izj4le3N2BE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "J09BhYfVGqU",
+   "date": "2024-10-13",
+   "title": "[About Jeans] :D Days🌻 (Day 5) 모다니 타이베이에 갔다니~~💞🌙✈️ | DANIELLE vlog",
+   "url": "https://www.youtube.com/watch?v=J09BhYfVGqU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "J5LrBDQxaqU",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE🐢] 다니엘의 힐링 여행 EP.2 나홀로 캠핑🏕🍳🎙 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=J5LrBDQxaqU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "JZbDStvNVBE",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] POPEYE Photoshoot Behind 🏙 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=JZbDStvNVBE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "JpYiXS_jHl4",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] HAERIN Vogue Hong Kong Photoshoot Behind 🦋 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=JpYiXS_jHl4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "KMIDJb942bc",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE💫] 알바왕 김민지 EP.1 나이키 강남 스토어 준비 갈 완료 (갈 준비 완료.)🏃‍♀️ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=KMIDJb942bc",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "KNpU0wB2ozo",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE] 제2회 엉망잔칭 토론회 EP.2 뉴 헤어 뉴 퀸👸🪄 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=KNpU0wB2ozo",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "KReeCbW8D6I",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] 2024년 추석맞이 스몰 토크 🐰🌕 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=KReeCbW8D6I",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "KS-h2vMTDck",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'Supernatural' 응원법",
+   "url": "https://www.youtube.com/watch?v=KS-h2vMTDck",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "LWEFNhsLjX0",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] HAERIN W KOREA Photoshoot Behind🐈‍⬛ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=LWEFNhsLjX0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Lob6bD_ytd4",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE🧺] 꼬마 유치원 하니 둘 셋 EP.2 잎새반 맑음 Lv.96☀️ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=Lob6bD_ytd4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "LwZnGPJsoAM",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE] 우밤당낮 아케이드 EP.2 아무도 못 이김 👽🖍️🛞 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=LwZnGPJsoAM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "MkZRrg7JMwY",
+   "date": "2024-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 'Supernatural' MV Behind",
+   "url": "https://www.youtube.com/watch?v=MkZRrg7JMwY",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "N1yypxDSxpY",
+   "date": "2024-10-13",
+   "title": "[About Jeans] 걍해린 4걍. 뉴욕 나들이 | HAERIN vlog",
+   "url": "https://www.youtube.com/watch?v=N1yypxDSxpY",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "NB44sWLhAAQ",
+   "date": "2024-10-13",
+   "title": "[About Jeans] 오늘을, 기록혠 2 ⊹ 시골에 간 혠스터의 오늘 | HYEIN vlog",
+   "url": "https://www.youtube.com/watch?v=NB44sWLhAAQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "NJFxdS5ofio",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] Shinhan Financial Group Campaign behind📱| NewJeans",
+   "url": "https://www.youtube.com/watch?v=NJFxdS5ofio",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "OI496CZ64Ok",
+   "date": "2024-10-13",
+   "title": "[About Jeans] MINJI SCENE🎬 #3 도쿄 가요? | MINJI vlog",
+   "url": "https://www.youtube.com/watch?v=OI496CZ64Ok",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Ol1K9K2HRqo",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] STONEHENgE Behind  | NewJeans",
+   "url": "https://www.youtube.com/watch?v=Ol1K9K2HRqo",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "P7gcp4-ovYQ",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'How Sweet' Stage Cam @ DONGGUK UNIVERSITY",
+   "url": "https://www.youtube.com/watch?v=P7gcp4-ovYQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Q8g69eWMDtY",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] HYEIN ELLE Japan Photoshoot Behind⚜️ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=Q8g69eWMDtY",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "QI6YU6OZ_FA",
+   "date": "2024-10-13",
+   "title": "[About Jeans] MINJI SCENE🎬 #2 파리 가요? | MINJI vlog",
+   "url": "https://www.youtube.com/watch?v=QI6YU6OZ_FA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "QWF61fHJa7g",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'OMG' Stage Cam @ SUNGKYUNKWAN UNIVERSITY",
+   "url": "https://www.youtube.com/watch?v=QWF61fHJa7g",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "RdHR1cZZUR0",
+   "date": "2024-10-13",
+   "title": "[By Jeans] 'Sarah Kang - once in a moon' Cover by HANNI | NewJeans",
+   "url": "https://www.youtube.com/watch?v=RdHR1cZZUR0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "RmrxJyhKfPM",
+   "date": "2024-10-13",
+   "title": "hanni's folder : what home feels like",
+   "url": "https://www.youtube.com/watch?v=RmrxJyhKfPM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "S8TdWciSJys",
+   "date": "2024-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 'Supernatural' Jacket Photoshoot Behind",
+   "url": "https://www.youtube.com/watch?v=S8TdWciSJys",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "T7NItc3JHDA",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] SKT A. Behind 🤖 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=T7NItc3JHDA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "TVwcdynVbHE",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE] 조금 이른 봄놀이 EP.1 날씨의 배신🌧 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=TVwcdynVbHE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Uf6dA4X_dd4",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE] 우밤당낮 아케이드 EP.1 게임을 시작하지…👽🛸💫 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=Uf6dA4X_dd4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "VWLWY2mLL2I",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'ETA' Stage Cam @ CHOSUN UNIVERSITY",
+   "url": "https://www.youtube.com/watch?v=VWLWY2mLL2I",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "ViGYz2uem3Q",
+   "date": "2024-10-13",
+   "title": "[About Jeans] :D Days🌻 (Day 4) 모셀린 파리에 빠지다⭐️💗 | DANIELLE vlog",
+   "url": "https://www.youtube.com/watch?v=ViGYz2uem3Q",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Vt9ae-BgAfs",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] HAERIN W KOREA Beauty Photoshoot Behind 🌷 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=Vt9ae-BgAfs",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "W2M2TgKjMtQ",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'Supernatural' Dance Practice (Handheld ver.)",
+   "url": "https://www.youtube.com/watch?v=W2M2TgKjMtQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "W62T4mdlfOI",
+   "date": "2024-10-13",
+   "title": "[About Jeans] 걍해린 3걍. 두 번째 파리 나들이 | HAERIN vlog",
+   "url": "https://www.youtube.com/watch?v=W62T4mdlfOI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "W9zz89BwAZ8",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'How Sweet' Dance Practice",
+   "url": "https://www.youtube.com/watch?v=W9zz89BwAZ8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "WEtMg-qPREY",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] 1st Fan Meeting 'Bunnies Camp' Behind ⛺️🍀| NewJeans",
+   "url": "https://www.youtube.com/watch?v=WEtMg-qPREY",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "WQmOJcmJ58Q",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE👾] 체험 삶의 목장 EP.2 혜인이는 즐거워 😆🧹🐑🐄 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=WQmOJcmJ58Q",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "XSJqQaZfZLQ",
+   "date": "2024-10-13",
+   "title": "[Preview] NewJeans (뉴진스) Yearbook 22-23 Preview Clip #1",
+   "url": "https://www.youtube.com/watch?v=XSJqQaZfZLQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "XVwbkHoqkIA",
+   "date": "2024-10-13",
+   "title": "[About Jeans] 오늘을, 기록혠 4 ⊹ 세 번째 파리의 오늘 | HYEIN vlog",
+   "url": "https://www.youtube.com/watch?v=XVwbkHoqkIA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "YUcaWZZqUzs",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE] Go! Go! Jeans! EP.2 너랑만 있으면 무서울 게 없어 💥🔫 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=YUcaWZZqUzs",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "ZKELzUG99Iw",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'Right Now' MV Reaction",
+   "url": "https://www.youtube.com/watch?v=ZKELzUG99Iw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "ZkPCccHzedI",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] Nike Air Max Dynamic Land Pop-up Behind🥽 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=ZkPCccHzedI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "ZopziBas10I",
+   "date": "2024-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 'Supernatural' Dance Practice Behind",
+   "url": "https://www.youtube.com/watch?v=ZopziBas10I",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "_8sZg3MgR5s",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] MINJI W KOREA Photoshoot Behind🍃 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=_8sZg3MgR5s",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "_8z6tRLKSIY",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'Bubble Gum' Dance Practice (Fix ver.)",
+   "url": "https://www.youtube.com/watch?v=_8z6tRLKSIY",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "a3TqvRLr4B4",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] HANNI ELLE Photoshoot Behind 💍 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=a3TqvRLr4B4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "a7JDrjIZOVs",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'Hype Boy' Stage Cam @ CHUNG-ANG UNIVERSITY",
+   "url": "https://www.youtube.com/watch?v=a7JDrjIZOVs",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "aPf1H_gYEnE",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] 'Supernatural' & 'Right Now' Music Show Behind | NewJeans",
+   "url": "https://www.youtube.com/watch?v=aPf1H_gYEnE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "b59fhbp_WAw",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE] 뉴진스파랜드 EP.2 찜질방 적응기🤞 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=b59fhbp_WAw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "bV_GeN61zVw",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE] ASAP Wish List 🦄 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=bV_GeN61zVw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "bk50RC7XGlc",
+   "date": "2024-10-13",
+   "title": "[About Jeans] Moments from Summer in Tokyo🌳 | NewJeans vlog",
+   "url": "https://www.youtube.com/watch?v=bk50RC7XGlc",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "d0oFq3jJ8X0",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] 2023 TMA Behind👸 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=d0oFq3jJ8X0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "d9xSA4GpBL0",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] DANIELLE DAZED Photoshoot Behind🍃| NewJeans",
+   "url": "https://www.youtube.com/watch?v=d9xSA4GpBL0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "dq8aMNGDGP8",
+   "date": "2024-10-13",
+   "title": "[NewJeans Day🎂] Happy 2nd Anniversary 🌃",
+   "url": "https://www.youtube.com/watch?v=dq8aMNGDGP8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "dqY3mm3DZJA",
+   "date": "2024-10-13",
+   "title": "[Preview] NewJeans (뉴진스) 2024 SEASON'S GREETINGS Preview Clip #2",
+   "url": "https://www.youtube.com/watch?v=dqY3mm3DZJA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "e4TaDn2d058",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] 2024 Billboard Women in Music Short Behind🎙️ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=e4TaDn2d058",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "eesCdVZEwBc",
+   "date": "2024-10-13",
+   "title": "[About Jeans] Summer in Tokyo 🍨🍧 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=eesCdVZEwBc",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "eqt5mrgAqW0",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] It’s time for Lollapalooza 2023 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=eqt5mrgAqW0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "fUp3RM86ZjA",
+   "date": "2024-10-13",
+   "title": "[About Jeans] :D Days🌻 (Day 2) OMG!🌴🦥 베트남에 갔다니🙊 | DANIELLE vlog",
+   "url": "https://www.youtube.com/watch?v=fUp3RM86ZjA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "f_lVGYQbXlM",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] Bunnies Camp 2024 Tokyo Dome Behind EP.2 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=f_lVGYQbXlM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "gNlR1hZ9_yE",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] LOTTE ZERO Behind 😋 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=gNlR1hZ9_yE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "gQEtQ9LQfhs",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'Bubble Gum' Dance Practice",
+   "url": "https://www.youtube.com/watch?v=gQEtQ9LQfhs",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "haEZn8R6LKc",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] 2024 Chuseok Photoshoot Behind 🐰🌕 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=haEZn8R6LKc",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "iEr6m_QCtFo",
+   "date": "2024-10-13",
+   "title": "[About Jeans] 걍해린 1걍. 파리 나들이 | HAERIN vlog",
+   "url": "https://www.youtube.com/watch?v=iEr6m_QCtFo",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "iPffGO4sKm4",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] PEPERO Behind ❣️ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=iPffGO4sKm4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "jZSVOfmeVTs",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] 2023 MMA Behind🎵 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=jZSVOfmeVTs",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "j_trgYcvGZo",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE💫] 사격왕 김민지 EP.2 난 힘들 때 활을 날려.. 🏹 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=j_trgYcvGZo",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "k6vqIRScUTs",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) New Year’s Rockin’ Eve 2024 (ETA+Super Shy)",
+   "url": "https://www.youtube.com/watch?v=k6vqIRScUTs",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "kMf9fvNIFS4",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] ShinhanCard Behind 💳 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=kMf9fvNIFS4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "l3_K5vsiFZA",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] 2024 New Year’s Rockin’ Eve Behind🎆 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=l3_K5vsiFZA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "l6vMBxXjlkM",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE] 2023 연말 파티 EP.1 Gingerbread House 만들기 🏘 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=l6vMBxXjlkM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "lgb-z_IxM7s",
+   "date": "2024-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 'Bubble Gum' MV Behind",
+   "url": "https://www.youtube.com/watch?v=lgb-z_IxM7s",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "mDZEznPaDFk",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'OMG' Stage Cam @ PUSAN NATIONAL UNIVERSITY",
+   "url": "https://www.youtube.com/watch?v=mDZEznPaDFk",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "nDlNPbPnMUU",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 2023 MMA Dance Practice",
+   "url": "https://www.youtube.com/watch?v=nDlNPbPnMUU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "o4WIesPB81M",
+   "date": "2024-10-13",
+   "title": "Happy Chuseok! NewJeans' 2024 Chuseok Greeting 🐰🌕",
+   "url": "https://www.youtube.com/watch?v=o4WIesPB81M",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "oMhrUjdkZRs",
+   "date": "2024-10-13",
+   "title": "[About Jeans] :D Days🌻 (Day 1) 호주에 갔다니 | DANIELLE vlog",
+   "url": "https://www.youtube.com/watch?v=oMhrUjdkZRs",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "oN6k-Q4yLok",
+   "date": "2024-10-13",
+   "title": "[Preview] NewJeans (뉴진스) 2024 SEASON'S GREETINGS Preview Clip #1",
+   "url": "https://www.youtube.com/watch?v=oN6k-Q4yLok",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "oahU6529S7w",
+   "date": "2024-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 'Bubble Gum' & 'How Sweet' Recording Behind",
+   "url": "https://www.youtube.com/watch?v=oahU6529S7w",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "opZvcjcuNFs",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE] 제1회 JZ 퀴즈쇼 EP.1 뭔가 수상하다..🕶️ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=opZvcjcuNFs",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "ptnDZPZliPo",
+   "date": "2024-10-13",
+   "title": "[About Jeans] MINJI SCENE🎬 #4 파리 두 번째 가요? | MINJI vlog",
+   "url": "https://www.youtube.com/watch?v=ptnDZPZliPo",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "qI8J7zPwYEE",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'ETA' Stage Cam @ SEOUL NATIONAL UNIVERSITY",
+   "url": "https://www.youtube.com/watch?v=qI8J7zPwYEE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "qY9Qkkryf48",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] HANNI W Korea Photoshoot Behind✨ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=qY9Qkkryf48",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "qyNIxxJ1FWU",
+   "date": "2024-10-13",
+   "title": "[By Jeans] 'Daniel Caesar & H.E.R. - Best Part' Cover by HANNI | NewJeans",
+   "url": "https://www.youtube.com/watch?v=qyNIxxJ1FWU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "r0u5URS3VXE",
+   "date": "2024-10-13",
+   "title": "[Making Jeans] NewJeans (뉴진스) 'How Sweet' MV Behind",
+   "url": "https://www.youtube.com/watch?v=r0u5URS3VXE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "r40gM0BPVys",
+   "date": "2024-10-13",
+   "title": "[About Jeans] :D Days🌻 모다니 파리에 갔다니!!😎💄✨🤩 | DANIELLE vlog",
+   "url": "https://www.youtube.com/watch?v=r40gM0BPVys",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "rY3aMFcbBx4",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] KOREA TOURISM ORGANIZATION Behind 🧳 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=rY3aMFcbBx4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "rw5svRN7-a4",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE💫] 사격왕 김민지 EP.1 명중🔫 명중🔫 명중🔫 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=rw5svRN7-a4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "sC4PkkT0QVA",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE🍥] 린틀포레스트 EP.2 근데.. 이게 맞나? 🏃‍♀️🪁 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=sC4PkkT0QVA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "tIm2LVL6rVM",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'Cookie' Stage Cam @ SEJONG UNIVERSITY",
+   "url": "https://www.youtube.com/watch?v=tIm2LVL6rVM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "tgrPTT7leyw",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE] Go! Go! Jeans! EP.1 🔥What's your ETA? 🏁🔥 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=tgrPTT7leyw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "tjJ-iLDZckw",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE] 우밤당낮 아케이드 EP.3 이 게임의 벌칙은 누가 할래?👽 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=tjJ-iLDZckw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "uB3al5c0gJ4",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] 2023 Japan Music Show Behind | NewJeans",
+   "url": "https://www.youtube.com/watch?v=uB3al5c0gJ4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "ugwvCnHI89A",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE] 2023 연말 파티 EP.2 2023년 돌아보기 & 쿠킹 타임 🥪🍝 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=ugwvCnHI89A",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "vKa-Yvw3QQA",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) Official Light Stick User Guide (공식 응원봉 사용 안내)",
+   "url": "https://www.youtube.com/watch?v=vKa-Yvw3QQA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "vfkVtcYj0cU",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'Bubble Gum' Stage Cam @ DONG-EUI UNIVERSITY",
+   "url": "https://www.youtube.com/watch?v=vfkVtcYj0cU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "wP-IVGgNj-I",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'Bubble Gum' 응원법",
+   "url": "https://www.youtube.com/watch?v=wP-IVGgNj-I",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "waPS1dLcaxY",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE🐢] 다니엘의 힐링 여행 EP.1 모다니와 동물 친구들🐰🦙🐴🐕🐷 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=waPS1dLcaxY",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "wbFm0d2rypo",
+   "date": "2024-10-13",
+   "title": "[Jeans' ZINE🧺] 꼬마 유치원 하니 둘 셋 EP.1 하니 선생님 등장!🐝 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=wbFm0d2rypo",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "x3INFYk0z68",
+   "date": "2024-10-13",
+   "title": "[By Jeans] 'Olivia Dean - Dive' Cover by HANNI | NewJeans",
+   "url": "https://www.youtube.com/watch?v=x3INFYk0z68",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "y4Tr8LE5yV4",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 'Right Now' Dance Practice (Fix ver.)",
+   "url": "https://www.youtube.com/watch?v=y4Tr8LE5yV4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "yNTLDTG6Ydg",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] DANIELLE YSL Beauty Behind 🌹 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=yNTLDTG6Ydg",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "ydTtyQXtMLk",
+   "date": "2024-10-13",
+   "title": "[By Jeans] 'Passenger - Let Her Go' Cover by DANIELLE | NewJeans",
+   "url": "https://www.youtube.com/watch?v=ydTtyQXtMLk",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "z2gfzkLDC0M",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] 2023 연말 Diary 🤳 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=z2gfzkLDC0M",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "z6eHB8Gv3A8",
+   "date": "2024-10-13",
+   "title": "[Light Jeans] University Festivals 2024 Behind🏫  | NewJeans",
+   "url": "https://www.youtube.com/watch?v=z6eHB8Gv3A8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "zGCAGWdXHPM",
+   "date": "2024-10-13",
+   "title": "NewJeans (뉴진스) 2023 Billboard Music Awards (Super Shy+OMG)",
+   "url": "https://www.youtube.com/watch?v=zGCAGWdXHPM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "-Z6qDIBs_JQ",
+   "date": "2025-10-13",
+   "title": "Jeans' Clip # 0️⃣ 7️⃣ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=-Z6qDIBs_JQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "-clT97ZXskE",
+   "date": "2025-10-13",
+   "title": "[About Jeans] 재미로 하니🙃 EP.9 Me and Dad's Trip to Japan | HANNI vlog",
+   "url": "https://www.youtube.com/watch?v=-clT97ZXskE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "10LfhmKMWW8",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE+] 버킷리스트🪂.ZIP | NewJeans",
+   "url": "https://www.youtube.com/watch?v=10LfhmKMWW8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "1s-VPXC4BDk",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] VOGUE Photoshoot Behind👟ㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=1s-VPXC4BDk",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "2TOf6IqXujk",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] MINJI Marie Claire Photoshoot Behind❣️ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=2TOf6IqXujk",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "33mO3jKYALE",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] 24FW CARIN Photoshoot Behind 👓 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=33mO3jKYALE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "3OgNx9OxTPw",
+   "date": "2025-10-13",
+   "title": "[Preview] NewJeans (뉴진스) 2025 SEASON'S GREETINGS Preview Clip #1",
+   "url": "https://www.youtube.com/watch?v=3OgNx9OxTPw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "48WTUOhaAwc",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] 2024 TMA Behind ✨ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=48WTUOhaAwc",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "5X2__AA0IdU",
+   "date": "2025-10-13",
+   "title": "Jeans' Clip # 0️⃣ 3️⃣ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=5X2__AA0IdU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "7G6iDGlZNlY",
+   "date": "2025-10-13",
+   "title": "Jeans' Clip # 0️⃣ 5️⃣ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=7G6iDGlZNlY",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "7qfcs3Xs_DY",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE] 요리퀸을 찾아라 EP.2 요리칙~대결착~🍽️  | NewJeans",
+   "url": "https://www.youtube.com/watch?v=7qfcs3Xs_DY",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "85qXx0CIRA8",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] HYEIN DAZED KOREA Photoshoot Behind 👜  | NewJeans",
+   "url": "https://www.youtube.com/watch?v=85qXx0CIRA8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "9INxDob4YT4",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE+] 오엠지 프로덕션🎬.ZIP | NewJeans",
+   "url": "https://www.youtube.com/watch?v=9INxDob4YT4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "A6JJa5s5yqE",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE+] 하루 종일 체육 시간!🎾.ZIP | NewJeans",
+   "url": "https://www.youtube.com/watch?v=A6JJa5s5yqE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "BHhRlI9o0PU",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE+] 우밤당낮 아케이드👽.ZIP | NewJeans",
+   "url": "https://www.youtube.com/watch?v=BHhRlI9o0PU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "C76lB22Al9Y",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] Billboard Artist Photoshoot Behind 🌫 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=C76lB22Al9Y",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "D2i4wqBtvVI",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE+] 제2회 엉망잔칭 토론회👸.ZIP | NewJeans",
+   "url": "https://www.youtube.com/watch?v=D2i4wqBtvVI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "E12neOzZmpI",
+   "date": "2025-10-13",
+   "title": "Jeans' Clip # 0️⃣ 1️⃣ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=E12neOzZmpI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "FuJ1RiLoq-M",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE] 가을캠프 EP.1 가: 가을이요~ 을 : 을마나 좋은데요~🍂  | NewJeans",
+   "url": "https://www.youtube.com/watch?v=FuJ1RiLoq-M",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "GyQIpteNn5A",
+   "date": "2025-10-13",
+   "title": "[By Jeans] 'Lizzy McAlpine - ceilings' Cover by HAERIN | NewJeans",
+   "url": "https://www.youtube.com/watch?v=GyQIpteNn5A",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Is2VwU9jXcA",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] HANNI Marie Claire Photoshoot Behind💎 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=Is2VwU9jXcA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "JrSVBnMlcSs",
+   "date": "2025-10-13",
+   "title": "[About Jeans] MINJI SCENE🎬 #6 두산베어스 시구 가요? | MINJI vlog",
+   "url": "https://www.youtube.com/watch?v=JrSVBnMlcSs",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "KREKSUPia3k",
+   "date": "2025-10-13",
+   "title": "NewJeans (뉴진스) KGMA 2024 Dance Practice",
+   "url": "https://www.youtube.com/watch?v=KREKSUPia3k",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "KnnwBG1RzPc",
+   "date": "2025-10-13",
+   "title": "[About Jeans] MINJI SCENE🎬 #7 파리 가요? | MINJI vlog",
+   "url": "https://www.youtube.com/watch?v=KnnwBG1RzPc",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "LyP_uJP9m5w",
+   "date": "2025-10-13",
+   "title": "뉴진스가 전하는 2025학년도 수능 응원 메시지 📝",
+   "url": "https://www.youtube.com/watch?v=LyP_uJP9m5w",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "O3kS6fjj-Qs",
+   "date": "2025-10-13",
+   "title": "[By Jeans] 'Noah Cyrus - July' Cover by DANIELLE | NewJeans",
+   "url": "https://www.youtube.com/watch?v=O3kS6fjj-Qs",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "QSRbkcdNuwg",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] STONEHENgE F/W Campaign Behind ❄️ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=QSRbkcdNuwg",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "UN4t5bjEQvA",
+   "date": "2025-10-13",
+   "title": "[About Jeans] :D Days🌻 (Day 6) 호주에 또 갔다니~🦘 | DANIELLE vlog",
+   "url": "https://www.youtube.com/watch?v=UN4t5bjEQvA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "VvolrweMSTY",
+   "date": "2025-10-13",
+   "title": "[By Jeans] ‘grentperez - Clementine’ Cover by HANNI | NewJeans",
+   "url": "https://www.youtube.com/watch?v=VvolrweMSTY",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "W3xbbWSIs38",
+   "date": "2025-10-13",
+   "title": "Jeans' Clip # 0️⃣ 6️⃣ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=W3xbbWSIs38",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "WOlVl32HaoY",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE] 가을캠프 EP.3 받아라 우정 텔레파시⚡ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=WOlVl32HaoY",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "XGFHmdbSKhk",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE] 김장대소동 EP.1 입 풀기? 손 풀기? 몸 풀기? 시간 🎶 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=XGFHmdbSKhk",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "YC2KOfxbQsc",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE] 김장대소동 EP.3 모두 모두~ 김치✌️🙂✌️ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=YC2KOfxbQsc",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "YhlFoAslBC4",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] OLENS Behind💫 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=YhlFoAslBC4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Yk9rlNH8gxc",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE] 가을캠프 EP.2 게임에는 팀워크가 필요해💗 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=Yk9rlNH8gxc",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "YqD-JkBo5IU",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE] 요리퀸을 찾아라 EP.1 뉴셰프들의 등장👩‍🍳 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=YqD-JkBo5IU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "YzUsB8MXTlw",
+   "date": "2025-10-13",
+   "title": "Jeans' Clip # 0️⃣ 4️⃣ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=YzUsB8MXTlw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "ZKpC0VTrJvU",
+   "date": "2025-10-13",
+   "title": "[About Jeans] MINJI SCENE🎬 #10 런던 가요? | MINJI vlog",
+   "url": "https://www.youtube.com/watch?v=ZKpC0VTrJvU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "aOzWJYJjvM0",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] HANNI Gucci Horsebit Campaign Behind🤎 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=aOzWJYJjvM0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "bqX3vLRJLgg",
+   "date": "2025-10-13",
+   "title": "Jeans' Clip # 0️⃣ 2️⃣  | NewJeans",
+   "url": "https://www.youtube.com/watch?v=bqX3vLRJLgg",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "dg7xkSPKqSI",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE] 김장대소동 EP.2 김장.. 시작이 반이다 🥬 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=dg7xkSPKqSI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "f9cViIsTarw",
+   "date": "2025-10-13",
+   "title": "[By Jeans] 'Laufey - Falling Behind' Cover by MINJI | NewJeans",
+   "url": "https://www.youtube.com/watch?v=f9cViIsTarw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "fLJIcNUlbXU",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] HAERIN Harper's BAZAAR Photoshoot Behind 🦋 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=fLJIcNUlbXU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "fY58qaEjTP4",
+   "date": "2025-10-13",
+   "title": "[About Jeans] MINJI SCENE🎬 #9 파리 네 번째 가요? | MINJI vlog",
+   "url": "https://www.youtube.com/watch?v=fY58qaEjTP4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "gP3ubOac1tI",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE+] 김장대소동🥬.ZIP | NewJeans",
+   "url": "https://www.youtube.com/watch?v=gP3ubOac1tI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "gY8_MPI3p4Q",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE+] 요리퀸을 찾아라👩‍🍳.ZIP | NewJeans",
+   "url": "https://www.youtube.com/watch?v=gY8_MPI3p4Q",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "gi79JJNptwY",
+   "date": "2025-10-13",
+   "title": "[About Jeans] 오늘을, 기록혠 5 ⊹ 네 번째 파리의 오늘 | HYEIN vlog",
+   "url": "https://www.youtube.com/watch?v=gi79JJNptwY",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "gnUpJLtfwJw",
+   "date": "2025-10-13",
+   "title": "[Bunnies Day🐰] NewJeans Love Bunnies 🐰💙",
+   "url": "https://www.youtube.com/watch?v=gnUpJLtfwJw",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "hSkJIVVp1cQ",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] PEPERO Behind🎁 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=hSkJIVVp1cQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "h_EzAicsdd0",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] Coke Studio Concert Behind 🎵 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=h_EzAicsdd0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "iNHvelouaxI",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE+] 조금 이른 봄놀이🌧.ZIP | NewJeans",
+   "url": "https://www.youtube.com/watch?v=iNHvelouaxI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "jzBa2WqkxvI",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] Japan Music Show & Coke STUDIO LIVE 2024 Behind🪩 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=jzBa2WqkxvI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "kaG_aNyPax4",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] HANNI COSMOPOLITAN KOREA Photoshoot Behind🩷ㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=kaG_aNyPax4",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "mZeRbgRF2H0",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] KGMA 2024 Dance Practice Behind🎤 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=mZeRbgRF2H0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "nD3MKxxa3ec",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE] 가을캠프 EP.4 깊어가는 우정의 밤…⭐️️ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=nD3MKxxa3ec",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "nXeOamUDCLo",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] DANIELLE ‎Esquire Photoshoot Behind💋 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=nXeOamUDCLo",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "oaKUDQ6i1s8",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] HANNI UGG Fall Winter Campaign Behind🍂⛄️ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=oaKUDQ6i1s8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "p-1HwcPrhwY",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] Indomie Behind 🍝 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=p-1HwcPrhwY",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "p4Z2uH2dFOA",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE+] GRANNIE'S FARM🍓.ZIP | NewJeans",
+   "url": "https://www.youtube.com/watch?v=p4Z2uH2dFOA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "pF7oJfQjaBs",
+   "date": "2025-10-13",
+   "title": "[About Jeans] 재미로 하니🙃 EP.8 chilly weather in milan 🌬️  | HANNI vlog",
+   "url": "https://www.youtube.com/watch?v=pF7oJfQjaBs",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "pvOR9ED534U",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] DANIELLE Marie Claire Photoshoot Behind ☀️ㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=pvOR9ED534U",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "rK255fyJF_I",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE] 모다니‘s 버킷리스트: 이미 우린 저기 멀리🦅 높이 있는 풍선 같이🪂 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=rK255fyJF_I",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "rRj4FYR9AfM",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE+] 가을캠프🍂.ZIP | NewJeans",
+   "url": "https://www.youtube.com/watch?v=rRj4FYR9AfM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "sXeFvUREJ_8",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] HANNI UGG Spring Summer Campaign Behind🎧 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=sXeFvUREJ_8",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "saY9KS7mKvI",
+   "date": "2025-10-13",
+   "title": "NewJeans (뉴진스) COUNTDOWN JAPAN 24/25 (Right Now+Hype Boy+Ditto)",
+   "url": "https://www.youtube.com/watch?v=saY9KS7mKvI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "sdwInKIu-Kg",
+   "date": "2025-10-13",
+   "title": "[Preview] NewJeans (뉴진스) 2025 SEASON'S GREETINGS Preview Clip #2",
+   "url": "https://www.youtube.com/watch?v=sdwInKIu-Kg",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "t4wHTERert0",
+   "date": "2025-10-13",
+   "title": "[About Jeans] MINJI SCENE🎬 #8 베트남 휴가 가요? | MINJI vlog",
+   "url": "https://www.youtube.com/watch?v=t4wHTERert0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "tbwUq7TeuwM",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE] 민지's 버킷리스트: 내가 만든 도자기🎵 너를 위해 구웠지🎶 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=tbwUq7TeuwM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "tsBjXr1SZmk",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] HAERIN W KOREA Beauty Photoshoot Behind 💖 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=tsBjXr1SZmk",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "uYZYqcyhSAg",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] 25SS Seoul Fashion Week Campaign Behind 🪄| NewJeans",
+   "url": "https://www.youtube.com/watch?v=uYZYqcyhSAg",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "ukXxpw4Z2iM",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] 2025 SEASON'S GREETINGS Behind🧚🏻ㅣ NewJeans",
+   "url": "https://www.youtube.com/watch?v=ukXxpw4Z2iM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "vCLOISqUHYQ",
+   "date": "2025-10-13",
+   "title": "[NewJeans Day🎂] We are NewJeans💫",
+   "url": "https://www.youtube.com/watch?v=vCLOISqUHYQ",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "wLApx-mWc5Y",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE+] 뉴진스파랜드♨.ZIP | NewJeans",
+   "url": "https://www.youtube.com/watch?v=wLApx-mWc5Y",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "wi9ZBvFFVqI",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] MINJI & HANNI SPUR Photoshoot Behind 💐ㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=wi9ZBvFFVqI",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "xceoU4a9jmo",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] Essential Sports day Campaign Behind 🎊 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=xceoU4a9jmo",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "y82zHUsqRUc",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE+] 우천 시 취소 특집🌦.ZIP | NewJeans",
+   "url": "https://www.youtube.com/watch?v=y82zHUsqRUc",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "yWvzZW_g5b0",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE+] 엉망잔칭 토론회👑.ZIP | NewJeans",
+   "url": "https://www.youtube.com/watch?v=yWvzZW_g5b0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "yYznzbLNecA",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE+] 봄맞이 피크닉🧺.ZIP | NewJeans",
+   "url": "https://www.youtube.com/watch?v=yYznzbLNecA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "yfz2vceroSU",
+   "date": "2025-10-13",
+   "title": "[Jeans' ZINE] 요리퀸을 찾아라 EP.3 어차피 주인공은 나👸 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=yfz2vceroSU",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "zMTPU1rvhyM",
+   "date": "2025-10-13",
+   "title": "[NewJeans Day🎂] Happy 3rd Anniversary🩷",
+   "url": "https://www.youtube.com/watch?v=zMTPU1rvhyM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "zgpIgqsoNAs",
+   "date": "2025-10-13",
+   "title": "[Light Jeans] Shinhan Securities Campaign behind 🔎 | NewJeans",
+   "url": "https://www.youtube.com/watch?v=zgpIgqsoNAs",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "-8brw2wqj-s",
+   "date": "2025-11-13",
+   "title": "Jeans' Clip # 0️⃣ 8️⃣ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=-8brw2wqj-s",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "-INWznoZLBE",
+   "date": "2025-11-13",
+   "title": "[Bunnies Day🐰] Happy 3rd Bunnies Day 🧸🐱🦦🐹🐶💛🐰",
+   "url": "https://www.youtube.com/watch?v=-INWznoZLBE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "fT43u9OV13U",
+   "date": "2025-11-13",
+   "title": "[Jeans' ZINE+] 체험 삶의 목장👾.ZIP | NewJeans",
+   "url": "https://www.youtube.com/watch?v=fT43u9OV13U",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "rPIcX7QEkPE",
+   "date": "2025-11-13",
+   "title": "[Jeans' ZINE+] 다니엘의 힐링 여행🐢.ZIP | NewJeans",
+   "url": "https://www.youtube.com/watch?v=rPIcX7QEkPE",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "a0R3fQCmBKs",
+   "date": "2025-12-13",
+   "title": "[Jeans' ZINE+] ASAP Wish List🦄.ZIP | NewJeans",
+   "url": "https://www.youtube.com/watch?v=a0R3fQCmBKs",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "mM_y4-7MuPM",
+   "date": "2025-12-13",
+   "title": "[Jeans' ZINE+] 꼬마 유치원 하니 둘 셋🧺.ZIP | NewJeans",
+   "url": "https://www.youtube.com/watch?v=mM_y4-7MuPM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "pE7O2EgzEZc",
+   "date": "2025-12-13",
+   "title": "Jeans' Clip # 0️⃣ 9️⃣ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=pE7O2EgzEZc",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "uffCXOcna9s",
+   "date": "2025-12-13",
+   "title": "[Jeans' ZINE+] 린틀포레스트🍥.ZIP | NewJeans",
+   "url": "https://www.youtube.com/watch?v=uffCXOcna9s",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "xuS9aw6sKQM",
+   "date": "2025-12-13",
+   "title": "[Jeans' ZINE+] 사격왕 김민지💫.ZIP | NewJeans",
+   "url": "https://www.youtube.com/watch?v=xuS9aw6sKQM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "OMVoxddjWmM",
+   "date": "2026-01-13",
+   "title": "[Jeans' ZINE+] 연말 파티🏘.ZIP | NewJeans",
+   "url": "https://www.youtube.com/watch?v=OMVoxddjWmM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "yqzR4_SXCaM",
+   "date": "2026-01-13",
+   "title": "Jeans' Clip # 1️⃣ 0️⃣ | NewJeans",
+   "url": "https://www.youtube.com/watch?v=yqzR4_SXCaM",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "9MaO43ekbHs",
+   "date": "2026-08-13",
+   "title": "2026 Summer of NewJeans : MINJI",
+   "url": "https://www.youtube.com/watch?v=9MaO43ekbHs",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Fq-A3aLqmms",
+   "date": "2026-08-13",
+   "title": "2026 Summer of NewJeans : HANNI",
+   "url": "https://www.youtube.com/watch?v=Fq-A3aLqmms",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "Jx_58YiWxP0",
+   "date": "2026-08-13",
+   "title": "2026 Summer of NewJeans : HYEIN",
+   "url": "https://www.youtube.com/watch?v=Jx_58YiWxP0",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "NNbaTJX_9go",
+   "date": "2026-08-13",
+   "title": "2026 Summer of NewJeans",
+   "url": "https://www.youtube.com/watch?v=NNbaTJX_9go",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "YujaE27VmSA",
+   "date": "2026-08-13",
+   "title": "[Light Jeans] 2026 Summer of NewJeans BehindㅣNewJeans",
+   "url": "https://www.youtube.com/watch?v=YujaE27VmSA",
+   "record": null,
+   "exclude": null
+  },
+  {
+   "key": "tEDMEcyoS74",
+   "date": "2026-08-13",
+   "title": "2026 Summer of NewJeans : HAERIN",
+   "url": "https://www.youtube.com/watch?v=tEDMEcyoS74",
+   "record": null,
+   "exclude": null
+  }
+ ]
+}

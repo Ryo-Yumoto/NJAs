@@ -93,6 +93,16 @@ http://localhost:8080/ で表示確認。URLの`#`以降に絞り込み状態が
 - LINE FRIENDS（Shopify）: linefriendssquare.com / .us / .jp の `collections/<handle>/products.json`。公開中の商品しか返らないため、過去ドロップの全量にはならない。ポップアップ告知は `/blogs/event/`。
 - X 投稿: api.fxtwitter.com（scripts/fetch_x.py）。投稿のカード画像（pbs.twimg.com/card_img）はリンク先の汎用画像のことがあるため、代表画像には使わない。
 
+## G. 収録率の確認（台帳）
+
+```
+python3 scripts/fetch_youtube_list.py   # 公式チャンネルの長尺動画一覧を取り直す（新規だけ追記）
+python3 scripts/coverage.py             # 台帳ごとの収録率
+python3 scripts/coverage.py --missing   # 未収録の項目を列挙
+```
+
+台帳の形式はscripts/coverage.pyの先頭に書いてある。`match: manual`の台帳は項目の`record`に覆っているレコードIDを書く。未収録項目を収集したら`record`を埋める。
+
 ## 作業の委任ルール（モデルの使い分け）
 
 - 調査・収集・URL解決・画像探索・本文推敲など、エージェントに委任する作業はFableの1段下のモデル（Opus）で実行する。Fableはこのセッション本体（設計、レビュー、統合判断、公開）に限る。
