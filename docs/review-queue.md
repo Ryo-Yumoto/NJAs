@@ -29,3 +29,5 @@
 | 2026-10-17 | magazine-2026-09-01-marie-claire-korea-2026-09-haerin / magazine-2026-09-01-harpers-bazaar-korea-2026-09-hyein | 発行日は2026-08-25 / 2026-09-07（月精度→日精度に変更可） | 未確認 |
 | 2026-10-17 | goods-2023-10-17-weverse-by-fans-newjeans-custom-merch | サービス開始告知は2023-10-16 18:00 KST、NewJeansアパレルは2023-12-05開始（notice 5033） | 未確認 |
 | 2026-10-17 | （新規候補）Nike By You x NewJeans カスタムショップのNike Style Hongdae・Nike Seoul移設 2024-02-15〜03-25 | SNKRDUNKのみ。一次ソース要確認 | 未着手 |
+| 2026-10-17 | goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop | 一次ソース候補：Weverse Shop notice 4530（Get Up 2nd Official Merch、予約2023-09-12 11:00 KST） | 未確認 |
+| 2026-10-17 | 台帳 weverse-21356〜21360（bunini bag charm 等） | 台帳はgoods-2023-11-23に対応付けたが、実売は2023-12-01ドロップ。goods-2023-12-01側に付け替えるか | 未決 |

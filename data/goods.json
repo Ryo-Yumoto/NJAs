@@ -284,6 +284,74 @@
     ]
   },
   {
+    "id": "goods-2022-10-12-new-jeans-1st-ep-official-merch-ver-2",
+    "date": "2022-10-12",
+    "time": "11:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "1st EP『New Jeans』Official Merch ver. 2",
+      "en": "1st EP 'New Jeans' Official Merch ver. 2"
+    },
+    "summary": {
+      "ja": "1st EP『New Jeans』公式グッズの第2弾がWeverse Shopで受注予約開始、TOKKIグッズやTシャツなど10点。",
+      "en": "The second batch of 1st EP 'New Jeans' official merch, ten items including TOKKI goods and tees, opened for pre-order."
+    },
+    "detail": {
+      "ja": "Weverse Shopで10月12日11時から19日18時（KST）まで受注生産の予約を受け付け、発売・出荷は11月29日予定（海外発送可）。商品はSTICKER PACK（LOGO 9,000ウォン／GLITTER 12,000ウォン）、メンバー別5種のGLASS（ILLUSTRATION、20,000ウォン）、SMARTTOK（TOKKI、15,000ウォン）、5色のTOKKI KEYRING（14,000ウォン）、TOKKI PHONE CASE（iPhone／Galaxy、各20,000ウォン）、BADGE（TOKKI、10,000ウォン）、TEE（BLUE／WHITE、各39,000ウォン）。購入上限はオプションごと・商品ごとに4点で、数量限定。",
+      "en": "Weverse Shop took made-to-order pre-orders from 11:00 on October 12 to 18:00 on October 19 (KST), with release and shipping set for November 29 (global shipping available). Items were STICKER PACK (LOGO, 9,000 KRW; GLITTER, 12,000 KRW), GLASS (ILLUSTRATION, five member options, 20,000 KRW), SMARTTOK (TOKKI, 15,000 KRW), TOKKI KEYRING in five colours (14,000 KRW), TOKKI PHONE CASE (iPhone / Galaxy, 20,000 KRW each), BADGE (TOKKI, 10,000 KRW) and TEE (BLUE / WHITE, 39,000 KRW each). Limits were four per option or per product, in limited quantities."
+    },
+    "credits": {
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL / USA"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/2774",
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2022-10-12-new-jeans-1st-ep-official-merch-ver-2/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/sales/10280, https://shop.weverse.io/en/shop/USD/artists/82/sales/10281, https://shop.weverse.io/en/shop/USD/artists/82/sales/10282 (+7 more)"
+    },
+    "tags": [
+      "official-merch",
+      "new-jeans-ep",
+      "weverse-shop",
+      "tokki"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop notice read from the downloaded shop.weverse.io notice text (ledgerdl/wsn/notices_text.json, fetched 2026-10-16/17): notice 2774. KRW prices from the WEV_KO sale pages sales/10280-10289. Prices are from the Weverse Shop sale pages (sold-out listings, fetched 2026-10-16) and may not be launch prices if changed later; notices state no prices. / cover = first product; items = the 10 Weverse Shop (KR) listings in sale-id order",
+    "local_assets": [
+      "goods/goods-2022-10-12-new-jeans-1st-ep-official-merch-ver-2/01.jpg",
+      "goods/goods-2022-10-12-new-jeans-1st-ep-official-merch-ver-2/02.jpg",
+      "goods/goods-2022-10-12-new-jeans-1st-ep-official-merch-ver-2/03.jpg",
+      "goods/goods-2022-10-12-new-jeans-1st-ep-official-merch-ver-2/04.jpg",
+      "goods/goods-2022-10-12-new-jeans-1st-ep-official-merch-ver-2/05.jpg",
+      "goods/goods-2022-10-12-new-jeans-1st-ep-official-merch-ver-2/06.jpg",
+      "goods/goods-2022-10-12-new-jeans-1st-ep-official-merch-ver-2/07.jpg",
+      "goods/goods-2022-10-12-new-jeans-1st-ep-official-merch-ver-2/08.jpg",
+      "goods/goods-2022-10-12-new-jeans-1st-ep-official-merch-ver-2/09.jpg",
+      "goods/goods-2022-10-12-new-jeans-1st-ep-official-merch-ver-2/10.jpg"
+    ],
+    "asset_titles": [
+      "STICKER PACK (LOGO)",
+      "STICKER PACK (GLITTER)",
+      "GLASS (ILLUSTRATION)",
+      "SMARTTOK (TOKKI)",
+      "TOKKI KEYRING",
+      "TOKKI PHONE CASE (IPHONE)",
+      "TOKKI PHONE CASE (GALAXY)",
+      "BADGE (TOKKI)",
+      "TEE (BLUE)_One size",
+      "TEE (WHITE)"
+    ]
+  },
+  {
     "id": "goods-2022-11-22-2023-seasons-greetings-room-722",
     "date": "2022-11-22",
     "date_type": "announce",
@@ -691,6 +759,61 @@
     ]
   },
   {
+    "id": "goods-2023-02-16-tokki-official-merch",
+    "date": "2023-02-16",
+    "time": "18:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans TOKKI Official Merch（シッティングクッション・ファーキーリング）",
+      "en": "NewJeans TOKKI Official Merch (Sitting Cushion, Fluffy Keyring)"
+    },
+    "summary": {
+      "ja": "ウサギのキャラクターTOKKIの公式グッズ、シッティングクッションとファーキーリングの予約受付が18時に始まった。",
+      "en": "Pre-orders for official merch of the rabbit character TOKKI, a sitting cushion and a fluffy keyring, opened at 18:00 KST."
+    },
+    "detail": {
+      "ja": "Weverse Shopで2月16日18時（KST）から在庫限りで予約を受け付け、出荷は3月14日予定（海外発送可）。商品はSITTING CUSHIONと5色のFLUFFY KEYRINGの2種で、購入上限はクッション4点、キーリングは色ごとに4点（計20点）。同日20時からは出荷日の異なる第2次予約も始まった。Weverse Shop USAでは2月16日1時（PST）から受け付け、SITTING CUSHIONは31.90ドル。",
+      "en": "Weverse Shop took pre-orders from 18:00 on February 16 (KST) while stock lasted, with shipping set for March 14 (global shipping available). The two items were the SITTING CUSHION and the FLUFFY KEYRING in five colours, limited to four cushions and four keyrings per colour (20 in total). A second pre-order round with a later ship date opened at 20:00 the same day. Weverse Shop USA opened orders at 1:00 AM PST on February 16, with the SITTING CUSHION at USD 31.90."
+    },
+    "credits": {
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL / USA"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/3527",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/3528",
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/3540"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-02-16-tokki-official-merch/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/sales/13714, https://shop.weverse.io/en/shop/USD/artists/82/sales/16370"
+    },
+    "tags": [
+      "official-merch",
+      "tokki",
+      "weverse-shop"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop notice read from the downloaded shop.weverse.io notice text (ledgerdl/wsn/notices_text.json, fetched 2026-10-16/17): notices 3527 (GLOBAL), 3528 (USA), 3540 (2nd round, 20:00 KST). USD price from WEV_US sales/13714. Third round (3543, Feb 17) left out as later than the record date. / cover = SITTING CUSHION (USA listing 13714); items = sitting cushion and the FLUFFY KEYRING packshot from the July 2023 resale listing (sales/16370, same product)",
+    "local_assets": [
+      "goods/goods-2023-02-16-tokki-official-merch/01.jpg",
+      "goods/goods-2023-02-16-tokki-official-merch/02.jpg"
+    ],
+    "asset_titles": [
+      "SITTING CUSHION",
+      "FLUFFY KEYRING"
+    ]
+  },
+  {
     "id": "goods-2023-03-09-mcdonalds-korea-newjeans-special-kit-app-event",
     "date": "2023-03-09",
     "date_type": "sale_start",
@@ -735,6 +858,118 @@
     ],
     "verified": false,
     "editor_note": "Start date (March 9) from Maeil Shinmun (2023-03-15, '지난 9일부터'); kit contents and end date (29th) from NewDaily (2023-03-23). The kit was a prize, not sold. Matching campaign record: ad-2023-02-27-mcdonalds-korea-model (its detail already mentions the kit)."
+  },
+  {
+    "id": "goods-2023-03-21-danielle-birthday-official-merch-2023",
+    "date": "2023-03-21",
+    "time": "11:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "ダニエル誕生日公式グッズ（2023）",
+      "en": "Danielle's Birthday Official Merch (2023)"
+    },
+    "summary": {
+      "ja": "ダニエルの誕生日を記念した公式グッズ（ブレスレット、Tシャツ、チャームセット）の予約がWeverse Shopで始まった。",
+      "en": "Pre-orders opened on Weverse Shop for Danielle's birthday merch: a bracelet, a birthday tee and a birthday charm set."
+    },
+    "detail": {
+      "ja": "アーティストの誕生日を祝うプロジェクトとして用意され、ダニエルからBUNNIESへのメッセージ入りのグッズで構成される。商品はBRACELET（22,000ウォン）、BIRTHDAY TEE（DANIELLE、43,000ウォン）、BIRTHDAY CHARM SET（DANIELLE、19,000ウォン）。Weverse Shopで3月21日11時（KST）から在庫限りで受け付け、出荷は4月4日から（海外発送可）。購入上限は各4点。Weverse Shop USAでは3月20日19時（PDT）から予約を受け付けた。",
+      "en": "Prepared as a project to celebrate the artist's birthday, the merch carries messages to BUNNIES from Danielle. Items were the BRACELET (22,000 KRW), BIRTHDAY TEE (DANIELLE, 43,000 KRW) and BIRTHDAY CHARM SET (DANIELLE, 19,000 KRW). Weverse Shop took pre-made pre-orders from 11:00 KST while stock lasted, shipping from April 4 (global shipping available), with a limit of four each. Weverse Shop USA opened pre-orders at 7:00 PM on March 20 PDT."
+    },
+    "credits": {
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL / USA"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/3648",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/3642"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-03-21-danielle-birthday-official-merch-2023/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/sales/14180, https://shop.weverse.io/en/shop/USD/artists/82/sales/14181, https://shop.weverse.io/en/shop/USD/artists/82/sales/14182"
+    },
+    "tags": [
+      "official-merch",
+      "birthday-merch",
+      "weverse-shop"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop notice read from the downloaded shop.weverse.io notice text (ledgerdl/wsn/notices_text.json, fetched 2026-10-16/17): notices 3648 (GLOBAL) and 3642 (USA). The BRACELET is listed in every member's 2023 birthday notice (one shared listing). Prices are from the Weverse Shop sale pages (sold-out listings, fetched 2026-10-16) and may not be launch prices if changed later; notices state no prices. / cover = the member tee; items = Weverse Shop (KR) listings BRACELET, TEE, CHARM SET",
+    "local_assets": [
+      "goods/goods-2023-03-21-danielle-birthday-official-merch-2023/01.jpg",
+      "goods/goods-2023-03-21-danielle-birthday-official-merch-2023/02.jpg",
+      "goods/goods-2023-03-21-danielle-birthday-official-merch-2023/03.jpg"
+    ],
+    "asset_titles": [
+      "TEE (DANIELLE)",
+      "CHARM SET (DANIELLE)",
+      "BRACELET"
+    ]
+  },
+  {
+    "id": "goods-2023-03-21-hyein-birthday-official-merch-2023",
+    "date": "2023-03-21",
+    "time": "11:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "ヘイン誕生日公式グッズ（2023）",
+      "en": "Hyein's Birthday Official Merch (2023)"
+    },
+    "summary": {
+      "ja": "ヘインの誕生日を記念した公式グッズ（ブレスレット、Tシャツ、チャームセット）の予約がWeverse Shopで始まった。",
+      "en": "Pre-orders opened on Weverse Shop for Hyein's birthday merch: a bracelet, a birthday tee and a birthday charm set."
+    },
+    "detail": {
+      "ja": "アーティストの誕生日を祝うプロジェクトとして用意され、ヘインからBUNNIESへのメッセージ入りのグッズで構成される。商品はBRACELET（22,000ウォン）、BIRTHDAY TEE（HYEIN、43,000ウォン）、BIRTHDAY CHARM SET（HYEIN、19,000ウォン）。Weverse Shopで3月21日11時（KST）から在庫限りで受け付け、出荷は4月4日から（海外発送可）。購入上限は各4点。Weverse Shop USAでは3月20日19時（PDT）から予約を受け付けた。",
+      "en": "Prepared as a project to celebrate the artist's birthday, the merch carries messages to BUNNIES from Hyein. Items were the BRACELET (22,000 KRW), BIRTHDAY TEE (HYEIN, 43,000 KRW) and BIRTHDAY CHARM SET (HYEIN, 19,000 KRW). Weverse Shop took pre-made pre-orders from 11:00 KST while stock lasted, shipping from April 4 (global shipping available), with a limit of four each. Weverse Shop USA opened pre-orders at 7:00 PM on March 20 PDT."
+    },
+    "credits": {
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL / USA"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/3649",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/3643"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-03-21-hyein-birthday-official-merch-2023/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/sales/14180, https://shop.weverse.io/en/shop/USD/artists/82/sales/14183, https://shop.weverse.io/en/shop/USD/artists/82/sales/14184"
+    },
+    "tags": [
+      "official-merch",
+      "birthday-merch",
+      "weverse-shop"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop notice read from the downloaded shop.weverse.io notice text (ledgerdl/wsn/notices_text.json, fetched 2026-10-16/17): notices 3649 (GLOBAL) and 3643 (USA). The BRACELET is listed in every member's 2023 birthday notice (one shared listing). Prices are from the Weverse Shop sale pages (sold-out listings, fetched 2026-10-16) and may not be launch prices if changed later; notices state no prices. / cover = the member tee; items = Weverse Shop (KR) listings BRACELET, TEE, CHARM SET",
+    "local_assets": [
+      "goods/goods-2023-03-21-hyein-birthday-official-merch-2023/01.jpg",
+      "goods/goods-2023-03-21-hyein-birthday-official-merch-2023/02.jpg",
+      "goods/goods-2023-03-21-hyein-birthday-official-merch-2023/03.jpg"
+    ],
+    "asset_titles": [
+      "TEE (HYEIN)",
+      "CHARM SET (HYEIN)",
+      "BRACELET"
+    ]
   },
   {
     "id": "goods-2023-03-30-bunnies-global-official-fanclub-membership",
@@ -1097,6 +1332,118 @@
     "asset_titles": [
       "Coca-Cola Zero Lemon 355 ml can",
       "Pre-order prizes: B&O Beosound A1 2nd Gen / Coca-Cola photobook (with NewJeans) / contour cup"
+    ]
+  },
+  {
+    "id": "goods-2023-04-25-haerin-birthday-official-merch-2023",
+    "date": "2023-04-25",
+    "time": "11:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ヘリン誕生日公式グッズ（2023）",
+      "en": "Haerin's Birthday Official Merch (2023)"
+    },
+    "summary": {
+      "ja": "ヘリンの誕生日を記念した公式グッズ（ブレスレット、Tシャツ、チャームセット）の予約がWeverse Shopで始まった。",
+      "en": "Pre-orders opened on Weverse Shop for Haerin's birthday merch: a bracelet, a birthday tee and a birthday charm set."
+    },
+    "detail": {
+      "ja": "アーティストの誕生日を祝うプロジェクトとして用意され、ヘリンからBUNNIESへのメッセージ入りのグッズで構成される。商品はBRACELET（22,000ウォン）、BIRTHDAY TEE（HAERIN、43,000ウォン）、BIRTHDAY CHARM SET（HAERIN、19,000ウォン）。Weverse Shopで4月25日11時（KST）から在庫限りで受け付け、出荷は4月27日から（海外発送可）。購入上限は各4点。Weverse Shop USAでは4月24日19時（PDT）から予約を受け付けた。",
+      "en": "Prepared as a project to celebrate the artist's birthday, the merch carries messages to BUNNIES from Haerin. Items were the BRACELET (22,000 KRW), BIRTHDAY TEE (HAERIN, 43,000 KRW) and BIRTHDAY CHARM SET (HAERIN, 19,000 KRW). Weverse Shop took pre-made pre-orders from 11:00 KST while stock lasted, shipping from April 27 (global shipping available), with a limit of four each. Weverse Shop USA opened pre-orders at 7:00 PM on April 24 PDT."
+    },
+    "credits": {
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL / USA"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/3800",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/3762"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-04-25-haerin-birthday-official-merch-2023/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/sales/14180, https://shop.weverse.io/en/shop/USD/artists/82/sales/14629, https://shop.weverse.io/en/shop/USD/artists/82/sales/14630"
+    },
+    "tags": [
+      "official-merch",
+      "birthday-merch",
+      "weverse-shop"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop notice read from the downloaded shop.weverse.io notice text (ledgerdl/wsn/notices_text.json, fetched 2026-10-16/17): notices 3800 (GLOBAL) and 3762 (USA). The BRACELET is listed in every member's 2023 birthday notice (one shared listing). Prices are from the Weverse Shop sale pages (sold-out listings, fetched 2026-10-16) and may not be launch prices if changed later; notices state no prices. / cover = the member tee; items = Weverse Shop (KR) listings BRACELET, TEE, CHARM SET",
+    "local_assets": [
+      "goods/goods-2023-04-25-haerin-birthday-official-merch-2023/01.jpg",
+      "goods/goods-2023-04-25-haerin-birthday-official-merch-2023/02.jpg",
+      "goods/goods-2023-04-25-haerin-birthday-official-merch-2023/03.jpg"
+    ],
+    "asset_titles": [
+      "TEE (HAERIN)",
+      "CHARM SET (HAERIN)",
+      "BRACELET"
+    ]
+  },
+  {
+    "id": "goods-2023-04-25-minji-birthday-official-merch-2023",
+    "date": "2023-04-25",
+    "time": "11:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "ミンジ誕生日公式グッズ（2023）",
+      "en": "Minji's Birthday Official Merch (2023)"
+    },
+    "summary": {
+      "ja": "ミンジの誕生日を記念した公式グッズ（ブレスレット、Tシャツ、チャームセット）の予約がWeverse Shopで始まった。",
+      "en": "Pre-orders opened on Weverse Shop for Minji's birthday merch: a bracelet, a birthday tee and a birthday charm set."
+    },
+    "detail": {
+      "ja": "アーティストの誕生日を祝うプロジェクトとして用意され、ミンジからBUNNIESへのメッセージ入りのグッズで構成される。商品はBRACELET（22,000ウォン）、BIRTHDAY TEE（MINJI、43,000ウォン）、BIRTHDAY CHARM SET（MINJI、19,000ウォン）。Weverse Shopで4月25日11時（KST）から在庫限りで受け付け、出荷は4月27日から（海外発送可）。購入上限は各4点。Weverse Shop USAでは4月24日19時（PDT）から予約を受け付けた。",
+      "en": "Prepared as a project to celebrate the artist's birthday, the merch carries messages to BUNNIES from Minji. Items were the BRACELET (22,000 KRW), BIRTHDAY TEE (MINJI, 43,000 KRW) and BIRTHDAY CHARM SET (MINJI, 19,000 KRW). Weverse Shop took pre-made pre-orders from 11:00 KST while stock lasted, shipping from April 27 (global shipping available), with a limit of four each. Weverse Shop USA opened pre-orders at 7:00 PM on April 24 PDT."
+    },
+    "credits": {
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL / USA"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/3799",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/3761"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-04-25-minji-birthday-official-merch-2023/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/sales/14180, https://shop.weverse.io/en/shop/USD/artists/82/sales/14627, https://shop.weverse.io/en/shop/USD/artists/82/sales/14628"
+    },
+    "tags": [
+      "official-merch",
+      "birthday-merch",
+      "weverse-shop"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop notice read from the downloaded shop.weverse.io notice text (ledgerdl/wsn/notices_text.json, fetched 2026-10-16/17): notices 3799 (GLOBAL) and 3761 (USA). The BRACELET is listed in every member's 2023 birthday notice (one shared listing). Prices are from the Weverse Shop sale pages (sold-out listings, fetched 2026-10-16) and may not be launch prices if changed later; notices state no prices. / cover = the member tee; items = Weverse Shop (KR) listings BRACELET, TEE, CHARM SET",
+    "local_assets": [
+      "goods/goods-2023-04-25-minji-birthday-official-merch-2023/01.jpg",
+      "goods/goods-2023-04-25-minji-birthday-official-merch-2023/02.jpg",
+      "goods/goods-2023-04-25-minji-birthday-official-merch-2023/03.jpg"
+    ],
+    "asset_titles": [
+      "TEE (MINJI)",
+      "CHARM SET (MINJI)",
+      "BRACELET"
     ]
   },
   {
@@ -1547,6 +1894,73 @@
     "local_assets": []
   },
   {
+    "id": "goods-2023-07-11-resale-official-merch",
+    "date": "2023-07-11",
+    "time": "11:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans 再販公式グッズ（TOKKIグッズほか8点）",
+      "en": "NewJeans Resale Official Merch (TOKKI items and more)"
+    },
+    "summary": {
+      "ja": "早期に完売した人気公式グッズ8点が再生産され、Weverse Shopで受注生産の予約受付が始まった。",
+      "en": "Eight popular official merch items that had sold out quickly were produced again and opened for made-to-order pre-orders."
+    },
+    "detail": {
+      "ja": "Weverse Shopで売り切れていた人気商品を、より多くのファンのために再生産したもの。対象はSMARTTOK（TOKKI）、TOKKI KEYRING、BADGE（TOKKI）、TEE（BLUE）、TOKKI PHONE CASE（iPhone）、FLUFFY KEYRING、KEYRING、TOKKI RINGの8点。予約は7月11日11時から18日18時（KST）まで、出荷は9月5日から（海外発送可）。購入上限は各4点。Weverse Shop USAでは7月10日19時（PDT）から受け付け、価格はTEE 48.90ドル、TOKKI PHONE CASE 24.80ドル、FLUFFY KEYRING 21.90ドルなど。",
+      "en": "Popular items that had sold out on Weverse Shop were produced again so more fans could buy them. The eight items were SMARTTOK (TOKKI), TOKKI KEYRING, BADGE (TOKKI), TEE (BLUE), TOKKI PHONE CASE (iPhone), FLUFFY KEYRING, KEYRING and TOKKI RING. Pre-orders ran from 11:00 on July 11 to 18:00 on July 18 (KST), shipping from September 5 (global shipping available), with a limit of four each. Weverse Shop USA opened at 7:00 PM PDT on July 10, with prices such as USD 48.90 for the TEE, USD 24.80 for the phone case and USD 21.90 for the FLUFFY KEYRING."
+    },
+    "credits": {
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL / USA"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/4193",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/4196"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-07-11-resale-official-merch/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/sales/16365, https://shop.weverse.io/en/shop/USD/artists/82/sales/16366, https://shop.weverse.io/en/shop/USD/artists/82/sales/16367 (+5 more)"
+    },
+    "tags": [
+      "official-merch",
+      "resale",
+      "tokki",
+      "weverse-shop"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop notice read from the downloaded shop.weverse.io notice text (ledgerdl/wsn/notices_text.json, fetched 2026-10-16/17): notices 4193 (GLOBAL, 230711 updated) and 4196 (USA). Items come from Official Merch ver. 1 (KEYRING, TOKKI RING), ver. 2 (TOKKI items, TEE BLUE) and the TOKKI Official Merch (FLUFFY KEYRING). USD prices from WEV_US sales/16365-16372. / cover = first product; items = the 8 Weverse Shop USA resale listings in notice order",
+    "local_assets": [
+      "goods/goods-2023-07-11-resale-official-merch/01.jpg",
+      "goods/goods-2023-07-11-resale-official-merch/02.jpg",
+      "goods/goods-2023-07-11-resale-official-merch/03.jpg",
+      "goods/goods-2023-07-11-resale-official-merch/04.jpg",
+      "goods/goods-2023-07-11-resale-official-merch/05.jpg",
+      "goods/goods-2023-07-11-resale-official-merch/06.jpg",
+      "goods/goods-2023-07-11-resale-official-merch/07.jpg",
+      "goods/goods-2023-07-11-resale-official-merch/08.jpg"
+    ],
+    "asset_titles": [
+      "SMARTTOK(TOKKI)",
+      "TOKKI KEYRING",
+      "BADGE (TOKKI)",
+      "TEE (BLUE)",
+      "TOKKI PHONE CASE (IPHONE)",
+      "FLUFFY KEYRING",
+      "KEYRING",
+      "TOKKI RING"
+    ]
+  },
+  {
     "id": "goods-2023-07-12-mcdonalds-indonesia-newjeans-k-meals",
     "date": "2023-07-12",
     "date_type": "sale_start",
@@ -1599,6 +2013,58 @@
     "asset_titles": [
       "McD x NewJeans packaging pattern (Indonesia)",
       "K-Meals free exclusive merchandise (postcards and stickers)"
+    ]
+  },
+  {
+    "id": "goods-2023-07-21-debut-1st-anniversary-charm-set",
+    "date": "2023-07-21",
+    "time": "11:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "デビュー1周年公式グッズ（チャームセット）",
+      "en": "Debut 1st Anniversary Official Merch (Charm Set)"
+    },
+    "summary": {
+      "ja": "デビュー1周年を記念した公式グッズのチャームセットが、Weverse Shopで11時から予約受付を開始した。",
+      "en": "A charm set marking NewJeans' first anniversary since debut opened for pre-order on Weverse Shop at 11:00 KST."
+    },
+    "detail": {
+      "ja": "NewJeans 1st Anniversary Official MerchとしてCHARM SET 1種を発売。Weverse Shopで7月21日11時（KST）から在庫限りで予約を受け付け、出荷は8月14日から（海外発送可）。購入上限は4点。Weverse Shop USAでは7月20日19時（PDT）から受け付け、価格は21.80ドルで出荷は9月7日から。",
+      "en": "The NewJeans 1st Anniversary Official Merch was a single CHARM SET. Weverse Shop took pre-made pre-orders from 11:00 on July 21 (KST) while stock lasted, shipping from August 14 (global shipping available), with a limit of four. Weverse Shop USA opened at 7:00 PM PDT on July 20, priced at USD 21.80 and shipping from September 7."
+    },
+    "credits": {
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL / USA"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/4199",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/4209"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-07-21-debut-1st-anniversary-charm-set/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/sales/16401"
+    },
+    "tags": [
+      "official-merch",
+      "anniversary",
+      "weverse-shop"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop notice read from the downloaded shop.weverse.io notice text (ledgerdl/wsn/notices_text.json, fetched 2026-10-16/17): notices 4199 (GLOBAL, posted 2023-07-14) and 4209 (USA). USD price from WEV_US sales/16401. / single product: CHARM SET (USA listing 16401)",
+    "local_assets": [
+      "goods/goods-2023-07-21-debut-1st-anniversary-charm-set/01.jpg"
+    ],
+    "asset_titles": [
+      "CHARM SET"
     ]
   },
   {
@@ -1712,6 +2178,96 @@
     }
   },
   {
+    "id": "goods-2023-08-18-get-up-official-merch",
+    "date": "2023-08-18",
+    "time": "11:20",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2nd EP『Get Up』Official Merch",
+      "en": "2nd EP 'Get Up' Official Merch"
+    },
+    "summary": {
+      "ja": "2nd EP『Get Up』公式グッズがWeverse Shopで予約開始、Get Up・bunini・パワーパフ ガールズの3ライン。",
+      "en": "Official merch for the 2nd EP 'Get Up' opened for pre-order on Weverse Shop in Get Up, bunini and Powerpuff Girls lines."
+    },
+    "detail": {
+      "ja": "Weverse Shopで8月18日11時20分（KST）から在庫限りで予約を受け付け、発売・出荷は8月29日から（海外発送可）。商品はCOLLABカテゴリのGet Up、bunini、THE POWERPUFF GIRLS X NewJeansの3ラインに並び、事前生産の数量限定品だった。NJ Get Up BEADED PHONE STRAPとBEADED KEYRINGは韓国国内配送のみ。購入上限はbunini FACE CUSHIONが1点、bunini COSTUME PLUSHが3点、その他はオプション・商品ごとに1点。Weverse Shop USAでは8月17日19時20分（PDT）から受け付け、出荷は9月13日から。",
+      "en": "Weverse Shop took pre-orders from 11:20 on August 18 (KST) while stock lasted, with release and shipping from August 29 (global shipping available). The pre-made, limited-quantity items were listed under three COLLAB lines: Get Up, bunini and THE POWERPUFF GIRLS X NewJeans. The NJ Get Up BEADED PHONE STRAP and BEADED KEYRING shipped to South Korea only. Limits were one bunini FACE CUSHION, three bunini COSTUME PLUSH and one per option or product for everything else. Weverse Shop USA opened at 7:20 PM PDT on August 17, shipping from September 13."
+    },
+    "credits": {
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL / USA"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/4413",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/4414",
+      "https://linefriendssquare.us/collections/newjeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-08-18-get-up-official-merch/cover.jpg",
+      "source_url": "https://linefriendssquare.us/products/newjeans-get-up-decorative-sticker-pack, https://linefriendssquare.us/products/newjeans-get-up-masking-tape-set-2pcs, https://linefriendssquare.us/products/newjeans-get-up-pencil-board-hyein (+15 more)"
+    },
+    "tags": [
+      "official-merch",
+      "get-up-ep",
+      "bunini",
+      "powerpuff-girls",
+      "weverse-shop",
+      "line-friends"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop notice read from the downloaded shop.weverse.io notice text (ledgerdl/wsn/notices_text.json, fetched 2026-10-16/17): notices 4413 (GLOBAL) and 4414 (USA). The notice lists items only by category; the Weverse Shop KR listings of this drop are no longer public, so no full item list or prices. Later Weverse Shop USA rounds (2nd 2023-09-12, 3rd 2023-10-29 PDT, notices 4542/4765) and LINE FRIENDS SQUARE store listings of the Get Up line (KR/US/JP; store dates are later re-listings) are mapped to this record. / no lineup image; items = LINE FRIENDS SQUARE US Get Up products created 2023-08-30 (photocard holder keyrings, T-shirts, stationery) plus the two THE POWERPUFF GIRLS x NJ items from the Weverse Shop USA 3rd round (sales/19129-19130); cover = first item",
+    "local_assets": [
+      "goods/goods-2023-08-18-get-up-official-merch/01.jpg",
+      "goods/goods-2023-08-18-get-up-official-merch/02.jpg",
+      "goods/goods-2023-08-18-get-up-official-merch/03.jpg",
+      "goods/goods-2023-08-18-get-up-official-merch/04.jpg",
+      "goods/goods-2023-08-18-get-up-official-merch/05.jpg",
+      "goods/goods-2023-08-18-get-up-official-merch/06.jpg",
+      "goods/goods-2023-08-18-get-up-official-merch/07.jpg",
+      "goods/goods-2023-08-18-get-up-official-merch/08.jpg",
+      "goods/goods-2023-08-18-get-up-official-merch/09.jpg",
+      "goods/goods-2023-08-18-get-up-official-merch/10.jpg",
+      "goods/goods-2023-08-18-get-up-official-merch/11.jpg",
+      "goods/goods-2023-08-18-get-up-official-merch/12.jpg",
+      "goods/goods-2023-08-18-get-up-official-merch/13.jpg",
+      "goods/goods-2023-08-18-get-up-official-merch/14.jpg",
+      "goods/goods-2023-08-18-get-up-official-merch/15.jpg",
+      "goods/goods-2023-08-18-get-up-official-merch/16.jpg",
+      "goods/goods-2023-08-18-get-up-official-merch/17.jpg",
+      "goods/goods-2023-08-18-get-up-official-merch/18.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans Get Up Photo Card Holder Keyring (MINJI)",
+      "NewJeans Get Up Photo Card Holder Keyring (HANNI)",
+      "NewJeans Get Up Photo Card Holder Keyring (DANIELLE)",
+      "NewJeans Get Up Photo Card Holder Keyring (HAERIN)",
+      "NewJeans Get Up Photo Card Holder Keyring (HYEIN)",
+      "NewJeans Get Up Short Sleeve T-Shirt (MINJI)",
+      "NewJeans Get Up Short Sleeve T-Shirt (HANNI)",
+      "NewJeans Get Up Short Sleeve T-Shirt (DANIELLE)",
+      "NewJeans Get Up Short Sleeve T-Shirt (HAERIN)",
+      "NewJeans Get Up Short Sleeve T-Shirt (HYEIN)",
+      "NewJeans Get Up PP Folder Ver.2",
+      "NewJeans Get Up Decorative Sticker Pack",
+      "NewJeans Get Up Sticky Notes",
+      "NewJeans Get Up Masking Tape Set (2 PCS)",
+      "NewJeans Get Up Spiral Notebook",
+      "NewJeans Get Up Pencil Board (HYEIN)",
+      "THE POWERPUFF GIRLS x NJ ACRYLIC GEL PEN (BUNNY)",
+      "THE POWERPUFF GIRLS x NJ METAL KEYRING"
+    ]
+  },
+  {
     "id": "goods-2023-09-07-mcdonalds-malaysia-newjeans-chicken-dance",
     "date": "2023-09-07",
     "date_type": "sale_start",
@@ -1764,6 +2320,71 @@
     "asset_titles": [
       "Spicy Crispy Chicken Burger, Seaweed McShaker Fries and Spicy Crispy Chicken Wrap in NewJeans packaging",
       "NewJeans-themed Bukit Bintang outlet"
+    ]
+  },
+  {
+    "id": "goods-2023-09-08-bunnies-club-official-merch",
+    "date": "2023-09-08",
+    "time": "11:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "'Bunnies Club' Official Merch",
+      "en": "'Bunnies Club' Official Merch"
+    },
+    "summary": {
+      "ja": "'Bunnies Club'公式グッズ7種がWeverse Shopで発売、TOKKI KEYやフーディー、ネックレスなど。",
+      "en": "Seven 'Bunnies Club' official merch items, including the TOKKI KEY, a hoodie and a necklace, went on sale on Weverse Shop."
+    },
+    "detail": {
+      "ja": "商品はTOKKI KEY、SAFETY PIN、TOKKI KEYRING（BLUE／PINK）、DICE KEYRING、PAPER CLIP SET、HOODIE（Black）、NECKLACE（Silver）の7種。Weverse Shopで9月8日11時（KST）から在庫限りで販売し、出荷は9月15日から（海外発送可）。ファンクラブ「Bunnies」会員に限らず全会員が購入でき、上限は各3点。同日18時からはHOODIEとNECKLACEの予約販売（出荷11月21日から）も始まった。Weverse Shop USAでの価格はTOKKI KEY 25.90ドル、HOODIE 115.90ドル、NECKLACE 39.90ドルなど。",
+      "en": "Items were the TOKKI KEY, SAFETY PIN, TOKKI KEYRING (BLUE / PINK), DICE KEYRING, PAPER CLIP SET, HOODIE (Black) and NECKLACE (Silver). Weverse Shop sold them from 11:00 on September 8 (KST) while stock lasted, shipping from September 15 (global shipping available). They were open to all members, not only official fan club 'Bunnies' holders, with a limit of three each. A pre-order round for the HOODIE and NECKLACE (shipping from November 21) opened at 18:00 the same day. Weverse Shop USA prices included USD 25.90 for the TOKKI KEY, USD 115.90 for the HOODIE and USD 39.90 for the NECKLACE."
+    },
+    "credits": {
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL / USA"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/4498",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/4514",
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/4500"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-09-08-bunnies-club-official-merch/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/sales/17690, https://shop.weverse.io/en/shop/USD/artists/82/sales/17694, https://shop.weverse.io/en/shop/USD/artists/82/sales/17750 (+4 more)"
+    },
+    "tags": [
+      "official-merch",
+      "bunnies-club",
+      "weverse-shop"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop notice read from the downloaded shop.weverse.io notice text (ledgerdl/wsn/notices_text.json, fetched 2026-10-16/17): notices 4498 (GLOBAL, posted 2023-09-07), 4514 (GLOBAL pre-order, 18:00) and 4500 (USA, 2023-09-07 7 PM PDT). USD prices from WEV_US sales/17690-17755 (option names prefixed \"[NJS] Bunnies Club\"); SAFETY PIN 23.90, TOKKI KEYRING/DICE KEYRING 26.90, PAPER CLIP SET 8.90. / cover = first product; items = the 7 Weverse Shop USA listings in notice order (TOKKI KEY has two identical listings 17690/17749; one shown)",
+    "local_assets": [
+      "goods/goods-2023-09-08-bunnies-club-official-merch/01.jpg",
+      "goods/goods-2023-09-08-bunnies-club-official-merch/02.jpg",
+      "goods/goods-2023-09-08-bunnies-club-official-merch/03.jpg",
+      "goods/goods-2023-09-08-bunnies-club-official-merch/04.jpg",
+      "goods/goods-2023-09-08-bunnies-club-official-merch/05.jpg",
+      "goods/goods-2023-09-08-bunnies-club-official-merch/06.jpg",
+      "goods/goods-2023-09-08-bunnies-club-official-merch/07.jpg"
+    ],
+    "asset_titles": [
+      "TOKKI KEY",
+      "SAFETY PIN",
+      "TOKKI KEYRING",
+      "DICE KEYRING",
+      "PAPER CLIP SET",
+      "HOODIE (Black)",
+      "NECKLACE (Silver)"
     ]
   },
   {
@@ -1852,6 +2473,62 @@
       "NewJeans bunini Plush Pen (Blue)",
       "NewJeans bunini Plush Pen (Pink)",
       "NewJeans bunini Plush Pen (Green)"
+    ]
+  },
+  {
+    "id": "goods-2023-09-15-hanni-birthday-official-merch-2023",
+    "date": "2023-09-15",
+    "time": "11:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "ハニ誕生日公式グッズ（2023）",
+      "en": "Hanni's Birthday Official Merch (2023)"
+    },
+    "summary": {
+      "ja": "ハニの誕生日を記念した公式グッズ（ブレスレット、Tシャツ、チャームセット）がWeverse Shopで発売された。",
+      "en": "Hanni's birthday merch, a bracelet, a tee and a charm set, went on sale on Weverse Shop at 11:00 KST."
+    },
+    "detail": {
+      "ja": "アーティストの誕生日を祝うプロジェクトとして用意され、ハニからBUNNIESへのメッセージ入りのグッズで構成される。商品はBRACELET、TEE（HANNI）、CHARM SET（HANNI）の3種。Weverse Shopで9月15日11時（KST）から在庫限りで販売し、購入上限は各4点。Weverse Shop USAでは9月14日19時（PDT）から即納で受け付け、価格はTEE 49.80ドル、CHARM SET 21.80ドル。",
+      "en": "Prepared as a project to celebrate the artist's birthday, the merch carries messages to BUNNIES from Hanni. Items were the BRACELET, TEE (HANNI) and CHARM SET (HANNI). Weverse Shop sold them from 11:00 on September 15 (KST) while stock lasted, with a limit of four each. Weverse Shop USA took orders from 7:00 PM PDT on September 14 as ready-to-ship stock, with the TEE at USD 49.80 and the CHARM SET at USD 21.80."
+    },
+    "credits": {
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL / USA"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/4568",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/4570"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-09-15-hanni-birthday-official-merch-2023/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/sales/14180, https://shop.weverse.io/en/shop/USD/artists/82/sales/18126, https://shop.weverse.io/en/shop/USD/artists/82/sales/18127"
+    },
+    "tags": [
+      "official-merch",
+      "birthday-merch",
+      "weverse-shop"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop notice read from the downloaded shop.weverse.io notice text (ledgerdl/wsn/notices_text.json, fetched 2026-10-16/17): notices 4568 (GLOBAL, posted 2023-09-14) and 4570 (USA). USD prices from WEV_US sales/18126-18127. / cover = TEE (HANNI); items = Weverse Shop USA TEE and CHARM SET plus the BRACELET packshot from the March 2023 listing (sales/14180)",
+    "local_assets": [
+      "goods/goods-2023-09-15-hanni-birthday-official-merch-2023/01.jpg",
+      "goods/goods-2023-09-15-hanni-birthday-official-merch-2023/02.jpg",
+      "goods/goods-2023-09-15-hanni-birthday-official-merch-2023/03.jpg"
+    ],
+    "asset_titles": [
+      "TEE (HANNI)",
+      "CHARM SET (HANNI)",
+      "BRACELET"
     ]
   },
   {
@@ -2141,6 +2818,58 @@
     ]
   },
   {
+    "id": "goods-2023-10-11-bunnies-1st-anniversary-charm-set",
+    "date": "2023-10-11",
+    "time": "11:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Bunnies 1st anniversary 公式グッズ（チャームセット）",
+      "en": "Bunnies 1st Anniversary Official Merch (Charm Set)"
+    },
+    "summary": {
+      "ja": "Bunnies 1st anniversaryを記念した公式グッズのチャームセットが、Weverse Shopで予約受付を開始した。",
+      "en": "A charm set for the Bunnies 1st anniversary opened for pre-order on Weverse Shop at 11:00 KST."
+    },
+    "detail": {
+      "ja": "NewJeans Bunnies 1st anniversary Official MerchとしてCHARM SET 1種を発売。Weverse Shopで10月11日11時（KST）から在庫限りで予約を受け付け、出荷は10月24日から（海外発送可）。購入上限は4点。Weverse Shop USAでは10月10日19時（PDT）から受け付け、価格は21.80ドル、出荷は11月13日から（米国内のみ）。",
+      "en": "The NewJeans Bunnies 1st anniversary Official Merch was a single CHARM SET. Weverse Shop took pre-made pre-orders from 11:00 on October 11 (KST) while stock lasted, shipping from October 24 (global shipping available), with a limit of four. Weverse Shop USA opened at 7:00 PM PDT on October 10, priced at USD 21.80 and shipping from November 13 (US only)."
+    },
+    "credits": {
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL / USA"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/4677",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/4678"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-10-11-bunnies-1st-anniversary-charm-set/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/sales/18534"
+    },
+    "tags": [
+      "official-merch",
+      "anniversary",
+      "weverse-shop"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop notice read from the downloaded shop.weverse.io notice text (ledgerdl/wsn/notices_text.json, fetched 2026-10-16/17): notices 4677 (GLOBAL, posted 2023-10-10) and 4678 (USA). USD price from WEV_US sales/18534. / single product: CHARM SET (USA listing 18534)",
+    "local_assets": [
+      "goods/goods-2023-10-11-bunnies-1st-anniversary-charm-set/01.jpg"
+    ],
+    "asset_titles": [
+      "CHARM SET"
+    ]
+  },
+  {
     "id": "goods-2023-10-17-weverse-by-fans-newjeans-custom-merch",
     "date": "2023-10-17",
     "date_type": "sale_start",
@@ -2232,6 +2961,59 @@
     "asset_titles": [
       "NewJeans collaboration packaging (nugget boxes, share box, cup, paper bag)",
       "Coca-Cola NewJeans limited commemorative can (Coke Studio design)"
+    ]
+  },
+  {
+    "id": "goods-2023-10-30-newjeans-yearbook-22-23",
+    "date": "2023-10-30",
+    "time": "11:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans Yearbook 22-23",
+      "en": "NewJeans Yearbook 22-23"
+    },
+    "summary": {
+      "ja": "デビューからの1年をまとめた『NewJeans Yearbook 22-23』の予約受付がWeverse Shopで始まった。",
+      "en": "Pre-orders opened for 'NewJeans Yearbook 22-23', a package collecting the year since debut in photos and video."
+    },
+    "detail": {
+      "ja": "デビューからファンミーティング「Bunnies Camp」までの1年を収めたパッケージ。フォトバンドル（160ページ）、Bunnies Campフォトブック（76ページ）とハンドブック、メンバーからの手紙5枚、ポラロイドブック、フォトジン、フォトカード20枚、フォト7枚、ステッカーパック、デジタルコードカードで構成され、映像は「Bunnies Camp」の4K映像約140分と未公開ビハインド約165分。Weverse Shop GLOBALでは10月30日11時から11月9日（KST）まで予約を受け付け、発売は11月10日。Weverse Shop USAは10月29日19時（PDT）から受け付け、価格は65ドル、発売は12月12日。",
+      "en": "The package covers NewJeans' first year from debut to the fan meeting 'Bunnies Camp'. It contains a 160-page photo bundle, a 76-page Bunnies Camp photobook and handbook, five letters to Bunnies, a polaroid book, a photo zine, 20 photocards, seven photos, a sticker pack and a digital code card; the video runs to about 140 minutes of 4K Bunnies Camp footage plus about 165 minutes of unreleased behind-the-scenes. Weverse Shop GLOBAL took pre-orders from 11:00 on October 30 to November 9 (KST), with release on November 10. Weverse Shop USA opened at 7:00 PM PDT on October 29 at USD 65, releasing December 12."
+    },
+    "credits": {
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL / USA"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/4755",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/4756",
+      "https://weverse.io/newjeansofficial/notice/15976"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-10-30-newjeans-yearbook-22-23/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/sales/19101"
+    },
+    "tags": [
+      "yearbook",
+      "weverse-shop",
+      "dvd-vod"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop notice read from the downloaded shop.weverse.io notice text (ledgerdl/wsn/notices_text.json, fetched 2026-10-16/17): notices 4755 (GLOBAL, posted 2023-10-27) and 4756 (USA). Footage lengths from Weverse artist notice 15976 (posted 2023-10-27, read via the Weverse notice API 2026-10-17). USD price from WEV_US sales/19101. The VOD is covered by tv-2023-11-30-newjeans-yearbook-22-23. / cover = official cover image attached to Weverse notice 15976; items = Weverse Shop USA packshot (sales/19101)",
+    "local_assets": [
+      "goods/goods-2023-10-30-newjeans-yearbook-22-23/01.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans Yearbook 22-23"
     ]
   },
   {
@@ -2406,6 +3188,155 @@
     ]
   },
   {
+    "id": "goods-2023-12-01-collaboration-merch-december-2023",
+    "date": "2023-12-01",
+    "time": "11:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "コラボレーショングッズ（2023年12月：TOKKI／Get Up／bunini）",
+      "en": "Collaboration Merch (December 2023: TOKKI / Get Up / bunini)"
+    },
+    "summary": {
+      "ja": "TOKKI・Get Up・bunini・illustrationのコラボグッズがWeverse Shopで発売、Tシャツや帽子、ブランケットなど。",
+      "en": "Collaboration merch in TOKKI, Get Up, bunini and illustration lines, from tees to a hooded blanket, went on sale on Weverse Shop."
+    },
+    "detail": {
+      "ja": "Weverse Shopで12月1日11時（KST）から在庫限りで販売し、出荷は12月5日から（海外発送可）。COLLABカテゴリのTOKKI、Get Up、bunini、illustrationに、NJ Get Up PHOTOCARD SET VER.3（8,000ウォン）、TOKKI／NJ Get Up／buniniの半袖Tシャツ（各39,000ウォン）、bunini BAG CHARM（20,000ウォン）、bunini PLUSH CROSSBODY MINI BAG（23,000ウォン）、bunini PLUSH HEADBAND（17,000ウォン）、NJ Get Up PLUSH CAT EARS HEADBAND（15,000ウォン）、bunini HOODED BLANKET（42,000ウォン）、NJ Get Up ACRYLIC KEYRING（6,000ウォン）、NJ Get Up PENCIL BOARD VER.2（5,000ウォン）が並んだ。購入上限は各3点。Weverse Shop USAでは11月30日19時（PST）から予約を受け付け、NJ Get UpとTHE POWERPUFF GIRLS x NJのベースボールキャップも加わった。",
+      "en": "Weverse Shop sold the merch from 11:00 on December 1 (KST) while stock lasted, shipping from December 5 (global shipping available). Under the COLLAB lines TOKKI, Get Up, bunini and illustration were the NJ Get Up PHOTOCARD SET VER.3 (8,000 KRW), TOKKI, NJ Get Up and bunini short-sleeve T-shirts (39,000 KRW each), bunini BAG CHARM (20,000 KRW), bunini PLUSH CROSSBODY MINI BAG (23,000 KRW), bunini PLUSH HEADBAND (17,000 KRW), NJ Get Up PLUSH CAT EARS HEADBAND (15,000 KRW), bunini HOODED BLANKET (42,000 KRW), NJ Get Up ACRYLIC KEYRING (6,000 KRW) and NJ Get Up PENCIL BOARD VER.2 (5,000 KRW). The limit was three each. Weverse Shop USA opened pre-orders at 7:00 PM PST on November 30, adding NJ Get Up and THE POWERPUFF GIRLS x NJ baseball caps."
+    },
+    "credits": {
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL / USA"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/4967",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/5018"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-12-01-collaboration-merch-december-2023/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/sales/21352, https://shop.weverse.io/en/shop/USD/artists/82/sales/21353, https://shop.weverse.io/en/shop/USD/artists/82/sales/21354 (+10 more)"
+    },
+    "tags": [
+      "collaboration-merch",
+      "tokki",
+      "bunini",
+      "get-up-ep",
+      "weverse-shop"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop notice read from the downloaded shop.weverse.io notice text (ledgerdl/wsn/notices_text.json, fetched 2026-10-16/17): notices 4967 (GLOBAL, posted 2023-11-24) and 5018 (USA, titled the 4th pre-order round of the Get Up official merch; matched to this drop by date and sale-id order). KRW prices from WEV_KO sales/21352-21362. Prices are from the Weverse Shop sale pages (sold-out listings, fetched 2026-10-16) and may not be launch prices if changed later; notices state no prices. The bunini bag charm, crossbody bag, hooded blanket and cat-ears headband listings are mapped in the ledger to goods-2023-11-23 (LINE FRIENDS Hang Out With NewJeans). LINE FRIENDS SQUARE US Get Up Acrylic Keyrings (published 2024-02-07) are mapped here. / cover = first product; items = the 11 Weverse Shop (KR) listings in sale-id order plus the two USA caps (sales/21423-21424)",
+    "local_assets": [
+      "goods/goods-2023-12-01-collaboration-merch-december-2023/01.jpg",
+      "goods/goods-2023-12-01-collaboration-merch-december-2023/02.jpg",
+      "goods/goods-2023-12-01-collaboration-merch-december-2023/03.jpg",
+      "goods/goods-2023-12-01-collaboration-merch-december-2023/04.jpg",
+      "goods/goods-2023-12-01-collaboration-merch-december-2023/05.jpg",
+      "goods/goods-2023-12-01-collaboration-merch-december-2023/06.jpg",
+      "goods/goods-2023-12-01-collaboration-merch-december-2023/07.jpg",
+      "goods/goods-2023-12-01-collaboration-merch-december-2023/08.jpg",
+      "goods/goods-2023-12-01-collaboration-merch-december-2023/09.jpg",
+      "goods/goods-2023-12-01-collaboration-merch-december-2023/10.jpg",
+      "goods/goods-2023-12-01-collaboration-merch-december-2023/11.jpg",
+      "goods/goods-2023-12-01-collaboration-merch-december-2023/12.jpg",
+      "goods/goods-2023-12-01-collaboration-merch-december-2023/13.jpg"
+    ],
+    "asset_titles": [
+      "NJ Get Up PHOTOCARD SET VER.3",
+      "TOKKI SHORT SLEEVE T-SHIRT (BLACK)",
+      "NJ Get Up SHORT SLEEVE T-SHIRT (WHITE)",
+      "bunini SHORT SLEEVE T-SHIRT (NAVY)",
+      "bunini BAG CHARM",
+      "bunini PLUSH CROSSBODY MINI BAG",
+      "bunini PLUSH HEADBAND",
+      "NJ Get Up PLUSH CAT EARS HEADBAND",
+      "bunini HOODED BLANKET",
+      "NJ Get Up ACRYLIC KEYRING",
+      "NJ Get Up PENCIL BOARD VER.2",
+      "NJ Get Up BASEBALL CAP",
+      "THE POWERPUFF GIRLS x NJ BASEBALL CAP"
+    ]
+  },
+  {
+    "id": "goods-2023-12-20-collaboration-merch-december-2023-tokki-bunini",
+    "date": "2023-12-20",
+    "time": "11:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "コラボレーショングッズ（2023年12月第2弾：TOKKI／bunini）",
+      "en": "Collaboration Merch (December 2023, second drop: TOKKI / bunini)"
+    },
+    "summary": {
+      "ja": "12月のコラボグッズ第2弾としてTOKKIとbuniniのラインがWeverse Shopで11時から発売された。",
+      "en": "A second December drop of collaboration merch in the TOKKI and bunini lines went on sale on Weverse Shop at 11:00 KST."
+    },
+    "detail": {
+      "ja": "Weverse Shopで12月20日11時（KST）から在庫限りで販売。商品はCOLLABカテゴリのTOKKIとbuniniに並ぶ事前生産の数量限定品で、購入上限は各3点。Weverse Shop USAでは12月19日18時（PST）から2nd EP『Get Up』公式グッズの第5次予約として受け付け、出荷は2024年1月29日から。USAではTOKKI CLEAR CROSSBODY MINI BAG（31ドル）が出品された。",
+      "en": "Weverse Shop sold the merch from 11:00 on December 20 (KST) while stock lasted. The pre-made, limited-quantity items were listed under the COLLAB lines TOKKI and bunini, with a limit of three each. Weverse Shop USA took orders from 6:00 PM PST on December 19 as the fifth pre-order round of the 2nd EP 'Get Up' official merch, shipping from January 29, 2024. The US store listed the TOKKI CLEAR CROSSBODY MINI BAG at USD 31."
+    },
+    "credits": {
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL / USA"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/5069",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/5103"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2023-12-20-collaboration-merch-december-2023-tokki-bunini/cover.jpg",
+      "source_url": "https://linefriendssquare.us/products/newjeans-get-up-photo-card-binder-blue, https://linefriendssquare.us/products/newjeans-get-up-photo-card-binder-pink, https://linefriendssquare.us/products/newjeans-tokki-clear-mini-crossbody-bag (+7 more)"
+    },
+    "tags": [
+      "collaboration-merch",
+      "tokki",
+      "bunini",
+      "weverse-shop"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop notice read from the downloaded shop.weverse.io notice text (ledgerdl/wsn/notices_text.json, fetched 2026-10-16/17): notices 5069 (GLOBAL, posted 2023-12-13) and 5103 (USA). The notice lists only categories; the KR listings are no longer public. TOKKI CLEAR CROSSBODY MINI BAG (WEV_US sales/21751) placed in this drop by sale-id order (inference). LINE FRIENDS SQUARE US items created 2023-12-14 (Get Up photo card binders, NewJeans X COLLER Get Up sticons) and the US/KR TOKKI clear bag listings are mapped here by timing (inference). / cover = TOKKI CLEAR CROSSBODY MINI BAG (Weverse Shop USA); items = that listing plus the LINE FRIENDS SQUARE US product shots of the bag, photo card binders and COLLER Get Up sticons (created 2023-12-14)",
+    "local_assets": [
+      "goods/goods-2023-12-20-collaboration-merch-december-2023-tokki-bunini/01.jpg",
+      "goods/goods-2023-12-20-collaboration-merch-december-2023-tokki-bunini/02.jpg",
+      "goods/goods-2023-12-20-collaboration-merch-december-2023-tokki-bunini/03.jpg",
+      "goods/goods-2023-12-20-collaboration-merch-december-2023-tokki-bunini/04.jpg",
+      "goods/goods-2023-12-20-collaboration-merch-december-2023-tokki-bunini/05.jpg",
+      "goods/goods-2023-12-20-collaboration-merch-december-2023-tokki-bunini/06.jpg",
+      "goods/goods-2023-12-20-collaboration-merch-december-2023-tokki-bunini/07.jpg",
+      "goods/goods-2023-12-20-collaboration-merch-december-2023-tokki-bunini/08.jpg",
+      "goods/goods-2023-12-20-collaboration-merch-december-2023-tokki-bunini/09.jpg",
+      "goods/goods-2023-12-20-collaboration-merch-december-2023-tokki-bunini/10.jpg"
+    ],
+    "asset_titles": [
+      "TOKKI CLEAR CROSSBODY MINI BAG",
+      "NewJeans TOKKI Clear Mini Crossbody Bag",
+      "NewJeans Get Up Photo Card Binder (Blue)",
+      "NewJeans Get Up Photo Card Binder (Pink)",
+      "NewJeans X COLLER Get Up Logo Sticon (2pcs)",
+      "NewJeans X COLLER Get Up Logo Embroidered Patch Reversible Sticon (2pcs)",
+      "NewJeans X COLLER Get Up Flower Reversible Sticon (2pcs)",
+      "NewJeans X COLLER Get Up Rabbit Embroidered Patch Reversible Sticon (2pcs)",
+      "NewJeans X COLLER Get Up Butterfly Embroidered Patch Reversible Sticon (2pcs)",
+      "NewJeans X COLLER Get Up Acrylic Reversible Sticon (3pcs)"
+    ]
+  },
+  {
     "id": "goods-2024-01-30-nike-by-you-x-newjeans-orchard-road",
     "date": "2024-01-30",
     "date_type": "sale_start",
@@ -2460,6 +3391,151 @@
     ],
     "asset_titles": [
       "NewJeans at Nike Orchard Road (Nike newsroom)"
+    ]
+  },
+  {
+    "id": "goods-2024-01-31-collaboration-merch-january-2024-powerpuff-girls-x-newjeans",
+    "date": "2024-01-31",
+    "time": "11:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "コラボレーショングッズ（2024年1月：THE POWERPUFF GIRLS X NewJeans ほか）",
+      "en": "Collaboration Merch (January 2024: THE POWERPUFF GIRLS X NewJeans and more)"
+    },
+    "summary": {
+      "ja": "THE POWERPUFF GIRLS X NewJeansのグッズ14種とタンブラーなどがWeverse Shopで11時から発売された。",
+      "en": "Fourteen THE POWERPUFF GIRLS X NewJeans items plus tumblers and a tote went on sale on Weverse Shop at 11:00 KST."
+    },
+    "detail": {
+      "ja": "Weverse Shopで1月31日11時（KST）から在庫限りで販売。THE POWERPUFF GIRLS X NewJeansはDOLL MEDIUM、BAG CHARM、BLANKET、CUSHION、STRING POUCH、REUSABLE BAG（M／L）、SWEATSHIRT、FULL-ZIP HOODED SWEATSHIRT、METAL PIN BADGE、ACRYLIC MAGNETIC CLIPS、MOUSE PAD VER.2、PLASTIC FILE FOLDER、PHOTO HOLDER KEYRINGの14種で、ほかにbuniniのTUMBLER、illustrationのTUMBLERとCANVAS TOTE BAGが並んだ。購入上限は各3点（スウェット類はオプションごとに2点、BLANKETは2点）。Weverse Shop USAでは1月30日18時（PST）から予約を受け付け、価格はDOLL MEDIUM 28ドル、FULL-ZIP HOODED SWEATSHIRT 82ドルなど。",
+      "en": "Weverse Shop sold the merch from 11:00 on January 31 (KST) while stock lasted. THE POWERPUFF GIRLS X NewJeans line had 14 items: DOLL MEDIUM, BAG CHARM, BLANKET, CUSHION, STRING POUCH, REUSABLE BAG (M / L), SWEATSHIRT, FULL-ZIP HOODED SWEATSHIRT, METAL PIN BADGE, ACRYLIC MAGNETIC CLIPS, MOUSE PAD VER.2, PLASTIC FILE FOLDER and PHOTO HOLDER KEYRING, alongside a bunini TUMBLER and an illustration TUMBLER and CANVAS TOTE BAG. Limits were three each (two per option for the sweatshirts and two for the blanket). Weverse Shop USA opened pre-orders at 6:00 PM PST on January 30, with prices such as USD 28 for the DOLL MEDIUM and USD 82 for the FULL-ZIP HOODED SWEATSHIRT."
+    },
+    "credits": {
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL / USA"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/5240",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/5241"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2024-01-31-collaboration-merch-january-2024-powerpuff-girls-x-newjeans/cover.jpg",
+      "source_url": "https://linefriendssquare.com/products/nj-get-up-canvas-tote-bag-minji, https://linefriendssquare.com/products/nj-get-up-tumbler, https://shop.weverse.io/en/shop/USD/artists/82/sales/22346 (+13 more)"
+    },
+    "tags": [
+      "collaboration-merch",
+      "powerpuff-girls",
+      "bunini",
+      "weverse-shop"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop notice read from the downloaded shop.weverse.io notice text (ledgerdl/wsn/notices_text.json, fetched 2026-10-16/17): notices 5240 (GLOBAL, posted 2024-01-24, 1/30 updated) and 5241 (USA). USD prices from WEV_US sales/22346-22359. The illustration TUMBLER and CANVAS TOTE BAG are taken to be the LINE FRIENDS SQUARE \"NJ Get Up\" tumbler and member canvas totes (illustrated artwork; US tote listings created 2024-02-27), which are mapped here. / cover = first product; items = the 14 Weverse Shop USA listings in notice order plus the LINE FRIENDS SQUARE (KR) tumbler and a canvas tote",
+    "local_assets": [
+      "goods/goods-2024-01-31-collaboration-merch-january-2024-powerpuff-girls-x-newjeans/01.jpg",
+      "goods/goods-2024-01-31-collaboration-merch-january-2024-powerpuff-girls-x-newjeans/02.jpg",
+      "goods/goods-2024-01-31-collaboration-merch-january-2024-powerpuff-girls-x-newjeans/03.jpg",
+      "goods/goods-2024-01-31-collaboration-merch-january-2024-powerpuff-girls-x-newjeans/04.jpg",
+      "goods/goods-2024-01-31-collaboration-merch-january-2024-powerpuff-girls-x-newjeans/05.jpg",
+      "goods/goods-2024-01-31-collaboration-merch-january-2024-powerpuff-girls-x-newjeans/06.jpg",
+      "goods/goods-2024-01-31-collaboration-merch-january-2024-powerpuff-girls-x-newjeans/07.jpg",
+      "goods/goods-2024-01-31-collaboration-merch-january-2024-powerpuff-girls-x-newjeans/08.jpg",
+      "goods/goods-2024-01-31-collaboration-merch-january-2024-powerpuff-girls-x-newjeans/09.jpg",
+      "goods/goods-2024-01-31-collaboration-merch-january-2024-powerpuff-girls-x-newjeans/10.jpg",
+      "goods/goods-2024-01-31-collaboration-merch-january-2024-powerpuff-girls-x-newjeans/11.jpg",
+      "goods/goods-2024-01-31-collaboration-merch-january-2024-powerpuff-girls-x-newjeans/12.jpg",
+      "goods/goods-2024-01-31-collaboration-merch-january-2024-powerpuff-girls-x-newjeans/13.jpg",
+      "goods/goods-2024-01-31-collaboration-merch-january-2024-powerpuff-girls-x-newjeans/14.jpg",
+      "goods/goods-2024-01-31-collaboration-merch-january-2024-powerpuff-girls-x-newjeans/15.jpg",
+      "goods/goods-2024-01-31-collaboration-merch-january-2024-powerpuff-girls-x-newjeans/16.jpg"
+    ],
+    "asset_titles": [
+      "THE POWERPUFF GIRLS x NJ DOLL MEDIUM",
+      "THE POWERPUFF GIRLS x NJ BAG CHARM",
+      "THE POWERPUFF GIRLS x NJ BLANKET",
+      "THE POWERPUFF GIRLS x NJ CUSHION",
+      "THE POWERPUFF GIRLS x NJ STRING POUCH",
+      "THE POWERPUFF GIRLS x NJ REUSABLE BAG (M)",
+      "THE POWERPUFF GIRLS x NJ REUSABLE BAG (L)",
+      "THE POWERPUFF GIRLS x NJ SWEATSHIRT",
+      "THE POWERPUFF GIRLS x NJ FULL-ZIP HOODED SWEATSHIRT",
+      "THE POWERPUFF GIRLS x NJ METAL PIN BADGE",
+      "THE POWERPUFF GIRLS x NJ ACRYLIC MAGNETIC CLIPS",
+      "THE POWERPUFF GIRLS x NJ MOUSE PAD VER.2",
+      "THE POWERPUFF GIRLS x NJ PLASTIC FILE FOLDER VER.2",
+      "THE POWERPUFF GIRLS x NJ PHOTO HOLDER KEYRING VER.2",
+      "NJ Get Up 텀블러 (475mL)",
+      "NJ Get Up 에코백 (MINJI)"
+    ]
+  },
+  {
+    "id": "goods-2024-02-21-bunini-talking-plush",
+    "date": "2024-02-21",
+    "time": "11:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "bunini TALKING PLUSH（コラボレーショングッズ2024年2月）",
+      "en": "bunini TALKING PLUSH (Collaboration Merch, February 2024)"
+    },
+    "summary": {
+      "ja": "5色のbunini TALKING PLUSHが2月のコラボレーショングッズとしてWeverse Shopで発売された。",
+      "en": "The bunini TALKING PLUSH in five colours went on sale on Weverse Shop as the February collaboration merch."
+    },
+    "detail": {
+      "ja": "Weverse Shopで2月21日11時（KST）から在庫限りで販売。商品はbunini TALKING PLUSH（YELLOW／BLUE／GREEN／PINK／WHITE）の1種5色で、事前生産の数量限定品、購入上限は色ごとに3点。Weverse Shop USAでは2月20日18時（PST）から予約を受け付け、価格は51ドル、出荷は3月4日から。",
+      "en": "Weverse Shop sold it from 11:00 on February 21 (KST) while stock lasted. The single item was the bunini TALKING PLUSH in YELLOW, BLUE, GREEN, PINK and WHITE, pre-made in limited quantities with a limit of three per colour. Weverse Shop USA opened pre-orders at 6:00 PM PST on February 20 at USD 51, shipping from March 4."
+    },
+    "credits": {
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL / USA"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/5335",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/5337"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2024-02-21-bunini-talking-plush/cover.jpg",
+      "source_url": "https://linefriendssquare.us/products/newjeans-bunini-talking-plush-blue, https://linefriendssquare.us/products/newjeans-bunini-talking-plush-green, https://linefriendssquare.us/products/newjeans-bunini-talking-plush-pink (+3 more)"
+    },
+    "tags": [
+      "collaboration-merch",
+      "bunini",
+      "weverse-shop"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop notice read from the downloaded shop.weverse.io notice text (ledgerdl/wsn/notices_text.json, fetched 2026-10-16/17): notices 5335 (GLOBAL, posted 2024-02-13) and 5337 (USA). USD price from WEV_US sales/22892. LINE FRIENDS SQUARE US Talking Plush listings (published 2024-04-23 / 2025-09-08) are mapped here as a regional round; the KR LINE FRIENDS SQUARE listing (2024-02-26) is covered by goods-2024-02-23-line-friends-play-with-bunini-collection. / cover = Weverse Shop USA packshot (sales/22892); items = that plus LINE FRIENDS SQUARE US product shots of the five colours",
+    "local_assets": [
+      "goods/goods-2024-02-21-bunini-talking-plush/01.jpg",
+      "goods/goods-2024-02-21-bunini-talking-plush/02.jpg",
+      "goods/goods-2024-02-21-bunini-talking-plush/03.jpg",
+      "goods/goods-2024-02-21-bunini-talking-plush/04.jpg",
+      "goods/goods-2024-02-21-bunini-talking-plush/05.jpg",
+      "goods/goods-2024-02-21-bunini-talking-plush/06.jpg"
+    ],
+    "asset_titles": [
+      "bunini TALKING PLUSH",
+      "NewJeans bunini Talking Plush (YELLOW)",
+      "NewJeans bunini Talking Plush (BLUE)",
+      "NewJeans bunini Talking Plush (GREEN)",
+      "NewJeans bunini Talking Plush (PINK)",
+      "NewJeans bunini Talking Plush (WHITE)"
     ]
   },
   {
@@ -2529,6 +3605,218 @@
       "bunini Plush Headband (Yellow)",
       "bunini Plush Mini Crossbody Bag (Green)",
       "bunini Face Cushion (Yellow)"
+    ]
+  },
+  {
+    "id": "goods-2024-04-02-danielle-birthday-light-stick-parts-2024",
+    "date": "2024-04-02",
+    "time": "11:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "ダニエル誕生日公式グッズ（2024）Birthday Light Stick Parts",
+      "en": "Danielle's 2024 Birthday Official Merch (Birthday Light Stick Parts)"
+    },
+    "summary": {
+      "ja": "ダニエルの2024年誕生日公式グッズとして、Birthday Light Stick Parts（DANIELLE）がWeverse Shopで発売された。",
+      "en": "Birthday Light Stick Parts (DANIELLE) went on sale on Weverse Shop as Danielle's 2024 birthday official merch."
+    },
+    "detail": {
+      "ja": "ダニエルの24 Birthday Official MerchはBirthday Light Stick Parts（DANIELLE）の1種。Weverse Shopで4月2日11時（KST）から在庫限りで予約を受け付け、出荷は4月5日から（海外発送可）。Weverse Shop USAでは4月1日19時（PDT）から受け付けた。購入上限は4点で、他商品との同梱はできない。Weverse Shop USAでの価格は13.20ドル。",
+      "en": "Danielle's 24 Birthday Official Merch was a single item, Birthday Light Stick Parts (DANIELLE). Weverse Shop took pre-made pre-orders from 11:00 on April 2 (KST) while stock lasted, shipping from April 5 (global shipping available); Weverse Shop USA opened at 7:00 PM PDT on April 1. The limit was four, and it could not ship with other products. The Weverse Shop USA price was USD 13.20."
+    },
+    "credits": {
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL / USA"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/5586",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/5590"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2024-04-02-danielle-birthday-light-stick-parts-2024/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/sales/24017"
+    },
+    "tags": [
+      "official-merch",
+      "birthday-merch",
+      "light-stick",
+      "weverse-shop"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop notice read from the downloaded shop.weverse.io notice text (ledgerdl/wsn/notices_text.json, fetched 2026-10-16/17): notices 5586 (GLOBAL) and 5590 (USA). USD price from WEV_US sales/24017. / single product: Weverse Shop USA packshot (sales/24017)",
+    "local_assets": [
+      "goods/goods-2024-04-02-danielle-birthday-light-stick-parts-2024/01.jpg"
+    ],
+    "asset_titles": [
+      "Birthday Light Stick Parts (DANIELLE)"
+    ]
+  },
+  {
+    "id": "goods-2024-04-02-hyein-birthday-light-stick-parts-2024",
+    "date": "2024-04-02",
+    "time": "11:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "ヘイン誕生日公式グッズ（2024）Birthday Light Stick Parts",
+      "en": "Hyein's 2024 Birthday Official Merch (Birthday Light Stick Parts)"
+    },
+    "summary": {
+      "ja": "ヘインの2024年誕生日公式グッズとして、Birthday Light Stick Parts（HYEIN）がWeverse Shopで発売された。",
+      "en": "Birthday Light Stick Parts (HYEIN) went on sale on Weverse Shop as Hyein's 2024 birthday official merch."
+    },
+    "detail": {
+      "ja": "ヘインの24 Birthday Official MerchはBirthday Light Stick Parts（HYEIN）の1種。Weverse Shopで4月2日11時（KST）から在庫限りで予約を受け付け、出荷は4月5日から（海外発送可）。Weverse Shop USAでは4月1日19時（PDT）から受け付けた。購入上限は4点で、他商品との同梱はできない。Weverse Shop USAでの価格は13.20ドル。",
+      "en": "Hyein's 24 Birthday Official Merch was a single item, Birthday Light Stick Parts (HYEIN). Weverse Shop took pre-made pre-orders from 11:00 on April 2 (KST) while stock lasted, shipping from April 5 (global shipping available); Weverse Shop USA opened at 7:00 PM PDT on April 1. The limit was four, and it could not ship with other products. The Weverse Shop USA price was USD 13.20."
+    },
+    "credits": {
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL / USA"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/5587",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/5590"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2024-04-02-hyein-birthday-light-stick-parts-2024/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/sales/24016"
+    },
+    "tags": [
+      "official-merch",
+      "birthday-merch",
+      "light-stick",
+      "weverse-shop"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop notice read from the downloaded shop.weverse.io notice text (ledgerdl/wsn/notices_text.json, fetched 2026-10-16/17): notices 5587 (GLOBAL) and 5590 (USA). USD price from WEV_US sales/24016. / single product: Weverse Shop USA packshot (sales/24016)",
+    "local_assets": [
+      "goods/goods-2024-04-02-hyein-birthday-light-stick-parts-2024/01.jpg"
+    ],
+    "asset_titles": [
+      "Birthday Light Stick Parts (HYEIN)"
+    ]
+  },
+  {
+    "id": "goods-2024-04-25-haerin-birthday-light-stick-parts-2024",
+    "date": "2024-04-25",
+    "time": "11:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ヘリン誕生日公式グッズ（2024）Birthday Light Stick Parts",
+      "en": "Haerin's 2024 Birthday Official Merch (Birthday Light Stick Parts)"
+    },
+    "summary": {
+      "ja": "ヘリンの2024年誕生日公式グッズとして、Birthday Light Stick Parts（HAERIN）がWeverse Shopで発売された。",
+      "en": "Birthday Light Stick Parts (HAERIN) went on sale on Weverse Shop as Haerin's 2024 birthday official merch."
+    },
+    "detail": {
+      "ja": "ヘリンの24 Birthday Official MerchはBirthday Light Stick Parts（HAERIN）の1種。Weverse Shopで4月25日11時（KST）から在庫限りで販売し、Weverse Shop USAでは4月24日19時（PDT）から受け付けた。購入上限は4点で、他商品との同梱はできない。Weverse Shop USAでの価格は13.20ドル。",
+      "en": "Haerin's 24 Birthday Official Merch was a single item, Birthday Light Stick Parts (HAERIN). Weverse Shop sold it from 11:00 on April 25 (KST) while stock lasted; Weverse Shop USA opened at 7:00 PM PDT on April 24. The limit was four, and it could not ship with other products. The Weverse Shop USA price was USD 13.20."
+    },
+    "credits": {
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL / USA"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/5727",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/5723"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2024-04-25-haerin-birthday-light-stick-parts-2024/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/sales/24560"
+    },
+    "tags": [
+      "official-merch",
+      "birthday-merch",
+      "light-stick",
+      "weverse-shop"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop notice read from the downloaded shop.weverse.io notice text (ledgerdl/wsn/notices_text.json, fetched 2026-10-16/17): notices 5727 (GLOBAL) and 5723 (USA). USD price from WEV_US sales/24560. / single product: Weverse Shop USA packshot (sales/24560)",
+    "local_assets": [
+      "goods/goods-2024-04-25-haerin-birthday-light-stick-parts-2024/01.jpg"
+    ],
+    "asset_titles": [
+      "Birthday Light Stick Parts (HAERIN)"
+    ]
+  },
+  {
+    "id": "goods-2024-04-25-minji-birthday-light-stick-parts-2024",
+    "date": "2024-04-25",
+    "time": "11:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "ミンジ誕生日公式グッズ（2024）Birthday Light Stick Parts",
+      "en": "Minji's 2024 Birthday Official Merch (Birthday Light Stick Parts)"
+    },
+    "summary": {
+      "ja": "ミンジの2024年誕生日公式グッズとして、Birthday Light Stick Parts（MINJI）がWeverse Shopで発売された。",
+      "en": "Birthday Light Stick Parts (MINJI) went on sale on Weverse Shop as Minji's 2024 birthday official merch."
+    },
+    "detail": {
+      "ja": "ミンジの24 Birthday Official MerchはBirthday Light Stick Parts（MINJI）の1種。Weverse Shopで4月25日11時（KST）から在庫限りで販売し、Weverse Shop USAでは4月24日19時（PDT）から受け付けた。購入上限は4点で、他商品との同梱はできない。Weverse Shop USAでの価格は13.20ドル。",
+      "en": "Minji's 24 Birthday Official Merch was a single item, Birthday Light Stick Parts (MINJI). Weverse Shop sold it from 11:00 on April 25 (KST) while stock lasted; Weverse Shop USA opened at 7:00 PM PDT on April 24. The limit was four, and it could not ship with other products. The Weverse Shop USA price was USD 13.20."
+    },
+    "credits": {
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL / USA"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/5726",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/5723"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2024-04-25-minji-birthday-light-stick-parts-2024/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/sales/24561"
+    },
+    "tags": [
+      "official-merch",
+      "birthday-merch",
+      "light-stick",
+      "weverse-shop"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop notice read from the downloaded shop.weverse.io notice text (ledgerdl/wsn/notices_text.json, fetched 2026-10-16/17): notices 5726 (GLOBAL) and 5723 (USA). USD price from WEV_US sales/24561. / single product: Weverse Shop USA packshot (sales/24561)",
+    "local_assets": [
+      "goods/goods-2024-04-25-minji-birthday-light-stick-parts-2024/01.jpg"
+    ],
+    "asset_titles": [
+      "Birthday Light Stick Parts (MINJI)"
     ]
   },
   {
@@ -3632,6 +4920,117 @@
     ]
   },
   {
+    "id": "goods-2024-09-24-hanni-birthday-light-stick-parts-2024",
+    "date": "2024-09-24",
+    "time": "11:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "ハニ誕生日公式グッズ（2024）Birthday Light Stick Parts",
+      "en": "Hanni's 2024 Birthday Official Merch (Birthday Light Stick Parts)"
+    },
+    "summary": {
+      "ja": "ハニの2024年誕生日公式グッズとして、Birthday Light Stick Parts（HANNI）がWeverse Shopで発売された。",
+      "en": "Birthday Light Stick Parts (HANNI) went on sale on Weverse Shop as Hanni's 2024 birthday official merch."
+    },
+    "detail": {
+      "ja": "ハニの24 Birthday Official MerchはBirthday Light Stick Parts（HANNI）の1種。Weverse Shopで9月24日11時（KST）から在庫限りで販売し、Weverse Shop USAでは9月23日19時（PDT）から受け付けた。購入上限は4点で、他商品との同梱はできない。Weverse Shop USAでの価格は13.20ドル。",
+      "en": "Hanni's 24 Birthday Official Merch was a single item, Birthday Light Stick Parts (HANNI). Weverse Shop sold it from 11:00 on September 24 (KST) while stock lasted; Weverse Shop USA opened at 7:00 PM PDT on September 23. The limit was four, and it could not ship with other products. The Weverse Shop USA price was USD 13.20."
+    },
+    "credits": {
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL / USA"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/6647",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/6652"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2024-09-24-hanni-birthday-light-stick-parts-2024/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/sales/30013"
+    },
+    "tags": [
+      "official-merch",
+      "birthday-merch",
+      "light-stick",
+      "weverse-shop"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop notice read from the downloaded shop.weverse.io notice text (ledgerdl/wsn/notices_text.json, fetched 2026-10-16/17): notices 6647 (GLOBAL) and 6652 (USA). USD price from WEV_US sales/30013. / single product: Weverse Shop USA packshot (sales/30013)",
+    "local_assets": [
+      "goods/goods-2024-09-24-hanni-birthday-light-stick-parts-2024/01.jpg"
+    ],
+    "asset_titles": [
+      "Birthday Light Stick Parts (HANNI)"
+    ]
+  },
+  {
+    "id": "goods-2024-10-24-newjeans-x-hiroshi-fujiwara-coller-long-sleeve-t-shirts",
+    "date": "2024-10-24",
+    "time": "11:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans X Hiroshi Fujiwara COLLER LONG SLEEVE T-SHIRT（コラボレーショングッズ2024年10月）",
+      "en": "NewJeans X Hiroshi Fujiwara COLLER Long Sleeve T-Shirts (Collaboration Merch, October 2024)"
+    },
+    "summary": {
+      "ja": "藤原ヒロシとのコラボによるCOLLERの長袖Tシャツ3種が、10月のコラボグッズとしてWeverse Shopで発売された。",
+      "en": "Three NewJeans X Hiroshi Fujiwara COLLER long-sleeve T-shirts went on sale on Weverse Shop as the October collaboration merch."
+    },
+    "detail": {
+      "ja": "Weverse Shopで10月24日11時（KST）から在庫限りで販売し、出荷は10月31日から（海外発送可）。商品はNewJeans X Hiroshi Fujiwara COLLER LONG SLEEVE T-SHIRTで、事前生産の数量限定品、購入上限はオプションごとに2点。Weverse Shop USAでは10月23日19時（PST）から予約を受け付け、VER.1・VER.2・VER.3（各L／XL、73.90ドル）を11月8日から出荷とした。",
+      "en": "Weverse Shop sold the shirts from 11:00 on October 24 (KST) while stock lasted, shipping from October 31 (global shipping available). The item was the NewJeans X Hiroshi Fujiwara COLLER LONG SLEEVE T-SHIRT, pre-made in limited quantities with a limit of two per option. Weverse Shop USA took pre-orders from 7:00 PM PST on October 23 for VER.1, VER.2 and VER.3 (L / XL, USD 73.90 each), shipping from November 8."
+    },
+    "credits": {
+      "label": "ADOR",
+      "sale_channel": "Weverse Shop GLOBAL / USA"
+    },
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/6810",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/6859",
+      "https://linefriendssquare.com/collections/newjeans-hiroshi-fujiwara-long-sleeve-t-shirts"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2024-10-24-newjeans-x-hiroshi-fujiwara-coller-long-sleeve-t-shirts/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/sales/31287, https://shop.weverse.io/en/shop/USD/artists/82/sales/31288, https://shop.weverse.io/en/shop/USD/artists/82/sales/31289"
+    },
+    "tags": [
+      "collaboration-merch",
+      "hiroshi-fujiwara",
+      "coller",
+      "weverse-shop"
+    ],
+    "verified": true,
+    "editor_note": "Weverse Shop notice read from the downloaded shop.weverse.io notice text (ledgerdl/wsn/notices_text.json, fetched 2026-10-16/17): notices 6810 (GLOBAL, posted 2024-10-17, 241023 updated) and 6859 (USA). The USA notice gives 7 PM PST on Oct 23, i.e. Oct 24 KST. USD price from WEV_US sales/31287-31289. / cover = VER.1; items = the three Weverse Shop USA listings VER.1-3",
+    "local_assets": [
+      "goods/goods-2024-10-24-newjeans-x-hiroshi-fujiwara-coller-long-sleeve-t-shirts/01.jpg",
+      "goods/goods-2024-10-24-newjeans-x-hiroshi-fujiwara-coller-long-sleeve-t-shirts/02.jpg",
+      "goods/goods-2024-10-24-newjeans-x-hiroshi-fujiwara-coller-long-sleeve-t-shirts/03.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans X Hiroshi Fujiwara COLLER LONG SLEEVE T-SHIRTS VER.1",
+      "NewJeans X Hiroshi Fujiwara COLLER LONG SLEEVE T-SHIRTS VER.2",
+      "NewJeans X Hiroshi Fujiwara COLLER LONG SLEEVE T-SHIRTS VER.3"
+    ]
+  },
+  {
     "id": "goods-2024-11-09-pepero-newjeans-edition-us-grove-popup",
     "date": "2024-11-09",
     "date_type": "sale_start",
@@ -3926,5 +5325,151 @@
     ],
     "verified": false,
     "editor_note": "Secondary only (KBIZoom 2025-04-26; Sportskeeda and allkpop blocked to fetch, known via search extracts). allkpop reportedly describes a set of 20 Mi Goreng packs with 7 limited postcards and online sales from May 1 - not confirmed, so omitted. Exact venue name not found. Held during the NJZ period but as an ADOR-approved NewJeans brand event, so entity 'newjeans'. Matching campaign record: ad-2024-10-31-indomie-global-ambassador."
+  },
+  {
+    "id": "goods-2026-01-01-line-friends-square-japan-bunini-goods",
+    "date": "2026-01-01",
+    "date_type": "sale_start",
+    "date_precision": "month",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "LINE FRIENDS SQUARE（日本）buniniグッズ",
+      "en": "bunini goods on LINE FRIENDS SQUARE Japan"
+    },
+    "summary": {
+      "ja": "LINE FRIENDS SQUAREの日本オンラインストアに、ねそべりぬいぐるみや前髪クリップなどbuniniの日本向けグッズが並んだ。",
+      "en": "bunini goods for Japan, from a lying plush to bangs clips, were listed on LINE FRIENDS SQUARE's Japanese online store."
+    },
+    "detail": {
+      "ja": "LINE FRIENDS SQUAREの日本オンラインストアに掲載されたbuniniグッズは、ねそべりぬいぐるみ、エコバッグINマスコット、プラッシュ巾着、ぬいぐるみポーチ、アクリル／メタルキーチェーン、ステッカー（PLAY／SKIP）、ミニタオル、ミニエコバッグ、肩掛けエコバッグ、前髪クリップ（各色）、コスチュームキーリング（BLACK）など。着せ替えぬいぐるみ用のクローゼット（スクール、フェアリーコア、バレエコア、アクセサリー、ジップパーカー）も並び、多くはアウトレット・セール価格で販売された。",
+      "en": "bunini goods listed on LINE FRIENDS SQUARE's Japanese online store included a lying plush, an eco bag with mascot, plush drawstring pouches, plush pouches, acrylic and metal keychains, PLAY and SKIP stickers, mini towels, mini and shoulder eco bags, bangs clips in several colours and a costume keyring (BLACK). Closet outfits for the costume plush (school, fairycore, balletcore, accessory and zip-hoodie sets) were also listed, many of them at outlet or sale prices."
+    },
+    "credits": {
+      "sale_channel": "LINE FRIENDS SQUARE"
+    },
+    "source_url": "https://linefriendssquare.jp/collections/newjeans",
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2026-01-01-line-friends-square-japan-bunini-goods/cover.jpg",
+      "source_url": "https://linefriendssquare.jp/products/100025624, https://linefriendssquare.jp/products/100025625, https://linefriendssquare.jp/products/100025626 (+17 more)"
+    },
+    "tags": [
+      "line-friends",
+      "bunini",
+      "japan"
+    ],
+    "verified": false,
+    "editor_note": "Date estimated: LINE FRIENDS SQUARE JP moved to a new Shopify store in January 2026, and products.json gives created_at 2026-01-15 / published_at 2026-01-17 for these products (read 2026-10-16), so this is the store listing month, not the Japanese release date, which was not found (web search for product names returned nothing). verified=false. Japanese-only product codes 100025624-100029319; the Get Up-concept closets match global bunini doll-closet lines. Listed at outlet prices (tags 50%/70%OFF), so no prices in reader text. Three listings published later (bunini Sticker PLAY(BLUE) 2026-07-23; bunini and TOKKI umbrellas 2026-09-10) are mapped here but kept out of reader text and gallery. Four JP NJ Get Up photocard holder keyrings are mapped to goods-2023-08-18-get-up-official-merch instead. / no lineup image; cover = first product; items = one listing per product type (first colour), first image each",
+    "local_assets": [
+      "goods/goods-2026-01-01-line-friends-square-japan-bunini-goods/01.jpg",
+      "goods/goods-2026-01-01-line-friends-square-japan-bunini-goods/02.jpg",
+      "goods/goods-2026-01-01-line-friends-square-japan-bunini-goods/03.jpg",
+      "goods/goods-2026-01-01-line-friends-square-japan-bunini-goods/04.jpg",
+      "goods/goods-2026-01-01-line-friends-square-japan-bunini-goods/05.jpg",
+      "goods/goods-2026-01-01-line-friends-square-japan-bunini-goods/06.jpg",
+      "goods/goods-2026-01-01-line-friends-square-japan-bunini-goods/07.jpg",
+      "goods/goods-2026-01-01-line-friends-square-japan-bunini-goods/08.jpg",
+      "goods/goods-2026-01-01-line-friends-square-japan-bunini-goods/09.jpg",
+      "goods/goods-2026-01-01-line-friends-square-japan-bunini-goods/10.jpg",
+      "goods/goods-2026-01-01-line-friends-square-japan-bunini-goods/11.jpg",
+      "goods/goods-2026-01-01-line-friends-square-japan-bunini-goods/12.jpg",
+      "goods/goods-2026-01-01-line-friends-square-japan-bunini-goods/13.jpg",
+      "goods/goods-2026-01-01-line-friends-square-japan-bunini-goods/14.jpg",
+      "goods/goods-2026-01-01-line-friends-square-japan-bunini-goods/15.jpg",
+      "goods/goods-2026-01-01-line-friends-square-japan-bunini-goods/16.jpg",
+      "goods/goods-2026-01-01-line-friends-square-japan-bunini-goods/17.jpg",
+      "goods/goods-2026-01-01-line-friends-square-japan-bunini-goods/18.jpg",
+      "goods/goods-2026-01-01-line-friends-square-japan-bunini-goods/19.jpg",
+      "goods/goods-2026-01-01-line-friends-square-japan-bunini-goods/20.jpg"
+    ],
+    "asset_titles": [
+      "bunini ねそべりぬいぐるみ(WHITE)",
+      "bunini エコバックINマスコット(PINK)",
+      "bunini プラッシュ巾着(BLUE)",
+      "bunini ぬいぐるみポーチ (PINK)",
+      "bunini アクリルキーチェーン(BLUE)",
+      "bunini メタルキーチェーン(PINK)",
+      "bunini ステッカー PLAY(WHITE)",
+      "bunini ステッカー SKIP(BLUE)",
+      "bunini ミニタオル(PINK)",
+      "bunini ミニエコバッグ(NV×WH)",
+      "bunini 肩掛けエコバッグ(NV×WH)",
+      "bunini 前髪クリップ(BLUE)",
+      "bunini コスチュームキーリング(BLACK)",
+      "bunini スクールクローゼット ジャケット",
+      "bunini スクールクローゼット 制服ネクタイ",
+      "bunini スクールクローゼット 制服メガネ",
+      "bunini フェアリーコアクローゼット",
+      "bunini バレエコアクローゼット",
+      "bunini アクセサリークローゼット",
+      "bunini ジップパーカークローゼット"
+    ]
+  },
+  {
+    "id": "goods-2026-06-01-line-friends-square-newjeans-initial-anime-minini-tokki",
+    "date": "2026-06-01",
+    "date_type": "sale_start",
+    "date_precision": "month",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "LINE FRIENDS SQUARE NewJeansグッズ（イニシャルワッペン・漫画ミラーキーリング・minini TOKKI）",
+      "en": "LINE FRIENDS SQUARE NewJeans goods (initial wappen sticons, anime mirror keyrings, minini TOKKI)"
+    },
+    "summary": {
+      "ja": "LINE FRIENDS SQUAREのオンラインストアに、イニシャルワッペンや漫画風ミラーキーリングなど新しいNewJeansグッズが並んだ。",
+      "en": "New NewJeans goods, including initial wappen sticons and anime-style mirror keyrings, appeared on LINE FRIENDS SQUARE's online store."
+    },
+    "detail": {
+      "ja": "LINE FRIENDS SQUAREの韓国オンラインストアに掲載された商品は、NewJeans イニシャル ワッペン リバース スティコン（HR／HN／DN、各2,500ウォン）、NewJeans 漫画 メタル ミラーキーリング（HN／DN／HI、各19,000ウォン）、NewJeans minini TOKKI プラッシュペン（12,000ウォン）とプラッシュフォトカードホルダー（イエロー、13,000ウォン）。",
+      "en": "Items listed on LINE FRIENDS SQUARE's Korean online store were the NewJeans initial wappen reverse sticon (HR / HN / DN, 2,500 KRW each), the NewJeans anime metal mirror keyring (HN / DN / HI, 19,000 KRW each), and a NewJeans minini TOKKI plush pen (12,000 KRW) and plush photocard holder (yellow, 13,000 KRW)."
+    },
+    "credits": {
+      "sale_channel": "LINE FRIENDS SQUARE"
+    },
+    "source_url": "https://linefriendssquare.com/collections/newjeans",
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "path": "goods/goods-2026-06-01-line-friends-square-newjeans-initial-anime-minini-tokki/cover.jpg",
+      "source_url": "https://linefriendssquare.com/products/newjeans-anime-metal-mirror-keyring-dn, https://linefriendssquare.com/products/newjeans-anime-metal-mirror-keyring-hi, https://linefriendssquare.com/products/newjeans-anime-metal-mirror-keyring-hn (+5 more)"
+    },
+    "tags": [
+      "line-friends",
+      "tokki",
+      "coller"
+    ],
+    "verified": false,
+    "editor_note": "Date estimated: the official store's products.json gives created_at 2025-12-24 and published_at 2026-06-18 for all eight products (read 2026-10-16); no dated announcement found (web search, LINE FRIENDS blog sitemaps). Month precision = month of published_at; the actual first sale date is unknown, hence verified=false. Prices as listed (list price; the plush pen also shows a discounted variant). Entity newjeans (group active under the NewJeans name at this date). / no lineup image; cover = first product; items = the 8 LINE FRIENDS SQUARE (KR) products, first image each",
+    "local_assets": [
+      "goods/goods-2026-06-01-line-friends-square-newjeans-initial-anime-minini-tokki/01.jpg",
+      "goods/goods-2026-06-01-line-friends-square-newjeans-initial-anime-minini-tokki/02.jpg",
+      "goods/goods-2026-06-01-line-friends-square-newjeans-initial-anime-minini-tokki/03.jpg",
+      "goods/goods-2026-06-01-line-friends-square-newjeans-initial-anime-minini-tokki/04.jpg",
+      "goods/goods-2026-06-01-line-friends-square-newjeans-initial-anime-minini-tokki/05.jpg",
+      "goods/goods-2026-06-01-line-friends-square-newjeans-initial-anime-minini-tokki/06.jpg",
+      "goods/goods-2026-06-01-line-friends-square-newjeans-initial-anime-minini-tokki/07.jpg",
+      "goods/goods-2026-06-01-line-friends-square-newjeans-initial-anime-minini-tokki/08.jpg"
+    ],
+    "asset_titles": [
+      "NewJeans 이니셜 와펜 리버스 스티콘 HR",
+      "NewJeans 이니셜 와펜 리버스 스티콘 HN",
+      "NewJeans 이니셜 와펜 리버스 스티콘 DN",
+      "NewJeans 만화 메탈 거울키링 HN",
+      "NewJeans 만화 메탈 거울키링 DN",
+      "NewJeans 만화 메탈 거울키링 HI",
+      "NewJeans 미니니 토끼 플러시 펜",
+      "NewJeans 미니니 토끼 플러시 포토카드 홀더 옐로우"
+    ]
   }
 ]
