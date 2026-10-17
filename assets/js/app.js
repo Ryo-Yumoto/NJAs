@@ -157,7 +157,8 @@
   /* ---------- page ---------- */
   function renderEmptyPage() {
     $("#cover").hidden = true; $("#index").hidden = true; $("#page").hidden = false; $("#pager").hidden = true;
-    const page = $("#page"); page.innerHTML = ""; page.appendChild(el("p", { class: "toc-empty" }, "表示するカテゴリが選択されていません。目次でカテゴリを選んでください。"));
+    const msg = !state.items.length ? "読み込み中…" : !state.cats.size ? "表示するカテゴリが選択されていません。目次でカテゴリを選んでください。" : state.member ? "選択中のメンバーとカテゴリに該当する記録がありません。目次で絞り込みを変えてください。" : "表示できる記録がありません。";
+    const page = $("#page"); page.innerHTML = ""; page.appendChild(el("p", { class: "toc-empty" }, msg));
     $("#bar-pos").textContent = "";
   }
   function renderPage() {
@@ -583,8 +584,9 @@
 
   /* ---------- wiring ---------- */
   function wire() {
-    $("#start-btn").addEventListener("click", () => { state.showMeta = false; go(0); });
-    $("#resume-btn").addEventListener("click", () => goKey(store.get("njas-bookmark")));
+    // data may still be loading when the cover is first shown: wait for it instead of rendering an empty book
+    $("#start-btn").addEventListener("click", () => { state.showMeta = false; state.ready.then(() => go(0)); });
+    $("#resume-btn").addEventListener("click", () => state.ready.then(() => goKey(store.get("njas-bookmark"))));
     $("#brand").addEventListener("click", e => { e.preventDefault(); showCover(); });
     $("#prev-btn").addEventListener("click", () => { if (state.cur <= 0) showCover(); else go(state.cur - 1); });
     $("#pager-mid").addEventListener("click", openToc);
@@ -619,5 +621,7 @@
   }
 
   initLang(); initTheme(); initTextSize(); wire();
-  load().then(route).catch(err => { $("#cover .lede").textContent = "Failed to load data: " + err.message; });
+  const startBtn = $("#start-btn"); startBtn.classList.add("loading"); startBtn.setAttribute("aria-busy", "true");
+  state.ready = load().then(() => { startBtn.classList.remove("loading"); startBtn.removeAttribute("aria-busy"); });
+  state.ready.then(route).catch(err => { $("#cover .lede").textContent = "Failed to load data: " + err.message; });
 })();

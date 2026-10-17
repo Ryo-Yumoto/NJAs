@@ -110,6 +110,8 @@ body:not(.reading) .bar-brand { opacity: 0; pointer-events: none; }
 .btn:hover { background: var(--paper-2); }
 .btn.primary { background: var(--ink); color: var(--paper); }
 .btn.primary:hover { background: var(--denim); border-color: var(--denim); }
+.btn.loading { opacity: .55; cursor: progress; }
+.btn.loading .mono::after { content: " · LOADING"; }
 
 /* ---------- page ---------- */
 .page { max-width: var(--maxw); margin: 0 auto; padding: calc(54px + env(safe-area-inset-top, 0px)) var(--gutter) 40px; animation: pagein .45s var(--ease); }
