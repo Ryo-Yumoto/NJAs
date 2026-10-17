@@ -260,7 +260,13 @@
       if (img.sprite) fig.appendChild(spriteCanvas(img.sprite, "thumb-cv")); else fig.appendChild(el("img", { src: img.src, alt: "", loading: "lazy", decoding: "async" }));
       if (isYt && !window.NJAS_NO_EMBED) {
         fig.classList.add("is-video"); fig.appendChild(el("span", { class: "play mono" }, "▶ PLAY"));
-        fig.addEventListener("click", () => { const box = $(".media", node); box.hidden = false; box.innerHTML = ""; box.appendChild(el("iframe", { src: `https://www.youtube-nocookie.com/embed/${it.media.ref}?autoplay=1`, allow: "autoplay; encrypted-media; picture-in-picture", allowfullscreen: "", title: it.title.en })); fig.hidden = true; });
+        fig.addEventListener("click", () => {
+          // player is created only on tap (one thumbnail per video until then); rel=0 limits end-screen suggestions to this channel
+          const box = $(".media", node); box.hidden = false; box.innerHTML = "";
+          box.appendChild(el("iframe", { src: `https://www.youtube-nocookie.com/embed/${it.media.ref}?autoplay=1&rel=0&playsinline=1&modestbranding=1`, allow: "autoplay; encrypted-media; picture-in-picture", allowfullscreen: "", title: it.title.en }));
+          box.after(el("p", { class: "media-foot mono" }, el("a", { href: `https://www.youtube.com/watch?v=${it.media.ref}`, target: "_blank", rel: "noopener" }, state.lang === "ja" ? "YouTubeで開く ↗" : "Open on YouTube ↗"), el("span", { class: "dim" }, state.lang === "ja" ? "　再生できない動画は埋め込みが許可されていません" : "  Videos that do not play here have embedding disabled")));
+          fig.hidden = true;
+        });
       } else if (isYt) {
         fig.classList.add("is-video"); fig.appendChild(el("span", { class: "play mono" }, "▶ OPEN ON YOUTUBE"));
         const a = el("a", { href: `https://www.youtube.com/watch?v=${it.media.ref}`, target: "_blank", rel: "noopener", class: "thumb-link", "aria-label": "Open on YouTube" });
@@ -306,7 +312,7 @@
       }
     }
     const links = $(".links", node);
-    if (isYt) links.appendChild(el("a", { href: `https://www.youtube.com/watch?v=${it.media.ref}`, target: "_blank", rel: "noopener" }, "youtube"));
+    if (isYt) links.appendChild(el("a", { href: `https://www.youtube.com/watch?v=${it.media.ref}`, target: "_blank", rel: "noopener" }, state.lang === "ja" ? "YouTubeで開く" : "open on YouTube"));
     if (it.media && it.media.type === "x" && it.media.ref) { const gone = !xpost && state.xposts[xStatusId(it.media.ref)]?.unavailable; links.appendChild(el("a", { href: it.media.ref, target: "_blank", rel: "noopener", class: gone ? "gone" : "" }, gone ? (state.lang === "ja" ? "元の投稿（削除済み）" : "original post (removed)") : (state.lang === "ja" ? "Xで開く" : "open on X"))); }
     links.appendChild(el("a", { href: it.source_url, target: "_blank", rel: "noopener" }, "source"));
     for (const [k, u] of Object.entries(it.links || {})) links.appendChild(el("a", { href: u, target: "_blank", rel: "noopener", class: "svc" }, k.replace("_", " ")));
