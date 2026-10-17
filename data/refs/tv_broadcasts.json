@@ -1,0 +1,1369 @@
+{
+ "name": "tv_broadcasts",
+ "category": "tv",
+ "scope": "NewJeans/NJZとメンバーのテレビ・ラジオ出演（韓国音楽番組の出演と1位、年末歌謡祭、放送された授賞式、日本・米国の番組、ラジオ、スペシャルMC）の全件。音楽番組の1位は同日の放送と同一項目として扱う。",
+ "source": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances, https://ja.wikipedia.org/wiki/NewJeans, https://en.wikipedia.org/wiki/Attention_(NewJeans_song), https://en.wikipedia.org/wiki/Ditto_(song), https://en.wikipedia.org/wiki/OMG_(NewJeans_song), https://en.wikipedia.org/wiki/Super_Shy, https://en.wikipedia.org/wiki/ETA_(song), https://en.wikipedia.org/wiki/How_Sweet, https://en.wikipedia.org/wiki/Minji_(singer), https://en.wikipedia.org/wiki/Hanni_(singer), https://en.wikipedia.org/wiki/Danielle_(singer), https://en.wikipedia.org/wiki/Haerin, https://en.wikipedia.org/wiki/Hyein",
+ "fetched": "2026-10-17",
+ "match": "manual",
+ "items": [
+  {
+   "key": "mnet-m-countdown-2022-08-04",
+   "date": "2022-08-04",
+   "title": "M Countdown",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2022-08-04-mcountdown-debut-stage",
+   "exclude": null,
+   "note": "Performed: \"Attention\", \"Hype Boy\", and Cookie\""
+  },
+  {
+   "key": "kbs2-music-bank-2022-08-05",
+   "date": "2022-08-05",
+   "title": "Music Bank",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2022-08-05-music-bank-debut-stage",
+   "exclude": null,
+   "note": "Performed: \"Attention\""
+  },
+  {
+   "key": "sbs-inkigayo-2022-08-07",
+   "date": "2022-08-07",
+   "title": "Inkigayo",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2022-08-07-inkigayo-debut-stage",
+   "exclude": null,
+   "note": "Performed: \"Attention\" and \"Cookie\""
+  },
+  {
+   "key": "mnet-m-countdown-2022-08-11",
+   "date": "2022-08-11",
+   "title": "M Countdown",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2022-08-11-mcountdown-attention",
+   "exclude": null,
+   "note": "Performed: \"Attention\""
+  },
+  {
+   "key": "kbs2-music-bank-2022-08-12",
+   "date": "2022-08-12",
+   "title": "Music Bank",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2022-08-12-music-bank-hype-boy",
+   "exclude": null,
+   "note": "Performed: \"Hype Boy\""
+  },
+  {
+   "key": "sbs-power-fm-love-game-2022-08-13",
+   "date": "2022-08-13",
+   "title": "Park So-hyun's Love Game (radio)",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": "tv-2022-08-13-sbs-radio-love-game",
+   "exclude": null,
+   "note": "Members: ミンジ、ダニエル、ヘリン"
+  },
+  {
+   "key": "sbs-inkigayo-2022-08-14",
+   "date": "2022-08-14",
+   "title": "Inkigayo",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2022-08-14-inkigayo-attention",
+   "exclude": null,
+   "note": "Performed: \"Attention\""
+  },
+  {
+   "key": "sbs-power-fm-cultwo-show-2022-08-14",
+   "date": "2022-08-14",
+   "title": "Cultwo Show (radio)",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": "tv-2022-08-14-sbs-radio-cultwo-show",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "mnet-m-countdown-2022-08-18",
+   "date": "2022-08-18",
+   "title": "M Countdown (#1 win: Attention)",
+   "url": "https://en.wikipedia.org/wiki/Attention_(NewJeans_song)",
+   "record": "tv-2022-08-18-mcountdown-attention-first-win",
+   "exclude": null,
+   "note": "Music show #1: Attention"
+  },
+  {
+   "key": "kbs2-music-bank-2022-08-19",
+   "date": "2022-08-19",
+   "title": "Music Bank (#1 win: Attention)",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2022-08-19-music-bank-attention-win",
+   "exclude": null,
+   "note": "Performed: \"Hype Boy\" and \"Hurt\"; Music show #1: Attention; also listed at https://en.wikipedia.org/wiki/Attention_(NewJeans_song)"
+  },
+  {
+   "key": "mbc-show-music-core-2022-08-20",
+   "date": "2022-08-20",
+   "title": "Show! Music Core (#1 win: Attention)",
+   "url": "https://en.wikipedia.org/wiki/Attention_(NewJeans_song)",
+   "record": "tv-2022-08-20-music-core-attention-win",
+   "exclude": null,
+   "note": "Music show #1: Attention"
+  },
+  {
+   "key": "sbs-inkigayo-2022-08-21",
+   "date": "2022-08-21",
+   "title": "Inkigayo (#1 win: Attention)",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2022-08-21-inkigayo-attention-win",
+   "exclude": null,
+   "note": "Performed: \"Hype Boy\"; Music show #1: Attention; also listed at https://en.wikipedia.org/wiki/Attention_(NewJeans_song)"
+  },
+  {
+   "key": "mnet-m-countdown-2022-08-25",
+   "date": "2022-08-25",
+   "title": "M Countdown",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2022-08-25-mcountdown-hype-boy",
+   "exclude": null,
+   "note": "Performed: \"Hype Boy\""
+  },
+  {
+   "key": "kbs2-music-bank-2022-08-26",
+   "date": "2022-08-26",
+   "title": "Music Bank",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2022-08-26-music-bank-hurt",
+   "exclude": null,
+   "note": "Performed: \"Hurt\""
+  },
+  {
+   "key": "sbs-inkigayo-2022-08-28",
+   "date": "2022-08-28",
+   "title": "Inkigayo (#1 win: Attention)",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2022-08-28-inkigayo-attention-win-2",
+   "exclude": null,
+   "note": "Performed: \"Hurt\"; Music show #1: Attention; also listed at https://en.wikipedia.org/wiki/Attention_(NewJeans_song)"
+  },
+  {
+   "key": "kbs-korea-broadcasting-awards-2022-09-05",
+   "date": "2022-09-05",
+   "title": "49th Korea Broadcasting Awards",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2022-09-05-korea-broadcasting-awards",
+   "exclude": null,
+   "note": "Attended (no performance listed)"
+  },
+  {
+   "key": "the-fact-the-fact-music-awards-2022-10-08",
+   "date": "2022-10-08",
+   "title": "2022 The Fact Music Awards",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2022-10-08-the-fact-music-awards-2022",
+   "exclude": null,
+   "note": "Performed: Intro, \"Hype Boy\", and \"Attention\""
+  },
+  {
+   "key": "mnet-kcon-2022-japan-mc-2022-10-15",
+   "date": "2022-10-15",
+   "title": "KCON 2022 Japan (Minji as MC)",
+   "url": "https://en.wikipedia.org/wiki/Minji_(singer)",
+   "record": null,
+   "exclude": null,
+   "note": "Minji co-hosted with Junki Kono (JO1) and Hwang Min-hyun; en page lists the year as 2023 but KCON 2022 Japan was held on 2022-10-14/16; Mnet broadcast date unverified"
+  },
+  {
+   "key": "sbs-newjeans-code-in-busan-2022-10-16",
+   "date": "2022-10-16",
+   "title": "NewJeans Code in Busan",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": "tv-2022-10-16-newjeans-code-in-busan",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "kbs2-blue-dragon-film-awards-2022-11-25",
+   "date": "2022-11-25",
+   "title": "43rd Blue Dragon Film Awards",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2022-11-25-blue-dragon-film-awards-43",
+   "exclude": null,
+   "note": "Performed: \"Hype Boy\" and \"Attention\""
+  },
+  {
+   "key": "melon-melon-music-awards-2022-11-26",
+   "date": "2022-11-26",
+   "title": "2022 Melon Music Awards",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2022-11-26-melon-music-awards-2022",
+   "exclude": null,
+   "note": "Performed: \"Cookie\", \"Hype Boy\", and \"Attention\""
+  },
+  {
+   "key": "mnet-mama-awards-2022-11-29",
+   "date": "2022-11-29",
+   "title": "2022 MAMA Awards",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2022-11-29-mama-awards-2022-day1",
+   "exclude": null,
+   "note": "Performed: \"Eleven\", \"Fearless\", \"O.O\", \"Hype Boy\", \"Wa Da Da\", and \"Cheer Up\" (Various covers; with Ive, Le Sserafim, Kep1er, and Nmixx)"
+  },
+  {
+   "key": "mnet-mama-awards-2022-11-30",
+   "date": "2022-11-30",
+   "title": "2022 MAMA Awards",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2022-11-30-mama-awards-2022-day2",
+   "exclude": null,
+   "note": "Performed: \"Attention\", \"Cookie\", \"Hurt\", and \"Hype Boy\""
+  },
+  {
+   "key": "aaa-asia-artist-awards-2022-12-13",
+   "date": "2022-12-13",
+   "title": "2022 Asia Artist Awards",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2022-12-13-asia-artist-awards-2022",
+   "exclude": null,
+   "note": "Performed: \"Attention\""
+  },
+  {
+   "key": "tvn-yoo-quiz-on-the-block-2022-12-14",
+   "date": "2022-12-14",
+   "title": "You Quiz on the Block",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": "tv-2022-12-14-yoo-quiz-on-the-block",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "kbs2-kbs-song-festival-2022-12-16",
+   "date": "2022-12-16",
+   "title": "KBS Song Festival 2022",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2022-12-16-kbs-song-festival-2022",
+   "exclude": null,
+   "note": "Performed: \"Love Like Oxygen\" (Shinee cover), \"Attention\", and \"Hype Boy\"; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "sbs-sbs-entertainment-awards-2022-12-17",
+   "date": "2022-12-17",
+   "title": "2022 SBS Entertainment Awards",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2022-12-17-sbs-entertainment-awards-2022",
+   "exclude": null,
+   "note": "Performed: \"Attention\" (with FC Balladream)"
+  },
+  {
+   "key": "sbs-gayo-daejeon-2022-12-24",
+   "date": "2022-12-24",
+   "title": "SBS Gayo Daejeon 2022",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2022-12-24-sbs-gayo-daejeon-2022",
+   "exclude": null,
+   "note": "Performed: Intro, \"Attention\", and \"Tell Me\" (Remix; Wonder Girls cover)"
+  },
+  {
+   "key": "ntv-kotoshi-ichiban-kiita-uta-2022-12-28",
+   "date": "2022-12-28",
+   "title": "Happyo! Kotoshi Ichiban Kiita Uta (NTV year-end music awards) 2022",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2022-12-28-ntv-music-award-2022",
+   "exclude": null,
+   "note": "Performed: \"Attention\"; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "sbs-power-fm-power-time-2023-01-03",
+   "date": "2023-01-03",
+   "title": "Choi Hwa-jung's Power Time (radio)",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": "tv-2023-01-03-sbs-radio-power-time",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "sbs-power-fm-kim-young-chul-power-fm-2023-01-04",
+   "date": "2023-01-04",
+   "title": "Kim Young-chul's Power FM (radio)",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": "tv-2023-01-04-sbs-radio-kim-young-chul",
+   "exclude": null,
+   "note": "Members: ミンジ、ダニエル"
+  },
+  {
+   "key": "jtbc-golden-disc-awards-2023-01-07",
+   "date": "2023-01-07",
+   "title": "37th Golden Disc Awards",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-01-07-golden-disc-awards-37",
+   "exclude": null,
+   "note": "Performed: \"Attention\" (Golden Disc version), \"Hype Boy\", and \"OMG\""
+  },
+  {
+   "key": "mbc-show-music-core-2023-01-07",
+   "date": "2023-01-07",
+   "title": "Show! Music Core (#1 win: Ditto)",
+   "url": "https://en.wikipedia.org/wiki/Ditto_(song)",
+   "record": "tv-2023-01-07-music-core-ditto-win",
+   "exclude": null,
+   "note": "Music show #1: Ditto"
+  },
+  {
+   "key": "sbs-inkigayo-2023-01-08",
+   "date": "2023-01-08",
+   "title": "Inkigayo (#1 win: Ditto)",
+   "url": "https://en.wikipedia.org/wiki/Ditto_(song)",
+   "record": "tv-2023-01-08-inkigayo-ditto-win",
+   "exclude": null,
+   "note": "Music show #1: Ditto"
+  },
+  {
+   "key": "mnet-m-countdown-2023-01-12",
+   "date": "2023-01-12",
+   "title": "M Countdown (#1 win: OMG)",
+   "url": "https://en.wikipedia.org/wiki/OMG_(NewJeans_song)",
+   "record": "tv-2023-01-12-mcountdown-omg-win",
+   "exclude": null,
+   "note": "Music show #1: OMG"
+  },
+  {
+   "key": "kbs2-music-bank-2023-01-13",
+   "date": "2023-01-13",
+   "title": "Music Bank (#1 win: Ditto)",
+   "url": "https://en.wikipedia.org/wiki/Ditto_(song)",
+   "record": "tv-2023-01-13-music-bank-ditto-win",
+   "exclude": null,
+   "note": "Music show #1: Ditto"
+  },
+  {
+   "key": "mbc-show-music-core-2023-01-14",
+   "date": "2023-01-14",
+   "title": "Show! Music Core (#1 win: Ditto)",
+   "url": "https://en.wikipedia.org/wiki/Ditto_(song)",
+   "record": null,
+   "exclude": null,
+   "note": "Music show #1: Ditto"
+  },
+  {
+   "key": "sbs-inkigayo-2023-01-15",
+   "date": "2023-01-15",
+   "title": "Inkigayo (#1 win: OMG)",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-01-15-inkigayo-omg-comeback-stage-win",
+   "exclude": null,
+   "note": "Performed: \"Ditto\" and \"OMG\"; Music show #1: OMG; also listed at https://en.wikipedia.org/wiki/OMG_(NewJeans_song)"
+  },
+  {
+   "key": "archive-seoul-music-awards-32-2023-01-19",
+   "date": "2023-01-19",
+   "title": "32nd Seoul Music Awards",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": "tv-2023-01-19-seoul-music-awards-32",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "sbs-power-fm-cultwo-show-2023-01-19",
+   "date": "2023-01-19",
+   "title": "Cultwo Show (radio)",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": "tv-2023-01-19-sbs-radio-cultwo-show-2",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "kbs2-music-bank-2023-01-20",
+   "date": "2023-01-20",
+   "title": "Music Bank",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-01-20-music-bank-ditto-omg",
+   "exclude": null,
+   "note": "Performed: \"Ditto\" and \"OMG\""
+  },
+  {
+   "key": "kbs2-music-bank-special-mc-2023-01-20",
+   "date": "2023-01-20",
+   "title": "Music Bank (Minji as special MC)",
+   "url": "https://en.wikipedia.org/wiki/Minji_(singer)",
+   "record": "tv-2023-01-20-music-bank-minji-special-mc",
+   "exclude": null,
+   "note": "Minji special MC"
+  },
+  {
+   "key": "mnet-m-countdown-2023-01-26",
+   "date": "2023-01-26",
+   "title": "M Countdown (#1 win: OMG)",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": "tv-2023-01-26-mcountdown-omg-win-2",
+   "exclude": null,
+   "note": "Music show #1: OMG"
+  },
+  {
+   "key": "kbs2-music-bank-2023-01-27",
+   "date": "2023-01-27",
+   "title": "Music Bank (#1 win: OMG)",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-01-27-music-bank-omg-win",
+   "exclude": null,
+   "note": "Performed: \"Ditto\" and \"OMG\"; Music show #1: OMG; also listed at https://en.wikipedia.org/wiki/OMG_(NewJeans_song)"
+  },
+  {
+   "key": "mbc-show-music-core-2023-01-28",
+   "date": "2023-01-28",
+   "title": "Show! Music Core (#1 win: Ditto)",
+   "url": "https://en.wikipedia.org/wiki/Ditto_(song)",
+   "record": null,
+   "exclude": null,
+   "note": "Music show #1: Ditto"
+  },
+  {
+   "key": "sbs-inkigayo-2023-01-29",
+   "date": "2023-01-29",
+   "title": "Inkigayo (#1 win: Ditto)",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-01-29-inkigayo-ditto-win-2",
+   "exclude": null,
+   "note": "Performed: \"OMG\"; Music show #1: Ditto; also listed at https://en.wikipedia.org/wiki/Ditto_(song)"
+  },
+  {
+   "key": "sbs-inkigayo-special-mc-2023-01-29",
+   "date": "2023-01-29",
+   "title": "Inkigayo (Danielle as special MC)",
+   "url": "https://en.wikipedia.org/wiki/Danielle_(singer)",
+   "record": "tv-2023-01-29-inkigayo-danielle-special-mc",
+   "exclude": null,
+   "note": "Danielle special MC"
+  },
+  {
+   "key": "mbc-show-music-core-2023-02-04",
+   "date": "2023-02-04",
+   "title": "Show! Music Core (#1 win: Ditto)",
+   "url": "https://en.wikipedia.org/wiki/Ditto_(song)",
+   "record": null,
+   "exclude": null,
+   "note": "Music show #1: Ditto"
+  },
+  {
+   "key": "sbs-inkigayo-2023-02-05",
+   "date": "2023-02-05",
+   "title": "Inkigayo (#1 win: Ditto)",
+   "url": "https://en.wikipedia.org/wiki/Ditto_(song)",
+   "record": "tv-2023-02-05-inkigayo-ditto-win-3",
+   "exclude": null,
+   "note": "Music show #1: Ditto"
+  },
+  {
+   "key": "archive-hanteo-music-awards-2022-2023-02-11",
+   "date": "2023-02-11",
+   "title": "30th Hanteo Music Awards",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": "tv-2023-02-11-hanteo-music-awards-2022",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "archive-circle-chart-music-awards-2022-2023-02-18",
+   "date": "2023-02-18",
+   "title": "Circle Chart Music Awards 2022",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": "tv-2023-02-18-circle-chart-music-awards-2022",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "sbs-inkigayo-2023-03-19",
+   "date": "2023-03-19",
+   "title": "Inkigayo (#1 win: OMG)",
+   "url": "https://en.wikipedia.org/wiki/OMG_(NewJeans_song)",
+   "record": "tv-2023-03-19-inkigayo-omg-win-2",
+   "exclude": null,
+   "note": "Music show #1: OMG"
+  },
+  {
+   "key": "sbs-inkigayo-2023-03-26",
+   "date": "2023-03-26",
+   "title": "Inkigayo (#1 win: OMG)",
+   "url": "https://en.wikipedia.org/wiki/OMG_(NewJeans_song)",
+   "record": "tv-2023-03-26-inkigayo-omg-win-3",
+   "exclude": null,
+   "note": "Music show #1: OMG"
+  },
+  {
+   "key": "sbs-inkigayo-2023-04-02",
+   "date": "2023-04-02",
+   "title": "Inkigayo (#1 win: Hype Boy)",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": "tv-2023-04-02-inkigayo-hype-boy-win",
+   "exclude": null,
+   "note": "Music show #1: Hype Boy"
+  },
+  {
+   "key": "ntv-the-music-day-2023-07-01",
+   "date": "2023-07-01",
+   "title": "The Music Day 2023",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-07-01-the-music-day-2023",
+   "exclude": null,
+   "note": "Performed: \"Ditto\"; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "fuji-tv-fns-kayosai-2023-07-12",
+   "date": "2023-07-12",
+   "title": "FNS Music Festival 2023",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-07-12-fns-music-festival-summer-2023",
+   "exclude": null,
+   "note": "Performed: \"Ditto\"; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "mnet-m-countdown-2023-07-13",
+   "date": "2023-07-13",
+   "title": "M Countdown (#1 win: Super Shy)",
+   "url": "https://en.wikipedia.org/wiki/Super_Shy",
+   "record": "tv-2023-07-13-mcountdown-super-shy-win",
+   "exclude": null,
+   "note": "Music show #1: Super Shy"
+  },
+  {
+   "key": "kbs2-music-bank-2023-07-14",
+   "date": "2023-07-14",
+   "title": "Music Bank",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-07-14-music-bank-get-up-comeback-stage",
+   "exclude": null,
+   "note": "Performed: \"Super Shy\" and \"New Jeans\""
+  },
+  {
+   "key": "tbs-ongaku-no-hi-2023-07-15",
+   "date": "2023-07-15",
+   "title": "Ongaku no Hi 2023",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-07-15-ongaku-no-hi-2023",
+   "exclude": null,
+   "note": "Performed: \"OMG\" and \"Automatic\" (Hikaru Utada cover); also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "sbs-inkigayo-2023-07-16",
+   "date": "2023-07-16",
+   "title": "Inkigayo",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-07-16-inkigayo-get-up-comeback-stage",
+   "exclude": null,
+   "note": "Performed: \"Super Shy\" and \"New Jeans\""
+  },
+  {
+   "key": "kbs2-music-bank-2023-07-21",
+   "date": "2023-07-21",
+   "title": "Music Bank",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-07-21-music-bank-eta-stage",
+   "exclude": null,
+   "note": "Performed: \"Super Shy\", \"Cool with You\", and ETA\""
+  },
+  {
+   "key": "mbc-show-music-core-2023-07-22",
+   "date": "2023-07-22",
+   "title": "Show! Music Core (#1 win: Super Shy)",
+   "url": "https://en.wikipedia.org/wiki/Super_Shy",
+   "record": "tv-2023-07-22-music-core-super-shy-win",
+   "exclude": null,
+   "note": "Music show #1: Super Shy"
+  },
+  {
+   "key": "sbs-inkigayo-2023-07-23",
+   "date": "2023-07-23",
+   "title": "Inkigayo (#1 win: Super Shy)",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-07-23-inkigayo-super-shy-win",
+   "exclude": null,
+   "note": "Performed: \"Cool with You\" and \"ETA\"; Music show #1: Super Shy; also listed at https://en.wikipedia.org/wiki/Super_Shy"
+  },
+  {
+   "key": "kbs2-music-bank-2023-07-28",
+   "date": "2023-07-28",
+   "title": "Music Bank",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-07-28-music-bank-eta",
+   "exclude": null,
+   "note": "Performed: \"ETA\""
+  },
+  {
+   "key": "sbs-inkigayo-2023-07-30",
+   "date": "2023-07-30",
+   "title": "Inkigayo",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-07-30-inkigayo-eta",
+   "exclude": null,
+   "note": "Performed: \"ETA\""
+  },
+  {
+   "key": "archive-lollapalooza-chicago-stream-2023-08-03",
+   "date": "2023-08-03",
+   "title": "Lollapalooza Chicago 2023 (livestream)",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-08-03-lollapalooza-chicago-stream",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "kbs2-music-bank-2023-08-04",
+   "date": "2023-08-04",
+   "title": "Music Bank",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-08-04-music-bank-eta-2",
+   "exclude": null,
+   "note": "Performed: \"ETA\""
+  },
+  {
+   "key": "sbs-inkigayo-2023-08-06",
+   "date": "2023-08-06",
+   "title": "Inkigayo",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-08-06-inkigayo-super-shy",
+   "exclude": null,
+   "note": "Performed: \"Super Shy\""
+  },
+  {
+   "key": "archive-k-global-heart-dream-awards-2023-2023-08-10",
+   "date": "2023-08-10",
+   "title": "2023 K-Global Heart Dream Awards",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": "tv-2023-08-10-k-global-heart-dream-awards-2023",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "mnet-m-countdown-2023-08-10",
+   "date": "2023-08-10",
+   "title": "M Countdown (#1 win: ETA)",
+   "url": "https://en.wikipedia.org/wiki/ETA_(song)",
+   "record": "tv-2023-08-10-mcountdown-eta-win",
+   "exclude": null,
+   "note": "Music show #1: ETA"
+  },
+  {
+   "key": "kbs2-k-pop-super-live-2023-08-11",
+   "date": "2023-08-11",
+   "title": "K-pop Super Live (2023 World Scout Jamboree closing concert)",
+   "url": "https://en.wikipedia.org/wiki/Hyein",
+   "record": null,
+   "exclude": null,
+   "note": "Hyein co-hosted (with Gong Myung and Yuna); KBS live broadcast; NewJeans performed ETA and Hype Boy"
+  },
+  {
+   "key": "sbs-inkigayo-2023-08-13",
+   "date": "2023-08-13",
+   "title": "Inkigayo",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-08-13-inkigayo-cool-with-you",
+   "exclude": null,
+   "note": "Performed: \"Cool with You\""
+  },
+  {
+   "key": "mbc-m-show-champion-2023-08-16",
+   "date": "2023-08-16",
+   "title": "Show Champion (#1 win: Super Shy)",
+   "url": "https://en.wikipedia.org/wiki/Super_Shy",
+   "record": "tv-2023-08-16-show-champion-super-shy-win",
+   "exclude": null,
+   "note": "Music show #1: Super Shy"
+  },
+  {
+   "key": "mnet-m-countdown-2023-08-17",
+   "date": "2023-08-17",
+   "title": "M Countdown (#1 win: ETA)",
+   "url": "https://en.wikipedia.org/wiki/ETA_(song)",
+   "record": "tv-2023-08-17-mcountdown-eta-win-2",
+   "exclude": null,
+   "note": "Music show #1: ETA"
+  },
+  {
+   "key": "sbs-inkigayo-2023-08-20",
+   "date": "2023-08-20",
+   "title": "Inkigayo (#1 win: Super Shy)",
+   "url": "https://en.wikipedia.org/wiki/Super_Shy",
+   "record": "tv-2023-08-20-inkigayo-super-shy-win-2",
+   "exclude": null,
+   "note": "Music show #1: Super Shy"
+  },
+  {
+   "key": "kbs2-music-bank-2023-08-25",
+   "date": "2023-08-25",
+   "title": "Music Bank",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-08-25-music-bank-asap",
+   "exclude": null,
+   "note": "Performed: \"ASAP\""
+  },
+  {
+   "key": "sbs-inkigayo-2023-08-27",
+   "date": "2023-08-27",
+   "title": "Inkigayo (#1 win: Super Shy)",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-08-27-inkigayo-super-shy-win-3",
+   "exclude": null,
+   "note": "Performed: \"ASAP\"; Music show #1: Super Shy; also listed at https://en.wikipedia.org/wiki/Super_Shy"
+  },
+  {
+   "key": "sbs-inkigayo-2023-09-03",
+   "date": "2023-09-03",
+   "title": "Inkigayo (#1 win: ETA)",
+   "url": "https://en.wikipedia.org/wiki/ETA_(song)",
+   "record": "tv-2023-09-03-inkigayo-eta-win",
+   "exclude": null,
+   "note": "Music show #1: ETA"
+  },
+  {
+   "key": "sbs-inkigayo-2023-09-10",
+   "date": "2023-09-10",
+   "title": "Inkigayo (#1 win: ETA)",
+   "url": "https://en.wikipedia.org/wiki/ETA_(song)",
+   "record": "tv-2023-09-10-inkigayo-eta-win-2",
+   "exclude": null,
+   "note": "Music show #1: ETA"
+  },
+  {
+   "key": "nhk-nhk-music-expo-2023-09-14",
+   "date": "2023-09-14",
+   "title": "NHK Music Expo 2023",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-09-14-nhk-music-expo-2023",
+   "exclude": null,
+   "note": "Performed: \"ETA\"; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "the-fact-the-fact-music-awards-2023-10-10",
+   "date": "2023-10-10",
+   "title": "2023 The Fact Music Awards",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-10-10-the-fact-music-awards-2023",
+   "exclude": null,
+   "note": "Performed: \"Super Shy\" and \"ETA\""
+  },
+  {
+   "key": "nhk-venue101-2023-10-21",
+   "date": "2023-10-21",
+   "title": "Venue101",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-10-21-venue101-presents-get-up-live",
+   "exclude": null,
+   "note": "Performed: \"New Jeans\", \"Super Shy\", and \"ETA\"; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "kbs2-music-bank-in-mexico-2023-10-22",
+   "date": "2023-10-22",
+   "title": "Music Bank in Mexico 2023",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-10-22-music-bank-in-mexico",
+   "exclude": null,
+   "note": "Performed: \"Hype Boy\", \"OMG\", \"New Jeans\", \"Super Shy\", \"ETA\", \"Part of Your World\", and \"Recuérdame\""
+  },
+  {
+   "key": "billboard-billboard-music-awards-2023-11-19",
+   "date": "2023-11-19",
+   "title": "2023 Billboard Music Awards",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-11-19-billboard-music-awards-2023",
+   "exclude": null,
+   "note": "Performed: \"Super Shy\" and \"OMG\""
+  },
+  {
+   "key": "kbs2-blue-dragon-film-awards-2023-11-24",
+   "date": "2023-11-24",
+   "title": "44th Blue Dragon Film Awards",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-11-24-blue-dragon-film-awards-44",
+   "exclude": null,
+   "note": "Performed: \"ETA\" and \"Super Shy\""
+  },
+  {
+   "key": "archive-newjeans-yearbook-22-23-2023-11-30",
+   "date": "2023-11-30",
+   "title": "NewJeans Yearbook 22-23 (VOD)",
+   "url": "https://en.wikipedia.org/wiki/NewJeans_videography",
+   "record": "tv-2023-11-30-newjeans-yearbook-22-23",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "melon-melon-music-awards-2023-12-02",
+   "date": "2023-12-02",
+   "title": "2023 Melon Music Awards",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-12-02-melon-music-awards-2023",
+   "exclude": null,
+   "note": "Performed: \"New Jeans\", \"Super Shy\", \"ETA\", \"Cool with You\", \"Get Up\", and \"ASAP\""
+  },
+  {
+   "key": "kbs2-music-bank-global-festival-2023-12-09",
+   "date": "2023-12-09",
+   "title": "Music Bank Global Festival 2023 in Japan (Belluna Dome)",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-12-09-music-bank-global-festival-2023-japan",
+   "exclude": null,
+   "note": "Performed: \"OMG\", \"Ditto\", \"New Jeans\", \"Super Shy\", and \"ETA\""
+  },
+  {
+   "key": "aaa-asia-artist-awards-2023-12-14",
+   "date": "2023-12-14",
+   "title": "2023 Asia Artist Awards",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-12-14-asia-artist-awards-2023",
+   "exclude": null,
+   "note": "Performed: \"OMG\", \"ETA\", and \"Super Shy\""
+  },
+  {
+   "key": "kbs2-music-bank-global-festival-2023-12-15",
+   "date": "2023-12-15",
+   "title": "2023 KBS Song Festival (Music Bank Global Festival, KBS Hall Seoul)",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-12-15-music-bank-global-festival-2023-seoul",
+   "exclude": null,
+   "note": "Performed: \"OMG\", \"Ditto\", \"New Jeans\", \"Super Shy\", and \"ETA\""
+  },
+  {
+   "key": "sbs-gayo-daejeon-2023-12-25",
+   "date": "2023-12-25",
+   "title": "SBS Gayo Daejeon 2023",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-12-25-sbs-gayo-daejeon-2023",
+   "exclude": null,
+   "note": "Performed: \"New Jeans\", \"ETA\", \"Ditto\", and \"OMG\" (FRNK remix)"
+  },
+  {
+   "key": "ntv-kotoshi-ichiban-kiita-uta-2023-12-27",
+   "date": "2023-12-27",
+   "title": "Happyo! Kotoshi Ichiban Kiita Uta (NTV year-end music awards) 2023",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-12-27-ntv-music-award-2023",
+   "exclude": null,
+   "note": "Performed: \"Super Shy\" and \"OMG\"; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "tbs-japan-record-awards-2023-12-30",
+   "date": "2023-12-30",
+   "title": "65th Japan Record Awards",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-12-30-japan-record-awards-65",
+   "exclude": null,
+   "note": "Performed: \"Ditto\", \"ETA\", and \"New Jeans\"; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "abc-new-years-rockin-eve-2023-12-31",
+   "date": "2023-12-31",
+   "title": "Dick Clark's New Year's Rockin' Eve",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-12-31-dick-clarks-new-years-rockin-eve",
+   "exclude": null,
+   "note": "Performed: \"Super Shy\" and \"ETA\""
+  },
+  {
+   "key": "nhk-kohaku-uta-gassen-2023-12-31",
+   "date": "2023-12-31",
+   "title": "74th NHK Kohaku Uta Gassen",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2023-12-31-nhk-kohaku-74",
+   "exclude": null,
+   "note": "Performed: \"OMG\", \"ETA\", and \"Ditto\"; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "jtbc-golden-disc-awards-2024-01-06",
+   "date": "2024-01-06",
+   "title": "38th Golden Disc Awards",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-01-06-golden-disc-awards-38",
+   "exclude": null,
+   "note": "Performed: \"Cool with You\" and \"Ditto\""
+  },
+  {
+   "key": "nhk-nhk-special-2024-01-07",
+   "date": "2024-01-07",
+   "title": "NHK Special: Sekai ni Hibiku Uta",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": "tv-2024-01-07-nhk-special-sekai-ni-hibiku-uta",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "billboard-women-in-music-2024-03-06",
+   "date": "2024-03-06",
+   "title": "2024 Billboard Women in Music",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-03-06-billboard-women-in-music-2024",
+   "exclude": null,
+   "note": "Performed: \"Super Shy\" and \"ETA\""
+  },
+  {
+   "key": "kbs1-korea-on-stage-2024-05-21",
+   "date": "2024-05-21",
+   "title": "Korea on Stage 2024",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-05-21-korea-on-stage-gyeongbokgung",
+   "exclude": null,
+   "note": "Performed: \"Cool with You\", \"Ditto\", \"ETA\", and \"Super Shy\""
+  },
+  {
+   "key": "kbs2-music-bank-2024-05-24",
+   "date": "2024-05-24",
+   "title": "Music Bank",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-05-24-music-bank-how-sweet-comeback-stage",
+   "exclude": null,
+   "note": "Performed: \"How Sweet\" and \"Bubble Gum\""
+  },
+  {
+   "key": "sbs-inkigayo-2024-05-26",
+   "date": "2024-05-26",
+   "title": "Inkigayo",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-05-26-inkigayo-how-sweet-comeback-stage",
+   "exclude": null,
+   "note": "Performed: \"How Sweet\" and \"Bubble Gum\""
+  },
+  {
+   "key": "mbc-m-show-champion-2024-05-29",
+   "date": "2024-05-29",
+   "title": "Show Champion (#1 win: How Sweet)",
+   "url": "https://en.wikipedia.org/wiki/How_Sweet",
+   "record": "tv-2024-05-29-show-champion-how-sweet-win",
+   "exclude": null,
+   "note": "Music show #1: How Sweet"
+  },
+  {
+   "key": "kbs2-music-bank-2024-05-31",
+   "date": "2024-05-31",
+   "title": "Music Bank (#1 win: How Sweet)",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-05-31-music-bank-how-sweet-win",
+   "exclude": null,
+   "note": "Performed: \"How Sweet\"; Music show #1: How Sweet; also listed at https://en.wikipedia.org/wiki/How_Sweet"
+  },
+  {
+   "key": "sbs-k-wave-concert-inkigayo-mc-2024-06-02",
+   "date": "2024-06-02",
+   "title": "K-Wave Concert Inkigayo (Haerin as MC)",
+   "url": "https://en.wikipedia.org/wiki/Haerin",
+   "record": "tv-2024-06-02-k-wave-concert-inkigayo-haerin-mc",
+   "exclude": null,
+   "note": "Haerin co-hosted with Yunho (Ateez) and Han Yu-jin (Zerobaseone)"
+  },
+  {
+   "key": "kbs2-music-bank-2024-06-07",
+   "date": "2024-06-07",
+   "title": "Music Bank",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-06-07-music-bank-how-sweet",
+   "exclude": null,
+   "note": "Performed: \"How Sweet\""
+  },
+  {
+   "key": "mbc-show-music-core-2024-06-08",
+   "date": "2024-06-08",
+   "title": "Show! Music Core (#1 win: How Sweet)",
+   "url": "https://en.wikipedia.org/wiki/How_Sweet",
+   "record": "tv-2024-06-08-music-core-how-sweet-win",
+   "exclude": null,
+   "note": "Music show #1: How Sweet"
+  },
+  {
+   "key": "archive-2-days-1-night-season4-2024-06-09",
+   "date": "2024-06-09",
+   "title": "2 Days & 1 Night Season 4 (KBS2)",
+   "url": "https://sports.khan.co.kr/article/202406091112003",
+   "record": "tv-2024-06-09-2-days-1-night-season4",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "sbs-k-wave-concert-inkigayo-2024-06-09",
+   "date": "2024-06-09",
+   "title": "K-Wave Concert Inkigayo 2024",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-06-09-k-wave-concert-inkigayo",
+   "exclude": null,
+   "note": "Performed: \"How Sweet\", \"Bubble Gum\", and \"ETA\"; en list gives the event date 2024-06-02; the record uses the broadcast date"
+  },
+  {
+   "key": "kbs2-music-bank-2024-06-14",
+   "date": "2024-06-14",
+   "title": "Music Bank",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-06-14-music-bank-bubble-gum",
+   "exclude": null,
+   "note": "Performed: \"Bubble Gum\""
+  },
+  {
+   "key": "mbc-show-music-core-2024-06-15",
+   "date": "2024-06-15",
+   "title": "Show! Music Core (#1 win: How Sweet)",
+   "url": "https://en.wikipedia.org/wiki/How_Sweet",
+   "record": "tv-2024-06-15-music-core-how-sweet-win-2",
+   "exclude": null,
+   "note": "Music show #1: How Sweet"
+  },
+  {
+   "key": "sbs-inkigayo-2024-06-16",
+   "date": "2024-06-16",
+   "title": "Inkigayo",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-06-16-inkigayo-bubble-gum",
+   "exclude": null,
+   "note": "Performed: \"Bubble Gum\""
+  },
+  {
+   "key": "fuji-tv-mezamashi-8-2024-06-21",
+   "date": "2024-06-21",
+   "title": "Mezamashi 8",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-06-21-mezamashi-8",
+   "exclude": null,
+   "note": "Performed: \"Bubble Gum\"; Members: ミンジ、ハニ、ダニエル、ヘリン; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "fuji-tv-mezamashi-tv-2024-06-21",
+   "date": "2024-06-21",
+   "title": "Mezamashi TV",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-06-21-mezamashi-tv",
+   "exclude": null,
+   "note": "Performed: \"Supernatural\"; Members: ミンジ、ハニ、ダニエル、ヘリン; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "tv-asahi-music-station-2024-06-21",
+   "date": "2024-06-21",
+   "title": "Music Station",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-06-21-music-station",
+   "exclude": null,
+   "note": "Performed: \"Supernatural\" and \"OMG\"; Members: ミンジ、ハニ、ダニエル、ヘリン; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "mbc-show-music-core-2024-06-22",
+   "date": "2024-06-22",
+   "title": "Show! Music Core (#1 win: How Sweet)",
+   "url": "https://en.wikipedia.org/wiki/How_Sweet",
+   "record": null,
+   "exclude": null,
+   "note": "Music show #1: How Sweet"
+  },
+  {
+   "key": "ntv-with-music-2024-06-22",
+   "date": "2024-06-22",
+   "title": "With Music",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-06-22-with-music",
+   "exclude": null,
+   "note": "Performed: \"Right Now\", \"Supernatural\", and \"Bubble Gum\"; Members: ミンジ、ハニ、ダニエル、ヘリン; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "tbs-cdtv-live-live-2024-06-24",
+   "date": "2024-06-24",
+   "title": "CDTV Live! Live!",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-06-24-cdtv-live-live",
+   "exclude": null,
+   "note": "Performed: \"Supernatural\"; Members: ミンジ、ハニ、ダニエル、ヘリン; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "nhk-venue101-2024-06-29",
+   "date": "2024-06-29",
+   "title": "Venue101",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-06-29-venue101",
+   "exclude": null,
+   "note": "Performed: \"Supernatural\"; Members: ミンジ、ハニ、ダニエル、ヘリン; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "tbs-cdtv-live-live-2024-07-01",
+   "date": "2024-07-01",
+   "title": "CDTV Live! Live!",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-07-01-cdtv-live-live-2",
+   "exclude": null,
+   "note": "Performed: \"How Sweet\" and \"Bubble Gum\"; Members: ミンジ、ハニ、ダニエル、ヘリン; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "j-wave-spark-2024-07-02",
+   "date": "2024-07-02",
+   "title": "J-WAVE SPARK (radio)",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": "tv-2024-07-02-j-wave-spark",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "fuji-tv-fns-kayosai-2024-07-03",
+   "date": "2024-07-03",
+   "title": "FNS Music Festival 2024",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-07-03-fns-music-festival-summer-2024",
+   "exclude": null,
+   "note": "Performed: \"ETA\", \"OMG\", and \"Supernatural\"; Members: ミンジ、ハニ、ダニエル、ヘリン; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "ntv-the-music-day-2024-07-06",
+   "date": "2024-07-06",
+   "title": "The Music Day 2024",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-07-06-the-music-day-2024",
+   "exclude": null,
+   "note": "Performed: \"Hype Boy\", \"Aoi Sangoshō\" (Seiko Matsuda cover), \"How Sweet\", and \"Plastic Love\" (Mariya Takeuchi cover); also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "kbs2-music-bank-2024-07-12",
+   "date": "2024-07-12",
+   "title": "Music Bank",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-07-12-music-bank-supernatural",
+   "exclude": null,
+   "note": "Performed: \"Right Now\" and \"Supernatural\""
+  },
+  {
+   "key": "mbc-show-music-core-2024-07-13",
+   "date": "2024-07-13",
+   "title": "Show! Music Core",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-07-13-music-core-supernatural",
+   "exclude": null,
+   "note": "Performed: \"Right Now\", \"Supernatural\", \"ETA\", \"OMG\", and \"Hype Boy\""
+  },
+  {
+   "key": "tbs-ongaku-no-hi-2024-07-13",
+   "date": "2024-07-13",
+   "title": "Ongaku no Hi 2024",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": "tv-2024-07-13-ongaku-no-hi-2024",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "sbs-inkigayo-2024-07-14",
+   "date": "2024-07-14",
+   "title": "Inkigayo",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-07-14-inkigayo-supernatural",
+   "exclude": null,
+   "note": "Performed: \"Right Now\" and \"Supernatural\""
+  },
+  {
+   "key": "sbs-gayo-daejeon-summer-2024-07-26",
+   "date": "2024-07-26",
+   "title": "SBS Gayo Daejeon Summer 2024",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-07-26-sbs-gayo-daejeon-summer-2024",
+   "exclude": null,
+   "note": "Performed: \"How Sweet\" and \"Supernatural\"; en list gives the event date 2024-07-24; the record uses the broadcast date"
+  },
+  {
+   "key": "archive-wowow-bunnies-camp-tokyo-dome-2024-08-12",
+   "date": "2024-08-12",
+   "title": "WOWOW: Bunnies Camp 2024 Tokyo Dome broadcast",
+   "url": "https://www.oricon.co.jp/news/2338316/full/",
+   "record": "tv-2024-08-12-wowow-bunnies-camp-tokyo-dome",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "ntv-with-music-2024-08-17",
+   "date": "2024-08-17",
+   "title": "With Music",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-08-17-with-music-2",
+   "exclude": null,
+   "note": "Performed: \"Supernatural\" and \"ETA\"; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "tbs-cdtv-live-live-2024-08-19",
+   "date": "2024-08-19",
+   "title": "CDTV Live! Live! Summer Fes SP",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-08-19-cdtv-summer-fes-sp",
+   "exclude": null,
+   "note": "Performed: \"Odoriko\" (Vaundy cover), \"The Seasons in the Sun\" (Tube cover), \"Cherry\" (Spitz cover), \"Part of Your World\", \"Automatic\" (Hikaru Utada cover), and \"Supernatural\"; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "the-fact-the-fact-music-awards-2024-09-08",
+   "date": "2024-09-08",
+   "title": "2024 The Fact Music Awards",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-09-08-the-fact-music-awards-2024",
+   "exclude": null,
+   "note": "Performed: \"ETA\", \"OMG\", \"Attention\", and \"Bubble Gum\" (Japanese version)"
+  },
+  {
+   "key": "archive-wowow-ask-jeans-interview-1-3-2024-09-22",
+   "date": "2024-09-22",
+   "title": "WOWOW: Ask Jeans! NewJeans interview #1–#3",
+   "url": "https://www.oricon.co.jp/news/2338316/full/",
+   "record": "tv-2024-09-22-wowow-ask-jeans-interview-1-3",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "archive-wowow-ask-jeans-interview-4-5-2024-10-13",
+   "date": "2024-10-13",
+   "title": "WOWOW: Ask Jeans! NewJeans interview #4–#5",
+   "url": "https://www.oricon.co.jp/news/2338316/full/",
+   "record": "tv-2024-10-13-wowow-ask-jeans-interview-4-5",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "archive-wowow-music-video-collection-2024-11-01",
+   "date": "2024-11-01",
+   "title": "WOWOW: NewJeans Music Video Collection",
+   "url": "https://www.oricon.co.jp/news/2338316/full/",
+   "record": "tv-2024-11-01-wowow-music-video-collection",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "ntv-with-music-2024-11-09",
+   "date": "2024-11-09",
+   "title": "With Music",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-11-09-with-music-3",
+   "exclude": null,
+   "note": "Performed: \"OMG\"; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "ntv-nino-san-2024-11-15",
+   "date": "2024-11-15",
+   "title": "Nino-san",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": "tv-2024-11-15-nino-san",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "sbs-m-korea-grand-music-awards-2024-11-16",
+   "date": "2024-11-16",
+   "title": "2024 Korea Grand Music Awards",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-11-16-korea-grand-music-awards-2024",
+   "exclude": null,
+   "note": "Performed: \"Right Now\", \"Bubble Gum\", \"How Sweet\", and \"Supernatural\"; Hanni co-hosted with Winter (aespa) and Nam Ji-hyun; also listed at https://en.wikipedia.org/wiki/Hanni_(singer)"
+  },
+  {
+   "key": "archive-superman-returns-minji-2024-11-27",
+   "date": "2024-11-27",
+   "title": "KBS2 The Return of Superman: Minji guests",
+   "url": "https://v.daum.net/v/20241126081050400",
+   "record": "tv-2024-11-27-superman-returns-minji",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "tv-asahi-music-station-2024-11-29",
+   "date": "2024-11-29",
+   "title": "Music Station",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-11-29-music-station-2",
+   "exclude": null,
+   "note": "Performed: \"Ditto\" and \"How Sweet\"; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "ntv-best-artist-2024-11-30",
+   "date": "2024-11-30",
+   "title": "Best Artist 2024",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-11-30-best-artist-2024",
+   "exclude": null,
+   "note": "Performed: \"Supernatural\"; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "fuji-tv-fns-kayosai-2024-12-04",
+   "date": "2024-12-04",
+   "title": "FNS Music Festival 2024",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-12-04-fns-music-festival-2024",
+   "exclude": null,
+   "note": "Performed: \"How Sweet\" and \"Ditto\"; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "tbs-cdtv-live-live-2024-12-16",
+   "date": "2024-12-16",
+   "title": "CDTV Live! Live! Christmas SP",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": "tv-2024-12-16-cdtv-christmas-sp-2024",
+   "exclude": null,
+   "note": "en Wikipedia list gives 2024-12-12; also listed at https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+  },
+  {
+   "key": "kbs2-music-bank-global-festival-2024-12-19",
+   "date": "2024-12-19",
+   "title": "Music Bank Global Festival 2024",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-12-19-music-bank-global-festival-2024-fukuoka",
+   "exclude": null,
+   "note": "Performed: \"Super Shy\", \"How Sweet\", and \"Supernatural\"; en list gives the event date 2024-12-14; the record uses the broadcast date"
+  },
+  {
+   "key": "archive-cbs-radio-news-show-christmas-2024-12-25",
+   "date": "2024-12-25",
+   "title": "CBS Radio: Kim Hyun-jung's News Show Christmas special",
+   "url": "https://www.sidae.com/article/2024122509333951589",
+   "record": "tv-2024-12-25-cbs-radio-news-show-christmas",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "sbs-gayo-daejeon-2024-12-25",
+   "date": "2024-12-25",
+   "title": "SBS Gayo Daejeon 2024",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-12-25-sbs-gayo-daejeon-2024",
+   "exclude": null,
+   "note": "Performed: \"Ditto\" (250 remix), \"Cookie\", and \"Hype Boy\""
+  },
+  {
+   "key": "aaa-asia-artist-awards-2024-12-27",
+   "date": "2024-12-27",
+   "title": "2024 Asia Artist Awards",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-12-27-asia-artist-awards-2024",
+   "exclude": null,
+   "note": "Performed: \"Bubble Gum\", \"Supernatural\", and \"How Sweet\""
+  },
+  {
+   "key": "ntv-kotoshi-ichiban-kiita-uta-2024-12-28",
+   "date": "2024-12-28",
+   "title": "Happyo! Kotoshi Ichiban Kiita Uta (NTV year-end music awards) 2024",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-12-28-ntv-music-award-2024",
+   "exclude": null,
+   "note": "also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "tbs-japan-record-awards-2024-12-30",
+   "date": "2024-12-30",
+   "title": "66th Japan Record Awards",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2024-12-30-japan-record-awards-66",
+   "exclude": null,
+   "note": "Performed: \"Supernatural\"; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "jtbc-golden-disc-awards-2025-01-05",
+   "date": "2025-01-05",
+   "title": "39th Golden Disc Awards",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2025-01-06-golden-disc-awards-39",
+   "exclude": null,
+   "note": "Performed: \"Supernatural\" and \"How Sweet\"; existing record date differs: record 2025-01-06, source 2025-01-05"
+  },
+  {
+   "key": "mbc-gayo-daejejeon-2025-01-29",
+   "date": "2025-01-29",
+   "title": "2024 MBC Gayo Daejejeon (postponed broadcast)",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "tv-2025-01-29-mbc-gayo-daejejeon-2024",
+   "exclude": null,
+   "note": "Performed: \"Attention\""
+  },
+  {
+   "key": "archive-cnn-interview-njz-2025-02-07",
+   "date": "2025-02-07",
+   "title": "CNN interview announcing the NJZ name",
+   "url": "https://edition.cnn.com/",
+   "record": "tv-2025-02-07-cnn-interview-njz",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  }
+ ]
+}

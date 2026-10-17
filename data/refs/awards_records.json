@@ -1,0 +1,2872 @@
+{
+ "name": "awards_records",
+ "category": "record",
+ "scope": "NewJeans/NJZの受賞・ノミネート（ノミネートは別項目、note=nomination）、国家表彰・リスト選出・世界記録、チャート1位と主要チャート記録、販売・ストリーミング認定、ADORやチャート運営が発表した再生数の節目の全件。音楽番組の1位はtv台帳で扱う。",
+ "source": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans, https://ja.wikipedia.org/wiki/NewJeans, https://en.wikipedia.org/wiki/NewJeans_discography, https://en.wikipedia.org/wiki/New_Jeans_(EP), https://en.wikipedia.org/wiki/Get_Up_(EP), https://en.wikipedia.org/wiki/OMG_(single_album), https://en.wikipedia.org/wiki/How_Sweet, https://en.wikipedia.org/wiki/Supernatural_(NewJeans_song)",
+ "fetched": "2026-10-17",
+ "match": "manual",
+ "items": [
+  {
+   "key": "archive-2022-08-08-new-jeans-ep-first-day-hanteo",
+   "date": "2022-08-08",
+   "title": "Debut EP New Jeans sells 262,815 copies on day one on Hanteo, a girl-group debut record",
+   "url": "https://www.soompi.com/article/1539846wpp/newjeans-breaks-record-for-highest-1st-day-sales-of-any-girl-group-debut-album-in-hanteo-history",
+   "record": "record-2022-08-08-new-jeans-ep-first-day-hanteo",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "circle-album-chart-2022-08-13-new-jeans-no1",
+   "date": "2022-08-13",
+   "title": "New Jeans EP tops the Circle weekly Album Chart",
+   "url": "https://en.wikipedia.org/wiki/New_Jeans_(EP)",
+   "record": null,
+   "exclude": null,
+   "note": "chart week 32 of 2022 (Aug 7-13); week unverified – en lists KOR peak 1"
+  },
+  {
+   "key": "archive-2022-08-14-new-jeans-ep-first-week-hanteo",
+   "date": "2022-08-14",
+   "title": "Debut EP New Jeans logs 311,271 first-week sales on Hanteo, a girl-group debut record",
+   "url": "https://view.asiae.co.kr/en/article/2022082610270881708",
+   "record": "record-2022-08-14-new-jeans-ep-first-week-hanteo",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2022-08-20-attention-circle-digital-no1",
+   "date": "2022-08-20",
+   "title": "Attention tops the Circle Digital Chart (first No. 1)",
+   "url": "https://circlechart.kr/page_chart/onoff.circle?serviceGbn=ALL",
+   "record": "record-2022-08-20-attention-circle-digital-no1",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2022-09-01-attention-circle-monthly-aug-2022",
+   "date": "2022-09-01",
+   "title": "Attention tops the Circle monthly digital chart for August 2022",
+   "url": "https://circlechart.kr/page_chart/onoff.circle?serviceGbn=ALL",
+   "record": "record-2022-09-01-attention-circle-monthly-aug-2022",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "tma-2022-10-08-fan-n-star-choice-award-artist",
+   "date": "2022-10-08",
+   "title": "2022 The Fact Music Awards – Fan N Star Choice Award (Artist) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "tma-2022-10-08-four-star-awards",
+   "date": "2022-10-08",
+   "title": "2022 The Fact Music Awards – Four Star Awards [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "tma-2022-10-08-idolplus-popularity-award",
+   "date": "2022-10-08",
+   "title": "2022 The Fact Music Awards – Idolplus Popularity Award [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "tma-2022-10-08-next-leader-award",
+   "date": "2022-10-08",
+   "title": "2022 The Fact Music Awards – Next Leader Award",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2022-10-08-tma-2022-next-leader",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "k-billboard-awards-2022-10-28-hot-rookie-award",
+   "date": "2022-10-28",
+   "title": "2022 The K-Billboard Awards – Hot Rookie Award",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2022-10-28-k-billboard-awards-2022-hot-rookie",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "genie-music-awards-2022-11-08-best-female-rookie-award",
+   "date": "2022-11-08",
+   "title": "2022 Genie Music Awards – Best Female Rookie Award [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "mma-2022-11-26-album-of-the-year-new-jeans",
+   "date": "2022-11-26",
+   "title": "2022 Melon Music Awards – Album of the Year (New Jeans) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "mma-2022-11-26-artist-of-the-year",
+   "date": "2022-11-26",
+   "title": "2022 Melon Music Awards – Artist of the Year [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "mma-2022-11-26-best-female-group",
+   "date": "2022-11-26",
+   "title": "2022 Melon Music Awards – Best Female Group [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "mma-2022-11-26-best-new-artist",
+   "date": "2022-11-26",
+   "title": "2022 Melon Music Awards – Best New Artist",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2022-11-26-mma-2022-best-new-artist",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "mma-2022-11-26-top-10-artist",
+   "date": "2022-11-26",
+   "title": "2022 Melon Music Awards – Top 10 Artist",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2022-11-26-mma-2022-top-10",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "mama-2022-11-29-artist-of-the-year",
+   "date": "2022-11-29",
+   "title": "2022 MAMA Awards – Artist of the Year [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2022-11-29/30; nominations dated to day 1"
+  },
+  {
+   "key": "mama-2022-11-29-best-dance-performance-female-group-attention",
+   "date": "2022-11-29",
+   "title": "2022 MAMA Awards – Best Dance Performance Female Group (Attention) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2022-11-29/30; nominations dated to day 1"
+  },
+  {
+   "key": "mama-2022-11-29-best-new-female-artist",
+   "date": "2022-11-29",
+   "title": "2022 MAMA Awards – Best New Female Artist [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2022-11-29/30; nominations dated to day 1"
+  },
+  {
+   "key": "mama-2022-11-29-song-of-the-year-attention",
+   "date": "2022-11-29",
+   "title": "2022 MAMA Awards – Song of the Year (Attention) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2022-11-29/30; nominations dated to day 1"
+  },
+  {
+   "key": "mama-2022-11-29-worldwide-fans-choice-top-10",
+   "date": "2022-11-29",
+   "title": "2022 MAMA Awards – Worldwide Fans' Choice Top 10 [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2022-11-29/30; nominations dated to day 1"
+  },
+  {
+   "key": "archive-2022-12-01-rolling-stone-100-best-albums-2022",
+   "date": "2022-12-01",
+   "title": "New Jeans EP placed No. 46 on Rolling Stone's 100 Best Albums of 2022",
+   "url": "https://www.rollingstone.com/music/music-lists/best-albums-2022-list-1234632387/",
+   "record": "record-2022-12-01-rolling-stone-100-best-albums-2022",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "asian-pop-music-awards-2022-12-01-best-new-artist-overseas-new-jeans",
+   "date": "2022-12-01",
+   "title": "2022 Asian Pop Music Awards – Best New Artist (Overseas) (New Jeans) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; date: month only (December 2022)"
+  },
+  {
+   "key": "asian-pop-music-awards-2022-12-01-top-20-songs-of-the-year-overseas-hype-boy",
+   "date": "2022-12-01",
+   "title": "2022 Asian Pop Music Awards – Top 20 Songs of the Year (Overseas) (Hype Boy)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2022-12-01-asian-pop-music-awards-2022-hype-boy",
+   "exclude": null,
+   "note": "date: month only (December 2022)"
+  },
+  {
+   "key": "archive-2022-12-05-nme-50-best-songs-2022-hype-boy",
+   "date": "2022-12-05",
+   "title": "Hype Boy ranked No. 26 on NME's 50 Best Songs of 2022",
+   "url": "https://www.nme.com/features/music-features/the-50-best-songs-of-2022-3358809",
+   "record": "record-2022-12-05-nme-50-best-songs-2022-hype-boy",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2022-12-05-rolling-stone-100-best-songs-2022-hype-boy",
+   "date": "2022-12-05",
+   "title": "Hype Boy ranked No. 24 on Rolling Stone's 100 Best Songs of 2022",
+   "url": "https://www.rollingstone.com/music/music-features/newjeans-new-album-omg-ditto-interview-1234651360/",
+   "record": "record-2022-12-05-rolling-stone-100-best-songs-2022-hype-boy",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "aaa-2022-12-13-dcm-popularity-award-female-singer",
+   "date": "2022-12-13",
+   "title": "2022 Asia Artist Awards – DCM Popularity Award – Female Singer [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "aaa-2022-12-13-idolplus-popularity-award-music",
+   "date": "2022-12-13",
+   "title": "2022 Asia Artist Awards – Idolplus Popularity Award – Music [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "aaa-2022-12-13-performance-of-the-year-daesang",
+   "date": "2022-12-13",
+   "title": "2022 Asia Artist Awards – Performance of the Year (Daesang)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2022-12-13-aaa-2022-performance-of-the-year",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "aaa-2022-12-13-rookie-of-the-year-music",
+   "date": "2022-12-13",
+   "title": "2022 Asia Artist Awards – Rookie of the Year – Music",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2022-12-13-aaa-2022-best-new-artist",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "archive-2022-12-25-ditto-certified-all-kill",
+   "date": "2022-12-25",
+   "title": "Ditto earns NewJeans' first Certified All-Kill",
+   "url": "https://www.soompi.com/article/1560052wpp/newjeans-achieves-1st-ever-certified-all-kill-with-ditto",
+   "record": "record-2022-12-25-ditto-certified-all-kill",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2022-12-26-ditto-perfect-all-kill",
+   "date": "2022-12-26",
+   "title": "Ditto earns NewJeans' first Perfect All-Kill",
+   "url": "https://www.soompi.com/article/1560147wpp/newjeans-earns-1st-perfect-all-kill-of-their-career-with-ditto",
+   "record": "record-2022-12-26-ditto-perfect-all-kill",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2022-12-29-ditto-circle-weekly-double-crown",
+   "date": "2022-12-29",
+   "title": "Ditto debuts at No. 1 on Circle's weekly digital and Global K-Pop charts",
+   "url": "https://circlechart.kr/page_chart/onoff.circle?serviceGbn=ALL",
+   "record": "record-2022-12-29-ditto-circle-weekly-double-crown",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "bof-500-2023-01-01-class-of-2023",
+   "date": "2023-01-01",
+   "title": "The Business of Fashion BoF 500 (2023)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "date: year only (en list gives 2023)"
+  },
+  {
+   "key": "forbes-korea-power-celebrity-40-2023-01-01-27th",
+   "date": "2023-01-01",
+   "title": "Forbes Korea Power Celebrity 40 (2023) – 27th",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "date: year only"
+  },
+  {
+   "key": "rmnz-certification-2023-01-01-hype-boy-gold",
+   "date": "2023-01-01",
+   "title": "RMNZ certification: Hype Boy Gold (NZ)",
+   "url": "https://en.wikipedia.org/wiki/Hype_Boy",
+   "record": null,
+   "exclude": null,
+   "note": "date: year only"
+  },
+  {
+   "key": "archive-2023-01-02-omg-first-day-hanteo-481k",
+   "date": "2023-01-02",
+   "title": "OMG sells 481,425 copies on day one on Hanteo, passing the debut EP's first-week total",
+   "url": "https://www.soompi.com/article/1561304wpp/newjeans-surpasses-1st-week-sales-of-debut-album-in-only-1-day-with-omg-tops-itunes-charts-around-the-world",
+   "record": "record-2023-01-02-omg-first-day-hanteo-481k",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-01-02-omg-stock-preorders-800k",
+   "date": "2023-01-02",
+   "title": "OMG reaches 800,000 stock pre-orders, a personal record",
+   "url": "https://www.soompi.com/article/1561157wpp/newjeans-breaks-personal-record-for-stock-pre-orders-with-omg",
+   "record": "record-2023-01-02-omg-stock-preorders-800k",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-01-07-omg-oricon-daily-singles-no1",
+   "date": "2023-01-07",
+   "title": "OMG debuts at No. 1 on Oricon's Daily Singles Ranking with 20,638 copies",
+   "url": "https://www.oricon.co.jp/news/2263876/full/",
+   "record": "record-2023-01-07-omg-oricon-daily-singles-no1",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "circle-album-chart-2023-01-07-omg-no1",
+   "date": "2023-01-07",
+   "title": "OMG tops the Circle weekly Album Chart (week 1, 2023)",
+   "url": "https://en.wikipedia.org/wiki/OMG_(single_album)",
+   "record": "record-2023-01-12-circle-weekly-quintuple-crown-omg",
+   "exclude": null,
+   "note": "covered by the quintuple-crown record (announced 2023-01-12)"
+  },
+  {
+   "key": "gda-2023-01-07-digital-daesang-attention",
+   "date": "2023-01-07",
+   "title": "2023 Golden Disc Awards – Digital Daesang (Attention) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "gda-2023-01-07-digital-song-bonsang-attention",
+   "date": "2023-01-07",
+   "title": "2023 Golden Disc Awards – Digital Song Bonsang (Attention)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-01-07-gda-37-digital-bonsang-attention",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "gda-2023-01-07-rookie-artist-of-the-year",
+   "date": "2023-01-07",
+   "title": "2023 Golden Disc Awards – Rookie Artist of the Year",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-01-07-gda-37-rookie-artist-of-the-year",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "gda-2023-01-07-tiktok-most-popular-artist-award",
+   "date": "2023-01-07",
+   "title": "2023 Golden Disc Awards – TikTok Most Popular Artist Award [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "archive-2023-01-08-omg-first-week-hanteo-701k",
+   "date": "2023-01-08",
+   "title": "OMG logs 701,241 first-week sales on Hanteo, fourth-highest for a girl group",
+   "url": "https://www.soompi.com/article/1561968wpp/newjeans-achieves-4th-highest-1st-week-sales-of-any-girl-group-in-hanteo-history-with-omg",
+   "record": "record-2023-01-08-omg-first-week-hanteo-701k",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-01-12-circle-cert-new-jeans-double-platinum",
+   "date": "2023-01-12",
+   "title": "Circle Chart certification: New Jeans EP certified double platinum",
+   "url": "https://circlechart.kr/page_cert/chart.circle?serviceGbn=ALBUM",
+   "record": "record-2023-01-12-circle-cert-new-jeans-double-platinum",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-01-13-ditto-uk-singles-debut-95",
+   "date": "2023-01-13",
+   "title": "Ditto debuts at No. 95 on the UK Official Singles Chart",
+   "url": "https://www.officialcharts.com/songs/newjeans-ditto/",
+   "record": "record-2023-01-13-ditto-uk-singles-debut-95",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-01-13-omg-oricon-weekly-single-no1",
+   "date": "2023-01-13",
+   "title": "OMG tops Oricon's weekly Combined Singles Ranking with 56,560 points",
+   "url": "https://www.oricon.co.jp/news/2263876/full/",
+   "record": "record-2023-01-13-omg-oricon-weekly-single-no1",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-01-14-ditto-global-200-top-10",
+   "date": "2023-01-14",
+   "title": "Ditto reaches No. 8 on the Billboard Global 200, the group's first top 10",
+   "url": "https://www.billboard.com/charts/billboard-global-200/2023-01-14/",
+   "record": "record-2023-01-14-ditto-global-200-top-10",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-01-16-melon-weekly-top3-sweep",
+   "date": "2023-01-16",
+   "title": "Ditto, OMG and Hype Boy occupy the top three on Melon's weekly chart",
+   "url": "https://www.soompi.com/article/1563199wpp/newjeans-joins-bigbang-and-2ne1-as-only-idol-groups-ever-to-simultaneously-occupy-top-3-spots-on-melons-weekly-chart",
+   "record": "record-2023-01-16-melon-weekly-top3-sweep",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "sma-2023-01-19-hallyu-special-award",
+   "date": "2023-01-19",
+   "title": "2023 Seoul Music Awards – Hallyu Special Award [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "sma-2023-01-19-popularity-award",
+   "date": "2023-01-19",
+   "title": "2023 Seoul Music Awards – Popularity Award [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "sma-2023-01-19-rookie-of-the-year",
+   "date": "2023-01-19",
+   "title": "2023 Seoul Music Awards – Rookie of the Year",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-01-19-sma-32-rookie-of-the-year",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "archive-2023-01-21-ditto-hot-100-debut-96",
+   "date": "2023-01-21",
+   "title": "Ditto debuts at No. 96 on the Billboard Hot 100, the group's first entry",
+   "url": "https://www.billboard.com/charts/hot-100/2023-01-21/",
+   "record": "record-2023-01-21-ditto-hot-100-debut-96",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-01-21-omg-ditto-global-200-two-top-10",
+   "date": "2023-01-21",
+   "title": "OMG (No. 10) and Ditto (No. 9) chart simultaneously in the Global 200 top 10",
+   "url": "https://www.billboard.com/charts/billboard-global-200/2023-01-21/",
+   "record": "record-2023-01-21-omg-ditto-global-200-two-top-10",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-01-27-omg-million-seller-circle",
+   "date": "2023-01-27",
+   "title": "OMG passes one million copies on Circle Chart, NewJeans' first million-seller",
+   "url": "https://circlechart.kr/page_chart/album.circle",
+   "record": "record-2023-01-27-omg-million-seller-circle",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-01-28-omg-hot-100-debut-91",
+   "date": "2023-01-28",
+   "title": "OMG debuts at No. 91 on the Hot 100, the fastest K-pop act to land multiple entries",
+   "url": "https://www.billboard.com/charts/hot-100/2023-01-28/",
+   "record": "record-2023-01-28-omg-hot-100-debut-91",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-02-02-melon-monthly-jan-2023-top3",
+   "date": "2023-02-02",
+   "title": "NewJeans sweep the top three on Melon's monthly chart for January 2023",
+   "url": "https://www.soompi.com/article/1565130wpp/newjeans-becomes-1st-idol-group-in-history-to-rank-in-top-3-spots-on-melons-monthly-chart",
+   "record": "record-2023-02-02-melon-monthly-jan-2023-top3",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-02-09-circle-cert-new-jeans-weverse-platinum",
+   "date": "2023-02-09",
+   "title": "Circle Chart certification: New Jeans (Weverse edition) certified platinum",
+   "url": "https://circlechart.kr/page_cert/chart.circle?serviceGbn=ALBUM",
+   "record": "record-2023-02-09-circle-cert-new-jeans-weverse-platinum",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-02-09-circle-monthly-jan-2023-ditto",
+   "date": "2023-02-09",
+   "title": "Ditto earns a triple crown on Circle's monthly charts for January 2023",
+   "url": "https://circlechart.kr/page_chart/onoff.circle?serviceGbn=ALL",
+   "record": "record-2023-02-09-circle-monthly-jan-2023-ditto",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-02-11-artist-100-debut",
+   "date": "2023-02-11",
+   "title": "NewJeans debut at No. 98 on the Billboard Artist 100",
+   "url": "https://www.billboard.com/charts/artist-100/2023-02-11/",
+   "record": "record-2023-02-11-artist-100-debut",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "hanteo-music-awards-2023-02-11-main-award-bonsang",
+   "date": "2023-02-11",
+   "title": "2023 Hanteo Music Awards – Main Award (Bonsang) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "hanteo-music-awards-2023-02-11-rookie-of-the-year",
+   "date": "2023-02-11",
+   "title": "2023 Hanteo Music Awards – Rookie of the Year",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-02-11-hanteo-music-awards-30-rookie",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "hanteo-music-awards-2023-02-11-whosfandom-award",
+   "date": "2023-02-11",
+   "title": "2023 Hanteo Music Awards – WhosFandom Award [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "archive-2023-02-18-ditto-hot-100-peak-82",
+   "date": "2023-02-18",
+   "title": "Ditto peaks at No. 82 on the Billboard Hot 100",
+   "url": "https://www.billboard.com/charts/hot-100/2023-02-18/",
+   "record": "record-2023-02-18-ditto-hot-100-peak-82",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-02-18-omg-hot-100-peak-74",
+   "date": "2023-02-18",
+   "title": "OMG peaks at No. 74 on the Hot 100, second-highest ever for a K-pop girl group",
+   "url": "https://www.billboard.com/charts/hot-100/2023-02-18/",
+   "record": "record-2023-02-18-omg-hot-100-peak-74",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "ccma-2023-02-18-artist-of-the-year-global-digital-music-august-attention",
+   "date": "2023-02-18",
+   "title": "2023 Circle Chart Music Awards – Artist of the Year – Global Digital Music (August) (Attention) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "ccma-2023-02-18-artist-of-the-year-global-digital-music-august-hype-boy",
+   "date": "2023-02-18",
+   "title": "2023 Circle Chart Music Awards – Artist of the Year – Global Digital Music (August) (Hype Boy) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "ccma-2023-02-18-new-artist-of-the-year-digital-attention",
+   "date": "2023-02-18",
+   "title": "2023 Circle Chart Music Awards – New Artist of the Year – Digital (Attention)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-02-18-ccma-2022-rookie-digital",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "ccma-2023-02-18-new-artist-of-the-year-physical-new-jeans",
+   "date": "2023-02-18",
+   "title": "2023 Circle Chart Music Awards – New Artist of the Year – Physical (New Jeans) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "archive-2023-02-20-new-jeans-ep-million-seller",
+   "date": "2023-02-20",
+   "title": "Debut EP New Jeans passes one million copies, the group's second million-seller",
+   "url": "https://circlechart.kr/page_cert/chart.circle?serviceGbn=ALBUM",
+   "record": "record-2023-02-20-new-jeans-ep-million-seller",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-02-27-ditto-melon-weekly-10-weeks",
+   "date": "2023-02-27",
+   "title": "Ditto tops Melon's weekly chart for a 10th straight week, a Melon first",
+   "url": "https://www.soompi.com/article/1569746wpp/newjeans-ditto-becomes-1st-song-in-melon-history-to-chart-at-no-1-for-10-consecutive-weeks",
+   "record": "record-2023-02-27-ditto-melon-weekly-10-weeks",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-03-05-ditto-melon-daily-76-days",
+   "date": "2023-03-05",
+   "title": "Ditto logs a 76th day at No. 1 on Melon's daily chart, passing Dynamite",
+   "url": "https://www.soompi.com/article/1570513wpp/newjeans-ditto-overtakes-btss-dynamite-to-become-song-with-most-days-at-no-1-on-melon-chart",
+   "record": "record-2023-03-05-ditto-melon-daily-76-days",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "kma-2023-03-05-album-of-the-year-new-jeans",
+   "date": "2023-03-05",
+   "title": "2023 Korean Music Awards – Album of the Year (New Jeans) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "kma-2023-03-05-best-k-pop-album-new-jeans",
+   "date": "2023-03-05",
+   "title": "2023 Korean Music Awards – Best K-pop Album (New Jeans)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-03-05-kma-20-best-kpop-album-new-jeans",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "kma-2023-03-05-best-k-pop-song-attention",
+   "date": "2023-03-05",
+   "title": "2023 Korean Music Awards – Best K-pop Song (Attention)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-03-05-kma-20-best-kpop-song-attention",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "kma-2023-03-05-musician-of-the-year",
+   "date": "2023-03-05",
+   "title": "2023 Korean Music Awards – Musician of the Year [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "kma-2023-03-05-rookie-of-the-year",
+   "date": "2023-03-05",
+   "title": "2023 Korean Music Awards – Rookie of the Year",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-03-05-kma-20-rookie-of-the-year",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "kma-2023-03-05-song-of-the-year-attention",
+   "date": "2023-03-05",
+   "title": "2023 Korean Music Awards – Song of the Year (Attention) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "archive-2023-03-08-spotify-1-billion-streams-219-days",
+   "date": "2023-03-08",
+   "title": "NewJeans pass 1 billion Spotify streams in 219 days, the fastest K-pop act",
+   "url": "https://www.guinnessworldrecords.com/world-records/746515-fastest-k-pop-act-to-reach-1-billion-streams-on-spotify",
+   "record": "record-2023-03-08-spotify-1-billion-streams-219-days",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-03-09-circle-cert-hype-boy-streaming-platinum",
+   "date": "2023-03-09",
+   "title": "Circle Chart certification: Hype Boy certified platinum for 100 million streams",
+   "url": "https://circlechart.kr/page_cert/chart.circle?serviceGbn=S1040",
+   "record": "record-2023-03-09-circle-cert-hype-boy-streaming-platinum",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-03-09-circle-cert-omg-new-jeans-triple-platinum",
+   "date": "2023-03-09",
+   "title": "Circle Chart certification: OMG and New Jeans triple platinum, OMG (Weverse) platinum",
+   "url": "https://circlechart.kr/page_cert/chart.circle?serviceGbn=ALBUM",
+   "record": "record-2023-03-09-circle-cert-omg-new-jeans-triple-platinum",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-03-25-ditto-circle-digital-13th-week-no1",
+   "date": "2023-03-25",
+   "title": "Ditto logs a 13th week at No. 1 on the Circle Digital Chart, the longest run in the chart's history",
+   "url": "https://circlechart.kr/page_chart/onoff.circle?serviceGbn=ALL",
+   "record": "record-2023-03-25-ditto-circle-digital-13th-week-no1",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-03-27-ditto-melon-daily-99-days",
+   "date": "2023-03-27",
+   "title": "Ditto logs a 99th day at No. 1 on Melon's daily chart, the most ever",
+   "url": "https://www.koreatimes.co.kr/www/art/2023/12/398_365182.html",
+   "record": "record-2023-03-27-ditto-melon-daily-99-days",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-03-28-riaj-gold-hype-boy-ditto",
+   "date": "2023-03-28",
+   "title": "RIAJ streaming certification: Hype Boy and Ditto certified gold",
+   "url": "https://www.soompi.com/article/1575871wpp/bts-earns-their-3rd-triple-platinum-riaj-certification-in-japan-for-streaming-newjeans-goes-gold-for-1st-time",
+   "record": "record-2023-03-28-riaj-gold-hype-boy-ditto",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-04-02-melon-monthly-top3-three-months",
+   "date": "2023-04-02",
+   "title": "NewJeans sweep Melon's monthly top three for a third straight month, a first",
+   "url": "https://www.soompi.com/article/1576843wpp/newjeans-becomes-1st-artist-in-history-to-sweep-top-3-spots-for-3-months-on-melons-monthly-chart",
+   "record": "record-2023-04-02-melon-monthly-top3-three-months",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-04-30-hype-boy-mv-100m-views",
+   "date": "2023-04-30",
+   "title": "Hype Boy Performance ver.1 MV hits 100 million YouTube views, the group's first",
+   "url": "https://www.soompi.com/article/1583782wpp/newjeans-hype-boy-becomes-their-1st-mv-to-hit-100-million-views",
+   "record": "record-2023-04-30-hype-boy-mv-100m-views",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "gold-house-a100-2023-05-01",
+   "date": "2023-05-01",
+   "title": "Gold House A100 List (2023)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-05-01-gold-house-a100-2023",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "guinness-world-records-2023-05-07-spotify-1-billion",
+   "date": "2023-05-07",
+   "title": "Guinness World Records: fastest K-pop act to 1 billion Spotify streams",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-05-07-guinness-world-record-spotify",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "archive-2023-05-11-circle-cert-omg-million-attention-platinum",
+   "date": "2023-05-11",
+   "title": "Circle Chart certification: OMG certified million, Attention streaming platinum",
+   "url": "https://circlechart.kr/page_cert/chart.circle?serviceGbn=ALBUM",
+   "record": "record-2023-05-11-circle-cert-omg-million-attention-platinum",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-05-13-omg-mv-100m-views",
+   "date": "2023-05-13",
+   "title": "OMG Performance ver.1 MV hits 100 million views, the group's fastest",
+   "url": "https://www.soompi.com/article/1587071wpp/newjeans-omg-becomes-their-fastest-mv-to-hit-100-million-views",
+   "record": "record-2023-05-13-omg-mv-100m-views",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "forbes-30-under-30-asia-2023-05-18",
+   "date": "2023-05-18",
+   "title": "Forbes 30 Under 30 Asia 2023 (Entertainment & Sports)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-05-18-forbes-30-under-30-asia-2023",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "time-next-generation-leaders-2023-05-23",
+   "date": "2023-05-23",
+   "title": "TIME Next Generation Leaders (2023)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-05-23-time-next-generation-leaders-2023",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "archive-2023-06-28-riaj-ditto-platinum-attention-gold",
+   "date": "2023-06-28",
+   "title": "RIAJ streaming certification: Ditto platinum, Attention gold",
+   "url": "https://www.soompi.com/article/1597181wpp/le-sserafim-and-newjeans-earn-their-1st-platinum-certifications-in-japan-for-streaming-aespa-and-bts-go-gold",
+   "record": "record-2023-06-28-riaj-ditto-platinum-attention-gold",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-07-14-super-shy-uk-singles-debut-59",
+   "date": "2023-07-14",
+   "title": "Super Shy debuts at No. 59 on the UK Official Singles Chart, a new high",
+   "url": "https://www.officialcharts.com/songs/newjeans-super-shy/",
+   "record": "record-2023-07-14-super-shy-uk-singles-debut-59",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-07-16-super-shy-perfect-all-kill",
+   "date": "2023-07-16",
+   "title": "Super Shy achieves a Perfect All-Kill, the group's second",
+   "url": "https://www.soompi.com/article/1600829wpp/newjeans-achieves-perfect-all-kill-with-super-shy",
+   "record": "record-2023-07-16-super-shy-perfect-all-kill",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-07-20-get-up-stock-preorders-1-72m",
+   "date": "2023-07-20",
+   "title": "Get Up passes 1.72 million stock pre-orders, more than doubling the group's record",
+   "url": "https://www.soompi.com/article/1602035wpp/newjeans-doubles-personal-record-by-surpassing-1-72-million-stock-pre-orders-for-get-up",
+   "record": "record-2023-07-20-get-up-stock-preorders-1-72m",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-07-21-get-up-first-day-hanteo-1-19m",
+   "date": "2023-07-21",
+   "title": "Get Up sells 1,194,623 copies on day one on Hanteo, second-highest for a girl group",
+   "url": "https://www.soompi.com/article/1602182wpp/newjeans-get-up-achieves-2nd-highest-1st-day-sales-of-any-girl-group-album-in-history-with-over-1-1-million-copies-sold",
+   "record": "record-2023-07-21-get-up-first-day-hanteo-1-19m",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-07-22-get-up-apple-music-itunes-no1",
+   "date": "2023-07-22",
+   "title": "Get Up tops Apple Music album charts in 17 regions and iTunes in nine",
+   "url": "https://www.soompi.com/article/1602259wpp/newjeans-tops-apple-music-and-itunes-charts-across-the-globe-with-get-up",
+   "record": "record-2023-07-22-get-up-apple-music-itunes-no1",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-07-22-super-shy-emerging-artists-no1",
+   "date": "2023-07-22",
+   "title": "NewJeans top Billboard's Emerging Artists chart for the first time with Super Shy",
+   "url": "https://www.billboard.com/charts/emerging-artists/2023-07-22/",
+   "record": "record-2023-07-22-super-shy-emerging-artists-no1",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-07-22-super-shy-global-200-no2",
+   "date": "2023-07-22",
+   "title": "Super Shy debuts at No. 2 on the Billboard Global 200, the group's best",
+   "url": "https://www.billboard.com/charts/billboard-global-200/2023-07-22/",
+   "record": "record-2023-07-22-super-shy-global-200-no2",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-07-22-super-shy-hot-100-debut-66",
+   "date": "2023-07-22",
+   "title": "Super Shy debuts at No. 66 on the Hot 100, the group's third entry and a K-pop speed record",
+   "url": "https://www.billboard.com/charts/hot-100/2023-07-22/",
+   "record": "record-2023-07-22-super-shy-hot-100-debut-66",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-07-23-super-shy-circle-weekly-triple-crown",
+   "date": "2023-07-23",
+   "title": "Super Shy earns a triple crown on Circle's weekly charts",
+   "url": "https://circlechart.kr/page_chart/onoff.circle?serviceGbn=ALL",
+   "record": "record-2023-07-23-super-shy-circle-weekly-triple-crown",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-07-27-get-up-first-week-hanteo-1-65m",
+   "date": "2023-07-27",
+   "title": "Get Up logs 1,650,181 first-week sales on Hanteo, second-highest for a female act",
+   "url": "https://www.soompi.com/article/1603406wpp/newjeans-achieves-2nd-highest-1st-week-sales-of-any-female-artist-in-hanteo-history-with-get-up",
+   "record": "record-2023-07-27-get-up-first-week-hanteo-1-65m",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-07-28-get-up-uk-albums-15-super-shy-52",
+   "date": "2023-07-28",
+   "title": "Get Up debuts at No. 15 on the UK Official Albums Chart; Super Shy peaks at No. 52",
+   "url": "https://www.officialcharts.com/albums/newjeans-2nd-ep-get-up/",
+   "record": "record-2023-07-28-get-up-uk-albums-15-super-shy-52",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-07-31-spotify-2-billion-streams",
+   "date": "2023-07-31",
+   "title": "NewJeans surpass 2 billion cumulative Spotify streams about a year after debut",
+   "url": "https://www.kedglobal.com/newsAmp/ked202308010001",
+   "record": "record-2023-07-31-spotify-2-billion-streams",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "kids-choice-awards-mexico-2023-08-01-favorite-k-pop-group",
+   "date": "2023-08-01",
+   "title": "2023 Nickelodeon Mexico Kids' Choice Awards – Favorite K-Pop Group [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; date: month only (nominations June 2023, ceremony August 2023; day unverified)"
+  },
+  {
+   "key": "archive-2023-08-05-cool-with-you-hot-100-debut-93",
+   "date": "2023-08-05",
+   "title": "Cool With You debuts at No. 93 on the Billboard Hot 100",
+   "url": "https://www.billboard.com/charts/hot-100/2023-08-05/",
+   "record": "record-2023-08-05-cool-with-you-hot-100-debut-93",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-08-05-eta-hot-100-debut-81",
+   "date": "2023-08-05",
+   "title": "ETA debuts at No. 81 on the Billboard Hot 100",
+   "url": "https://www.billboard.com/charts/hot-100/2023-08-05/",
+   "record": "record-2023-08-05-eta-hot-100-debut-81",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-08-05-get-up-billboard-200-no1",
+   "date": "2023-08-05",
+   "title": "Get Up debuts at No. 1 on the Billboard 200 with 126,500 units",
+   "url": "https://www.billboard.com/charts/billboard-200/2023-08-05/",
+   "record": "record-2023-08-05-get-up-billboard-200-no1",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-08-05-super-shy-hot-100-peak-48",
+   "date": "2023-08-05",
+   "title": "Super Shy peaks at No. 48 on the Hot 100 as NewJeans chart three songs at once",
+   "url": "https://www.billboard.com/charts/hot-100/2023-08-05/",
+   "record": "record-2023-08-05-super-shy-hot-100-peak-48",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "billboard-world-albums-2023-08-05-get-up-no1",
+   "date": "2023-08-05",
+   "title": "Get Up debuts at No. 1 on Billboard's World Albums chart",
+   "url": "https://en.wikipedia.org/wiki/Get_Up_(EP)",
+   "record": null,
+   "exclude": null,
+   "note": "first of nine weeks at No. 1 (the ninth week is record-2023-10-07-get-up-world-albums-nine-weeks-no1)"
+  },
+  {
+   "key": "k-global-heart-dream-awards-2023-08-10-k-global-best-music-award",
+   "date": "2023-08-10",
+   "title": "2023 K-Global Heart Dream Awards – K-Global Best Music Award",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-08-10-k-global-heart-dream-awards-2023",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "archive-2023-08-12-circle-cert-ditto-streaming-platinum",
+   "date": "2023-08-12",
+   "title": "Circle Chart certification: Ditto certified platinum for 100 million streams",
+   "url": "https://circlechart.kr/page_cert/chart.circle?serviceGbn=S1040",
+   "record": "record-2023-08-12-circle-cert-ditto-streaming-platinum",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-08-15-circle-monthly-july-2023-super-shy",
+   "date": "2023-08-15",
+   "title": "Super Shy earns a triple crown on Circle's monthly charts for July 2023",
+   "url": "https://circlechart.kr/page_chart/onoff.circle?serviceGbn=ALL",
+   "record": "record-2023-08-15-circle-monthly-july-2023-super-shy",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-08-19-hot-100-three-songs-five-weeks",
+   "date": "2023-08-19",
+   "title": "Three NewJeans songs each spend five weeks on the Hot 100, a K-pop girl-group first",
+   "url": "https://www.billboard.com/charts/hot-100/2023-08-19/",
+   "record": "record-2023-08-19-hot-100-three-songs-five-weeks",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-08-23-riaj-omg-platinum",
+   "date": "2023-08-23",
+   "title": "RIAJ streaming certification: OMG certified platinum",
+   "url": "https://www.soompi.com/article/1608970wpp/newjeans-twices-nayeon-blackpink-and-stray-kids-earn-platinum-and-gold-certifications-for-streaming-in-japan",
+   "record": "record-2023-08-23-riaj-omg-platinum",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-08-26-get-up-billboard-200-four-weeks-top-20",
+   "date": "2023-08-26",
+   "title": "Get Up spends a fourth week in the Billboard 200 top 20, a K-pop girl-group first",
+   "url": "https://www.billboard.com/charts/billboard-200/2023-08-26/",
+   "record": "record-2023-08-26-get-up-billboard-200-four-weeks-top-20",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-09-02-super-shy-circle-digital-8-weeks-no1",
+   "date": "2023-09-02",
+   "title": "Super Shy tops the Circle Digital Chart for an eighth consecutive week",
+   "url": "https://circlechart.kr/page_chart/onoff.circle?serviceGbn=ALL",
+   "record": "record-2023-09-02-super-shy-circle-digital-8-weeks-no1",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "circle-certification-2023-09-07-new-jeans-million",
+   "date": "2023-09-07",
+   "title": "Circle certification: New Jeans EP Million",
+   "url": "https://en.wikipedia.org/wiki/New_Jeans_(EP)",
+   "record": "record-2023-09-07-circle-cert-get-up-million-new-jeans-million",
+   "exclude": null,
+   "note": "en Wikipedia certification table gives certyear 2024 / certmonth 9 for this certification (likely 2023)"
+  },
+  {
+   "key": "mtv-vma-2023-09-12-group-of-the-year",
+   "date": "2023-09-12",
+   "title": "2023 MTV Video Music Awards – Group of the Year [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "archive-2023-09-28-riaj-hype-boy-platinum",
+   "date": "2023-09-28",
+   "title": "RIAJ streaming certification: Hype Boy certified platinum",
+   "url": "https://www.soompi.com/article/1616668wpp/le-sserafim-newjeans-stray-kids-bts-seventeen-and-izone-earn-platinum-and-gold-certifications-for-streaming-in-japan",
+   "record": "record-2023-09-28-riaj-hype-boy-platinum",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-09-29-debut-ep-spotify-1-billion",
+   "date": "2023-09-29",
+   "title": "Debut EP New Jeans passes 1 billion cumulative Spotify streams",
+   "url": "https://m.koreaherald.com/article/3225331",
+   "record": "record-2023-09-29-debut-ep-spotify-1-billion",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-10-05-super-shy-mv-100m-views",
+   "date": "2023-10-05",
+   "title": "Super Shy MV hits 100 million YouTube views in 90 days, the group's fastest",
+   "url": "https://www.soompi.com/article/1618016wpp/newjeans-super-shy-becomes-their-fastest-mv-to-hit-100-million-views",
+   "record": "record-2023-10-05-super-shy-mv-100m-views",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-10-07-get-up-world-albums-nine-weeks-no1",
+   "date": "2023-10-07",
+   "title": "Get Up logs a ninth week at No. 1 on Billboard's World Albums chart",
+   "url": "https://www.billboard.com/charts/world-albums/2023-10-07/",
+   "record": "record-2023-10-07-get-up-world-albums-nine-weeks-no1",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "tma-2023-10-10-artist-of-the-year-bonsang",
+   "date": "2023-10-10",
+   "title": "2023 The Fact Music Awards – Artist of the Year (Bonsang)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-10-10-tma-2023-artist-of-the-year-bonsang",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "tma-2023-10-10-best-music-fall-super-shy",
+   "date": "2023-10-10",
+   "title": "2023 The Fact Music Awards – Best Music – Fall (Super Shy) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "tma-2023-10-10-best-music-spring-omg",
+   "date": "2023-10-10",
+   "title": "2023 The Fact Music Awards – Best Music – Spring (OMG) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "tma-2023-10-10-idolplus-popularity-award",
+   "date": "2023-10-10",
+   "title": "2023 The Fact Music Awards – Idolplus Popularity Award [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "tma-2023-10-10-listener-s-choice-award",
+   "date": "2023-10-10",
+   "title": "2023 The Fact Music Awards – Listener's Choice Award",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-10-10-tma-2023-listeners-choice",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "state-honor-2023-10-21-mcst-commendation",
+   "date": "2023-10-21",
+   "title": "Minister of Culture, Sports and Tourism Commendation (2023 Korean Popular Culture and Arts Awards)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-10-21-korea-popular-culture-arts-awards-2023",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "archive-2023-10-28-riaj-super-shy-gold",
+   "date": "2023-10-28",
+   "title": "RIAJ streaming certification: Super Shy certified gold",
+   "url": "https://www.soompi.com/article/1622641wpp/blackpink-btss-jungkook-newjeans-le-sserafim-and-seventeen-earn-platinum-and-gold-certifications-for-streaming-in-japan",
+   "record": "record-2023-10-28-riaj-super-shy-gold",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "mtv-vmaj-2023-10-28-best-buzz-award",
+   "date": "2023-10-28",
+   "title": "2023 MTV Video Music Awards Japan – Best Buzz Award",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-10-28-mtv-vmaj-2023-best-buzz",
+   "exclude": null,
+   "note": "ja Wikipedia gives 2023-10-27"
+  },
+  {
+   "key": "archive-2023-11-04-get-up-billboard-200-14-weeks-top-100",
+   "date": "2023-11-04",
+   "title": "Get Up spends a 14th week in the Billboard 200 top 100",
+   "url": "https://www.billboard.com/charts/billboard-200/2023-11-04/",
+   "record": "record-2023-11-04-get-up-billboard-200-14-weeks-top-100",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "mtv-ema-2023-11-05-best-group",
+   "date": "2023-11-05",
+   "title": "2023 MTV Europe Music Awards – Best Group [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; 2023 EMA ceremony was cancelled; date is the planned ceremony date"
+  },
+  {
+   "key": "mtv-ema-2023-11-05-best-k-pop",
+   "date": "2023-11-05",
+   "title": "2023 MTV Europe Music Awards – Best K-Pop [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; 2023 EMA ceremony was cancelled; date is the planned ceremony date"
+  },
+  {
+   "key": "archive-2023-11-07-spotify-3-billion-streams",
+   "date": "2023-11-07",
+   "title": "NewJeans pass 3 billion cumulative Spotify streams",
+   "url": "https://www.tenasia.com/amp/2023110945864",
+   "record": "record-2023-11-07-spotify-3-billion-streams",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "bbma-2023-11-19-top-billboard-global-excl-u-s-artist",
+   "date": "2023-11-19",
+   "title": "2023 Billboard Music Awards – Top Billboard Global (Excl. U.S.) Artist [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "bbma-2023-11-19-top-global-k-pop-album-get-up",
+   "date": "2023-11-19",
+   "title": "2023 Billboard Music Awards – Top Global K-Pop Album (Get Up) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "bbma-2023-11-19-top-global-k-pop-artist",
+   "date": "2023-11-19",
+   "title": "2023 Billboard Music Awards – Top Global K-Pop Artist",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-11-19-bbma-2023-top-global-kpop-artist",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "bbma-2023-11-19-top-global-k-pop-song-ditto",
+   "date": "2023-11-19",
+   "title": "2023 Billboard Music Awards – Top Global K-Pop Song (Ditto) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "bbma-2023-11-19-top-global-k-pop-song-omg",
+   "date": "2023-11-19",
+   "title": "2023 Billboard Music Awards – Top Global K-Pop Song (OMG) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "archive-2023-11-21-billboard-2023-year-end-charts",
+   "date": "2023-11-21",
+   "title": "Billboard 2023 year-end charts: Get Up No. 134 on the Billboard 200, OMG No. 41 on the Global 200",
+   "url": "https://www.billboard.com/charts/year-end/2023/billboard-global-200/",
+   "record": "record-2023-11-21-billboard-2023-year-end-charts",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "mama-2023-11-28-album-of-the-year-get-up",
+   "date": "2023-11-28",
+   "title": "2023 MAMA Awards – Album of the Year (Get Up) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2023-11-28/29"
+  },
+  {
+   "key": "mama-2023-11-28-worldwide-fans-choice-top-10",
+   "date": "2023-11-28",
+   "title": "2023 MAMA Awards – Worldwide Fans' Choice Top 10 [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2023-11-28/29"
+  },
+  {
+   "key": "archive-2023-11-29-spotify-wrapped-2023",
+   "date": "2023-11-29",
+   "title": "Spotify's 2023 year-end: NewJeans 4th most-streamed K-pop act, four songs in the K-pop top 10",
+   "url": "https://www.abs-cbn.com/entertainment/12/03/23/bts-blackpink-newjeans-dominate-k-pop-streaming-in-2023-spotify",
+   "record": "record-2023-11-29-spotify-wrapped-2023",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "mama-2023-11-29-artist-of-the-year",
+   "date": "2023-11-29",
+   "title": "2023 MAMA Awards – Artist of the Year",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-11-29-mama-2023-artist-of-the-year",
+   "exclude": null,
+   "note": "ceremony 2023-11-28/29; ja Wikipedia gives the award date as 2023-11-28"
+  },
+  {
+   "key": "mama-2023-11-29-best-dance-performance-female-group-ditto",
+   "date": "2023-11-29",
+   "title": "2023 MAMA Awards – Best Dance Performance Female Group (Ditto)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-11-29-mama-2023-best-dance-performance-female-group-ditto",
+   "exclude": null,
+   "note": "ceremony 2023-11-28/29; ja Wikipedia gives the award date as 2023-11-28"
+  },
+  {
+   "key": "mama-2023-11-29-best-female-group",
+   "date": "2023-11-29",
+   "title": "2023 MAMA Awards – Best Female Group",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-11-29-mama-2023-best-female-group",
+   "exclude": null,
+   "note": "ceremony 2023-11-28/29; ja Wikipedia gives the award date as 2023-11-28"
+  },
+  {
+   "key": "mama-2023-11-29-song-of-the-year-ditto",
+   "date": "2023-11-29",
+   "title": "2023 MAMA Awards – Song of the Year (Ditto)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-11-29-mama-2023-song-of-the-year-ditto",
+   "exclude": null,
+   "note": "ceremony 2023-11-28/29; ja Wikipedia gives the award date as 2023-11-28"
+  },
+  {
+   "key": "archive-2023-12-01-nme-50-best-songs-2023-super-shy",
+   "date": "2023-12-01",
+   "title": "Super Shy ranked No. 2 on NME's 50 Best Songs of 2023",
+   "url": "https://www.nme.com/features/music-features/best-songs-of-2023-3551141",
+   "record": "record-2023-12-01-nme-50-best-songs-2023-super-shy",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-12-01-rolling-stone-100-best-songs-2023-super-shy",
+   "date": "2023-12-01",
+   "title": "Super Shy ranked No. 6 on Rolling Stone's 100 Best Songs of 2023",
+   "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-2023-1234879541/newjeans-super-shy-1234894442/",
+   "record": "record-2023-12-01-rolling-stone-100-best-songs-2023-super-shy",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "riaj-certification-2023-12-01-cookie-gold",
+   "date": "2023-12-01",
+   "title": "RIAJ certification: Cookie Gold (streaming)",
+   "url": "https://en.wikipedia.org/wiki/Cookie_(song)",
+   "record": null,
+   "exclude": null,
+   "note": "RIAJ 2023-11 certification (announced the following month); month precision"
+  },
+  {
+   "key": "mma-2023-12-02-album-of-the-year-get-up",
+   "date": "2023-12-02",
+   "title": "2023 Melon Music Awards – Album of the Year (Get Up) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "mma-2023-12-02-artist-of-the-year",
+   "date": "2023-12-02",
+   "title": "2023 Melon Music Awards – Artist of the Year",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-12-02-mma-2023-artist-of-the-year",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "mma-2023-12-02-best-female-group",
+   "date": "2023-12-02",
+   "title": "2023 Melon Music Awards – Best Female Group",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-12-02-mma-2023-best-group-female",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "mma-2023-12-02-kakao-favorite-star-award",
+   "date": "2023-12-02",
+   "title": "2023 Melon Music Awards – Kakao Favorite Star Award [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "mma-2023-12-02-millions-top-10-artist-get-up",
+   "date": "2023-12-02",
+   "title": "2023 Melon Music Awards – Millions Top 10 Artist (Get Up)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-12-02-mma-2023-millions-top-10-get-up",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "mma-2023-12-02-song-of-the-year-ditto",
+   "date": "2023-12-02",
+   "title": "2023 Melon Music Awards – Song of the Year (Ditto)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-12-02-mma-2023-song-of-the-year-ditto",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "mma-2023-12-02-top-10-artist",
+   "date": "2023-12-02",
+   "title": "2023 Melon Music Awards – Top 10 Artist",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-12-02-mma-2023-top-10",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "archive-2023-12-04-ditto-spotify-500m",
+   "date": "2023-12-04",
+   "title": "Ditto passes 500 million Spotify streams",
+   "url": "https://www.koreaherald.com/view.php?ud=20231204000555",
+   "record": "record-2023-12-04-ditto-spotify-500m",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-12-07-billboard-100-best-songs-2023-super-shy",
+   "date": "2023-12-07",
+   "title": "Super Shy ranked No. 38 on Billboard's 100 Best Songs of 2023",
+   "url": "https://www.billboard.com/lists/best-songs-2023/",
+   "record": "record-2023-12-07-billboard-100-best-songs-2023-super-shy",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "aaa-2023-12-14-asia-celebrity-award",
+   "date": "2023-12-14",
+   "title": "2023 Asia Artist Awards – Asia Celebrity Award",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-12-14-aaa-2023-asia-celebrity-award",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "aaa-2023-12-14-best-choice-award",
+   "date": "2023-12-14",
+   "title": "2023 Asia Artist Awards – Best Choice Award",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-12-14-aaa-2023-best-choice-award",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "aaa-2023-12-14-fabulous-award",
+   "date": "2023-12-14",
+   "title": "2023 Asia Artist Awards – Fabulous Award",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-12-14-aaa-2023-fabulous-award",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "aaa-2023-12-14-hot-trend-award",
+   "date": "2023-12-14",
+   "title": "2023 Asia Artist Awards – Hot Trend Award",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-12-14-aaa-2023-hot-trend-award",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "aaa-2023-12-14-popularity-award-singer-female",
+   "date": "2023-12-14",
+   "title": "2023 Asia Artist Awards – Popularity Award – Singer (Female) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "aaa-2023-12-14-singer-of-the-year-daesang",
+   "date": "2023-12-14",
+   "title": "2023 Asia Artist Awards – Singer of the Year (Daesang)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-12-14-aaa-2023-singer-of-the-year",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "aaa-2023-12-14-song-of-the-year-daesang-ditto",
+   "date": "2023-12-14",
+   "title": "2023 Asia Artist Awards – Song of the Year (Daesang) (Ditto)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-12-14-aaa-2023-song-of-the-year-ditto",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "seoul-tourism-awards-2023-12-20-hallyu-star-award",
+   "date": "2023-12-20",
+   "title": "2023 Seoul Tourism Awards – Hallyu Star Award",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-12-20-seoul-tourism-awards-2023-hallyu-star",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "asian-pop-music-awards-2023-12-27-best-group-overseas",
+   "date": "2023-12-27",
+   "title": "2023 Asian Pop Music Awards – Best Group (Overseas)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-12-27-asian-pop-music-awards-2023-best-group-overseas",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "asian-pop-music-awards-2023-12-27-song-of-the-year-overseas-super-shy",
+   "date": "2023-12-27",
+   "title": "2023 Asian Pop Music Awards – Song of the Year (Overseas) (Super Shy) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "asian-pop-music-awards-2023-12-27-top-20-albums-of-the-year-overseas-get-up",
+   "date": "2023-12-27",
+   "title": "2023 Asian Pop Music Awards – Top 20 Albums of the Year (Overseas) (Get Up)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-12-27-asian-pop-music-awards-2023-top-20-get-up-super-shy",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "asian-pop-music-awards-2023-12-27-top-20-songs-of-the-year-overseas-super-shy",
+   "date": "2023-12-27",
+   "title": "2023 Asian Pop Music Awards – Top 20 Songs of the Year (Overseas) (Super Shy)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-12-27-asian-pop-music-awards-2023-top-20-get-up-super-shy",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "archive-2023-12-29-circle-2023-album-sales-top-female-act",
+   "date": "2023-12-29",
+   "title": "Circle Chart review: NewJeans top K-pop female act in 2023 album sales with 4,399,019 copies",
+   "url": "https://circlechart.kr/page_article/view.circle?sgenre=opinion&idx=23345",
+   "record": "record-2023-12-29-circle-2023-album-sales-top-female-act",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2023-12-29-omg-mv-200m-views",
+   "date": "2023-12-29",
+   "title": "OMG (Performance ver.1) MV passes 200 million YouTube views, the group's first",
+   "url": "https://www.soompi.com/article/1634043wpp/newjeans-omg-becomes-their-1st-mv-to-hit-200-million-views",
+   "record": "record-2023-12-29-omg-mv-200m-views",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "japan-record-awards-2023-12-30-excellent-work-award-songs-of-the-year-ditto",
+   "date": "2023-12-30",
+   "title": "2023 Japan Record Awards – Excellent Work Award (Songs of the Year) (Ditto)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-12-30-japan-record-awards-65-excellent-work-ditto",
+   "exclude": null,
+   "note": "ja Wikipedia dates the award announcement 2023-11-22; ceremony 2023-12-30"
+  },
+  {
+   "key": "japan-record-awards-2023-12-30-grand-prix-ditto",
+   "date": "2023-12-30",
+   "title": "2023 Japan Record Awards – Grand Prix (Ditto) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "japan-record-awards-2023-12-30-special-achievement-award",
+   "date": "2023-12-30",
+   "title": "2023 Japan Record Awards – Special Achievement Award",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2023-12-30-japan-record-awards-65-special-award",
+   "exclude": null,
+   "note": "ja Wikipedia dates the award announcement 2023-11-22; ceremony 2023-12-30"
+  },
+  {
+   "key": "circle-certification-2024-01-01-new-jeans-weverse-2x-platinum",
+   "date": "2024-01-01",
+   "title": "Circle certification: New Jeans (Weverse) 2x Platinum",
+   "url": "https://en.wikipedia.org/wiki/New_Jeans_(EP)",
+   "record": null,
+   "exclude": null,
+   "note": "date: year only (certyear 2024)"
+  },
+  {
+   "key": "circle-certification-2024-01-01-omg-streaming-platinum",
+   "date": "2024-01-01",
+   "title": "Circle certification: OMG streaming Platinum",
+   "url": "https://en.wikipedia.org/wiki/OMG_(NewJeans_song)",
+   "record": null,
+   "exclude": null,
+   "note": "month precision (January 2024)"
+  },
+  {
+   "key": "rmnz-certification-2024-01-01-attention-gold",
+   "date": "2024-01-01",
+   "title": "RMNZ certification: Attention Gold (NZ)",
+   "url": "https://en.wikipedia.org/wiki/Attention_(NewJeans_song)",
+   "record": null,
+   "exclude": null,
+   "note": "date: year only"
+  },
+  {
+   "key": "sma-2024-01-02-best-song-award-omg",
+   "date": "2024-01-02",
+   "title": "2024 Seoul Music Awards – Best Song Award (OMG)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-01-02-sma-33-best-song-omg",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "sma-2024-01-02-bonsang-award",
+   "date": "2024-01-02",
+   "title": "2024 Seoul Music Awards – Bonsang Award",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-01-02-sma-33-bonsang",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "sma-2024-01-02-daesang-award",
+   "date": "2024-01-02",
+   "title": "2024 Seoul Music Awards – Daesang Award [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "sma-2024-01-02-hallyu-special-award",
+   "date": "2024-01-02",
+   "title": "2024 Seoul Music Awards – Hallyu Special Award [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "sma-2024-01-02-popularity-award",
+   "date": "2024-01-02",
+   "title": "2024 Seoul Music Awards – Popularity Award [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "archive-2024-01-05-super-shy-spotify-400m",
+   "date": "2024-01-05",
+   "title": "Super Shy passes 400 million Spotify streams",
+   "url": "https://www.koreaherald.com/view.php?ud=20240105000596",
+   "record": "record-2024-01-05-super-shy-spotify-400m",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "gda-2024-01-06-digital-daesang-ditto",
+   "date": "2024-01-06",
+   "title": "2024 Golden Disc Awards – Digital Daesang (Ditto)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-01-06-gda-38-digital-daesang-ditto",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "gda-2024-01-06-digital-song-bonsang-ditto",
+   "date": "2024-01-06",
+   "title": "2024 Golden Disc Awards – Digital Song Bonsang (Ditto)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-01-06-gda-38-digital-song-bonsang",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "archive-2024-01-08-melon-2023-annual-chart-ditto-no1",
+   "date": "2024-01-08",
+   "title": "Ditto tops Melon's 2023 annual chart; four NewJeans songs in the top 10",
+   "url": "https://www.melon.com/chart/age/index.htm?chartType=YE&chartGenre=KPOP&chartDate=2023",
+   "record": "record-2024-01-08-melon-2023-annual-chart-ditto-no1",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "ccma-2024-01-10-artist-of-the-year-digital-ditto",
+   "date": "2024-01-10",
+   "title": "2024 Circle Chart Music Awards – Artist of the Year – Digital (Ditto)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-01-10-ccma-2023-artist-of-the-year-digital-ditto",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "ccma-2024-01-10-artist-of-the-year-global-streaming-super-shy",
+   "date": "2024-01-10",
+   "title": "2024 Circle Chart Music Awards – Artist of the Year – Global Streaming (Super Shy)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-01-10-ccma-2023-artist-of-the-year-global-streaming-super-shy",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "ccma-2024-01-10-artist-of-the-year-streaming-unique-listeners-ditto",
+   "date": "2024-01-10",
+   "title": "2024 Circle Chart Music Awards – Artist of the Year – Streaming Unique Listeners (Ditto)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-01-10-ccma-2023-artist-of-the-year-unique-listeners-ditto",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "ccma-2024-01-10-music-steady-seller-of-the-year-hype-boy",
+   "date": "2024-01-10",
+   "title": "2024 Circle Chart Music Awards – Music Steady Seller of the Year (Hype Boy)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-01-10-ccma-2023-music-steady-seller-hype-boy",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "clio-music-awards-2024-01-11-music-videos-ditto",
+   "date": "2024-01-11",
+   "title": "2024 Clio Music Awards – Music Videos (Ditto) [shortlisted]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination (shortlisted); date from ja Wikipedia (2024-01-11)"
+  },
+  {
+   "key": "clio-music-awards-2024-01-11-silver-youtube-imsupershy",
+   "date": "2024-01-11",
+   "title": "2024 Clio Music Awards – Silver for YouTube '#ImSuperShy' campaign",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "listed on ja Wikipedia only"
+  },
+  {
+   "key": "hanteo-music-awards-2024-02-18-artist-of-the-year-bonsang",
+   "date": "2024-02-18",
+   "title": "2024 Hanteo Music Awards – Artist of the Year (Bonsang)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-02-18-hanteo-music-awards-31-artist-of-the-year-bonsang",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "hanteo-music-awards-2024-02-18-whosfandom-award",
+   "date": "2024-02-18",
+   "title": "2024 Hanteo Music Awards – WhosFandom Award [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "archive-2024-02-21-ifpi-global-artist-chart-2023-no8",
+   "date": "2024-02-21",
+   "title": "No. 8 on IFPI's 2023 Global Artist Chart, the top girl group",
+   "url": "https://www.ifpi.org/taylor-swift-named-ifpis-global-recording-artist-of-the-year/",
+   "record": "record-2024-02-21-ifpi-global-artist-chart-2023-no8",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "kma-2024-02-29-album-of-the-year-get-up",
+   "date": "2024-02-29",
+   "title": "2024 Korean Music Awards – Album of the Year (Get Up) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "kma-2024-02-29-best-k-pop-album-get-up",
+   "date": "2024-02-29",
+   "title": "2024 Korean Music Awards – Best K-pop Album (Get Up)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-02-29-kma-21-best-kpop-album-get-up",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "kma-2024-02-29-best-k-pop-song-ditto",
+   "date": "2024-02-29",
+   "title": "2024 Korean Music Awards – Best K-pop Song (Ditto)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-02-29-kma-21-best-kpop-song-ditto",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "kma-2024-02-29-musician-of-the-year",
+   "date": "2024-02-29",
+   "title": "2024 Korean Music Awards – Musician of the Year [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "kma-2024-02-29-song-of-the-year-ditto",
+   "date": "2024-02-29",
+   "title": "2024 Korean Music Awards – Song of the Year (Ditto)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-02-29-kma-21-song-of-the-year-ditto",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "billboard-women-in-music-2024-03-06-group-of-the-year",
+   "date": "2024-03-06",
+   "title": "2024 Billboard Women in Music – Group of the Year",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-03-06-billboard-women-in-music-2024-group-of-the-year",
+   "exclude": null,
+   "note": "ja Wikipedia gives 2024-03-08"
+  },
+  {
+   "key": "japan-gold-disc-award-2024-03-12-best-3-new-artists-asia",
+   "date": "2024-03-12",
+   "title": "2024 Japan Gold Disc Awards – Best 3 New Artists – Asia",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-03-12-japan-gold-disc-award-38-best-3-new-artists-asia",
+   "exclude": null,
+   "note": "ja Wikipedia gives 2024-03-13"
+  },
+  {
+   "key": "japan-gold-disc-award-2024-03-12-song-of-the-year-by-streaming-asia-omg",
+   "date": "2024-03-12",
+   "title": "2024 Japan Gold Disc Awards – Song of the Year by Streaming – Asia (OMG)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-03-12-japan-gold-disc-award-38-song-of-the-year-by-streaming-omg",
+   "exclude": null,
+   "note": "ja Wikipedia gives 2024-03-13"
+  },
+  {
+   "key": "spikes-asia-2024-03-18-brand-or-product-integration-into-music-content-eta",
+   "date": "2024-03-18",
+   "title": "2024 Spikes Asia Awards – Brand or Product Integration into Music Content (ETA) [Bronze]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "date from ja Wikipedia (2024-03-18)"
+  },
+  {
+   "key": "spikes-asia-2024-03-18-brand-or-product-integration-into-music-content-zero",
+   "date": "2024-03-18",
+   "title": "2024 Spikes Asia Awards – Brand or Product Integration into Music Content (Zero) [shortlisted]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination (shortlisted); date from ja Wikipedia (2024-03-18)"
+  },
+  {
+   "key": "iheartradio-music-awards-2024-04-01-best-new-k-pop-artist",
+   "date": "2024-04-01",
+   "title": "2024 iHeartRadio Music Awards – Best New K-pop Artist",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-04-01-iheartradio-music-awards-2024-best-new-artist-kpop",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "iheartradio-music-awards-2024-04-01-k-pop-song-of-the-year-super-shy",
+   "date": "2024-04-01",
+   "title": "2024 iHeartRadio Music Awards – K-pop Song of the Year (Super Shy) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "forbes-korea-power-celebrity-40-2024-04-24-3rd",
+   "date": "2024-04-24",
+   "title": "Forbes Korea Power Celebrity 40 (2024) – 3rd",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-04-24-forbes-korea-power-celebrity-40-2024",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "archive-2024-05-24-how-sweet-first-day-hanteo-800k",
+   "date": "2024-05-24",
+   "title": "How Sweet sells over 800,000 copies on day one on Hanteo",
+   "url": "https://www.koreatimes.co.kr/www/art/2024/05/398_375333.html",
+   "record": "record-2024-05-24-how-sweet-first-day-hanteo-800k",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2024-05-25-how-sweet-circle-album-weekly-no1",
+   "date": "2024-05-25",
+   "title": "How Sweet debuts at No. 1 on the Circle Album Chart",
+   "url": "https://circlechart.kr/page_chart/album.circle",
+   "record": "record-2024-05-25-how-sweet-circle-album-weekly-no1",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2024-05-30-how-sweet-first-week-hanteo-884k",
+   "date": "2024-05-30",
+   "title": "How Sweet logs 884,717 first-week sales on Hanteo",
+   "url": "https://v.daum.net/v/20240606174916614",
+   "record": "record-2024-05-30-how-sweet-first-week-hanteo-884k",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "billboard-21-under-21-2024-05-31",
+   "date": "2024-05-31",
+   "title": "Billboard 21 Under 21 (2024)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-05-31-billboard-21-under-21-2024",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "riaj-certification-2024-06-01-eta-platinum",
+   "date": "2024-06-01",
+   "title": "RIAJ certification: ETA Platinum (streaming)",
+   "url": "https://en.wikipedia.org/wiki/ETA_(song)",
+   "record": null,
+   "exclude": null,
+   "note": "RIAJ 2024-05 certification (announced the following month); month precision"
+  },
+  {
+   "key": "riaj-certification-2024-06-01-super-shy-platinum",
+   "date": "2024-06-01",
+   "title": "RIAJ certification: Super Shy Platinum (streaming)",
+   "url": "https://en.wikipedia.org/wiki/Super_Shy",
+   "record": null,
+   "exclude": null,
+   "note": "RIAJ 2024-05 certification (announced the following month); month precision"
+  },
+  {
+   "key": "archive-2024-06-08-how-sweet-global-200-debut-15",
+   "date": "2024-06-08",
+   "title": "How Sweet debuts at No. 15 on the Billboard Global 200",
+   "url": "https://www.billboard.com/charts/billboard-global-200/2024-06-08/",
+   "record": "record-2024-06-08-how-sweet-global-200-debut-15",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2024-06-08-how-sweet-million-seller-circle",
+   "date": "2024-06-08",
+   "title": "How Sweet passes one million copies on Circle Chart, a fourth straight million-seller",
+   "url": "https://circlechart.kr/page_chart/album.circle?termGbn=month",
+   "record": "record-2024-06-08-how-sweet-million-seller-circle",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2024-06-21-supernatural-oricon-daily-no1",
+   "date": "2024-06-21",
+   "title": "Supernatural tops Oricon's Daily Singles Ranking on its Japanese release day",
+   "url": "https://www.koreajoongangdaily.com/entertainment/newjeans-tops-japans-oricon-chart-with-supernatural/12394400",
+   "record": "record-2024-06-21-supernatural-oricon-daily-no1",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2024-06-22-supernatural-circle-album-weekly-no1",
+   "date": "2024-06-22",
+   "title": "Supernatural debuts at No. 1 on the Circle Album Chart",
+   "url": "https://circlechart.kr/page_chart/album.circle",
+   "record": "record-2024-06-22-supernatural-circle-album-weekly-no1",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "riaj-certification-2024-07-01-supernatural-physical-gold",
+   "date": "2024-07-01",
+   "title": "RIAJ certification: Supernatural Gold (physical single)",
+   "url": "https://en.wikipedia.org/wiki/Supernatural_(NewJeans_song)",
+   "record": null,
+   "exclude": null,
+   "note": "RIAJ 2024-06 certification (announced the following month); month precision"
+  },
+  {
+   "key": "archive-2024-07-06-supernatural-global-200-debut-25",
+   "date": "2024-07-06",
+   "title": "Supernatural debuts at No. 25 on the Billboard Global 200 and No. 2 on World Digital Song Sales",
+   "url": "https://www.billboard.com/charts/billboard-global-200/2024-07-06/",
+   "record": "record-2024-07-06-supernatural-global-200-debut-25",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2024-07-11-supernatural-million-seller-circle",
+   "date": "2024-07-11",
+   "title": "Supernatural passes one million copies on Circle's June chart, a fifth straight million-seller",
+   "url": "https://circlechart.kr/page_chart/album.circle?termGbn=month",
+   "record": "record-2024-07-11-supernatural-million-seller-circle",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2024-07-23-super-shy-mv-200m-views",
+   "date": "2024-07-23",
+   "title": "Super Shy MV passes 200 million YouTube views, the group's second",
+   "url": "https://www.soompi.com/article/1676541wpp/newjeans-super-shy-becomes-their-2nd-mv-to-hit-200-million-views",
+   "record": "record-2024-07-23-super-shy-mv-200m-views",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "riaj-certification-2024-08-01-new-jeans-song-gold",
+   "date": "2024-08-01",
+   "title": "RIAJ certification: New Jeans (song) Gold (streaming)",
+   "url": "https://en.wikipedia.org/wiki/New_Jeans_(song)",
+   "record": null,
+   "exclude": null,
+   "note": "RIAJ 2024-07 certification (announced the following month); month precision"
+  },
+  {
+   "key": "archive-2024-08-08-circle-cert-supernatural-triple-platinum-super-shy-streaming-platinum",
+   "date": "2024-08-08",
+   "title": "Circle Chart certification: Supernatural triple platinum, Super Shy streaming platinum",
+   "url": "https://circlechart.kr/page_cert/chart.circle?serviceGbn=S1040",
+   "record": "record-2024-08-08-circle-cert-supernatural-triple-platinum-super-shy-streaming-platinum",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "variety-young-hollywood-impact-report-2024-08-08",
+   "date": "2024-08-08",
+   "title": "Variety Young Hollywood Impact Report (2024)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-08-08-variety-young-hollywood-impact-report-2024",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "archive-2024-08-13-cookie-mv-100m-views",
+   "date": "2024-08-13",
+   "title": "Cookie MV passes 100 million YouTube views",
+   "url": "https://www.soompi.com/article/1681245wpp/newjeans-cookie-becomes-their-4th-mv-to-hit-100-million-views",
+   "record": "record-2024-08-13-cookie-mv-100m-views",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "esports-awards-2024-08-24-content-of-the-year-gods",
+   "date": "2024-08-24",
+   "title": "2024 Esports Awards – Content of the Year (Gods)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-08-24-esports-awards-2024-content-of-the-year-gods",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "archive-2024-09-02-spotify-5-billion-streams",
+   "date": "2024-09-02",
+   "title": "NewJeans pass 5 billion cumulative Spotify streams",
+   "url": "http://www.kedglobal.com/newsView/ked202409020001",
+   "record": "record-2024-09-02-spotify-5-billion-streams",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "tma-2024-09-08-artist-of-the-year-bonsang",
+   "date": "2024-09-08",
+   "title": "2024 The Fact Music Awards – Artist of the Year (Bonsang)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-09-08-tma-2024-artist-of-the-year-bonsang",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "tma-2024-09-08-musinsa-popularity-award",
+   "date": "2024-09-08",
+   "title": "2024 The Fact Music Awards – Musinsa Popularity Award",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-09-08-tma-2024-musinsa-popularity-award",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "tma-2024-09-08-tma-popularity-award",
+   "date": "2024-09-08",
+   "title": "2024 The Fact Music Awards – TMA Popularity Award",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "tma-2024-09-08-world-best-performer-award",
+   "date": "2024-09-08",
+   "title": "2024 The Fact Music Awards – World Best Performer Award",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-09-08-tma-2024-world-best-performer",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "tma-2024-09-08-worldwide-icon-award",
+   "date": "2024-09-08",
+   "title": "2024 The Fact Music Awards – Worldwide Icon Award",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-09-08-tma-2024-worldwide-icon",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "mtv-vma-2024-09-11-best-group",
+   "date": "2024-09-11",
+   "title": "2024 MTV Video Music Awards – Best Group [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "mtv-vma-2024-09-11-best-k-pop-super-shy",
+   "date": "2024-09-11",
+   "title": "2024 MTV Video Music Awards – Best K-Pop (Super Shy) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "archive-2024-09-12-circle-cert-supernatural-million",
+   "date": "2024-09-12",
+   "title": "Circle Chart certification: Supernatural certified million",
+   "url": "https://circlechart.kr/page_cert/chart.circle?serviceGbn=ALBUM",
+   "record": "record-2024-09-12-circle-cert-supernatural-million",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2024-09-29-riaj-omg-double-platinum-attention-platinum",
+   "date": "2024-09-29",
+   "title": "RIAJ streaming certification: OMG double platinum, Attention platinum",
+   "url": "https://soompi.com/article/1691593wpp/newjeans-jungkook-aespa-ive-g-dragon-le-sserafim-bts-and-treasure-earn-riaj-platinum-and-gold-certifications-in-japan",
+   "record": "record-2024-09-29-riaj-omg-double-platinum-attention-platinum",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "circle-certification-2024-10-01-how-sweet-weverse-platinum",
+   "date": "2024-10-01",
+   "title": "Circle certification: How Sweet (Weverse) Platinum",
+   "url": "https://en.wikipedia.org/wiki/How_Sweet",
+   "record": null,
+   "exclude": null,
+   "note": "month precision (October 2024)"
+  },
+  {
+   "key": "edaily-culture-awards-2024-10-25-frontier-award",
+   "date": "2024-10-25",
+   "title": "2024 Edaily Culture Awards – Frontier Award",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-10-25-edaily-culture-awards-11-frontier-award",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "archive-2024-10-29-hype-boy-spotify-600m",
+   "date": "2024-10-29",
+   "title": "Hype Boy passes 600 million Spotify streams",
+   "url": "https://www.koreaherald.com/view.php?ud=20241029050654",
+   "record": "record-2024-10-29-hype-boy-spotify-600m",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "circle-certification-2024-11-01-eta-streaming-platinum",
+   "date": "2024-11-01",
+   "title": "Circle certification: ETA streaming Platinum",
+   "url": "https://en.wikipedia.org/wiki/ETA_(song)",
+   "record": null,
+   "exclude": null,
+   "note": "month precision (November 2024)"
+  },
+  {
+   "key": "mtv-ema-2024-11-10-best-k-pop",
+   "date": "2024-11-10",
+   "title": "2024 MTV Europe Music Awards – Best K-Pop [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "archive-2024-11-13-hype-boy-mv-200m-views",
+   "date": "2024-11-13",
+   "title": "Hype Boy (Performance ver.1) MV passes 200 million YouTube views, the group's third",
+   "url": "https://www.soompi.com/article/1702743wpp/newjeans-hype-boy-becomes-their-3rd-mv-to-hit-200-million-views",
+   "record": "record-2024-11-13-hype-boy-mv-200m-views",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "kgma-2024-11-16-best-artist",
+   "date": "2024-11-16",
+   "title": "2024 Korea Grand Music Awards – Best Artist",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-11-16-kgma-2024-best-artist",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "kgma-2024-11-16-best-song-super-shy",
+   "date": "2024-11-16",
+   "title": "2024 Korea Grand Music Awards – Best Song (Super Shy) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "kgma-2024-11-16-grand-artist-daesang",
+   "date": "2024-11-16",
+   "title": "2024 Korea Grand Music Awards – Grand Artist (Daesang)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-11-16-kgma-2024-grand-artist-daesang",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "kgma-2024-11-16-trend-of-the-year-k-pop-group",
+   "date": "2024-11-16",
+   "title": "2024 Korea Grand Music Awards – Trend of the Year – K-pop Group [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "mama-2024-11-21-artist-of-the-year",
+   "date": "2024-11-21",
+   "title": "2024 MAMA Awards – Artist of the Year [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2024-11-21/23"
+  },
+  {
+   "key": "mama-2024-11-21-best-choreography-supernatural",
+   "date": "2024-11-21",
+   "title": "2024 MAMA Awards – Best Choreography (Supernatural) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2024-11-21/23"
+  },
+  {
+   "key": "mama-2024-11-21-best-dance-performance-female-group-how-sweet",
+   "date": "2024-11-21",
+   "title": "2024 MAMA Awards – Best Dance Performance – Female Group (How Sweet) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2024-11-21/23"
+  },
+  {
+   "key": "mama-2024-11-21-best-female-group",
+   "date": "2024-11-21",
+   "title": "2024 MAMA Awards – Best Female Group [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2024-11-21/23"
+  },
+  {
+   "key": "mama-2024-11-21-fans-choice-of-the-year",
+   "date": "2024-11-21",
+   "title": "2024 MAMA Awards – Fans' Choice of the Year [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2024-11-21/23"
+  },
+  {
+   "key": "mama-2024-11-21-song-of-the-year-how-sweet",
+   "date": "2024-11-21",
+   "title": "2024 MAMA Awards – Song of the Year (How Sweet) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2024-11-21/23"
+  },
+  {
+   "key": "mama-2024-11-21-song-of-the-year-supernatural",
+   "date": "2024-11-21",
+   "title": "2024 MAMA Awards – Song of the Year (Supernatural) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2024-11-21/23"
+  },
+  {
+   "key": "mama-2024-11-22-fans-choice-female",
+   "date": "2024-11-22",
+   "title": "2024 MAMA Awards – Fans' Choice Female",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-11-22-mama-2024-fans-choice-top-10-female",
+   "exclude": null,
+   "note": "ceremony 2024-11-21/23"
+  },
+  {
+   "key": "mma-2024-11-30-artist-of-the-year",
+   "date": "2024-11-30",
+   "title": "2024 Melon Music Awards – Artist of the Year [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "mma-2024-11-30-best-female-group",
+   "date": "2024-11-30",
+   "title": "2024 Melon Music Awards – Best Female Group [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "mma-2024-11-30-kakao-bank-everyone-s-star",
+   "date": "2024-11-30",
+   "title": "2024 Melon Music Awards – Kakao Bank Everyone's Star [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "mma-2024-11-30-millions-top-10-artist",
+   "date": "2024-11-30",
+   "title": "2024 Melon Music Awards – Millions Top 10 Artist",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-11-30-mma-2024-millions-top-10-how-sweet",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "mma-2024-11-30-top-10-artist",
+   "date": "2024-11-30",
+   "title": "2024 Melon Music Awards – Top 10 Artist",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-11-30-mma-2024-top-10",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "riaj-certification-2024-12-01-how-sweet-gold",
+   "date": "2024-12-01",
+   "title": "RIAJ certification: How Sweet Gold (streaming)",
+   "url": "https://en.wikipedia.org/wiki/How_Sweet",
+   "record": null,
+   "exclude": null,
+   "note": "RIAJ 2024-11 certification (announced the following month); month precision"
+  },
+  {
+   "key": "archive-2024-12-03-rolling-stone-100-best-songs-2024-how-sweet",
+   "date": "2024-12-03",
+   "title": "How Sweet ranked No. 35 on Rolling Stone's 100 Best Songs of 2024",
+   "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-2024-1235163675/new-jeans-how-sweet-1235163977/",
+   "record": "record-2024-12-03-rolling-stone-100-best-songs-2024-how-sweet",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "aaa-2024-12-27-artist-of-the-year-music-daesang",
+   "date": "2024-12-27",
+   "title": "2024 Asia Artist Awards – Artist of the Year – Music (Daesang)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-12-27-aaa-2024-artist-of-the-year-daesang",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "aaa-2024-12-27-best-artist-award-music",
+   "date": "2024-12-27",
+   "title": "2024 Asia Artist Awards – Best Artist Award – Music",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-12-27-aaa-2024-best-artist-award",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "aaa-2024-12-27-best-performance-how-sweet",
+   "date": "2024-12-27",
+   "title": "2024 Asia Artist Awards – Best Performance (How Sweet)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-12-27-aaa-2024-best-performance-how-sweet",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "japan-record-awards-2024-12-30-excellent-work-award-songs-of-the-year-supernatural",
+   "date": "2024-12-30",
+   "title": "2024 Japan Record Awards – Excellent Work Award (Songs of the Year) (Supernatural)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2024-12-30-japan-record-awards-66-excellent-work-supernatural",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "japan-record-awards-2024-12-30-grand-prix-supernatural",
+   "date": "2024-12-30",
+   "title": "2024 Japan Record Awards – Grand Prix (Supernatural) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "forbes-korea-k-idol-of-the-year-2025-01-01-10th",
+   "date": "2025-01-01",
+   "title": "Forbes Korea K-Idol of the Year 30 (2025) – 10th",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "date: year only"
+  },
+  {
+   "key": "rmnz-certification-2025-01-01-eta-gold",
+   "date": "2025-01-01",
+   "title": "RMNZ certification: ETA Gold (NZ)",
+   "url": "https://en.wikipedia.org/wiki/ETA_(song)",
+   "record": null,
+   "exclude": null,
+   "note": "date: year only"
+  },
+  {
+   "key": "rmnz-certification-2025-01-01-omg-platinum",
+   "date": "2025-01-01",
+   "title": "RMNZ certification: OMG Platinum (NZ)",
+   "url": "https://en.wikipedia.org/wiki/OMG_(NewJeans_song)",
+   "record": null,
+   "exclude": null,
+   "note": "date: year only"
+  },
+  {
+   "key": "rmnz-certification-2025-01-01-super-shy-platinum",
+   "date": "2025-01-01",
+   "title": "RMNZ certification: Super Shy Platinum (NZ)",
+   "url": "https://en.wikipedia.org/wiki/Super_Shy",
+   "record": null,
+   "exclude": null,
+   "note": "date: year only"
+  },
+  {
+   "key": "archive-2025-01-04-gda-39-cosmopolitan-artist-award",
+   "date": "2025-01-04",
+   "title": "Cosmopolitan Artist Award at the 39th Golden Disc Awards",
+   "url": "https://isplus.com/article/view/isp202501060142",
+   "record": "record-2025-01-04-gda-39-cosmopolitan-artist-award",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2025-01-04-gda-39-digital-song-bonsang-how-sweet",
+   "date": "2025-01-04",
+   "title": "Digital Song Bonsang for How Sweet at the 39th Golden Disc Awards",
+   "url": "https://isplus.com/article/view/isp202501060142",
+   "record": "record-2025-01-04-gda-39-digital-song-bonsang-how-sweet",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2025-01-07-omg-mv-300m-views",
+   "date": "2025-01-07",
+   "title": "OMG MV passes 300 million YouTube views, the group's first",
+   "url": "https://www.soompi.com/article/1714617wpp/newjeans-omg-performance-ver-1-becomes-their-1st-mv-to-surpass-300-million-views",
+   "record": "record-2025-01-07-omg-mv-300m-views",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2025-02-02-riaj-supernatural-streaming-gold",
+   "date": "2025-02-02",
+   "title": "RIAJ streaming certification: Supernatural certified gold",
+   "url": "https://www.soompi.com/article/1719747wpp/twice-aespa-newjeans-seventeen-and-bigbang-earn-riaj-platinum-and-gold-certifications-for-streaming-in-japan",
+   "record": "record-2025-02-02-riaj-supernatural-streaming-gold",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "hanteo-music-awards-2025-02-15-artist-of-the-year-bonsang",
+   "date": "2025-02-15",
+   "title": "2025 Hanteo Music Awards – Artist of the Year (Bonsang)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2025-02-15-hanteo-music-awards-32-artist-of-the-year-bonsang",
+   "exclude": null,
+   "note": "ceremony 2025-02-15/16"
+  },
+  {
+   "key": "hanteo-music-awards-2025-02-15-global-artist-africa",
+   "date": "2025-02-15",
+   "title": "2025 Hanteo Music Awards – Global Artist – Africa [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2025-02-15/16"
+  },
+  {
+   "key": "hanteo-music-awards-2025-02-15-global-artist-asia",
+   "date": "2025-02-15",
+   "title": "2025 Hanteo Music Awards – Global Artist – Asia [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2025-02-15/16"
+  },
+  {
+   "key": "hanteo-music-awards-2025-02-15-global-artist-europe",
+   "date": "2025-02-15",
+   "title": "2025 Hanteo Music Awards – Global Artist – Europe [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2025-02-15/16"
+  },
+  {
+   "key": "hanteo-music-awards-2025-02-15-global-artist-north-america",
+   "date": "2025-02-15",
+   "title": "2025 Hanteo Music Awards – Global Artist – North America [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2025-02-15/16"
+  },
+  {
+   "key": "hanteo-music-awards-2025-02-15-global-artist-oceania",
+   "date": "2025-02-15",
+   "title": "2025 Hanteo Music Awards – Global Artist – Oceania [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2025-02-15/16"
+  },
+  {
+   "key": "hanteo-music-awards-2025-02-15-global-artist-south-america",
+   "date": "2025-02-15",
+   "title": "2025 Hanteo Music Awards – Global Artist – South America [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2025-02-15/16"
+  },
+  {
+   "key": "hanteo-music-awards-2025-02-15-whosfandom-award-female",
+   "date": "2025-02-15",
+   "title": "2025 Hanteo Music Awards – WhosFandom Award – Female [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2025-02-15/16"
+  },
+  {
+   "key": "archive-2025-04-10-circle-cert-how-sweet-million",
+   "date": "2025-04-10",
+   "title": "Circle Chart certification: How Sweet certified million",
+   "url": "https://circlechart.kr/page_cert/chart.circle?serviceGbn=ALBUM",
+   "record": "record-2025-04-10-circle-cert-how-sweet-million",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "billboard-21-under-21-2025-05-13",
+   "date": "2025-05-13",
+   "title": "Billboard 21 Under 21 (2025)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2025-05-13-billboard-21-under-21-2025",
+   "exclude": null,
+   "note": null
+  },
+  {
+   "key": "music-awards-japan-2025-05-21-best-k-pop-song-in-japan-ditto",
+   "date": "2025-05-21",
+   "title": "2025 Music Awards Japan – Best K-pop Song in Japan (Ditto)",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": "record-2025-05-21-music-awards-japan-2025-best-kpop-song-ditto",
+   "exclude": null,
+   "note": "ceremony 2025-05-21/22"
+  },
+  {
+   "key": "music-awards-japan-2025-05-21-best-k-pop-song-in-japan-supernatural",
+   "date": "2025-05-21",
+   "title": "2025 Music Awards Japan – Best K-pop Song in Japan (Supernatural) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2025-05-21/22"
+  },
+  {
+   "key": "music-awards-japan-2025-05-21-best-of-listeners-choice-international-song-how-sweet",
+   "date": "2025-05-21",
+   "title": "2025 Music Awards Japan – Best of Listeners' Choice: International Song (How Sweet) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2025-05-21/22"
+  },
+  {
+   "key": "music-awards-japan-2025-05-21-best-of-listeners-choice-international-song-supernatural",
+   "date": "2025-05-21",
+   "title": "2025 Music Awards Japan – Best of Listeners' Choice: International Song (Supernatural) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination; ceremony 2025-05-21/22"
+  },
+  {
+   "key": "circle-certification-2025-06-01-ditto-streaming-2x-platinum",
+   "date": "2025-06-01",
+   "title": "Circle certification: Ditto streaming 2x Platinum",
+   "url": "https://en.wikipedia.org/wiki/Ditto_(song)",
+   "record": null,
+   "exclude": null,
+   "note": "month precision (June 2025)"
+  },
+  {
+   "key": "sma-2025-06-21-k-pop-world-choice-group",
+   "date": "2025-06-21",
+   "title": "2025 Seoul Music Awards – K-pop World Choice – Group [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "sma-2025-06-21-k-wave-special-award",
+   "date": "2025-06-21",
+   "title": "2025 Seoul Music Awards – K-Wave Special Award [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "sma-2025-06-21-main-prize-bonsang",
+   "date": "2025-06-21",
+   "title": "2025 Seoul Music Awards – Main Prize (Bonsang) [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "sma-2025-06-21-popularity-award",
+   "date": "2025-06-21",
+   "title": "2025 Seoul Music Awards – Popularity Award [nominated]",
+   "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "nomination"
+  },
+  {
+   "key": "circle-certification-2025-08-01-attention-streaming-2x-platinum",
+   "date": "2025-08-01",
+   "title": "Circle certification: Attention streaming 2x Platinum",
+   "url": "https://en.wikipedia.org/wiki/Attention_(NewJeans_song)",
+   "record": null,
+   "exclude": null,
+   "note": "month precision (August 2025)"
+  },
+  {
+   "key": "circle-certification-2025-09-01-how-sweet-streaming-platinum",
+   "date": "2025-09-01",
+   "title": "Circle certification: How Sweet streaming Platinum",
+   "url": "https://en.wikipedia.org/wiki/How_Sweet",
+   "record": null,
+   "exclude": null,
+   "note": "month precision (September 2025)"
+  },
+  {
+   "key": "riaj-certification-2025-09-01-hype-boy-2x-platinum",
+   "date": "2025-09-01",
+   "title": "RIAJ certification: Hype Boy 2x Platinum (streaming)",
+   "url": "https://en.wikipedia.org/wiki/Hype_Boy",
+   "record": null,
+   "exclude": null,
+   "note": "RIAJ 2025-08 certification (announced the following month); month precision"
+  },
+  {
+   "key": "riaj-certification-2025-10-01-bubble-gum-gold",
+   "date": "2025-10-01",
+   "title": "RIAJ certification: Bubble Gum Gold (streaming)",
+   "url": "https://en.wikipedia.org/wiki/Bubble_Gum_(NewJeans_song)",
+   "record": null,
+   "exclude": null,
+   "note": "RIAJ 2025-09 certification (announced the following month); month precision"
+  },
+  {
+   "key": "archive-2025-11-27-riaj-ditto-triple-platinum",
+   "date": "2025-11-27",
+   "title": "RIAJ streaming certification: Ditto triple platinum, a first for a K-pop girl group",
+   "url": "https://sbsstar.net/article/N1008346951/amid-turmoil-newjeans-ditto-goes-triple-platinum-in-japan",
+   "record": "record-2025-11-27-riaj-ditto-triple-platinum",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2025-12-19-super-shy-spotify-800m",
+   "date": "2025-12-19",
+   "title": "Super Shy passes 800 million Spotify streams",
+   "url": "https://www.koreaherald.com/article/10641213",
+   "record": "record-2025-12-19-super-shy-spotify-800m",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "bpi-certification-2026-01-01-omg-silver",
+   "date": "2026-01-01",
+   "title": "BPI certification: OMG Silver (UK)",
+   "url": "https://en.wikipedia.org/wiki/OMG_(NewJeans_song)",
+   "record": null,
+   "exclude": null,
+   "note": "certyear 2026; date: year only"
+  },
+  {
+   "key": "rmnz-certification-2026-01-01-ditto-platinum",
+   "date": "2026-01-01",
+   "title": "RMNZ certification: Ditto Platinum (NZ)",
+   "url": "https://en.wikipedia.org/wiki/Ditto_(song)",
+   "record": null,
+   "exclude": null,
+   "note": "date: year only"
+  },
+  {
+   "key": "archive-2026-01-14-omg-spotify-900m",
+   "date": "2026-01-14",
+   "title": "OMG passes 900 million Spotify streams, the group's first",
+   "url": "https://www.koreaherald.com/article/10656873",
+   "record": "record-2026-01-14-omg-spotify-900m",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "bpi-certification-2026-02-01-get-up-silver",
+   "date": "2026-02-01",
+   "title": "BPI certification: Get Up Silver (UK)",
+   "url": "https://en.wikipedia.org/wiki/Get_Up_(EP)",
+   "record": null,
+   "exclude": null,
+   "note": "certyear 2026, listed by 2026-02-13; month approximate"
+  },
+  {
+   "key": "archive-2026-02-20-new-jeans-song-spotify-500m",
+   "date": "2026-02-20",
+   "title": "New Jeans passes 500 million Spotify streams, the group's sixth song to do so",
+   "url": "https://sports.khan.co.kr/en/article/202602221142007",
+   "record": "record-2026-02-20-new-jeans-song-spotify-500m",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "circle-certification-2026-03-01-omg-weverse-2x-platinum",
+   "date": "2026-03-01",
+   "title": "Circle certification: OMG (Weverse) 2x Platinum",
+   "url": "https://en.wikipedia.org/wiki/OMG_(single_album)",
+   "record": null,
+   "exclude": null,
+   "note": "month precision (March 2026)"
+  },
+  {
+   "key": "archive-2026-04-01-ditto-spotify-900m",
+   "date": "2026-04-01",
+   "title": "Ditto passes 900 million Spotify streams, the group's second",
+   "url": "https://www.koreaherald.com/article/10709438",
+   "record": "record-2026-04-01-ditto-spotify-900m",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "circle-certification-2026-07-01-supernatural-weverse-platinum",
+   "date": "2026-07-01",
+   "title": "Circle certification: Supernatural (Weverse) Platinum",
+   "url": "https://en.wikipedia.org/wiki/Supernatural_(NewJeans_song)",
+   "record": null,
+   "exclude": null,
+   "note": "month precision (July 2026)"
+  },
+  {
+   "key": "archive-2026-07-10-right-now-spotify-100m-all-tracks",
+   "date": "2026-07-10",
+   "title": "Right Now passes 100 million Spotify streams; every released track now above 100 million",
+   "url": "https://www.koreaherald.com/article/10806941",
+   "record": "record-2026-07-10-right-now-spotify-100m-all-tracks",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2026-08-06-circle-cert-hype-boy-triple-platinum-cookie-platinum",
+   "date": "2026-08-06",
+   "title": "Circle Chart certification: Hype Boy triple platinum, Cookie platinum for streaming",
+   "url": "https://circlechart.kr/page_cert/chart.circle?serviceGbn=S1040",
+   "record": "record-2026-08-06-circle-cert-hype-boy-triple-platinum-cookie-platinum",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2026-08-18-spotify-8-billion-streams",
+   "date": "2026-08-18",
+   "title": "NewJeans pass 8 billion cumulative Spotify streams",
+   "url": "https://www.koreaherald.com/article/10864105",
+   "record": "record-2026-08-18-spotify-8-billion-streams",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2026-09-04-super-shy-spotify-900m",
+   "date": "2026-09-04",
+   "title": "Super Shy passes 900 million Spotify streams, the group's third",
+   "url": "https://www.koreaherald.com/article/10864105",
+   "record": "record-2026-09-04-super-shy-spotify-900m",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  },
+  {
+   "key": "archive-2026-10-05-super-shy-mv-300m-views",
+   "date": "2026-10-05",
+   "title": "Super Shy MV passes 300 million YouTube views, the group's second",
+   "url": "https://www.soompi.com/article/1875542wpp/newjeans-super-shy-becomes-their-2nd-mv-to-hit-300-million-views",
+   "record": "record-2026-10-05-super-shy-mv-300m-views",
+   "exclude": null,
+   "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
+  }
+ ]
+}

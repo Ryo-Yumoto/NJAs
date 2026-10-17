@@ -1,0 +1,1081 @@
+{
+ "name": "live_performances",
+ "category": "live",
+ "scope": "NewJeans/NJZとメンバーが現地で出演・登壇した催しの全件（単独公演・ファンミーティング、フェス・合同公演、ショーケース、サイン会、ブランド・ファッションイベント、大学祭、主要報道のある空港出入国）。放送された授賞式の出演はtv台帳で扱う。",
+ "source": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances, https://ja.wikipedia.org/wiki/NewJeans",
+ "fetched": "2026-10-17",
+ "match": "manual",
+ "items": [
+  {
+   "key": "chanel-n1-de-chanel-garden-photocall-2022-08-02",
+   "date": "2022-08-02",
+   "title": "CHANEL Beauty 'N°1 DE CHANEL GARDEN' opening photocall",
+   "url": "https://www.ajunews.com/view/20220802225429722",
+   "record": "live-2022-08-02-chanel-n1-de-chanel-garden-photocall",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "new-jeans-weverse-shop-video-call-fansign-2022-08-12",
+   "date": "2022-08-12",
+   "title": "'New Jeans' Weverse Shop pre-order video call fansign",
+   "url": "https://shop.weverse.io/en/shop/USD/artists/82/events/517",
+   "record": "live-2022-08-12-new-jeans-weverse-shop-video-call-fansign",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "new-jeans-weverse-shop-offline-fansign-2022-08-21",
+   "date": "2022-08-21",
+   "title": "'New Jeans' Weverse Shop offline fansign",
+   "url": "https://shop.weverse.io/en/shop/USD/artists/82/events/520",
+   "record": "live-2022-08-21-new-jeans-weverse-shop-offline-fansign",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "dankook-danfesta-2022-09-21",
+   "date": "2022-09-21",
+   "title": "Dankook University 2022 DANFESTA",
+   "url": "https://www.segye.com/newsView/20220526519042",
+   "record": "live-2022-09-21-dankook-danfesta",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "hyein-diesel-hannam-opening-2022-09-21",
+   "date": "2022-09-21",
+   "title": "Hyein attends Diesel Hannam-dong store opening",
+   "url": "https://v.daum.net/v/20220926220004759",
+   "record": "ad-2022-09-21-hyein-diesel-hannam-opening",
+   "exclude": null,
+   "note": "brand event attendance filed in category ad; data-policy (2026-10-16) places event appearances in live"
+  },
+  {
+   "key": "yonsei-akaraka-2022-09-24",
+   "date": "2022-09-24",
+   "title": "Yonsei University AKARAKA 2022",
+   "url": "https://www.wikitree.co.kr/articles/792039",
+   "record": "live-2022-09-24-yonsei-akaraka",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "incheon-departure-kcon-saudi-arabia-2022-09-30",
+   "date": "2022-09-30",
+   "title": "Departs Incheon for KCON 2022 Saudi Arabia",
+   "url": "https://news.nate.com/view/20220930n29055",
+   "record": "live-2022-09-30-incheon-departure-kcon-saudi-arabia",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "kcon-2022-saudi-arabia-2022-10-01",
+   "date": "2022-10-01",
+   "title": "KCON 2022 Saudi Arabia",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2022-10-01-kcon-2022-saudi-arabia",
+   "exclude": null,
+   "note": "venue: The Boulevard, Riyadh; performed: \"Attention\", \"Hype Boy\", and \"Cookie\"; venue: ブルバード・リヤドシティ; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "the-fact-music-awards-2022-2022-10-08",
+   "date": "2022-10-08",
+   "title": "2022 The Fact Music Awards",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": null,
+   "exclude": "放送された授賞式での出演はtvに収録する（tv_broadcasts台帳で計測）",
+   "note": "venue: KSPOドーム"
+  },
+  {
+   "key": "gimpo-departure-kcon-japan-2022-10-14",
+   "date": "2022-10-14",
+   "title": "Departs Gimpo for KCON 2022 Japan",
+   "url": "https://www.xportsnews.com/article/1641769",
+   "record": "live-2022-10-14-gimpo-departure-kcon-japan",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "kcon-2022-japan-2022-10-15",
+   "date": "2022-10-15",
+   "title": "KCON 2022 Japan",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2022-10-15-kcon-2022-japan",
+   "exclude": null,
+   "note": "venue: Ariake Arena, Tokyo; performed: \"Attention\" and \"Hype Boy\"; venue: 有明アリーナ; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "konkuk-univ-green-zone-2022-10-27",
+   "date": "2022-10-27",
+   "title": "Konkuk University 2022 festival 'Green Zone'",
+   "url": "https://www.youtube.com/watch?v=cVXh3zrlfYE",
+   "record": "live-2022-10-27-konkuk-univ-green-zone",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "w-korea-love-your-w-2022-2022-10-28",
+   "date": "2022-10-28",
+   "title": "W Korea 'Love Your W' 2022 breast-cancer awareness gala (performance)",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": null,
+   "exclude": null,
+   "note": "venue: ソウル4 Seasons ホテル"
+  },
+  {
+   "key": "blue-dragon-film-awards-43-2022-11-25",
+   "date": "2022-11-25",
+   "title": "43rd Blue Dragon Film Awards",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": null,
+   "exclude": "放送された授賞式での出演はtvに収録する（tv_broadcasts台帳で計測）",
+   "note": "venue: KBSホール"
+  },
+  {
+   "key": "melon-music-awards-2022-2022-11-26",
+   "date": "2022-11-26",
+   "title": "2022 Melon Music Awards",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": null,
+   "exclude": "放送された授賞式での出演はtvに収録する（tv_broadcasts台帳で計測）",
+   "note": "venue: 高尺スカイドーム"
+  },
+  {
+   "key": "mama-awards-2022-2022-11-30",
+   "date": "2022-11-30",
+   "title": "2022 MAMA Awards (day 2)",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": null,
+   "exclude": "放送された授賞式での出演はtvに収録する（tv_broadcasts台帳で計測）",
+   "note": "venue: 京セラドーム"
+  },
+  {
+   "key": "asia-artist-awards-2022-2022-12-13",
+   "date": "2022-12-13",
+   "title": "2022 Asia Artist Awards",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": null,
+   "exclude": "放送された授賞式での出演はtvに収録する（tv_broadcasts台帳で計測）",
+   "note": "venue: 日本ガイシホール"
+  },
+  {
+   "key": "kbs-song-festival-2022-12-16",
+   "date": "2022-12-16",
+   "title": "2022 KBS Song Festival",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2022-12-16-kbs-song-festival",
+   "exclude": null,
+   "note": "venue: Jamsil Indoor Stadium, Seoul; performed: \"Love Like Oxygen\" (Shinee cover), \"Attention\", and \"Hype Boy\""
+  },
+  {
+   "key": "sbs-gayo-daejeon-2022-12-24",
+   "date": "2022-12-24",
+   "title": "2022 SBS Gayo Daejeon",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2022-12-24-sbs-gayo-daejeon",
+   "exclude": null,
+   "note": "venue: Gocheok Sky Dome, Seoul; performed: Intro, \"Attention\", and \"Tell Me\" (Remix; Wonder Girls cover)"
+  },
+  {
+   "key": "omg-weverse-shop-video-call-fansign-2023-01-04",
+   "date": "2023-01-04",
+   "title": "'OMG' pre-order video call fansign (Weverse Shop)",
+   "url": "https://weverse.io/newjeansofficial/notice/10177",
+   "record": "live-2023-01-04-omg-weverse-shop-video-call-fansign",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "omg-yes24-video-call-fansign-2023-01-15",
+   "date": "2023-01-15",
+   "title": "'OMG' promotion video call fansign (YES24)",
+   "url": "https://weverse.io/newjeansofficial/notice/10329",
+   "record": "live-2023-01-15-omg-yes24-video-call-fansign",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "omg-music-plant-video-call-fansign-2023-01-20",
+   "date": "2023-01-20",
+   "title": "'OMG' promotion video call fansign (Music Plant)",
+   "url": "https://weverse.io/newjeansofficial/notice/10330",
+   "record": "live-2023-01-20-omg-music-plant-video-call-fansign",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "omg-music-korea-offline-fansign-2023-01-26",
+   "date": "2023-01-26",
+   "title": "'OMG' promotion offline fansign (Music Korea)",
+   "url": "https://weverse.io/newjeansofficial/notice/10331",
+   "record": "live-2023-01-26-omg-music-korea-offline-fansign",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "hanni-gucci-fw23-milan-2023-02-24",
+   "date": "2023-02-24",
+   "title": "Hanni at the Gucci Fall/Winter 2023 show in Milan",
+   "url": "https://www.harpersbazaar.com.sg/fashion/runway/newjeans-hanni-heart-evangelista-and-high-glamour-at-gucci-fall-winter-2023",
+   "record": "live-2023-02-24-hanni-gucci-fw23-milan",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "tokyo-girls-collection-2023-ss-2023-03-04",
+   "date": "2023-03-04",
+   "title": "36th Mynavi Tokyo Girls Collection 2023 S/S",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2023-03-04-tokyo-girls-collection-2023-ss",
+   "exclude": null,
+   "note": "venue: Yoyogi National Gymnasium, Tokyo; performed: \"Hype Boy\", \"Ditto\", and \"OMG\"; venue: 国立代々木競技場 第一体育館; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "hyein-louis-vuitton-fw23-paris-2023-03-06",
+   "date": "2023-03-06",
+   "title": "Hyein at the Louis Vuitton Fall/Winter 2023 show in Paris",
+   "url": "https://envimedia.co/newjeans-hyein-brought-the-black-nail-polish-trend-to-paris-fashion-week/",
+   "record": "live-2023-03-06-hyein-louis-vuitton-fw23-paris",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "seoul-fashion-week-2023-fw-ulkin-2023-03-15",
+   "date": "2023-03-15",
+   "title": "2023 F/W Seoul Fashion Week: ul:kin collection",
+   "url": "https://www.xportsnews.com/article/1699938",
+   "record": "live-2023-03-15-seoul-fashion-week-2023-fw-ulkin",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "apple-gangnam-press-preview-2023-03-29",
+   "date": "2023-03-29",
+   "title": "Apple Gangnam press preview (Today at Apple NewJeans listening session)",
+   "url": "https://x.com/NewJeans_ADOR/status/1640987155060146176",
+   "record": "live-2023-03-29-apple-gangnam-press-preview",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "hyein-louis-vuitton-pre-fall-2023-seoul-2023-04-29",
+   "date": "2023-04-29",
+   "title": "Hyein at the Louis Vuitton Pre-Fall 2023 show on Jamsugyo Bridge, Seoul",
+   "url": "https://www.mksports.co.kr/news/entertain/10724940",
+   "record": "live-2023-04-29-hyein-louis-vuitton-pre-fall-2023-seoul",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "adb-annual-meeting-opening-2023-05-03",
+   "date": "2023-05-03",
+   "title": "56th ADB Annual Meeting opening ceremony",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2023-05-03-adb-annual-meeting-opening",
+   "exclude": null,
+   "note": "venue: Songdo Convensia, Incheon; performed: \"Ditto\" and \"OMG\""
+  },
+  {
+   "key": "hanni-gucci-cruise-2024-gyeongbokgung-2023-05-16",
+   "date": "2023-05-16",
+   "title": "Hanni at the Gucci Cruise 2024 show at Gyeongbokgung Palace",
+   "url": "https://www.ajunews.com/view/20230517065943387",
+   "record": "live-2023-05-16-hanni-gucci-cruise-2024-gyeongbokgung",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "little-mermaid-korean-dub-preview-stage-greeting-2023-05-18",
+   "date": "2023-05-18",
+   "title": "'The Little Mermaid' Korean-dub preview screening stage greeting",
+   "url": "https://weverse.io/newjeansofficial/notice/13540",
+   "record": "live-2023-05-18-little-mermaid-korean-dub-preview-stage-greeting",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "weverse-con-festival-2023-2023-06-11",
+   "date": "2023-06-11",
+   "title": "2023 Weverse Con Festival",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2023-06-11-weverse-con-festival-2023",
+   "exclude": null,
+   "note": "venue: KSPO Dome, Seoul; performed: Intro, \"OMG\", \"Ditto\", \"Attention\", \"Hype Boy\", and \"Cookie\"; venue: KSPOドーム; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "minji-chanel-code-color-popup-photocall-2023-06-28",
+   "date": "2023-06-28",
+   "title": "Minji at the CHANEL 'Code Color' pop-up opening photocall",
+   "url": "https://www.newsinstar.com/news/article.html?no=73939",
+   "record": "live-2023-06-28-minji-chanel-code-color-popup-photocall",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "bunnies-camp-2023-07-01",
+   "date": "2023-07-01",
+   "title": "NewJeans 1st Fan Meeting 'Bunnies Camp'",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2023-07-01-bunnies-camp",
+   "exclude": null,
+   "note": "multi-day: July 1–2, 2023; venue: SK Olympic Handball Gymnasium{, Seoul; multi-day: 7月1日・2日; venue: SKオリンピックハンドボール競技場; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "get-up-weverse-shop-video-call-fansign-2023-07-26",
+   "date": "2023-07-26",
+   "title": "'Get Up' pre-order video call fansign (Weverse Shop)",
+   "url": "https://shop.weverse.io/en/shop/USD/artists/82/events/647",
+   "record": "live-2023-07-26-get-up-weverse-shop-video-call-fansign",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "get-up-yes24-video-call-fansign-2023-07-30",
+   "date": "2023-07-30",
+   "title": "'Get Up' promotion video call fansign (YES24)",
+   "url": "https://weverse.io/newjeansofficial/notice/14513",
+   "record": "live-2023-07-30-get-up-yes24-video-call-fansign",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "incheon-departure-lollapalooza-2023-07-31",
+   "date": "2023-07-31",
+   "title": "Departs Incheon for Lollapalooza Chicago",
+   "url": "https://news.nate.com/view/20230731n07399?mid=e1100",
+   "record": "live-2023-07-31-incheon-departure-lollapalooza",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "lollapalooza-chicago-2023-2023-08-03",
+   "date": "2023-08-03",
+   "title": "Lollapalooza 2023 Chicago",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2023-08-03-lollapalooza-chicago-2023",
+   "exclude": null,
+   "note": "venue: Grant Park, Chicago; performed: \"Hype Boy\", \"Cookie\" (Rock version), \"Hurt\", \"Attention\", \"Ditto\", \"OMG\", \"New Jeans\", \"Super Shy\", \"ETA\", \"Cool with You\", \"Get Up\", and \"ASAP\"; multi-day: 8月3日 - 6日; venue: グランド・パーク; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "get-up-sound-wave-offline-fansign-2023-08-06",
+   "date": "2023-08-06",
+   "title": "'Get Up' promotion offline fansign (Sound Wave)",
+   "url": "https://weverse.io/newjeansofficial/notice/14552",
+   "record": "live-2023-08-06-get-up-sound-wave-offline-fansign",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "hanni-chaumet-bee-my-love-popup-2023-08-08",
+   "date": "2023-08-08",
+   "title": "Hanni attends Chaumet 'Bee My Love' pop-up photocall",
+   "url": "https://www.marieclairekorea.com/fashion/2023/08/chaumet-hanni/",
+   "record": "ad-2023-08-08-hanni-chaumet-bee-my-love-popup",
+   "exclude": null,
+   "note": "brand event attendance filed in category ad; data-policy (2026-10-16) places event appearances in live"
+  },
+  {
+   "key": "get-up-aladin-video-call-fansign-2023-08-10",
+   "date": "2023-08-10",
+   "title": "'Get Up' promotion video call fansign (Aladin)",
+   "url": "https://weverse.io/newjeansofficial/notice/14558",
+   "record": "live-2023-08-10-get-up-aladin-video-call-fansign",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "kpop-super-live-jamboree-2023-08-11",
+   "date": "2023-08-11",
+   "title": "2023 World Scout Jamboree 'K-pop Super Live'",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2023-08-11-kpop-super-live-jamboree",
+   "exclude": null,
+   "note": "venue: Seoul World Cup Stadium, Seoul; performed: \"ETA\" and \"Hype Boy\""
+  },
+  {
+   "key": "get-up-music-korea-video-call-fansign-2023-08-16",
+   "date": "2023-08-16",
+   "title": "'Get Up' promotion video call fansign (Music Korea)",
+   "url": "https://weverse.io/newjeansofficial/notice/14560",
+   "record": "live-2023-08-16-get-up-music-korea-video-call-fansign",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "gimpo-departure-summer-sonic-2023-08-17",
+   "date": "2023-08-17",
+   "title": "Departs Gimpo for Summer Sonic 2023",
+   "url": "https://www.xportsnews.com/article/1760280",
+   "record": "live-2023-08-17-gimpo-departure-summer-sonic",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "summer-sonic-2023-tokyo-2023-08-19",
+   "date": "2023-08-19",
+   "title": "Summer Sonic 2023 Tokyo",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2023-08-19-summer-sonic-2023-tokyo",
+   "exclude": null,
+   "note": "venue: Zozo Marine Stadium, Chiba; performed: \"Ditto\", \"OMG\", \"Cookie, \"Attention\", \"Hype Boy\", \"New Jeans\", \"Super Shy\", \"ETA\", \"Cool with You\", \"Get Up\", and \"ASAP\"; venue: ZOZOマリンスタジアム; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "get-up-dear-my-muse-video-call-fansign-2023-08-22",
+   "date": "2023-08-22",
+   "title": "'Get Up' promotion video call fansign (DEAR MY MUSE)",
+   "url": "https://weverse.io/newjeansofficial/notice/14711",
+   "record": "live-2023-08-22-get-up-dear-my-muse-video-call-fansign",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "get-up-m2u-offline-fansign-2023-08-25",
+   "date": "2023-08-25",
+   "title": "'Get Up' promotion offline fansign (M2U Record)",
+   "url": "https://weverse.io/newjeansofficial/notice/14587",
+   "record": "live-2023-08-25-get-up-m2u-offline-fansign",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "get-up-private-offline-fansign-2023-08-29",
+   "date": "2023-08-29",
+   "title": "'Get Up' promotion private offline fansign (Sound Wave / M2U)",
+   "url": "https://weverse.io/newjeansofficial/notice/14755",
+   "record": "live-2023-08-29-get-up-private-offline-fansign",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "seoul-national-univ-festival-2023-09-14",
+   "date": "2023-09-14",
+   "title": "Seoul National University 2023 autumn festival",
+   "url": "https://www.clien.net/service/board/park/18307799",
+   "record": "live-2023-09-14-seoul-national-univ-festival",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "sungkyunkwan-univ-festival-2023-09-14",
+   "date": "2023-09-14",
+   "title": "Sungkyunkwan University 2023 autumn festival",
+   "url": "https://www.clien.net/service/board/park/18307799",
+   "record": "live-2023-09-14-sungkyunkwan-univ-festival",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "danielle-burberry-winter-2023-popup-2023-09-15",
+   "date": "2023-09-15",
+   "title": "Danielle attends Burberry Winter 2023 pop-up photocall",
+   "url": "https://v.daum.net/v/20230915100253371",
+   "record": "ad-2023-09-15-danielle-burberry-winter-2023-popup",
+   "exclude": null,
+   "note": "brand event attendance filed in category ad; data-policy (2026-10-16) places event appearances in live"
+  },
+  {
+   "key": "hongik-univ-festival-2023-09-15",
+   "date": "2023-09-15",
+   "title": "Hongik University 2023 autumn festival",
+   "url": "https://www.clien.net/service/board/park/18307799",
+   "record": "live-2023-09-15-hongik-univ-festival",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "kyung-hee-univ-festival-2023-09-15",
+   "date": "2023-09-15",
+   "title": "Kyung Hee University 2023 autumn festival",
+   "url": "https://www.clien.net/service/board/park/18307799",
+   "record": "live-2023-09-15-kyung-hee-univ-festival",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "hanni-gucci-ancora-ss24-milan-2023-09-22",
+   "date": "2023-09-22",
+   "title": "Hanni at Gucci 'Ancora' Spring/Summer 2024 show in Milan",
+   "url": "https://x.com/NewJeans_ADOR/status/1707002151677956549",
+   "record": "live-2023-09-22-hanni-gucci-ancora-ss24-milan",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "hyein-louis-vuitton-ss24-paris-2023-10-02",
+   "date": "2023-10-02",
+   "title": "Hyein at the Louis Vuitton Spring/Summer 2024 show in Paris",
+   "url": "https://x.com/NewJeans_ADOR/status/1710188139615326489",
+   "record": "live-2023-10-02-hyein-louis-vuitton-ss24-paris",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "coke-studio-superpop-japan-2023-2023-10-07",
+   "date": "2023-10-07",
+   "title": "Coke STUDIO SUPERPOP JAPAN 2023",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2023-10-07-coke-studio-superpop-japan-2023",
+   "exclude": null,
+   "note": "multi-day: October 7–8, 2023; venue: Pia Arena MM, Yokohama; performed: \"Be Who You Are (Real Magic)\" (with Jon Batiste), \"Zero\", \"Hype Boy\", \"Cookie\", \"Ditto\", \"OMG\", \"New Jeans\", \"Super Shy\", and \"ETA\"; multi-day: 10月7日・8日; venue: ぴあアリーナMM; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "incheon-departure-music-bank-mexico-2023-10-21",
+   "date": "2023-10-21",
+   "title": "Departs Incheon for Music Bank in Mexico",
+   "url": "https://news.nate.com/view/20231021n06678",
+   "record": "live-2023-10-21-incheon-departure-music-bank-mexico",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "music-bank-in-mexico-2023-10-22",
+   "date": "2023-10-22",
+   "title": "Music Bank in Mexico",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2023-10-22-music-bank-in-mexico",
+   "exclude": null,
+   "note": "venue: Palacio de los Deportes, Mexico City; performed: \"Hype Boy\", \"OMG\", \"New Jeans\", \"Super Shy\", \"ETA\", \"Part of Your World\", and \"Recuérdame\""
+  },
+  {
+   "key": "haerin-dior-canton-road-hong-kong-2023-11-01",
+   "date": "2023-11-01",
+   "title": "Haerin attends Dior Canton Road store event in Hong Kong",
+   "url": "https://v.daum.net/v/20231128171122668",
+   "record": "ad-2023-11-01-haerin-dior-canton-road-hong-kong",
+   "exclude": null,
+   "note": "brand event attendance filed in category ad; data-policy (2026-10-16) places event appearances in live"
+  },
+  {
+   "key": "hyundai-duty-free-5th-anniversary-photocall-2023-11-06",
+   "date": "2023-11-06",
+   "title": "Hyundai Department Store Duty Free 5th anniversary photocall",
+   "url": "https://www.ajunews.com/view/20231106225710709",
+   "record": "live-2023-11-06-hyundai-duty-free-5th-anniversary-photocall",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "lol-worlds-2023-opening-ceremony-2023-11-19",
+   "date": "2023-11-19",
+   "title": "2023 League of Legends World Championship Finals opening ceremony",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2023-11-19-lol-worlds-2023-opening-ceremony",
+   "exclude": null,
+   "note": "venue: Gocheok Sky Dome, Seoul; performed: \"Gods\""
+  },
+  {
+   "key": "haerin-dior-road-cruise-party-hong-kong-2023-11-21",
+   "date": "2023-11-21",
+   "title": "Haerin at the Dior Road Cruise party in Hong Kong",
+   "url": "https://x.com/NewJeans_ADOR/status/1727612956882640899",
+   "record": "live-2023-11-21-haerin-dior-road-cruise-party-hong-kong",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "music-bank-global-festival-2023-japan-2023-12-09",
+   "date": "2023-12-09",
+   "title": "2023 Music Bank Global Festival in Japan (KBS Song Festival)",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2023-12-09-music-bank-global-festival-2023-japan",
+   "exclude": null,
+   "note": "venue: Belluna Dome, Tokorozawa; performed: \"OMG\", \"Ditto\", \"New Jeans\", \"Super Shy\", and \"ETA\""
+  },
+  {
+   "key": "kbs-song-festival-2023-2023-12-15",
+   "date": "2023-12-15",
+   "title": "2023 KBS Song Festival (Music Bank Global Festival, KBS Hall Seoul)",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": null,
+   "exclude": null,
+   "note": "venue: KBS Hall, Seoul; performed: \"OMG\", \"Ditto\", \"New Jeans\", \"Super Shy\", and \"ETA\""
+  },
+  {
+   "key": "sbs-gayo-daejeon-2023-12-25",
+   "date": "2023-12-25",
+   "title": "2023 SBS Gayo Daejeon",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2023-12-25-sbs-gayo-daejeon",
+   "exclude": null,
+   "note": "venue: Inspire Arena, Incheon; performed: \"New Jeans\", \"ETA\", \"Ditto\", and \"OMG\" (FRNK remix)"
+  },
+  {
+   "key": "haerin-dior-men-fw24-paris-2024-01-19",
+   "date": "2024-01-19",
+   "title": "Haerin at the Dior Men Fall/Winter 2024 show in Paris",
+   "url": "https://www.tatlerasia.com/style/fashion/newjeans-haerin-dior-looks",
+   "record": "live-2024-01-19-haerin-dior-men-fw24-paris",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "minji-chanel-haute-couture-ss24-paris-2024-01-23",
+   "date": "2024-01-23",
+   "title": "Minji at the CHANEL Spring/Summer 2024 Haute Couture show in Paris",
+   "url": "https://x.com/NewJeans_ADOR/status/1750174114424467900",
+   "record": "live-2024-01-23-minji-chanel-haute-couture-ss24-paris",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "incheon-departure-singapore-2024-02-02",
+   "date": "2024-02-02",
+   "title": "Departs Incheon for Singapore",
+   "url": "https://news.nate.com/view/20240202n06345",
+   "record": "live-2024-02-02-incheon-departure-singapore",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "nike-orchard-road-singapore-2024-02-03",
+   "date": "2024-02-03",
+   "title": "NewJeans at Nike Orchard Road, Singapore",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2024-02-03-nike-orchard-road-singapore",
+   "exclude": null,
+   "note": "venue: Nike's store on Orchard Road, Singapore; performed: \"Ditto\", \"New Jeans\", \"ETA\", and \"OMG\""
+  },
+  {
+   "key": "hanni-gucci-fw24-milan-2024-02-23",
+   "date": "2024-02-23",
+   "title": "Hanni at the Gucci Fall/Winter 2024 show in Milan",
+   "url": "https://x.com/NewJeans_ADOR/status/1762251201561682053",
+   "record": "live-2024-02-23-hanni-gucci-fw24-milan",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "iu-her-world-tour-seoul-guest-2024-03-02",
+   "date": "2024-03-02",
+   "title": "Guest at IU H.E.R. World Tour Seoul",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2024-03-02-iu-her-world-tour-seoul-guest",
+   "exclude": null,
+   "note": "venue: KSPO Dome, Seoul; performed: \"Ditto\", \"ETA\", and \"Shh..\""
+  },
+  {
+   "key": "hyein-louis-vuitton-fw24-paris-2024-03-05",
+   "date": "2024-03-05",
+   "title": "Hyein at the Louis Vuitton Fall/Winter 2024 show in Paris",
+   "url": "https://x.com/NewJeans_ADOR/status/1765527785236562195",
+   "record": "live-2024-03-05-hyein-louis-vuitton-fw24-paris",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "danielle-ysl-loveshine-factory-paris-2024-03-25",
+   "date": "2024-03-25",
+   "title": "Danielle attends YSL Beauty 'Loveshine Factory' in Paris",
+   "url": "https://v.daum.net/v/20240330043302754",
+   "record": "ad-2024-03-25-danielle-ysl-loveshine-factory-paris",
+   "exclude": null,
+   "note": "brand event attendance filed in category ad; data-policy (2026-10-16) places event appearances in live"
+  },
+  {
+   "key": "haerin-dior-fall-2024-new-york-2024-04-15",
+   "date": "2024-04-15",
+   "title": "Haerin at the Dior Fall 2024 show at the Brooklyn Museum, New York",
+   "url": "https://grazia.sg/fashion/newjeans-haerin-dior-fall-2024-fashion-show-new-york-outfit-airport-fashion/",
+   "record": "live-2024-04-15-haerin-dior-fall-2024-new-york",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "minji-chanel-rouge-allure-popup-photocall-2024-04-23",
+   "date": "2024-04-23",
+   "title": "Minji at the CHANEL Rouge Allure pop-up opening photocall",
+   "url": "https://x.com/NewJeans_ADOR/status/1783828374156439690",
+   "record": "live-2024-04-23-minji-chanel-rouge-allure-popup-photocall",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "korea-on-stage-gyeongbokgung-2024-05-21",
+   "date": "2024-05-21",
+   "title": "2024 Korea on Stage - New Generation at Gyeongbokgung",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2024-05-21-korea-on-stage-gyeongbokgung",
+   "exclude": null,
+   "note": "venue: Gyeongbokgung Palace, Seoul; performed: \"Cool with You\", \"Ditto\", \"ETA\", and \"Super Shy\""
+  },
+  {
+   "key": "korea-univ-ipselenti-2024-05-25",
+   "date": "2024-05-25",
+   "title": "Korea University 2024 IPSELENTI",
+   "url": "https://www.ajunews.com/view/20240526165410747",
+   "record": "live-2024-05-25-korea-univ-ipselenti",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "chosun-univ-festival-2024-05-27",
+   "date": "2024-05-27",
+   "title": "Chosun University 2024 festival",
+   "url": "https://www.ajunews.com/view/20240526165410747",
+   "record": "live-2024-05-27-chosun-univ-festival",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "dongeui-univ-festival-2024-05-28",
+   "date": "2024-05-28",
+   "title": "Dong-eui University 2024 festival",
+   "url": "https://www.ajunews.com/view/20240526165410747",
+   "record": "live-2024-05-28-dongeui-univ-festival",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "pusan-national-univ-festival-2024-05-28",
+   "date": "2024-05-28",
+   "title": "Pusan National University 2024 festival",
+   "url": "https://www.ajunews.com/view/20240526165410747",
+   "record": "live-2024-05-28-pusan-national-univ-festival",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "haerin-dioriviera-popup-opening-2024-05-29",
+   "date": "2024-05-29",
+   "title": "Haerin at the Dior Beauty 'Dioriviera' pop-up opening",
+   "url": "https://x.com/NewJeans_ADOR/status/1795779624384835809",
+   "record": "live-2024-05-29-haerin-dioriviera-popup-opening",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "dongguk-univ-festival-2024-05-30",
+   "date": "2024-05-30",
+   "title": "Dongguk University 2024 festival",
+   "url": "https://www.ajunews.com/view/20240526165410747",
+   "record": "live-2024-05-30-dongguk-univ-festival",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "sejong-univ-festival-2024-05-30",
+   "date": "2024-05-30",
+   "title": "Sejong University 2024 festival",
+   "url": "https://www.ajunews.com/view/20240526165410747",
+   "record": "live-2024-05-30-sejong-univ-festival",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "chung-ang-univ-festival-2024-05-31",
+   "date": "2024-05-31",
+   "title": "Chung-Ang University 2024 festival",
+   "url": "https://www.ajunews.com/view/20240526165410747",
+   "record": "live-2024-05-31-chung-ang-univ-festival",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "how-sweet-weverse-shop-video-call-fansign-2024-06-01",
+   "date": "2024-06-01",
+   "title": "'How Sweet' pre-order video call fansign (Weverse Shop)",
+   "url": "https://shop.weverse.io/en/shop/USD/artists/82/events/808",
+   "record": "live-2024-06-01-how-sweet-weverse-shop-video-call-fansign",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "k-wave-concert-inkigayo-2024-06-02",
+   "date": "2024-06-02",
+   "title": "2024 K-Wave Concert Inkigayo",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2024-06-02-k-wave-concert-inkigayo",
+   "exclude": null,
+   "note": "venue: Inspire Arena, Incheon; performed: \"How Sweet\", \"Bubble Gum\", and \"ETA\""
+  },
+  {
+   "key": "how-sweet-music-plant-video-call-fansign-2024-06-03",
+   "date": "2024-06-03",
+   "title": "'How Sweet' release video call fansign (Music Plant)",
+   "url": "https://weverse.io/newjeansofficial/notice/19543",
+   "record": "live-2024-06-03-how-sweet-music-plant-video-call-fansign",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "coke-studio-tokyo-fan-event-2024-06-04",
+   "date": "2024-06-04",
+   "title": "Coke Studio Tokyo fan event 'Coke Studio: Live ft. NewJeans'",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2024-06-04-coke-studio-tokyo-fan-event",
+   "exclude": null,
+   "note": "venue: N/A, Tokyo; performed: \"Zero\", \"Ditto\" (250 remix), \"New Jeans\", \"ETA\", \"Bubble Gum\", and \"How Sweet\""
+  },
+  {
+   "key": "how-sweet-aladin-offline-fansign-2024-06-06",
+   "date": "2024-06-06",
+   "title": "'How Sweet' release offline fansign (Aladin)",
+   "url": "https://weverse.io/newjeansofficial/notice/19746",
+   "record": "live-2024-06-06-how-sweet-aladin-offline-fansign",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "how-sweet-yes24-offline-fansign-2024-06-06",
+   "date": "2024-06-06",
+   "title": "'How Sweet' release offline fansign (YES24)",
+   "url": "https://weverse.io/newjeansofficial/notice/19736",
+   "record": "live-2024-06-06-how-sweet-yes24-offline-fansign",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "how-sweet-music-korea-video-call-fansign-2024-06-07",
+   "date": "2024-06-07",
+   "title": "'How Sweet' release video call fansign (Music Korea)",
+   "url": "https://weverse.io/newjeansofficial/notice/19843",
+   "record": "live-2024-06-07-how-sweet-music-korea-video-call-fansign",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "gimpo-departure-japan-debut-2024-06-20",
+   "date": "2024-06-20",
+   "title": "Departs Gimpo for Tokyo ahead of Japan debut",
+   "url": "https://www.mksports.co.kr/news/entertain/11046291",
+   "record": "live-2024-06-20-gimpo-departure-japan-debut",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "bunnies-camp-2024-tokyo-dome-2024-06-26",
+   "date": "2024-06-26",
+   "title": "NewJeans Fan Meeting 'Bunnies Camp 2024 Tokyo Dome'",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2024-06-26-bunnies-camp-2024-tokyo-dome",
+   "exclude": null,
+   "note": "multi-day: June 26–27, 2024; venue: Tokyo Dome, Tokyo; multi-day: 6月26日・27日; venue: 東京ドーム; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "supernatural-offline-event-osaka-2024-06-29",
+   "date": "2024-06-29",
+   "title": "'Supernatural' serial-number offline event (Osaka)",
+   "url": "https://www.newjeans.jp/news/yjjsxf",
+   "record": "live-2024-06-29-supernatural-offline-event-osaka",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "supernatural-offline-event-tokyo-2024-06-30",
+   "date": "2024-06-30",
+   "title": "'Supernatural' serial-number offline event (Tokyo)",
+   "url": "https://www.newjeans.jp/news/yjjsxf",
+   "record": "live-2024-06-30-supernatural-offline-event-tokyo",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "sbs-gayo-daejeon-summer-2024-07-21",
+   "date": "2024-07-21",
+   "title": "2024 SBS Gayo Daejeon Summer",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2024-07-21-sbs-gayo-daejeon-summer",
+   "exclude": null,
+   "note": "venue: Inspire Arena, Incheon; performed: \"How Sweet\" and \"Supernatural\"; existing record date differs: record 2024-07-21, en Wikipedia 2024-07-24"
+  },
+  {
+   "key": "hyein-louis-vuitton-popup-photocall-2024-07-26",
+   "date": "2024-07-26",
+   "title": "Hyein at the Louis Vuitton pop-up store opening photocall",
+   "url": "https://news.nate.com/view/20240726n11692",
+   "record": "live-2024-07-26-hyein-louis-vuitton-popup-photocall",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "coupang-play-series-halftime-show-2024-08-03",
+   "date": "2024-08-03",
+   "title": "Coupang Play Series Tottenham vs Bayern Munich halftime show",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2024-08-03-coupang-play-series-halftime-show",
+   "exclude": null,
+   "note": "venue: Seoul World Cup Stadium, Seoul; performed: \"Attention\", \"Hype Boy\", \"ETA\", and \"Super Shy\""
+  },
+  {
+   "key": "paris-olympics-team-korea-event-2024-08-22",
+   "date": "2024-08-22",
+   "title": "2024 Paris Olympics Team Korea encouragement event",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2024-08-22-paris-olympics-team-korea-event",
+   "exclude": null,
+   "note": "venue: N/A, Seoul; performed: N/A"
+  },
+  {
+   "key": "coke-studio-ultimate-fandom-concert-manila-2024-09-05",
+   "date": "2024-09-05",
+   "title": "Coke Studio 'The Ultimate Fandom Concert' Manila",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2024-09-05-coke-studio-ultimate-fandom-concert-manila",
+   "exclude": null,
+   "note": "venue: SM Mall of Asia Arena, Bay City; performed: \"ETA\", \"Bubble Gum\", \"Supernatural\", \"How Sweet\", and \"Zero\""
+  },
+  {
+   "key": "the-fact-music-awards-2024-2024-09-08",
+   "date": "2024-09-08",
+   "title": "2024 The Fact Music Awards",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": null,
+   "exclude": "放送された授賞式での出演はtvに収録する（tv_broadcasts台帳で計測）",
+   "note": "venue: 京セラドーム"
+  },
+  {
+   "key": "hanni-gucci-ss25-milan-2024-09-20",
+   "date": "2024-09-20",
+   "title": "Hanni at the Gucci Spring/Summer 2025 show in Milan",
+   "url": "https://x.com/NewJeans_ADOR/status/1839198218812350598",
+   "record": "live-2024-09-20-hanni-gucci-ss25-milan",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "hyein-louis-vuitton-ss25-paris-2024-10-01",
+   "date": "2024-10-01",
+   "title": "Hyein at the Louis Vuitton Spring/Summer 2025 show in Paris",
+   "url": "https://x.com/NewJeans_ADOR/status/1842127523863216339",
+   "record": "live-2024-10-01-hyein-louis-vuitton-ss25-paris",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "coke-studio-live-2024-saitama-2024-10-19",
+   "date": "2024-10-19",
+   "title": "Coke STUDIO LIVE 2024 at Saitama Super Arena",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2024-10-19-coke-studio-live-2024-saitama",
+   "exclude": null,
+   "note": "multi-day: October 19–20, 2024; venue: Saitama Super Arena, Saitama; performed: \"Attention\", \"Ditto\", \"OMG\", \"ETA\", \"Zero\", \"How Sweet\", and \"Supernatural\"; multi-day: 10月19日・20日; venue: さいたまスーパーアリーナ; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "danielle-celine-cheongdam-flagship-photocall-2024-11-28",
+   "date": "2024-11-28",
+   "title": "Danielle at the CELINE Cheongdam flagship opening photocall",
+   "url": "https://x.com/NewJeans_ADOR/status/1866392437033427294",
+   "record": "live-2024-11-28-danielle-celine-cheongdam-flagship-photocall",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "haerin-dior-beauty-holiday-popup-photocall-2024-12-06",
+   "date": "2024-12-06",
+   "title": "Haerin at the Dior Beauty holiday pop-up opening photocall",
+   "url": "https://x.com/NewJeans_ADOR/status/1865229762991686060",
+   "record": "live-2024-12-06-haerin-dior-beauty-holiday-popup-photocall",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "yoasobi-asia-tour-incheon-guest-2024-12-07",
+   "date": "2024-12-07",
+   "title": "Guest at YOASOBI 'Chō-genjitsu' Asia Tour Incheon",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2024-12-07-yoasobi-asia-tour-incheon-guest",
+   "exclude": null,
+   "note": "venue: Inspire Arena, Incheon; performed: \"How Sweet\", \"Right Now\" (with Ikura), and \"Biri-Biri\" (with Ikura)"
+  },
+  {
+   "key": "music-bank-global-festival-2024-fukuoka-2024-12-14",
+   "date": "2024-12-14",
+   "title": "2024 Music Bank Global Festival in Japan, Fukuoka",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2024-12-14-music-bank-global-festival-2024-fukuoka",
+   "exclude": null,
+   "note": "venue: Fukuoka Dome, Fukuoka; performed: \"Super Shy\", \"How Sweet\", and \"Supernatural\"; venue: みずほPayPayドーム福岡; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "sbs-gayo-daejeon-2024-12-25",
+   "date": "2024-12-25",
+   "title": "2024 SBS Gayo Daejeon",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2024-12-25-sbs-gayo-daejeon",
+   "exclude": null,
+   "note": "venue: Inspire Arena, Incheon; performed: \"Ditto\" (250 remix), \"Cookie\", and \"Hype Boy\""
+  },
+  {
+   "key": "countdown-japan-2425-2024-12-31",
+   "date": "2024-12-31",
+   "title": "COUNTDOWN JAPAN 24/25",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2024-12-31-countdown-japan-2425",
+   "exclude": null,
+   "note": "venue: Makuhari Messe, Chiba; performed: \"OMG\" (FRNK Remix), \"Cookie\", \"Right Now\", \"Supernatural\", \"Hype Boy\", \"ETA\", \"How Sweet\", \"Bubble Gum\" and \"Ditto\"; venue: 幕張メッセ国際展示場; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "golden-disc-awards-39-2025-01-04",
+   "date": "2025-01-04",
+   "title": "39th Golden Disc Awards",
+   "url": "https://ja.wikipedia.org/wiki/NewJeans",
+   "record": null,
+   "exclude": "放送された授賞式での出演はtvに収録する（tv_broadcasts台帳で計測）",
+   "note": "venue: みずほPayPayドーム福岡"
+  },
+  {
+   "key": "haerin-dior-lip-glow-popup-opening-2025-01-17",
+   "date": "2025-01-17",
+   "title": "Haerin at the Dior Lip Glow pop-up opening",
+   "url": "https://x.com/NewJeans_ADOR/status/1880540642151186762",
+   "record": "live-2025-01-17-haerin-dior-lip-glow-popup-opening",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "njz-incheon-departure-hong-kong-2025-03-22",
+   "date": "2025-03-22",
+   "title": "NJZ depart Incheon for ComplexCon Hong Kong",
+   "url": "https://www.tenasia.co.kr/article/2025032215144",
+   "record": "live-2025-03-22-njz-incheon-departure-hong-kong",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "complexcon-hong-kong-2025-2025-03-23",
+   "date": "2025-03-23",
+   "title": "ComplexCon Hong Kong 2025 'Complex Live!' headliner",
+   "url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+   "record": "live-2025-03-23-complexcon-hong-kong-2025",
+   "exclude": null,
+   "note": "venue: AsiaWorld–Expo, Hong Kong; performed: \"Pit Stop\", \"No Scrubs\" (Danielle, TLC cover), \"Smile For The Camera\" (Minji, Upsahl cover), \"Dontcha\" (Haerin, The Internet cover), \"Use Your Heart\" (Hyein, SWV cover), and \"My Boo\" (Hanni, Ghost Town DJ's cover); venue: AsiaWorld-Arena; also listed at https://ja.wikipedia.org/wiki/NewJeans"
+  },
+  {
+   "key": "njz-incheon-arrival-hong-kong-2025-03-24",
+   "date": "2025-03-24",
+   "title": "NJZ return to Incheon from ComplexCon Hong Kong",
+   "url": "https://www.xportsnews.com/article/1977035",
+   "record": "live-2025-03-24-njz-incheon-arrival-hong-kong",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "danielle-omega-aqua-terra-kyoto-2025-06-18",
+   "date": "2025-06-18",
+   "title": "Danielle attends Omega Aqua Terra 30mm launch in Kyoto",
+   "url": "https://v.daum.net/v/20250619134559814",
+   "record": "ad-2025-06-18-danielle-omega-aqua-terra-kyoto",
+   "exclude": null,
+   "note": "brand event attendance filed in category ad; data-policy (2026-10-16) places event appearances in live"
+  },
+  {
+   "key": "haerin-hyein-incheon-arrival-us-2026-07-19",
+   "date": "2026-07-19",
+   "title": "Haerin and Hyein return to Incheon from the US",
+   "url": "https://www.newsen.com/news_view.php?uid=202607192102521310",
+   "record": "live-2026-07-19-haerin-hyein-incheon-arrival-us",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  },
+  {
+   "key": "haerin-rouge-dior-on-stage-popup-photocall-2026-09-07",
+   "date": "2026-09-07",
+   "title": "Haerin at the Dior Beauty 'Rouge Dior On Stage' pop-up photocall",
+   "url": "https://www.ajunews.com/view/20260908005328120",
+   "record": "live-2026-09-07-haerin-rouge-dior-on-stage-popup-photocall",
+   "exclude": null,
+   "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
+  }
+ ]
+}
