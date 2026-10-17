@@ -31,21 +31,37 @@
   "page_url": "https://mobile.newsis.com/view/NISX20220701_0001927354",
   "w": 720
  },
- "ad-2022-09-01-5252-by-oioi-22fw": {
+ "ad-2022-09-30-skt-0-iphone-14-pro-cm": {
   "fetched": "2026-10-13",
-  "file": "ad-2022-09-01-5252-by-oioi-22fw.jpg",
-  "h": 900,
-  "image_url": "https://www.wkorea.com/wp_data/w/2022/10/style_6357a71adea06.jpg?ver=1.1.72",
-  "page_url": "https://www.wkorea.com/?p=214870",
-  "w": 1200
- },
- "ad-2022-10-01-skt-0-iphone-14-pro-cm": {
-  "fetched": "2026-10-13",
-  "file": "ad-2022-10-01-skt-0-iphone-14-pro-cm.jpg",
+  "file": "ad-2022-09-30-skt-0-iphone-14-pro-cm.jpg",
   "h": 449,
   "image_url": "https://menu.mtn.co.kr/upload/article/2022/11/08/2022110809344390826_00_517.jpg",
   "page_url": "https://news.mtn.co.kr/news-detail/2022110809344390826",
   "w": 550
+ },
+ "ad-2022-10-05-musinsa-global-ambassador": {
+  "fetched": "2026-10-13",
+  "file": "ad-2022-10-05-musinsa-global-ambassador.jpg",
+  "h": 449,
+  "image_url": "https://menu.mtn.co.kr/upload/article/2022/11/08/2022110809344390826_00_517.jpg",
+  "page_url": "https://news.mtn.co.kr/news-detail/2022110809344390826",
+  "w": 550
+ },
+ "ad-2022-10-06-megastudy-2024-megapass-teaser": {
+  "fetched": "2026-10-17",
+  "file": "ad-2022-10-06-megastudy-2024-megapass-teaser.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/HpntnGJcohA/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/HpntnGJcohA/maxresdefault.jpg",
+  "w": 1280
+ },
+ "ad-2022-10-11-5252-by-oioi-22fw": {
+  "fetched": "2026-10-13",
+  "file": "ad-2022-10-11-5252-by-oioi-22fw.jpg",
+  "h": 900,
+  "image_url": "https://www.wkorea.com/wp_data/w/2022/10/style_6357a71adea06.jpg?ver=1.1.72",
+  "page_url": "https://www.wkorea.com/?p=214870",
+  "w": 1200
  },
  "ad-2022-10-11-shinhan-bank-new-sol-model": {
   "fetched": "2026-10-13",
@@ -55,17 +71,9 @@
   "page_url": "https://magazine.hankyung.com/business/article/202210119293b",
   "w": 630
  },
- "ad-2022-11-01-megastudy-megapass-cm": {
+ "ad-2022-10-13-megastudy-megapass-cm": {
   "fetched": "2026-10-13",
-  "file": "ad-2022-11-01-megastudy-megapass-cm.jpg",
-  "h": 449,
-  "image_url": "https://menu.mtn.co.kr/upload/article/2022/11/08/2022110809344390826_00_517.jpg",
-  "page_url": "https://news.mtn.co.kr/news-detail/2022110809344390826",
-  "w": 550
- },
- "ad-2022-11-01-musinsa-global-ambassador": {
-  "fetched": "2026-10-13",
-  "file": "ad-2022-11-01-musinsa-global-ambassador.jpg",
+  "file": "ad-2022-10-13-megastudy-megapass-cm.jpg",
   "h": 449,
   "image_url": "https://menu.mtn.co.kr/upload/article/2022/11/08/2022110809344390826_00_517.jpg",
   "page_url": "https://news.mtn.co.kr/news-detail/2022110809344390826",
@@ -87,6 +95,30 @@
   "page_url": "https://www.soompi.com/article/1561701wpp/newjeans-danielle-named-global-ambassador-for-burberry",
   "w": 900
  },
+ "ad-2023-01-06-kcdf-newjeans-meet-hanji": {
+  "fetched": "2026-10-17",
+  "file": "ad-2023-01-06-kcdf-newjeans-meet-hanji.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/Co-YCyZu2ag/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/Co-YCyZu2ag/maxresdefault.jpg",
+  "w": 1280
+ },
+ "ad-2023-01-20-musinsa-newjeans-style-for-the-year-of-bunny": {
+  "fetched": "2026-10-17",
+  "file": "ad-2023-01-20-musinsa-newjeans-style-for-the-year-of-bunny.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/cSW0xgQaYsI/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/cSW0xgQaYsI/maxresdefault.jpg",
+  "w": 1280
+ },
+ "ad-2023-01-27-nike-a-feel-for-every-you-minji-haerin": {
+  "fetched": "2026-10-17",
+  "file": "ad-2023-01-27-nike-a-feel-for-every-you-minji-haerin.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/esVSURDoZTY/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/esVSURDoZTY/maxresdefault.jpg",
+  "w": 1280
+ },
  "ad-2023-02-08-hanni-armani-beauty-ambassador": {
   "fetched": "2026-10-13",
   "file": "ad-2023-02-08-hanni-armani-beauty-ambassador.jpg",
@@ -103,6 +135,22 @@
   "page_url": "https://www.koreajoongangdaily.com/entertainment/minji-of-newjeans-is-appointed-newest-chanel-korea-ambassador/11022231",
   "w": 1200
  },
+ "ad-2023-02-27-mcdonalds-korea-model": {
+  "fetched": "2026-10-17",
+  "file": "ad-2023-02-27-mcdonalds-korea-model.jpg",
+  "h": 462,
+  "image_url": "https://www.elle.co.kr/resources_old/online/org_thumnail_image/el/e6e2c9e6-305b-4ff6-a892-64b9c64bec64.jpg",
+  "page_url": "https://www.elle.co.kr/article/75387",
+  "w": 740
+ },
+ "ad-2023-03-02-mcdonalds-korea-mccrispy-cm": {
+  "fetched": "2026-10-17",
+  "file": "ad-2023-03-02-mcdonalds-korea-mccrispy-cm.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/Bxx6OetEdM4/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/Bxx6OetEdM4/maxresdefault.jpg",
+  "w": 1280
+ },
  "ad-2023-03-02-nike-air-max-campaign": {
   "fetched": "2026-10-17",
   "file": "ad-2023-03-02-nike-air-max-campaign.jpg",
@@ -110,6 +158,14 @@
   "image_url": "https://snkrdunk.s3.ap-northeast-1.amazonaws.com/en/magazine/wp-content/uploads/2023/03/03112324/New-Jeans-x-Nike-Air-Max-Day.jpg",
   "page_url": "https://snkrdunk.com/en/magazine/2023/03/03/nike-korea-celebrates-air-max-day-with-newjeans/",
   "w": 1024
+ },
+ "ad-2023-03-05-5252-by-oioi-23ss-fashion-film": {
+  "fetched": "2026-10-17",
+  "file": "ad-2023-03-05-5252-by-oioi-23ss-fashion-film.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/qFsnvzyvAAk/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/qFsnvzyvAAk/maxresdefault.jpg",
+  "w": 1280
  },
  "ad-2023-03-06-levis-global-ambassador": {
   "fetched": "2026-10-13",
@@ -215,6 +271,14 @@
   "page_url": "https://storage.googleapis.com/pr-newsroom-wp/1/2023/08/spotify_newjeans_bunnyland-1920x733.jpg",
   "w": 1400
  },
+ "ad-2023-08-09-seoul-fashion-week-2024-ss-promo": {
+  "fetched": "2026-10-17",
+  "file": "ad-2023-08-09-seoul-fashion-week-2024-ss-promo.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/0cHHOVWXePA/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/0cHHOVWXePA/maxresdefault.jpg",
+  "w": 1280
+ },
  "ad-2023-08-14-haerin-dior-rose-des-vents-campaign": {
   "fetched": "2026-10-16",
   "file": "ad-2023-08-14-haerin-dior-rose-des-vents-campaign.jpg",
@@ -239,6 +303,30 @@
   "page_url": "https://t1.daumcdn.net/news/202309/14/startoday/20230914153906050mufc.jpg",
   "w": 597
  },
+ "ad-2023-11-06-skt-adot-iphone-call-recording-cm": {
+  "fetched": "2026-10-17",
+  "file": "ad-2023-11-06-skt-adot-iphone-call-recording-cm.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/jExR0KNHGyY/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/jExR0KNHGyY/maxresdefault.jpg",
+  "w": 1280
+ },
+ "ad-2023-11-14-lotte-itagum-japan-cm": {
+  "fetched": "2026-10-17",
+  "file": "ad-2023-11-14-lotte-itagum-japan-cm.jpg",
+  "h": 800,
+  "image_url": "https://tokyo-sports.ismcdn.jp/mwimgs/5/e/1200w/img_5e17bd8dc893311376fe0fda2501b2d0194099.jpg",
+  "page_url": "https://www.tokyo-sports.co.jp/articles/-/282631",
+  "w": 1200
+ },
+ "ad-2023-11-18-musinsa-mujinjang-black-friday": {
+  "fetched": "2026-10-17",
+  "file": "ad-2023-11-18-musinsa-mujinjang-black-friday.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/gz1BTVjvGbU/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/gz1BTVjvGbU/maxresdefault.jpg",
+  "w": 1280
+ },
  "ad-2023-12-15-nike-air-max-90-lv8-campaign": {
   "fetched": "2026-10-16",
   "file": "ad-2023-12-15-nike-air-max-90-lv8-campaign.jpg",
@@ -246,6 +334,22 @@
   "image_url": "https://snkrdunk.s3.ap-northeast-1.amazonaws.com/en/magazine/wp-content/uploads/2023/12/16113947/NewJeans-Nike-Air-Max-90-LV8.webp",
   "page_url": "https://snkrdunk.s3.ap-northeast-1.amazonaws.com/en/magazine/wp-content/uploads/2023/12/16113947/NewJeans-Nike-Air-Max-90-LV8.webp",
   "w": 1024
+ },
+ "ad-2024-01-02-stonehenge-2024-winter-collection": {
+  "fetched": "2026-10-17",
+  "file": "ad-2024-01-02-stonehenge-2024-winter-collection.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/UTJFmPAqkZE/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/UTJFmPAqkZE/maxresdefault.jpg",
+  "w": 1280
+ },
+ "ad-2024-01-22-seoul-fashion-week-2024-fw-official-video": {
+  "fetched": "2026-10-17",
+  "file": "ad-2024-01-22-seoul-fashion-week-2024-fw-official-video.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/hb_bgRkJgPk/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/hb_bgRkJgPk/maxresdefault.jpg",
+  "w": 1280
  },
  "ad-2024-01-27-nike-orchard-road-collab": {
   "fetched": "2026-10-17",
@@ -255,6 +359,14 @@
   "page_url": "https://mothership.sg/2024/01/newjeans-performing-orchard-road-nike/",
   "w": 1000
  },
+ "ad-2024-02-01-coca-cola-zero-lemon-cm": {
+  "fetched": "2026-10-17",
+  "file": "ad-2024-02-01-coca-cola-zero-lemon-cm.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/Fa9y-2i1DfU/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/Fa9y-2i1DfU/maxresdefault.jpg",
+  "w": 1280
+ },
  "ad-2024-02-05-coca-cola-zero-japan-cm": {
   "fetched": "2026-10-13",
   "file": "ad-2024-02-05-coca-cola-zero-japan-cm.jpg",
@@ -262,6 +374,14 @@
   "image_url": "https://realsound.jp/wp-content/uploads/2024/02/20240204-newjeans-99.jpg",
   "page_url": "https://realsound.jp/2024/02/post-1564485.html",
   "w": 1200
+ },
+ "ad-2024-02-15-stonehenge-24-spring-campaign": {
+  "fetched": "2026-10-17",
+  "file": "ad-2024-02-15-stonehenge-24-spring-campaign.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/GhEP_AiRB8M/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/GhEP_AiRB8M/maxresdefault.jpg",
+  "w": 1280
  },
  "ad-2024-03-11-minji-nec-election-campaign": {
   "fetched": "2026-10-16",
@@ -351,6 +471,22 @@
   "page_url": "https://v.daum.net/v/20240510141023260",
   "w": 1200
  },
+ "ad-2024-05-14-british-museum-korean-audio-guide": {
+  "fetched": "2026-10-17",
+  "file": "ad-2024-05-14-british-museum-korean-audio-guide.jpg",
+  "h": 493,
+  "image_url": "https://newsimg.koreatimes.co.kr/2024/05/16/7862dc63-261b-4197-9d12-97a804030a16.jpg",
+  "page_url": "https://www.koreatimes.co.kr/www/art/2024/05/398_374738.html",
+  "w": 740
+ },
+ "ad-2024-05-15-coca-cola-add-delicious-magic": {
+  "fetched": "2026-10-17",
+  "file": "ad-2024-05-15-coca-cola-add-delicious-magic.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/Y8eSiUnePyA/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/Y8eSiUnePyA/maxresdefault.jpg",
+  "w": 1280
+ },
  "ad-2024-05-21-hanni-gucci-horsebit-1955-campaign": {
   "fetched": "2026-10-13",
   "file": "ad-2024-05-21-hanni-gucci-horsebit-1955-campaign.jpg",
@@ -367,6 +503,14 @@
   "page_url": "https://t1.daumcdn.net/news/202405/26/lofficielhommes/20240526141800954lpah.jpg",
   "w": 680
  },
+ "ad-2024-06-10-shinhan-card-sol-pay-cm": {
+  "fetched": "2026-10-17",
+  "file": "ad-2024-06-10-shinhan-card-sol-pay-cm.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/VG9bui99HAE/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/VG9bui99HAE/maxresdefault.jpg",
+  "w": 1280
+ },
  "ad-2024-07-11-mcst-korea-tourism-ambassador": {
   "fetched": "2026-10-14",
   "file": "ad-2024-07-11-mcst-korea-tourism-ambassador.jpg",
@@ -374,6 +518,14 @@
   "image_url": "https://www.mcst.go.kr/site/images/main/mcst_logo.gif",
   "page_url": "https://www.mcst.go.kr/kor/s_notice/press/pressView.jsp?pSeq=21213",
   "w": 800
+ },
+ "ad-2024-08-09-seoul-fashion-week-2025-ss-promo": {
+  "fetched": "2026-10-17",
+  "file": "ad-2024-08-09-seoul-fashion-week-2025-ss-promo.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/0Mdd2Je3eiQ/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/0Mdd2Je3eiQ/maxresdefault.jpg",
+  "w": 1280
  },
  "ad-2024-08-21-danielle-ysl-ink-vinyl-tint-campaign": {
   "fetched": "2026-10-16",
@@ -390,6 +542,14 @@
   "image_url": "https://realsound.jp/wp-content/uploads/2024/08/20240825-newjeans-99.jpg",
   "page_url": "https://realsound.jp/2024/08/post-1759153.html",
   "w": 1200
+ },
+ "ad-2024-09-23-shinhan-securities-cm": {
+  "fetched": "2026-10-17",
+  "file": "ad-2024-09-23-shinhan-securities-cm.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/xoQIUOzuhL0/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/xoQIUOzuhL0/maxresdefault.jpg",
+  "w": 1280
  },
  "ad-2024-09-24-calvin-klein-ambassador": {
   "fetched": "2026-10-13",
@@ -3847,6 +4007,14 @@
   "page_url": "https://x.com/NewJeans_ADOR/status/1656935994950828033",
   "w": 800
  },
+ "live-2023-05-20-levis-501-150th-live-in-levis-concert": {
+  "fetched": "2026-10-17",
+  "file": "live-2023-05-20-levis-501-150th-live-in-levis-concert.jpg",
+  "h": 800,
+  "image_url": "https://cdn.www.smarttoday.co.kr/w1200/q100/f_jpg/article-images/202305/30056_23378_1353.jpg",
+  "page_url": "https://www.smarttoday.co.kr/ko-kr/articles/30056",
+  "w": 1200
+ },
  "live-2023-06-11-weverse-con-festival-2023": {
   "fetched": "2026-10-14",
   "file": "live-2023-06-11-weverse-con-festival-2023.jpg",
@@ -4367,9 +4535,9 @@
   "page_url": "https://www.elle.co.kr/article/68945",
   "w": 740
  },
- "magazine-2022-09-26-gq-korea-comme-des-garcons": {
+ "magazine-2022-09-23-gq-korea-comme-des-garcons": {
   "fetched": "2026-10-13",
-  "file": "magazine-2022-09-26-gq-korea-comme-des-garcons.jpg",
+  "file": "magazine-2022-09-23-gq-korea-comme-des-garcons.jpg",
   "h": 944,
   "image_url": "https://images.khan.co.kr/article/2022/09/26/news-p.v1.20220926.3caa782d50b047f4822c0acc7a7180e0_P1.jpg",
   "page_url": "https://sports.khan.co.kr/article/202209261645003",
@@ -4407,6 +4575,22 @@
   "page_url": "https://www.thefirsttimes.jp/?p=235307",
   "w": 1200
  },
+ "magazine-2023-01-27-nme-the-big-read-cover": {
+  "fetched": "2026-10-17",
+  "file": "magazine-2023-01-27-nme-the-big-read-cover.jpg",
+  "h": 889,
+  "image_url": "https://www.nme.com/wp-content/uploads/2023/01/NME-NEWJEANS-HERO@2560x1625-2136x1356.jpg",
+  "page_url": "https://www.nme.com/wp-content/uploads/2023/01/NME-NEWJEANS-HERO@2560x1625-2136x1356.jpg",
+  "w": 1400
+ },
+ "magazine-2023-02-15-vogue-us-2023-03-seoul-portfolio": {
+  "fetched": "2026-10-17",
+  "file": "magazine-2023-02-15-vogue-us-2023-03-seoul-portfolio.jpg",
+  "h": 1400,
+  "image_url": "https://assets.vogue.com/photos/63eba66ae830117103908957/master/w_1600,c_limit/VO0323_Seoul_18.jpg",
+  "page_url": "https://assets.vogue.com/photos/63eba66ae830117103908957/master/w_1600,c_limit/VO0323_Seoul_18.jpg",
+  "w": 1120
+ },
  "magazine-2023-03-01-elle-korea-2023-03-minji": {
   "fetched": "2026-10-13",
   "file": "magazine-2023-03-01-elle-korea-2023-03-minji.jpg",
@@ -4423,6 +4607,14 @@
   "page_url": "https://lady.khan.co.kr/entertainment/article/202302240730011",
   "w": 700
  },
+ "magazine-2023-03-01-w-korea-hanni-gucci-show-debut": {
+  "fetched": "2026-10-17",
+  "file": "magazine-2023-03-01-w-korea-hanni-gucci-show-debut.jpg",
+  "h": 1400,
+  "image_url": "https://www.wkorea.com/wp_data/w/2023/03/style_6417c1c60a759.jpg?ver=1.1.72",
+  "page_url": "https://www.wkorea.com/2023/03/20/adorable/",
+  "w": 1120
+ },
  "magazine-2023-03-20-vogue-korea-danielle-ysl-beauty": {
   "fetched": "2026-10-13",
   "file": "magazine-2023-03-20-vogue-korea-danielle-ysl-beauty.jpg",
@@ -4431,6 +4623,22 @@
   "page_url": "https://www.vogue.co.kr/2023/03/20/%eb%89%b4%ec%a7%84%ec%8a%a4-%eb%8b%a4%eb%8b%88%ec%97%98%ec%9d%98-%ec%9e%85%ec%88%a0-%ec%9c%84%ec%97%90-%ed%94%bc%ec%96%b4%eb%82%9c-%ec%9e%85%ec%83%9d%eb%a1%9c%eb%9e%91-%eb%b7%b0%ed%8b%b0/",
   "w": 960
  },
+ "magazine-2023-03-24-vogue-korea-hyein-paris-louis-vuitton": {
+  "fetched": "2026-10-17",
+  "file": "magazine-2023-03-24-vogue-korea-hyein-paris-louis-vuitton.jpg",
+  "h": 788,
+  "image_url": "https://www.vogue.co.kr/wp_data/vogue/2023/03/03_1099-1920x1080.jpg",
+  "page_url": "https://www.vogue.co.kr/wp_data/vogue/2023/03/03_1099-1920x1080.jpg",
+  "w": 1400
+ },
+ "magazine-2023-04-24-vogue-korea-haerin-digital-cover-dior": {
+  "fetched": "2026-10-17",
+  "file": "magazine-2023-04-24-vogue-korea-haerin-digital-cover-dior.jpg",
+  "h": 788,
+  "image_url": "https://www.vogue.co.kr/wp_data/vogue/2023/04/style_6440f4f08a857-1920x1080.jpg?x=2160&y=2189&ver=1.1.57",
+  "page_url": "https://www.vogue.co.kr/2023/04/24/%EB%89%B4%EC%A7%84%EC%8A%A4-%ED%95%B4%EB%A6%B0-%EC%B2%AB-%EB%8B%A8%EB%8F%85-%ED%99%94%EB%B3%B4-b%EC%BB%B7-%EA%B3%B5%EA%B0%9C/",
+  "w": 1400
+ },
  "magazine-2023-05-01-harpers-bazaar-korea-2023-05-hyein": {
   "fetched": "2026-10-13",
   "file": "magazine-2023-05-01-harpers-bazaar-korea-2023-05-hyein.jpg",
@@ -4438,6 +4646,14 @@
   "image_url": "https://cdnweb01.wikitree.co.kr/webdata/editor/202304/17/202304170946327837.jpg",
   "page_url": "https://www.wikitree.co.kr/articles/845913",
   "w": 1200
+ },
+ "magazine-2023-05-17-w-magazine-us-feature": {
+  "fetched": "2026-10-17",
+  "file": "magazine-2023-05-17-w-magazine-us-feature.jpg",
+  "h": 1400,
+  "image_url": "https://imgix.bustle.com/uploads/image/2023/5/8/17eb7081-81c9-41b7-beac-7d6606a33f1e-wm202303musi15.jpg",
+  "page_url": "https://imgix.bustle.com/uploads/image/2023/5/8/17eb7081-81c9-41b7-beac-7d6606a33f1e-wm202303musi15.jpg",
+  "w": 1065
  },
  "magazine-2023-05-23-w-korea-seoul-jazz-festival-2023-minji": {
   "fetched": "2026-10-16",
@@ -4463,6 +4679,14 @@
   "page_url": "https://www.highsnobiety.com/p/newjeans-interview/",
   "w": 1200
  },
+ "magazine-2023-06-05-elle-korea-hyein-louis-vuitton-seoul-show": {
+  "fetched": "2026-10-17",
+  "file": "magazine-2023-06-05-elle-korea-hyein-louis-vuitton-seoul-show.jpg",
+  "h": 462,
+  "image_url": "https://www.elle.co.kr/resources_old/online/org_thumnail_image/el/72124372-375b-49d5-9a43-7eae9e470703.jpg",
+  "page_url": "https://www.elle.co.kr/resources_old/online/org_thumnail_image/el/72124372-375b-49d5-9a43-7eae9e470703.jpg",
+  "w": 740
+ },
  "magazine-2023-06-09-popeye-2023-07-special-edition": {
   "fetched": "2026-10-13",
   "file": "magazine-2023-06-09-popeye-2023-07-special-edition.jpg",
@@ -4479,9 +4703,9 @@
   "page_url": "https://www.wkorea.com/?p=240334",
   "w": 1056
  },
- "magazine-2023-06-22-w-korea-2023-07-danielle-omega": {
+ "magazine-2023-06-19-w-korea-2023-07-danielle-omega": {
   "fetched": "2026-10-16",
-  "file": "magazine-2023-06-22-w-korea-2023-07-danielle-omega.jpg",
+  "file": "magazine-2023-06-19-w-korea-2023-07-danielle-omega.jpg",
   "h": 900,
   "image_url": "https://t1.daumcdn.net/news/202306/22/newsis/20230622102327187urdp.jpg",
   "page_url": "https://t1.daumcdn.net/news/202306/22/newsis/20230622102327187urdp.jpg",
@@ -4494,6 +4718,22 @@
   "image_url": "https://shop.vmagazine.com/cdn/shop/products/6.2.23_V143_Cover.jpg?v=1687448850",
   "page_url": "https://shop.vmagazine.com/products/v143",
   "w": 1026
+ },
+ "magazine-2023-07-10-cosmopolitan-korea-haerin-dior-beauty": {
+  "fetched": "2026-10-17",
+  "file": "magazine-2023-07-10-cosmopolitan-korea-haerin-dior-beauty.jpg",
+  "h": 462,
+  "image_url": "https://www.cosmopolitan.co.kr/resources_old/online/org_thumnail_image/cp/c9474468-83e6-4a76-a131-a13f27e16da3.jpg",
+  "page_url": "https://www.cosmopolitan.co.kr/resources_old/online/org_thumnail_image/cp/c9474468-83e6-4a76-a131-a13f27e16da3.jpg",
+  "w": 740
+ },
+ "magazine-2023-08-01-highsnobiety-japan-issue11": {
+  "fetched": "2026-10-17",
+  "file": "magazine-2023-08-01-highsnobiety-japan-issue11.jpg",
+  "h": 840,
+  "image_url": "https://highsnobiety.jp/wp-content/uploads/2023/07/IMG_3658-e1688467613294.jpg",
+  "page_url": "https://highsnobiety.jp/wp-content/uploads/2023/07/IMG_3658-e1688467613294.jpg",
+  "w": 1400
  },
  "magazine-2023-08-01-vogue-korea-2023-08-minji": {
   "fetched": "2026-10-13",
@@ -4519,9 +4759,9 @@
   "page_url": "https://www.rollingstone.com/product-recommendations/books/newjeans-zine-minji-hanni-danielle-haerin-hyein-1234818662/",
   "w": 924
  },
- "magazine-2023-09-13-harpers-bazaar-korea-hanni-armani": {
+ "magazine-2023-09-10-harpers-bazaar-korea-hanni-armani": {
   "fetched": "2026-10-13",
-  "file": "magazine-2023-09-13-harpers-bazaar-korea-hanni-armani.jpg",
+  "file": "magazine-2023-09-10-harpers-bazaar-korea-hanni-armani.jpg",
   "h": 998,
   "image_url": "https://www.harpersbazaar.co.kr/resources_old/online/org_thumnail_image/b73d1d5b-08b7-43f7-adb9-78e809b665d9.jpg",
   "page_url": "https://www.harpersbazaar.co.kr/article/80580",
@@ -4535,6 +4775,14 @@
   "page_url": "https://www.harpersbazaar.co.kr/article/80679",
   "w": 746
  },
+ "magazine-2023-09-22-marie-claire-korea-2023-10-moose-knuckles": {
+  "fetched": "2026-10-17",
+  "file": "magazine-2023-09-22-marie-claire-korea-2023-10-moose-knuckles.jpg",
+  "h": 535,
+  "image_url": "https://img.marieclairekorea.com/2023/09/mck_650cd6679b09f.jpg",
+  "page_url": "https://img.marieclairekorea.com/2023/09/mck_650cd6679b09f.jpg",
+  "w": 800
+ },
  "magazine-2023-09-27-vogue-korea-hanni-gucci-rosso-ancora": {
   "fetched": "2026-10-16",
   "file": "magazine-2023-09-27-vogue-korea-hanni-gucci-rosso-ancora.jpg",
@@ -4542,6 +4790,14 @@
   "image_url": "https://t1.daumcdn.net/news/202310/01/WEDDING21/20231001234343718stuz.jpg",
   "page_url": "https://t1.daumcdn.net/news/202310/01/WEDDING21/20231001234343718stuz.jpg",
   "w": 600
+ },
+ "magazine-2023-10-26-flaunt-issue-189-besties": {
+  "fetched": "2026-10-17",
+  "file": "magazine-2023-10-26-flaunt-issue-189-besties.jpg",
+  "h": 1400,
+  "image_url": "https://cdn.prod.website-files.com/62ee0bbe0c783a903ecc0ddb/652d98ea9a18896d7d00750d_189%20FLAUNT%20MAGAZINE%20-%20BESTIES%20ISSUE%20-%20COVER%20-%20NEWJEANS%202.webp",
+  "page_url": "https://cdn.prod.website-files.com/62ee0bbe0c783a903ecc0ddb/652d98ea9a18896d7d00750d_189%20FLAUNT%20MAGAZINE%20-%20BESTIES%20ISSUE%20-%20COVER%20-%20NEWJEANS%202.webp",
+  "w": 1071
  },
  "magazine-2023-11-01-marie-claire-korea-2023-11-danielle": {
   "fetched": "2026-10-13",
@@ -4551,9 +4807,9 @@
   "page_url": "https://www.marieclairekorea.com/fashion/2023/10/daniel",
   "w": 800
  },
- "magazine-2023-11-08-esquire-korea-minji-moncler": {
+ "magazine-2023-11-07-esquire-korea-minji-moncler": {
   "fetched": "2026-10-16",
-  "file": "magazine-2023-11-08-esquire-korea-minji-moncler.jpg",
+  "file": "magazine-2023-11-07-esquire-korea-minji-moncler.jpg",
   "h": 750,
   "image_url": "https://t1.daumcdn.net/news/202311/08/spotvnews/20231108183251588gajr.jpg",
   "page_url": "https://t1.daumcdn.net/news/202311/08/spotvnews/20231108183251588gajr.jpg",
@@ -4567,6 +4823,22 @@
   "page_url": "https://t1.daumcdn.net/news/202311/16/iMBC/20231116144325094gdot.jpg",
   "w": 1079
  },
+ "magazine-2023-11-17-w-korea-haerin-dior-seongsu": {
+  "fetched": "2026-10-17",
+  "file": "magazine-2023-11-17-w-korea-haerin-dior-seongsu.jpg",
+  "h": 788,
+  "image_url": "https://www.wkorea.com/wp_data/w/2023/11/style_655aa84c7be29-1920x1080.jpg?x=1080&y=682&ver=1.1.72",
+  "page_url": "https://www.wkorea.com/2023/11/20/%ED%95%B4%EB%A6%B0%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%ED%99%80%EB%A6%AC%EB%8D%B0%EC%9D%B4/",
+  "w": 1400
+ },
+ "magazine-2023-11-30-marie-claire-korea-2023-12-minji-chanel-beauty": {
+  "fetched": "2026-10-16",
+  "file": "magazine-2023-11-30-marie-claire-korea-2023-12-minji-chanel-beauty.jpg",
+  "h": 535,
+  "image_url": "https://img.marieclairekorea.com/2023/11/mck_65686c55d2bab.jpg",
+  "page_url": "https://img.marieclairekorea.com/2023/11/mck_65686c55d2bab.jpg",
+  "w": 800
+ },
  "magazine-2023-11-30-vogue-hong-kong-2023-12-haerin": {
   "fetched": "2026-10-16",
   "file": "magazine-2023-11-30-vogue-hong-kong-2023-12-haerin.jpg",
@@ -4574,14 +4846,6 @@
   "image_url": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202311/30/ilgansports/20231130125809820ftzv.jpg",
   "page_url": "https://v.daum.net/v/20231130125807234",
   "w": 1200
- },
- "magazine-2023-12-01-marie-claire-korea-2023-12-minji-chanel-beauty": {
-  "fetched": "2026-10-16",
-  "file": "magazine-2023-12-01-marie-claire-korea-2023-12-minji-chanel-beauty.jpg",
-  "h": 535,
-  "image_url": "https://img.marieclairekorea.com/2023/11/mck_65686c55d2bab.jpg",
-  "page_url": "https://img.marieclairekorea.com/2023/11/mck_65686c55d2bab.jpg",
-  "w": 800
  },
  "magazine-2023-12-07-elle-korea-d-edition-haerin-dior": {
   "fetched": "2026-10-13",
@@ -4623,6 +4887,14 @@
   "page_url": "https://www.thefirsttimes.jp/?p=391864",
   "w": 1200
  },
+ "magazine-2024-02-29-marie-claire-korea-2024-03-hanni-chaumet": {
+  "fetched": "2026-10-13",
+  "file": "magazine-2024-02-29-marie-claire-korea-2024-03-hanni-chaumet.jpg",
+  "h": 800,
+  "image_url": "https://img.marieclairekorea.com/2024/03/mck_65e545c88bdeb.jpg",
+  "page_url": "https://www.marieclairekorea.com/?p=339269",
+  "w": 800
+ },
  "magazine-2024-02-29-w-korea-2024-03-minji-chanel": {
   "fetched": "2026-10-16",
   "file": "magazine-2024-02-29-w-korea-2024-03-minji-chanel.jpg",
@@ -4647,13 +4919,21 @@
   "page_url": "https://www.designscene.net/?p=606603",
   "w": 1280
  },
- "magazine-2024-03-04-marie-claire-korea-2024-03-hanni-chaumet": {
+ "magazine-2024-03-27-elle-korea-2024-05-d-edition-minji": {
   "fetched": "2026-10-13",
-  "file": "magazine-2024-03-04-marie-claire-korea-2024-03-hanni-chaumet.jpg",
-  "h": 800,
-  "image_url": "https://img.marieclairekorea.com/2024/03/mck_65e545c88bdeb.jpg",
-  "page_url": "https://www.marieclairekorea.com/?p=339269",
+  "file": "magazine-2024-03-27-elle-korea-2024-05-d-edition-minji.jpg",
+  "h": 500,
+  "image_url": "https://www.elle.co.kr/resources/online/thumbnail/hf/2024/04/26/70c02630-a0dc-4281-b530-84520433bcca.jpg",
+  "page_url": "https://www.elle.co.kr/article/1864093",
   "w": 800
+ },
+ "magazine-2024-04-01-w-korea-danielle-celine-digital-cover": {
+  "fetched": "2026-10-17",
+  "file": "magazine-2024-04-01-w-korea-danielle-celine-digital-cover.jpg",
+  "h": 788,
+  "image_url": "https://www.wkorea.com/wp_data/w/2024/04/style_66135d672e0b5-1920x1080.jpg?x=4944&y=2843&ver=1.1.72",
+  "page_url": "https://www.wkorea.com/2024/04/01/%EB%89%B4%EC%A7%84%EC%8A%A4-%EB%8B%A4%EB%8B%88%EC%97%98-%EB%8D%94%EB%B8%94%EC%9C%A0-%EB%94%94%EC%A7%80%ED%84%B8-%EC%BB%A4%EB%B2%84-%EC%9E%A5%EC%8B%9D/",
+  "w": 1400
  },
  "magazine-2024-04-16-marie-claire-korea-2024-05-danielle-celine": {
   "fetched": "2026-10-16",
@@ -4670,14 +4950,6 @@
   "image_url": "https://img.etnews.com/news/article/2024/03/15/cms_temp_article_15102220141052.jpg",
   "page_url": "https://m.etnews.com/20240315000060",
   "w": 1054
- },
- "magazine-2024-05-01-elle-korea-2024-05-d-edition-minji": {
-  "fetched": "2026-10-13",
-  "file": "magazine-2024-05-01-elle-korea-2024-05-d-edition-minji.jpg",
-  "h": 500,
-  "image_url": "https://www.elle.co.kr/resources/online/thumbnail/hf/2024/04/26/70c02630-a0dc-4281-b530-84520433bcca.jpg",
-  "page_url": "https://www.elle.co.kr/article/1864093",
-  "w": 800
  },
  "magazine-2024-05-03-harpers-bazaar-korea-2024-05-haerin-dior": {
   "fetched": "2026-10-13",
@@ -4735,9 +5007,9 @@
   "page_url": "https://dazedkorea.com/wp-content/uploads/2026/03/1579746-scaled.jpg",
   "w": 1120
  },
- "magazine-2024-09-13-harpers-bazaar-korea-2024-09-minji": {
+ "magazine-2024-09-11-harpers-bazaar-korea-2024-09-minji": {
   "fetched": "2026-10-13",
-  "file": "magazine-2024-09-13-harpers-bazaar-korea-2024-09-minji.jpg",
+  "file": "magazine-2024-09-11-harpers-bazaar-korea-2024-09-minji.jpg",
   "h": 500,
   "image_url": "https://www.harpersbazaar.co.kr/resources/online/thumbnail/hf/2024/07/30/73388955-85a8-4e83-91b1-a9acf73afd94.jpg",
   "page_url": "https://www.harpersbazaar.co.kr/article/1868565",
@@ -4767,6 +5039,14 @@
   "page_url": "https://t1.daumcdn.net/news/202410/21/10asia/20241021170106589rbzh.jpg",
   "w": 1200
  },
+ "magazine-2024-10-23-w-korea-hyeins-wonderland": {
+  "fetched": "2026-10-17",
+  "file": "magazine-2024-10-23-w-korea-hyeins-wonderland.jpg",
+  "h": 788,
+  "image_url": "https://www.wkorea.com/wp_data/w/2024/10/style_6711f7e241f71-1920x1080.jpg?x=5680&y=4387&ver=1.1.87",
+  "page_url": "https://www.wkorea.com/?p=328373",
+  "w": 1400
+ },
  "magazine-2024-10-25-billboard-korea-billboard-artist-no1": {
   "fetched": "2026-10-13",
   "file": "magazine-2024-10-25-billboard-korea-billboard-artist-no1.jpg",
@@ -4790,6 +5070,14 @@
   "image_url": "https://img.marieclairekorea.com/2024/10/mck_6708fe58b4c8a.jpg",
   "page_url": "https://www.marieclairekorea.com/fashion/2024/10/dior-21",
   "w": 1145
+ },
+ "magazine-2024-11-04-vogue-korea-nike": {
+  "fetched": "2026-10-17",
+  "file": "magazine-2024-11-04-vogue-korea-nike.jpg",
+  "h": 788,
+  "image_url": "https://www.vogue.co.kr/wp_data/vogue/2024/11/style_6724798f77843-1920x1080.jpg",
+  "page_url": "https://www.vogue.co.kr/wp_data/vogue/2024/11/style_6724798f77843-1920x1080.jpg",
+  "w": 1400
  },
  "magazine-2024-11-28-dazed-korea-haerin-dior-seongsu": {
   "fetched": "2026-10-16",
@@ -4838,6 +5126,14 @@
   "image_url": "https://cdfront.tower.jp/~/media/Images/Article/News/tg/2024/12/25/tgb004.jpg",
   "page_url": "https://tower.jp/article/news/2024/12/25/tgb004",
   "w": 600
+ },
+ "magazine-2025-02-03-vogue-korea-haerin-dior-beauty-digital-cover": {
+  "fetched": "2026-10-17",
+  "file": "magazine-2025-02-03-vogue-korea-haerin-dior-beauty-digital-cover.jpg",
+  "h": 788,
+  "image_url": "https://www.vogue.co.kr/wp_data/vogue/2025/01/style_6791e40a3b887-1920x1080.jpg",
+  "page_url": "https://www.vogue.co.kr/wp_data/vogue/2025/01/style_6791e40a3b887-1920x1080.jpg",
+  "w": 1400
  },
  "magazine-2025-03-01-elle-singapore-2025-03-danielle": {
   "fetched": "2026-10-13",
@@ -4942,6 +5238,14 @@
   "image_url": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202305/17/koreaherald/20230517151605811vpoi.jpg",
   "page_url": "https://v.daum.net/v/20230517151604015",
   "w": 1200
+ },
+ "music-2023-05-22-the-little-mermaid-korean-version-soundtrack": {
+  "fetched": "2026-10-17",
+  "file": "music-2023-05-22-the-little-mermaid-korean-version-soundtrack.jpg",
+  "h": 500,
+  "image_url": "https://cdnimg.melon.co.kr/cm2/album/images/112/49/055/11249055_20240507142911_500.jpg",
+  "page_url": "https://cdnimg.melon.co.kr/cm2/album/images/112/49/055/11249055_20240507142911_500.jpg",
+  "w": 500
  },
  "music-2023-05-31-be-who-you-are-real-magic": {
   "fetched": "2026-10-13",
@@ -5551,6 +5855,14 @@
   "page_url": "https://i.ytimg.com/vi/DrNtuAgwWgQ/maxresdefault.jpg",
   "w": 1280
  },
+ "mv-2023-05-17-part-of-your-world-danielle-mv": {
+  "fetched": "2026-10-17",
+  "file": "mv-2023-05-17-part-of-your-world-danielle-mv.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/ho0d4rf1LwY/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/ho0d4rf1LwY/maxresdefault.jpg",
+  "w": 1280
+ },
  "mv-2023-05-22-coke-studio-new-music-coming-shorts": {
   "fetched": "2026-10-13",
   "file": "mv-2023-05-22-coke-studio-new-music-coming-shorts.jpg",
@@ -5567,12 +5879,28 @@
   "page_url": "https://i.ytimg.com/vi/UU6sw9eE634/maxresdefault.jpg",
   "w": 1280
  },
+ "mv-2023-05-31-be-who-you-are-real-magic-mv": {
+  "fetched": "2026-10-17",
+  "file": "mv-2023-05-31-be-who-you-are-real-magic-mv.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/XEsrFIQOWZg/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/XEsrFIQOWZg/maxresdefault.jpg",
+  "w": 1280
+ },
  "mv-2023-06-19-get-up-coming-soon-shorts": {
   "fetched": "2026-10-13",
   "file": "mv-2023-06-19-get-up-coming-soon-shorts.jpg",
   "h": 720,
   "image_url": "https://i.ytimg.com/vi/a9QB7oJ5_3Q/maxresdefault.jpg",
   "page_url": "https://i.ytimg.com/vi/a9QB7oJ5_3Q/maxresdefault.jpg",
+  "w": 1280
+ },
+ "mv-2023-06-21-zero-remix-coke-studio-performance": {
+  "fetched": "2026-10-17",
+  "file": "mv-2023-06-21-zero-remix-coke-studio-performance.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/HX9vJaXD8WE/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/HX9vJaXD8WE/maxresdefault.jpg",
   "w": 1280
  },
  "mv-2023-06-26-eta-teaser": {
@@ -5783,6 +6111,14 @@
   "page_url": "https://i.ytimg.com/vi/Xw-rOxA0ItI/maxresdefault.jpg",
   "w": 1280
  },
+ "mv-2023-09-01-beautiful-restriction-special-mv": {
+  "fetched": "2026-10-17",
+  "file": "mv-2023-09-01-beautiful-restriction-special-mv.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/rgatpvBpwpU/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/rgatpvBpwpU/maxresdefault.jpg",
+  "w": 1280
+ },
  "mv-2023-10-04-gods-ft-newjeans-official-music-video-worlds-2023-anthem": {
   "fetched": "2026-10-13",
   "file": "mv-2023-10-04-gods-ft-newjeans-official-music-video-worlds-2023-anthem.jpg",
@@ -5877,6 +6213,14 @@
   "h": 720,
   "image_url": "https://i.ytimg.com/vi/8FpaiZrVoho/maxresdefault.jpg",
   "page_url": "https://i.ytimg.com/vi/8FpaiZrVoho/maxresdefault.jpg",
+  "w": 1280
+ },
+ "mv-2024-02-23-iu-shh-feat-hyein-mv": {
+  "fetched": "2026-10-17",
+  "file": "mv-2024-02-23-iu-shh-feat-hyein-mv.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/VIDQTyNmkN4/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/VIDQTyNmkN4/maxresdefault.jpg",
   "w": 1280
  },
  "mv-2024-03-27-its-coming-shorts": {
@@ -6535,6 +6879,30 @@
   "page_url": "https://www.soompi.com/article/1564515wpp/newjeans-becomes-fastest-k-pop-group-to-achieve-million-selling-album-with-omg",
   "w": 900
  },
+ "record-2022-10-06-genie-music-awards-2022-best-female-rookie-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2022-10-06-genie-music-awards-2022-best-female-rookie-nomination.jpg",
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2022/10/06104828/Genie.jpg",
+  "page_url": "https://www.soompi.com/article/1548620wpp/2022-genie-music-awards-announces-this-years-nominees",
+  "w": 900
+ },
+ "record-2022-10-08-tma-2022-fan-n-star-choice-artist-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2022-10-08-tma-2022-fan-n-star-choice-artist-nomination.jpg",
+  "h": 647,
+  "image_url": "http://img.tf.co.kr/article/home/2022/09/13/20227366166304049800.jpg",
+  "page_url": "https://news.tf.co.kr/read/ogmeta/1964540.htm",
+  "w": 640
+ },
+ "record-2022-10-08-tma-2022-idolplus-popularity-award-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2022-10-08-tma-2022-idolplus-popularity-award-nomination.jpg",
+  "h": 647,
+  "image_url": "http://img.tf.co.kr/article/home/2022/09/13/20227366166304049800.jpg",
+  "page_url": "https://news.tf.co.kr/read/ogmeta/1964540.htm",
+  "w": 640
+ },
  "record-2022-10-08-tma-2022-next-leader": {
   "fetched": "2026-10-15",
   "file": "record-2022-10-08-tma-2022-next-leader.jpg",
@@ -6543,6 +6911,46 @@
   "page_url": "https://news.tf.co.kr/read/ogmeta/1970328.htm",
   "w": 640
  },
+ "record-2022-10-24-mama-2022-artist-of-the-year-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2022-10-24-mama-2022-artist-of-the-year-nomination.jpg",
+  "h": 687,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2022/10/24022033/2022-mama-.jpg",
+  "page_url": "https://www.soompi.com/article/1551129wpp/2022-mama-awards-announces-nominees-voting-begins",
+  "w": 1030
+ },
+ "record-2022-10-24-mama-2022-best-dance-performance-female-group-attention-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2022-10-24-mama-2022-best-dance-performance-female-group-attention-nomination.jpg",
+  "h": 687,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2022/10/24022033/2022-mama-.jpg",
+  "page_url": "https://www.soompi.com/article/1551129wpp/2022-mama-awards-announces-nominees-voting-begins",
+  "w": 1030
+ },
+ "record-2022-10-24-mama-2022-best-new-female-artist-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2022-10-24-mama-2022-best-new-female-artist-nomination.jpg",
+  "h": 687,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2022/10/24022033/2022-mama-.jpg",
+  "page_url": "https://www.soompi.com/article/1551129wpp/2022-mama-awards-announces-nominees-voting-begins",
+  "w": 1030
+ },
+ "record-2022-10-24-mama-2022-song-of-the-year-attention-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2022-10-24-mama-2022-song-of-the-year-attention-nomination.jpg",
+  "h": 687,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2022/10/24022033/2022-mama-.jpg",
+  "page_url": "https://www.soompi.com/article/1551129wpp/2022-mama-awards-announces-nominees-voting-begins",
+  "w": 1030
+ },
+ "record-2022-10-24-mama-2022-worldwide-fans-choice-top-10-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2022-10-24-mama-2022-worldwide-fans-choice-top-10-nomination.jpg",
+  "h": 687,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2022/10/24022033/2022-mama-.jpg",
+  "page_url": "https://www.soompi.com/article/1551129wpp/2022-mama-awards-announces-nominees-voting-begins",
+  "w": 1030
+ },
  "record-2022-10-28-k-billboard-awards-2022-hot-rookie": {
   "fetched": "2026-10-15",
   "file": "record-2022-10-28-k-billboard-awards-2022-hot-rookie.jpg",
@@ -6550,6 +6958,30 @@
   "image_url": "https://0.soompi.io/wp-content/uploads/2022/10/28095512/BTS-TXT-IVE-NewJeans.jpg",
   "page_url": "https://www.soompi.com/article/1551989wpp/winners-of-the-1st-ever-the-k-billboard-awards",
   "w": 900
+ },
+ "record-2022-11-04-mma-2022-album-of-the-year-new-jeans-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2022-11-04-mma-2022-album-of-the-year-new-jeans-nomination.jpg",
+  "h": 933,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2022/11/04154300/Melon-Music-Awards-2022.jpg",
+  "page_url": "https://www.soompi.com/article/1552689wpp/melon-music-awards-2022-announces-nominees-voting-begins",
+  "w": 1400
+ },
+ "record-2022-11-04-mma-2022-artist-of-the-year-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2022-11-04-mma-2022-artist-of-the-year-nomination.jpg",
+  "h": 933,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2022/11/04154300/Melon-Music-Awards-2022.jpg",
+  "page_url": "https://www.soompi.com/article/1552689wpp/melon-music-awards-2022-announces-nominees-voting-begins",
+  "w": 1400
+ },
+ "record-2022-11-04-mma-2022-best-group-female-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2022-11-04-mma-2022-best-group-female-nomination.jpg",
+  "h": 933,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2022/11/04154300/Melon-Music-Awards-2022.jpg",
+  "page_url": "https://www.soompi.com/article/1552689wpp/melon-music-awards-2022-announces-nominees-voting-begins",
+  "w": 1400
  },
  "record-2022-11-26-mma-2022-best-new-artist": {
   "fetched": "2026-10-15",
@@ -6589,6 +7021,30 @@
   "h": 600,
   "image_url": "https://0.soompi.io/wp-content/uploads/2022/12/05104022/NewJeans-BLACKPINK-SEVENTEEN-IVE-Stray-Kids-aespa.jpg",
   "page_url": "https://www.soompi.com/article/1557263wpp/newjeans-blackpink-seventeen-ive-and-more-make-rolling-stones-the-100-best-songs-of-2022-list",
+  "w": 900
+ },
+ "record-2022-12-06-sma-32-hallyu-special-award-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2022-12-06-sma-32-hallyu-special-award-nomination.jpg",
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2022/12/06051737/Seoul-Music-Awards.jpg",
+  "page_url": "https://www.soompi.com/article/1557390wpp/32nd-seoul-music-awards-announces-nominees-voting-begins",
+  "w": 900
+ },
+ "record-2022-12-06-sma-32-popularity-award-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2022-12-06-sma-32-popularity-award-nomination.jpg",
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2022/12/06051737/Seoul-Music-Awards.jpg",
+  "page_url": "https://www.soompi.com/article/1557390wpp/32nd-seoul-music-awards-announces-nominees-voting-begins",
+  "w": 900
+ },
+ "record-2022-12-07-gda-37-digital-song-division-attention-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2022-12-07-gda-37-digital-song-division-attention-nomination.jpg",
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2022/12/06192339/37th-Golden-Disc-Awards.png",
+  "page_url": "https://www.soompi.com/article/1557448wpp/37th-golden-disc-awards-announces-nominees",
   "w": 900
  },
  "record-2022-12-13-aaa-2022-best-new-artist": {
@@ -6789,6 +7245,30 @@
   "h": 600,
   "image_url": "https://0.soompi.io/wp-content/uploads/2023/02/09150915/TXT-NCT-127-NewJeans-Taeyang-Jimin-BLACKPINK.jpg",
   "page_url": "https://www.soompi.com/article/1566104wpp/txt-nct-127-newjeans-taeyang-jimin-and-blackpink-top-circle-monthly-and-weekly-charts",
+  "w": 900
+ },
+ "record-2023-02-09-kma-20-album-of-the-year-new-jeans-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2023-02-09-kma-20-album-of-the-year-new-jeans-nomination.jpg",
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/02/09085024/NewJeans-GIDLE-IVE-LE-SSERAFIM-Taeyeon-Wonpil.jpg",
+  "page_url": "https://www.soompi.com/article/1566047wpp/2023-korean-music-awards-announces-this-years-nominees",
+  "w": 900
+ },
+ "record-2023-02-09-kma-20-musician-of-the-year-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2023-02-09-kma-20-musician-of-the-year-nomination.jpg",
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/02/09085024/NewJeans-GIDLE-IVE-LE-SSERAFIM-Taeyeon-Wonpil.jpg",
+  "page_url": "https://www.soompi.com/article/1566047wpp/2023-korean-music-awards-announces-this-years-nominees",
+  "w": 900
+ },
+ "record-2023-02-09-kma-20-song-of-the-year-attention-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2023-02-09-kma-20-song-of-the-year-attention-nomination.jpg",
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/02/09085024/NewJeans-GIDLE-IVE-LE-SSERAFIM-Taeyeon-Wonpil.jpg",
+  "page_url": "https://www.soompi.com/article/1566047wpp/2023-korean-music-awards-announces-this-years-nominees",
   "w": 900
  },
  "record-2023-02-11-artist-100-debut": {
@@ -7207,20 +7687,20 @@
   "page_url": "https://www.soompi.com/article/1618372wpp/newjeans-becomes-1st-k-pop-girl-group-to-chart-an-album-for-10-weeks-in-top-60-of-billboard-200",
   "w": 900
  },
- "record-2023-10-10-tma-2023-artist-of-the-year-bonsang": {
-  "fetched": "2026-10-15",
-  "file": "record-2023-10-10-tma-2023-artist-of-the-year-bonsang.jpg",
+ "record-2023-10-19-mama-2023-album-of-the-year-get-up-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2023-10-19-mama-2023-album-of-the-year-get-up-nomination.jpg",
   "h": 600,
-  "image_url": "https://0.soompi.io/wp-content/uploads/2023/10/10071004/The-Fact-Music-Awards.jpg",
-  "page_url": "https://www.soompi.com/article/1618814wpp/winners-of-2023-the-fact-music-awards",
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/10/19022508/2023mama.jpg",
+  "page_url": "https://www.soompi.com/article/1620737wpp/2023-mama-awards-announces-nominees-pre-voting-begins",
   "w": 900
  },
- "record-2023-10-10-tma-2023-listeners-choice": {
-  "fetched": "2026-10-15",
-  "file": "record-2023-10-10-tma-2023-listeners-choice.jpg",
+ "record-2023-10-19-mama-2023-worldwide-fans-choice-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2023-10-19-mama-2023-worldwide-fans-choice-nomination.jpg",
   "h": 600,
-  "image_url": "https://0.soompi.io/wp-content/uploads/2023/10/10071004/The-Fact-Music-Awards.jpg",
-  "page_url": "https://www.soompi.com/article/1618814wpp/winners-of-2023-the-fact-music-awards",
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/10/19022508/2023mama.jpg",
+  "page_url": "https://www.soompi.com/article/1620737wpp/2023-mama-awards-announces-nominees-pre-voting-begins",
   "w": 900
  },
  "record-2023-10-21-korea-popular-culture-arts-awards-2023": {
@@ -7255,6 +7735,38 @@
   "page_url": "https://www.soompi.com/article/1624260wpp/newjeans-becomes-1st-k-pop-girl-group-to-chart-an-album-in-top-100-of-billboard-200-for-14-weeks",
   "w": 900
  },
+ "record-2023-11-05-sma-33-hallyu-special-award-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2023-11-05-sma-33-hallyu-special-award-nomination.jpg",
+  "h": 989,
+  "image_url": "https://images.khan.co.kr/article/2023/12/18/news-p.v1.20231218.0d420708951f4d2d9916e057c908e224_P1.jpg",
+  "page_url": "https://sports.khan.co.kr/article/202312180856003",
+  "w": 700
+ },
+ "record-2023-11-05-sma-33-popularity-award-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2023-11-05-sma-33-popularity-award-nomination.jpg",
+  "h": 989,
+  "image_url": "https://images.khan.co.kr/article/2023/12/18/news-p.v1.20231218.0d420708951f4d2d9916e057c908e224_P1.jpg",
+  "page_url": "https://sports.khan.co.kr/article/202312180856003",
+  "w": 700
+ },
+ "record-2023-11-17-mma-2023-album-of-the-year-get-up-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2023-11-17-mma-2023-album-of-the-year-get-up-nomination.jpg",
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/11/17181741/Melon-Music-Awards-2023.jpg",
+  "page_url": "https://www.soompi.com/article/1627047wpp/melon-music-awards-2023-announces-nominees-for-daesangs-and-category-awards",
+  "w": 900
+ },
+ "record-2023-11-17-mma-2023-kakaobank-favorite-star-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2023-11-17-mma-2023-kakaobank-favorite-star-nomination.jpg",
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/11/17181741/Melon-Music-Awards-2023.jpg",
+  "page_url": "https://www.soompi.com/article/1627047wpp/melon-music-awards-2023-announces-nominees-for-daesangs-and-category-awards",
+  "w": 900
+ },
  "record-2023-11-19-bbma-2023-top-global-kpop-artist": {
   "fetched": "2026-10-15",
   "file": "record-2023-11-19-bbma-2023-top-global-kpop-artist.jpg",
@@ -7270,6 +7782,14 @@
   "image_url": "https://0.soompi.io/wp-content/uploads/2023/11/21124540/Stray-Kids-Jungkook-NewJeans-TXT-FIFTY-FIFTY-Jimin.jpg",
   "page_url": "https://www.soompi.com/article/1627782wpp/billboard-reveals-2023-year-end-charts",
   "w": 900
+ },
+ "record-2023-11-22-japan-record-awards-65-grand-prix-ditto-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2023-11-22-japan-record-awards-65-grand-prix-ditto-nomination.jpg",
+  "h": 495,
+  "image_url": "https://img-mdpr.freetls.fastly.net/article/_I9X/nm/_I9X8S0u7USkddnFpFtER59rQ2Q1UnhPbyKDmQSMwhY.jpg?width=700&disable=upscale&auto=webp&quality=80",
+  "page_url": "https://mdpr.jp/music/detail/4062561",
+  "w": 700
  },
  "record-2023-11-29-mama-2023-artist-of-the-year": {
   "fetched": "2026-10-15",
@@ -7527,6 +8047,22 @@
   "page_url": "https://www.soompi.com/article/1636568wpp/winners-of-the-13th-circle-chart-music-awards",
   "w": 900
  },
+ "record-2024-01-26-kma-21-album-of-the-year-get-up-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2024-01-26-kma-21-album-of-the-year-get-up-nomination.jpg",
+  "h": 630,
+  "image_url": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202401/26/HockeyNewsKorea/20240126172205415mbsc.jpg",
+  "page_url": "https://v.daum.net/v/20240126172203679",
+  "w": 1200
+ },
+ "record-2024-02-18-hanteo-music-awards-31-whosfandom-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2024-02-18-hanteo-music-awards-31-whosfandom-nomination.jpg",
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2024/01/03233132/hma.png",
+  "page_url": "https://soompi.com/article/1635171wpp/hanteo-music-awards-2023-announces-nominees",
+  "w": 900
+ },
  "record-2024-02-21-ifpi-global-artist-chart-2023-no8": {
   "fetched": "2026-10-15",
   "file": "record-2024-02-21-ifpi-global-artist-chart-2023-no8.jpg",
@@ -7581,6 +8117,14 @@
   "h": 630,
   "image_url": "https://www.golddisc.jp/award/38/img_ogp/ogp.png",
   "page_url": "https://www.golddisc.jp/award/38/",
+  "w": 1200
+ },
+ "record-2024-03-18-spikes-asia-2024-coca-cola-zero-shortlist": {
+  "fetched": "2026-10-17",
+  "file": "record-2024-03-18-spikes-asia-2024-coca-cola-zero-shortlist.jpg",
+  "h": 683,
+  "image_url": "https://image.koreajoongangdaily.com/11408931.jpg?imageId=11408931&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
+  "page_url": "https://www.koreajoongangdaily.com/entertainment/newjeans-eta-video-earns-bronze-at-spikes-asia-awards/11408697",
   "w": 1200
  },
  "record-2024-03-18-spikes-asia-2024-eta-bronze": {
@@ -7743,6 +8287,54 @@
   "page_url": "https://soompi.com/article/1691593wpp/newjeans-jungkook-aespa-ive-g-dragon-le-sserafim-bts-and-treasure-earn-riaj-platinum-and-gold-certifications-in-japan",
   "w": 1200
  },
+ "record-2024-10-14-mama-2024-artist-of-the-year-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2024-10-14-mama-2024-artist-of-the-year-nomination.jpg",
+  "h": 800,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2024/07/17170321/2024-MAMA-Awards.jpg",
+  "page_url": "https://www.soompi.com/article/1694893wpp/2024-mama-awards-announces-nominees-fans-choice-voting-begins",
+  "w": 1200
+ },
+ "record-2024-10-14-mama-2024-best-choreography-supernatural-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2024-10-14-mama-2024-best-choreography-supernatural-nomination.jpg",
+  "h": 800,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2024/07/17170321/2024-MAMA-Awards.jpg",
+  "page_url": "https://www.soompi.com/article/1694893wpp/2024-mama-awards-announces-nominees-fans-choice-voting-begins",
+  "w": 1200
+ },
+ "record-2024-10-14-mama-2024-best-dance-performance-female-group-how-sweet-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2024-10-14-mama-2024-best-dance-performance-female-group-how-sweet-nomination.jpg",
+  "h": 800,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2024/07/17170321/2024-MAMA-Awards.jpg",
+  "page_url": "https://www.soompi.com/article/1694893wpp/2024-mama-awards-announces-nominees-fans-choice-voting-begins",
+  "w": 1200
+ },
+ "record-2024-10-14-mama-2024-best-female-group-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2024-10-14-mama-2024-best-female-group-nomination.jpg",
+  "h": 800,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2024/07/17170321/2024-MAMA-Awards.jpg",
+  "page_url": "https://www.soompi.com/article/1694893wpp/2024-mama-awards-announces-nominees-fans-choice-voting-begins",
+  "w": 1200
+ },
+ "record-2024-10-14-mama-2024-song-of-the-year-how-sweet-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2024-10-14-mama-2024-song-of-the-year-how-sweet-nomination.jpg",
+  "h": 800,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2024/07/17170321/2024-MAMA-Awards.jpg",
+  "page_url": "https://www.soompi.com/article/1694893wpp/2024-mama-awards-announces-nominees-fans-choice-voting-begins",
+  "w": 1200
+ },
+ "record-2024-10-14-mama-2024-song-of-the-year-supernatural-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2024-10-14-mama-2024-song-of-the-year-supernatural-nomination.jpg",
+  "h": 800,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2024/07/17170321/2024-MAMA-Awards.jpg",
+  "page_url": "https://www.soompi.com/article/1694893wpp/2024-mama-awards-announces-nominees-fans-choice-voting-begins",
+  "w": 1200
+ },
  "record-2024-10-25-edaily-culture-awards-11-frontier-award": {
   "fetched": "2026-10-15",
   "file": "record-2024-10-25-edaily-culture-awards-11-frontier-award.jpg",
@@ -7758,6 +8350,22 @@
   "image_url": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202411/14/koreaherald/20241114173745287bpnt.jpg",
   "page_url": "https://v.daum.net/v/20241114173743542",
   "w": 1200
+ },
+ "record-2024-11-15-mma-2024-artist-of-the-year-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2024-11-15-mma-2024-artist-of-the-year-nomination.jpg",
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2024/09/03181753/mma-2024-1.png",
+  "page_url": "https://www.soompi.com/article/1703533wpp/melon-music-awards-2024-announces-nominees",
+  "w": 900
+ },
+ "record-2024-11-15-mma-2024-best-group-female-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2024-11-15-mma-2024-best-group-female-nomination.jpg",
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2024/09/03181753/mma-2024-1.png",
+  "page_url": "https://www.soompi.com/article/1703533wpp/melon-music-awards-2024-announces-nominees",
+  "w": 900
  },
  "record-2024-11-16-kgma-2024-best-artist": {
   "fetched": "2026-10-15",
@@ -7775,6 +8383,14 @@
   "page_url": "https://www.soompi.com/article/1703865wpp/winners-of-1st-korea-grand-music-awards-kgma-day-1",
   "w": 1200
  },
+ "record-2024-11-21-mama-2024-fans-choice-of-the-year-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2024-11-21-mama-2024-fans-choice-of-the-year-nomination.jpg",
+  "h": 800,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2024/07/17170321/2024-MAMA-Awards.jpg",
+  "page_url": "https://www.soompi.com/article/1694893wpp/2024-mama-awards-announces-nominees-fans-choice-voting-begins",
+  "w": 1200
+ },
  "record-2024-11-22-mama-2024-fans-choice-top-10-female": {
   "fetched": "2026-10-15",
   "file": "record-2024-11-22-mama-2024-fans-choice-top-10-female.jpg",
@@ -7782,6 +8398,14 @@
   "image_url": "https://www.nme.com/wp-content/uploads/2024/11/2024-mama-awards-winners-seventeen-aespa-bruno-mars.jpg",
   "page_url": "https://www.nme.com/news/music/here-are-all-the-winners-from-the-2024-mama-awards-3815463",
   "w": 1400
+ },
+ "record-2024-11-30-mma-2024-kakaobank-everyones-star-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2024-11-30-mma-2024-kakaobank-everyones-star-nomination.jpg",
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2024/09/03181753/mma-2024-1.png",
+  "page_url": "https://www.soompi.com/article/1703533wpp/melon-music-awards-2024-announces-nominees",
+  "w": 900
  },
  "record-2024-11-30-mma-2024-top-10": {
   "fetched": "2026-10-15",
@@ -7870,6 +8494,62 @@
   "image_url": "https://resource.hanteonews.com/content/post/2025/02/17/cad584af-90e9-4487-93e7-9a1516e9e9a3.jpg",
   "page_url": "https://www.hanteonews.com/en/article/75922",
   "w": 1400
+ },
+ "record-2025-03-24-sma-34-bonsang-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2025-03-24-sma-34-bonsang-nomination.jpg",
+  "h": 1169,
+  "image_url": "https://isplus.com/data/isp/image/2025/03/24/isp20250324000220.800x.0.jpeg",
+  "page_url": "https://isplus.com/article/view/isp202503240165",
+  "w": 800
+ },
+ "record-2025-03-24-sma-34-k-pop-world-choice-group-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2025-03-24-sma-34-k-pop-world-choice-group-nomination.jpg",
+  "h": 1169,
+  "image_url": "https://isplus.com/data/isp/image/2025/03/24/isp20250324000220.800x.0.jpeg",
+  "page_url": "https://isplus.com/article/view/isp202503240165",
+  "w": 800
+ },
+ "record-2025-03-24-sma-34-k-wave-special-award-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2025-03-24-sma-34-k-wave-special-award-nomination.jpg",
+  "h": 1169,
+  "image_url": "https://isplus.com/data/isp/image/2025/03/24/isp20250324000220.800x.0.jpeg",
+  "page_url": "https://isplus.com/article/view/isp202503240165",
+  "w": 800
+ },
+ "record-2025-03-24-sma-34-popularity-award-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2025-03-24-sma-34-popularity-award-nomination.jpg",
+  "h": 1169,
+  "image_url": "https://isplus.com/data/isp/image/2025/03/24/isp20250324000220.800x.0.jpeg",
+  "page_url": "https://isplus.com/article/view/isp202503240165",
+  "w": 800
+ },
+ "record-2025-04-17-music-awards-japan-2025-best-k-pop-song-supernatural-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2025-04-17-music-awards-japan-2025-best-k-pop-song-supernatural-nomination.jpg",
+  "h": 818,
+  "image_url": "https://realsound.jp/wp-content/uploads/2025/04/20250417-maj-99.jpg",
+  "page_url": "https://realsound.jp/2025/04/post-1993849_2.html",
+  "w": 1200
+ },
+ "record-2025-04-17-music-awards-japan-2025-listeners-choice-international-song-how-sweet-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2025-04-17-music-awards-japan-2025-listeners-choice-international-song-how-sweet-nomination.jpg",
+  "h": 818,
+  "image_url": "https://realsound.jp/wp-content/uploads/2025/04/20250417-maj-99.jpg",
+  "page_url": "https://realsound.jp/2025/04/post-1993849_2.html",
+  "w": 1200
+ },
+ "record-2025-04-17-music-awards-japan-2025-listeners-choice-international-song-supernatural-nomination": {
+  "fetched": "2026-10-17",
+  "file": "record-2025-04-17-music-awards-japan-2025-listeners-choice-international-song-supernatural-nomination.jpg",
+  "h": 818,
+  "image_url": "https://realsound.jp/wp-content/uploads/2025/04/20250417-maj-99.jpg",
+  "page_url": "https://realsound.jp/2025/04/post-1993849_2.html",
+  "w": 1200
  },
  "record-2025-05-13-billboard-21-under-21-2025": {
   "fetched": "2026-10-15",

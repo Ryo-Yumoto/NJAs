@@ -541,6 +541,59 @@
     }
   },
   {
+    "id": "music-2023-05-22-the-little-mermaid-korean-version-soundtrack",
+    "date": "2023-05-22",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "music",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "『リトル・マーメイド』韓国語版サウンドトラック（ダニエル参加）",
+      "en": "The Little Mermaid (Korean Version Soundtrack) - Danielle as Ariel",
+      "original": "인어공주 (한국어 버전 사운드트랙)"
+    },
+    "summary": {
+      "ja": "韓国語吹替版でアリエル役を務めたダニエルが「저곳으로」など4曲を歌う、全15曲の韓国語版サウンドトラック。",
+      "en": "The 15-track Korean-version soundtrack of The Little Mermaid, with Danielle, the Korean voice of Ariel, singing four songs."
+    },
+    "detail": {
+      "ja": "ディズニー映画『リトル・マーメイド』の韓国語版サウンドトラックで、Walt Disney Recordsから配信された。全15曲のうち、ダニエルは「저곳으로（Part of Your World）」「저곳으로（リプライズ）」「처음으로（For the First Time）」「저 곳으로（リプライズII）」の4曲を歌っている。ほかに韓国語版キャストによる「신비한 바다 밑」「불쌍한 영혼」「입 맞춰」などと、Alan Menkenのスコア曲を収録。「저곳으로」は5月17日に先行配信されていた。",
+      "en": "The Korean-version soundtrack of Disney's The Little Mermaid, released by Walt Disney Records. Of its 15 tracks, Danielle sings four: 'Part of Your World' (저곳으로), its reprise, 'For the First Time' (처음으로) and 'Part of Your World (Reprise II)'. It also includes Korean-cast versions of 'Under the Sea', 'Poor Unfortunate Souls' and 'Kiss the Girl', alongside Alan Menken's score cues. 'Part of Your World' had been released ahead on May 17."
+    },
+    "credits": {
+      "label": "Walt Disney Records",
+      "distributor": "Universal Music Group",
+      "composer": "Alan Menken",
+      "danielle_tracks": "저곳으로 / 저곳으로 (리프라이즈) / 처음으로 / 저 곳으로 (리프라이즈 II)"
+    },
+    "source_url": "https://www.melon.com/album/detail.htm?albumId=11249055",
+    "reference_urls": [
+      "https://www.melon.com/album/detail.htm?albumId=11251050",
+      "https://www.last.fm/music/Danielle/_/Part+of+Your+World/+albums"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "links": {
+      "melon": "https://www.melon.com/album/detail.htm?albumId=11249055"
+    },
+    "image": {
+      "url": "https://cdnimg.melon.co.kr/cm2/album/images/112/49/055/11249055_20240507142911_500.jpg",
+      "source_url": "https://www.melon.com/album/detail.htm?albumId=11249055"
+    },
+    "tags": [
+      "ost",
+      "disney",
+      "soundtrack",
+      "solo"
+    ],
+    "verified": true,
+    "editor_note": "Melon album 11249055 「인어공주 (한국어 버전 사운드트랙)」 release date 2023.05.22, 15 tracks, Danielle credited on tracks 2/4/8/13. A 37-track deluxe edition (album 11251050) followed on 2023.05.26 with the same Danielle tracks; not added separately. Other Korean cast per Melon: Lee Jae-ho, Jung Sang-hoon, Jung Young-ju, Ra Jun et al. Release time not confirmed."
+  },
+  {
     "id": "music-2023-05-31-be-who-you-are-real-magic",
     "date": "2023-05-31",
     "date_type": "release",

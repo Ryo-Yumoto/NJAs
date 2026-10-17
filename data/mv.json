@@ -2514,6 +2514,49 @@
     }
   },
   {
+    "id": "mv-2023-05-17-part-of-your-world-danielle-mv",
+    "date": "2023-05-17",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "「저곳으로（Part of Your World）」MV - ダニエル（『リトル・マーメイド』韓国語版OST）",
+      "en": "'Part of Your World' (Korean ver.) music video - Danielle",
+      "original": "DANIELLE - 저곳으로 (인어공주)"
+    },
+    "summary": {
+      "ja": "韓国語吹替版でアリエル役を務めるダニエルが歌う「저곳으로」のMV。ディズニー・ミュージック・コリアの公式チャンネルで公開。",
+      "en": "Music video for the Korean 'Part of Your World', sung by Danielle, the Korean voice of Ariel, released on Disney Music Korea's channel."
+    },
+    "detail": {
+      "ja": "ディズニー映画『リトル・マーメイド』韓国語吹替版の主題歌「저곳으로（Part of Your World）」のミュージックビデオで、ダニエル本人が出演している。音源の配信と同じ日に、DisneyMusicKoreaVEVOのYouTubeチャンネルで公開された。韓国語吹替版の公開は5月24日に予定されていた。",
+      "en": "Music video for 'Part of Your World' (저곳으로), Ariel's song in the Korean dub of Disney's The Little Mermaid, featuring Danielle herself. It went up on the DisneyMusicKoreaVEVO YouTube channel the same day the song was released. The Korean-dubbed film was due to open on May 24."
+    },
+    "credits": {
+      "channel": "DisneyMusicKoreaVEVO",
+      "label": "Walt Disney Records"
+    },
+    "source_url": "https://www.youtube.com/watch?v=ho0d4rf1LwY",
+    "reference_urls": [
+      "https://enews.imbc.com/News/RetrieveNewsInfo/382330"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "ho0d4rf1LwY"
+    },
+    "tags": [
+      "ost",
+      "disney",
+      "solo"
+    ],
+    "verified": true,
+    "editor_note": "Official upload on DisneyMusicKoreaVEVO (YouTube next API, KST): 2023-05-17. MV released with the single per iMBC enews 382330 (18:00 KST release); time not set because the MV upload time itself was not confirmed. Companion music record: music-2023-05-17-danielle-part-of-your-world."
+  },
+  {
     "id": "mv-2023-05-22-coke-studio-new-music-coming-shorts",
     "date": "2023-05-22",
     "date_type": "release",
@@ -2596,6 +2639,48 @@
     }
   },
   {
+    "id": "mv-2023-05-31-be-who-you-are-real-magic-mv",
+    "date": "2023-05-31",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Be Who You Are (Real Magic)」MV（Coke Studio）",
+      "en": "'Be Who You Are (Real Magic)' music video (Coke Studio)"
+    },
+    "summary": {
+      "ja": "Jon Batiste、J.I.D、NewJeans、Cat Burns、Camiloが共演したCoke Studioのテーマ曲のMV。",
+      "en": "Coke Studio's music video for 'Be Who You Are (Real Magic)', starring Jon Batiste, J.I.D, NewJeans, Cat Burns and Camilo."
+    },
+    "detail": {
+      "ja": "コカ・コーラの音楽プラットフォームCoke Studioのために作られたJon Batisteの楽曲「Be Who You Are (Real Magic)」のミュージックビデオで、Coke Studio公式YouTubeチャンネルで公開された。Jon Batiste、Camilo、J.I.D、Cat Burns、NewJeansが共演している。Coke Studioは、自分らしくいることで他者とつながり「Real Magic」の瞬間が生まれるというメッセージを掲げた。",
+      "en": "Music video for Jon Batiste's 'Be Who You Are (Real Magic)', made for Coca-Cola's music platform Coke Studio and released on the Coke Studio YouTube channel. Jon Batiste, Camilo, J.I.D, Cat Burns and NewJeans all appear. Coke Studio framed the song around being true to yourself as the way to connect with others and create 'Real Magic' moments."
+    },
+    "credits": {
+      "channel": "Coke Studio",
+      "artists": "Jon Batiste, Camilo, J.I.D, Cat Burns, NewJeans"
+    },
+    "source_url": "https://www.youtube.com/watch?v=XEsrFIQOWZg",
+    "reference_urls": [
+      "https://www.coca-cola.com/xe/en/media-center/coke-studio-second-season-jon-batiste-new-anthem"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "XEsrFIQOWZg"
+    },
+    "tags": [
+      "collaboration",
+      "coca-cola",
+      "coke-studio"
+    ],
+    "verified": true,
+    "editor_note": "Official upload on the Coke Studio channel (@cokestudioglobal); YouTube next API with KST timezone gives 2023-05-31. Companion music record: music-2023-05-31-be-who-you-are-real-magic."
+  },
+  {
     "id": "mv-2023-06-19-get-up-coming-soon-shorts",
     "date": "2023-06-19",
     "date_type": "release",
@@ -2638,6 +2723,49 @@
       "channel": "NewJeans",
       "label": "ADOR"
     }
+  },
+  {
+    "id": "mv-2023-06-21-zero-remix-coke-studio-performance",
+    "date": "2023-06-21",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Zero (Remix)」パフォーマンス映像 - NewJeans × J.I.D（Coke Studio）",
+      "en": "NewJeans x J.I.D 'Zero (Remix)' performance video (Coke Studio)"
+    },
+    "summary": {
+      "ja": "NewJeansとJ.I.Dが共作した「Zero (Remix)」を初めて披露した、Coke Studioのパフォーマンス映像。",
+      "en": "Coke Studio's video of NewJeans and J.I.D giving the first performance of their co-written 'Zero (Remix)'."
+    },
+    "detail": {
+      "ja": "コカ・コーラのCoke Studio公式YouTubeチャンネルで公開された映像で、NewJeansとアメリカのラッパーJ.I.Dが共作した「Zero (Remix)」を初めて一緒にパフォーマンスしている。Coke Studioは「collision session」と位置づけた。リミックス音源の配信と同じ日の公開。",
+      "en": "Video released on Coca-Cola's Coke Studio YouTube channel showing NewJeans and American rapper J.I.D giving the first performance of their co-written 'Zero (Remix)', billed by Coke Studio as a 'collision session'. It came out the same day as the remix itself."
+    },
+    "credits": {
+      "channel": "Coke Studio",
+      "featuring": "J.I.D"
+    },
+    "source_url": "https://www.youtube.com/watch?v=HX9vJaXD8WE",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/Zero_(NewJeans_song)"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "HX9vJaXD8WE"
+    },
+    "tags": [
+      "remix",
+      "coca-cola",
+      "coke-studio",
+      "performance"
+    ],
+    "verified": true,
+    "editor_note": "Ledger URL youtube akUtjUv1TlA is a re-upload by an unofficial channel (Himanshu Chaurasiya, uploaded 2025-12-29); replaced with the official Coke Studio upload HX9vJaXD8WE (2023-06-21 KST). Coke Studio's own description calls it a performance ('collision session'), not a narrative MV. Companion music record: music-2023-06-21-zero-j-i-d-remix."
   },
   {
     "id": "mv-2023-06-26-eta-teaser",
@@ -3787,6 +3915,51 @@
     }
   },
   {
+    "id": "mv-2023-09-01-beautiful-restriction-special-mv",
+    "date": "2023-09-01",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「아름다운 구속（Beautiful Restriction）」スペシャルMV（『いつかの君に』OST）",
+      "en": "'Beautiful Restriction' special music video (A Time Called You OST)",
+      "original": "아름다운 구속 Special MV"
+    },
+    "summary": {
+      "ja": "Netflixシリーズ『いつかの君に』OST Part 1「아름다운 구속」のスペシャルMV。ドラマの場面で構成された。",
+      "en": "Special music video for 'Beautiful Restriction', OST Part 1 of the Netflix series A Time Called You, built from scenes of the drama."
+    },
+    "detail": {
+      "ja": "Netflixシリーズ『いつかの君に（너의 시간 속으로）』のOST Part 1としてNewJeansが歌った「아름다운 구속」のスペシャルMVで、ドラマの場面で構成されている。OST流通会社STONE MUSIC ENTERTAINMENTの公式チャンネルと、Netflix Koreaのチャンネルで同じ日に公開された。原曲は1996年のKim Jong-seoの同名曲。",
+      "en": "Special music video for 'Beautiful Restriction' (아름다운 구속), NewJeans' OST Part 1 for the Netflix series A Time Called You, made up of scenes from the drama. It was posted the same day on the official channel of OST distributor Stone Music Entertainment and on Netflix Korea's channel. The song remakes Kim Jong-seo's 1996 original."
+    },
+    "credits": {
+      "channel": "STONE MUSIC ENTERTAINMENT; Netflix Korea",
+      "lyricist": "Han Kyung-hye",
+      "composer": "Kim Jong-seo",
+      "arranger": "Big Sancho, Jerry Potter (YummyTONE)",
+      "publisher": "Netflix Music, LLC"
+    },
+    "source_url": "https://www.youtube.com/watch?v=rgatpvBpwpU",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=wigfZd4gK24"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "rgatpvBpwpU"
+    },
+    "tags": [
+      "ost",
+      "netflix"
+    ],
+    "verified": true,
+    "editor_note": "Uploads: STONE MUSIC (rgatpvBpwpU) and Netflix Korea (wigfZd4gK24), both 2023-09-01 KST per YouTube next API. Thumbnail shows drama footage; whether the members appear in the video was not checked. No HYBE LABELS / NewJeans channel upload found. Companion music record: music-2023-09-01-beautiful-restriction."
+  },
+  {
     "id": "mv-2023-10-04-gods-ft-newjeans-official-music-video-worlds-2023-anthem",
     "date": "2023-10-04",
     "date_type": "release",
@@ -4296,6 +4469,55 @@
       "venue": "Jakarta International Stadium, Jakarta",
       "runtime": "6:52"
     }
+  },
+  {
+    "id": "mv-2024-02-23-iu-shh-feat-hyein-mv",
+    "date": "2024-02-23",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "IU「Shh..（Feat. HYEIN, 조원선 & Special Narr. 패티김）」MV",
+      "en": "IU 'Shh.. (Feat. Hyein, Joe Won-sun & Special Narr. Patti Kim)' music video",
+      "original": "Shh.. (Feat. HYEIN, 조원선 & Special Narr. 패티김)"
+    },
+    "summary": {
+      "ja": "ヘインがフィーチャリングで参加したIUの「Shh..」MV。タン・ウェイが出演し、IU公式チャンネルで公開。",
+      "en": "Music video for IU's 'Shh..', featuring Hyein's vocals and starring Tang Wei, released on IU's official channel."
+    },
+    "detail": {
+      "ja": "IUの6thミニアルバム『The Winning』収録曲「Shh..」のミュージックビデオで、IUの公式YouTubeチャンネル「이지금 [IU Official]」で公開された。曲にはヘインとチョ・ウォンソンがフィーチャリングで参加し、パティ・キムがスペシャルナレーションを務めた。映像には女優のタン・ウェイが出演している。作詞はIU、作曲はイ・ジョンフンとイ・チェギュ。",
+      "en": "Music video for 'Shh..', a track on IU's sixth EP The Winning, released on IU's official YouTube channel (이지금 [IU Official]). The song features Hyein and Joe Won-sun, with a special narration by Patti Kim, and the video stars actress Tang Wei. IU wrote the lyrics; Lee Jong-hoon and Lee Chae-gyu composed it."
+    },
+    "credits": {
+      "artist": "IU",
+      "featuring": "Hyein, Joe Won-sun",
+      "narration": "Patti Kim",
+      "lyricist": "IU",
+      "composer": "Lee Jong-hoon, Lee Chae-gyu",
+      "arranger": "Lee Jong-hoon, Lee Chae-gyu, Hong So-jin",
+      "channel": "이지금 [IU Official]"
+    },
+    "source_url": "https://www.youtube.com/watch?v=VIDQTyNmkN4",
+    "reference_urls": [
+      "https://www.wkorea.com/2024/02/23/%ed%83%95%ec%9b%a8%ec%9d%b4%ea%b0%80-%ec%95%84%ec%9d%b4%ec%9c%a0%ec%97%90%ea%b2%8c-%ea%b1%b4%eb%84%a8-%ed%8e%b8%ec%a7%80/",
+      "https://www.gmanetwork.com/entertainment/showbiznews/iu-drops-cinematic-music-video-shh/110084"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "VIDQTyNmkN4"
+    },
+    "tags": [
+      "feature",
+      "collaboration",
+      "iu"
+    ],
+    "verified": true,
+    "editor_note": "Official IU channel upload 2024-02-23 (KST per YouTube next API); exact time (00:00 vs 18:00 in reports) not resolved, so no time set. Whether Hyein appears on screen was not confirmed; text only says the song features her. Teaser posted 2024-02-13 (not recorded). Companion music record: music-2024-02-20-iu-shh-feat-hyein."
   },
   {
     "id": "mv-2024-03-27-its-coming-shorts",

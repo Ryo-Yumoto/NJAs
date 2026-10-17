@@ -411,7 +411,7 @@
    "date": "2023-05-01",
    "title": "The Little Mermaid (Korean Original Motion Picture Soundtrack) - Danielle as Ariel",
    "url": "https://www.last.fm/music/Danielle/_/Part+of+Your+World/+albums",
-   "record": null,
+   "record": "music-2023-05-22-the-little-mermaid-korean-version-soundtrack",
    "exclude": null,
    "note": "韓国語版サントラ全体（Last.fmで15曲版5/22・デラックス版5/26の記載）。ダニエル歌唱の収録曲と配信日は要確認（月精度）"
   },
@@ -429,7 +429,7 @@
    "date": "2023-05-17",
    "title": "'Part of Your World' (The Little Mermaid Korean ver.) MV - Danielle (Disney Music Korea VEVO)",
    "url": "https://soompi.com/article/1586816wpp/watch-newjeanss-danielle-to-dub-ariel-role-for-the-little-mermaid-film-disney-reveals-part-of-your-world-teasers",
-   "record": null,
+   "record": "mv-2023-05-17-part-of-your-world-danielle-mv",
    "exclude": null,
    "note": "mv | ディズニー・ミュージック・コリアVEVOで公開"
   },
@@ -447,7 +447,7 @@
    "date": "2023-05-31",
    "title": "'Be Who You Are (Real Magic)' Official Music Video (Coke Studio)",
    "url": "https://www.coca-cola.com/xe/en/media-center/coke-studio-second-season-jon-batiste-new-anthem",
-   "record": null,
+   "record": "mv-2023-05-31-be-who-you-are-real-magic-mv",
    "exclude": null,
    "note": "mv | Coke Studio公式チャンネル。米国5/31公開"
   },
@@ -465,7 +465,7 @@
    "date": "2023-06-21",
    "title": "'Zero (J.I.D Remix)' Music Video",
    "url": "https://www.youtube.com/watch?v=akUtjUv1TlA",
-   "record": null,
+   "record": "mv-2023-06-21-zero-remix-coke-studio-performance",
    "exclude": null,
    "note": "mv | en.wikipedia Zero記事（MVは6/21公開）"
   },
@@ -613,7 +613,7 @@
    "date": "2023-09-01",
    "title": "'Beautiful Restriction' (A Time Called You OST) MV",
    "url": "https://www.youtube.com/watch?v=rgatpvBpwpU",
-   "record": null,
+   "record": "mv-2023-09-01-beautiful-restriction-special-mv",
    "exclude": null,
    "note": "mv | ja.wikipedia MV一覧に記載"
   },
@@ -719,7 +719,7 @@
    "date": "2024-02-23",
    "title": "IU 'Shh..' MV (feat. Hyein, Joe Won-sun; stars Tang Wei)",
    "url": "https://www.gmanetwork.com/entertainment/showbiznews/iu-drops-cinematic-music-video-shh/110084",
-   "record": null,
+   "record": "mv-2024-02-23-iu-shh-feat-hyein-mv",
    "exclude": null,
    "note": "mv | 公開日は2024-02-23 00:00 KSTとする報道と同日18:00とする報道あり。ヘインは歌唱参加（映像出演は未確認）"
   },
@@ -825,9 +825,9 @@
    "date": "2024-06-26",
    "title": "Butterflies (With You) - Danielle (self-written, unreleased; premiered at Bunnies Camp 2024 Tokyo Dome)",
    "url": "https://en.wikipedia.org/wiki/Danielle_(singer)",
-   "record": null,
+   "record": "live-2024-06-26-bunnies-camp-2024-tokyo-dome",
    "exclude": null,
-   "note": "音源未配信。live-2024-06-26-bunnies-camp-2024-tokyo-domeで初披露（韓国報道）。en.wikipediaの作詞作曲クレジット表に記載"
+   "note": "音源未配信。live-2024-06-26-bunnies-camp-2024-tokyo-domeで初披露（韓国報道）。en.wikipediaの作詞作曲クレジット表に記載 | 未発表曲。初披露日のliveレコードに記載"
   },
   {
    "key": "supernatural-official-mv-part-2-2024-07-05",

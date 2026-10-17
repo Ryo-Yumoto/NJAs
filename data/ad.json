@@ -189,46 +189,10 @@
     }
   },
   {
-    "id": "ad-2022-09-01-5252-by-oioi-22fw",
-    "date": "2022-09-01",
+    "id": "ad-2022-09-30-skt-0-iphone-14-pro-cm",
+    "date": "2022-09-30",
     "date_type": "release",
-    "date_precision": "month",
-    "category": "ad",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "5252 by O!Oi 22FW キャンペーン",
-      "en": "5252 by O!Oi 22FW campaign"
-    },
-    "summary": {
-      "ja": "ユニセックスブランド5252 by O!Oiの新モデルに起用され、ハイティーン映画のヒロインのようなムードの22FWビジュアルを公開。",
-      "en": "NewJeans became the new faces of unisex brand 5252 by O!Oi in 22FW visuals styled like high-teen movie heroines."
-    },
-    "source_url": "https://www.wkorea.com/?p=214870",
-    "reference_urls": [],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "fashion"
-    ],
-    "verified": false,
-    "editor_note": "Month approximate (autumn 2022). | W Korea piece (wkorea.com/?p=214870) is dated 2022-10-29 and covers 'additional' 22FW pictorials; the initial campaign date remains month-approximate. | removed from reader text: [detail.en] According to a sponsored W Korea piece dated October 29, 2022, each member styled the brand's signature sweatshirts and hoodies her own way in a free, preppy-sporty mood likened to high-teen movie heroines, and the additional 22FW pictorials featured a fleece jacket and a varsity cropped jacket. / Month approximate (autumn 2022). Campaign description from a sponsored W Korea piece dated 2022-10-29 (wkorea.com/?p=214870); MTN (2022-11-08) listed the brand among ads then airing. Dropped from reader text as later than the record date: the additional 22FW pictorials (fleece jacket, varsity cropped jacket) and the 10%-off 'NewJeans special' on the official mall for ten days from 28 October.",
-    "detail": {
-      "ja": "ユニセックスカジュアルブランド5252 by O!Oiが秋にNewJeansを新モデルに起用し、22FWキャンペーンビジュアルを公開した。ブランドの定番スウェットシャツやフーディーを各メンバーが自分らしく着こなし、ハイティーン映画のヒロインのような自由でプレッピーかつスポーティーなムードで撮影された。製品は公式オンラインストア、オンラインセレクトショップ、オフライン店舗で販売された。",
-      "en": "Unisex casual brand 5252 by O!Oi named NewJeans its new models for autumn and released its 22FW campaign visuals. Each member styled the brand's signature sweatshirts and hoodies her own way, shot in a free, preppy and sporty mood evoking high-teen movie heroines. The products were sold through the official online store, online select shops and offline stores."
-    },
-    "credits": {
-      "brand": "5252 by O!Oi"
-    }
-  },
-  {
-    "id": "ad-2022-10-01-skt-0-iphone-14-pro-cm",
-    "date": "2022-10-01",
-    "date_type": "release",
-    "date_precision": "month",
+    "date_precision": "day",
     "category": "ad",
     "entity": "newjeans",
     "members": [
@@ -242,8 +206,11 @@
       "ja": "SKテレコムの若者向けブランド「0（Young）」のiPhone 14 Pro向けCMに出演、映像は9月29日公開。",
       "en": "NewJeans starred in SK Telecom's youth brand 0 (Young) commercial 'Attention! iPhone 14 Pro for New0'."
     },
-    "source_url": "https://en.wikipedia.org/wiki/NewJeans_videography",
+    "source_url": "https://www.youtube.com/watch?v=d3Z-LrKMmwo",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=m2SBHM6uU2U",
+      "https://www.youtube.com/watch?v=nXlm96EksB0",
+      "https://en.wikipedia.org/wiki/NewJeans_videography",
       "https://news.mtn.co.kr/news-detail/2022110809344390826"
     ],
     "media": {
@@ -252,8 +219,8 @@
     "tags": [
       "telecom"
     ],
-    "verified": false,
-    "editor_note": "Airing by Nov 2022 per MTN; exact start date unknown. | Upload date 2022-09-29 per en.wikipedia videography table, which would place the CM slightly before the record's Oct 1 date. / Upload date (2022-09-29) and director from the English Wikipedia videography table, which places the CM slightly before the record's month-precision 1 October date; MTN (2022-11-08) and Seoul Shinmun (2022-10-29) listed the ad among those then airing.",
+    "verified": true,
+    "editor_note": "Airing by Nov 2022 per MTN; exact start date unknown. | Upload date 2022-09-29 per en.wikipedia videography table, which would place the CM slightly before the record's Oct 1 date. / Upload date (2022-09-29) and director from the English Wikipedia videography table, which places the CM slightly before the record's month-precision 1 October date; MTN (2022-11-08) and Seoul Shinmun (2022-10-29) listed the ad among those then airing. / 2026-10-17 review: official SK telecom upload d3Z-LrKMmwo dated Sep 30, 2022 in KST (YouTube next API); description notes pre-orders Sep 30-Oct 6. 30-second main version m2SBHM6uU2U 10-07, 60-second full version nXlm96EksB0 10-14. detail says \"released on September 29\" — needs editing to 30.",
     "detail": {
       "ja": "SKテレコムの若者向けブランド「0（Young）」のiPhone 14 Pro向けCM「Attention! New0のためのiPhone 14 Pro」に出演した。映像は9月29日に公開され、監督はキム・ミンソン、韓国国内向けの広告。SKテレコムはiPhone 14シリーズの事前予約を9月30日から受け付け、正式発売は10月7日だった。",
       "en": "NewJeans starred in SK Telecom's youth-brand '0 (Young)' commercial for the iPhone 14 Pro, titled 'Attention! iPhone 14 Pro for New0'. The spot was released on September 29, directed by Kim Min-sung, and ran in South Korea only. SK Telecom took iPhone 14 pre-orders from September 30, with the official launch on October 7."
@@ -262,6 +229,129 @@
       "advertiser": "SK Telecom (0 / Young)",
       "director": "Kim Min-sung (김민성)"
     }
+  },
+  {
+    "id": "ad-2022-10-05-musinsa-global-ambassador",
+    "date": "2022-10-05",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "MUSINSA グローバルアンバサダー",
+      "en": "Musinsa global ambassadors"
+    },
+    "summary": {
+      "ja": "ファッションプラットフォームMUSINSAが5人全員をグローバルアンバサダーに起用し、韓国・日本・東南アジア・米国・豪州での海外キャンペーンを担う。",
+      "en": "Fashion platform Musinsa named all five members global ambassadors, fronting its campaigns in Korea, Japan, Southeast Asia, the US and Australia."
+    },
+    "source_url": "https://newsroom.musinsa.com/newsroom-menu/2022-1005",
+    "reference_urls": [
+      "https://news.mtn.co.kr/news-detail/2022110809344390826",
+      "https://m.seoul.co.kr/news/2022/10/29/20221029500037",
+      "https://kpop.fandom.com/wiki/NewJeans#Endorsements"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "fashion",
+      "ambassador"
+    ],
+    "verified": false,
+    "editor_note": "Reported by Nov 8, 2022; exact announcement date not confirmed. | Exact announcement date still unconfirmed (search budget exhausted before a Musinsa release could be located). / Role description from MTN (2022-11-08) and the English Wikipedia entry; exact announcement date unconfirmed (no Musinsa release located). MTN's analysis of the group's advertising demand (MZ influence, cost-effectiveness as a controversy-free rookie act) dropped as press commentary. / 2026-10-17 review: MUSINSA newsroom release 2022-10-05 (URL now redirects to corp.musinsa.com/newsroom/press; not archived) is indexed by search as announcing NewJeans as domestic and global ambassadors on 2022-10-05; Seoul Shinmun (2022-10-29) says the appointment was \"this month\"; MUSINSA newsroom 2022-12-20 describes the December campaign as the first activity since the October appointment. Page text not fetched directly, so verified stays false.",
+    "detail": {
+      "ja": "ファッションプラットフォームMUSINSAが、NewJeansのメンバー5人全員をグローバルアンバサダーに起用した。韓国、日本、東南アジア、米国、オーストラリアでブランドをプロモーションし、海外向けキャンペーンを主導する役割。",
+      "en": "Fashion platform Musinsa named all five NewJeans members its global ambassadors. The role covers promoting the brand in Korea, Japan, Southeast Asia, the United States and Australia and leading its campaigns abroad."
+    },
+    "credits": {
+      "brand": "Musinsa"
+    }
+  },
+  {
+    "id": "ad-2022-10-06-5252-by-oioi-new-models",
+    "date": "2022-10-06",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "5252 by O!Oi 新モデルにNewJeans（「オアイオアイとNewJeansの出会い」）",
+      "en": "Named 5252 by O!Oi models ('O!Oi meets NewJeans')"
+    },
+    "summary": {
+      "ja": "ユニセックスブランド5252 by O!Oiが、公式Instagramで「オアイオアイとNewJeansの出会い」として5人を新モデルに迎えたことを公開した。",
+      "en": "Unisex brand 5252 by O!Oi revealed NewJeans as its new models on Instagram under the title 'O!Oi meets NewJeans'."
+    },
+    "detail": {
+      "ja": "ユニセックスカジュアルブランド5252 by O!Oiが公式Instagramで「オアイオアイとNewJeansの出会い！」を投稿し、NewJeansを新しいモデルとして紹介した。同日、ハニ、ミンジ、ダニエル、ヘリン、ヘインそれぞれとの「出会い」の投稿も続いた。",
+      "en": "Unisex casual brand 5252 by O!Oi posted 'O!Oi meets NewJeans!' on its official Instagram, introducing the group as its new models, followed the same day by individual 'meets' posts for Hanni, Minji, Danielle, Haerin and Hyein."
+    },
+    "credits": {
+      "brand": "5252 by O!Oi (OIOICOLLECTION)"
+    },
+    "source_url": "https://www.instagram.com/p/CjWZCXtPbD4/",
+    "reference_urls": [
+      "https://kpop.fandom.com/wiki/NewJeans#Endorsements",
+      "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "oioi",
+      "fashion",
+      "model"
+    ],
+    "verified": false,
+    "editor_note": "Posts CjWZCXtPbD4 (2022-10-06 08:06 KST) and member posts CjWffBkPYm9/CjWnaL7P7Ah/CjXWhclvD77/CjXnu7VPNwJ/CjXxpSaPSUV per namu's O!Oi section; kpop.fandom also gives 10-06 (ledger had 10-07). Instagram account/caption could not be read (r.jina.ai reader blocked for instagram.com on 2026-10-17); post attributed to the brand by namu.wiki's brand section, date from the shortcode timestamp. The 22FW pictorial is ad-2022-10-11-5252-by-oioi-22fw."
+  },
+  {
+    "id": "ad-2022-10-06-megastudy-2024-megapass-teaser",
+    "date": "2022-10-06",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "メガスタディ「2024 NEW メガパス」ティザー映像（新モデル公開）",
+      "en": "Megastudy '2024 NEW Megapass' teaser - NewJeans revealed as new models"
+    },
+    "summary": {
+      "ja": "メガスタディが「2024 メガパス」のティザー映像を公開し、NewJeansを新モデルとして披露した。",
+      "en": "Megastudy released the teaser for its 2024 Megapass, revealing NewJeans as its new models."
+    },
+    "detail": {
+      "ja": "教育企業メガスタディが、オンライン講座パス「2024 メガパス」のティザー映像を公式YouTubeで公開し、NewJeansが新モデルとして登場した。キャッチコピーは「始めよう！自分のやり方で！（My design, My MEGAPASS）」で、2024メガパスを待ちながら毎日応募するとベーシック メガパスを1万ウォンで購入できるイベントも案内された。",
+      "en": "Education company Megastudy posted the teaser for its online lecture pass '2024 Megapass' on its official YouTube channel, with NewJeans appearing as the new models. Under the tagline 'Start your own way! My design, My MEGAPASS', it also promoted a daily entry event offering the basic Megapass for 10,000 won ahead of the launch."
+    },
+    "credits": {
+      "brand": "Megastudy"
+    },
+    "source_url": "https://www.youtube.com/watch?v=HpntnGJcohA",
+    "reference_urls": [
+      "https://kpop.fandom.com/wiki/NewJeans#Endorsements"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "HpntnGJcohA"
+    },
+    "tags": [
+      "megastudy",
+      "education",
+      "teaser"
+    ],
+    "verified": true,
+    "editor_note": "Official theMEGASTUDY upload, 2022-10-06 KST (YouTube next API). namu: '2022년 10월 6일, 메가스터디의 새 모델로 발탁'. The commercials themselves are ad-2022-10-13-megastudy-megapass-cm (see review fix: first spots 2022-10-13)."
   },
   {
     "id": "ad-2022-10-06-pinkfong-baby-shark-collab",
@@ -300,6 +390,46 @@
     "editor_note": "ajudaily.com article (2022-10-06) now returns 404; details are from its search snippet. 'Baby Shark' is not named in the snippet. | removed from reader text: [detail.en] The format and release schedule of the content could not be confirmed from the coverage. / Details from the search snippet of an Aju Daily article (2022-10-06) that now returns 404; 'Baby Shark' is not named in the snippet. The format and release schedule of the content are not confirmed from the coverage."
   },
   {
+    "id": "ad-2022-10-11-5252-by-oioi-22fw",
+    "date": "2022-10-11",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "5252 by O!Oi 22FW キャンペーン",
+      "en": "5252 by O!Oi 22FW campaign"
+    },
+    "summary": {
+      "ja": "ユニセックスブランド5252 by O!Oiの新モデルに起用され、ハイティーン映画のヒロインのようなムードの22FWビジュアルを公開。",
+      "en": "NewJeans became the new faces of unisex brand 5252 by O!Oi in 22FW visuals styled like high-teen movie heroines."
+    },
+    "source_url": "https://www.wkorea.com/?p=214870",
+    "reference_urls": [
+      "https://www.wkorea.com/?p=214870",
+      "https://www.instagram.com/p/Cjj5IITPsHo/",
+      "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "fashion"
+    ],
+    "verified": false,
+    "editor_note": "Month approximate (autumn 2022). | W Korea piece (wkorea.com/?p=214870) is dated 2022-10-29 and covers 'additional' 22FW pictorials; the initial campaign date remains month-approximate. | removed from reader text: [detail.en] According to a sponsored W Korea piece dated October 29, 2022, each member styled the brand's signature sweatshirts and hoodies her own way in a free, preppy-sporty mood likened to high-teen movie heroines, and the additional 22FW pictorials featured a fleece jacket and a varsity cropped jacket. / Month approximate (autumn 2022). Campaign description from a sponsored W Korea piece dated 2022-10-29 (wkorea.com/?p=214870); MTN (2022-11-08) listed the brand among ads then airing. Dropped from reader text as later than the record date: the additional 22FW pictorials (fleece jacket, varsity cropped jacket) and the 10%-off 'NewJeans special' on the official mall for ten days from 28 October. / 2026-10-17 review: namu O!Oi section lists \"22FW 화보(단체 컷)\" 2022-10-11 (Cjj5IITPsHo, decodes to 13:56 KST) and individual cuts the same day; fashion films on OIOICOLLECTION YouTube 2022-11-03 (I6nhmPrdE3U, verified) and 11-14. Related content-2022-10-25-light-jeans-oioi-22fw-photoshoot-behind. Instagram captions could not be read on 2026-10-17 (r.jina.ai blocked for instagram.com), so Instagram-only dates remain unconfirmed.",
+    "detail": {
+      "ja": "ユニセックスカジュアルブランド5252 by O!Oiが秋にNewJeansを新モデルに起用し、22FWキャンペーンビジュアルを公開した。ブランドの定番スウェットシャツやフーディーを各メンバーが自分らしく着こなし、ハイティーン映画のヒロインのような自由でプレッピーかつスポーティーなムードで撮影された。製品は公式オンラインストア、オンラインセレクトショップ、オフライン店舗で販売された。",
+      "en": "Unisex casual brand 5252 by O!Oi named NewJeans its new models for autumn and released its 22FW campaign visuals. Each member styled the brand's signature sweatshirts and hoodies her own way, shot in a free, preppy and sporty mood evoking high-teen movie heroines. The products were sold through the official online store, online select shops and offline stores."
+    },
+    "credits": {
+      "brand": "5252 by O!Oi"
+    }
+  },
+  {
     "id": "ad-2022-10-11-shinhan-bank-new-sol-model",
     "date": "2022-10-11",
     "date_type": "announce",
@@ -336,6 +466,48 @@
     "credits": {
       "brand": "Shinhan Bank (New SOL)"
     }
+  },
+  {
+    "id": "ad-2022-10-13-megastudy-megapass-cm",
+    "date": "2022-10-13",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "メガスタディ「2024 0원 메가패스」CM",
+      "en": "Megastudy Megapass commercial"
+    },
+    "summary": {
+      "ja": "メガスタディ教育のオンライン講座パス「2024 0ウォン メガパス」のCM「修能も、内申も！」に出演。",
+      "en": "NewJeans starred in Megastudy Education's '2024 0-won Megapass' commercial for its online lecture pass."
+    },
+    "source_url": "https://www.youtube.com/watch?v=DFt1MdfY7P8",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=VPVDkYh0xss",
+      "https://www.youtube.com/watch?v=VdU_WsuWoSY",
+      "https://en.wikipedia.org/wiki/NewJeans_videography",
+      "https://news.mtn.co.kr/news-detail/2022110809344390826"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "education"
+    ],
+    "verified": true,
+    "detail": {
+      "ja": "メガスタディ教育のオンライン講座パス「2024 0ウォン メガパス」のCM「修能も、内申も！ 2024 0ウォン メガパス」に出演した。映像は10月22日付で、監督はイ・ハンギョル。",
+      "en": "NewJeans starred in Megastudy Education's commercial 'For the CSAT and school grades too! 2024 0-won Megapass' for its online lecture pass. The video is dated October 22 and was directed by Lee Han-gyeol."
+    },
+    "credits": {
+      "brand": "Megastudy Education (Megapass)",
+      "director": "Lee Han-gyeol (이한결)"
+    },
+    "editor_note": "Video date 2022-10-22 per en.wikipedia; record date 2022-11-01 is month-precision. / Video date and director from the English Wikipedia videography; record date 2022-11-01 is month-precision. Dropped from reader text: MTN's 2022-11-08 report listing Megapass among ads then airing alongside SK Telecom '0', Shinhan SOL and 5252 by OIOI, and ADOR's statement to MTN that the group had received offers from over 100 companies since debut (later than the record date, press-relayed). / 2026-10-17 review: theMEGASTUDY uploads (YouTube next API, KST): teaser HpntnGJcohA 2022-10-06; main spots DFt1MdfY7P8 and VPVDkYh0xss 2022-10-13; greeting PA8jHIs9oxE 10-14; \"수능도, 내신도!\" VdU_WsuWoSY 10-24. detail says the \"수능도, 내신도!\" video is dated October 22 — official upload is October 24; detail needs editing. Teaser/new-model reveal is a new record ad-2022-10-06-megastudy-2024-megapass-teaser."
   },
   {
     "id": "ad-2022-10-28-hanni-gucci-ambassador",
@@ -378,82 +550,6 @@
     }
   },
   {
-    "id": "ad-2022-11-01-megastudy-megapass-cm",
-    "date": "2022-11-01",
-    "date_type": "release",
-    "date_precision": "month",
-    "category": "ad",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "メガスタディ「2024 0원 메가패스」CM",
-      "en": "Megastudy Megapass commercial"
-    },
-    "summary": {
-      "ja": "メガスタディ教育のオンライン講座パス「2024 0ウォン メガパス」のCM「修能も、内申も！」に出演。",
-      "en": "NewJeans starred in Megastudy Education's '2024 0-won Megapass' commercial for its online lecture pass."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/NewJeans_videography",
-    "reference_urls": [
-      "https://news.mtn.co.kr/news-detail/2022110809344390826"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "education"
-    ],
-    "verified": false,
-    "detail": {
-      "ja": "メガスタディ教育のオンライン講座パス「2024 0ウォン メガパス」のCM「修能も、内申も！ 2024 0ウォン メガパス」に出演した。映像は10月22日付で、監督はイ・ハンギョル。",
-      "en": "NewJeans starred in Megastudy Education's commercial 'For the CSAT and school grades too! 2024 0-won Megapass' for its online lecture pass. The video is dated October 22 and was directed by Lee Han-gyeol."
-    },
-    "credits": {
-      "brand": "Megastudy Education (Megapass)",
-      "director": "Lee Han-gyeol (이한결)"
-    },
-    "editor_note": "Video date 2022-10-22 per en.wikipedia; record date 2022-11-01 is month-precision. / Video date and director from the English Wikipedia videography; record date 2022-11-01 is month-precision. Dropped from reader text: MTN's 2022-11-08 report listing Megapass among ads then airing alongside SK Telecom '0', Shinhan SOL and 5252 by OIOI, and ADOR's statement to MTN that the group had received offers from over 100 companies since debut (later than the record date, press-relayed)."
-  },
-  {
-    "id": "ad-2022-11-01-musinsa-global-ambassador",
-    "date": "2022-11-01",
-    "date_type": "announce",
-    "date_precision": "month",
-    "category": "ad",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "MUSINSA グローバルアンバサダー",
-      "en": "Musinsa global ambassadors"
-    },
-    "summary": {
-      "ja": "ファッションプラットフォームMUSINSAが5人全員をグローバルアンバサダーに起用し、韓国・日本・東南アジア・米国・豪州での海外キャンペーンを担う。",
-      "en": "Fashion platform Musinsa named all five members global ambassadors, fronting its campaigns in Korea, Japan, Southeast Asia, the US and Australia."
-    },
-    "source_url": "https://news.mtn.co.kr/news-detail/2022110809344390826",
-    "reference_urls": [],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "fashion",
-      "ambassador"
-    ],
-    "verified": false,
-    "editor_note": "Reported by Nov 8, 2022; exact announcement date not confirmed. | Exact announcement date still unconfirmed (search budget exhausted before a Musinsa release could be located). / Role description from MTN (2022-11-08) and the English Wikipedia entry; exact announcement date unconfirmed (no Musinsa release located). MTN's analysis of the group's advertising demand (MZ influence, cost-effectiveness as a controversy-free rookie act) dropped as press commentary.",
-    "detail": {
-      "ja": "ファッションプラットフォームMUSINSAが、NewJeansのメンバー5人全員をグローバルアンバサダーに起用した。韓国、日本、東南アジア、米国、オーストラリアでブランドをプロモーションし、海外向けキャンペーンを主導する役割。",
-      "en": "Fashion platform Musinsa named all five NewJeans members its global ambassadors. The role covers promoting the brand in Korea, Japan, Southeast Asia, the United States and Australia and leading its campaigns abroad."
-    },
-    "credits": {
-      "brand": "Musinsa"
-    }
-  },
-  {
     "id": "ad-2022-12-16-nudake-collab",
     "date": "2022-12-16",
     "date_type": "release",
@@ -488,6 +584,49 @@
       "brand": "Nudake (Gentle Monster / IICOMBINED)"
     },
     "editor_note": "Record date matches the announcement (Korea JoongAng Daily 2022-12-16); the pop-up itself ran 2022-12-23 to 2023-01-21. Ilgan Sports (2023-01-11) priced the rabbit cakes at 36,000 won each. / Announcement details from Korea JoongAng Daily (2022-12-16 11:06); the pop-up itself ran 2022-12-23 to 2023-01-21. Ilgan Sports (2023-01-11) priced the rabbit cakes at 36,000 won each (later than the record date; see the goods record for the pop-up)."
+  },
+  {
+    "id": "ad-2022-12-20-musinsa-global-newsinsa-x-mujeans-campaign",
+    "date": "2022-12-20",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "MUSINSA グローバル初キャンペーン「ニューシンサ × ムジンス（NewSINSA X MUJeans）」",
+      "en": "MUSINSA's first global campaign with NewJeans 'NewSINSA X MUJeans'",
+      "original": "뉴신사 X 무진스"
+    },
+    "summary": {
+      "ja": "MUSINSAが、グローバルアンバサダーのNewJeansと制作した初のグローバルキャンペーン画報をMUSINSAグローバルストアで公開した。",
+      "en": "MUSINSA released its first global campaign pictorial with global ambassadors NewJeans on the MUSINSA Global store."
+    },
+    "detail": {
+      "ja": "ファッションプラットフォームMUSINSAが、10月にグローバルアンバサダーに起用したNewJeansとの初のグローバルキャンペーン画報「ニューシンサ × ムジンス（NewSINSA X MUJeans）」をMUSINSAグローバルストアで公開した。韓国ブランドのファッションスタイルを海外に伝える狙いで、10〜20代に親しみのある「クラウド」をモチーフにした。公式Instagramでは12月17日から予告投稿が続いていた。",
+      "en": "Fashion platform MUSINSA released 'NewSINSA X MUJeans', its first global campaign pictorial with NewJeans, whom it had named global ambassadors in October, on the MUSINSA Global store. Aimed at introducing Korean brands' style abroad, it used a 'cloud' motif familiar to people in their teens and twenties. Teaser posts had run on its Instagram since 17 December."
+    },
+    "credits": {
+      "brand": "MUSINSA (MUSINSA Global)"
+    },
+    "source_url": "https://newsroom.musinsa.com/newsroom-menu/2022-1220",
+    "reference_urls": [
+      "https://www.instagram.com/p/CmXvo7PBa13/",
+      "https://www.instagram.com/p/CmSkRbWBSrJ/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "musinsa",
+      "fashion",
+      "campaign",
+      "global"
+    ],
+    "verified": false,
+    "editor_note": "Campaign name, cloud motif, MUSINSA Global store and 'first global campaign since the October appointment' from MUSINSA newsroom release 2022-12-20 as indexed by web search (page now redirects to corp.musinsa.com; not fetched). Reel CmXvo7PBa13 'New Wave Alert!' 2022-12-20 10:17 KST; teasers from 12-17. Official video 'NewJeans Meets MUSINSA' (5h_AVaHs3f0) no longer available. Instagram account/caption could not be read (r.jina.ai reader blocked for instagram.com on 2026-10-17); post attributed to the brand by namu.wiki's brand section, date from the shortcode timestamp."
   },
   {
     "id": "ad-2022-12-30-hyein-louis-vuitton-ambassador",
@@ -529,84 +668,6 @@
     "editor_note": "The 'youngest ever' and age-14 claims in the existing summary are not in the Korea JoongAng Daily article. / Announcement and quote from Korea JoongAng Daily (2022-12-30 12:45). The 'youngest ever' claim in the previous summary is not in that article and was dropped; her age (14) is retained as it is in the record."
   },
   {
-    "id": "ad-2023-01-01-lotte-itagum-japan-cm",
-    "date": "2023-01-01",
-    "date_type": "release",
-    "date_precision": "year",
-    "category": "ad",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "ロッテ「イタガム」CM（日本）",
-      "en": "Lotte Itagum commercial (Japan)"
-    },
-    "summary": {
-      "ja": "日本のロッテ「イタガム」のCM「Hello, New Me」「これガムイタガム」に出演、CMソングは「OMG」。",
-      "en": "NewJeans appeared in Lotte Japan's Itagum commercials 'Hello, New Me' and 'Kore gamu Itagum', set to 'OMG'."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/NewJeans_videography",
-    "reference_urls": [
-      "https://ja.wikipedia.org/wiki/NewJeans"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "food",
-      "japan",
-      "cm"
-    ],
-    "verified": false,
-    "editor_note": "Year only; exact airing date not confirmed. | Year-precision only; THE FIRST TIMES also reports a later web CM 'Itagum ni nacchatta!' (released April 17, year not stated in snippet) for the Soda Mint flavor. | removed from reader text: [detail.ja] 放映開始日は確認できていない。 [detail.en] The first air date could not be confirmed. / Year-precision only; first air date not confirmed. Casting and flavour details from THE FIRST TIMES, titles and song from the English Wikipedia videography. THE FIRST TIMES also mentions a later web CM 'Itagum ni nacchatta!' (released 17 April, year not stated) for the Soda Mint flavour.",
-    "detail": {
-      "ja": "ロッテ（日本）のガムブランド「イタガム」のCM「Hello, New Me」「これガムイタガム」に出演した。NewJeansは2022年7月のデビュー後にイタガムの広告キャラクターに起用されており、新CMでは定番のグリーンガムのほかブルーベリー、いちごなどのフレーバーが取り上げられた。CMソングは「OMG」。",
-      "en": "NewJeans appeared in the commercials 'Hello, New Me' and 'Kore gamu Itagum' for Lotte Japan's gum brand Itagum. The group had been cast as Itagum's advertising character after its July 2022 debut, and the new commercials featured the classic Green Gum along with blueberry, strawberry and other flavours. The commercials are set to 'OMG'."
-    },
-    "credits": {
-      "brand": "Lotte (Japan), Itagum"
-    }
-  },
-  {
-    "id": "ad-2023-01-01-olens-contact-lens-model",
-    "date": "2023-01-01",
-    "date_type": "release",
-    "date_precision": "year",
-    "category": "ad",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "OLENS 広告モデル",
-      "en": "Olens contact lens campaign"
-    },
-    "summary": {
-      "ja": "コンタクトレンズブランドOLENSがNewJeansをアンバサダーに起用し、トーンアップレンズを着用した2023年春夏の画報を公開。",
-      "en": "Contact lens brand Olens named NewJeans ambassadors and released a 2023 S/S pictorial in its tone-up lenses."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [
-      "https://ja.wikipedia.org/wiki/NewJeans"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "beauty"
-    ],
-    "verified": false,
-    "editor_note": "Year only. | Year-precision only; no announcement found. | removed from reader text: [detail.ja] 起用の発表日は確認できていない。 [detail.en] The announcement date could not be confirmed. / Year-precision only; no announcement date found. Pictorial details from Vogue Korea (2023-03-21); English Wikipedia also lists Olens among the brands advertised.",
-    "detail": {
-      "ja": "コンタクトレンズブランドOLENSがNewJeansをアンバサダーに起用し、2023年春夏の画報を公開した。2023 S/S画報では、メンバーがトーンアップレンズを着用している。",
-      "en": "Contact lens brand Olens named NewJeans its ambassadors and released a 2023 spring/summer pictorial. In it the members wear the brand's tone-up lenses."
-    },
-    "credits": {
-      "brand": "Olens"
-    }
-  },
-  {
     "id": "ad-2023-01-06-danielle-burberry-ambassador",
     "date": "2023-01-06",
     "date_type": "announce",
@@ -643,6 +704,134 @@
       "announced_by": "ADOR"
     },
     "editor_note": "Details from Soompi's report of the ADOR announcement; press framing removed from reader text."
+  },
+  {
+    "id": "ad-2023-01-06-kcdf-newjeans-meet-hanji",
+    "date": "2023-01-06",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "韓国工芸・デザイン文化振興院「NewJeans、韓紙に出会う」",
+      "en": "Korea Craft & Design Foundation 'NewJeans Meet Hanji' collaboration video",
+      "original": "뉴진스, 한지를 만나다"
+    },
+    "summary": {
+      "ja": "韓国工芸・デザイン文化振興院の韓流連携事業で、NewJeansが韓紙の価値と可能性を伝えるコンテンツに出演した。",
+      "en": "In a Korea Craft & Design Foundation Hallyu project, NewJeans starred in a video introducing the value and possibilities of hanji."
+    },
+    "detail": {
+      "ja": "韓国工芸・デザイン文化振興院（KCDF）の「2022 韓紙分野 韓流連携協業コンテンツ企画開発支援事業」に韓流IPとして選ばれたNewJeansが出演した映像で、KCDFの公式YouTubeで公開された。韓紙の特徴や2022年の韓紙文化商品を紹介するキーワードトークのほか、国家無形文化財のアン・チヨン韓紙匠とともに伝統製法の花韓紙で照明を作り、残った楮の繊維をキャンバスに投げてアートワークを仕上げる体験を行った。",
+      "en": "A video posted on the Korea Craft & Design Foundation's YouTube channel, featuring NewJeans as the Hallyu IP chosen for its 2022 hanji collaboration-content programme. It includes a keyword talk on hanji and the 2022 hanji cultural products, making a lamp from traditional flower hanji with national intangible cultural heritage hanji master Ahn Chi-yong, and an artwork made by throwing leftover mulberry fibre onto canvas."
+    },
+    "credits": {
+      "organizer": "Korea Craft & Design Foundation (KCDF)",
+      "production": "Columbus Papaya"
+    },
+    "source_url": "https://www.youtube.com/watch?v=Co-YCyZu2ag",
+    "reference_urls": [
+      "https://sports.khan.co.kr/entertainment/sk_index.html?art_id=202301061116003&sec_id=540101&pt=nv"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "Co-YCyZu2ag"
+    },
+    "tags": [
+      "hanji",
+      "kcdf",
+      "culture",
+      "public-sector"
+    ],
+    "verified": true,
+    "editor_note": "Official KCDF channel upload (@kcdf2011), 2023-01-06 KST per YouTube next API."
+  },
+  {
+    "id": "ad-2023-01-20-musinsa-newjeans-style-for-the-year-of-bunny",
+    "date": "2023-01-20",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "MUSINSA「NewJeans Style for the Year of Bunny」キャンペーン",
+      "en": "MUSINSA 'NewJeans Style for the Year of Bunny' campaign"
+    },
+    "summary": {
+      "ja": "MUSINSAがウサギ年に合わせ、グローバルアンバサダーのNewJeansとのキャンペーン画報とインタビュー映像を公開した。",
+      "en": "For the Year of the Rabbit, MUSINSA released campaign pictorials and an interview video with its global ambassadors NewJeans."
+    },
+    "detail": {
+      "ja": "ファッションプラットフォームMUSINSAが、グローバルアンバサダーのNewJeansと制作した「NewJeans Style for the Year of Bunny」キャンペーンの画報を公開し、公式YouTube「MUSINSA TV」では「MUSINSAを知ってる？」と問いかけるインタビュー映像も公開した。前日には公式SNSで「D-1」の予告が出ていた。",
+      "en": "Fashion platform MUSINSA released pictorials for its 'NewJeans Style for the Year of Bunny' campaign with global ambassadors NewJeans, and posted an interview video on its MUSINSA TV YouTube channel built around the question 'Do you know MUSINSA?'. A 'D-1' teaser had appeared on its social channels the day before."
+    },
+    "credits": {
+      "brand": "MUSINSA"
+    },
+    "source_url": "https://www.youtube.com/watch?v=cSW0xgQaYsI",
+    "reference_urls": [
+      "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "cSW0xgQaYsI"
+    },
+    "tags": [
+      "musinsa",
+      "fashion",
+      "campaign"
+    ],
+    "verified": true,
+    "editor_note": "MUSINSA TV interview upload 2023-01-20 KST (YouTube next API). The companion video 'Know MUSINSA, NewJeans?' (oC2uMzaG8Uk) is no longer available. Campaign name and D-1 teaser (2023-01-19) per namu's list of MUSINSA Instagram posts (Cnnl31cBD-o 2023-01-20 10:31 KST by shortcode). Related behind content: content-2023-02-07-light-jeans-musinsa-photoshoot-behind."
+  },
+  {
+    "id": "ad-2023-01-27-nike-a-feel-for-every-you-minji-haerin",
+    "date": "2023-01-27",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "minji",
+      "haerin"
+    ],
+    "title": {
+      "ja": "ナイキ「A Feel For Every You」キャンペーン — ミンジ、ヘリン",
+      "en": "Nike 'A Feel For Every You' campaign - Minji and Haerin"
+    },
+    "summary": {
+      "ja": "ナイキが、心と体が喜ぶ自分なりの動きを提案する「A Feel For Every You」の映像に、ミンジとヘリンを起用した。",
+      "en": "Nike cast Minji and Haerin in its 'A Feel For Every You' film about finding movement that feels good for body and mind."
+    },
+    "detail": {
+      "ja": "ナイキ コリアが公式YouTubeで、ミンジとヘリンが出演する「A Feel For Every You」の映像を公開した。頭から足先まであらゆる感覚を目覚めさせ、気持ちのよい一日を過ごすエネルギーをつくる、自分なりの多様な動きを始めようと呼びかける内容で、ハッシュタグ「#AFeelForEveryYou」を掲げた。",
+      "en": "Nike Korea released on its official YouTube channel the 'A Feel For Every You' film featuring Minji and Haerin, encouraging people to start their own varied movements that awaken every sense from head to toe and build energy for a good day, under the hashtag #AFeelForEveryYou."
+    },
+    "credits": {
+      "brand": "Nike Korea"
+    },
+    "source_url": "https://www.youtube.com/watch?v=esVSURDoZTY",
+    "reference_urls": [
+      "https://www.instagram.com/p/Cn2_XfLBBNs/",
+      "https://www.nike.com/kr/a/newjeans-minji-haerin-daily-routine"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "esVSURDoZTY"
+    },
+    "tags": [
+      "nike",
+      "sportswear",
+      "campaign"
+    ],
+    "verified": true,
+    "editor_note": "Official NIKE KOREA upload esVSURDoZTY dated 2023-01-27 KST (YouTube next API). namu lists an earlier Instagram reel Cn2_XfLBBNs on 2023-01-26 (ledger date); its account could not be read (reader blocked), so the verified YouTube date is used. nike.com/kr video pictorial and interview with the two followed on 2023-02-13 (not recorded)."
   },
   {
     "id": "ad-2023-02-02-lg-gram-style-collab",
@@ -886,9 +1075,11 @@
       "ja": "マクドナルド・コリアが3月の新メニューキャンペーンのモデルにNewJeansを起用、最初はマックリスピー クリーミー オニオン2種を紹介。",
       "en": "McDonald's Korea named NewJeans models for its March campaign, starting with two McCrispy Creamy Onion burgers."
     },
-    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "source_url": "https://www.youtube.com/watch?v=ifC2G1jjUfM",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/NewJeans_videography"
+      "https://en.wikipedia.org/wiki/NewJeans",
+      "https://en.wikipedia.org/wiki/NewJeans_videography",
+      "https://www.elle.co.kr/article/75387"
     ],
     "media": {
       "type": "none"
@@ -896,14 +1087,97 @@
     "tags": [
       "food"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "マクドナルド・コリアが3月の新メニューに合わせたキャンペーン「ひと味違う次元のサクサク感」のモデルにNewJeansを起用したと発表し、新メニューで新鮮な味を届け続けるブランドイメージに合うことを理由に挙げた。NewJeansが最初に紹介したのは3月2日発売のマックリスピー バーガーの改良版で、クリーミーオニオンソースとベーコンを加えた「マックリスピー クリーミー オニオン」と「マックスパイシー クリーミー オニオン」の2種（6,900ウォンと6,200ウォン）。広告映像は公式YouTubeで公開され、3月にはアプリのあみだくじイベントで限定「NewJeansスペシャルキット」が配布された。",
       "en": "McDonald's Korea announced NewJeans as models for its campaign 'A different dimension of crispiness', tied to new menu items launching in March, citing the fit with a brand image of delivering fresh tastes through new menus. The first items the group fronted were upgraded versions of the McCrispy burger launching March 2, the McCrispy Creamy Onion and McSpicy Creamy Onion with creamy onion sauce and bacon, priced 6,900 and 6,200 won. The commercial ran on McDonald's official YouTube channel, and in March a limited 'NewJeans special kit' was given away through a ladder game in the McDonald's app."
     },
     "credits": {
       "brand": "McDonald's Korea"
+    },
+    "editor_note": "2026-10-17 review: official 한국 맥도날드 teaser \"[맥도날드 x 뉴진스] Find Crispy!\" uploaded 2023-02-27 KST (YouTube next API), description announces 3/2. Press (Insight) reports the model announcement as made on the 27th; Elle daily news 2023-02-28. namu 02-24 / fandom 02-24 not supported."
+  },
+  {
+    "id": "ad-2023-03-01-olens-contact-lens-model",
+    "date": "2023-03-01",
+    "date_type": "release",
+    "date_precision": "month",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "OLENS 広告モデル",
+      "en": "Olens contact lens campaign"
+    },
+    "summary": {
+      "ja": "コンタクトレンズブランドOLENSがNewJeansをアンバサダーに起用し、トーンアップレンズを着用した2023年春夏の画報を公開。",
+      "en": "Contact lens brand Olens named NewJeans ambassadors and released a 2023 S/S pictorial in its tone-up lenses."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
+      "https://www.instagram.com/reel/CpPc2PmgGMz/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "beauty"
+    ],
+    "verified": false,
+    "editor_note": "Year only. | Year-precision only; no announcement found. | removed from reader text: [detail.ja] 起用の発表日は確認できていない。 [detail.en] The announcement date could not be confirmed. / Year-precision only; no announcement date found. Pictorial details from Vogue Korea (2023-03-21); English Wikipedia also lists Olens among the brands advertised. / 2026-10-17 review: namu 오렌즈 section: appointment 2023-03-01, teaser reel CpPc2PmgGMz 2023-03-01 (\"새로운 아이스타일링을 함께 할 뉴 앰버서더는 누구일까요?\"), shorts 5kV0Cg03YwU 03-02 (deleted), 2023 S/S \"Blooming Spring\" film TtTlYL5Fa_0 2023-05-17 (deleted). Day not confirmed; month precision. Instagram captions could not be read on 2026-10-17 (r.jina.ai blocked for instagram.com), so Instagram-only dates remain unconfirmed.",
+    "detail": {
+      "ja": "コンタクトレンズブランドOLENSがNewJeansをアンバサダーに起用し、2023年春夏の画報を公開した。2023 S/S画報では、メンバーがトーンアップレンズを着用している。",
+      "en": "Contact lens brand Olens named NewJeans its ambassadors and released a 2023 spring/summer pictorial. In it the members wear the brand's tone-up lenses."
+    },
+    "credits": {
+      "brand": "Olens"
     }
+  },
+  {
+    "id": "ad-2023-03-02-mcdonalds-korea-mccrispy-cm",
+    "date": "2023-03-02",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "マクドナルド・コリア「ひと味違う次元のサクサク感、マックリスピー」CM",
+      "en": "McDonald's Korea McCrispy commercial 'A different dimension of crispy'",
+      "original": "색다른 차원의 빠삭함, 맥크리스피"
+    },
+    "summary": {
+      "ja": "新メニュー発売日に、マクドナルド・コリアがNewJeans出演のマックリスピーのCM（フルバージョンなど）を公開した。",
+      "en": "On the new menu's launch day, McDonald's Korea released its McCrispy commercials starring NewJeans, including a full version."
+    },
+    "detail": {
+      "ja": "マクドナルド・コリアが公式YouTubeで、NewJeansが出演するマックリスピーのCM「ひと味違う次元のサクサク感、マックリスピー！」と、そのフルバージョンを公開した。ケイジャンを3回まとわせた100%鶏もも肉のマックリスピーを「NewJeansが選んだチキンバーガー」として紹介し、クリーミーオニオンソースとベーコンを加えた新作「マックリスピー クリーミー オニオン」もこの日に発売された。",
+      "en": "McDonald's Korea released on its official YouTube channel the McCrispy commercial 'A different dimension of crispy, McCrispy!' starring NewJeans, along with a full version. It presented the McCrispy, made with 100% chicken thigh in a triple Cajun coating, as 'the chicken burger NewJeans chose', and the new McCrispy Creamy Onion with creamy onion sauce and bacon went on sale the same day."
+    },
+    "credits": {
+      "brand": "McDonald's Korea"
+    },
+    "source_url": "https://www.youtube.com/watch?v=Bxx6OetEdM4",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=QEZSigcGokE"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "Bxx6OetEdM4"
+    },
+    "tags": [
+      "mcdonalds",
+      "food",
+      "cm"
+    ],
+    "verified": true,
+    "editor_note": "Official 한국 맥도날드 uploads Bxx6OetEdM4 and QEZSigcGokE (full ver.), both 2023-03-02 KST. Model announcement and 2-27 teaser are in ad-2023-02-27-mcdonalds-korea-model; app special kit is goods-2023-03-09."
   },
   {
     "id": "ad-2023-03-02-nike-air-max-campaign",
@@ -945,6 +1219,48 @@
       "advertiser": "ABC Mart (Nike Air Max Day campaign)",
       "brand": "Nike Air Max"
     }
+  },
+  {
+    "id": "ad-2023-03-05-5252-by-oioi-23ss-fashion-film",
+    "date": "2023-03-05",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "5252 by O!Oi 23S/S キャンペーン ファッションフィルム「NEW JOIN, NEW JOY!」",
+      "en": "5252 by O!Oi 23S/S campaign fashion film 'NEW JOIN, NEW JOY!'"
+    },
+    "summary": {
+      "ja": "5252 by O!Oiが、NewJeansとの2023年春夏キャンペーンのファッションフィルム「NEW JOIN, NEW JOY!」を公開した。",
+      "en": "5252 by O!Oi released 'NEW JOIN, NEW JOY!', the fashion film for its spring/summer 2023 campaign with NewJeans."
+    },
+    "detail": {
+      "ja": "ユニセックスブランド5252 by O!Oiが、NewJeansをモデルにした23S/Sキャンペーンのファッションフィルム「NEW JOIN, NEW JOY!」を公式YouTubeで公開した。オアイオアイとNewJeansの新しい出会いがもたらす新しいときめきをテーマにしている。",
+      "en": "Unisex brand 5252 by O!Oi released on its official YouTube channel 'NEW JOIN, NEW JOY!', the fashion film for its 23S/S campaign with NewJeans, themed on the new excitement of the brand's new encounter with the group."
+    },
+    "credits": {
+      "brand": "5252 by O!Oi (OIOICOLLECTION)"
+    },
+    "source_url": "https://www.youtube.com/watch?v=qFsnvzyvAAk",
+    "reference_urls": [
+      "https://www.instagram.com/p/CpSItzMPMKL/",
+      "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "qFsnvzyvAAk"
+    },
+    "tags": [
+      "oioi",
+      "fashion",
+      "campaign"
+    ],
+    "verified": true,
+    "editor_note": "Official OIOICOLLECTION upload qFsnvzyvAAk dated 2023-03-05 KST. namu says the 23S/S campaign opened 2023-03-03 10:00 (teaser reel CpSItzMPMKL '3.3 10AM OPEN', 2023-03-02 19:35 KST by shortcode; account not readable), with interview, film and styling reels on 03-05 and a denim teaser on 03-06. Ledger date 03-03 not confirmed against a readable official page. Related: content-2023-03-10-light-jeans-oioi-23ss-photoshoot-behind."
   },
   {
     "id": "ad-2023-03-06-levis-global-ambassador",
@@ -1555,6 +1871,49 @@
     "editor_note": "Spotify newsroom post dated 2023-08-01 (pop-ups opened 'last Friday', i.e. 2023-07-28). Related content record: content-2023-10-07-light-jeans-bunnyland-pop-up-behind."
   },
   {
+    "id": "ad-2023-08-09-seoul-fashion-week-2024-ss-promo",
+    "date": "2023-08-09",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ソウルファッションウィーク 2024 S/S 公式広報映像・ポスター",
+      "en": "Seoul Fashion Week 2024 S/S official promotional film and posters"
+    },
+    "summary": {
+      "ja": "「New Icon」NewJeansが出演するソウルファッションウィーク2024 S/Sの公式広報映像とポスターが公開された。",
+      "en": "Seoul Fashion Week released its official 2024 S/S promotional film and posters starring 'New Icon' NewJeans."
+    },
+    "detail": {
+      "ja": "ソウルファッションウィークが、広報大使NewJeansを「New Icon」として起用した2024 S/Sシーズンの公式広報映像を公式YouTubeで公開し、公式Instagramでは公式ポスターも公開した。ソウルコレクションと次世代ブランドによるジェネレーションネクストを紹介し、会期は9月5日から9日まで、会場は東大門デザインプラザ（DDP）。",
+      "en": "Seoul Fashion Week posted the official promotional film for its 2024 S/S season on YouTube, casting its ambassadors NewJeans as the 'New Icon', and released official posters on Instagram. It promoted the Seoul Collection and the next-generation Generation Next showcase, held from 5 to 9 September at Dongdaemun Design Plaza (DDP)."
+    },
+    "credits": {
+      "organizer": "Seoul Metropolitan Government / Seoul Fashion Week",
+      "venue": "Dongdaemun Design Plaza (DDP)"
+    },
+    "source_url": "https://www.youtube.com/watch?v=0cHHOVWXePA",
+    "reference_urls": [
+      "https://www.instagram.com/reel/Cvs_tRiAP67/",
+      "https://www.instagram.com/p/CvtGu7zJCAK/"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "0cHHOVWXePA"
+    },
+    "tags": [
+      "seoul-fashion-week",
+      "public-sector",
+      "campaign"
+    ],
+    "verified": true,
+    "editor_note": "Official SFW channel upload (@SFW_official), 2023-08-09 KST. Individual member posters followed on SFW Instagram 08-10 to 08-14 (per namu). Ambassador appointment: ad-2023-02-22-seoul-fashion-week-ambassador."
+  },
+  {
     "id": "ad-2023-08-14-haerin-dior-rose-des-vents-campaign",
     "date": "2023-08-14",
     "date_type": "release",
@@ -1636,6 +1995,46 @@
       "director": "Jeon Mun-young (전문영)"
     },
     "editor_note": "Announcement details from Hankyung Business; CM title and director from the English Wikipedia videography, which gives an upload date of 17 August (after the record date, so the date is omitted from reader text). The official's reference to the Incheon Airport duty-free expansion and the lifting of China's Hallyu restrictions trimmed for length. / Cut for length (ja): MZ世代の形容「新しい消費トレンドに敏感な」（en には残存）"
+  },
+  {
+    "id": "ad-2023-08-15-chanel-n1-de-chanel-minji-beauty-routine",
+    "date": "2023-08-15",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "CHANEL「N°1 DE CHANEL」レッドカメリア ビューティールーティン — ミンジ",
+      "en": "Chanel N°1 de Chanel red camellia skincare - Minji's beauty routine"
+    },
+    "summary": {
+      "ja": "シャネルが、アンバサダーのミンジが紹介する「N°1 DE CHANEL」レッドカメリアのスキンケア・ルーティン映像を公開した。",
+      "en": "Chanel released videos of ambassador Minji presenting her N°1 de Chanel red camellia skincare routine."
+    },
+    "detail": {
+      "ja": "シャネルが、アンバサダーのミンジが自身のビューティールーティンを紹介する映像を公開した。肌に活力を与える「N°1 DE CHANEL」のレッドカメリア セラム、クリーム、アイクリームで構成したスキンケアを取り上げている。",
+      "en": "Chanel released a video of its ambassador Minji introducing her beauty routine, built on the N°1 de Chanel red camellia serum, cream and eye cream for revitalising the skin."
+    },
+    "credits": {
+      "brand": "Chanel Beauty"
+    },
+    "source_url": "https://www.instagram.com/p/Cv8-bw2v9R6/",
+    "reference_urls": [
+      "https://namu.wiki/w/%EB%AF%BC%EC%A7%80(NewJeans)"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "chanel",
+      "beauty",
+      "campaign"
+    ],
+    "verified": false,
+    "editor_note": "Reel Cv8-bw2v9R6 (2023-08-15 14:00 KST) and Cv_jORrvP4K (08-16) listed in namu's Chanel section; caption text quoted by namu ('샤넬 앰배서더, 뉴진스 민지가 소개하는 뷰티 루틴', 'N°1 DE CHANEL 레드 까멜리아 세럼, 크림, 아이 크림으로 구성된 민지의 N°1 DE CHANEL 뷰티 루틴'). Fan re-uploads dated 230815 corroborate the date. Instagram account/caption could not be read (r.jina.ai reader blocked for instagram.com on 2026-10-17); post attributed to the brand by namu.wiki's brand section, date from the shortcode timestamp."
   },
   {
     "id": "ad-2023-09-01-lotte-wellfood-pepero-model",
@@ -1758,6 +2157,134 @@
     }
   },
   {
+    "id": "ad-2023-11-06-skt-adot-iphone-call-recording-cm",
+    "date": "2023-11-06",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "SKテレコム「iPhoneの通話録音が必要なときは、エイドット」CM",
+      "en": "SK Telecom 'When you need to record iPhone calls, A.' (A.dot) commercials",
+      "original": "iPhone 통화녹음이 필요할 땐, 에이닷"
+    },
+    "summary": {
+      "ja": "SKテレコムがAI個人秘書アプリ「エイドット（A.）」のiPhone通話録音機能を紹介する、メンバー別と60秒のCMを公開した。",
+      "en": "SK Telecom released member-by-member and 60-second commercials for the iPhone call-recording feature of its AI assistant app A. (A.dot)."
+    },
+    "detail": {
+      "ja": "SKテレコムが公式YouTubeで、AI個人秘書アプリ「エイドット（A.）」のCMを公開した。iPhoneでの通話録音と、通話内容を要約・検索できる「A.通話要約」を紹介する内容で、ミンジ、ハニ、ダニエル、ヘリン、ヘインそれぞれの編と60秒版が同時に公開された。",
+      "en": "SK Telecom released commercials for its AI personal-assistant app A. (A.dot) on its official YouTube channel, showcasing iPhone call recording and the A. Call Summary feature that summarises and searches calls. Individual spots for Minji, Hanni, Danielle, Haerin and Hyein and a 60-second version were posted together."
+    },
+    "credits": {
+      "brand": "SK Telecom"
+    },
+    "source_url": "https://www.youtube.com/watch?v=jExR0KNHGyY",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=ZC7QjmeLxFc"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "jExR0KNHGyY"
+    },
+    "tags": [
+      "sk-telecom",
+      "telecom",
+      "cm"
+    ],
+    "verified": true,
+    "editor_note": "Official SK telecom uploads 2023-11-06 KST: 60-second version jExR0KNHGyY and member versions (e.g. Hyein ZC7QjmeLxFc). Related behind content: content-2024-03-27-light-jeans-skt-a-behind."
+  },
+  {
+    "id": "ad-2023-11-14-lotte-itagum-japan-cm",
+    "date": "2023-11-14",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ロッテ「イタガム」CM（日本）",
+      "en": "Lotte Itagum commercial (Japan)"
+    },
+    "summary": {
+      "ja": "日本のロッテ「イタガム」のCM「Hello, New Me」「これガムイタガム」に出演、CMソングは「OMG」。",
+      "en": "NewJeans appeared in Lotte Japan's Itagum commercials 'Hello, New Me' and 'Kore gamu Itagum', set to 'OMG'."
+    },
+    "source_url": "https://www.lotte.co.jp/info/pdf/20231013224043.pdf",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=7GNwlf18X1o",
+      "https://www.tokyo-sports.co.jp/articles/-/282631",
+      "https://times.abema.tv/articles/-/10102934",
+      "https://x.com/gum__lotte/status/1713766721658802546",
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "food",
+      "japan",
+      "cm"
+    ],
+    "verified": false,
+    "editor_note": "Year only; exact airing date not confirmed. | Year-precision only; THE FIRST TIMES also reports a later web CM 'Itagum ni nacchatta!' (released April 17, year not stated in snippet) for the Soda Mint flavor. | removed from reader text: [detail.ja] 放映開始日は確認できていない。 [detail.en] The first air date could not be confirmed. / Year-precision only; first air date not confirmed. Casting and flavour details from THE FIRST TIMES, titles and song from the English Wikipedia videography. THE FIRST TIMES also mentions a later web CM 'Itagum ni nacchatta!' (released 17 April, year not stated) for the Soda Mint flavour. / 2026-10-17 review: Lotte press release PDF dated 2023-10-16 announces NewJeans as Itagum ad characters (concept \"Hello,New ME.\"), new TVCM and digital videos from mid-November; @gum__lotte key visual post 2023-10-16 13:00 KST. Oricon official YouTube report on the two new TVCMs uploaded 2023-11-14 KST, saying nationwide airing starts on the 21st. Lotte's own CM uploads (l-IPpn_K7Bc etc.) are no longer available. detail text claims casting after the July 2022 debut — incorrect, needs editing (not a field this patch can change). Consider a separate announce record for 2023-10-16.",
+    "detail": {
+      "ja": "ロッテ（日本）のガムブランド「イタガム」のCM「Hello, New Me」「これガムイタガム」に出演した。NewJeansは2022年7月のデビュー後にイタガムの広告キャラクターに起用されており、新CMでは定番のグリーンガムのほかブルーベリー、いちごなどのフレーバーが取り上げられた。CMソングは「OMG」。",
+      "en": "NewJeans appeared in the commercials 'Hello, New Me' and 'Kore gamu Itagum' for Lotte Japan's gum brand Itagum. The group had been cast as Itagum's advertising character after its July 2022 debut, and the new commercials featured the classic Green Gum along with blueberry, strawberry and other flavours. The commercials are set to 'OMG'."
+    },
+    "credits": {
+      "brand": "Lotte (Japan), Itagum"
+    }
+  },
+  {
+    "id": "ad-2023-11-18-musinsa-mujinjang-black-friday",
+    "date": "2023-11-18",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "MUSINSA「ムジンジャン ブラックフライデー」キャンペーン",
+      "en": "MUSINSA 'Mujinjang Black Friday' campaign",
+      "original": "무진장 블랙프라이데이"
+    },
+    "summary": {
+      "ja": "MUSINSAが最大セール「ムジンジャン ブラックフライデー」のNewJeans出演映像「ムジンジャン マーケット」を公開した。",
+      "en": "MUSINSA released 'Mujinjang Market with NewJeans' videos for its biggest sale, Mujinjang Black Friday."
+    },
+    "detail": {
+      "ja": "MUSINSAが年間最大のセール「ムジンジャン ブラックフライデー」に向けて、NewJeansが出演する映像「ムジンジャン マーケット with NewJeans」を公式YouTube「MUSINSA TV」で公開した。セールは11月22日から12月3日まで、最大80%割引と告知された。",
+      "en": "Ahead of its biggest annual sale, Mujinjang Black Friday, MUSINSA posted 'Mujinjang Market with NewJeans' videos on its MUSINSA TV YouTube channel. The sale was announced for 22 November to 3 December with discounts of up to 80%."
+    },
+    "credits": {
+      "brand": "MUSINSA"
+    },
+    "source_url": "https://www.youtube.com/watch?v=gz1BTVjvGbU",
+    "reference_urls": [
+      "https://www.instagram.com/reel/CzxstgCyH9q/"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "gz1BTVjvGbU"
+    },
+    "tags": [
+      "musinsa",
+      "fashion",
+      "campaign"
+    ],
+    "verified": true,
+    "editor_note": "MUSINSA TV upload '[계산대]' (Checkout Counter) 2023-11-18 KST; further episodes ('[수산물]', '[카트]') followed on later days."
+  },
+  {
     "id": "ad-2023-12-01-shinhan-super-sol-cm",
     "date": "2023-12-01",
     "date_type": "release",
@@ -1838,6 +2365,83 @@
     "editor_note": "SNKRDUNK (URL dated 2023-12-15; page later updated 2024-02-16 with further campaign images). Nike's own announcement not fetched. Later appearances (Singapore, Feb 2024) kept out of this record."
   },
   {
+    "id": "ad-2024-01-02-stonehenge-2024-winter-collection",
+    "date": "2024-01-02",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "STONEHENgE「2024 Winter Collection with NEWJEANS」",
+      "en": "STONEHENgE '2024 Winter Collection with NEWJEANS'"
+    },
+    "summary": {
+      "ja": "ジュエリーブランドSTONEHENgEが、NewJeansと撮影した2024年冬コレクションのビハインド映像を公開した。",
+      "en": "Jewellery brand STONEHENgE released a behind-the-scenes video of its 2024 winter collection shoot with NewJeans."
+    },
+    "detail": {
+      "ja": "ジュエリーブランドSTONEHENgEが、ブランドミューズのNewJeansとともに制作した2024年冬コレクションのビハインド映像を公式YouTubeで公開した。EDGE、LUCKY U、DAL、CONNECTION、U-LOCKの各コレクションが登場する。",
+      "en": "Jewellery brand STONEHENgE posted on its official YouTube channel a behind-the-scenes video of its 2024 winter collection made with brand muses NewJeans, featuring its EDGE, LUCKY U, DAL, CONNECTION and U-LOCK collections."
+    },
+    "credits": {
+      "brand": "STONEHENgE"
+    },
+    "source_url": "https://www.youtube.com/watch?v=UTJFmPAqkZE",
+    "media": {
+      "type": "youtube",
+      "ref": "UTJFmPAqkZE"
+    },
+    "tags": [
+      "stonehenge",
+      "jewelry",
+      "campaign"
+    ],
+    "verified": true,
+    "editor_note": "Official stonehengekorea upload 2024-01-02 KST (ledger had 01-03). Muse appointment: ad-2023-04-05-stonehenge-brand-muse."
+  },
+  {
+    "id": "ad-2024-01-22-seoul-fashion-week-2024-fw-official-video",
+    "date": "2024-01-22",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ソウルファッションウィーク 2024 F/W 公式広報映像",
+      "en": "Seoul Fashion Week 24 F/W official video with ambassadors NewJeans"
+    },
+    "summary": {
+      "ja": "広報大使NewJeansが出演するソウルファッションウィーク2024 F/Wの公式広報映像が公開された。",
+      "en": "Seoul Fashion Week released its official 24 F/W promotional video starring its ambassadors NewJeans."
+    },
+    "detail": {
+      "ja": "ソウルファッションウィークが、広報大使NewJeansの公式広報映像を公式YouTubeで公開した。ファッションウィークの開幕を待ち、祭りの始まりを迎えるメンバーそれぞれの魅力と個性を描いた内容で、2024 F/Wソウルファッションウィークは2月1日から5日まで、DDPと聖水のS FACTORYで開催されると告知された。公式Instagramでは前後してポスターや各メンバーの画像も公開された。",
+      "en": "Seoul Fashion Week posted the official promotional video of its ambassadors NewJeans on YouTube, showing each member's charm and style as they await and then welcome the start of the event. It announced the 2024 F/W Seoul Fashion Week for 1 to 5 February at DDP and S FACTORY in Seongsu, with posters and individual member images released on its Instagram around the same time."
+    },
+    "credits": {
+      "organizer": "Seoul Metropolitan Government / Seoul Fashion Week",
+      "venue": "DDP; S FACTORY (Seongsu)"
+    },
+    "source_url": "https://www.youtube.com/watch?v=hb_bgRkJgPk",
+    "media": {
+      "type": "youtube",
+      "ref": "hb_bgRkJgPk"
+    },
+    "tags": [
+      "seoul-fashion-week",
+      "public-sector",
+      "campaign"
+    ],
+    "verified": true,
+    "editor_note": "Official SFW channel upload 2024-01-22 KST. namu also lists an official poster post on SFW Instagram on 2024-01-19 and member images 01-22/23. Related behind content: content-2024-05-10-light-jeans-24fw-seoul-fashion-week-campaign-behind."
+  },
+  {
     "id": "ad-2024-01-27-nike-orchard-road-collab",
     "date": "2024-01-27",
     "date_type": "announce",
@@ -1879,6 +2483,45 @@
     "credits": {
       "brand": "Nike (Nike Orchard Road, Nike By You)"
     }
+  },
+  {
+    "id": "ad-2024-02-01-coca-cola-zero-lemon-cm",
+    "date": "2024-02-01",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "コカ・コーラ ゼロ レモン（2024）CM",
+      "en": "Coca-Cola Zero Lemon (2024) commercial",
+      "original": "새로워진 코카-콜라 제로 레몬을 만나 봐!"
+    },
+    "summary": {
+      "ja": "コカ・コーラ コリアが、新しい味になった「コカ・コーラ ゼロ レモン」のNewJeans出演CMを公開した。",
+      "en": "Coca-Cola Korea released a commercial starring NewJeans for the renewed Coca-Cola Zero Lemon."
+    },
+    "detail": {
+      "ja": "コカ・コーラ コリアが公式YouTubeで、新しい味になって戻ってきた「コカ・コーラ ゼロ レモン」の映像を公開し、NewJeansの5人が出演した。CokePLAYで商品を案内している。",
+      "en": "Coca-Cola Korea posted on its official YouTube channel a spot for the renewed Coca-Cola Zero Lemon, back with a new taste, featuring all five members, pointing viewers to CokePLAY."
+    },
+    "credits": {
+      "brand": "Coca-Cola Korea"
+    },
+    "source_url": "https://www.youtube.com/watch?v=Fa9y-2i1DfU",
+    "media": {
+      "type": "youtube",
+      "ref": "Fa9y-2i1DfU"
+    },
+    "tags": [
+      "coca-cola",
+      "beverage",
+      "cm"
+    ],
+    "verified": true,
+    "editor_note": "Official Coca-Cola Korea upload 2024-02-01 KST; description tags all five members. The 2023 Zero Lemon pre-order is goods-2023-04-18-coca-cola-zero-lemon-cokeplay-preorder."
   },
   {
     "id": "ad-2024-02-05-coca-cola-zero-japan-cm",
@@ -1955,6 +2598,44 @@
       "brand": "Lotte Wellfood (ZERO)"
     },
     "editor_note": "The Feb 15, 2024 date could not be verified; earliest located source is KPI News 2024-04-02. | removed from reader text: [detail.ja] KPIニュースの2024年4月2日の報道によれば、同社はZEROトリプルチョコレートバー、ZEROクッキー＆クリームバー、ZEROディープチョコレートパイント、ZEROクッキー＆クリームパイントの氷菓4種を新たに発売し、2022年5月に発売したZEROは2023年に400億ウォン近い売上を記録したとした。 [detail.ja] 起用の正確な発表日は確認できていない。 [detail.en] According to KPI News on April 2, 2024, the company added four frozen desserts, the ZERO Triple Chocolate Bar, ZERO Cookie & Cream Bar, ZERO Deep Chocolate Pint and ZERO Cookie & Cream Pint, and said ZERO, launched in May 2022, had recorded sales of nearly 40 billion won in 2023. [detail.en] The exact announcement date of the appointment could not be confirmed. / 推敲で本文から出典言及を除去: 5月9日のオンエアはニューデイリー報道による"
+  },
+  {
+    "id": "ad-2024-02-15-stonehenge-24-spring-campaign",
+    "date": "2024-02-15",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "STONEHENgE「24 Spring」キャンペーン映像",
+      "en": "STONEHENgE 24 Spring campaign film"
+    },
+    "summary": {
+      "ja": "STONEHENgEが、NewJeansと制作した2024年春キャンペーン映像を公開した。",
+      "en": "STONEHENgE released its 2024 spring campaign film with NewJeans."
+    },
+    "detail": {
+      "ja": "ジュエリーブランドSTONEHENgEが、NewJeansとともに制作した2024年春のキャンペーン映像を公式YouTubeで公開した。メンバーそれぞれが表現した「美しい瞬間（Beautiful Moments）」を描いた内容で、公式Instagramではメンバーとコレクション名を当てるイベントが2月14日から20日まで行われた。",
+      "en": "Jewellery brand STONEHENgE posted on YouTube its 2024 spring campaign film with NewJeans, built around the 'beautiful moments' each member expresses, and ran an Instagram event from 14 to 20 February asking fans to match each member with her collection."
+    },
+    "credits": {
+      "brand": "STONEHENgE"
+    },
+    "source_url": "https://www.youtube.com/watch?v=GhEP_AiRB8M",
+    "media": {
+      "type": "youtube",
+      "ref": "GhEP_AiRB8M"
+    },
+    "tags": [
+      "stonehenge",
+      "jewelry",
+      "campaign"
+    ],
+    "verified": true,
+    "editor_note": "Official stonehengekorea upload 2024-02-15 KST."
   },
   {
     "id": "ad-2024-03-01-incheon-airport-customs-ambassador",
@@ -2467,6 +3148,49 @@
     "editor_note": "Dailian (2024-05-10) citing LG H&H. Related digital cover exists as magazine-2024-05-07-cosmopolitan-korea-hanni-gucci-beauty. / Source is a press report (Daum News); not confirmed against an official page."
   },
   {
+    "id": "ad-2024-05-14-british-museum-korean-audio-guide",
+    "date": "2024-05-14",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "大英博物館 韓国ギャラリー 韓国語オーディオガイド（NewJeansナレーション）",
+      "en": "British Museum Korean-language audio guide narrated by NewJeans"
+    },
+    "summary": {
+      "ja": "大英博物館の韓国ギャラリーの主要展示を紹介する韓国語オーディオガイドを、NewJeansの5人が担当した。",
+      "en": "The five members narrated a Korean-language audio guide to key works in the British Museum's Korea Foundation Gallery."
+    },
+    "detail": {
+      "ja": "NewJeansの5人が、大英博物館の韓国ギャラリー（Room 67、Korea Foundation Gallery）の主要展示を紹介する韓国語オーディオガイドの声を担当し、博物館のオーディオアプリで聞けるようになった。朝鮮時代の白磁の月壺、14世紀の象嵌青磁、四天王を描いた仏画、伝統技法で再現した18世紀の書斎などを紹介し、ハドリアヌス帝の青銅頭部などローマ時代のブリテンの遺物の解説も一部担当した。ADORは、メンバーが自ら声の参加を申し出たと発表した。",
+      "en": "The five members lent their voices to a Korean-language audio guide to key works in the British Museum's Korean gallery (Room 67, the Korea Foundation Gallery), available through the museum's audio app. They introduce a Joseon-era porcelain moon jar, a 14th-century inlaid celadon vase, a Buddhist painting of the Four Heavenly Kings and a recreated 18th-century scholar's study, and also narrate some Roman Britain objects such as a bronze head of Emperor Hadrian. ADOR said the members volunteered their voices."
+    },
+    "credits": {
+      "institution": "British Museum",
+      "venue": "Room 67, Korea Foundation Gallery"
+    },
+    "source_url": "https://www.koreatimes.co.kr/www/art/2024/05/398_374738.html",
+    "reference_urls": [
+      "https://blooloop.com/museum/news/british-museum-k-pop-newjeans-audio-guides/",
+      "https://www.tenasia.com/amp/2024051629584",
+      "https://en.wikipedia.org/wiki/NewJeans#Endorsements"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "british-museum",
+      "culture",
+      "audio-guide"
+    ],
+    "verified": false,
+    "editor_note": "Korea Times (2024-05-16 14:48 KST) says ADOR announced it 'Tuesday' via press release and that the tour is available in the museum's Audio app (reports give 14 May). No British Museum or ADOR page fetched; date from press only. en.wikipedia gives May 2024 only."
+  },
+  {
     "id": "ad-2024-05-14-murakami-powerpuff-right-now",
     "date": "2024-05-14",
     "date_type": "announce",
@@ -2504,6 +3228,48 @@
     "credits": {
       "collaborators": "Takashi Murakami, The Powerpuff Girls (Cartoon Network)"
     }
+  },
+  {
+    "id": "ad-2024-05-15-coca-cola-add-delicious-magic",
+    "date": "2024-05-15",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "コカ・コーラ「おいしい魔法をプラスして！」キャンペーン",
+      "en": "Coca-Cola 'Add delicious magic!' campaign",
+      "original": "맛있는 마법을 더해요!"
+    },
+    "summary": {
+      "ja": "コカ・コーラ コリアが、おいしい料理とコカ・コーラの組み合わせを打ち出すNewJeans出演の新キャンペーン映像を公開した。",
+      "en": "Coca-Cola Korea launched a new campaign film with NewJeans pairing good food with Coca-Cola."
+    },
+    "detail": {
+      "ja": "コカ・コーラ コリアが公式YouTubeで、「幸せを完成させる2つ、おいしい料理とコカ・コーラ」を掲げる新キャンペーン「おいしい魔法をプラスして！」の映像を公開し、NewJeansが出演した。キャンペーンでは、ブルーリボン・サーベイが選んだ「コカ・コーラ レッドリボン」の店も紹介された。",
+      "en": "Coca-Cola Korea posted on YouTube the film for its new campaign 'Add delicious magic!', built on the idea that good food and Coca-Cola complete happiness, featuring NewJeans. The campaign also introduced 'Coca-Cola Red Ribbon' restaurants selected by the Blue Ribbon Survey."
+    },
+    "credits": {
+      "brand": "Coca-Cola Korea"
+    },
+    "source_url": "https://www.youtube.com/watch?v=Y8eSiUnePyA",
+    "reference_urls": [
+      "https://www.instagram.com/p/C7AplIFtsHg/"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "Y8eSiUnePyA"
+    },
+    "tags": [
+      "coca-cola",
+      "beverage",
+      "campaign"
+    ],
+    "verified": true,
+    "editor_note": "Official Coca-Cola Korea upload 2024-05-15 KST; the description does not name the members, but the thumbnail shows a member with a Coca-Cola Zero can. Member versions followed on 2024-05-22 and pair versions (Hanni & Danielle etc.) on 2024-09-09; not recorded separately. Related: content-2024-09-27-light-jeans-coca-cola-behind."
   },
   {
     "id": "ad-2024-05-21-hanni-gucci-horsebit-1955-campaign",
@@ -2588,43 +3354,6 @@
     "editor_note": "MoneyWeek (2024-05-23) gives the 23 May release; L'Officiel Korea (2024-05-26) repeats the brand release. / Source is a press report (Daum News); not confirmed against an official page."
   },
   {
-    "id": "ad-2024-06-01-krafton-pubg-collab",
-    "date": "2024-06-01",
-    "date_type": "release",
-    "date_precision": "month",
-    "category": "ad",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "KRAFTON『PUBG』× NewJeans",
-      "en": "Krafton PUBG collaboration"
-    },
-    "summary": {
-      "ja": "KRAFTONが『PUBG: BATTLEGROUNDS』とのコラボを発表、「OMG」MVのウサギ帽姿の5人のスキンや巨大ウサギ型バスが登場。",
-      "en": "KRAFTON brought NewJeans into PUBG: Battlegrounds with 'OMG'-style bunny-hat skins for all five members and a giant bunny bus."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "game",
-      "collab"
-    ],
-    "verified": false,
-    "detail": {
-      "ja": "KRAFTONが6月3日に『PUBG: BATTLEGROUNDS』とのコラボレーションを正式発表した。5月31日にはNJのウサギキャラクター付きの補給箱が空から落ちる予告映像が出ていた。コラボはPC版で6月12日、コンソール版で6月20日に開始され、「OMG」MVのウサギ帽とビーニーをかぶった5人のスキン（ビーニー、衣装、ブーツに加え、ミンジ、ハニ、ヘリンはヘルメット、ダニエル、ヘインはバックパック）、各マップの出発地点のトラックステージ、エランゲルの巨大なウサギ型バスが登場した。イベント用プレミアムトークンの期限はPCが7月15日、コンソールが7月23日で、ストアでは最大80%割引も行われた。",
-      "en": "On June 3 KRAFTON officially announced a collaboration between PUBG: BATTLEGROUNDS and NewJeans, after a May 31 teaser showing a supply crate with the NJ rabbit character falling from the sky. The collaboration went live on PC on June 12 and on consoles on June 20, with skins of the five members in the bunny hats and beanies from the 'OMG' music video (a beanie, outfit and boots per member plus helmets for Minji, Hanni and Haerin and backpacks for Danielle and Hyein), a new truck stage at each map's starting point and a giant bunny-shaped bus on Erangel. Event premium tokens expired on July 15 on PC and July 23 on console, with store discounts of up to 80%."
-    },
-    "credits": {
-      "brand": "KRAFTON (PUBG: BATTLEGROUNDS)"
-    },
-    "editor_note": "Dates via ABS-CBN, ONE Esports and Game Watch coverage; krafton.com press page returned 403."
-  },
-  {
     "id": "ad-2024-06-01-line-friends-collab-2024",
     "date": "2024-06-01",
     "date_type": "release",
@@ -2661,6 +3390,90 @@
       "designers": "Takashi Murakami, Hiroshi Fujiwara"
     },
     "editor_note": "Pop-up start date not stated in the Marie Claire piece; June 2024 per en.wikipedia. | removed from reader text: [detail.ja] マリ・クレール コリアの2024年7月1日の記事によれば、韓国ではLINE FRIENDS SQUARE明洞で7月10日まで開催され、事前予約は5分足らずで完売した。 [detail.en] According to Marie Claire Korea on July 1, 2024, the Korean pop-up ran at Line Friends Square Myeongdong until July 10, with advance bookings selling out in under five minutes."
+  },
+  {
+    "id": "ad-2024-06-10-shinhan-card-sol-pay-cm",
+    "date": "2024-06-10",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "新韓カード「SOLペイ」CM「SOLで脱出」",
+      "en": "Shinhan Card SOL Pay commercial 'Escape with SOL'",
+      "original": "[SOL로탈출] 뉴진스, Pay로 무엇이든 할 수 있는 곳에 마침내 도착"
+    },
+    "summary": {
+      "ja": "新韓カードが、決済アプリ「SOLペイ」のNewJeans出演CM（15秒・30秒）を公開した。",
+      "en": "Shinhan Card released 15- and 30-second commercials for its SOL Pay app starring NewJeans."
+    },
+    "detail": {
+      "ja": "新韓カードが公式YouTubeで、決済アプリ「SOLペイ」のCM「SOLで脱出：NewJeans、Payで何でもできる場所についに到着」の15秒版と30秒版を公開した。公式Instagramにも同じキャンペーン映像が投稿された。",
+      "en": "Shinhan Card posted on its official YouTube channel 15- and 30-second versions of its SOL Pay commercial, 'Escape with SOL: NewJeans finally arrive where Pay can do anything', with the campaign also posted on its Instagram."
+    },
+    "credits": {
+      "brand": "Shinhan Card"
+    },
+    "source_url": "https://www.youtube.com/watch?v=VG9bui99HAE",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=Q7Ofe-31W5c",
+      "https://www.instagram.com/reel/C8A6lYHhVk-/"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "VG9bui99HAE"
+    },
+    "tags": [
+      "shinhan",
+      "finance",
+      "cm"
+    ],
+    "verified": true,
+    "editor_note": "Official 신한카드 uploads 2024-06-10 KST (30s VG9bui99HAE, 15s Q7Ofe-31W5c). Member tip videos followed on 2024-06-14 (not recorded)."
+  },
+  {
+    "id": "ad-2024-06-12-krafton-pubg-collab",
+    "date": "2024-06-12",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "KRAFTON『PUBG』× NewJeans",
+      "en": "Krafton PUBG collaboration"
+    },
+    "summary": {
+      "ja": "KRAFTONが『PUBG: BATTLEGROUNDS』とのコラボを発表、「OMG」MVのウサギ帽姿の5人のスキンや巨大ウサギ型バスが登場。",
+      "en": "KRAFTON brought NewJeans into PUBG: Battlegrounds with 'OMG'-style bunny-hat skins for all five members and a giant bunny bus."
+    },
+    "source_url": "https://www.youtube.com/watch?v=4V5N4RmaKBI",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=pG0hSErNKEE",
+      "https://www.youtube.com/watch?v=k60yZ_pM_SM",
+      "https://en.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "game",
+      "collab"
+    ],
+    "verified": true,
+    "detail": {
+      "ja": "KRAFTONが6月3日に『PUBG: BATTLEGROUNDS』とのコラボレーションを正式発表した。5月31日にはNJのウサギキャラクター付きの補給箱が空から落ちる予告映像が出ていた。コラボはPC版で6月12日、コンソール版で6月20日に開始され、「OMG」MVのウサギ帽とビーニーをかぶった5人のスキン（ビーニー、衣装、ブーツに加え、ミンジ、ハニ、ヘリンはヘルメット、ダニエル、ヘインはバックパック）、各マップの出発地点のトラックステージ、エランゲルの巨大なウサギ型バスが登場した。イベント用プレミアムトークンの期限はPCが7月15日、コンソールが7月23日で、ストアでは最大80%割引も行われた。",
+      "en": "On June 3 KRAFTON officially announced a collaboration between PUBG: BATTLEGROUNDS and NewJeans, after a May 31 teaser showing a supply crate with the NJ rabbit character falling from the sky. The collaboration went live on PC on June 12 and on consoles on June 20, with skins of the five members in the bunny hats and beanies from the 'OMG' music video (a beanie, outfit and boots per member plus helmets for Minji, Hanni and Haerin and backpacks for Danielle and Hyein), a new truck stage at each map's starting point and a giant bunny-shaped bus on Erangel. Event premium tokens expired on July 15 on PC and July 23 on console, with store discounts of up to 80%."
+    },
+    "credits": {
+      "brand": "KRAFTON (PUBG: BATTLEGROUNDS)"
+    },
+    "editor_note": "Dates via ABS-CBN, ONE Esports and Game Watch coverage; krafton.com press page returned 403. / 2026-10-17 review: PUBG: BATTLEGROUNDS official channel — teaser pG0hSErNKEE (2024-06-05 KST) and collaboration film 4V5N4RmaKBI (2024-06-08 KST) both state PC June 12 / Console June 20; skin collection video k60yZ_pM_SM (06-17) gives crafting end PC July 15 / Console July 23 (UTC). detail mentions the June 3 announcement and May 31 teaser (kept). Mobile (PUBG Mobile) start 06-18 per namu, not verified."
   },
   {
     "id": "ad-2024-07-11-mcst-korea-tourism-ambassador",
@@ -2700,6 +3513,48 @@
       "appointing_body": "Ministry of Culture, Sports and Tourism (Korea Tourism Organization)"
     },
     "editor_note": "MCST page body is in an attachment (HWPX/PDF) not fetched; campaign markets unverified. / Campaign theme from Yonhap; CM appearance from English Wikipedia. The MCST press release body is an attachment (HWPX/PDF) not fetched; campaign markets unverified."
+  },
+  {
+    "id": "ad-2024-08-09-seoul-fashion-week-2025-ss-promo",
+    "date": "2024-08-09",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ソウルファッションウィーク 2025 S/S 広報映像（グローバルアンバサダー）",
+      "en": "Seoul Fashion Week 25 S/S promotional video with global ambassadors NewJeans"
+    },
+    "summary": {
+      "ja": "グローバルアンバサダーNewJeansが出演する、ソウルファッションウィーク2025 S/Sの広報映像が公開された。",
+      "en": "Seoul Fashion Week released a 25 S/S promotional video with its global ambassadors NewJeans."
+    },
+    "detail": {
+      "ja": "ソウルファッションウィークが公式YouTubeで、グローバルアンバサダーNewJeansとともに25 S/Sソウルファッションウィークへ誘う映像を公開した。会期は9月3日から始まり、長年の会場であるDDPが10周年を迎えたことも紹介した。",
+      "en": "Seoul Fashion Week posted on YouTube a video inviting viewers into the 25 S/S Seoul Fashion Week with its global ambassadors NewJeans. The event was to begin on 3 September, and the video noted that its longtime venue DDP was marking its 10th anniversary."
+    },
+    "credits": {
+      "organizer": "Seoul Metropolitan Government / Seoul Fashion Week",
+      "venue": "Dongdaemun Design Plaza (DDP)"
+    },
+    "source_url": "https://www.youtube.com/watch?v=0Mdd2Je3eiQ",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=1QuZ7oLeYOs"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "0Mdd2Je3eiQ"
+    },
+    "tags": [
+      "seoul-fashion-week",
+      "public-sector",
+      "campaign"
+    ],
+    "verified": true,
+    "editor_note": "Official SFW channel upload 2024-08-09 KST (English version 1QuZ7oLeYOs per namu, not checked). Related behind content: content-2024-11-26-light-jeans-25ss-seoul-fashion-week-campaign-behind."
   },
   {
     "id": "ad-2024-08-21-danielle-ysl-ink-vinyl-tint-campaign",
@@ -2821,6 +3676,48 @@
     "credits": {
       "advertiser": "SK Telecom"
     }
+  },
+  {
+    "id": "ad-2024-09-23-shinhan-securities-cm",
+    "date": "2024-09-23",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "新韓投資証券 CM「毎日が新投DAY」",
+      "en": "Shinhan Securities commercial 'Every day is Shintu DAY'",
+      "original": "신한투자증권 X 뉴진스 Official CF"
+    },
+    "summary": {
+      "ja": "新韓投資証券が、月曜から金曜までを曜日ごとのメンバーで描いたNewJeans出演のCMを公開した。",
+      "en": "Shinhan Securities released commercials starring NewJeans, with a member for each weekday from Monday to Friday."
+    },
+    "detail": {
+      "ja": "新韓投資証券が公式YouTubeで、NewJeans出演のCM（15秒・30秒）と、月曜ミンジ、火曜ダニエル、水曜ハニ、木曜ヘイン、金曜ヘリンのブランドCMを公開した。曜日の頭文字を使った「月！ウォール街のプロのように、火！話題の銘柄を探し…」というコピーで、「どんな日も、どんな投資も新韓投資証券と」と締めくくる。",
+      "en": "Shinhan Securities posted on its official YouTube channel 15- and 30-second commercials starring NewJeans, plus brand spots assigning a member to each weekday: Minji Monday, Danielle Tuesday, Hanni Wednesday, Hyein Thursday and Haerin Friday. The copy plays on the Korean weekday syllables ('Mon! Like a Wall Street pro, Tue! Find the hot stocks...') and closes with 'Any day, any investment, with Shinhan Securities'."
+    },
+    "credits": {
+      "brand": "Shinhan Securities"
+    },
+    "source_url": "https://www.youtube.com/watch?v=xoQIUOzuhL0",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=IyaLNjOASrM"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "xoQIUOzuhL0"
+    },
+    "tags": [
+      "shinhan",
+      "finance",
+      "cm"
+    ],
+    "verified": true,
+    "editor_note": "Official 알파TV - 신한투자증권 uploads 2024-09-23 KST (30s xoQIUOzuhL0, 15s IyaLNjOASrM); member-day spots per namu list (same date). Making film followed 09-24. Related: content-2025-02-04-light-jeans-shinhan-securities-campaign-behind."
   },
   {
     "id": "ad-2024-09-24-calvin-klein-ambassador",

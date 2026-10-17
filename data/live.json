@@ -1093,6 +1093,51 @@
     "editor_note": "Weverse notice 13540 (2023-05-12): screening 5/18 20:00 KST, attendees Danielle, Jeong Young-ju, Jung Sang-hoon (subject to change). Attendance on the day not separately confirmed."
   },
   {
+    "id": "live-2023-05-20-levis-501-150th-live-in-levis-concert",
+    "date": "2023-05-20",
+    "time": "17:00",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "live",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "リーバイス501®150周年「LIVE IN LEVI'S® MUSIC CONCERT」",
+      "en": "Levi's 501® 150th anniversary 'Live in Levi's' Music Concert"
+    },
+    "summary": {
+      "ja": "リーバイスが501®誕生150周年を記念して開いた音楽コンサートに、グローバルアンバサダーのNewJeansが出演した。",
+      "en": "NewJeans, Levi's global ambassadors, performed at the brand's music concert marking 150 years of the 501®."
+    },
+    "detail": {
+      "ja": "リーバイ・ストラウス・コリアが、最初のデニム501®の誕生150周年を記念した「Levi's 501® Experience」の一環として韓国で開いた音楽コンサートで、グローバルアンバサダーのNewJeansが出演し、Zior Park、BIG Naughtyも出演した。招待制のイベントで、公演は17時からリーバイスの公式YouTubeとInstagramでライブ配信された。会場には501®の歴史をたどるアーカイブ展示も設けられた。",
+      "en": "A music concert held in Korea by Levi Strauss Korea as part of 'Levi's 501® Experience', marking 150 years since the first 501® denim, with global ambassadors NewJeans performing alongside Zior Park and BIG Naughty. The invite-only event was livestreamed from 17:00 on Levi's official YouTube and Instagram, and the venue included an archive exhibition on the history of the 501®."
+    },
+    "credits": {
+      "organizer": "Levi Strauss Korea",
+      "lineup": "NewJeans, Zior Park, BIG Naughty"
+    },
+    "source_url": "https://www.smarttoday.co.kr/ko-kr/articles/30056",
+    "reference_urls": [
+      "https://www.instagram.com/p/Csf7HUmuHsC/",
+      "https://www.instagram.com/p/Csa63pZp8qk/",
+      "https://snkrdunk.com/en/magazine/2023/05/17/live-in-levis-music-concert-newjeans-zior-park-big-naughty",
+      "https://marketech-apac.com/levis-celebrates-150-years-of-iconic-jean-with-slew-of-local-celebrations-across-apac-other-markets/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "levis",
+      "brand-event",
+      "concert"
+    ],
+    "verified": false,
+    "editor_note": "Event announced by Levi Strauss Korea on 2023-05-17 (Smart Today): 501 Experience with exhibition and music concert on the 20th, livestream at 17:00 on Levi's YouTube/Instagram; 'invite-only' per Marketech APAC. Levi's Korea Instagram posts Csa63pZp8qk (2023-05-19) and Csf7HUmuHsC 'NewJeans @ LIVE IN LEVI'S' (2023-05-21 17:39 KST) per namu; official concert video JEURdXSwf4M is no longer available. Venue not identified. Category live per data-policy 2b (brand event performance); ledger listed it under ad. Instagram account/caption could not be read (r.jina.ai reader blocked for instagram.com on 2026-10-17); post attributed to the brand by namu.wiki's brand section, date from the shortcode timestamp."
+  },
+  {
     "id": "live-2023-06-11-weverse-con-festival-2023",
     "date": "2023-06-11",
     "date_type": "event",
@@ -3565,17 +3610,20 @@
     },
     "reference_urls": [
       "https://realsound.jp/2024/03/post-1613271.html",
-      "https://www.koreatimes.co.kr/amp/entertainment/music/20240628/newjeans-rock-tokyo-dome"
+      "https://www.koreatimes.co.kr/amp/entertainment/music/20240628/newjeans-rock-tokyo-dome",
+      "https://www.elle.co.kr/article/1866961",
+      "https://www.tenasia.co.kr/article/2024062879674",
+      "https://en.wikipedia.org/wiki/Danielle_(singer)"
     ],
     "tags": [
       "fan-meeting",
       "solo-show",
       "japan"
     ],
-    "editor_note": "Dates: 2024-06-26 and 2024-06-27. Guests included YOASOBI and Rina Sawayama. | Two-day attendance figure (about 91,000) removed from the summary; it was reported after the second night. | Two-day attendance (91,200) was announced after the shows and is kept out of reader text; Korea Times reported about 45,000 for night one. / Cut for length: full title 'NewJeans Fan Meeting Bunnies Camp 2024 Tokyo Dome' (in title); doors 17:00 / start 19:00; Bunnies Membership (JP) presale; group setlist — Attention, Cookie, Hold It Down (Hanni, Danielle), Heel Dance (Haerin), Hype Boy, Hurt (250 remix), New Jeans, Super Shy, Get Up, Cool With You, Bubble Gum, Right Now, ETA, How Sweet, Supernatural, OMG, Ditto, ASAP.",
+    "editor_note": "Dates: 2024-06-26 and 2024-06-27. Guests included YOASOBI and Rina Sawayama. | Two-day attendance figure (about 91,000) removed from the summary; it was reported after the second night. | Two-day attendance (91,200) was announced after the shows and is kept out of reader text; Korea Times reported about 45,000 for night one. / Cut for length: full title 'NewJeans Fan Meeting Bunnies Camp 2024 Tokyo Dome' (in title); doors 17:00 / start 19:00; Bunnies Membership (JP) presale; group setlist — Attention, Cookie, Hold It Down (Hanni, Danielle), Heel Dance (Haerin), Hype Boy, Hurt (250 remix), New Jeans, Super Shy, Get Up, Cool With You, Bubble Gum, Right Now, ETA, How Sweet, Supernatural, OMG, Ditto, ASAP. / 2026-10-17 ledger fill: Danielle's solo 'Butterflies (With U)' was her self-written, unreleased song, first performed at this fan meeting (Elle Korea 2024-06-27 article 1866961: '다니엘은 자작곡 Butterfly를 최초 공개'; Tenasia 2024-06-28: '다니엘은 자작곡 Butterflies(버터플라이즈)'). Title spelling varies in reports (Butterfly / Butterflies / Butterflies (With U)); en.wikipedia's credits table lists 'Butterflies (With You)'. No recording released; kept as a note on this live record instead of a music record.",
     "detail": {
-      "ja": "東京ドームで2度目のファンミーティング『Bunnies Camp 2024 Tokyo Dome』が6月26日と27日に開かれた。3月27日に発表された日本初の単独公演で、チケットは完売した。各日約2時間半で24曲を披露し、オープニングアクトはプロデューサーの250、ゲストにYOASOBI（26日、「Biri-Biri」「アイドル」）とRina Sawayama（27日、ヘインと「Bad Friend」）が出演した。ソロではミンジがVaundy「踊り子」、ヘインが竹内まりや「プラスティック・ラブ」（26日）、ダニエルが「Butterflies（With U）」、ハニが松田聖子「青い珊瑚礁」を歌った。ビジュアルと物販は村上隆とのコラボで、King Gnuの新井和輝がベースで参加した。",
-      "en": "NewJeans' second fan meeting, Bunnies Camp 2024 Tokyo Dome, was held at Tokyo Dome on 26 and 27 June. Announced on 27 March as their first solo shows in Japan, it sold out. Each roughly two-and-a-half-hour show featured 24 songs, with producer 250 as opening act and guests YOASOBI (26 June, 'Biri-Biri' and 'Idol') and Rina Sawayama (27 June, 'Bad Friend' with Hyein). Solo numbers were Minji's cover of Vaundy's 'Odoriko', Hyein's cover of Mariya Takeuchi's 'Plastic Love' (day one), Danielle's 'Butterflies (With U)' and Hanni's cover of Seiko Matsuda's 'Aoi Sangosho'. Visuals and merchandise were made with Takashi Murakami, and Kazuki Arai of King Gnu played bass."
+      "ja": "東京ドームで2度目のファンミーティング『Bunnies Camp 2024 Tokyo Dome』が6月26日と27日に開かれた。3月27日に発表された日本初の単独公演で、チケットは完売した。各日約2時間半で24曲を披露し、オープニングアクトはプロデューサーの250、ゲストにYOASOBI（26日、「Biri-Biri」「アイドル」）とRina Sawayama（27日、ヘインと「Bad Friend」）が出演した。ソロではミンジがVaundy「踊り子」、ヘインが竹内まりや「プラスティック・ラブ」（26日）、ダニエルが「Butterflies（With U）」、ハニが松田聖子「青い珊瑚礁」を歌った。ビジュアルと物販は村上隆とのコラボで、King Gnuの新井和輝がベースで参加した。ダニエルが歌った「Butterflies（With U）」は本人の自作曲で、音源未発表のままこの公演で初めて披露された。",
+      "en": "NewJeans' second fan meeting, Bunnies Camp 2024 Tokyo Dome, was held at Tokyo Dome on 26 and 27 June. Announced on 27 March as their first solo shows in Japan, it sold out. Each roughly two-and-a-half-hour show featured 24 songs, with producer 250 as opening act and guests YOASOBI (26 June, 'Biri-Biri' and 'Idol') and Rina Sawayama (27 June, 'Bad Friend' with Hyein). Solo numbers were Minji's cover of Vaundy's 'Odoriko', Hyein's cover of Mariya Takeuchi's 'Plastic Love' (day one), Danielle's 'Butterflies (With U)' and Hanni's cover of Seiko Matsuda's 'Aoi Sangosho'. Visuals and merchandise were made with Takashi Murakami, and Kazuki Arai of King Gnu played bass. Danielle's 'Butterflies (With U)' was a song she wrote herself, unreleased, and performed here for the first time."
     },
     "credits": {
       "venue": "Tokyo Dome, Tokyo",

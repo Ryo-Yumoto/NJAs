@@ -179,6 +179,115 @@
     "editor_note": "発表日は9月上旬。日付は月精度 / Circle Chart monthly digital chart, August 2022: Attention No. 1, Hype boy No. 5, Cookie No. 21."
   },
   {
+    "id": "record-2022-10-06-genie-music-awards-2022-best-female-rookie-nomination",
+    "date": "2022-10-06",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2022 Genie Music Awards Best Female Rookie Awardにノミネート",
+      "en": "2022 Genie Music Awards – Best Female Rookie Award nomination"
+    },
+    "summary": {
+      "ja": "2022 Genie Music AwardsのBest Female Rookie Award部門の候補に、NewJeansが選ばれた。",
+      "en": "NewJeans were nominated for the Best Female Rookie Award at the 2022 Genie Music Awards."
+    },
+    "detail": {
+      "ja": "Genie Musicが2022 Genie Music Awardsの候補を発表し、NewJeansはBest Female Rookie Award部門の候補となった。同部門の候補はIVE、LE SSERAFIM、NewJeans、NMIXXなど。授賞式は11月8日に仁川で開かれ、2021年10月1日から2022年10月5日までに発表された楽曲が対象となる。",
+      "en": "Genie Music announced the nominees for the 2022 Genie Music Awards, listing NewJeans for the Best Female Rookie Award alongside IVE, LE SSERAFIM and NMIXX among others. The ceremony is set for November 8 in Incheon and covers music released between October 1, 2021 and October 5, 2022."
+    },
+    "source_url": "https://www.soompi.com/article/1548620wpp/2022-genie-music-awards-announces-this-years-nominees",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "genie-music-awards"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+      "https://en.wikipedia.org/wiki/2022_Genie_Music_Awards"
+    ],
+    "editor_note": "Soompi nominee article dated Oct 06, 2022 (US time); Wikipedia 2022 Genie Music Awards gives the nomination release as October 6, 2022."
+  },
+  {
+    "id": "record-2022-10-08-tma-2022-fan-n-star-choice-artist-nomination",
+    "date": "2022-10-08",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2022 The Fact Music Awards Fan N Star Choice Award（歌手）にノミネート",
+      "en": "2022 The Fact Music Awards – Fan N Star Choice Award (Artist) nomination"
+    },
+    "summary": {
+      "ja": "2022 The Fact Music Awardsで、NewJeansがFan N Star Choice Award（歌手）部門の候補に名を連ねた。",
+      "en": "NewJeans were among the nominees for Fan N Star Choice Award (Artist) at the 2022 The Fact Music Awards."
+    },
+    "detail": {
+      "ja": "2022 The Fact Music Awards（2022年10月8日、ソウル・KSPOドーム）で、NewJeansはFan N Star Choice Award（歌手）部門の候補となった。同部門はファン投票アプリ「Fan N Star」での投票で選ばれ、1次投票で最終候補20組に絞られた後、2次投票が行われた。",
+      "en": "NewJeans were nominated for Fan N Star Choice Award (Artist) at the 2022 The Fact Music Awards (held October 8, 2022 at KSPO Dome, Seoul). The category was decided by votes on the Fan N Star app, with a first round narrowing the field to 20 finalists before a second round."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "tma"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://news.tf.co.kr/read/ogmeta/1964540.htm"
+    ],
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. The Fact (organiser) article of 2022-09-13 says the 20 finalists were set by the first-round vote (Aug 8-22) and the second round ran Sep 13-Oct 4, but does not list the finalists, so NewJeans' inclusion could not be confirmed from the organiser."
+  },
+  {
+    "id": "record-2022-10-08-tma-2022-idolplus-popularity-award-nomination",
+    "date": "2022-10-08",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2022 The Fact Music Awards Idolplus人気賞にノミネート",
+      "en": "2022 The Fact Music Awards – Idolplus Popularity Award nomination"
+    },
+    "summary": {
+      "ja": "2022 The Fact Music Awardsで、NewJeansがIdolplus人気賞部門の候補に名を連ねた。",
+      "en": "NewJeans were among the nominees for Idolplus Popularity Award at the 2022 The Fact Music Awards."
+    },
+    "detail": {
+      "ja": "2022 The Fact Music Awards（2022年10月8日、ソウル・KSPOドーム）で、NewJeansはIdolplus人気賞部門の候補となった。同賞はアプリ「IDOLPLUS」での投票のみで受賞者が決まる部門だった。",
+      "en": "NewJeans were nominated for Idolplus Popularity Award at the 2022 The Fact Music Awards (held October 8, 2022 at KSPO Dome, Seoul). The award was decided solely by votes on the IDOLPLUS app."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "tma"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://news.tf.co.kr/read/ogmeta/1964540.htm"
+    ],
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. The Fact (organiser) article of 2022-09-13 says Idolplus voting ran Sep 13-Oct 4 but does not list candidates."
+  },
+  {
     "id": "record-2022-10-08-tma-2022-next-leader",
     "date": "2022-10-08",
     "date_type": "event",
@@ -214,6 +323,186 @@
     "editor_note": "The Fact (TMA organizer) article dated 2022-10-08: NewJeans received the Next Leader award at 2022 TMA, KSPO DOME."
   },
   {
+    "id": "record-2022-10-24-mama-2022-artist-of-the-year-nomination",
+    "date": "2022-10-24",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2022 MAMA AWARDS Artist of the Yearにノミネート",
+      "en": "2022 MAMA Awards – Artist of the Year nomination"
+    },
+    "summary": {
+      "ja": "2022 MAMA AWARDSのArtist of the Year部門の候補に、NewJeansが選ばれた。",
+      "en": "NewJeans were nominated for Artist of the Year at the 2022 MAMA Awards."
+    },
+    "detail": {
+      "ja": "10月24日に2022 MAMA AWARDSの候補が発表され、アーティスト部門の候補が自動的に対象となるArtist of the YearにNewJeansが含まれた。NewJeansはこの日発表された候補でBest New Female Artist、Best Dance Performance Female Group、Song of the Year、Artist of the Year、Worldwide Fans' Choice Top 10の5部門に名を連ねた。授賞式は11月29日と30日に大阪・京セラドームで開かれる。",
+      "en": "The 2022 MAMA Awards nominees were announced on October 24. NewJeans were included for Artist of the Year, whose nominees are drawn automatically from the artist categories. NewJeans appeared in five categories on the list: Best New Female Artist, Best Dance Performance Female Group, Song of the Year, Artist of the Year and Worldwide Fans' Choice Top 10. The ceremony is set for November 29 and 30 at Kyocera Dome in Osaka."
+    },
+    "source_url": "https://www.soompi.com/article/1551129wpp/2022-mama-awards-announces-nominees-voting-begins",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mama"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi article (Oct 24, 2022): 'On October 24, the nominations were announced'."
+  },
+  {
+    "id": "record-2022-10-24-mama-2022-best-dance-performance-female-group-attention-nomination",
+    "date": "2022-10-24",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2022 MAMA AWARDS Best Dance Performance Female Groupにノミネート（「Attention」）",
+      "en": "2022 MAMA Awards – Best Dance Performance Female Group nomination ('Attention')"
+    },
+    "summary": {
+      "ja": "2022 MAMA AWARDSのBest Dance Performance Female Group部門の候補に「Attention」が選ばれた。",
+      "en": "NewJeans' 'Attention' was nominated for Best Dance Performance Female Group at the 2022 MAMA Awards."
+    },
+    "detail": {
+      "ja": "10月24日に2022 MAMA AWARDSの候補が発表され、「Attention」がBest Dance Performance Female Group部門の候補となった。NewJeansはこの日発表された候補でBest New Female Artist、Best Dance Performance Female Group、Song of the Year、Artist of the Year、Worldwide Fans' Choice Top 10の5部門に名を連ねた。授賞式は11月29日と30日に大阪・京セラドームで開かれる。",
+      "en": "The 2022 MAMA Awards nominees were announced on October 24. 'Attention' was listed for Best Dance Performance Female Group. NewJeans appeared in five categories on the list: Best New Female Artist, Best Dance Performance Female Group, Song of the Year, Artist of the Year and Worldwide Fans' Choice Top 10. The ceremony is set for November 29 and 30 at Kyocera Dome in Osaka."
+    },
+    "source_url": "https://www.soompi.com/article/1551129wpp/2022-mama-awards-announces-nominees-voting-begins",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mama"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi article (Oct 24, 2022): 'On October 24, the nominations were announced'."
+  },
+  {
+    "id": "record-2022-10-24-mama-2022-best-new-female-artist-nomination",
+    "date": "2022-10-24",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2022 MAMA AWARDS Best New Female Artistにノミネート",
+      "en": "2022 MAMA Awards – Best New Female Artist nomination"
+    },
+    "summary": {
+      "ja": "2022 MAMA AWARDSのBest New Female Artist部門の候補に、NewJeansが選ばれた。",
+      "en": "NewJeans were nominated for Best New Female Artist at the 2022 MAMA Awards."
+    },
+    "detail": {
+      "ja": "10月24日に2022 MAMA AWARDSの候補が発表され、NewJeansはIVE、Kep1er、LE SSERAFIM、NMIXX、YENAとともにBest New Female Artist部門の候補となった。NewJeansはこの日発表された候補でBest New Female Artist、Best Dance Performance Female Group、Song of the Year、Artist of the Year、Worldwide Fans' Choice Top 10の5部門に名を連ねた。授賞式は11月29日と30日に大阪・京セラドームで開かれる。",
+      "en": "The 2022 MAMA Awards nominees were announced on October 24. NewJeans were listed for Best New Female Artist with IVE, Kep1er, LE SSERAFIM, NMIXX and YENA. NewJeans appeared in five categories on the list: Best New Female Artist, Best Dance Performance Female Group, Song of the Year, Artist of the Year and Worldwide Fans' Choice Top 10. The ceremony is set for November 29 and 30 at Kyocera Dome in Osaka."
+    },
+    "source_url": "https://www.soompi.com/article/1551129wpp/2022-mama-awards-announces-nominees-voting-begins",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mama"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi article (Oct 24, 2022): 'On October 24, the nominations were announced'."
+  },
+  {
+    "id": "record-2022-10-24-mama-2022-song-of-the-year-attention-nomination",
+    "date": "2022-10-24",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2022 MAMA AWARDS Song of the Yearにノミネート（「Attention」）",
+      "en": "2022 MAMA Awards – Song of the Year nomination ('Attention')"
+    },
+    "summary": {
+      "ja": "2022 MAMA AWARDSのSong of the Year部門の候補に、NewJeansの「Attention」が選ばれた。",
+      "en": "NewJeans' 'Attention' was nominated for Song of the Year at the 2022 MAMA Awards."
+    },
+    "detail": {
+      "ja": "10月24日に2022 MAMA AWARDSの候補が発表され、ジャンル部門の候補曲が自動的に対象となるSong of the Yearに「Attention」が含まれた。NewJeansはこの日発表された候補でBest New Female Artist、Best Dance Performance Female Group、Song of the Year、Artist of the Year、Worldwide Fans' Choice Top 10の5部門に名を連ねた。授賞式は11月29日と30日に大阪・京セラドームで開かれる。",
+      "en": "The 2022 MAMA Awards nominees were announced on October 24. 'Attention' was included for Song of the Year, whose nominees are drawn automatically from the song genre categories. NewJeans appeared in five categories on the list: Best New Female Artist, Best Dance Performance Female Group, Song of the Year, Artist of the Year and Worldwide Fans' Choice Top 10. The ceremony is set for November 29 and 30 at Kyocera Dome in Osaka."
+    },
+    "source_url": "https://www.soompi.com/article/1551129wpp/2022-mama-awards-announces-nominees-voting-begins",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mama"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi article (Oct 24, 2022): 'On October 24, the nominations were announced'."
+  },
+  {
+    "id": "record-2022-10-24-mama-2022-worldwide-fans-choice-top-10-nomination",
+    "date": "2022-10-24",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2022 MAMA AWARDS Worldwide Fans' Choice Top 10にノミネート",
+      "en": "2022 MAMA Awards – Worldwide Fans' Choice Top 10 nomination"
+    },
+    "summary": {
+      "ja": "2022 MAMA AWARDSのWorldwide Fans' Choice Top 10部門の候補に、NewJeansが選ばれた。",
+      "en": "NewJeans were nominated for Worldwide Fans' Choice Top 10 at the 2022 MAMA Awards."
+    },
+    "detail": {
+      "ja": "10月24日に2022 MAMA AWARDSの候補が発表され、ファン投票で選ばれるWorldwide Fans' Choice Top 10の候補にNewJeansが入り、11月4日まで投票が行われた。NewJeansはこの日発表された候補でBest New Female Artist、Best Dance Performance Female Group、Song of the Year、Artist of the Year、Worldwide Fans' Choice Top 10の5部門に名を連ねた。授賞式は11月29日と30日に大阪・京セラドームで開かれる。",
+      "en": "The 2022 MAMA Awards nominees were announced on October 24. NewJeans were listed for the fan-voted Worldwide Fans' Choice Top 10, with voting open through November 4. NewJeans appeared in five categories on the list: Best New Female Artist, Best Dance Performance Female Group, Song of the Year, Artist of the Year and Worldwide Fans' Choice Top 10. The ceremony is set for November 29 and 30 at Kyocera Dome in Osaka."
+    },
+    "source_url": "https://www.soompi.com/article/1551129wpp/2022-mama-awards-announces-nominees-voting-begins",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mama"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi article (Oct 24, 2022): 'On October 24, the nominations were announced'."
+  },
+  {
     "id": "record-2022-10-28-k-billboard-awards-2022-hot-rookie",
     "date": "2022-10-28",
     "date_type": "event",
@@ -244,6 +533,114 @@
     ],
     "verified": false,
     "editor_note": "Soompi winners list only; venue not stated. / THE-K Billboard Awards (1st, Oct 28 2022) has no reachable organizer page; only Soompi's winners list (Hot Rookie: NewJeans, ENHYPEN, IVE, Kep1er). Not contradicted."
+  },
+  {
+    "id": "record-2022-11-04-mma-2022-album-of-the-year-new-jeans-nomination",
+    "date": "2022-11-04",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Melon Music Awards 2022 Album of the Yearにノミネート（『New Jeans』）",
+      "en": "Melon Music Awards 2022 – Album of the Year nomination (New Jeans)"
+    },
+    "summary": {
+      "ja": "Melon Music Awards 2022のAlbum of the Year部門の候補に、デビューEP『New Jeans』が選ばれた。",
+      "en": "NewJeans' debut EP New Jeans was nominated for Album of the Year at the Melon Music Awards 2022."
+    },
+    "detail": {
+      "ja": "Melon Music Awardsが11月4日に2022年の候補を発表し、デビューEP『New Jeans』がAlbum of the Year部門の候補となった。同日発表された候補では、Top 10・新人賞・Best Group（女性）などにもNewJeansの名が挙がった。授賞式は11月26日に開かれ、2021年11月8日から2022年11月3日までに発表された楽曲が対象となる。",
+      "en": "On November 4 the Melon Music Awards announced its 2022 nominees, listing the debut EP New Jeans for Album of the Year. The same nominee list also named NewJeans for the Top 10, New Artist of the Year and Best Group (Female). The ceremony is set for November 26 and covers music released between November 8, 2021 and November 3, 2022."
+    },
+    "source_url": "https://www.soompi.com/article/1552689wpp/melon-music-awards-2022-announces-nominees-voting-begins",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mma"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi article (Nov 4, 2022) states the nominees were announced November 4."
+  },
+  {
+    "id": "record-2022-11-04-mma-2022-artist-of-the-year-nomination",
+    "date": "2022-11-04",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Melon Music Awards 2022 Artist of the Yearにノミネート",
+      "en": "Melon Music Awards 2022 – Artist of the Year nomination"
+    },
+    "summary": {
+      "ja": "Melon Music Awards 2022のTop 10およびArtist of the Year部門の候補に、NewJeansが選ばれた。",
+      "en": "NewJeans were nominated for the Top 10 and Artist of the Year at the Melon Music Awards 2022."
+    },
+    "detail": {
+      "ja": "Melon Music Awardsが11月4日に2022年の候補を発表し、NewJeansはTop 10とArtist of the Yearの共通候補に入った。Top 10への投票はArtist of the Yearの得票にも反映される仕組みだった。授賞式は11月26日に開かれ、2021年11月8日から2022年11月3日までに発表された楽曲が対象となる。",
+      "en": "On November 4 the Melon Music Awards announced its 2022 nominees, with NewJeans on the shared nominee list for the Top 10 and Artist of the Year; Top 10 votes also counted toward Artist of the Year. The ceremony is set for November 26 and covers music released between November 8, 2021 and November 3, 2022."
+    },
+    "source_url": "https://www.soompi.com/article/1552689wpp/melon-music-awards-2022-announces-nominees-voting-begins",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mma"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi article (Nov 4, 2022): 'Artist of the Year and Top 10' nominee list includes NewJeans."
+  },
+  {
+    "id": "record-2022-11-04-mma-2022-best-group-female-nomination",
+    "date": "2022-11-04",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Melon Music Awards 2022 Best Group（女性）にノミネート",
+      "en": "Melon Music Awards 2022 – Best Group (Female) nomination"
+    },
+    "summary": {
+      "ja": "Melon Music Awards 2022のBest Group（女性）部門の候補に、NewJeansが選ばれた。",
+      "en": "NewJeans were nominated for Best Group (Female) at the Melon Music Awards 2022."
+    },
+    "detail": {
+      "ja": "Melon Music Awardsが11月4日に2022年の候補を発表し、NewJeansはBest Group（女性）部門の候補となった。同部門の候補はBLACKPINK、(G)I-DLE、IVE、NewJeansなど。同日発表された候補では、Top 10・新人賞・Album of the YearなどにもNewJeansの名が挙がった。授賞式は11月26日に開かれ、2021年11月8日から2022年11月3日までに発表された楽曲が対象となる。",
+      "en": "On November 4 the Melon Music Awards announced its 2022 nominees, listing NewJeans for Best Group (Female) alongside BLACKPINK, (G)I-DLE and IVE among others. The same nominee list also named NewJeans for the Top 10, New Artist of the Year and Album of the Year. The ceremony is set for November 26 and covers music released between November 8, 2021 and November 3, 2022."
+    },
+    "source_url": "https://www.soompi.com/article/1552689wpp/melon-music-awards-2022-announces-nominees-voting-begins",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mma"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi article (Nov 4, 2022): Best Group (Female) nominee list includes NewJeans."
   },
   {
     "id": "record-2022-11-26-mma-2022-best-new-artist",
@@ -314,6 +711,39 @@
       "https://www.soompi.com/article/1556004wpp/winners-of-the-melon-music-awards-2022"
     ],
     "editor_note": "Melon MMA official history data 2022: TOP10 includes NewJeans."
+  },
+  {
+    "id": "record-2022-12-01-asian-pop-music-awards-2022-best-new-artist-overseas-nomination",
+    "date": "2022-12-01",
+    "date_type": "event",
+    "date_precision": "month",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2022 Asian Pop Music Awards Best New Artist（海外）にノミネート（『New Jeans』）",
+      "en": "2022 Asian Pop Music Awards – Best New Artist (Overseas) nomination (New Jeans)"
+    },
+    "summary": {
+      "ja": "2022 Asian Pop Music AwardsのBest New Artist（海外）部門で『New Jeans』が候補となった。",
+      "en": "New Jeans by NewJeans was among the nominees for Best New Artist (Overseas) at the 2022 Asian Pop Music Awards."
+    },
+    "detail": {
+      "ja": "2022 Asian Pop Music Awards（2022年12月発表）で、NewJeansはBest New Artist（海外）部門の候補となった（対象：『New Jeans』）。",
+      "en": "NewJeans were nominated for Best New Artist (Overseas) at the 2022 Asian Pop Music Awards (results announced December 2022), for New Jeans."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "asian-pop-music-awards"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list; no nominee announcement found. Ceremony/results month only (December 2022), so date_precision month."
   },
   {
     "id": "record-2022-12-01-asian-pop-music-awards-2022-hype-boy",
@@ -456,6 +886,115 @@
     "editor_note": "Rolling Stone's own NewJeans interview states 'we ranked Hype Boy as the 24th-best song of the year' with a link to the 100 Best Songs of 2022 list (published 2022-12-05). The list page itself only exposes positions 51-100 without JS."
   },
   {
+    "id": "record-2022-12-06-sma-32-hallyu-special-award-nomination",
+    "date": "2022-12-06",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第32回ソウル歌謡大賞 韓流特別賞にノミネート",
+      "en": "32nd Seoul Music Awards – Hallyu Special Award nomination"
+    },
+    "summary": {
+      "ja": "第32回ソウル歌謡大賞の候補が発表され、NewJeansが韓流特別賞（K-Wave賞）の候補となった。",
+      "en": "NewJeans were nominated for the Hallyu Special (K-Wave) Award at the 32nd Seoul Music Awards."
+    },
+    "detail": {
+      "ja": "ソウル歌謡大賞が12月6日に第32回の候補を発表し、モバイル投票を開始した。NewJeansは新人賞部門（『New Jeans』）の候補に入っており、本賞と新人賞の候補は人気賞と韓流特別賞（K-Wave賞）に自動的にノミネートされる。人気賞は韓国国内の投票、韓流特別賞は韓国国外の投票のみで決まり、投票は2段階で行われる。授賞式は2023年1月19日にKSPOドームで開かれる。",
+      "en": "The Seoul Music Awards announced its 32nd nominees on December 6 and opened mobile voting. NewJeans were nominated for Rookie of the Year with New Jeans, and all Bonsang and Rookie nominees are automatically nominated for the Popularity and K-Wave Awards. The Popularity Award is decided entirely by votes from within Korea and the K-Wave Award by votes from outside Korea, in two voting phases. The ceremony is set for January 19, 2023 at KSPO Dome."
+    },
+    "source_url": "https://www.soompi.com/article/1557390wpp/32nd-seoul-music-awards-announces-nominees-voting-begins",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "sma"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi (Dec 6, 2022): 'On December 6, the Seoul Music Awards officially announced the nominees'; Rookie nominees auto-nominated for Popularity and K-Wave Awards."
+  },
+  {
+    "id": "record-2022-12-06-sma-32-popularity-award-nomination",
+    "date": "2022-12-06",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第32回ソウル歌謡大賞 人気賞にノミネート",
+      "en": "32nd Seoul Music Awards – Popularity Award nomination"
+    },
+    "summary": {
+      "ja": "第32回ソウル歌謡大賞の候補が発表され、NewJeansが国内投票で選ばれる人気賞の候補となった。",
+      "en": "NewJeans were nominated for the Popularity Award at the 32nd Seoul Music Awards."
+    },
+    "detail": {
+      "ja": "ソウル歌謡大賞が12月6日に第32回の候補を発表し、モバイル投票を開始した。NewJeansは新人賞部門（『New Jeans』）の候補に入っており、本賞と新人賞の候補は人気賞と韓流特別賞（K-Wave賞）に自動的にノミネートされる。人気賞は韓国国内の投票、韓流特別賞は韓国国外の投票のみで決まり、投票は2段階で行われる。授賞式は2023年1月19日にKSPOドームで開かれる。",
+      "en": "The Seoul Music Awards announced its 32nd nominees on December 6 and opened mobile voting. NewJeans were nominated for Rookie of the Year with New Jeans, and all Bonsang and Rookie nominees are automatically nominated for the Popularity and K-Wave Awards. The Popularity Award is decided entirely by votes from within Korea and the K-Wave Award by votes from outside Korea, in two voting phases. The ceremony is set for January 19, 2023 at KSPO Dome."
+    },
+    "source_url": "https://www.soompi.com/article/1557390wpp/32nd-seoul-music-awards-announces-nominees-voting-begins",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "sma"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi (Dec 6, 2022): Rookie nominees are automatically nominated for the Popularity Award."
+  },
+  {
+    "id": "record-2022-12-07-gda-37-digital-song-division-attention-nomination",
+    "date": "2022-12-07",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第37回ゴールデンディスクアワード デジタル音源部門（本賞・大賞）にノミネート（「Attention」）",
+      "en": "37th Golden Disc Awards – Digital Song Division (Bonsang/Daesang) nomination ('Attention')"
+    },
+    "summary": {
+      "ja": "第37回ゴールデンディスクアワードのデジタル音源部門本賞の候補に「Attention」が選ばれた。",
+      "en": "'Attention' was nominated in the Digital Song Division at the 37th Golden Disc Awards, the pool for its Bonsang and Daesang."
+    },
+    "detail": {
+      "ja": "第37回ゴールデンディスクアワードの候補が発表され、「Attention」がデジタル音源部門本賞の候補に入った。同部門の本賞と大賞は、2022年12月中旬までの販売実績60%と専門審査40%で選ばれる。NewJeansは新人賞（Rookie Artist of the Year）の候補にも挙がった。対象は2021年11月から2022年11月中旬までに発表された楽曲とアルバム。",
+      "en": "The 37th Golden Disc Awards announced its nominees, listing 'Attention' in the Digital Song Division Bonsang. Bonsang and Daesang winners are chosen 60 percent on sales counted to mid-December 2022 and 40 percent on an expert panel. NewJeans were also nominated for Rookie Artist of the Year. Eligible releases ran from November 2021 to mid-November 2022."
+    },
+    "source_url": "https://www.soompi.com/article/1557448wpp/37th-golden-disc-awards-announces-nominees",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "gda"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+      "https://en.wikipedia.org/wiki/37th_Golden_Disc_Awards"
+    ],
+    "editor_note": "Ledger item is 'Digital Daesang (Attention) [nominated]'. Soompi (published 2022-12-07 03:34 UTC = Dec 7 KST) lists 'Attention' in the Digital Song Division Bonsang nominees; the Daesang is decided under the same criteria. Search summary of other coverage also gives Dec 7, 2022."
+  },
+  {
     "id": "record-2022-12-13-aaa-2022-best-new-artist",
     "date": "2022-12-13",
     "date_type": "event",
@@ -489,6 +1028,72 @@
       "https://www.soompi.com/article/1558355wpp/winners-of-2022-asia-artist-awards"
     ],
     "editor_note": "AAA official 2022 winners page lists 뉴진스 under 신인상 (Rookie/New Artist)."
+  },
+  {
+    "id": "record-2022-12-13-aaa-2022-dcm-popularity-award-female-singer-nomination",
+    "date": "2022-12-13",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2022 Asia Artist Awards DCM人気賞（女性歌手）にノミネート",
+      "en": "2022 Asia Artist Awards – DCM Popularity Award – Female Singer nomination"
+    },
+    "summary": {
+      "ja": "2022 Asia Artist Awardsで、NewJeansがDCM人気賞（女性歌手）部門の候補に名を連ねた。",
+      "en": "NewJeans were among the nominees for DCM Popularity Award – Female Singer at the 2022 Asia Artist Awards."
+    },
+    "detail": {
+      "ja": "2022 Asia Artist Awards（2022年12月13日、名古屋・日本ガイシホール）で、NewJeansはDCM人気賞（女性歌手）部門の候補となった。同賞はDCM Liveでのファン投票で選ばれる部門だった。",
+      "en": "NewJeans were nominated for DCM Popularity Award – Female Singer at the 2022 Asia Artist Awards (held December 13, 2022 at Nippon Gaishi Hall, Nagoya). The award was decided by fan voting on DCM Live."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "aaa"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; the DCM popularity vote's candidate list was not found in press."
+  },
+  {
+    "id": "record-2022-12-13-aaa-2022-idolplus-popularity-award-music-nomination",
+    "date": "2022-12-13",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2022 Asia Artist Awards Idolplus人気賞（歌手）にノミネート",
+      "en": "2022 Asia Artist Awards – Idolplus Popularity Award – Music nomination"
+    },
+    "summary": {
+      "ja": "2022 Asia Artist Awardsで、NewJeansがIdolplus人気賞（歌手）部門の候補に名を連ねた。",
+      "en": "NewJeans were among the nominees for Idolplus Popularity Award – Music at the 2022 Asia Artist Awards."
+    },
+    "detail": {
+      "ja": "2022 Asia Artist Awards（2022年12月13日、名古屋・日本ガイシホール）で、NewJeansはIdolplus人気賞（歌手）部門の候補となった。同賞はアプリ「IDOLPLUS」でのファン投票で選ばれる部門だった。",
+      "en": "NewJeans were nominated for Idolplus Popularity Award – Music at the 2022 Asia Artist Awards (held December 13, 2022 at Nippon Gaishi Hall, Nagoya). The award was decided by fan voting on the IDOLPLUS app."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "aaa"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; candidate list not found in press."
   },
   {
     "id": "record-2022-12-13-aaa-2022-performance-of-the-year",
@@ -760,6 +1365,39 @@
     ],
     "verified": false,
     "editor_note": "Same as above: Rookie Artist of the Year (shared with LE SSERAFIM, IVE) is reported by OSEN/The Fact, but no organizer page found."
+  },
+  {
+    "id": "record-2023-01-07-gda-37-tiktok-most-popular-artist-nomination",
+    "date": "2023-01-07",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第37回ゴールデンディスクアワード TikTok人気賞にノミネート",
+      "en": "37th Golden Disc Awards – TikTok Most Popular Artist Award nomination"
+    },
+    "summary": {
+      "ja": "第37回ゴールデンディスクアワードで、NewJeansがTikTok人気賞部門の候補に名を連ねた。",
+      "en": "NewJeans were among the nominees for TikTok Most Popular Artist Award at the 37th Golden Disc Awards."
+    },
+    "detail": {
+      "ja": "第37回ゴールデンディスクアワード（2023年1月7日、バンコク・ラジャマンガラ国立競技場）で、NewJeansはTikTok人気賞部門の候補となった。人気賞は100%ファン投票で選ばれる部門だった。",
+      "en": "NewJeans were nominated for TikTok Most Popular Artist Award at the 37th Golden Disc Awards (held January 7, 2023 at Rajamangala Stadium, Bangkok). The popularity award was decided entirely by fan votes."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "gda"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; popularity-vote candidate list and start date not found."
   },
   {
     "id": "record-2023-01-07-omg-oricon-daily-singles-no1",
@@ -1327,6 +1965,117 @@
     "editor_note": "Circle monthly charts Jan 2023: Digital Ditto No.1, OMG No.2, Hype boy No.4; Streaming Ditto No.1, OMG No.2, Hype boy No.4; Album chart OMG No.2 (1,188,007). Download chart: OMG No.2, Ditto No.4."
   },
   {
+    "id": "record-2023-02-09-kma-20-album-of-the-year-new-jeans-nomination",
+    "date": "2023-02-09",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第20回韓国大衆音楽賞 Album of the Yearにノミネート（『New Jeans』）",
+      "en": "20th Korean Music Awards – Album of the Year nomination (New Jeans)"
+    },
+    "summary": {
+      "ja": "第20回韓国大衆音楽賞のAlbum of the Year部門の候補に、NewJeansの『New Jeans』が選ばれた。",
+      "en": "NewJeans’ New Jeans was nominated for Album of the Year at the 20th Korean Music Awards."
+    },
+    "detail": {
+      "ja": "第20回韓国大衆音楽賞の候補が発表された。NewJeansは総合分野のAlbum of the Year（『New Jeans』）、Song of the Year（「Attention」）、Musician of the Year、Rookie of the Yearと、ジャンル分野の最優秀K-POP楽曲（「Attention」）・最優秀K-POPアルバム（『New Jeans』）の計6部門で候補となった。韓国大衆音楽賞は販売実績よりも音楽的成果を主な基準とする賞である。",
+      "en": "The 20th Korean Music Awards announced its nominees. NewJeans received six nominations in all: Album of the Year (New Jeans), Song of the Year ('Attention'), Musician of the Year and Rookie of the Year in the general field, plus Best K-Pop Song ('Attention') and Best K-Pop Album (New Jeans). The Korean Music Awards weighs musical achievement over sales."
+    },
+    "source_url": "https://www.soompi.com/article/1566047wpp/2023-korean-music-awards-announces-this-years-nominees",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "kma"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+      "https://en.wikipedia.org/wiki/20th_Korean_Music_Awards"
+    ],
+    "editor_note": "Soompi nominee article dated Feb 9, 2023 (published 16:54 UTC); Wikipedia 20th KMA gives nominations announced February 9, 2023. Soompi labels the category 'Artist of the Year' (= Musician of the Year)."
+  },
+  {
+    "id": "record-2023-02-09-kma-20-musician-of-the-year-nomination",
+    "date": "2023-02-09",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第20回韓国大衆音楽賞 Musician of the Yearにノミネート",
+      "en": "20th Korean Music Awards – Musician of the Year nomination"
+    },
+    "summary": {
+      "ja": "第20回韓国大衆音楽賞のMusician of the Year部門の候補に、NewJeansが選ばれた。",
+      "en": "NewJeans were nominated for Musician of the Year at the 20th Korean Music Awards."
+    },
+    "detail": {
+      "ja": "第20回韓国大衆音楽賞の候補が発表された。NewJeansは総合分野のAlbum of the Year（『New Jeans』）、Song of the Year（「Attention」）、Musician of the Year、Rookie of the Yearと、ジャンル分野の最優秀K-POP楽曲（「Attention」）・最優秀K-POPアルバム（『New Jeans』）の計6部門で候補となった。韓国大衆音楽賞は販売実績よりも音楽的成果を主な基準とする賞である。",
+      "en": "The 20th Korean Music Awards announced its nominees. NewJeans received six nominations in all: Album of the Year (New Jeans), Song of the Year ('Attention'), Musician of the Year and Rookie of the Year in the general field, plus Best K-Pop Song ('Attention') and Best K-Pop Album (New Jeans). The Korean Music Awards weighs musical achievement over sales."
+    },
+    "source_url": "https://www.soompi.com/article/1566047wpp/2023-korean-music-awards-announces-this-years-nominees",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "kma"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+      "https://en.wikipedia.org/wiki/20th_Korean_Music_Awards"
+    ],
+    "editor_note": "Soompi nominee article dated Feb 9, 2023 (published 16:54 UTC); Wikipedia 20th KMA gives nominations announced February 9, 2023. Soompi labels the category 'Artist of the Year' (= Musician of the Year)."
+  },
+  {
+    "id": "record-2023-02-09-kma-20-song-of-the-year-attention-nomination",
+    "date": "2023-02-09",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第20回韓国大衆音楽賞 Song of the Yearにノミネート（「Attention」）",
+      "en": "20th Korean Music Awards – Song of the Year nomination ('Attention')"
+    },
+    "summary": {
+      "ja": "第20回韓国大衆音楽賞のSong of the Year部門の候補に、NewJeansの「Attention」が選ばれた。",
+      "en": "NewJeans’ 'Attention' was nominated for Song of the Year at the 20th Korean Music Awards."
+    },
+    "detail": {
+      "ja": "第20回韓国大衆音楽賞の候補が発表された。NewJeansは総合分野のAlbum of the Year（『New Jeans』）、Song of the Year（「Attention」）、Musician of the Year、Rookie of the Yearと、ジャンル分野の最優秀K-POP楽曲（「Attention」）・最優秀K-POPアルバム（『New Jeans』）の計6部門で候補となった。韓国大衆音楽賞は販売実績よりも音楽的成果を主な基準とする賞である。",
+      "en": "The 20th Korean Music Awards announced its nominees. NewJeans received six nominations in all: Album of the Year (New Jeans), Song of the Year ('Attention'), Musician of the Year and Rookie of the Year in the general field, plus Best K-Pop Song ('Attention') and Best K-Pop Album (New Jeans). The Korean Music Awards weighs musical achievement over sales."
+    },
+    "source_url": "https://www.soompi.com/article/1566047wpp/2023-korean-music-awards-announces-this-years-nominees",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "kma"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+      "https://en.wikipedia.org/wiki/20th_Korean_Music_Awards"
+    ],
+    "editor_note": "Soompi nominee article dated Feb 9, 2023 (published 16:54 UTC); Wikipedia 20th KMA gives nominations announced February 9, 2023. Soompi labels the category 'Artist of the Year' (= Musician of the Year)."
+  },
+  {
     "id": "record-2023-02-11-artist-100-debut",
     "date": "2023-02-11",
     "date_type": "event",
@@ -1363,6 +2112,39 @@
     "editor_note": "Billboard Artist 100 dated 2023-02-11: NewJeans No. 98, first week on chart."
   },
   {
+    "id": "record-2023-02-11-hanteo-music-awards-30-bonsang-nomination",
+    "date": "2023-02-11",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Hanteo Music Awards 2022 本賞にノミネート",
+      "en": "Hanteo Music Awards 2022 – Main Award (Bonsang) nomination"
+    },
+    "summary": {
+      "ja": "Hanteo Music Awards 2022で、NewJeansが本賞部門の候補に名を連ねた。",
+      "en": "NewJeans were among the nominees for Main Award (Bonsang) at the Hanteo Music Awards 2022."
+    },
+    "detail": {
+      "ja": "Hanteo Music Awards 2022（2023年2月11日、ソウル・蚕室室内体育館）で、NewJeansは本賞部門の候補となった。",
+      "en": "NewJeans were nominated for Main Award (Bonsang) at the Hanteo Music Awards 2022 (day two held February 11, 2023 at Jamsil Arena, Seoul)."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "hanteo-music-awards"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list; 30th HMA Wikipedia says voting opened Dec 13, 2022 on Whosfan, but no official or major-press nominee list was found."
+  },
+  {
     "id": "record-2023-02-11-hanteo-music-awards-30-rookie",
     "date": "2023-02-11",
     "date_type": "event",
@@ -1393,6 +2175,147 @@
     ],
     "verified": false,
     "editor_note": "Hanteo's official HMA 2023 site (awards.hanteo.com/2023/hma2023) is JS-only and Hanteo News has no reachable winners article for the 30th HMA; only Soompi/aggregators list Rookie of the Year (Female): NewJeans, Kep1er. Not contradicted."
+  },
+  {
+    "id": "record-2023-02-11-hanteo-music-awards-30-whosfandom-nomination",
+    "date": "2023-02-11",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Hanteo Music Awards 2022 WhosFandom Awardにノミネート",
+      "en": "Hanteo Music Awards 2022 – WhosFandom Award nomination"
+    },
+    "summary": {
+      "ja": "Hanteo Music Awards 2022で、NewJeansがWhosFandom Award部門の候補に名を連ねた。",
+      "en": "NewJeans were among the nominees for WhosFandom Award at the Hanteo Music Awards 2022."
+    },
+    "detail": {
+      "ja": "Hanteo Music Awards 2022（2023年2月11日、ソウル・蚕室室内体育館）で、NewJeansはWhosFandom Award部門の候補となった。同賞はWhosfanアプリでのファン投票で選ばれる部門だった。",
+      "en": "NewJeans were nominated for WhosFandom Award at the Hanteo Music Awards 2022 (day two held February 11, 2023 at Jamsil Arena, Seoul). The award was decided by fan voting on the Whosfan app."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "hanteo-music-awards"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; WhosFandom bracket/candidate list not found."
+  },
+  {
+    "id": "record-2023-02-18-ccma-2022-global-digital-music-august-attention-nomination",
+    "date": "2023-02-18",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart Music Awards 2022 Artist of the Year – Global Digital Music（8月）にノミネート（「Attention」）",
+      "en": "Circle Chart Music Awards 2022 – Artist of the Year – Global Digital Music (August) nomination ('Attention')"
+    },
+    "summary": {
+      "ja": "Circle Chart Music Awards 2022の8月度Global Digital Music部門で「Attention」が候補となった。",
+      "en": "'Attention' by NewJeans was among the nominees for Artist of the Year – Global Digital Music (August) at the Circle Chart Music Awards 2022."
+    },
+    "detail": {
+      "ja": "Circle Chart Music Awards 2022（2023年2月18日、ソウル・KSPOドーム）で、NewJeansはArtist of the Year – Global Digital Music（8月）部門の候補となった（対象：「Attention」）。同賞はCircleチャートの成績をもとに選ばれる。",
+      "en": "NewJeans were nominated for Artist of the Year – Global Digital Music (August) at the Circle Chart Music Awards 2022 (held February 18, 2023 at KSPO Dome, Seoul), for 'Attention'. The awards are based on Circle Chart performance."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "ccma"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/12th_Circle_Chart_Music_Awards"
+    ],
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (12th Circle Chart Music Awards). Tirto.id (citing Soompi) dates the nominee reveal to 2022-12-18 but could not be fetched (blocked) and no Soompi/official nominee page was found."
+  },
+  {
+    "id": "record-2023-02-18-ccma-2022-global-digital-music-august-hype-boy-nomination",
+    "date": "2023-02-18",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart Music Awards 2022 Artist of the Year – Global Digital Music（8月）にノミネート（「Hype Boy」）",
+      "en": "Circle Chart Music Awards 2022 – Artist of the Year – Global Digital Music (August) nomination ('Hype Boy')"
+    },
+    "summary": {
+      "ja": "Circle Chart Music Awards 2022の8月度Global Digital Music部門で「Hype Boy」が候補となった。",
+      "en": "'Hype Boy' by NewJeans was among the nominees for Artist of the Year – Global Digital Music (August) at the Circle Chart Music Awards 2022."
+    },
+    "detail": {
+      "ja": "Circle Chart Music Awards 2022（2023年2月18日、ソウル・KSPOドーム）で、NewJeansはArtist of the Year – Global Digital Music（8月）部門の候補となった（対象：「Hype Boy」）。同賞はCircleチャートの成績をもとに選ばれる。",
+      "en": "NewJeans were nominated for Artist of the Year – Global Digital Music (August) at the Circle Chart Music Awards 2022 (held February 18, 2023 at KSPO Dome, Seoul), for 'Hype Boy'. The awards are based on Circle Chart performance."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "ccma"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/12th_Circle_Chart_Music_Awards"
+    ],
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (12th Circle Chart Music Awards). Tirto.id (citing Soompi) dates the nominee reveal to 2022-12-18 but could not be fetched (blocked) and no Soompi/official nominee page was found."
+  },
+  {
+    "id": "record-2023-02-18-ccma-2022-new-artist-physical-new-jeans-nomination",
+    "date": "2023-02-18",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart Music Awards 2022 New Artist of the Year – Physicalにノミネート（『New Jeans』）",
+      "en": "Circle Chart Music Awards 2022 – New Artist of the Year – Physical nomination (New Jeans)"
+    },
+    "summary": {
+      "ja": "Circle Chart Music Awards 2022のNew Artist of the Year（フィジカル）で『New Jeans』が候補となった。",
+      "en": "New Jeans by NewJeans was among the nominees for New Artist of the Year – Physical at the Circle Chart Music Awards 2022."
+    },
+    "detail": {
+      "ja": "Circle Chart Music Awards 2022（2023年2月18日、ソウル・KSPOドーム）で、NewJeansはNew Artist of the Year – Physical部門の候補となった（対象：『New Jeans』）。同賞はCircleチャートの成績をもとに選ばれる。",
+      "en": "NewJeans were nominated for New Artist of the Year – Physical at the Circle Chart Music Awards 2022 (held February 18, 2023 at KSPO Dome, Seoul), for New Jeans. The awards are based on Circle Chart performance."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "ccma"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/12th_Circle_Chart_Music_Awards"
+    ],
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (12th Circle Chart Music Awards). Tirto.id (citing Soompi) dates the nominee reveal to 2022-12-18 but could not be fetched (blocked) and no Soompi/official nominee page was found."
   },
   {
     "id": "record-2023-02-18-ccma-2022-rookie-digital",
@@ -3128,6 +4051,42 @@
     "editor_note": "BoF profile page returns 403 to this environment. Class of 2023 additions reported 2023-09-29 (FashionUnited, Fashionsnap); BoF published a NewJeans feature with an exclusive cover image on 2023-10-06 (Newsis 2023-10-07). Exact announcement day unconfirmed, so month precision. Ledger had year only."
   },
   {
+    "id": "record-2023-09-01-mtv-vma-2023-group-of-the-year-nomination",
+    "date": "2023-09-01",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 MTV Video Music Awards Group of the Yearにノミネート",
+      "en": "2023 MTV Video Music Awards – Group of the Year nomination"
+    },
+    "summary": {
+      "ja": "2023 MTV Video Music AwardsのGroup of the Year部門の候補にNewJeansが選ばれた。",
+      "en": "NewJeans were nominated for Group of the Year at the 2023 MTV Video Music Awards."
+    },
+    "detail": {
+      "ja": "MTV VMAが9月1日（現地時間）に公式サイトとSNSで追加の候補を発表し、NewJeansはGroup of the Year部門の候補となった。所属事務所ADORは、米国の主要ポップ音楽授賞式でNewJeansが候補に挙がるのは初めてだとした。授賞式は9月12日（現地時間）にニュージャージー州のプルデンシャル・センターで開かれる。",
+      "en": "On September 1 (local time) the MTV VMAs announced an additional batch of nominees on its official website and social media, naming NewJeans for Group of the Year. Their agency ADOR said it was the group's first nomination at a major US pop music award show. The ceremony is set for September 12 (local time) at the Prudential Center in New Jersey."
+    },
+    "source_url": "https://www.nocutnews.co.kr/news/6005221",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mtv-vma"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "CBS NoCut News 2023-09-02 13:27 KST: MTV VMA announced the additional nominee list on the 1st (local time) via its official site and SNS; NewJeans nominated for Group of the Year. Date kept as US local date."
+  },
+  {
     "id": "record-2023-09-02-super-shy-circle-digital-8-weeks-no1",
     "date": "2023-09-02",
     "date_type": "event",
@@ -3275,6 +4234,78 @@
     "editor_note": "TenAsia 2023-09-29報道に基づく。達成日の時刻は未確認 / TenAsia 2023-09-29報道に基づく。達成日の時刻は未確認。「ガールズグループ初」の記述も同報道による。 / Korea Herald 2023-09-29: NewJeans hit 1 billion Spotify streams with its namesake debut album, ADOR said Friday (Sep 29)."
   },
   {
+    "id": "record-2023-10-04-mtv-ema-2023-best-group-nomination",
+    "date": "2023-10-04",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 MTV Europe Music Awards Best Groupにノミネート",
+      "en": "2023 MTV Europe Music Awards – Best Group nomination"
+    },
+    "summary": {
+      "ja": "2023 MTV Europe Music AwardsのBest Group部門の候補に、NewJeansが選ばれた。",
+      "en": "NewJeans were nominated for Best Group at the 2023 MTV Europe Music Awards."
+    },
+    "detail": {
+      "ja": "2023 MTV EMAの候補が発表され、NewJeansはaespa、SEVENTEEN、TXTなどとともにBest Group部門の候補となった。NewJeansの候補はBest GroupとBest K-Popの2部門となる。投票はMTV EMA公式サイトで10月31日まで行われ、授賞式は翌月パリで開かれる予定。",
+      "en": "The 2023 MTV EMA nominees were announced, listing NewJeans for Best Group alongside aespa, SEVENTEEN and TXT among others. NewJeans received two nominations, for Best Group and Best K-Pop. Voting is open on the MTV EMA website until October 31, and the ceremony is planned for Paris the following month."
+    },
+    "source_url": "https://www.soompi.com/article/1617382wpp/btss-jungkook-txt-newjeans-seventeen-aespa-stray-kids-blackpink-and-fifty-fifty-nominated-for-2023-mtv-europe-music-awards",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mtv-ema"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi: Billboard Brazil published the list on Oct 3 (US time); article updated 'October 4 KST' as official voting began. Dated to Oct 4, 2023 (official MTV release/voting open). Ceremony was later cancelled - not mentioned (after-date fact)."
+  },
+  {
+    "id": "record-2023-10-04-mtv-ema-2023-best-k-pop-nomination",
+    "date": "2023-10-04",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 MTV Europe Music Awards Best K-Popにノミネート",
+      "en": "2023 MTV Europe Music Awards – Best K-Pop nomination"
+    },
+    "summary": {
+      "ja": "2023 MTV Europe Music AwardsのBest K-Pop部門の候補に、NewJeansが選ばれた。",
+      "en": "NewJeans were nominated for Best K-Pop at the 2023 MTV Europe Music Awards."
+    },
+    "detail": {
+      "ja": "2023 MTV EMAの候補が発表され、NewJeansはFIFTY FIFTY、ジョングク、SEVENTEEN、Stray Kids、TXTとともにBest K-Pop部門の候補となった。NewJeansの候補はBest GroupとBest K-Popの2部門となる。投票はMTV EMA公式サイトで10月31日まで行われ、授賞式は翌月パリで開かれる予定。",
+      "en": "The 2023 MTV EMA nominees were announced, listing NewJeans for Best K-Pop with FIFTY FIFTY, Jungkook, SEVENTEEN, Stray Kids and TXT. NewJeans received two nominations, for Best Group and Best K-Pop. Voting is open on the MTV EMA website until October 31, and the ceremony is planned for Paris the following month."
+    },
+    "source_url": "https://www.soompi.com/article/1617382wpp/btss-jungkook-txt-newjeans-seventeen-aespa-stray-kids-blackpink-and-fifty-fifty-nominated-for-2023-mtv-europe-music-awards",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mtv-ema"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi: Billboard Brazil published the list on Oct 3 (US time); article updated 'October 4 KST' as official voting began. Dated Oct 4, 2023."
+  },
+  {
     "id": "record-2023-10-05-super-shy-mv-100m-views",
     "date": "2023-10-05",
     "date_type": "event",
@@ -3379,6 +4410,111 @@
     "editor_note": "The Fact (organizer) article states Listener's Choice is awarded among Artist of the Year honorees, and its 2024 interview (news.tf.co.kr/read/ogmeta/2147936.htm) says NewJeans took two awards in 2023; consistent with Artist of the Year (Bonsang) + Listener's Choice on 2023-10-10."
   },
   {
+    "id": "record-2023-10-10-tma-2023-best-music-fall-super-shy-nomination",
+    "date": "2023-10-10",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 The Fact Music Awards TMA Best Music – Fallにノミネート（「Super Shy」）",
+      "en": "2023 The Fact Music Awards – Best Music – Fall nomination ('Super Shy')"
+    },
+    "summary": {
+      "ja": "2023 The Fact Music AwardsのTMA Best Music – Fall部門で「Super Shy」が候補となった。",
+      "en": "'Super Shy' by NewJeans was among the nominees for Best Music – Fall at the 2023 The Fact Music Awards."
+    },
+    "detail": {
+      "ja": "2023 The Fact Music Awards（2023年10月10日、仁川・南洞体育館）で、NewJeansはTMA Best Music – Fall部門の候補となった（対象：「Super Shy」）。同部門はファン投票（2023年9月11日〜10月2日）で選ばれた。",
+      "en": "NewJeans were nominated for Best Music – Fall at the 2023 The Fact Music Awards (held October 10, 2023 at Namdong Gymnasium, Incheon), for 'Super Shy'. The category was decided by a fan vote held September 11 to October 2, 2023."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "tma"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://news.tf.co.kr/read/ogmeta/2048421.htm"
+    ],
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; The Fact coverage gives the Fall vote period (Sep 11-Oct 2, 2023) but no finalist list including NewJeans was found."
+  },
+  {
+    "id": "record-2023-10-10-tma-2023-best-music-spring-omg-nomination",
+    "date": "2023-10-10",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 The Fact Music Awards TMA Best Music – Springにノミネート（「OMG」）",
+      "en": "2023 The Fact Music Awards – Best Music – Spring nomination ('OMG')"
+    },
+    "summary": {
+      "ja": "2023 The Fact Music Awardsで、NewJeansの「OMG」がTMA Best Music – Spring部門の候補に名を連ねた。",
+      "en": "'OMG' by NewJeans was among the nominees for Best Music – Spring at the 2023 The Fact Music Awards."
+    },
+    "detail": {
+      "ja": "2023 The Fact Music Awards（2023年10月10日、仁川・南洞体育館）で、NewJeansはTMA Best Music – Spring部門の候補となった（対象：「OMG」）。同部門は2023年1〜3月に音源を発表したアーティストを対象としたファン投票部門である。",
+      "en": "NewJeans were nominated for Best Music – Spring at the 2023 The Fact Music Awards (held October 10, 2023 at Namdong Gymnasium, Incheon), for 'OMG'. The category was a fan vote covering artists who released music between January and March 2023."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "tma"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://newsseoul.co.kr/news/view/1065572407937378"
+    ],
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Newsseoul (minor outlet) reports that NewJeans were among the top 20 finalists from the Spring pre-vote (Apr 3-17, 2023) and that the final vote ran Apr 17-May 1, 2023; not confirmed by The Fact or major press, so dated to the ceremony. Work 'OMG' per ledger/Wikipedia."
+  },
+  {
+    "id": "record-2023-10-10-tma-2023-idolplus-popularity-award-nomination",
+    "date": "2023-10-10",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 The Fact Music Awards Idolplus人気賞にノミネート",
+      "en": "2023 The Fact Music Awards – Idolplus Popularity Award nomination"
+    },
+    "summary": {
+      "ja": "2023 The Fact Music Awardsで、NewJeansがIdolplus人気賞部門の候補に名を連ねた。",
+      "en": "NewJeans were among the nominees for Idolplus Popularity Award at the 2023 The Fact Music Awards."
+    },
+    "detail": {
+      "ja": "2023 The Fact Music Awards（2023年10月10日、仁川・南洞体育館）で、NewJeansはIdolplus人気賞部門の候補となった。同賞はアプリ「IDOLPLUS」での投票で選ばれる部門だった。",
+      "en": "NewJeans were nominated for Idolplus Popularity Award at the 2023 The Fact Music Awards (held October 10, 2023 at Namdong Gymnasium, Incheon). The award was decided by votes on the IDOLPLUS app."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "tma"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; candidate list not found."
+  },
+  {
     "id": "record-2023-10-10-tma-2023-listeners-choice",
     "date": "2023-10-10",
     "date_type": "event",
@@ -3415,6 +4551,79 @@
     "editor_note": "The Fact (organizer) article 2023-10-10: NewJeans won Listener's Choice at 2023 TMA, Incheon Namdong Gymnasium; award is given to the Artist of the Year honoree with the best digital results."
   },
   {
+    "id": "record-2023-10-19-mama-2023-album-of-the-year-get-up-nomination",
+    "date": "2023-10-19",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 MAMA AWARDS Album of the Yearにノミネート（『Get Up』）",
+      "en": "2023 MAMA Awards – Album of the Year nomination (Get Up)"
+    },
+    "summary": {
+      "ja": "2023 MAMA AWARDSのAlbum of the Year部門の候補に、2nd EP『Get Up』が選ばれた。",
+      "en": "NewJeans' second EP Get Up was nominated for Album of the Year at the 2023 MAMA Awards."
+    },
+    "detail": {
+      "ja": "10月19日に2023 MAMA AWARDSの候補が発表され、2nd EP『Get Up』がAlbum of the Year部門の候補となった。同部門は審査20%、フィジカルアルバム販売80%で選ばれる。NewJeansはBest Female Group、Best Dance Performance Female Group（「Ditto」）、Song of the Year、Artist of the Year、Worldwide Fans' Choiceの候補にも名を連ねた。授賞式は11月28日と29日に東京ドームで開かれる。",
+      "en": "The 2023 MAMA Awards nominees were announced on October 19, listing the second EP Get Up for Album of the Year, decided 20 percent by judges and 80 percent by physical album sales. NewJeans also appeared in Best Female Group, Best Dance Performance Female Group ('Ditto'), Song of the Year, Artist of the Year and Worldwide Fans' Choice. The ceremony is set for November 28 and 29 at Tokyo Dome."
+    },
+    "source_url": "https://www.billboard.com/lists/2023-mama-awards-nominees-full-list-jung-kook/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mama"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+      "https://www.soompi.com/article/1620737wpp/2023-mama-awards-announces-nominees-pre-voting-begins"
+    ],
+    "editor_note": "Billboard (2023-10-19): nominees announced Thursday Oct. 19; Album of the year list includes NewJeans — Get Up. Soompi (Oct 19) for other categories."
+  },
+  {
+    "id": "record-2023-10-19-mama-2023-worldwide-fans-choice-nomination",
+    "date": "2023-10-19",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 MAMA AWARDS Worldwide Fans' Choiceにノミネート",
+      "en": "2023 MAMA Awards – Worldwide Fans' Choice nomination"
+    },
+    "summary": {
+      "ja": "2023 MAMA AWARDSのWorldwide Fans' Choice部門の候補にNewJeansが選ばれ、事前投票が始まった。",
+      "en": "NewJeans were nominated for Worldwide Fans' Choice at the 2023 MAMA Awards as pre-voting opened."
+    },
+    "detail": {
+      "ja": "10月19日に2023 MAMA AWARDSの候補が発表され、NewJeansはWorldwide Fans' Choiceの候補となった。事前投票は10月30日まで行われ、上位20組が最終投票に進む。Worldwide Fans' ChoiceはMnet Plus投票70%とSpotify投票30%で決まる。授賞式は11月28日と29日に東京ドームで開かれる。",
+      "en": "The 2023 MAMA Awards nominees were announced on October 19, listing NewJeans for Worldwide Fans' Choice. Pre-voting runs through October 30, with the top 20 advancing to a final vote; the award is decided 70 percent by Mnet Plus votes and 30 percent by Spotify votes. The ceremony is set for November 28 and 29 at Tokyo Dome."
+    },
+    "source_url": "https://www.soompi.com/article/1620737wpp/2023-mama-awards-announces-nominees-pre-voting-begins",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mama"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi (Oct 19, 2023): Worldwide Fans' Choice pre-vote list includes NewJeans. Ledger calls it 'Worldwide Fans' Choice Top 10'."
+  },
+  {
     "id": "record-2023-10-21-korea-popular-culture-arts-awards-2023",
     "date": "2023-10-21",
     "date_type": "event",
@@ -3448,6 +4657,154 @@
       "https://www.soompi.com/article/1621157wpp/winners-of-2023-korea-popular-culture-and-arts-awards"
     ],
     "editor_note": "KOCCA 대중문화예술종합정보시스템 2023 winners list: under 문화체육관광부장관 표창 - 뉴진스 (가수). Ceremony 2023-10-21 per MCST release."
+  },
+  {
+    "id": "record-2023-10-26-bbma-2023-top-billboard-global-excl-us-artist-nomination",
+    "date": "2023-10-26",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Billboard Music Awards Top Billboard Global (Excl. U.S.) Artistにノミネート",
+      "en": "2023 Billboard Music Awards – Top Billboard Global (Excl. U.S.) Artist nomination"
+    },
+    "summary": {
+      "ja": "NewJeansが2023 BBMAsのTop Billboard Global (Excl. U.S.) Artist部門のファイナリストに選ばれた。",
+      "en": "NewJeans were named finalists for Top Billboard Global (Excl. U.S.) Artist at the 2023 Billboard Music Awards."
+    },
+    "detail": {
+      "ja": "10月26日に2023 Billboard Music Awardsのファイナリストが発表された。NewJeansはTop Billboard Global (Excl. U.S.) Artist、Top Global K-Pop Artist、Top K-Pop Album（『Get Up』）、Top Global K-Pop Song（「Ditto」「OMG」）の計5エントリーでファイナリストとなった。ファイナリストはビルボードチャートの年間成績で決まる。授賞式は11月19日に配信される。",
+      "en": "The finalists for the 2023 Billboard Music Awards were announced on October 26. NewJeans were finalists with five entries: Top Billboard Global (Excl. U.S.) Artist, Top Global K-Pop Artist, Top K-Pop Album (Get Up) and Top Global K-Pop Song for both 'Ditto' and 'OMG'. Finalists are determined by year-long Billboard chart performance. The show is set to stream on November 19."
+    },
+    "source_url": "https://www.hollywoodreporter.com/news/general-news/2023-billboard-music-awards-nominations-nominees-list-1235628734/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "bbma"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+      "https://www.koreajoongangdaily.com/entertainment/jimin-newjeans-each-nominated-for-four-billboard-music-awards/11496151"
+    ],
+    "editor_note": "Hollywood Reporter (2023-10-26) full finalist list; Korea JoongAng Daily (2023-10-28) also reports. HR/ledger category name 'Top K-Pop Album' (ledger: Top Global K-Pop Album). JAD counts four categories (five entries)."
+  },
+  {
+    "id": "record-2023-10-26-bbma-2023-top-global-k-pop-song-ditto-nomination",
+    "date": "2023-10-26",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Billboard Music Awards Top Global K-Pop Songにノミネート（「Ditto」）",
+      "en": "2023 Billboard Music Awards – Top Global K-Pop Song nomination ('Ditto')"
+    },
+    "summary": {
+      "ja": "2023 Billboard Music AwardsのTop Global K-Pop Song部門のファイナリストに「Ditto」が選ばれた。",
+      "en": "'Ditto' was named a finalist for Top Global K-Pop Song at the 2023 Billboard Music Awards."
+    },
+    "detail": {
+      "ja": "10月26日に2023 Billboard Music Awardsのファイナリストが発表された。NewJeansはTop Billboard Global (Excl. U.S.) Artist、Top Global K-Pop Artist、Top K-Pop Album（『Get Up』）、Top Global K-Pop Song（「Ditto」「OMG」）の計5エントリーでファイナリストとなった。ファイナリストはビルボードチャートの年間成績で決まる。授賞式は11月19日に配信される。",
+      "en": "The finalists for the 2023 Billboard Music Awards were announced on October 26. NewJeans were finalists with five entries: Top Billboard Global (Excl. U.S.) Artist, Top Global K-Pop Artist, Top K-Pop Album (Get Up) and Top Global K-Pop Song for both 'Ditto' and 'OMG'. Finalists are determined by year-long Billboard chart performance. The show is set to stream on November 19."
+    },
+    "source_url": "https://www.hollywoodreporter.com/news/general-news/2023-billboard-music-awards-nominations-nominees-list-1235628734/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "bbma"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+      "https://www.koreajoongangdaily.com/entertainment/jimin-newjeans-each-nominated-for-four-billboard-music-awards/11496151"
+    ],
+    "editor_note": "Hollywood Reporter (2023-10-26) full finalist list; Korea JoongAng Daily (2023-10-28) also reports. HR/ledger category name 'Top K-Pop Album' (ledger: Top Global K-Pop Album). JAD counts four categories (five entries)."
+  },
+  {
+    "id": "record-2023-10-26-bbma-2023-top-global-k-pop-song-omg-nomination",
+    "date": "2023-10-26",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Billboard Music Awards Top Global K-Pop Songにノミネート（「OMG」）",
+      "en": "2023 Billboard Music Awards – Top Global K-Pop Song nomination ('OMG')"
+    },
+    "summary": {
+      "ja": "2023 Billboard Music AwardsのTop Global K-Pop Song部門のファイナリストに「OMG」が選ばれた。",
+      "en": "'OMG' was named a finalist for Top Global K-Pop Song at the 2023 Billboard Music Awards."
+    },
+    "detail": {
+      "ja": "10月26日に2023 Billboard Music Awardsのファイナリストが発表された。NewJeansはTop Billboard Global (Excl. U.S.) Artist、Top Global K-Pop Artist、Top K-Pop Album（『Get Up』）、Top Global K-Pop Song（「Ditto」「OMG」）の計5エントリーでファイナリストとなった。ファイナリストはビルボードチャートの年間成績で決まる。授賞式は11月19日に配信される。",
+      "en": "The finalists for the 2023 Billboard Music Awards were announced on October 26. NewJeans were finalists with five entries: Top Billboard Global (Excl. U.S.) Artist, Top Global K-Pop Artist, Top K-Pop Album (Get Up) and Top Global K-Pop Song for both 'Ditto' and 'OMG'. Finalists are determined by year-long Billboard chart performance. The show is set to stream on November 19."
+    },
+    "source_url": "https://www.hollywoodreporter.com/news/general-news/2023-billboard-music-awards-nominations-nominees-list-1235628734/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "bbma"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+      "https://www.koreajoongangdaily.com/entertainment/jimin-newjeans-each-nominated-for-four-billboard-music-awards/11496151"
+    ],
+    "editor_note": "Hollywood Reporter (2023-10-26) full finalist list; Korea JoongAng Daily (2023-10-28) also reports. HR/ledger category name 'Top K-Pop Album' (ledger: Top Global K-Pop Album). JAD counts four categories (five entries)."
+  },
+  {
+    "id": "record-2023-10-26-bbma-2023-top-k-pop-album-get-up-nomination",
+    "date": "2023-10-26",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Billboard Music Awards Top K-Pop Albumにノミネート（『Get Up』）",
+      "en": "2023 Billboard Music Awards – Top K-Pop Album nomination (Get Up)"
+    },
+    "summary": {
+      "ja": "2023 Billboard Music AwardsのTop K-Pop Album部門のファイナリストに『Get Up』が選ばれた。",
+      "en": "NewJeans' Get Up was named a finalist for Top K-Pop Album at the 2023 Billboard Music Awards."
+    },
+    "detail": {
+      "ja": "10月26日に2023 Billboard Music Awardsのファイナリストが発表された。NewJeansはTop Billboard Global (Excl. U.S.) Artist、Top Global K-Pop Artist、Top K-Pop Album（『Get Up』）、Top Global K-Pop Song（「Ditto」「OMG」）の計5エントリーでファイナリストとなった。ファイナリストはビルボードチャートの年間成績で決まる。授賞式は11月19日に配信される。",
+      "en": "The finalists for the 2023 Billboard Music Awards were announced on October 26. NewJeans were finalists with five entries: Top Billboard Global (Excl. U.S.) Artist, Top Global K-Pop Artist, Top K-Pop Album (Get Up) and Top Global K-Pop Song for both 'Ditto' and 'OMG'. Finalists are determined by year-long Billboard chart performance. The show is set to stream on November 19."
+    },
+    "source_url": "https://www.hollywoodreporter.com/news/general-news/2023-billboard-music-awards-nominations-nominees-list-1235628734/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "bbma"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+      "https://www.koreajoongangdaily.com/entertainment/jimin-newjeans-each-nominated-for-four-billboard-music-awards/11496151"
+    ],
+    "editor_note": "Hollywood Reporter (2023-10-26) full finalist list; Korea JoongAng Daily (2023-10-28) also reports. HR/ledger category name 'Top K-Pop Album' (ledger: Top Global K-Pop Album). JAD counts four categories (five entries)."
   },
   {
     "id": "record-2023-10-27-mtv-vmaj-2023-best-buzz",
@@ -3560,6 +4917,80 @@
     "editor_note": "Billboard 200 dated 2023-11-04: 'Get Up' No. 98 (LW 84, peak 1, WEEKS ON CHART 14)."
   },
   {
+    "id": "record-2023-11-05-sma-33-hallyu-special-award-nomination",
+    "date": "2023-11-05",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第33回ソウル歌謡大賞 韓流特別賞にノミネート",
+      "en": "33rd Seoul Music Awards – Hallyu Special Award nomination"
+    },
+    "summary": {
+      "ja": "第33回ソウル歌謡大賞の候補が公開され、NewJeansが海外投票で選ばれる韓流特別賞の候補となった。",
+      "en": "NewJeans were nominated for the Hallyu Special Award at the 33rd Seoul Music Awards."
+    },
+    "detail": {
+      "ja": "ソウル歌謡大賞は11月5日に第33回の候補を公開し、公式アプリでモバイル投票を開始した。候補は2023年1〜10月に発表された音盤・音源が対象で、投票は1次（11月5日〜24日）と2次（11月25日〜12月14日）に分けて行われる。授賞式は2024年1月2日に開かれる。NewJeansは本賞の候補にも名を連ねた。",
+      "en": "The Seoul Music Awards revealed its 33rd nominees on November 5 and opened mobile voting on its official app. Releases from January to October 2023 were eligible, with voting held in two rounds (November 5-24 and November 25-December 14). The ceremony is set for January 2, 2024. NewJeans were also among the Bonsang nominees."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "sma"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://sports.khan.co.kr/article/202312180856003",
+      "https://en.wikipedia.org/wiki/33rd_Seoul_Music_Awards"
+    ],
+    "editor_note": "Announcement date (Nov 5, 2023, voting start) confirmed by Sports Kyunghyang (2023-12-18: 1st round from 'last month 5th'); NewJeans' inclusion only per Wikipedia (33rd SMA, Bonsang list) - no official/major-press nominee list fetched."
+  },
+  {
+    "id": "record-2023-11-05-sma-33-popularity-award-nomination",
+    "date": "2023-11-05",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第33回ソウル歌謡大賞 人気賞にノミネート",
+      "en": "33rd Seoul Music Awards – Popularity Award nomination"
+    },
+    "summary": {
+      "ja": "第33回ソウル歌謡大賞の候補が公開され、NewJeansが国内投票で選ばれる人気賞の候補となった。",
+      "en": "NewJeans were nominated for the Popularity Award at the 33rd Seoul Music Awards."
+    },
+    "detail": {
+      "ja": "ソウル歌謡大賞は11月5日に第33回の候補を公開し、公式アプリでモバイル投票を開始した。候補は2023年1〜10月に発表された音盤・音源が対象で、投票は1次（11月5日〜24日）と2次（11月25日〜12月14日）に分けて行われる。授賞式は2024年1月2日に開かれる。NewJeansは本賞の候補にも名を連ねた。",
+      "en": "The Seoul Music Awards revealed its 33rd nominees on November 5 and opened mobile voting on its official app. Releases from January to October 2023 were eligible, with voting held in two rounds (November 5-24 and November 25-December 14). The ceremony is set for January 2, 2024. NewJeans were also among the Bonsang nominees."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "sma"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://sports.khan.co.kr/article/202312180856003",
+      "https://en.wikipedia.org/wiki/33rd_Seoul_Music_Awards"
+    ],
+    "editor_note": "Announcement date (Nov 5, 2023) confirmed by Sports Kyunghyang; NewJeans' inclusion only per Wikipedia."
+  },
+  {
     "id": "record-2023-11-07-spotify-3-billion-streams",
     "date": "2023-11-07",
     "date_type": "event",
@@ -3591,6 +5022,78 @@
     ],
     "verified": false,
     "editor_note": "TenAsia report dated Nov 9 (as of Nov 7); page not fetchable from this environment, figures from search index. / No ADOR post or same-day major-outlet report for a 3-billion cumulative Spotify milestone found."
+  },
+  {
+    "id": "record-2023-11-17-mma-2023-album-of-the-year-get-up-nomination",
+    "date": "2023-11-17",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Melon Music Awards 2023 Album of the Yearにノミネート（『Get Up』）",
+      "en": "Melon Music Awards 2023 – Album of the Year nomination (Get Up)"
+    },
+    "summary": {
+      "ja": "Melon Music Awards 2023のAlbum of the Year部門の候補に、2nd EP『Get Up』が選ばれた。",
+      "en": "NewJeans' Get Up was nominated for Album of the Year at the Melon Music Awards 2023."
+    },
+    "detail": {
+      "ja": "Top 10の結果発表に続いて大賞と部門賞の候補が発表され、NewJeansはAlbum of the Year（『Get Up』）、Best Song of the Year（「Ditto」）、Millions Top 10（『Get Up』）、Best Group（女性）、KakaoBank Favorite Star Awardなどの候補に名を連ねた。投票は12月1日まで行われ、授賞式は12月2日に開かれる。",
+      "en": "Following the Top 10 results, nominees for the Daesangs and category awards were announced, with NewJeans listed for Album of the Year (Get Up), Best Song of the Year ('Ditto'), Millions Top 10 (Get Up), Best Group (Female) and the KakaoBank Favorite Star Award among others. Voting runs until December 1 and the ceremony is set for December 2."
+    },
+    "source_url": "https://www.soompi.com/article/1627047wpp/melon-music-awards-2023-announces-nominees-for-daesangs-and-category-awards",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mma"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi (Nov 17, 2023 US): Top 10 winners announced Nov 17 and Daesang/category voting opened; Wikipedia 2023 MMA: remaining categories announced Nov 17."
+  },
+  {
+    "id": "record-2023-11-17-mma-2023-kakaobank-favorite-star-nomination",
+    "date": "2023-11-17",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Melon Music Awards 2023 KakaoBank Favorite Star Awardにノミネート",
+      "en": "Melon Music Awards 2023 – KakaoBank Favorite Star Award nomination"
+    },
+    "summary": {
+      "ja": "Melon Music Awards 2023のKakaoBank Favorite Star Award部門の候補にNewJeansが選ばれた。",
+      "en": "NewJeans were nominated for the KakaoBank Favorite Star Award at the Melon Music Awards 2023."
+    },
+    "detail": {
+      "ja": "Top 10の結果発表に続いて大賞と部門賞の候補が発表され、NewJeansはAlbum of the Year（『Get Up』）、Best Song of the Year（「Ditto」）、Millions Top 10（『Get Up』）、Best Group（女性）、KakaoBank Favorite Star Awardなどの候補に名を連ねた。投票は12月1日まで行われ、授賞式は12月2日に開かれる。KakaoBank Favorite Star Awardは審査20%、投票80%で選ばれる。",
+      "en": "Following the Top 10 results, nominees for the Daesangs and category awards were announced, with NewJeans listed for Album of the Year (Get Up), Best Song of the Year ('Ditto'), Millions Top 10 (Get Up), Best Group (Female) and the KakaoBank Favorite Star Award among others. Voting runs until December 1 and the ceremony is set for December 2. The KakaoBank Favorite Star Award is decided 20 percent by judges and 80 percent by votes."
+    },
+    "source_url": "https://www.soompi.com/article/1627047wpp/melon-music-awards-2023-announces-nominees-for-daesangs-and-category-awards",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mma"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi (Nov 17, 2023): KakaoBank Favorite Star Award nominee list includes NewJeans."
   },
   {
     "id": "record-2023-11-19-bbma-2023-top-global-kpop-artist",
@@ -3666,6 +5169,42 @@
     ],
     "verified": true,
     "editor_note": "Billboard 2023 year-end: Billboard 200 Albums - Get Up No. 134; Global 200 - OMG 41, Ditto 52, Super Shy 117, Hype Boy 147, ETA 197. All match. (Global Excl. US / Top Album Sales positions not re-checked.)"
+  },
+  {
+    "id": "record-2023-11-22-japan-record-awards-65-grand-prix-ditto-nomination",
+    "date": "2023-11-22",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第65回日本レコード大賞 大賞にノミネート（「Ditto」、優秀作品賞）",
+      "en": "65th Japan Record Awards – Grand Prix nomination ('Ditto', Excellent Work)"
+    },
+    "summary": {
+      "ja": "第65回日本レコード大賞の大賞候補となる優秀作品賞に、「Ditto」が選ばれた。",
+      "en": "'Ditto' was named an Excellent Work, making it a Grand Prix candidate at the 65th Japan Record Awards."
+    },
+    "detail": {
+      "ja": "第65回日本レコード大賞の各賞が発表され、「Ditto」が大賞の候補となる優秀作品賞の1曲に選ばれた。NewJeansは同時に発表された特別賞の受賞者にも名を連ねた。授賞式は12月30日にTBSで生放送される。",
+      "en": "The 65th Japan Record Awards announced its category honorees, naming 'Ditto' among the Excellent Works, the candidates for the Grand Prix. NewJeans were also named among the Special Award recipients in the same announcement. The ceremony airs live on TBS on December 30."
+    },
+    "source_url": "https://mdpr.jp/music/detail/4062561",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "japan-record-awards"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Modelpress 2023-11-22 00:00 JST (TBS copyright): 優秀作品賞 = 日本レコード大賞候補; list includes 「Ditto」NewJeans; 特別賞 includes NewJeans. Overlaps in subject with existing record-2023-12-30-japan-record-awards-65-excellent-work-ditto (ceremony-dated)."
   },
   {
     "id": "record-2023-11-29-mama-2023-artist-of-the-year",
@@ -4314,6 +5853,39 @@
     "editor_note": "AAA official 2023 winners page: 뉴진스 - 핫트랜드."
   },
   {
+    "id": "record-2023-12-14-aaa-2023-popularity-award-singer-female-nomination",
+    "date": "2023-12-14",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Asia Artist Awards 人気賞（女性歌手）にノミネート",
+      "en": "2023 Asia Artist Awards – Popularity Award – Singer (Female) nomination"
+    },
+    "summary": {
+      "ja": "2023 Asia Artist Awardsで、NewJeansが人気賞（女性歌手）部門の候補に名を連ねた。",
+      "en": "NewJeans were among the nominees for Popularity Award – Singer (Female) at the 2023 Asia Artist Awards."
+    },
+    "detail": {
+      "ja": "2023 Asia Artist Awards（2023年12月14日、フィリピン・ブラカン州フィリピン・アリーナ）で、NewJeansは人気賞（女性歌手）部門の候補となった。",
+      "en": "NewJeans were nominated for Popularity Award – Singer (Female) at the 2023 Asia Artist Awards (held December 14, 2023 at the Philippine Arena, Bulacan)."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "aaa"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; popularity-vote candidate list not found."
+  },
+  {
     "id": "record-2023-12-14-aaa-2023-singer-of-the-year",
     "date": "2023-12-14",
     "date_type": "event",
@@ -4451,6 +6023,39 @@
     ],
     "verified": false,
     "editor_note": "Secondary sources only; some lists also credit Stray Kids in the same Best Group category. / APMA (VVV Entertainment) has no reachable official page; Sportskeeda/Leisurebyte winner lists are inconsistent (one lists both NewJeans and Stray Kids under Best Group Overseas). Unverified."
+  },
+  {
+    "id": "record-2023-12-27-asian-pop-music-awards-2023-song-of-the-year-overseas-super-shy-nomination",
+    "date": "2023-12-27",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Asian Pop Music Awards Song of the Year（海外）にノミネート（「Super Shy」）",
+      "en": "2023 Asian Pop Music Awards – Song of the Year (Overseas) nomination ('Super Shy')"
+    },
+    "summary": {
+      "ja": "2023 Asian Pop Music AwardsのSong of the Year（海外）部門で「Super Shy」が候補となった。",
+      "en": "'Super Shy' by NewJeans was among the nominees for Song of the Year (Overseas) at the 2023 Asian Pop Music Awards."
+    },
+    "detail": {
+      "ja": "2023 Asian Pop Music Awards（2023年12月27日結果発表）で、NewJeansはSong of the Year（海外）部門の候補となった（対象：「Super Shy」）。",
+      "en": "NewJeans were nominated for Song of the Year (Overseas) at the 2023 Asian Pop Music Awards (results announced December 27, 2023), for 'Super Shy'."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "asian-pop-music-awards"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; nominee announcement (reportedly November 2023) not found in official or major press."
   },
   {
     "id": "record-2023-12-27-asian-pop-music-awards-2023-top-20-get-up-super-shy",
@@ -4743,6 +6348,39 @@
     ],
     "verified": true,
     "editor_note": "Sports Seoul (organizer) 33rd SMA (Bangkok, Jan 2, 2024): 본상 list of 18 teams includes 뉴진스."
+  },
+  {
+    "id": "record-2024-01-02-sma-33-daesang-nomination",
+    "date": "2024-01-02",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第33回ソウル歌謡大賞 大賞にノミネート",
+      "en": "33rd Seoul Music Awards – Daesang (Grand Prize) nomination"
+    },
+    "summary": {
+      "ja": "第33回ソウル歌謡大賞で、NewJeansがその年の最高賞である大賞（Daesang）の候補に名を連ねた。",
+      "en": "NewJeans were among the nominees for Daesang (Grand Prize) at the 33rd Seoul Music Awards."
+    },
+    "detail": {
+      "ja": "第33回ソウル歌謡大賞（2024年1月2日、バンコク・ラジャマンガラ国立競技場）で、NewJeansは大賞部門の候補となった。",
+      "en": "NewJeans were nominated for Daesang (Grand Prize) at the 33rd Seoul Music Awards (held January 2, 2024 at Rajamangala Stadium, Bangkok)."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "sma"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Daesang candidacy per Wikipedia awards list only (Daesang is chosen among the year's Bonsang field; no separate public nominee list found)."
   },
   {
     "id": "record-2024-01-05-super-shy-spotify-400m",
@@ -5071,6 +6709,153 @@
     "editor_note": "Circle streaming certification list (API /data/api/cert/chart, S1040), fetched 2026-10-17: `OMG` / OMG 1P, Certify_Date 2024-01-11."
   },
   {
+    "id": "record-2024-01-11-clio-music-awards-2024-ditto-music-video-shortlist",
+    "date": "2024-01-11",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Clio Music Awards 2024 Film & Video部門 Grand Clioのショートリストに選出（「Ditto」MV）",
+      "en": "Clio Music Awards 2024 – Film & Video Grand Clio shortlist ('Ditto' music video)"
+    },
+    "summary": {
+      "ja": "Clio Music Awards 2024で、「Ditto」のミュージックビデオがFilm & Video部門のGrand Clio候補に選ばれた。",
+      "en": "The 'Ditto' music video was shortlisted for the Grand Clio in Film & Video at the Clio Music Awards 2024."
+    },
+    "detail": {
+      "ja": "米国の広告・音楽表彰Clio Music Awardsの2024年の結果発表で、「Ditto」のミュージックビデオがFilm & Video部門のGrand Clioのショートリスト（8作品）に名を連ねた。",
+      "en": "The 'Ditto' music video was named to the eight-work Grand Clio shortlist in the Film & Video category in the Clio Music Awards 2024 results."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "clio-music-awards"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://kbizoom.com/newjeans-ditto-mv-nominated-for-grand-prize-short-list-at-clio-music-awards/"
+    ],
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Date 2024-01-11 per ja Wikipedia (ledger). KBIZoom (2024-01-17, minor outlet) says the 'recently announced' 2024 Clio Music winners list put the Ditto MV on the Grand shortlist in Film & Video; Clio's own pages could not be fetched (404/JS). Ledger label: Music Videos (Ditto) [shortlisted]."
+  },
+  {
+    "id": "record-2024-01-18-iheartradio-music-awards-2024-k-pop-song-of-the-year-super-shy-nomination",
+    "date": "2024-01-18",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 iHeartRadio Music Awards K-pop Song of the Yearにノミネート（「Super Shy」）",
+      "en": "2024 iHeartRadio Music Awards – K-pop Song of the Year nomination ('Super Shy')"
+    },
+    "summary": {
+      "ja": "2024 iHeartRadio Music AwardsのK-pop Song of the Year部門の候補に「Super Shy」が選ばれた。",
+      "en": "'Super Shy' was nominated for K-pop Song of the Year at the 2024 iHeartRadio Music Awards."
+    },
+    "detail": {
+      "ja": "iHeartRadio Music Awardsが1月18日（現地時間）に2024年の候補を発表し、「Super Shy」がK-pop Song of the Year部門の候補となった。同年はK-POP部門が3つ新設され、NewJeansはBest New Artist (K-pop)の候補にも名を連ねた。授賞式は4月1日にロサンゼルスのドルビー・シアターで開かれ、FOXで生中継される。",
+      "en": "The iHeartRadio Music Awards announced its 2024 nominees on January 18 (local time), listing 'Super Shy' for K-pop Song of the Year. Three new K-pop categories were added that year, and NewJeans were also nominated for Best New Artist (K-pop). The ceremony is set for April 1 at the Dolby Theatre in Los Angeles, airing live on FOX."
+    },
+    "source_url": "https://www.koreatimes.co.kr/www/nation/2024/01/119_367241.html",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "iheartradio-music-awards"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+      "https://www.businesswire.com/news/home/20240118444876/en"
+    ],
+    "editor_note": "Korea Times/Yonhap (2024-01-19 KST): nominees announced Thursday (local time) = Jan 18; NewJeans in K-pop Song of the Year and Best New Artist (K-pop). iHeartMedia/FOX press release on Business Wire dated 2024-01-18 (not fetched; connection error)."
+  },
+  {
+    "id": "record-2024-01-26-kma-21-album-of-the-year-get-up-nomination",
+    "date": "2024-01-26",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第21回韓国大衆音楽賞 Album of the Yearにノミネート（『Get Up』）",
+      "en": "21st Korean Music Awards – Album of the Year nomination (Get Up)"
+    },
+    "summary": {
+      "ja": "第21回韓国大衆音楽賞のAlbum of the Year部門の候補に、NewJeansの『Get Up』が選ばれた。",
+      "en": "NewJeans’ Get Up was nominated for Album of the Year at the 21st Korean Music Awards."
+    },
+    "detail": {
+      "ja": "韓国大衆音楽賞選定委員会が1月26日正午に第21回の候補を公開した。NewJeansは新人賞を除く総合分野3部門すべてを含む計5部門で候補となった。対象は2022年12月1日から2023年11月30日までに発表された音盤・音源。",
+      "en": "The Korean Music Awards selection committee revealed its 21st nominees at noon on January 26. NewJeans received five nominations, including all three general-field categories other than Rookie of the Year. Releases from December 1, 2022 to November 30, 2023 were eligible."
+    },
+    "source_url": "https://v.daum.net/v/20240126172203679",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "kma"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+      "https://en.wikipedia.org/wiki/21st_Korean_Music_Awards"
+    ],
+    "editor_note": "MHN Sports via Daum (2024-01-26 17:22 KST): committee revealed nominees on the 26th at noon via PRIZM; NewJeans in all three general-field categories excl. rookie. Not an official/major-press page -> verified=false. Wikipedia: nominations announced Jan 26, 2024; NewJeans five nominations."
+  },
+  {
+    "id": "record-2024-01-26-kma-21-musician-of-the-year-nomination",
+    "date": "2024-01-26",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第21回韓国大衆音楽賞 Musician of the Yearにノミネート",
+      "en": "21st Korean Music Awards – Musician of the Year nomination"
+    },
+    "summary": {
+      "ja": "第21回韓国大衆音楽賞のMusician of the Year部門の候補に、NewJeansが選ばれた。",
+      "en": "NewJeans were nominated for Musician of the Year at the 21st Korean Music Awards."
+    },
+    "detail": {
+      "ja": "韓国大衆音楽賞選定委員会が1月26日正午に第21回の候補を公開した。NewJeansは新人賞を除く総合分野3部門すべてを含む計5部門で候補となった。対象は2022年12月1日から2023年11月30日までに発表された音盤・音源。",
+      "en": "The Korean Music Awards selection committee revealed its 21st nominees at noon on January 26. NewJeans received five nominations, including all three general-field categories other than Rookie of the Year. Releases from December 1, 2022 to November 30, 2023 were eligible."
+    },
+    "source_url": "https://v.daum.net/v/20240126172203679",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "kma"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+      "https://en.wikipedia.org/wiki/21st_Korean_Music_Awards"
+    ],
+    "editor_note": "MHN Sports via Daum (2024-01-26 17:22 KST): committee revealed nominees on the 26th at noon via PRIZM; NewJeans in all three general-field categories excl. rookie. Not an official/major-press page -> verified=false. Wikipedia: nominations announced Jan 26, 2024; NewJeans five nominations."
+  },
+  {
     "id": "record-2024-02-01-riaj-cookie-gold",
     "date": "2024-02-01",
     "date_type": "announce",
@@ -5142,6 +6927,42 @@
     ],
     "verified": false,
     "editor_note": "Day (Feb 18) per ja.wikipedia; en.wikipedia ceremony page text was ambiguous about the category name. Unverified against Hanteo's own announcement. / Hanteo News has no reachable article listing the 31st HMA (Feb 17-18, 2024) Bonsang winners and awards.hanteo.com/2024 is JS-only; Sportskeeda/kbizoom/KJD report NewJeans among Artist of the Year (Bonsang) winners. Not contradicted."
+  },
+  {
+    "id": "record-2024-02-18-hanteo-music-awards-31-whosfandom-nomination",
+    "date": "2024-02-18",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Hanteo Music Awards 2023 WhosFandom Awardにノミネート",
+      "en": "Hanteo Music Awards 2023 – WhosFandom Award nomination"
+    },
+    "summary": {
+      "ja": "Hanteo Music Awards 2023で、NewJeansがWhosFandom Award部門の候補に名を連ねた。",
+      "en": "NewJeans were among the nominees for WhosFandom Award at the Hanteo Music Awards 2023."
+    },
+    "detail": {
+      "ja": "Hanteo Music Awards 2023（2024年2月17・18日、ソウル・東大門デザインプラザ）で、NewJeansはWhosFandom Award部門の候補となった。同賞は100%グローバル投票で決まる部門だった。",
+      "en": "NewJeans were nominated for WhosFandom Award at the Hanteo Music Awards 2023 (held February 17-18, 2024 at Dongdaemun Design Plaza, Seoul). The award was decided 100 percent by global voting."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "hanteo-music-awards"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://soompi.com/article/1635171wpp/hanteo-music-awards-2023-announces-nominees"
+    ],
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; Soompi's 2024-01-04 nominee article lists NewJeans for Artist of the Year Main Prize but not the WhosFandom bracket (voting Dec 2023-Jan 2024 per Wikipedia)."
   },
   {
     "id": "record-2024-02-21-ifpi-global-artist-chart-2023-no8",
@@ -5437,6 +7258,44 @@
     ],
     "verified": true,
     "editor_note": "golddisc.jp 38th award site lists artist-category winners (NewJeans appears under Best 3 New Artists, Asia) but the Song of the Year by Streaming (Asia) winner is not shown in the fetched pages (Prize_2.html carries only category definitions); OMG is not mentioned anywhere on the site text. Unverified. / 2026-10-17 review: golddisc.jp/award/38/Prize_2.html lists ソング・オブ・ザ・イヤー・バイ・ストリーミング アジア部門 = OMG / NewJeans (the earlier 'not on the site' note was wrong). Announcement date 2024-03-13 per Oricon (2024-03-13 00:00, '13日に発表'). Id should become record-2024-03-13-..."
+  },
+  {
+    "id": "record-2024-03-18-spikes-asia-2024-coca-cola-zero-shortlist",
+    "date": "2024-03-18",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Spikes Asia 2024 Brand or Product Integration into Music Contentのショートリストに選出（「Zero」）",
+      "en": "Spikes Asia 2024 – Brand or Product Integration into Music Content shortlist ('Zero')"
+    },
+    "summary": {
+      "ja": "Spikes Asia 2024で、コカ・コーラの「Coca-Cola Massita」キャンペーンがショートリストに選ばれた。",
+      "en": "Coca-Cola's 'Coca-Cola Massita' campaign with NewJeans was shortlisted at Spikes Asia 2024."
+    },
+    "detail": {
+      "ja": "アジア太平洋地域の広告賞Spikes Asiaが2024年のショートリストを公開し、NewJeansが出演するコカ・コーラの「Coca-Cola Massita」キャンペーンがMusic部門のBrand or Product Integration into Music Contentでショートリスト入りした。同キャンペーンはコカ・コーラ ゼロシュガーのためのNewJeansの楽曲「Zero」を用いたもの。",
+      "en": "Spikes Asia, the Asia-Pacific creative advertising awards, released its 2024 shortlists, including Coca-Cola's 'Coca-Cola Massita' campaign featuring NewJeans in Brand or Product Integration into Music Content under the Music division. The campaign was built around NewJeans' Coca-Cola Zero Sugar song 'Zero'."
+    },
+    "source_url": "https://www.koreajoongangdaily.com/entertainment/newjeans-eta-video-earns-bronze-at-spikes-asia-awards/11408697",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "spikes-asia"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+      "https://en.wikipedia.org/wiki/Zero_(NewJeans_song)",
+      "https://www.lovethework.com/work-awards/entries/coca-cola-massita-704693"
+    ],
+    "editor_note": "Korea JoongAng Daily (2024-03-18): Spikes Asia released winners and shortlists on Monday (Mar 18); NewJeans' 'Coca-Cola Massita' campaign shortlisted in Brand or Product Integration into Music Content. Ledger names the work 'Zero'; link between the Massita campaign and 'Zero' per Wikipedia (Zero song article)."
   },
   {
     "id": "record-2024-03-18-spikes-asia-2024-eta-bronze",
@@ -6084,6 +7943,42 @@
     "editor_note": "RIAJ streaming certification search API, fetched 2026-10-17: New Jeans ゴールド year_month 2024-07 (start_date 2023-07-07). Dated to the announcement month 2024-08 (month precision)."
   },
   {
+    "id": "record-2024-08-06-mtv-vma-2024-best-k-pop-super-shy-nomination",
+    "date": "2024-08-06",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 MTV Video Music Awards Best K-Popにノミネート（「Super Shy」）",
+      "en": "2024 MTV Video Music Awards – Best K-Pop nomination ('Super Shy')"
+    },
+    "summary": {
+      "ja": "2024 MTV Video Music AwardsのBest K-Pop部門の候補に「Super Shy」が選ばれた。",
+      "en": "'Super Shy' was nominated for Best K-Pop at the 2024 MTV Video Music Awards."
+    },
+    "detail": {
+      "ja": "MTVが8月6日（現地時間）に2024 VMAの候補を発表し、「Super Shy」がBest K-Pop部門の候補となった。同部門の候補はジョングク「Seven」、LISA「Rockstar」、NCT DREAM「Smoothie」、Stray Kids「LALALALA」、TXT「Deja Vu」など。投票は8月30日まで行われ、授賞式は9月10日にニューヨークのUBSアリーナで開かれる。",
+      "en": "MTV announced the 2024 VMA nominees on August 6 (local time), listing 'Super Shy' for Best K-Pop alongside Jungkook's 'Seven', LISA's 'Rockstar', NCT DREAM's 'Smoothie', Stray Kids' 'LALALALA' and TXT's 'Deja Vu'. Voting runs until August 30 and the ceremony is set for September 10 at UBS Arena in New York."
+    },
+    "source_url": "https://www.gmanetwork.com/entertainment/showbiznews/news/114888/several-k-pop-acts-receive-nominations-from-mtv-video-music-awards/story",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mtv-vma"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "GMA Network (2024-08-07): MTV announced nominees on Tuesday August 6; Best K-pop list includes 'Super Shy' by NewJeans."
+  },
+  {
     "id": "record-2024-08-08-circle-cert-supernatural-triple-platinum-super-shy-streaming-platinum",
     "date": "2024-08-08",
     "date_type": "event",
@@ -6226,6 +8121,42 @@
     "verified": true,
     "note": "受賞者はRiot Games（映像制作側）。",
     "editor_note": "Esports Awards official release (Riyadh, Aug 24 2024): Esports Content of the Year - GODS ft. NewJeans (Official Music Video) | Worlds 2023 Anthem."
+  },
+  {
+    "id": "record-2024-08-30-mtv-vma-2024-group-of-the-year-nomination",
+    "date": "2024-08-30",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 MTV Video Music Awards Best Group（Group of the Year）にノミネート",
+      "en": "2024 MTV Video Music Awards – Best Group (Group of the Year) nomination"
+    },
+    "summary": {
+      "ja": "2024 MTV Video Music AwardsのGroup of the Year部門の候補にNewJeansが選ばれた。",
+      "en": "NewJeans were nominated for Group of the Year at the 2024 MTV Video Music Awards."
+    },
+    "detail": {
+      "ja": "MTVが8月30日（現地時間）に追加の候補を発表し、NewJeansはNCT DREAM、SEVENTEEN、TXT、NSYNC、Coldplay、Imagine Dragons、Twenty One Pilotsとともに同部門の候補となった。NewJeansはBest K-Popの候補にも挙がっている。同部門の投票は9月3日から6日まで行われる。",
+      "en": "On August 30 (local time) MTV announced its latest batch of nominations, listing NewJeans for Group of the Year alongside NCT DREAM, SEVENTEEN, TXT, NSYNC, Coldplay, Imagine Dragons and Twenty One Pilots. NewJeans were also in the running for Best K-Pop. Voting for the category runs September 3 to 6."
+    },
+    "source_url": "https://www.soompi.com/article/1685247wpp/2024-mtv-video-music-awards-nominates-txt-nct-dream-newjeans-and-seventeen-for-group-of-the-year",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mtv-vma"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi (2024-08-31 UTC): 'On August 30 local time, MTV officially announced its latest batch of nominations, including the nominees for Best Group.'"
   },
   {
     "id": "record-2024-09-02-spotify-5-billion-streams",
@@ -6479,6 +8410,42 @@
     "editor_note": "RIAJ monthly streaming certification archive unreachable. Unverified."
   },
   {
+    "id": "record-2024-10-08-mtv-ema-2024-best-k-pop-nomination",
+    "date": "2024-10-08",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 MTV Europe Music Awards Best K-Popにノミネート",
+      "en": "2024 MTV Europe Music Awards – Best K-Pop nomination"
+    },
+    "summary": {
+      "ja": "2024 MTV Europe Music AwardsのBest K-Pop部門の候補に、NewJeansが選ばれた。",
+      "en": "NewJeans were nominated for Best K-Pop at the 2024 MTV Europe Music Awards."
+    },
+    "detail": {
+      "ja": "MTV EMAが10月8日に2024年の候補を発表し、NewJeansはジミン、ジョングク、LE SSERAFIM、LISA、Stray KidsとともにBest K-Pop部門の候補となった。授賞式は翌月に英国で開かれる。",
+      "en": "The MTV EMAs announced its 2024 nominees on October 8, listing NewJeans for Best K-Pop alongside Jimin, Jungkook, LE SSERAFIM, LISA and Stray Kids. The ceremony is set for the United Kingdom the following month."
+    },
+    "source_url": "https://www.soompi.com/article/1693594wpp/2024-mtv-europe-music-awards-emas-announces-nominations",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mtv-ema"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi (Oct 8, 2024): 'On October 8, the EMAS officially announced its list of nominations'."
+  },
+  {
     "id": "record-2024-10-10-circle-cert-how-sweet-weverse-platinum",
     "date": "2024-10-10",
     "date_type": "announce",
@@ -6512,6 +8479,222 @@
     ],
     "verified": true,
     "editor_note": "Circle album certification list, fetched 2026-10-17: How Sweet (Weverse) 1P, Certify_Date 2024-10-10."
+  },
+  {
+    "id": "record-2024-10-14-mama-2024-artist-of-the-year-nomination",
+    "date": "2024-10-14",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 MAMA AWARDS Artist of the Yearにノミネート",
+      "en": "2024 MAMA Awards – Artist of the Year nomination"
+    },
+    "summary": {
+      "ja": "2024 MAMA AWARDSのArtist of the Year部門の候補に、NewJeansが選ばれた。",
+      "en": "NewJeans were nominated for Artist of the Year at the 2024 MAMA Awards."
+    },
+    "detail": {
+      "ja": "10月14日に2024 MAMA AWARDSの候補が発表され、アーティスト部門の候補が自動的に対象となるArtist of the YearにNewJeansが含まれた。この日の候補でNewJeansの名が挙がったのは、Artist of the Year、Best Female Group、Best Dance Performance Female Group（「How Sweet」）、Best Choreography（「Supernatural」）、Song of the Year（「How Sweet」「Supernatural」）、Fans' Choice Femaleである。授賞式は現地時間11月21日に米ロサンゼルスのドルビー・シアター、11月22・23日に大阪・京セラドームで開かれる。",
+      "en": "The 2024 MAMA Awards nominees were announced on October 14. NewJeans were included for Artist of the Year, whose nominees are drawn automatically from the artist categories. In all, NewJeans appeared on the list for Artist of the Year, Best Female Group, Best Dance Performance Female Group ('How Sweet'), Best Choreography ('Supernatural'), Song of the Year ('How Sweet' and 'Supernatural') and Fans' Choice Female. The ceremony is set for the Dolby Theatre in Los Angeles on November 21 (PST) and Kyocera Dome in Osaka on November 22 and 23 (KST)."
+    },
+    "source_url": "https://www.soompi.com/article/1694893wpp/2024-mama-awards-announces-nominees-fans-choice-voting-begins",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mama"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi (Oct 14, 2024): 'On October 14, the nominations were announced'."
+  },
+  {
+    "id": "record-2024-10-14-mama-2024-best-choreography-supernatural-nomination",
+    "date": "2024-10-14",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 MAMA AWARDS Best Choreographyにノミネート（「Supernatural」）",
+      "en": "2024 MAMA Awards – Best Choreography nomination ('Supernatural')"
+    },
+    "summary": {
+      "ja": "2024 MAMA AWARDSのBest Choreography部門の候補に、NewJeansの「Supernatural」が選ばれた。",
+      "en": "NewJeans’ 'Supernatural' was nominated for Best Choreography at the 2024 MAMA Awards."
+    },
+    "detail": {
+      "ja": "10月14日に2024 MAMA AWARDSの候補が発表され、100%審査で選ばれるBest Choreography部門に「Supernatural」が入った。この日の候補でNewJeansの名が挙がったのは、Artist of the Year、Best Female Group、Best Dance Performance Female Group（「How Sweet」）、Best Choreography（「Supernatural」）、Song of the Year（「How Sweet」「Supernatural」）、Fans' Choice Femaleである。授賞式は現地時間11月21日に米ロサンゼルスのドルビー・シアター、11月22・23日に大阪・京セラドームで開かれる。",
+      "en": "The 2024 MAMA Awards nominees were announced on October 14. 'Supernatural' was listed for Best Choreography, which is decided entirely by judges. In all, NewJeans appeared on the list for Artist of the Year, Best Female Group, Best Dance Performance Female Group ('How Sweet'), Best Choreography ('Supernatural'), Song of the Year ('How Sweet' and 'Supernatural') and Fans' Choice Female. The ceremony is set for the Dolby Theatre in Los Angeles on November 21 (PST) and Kyocera Dome in Osaka on November 22 and 23 (KST)."
+    },
+    "source_url": "https://www.soompi.com/article/1694893wpp/2024-mama-awards-announces-nominees-fans-choice-voting-begins",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mama"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi (Oct 14, 2024): 'On October 14, the nominations were announced'."
+  },
+  {
+    "id": "record-2024-10-14-mama-2024-best-dance-performance-female-group-how-sweet-nomination",
+    "date": "2024-10-14",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 MAMA AWARDS Best Dance Performance Female Groupにノミネート（「How Sweet」）",
+      "en": "2024 MAMA Awards – Best Dance Performance Female Group nomination ('How Sweet')"
+    },
+    "summary": {
+      "ja": "2024 MAMA AWARDSのBest Dance Performance Female Group部門の候補に「How Sweet」が選ばれた。",
+      "en": "NewJeans’ 'How Sweet' was nominated for Best Dance Performance Female Group at the 2024 MAMA Awards."
+    },
+    "detail": {
+      "ja": "10月14日に2024 MAMA AWARDSの候補が発表され、「How Sweet」がBest Dance Performance Female Group部門の候補となった。この日の候補でNewJeansの名が挙がったのは、Artist of the Year、Best Female Group、Best Dance Performance Female Group（「How Sweet」）、Best Choreography（「Supernatural」）、Song of the Year（「How Sweet」「Supernatural」）、Fans' Choice Femaleである。授賞式は現地時間11月21日に米ロサンゼルスのドルビー・シアター、11月22・23日に大阪・京セラドームで開かれる。",
+      "en": "The 2024 MAMA Awards nominees were announced on October 14. 'How Sweet' was listed for Best Dance Performance Female Group. In all, NewJeans appeared on the list for Artist of the Year, Best Female Group, Best Dance Performance Female Group ('How Sweet'), Best Choreography ('Supernatural'), Song of the Year ('How Sweet' and 'Supernatural') and Fans' Choice Female. The ceremony is set for the Dolby Theatre in Los Angeles on November 21 (PST) and Kyocera Dome in Osaka on November 22 and 23 (KST)."
+    },
+    "source_url": "https://www.soompi.com/article/1694893wpp/2024-mama-awards-announces-nominees-fans-choice-voting-begins",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mama"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi (Oct 14, 2024): 'On October 14, the nominations were announced'."
+  },
+  {
+    "id": "record-2024-10-14-mama-2024-best-female-group-nomination",
+    "date": "2024-10-14",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 MAMA AWARDS Best Female Groupにノミネート",
+      "en": "2024 MAMA Awards – Best Female Group nomination"
+    },
+    "summary": {
+      "ja": "2024 MAMA AWARDSのBest Female Group部門の候補に、NewJeansが選ばれた。",
+      "en": "NewJeans were nominated for Best Female Group at the 2024 MAMA Awards."
+    },
+    "detail": {
+      "ja": "10月14日に2024 MAMA AWARDSの候補が発表され、NewJeansがBest Female Group部門の候補となった。この日の候補でNewJeansの名が挙がったのは、Artist of the Year、Best Female Group、Best Dance Performance Female Group（「How Sweet」）、Best Choreography（「Supernatural」）、Song of the Year（「How Sweet」「Supernatural」）、Fans' Choice Femaleである。授賞式は現地時間11月21日に米ロサンゼルスのドルビー・シアター、11月22・23日に大阪・京セラドームで開かれる。",
+      "en": "The 2024 MAMA Awards nominees were announced on October 14. NewJeans were listed for Best Female Group. In all, NewJeans appeared on the list for Artist of the Year, Best Female Group, Best Dance Performance Female Group ('How Sweet'), Best Choreography ('Supernatural'), Song of the Year ('How Sweet' and 'Supernatural') and Fans' Choice Female. The ceremony is set for the Dolby Theatre in Los Angeles on November 21 (PST) and Kyocera Dome in Osaka on November 22 and 23 (KST)."
+    },
+    "source_url": "https://www.soompi.com/article/1694893wpp/2024-mama-awards-announces-nominees-fans-choice-voting-begins",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mama"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi (Oct 14, 2024): 'On October 14, the nominations were announced'."
+  },
+  {
+    "id": "record-2024-10-14-mama-2024-song-of-the-year-how-sweet-nomination",
+    "date": "2024-10-14",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 MAMA AWARDS Song of the Yearにノミネート（「How Sweet」）",
+      "en": "2024 MAMA Awards – Song of the Year nomination ('How Sweet')"
+    },
+    "summary": {
+      "ja": "2024 MAMA AWARDSのSong of the Year部門の候補に、NewJeansの「How Sweet」が選ばれた。",
+      "en": "NewJeans’ 'How Sweet' was nominated for Song of the Year at the 2024 MAMA Awards."
+    },
+    "detail": {
+      "ja": "10月14日に2024 MAMA AWARDSの候補が発表され、ジャンル部門の候補曲が自動的に対象となるSong of the Yearに「How Sweet」が含まれた。この日の候補でNewJeansの名が挙がったのは、Artist of the Year、Best Female Group、Best Dance Performance Female Group（「How Sweet」）、Best Choreography（「Supernatural」）、Song of the Year（「How Sweet」「Supernatural」）、Fans' Choice Femaleである。授賞式は現地時間11月21日に米ロサンゼルスのドルビー・シアター、11月22・23日に大阪・京セラドームで開かれる。",
+      "en": "The 2024 MAMA Awards nominees were announced on October 14. 'How Sweet' was included for Song of the Year, whose nominees are drawn automatically from the song genre categories. In all, NewJeans appeared on the list for Artist of the Year, Best Female Group, Best Dance Performance Female Group ('How Sweet'), Best Choreography ('Supernatural'), Song of the Year ('How Sweet' and 'Supernatural') and Fans' Choice Female. The ceremony is set for the Dolby Theatre in Los Angeles on November 21 (PST) and Kyocera Dome in Osaka on November 22 and 23 (KST)."
+    },
+    "source_url": "https://www.soompi.com/article/1694893wpp/2024-mama-awards-announces-nominees-fans-choice-voting-begins",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mama"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi (Oct 14, 2024): 'On October 14, the nominations were announced'."
+  },
+  {
+    "id": "record-2024-10-14-mama-2024-song-of-the-year-supernatural-nomination",
+    "date": "2024-10-14",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 MAMA AWARDS Song of the Yearにノミネート（「Supernatural」）",
+      "en": "2024 MAMA Awards – Song of the Year nomination ('Supernatural')"
+    },
+    "summary": {
+      "ja": "2024 MAMA AWARDSのSong of the Year部門の候補に、NewJeansの「Supernatural」が選ばれた。",
+      "en": "NewJeans’ 'Supernatural' was nominated for Song of the Year at the 2024 MAMA Awards."
+    },
+    "detail": {
+      "ja": "10月14日に2024 MAMA AWARDSの候補が発表され、ジャンル部門の候補曲が自動的に対象となるSong of the Yearに「Supernatural」が含まれた。この日の候補でNewJeansの名が挙がったのは、Artist of the Year、Best Female Group、Best Dance Performance Female Group（「How Sweet」）、Best Choreography（「Supernatural」）、Song of the Year（「How Sweet」「Supernatural」）、Fans' Choice Femaleである。授賞式は現地時間11月21日に米ロサンゼルスのドルビー・シアター、11月22・23日に大阪・京セラドームで開かれる。",
+      "en": "The 2024 MAMA Awards nominees were announced on October 14. 'Supernatural' was included for Song of the Year, whose nominees are drawn automatically from the song genre categories. In all, NewJeans appeared on the list for Artist of the Year, Best Female Group, Best Dance Performance Female Group ('How Sweet'), Best Choreography ('Supernatural'), Song of the Year ('How Sweet' and 'Supernatural') and Fans' Choice Female. The ceremony is set for the Dolby Theatre in Los Angeles on November 21 (PST) and Kyocera Dome in Osaka on November 22 and 23 (KST)."
+    },
+    "source_url": "https://www.soompi.com/article/1694893wpp/2024-mama-awards-announces-nominees-fans-choice-voting-begins",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mama"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi (Oct 14, 2024): 'On October 14, the nominations were announced'."
   },
   {
     "id": "record-2024-10-25-edaily-culture-awards-11-frontier-award",
@@ -6658,6 +8841,78 @@
     ]
   },
   {
+    "id": "record-2024-11-15-mma-2024-artist-of-the-year-nomination",
+    "date": "2024-11-15",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Melon Music Awards 2024 Artist of the Yearにノミネート",
+      "en": "Melon Music Awards 2024 – Artist of the Year nomination"
+    },
+    "summary": {
+      "ja": "Melon Music Awards 2024のArtist of the Year部門の候補に、NewJeansが選ばれた。",
+      "en": "NewJeans were nominated for Artist of the Year at the Melon Music Awards 2024."
+    },
+    "detail": {
+      "ja": "Top 10の結果発表に続いて部門賞の候補が発表され、NewJeansはArtist of the Year、Best Group（女性）、Millions Top 10（「How Sweet」）の候補に名を連ねた。対象は2023年11月2日から2024年10月30日までに発表された楽曲で、投票は11月29日まで行われる。授賞式は11月30日に仁川のインスパイア・アリーナで開かれる。",
+      "en": "Following the Top 10 results, nominees for the category awards were announced, listing NewJeans for Artist of the Year, Best Group (Female) and Millions Top 10 ('How Sweet'). Music released between November 2, 2023 and October 30, 2024 was eligible; voting runs through November 29 and the ceremony is set for November 30 at INSPIRE Arena in Incheon."
+    },
+    "source_url": "https://www.soompi.com/article/1703533wpp/melon-music-awards-2024-announces-nominees",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mma"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi (2024-11-15 06:37 UTC = Nov 15 KST): category nominees revealed after Top 10 winners; Wikipedia: remaining categories announced November 15."
+  },
+  {
+    "id": "record-2024-11-15-mma-2024-best-group-female-nomination",
+    "date": "2024-11-15",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Melon Music Awards 2024 Best Group（女性）にノミネート",
+      "en": "Melon Music Awards 2024 – Best Group (Female) nomination"
+    },
+    "summary": {
+      "ja": "Melon Music Awards 2024のBest Group（女性）部門の候補に、NewJeansが選ばれた。",
+      "en": "NewJeans were nominated for Best Group (Female) at the Melon Music Awards 2024."
+    },
+    "detail": {
+      "ja": "Top 10の結果発表に続いて部門賞の候補が発表され、NewJeansはArtist of the Year、Best Group（女性）、Millions Top 10（「How Sweet」）の候補に名を連ねた。対象は2023年11月2日から2024年10月30日までに発表された楽曲で、投票は11月29日まで行われる。授賞式は11月30日に仁川のインスパイア・アリーナで開かれる。",
+      "en": "Following the Top 10 results, nominees for the category awards were announced, listing NewJeans for Artist of the Year, Best Group (Female) and Millions Top 10 ('How Sweet'). Music released between November 2, 2023 and October 30, 2024 was eligible; voting runs through November 29 and the ceremony is set for November 30 at INSPIRE Arena in Incheon."
+    },
+    "source_url": "https://www.soompi.com/article/1703533wpp/melon-music-awards-2024-announces-nominees",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mma"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Soompi (2024-11-15 06:37 UTC = Nov 15 KST): category nominees revealed after Top 10 winners; Wikipedia: remaining categories announced November 15."
+  },
+  {
     "id": "record-2024-11-16-kgma-2024-best-artist",
     "date": "2024-11-16",
     "date_type": "event",
@@ -6691,6 +8946,42 @@
       "https://www.soompi.com/article/1703865wpp/winners-of-1st-korea-grand-music-awards-kgma-day-1"
     ],
     "editor_note": "Ilgan Sports (organizer) wrap-up lists NewJeans among Best Artist winners alongside Grand Artist."
+  },
+  {
+    "id": "record-2024-11-16-kgma-2024-best-song-super-shy-nomination",
+    "date": "2024-11-16",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 Korea Grand Music Awards Best Songにノミネート（「Super Shy」）",
+      "en": "2024 Korea Grand Music Awards – Best Song nomination ('Super Shy')"
+    },
+    "summary": {
+      "ja": "2024 Korea Grand Music Awardsで、NewJeansの「Super Shy」がBest Song部門の候補に名を連ねた。",
+      "en": "'Super Shy' by NewJeans was among the nominees for Best Song at the 2024 Korea Grand Music Awards."
+    },
+    "detail": {
+      "ja": "2024 Korea Grand Music Awards（2024年11月16・17日、仁川・インスパイア・アリーナ）で、NewJeansはBest Song部門の候補となった（対象：「Super Shy」）。",
+      "en": "NewJeans were nominated for Best Song at the 2024 Korea Grand Music Awards (held November 16-17, 2024 at INSPIRE Arena, Incheon), for 'Super Shy'."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "kgma"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/2024_Korea_Grand_Music_Awards"
+    ],
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (2024 KGMA / NewJeans awards list); KGMA fan voting ran in several rounds from September 2024 (Fancast) but no official or major-press nominee list naming NewJeans was found."
   },
   {
     "id": "record-2024-11-16-kgma-2024-grand-artist-daesang",
@@ -6729,6 +9020,114 @@
     "editor_note": "Ilgan Sports (KGMA organizer) wrap-up 2024-11-17: NewJeans received the Grand Artist top prize on Artist Day (Nov 16, Inspire Arena)."
   },
   {
+    "id": "record-2024-11-16-kgma-2024-trend-of-the-year-k-pop-group-nomination",
+    "date": "2024-11-16",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 Korea Grand Music Awards Trend of the Year – K-pop Groupにノミネート",
+      "en": "2024 Korea Grand Music Awards – Trend of the Year – K-pop Group nomination"
+    },
+    "summary": {
+      "ja": "2024 Korea Grand Music AwardsのTrend of the Year – K-pop Group部門の候補にNewJeansが入った。",
+      "en": "NewJeans were among the nominees for Trend of the Year – K-pop Group at the 2024 Korea Grand Music Awards."
+    },
+    "detail": {
+      "ja": "2024 Korea Grand Music Awards（2024年11月16・17日、仁川・インスパイア・アリーナ）で、NewJeansはTrend of the Year – K-pop Group部門の候補となった。",
+      "en": "NewJeans were nominated for Trend of the Year – K-pop Group at the 2024 Korea Grand Music Awards (held November 16-17, 2024 at INSPIRE Arena, Incheon)."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "kgma"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/2024_Korea_Grand_Music_Awards"
+    ],
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (2024 KGMA / NewJeans awards list); KGMA fan voting ran in several rounds from September 2024 (Fancast) but no official or major-press nominee list naming NewJeans was found."
+  },
+  {
+    "id": "record-2024-11-21-japan-record-awards-66-grand-prix-supernatural-nomination",
+    "date": "2024-11-21",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第66回日本レコード大賞 大賞にノミネート（「Supernatural」、優秀作品賞）",
+      "en": "66th Japan Record Awards – Grand Prix nomination ('Supernatural', Excellent Work)"
+    },
+    "summary": {
+      "ja": "第66回日本レコード大賞の大賞候補となる優秀作品賞に、「Supernatural」が選ばれた。",
+      "en": "'Supernatural' was named an Excellent Work, making it a Grand Prix candidate at the 66th Japan Record Awards."
+    },
+    "detail": {
+      "ja": "第66回日本レコード大賞の各賞が発表され、「Supernatural」が大賞の候補となる優秀作品賞の1曲に選ばれた。授賞式は12月30日にTBSで4時間半にわたり生放送される。",
+      "en": "The 66th Japan Record Awards announced its category honorees, naming 'Supernatural' among the Excellent Works, the candidates for the Grand Prix. The ceremony airs live on TBS for four and a half hours on December 30."
+    },
+    "source_url": "https://mdpr.jp/music/detail/4431301",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "japan-record-awards"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Modelpress 2024-11-21 00:00 JST (TBS copyright): 優秀作品賞 = 日本レコード大賞候補; list includes 「Supernatural」NewJeans. Overlaps in subject with existing record-2024-12-30-japan-record-awards-66-excellent-work-supernatural (ceremony-dated)."
+  },
+  {
+    "id": "record-2024-11-21-mama-2024-fans-choice-of-the-year-nomination",
+    "date": "2024-11-21",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 MAMA AWARDS Fans' Choice of the Yearにノミネート",
+      "en": "2024 MAMA Awards – Fans' Choice of the Year nomination"
+    },
+    "summary": {
+      "ja": "2024 MAMA AWARDSで、NewJeansがFans' Choice of the Year部門の候補に名を連ねた。",
+      "en": "NewJeans were among the nominees for Fans' Choice of the Year at the 2024 MAMA Awards."
+    },
+    "detail": {
+      "ja": "2024 MAMA AWARDS（2024年11月21日（ロサンゼルス）、11月22・23日（大阪・京セラドーム））で、NewJeansはFans' Choice of the Year部門の候補となった。同賞はMnet PlusとXでのファン投票で選ばれる部門だった。",
+      "en": "NewJeans were nominated for Fans' Choice of the Year at the 2024 MAMA Awards (held November 21 (PST) in Los Angeles and November 22-23 at Kyocera Dome, Osaka). The award was decided by fan votes on Mnet Plus and X."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mama"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1694893wpp/2024-mama-awards-announces-nominees-fans-choice-voting-begins"
+    ],
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list. Soompi (Oct 14, 2024) gives voting rules for Fans' Choice of the Year but no separate nominee list; NewJeans were in the Fans' Choice Female first-round list. Dated to the ceremony's first day (ledger date)."
+  },
+  {
     "id": "record-2024-11-22-mama-2024-fans-choice-top-10-female",
     "date": "2024-11-22",
     "date_type": "event",
@@ -6763,6 +9162,42 @@
     ],
     "verified": true,
     "editor_note": "Date inferred (Fans' Choice Top 10 presenters credited on Nov 22 chapter per Wikipedia); not confirmed with Mnet. / MAMA official 2024 winners page lists NewJeans under FANS' CHOICE FEMALE TOP 10."
+  },
+  {
+    "id": "record-2024-11-30-mma-2024-kakaobank-everyones-star-nomination",
+    "date": "2024-11-30",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Melon Music Awards 2024 KakaoBank Everyone's Starにノミネート",
+      "en": "Melon Music Awards 2024 – KakaoBank Everyone's Star nomination"
+    },
+    "summary": {
+      "ja": "Melon Music Awards 2024で、NewJeansがKakaoBank Everyone's Star部門の候補に名を連ねた。",
+      "en": "NewJeans were among the nominees for KakaoBank Everyone's Star at the Melon Music Awards 2024."
+    },
+    "detail": {
+      "ja": "Melon Music Awards 2024（2024年11月30日、仁川・インスパイア・アリーナ）で、NewJeansはKakaoBank Everyone's Star部門の候補となった。",
+      "en": "NewJeans were nominated for KakaoBank Everyone's Star at the Melon Music Awards 2024 (held November 30, 2024 at INSPIRE Arena, Incheon)."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "mma"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.soompi.com/article/1703533wpp/melon-music-awards-2024-announces-nominees"
+    ],
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; not in Soompi's Nov 15 nominee article and no other nominee list found."
   },
   {
     "id": "record-2024-11-30-mma-2024-millions-top-10-how-sweet",
@@ -7237,6 +9672,385 @@
     "editor_note": "Which of the two days the Bonsang was presented is not stated; dated to Day 1. Unverified against Hanteo's own list. / Hanteo News (Hanteo Global, organizer) wrap-up of '32ND HMA 2024' (Feb 15-16, 2025): Artist of the Year list includes NewJeans."
   },
   {
+    "id": "record-2025-02-15-hanteo-music-awards-32-global-artist-africa-nomination",
+    "date": "2025-02-15",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Hanteo Music Awards 2024 Global Artist – Africaにノミネート",
+      "en": "Hanteo Music Awards 2024 – Global Artist – Africa nomination"
+    },
+    "summary": {
+      "ja": "Hanteo Music Awards 2024で、NewJeansがGlobal Artist – Africa部門の候補に名を連ねた。",
+      "en": "NewJeans were among the nominees for Global Artist – Africa at the Hanteo Music Awards 2024."
+    },
+    "detail": {
+      "ja": "Hanteo Music Awards 2024（2025年2月15・16日、ソウル・奨忠体育館）で、NewJeansはGlobal Artist – Africa部門の候補となった。Global Artist賞はHanteo Global指標50%とグローバル投票50%で選ばれる地域別の部門だった。",
+      "en": "NewJeans were nominated for Global Artist – Africa at the Hanteo Music Awards 2024 (held February 15-16, 2025 at Jangchung Arena, Seoul). The regional Global Artist awards were decided 50 percent on Hanteo Global data and 50 percent on global voting."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "hanteo-music-awards"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic."
+  },
+  {
+    "id": "record-2025-02-15-hanteo-music-awards-32-global-artist-asia-nomination",
+    "date": "2025-02-15",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Hanteo Music Awards 2024 Global Artist – Asiaにノミネート",
+      "en": "Hanteo Music Awards 2024 – Global Artist – Asia nomination"
+    },
+    "summary": {
+      "ja": "Hanteo Music Awards 2024で、NewJeansがGlobal Artist – Asia部門の候補に名を連ねた。",
+      "en": "NewJeans were among the nominees for Global Artist – Asia at the Hanteo Music Awards 2024."
+    },
+    "detail": {
+      "ja": "Hanteo Music Awards 2024（2025年2月15・16日、ソウル・奨忠体育館）で、NewJeansはGlobal Artist – Asia部門の候補となった。Global Artist賞はHanteo Global指標50%とグローバル投票50%で選ばれる地域別の部門だった。",
+      "en": "NewJeans were nominated for Global Artist – Asia at the Hanteo Music Awards 2024 (held February 15-16, 2025 at Jangchung Arena, Seoul). The regional Global Artist awards were decided 50 percent on Hanteo Global data and 50 percent on global voting."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "hanteo-music-awards"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic."
+  },
+  {
+    "id": "record-2025-02-15-hanteo-music-awards-32-global-artist-europe-nomination",
+    "date": "2025-02-15",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Hanteo Music Awards 2024 Global Artist – Europeにノミネート",
+      "en": "Hanteo Music Awards 2024 – Global Artist – Europe nomination"
+    },
+    "summary": {
+      "ja": "Hanteo Music Awards 2024で、NewJeansがGlobal Artist – Europe部門の候補に名を連ねた。",
+      "en": "NewJeans were among the nominees for Global Artist – Europe at the Hanteo Music Awards 2024."
+    },
+    "detail": {
+      "ja": "Hanteo Music Awards 2024（2025年2月15・16日、ソウル・奨忠体育館）で、NewJeansはGlobal Artist – Europe部門の候補となった。Global Artist賞はHanteo Global指標50%とグローバル投票50%で選ばれる地域別の部門だった。",
+      "en": "NewJeans were nominated for Global Artist – Europe at the Hanteo Music Awards 2024 (held February 15-16, 2025 at Jangchung Arena, Seoul). The regional Global Artist awards were decided 50 percent on Hanteo Global data and 50 percent on global voting."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "hanteo-music-awards"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic."
+  },
+  {
+    "id": "record-2025-02-15-hanteo-music-awards-32-global-artist-north-america-nomination",
+    "date": "2025-02-15",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Hanteo Music Awards 2024 Global Artist – North Americaにノミネート",
+      "en": "Hanteo Music Awards 2024 – Global Artist – North America nomination"
+    },
+    "summary": {
+      "ja": "Hanteo Music Awards 2024で、NewJeansがGlobal Artist – North America部門の候補に名を連ねた。",
+      "en": "NewJeans were among the nominees for Global Artist – North America at the Hanteo Music Awards 2024."
+    },
+    "detail": {
+      "ja": "Hanteo Music Awards 2024（2025年2月15・16日、ソウル・奨忠体育館）で、NewJeansはGlobal Artist – North America部門の候補となった。Global Artist賞はHanteo Global指標50%とグローバル投票50%で選ばれる地域別の部門だった。",
+      "en": "NewJeans were nominated for Global Artist – North America at the Hanteo Music Awards 2024 (held February 15-16, 2025 at Jangchung Arena, Seoul). The regional Global Artist awards were decided 50 percent on Hanteo Global data and 50 percent on global voting."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "hanteo-music-awards"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic."
+  },
+  {
+    "id": "record-2025-02-15-hanteo-music-awards-32-global-artist-oceania-nomination",
+    "date": "2025-02-15",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Hanteo Music Awards 2024 Global Artist – Oceaniaにノミネート",
+      "en": "Hanteo Music Awards 2024 – Global Artist – Oceania nomination"
+    },
+    "summary": {
+      "ja": "Hanteo Music Awards 2024で、NewJeansがGlobal Artist – Oceania部門の候補に名を連ねた。",
+      "en": "NewJeans were among the nominees for Global Artist – Oceania at the Hanteo Music Awards 2024."
+    },
+    "detail": {
+      "ja": "Hanteo Music Awards 2024（2025年2月15・16日、ソウル・奨忠体育館）で、NewJeansはGlobal Artist – Oceania部門の候補となった。Global Artist賞はHanteo Global指標50%とグローバル投票50%で選ばれる地域別の部門だった。",
+      "en": "NewJeans were nominated for Global Artist – Oceania at the Hanteo Music Awards 2024 (held February 15-16, 2025 at Jangchung Arena, Seoul). The regional Global Artist awards were decided 50 percent on Hanteo Global data and 50 percent on global voting."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "hanteo-music-awards"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic."
+  },
+  {
+    "id": "record-2025-02-15-hanteo-music-awards-32-global-artist-south-america-nomination",
+    "date": "2025-02-15",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Hanteo Music Awards 2024 Global Artist – South Americaにノミネート",
+      "en": "Hanteo Music Awards 2024 – Global Artist – South America nomination"
+    },
+    "summary": {
+      "ja": "Hanteo Music Awards 2024で、NewJeansがGlobal Artist – South America部門の候補に名を連ねた。",
+      "en": "NewJeans were among the nominees for Global Artist – South America at the Hanteo Music Awards 2024."
+    },
+    "detail": {
+      "ja": "Hanteo Music Awards 2024（2025年2月15・16日、ソウル・奨忠体育館）で、NewJeansはGlobal Artist – South America部門の候補となった。Global Artist賞はHanteo Global指標50%とグローバル投票50%で選ばれる地域別の部門だった。",
+      "en": "NewJeans were nominated for Global Artist – South America at the Hanteo Music Awards 2024 (held February 15-16, 2025 at Jangchung Arena, Seoul). The regional Global Artist awards were decided 50 percent on Hanteo Global data and 50 percent on global voting."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "hanteo-music-awards"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic."
+  },
+  {
+    "id": "record-2025-02-15-hanteo-music-awards-32-whosfandom-female-nomination",
+    "date": "2025-02-15",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Hanteo Music Awards 2024 WhosFandom Award（女性）にノミネート",
+      "en": "Hanteo Music Awards 2024 – WhosFandom Award – Female nomination"
+    },
+    "summary": {
+      "ja": "Hanteo Music Awards 2024で、NewJeansがWhosFandom Award（女性）部門の候補に名を連ねた。",
+      "en": "NewJeans were among the nominees for WhosFandom Award – Female at the Hanteo Music Awards 2024."
+    },
+    "detail": {
+      "ja": "Hanteo Music Awards 2024（2025年2月15・16日、ソウル・奨忠体育館）で、NewJeansはWhosFandom Award（女性）部門の候補となった。同賞はWhosfanアプリでのファン投票で選ばれる部門だった。",
+      "en": "NewJeans were nominated for WhosFandom Award – Female at the Hanteo Music Awards 2024 (held February 15-16, 2025 at Jangchung Arena, Seoul). The award was decided by fan voting on the Whosfan app."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "hanteo-music-awards"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; 32nd HMA Wikipedia says WhosFandom voting ran Dec 9-30, 2024 on Whosfan; no official nominee page fetched."
+  },
+  {
+    "id": "record-2025-03-24-sma-34-bonsang-nomination",
+    "date": "2025-03-24",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第34回ソウル歌謡大賞 本賞にノミネート",
+      "en": "34th Seoul Music Awards – Main Prize (Bonsang) nomination"
+    },
+    "summary": {
+      "ja": "第34回ソウル歌謡大賞の候補が公開され、NewJeansが本賞部門の候補に名を連ねた。",
+      "en": "NewJeans were nominated for the Main Prize (Bonsang) at the 34th Seoul Music Awards."
+    },
+    "detail": {
+      "ja": "第34回ソウル歌謡大賞の本賞・新人賞・人気賞・韓流特別賞などの候補が3月24日に公開され、モバイル投票が始まった。人気賞（国内投票）、韓流特別賞（海外投票）、K-POP SEOUL CHOICE（グループ／ソロ）は100%ファン投票で決まる。候補は2024年1月から2025年3月までに発表された音盤・音源が対象で、授賞式は6月21日に仁川のインスパイア・アリーナで開かれる。",
+      "en": "Nominees for the 34th Seoul Music Awards, including the Bonsang, Rookie, Popularity and K-Wave awards, were revealed on March 24 as mobile voting opened. The Popularity Award (domestic votes), K-Wave Special Award (overseas votes) and K-pop World Choice (group/solo) are decided entirely by fan votes. Releases from January 2024 to March 2025 were eligible, and the ceremony is set for June 21 at INSPIRE Arena in Incheon."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "sma"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://isplus.com/article/view/isp202503240165",
+      "https://en.wikipedia.org/wiki/34th_Seoul_Music_Awards"
+    ],
+    "editor_note": "Announcement date (Mar 24, 2025, nominees revealed with voting start) confirmed by Ilgan Sports (isplus 2025-03-24); NewJeans' inclusion in the four categories only per Wikipedia (34th SMA, citing seoulmusicawards.com/page/vote, not fetchable). Entity kept 'newjeans' (nomination under the NewJeans name for 2024 releases)."
+  },
+  {
+    "id": "record-2025-03-24-sma-34-k-pop-world-choice-group-nomination",
+    "date": "2025-03-24",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第34回ソウル歌謡大賞 K-POP World Choice（グループ）にノミネート",
+      "en": "34th Seoul Music Awards – K-pop World Choice – Group nomination"
+    },
+    "summary": {
+      "ja": "第34回ソウル歌謡大賞の候補が公開され、NewJeansがK-POP World Choice（グループ）部門の候補に名を連ねた。",
+      "en": "NewJeans were nominated for K-pop World Choice – Group at the 34th Seoul Music Awards."
+    },
+    "detail": {
+      "ja": "第34回ソウル歌謡大賞の本賞・新人賞・人気賞・韓流特別賞などの候補が3月24日に公開され、モバイル投票が始まった。人気賞（国内投票）、韓流特別賞（海外投票）、K-POP SEOUL CHOICE（グループ／ソロ）は100%ファン投票で決まる。候補は2024年1月から2025年3月までに発表された音盤・音源が対象で、授賞式は6月21日に仁川のインスパイア・アリーナで開かれる。",
+      "en": "Nominees for the 34th Seoul Music Awards, including the Bonsang, Rookie, Popularity and K-Wave awards, were revealed on March 24 as mobile voting opened. The Popularity Award (domestic votes), K-Wave Special Award (overseas votes) and K-pop World Choice (group/solo) are decided entirely by fan votes. Releases from January 2024 to March 2025 were eligible, and the ceremony is set for June 21 at INSPIRE Arena in Incheon."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "sma"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://isplus.com/article/view/isp202503240165",
+      "https://en.wikipedia.org/wiki/34th_Seoul_Music_Awards"
+    ],
+    "editor_note": "Announcement date (Mar 24, 2025, nominees revealed with voting start) confirmed by Ilgan Sports (isplus 2025-03-24); NewJeans' inclusion in the four categories only per Wikipedia (34th SMA, citing seoulmusicawards.com/page/vote, not fetchable). Entity kept 'newjeans' (nomination under the NewJeans name for 2024 releases)."
+  },
+  {
+    "id": "record-2025-03-24-sma-34-k-wave-special-award-nomination",
+    "date": "2025-03-24",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第34回ソウル歌謡大賞 韓流特別賞にノミネート",
+      "en": "34th Seoul Music Awards – K-Wave Special Award nomination"
+    },
+    "summary": {
+      "ja": "第34回ソウル歌謡大賞の候補が公開され、NewJeansが韓流特別賞部門の候補に名を連ねた。",
+      "en": "NewJeans were nominated for the K-Wave Special Award at the 34th Seoul Music Awards."
+    },
+    "detail": {
+      "ja": "第34回ソウル歌謡大賞の本賞・新人賞・人気賞・韓流特別賞などの候補が3月24日に公開され、モバイル投票が始まった。人気賞（国内投票）、韓流特別賞（海外投票）、K-POP SEOUL CHOICE（グループ／ソロ）は100%ファン投票で決まる。候補は2024年1月から2025年3月までに発表された音盤・音源が対象で、授賞式は6月21日に仁川のインスパイア・アリーナで開かれる。",
+      "en": "Nominees for the 34th Seoul Music Awards, including the Bonsang, Rookie, Popularity and K-Wave awards, were revealed on March 24 as mobile voting opened. The Popularity Award (domestic votes), K-Wave Special Award (overseas votes) and K-pop World Choice (group/solo) are decided entirely by fan votes. Releases from January 2024 to March 2025 were eligible, and the ceremony is set for June 21 at INSPIRE Arena in Incheon."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "sma"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://isplus.com/article/view/isp202503240165",
+      "https://en.wikipedia.org/wiki/34th_Seoul_Music_Awards"
+    ],
+    "editor_note": "Announcement date (Mar 24, 2025, nominees revealed with voting start) confirmed by Ilgan Sports (isplus 2025-03-24); NewJeans' inclusion in the four categories only per Wikipedia (34th SMA, citing seoulmusicawards.com/page/vote, not fetchable). Entity kept 'newjeans' (nomination under the NewJeans name for 2024 releases)."
+  },
+  {
+    "id": "record-2025-03-24-sma-34-popularity-award-nomination",
+    "date": "2025-03-24",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第34回ソウル歌謡大賞 人気賞にノミネート",
+      "en": "34th Seoul Music Awards – Popularity Award nomination"
+    },
+    "summary": {
+      "ja": "第34回ソウル歌謡大賞の候補が公開され、NewJeansが人気賞部門の候補に名を連ねた。",
+      "en": "NewJeans were nominated for the Popularity Award at the 34th Seoul Music Awards."
+    },
+    "detail": {
+      "ja": "第34回ソウル歌謡大賞の本賞・新人賞・人気賞・韓流特別賞などの候補が3月24日に公開され、モバイル投票が始まった。人気賞（国内投票）、韓流特別賞（海外投票）、K-POP SEOUL CHOICE（グループ／ソロ）は100%ファン投票で決まる。候補は2024年1月から2025年3月までに発表された音盤・音源が対象で、授賞式は6月21日に仁川のインスパイア・アリーナで開かれる。",
+      "en": "Nominees for the 34th Seoul Music Awards, including the Bonsang, Rookie, Popularity and K-Wave awards, were revealed on March 24 as mobile voting opened. The Popularity Award (domestic votes), K-Wave Special Award (overseas votes) and K-pop World Choice (group/solo) are decided entirely by fan votes. Releases from January 2024 to March 2025 were eligible, and the ceremony is set for June 21 at INSPIRE Arena in Incheon."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "sma"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://isplus.com/article/view/isp202503240165",
+      "https://en.wikipedia.org/wiki/34th_Seoul_Music_Awards"
+    ],
+    "editor_note": "Announcement date (Mar 24, 2025, nominees revealed with voting start) confirmed by Ilgan Sports (isplus 2025-03-24); NewJeans' inclusion in the four categories only per Wikipedia (34th SMA, citing seoulmusicawards.com/page/vote, not fetchable). Entity kept 'newjeans' (nomination under the NewJeans name for 2024 releases)."
+  },
+  {
     "id": "record-2025-04-10-circle-cert-how-sweet-million",
     "date": "2025-04-10",
     "date_type": "event",
@@ -7272,6 +10086,114 @@
     ],
     "verified": true,
     "editor_note": "Date (Apr 10, 2025) and the Jul 11, 2024 triple platinum from a fan wiki citing Soompi; not independently verified. Certified during the activity pause. / Circle Chart album certification list: 2025-04-10 How Sweet grade 1M. Exact match."
+  },
+  {
+    "id": "record-2025-04-17-music-awards-japan-2025-best-k-pop-song-supernatural-nomination",
+    "date": "2025-04-17",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "MUSIC AWARDS JAPAN 2025 最優秀K-Pop楽曲賞にノミネート（「Supernatural」）",
+      "en": "MUSIC AWARDS JAPAN 2025 – Best K-Pop Song in Japan nomination ('Supernatural')"
+    },
+    "summary": {
+      "ja": "MUSIC AWARDS JAPAN 2025の最優秀K-Pop楽曲賞に、NewJeansの「Supernatural」がノミネートされた。",
+      "en": "NewJeans' 'Supernatural' was nominated for Best K-Pop Song in Japan at MUSIC AWARDS JAPAN 2025."
+    },
+    "detail": {
+      "ja": "MUSIC AWARDS JAPAN 2025のノミネート作品が4月17日に発表された。NewJeansは最優秀K-Pop楽曲賞に「Ditto」「Supernatural」の2曲、ベスト・オブ・リスナーズチョイス：海外楽曲 powered by Spotifyに「Supernatural」「How Sweet」の2曲がノミネートされた。授賞式は5月21日と22日に京都で開かれる。",
+      "en": "The nominees for MUSIC AWARDS JAPAN 2025 were announced on April 17. NewJeans had two songs, 'Ditto' and 'Supernatural', in Best K-Pop Song, and two, 'Supernatural' and 'How Sweet', in Best of Listeners' Choice: International Song powered by Spotify. The ceremonies are set for May 21 and 22 in Kyoto."
+    },
+    "source_url": "https://realsound.jp/2025/04/post-1993849_2.html",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "music-awards-japan"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Real Sound (2025-04-17 16:50 JST): MAJ nominee list; NewJeans under 最優秀K-Pop楽曲賞 (Ditto, Supernatural) and ベスト・オブ・リスナーズチョイス：海外楽曲 powered by Spotify (Supernatural, How Sweet)."
+  },
+  {
+    "id": "record-2025-04-17-music-awards-japan-2025-listeners-choice-international-song-how-sweet-nomination",
+    "date": "2025-04-17",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "MUSIC AWARDS JAPAN 2025 ベスト・オブ・リスナーズチョイス：海外楽曲にノミネート（「How Sweet」）",
+      "en": "MUSIC AWARDS JAPAN 2025 – Best of Listeners' Choice: International Song nomination ('How Sweet')"
+    },
+    "summary": {
+      "ja": "MUSIC AWARDS JAPAN 2025のベスト・オブ・リスナーズチョイス：海外楽曲に、NewJeansの「How Sweet」がノミネートされた。",
+      "en": "NewJeans' 'How Sweet' was nominated for Best of Listeners' Choice: International Song at MUSIC AWARDS JAPAN 2025."
+    },
+    "detail": {
+      "ja": "MUSIC AWARDS JAPAN 2025のノミネート作品が4月17日に発表された。NewJeansは最優秀K-Pop楽曲賞に「Ditto」「Supernatural」の2曲、ベスト・オブ・リスナーズチョイス：海外楽曲 powered by Spotifyに「Supernatural」「How Sweet」の2曲がノミネートされた。授賞式は5月21日と22日に京都で開かれる。",
+      "en": "The nominees for MUSIC AWARDS JAPAN 2025 were announced on April 17. NewJeans had two songs, 'Ditto' and 'Supernatural', in Best K-Pop Song, and two, 'Supernatural' and 'How Sweet', in Best of Listeners' Choice: International Song powered by Spotify. The ceremonies are set for May 21 and 22 in Kyoto."
+    },
+    "source_url": "https://realsound.jp/2025/04/post-1993849_2.html",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "music-awards-japan"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Real Sound (2025-04-17 16:50 JST): MAJ nominee list; NewJeans under 最優秀K-Pop楽曲賞 (Ditto, Supernatural) and ベスト・オブ・リスナーズチョイス：海外楽曲 powered by Spotify (Supernatural, How Sweet)."
+  },
+  {
+    "id": "record-2025-04-17-music-awards-japan-2025-listeners-choice-international-song-supernatural-nomination",
+    "date": "2025-04-17",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "MUSIC AWARDS JAPAN 2025 ベスト・オブ・リスナーズチョイス：海外楽曲にノミネート（「Supernatural」）",
+      "en": "MUSIC AWARDS JAPAN 2025 – Best of Listeners' Choice: International Song nomination ('Supernatural')"
+    },
+    "summary": {
+      "ja": "MUSIC AWARDS JAPAN 2025のベスト・オブ・リスナーズチョイス：海外楽曲に、NewJeansの「Supernatural」がノミネートされた。",
+      "en": "NewJeans' 'Supernatural' was nominated for Best of Listeners' Choice: International Song at MUSIC AWARDS JAPAN 2025."
+    },
+    "detail": {
+      "ja": "MUSIC AWARDS JAPAN 2025のノミネート作品が4月17日に発表された。NewJeansは最優秀K-Pop楽曲賞に「Ditto」「Supernatural」の2曲、ベスト・オブ・リスナーズチョイス：海外楽曲 powered by Spotifyに「Supernatural」「How Sweet」の2曲がノミネートされた。授賞式は5月21日と22日に京都で開かれる。",
+      "en": "The nominees for MUSIC AWARDS JAPAN 2025 were announced on April 17. NewJeans had two songs, 'Ditto' and 'Supernatural', in Best K-Pop Song, and two, 'Supernatural' and 'How Sweet', in Best of Listeners' Choice: International Song powered by Spotify. The ceremonies are set for May 21 and 22 in Kyoto."
+    },
+    "source_url": "https://realsound.jp/2025/04/post-1993849_2.html",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "music-awards-japan"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Real Sound (2025-04-17 16:50 JST): MAJ nominee list; NewJeans under 最優秀K-Pop楽曲賞 (Ditto, Supernatural) and ベスト・オブ・リスナーズチョイス：海外楽曲 powered by Spotify (Supernatural, How Sweet)."
   },
   {
     "id": "record-2025-05-13-billboard-21-under-21-2025",

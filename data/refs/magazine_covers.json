@@ -20,7 +20,7 @@
    "date": "2022-09-23",
    "title": "GQ Korea October 2022 pictorial - group (with Comme des Garçons)",
    "url": "https://www.gqkorea.co.kr/2022/09/23/198496/",
-   "record": "magazine-2022-09-26-gq-korea-comme-des-garcons",
+   "record": "magazine-2022-09-23-gq-korea-comme-des-garcons",
    "exclude": null,
    "note": "existing record date differs: record 2022-09-26 vs source 2022-09-23"
   },
@@ -55,7 +55,7 @@
    "date": "2022-12-04",
    "title": "W Korea December 2022 solo pictorial - Hanni (Gucci Bamboo 1947 / Cruise 2023)",
    "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
-   "record": null,
+   "record": "magazine-2022-11-17-w-korea-2022-12-cover",
    "exclude": null,
    "note": "namu「구찌」節のGucci公式投稿（2022-12-04）に基づく。誌面での扱い（グループ号内の個人ページか）は要確認"
   },
@@ -72,7 +72,7 @@
    "date": "2023-01-27",
    "title": "NME cover (The Big Read, February 2023) - group",
    "url": "https://www.nme.com/big-reads/newjeans-cover-interview-2023-omg-ditto-3387710",
-   "record": null,
+   "record": "magazine-2023-01-27-nme-the-big-read-cover",
    "exclude": null,
    "note": "英国。デジタルカバー＋インタビュー"
   },
@@ -99,7 +99,7 @@
    "date": "2023-02-16",
    "title": "Vogue (US) March 2023 issue pictorial - group",
    "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
-   "record": null,
+   "record": "magazine-2023-02-15-vogue-us-2023-03-seoul-portfolio",
    "exclude": null,
    "note": "namu「韓国女性アイドル初の米国Vogue掲載」、ja.wikipedia雑誌表（VOGUE 3月号、アメリカ）"
   },
@@ -108,7 +108,7 @@
    "date": "2023-03-01",
    "title": "W Korea March 2023 digital cover - Hanni (with Gucci, Milan FW23)",
    "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
-   "record": null,
+   "record": "magazine-2023-03-01-w-korea-hanni-gucci-show-debut",
    "exclude": null,
    "note": "ハニ個人ページの画報表"
   },
@@ -126,7 +126,7 @@
    "date": "2023-03-24",
    "title": "Vogue Korea April 2023 pictorial - Hyein (Louis Vuitton FW23 in Paris)",
    "url": "https://www.vogue.co.kr/2023/03/24/%eb%89%b4%ec%a7%84%ec%8a%a4-%ed%98%9c%ec%9d%b8-%ed%8c%8c%eb%a6%ac%ec%97%90%ec%84%9c-%eb%b9%9b%eb%82%98%eb%8b%a4/",
-   "record": null,
+   "record": "magazine-2023-03-24-vogue-korea-hyein-paris-louis-vuitton",
    "exclude": null,
    "note": "掲載（カバーではない）"
   },
@@ -144,7 +144,7 @@
    "date": "2023-04-24",
    "title": "Vogue Korea May 2023 digital cover - Haerin (with Dior; first solo pictorial)",
    "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
-   "record": null,
+   "record": "magazine-2023-04-24-vogue-korea-haerin-digital-cover-dior",
    "exclude": null
   },
   {
@@ -170,7 +170,7 @@
    "date": "2023-05-17",
    "title": "W Magazine (US) feature and interview - group",
    "url": "https://www.wmagazine.com/culture/newjeans-kpop-minji-hanni-haerin-hyein-danielle-interview",
-   "record": null,
+   "record": "magazine-2023-05-17-w-magazine-us-feature",
    "exclude": null,
    "note": "namu表「5월호」インタビュー"
   },
@@ -188,7 +188,7 @@
    "date": "2023-06-05",
    "title": "Elle Korea June 2023 pictorial - Hyein (Louis Vuitton show behind)",
    "url": "https://www.elle.co.kr/article/78118",
-   "record": null,
+   "record": "magazine-2023-06-05-elle-korea-hyein-louis-vuitton-seoul-show",
    "exclude": null,
    "note": "掲載"
   },
@@ -205,7 +205,7 @@
    "date": "2023-06-15",
    "title": "W Korea Vol.7 (July 2023) pictorial - Danielle (with Omega)",
    "url": "https://www.wkorea.com/2023/06/19/%eb%89%b4%ec%a7%84%ec%8a%a4-%eb%8b%a4%eb%8b%88%ec%97%98%ea%b3%bc-%ec%98%a4%eb%a9%94%ea%b0%80%ea%b0%80-%ea%b7%b8%eb%a6%ac%eb%8a%94-%eb%b9%9b%ec%9d%98-%ec%84%b8%ea%b3%84/",
-   "record": "magazine-2023-06-22-w-korea-2023-07-danielle-omega",
+   "record": "magazine-2023-06-19-w-korea-2023-07-danielle-omega",
    "exclude": null,
    "note": "W Korea先行公開06-15、本編06-19 | existing record date differs: record 2023-06-22 vs source 2023-06-15"
   },
@@ -250,7 +250,7 @@
    "date": "2023-07-10",
    "title": "Cosmopolitan Korea August 2023 pictorial - Haerin (with Dior Beauty)",
    "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
-   "record": null,
+   "record": "magazine-2023-07-10-cosmopolitan-korea-haerin-dior-beauty",
    "exclude": null,
    "note": "ヘリン個人ページの画報表（初出投稿2023-07-11）"
   },
@@ -259,7 +259,7 @@
    "date": "2023-08-01",
    "title": "HIGHSNOBIETY JAPAN Issue 11 'NewJeans' - group",
    "url": "https://ja.wikipedia.org/wiki/NewJeans",
-   "record": null,
+   "record": "magazine-2023-08-01-highsnobiety-japan-issue11",
    "exclude": null,
    "note": "ja.wikipedia雑誌表"
   },
@@ -285,7 +285,7 @@
    "date": "2023-09-08",
    "title": "Harper's Bazaar Korea September 2023 digital cover - Hanni (with Armani Beauty)",
    "url": "https://www.harpersbazaar.co.kr/article/80580",
-   "record": "magazine-2023-09-13-harpers-bazaar-korea-hanni-armani",
+   "record": "magazine-2023-09-10-harpers-bazaar-korea-hanni-armani",
    "exclude": null,
    "note": "ハニ個人ページの初出投稿は09-08 | existing record date differs: record 2023-09-13 vs source 2023-09-08"
   },
@@ -302,7 +302,7 @@
    "date": "2023-09-22",
    "title": "Marie Claire Korea October 2023 pictorial 'Dream a Dream' - group (with Moose Knuckles)",
    "url": "https://www.marieclairekorea.com/fashion/2023/09/dream-a-dream/",
-   "record": null,
+   "record": "magazine-2023-09-22-marie-claire-korea-2023-10-moose-knuckles",
    "exclude": null
   },
   {
@@ -328,7 +328,7 @@
    "date": "2023-10-30",
    "title": "Flaunt Issue 189 'The Besties Issue' cover - group",
    "url": "https://www.flaunt.com/post/newjeans-the-besties-issue",
-   "record": null,
+   "record": "magazine-2023-10-26-flaunt-issue-189-besties",
    "exclude": null,
    "note": "米国"
   },
@@ -337,7 +337,7 @@
    "date": "2023-11-07",
    "title": "Esquire Korea November 2023 digital cover (E Issue) - Minji (with Moncler)",
    "url": "https://v.daum.net/v/20231108183250899",
-   "record": "magazine-2023-11-08-esquire-korea-minji-moncler",
+   "record": "magazine-2023-11-07-esquire-korea-minji-moncler",
    "exclude": null,
    "note": "existing record date differs: record 2023-11-08 vs source 2023-11-07"
   },
@@ -355,7 +355,7 @@
    "date": "2023-11-17",
    "title": "W Korea December 2023 pictorial - Haerin (Dior Seongsu concept store)",
    "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
-   "record": null,
+   "record": "magazine-2023-11-17-w-korea-haerin-dior-seongsu",
    "exclude": null,
    "note": "ヘリン個人ページの画報表（掲載）"
   },
@@ -373,7 +373,7 @@
    "date": "2023-11-30",
    "title": "Marie Claire Korea December 2023 digital cover - Minji (with Chanel Beauty)",
    "url": "https://www.marieclairekorea.com/beauty/2023/12/marie-claire-digital-edition1-newjeans-minji/",
-   "record": "magazine-2023-12-01-marie-claire-korea-2023-12-minji-chanel-beauty",
+   "record": "magazine-2023-11-30-marie-claire-korea-2023-12-minji-chanel-beauty",
    "exclude": null,
    "note": "ミンジ個人ページの初出は12-01 | existing record date differs: record 2023-12-01 vs source 2023-11-30"
   },
@@ -443,7 +443,7 @@
    "date": "2024-02-29",
    "title": "Marie Claire Korea March 2024 digital cover - Hanni (Chaumet Joséphine)",
    "url": "https://www.marieclairekorea.com/?p=339269",
-   "record": "magazine-2024-03-04-marie-claire-korea-2024-03-hanni-chaumet",
+   "record": "magazine-2024-02-29-marie-claire-korea-2024-03-hanni-chaumet",
    "exclude": null,
    "note": "ムービングカバー公開02-29、画報03-04 | existing record date differs: record 2024-03-04 vs source 2024-02-29"
   },
@@ -478,7 +478,7 @@
    "date": "2024-03-29",
    "title": "Elle Korea digital cover (D Edition) - Minji (N°1 DE CHANEL red camellia)",
    "url": "https://www.elle.co.kr/article/85043",
-   "record": "magazine-2024-05-01-elle-korea-2024-05-d-edition-minji",
+   "record": "magazine-2024-03-27-elle-korea-2024-05-d-edition-minji",
    "exclude": null,
    "note": "namu・ミンジ個人ページは「2024年3月デジタルカバー」・03-29。既存レコードは5月号D Edition | existing record is month-precision (2024-05-01); source gives 2024-03-29"
   },
@@ -487,7 +487,7 @@
    "date": "2024-04-01",
    "title": "W Korea April 2024 digital cover - Danielle (with Celine)",
    "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
-   "record": null,
+   "record": "magazine-2024-04-01-w-korea-danielle-celine-digital-cover",
    "exclude": null
   },
   {
@@ -546,7 +546,7 @@
    "date": "2024-09-10",
    "title": "Harper's Bazaar Korea September 2024 digital cover - Minji (Chanel fine jewelry)",
    "url": "https://www.harpersbazaar.co.kr/article/1870618",
-   "record": "magazine-2024-09-13-harpers-bazaar-korea-2024-09-minji",
+   "record": "magazine-2024-09-11-harpers-bazaar-korea-2024-09-minji",
    "exclude": null,
    "note": "existing record date differs: record 2024-09-13 vs source 2024-09-10"
   },
@@ -614,7 +614,7 @@
    "date": "2024-10-17",
    "title": "'Volume 12' pictorial - group (with Kiko Kostadinov; magazine name not resolved)",
    "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
-   "record": null,
+   "record": "magazine-2024-10-17-hommegirls-volume-12",
    "exclude": null,
    "note": "namu表の誌名欄が表示されず未特定（Instagram投稿のみ）。要確認"
   },
@@ -632,7 +632,7 @@
    "date": "2024-10-23",
    "title": "W Korea November 2024 pictorial 'Hyein's Wonderland' - Hyein (Louis Vuitton SS25, Paris)",
    "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
-   "record": null,
+   "record": "magazine-2024-10-23-w-korea-hyeins-wonderland",
    "exclude": null,
    "note": "ヘイン個人ページの画報表（掲載）"
   },
@@ -650,7 +650,7 @@
    "date": "2024-11-04",
    "title": "Vogue Korea November 2024 digital cover - group (with Nike)",
    "url": "https://www.vogue.co.kr/?p=549557",
-   "record": null,
+   "record": "magazine-2024-11-04-vogue-korea-nike",
    "exclude": null
   },
   {
@@ -720,7 +720,7 @@
    "date": "2025-01-06",
    "title": "January 2025 pictorial - Haerin (Dior Toujours Vertical bag; magazine name not resolved)",
    "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
-   "record": null,
+   "record": "magazine-2025-01-06-vogue-korea-haerin-dior-toujours",
    "exclude": null,
    "note": "namu表「1월호 수록」、誌名欄が表示されず未特定。要確認"
   },
@@ -729,7 +729,7 @@
    "date": "2025-02-03",
    "title": "Vogue Korea February 2025 digital cover - Haerin (Dior Addict Lip Glow)",
    "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
-   "record": null,
+   "record": "magazine-2025-02-03-vogue-korea-haerin-dior-beauty-digital-cover",
    "exclude": null,
    "note": "ヘリン個人ページの画報表"
   },

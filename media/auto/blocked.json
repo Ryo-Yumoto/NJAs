@@ -3,11 +3,29 @@
   "3acbeb09be8833021703e3a0e8406b5f",
   "79b7cd95b225b7fe3bc42c725824c9d4",
   "c822fb04fa558a5ded5b3d1843ecf64f",
-  "591440c9cb0c503e9369cba4f2af2deb"
+  "591440c9cb0c503e9369cba4f2af2deb",
+  "2e8d95c8ad89d0d84269502ad1b5abf0",
+  "dc0d579554648c1ad78eb2366953da1e",
+  "477c1da062708d2b7bef0877d0384ca7"
  ],
  "ids": [
   "ad-2022-10-28-hanni-gucci-ambassador",
-  "record-2025-12-01-forbes-korea-k-idol-of-the-year-2025"
+  "record-2025-12-01-forbes-korea-k-idol-of-the-year-2025",
+  "record-2023-09-01-mtv-vma-2023-group-of-the-year-nomination",
+  "record-2023-10-04-mtv-ema-2023-best-group-nomination",
+  "record-2023-10-04-mtv-ema-2023-best-k-pop-nomination",
+  "record-2023-10-10-tma-2023-artist-of-the-year-bonsang",
+  "record-2023-10-10-tma-2023-best-music-fall-super-shy-nomination",
+  "record-2023-10-10-tma-2023-best-music-spring-omg-nomination",
+  "record-2023-10-10-tma-2023-listeners-choice",
+  "record-2023-10-26-bbma-2023-top-billboard-global-excl-us-artist-nomination",
+  "record-2023-10-26-bbma-2023-top-global-k-pop-song-ditto-nomination",
+  "record-2023-10-26-bbma-2023-top-global-k-pop-song-omg-nomination",
+  "record-2023-10-26-bbma-2023-top-k-pop-album-get-up-nomination",
+  "record-2024-01-11-clio-music-awards-2024-ditto-music-video-shortlist",
+  "record-2024-01-18-iheartradio-music-awards-2024-k-pop-song-of-the-year-super-shy-nomination",
+  "record-2024-08-30-mtv-vma-2024-group-of-the-year-nomination",
+  "record-2024-10-08-mtv-ema-2024-best-k-pop-nomination"
  ],
  "note": "hashes = md5 of saved JPEGs known to be generic (Weverse Shop artist image via X card, LINE FRIENDS SQUARE logo). ids = records whose only reachable image belongs to another record/date."
 }
