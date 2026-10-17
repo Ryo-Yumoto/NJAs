@@ -1,10 +1,13 @@
 {
  "hashes": [
   "3acbeb09be8833021703e3a0e8406b5f",
-  "79b7cd95b225b7fe3bc42c725824c9d4"
+  "79b7cd95b225b7fe3bc42c725824c9d4",
+  "c822fb04fa558a5ded5b3d1843ecf64f",
+  "591440c9cb0c503e9369cba4f2af2deb"
  ],
  "ids": [
-  "ad-2022-10-28-hanni-gucci-ambassador"
+  "ad-2022-10-28-hanni-gucci-ambassador",
+  "record-2025-12-01-forbes-korea-k-idol-of-the-year-2025"
  ],
  "note": "hashes = md5 of saved JPEGs known to be generic (Weverse Shop artist image via X card, LINE FRIENDS SQUARE logo). ids = records whose only reachable image belongs to another record/date."
 }
