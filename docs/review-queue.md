@@ -23,4 +23,3 @@
 | 2026-10-17 | ad-2023-08-14-haerin-dior-rose-des-vents-campaign | Diorの投稿は2023-07-10の可能性（台帳 dior-2023-07-10）。日付が遅い可能性 | 未確認 |
 | 2026-10-17 | 未確認で未収録 2件（Armani Beauty Lip Maestro Satin 2023-05、Calvin Klein モデル起用 2024-02-20） | 公式動画削除・情報なし | 保留 |
 | 2026-10-17 | ノミネート記録のうち式典日付のもの30件（TMA、AAA、APMA、Hanteo、CCMA 2022、KGMA等） | 発表日が特定できず式典日付。公式一覧が取得できれば発表日に変更 | 保留 |
-| 2026-10-17 | record-2023-12-30-japan-record-awards-65-excellent-work-ditto / record-2024-12-30-japan-record-awards-66-excellent-work-supernatural | 優秀作品賞の選出発表は11月（ノミネート記録 2023-11-22 / 2024-11-21 と重複気味）。式典日付のままにするか整理 | 未決 |

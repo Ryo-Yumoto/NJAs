@@ -4,7 +4,7 @@
 
 ## 現在の構成（2026-10-16）
 
-- Worker名：`nja`、URL：`https://nja.<account-subdomain>.workers.dev`
+- Worker名：`nja`、URL：`https://nja.<account-subdomain>.workers.dev`（Worker名・URLは`nja`のまま。サイト表示名は「NJAs」。2026-10-19に旧Worker`njas`は削除することに決定。削除はダッシュボードで本人が行う）
 - 連携ブランチ：`claude/initial-site`（pushごとに自動デプロイ。Deploy command は `npx wrangler deploy`）
 - 設定：`wrangler.jsonc`（`assets.directory = ./`）、`.assetsignore`（.git、build、scripts、tools、docs などを配信対象から除外）
 - 認証：Workers & Pages → nja → Access タブで Cloudflare Access を有効化し、自分のメールアドレスのみ許可（One-time PIN）
