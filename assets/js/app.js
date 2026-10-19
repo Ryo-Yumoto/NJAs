@@ -632,13 +632,15 @@
   }
 
   initLang(); initTheme(); initTextSize(); wire();
-  const startBtn = $("#start-btn"); startBtn.classList.add("loading"); startBtn.setAttribute("aria-busy", "true");
+  // while the data loads, the start button says so in its own words (and cannot be pressed); the normal label returns when ready
+  const startBtn = $("#start-btn"), startLabel = startBtn.innerHTML;
+  startBtn.classList.add("loading"); startBtn.setAttribute("aria-busy", "true"); startBtn.disabled = true; startBtn.textContent = "読み込み中…";
   // cover label: span and size of the archive, computed from the data so it stays current
   const coverSpan = () => {
     const ds = state.items.map(i => i.date).sort(); if (!ds.length) return;
     const ym = d => `${d.slice(0, 4)}.${d.slice(5, 7)}`;
     $("#cover-span").textContent = `${ym(ds[0])} — ${ym(ds[ds.length - 1])} · ${state.items.length.toLocaleString("en-US")} RECORDS`;
   };
-  state.ready = load().then(() => { startBtn.classList.remove("loading"); startBtn.removeAttribute("aria-busy"); coverSpan(); });
+  state.ready = load().then(() => { startBtn.classList.remove("loading"); startBtn.removeAttribute("aria-busy"); startBtn.disabled = false; startBtn.innerHTML = startLabel; coverSpan(); });
   state.ready.then(route).catch(err => { $("#cover .lede").textContent = "Failed to load data: " + err.message; });
 })();
