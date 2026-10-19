@@ -633,6 +633,12 @@
 
   initLang(); initTheme(); initTextSize(); wire();
   const startBtn = $("#start-btn"); startBtn.classList.add("loading"); startBtn.setAttribute("aria-busy", "true");
-  state.ready = load().then(() => { startBtn.classList.remove("loading"); startBtn.removeAttribute("aria-busy"); });
+  // cover label: span and size of the archive, computed from the data so it stays current
+  const coverSpan = () => {
+    const ds = state.items.map(i => i.date).sort(); if (!ds.length) return;
+    const ym = d => `${d.slice(0, 4)}.${d.slice(5, 7)}`;
+    $("#cover-span").textContent = `${ym(ds[0])} — ${ym(ds[ds.length - 1])} · ${state.items.length.toLocaleString("en-US")} RECORDS`;
+  };
+  state.ready = load().then(() => { startBtn.classList.remove("loading"); startBtn.removeAttribute("aria-busy"); coverSpan(); });
   state.ready.then(route).catch(err => { $("#cover .lede").textContent = "Failed to load data: " + err.message; });
 })();
