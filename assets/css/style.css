@@ -112,6 +112,7 @@ body:not(.reading) .bar-brand { opacity: 0; pointer-events: none; }
 .catch { margin: 48px 0 0; font-family: var(--f-jp-serif); font-weight: 500; font-size: clamp(21px, 3vw, 30px); line-height: 1.8; letter-spacing: .06em; color: var(--ink); }
 .lede { max-width: 600px; margin: 14px 0 36px; font-family: var(--f-jp-serif); font-size: 15px; line-height: 2.1; letter-spacing: .04em; color: var(--ink-2); }
 @media (max-width: 480px) { .lede br { display: none; } }
+.lede-line { display: block; }
 .lede-lead { display: block; color: var(--ink); margin-bottom: 2px; }
 .lede-en { display: block; font-family: var(--f-display); font-style: italic; font-size: 17px; color: var(--ink-3); margin-top: 8px; letter-spacing: 0; }
 .cover-actions { display: flex; flex-wrap: wrap; gap: 10px; }
