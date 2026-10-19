@@ -52,10 +52,17 @@
     <div class="toc-head">
       <span class="toc-title">目次 <span class="mono dim">CONTENTS</span></span>
       <span class="toc-head-tools">
-        <button class="bar-btn mono" id="lang-btn" type="button" aria-label="表示言語切替">EN</button>
         <span class="fs-ctl" role="group" aria-label="本文の文字サイズ"><button class="theme-btn mono" id="fs-minus" type="button" aria-label="文字を小さく">−</button><span class="fs-val mono" id="fs-val">100%</span><button class="theme-btn mono" id="fs-plus" type="button" aria-label="文字を大きく">＋</button></span>
         <button class="theme-btn mono" id="theme-btn" type="button" aria-label="テーマ切替">◐</button>
         <button class="bar-btn mono" id="toc-close" type="button">CLOSE ✕</button>
+      </span>
+    </div>
+    <div class="toc-lang" role="group" aria-label="表示言語 / Language">
+      <span class="toc-lang-label mono">言語 LANGUAGE</span>
+      <span class="seg" id="lang-seg">
+        <button type="button" data-lang="ja" aria-pressed="false">日本語</button>
+        <button type="button" data-lang="en" aria-pressed="false">English</button>
+        <button type="button" data-lang="both" aria-pressed="false">併記 JA+EN</button>
       </span>
     </div>
     <div class="toc-search">

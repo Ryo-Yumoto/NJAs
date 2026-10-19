@@ -43,12 +43,14 @@
 
   /* ---------- theme ---------- */
   function initLang() {
-    const saved = store.get("njas-lang"); if (saved === "en") state.lang = "en";
-    const b = $("#lang-btn"); b.textContent = state.lang === "ja" ? "EN" : "JA";
-    document.documentElement.setAttribute("data-lang", state.lang);
-    b.addEventListener("click", () => {
-      state.lang = state.lang === "ja" ? "en" : "ja"; store.set("njas-lang", state.lang);
-      b.textContent = state.lang === "ja" ? "EN" : "JA"; document.documentElement.setAttribute("data-lang", state.lang);
+    // three modes: "ja", "en", "both" (Japanese with the English text under it, for study). UI labels follow Japanese unless "en".
+    const saved = store.get("njas-lang"); if (saved === "en" || saved === "both") state.lang = saved;
+    const seg = $("#lang-seg");
+    const paint = () => { document.documentElement.setAttribute("data-lang", state.lang); seg.querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.lang === state.lang))); };
+    paint();
+    seg.addEventListener("click", e => {
+      const b = e.target.closest("button[data-lang]"); if (!b || b.dataset.lang === state.lang) return;
+      state.lang = b.dataset.lang; store.set("njas-lang", state.lang); paint();
       buildMemberChips(); if (state.mode === "page") renderPage(); if (!$("#toc").hidden) renderToc();
     });
   }
@@ -229,15 +231,18 @@
     if (it.entity === "njz") { const e = $(".entity", node); e.hidden = false; e.textContent = "NJZ"; }
     if (it.members && it.members.length && !(it.members.length === 1 && it.members[0] === "all")) { const m = $(".members", node); m.hidden = false; m.textContent = it.members.map(x => MEMBERS[x] || x).join(" · "); }
     if (!it.verified && state.showMeta) $(".unverified", node).hidden = false;
-    const ja = state.lang === "ja";
-    $(".t-ja", node).textContent = L(it.title); $(".t-en", node).remove();
+    const ja = state.lang !== "en";
+    const both = state.lang === "both";
+    $(".t-ja", node).textContent = L(it.title);
+    if (both && it.title.en && it.title.en !== it.title.ja) $(".t-en", node).textContent = it.title.en; else $(".t-en", node).remove();
     if (it.title.original && it.title.original !== it.title.ja && it.title.original !== it.title.en) { const o = $(".t-orig", node); o.hidden = false; o.textContent = it.title.original; }
-    if (L(it.summary)) { $(".desc", node).hidden = false; $(".s-ja", node).textContent = L(it.summary); $(".s-en", node).remove(); }
+    if (L(it.summary)) { $(".desc", node).hidden = false; $(".s-ja", node).textContent = L(it.summary); if (both && it.summary.en) $(".s-en", node).textContent = it.summary.en; else $(".s-en", node).remove(); }
     else { $(".s-ja", node).remove(); $(".s-en", node).remove(); }
     if (it.note) { const n = $(".note", node); n.hidden = false; n.textContent = it.note; $(".desc", node).hidden = false; $(".desc", node).appendChild(n); }
     if (L(it.detail)) {
       const d = el("div", { class: "detail" });
       d.appendChild(el("p", { class: "d-ja" }, L(it.detail)));
+      if (both && it.detail.en) d.appendChild(el("p", { class: "d-en", lang: "en" }, it.detail.en));
       $(".desc", node).hidden = false; $(".desc", node).after(d);
     }
     if (it.credits && Object.keys(it.credits).length) {
@@ -264,7 +269,7 @@
           // player is created only on tap (one thumbnail per video until then); rel=0 limits end-screen suggestions to this channel
           const box = $(".media", node); box.hidden = false; box.innerHTML = "";
           box.appendChild(el("iframe", { src: `https://www.youtube-nocookie.com/embed/${it.media.ref}?autoplay=1&rel=0&playsinline=1&modestbranding=1`, allow: "autoplay; encrypted-media; picture-in-picture", allowfullscreen: "", title: it.title.en }));
-          box.after(el("p", { class: "media-foot mono" }, el("a", { href: `https://www.youtube.com/watch?v=${it.media.ref}`, target: "_blank", rel: "noopener" }, state.lang === "ja" ? "YouTubeで開く ↗" : "Open on YouTube ↗"), el("span", { class: "dim" }, state.lang === "ja" ? "　再生できない動画は埋め込みが許可されていません" : "  Videos that do not play here have embedding disabled")));
+          box.after(el("p", { class: "media-foot mono" }, el("a", { href: `https://www.youtube.com/watch?v=${it.media.ref}`, target: "_blank", rel: "noopener" }, state.lang !== "en" ? "YouTubeで開く ↗" : "Open on YouTube ↗"), el("span", { class: "dim" }, state.lang !== "en" ? "　再生できない動画は埋め込みが許可されていません" : "  Videos that do not play here have embedding disabled")));
           fig.hidden = true;
         });
       } else if (isYt) {
@@ -312,8 +317,8 @@
       }
     }
     const links = $(".links", node);
-    if (isYt) links.appendChild(el("a", { href: `https://www.youtube.com/watch?v=${it.media.ref}`, target: "_blank", rel: "noopener" }, state.lang === "ja" ? "YouTubeで開く" : "open on YouTube"));
-    if (it.media && it.media.type === "x" && it.media.ref) { const gone = !xpost && state.xposts[xStatusId(it.media.ref)]?.unavailable; links.appendChild(el("a", { href: it.media.ref, target: "_blank", rel: "noopener", class: gone ? "gone" : "" }, gone ? (state.lang === "ja" ? "元の投稿（削除済み）" : "original post (removed)") : (state.lang === "ja" ? "Xで開く" : "open on X"))); }
+    if (isYt) links.appendChild(el("a", { href: `https://www.youtube.com/watch?v=${it.media.ref}`, target: "_blank", rel: "noopener" }, state.lang !== "en" ? "YouTubeで開く" : "open on YouTube"));
+    if (it.media && it.media.type === "x" && it.media.ref) { const gone = !xpost && state.xposts[xStatusId(it.media.ref)]?.unavailable; links.appendChild(el("a", { href: it.media.ref, target: "_blank", rel: "noopener", class: gone ? "gone" : "" }, gone ? (state.lang !== "en" ? "元の投稿（削除済み）" : "original post (removed)") : (state.lang !== "en" ? "Xで開く" : "open on X"))); }
     links.appendChild(el("a", { href: it.source_url, target: "_blank", rel: "noopener" }, "source"));
     for (const [k, u] of Object.entries(it.links || {})) links.appendChild(el("a", { href: u, target: "_blank", rel: "noopener", class: "svc" }, k.replace("_", " ")));
     if (state.showMeta) (it.reference_urls || []).forEach((u, i) => links.appendChild(el("a", { href: u, target: "_blank", rel: "noopener" }, `ref ${i + 1}`)));
@@ -372,7 +377,7 @@
       if (post.quote.text) q.appendChild(xText(post.quote.text));
       card.appendChild(q);
     }
-    card.appendChild(el("footer", { class: "x-foot mono" }, el("span", {}, xTime(post.created_at)), el("a", { href: post.url, target: "_blank", rel: "noopener" }, state.lang === "ja" ? "Xで見る ↗" : "View on X ↗")));
+    card.appendChild(el("footer", { class: "x-foot mono" }, el("span", {}, xTime(post.created_at)), el("a", { href: post.url, target: "_blank", rel: "noopener" }, state.lang !== "en" ? "Xで見る ↗" : "View on X ↗")));
     return card;
   }
   function withSheet(src, cb) {
@@ -461,8 +466,8 @@
       b.addEventListener("click", () => { state.member = key; store.set("njas-member", key || ""); applyFilter(); });
       return b;
     };
-    box.appendChild(mk(null, state.lang === "ja" ? "全員" : "All"));
-    for (const [k, v] of Object.entries(MEMBERS)) if (k !== "all") box.appendChild(mk(k, state.lang === "ja" ? ({ minji: "ミンジ", hanni: "ハニ", danielle: "ダニエル", haerin: "ヘリン", hyein: "ヘイン" })[k] : v));
+    box.appendChild(mk(null, state.lang !== "en" ? "全員" : "All"));
+    for (const [k, v] of Object.entries(MEMBERS)) if (k !== "all") box.appendChild(mk(k, state.lang !== "en" ? ({ minji: "ミンジ", hanni: "ハニ", danielle: "ダニエル", haerin: "ヘリン", hyein: "ヘイン" })[k] : v));
   }
   function applyFilter() {
     const key = state.pages[state.cur]?.key || state.lastKey;
@@ -548,7 +553,7 @@
     }
     if (!any) body.appendChild(el("p", { class: "toc-empty" }, "この月に該当する項目はありません"));
   }
-  function dateLabel(p) { return p.precision === "day" ? `${p.date.slice(5, 7)}.${p.date.slice(8, 10)}` : p.precision === "month" ? (state.lang === "ja" ? "月内" : "month") : (state.lang === "ja" ? "年内" : "year"); }
+  function dateLabel(p) { return p.precision === "day" ? `${p.date.slice(5, 7)}.${p.date.slice(8, 10)}` : p.precision === "month" ? (state.lang !== "en" ? "月内" : "month") : (state.lang !== "en" ? "年内" : "year"); }
   function itemRow(p, i, it) {
     const row = el("button", { class: "toc-item" + (isRead(p) ? " read" : ""), type: "button" });
     const dot = el("i", { class: "dot" }); dot.style.background = CATS[it.category]?.color || "var(--rule)";

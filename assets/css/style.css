@@ -305,7 +305,7 @@ canvas.era-img { max-height: 70vh; max-height: 70dvh; width: auto; max-width: 10
 .toc-cats .chip[aria-pressed="true"] { color: var(--ink); }
 .toc-cats .chip[aria-pressed="true"] .sw { opacity: 1; }
 .toc-members { margin-top: 6px; padding-top: 8px; border-top: 1px dashed var(--rule); }
-.chip-member[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.toc-cats .chip-member[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
 .toc-cat-tools { width: 100%; display: flex; gap: 10px; margin-top: 2px; }
 .toc-cats .chip-all { color: var(--ink-2); border: 1px solid var(--rule); padding: 4px 10px; }
 .toc-nav { display: flex; justify-content: space-between; align-items: center; gap: 8px; padding: 8px 16px; border-bottom: 1px solid var(--rule); min-height: 20px; flex-wrap: wrap; }
@@ -394,3 +394,18 @@ canvas.era-img { max-height: 70vh; max-height: 70dvh; width: auto; max-width: 10
   .index-row .dim { display: none; }
 }
 @media (prefers-reduced-motion: reduce) { .page { animation: none; } }
+
+/* language row in the menu */
+.toc-lang { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 10px 16px; border-bottom: 1px solid var(--rule); flex-wrap: wrap; }
+.toc-lang-label { font-size: 10.5px; color: var(--ink-3); letter-spacing: .08em; }
+.seg { display: inline-flex; border: 1px solid var(--ink); border-radius: 999px; overflow: hidden; }
+.seg button { background: none; border: 0; color: var(--ink); font-family: var(--f-jp); font-size: 12.5px; padding: 6px 12px; cursor: pointer; white-space: nowrap; }
+.seg button + button { border-left: 1px solid var(--ink); }
+.seg button[aria-pressed="true"] { background: var(--ink); color: var(--paper); font-weight: 700; }
+.seg button:focus-visible { outline: 2px solid var(--denim); outline-offset: -2px; }
+
+/* bilingual (study) mode: English sits directly under each Japanese block */
+:root[data-lang="both"] .t-en { font-family: var(--f-ui); font-size: calc(16px * var(--txt, 1)); font-weight: 600; color: var(--ink-2); margin-top: 6px; }
+:root[data-lang="both"] .s-en { font-size: calc(14px * var(--txt, 1)); color: var(--ink-2); margin-top: 4px; }
+.d-en { margin: 6px 0 0; padding-left: 10px; border-left: 2px solid var(--rule); color: var(--ink-2); font-size: calc(14px * var(--txt, 1)); line-height: 1.6; }
+
