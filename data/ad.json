@@ -3678,6 +3678,55 @@
     }
   },
   {
+    "id": "ad-2024-09-02-pepero-day-2024-show-your-love-campaign",
+    "date": "2024-09-02",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ペペロのグローバルアンバサダーに再起用、ペペロデー2024キャンペーン「Show your love with Pepero」発表",
+      "en": "Reappointed Pepero global ambassadors; Pepero Day 2024 campaign 'Show your love with Pepero' announced",
+      "original": "빼빼로로 사랑을 나누세요"
+    },
+    "summary": {
+      "ja": "ロッテウェルフードが前年に続きNewJeansをペペロのグローバルアンバサダーに起用すると発表し、2024年キャンペーンのキービジュアルを公開した。",
+      "en": "Lotte Wellfood announced it had again named NewJeans Pepero's global ambassadors and released the key visual for its 2024 Pepero Day campaign."
+    },
+    "detail": {
+      "ja": "ロッテウェルフードは、前年に続きNewJeansとペペロデー（11月11日）の統合グローバルキャンペーンを行うと発表し、メンバーがそれぞれ別の味のペペロを紹介するキービジュアルを公開した。スローガンは「Show your love with Pepero（ペペロで愛を分かち合おう）」で、「分かち合い」というブランドの価値と、11月11日が韓国のペペロデーであることを打ち出した。対象国は前年の13か国から15か国に増え、シンガポール、フィリピン、メキシコなどで展開し、米国を中心に海外マーケティングを強める計画とされた。NewJeansが出演するデジタルコンテンツや、NewJeansの画像を使った限定パッケージも予告された。",
+      "en": "Lotte Wellfood announced it would again run its integrated global Pepero Day (November 11) campaign with NewJeans and released a key visual showing each member introducing a different Pepero flavour. The slogan was 'Show your love with Pepero', stressing sharing as the brand's core value and November 11 as Korea's Pepero Day. The campaign was to expand from 13 countries the previous year to 15, including Singapore, the Philippines and Mexico, with a stronger push centred on the US. Digital content featuring NewJeans and limited-edition packages using their images were also announced."
+    },
+    "credits": {
+      "advertiser": "Lotte Wellfood",
+      "brand": "Pepero"
+    },
+    "source_url": "https://www.kukinews.com/article/view/kuk202409020012",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "pepero",
+      "lotte-wellfood",
+      "food",
+      "ambassador"
+    ],
+    "verified": true,
+    "editor_note": "NewDaily (2024-09-27); Lotte Wellfood press release not fetched. Related content record: content-2024-10-15-light-jeans-pepero-behind. / 2026-10-19: redated from 2024-09-27. The announcement (reappointment, key visual, slogan, 13→15 countries) was released by Lotte Wellfood on 2024-09-02 and carried the same day by Kuki News (approved 14:15 KST), Chosunbiz, Business Post and others (Google News). The 2024-09-27 NewDaily piece is a feature on Pepero's overseas sales that restates the 9/2 announcement; no separate event that day, so no 9/27 record.",
+    "time": "14:15",
+    "image": {
+      "url": "https://www.kukinews.com/data/kuk/image/2024/09/02/kuk20240902000013.600x.0.jpg",
+      "source_url": "https://www.kukinews.com/article/view/kuk202409020012"
+    },
+    "reference_urls": [
+      "https://biz.newdaily.co.kr/site/data/html/2024/09/11/2024091100056.amp.html",
+      "https://biz.newdaily.co.kr/site/data/html/2024/09/27/2024092700068.amp.html"
+    ]
+  },
+  {
     "id": "ad-2024-09-23-shinhan-securities-cm",
     "date": "2024-09-23",
     "date_type": "release",
@@ -3758,46 +3807,6 @@
       "brand": "Calvin Klein",
       "photographer": "Gordon von Steiner"
     }
-  },
-  {
-    "id": "ad-2024-09-27-pepero-day-2024-show-your-love-campaign",
-    "date": "2024-09-27",
-    "date_type": "announce",
-    "date_precision": "day",
-    "category": "ad",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "ペペロデー2024 グローバルキャンペーン「Show your love with Pepero」",
-      "en": "Pepero Day 2024 global campaign 'Show your love with Pepero'",
-      "original": "빼빼로로 사랑을 나누세요"
-    },
-    "summary": {
-      "ja": "ロッテウェルフードがNewJeansを再びペペロのグローバルアンバサダーに起用し、2024年の統合キャンペーンを始めた。",
-      "en": "Lotte Wellfood reappointed NewJeans as Pepero's global ambassadors for its 2024 Pepero Day campaign."
-    },
-    "detail": {
-      "ja": "ロッテウェルフードは前年に続きNewJeansをペペロデーの統合グローバルキャンペーンのアンバサダーに起用し、スローガンを「Show your love with Pepero（ペペロで愛を分かち合おう）」とした。キャンペーンは「分かち合い」というペペロの中核的価値と、11月11日がペペロデーであることを打ち出す内容だった。前年はニューヨークのタイムズスクエアとロサンゼルスのコリアタウンでNewJeansのデジタル屋外広告を展開していた。",
-      "en": "Lotte Wellfood again named NewJeans ambassadors for its integrated global Pepero Day campaign, under the slogan 'Show your love with Pepero'. The campaign emphasised sharing as Pepero's core brand value and November 11 as Pepero Day. The previous year it had run digital outdoor ads featuring NewJeans in New York's Times Square and Los Angeles' Koreatown."
-    },
-    "credits": {
-      "advertiser": "Lotte Wellfood",
-      "brand": "Pepero"
-    },
-    "source_url": "https://biz.newdaily.co.kr/site/data/html/2024/09/27/2024092700068.amp.html",
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "pepero",
-      "lotte-wellfood",
-      "food",
-      "ambassador"
-    ],
-    "verified": false,
-    "editor_note": "NewDaily (2024-09-27); Lotte Wellfood press release not fetched. Related content record: content-2024-10-15-light-jeans-pepero-behind."
   },
   {
     "id": "ad-2024-10-24-danielle-ysl-ink-blur-tint-campaign",

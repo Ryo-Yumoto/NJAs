@@ -19,7 +19,6 @@
 
 | 2026-10-17 | magazine 7件（w-korea-seoul-jazz-festival-2023-minji→05-22候補、vogue-korea-hanni-gucci→09-26、allure-danielle→11-15、vogue-hong-kong-haerin→11-29、harpers-bazaar-minji 2024-01→01-03、harpers-bazaar-haerin 2024-05→05-02、esquire-danielle→10-11） | 出版社Instagram初出の候補日。Instagram読取が遮断され未確認。日付は維持 | 未確認 |
 | 2026-10-17 | ad-2023-11-14-lotte-itagum-japan-cm / ad-2022-10-13-megastudy-megapass-cm / ad-2022-09-30-skt-0-iphone-14-pro-cm | 日付は修正済みだがdetail本文に旧日付の記述が残る（Lotte「デビュー後に起用」、Megastudy「10月22日」、SKT「9月29日」）。本文修正 | 未対応 |
-| 2026-10-17 | ad-2024-09-27-pepero-day-2024-show-your-love-campaign | 再起用発表は2024-09-02（Kuki News）。別イベントとして分けるか日付変更か | 未決 |
 | 2026-10-17 | ad-2023-08-14-haerin-dior-rose-des-vents-campaign | Diorの投稿は2023-07-10の可能性（台帳 dior-2023-07-10）。日付が遅い可能性 | 未確認 |
 | 2026-10-17 | 未確認で未収録 2件（Armani Beauty Lip Maestro Satin 2023-05、Calvin Klein モデル起用 2024-02-20） | 公式動画削除・情報なし | 保留 |
 | 2026-10-17 | ノミネート記録のうち式典日付のもの30件（TMA、AAA、APMA、Hanteo、CCMA 2022、KGMA等） | 発表日が特定できず式典日付。公式一覧が取得できれば発表日に変更 | 保留 |
