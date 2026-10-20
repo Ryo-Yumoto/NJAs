@@ -70,6 +70,7 @@
     ],
     "verified": false,
     "note": "発表したのはシン・ヨンジェBig Hitレーベル副代表。BTSとTOMORROW X TOGETHERを成功させた制作力とノウハウを集約したプロジェクトと説明した。",
+    "note_en": "The announcement was made by Shin Young-jae, Big Hit's label vice president, who described it as a project drawing on the production capability and know-how behind BTS and TOMORROW X TOGETHER.",
     "editor_note": "Money Today (2020-02-05 16:48) says the briefing was held on 02-04 at DDP with contents released on 02-05 (press embargo); Kukinews dates it 02-05. Dated by the event (02-04). Min Hee-jin is not named in these reports. / Removed source mention from reader text: contents reported by Money Today on February 5, 2020.",
     "detail": {
       "ja": "ソウルの東大門デザインプラザ（DDP）で開かれた「2020年上半期 共同体と共にするBig Hit会社説明会」で、パン・シヒョク代表とキム・ドンジュン事業総括が登壇した。Big Hitは2022年までに新人3組をデビューさせる計画として、CJ ENMとの合弁BELIFT LABの多国籍ボーイズグループ（2020年、2019年3〜7月に国内外17都市のオーディションで選抜）、「PLUS GLOBAL AUDITION」で選ぶSource Musicのガールズグループ（2021年）、Big Hit直属のボーイズグループ（2022年）を挙げた。2019年の連結売上5,879億ウォン（前年比95%増）と営業利益875億ウォンも公表し、2020年の方向性を「ファン体験の革新」として、Play Zoneの拡大やツアービレッジ、BTS関連のドラマや韓国語学習コンテンツ、ゲームなどの計画を示した。ミン・ヒジンの名前は出なかった。",
@@ -112,6 +113,7 @@
     ],
     "verified": false,
     "note": "同じ説明会ではI-LAND（BELIFT LAB）出身グループのデビューメンバー選抜も予告された。",
+    "note_en": "The same briefing also previewed the selection of debut members for the group from I-LAND (BELIFT LAB).",
     "editor_note": "Xports News 2020-08-13 13:56 KST: '민희진 빅히트 CBO, 쏘스뮤직과 함께 준비 중인 걸그룹도 내년 데뷔할 것'. The briefing video on the HYBE LABELS channel was not located (ID unknown).",
     "detail": {
       "ja": "オンラインで開かれ公式YouTubeチャンネルで配信された会社説明会。パン・シヒョク議長、ユン・ソクジュン グローバルCEO、イ・スンソクIP事業総括、キム・ドンジュン360事業総括、Weverseを運営するbeNXのソ・ウソク代表が登壇した。パン・シヒョク議長は、ミン・ヒジンCBOとSource Musicとともに準備中のガールズグループが翌年デビューすると述べ、BELIFT LABの「I-LAND」で結成するチームのデビューメンバーも間もなく決まるとした。BTSとTOMORROW X TOGETHERの年内カムバック、10月のオンライン・オフライン公演「BTS MAP OF THE SOUL ON:E」、2020年上半期の売上2,940億ウォンと営業利益497億ウォン、5月のPledis合流によるレーベル4社体制、Weverseの1周年も報告された。",
@@ -157,6 +159,7 @@
     ],
     "verified": false,
     "note": "合弁や買収ではなくHYBEが自ら設立した初の独自レーベル。ミン・ヒジンは「新レーベル設立を通じて音楽産業に再び変化をもたらす準備を終えた」とコメントした。",
+    "note_en": "HYBE's first label founded by HYBE itself rather than through a joint venture or acquisition. Min Hee-jin commented that she had 'finished preparing to bring change to the music industry again by founding a new label'.",
     "editor_note": "Replaces the month-precision record notice-2021-11-01-ador-established. Announcement date 2021-11-12 is consistent across Soompi, Kstyle (Newsen report distributed 09:23 KST), Korea JoongAng Daily (10:41) and NME. The corporate entity was created by a physical spin-off of the Source Music label business with a spin-off date of 2021-11-02 and 16.1bn won capital (Hankyung Business 2024; one report says 15.4bn). HYBE newsroom returns 403 and no official page was fetched, so verified=false. | note sentences already covered by detail: ADORは「All Doors One Room」の略。 / Removed source mentions from reader text: Newsen (09:23 KST), Korea JoongAng Daily (10:41), Soompi and NME reported the same day.",
     "detail": {
       "ja": "HYBEはマルチレーベル体制の下に独立レーベルADOR（All Doors One Room）を設立し、ミン・ヒジンCBOが代表に就任すると発表した。ADORは独自の哲学とスタイルで運営され、親会社が試みていない事業にも取り組むとされ、2019年のPLUS GLOBAL AUDITION出身者を中心とする新人ガールズグループを2022年にデビューさせ、ミン・ヒジンが制作全般を総括する。ミン・ヒジンは新レーベルを通じて音楽業界に再び変化を起こす準備が整ったと述べ、ADORの哲学を反映した新しいアーティストIPとコンテンツを示していくと表明した。",
@@ -232,6 +235,7 @@
     ],
     "verified": false,
     "note": "先行公開曲『Ditto』とタイトル曲『OMG』の2曲構成。ティーザー「NewJeans of Winter」は後日公開される。",
+    "note_en": "Two tracks: the pre-release 'Ditto' and the title track 'OMG'. The teaser 'NewJeans of Winter' is to be released later.",
     "editor_note": "Task brief mentioned a 'NewJeans of Winter' announcement on 2022-12-02; sources show the comeback date notice on 2022-11-10 and the first teasers on 2022-12-12 (the latter already in tweet.json). The 12-02 date could not be confirmed. | Original announcement channel not identified in the GQ Korea report. / Removed source mention from reader text: reported the same day by GQ Korea, with photos from ADOR.",
     "detail": {
       "ja": "ADORは、初のシングルアルバム『OMG』を2023年1月2日に発売し、12月19日に収録曲を先行公開すると発表した。デビューアルバム『New Jeans』の制作過程で書かれた曲と冬の情緒を持つ曲が収録されるとし、ミン・ヒジン代表は「デビューアルバムがNewJeansの夏を見せたとすれば、今回のシングルアルバムはNewJeansの冬を見せるアルバムになる」と述べた。",
@@ -268,6 +272,7 @@
     ],
     "verified": true,
     "note": "公式ペンライト（Binky Bong）は3月29日11時にデザイン公開、30日11時と18時の2回に分けて販売。",
+    "note_en": "The design of the official light stick (Binky Bong) was revealed on March 29 at 11:00, with sales in two rounds on the 30th at 11:00 and 18:00.",
     "editor_note": "Fetched the Weverse notice: membership opens Thu 2023-03-30 11:00 KST; light stick reveal 03-29 11:00, sales 03-30 11:00 and 18:00. Notice posting date not shown on the page. | No new sources fetched this pass; detail expands the existing Weverse-based note. / Removed provenance from reader text: the notice's posting date is not shown on the page.",
     "detail": {
       "ja": "グローバル公式ファンクラブ「Bunnies Membership」の加入受付が、Weverseの公式お知らせどおり3月30日（木）11時（KST）に始まった。公式ペンライト「ビンキボン」は3月29日11時に公開され、30日の11時と18時の2回に分けて販売すると案内されていた。",
@@ -308,6 +313,7 @@
     ],
     "verified": false,
     "note": "同じ告知で6月26・27日の東京ドームファンミーティング『Bunnies Camp 2024』も予告された（正式発表は翌27日）。",
+    "note_en": "The same notice also previewed the 'Bunnies Camp 2024' fan meeting at Tokyo Dome on June 26 and 27 (formally announced the next day, the 27th).",
     "editor_note": "Phoning notice itself is not publicly fetchable; date 03-26 per TF/Marie Claire reports. Tokyo Dome announcement post of 03-27 already exists in tweet.json. / Removed source mention from reader text: reported by The Fact on March 27, 2024.",
     "detail": {
       "ja": "ADORはファンアプリPhoningで、NewJeansが5月24日に韓国でダブルシングル（タイトル曲「How Sweet」と「Bubble Gum」、各インストを含む4トラック）を発売し、6月21日に日本でダブルシングル（タイトル曲「Supernatural」と「Right Now」）で正式デビューすると発表した。6月26日・27日に東京ドームで初のファンミーティング「Bunnies Camp 2024」を開くことも告知し、東京ドーム公演を2025年のワールドツアーに向けた土台と位置づけ、メンバーの練習時間の確保とコンディション管理を重視して質の高い公演を届けると説明した。",
@@ -349,6 +355,7 @@
     ],
     "verified": false,
     "note": "HYBEはADORの株式80%を保有する親会社。",
+    "note_en": "HYBE is ADOR's parent company, holding 80% of its shares.",
     "editor_note": "HYBE newsroom (hybecorp.com) returns 403, so a Newsis report is used. Audit letter reportedly delivered around 10:00 on the 22nd; the public announcement followed the same day. / Reported by Newsis (16:07 KST); HYBE newsroom (hybecorp.com) returns 403. Audit letter reportedly delivered around 10:00 on the 22nd; the public announcement followed the same day. ADOR had not issued a statement at the time of the Newsis article.",
     "detail": {
       "ja": "HYBEはADORのミン・ヒジン代表と副代表A氏に対する監査に着手した。監査チームは同日午前にADORのオフィスを訪れ、会社のIT資産を回収して対面で陳述を求めた。HYBEはADOR取締役会に臨時株主総会の招集を要請し、ミン代表に辞任を求める書簡を送った。A氏が投資家誘致のため機密契約を漏らした疑い、ミン代表らがHYBEにADOR株を売却させる方法を協議した疑いを挙げ、回収資産の内容次第で法的措置を取るとした。HYBEはADOR株の80%を保有し、ミン代表は前年にコールオプションを行使して18%（573,160株）を取得した第2位株主だった。",
@@ -426,6 +433,7 @@
     ],
     "verified": false,
     "note": "HYBEは同日夕方、会見内容の多くが事実と異なるとする公式立場を出した。",
+    "note_en": "That evening HYBE issued an official position saying much of what was said at the press conference was untrue.",
     "editor_note": "15:00 KST start confirmed by Dailian/Nocut reports. HYBE rebuttal at 18:31 (Daum).",
     "detail": {
       "ja": "ミン・ヒジン代表が法律代理人（法務法人セジョン）とともにソウル・瑞草区の韓国カンファレンスセンターで開いた約2時間の会見で、KBS、SBS、MBCや複数のYouTubeチャンネルが生中継した。ミン代表は経営権奪取を計画・意図・実行したことはないと述べ、副代表とのカカオトークのやり取りは業務上の愚痴だったと説明し、代理人はHYBEが80%、ミン側が20%を持つ構造で奪取は不可能だと主張した。HYBEがNewJeansを最初のガールズグループとしてデビューさせる約束を破りLE SSERAFIMを先に出したことを対立の発端に挙げ、パン・シヒョク議長やパク・ジウォン代表とのメッセージの一部を公開して、HYBEの主張は自分を追い出すために仕組まれたものだとし、「私がHYBEを裏切ったのではなく、HYBEが私を裏切った」と語った。HYBEは同日午前、中間監査結果として経営権奪取計画の具体的な事実と物証を確保したと発表していた。",
@@ -468,6 +476,7 @@
     ],
     "verified": false,
     "note": "裁判所は「解任事由が十分に疎明されていない」としつつ、ミン代表が独立支配の方法を模索したことは「明らか」と付言した。",
+    "note_en": "The court said the grounds for dismissal had not been sufficiently shown, while adding that it was 'clear' CEO Min had explored ways to gain independent control.",
     "editor_note": "Date and bench consistent across SBS Biz, Dealsite, Nocut. Court press release not retrievable (scourt.go.kr connection reset). | Court press release not retrievable; details per SBS Biz. Case number not given in the coverage. / Date and bench consistent across SBS Biz, Dealsite and Nocut; details per SBS Biz. Court press release not retrievable (scourt.go.kr connection reset); case number not given in coverage. Cut for length: Min's side argued the shareholders' agreement guaranteed a five-year term, HYBE that its clause allowed a resignation demand for damage of 1 billion won or more or acts such as embezzlement.",
     "detail": {
       "ja": "ソウル中央地裁民事合議50部（キム・サンフン首席部長判事）は、ミン・ヒジン代表が申請した議決権行使禁止の仮処分を認め、翌31日のADOR臨時株主総会でHYBEがミン代表の解任案に賛成の議決権を行使することを禁じ、違反した場合は200億ウォンを支払うよう命じた。裁判所は、解任・辞任事由の疎明責任を負うHYBEの疎明が十分でなく、その存否は本案で判断すべきで、総会が差し迫っている以上、取締役の地位を失えば後の金銭賠償では回復できないとした。一方、ミン代表がNewJeansをHYBEから切り離す方法やHYBEにADOR株を売らせる方法を模索したことは明らかだが具体的な実行には至っておらず、「背信的行為」ではあってもADORに対する背任には当たらないと判断した。",
@@ -550,6 +559,7 @@
     ],
     "verified": false,
     "note": "ミン・ヒジン側は「一方的な解任」で仮処分決定と株主間契約に反すると反発した。",
+    "note_en": "Min Hee-jin's side objected that it was a 'unilateral dismissal' contrary to the injunction ruling and the shareholders' agreement.",
     "editor_note": "Board meeting at 13:00 per Min's side statement (Nocut). ADOR: 'separating management from production serves ADOR's interests'. / Board meeting at 13:00 and the 08-24 notice per Min's side statement (Nocut); ADOR quote 'separating management from production serves ADOR's interests'. Primary report YTN.",
     "detail": {
       "ja": "ADORの取締役会が、社内取締役でHYBEの最高人事責任者（CHRO）のキム・ジュヨンを新代表に選んだ。HYBEは8月24日に「代表理事変更の件」を議題とする27日の取締役会を通知しており、ミン・ヒジンはビデオ通話で参加した。ADORは、ミン・ヒジンは代表を退くが社内取締役として残りNewJeansのプロデュースを続けるとし、経営とプロデュースの分離がADORの利益になると説明した。ミン側は、本人の同意なく一方的に決議された解任で株主間契約の重大な違反だとし、プロデュース業務の継続は協議されておらず一方的な通告で、続けるかどうかはまだ決めていないと述べた。",
@@ -589,6 +599,7 @@
     ],
     "verified": false,
     "note": "配信は約30分。配信後、動画とチャンネルは削除された。",
+    "note_en": "The stream ran about 30 minutes. Afterwards the video and the channel were deleted.",
     "editor_note": "Exact start time not confirmed in reports ('11일 오후'); namu says the video was deleted around 19:35. ADOR reportedly had no prior notice. | note sentences already covered by detail: ハニは他レーベルのマネージャーから「無視して」と言われた件を語った。 / Removed source mention from reader text: Newsis, 19:40 KST; Korean broadcast title replaced with a translation.",
     "detail": {
       "ja": "メンバー5人が新設したYouTubeチャンネル「nwjns」で予告なしに行った約30分の生配信「NewJeansが言いたいこと」で、約6万人が視聴した。ヘインはミン・ヒジン代表の解任から間もないのにスタッフが不当な要求と圧力を受けるのを見るのがつらく、5人の未来も心配だと配信の理由を語り、ダニエルはHYBEにミン代表への圧力をやめるよう求め、ミンジはミン代表が経営とプロデュースを一体で率いる元のADORに戻ることを望むと述べた。メンバーはHYBEのパン・シヒョク議長とHYBEに、9月25日までにADORを元に戻す賢明な決定を求めた。ハニは他のHYBEレーベルのマネージャーから「無視して」と言われたとする体験も語った。",
@@ -709,6 +720,7 @@
     ],
     "verified": false,
     "note": "ADORは翌14日、内容証明を受領し検討中で「NewJeansと共にできるよう最善を尽くす」とコメントした。",
+    "note_en": "The next day, the 14th, ADOR said it had received the letter and was reviewing it, and would 'do our best to continue together with NewJeans'.",
     "editor_note": "Letter reported by Yonhap on 11-13; ADOR's receipt statement 11-14. / Removed source mentions from reader text: reported by Yonhap; ADOR's comment was given to Ilgan Sports.",
     "detail": {
       "ja": "メンバー5人（ミンジ、ハニ、ダニエル・マーシュ、ヘリン、ヘイン）が本名と署名入りの内容証明をADORに送り、受領から14日以内に列挙した専属契約の重大な違反をすべて是正するよう求めた。要求は、NewJeansを切り捨てる決定をした人物と不正行為者を特定し背任などの民事・刑事措置を取ること、監査報告書と人事措置の報告書の提出、ハニに「無視して」と言ったマネージャーの正式な謝罪、無断で使われた映像・写真の削除、「アルバム押し込み」による損害の評価と対策、シン・ウソク監督との紛争と既存作品の損失の解決、NewJeansの固有性と創作物の保護、ミン・ヒジン前代表のADOR経営とNewJeansプロデュースへの復帰。受け入れられなければ専属契約を解除するとし、家族をめぐる根拠のない噂にも厳しく対応するとした。ADORは、内容証明をまだ受け取っておらず回答できないとコメントした。",
@@ -831,6 +843,7 @@
     ],
     "verified": false,
     "note": "内容証明の回答期限は翌28日。",
+    "note_en": "The deadline for a reply to the certified letter was the next day, the 28th.",
     "editor_note": "Posted on NewJeans official X (@NewJeans_ADOR) per reports; the status URL could not be retrieved, so an OSEN full-text report is used. BELIFT LAB had denied the remark on 2024-10-07. / Removed source mention from reader text: OSEN, 16:01 KST; BELIFT LAB's Korean post title translated.",
     "detail": {
       "ja": "ADORが公式X（NewJeans公式アカウント）で、ハニの「無視して」発言をめぐる立場を出した。事実関係の争いから不要な論争を避けるため慎重な態度をとってきたが論争が収まらないとし、内容証明の要求を履行する措置の一環だと説明した。ハニは2024年5月27日にBELIFT LABの関係者から「無視して」または「無視して通り過ぎて」と言われたことを明確に記憶しており、BELIFT LABの主張はハニの証言とまったく異なるとし、被害者に短い出来事の細部まで記憶するよう求めるのは過酷で厳しすぎる基準だとした。ADORとスタッフはアーティストの言葉を全面的に信頼しハニの被害に共感するとして、BELIFT LABに被害を真摯に受け止め、互いを尊重し誠意ある態度を示すよう求めた。BELIFT LABは10月7日にXで「お知らせ」として自らの立場を出していた。",
@@ -872,6 +885,7 @@
     ],
     "verified": false,
     "note": "ADORは同夜、内容証明への回答前に会見が行われたことに遺憾を表し、専属契約は依然有効だと反論した。",
+    "note_en": "That night ADOR expressed regret that the press conference was held before it had replied to the letter, and countered that the exclusive contracts remained valid.",
     "editor_note": "20:30 KST start confirmed by multiple reports. Members said they had no plan to seek a court injunction themselves. / 20:30 KST start confirmed by multiple reports (fnnews primary). Members said they had no plan to seek a court injunction themselves. Reports cited industry estimates of a penalty of 400 to 600 billion won (an estimate, kept out of reader text). Cut for length: the November 13 letter's demands were the return of former CEO Min Hee-jin, an apology from the manager who told Hanni to 'ignore' her, deletion of photos and videos used without consent, remedies for damage from forced album sales, resolution of the dispute with director Shin Woo-seok, and guarantees of NewJeans' identity and creative work.",
     "detail": {
       "ja": "メンバー5人がソウル江南区のスペースシェア三成駅センターで緊急記者会見を開き、ADORとの専属契約を11月29日0時付で解除すると発表した。11月13日の内容証明にADORが28日までに応じなかったとし、ADORにはNewJeansを守る意志も能力もなく、残っても時間の無駄で精神的な苦痛が続くと説明した。ヘインは当分NewJeansの名前を使えなくても名前の権利を取り戻すため努力すると述べ、ヘリンは契約に違反したのはADORとHYBEで違約金を払う理由はないとし、ミンジは契約は終わったので仮処分や訴訟は必要なく、できればミン・ヒジンと仕事を続けたいと語った。",
@@ -911,6 +925,7 @@
     ],
     "verified": false,
     "note": "ADORは「一方的に信頼が壊れたと主張しても解除事由にはならない」との立場を重ねて示した。",
+    "note_en": "ADOR repeated its position that 'unilaterally claiming trust has broken down is not grounds for termination'.",
     "detail": {
       "ja": "メンバー側は公式立場文で、専属契約の解除通知がADORに届いて即時に効力が生じたため契約はこの日で終わっており、仮処分を申請する理由はなく自由に活動できると主張した。ADORは同日のメールでの回答で専属契約はなお有効だとし、アーティストの望む方法や主観的な期待に沿わないことは契約違反に当たらず、要求の多くは第三者の行為に関するもので第三者に謝罪や合意を強いることはできず、明確な根拠なく第三者への法的措置を求めることは専属契約の目的に照らして適切でないとして、スケジュール、報酬、精算など契約上の主要事項は適切に履行してきたと述べた。内容証明から2週間、メンバーと直接会えなかったことを残念とし、対話を望むとした。",
       "en": "The members' side issued a statement saying their termination notice had reached ADOR and taken immediate effect, so the contract had ended that day, there was no reason to seek an injunction, and they could work freely. ADOR replied the same day by email that the exclusive contract remained valid, arguing that failing to meet an artist's preferred methods or subjective expectations was not a breach, that many of the alleged violations concerned the conduct of a third party it could not force to apologize or reach agreements, that demanding legal action against third parties without clear grounds was not appropriate under the purpose of an exclusive contract, and that it had properly handled key contract matters such as scheduling, compensation and settlement. ADOR said it regretted not meeting the members in person during the two weeks after the letter and hoped for dialogue."
@@ -1030,6 +1045,7 @@
     ],
     "verified": false,
     "note": "ADORは同日、法的判断の前に一方的に新名称を決めたことに遺憾を示し、メンバーや代理人といつでも面談する用意があると表明した。",
+    "note_en": "The same day ADOR expressed regret that a new name had been decided unilaterally before any legal ruling, and said it was ready to meet the members or their representatives at any time.",
     "editor_note": "No press conference: announced through Instagram (story/collab post with Complex) and a CNN interview. ADOR asked media on 02-10 to keep using 'NewJeans'. / No press conference: announced through Instagram (story/collab post with Complex) and a CNN interview (fan-suggestion origin per CNN, same day). Cut for length: Complex China CEO Bonnie Chan Woo's comment on the group's Y2K sound and retro style; the ComplexCon lineup also included Zico, B.I, Sik-K and Changmo. ADOR asked media on 02-10 to keep using 'NewJeans'.",
     "detail": {
       "ja": "メンバー5人がSNSで新名称「NJZ」を発表し、主催者のプレスリリースとともに、3月21〜23日に香港のアジアワールド・エキスポで開かれるComplexCon Hong Kongで新名称での初ステージに立つと告知した。ADORとの契約解除を宣言した後NewJeansの名称を使えなくなったことによるもので、名称はファンの提案から選ばれた。ミンジは主催者を通じて「NJZとして初めてステージに立ち、新しい音楽を共有できることにとても興奮している」とコメントした。ADORは法的判断の前にグループ名が公表されたことを非常に残念とし、NewJeansのブランド価値を守るとして、メンバーや代理人といつでも会う用意があると表明した。",
@@ -1108,6 +1124,7 @@
     ],
     "verified": false,
     "note": "裁判所は「無視して」事件、ILLITコピー疑惑、ミン・ヒジン解任のいずれも契約解除を正当化するほど疎明されていないと判断した。",
+    "note_en": "The court found that none of the 'ignore her' incident, the ILLIT copying allegation or Min Hee-jin's dismissal had been shown to justify terminating the contracts.",
     "editor_note": "Court press release not retrievable. Decision reported in the afternoon of 03-21. | Case number not given in the coverage; court press release not retrievable.",
     "detail": {
       "ja": "ソウル中央地裁民事合議50部（キム・サンフン首席部長判事）は、ADORが申請した企画会社地位保全・広告契約締結等禁止の仮処分を全部認め、本案の1審判決まで、メンバーはADORの事前の承認・同意なしに自ら、またはADOR以外の第三者を通じて芸能活動をしてはならないとした。ADORは1月の申請後、作詞・作曲・歌唱などの音楽活動を含む芸能活動全般へと禁止の範囲を広げていた。裁判所は、信頼関係が壊れれば専属契約を解除できるが、終了を主張する側が維持の困難を疎明する必要があるとし、ミン・ヒジン前代表の解任だけでは制作が停滞したとは言えず、ADORに事業を遂行する計画や能力がないとも断定しがたいと判断した。メンバー側は2月6日にNJZの商標を出願し、3月23日のComplexCon香港で新曲を披露する予定だった。",
@@ -1186,6 +1203,7 @@
     ],
     "verified": false,
     "note": "公演自体はliveカテゴリを参照。ADORは翌日、一方的な活動中断発表に遺憾を示しメンバーとの面談を求めた。",
+    "note_en": "See the live category for the performance itself. The next day ADOR expressed regret at the unilateral announcement of a pause and asked to meet the members.",
     "editor_note": "On-stage announcement (read as a letter). The ComplexCon performance belongs to the live category; this record covers only the announcement. ADOR's 03-24 response text not retrieved in full. | Who read the letter is not stated in Koreaboo's report; aol.com source returned 404. The performance itself belongs to the live category.",
     "detail": {
       "ja": "ComplexCon Hong Kong（アジアワールド・エキスポ）でのステージの最後に、NJZのメンバー5人（ミンジ、ハニ、ダニエル、ヘリン、ヘイン）は連名の手紙を読み上げ、3月21日の裁判所の決定を尊重して当分の間すべての活動を止めると発表した。難しいが必要な決定であり、自分たちを立て直す時間を取った後、必ず戻ってくると伝えた。ADORは21日にソウル中央地裁から独自活動を禁じる仮処分を得ており、NJZ側は同日、決定を尊重しつつ異議を申し立てると表明していた。",
@@ -1267,6 +1285,7 @@
     ],
     "verified": false,
     "note": "裁判所は仮処分の2日後にNJZ名義で香港公演と新曲発表を行った事実を認定した。ADORは1回20億ウォンを求めていた。",
+    "note_en": "The court found that two days after the injunction the group had performed in Hong Kong and released a new song under the NJZ name. ADOR had asked for 2 billion won per violation.",
     "editor_note": "Decision dated 05-29 (reported 05-30; the task brief listed 05-30). / Removed source mention from reader text: Digital Times, reported May 30, 2025.",
     "detail": {
       "ja": "ソウル中央地裁民事合議52部（ホ・ギョンム部長判事）はADORの間接強制の申請を認め、専属契約有効確認訴訟の1審判決まで、メンバーがADORの事前の承認・同意なしに芸能活動をした場合、違反1回につき各自がADORに10億ウォンを支払うよう命じた。裁判所は、3月21日の仮処分のわずか2日後の3月23日にメンバーが海外公演にNJZの名で出演し新曲を公開したことを仮処分違反と認め、仮処分の前後を通じて独自活動の意思を直接・間接に示しており今後も違反のおそれがあるとして、履行を強制する間接強制が必要だと判断した。",
@@ -1307,6 +1326,7 @@
     ],
     "verified": false,
     "note": "裁判所は、メンバーが挙げた事由は信頼関係の破綻を招くものとは言い難いと判断した。",
+    "note_en": "The court found that the reasons the members cited could hardly be said to have caused a breakdown of trust.",
     "editor_note": "Task brief said 06-18; the decision is dated 06-17 (reports published 06-17/18).",
     "detail": {
       "ja": "ソウル高裁民事25-2部（ファン・ビョンハ、チョン・ジョングァン、イ・ギュニョン部長判事）は、メンバー5人が仮処分の認可決定に対して申し立てた即時抗告を棄却し、独自活動を禁じる仮処分を維持した。メンバーが契約を離れて独自に活動すれば、ADORは過去の投資を回収する機会を失う一方でメンバーが将来の収益をすべて得ることになり不合理だとし、ミン・ヒジン前代表の役割は契約に定められておらず、その解任はHYBEとミン前代表の経営権をめぐる紛争から生じたもので、それ自体が契約の基礎となる信頼を壊すものではないと判断した。ADORがメンバーへの信頼を保っている以上、解除の要件となる信頼関係の破綻は認められず、本案の結論が出るまで仮処分が必要だとした。",
@@ -1464,6 +1484,7 @@
     ],
     "verified": false,
     "note": "ADORは「NewJeansを待ち続ける」との立場を示した。",
+    "note_en": "ADOR said it would 'keep waiting for NewJeans'.",
     "editor_note": "Ruling delivered in the morning ('이날 오전'); exact time not confirmed. Contracts run to 2029-07-31 per ADOR.",
     "detail": {
       "ja": "ソウル中央地裁民事合議41部（チョン・フェイル部長判事）は、ADORがメンバー5人を相手に起こした専属契約有効確認訴訟で原告ADOR勝訴の判決を言い渡し、専属契約はなお有効だと認めた。ADORが企画会社としての義務に違反したとは認められないとし、ミン・ヒジン前代表の解任が契約違反にあたるという主張と、信頼関係の破綻を理由とする解除の主張をいずれも退け、「信頼関係破綻の外観を作って専属契約から逃れようとする試みは許されるべきでない」と述べた。ADORは判決に感謝し、企画会社としての役割を省みるとともに、正規アルバムの発売など活動の準備を終えて待っているとして、アーティストとともにファンのもとへ戻ると表明した。メンバー5人は控訴の意向を示した。",
@@ -1631,6 +1652,7 @@
     ],
     "verified": false,
     "note": "ADORはダニエルの家族1人と元代表ミン・ヒジンにも法的責任を問うとした。",
+    "note_en": "ADOR said it would also pursue legal liability against one of Danielle's family members and former CEO Min Hee-jin.",
     "editor_note": "Suit against Danielle and two others: Korean reports say the complaint was to be filed the same day (claim later reported as about 43.1bn won; one report says 33.1bn); English Wikipedia dates the filing 12-30. Not split into a separate record. | Damages amount and filing date of the suit against Danielle's side are not in the Money Today article; left out of reader text.",
     "detail": {
       "ja": "ADORは、専属契約有効確認判決の確定後にミンジ、ハニ、ダニエルとその家族と協議を重ねてきたとして、3人に関する立場を発表した。ハニは家族とともに韓国を訪れてADORと長時間話し合い、過去を振り返った末に「法院の判決を尊重してADORと共にすることを決めた」とされた。ミンジとは相互理解を深める協議が続いており、まだ決定には至っていない。ダニエルについては、NewJeansのメンバーかつADOR所属アーティストとして共にすることは難しいと判断して同日専属契約の解除を通告し、紛争と離脱、復帰の遅れを招いたとしてダニエルの家族1人とミン・ヒジン前代表の法的責任を問うとした。ADORは、メンバーが長く偏った情報にさらされて誤解が生じたとし、信頼回復には正確な事実の共有と時間が必要で、紛争をめぐる論争については後日メンバーが語る場を別に設けると述べ、できるだけ早くNewJeansをファンのもとに戻すと表明した。",
@@ -1793,6 +1815,7 @@
     ],
     "verified": true,
     "note": "4人が揃って登場する約2年ぶりの新規コンテンツ。ADORは「ファンと4周年を祝うための記念コンテンツ」と説明した。",
+    "note_en": "The first new content in about two years featuring the four together. ADOR described it as 'anniversary content to celebrate the 4th anniversary with fans'.",
     "editor_note": "Official video on the NewJeans channel (ID NNbaTJX_9go; channel crawl shows 'Jul 21, 2026' in US time = 07-22 00:00 KST). Release time 00:00 KST per fnnews/Yonhap. Individual member films also posted. / Removed source mention from reader text: ADOR's comment was given to Yonhap.",
     "detail": {
       "ja": "デビュー4周年の0時（KST）、NewJeans公式YouTubeチャンネルに映像「2026 Summer of NewJeans」が公開され、ミンジ、ハニ、ヘリン、ヘインの4人が順に登場して手をつなぎ、語り合う姿が映された。各メンバー名を冠したスペシャルフィルムも公式YouTubeに、グループ写真と個人写真が公式SNSに投稿された。ダニエルは含まれていない。グループとしてのコンテンツは2025年3月のComplexCon香港以来、約1年4か月ぶり。ADORは、映像は「ファンとともに楽しむために制作した記念コンテンツ」で、具体的な活動計画と方式は「議論が完全に終わった後に発表する計画」だと説明した。当時ヘリン、ヘイン、ハニは復帰済みで、ミンジについてADORは協議が肯定的に進んでいるとしていた。",

@@ -410,4 +410,5 @@ canvas.era-img { max-height: 70vh; max-height: 70dvh; width: auto; max-width: 10
 :root[data-lang="both"] .t-en { font-family: var(--f-ui); font-size: calc(16px * var(--txt, 1)); font-weight: 600; color: var(--ink-2); margin-top: 6px; }
 :root[data-lang="both"] .s-en { font-size: calc(14px * var(--txt, 1)); color: var(--ink-2); margin-top: 4px; }
 .d-en { margin: 6px 0 0; padding-left: 10px; border-left: 2px solid var(--rule); color: var(--ink-2); font-size: calc(14px * var(--txt, 1)); line-height: 1.6; }
-
+:root[data-lang="en"] .lede-en { display: none; }
+.note-en { margin-top: 4px; color: var(--ink-3); }

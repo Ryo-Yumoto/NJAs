@@ -77,6 +77,10 @@ def main():
                 new, moved = clean(it["note"], "ja", hz)
                 if moved: moved_all += ["[note] " + m for m in moved]; it["note"] = new; 
                 if not it.get("note"): it.pop("note", None)
+            if it.get("note_en"):
+                new, moved = clean(it["note_en"], "en", hz)
+                if moved: moved_all += ["[note_en] " + m for m in moved]; it["note_en"] = new
+                if not it.get("note_en"): it.pop("note_en", None)
             if moved_all:
                 it["editor_note"] = (it.get("editor_note", "") + " | removed from reader text: " + " ".join(moved_all)).strip(" |")
                 total_moved += len(moved_all); touched += 1; ch = True

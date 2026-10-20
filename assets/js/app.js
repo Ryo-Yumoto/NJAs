@@ -27,6 +27,8 @@
 
   const state = { items: [], eras: [], images: {}, sprites: null, xposts: {}, read: new Set(), member: null, pages: [], byDate: {}, cur: -1, mode: "cover", showMeta: false, cats: new Set(Object.keys(CATS)), tocMonth: null, lang: "ja" };
   const L = o => (o ? (o[state.lang] || o.ja || o.en || "") : "");
+  const tx = (ja, en) => (state.lang === "en" ? en : ja);
+  const WD_EN = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
 
   const $ = (sel, root = document) => root.querySelector(sel);
   const el = (tag, attrs = {}, ...kids) => { const n = document.createElement(tag); for (const [k, v] of Object.entries(attrs)) { if (v == null) continue; if (k === "class") n.className = v; else n.setAttribute(k, v); } for (const c of kids) { if (c == null) continue; n.append(c instanceof Node ? c : String(c)); } return n; };
@@ -38,20 +40,47 @@
   const TYPE_RANK = { announce: 0, post: 0, event: 1 };
   const sortKey = it => `${it.date} ${TYPE_RANK[it.date_type] ?? 2} ${it.time || "99:99"} ${String(DAY_ORDER.indexOf(it.category)).padStart(2, "0")} ${it.id}`;
   const fmtLong = d => `${d.slice(0, 4)}.${d.slice(5, 7)}.${d.slice(8, 10)}`;
-  const weekday = d => WD_JA[new Date(utc(d)).getUTCDay()];
+  const weekday = d => (state.lang === "en" ? WD_EN : WD_JA)[new Date(utc(d)).getUTCDay()];
   const store = { get: k => { try { return localStorage.getItem(k); } catch (_) { return null; } }, set: (k, v) => { try { localStorage.setItem(k, v); } catch (_) {} } };
 
   /* ---------- theme ---------- */
+  // static labels in index.html, switched with the language (the "both" mode keeps Japanese UI)
+  function applyStatic() {
+    const set = (sel, prop, ja, en) => { const n = $(sel); if (n) n[prop] = tx(ja, en); };
+    const html = (sel, ja, en) => { const n = $(sel); if (n) n.innerHTML = tx(ja, en); };
+    document.documentElement.lang = state.lang === "en" ? "en" : "ja";
+    set("#toc-btn", "ariaLabel", "目次とメニュー", "Contents and menu");
+    html(".catch", "NewJeansを、最初から。", "NewJeans, from the very beginning.");
+    html(".lede-lead", '<span class="nb">あの軌跡を、</span><span class="nb">もう一度いちから辿っていく。</span>', "Retrace the whole journey, from day one.");
+    const sb = $("#start-btn"); if (sb && !sb.disabled) sb.innerHTML = tx('はじめから読む <span class="mono">FROM THE BEGINNING</span>', 'Start reading <span class="mono">FROM DAY ONE</span>');
+    const rb = $("#resume-btn"); if (rb) { const lab = $("#resume-label"); rb.firstChild.textContent = tx("しおりから続ける ", "Continue where you left off "); if (lab) rb.appendChild(lab); }
+    set("#pager-mid", "ariaLabel", "目次を開く", "Open contents");
+    html(".toc-title", '目次 <span class="mono dim">CONTENTS</span>', "Contents");
+    set(".fs-ctl", "ariaLabel", "本文の文字サイズ", "Text size");
+    set("#fs-minus", "ariaLabel", "文字を小さく", "Smaller text");
+    set("#fs-plus", "ariaLabel", "文字を大きく", "Larger text");
+    set("#theme-btn", "ariaLabel", "テーマ切替", "Switch theme");
+    set(".toc-lang-label", "textContent", "言語 LANGUAGE", "LANGUAGE");
+    set('#lang-seg [data-lang="both"]', "textContent", "併記 JA+EN", "Both JA+EN");
+    set("#toc-q", "placeholder", "検索", "Search");
+    set("#toc-cats", "ariaLabel", "カテゴリ", "Categories");
+    set("#toc-members", "ariaLabel", "メンバー", "Members");
+    set("#index-link", "textContent", "索引（全期間の一覧）", "Index (all dates)");
+    set(".toc-foot .dim", "textContent", "未来を含みます", "Includes later events");
+    html(".index-title", '索引 <span class="mono dim">INDEX · ALL DATES</span>', 'Index <span class="mono dim">ALL DATES</span>');
+    set("#index-q", "placeholder", "検索（全期間）", "Search all dates");
+    set(".lb-close", "ariaLabel", "閉じる", "Close");
+  }
   function initLang() {
     // three modes: "ja", "en", "both" (Japanese with the English text under it, for study). UI labels follow Japanese unless "en".
     const saved = store.get("njas-lang"); if (saved === "en" || saved === "both") state.lang = saved;
     const seg = $("#lang-seg");
     const paint = () => { document.documentElement.setAttribute("data-lang", state.lang); seg.querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.lang === state.lang))); };
-    paint();
+    paint(); applyStatic();
     seg.addEventListener("click", e => {
       const b = e.target.closest("button[data-lang]"); if (!b || b.dataset.lang === state.lang) return;
-      state.lang = b.dataset.lang; store.set("njas-lang", state.lang); paint();
-      buildMemberChips(); if (state.mode === "page") renderPage(); if (!$("#toc").hidden) renderToc();
+      state.lang = b.dataset.lang; store.set("njas-lang", state.lang); paint(); applyStatic();
+      buildCatChips(); buildMemberChips(); if (state.mode === "page") renderPage(); if (!$("#toc").hidden) renderToc();
     });
   }
   function initTextSize() {
@@ -159,7 +188,7 @@
   /* ---------- page ---------- */
   function renderEmptyPage() {
     $("#cover").hidden = true; $("#index").hidden = true; $("#page").hidden = false; $("#pager").hidden = true;
-    const msg = !state.items.length ? "読み込み中…" : !state.cats.size ? "表示するカテゴリが選択されていません。目次でカテゴリを選んでください。" : state.member ? "選択中のメンバーとカテゴリに該当する記録がありません。目次で絞り込みを変えてください。" : "表示できる記録がありません。";
+    const msg = !state.items.length ? tx("読み込み中…", "Loading…") : !state.cats.size ? tx("表示するカテゴリが選択されていません。目次でカテゴリを選んでください。", "No category is selected. Choose categories in the contents menu.") : state.member ? tx("選択中のメンバーとカテゴリに該当する記録がありません。目次で絞り込みを変えてください。", "Nothing matches the selected member and categories. Change the filters in the contents menu.") : tx("表示できる記録がありません。", "There is nothing to show.");
     const page = $("#page"); page.innerHTML = ""; page.appendChild(el("p", { class: "toc-empty" }, msg));
     $("#bar-pos").textContent = "";
   }
@@ -170,15 +199,15 @@
     const page = $("#page"); page.innerHTML = "";
     if (p.kind === "era") page.appendChild(renderEraPage(p)); else page.appendChild(renderDayPage(p));
     if (p.kind === "day" && !store.get("njas-hint-seen")) {
-      const hint = el("div", { class: "hint mono" }, matchMedia("(pointer: coarse)").matches ? "左にスワイプで次の日へ · 右で前の日へ" : "← → キーでページをめくる · M で編集者表示");
+      const hint = el("div", { class: "hint mono" }, matchMedia("(pointer: coarse)").matches ? tx("左にスワイプで次の日へ · 右で前の日へ", "Swipe left for the next day · right for the previous day") : tx("← → キーでページをめくる · M で編集者表示", "Use ← → to turn pages · M for editor view"));
       page.appendChild(hint); store.set("njas-hint-seen", "1");
     }
     // pager
     const prev = state.pages[state.cur - 1], next = state.pages[state.cur + 1];
     $("#prev-btn").disabled = !prev; $("#next-btn").disabled = !next;
-    $("#prev-date").textContent = prev ? pageLabel(prev) : "表紙 / COVER";
+    $("#prev-date").textContent = prev ? pageLabel(prev) : tx("表紙 / COVER", "COVER");
     $("#prev-btn").disabled = false;
-    $("#next-date").textContent = next ? (next.kind === "era" ? "次の期 / NEXT ERA" : pageLabel(next)) : "ここまで / THE END, FOR NOW";
+    $("#next-date").textContent = next ? (next.kind === "era" ? tx("次の期 / NEXT ERA", "NEXT ERA") : pageLabel(next)) : tx("ここまで / THE END, FOR NOW", "THE END, FOR NOW");
     $("#bar-pos").textContent = p.kind === "era" ? `${p.era.title.en.toUpperCase()}` : `${pageLabel(p)}${p.precision === "day" && dayLabel(p.date) ? " · " + dayLabel(p.date) : ""}`;
   }
   function renderEraPage(p) {
@@ -191,7 +220,7 @@
     else if (src) { h.classList.add("has-img"); h.appendChild(el("img", { class: "era-img", src, alt: "" })); }
     const body = el("div", { class: "era-body" });
     const chapterNo = state.eras.indexOf(era) + 1;
-    body.append(el("span", { class: "era-kicker mono" }, `ERA ${chapterNo} · 第${chapterNo}期`), el("h2", { class: "era-title" }, era.title.en), el("p", { class: "era-sub" }, era.title.ja), el("p", { class: "era-cap" }, L(era.caption)), el("p", { class: "era-range mono" }, `${fmtLong(era.start)} —`));
+    body.append(el("span", { class: "era-kicker mono" }, tx(`ERA ${chapterNo} · 第${chapterNo}期`, `ERA ${chapterNo}`)), el("h2", { class: "era-title" }, era.title.en), state.lang === "en" ? null : el("p", { class: "era-sub" }, era.title.ja), el("p", { class: "era-cap" }, L(era.caption)), el("p", { class: "era-range mono" }, `${fmtLong(era.start)} —`));
     h.appendChild(body);
     return h;
   }
@@ -201,7 +230,7 @@
     const d = p.date;
     if (p.precision === "day") {
       head.append(
-        el("div", { class: "day-kicker mono" }, `${p.era ? p.era.title.en.toUpperCase() + " · " : ""}${weekday(d)}曜日 · ${p.items.length} ${p.items.length === 1 ? "entry" : "entries"}`),
+        el("div", { class: "day-kicker mono" }, `${p.era ? p.era.title.en.toUpperCase() + " · " : ""}${weekday(d)}${tx("曜日", "")} · ${p.items.length} ${p.items.length === 1 ? "entry" : "entries"}`),
         el("h2", { class: "day-date" }, fmtLong(d)),
         el("div", { class: "day-sub" }, dayLabel(d) || "\u00a0")
       );
@@ -209,7 +238,7 @@
       head.append(
         el("div", { class: "day-kicker mono" }, `${p.era ? p.era.title.en.toUpperCase() + " · " : ""}${p.precision === "month" ? "SOMETIME THIS MONTH" : "SOMETIME THIS YEAR"} · ${p.items.length} ${p.items.length === 1 ? "entry" : "entries"}`),
         el("h2", { class: "day-date" }, pageLabel(p)),
-        el("div", { class: "day-sub" }, p.precision === "month" ? `${+d.slice(5, 7)}月中（日付未確定）` : `${d.slice(0, 4)}年中（日付未確定）`)
+        el("div", { class: "day-sub" }, p.precision === "month" ? tx(`${+d.slice(5, 7)}月中（日付未確定）`, `During ${MONTHS[+d.slice(5, 7) - 1]} (exact date unknown)`) : tx(`${d.slice(0, 4)}年中（日付未確定）`, `During ${d.slice(0, 4)} (exact date unknown)`))
       );
     }
     wrap.appendChild(head);
@@ -225,7 +254,7 @@
     const cat = CATS[it.category] || { ja: it.category, en: it.category, color: "var(--rule)", ratio: "16 / 10" };
     node.style.setProperty("--cat", cat.color); node.id = it.id;
     const kind = (it.tags || []).find(t => KIND_TAGS.includes(t));
-    $(".cat-label", node).textContent = `${cat.en} · ${cat.ja}${kind ? " · " + kind.replace("-", " ") : ""} · ${DATE_TYPES[it.date_type] || it.date_type}`;
+    $(".cat-label", node).textContent = `${cat.en}${state.lang === "en" ? "" : " · " + cat.ja}${kind ? " · " + kind.replace("-", " ") : ""} · ${DATE_TYPES[it.date_type] || it.date_type}`;
     if (it.time) { const t = $(".time", node); t.hidden = false; t.textContent = `${it.time} KST`; }
     if (it.platform) { const pl = el("span", { class: "pill platform" }, ({ x: "X", instagram: "Instagram", weverse: "Weverse", phoning: "Phoning", tiktok: "TikTok", youtube: "YouTube", other: "SNS" })[it.platform] || it.platform); $(".meta", node).appendChild(pl); }
     if (it.entity === "njz") { const e = $(".entity", node); e.hidden = false; e.textContent = "NJZ"; }
@@ -238,7 +267,7 @@
     if (it.title.original && it.title.original !== it.title.ja && it.title.original !== it.title.en) { const o = $(".t-orig", node); o.hidden = false; o.textContent = it.title.original; }
     if (L(it.summary)) { $(".desc", node).hidden = false; $(".s-ja", node).textContent = L(it.summary); if (both && it.summary.en) $(".s-en", node).textContent = it.summary.en; else $(".s-en", node).remove(); }
     else { $(".s-ja", node).remove(); $(".s-en", node).remove(); }
-    if (it.note) { const n = $(".note", node); n.hidden = false; n.textContent = it.note; $(".desc", node).hidden = false; $(".desc", node).appendChild(n); }
+    if (it.note || it.note_en) { const n = $(".note", node); n.hidden = false; n.textContent = state.lang === "en" ? (it.note_en || it.note) : it.note; if (state.lang === "both" && it.note_en) n.after(el("p", { class: "note note-en mono", lang: "en" }, it.note_en)); $(".desc", node).hidden = false; $(".desc", node).appendChild(n); }
     if (L(it.detail)) {
       const d = el("div", { class: "detail" });
       d.appendChild(el("p", { class: "d-ja" }, L(it.detail)));
@@ -439,12 +468,12 @@
   }
   function scheduleNav() { if (!navTick) { navTick = true; requestAnimationFrame(updateNav); } }
   function closeToc() { $("#toc").hidden = true; $("#scrim").hidden = true; $("#toc-btn").setAttribute("aria-expanded", "false"); }
-  const hitQ = (it, q) => !q || [it.title.ja, it.title.en, it.title.original, it.summary?.ja, it.summary?.en, it.detail?.ja, ...(it.tags || [])].filter(Boolean).join(" ").toLowerCase().includes(q);
+  const hitQ = (it, q) => !q || [it.title.ja, it.title.en, it.title.original, it.summary?.ja, it.summary?.en, it.detail?.ja, it.detail?.en, ...(it.tags || [])].filter(Boolean).join(" ").toLowerCase().includes(q);
   function buildCatChips() {
     const box = $("#toc-cats"); box.innerHTML = "";
     for (const [k, v] of Object.entries(CATS)) {
       const b = el("button", { class: "chip", type: "button", "data-cat": k, "aria-pressed": String(state.cats.has(k)) });
-      b.style.setProperty("--chip", v.color); b.append(el("i", { class: "sw" }), el("span", {}, `${v.ja}`));
+      b.style.setProperty("--chip", v.color); b.append(el("i", { class: "sw" }), el("span", {}, tx(v.ja, v.en)));
       b.addEventListener("click", () => {
         if (state.cats.has(k)) state.cats.delete(k); else state.cats.add(k);
         store.set("njas-cats2", state.cats.size === Object.keys(CATS).length ? "" : ("|" + [...state.cats].join(",")));
@@ -453,9 +482,9 @@
       box.appendChild(b);
     }
     const tools = el("div", { class: "toc-cat-tools" });
-    const all = el("button", { class: "chip chip-all", type: "button" }, "全選択");
+    const all = el("button", { class: "chip chip-all", type: "button" }, tx("全選択", "Select all"));
     all.addEventListener("click", () => { state.cats = new Set(Object.keys(CATS)); store.set("njas-cats2", ""); applyFilter(); });
-    const none = el("button", { class: "chip chip-all", type: "button" }, "全解除");
+    const none = el("button", { class: "chip chip-all", type: "button" }, tx("全解除", "Clear"));
     none.addEventListener("click", () => { state.cats = new Set(); store.set("njas-cats2", "|"); applyFilter(); });
     tools.append(all, none); box.appendChild(tools);
   }
@@ -490,16 +519,16 @@
     const body = $("#toc-body"), nav = $("#toc-nav"); body.innerHTML = ""; nav.innerHTML = "";
     const q = $("#toc-q").value.trim().toLowerCase();
     const days = state.pages.map((p, i) => ({ p, i })).filter(x => x.p.kind === "day");
-    if (!state.cats.size) { body.appendChild(el("p", { class: "toc-empty" }, "表示するカテゴリが選択されていません。")); return; }
+    if (!state.cats.size) { body.appendChild(el("p", { class: "toc-empty" }, tx("表示するカテゴリが選択されていません。", "No category is selected."))); return; }
 
     // search: flat list over the known range
     if (q) {
-      body.appendChild(el("div", { class: "toc-section mono" }, "検索結果 / RESULTS"));
+      body.appendChild(el("div", { class: "toc-section mono" }, tx("検索結果 / RESULTS", "RESULTS")));
       let n = 0;
       for (const { p, i } of days) {
         for (const it of p.items) if (hitQ(it, q)) { body.appendChild(itemRow(p, i, it)); n++; }
       }
-      if (!n) body.appendChild(el("p", { class: "toc-empty" }, "該当なし"));
+      if (!n) body.appendChild(el("p", { class: "toc-empty" }, tx("該当なし", "No matches")));
       return;
     }
     // tier 1: month calendar
@@ -518,7 +547,7 @@
           const all = list ? list.every(x => isRead(x.p)) : false;
           cell.classList.toggle("done", all); cell.classList.toggle("partial", some && !all); cell.classList.toggle("current", ym === curYm);
           const nItems = list ? list.reduce((a, x) => a + x.p.items.length, 0) : 0;
-          cell.append(el("span", { class: "cal-m" }, `${m}月`), el("span", { class: "cal-n mono" }, list ? `${nItems}件` : ""));
+          cell.append(el("span", { class: "cal-m" }, tx(`${m}月`, MONTHS[m - 1])), el("span", { class: "cal-n mono" }, list ? tx(`${nItems}件`, `${nItems}`) : ""));
           if (list) cell.addEventListener("click", () => { state.tocMonth = ym; renderToc(); $("#toc-body").scrollTop = 0; });
           grid.appendChild(cell);
         }
@@ -529,15 +558,15 @@
     }
     // tier 2: one month, every heading
     const ym = state.tocMonth;
-    const back = el("button", { class: "toc-back mono", type: "button" }, "← カレンダー / ALL MONTHS");
+    const back = el("button", { class: "toc-back mono", type: "button" }, tx("← カレンダー / ALL MONTHS", "← ALL MONTHS"));
     back.addEventListener("click", () => { state.tocMonth = null; renderToc(); });
     const prevM = days.filter(x => x.p.date.slice(0, 7) < ym).pop(), nextM = days.find(x => x.p.date.slice(0, 7) > ym);
     const mnav = el("div", { class: "toc-mnav" });
-    const pb = el("button", { class: "toc-back mono", type: "button" }, "← 前の月"); if (!prevM) pb.setAttribute("disabled", ""); else pb.addEventListener("click", () => { state.tocMonth = prevM.p.date.slice(0, 7); renderToc(); });
-    const nb = el("button", { class: "toc-back mono", type: "button" }, "次の月 →"); if (!nextM) nb.setAttribute("disabled", ""); else nb.addEventListener("click", () => { state.tocMonth = nextM.p.date.slice(0, 7); renderToc(); });
+    const pb = el("button", { class: "toc-back mono", type: "button" }, tx("← 前の月", "← Previous month")); if (!prevM) pb.setAttribute("disabled", ""); else pb.addEventListener("click", () => { state.tocMonth = prevM.p.date.slice(0, 7); renderToc(); });
+    const nb = el("button", { class: "toc-back mono", type: "button" }, tx("次の月 →", "Next month →")); if (!nextM) nb.setAttribute("disabled", ""); else nb.addEventListener("click", () => { state.tocMonth = nextM.p.date.slice(0, 7); renderToc(); });
     mnav.append(pb, nb);
     nav.append(back, mnav);
-    body.appendChild(el("h3", { class: "toc-month-title" }, `${ym.slice(0, 4)}年${+ym.slice(5, 7)}月`));
+    body.appendChild(el("h3", { class: "toc-month-title" }, tx(`${ym.slice(0, 4)}年${+ym.slice(5, 7)}月`, `${MONTHS[+ym.slice(5, 7) - 1]} ${ym.slice(0, 4)}`)));
     // flat list: one row per entry (date · title · category); pages already visited are marked read
     let any = false, lastDate = null;
     for (const { p, i } of days) {
@@ -551,7 +580,7 @@
         body.appendChild(row);
       });
     }
-    if (!any) body.appendChild(el("p", { class: "toc-empty" }, "この月に該当する項目はありません"));
+    if (!any) body.appendChild(el("p", { class: "toc-empty" }, tx("この月に該当する項目はありません", "Nothing this month")));
   }
   function dateLabel(p) { return p.precision === "day" ? `${p.date.slice(5, 7)}.${p.date.slice(8, 10)}` : p.precision === "month" ? (state.lang !== "en" ? "月内" : "month") : (state.lang !== "en" ? "年内" : "year"); }
   function itemRow(p, i, it) {
@@ -633,14 +662,14 @@
 
   initLang(); initTheme(); initTextSize(); wire();
   // while the data loads, the start button says so in its own words (and cannot be pressed); the normal label returns when ready
-  const startBtn = $("#start-btn"), startLabel = startBtn.innerHTML;
-  startBtn.classList.add("loading"); startBtn.setAttribute("aria-busy", "true"); startBtn.disabled = true; startBtn.textContent = "読み込み中…";
+  const startBtn = $("#start-btn");
+  startBtn.classList.add("loading"); startBtn.setAttribute("aria-busy", "true"); startBtn.disabled = true; startBtn.textContent = tx("読み込み中…", "Loading…");
   // cover label: span and size of the archive, computed from the data so it stays current
   const coverSpan = () => {
     const ds = state.items.map(i => i.date).sort(); if (!ds.length) return;
     const ym = d => `${d.slice(0, 4)}.${d.slice(5, 7)}`;
     $("#cover-span").textContent = `${ym(ds[0])} — ${ym(ds[ds.length - 1])} · ${state.items.length.toLocaleString("en-US")} RECORDS`;
   };
-  state.ready = load().then(() => { startBtn.classList.remove("loading"); startBtn.removeAttribute("aria-busy"); startBtn.disabled = false; startBtn.innerHTML = startLabel; coverSpan(); });
+  state.ready = load().then(() => { startBtn.classList.remove("loading"); startBtn.removeAttribute("aria-busy"); startBtn.disabled = false; applyStatic(); coverSpan(); });
   state.ready.then(route).catch(err => { $("#cover .lede").textContent = "Failed to load data: " + err.message; });
 })();

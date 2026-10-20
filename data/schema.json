@@ -259,6 +259,10 @@
         "type": "string"
       },
       "description": "local_assetsと同じ順の各画像の名称（商品名など）。省略可"
+    },
+    "note_en": {
+      "type": "string",
+      "description": "noteの英語版（英語表示・日英併記で使う）。noteと同じく、そのレコードの日付時点で分かることだけを書く"
     }
   }
 }
