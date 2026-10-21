@@ -23,7 +23,14 @@ def check_type(v, t):
     return {"string": str, "boolean": bool, "array": list, "object": dict}[t]
 
 def validate_against_schema(item, schema, path, errors):
-    """Minimal JSON-schema subset validator (type, required, enum, pattern, additionalProperties, items, minLength)."""
+    """Minimal JSON-schema subset validator (type, required, enum, pattern, additionalProperties, items, minLength, oneOf)."""
+    if "oneOf" in schema:
+        results = []
+        for alt in schema["oneOf"]:
+            errs = []; validate_against_schema(item, alt, path, errs); results.append(errs)
+        if sum(1 for e in results if not e) != 1:
+            errors.append(f"{path}: does not match exactly one allowed form")
+        return
     t = schema.get("type")
     if t and not isinstance(item, check_type(item, t)) or (t == "boolean" and not isinstance(item, bool)):
         errors.append(f"{path}: expected {t}")
@@ -44,6 +51,8 @@ def validate_against_schema(item, schema, path, errors):
                 validate_against_schema(v, props[k], f"{path}.{k}", errors)
             elif schema.get("additionalProperties") is False:
                 errors.append(f"{path}: unexpected key '{k}'")
+            elif isinstance(schema.get("additionalProperties"), dict):
+                validate_against_schema(v, schema["additionalProperties"], f"{path}.{k}", errors)
     if t == "array" and "items" in schema:
         for i, v in enumerate(item):
             validate_against_schema(v, schema["items"], f"{path}[{i}]", errors)

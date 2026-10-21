@@ -160,9 +160,29 @@
     "credits": {
       "type": "object",
       "additionalProperties": {
-        "type": "string"
+        "oneOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "ja",
+              "en"
+            ],
+            "properties": {
+              "ja": {
+                "type": "string"
+              },
+              "en": {
+                "type": "string"
+              }
+            }
+          }
+        ]
       },
-      "description": "クレジット。キー例：director, producer, composer, lyricist, choreographer, photographer, stylist, label, publisher, broadcaster, venue"
+      "description": "クレジット。キー例：director, producer, composer, lyricist, choreographer, photographer, stylist, label, publisher, broadcaster, venue。値は文字列、または言語で表記が変わるものは{ja, en}"
     },
     "source_url": {
       "type": "string",
@@ -256,9 +276,29 @@
     "asset_titles": {
       "type": "array",
       "items": {
-        "type": "string"
+        "oneOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "ja",
+              "en"
+            ],
+            "properties": {
+              "ja": {
+                "type": "string"
+              },
+              "en": {
+                "type": "string"
+              }
+            }
+          }
+        ]
       },
-      "description": "local_assetsと同じ順の各画像の名称（商品名など）。省略可"
+      "description": "local_assetsと同じ順の各画像の名称（商品名など）。省略可。言語で表記が変わるものは{ja, en}"
     },
     "note_en": {
       "type": "string",

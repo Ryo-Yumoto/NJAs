@@ -23,11 +23,13 @@
   const MEMBERS = { all: "all", minji: "Minji", hanni: "Hanni", danielle: "Danielle", haerin: "Haerin", hyein: "Hyein" };
   const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
   const WD_JA = ["日", "月", "火", "水", "木", "金", "土"];
+  const CREDIT_LABELS = {"label":["レーベル","Label"],"channel":["チャンネル","Channel"],"brand":["ブランド","Brand"],"venue":["会場","Venue"],"broadcaster":["放送局","Broadcaster"],"program":["番組","Programme"],"account":["アカウント","Account"],"publisher":["出版社","Publisher"],"organizer":["主催","Organiser"],"runtime":["再生時間","Runtime"],"sale_channel":["販売","Sold via"],"producer":["プロデューサー","Producer"],"host":["司会","Host"],"photographer":["撮影","Photographer"],"stylist":["スタイリスト","Stylist"],"issuer":["発行元","Issuer"],"hair":["ヘア","Hair"],"makeup":["メイク","Makeup"],"music_video_director":["MV監督","MV director"],"distributor":["流通","Distributor"],"composer":["作曲","Composer"],"lyricist":["作詞","Lyricist"],"mv_director":["MV監督","MV director"],"editor":["編集","Editor"],"arranger":["編曲","Arranger"],"outlet":["媒体","Outlet"],"length":["長さ","Length"],"writer":["執筆","Writer"],"event":["イベント","Event"],"executive_producer":["エグゼクティブ・プロデューサー","Executive producer"],"court":["裁判所","Court"],"collaboration":["コラボレーション","Collaboration"],"director":["監督","Director"],"artwork":["アートワーク","Artwork"],"location":["場所","Location"],"streaming":["配信","Streaming"],"advertiser":["広告主","Advertiser"],"fashion_editor":["ファッションエディター","Fashion editor"],"tracklist":["収録曲","Tracklist"],"mv_cast":["MV出演","MV cast"],"feature_editor":["フィーチャーエディター","Feature editor"],"set":["セット","Set"],"production":["制作","Production"],"mixing":["ミキシング","Mixing"],"editions":["形態","Editions"],"dj":["DJ","DJ"],"beauty_editor":["ビューティーエディター","Beauty editor"],"set_stylist":["セットスタイリスト","Set stylist"],"nails":["ネイル","Nails"],"platform":["プラットフォーム","Platform"],"announced_by":["発表","Announced by"],"vocal_director":["ボーカルディレクション","Vocal director"],"film":["映像","Film"],"mastering":["マスタリング","Mastering"],"performance_director":["パフォーマンスディレクター","Performance director"],"fashion_director":["ファッションディレクター","Fashion director"],"appointing_body":["任命機関","Appointing body"],"choreographer":["振付","Choreographer"],"artist":["アーティスト","Artist"],"featuring":["フィーチャリング","Featuring"],"production_company":["制作会社","Production company"],"digital_editor":["デジタルエディター","Digital editor"],"creative_director":["クリエイティブディレクター","Creative director"],"artists":["アーティスト","Artists"],"original_artist":["原曲","Original artist"],"promotion_video_director":["プロモーション映像監督","Promotion video director"],"copyright":["著作権","Copyright"],"special_performance_video_director":["スペシャルパフォーマンス映像監督","Special performance video director"],"videographer":["撮影（映像）","Videographer"],"costume":["衣装","Costume"],"co_hosts":["共同司会","Co-hosts"],"interviewer":["インタビュアー","Interviewer"],"set_design":["セットデザイン","Set design"],"beauty_visual_director":["ビューティービジュアルディレクター","Beauty visual director"],"role":["役","Role"],"counsel":["代理人","Counsel"],"performer":["出演","Performer"],"danielle_tracks":["ダニエルの歌唱曲","Danielle's tracks"],"songwriter":["作詞作曲","Songwriter"],"featured_artist":["フィーチャリング","Featured artist"],"remixer":["リミックス","Remixer"],"album":["アルバム","Album"],"'Hype Boy' Remix Arrange":["「Hype Boy」リミックス・アレンジ","'Hype Boy' remix arrangement"],"special_video_director":["スペシャル映像監督","Special video director"],"performance_video_director":["パフォーマンス映像監督","Performance video director"],"'Attention' Remix":["「Attention」リミックス","'Attention' remix"],"Mashup Remix":["マッシュアップ・リミックス","Mashup remix"],"narration":["ナレーション","Narration"],"special_dj":["スペシャルDJ","Special DJ"],"co_host":["共同司会","Co-host"],"navigator":["ナビゲーター","Navigator"],"nail":["ネイル","Nails"],"feature_director":["フィーチャーディレクター","Feature director"],"film_director":["映像監督","Film director"],"video":["映像","Video"],"editor_in_chief":["編集長","Editor-in-chief"],"art_director":["アートディレクター","Art director"],"special_creative_director":["スペシャルクリエイティブディレクター","Special creative director"],"beauty_director":["ビューティーディレクター","Beauty director"],"makeup_and_image":["メイク・イメージ","Makeup and image"],"contributing_editor":["コントリビューティングエディター","Contributing editor"],"operator":["運営","Operator"],"co-model":["共演モデル","Co-model"],"agency":["代理店","Agency"],"client":["クライアント","Client"],"institution":["機関","Institution"],"collaborators":["コラボレーター","Collaborators"],"designers":["デザイナー","Designers"],"source_account":["投稿元","Source account"],"design":["デザイン","Design"],"lineup":["ラインナップ","Lineup"],"opening_act":["オープニングアクト","Opening act"],"guest":["ゲスト","Guest"],"art_direction":["アートディレクション","Art direction"],"guest_of":["ゲスト出演先","Guest of"],"body":["主体","Body"],"featured_artists":["フィーチャリング","Featured artists"],"partner":["パートナー","Partner"],"collaborator":["コラボレーター","Collaborator"]};
   const KIND_TAGS = ["teaser", "trailer", "concept-film", "lyric-video", "track-video", "dance-practice", "performance", "stage-cam", "audition", "pre-debut", "announcement"];
 
   const state = { items: [], eras: [], images: {}, sprites: null, xposts: {}, read: new Set(), member: null, pages: [], byDate: {}, cur: -1, mode: "cover", showMeta: false, cats: new Set(Object.keys(CATS)), tocMonth: null, lang: "ja" };
   const L = o => (o ? (o[state.lang] || o.ja || o.en || "") : "");
   const tx = (ja, en) => (state.lang === "en" ? en : ja);
+  const biText = v => (v && typeof v === "object" ? (state.lang === "en" ? (v.en || v.ja) : state.lang === "both" && v.en && v.en !== v.ja ? `${v.ja} / ${v.en}` : (v.ja || v.en)) : (v || ""));
   const WD_EN = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
 
   const $ = (sel, root = document) => root.querySelector(sel);
@@ -276,7 +278,10 @@
     }
     if (it.credits && Object.keys(it.credits).length) {
       const dl = el("dl", { class: "credits" });
-      for (const [k, v] of Object.entries(it.credits)) { dl.append(el("dt", { class: "mono" }, k.replace(/_/g, " ")), el("dd", {}, v)); }
+      for (const [k, v] of Object.entries(it.credits)) {
+        const lab = CREDIT_LABELS[k] ? tx(CREDIT_LABELS[k][0], CREDIT_LABELS[k][1]) : k.replace(/_/g, " ");
+        dl.append(el("dt", { class: "mono" }, lab), el("dd", {}, biText(v)));
+      }
       ($(".detail", node) || $(".desc", node)).after(dl);
     }
     const img = imageOf(it), isYt = it.media && it.media.type === "youtube" && it.media.ref;
@@ -315,8 +320,9 @@
         const im = assetImg(pth, (it.image && it.image.source_url) || it.source_url);
         const fig = el("figure", { class: "g-item", "aria-label": `${k + 1} / ${galleryItems.length}` });
         const titles = it.image && it.image.path ? (it.asset_titles || []) : (it.asset_titles || []).slice(1);
-        fig.appendChild(im.sprite ? spriteCanvas(im.sprite, "g-img") : el("img", { class: "g-img", src: im.src, alt: titles[k] || "", loading: "lazy", decoding: "async" }));
-        if (titles[k]) fig.appendChild(el("figcaption", { class: "g-cap" }, titles[k]));
+        const cap = biText(titles[k]);
+        fig.appendChild(im.sprite ? spriteCanvas(im.sprite, "g-img") : el("img", { class: "g-img", src: im.src, alt: cap, loading: "lazy", decoding: "async" }));
+        if (cap) fig.appendChild(el("figcaption", { class: "g-cap" }, cap));
         fig.addEventListener("click", () => openLightbox(it, im));
         box.appendChild(fig);
       });
