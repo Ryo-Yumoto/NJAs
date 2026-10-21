@@ -678,13 +678,34 @@
       "goods/goods-2022-12-23-omg-nu-jeans-popup-nudake/07.jpg"
     ],
     "asset_titles": [
-      "누+진스 케이크",
-      "하트 토퍼",
-      "팝업 카드 세트",
-      "페이퍼 오너먼트",
-      "가랜드",
-      "냅킨/냅킨 홀더",
-      "댄싱 토퍼"
+      {
+        "ja": "NU+JEANSケーキ",
+        "en": "NU+JEANS cake"
+      },
+      {
+        "ja": "ハートトッパー",
+        "en": "Heart topper"
+      },
+      {
+        "ja": "ポップアップカードセット",
+        "en": "Pop-up card set"
+      },
+      {
+        "ja": "ペーパーオーナメント",
+        "en": "Paper ornament"
+      },
+      {
+        "ja": "ガーランド",
+        "en": "Garland"
+      },
+      {
+        "ja": "ナプキン/ナプキンホルダー",
+        "en": "Napkins/napkin holder"
+      },
+      {
+        "ja": "ダンシングトッパー",
+        "en": "Dancing topper"
+      }
     ]
   },
   {
@@ -3472,8 +3493,14 @@
       "THE POWERPUFF GIRLS x NJ MOUSE PAD VER.2",
       "THE POWERPUFF GIRLS x NJ PLASTIC FILE FOLDER VER.2",
       "THE POWERPUFF GIRLS x NJ PHOTO HOLDER KEYRING VER.2",
-      "NJ Get Up 텀블러 (475mL)",
-      "NJ Get Up 에코백 (MINJI)"
+      {
+        "ja": "NJ Get Up タンブラー (475mL)",
+        "en": "NJ Get Up Tumbler (475mL)"
+      },
+      {
+        "ja": "NJ Get Up エコバッグ (MINJI)",
+        "en": "NJ Get Up Canvas Tote Bag (MINJI)"
+      }
     ]
   },
   {
@@ -4194,27 +4221,90 @@
       "goods/goods-2024-06-05-how-sweet-popup-line-friends-square-sinsa/21.jpg"
     ],
     "asset_titles": [
-      "NJ X 꼴레 퍼리 버니 플러시 키링 (TIDE BLUE)",
-      "NJ How Sweet 책받침",
-      "NJ How Sweet 포카홀더 키링",
-      "NJ How Sweet 아크릴 스탠드",
-      "NJ X 꼴레 메탈 스티콘 세트 (4개입)",
-      "NJ X 꼴레 나비 패딩 스티콘",
-      "NJ How Sweet 아크릴 포토 키링",
-      "bunini 미니 코스튬 키링 (WHITE)",
-      "NJ How Sweet 포토 스티콘",
-      "NJ How Sweet PVC 스티커팩",
-      "NJ X 꼴레 래빗 파우치 (TIDE BLUE)",
-      "NJ X 꼴레 버니 플러시 키링 (WHITE)",
-      "NJ X 꼴레 카드지갑 세트 (SHADE BLACK)",
-      "NJ X 꼴레 래빗 파우치 (WHITE)",
-      "NJ X 꼴레 래빗 파우치 (SHADE BLACK)",
-      "NJ X 꼴레 카드지갑 세트 (MIDNIGHT BLUE)",
-      "bunini 인형 클로젯 How Sweet 로고 민소매 셋업",
-      "bunini 메시지 인형 키링 (GREEN)",
-      "NJ X 꼴레 래빗 스트링백 (FUCHSIA PINK)",
-      "NJ X 꼴레 카드지갑 세트 (WHITE)",
-      "TOKKI 3단 자동 우산 (BLUE)"
+      {
+        "ja": "NJ X COLLER バニーぬいぐるみキーリング(TIDE BLUE)",
+        "en": "NJ X COLLER Furry Bunny Plush Keyring (TIDE BLUE)"
+      },
+      {
+        "ja": "NJ How Sweet 下敷き",
+        "en": "NJ How Sweet Pencil Board"
+      },
+      {
+        "ja": "NJ How Sweet フォトカードホルダーキーリング",
+        "en": "NJ How Sweet Photo Card Holder Keyring"
+      },
+      {
+        "ja": "NJ How Sweet アクリルスタンド",
+        "en": "NJ How Sweet Acrylic Stand"
+      },
+      {
+        "ja": "NJ X COLLER メタルスティコンセット (4個入り)",
+        "en": "NJ X COLLER Metal Sticon Set (4PCS)"
+      },
+      {
+        "ja": "NJ X COLLER バタフライパディングスティコン",
+        "en": "NJ X COLLER Padded Butterfly Sticon"
+      },
+      {
+        "ja": "NJ How Sweet アクリルフォトキーリング",
+        "en": "NJ How Sweet Acrylic Photo Keyring"
+      },
+      {
+        "ja": "bunini ミニコスチュームキーリング (WHITE)",
+        "en": "bunini Mini Costume Keyring (WHITE)"
+      },
+      {
+        "ja": "NJ How Sweet フォトスティコン",
+        "en": "NJ How Sweet Photo Sticon"
+      },
+      {
+        "ja": "NJ How Sweet PVCステッカーパック",
+        "en": "NJ How Sweet PVC Sticker Pack"
+      },
+      {
+        "ja": "NJ X COLLER ラビットポーチ(TIDE BLUE)",
+        "en": "NJ X COLLER Rabbit Pouch (TIDE BLUE)"
+      },
+      {
+        "ja": "NJ X COLLER バニーぬいぐるみキーリング(WHITE)",
+        "en": "NJ X COLLER Bunny Plush Keyring (WHITE)"
+      },
+      {
+        "ja": "NJ X COLLER カードウォレットセット(SHADE BLACK)",
+        "en": "NJ X COLLER Card Wallet Set (SHADE BLACK)"
+      },
+      {
+        "ja": "NJ X COLLER ラビットポーチ(WHITE)",
+        "en": "NJ X COLLER Rabbit Pouch (WHITE)"
+      },
+      {
+        "ja": "NJ X COLLER ラビットポーチ(SHADE BLACK)",
+        "en": "NJ X COLLER Rabbit Pouch (SHADE BLACK)"
+      },
+      {
+        "ja": "NJ X COLLER カードウォレットセット(MIDNIGHT BLUE)",
+        "en": "NJ X COLLER Card Wallet Set (MIDNIGHT BLUE)"
+      },
+      {
+        "ja": "bunini ドールクローゼット How Sweet ロゴノースリーブセットアップ",
+        "en": "bunini Doll Closet How Sweet Logo Sleeveless Set Up"
+      },
+      {
+        "ja": "bunini メッセージぬいぐるみキーリング (GREEN)",
+        "en": "bunini Talking Plush Keyring (GREEN)"
+      },
+      {
+        "ja": "NJ X COLLER ラビットストリングバッグ(FUCHSIA PINK)",
+        "en": "NJ X COLLER Rabbit String Bag (FUCHSIA PINK)"
+      },
+      {
+        "ja": "NJ X COLLER カードウォレットセット(WHITE)",
+        "en": "NJ X COLLER Card Wallet Set (WHITE)"
+      },
+      {
+        "ja": "TOKKI 3段折りたたみ自動傘 (BLUE)",
+        "en": "TOKKI 3-Tier Umbrella (BLUE)"
+      }
     ]
   },
   {
@@ -4600,21 +4690,66 @@
       "goods/goods-2024-06-26-supernatural-popup-line-friends-square-myeongdong/15.jpg"
     ],
     "asset_titles": [
-      "NJ Supernatural 부채 (HAERIN)",
-      "NJ Supernatural 부채 (HANNI)",
-      "TOKKI 부채 커버",
-      "NJ Supernatural 부채 (DANIELLE)",
-      "bunini 부채 커버 (PINK MIXED)",
-      "bunini 부채 커버 (YELLOW MIXED)",
-      "NewJeans x MURAKAMI 젤펜",
-      "NewJeans x MURAKAMI 메탈 키링",
-      "NewJeans x MURAKAMI 포카 홀더 키링",
-      "NewJeans x MURAKAMI 부채 키링",
-      "NewJeans x MURAKAMI 메탈 핀뱃지",
-      "NewJeans x MURAKAMI 아크릴 스마트톡",
-      "NewJeans x MURAKAMI LIGHT STICK 액세서리 (FLOWER)",
-      "NewJeans x MURAKAMI 티셔츠 (MELANGE GRAY)",
-      "NewJeans x MURAKAMI LIGHT STICK 가방"
+      {
+        "ja": "NJ Supernatural うちわ (HAERIN)",
+        "en": "NJ Supernatural Fan (HAERIN)"
+      },
+      {
+        "ja": "NJ Supernatural うちわ (HANNI)",
+        "en": "NJ Supernatural Fan (HANNI)"
+      },
+      {
+        "ja": "TOKKI うちわカバー",
+        "en": "TOKKI Fan Cover"
+      },
+      {
+        "ja": "NJ Supernatural うちわ (DANIELLE)",
+        "en": "NJ Supernatural Fan (DANIELLE)"
+      },
+      {
+        "ja": "buniniうちわカバー(PINK MIXED)",
+        "en": "bunini Fan Cover (PINK MIXED)"
+      },
+      {
+        "ja": "buniniうちわカバー(YELLOW MIXED)",
+        "en": "bunini Fan Cover (YELLOW MIXED)"
+      },
+      {
+        "ja": "NewJeans x MURAKAMI ジェルペン",
+        "en": "NewJeans x MURAKAMI Gel Pen"
+      },
+      {
+        "ja": "NewJeans x MURAKAMI メタルキーリング",
+        "en": "NewJeans x MURAKAMI Metal Keyring"
+      },
+      {
+        "ja": "NewJeans x MURAKAMI フォトカードホルダーキーリング",
+        "en": "NewJeans x MURAKAMI Photo Card Holder Keyring"
+      },
+      {
+        "ja": "NewJeans x MURAKAMI うちわキーリング",
+        "en": "NewJeans x MURAKAMI Fan Keyring"
+      },
+      {
+        "ja": "NewJeans x MURAKAMI メタルピンバッジ",
+        "en": "NewJeans x MURAKAMI Metal Pin Badge"
+      },
+      {
+        "ja": "NewJeans x MURAKAMI アクリルスマホグリップ",
+        "en": "NewJeans x MURAKAMI Acrylic Phone Grip"
+      },
+      {
+        "ja": "NewJeans x MURAKAMI ライトスティックアクセサリー (FLOWER)",
+        "en": "NewJeans x MURAKAMI LIGHT STICK Accessory (FLOWER)"
+      },
+      {
+        "ja": "NewJeans x MURAKAMI Tシャツ (MELANGE GRAY)",
+        "en": "NewJeans x MURAKAMI T-Shirt (MELANGE GRAY)"
+      },
+      {
+        "ja": "NewJeans x MURAKAMI ライトスティックバッグ",
+        "en": "NewJeans x MURAKAMI LIGHT STICK Bag"
+      }
     ]
   },
   {
@@ -4802,15 +4937,42 @@
       "goods/goods-2024-07-01-line-friends-square-online-murakami-restock-preorder/09.jpg"
     ],
     "asset_titles": [
-      "NewJeans x MURAKAMI 젤펜",
-      "NewJeans x MURAKAMI 메탈 키링",
-      "NewJeans x MURAKAMI 포카 홀더 키링",
-      "NewJeans x MURAKAMI 부채 키링",
-      "NewJeans x MURAKAMI 메탈 핀뱃지",
-      "NewJeans x MURAKAMI 아크릴 스마트톡",
-      "NewJeans x MURAKAMI LIGHT STICK 액세서리 (FLOWER)",
-      "NewJeans x MURAKAMI 티셔츠 (MELANGE GRAY)",
-      "NewJeans x MURAKAMI LIGHT STICK 가방"
+      {
+        "ja": "NewJeans x MURAKAMI ジェルペン",
+        "en": "NewJeans x MURAKAMI Gel Pen"
+      },
+      {
+        "ja": "NewJeans x MURAKAMI メタルキーリング",
+        "en": "NewJeans x MURAKAMI Metal Keyring"
+      },
+      {
+        "ja": "NewJeans x MURAKAMI フォトカードホルダーキーリング",
+        "en": "NewJeans x MURAKAMI Photo Card Holder Keyring"
+      },
+      {
+        "ja": "NewJeans x MURAKAMI うちわキーリング",
+        "en": "NewJeans x MURAKAMI Fan Keyring"
+      },
+      {
+        "ja": "NewJeans x MURAKAMI メタルピンバッジ",
+        "en": "NewJeans x MURAKAMI Metal Pin Badge"
+      },
+      {
+        "ja": "NewJeans x MURAKAMI アクリルスマホグリップ",
+        "en": "NewJeans x MURAKAMI Acrylic Phone Grip"
+      },
+      {
+        "ja": "NewJeans x MURAKAMI ライトスティックアクセサリー (FLOWER)",
+        "en": "NewJeans x MURAKAMI LIGHT STICK Accessory (FLOWER)"
+      },
+      {
+        "ja": "NewJeans x MURAKAMI Tシャツ (MELANGE GRAY)",
+        "en": "NewJeans x MURAKAMI T-Shirt (MELANGE GRAY)"
+      },
+      {
+        "ja": "NewJeans x MURAKAMI ライトスティックバッグ",
+        "en": "NewJeans x MURAKAMI LIGHT STICK Bag"
+      }
     ]
   },
   {
@@ -5389,26 +5551,86 @@
       "goods/goods-2026-01-01-line-friends-square-japan-bunini-goods/20.jpg"
     ],
     "asset_titles": [
-      "bunini ねそべりぬいぐるみ(WHITE)",
-      "bunini エコバックINマスコット(PINK)",
-      "bunini プラッシュ巾着(BLUE)",
-      "bunini ぬいぐるみポーチ (PINK)",
-      "bunini アクリルキーチェーン(BLUE)",
-      "bunini メタルキーチェーン(PINK)",
-      "bunini ステッカー PLAY(WHITE)",
-      "bunini ステッカー SKIP(BLUE)",
-      "bunini ミニタオル(PINK)",
-      "bunini ミニエコバッグ(NV×WH)",
-      "bunini 肩掛けエコバッグ(NV×WH)",
-      "bunini 前髪クリップ(BLUE)",
-      "bunini コスチュームキーリング(BLACK)",
-      "bunini スクールクローゼット ジャケット",
-      "bunini スクールクローゼット 制服ネクタイ",
-      "bunini スクールクローゼット 制服メガネ",
-      "bunini フェアリーコアクローゼット",
-      "bunini バレエコアクローゼット",
-      "bunini アクセサリークローゼット",
-      "bunini ジップパーカークローゼット"
+      {
+        "ja": "bunini ねそべりぬいぐるみ(WHITE)",
+        "en": "bunini lying plush (WHITE)"
+      },
+      {
+        "ja": "bunini エコバックINマスコット(PINK)",
+        "en": "bunini mascot with eco bag inside (PINK)"
+      },
+      {
+        "ja": "bunini プラッシュ巾着(BLUE)",
+        "en": "bunini plush drawstring pouch (BLUE)"
+      },
+      {
+        "ja": "bunini ぬいぐるみポーチ (PINK)",
+        "en": "bunini plush pouch (PINK)"
+      },
+      {
+        "ja": "bunini アクリルキーチェーン(BLUE)",
+        "en": "bunini acrylic keychain (BLUE)"
+      },
+      {
+        "ja": "bunini メタルキーチェーン(PINK)",
+        "en": "bunini metal keychain (PINK)"
+      },
+      {
+        "ja": "bunini ステッカー PLAY(WHITE)",
+        "en": "bunini sticker PLAY (WHITE)"
+      },
+      {
+        "ja": "bunini ステッカー SKIP(BLUE)",
+        "en": "bunini sticker SKIP (BLUE)"
+      },
+      {
+        "ja": "bunini ミニタオル(PINK)",
+        "en": "bunini mini towel (PINK)"
+      },
+      {
+        "ja": "bunini ミニエコバッグ(NV×WH)",
+        "en": "bunini mini eco bag (NV×WH)"
+      },
+      {
+        "ja": "bunini 肩掛けエコバッグ(NV×WH)",
+        "en": "bunini shoulder eco bag (NV×WH)"
+      },
+      {
+        "ja": "bunini 前髪クリップ(BLUE)",
+        "en": "bunini bangs clip (BLUE)"
+      },
+      {
+        "ja": "bunini コスチュームキーリング(BLACK)",
+        "en": "bunini costume keyring (BLACK)"
+      },
+      {
+        "ja": "bunini スクールクローゼット ジャケット",
+        "en": "bunini school closet jacket"
+      },
+      {
+        "ja": "bunini スクールクローゼット 制服ネクタイ",
+        "en": "bunini school closet uniform tie"
+      },
+      {
+        "ja": "bunini スクールクローゼット 制服メガネ",
+        "en": "bunini school closet uniform glasses"
+      },
+      {
+        "ja": "bunini フェアリーコアクローゼット",
+        "en": "bunini fairycore closet"
+      },
+      {
+        "ja": "bunini バレエコアクローゼット",
+        "en": "bunini balletcore closet"
+      },
+      {
+        "ja": "bunini アクセサリークローゼット",
+        "en": "bunini accessory closet"
+      },
+      {
+        "ja": "bunini ジップパーカークローゼット",
+        "en": "bunini zip hoodie closet"
+      }
     ]
   },
   {
@@ -5462,14 +5684,38 @@
       "goods/goods-2026-06-01-line-friends-square-newjeans-initial-anime-minini-tokki/08.jpg"
     ],
     "asset_titles": [
-      "NewJeans 이니셜 와펜 리버스 스티콘 HR",
-      "NewJeans 이니셜 와펜 리버스 스티콘 HN",
-      "NewJeans 이니셜 와펜 리버스 스티콘 DN",
-      "NewJeans 만화 메탈 거울키링 HN",
-      "NewJeans 만화 메탈 거울키링 DN",
-      "NewJeans 만화 메탈 거울키링 HI",
-      "NewJeans 미니니 토끼 플러시 펜",
-      "NewJeans 미니니 토끼 플러시 포토카드 홀더 옐로우"
+      {
+        "ja": "NewJeans イニシャルワッペンリバーススティコン HR",
+        "en": "NewJeans Initial Wappen Reverse Sticon HR"
+      },
+      {
+        "ja": "NewJeans イニシャルワッペンリバーススティコン HN",
+        "en": "NewJeans Initial Wappen Reverse Sticon HN"
+      },
+      {
+        "ja": "NewJeans イニシャルワッペンリバーススティコン DN",
+        "en": "NewJeans Initial Wappen Reverse Sticon DN"
+      },
+      {
+        "ja": "NewJeans アニメ メタルミラーキーリング HN",
+        "en": "NewJeans Anime Metal Mirror Keyring HN"
+      },
+      {
+        "ja": "NewJeans アニメ メタルミラーキーリング DN",
+        "en": "NewJeans Anime Metal Mirror Keyring DN"
+      },
+      {
+        "ja": "NewJeans アニメ メタルミラーキーリング HI",
+        "en": "NewJeans Anime Metal Mirror Keyring HI"
+      },
+      {
+        "ja": "NewJeans minini TOKKI ぬいぐるみペン",
+        "en": "NewJeans minini TOKKI Plush Pen"
+      },
+      {
+        "ja": "NewJeans minini TOKKI ぬいぐるみフォトカードホルダー イエロー",
+        "en": "NewJeans minini TOKKI Plush Photocard Holder Yellow"
+      }
     ]
   }
 ]

@@ -38,8 +38,14 @@
     },
     "credits": {
       "outlet": "Be(Attitude)",
-      "photographer": "Song Si-young (송시영)",
-      "contributing_editor": "Cha Woo-jin (차우진)"
+      "photographer": {
+        "ja": "ソン・シヨン",
+        "en": "Song Si-young"
+      },
+      "contributing_editor": {
+        "ja": "チャ・ウジン",
+        "en": "Cha Woo-jin"
+      }
     }
   },
   {
@@ -594,7 +600,10 @@
     },
     "credits": {
       "outlet": "Real Sound",
-      "interviewer": "Kanon Izumi (泉夏音)"
+      "interviewer": {
+        "ja": "泉夏音",
+        "en": "Kanon Izumi"
+      }
     },
     "editor_note": "公開時刻は2024-01-03 12:00 JST（realsound.jp）。"
   },
@@ -749,7 +758,10 @@
     },
     "credits": {
       "outlet": "Marie Claire Korea",
-      "editor": "Park Han-bit-nu-ri (박한빛누리)"
+      "editor": {
+        "ja": "パク・ハンビッヌリ",
+        "en": "Park Han-bit-nu-ri"
+      }
     },
     "editor_note": "marie claire Korea公式記事(2024-07-25)に基づく。 / Cut for length: handled by freelance contributing editor Park Han-bit-nu-ri (박한빛누리; retained in credits)."
   },
@@ -938,7 +950,10 @@
     },
     "credits": {
       "outlet": "Harper's Bazaar Korea",
-      "editor": "Je Hye-yoon (제혜윤)"
+      "editor": {
+        "ja": "チェ・ヘユン",
+        "en": "Je Hye-yoon"
+      }
     },
     "editor_note": "Harper's BAZAAR Korea公式記事(2026-09-02)に基づく。 / Cut for length: published in the celebrity interview section; editor Je Hye-yoon (제혜윤; retained in credits)."
   }

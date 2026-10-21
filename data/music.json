@@ -569,7 +569,10 @@
       "label": "Walt Disney Records",
       "distributor": "Universal Music Group",
       "composer": "Alan Menken",
-      "danielle_tracks": "저곳으로 / 저곳으로 (리프라이즈) / 처음으로 / 저 곳으로 (리프라이즈 II)"
+      "danielle_tracks": {
+        "ja": "パート・オブ・ユア・ワールド / パート・オブ・ユア・ワールド（リプライズ） / 何もかも初めて / パート・オブ・ユア・ワールド（リプライズ２）",
+        "en": "Part of Your World / Part of Your World (Reprise) / For the First Time / Part of Your World (Reprise II)"
+      }
     },
     "source_url": "https://www.melon.com/album/detail.htm?albumId=11249055",
     "reference_urls": [

@@ -3699,7 +3699,10 @@
       "label": "ADOR",
       "runtime": "3:08",
       "broadcaster": "Fuji TV",
-      "program": "2023 FNS歌謡祭 夏"
+      "program": {
+        "ja": "2023 FNS歌謡祭 夏",
+        "en": "FNS Kayosai Summer 2023 (FNS Music Festival Summer)"
+      }
     }
   },
   {
@@ -3787,7 +3790,10 @@
       "label": "ADOR",
       "runtime": "3:38",
       "broadcaster": "TBS",
-      "program": "音楽の日 2023"
+      "program": {
+        "ja": "音楽の日 2023",
+        "en": "Ongaku no Hi 2023 (Day of Music)"
+      }
     }
   },
   {
@@ -4505,7 +4511,10 @@
       "lyricist": "IU",
       "composer": "Lee Jong-hoon, Lee Chae-gyu",
       "arranger": "Lee Jong-hoon, Lee Chae-gyu, Hong So-jin",
-      "channel": "이지금 [IU Official]"
+      "channel": {
+        "ja": "IU Official",
+        "en": "IU Official"
+      }
     },
     "source_url": "https://www.youtube.com/watch?v=VIDQTyNmkN4",
     "reference_urls": [

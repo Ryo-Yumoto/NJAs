@@ -1254,7 +1254,10 @@
     },
     "credits": {
       "broadcaster": "Nippon TV",
-      "program": "発表!今年イチバン聴いた歌～年間ミュージックアワード2022～"
+      "program": {
+        "ja": "発表!今年イチバン聴いた歌～年間ミュージックアワード2022～",
+        "en": "Happyo! Kotoshi Ichiban Kiita Uta: Nenkan Music Award 2022 (Announced! The Most-Listened Songs of the Year: Annual Music Award 2022)"
+      }
     },
     "editor_note": "公式YouTube動画なし: NTV does not publish performance clips on YouTube; no official upload found"
   },
@@ -2377,7 +2380,10 @@
     },
     "credits": {
       "broadcaster": "Fuji TV",
-      "program": "2023 FNS歌謡祭 夏",
+      "program": {
+        "ja": "2023 FNS歌謡祭 夏",
+        "en": "FNS Kayosai Summer 2023 (FNS Music Festival Summer)"
+      },
       "host": "Masaki Aiba, Yumi Nagashima"
     },
     "links": {
@@ -2507,7 +2513,10 @@
     },
     "credits": {
       "broadcaster": "TBS",
-      "program": "音楽の日2023"
+      "program": {
+        "ja": "音楽の日2023",
+        "en": "Ongaku no Hi 2023 (Day of Music)"
+      }
     },
     "editor_note": "Songs per en.wikipedia live-performance list (flagged citation needed there); broadcast time per ja.wikipedia. / 公式動画: NewJeans「NewJeans (뉴진스) ‘OMG’ Stage Cam @ ONGAKUNOHI 2023」(2023-07-31)",
     "links": {
@@ -3913,7 +3922,10 @@
     },
     "credits": {
       "broadcaster": "Nippon TV",
-      "program": "発表!今年イチバン聴いた歌～年間ミュージックアワード2023～"
+      "program": {
+        "ja": "発表!今年イチバン聴いた歌～年間ミュージックアワード2023～",
+        "en": "Happyo! Kotoshi Ichiban Kiita Uta: Nenkan Music Award 2023 (Announced! The Most-Listened Songs of the Year: Annual Music Award 2023)"
+      }
     },
     "editor_note": "公式YouTube動画なし: NTV does not publish performance clips on YouTube; no official upload found"
   },
@@ -4041,7 +4053,10 @@
     },
     "credits": {
       "broadcaster": "NHK General TV",
-      "program": "第74回NHK紅白歌合戦",
+      "program": {
+        "ja": "第74回NHK紅白歌合戦",
+        "en": "The 74th NHK Kohaku Uta Gassen"
+      },
       "venue": "NHK Hall, Tokyo"
     }
   },
@@ -4126,7 +4141,10 @@
     },
     "credits": {
       "broadcaster": "NHK General TV",
-      "program": "NHKスペシャル 世界に響く歌～日韓POPS新時代～"
+      "program": {
+        "ja": "NHKスペシャル 世界に響く歌～日韓POPS新時代～",
+        "en": "NHK Special: Sekai ni Hibiku Uta, Nikkan POPS Shinjidai (Songs Resonating Around the World: A New Era of Japanese and Korean Pop)"
+      }
     },
     "editor_note": "公式YouTube動画なし: NHK did not upload the documentary; NHK MUSIC only posted a related Min Hee-jin interview excerpt (kUMl6mqXXyc, 2024-02-27)"
   },
@@ -4813,7 +4831,10 @@
     },
     "credits": {
       "broadcaster": "Fuji TV",
-      "program": "めざまし8"
+      "program": {
+        "ja": "めざまし8",
+        "en": "Mezamashi 8"
+      }
     },
     "editor_note": "公式YouTube動画なし: Fuji TV has no Mezamashi 8 clip of NewJeans on YouTube (only the Mezamashi TV performance clip)"
   },
@@ -4856,7 +4877,10 @@
     },
     "credits": {
       "broadcaster": "Fuji TV",
-      "program": "めざましテレビ"
+      "program": {
+        "ja": "めざましテレビ",
+        "en": "Mezamashi TV"
+      }
     },
     "links": {
       "youtube": "https://www.youtube.com/watch?v=bNOo8Hajqg4"
@@ -4902,7 +4926,10 @@
     },
     "credits": {
       "broadcaster": "TV Asahi",
-      "program": "ミュージックステーション"
+      "program": {
+        "ja": "ミュージックステーション",
+        "en": "Music Station"
+      }
     },
     "links": {
       "youtube": "https://www.youtube.com/watch?v=o3-_lQXfwWE"
@@ -5031,7 +5058,10 @@
     },
     "credits": {
       "broadcaster": "TBS",
-      "program": "CDTVライブ!ライブ!"
+      "program": {
+        "ja": "CDTVライブ!ライブ!",
+        "en": "CDTV Live! Live!"
+      }
     },
     "editor_note": "公式YouTube動画なし: CDTV official channel has no clip for the 2024-06-24 broadcast (only 07-01 and 08-17 talk clips)"
   },
@@ -5116,7 +5146,10 @@
     },
     "credits": {
       "broadcaster": "TBS",
-      "program": "CDTVライブ!ライブ!"
+      "program": {
+        "ja": "CDTVライブ!ライブ!",
+        "en": "CDTV Live! Live!"
+      }
     },
     "links": {
       "youtube": "https://www.youtube.com/watch?v=ew98NQudOSk"
@@ -5197,7 +5230,10 @@
     },
     "credits": {
       "broadcaster": "Fuji TV",
-      "program": "2024 FNS歌謡祭 夏",
+      "program": {
+        "ja": "2024 FNS歌謡祭 夏",
+        "en": "FNS Kayosai Summer 2024 (FNS Music Festival Summer)"
+      },
       "host": "Masaki Aiba, Sayaka Inoue"
     },
     "editor_note": "公式YouTube動画なし: Fuji TV does not publish FNS performances on YouTube; no official upload found"
@@ -5368,7 +5404,10 @@
     },
     "credits": {
       "broadcaster": "TBS",
-      "program": "音楽の日2024"
+      "program": {
+        "ja": "音楽の日2024",
+        "en": "Ongaku no Hi 2024 (Day of Music)"
+      }
     },
     "editor_note": "Remote-from-Korea listing per ja.wikipedia program page; song (Supernatural) per fan reports only, not confirmed by TBS. / 公式YouTube動画なし: TBS does not publish Ongaku no Hi performances on YouTube; no official upload found"
   },
@@ -5584,7 +5623,10 @@
     },
     "credits": {
       "broadcaster": "TBS",
-      "program": "CDTVライブ!ライブ! 夏フェスSP"
+      "program": {
+        "ja": "CDTVライブ!ライブ! 夏フェスSP",
+        "en": "CDTV Live! Live! Summer Fes Special"
+      }
     },
     "editor_note": "Per-member covers per en.wikipedia live-performance list; TBS listing confirms only the Utada cover and segment. / 公式動画: CDTV 公式YouTube「【CDTV】NewJeans⚡️夏を8000倍楽しむぅ～～～～🐱」(2024-08-17)",
     "links": {
@@ -5829,7 +5871,10 @@
     },
     "credits": {
       "broadcaster": "Nippon TV",
-      "program": "ニノさん",
+      "program": {
+        "ja": "ニノさん",
+        "en": "Nino-san"
+      },
       "host": "Kazunari Ninomiya"
     },
     "editor_note": "公式YouTube動画なし: NTV has no official Nino-san clip of NewJeans on YouTube (only news-aggregator uploads)"
@@ -5960,7 +6005,10 @@
     },
     "credits": {
       "broadcaster": "TV Asahi",
-      "program": "ミュージックステーション"
+      "program": {
+        "ja": "ミュージックステーション",
+        "en": "Music Station"
+      }
     },
     "links": {
       "youtube": "https://www.youtube.com/watch?v=GWXmvcX27UA"
@@ -6003,7 +6051,10 @@
     },
     "credits": {
       "broadcaster": "Nippon TV",
-      "program": "ベストアーティスト2024"
+      "program": {
+        "ja": "ベストアーティスト2024",
+        "en": "Best Artist 2024"
+      }
     },
     "editor_note": "公式YouTube動画なし: NTV does not publish Best Artist performances on YouTube; no official upload found"
   },
@@ -6043,7 +6094,10 @@
     },
     "credits": {
       "broadcaster": "Fuji TV",
-      "program": "2024 FNS歌謡祭 第1夜",
+      "program": {
+        "ja": "2024 FNS歌謡祭 第1夜",
+        "en": "FNS Kayosai 2024 Night 1 (FNS Music Festival)"
+      },
       "host": "Masaki Aiba, Sayaka Inoue"
     },
     "editor_note": "公式YouTube動画なし: Fuji TV does not publish FNS performances on YouTube; no official upload found"
@@ -6087,7 +6141,10 @@
     },
     "credits": {
       "broadcaster": "TBS",
-      "program": "CDTVライブ!ライブ! クリスマスSP"
+      "program": {
+        "ja": "CDTVライブ!ライブ! クリスマスSP",
+        "en": "CDTV Live! Live! Christmas Special"
+      }
     }
   },
   {
@@ -6308,7 +6365,10 @@
     },
     "credits": {
       "broadcaster": "Nippon TV",
-      "program": "発表!今年イチバン聴いた歌～年間ミュージックアワード2024～",
+      "program": {
+        "ja": "発表!今年イチバン聴いた歌～年間ミュージックアワード2024～",
+        "en": "Happyo! Kotoshi Ichiban Kiita Uta: Nenkan Music Award 2024 (Announced! The Most-Listened Songs of the Year: Annual Music Award 2024)"
+      },
       "host": "Mone Kamishiraishi, Elaiza Ikeda"
     },
     "editor_note": "Songs performed not confirmed from sources found. / 公式YouTube動画なし: NTV does not publish performance clips on YouTube; no official upload found"

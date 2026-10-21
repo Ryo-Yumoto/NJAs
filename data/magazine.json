@@ -34,13 +34,34 @@
     },
     "credits": {
       "publisher": "Elle Korea (Hearst JoongAng)",
-      "beauty_editor": "Jeong Yoon-ji (정윤지)",
-      "feature_editor": "Lee Ma-ru (이마루), Ryu Ga-young (류가영)",
-      "photographer": "Yoon Ji-yong (윤지용)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Ji-hee (지희), Nari (나리)",
-      "makeup": "Lee Na-gyeom (이나겸)",
-      "set_stylist": "Park Jin-hee (박진희)",
+      "beauty_editor": {
+        "ja": "チョン・ユンジ",
+        "en": "Jeong Yoon-ji"
+      },
+      "feature_editor": {
+        "ja": "イ・マル、リュ・ガヨン",
+        "en": "Lee Ma-ru, Ryu Ga-young"
+      },
+      "photographer": {
+        "ja": "ユン・ジヨン",
+        "en": "Yoon Ji-yong"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "ジヒ、ナリ",
+        "en": "Ji-hee, Nari"
+      },
+      "makeup": {
+        "ja": "イ・ナギョム",
+        "en": "Lee Na-gyeom"
+      },
+      "set_stylist": {
+        "ja": "パク・ジンヒ",
+        "en": "Park Jin-hee"
+      },
       "brand": "Chanel Beauty"
     }
   },
@@ -120,7 +141,10 @@
     },
     "credits": {
       "publisher": "Harper's Bazaar Korea (Hearst JoongAng)",
-      "editor": "Jung Hye-mi (정혜미)",
+      "editor": {
+        "ja": "チョン・ヘミ",
+        "en": "Jung Hye-mi"
+      },
       "brand": "Dior"
     }
   },
@@ -159,12 +183,30 @@
     },
     "credits": {
       "publisher": "Vogue Korea (Doosan Magazine)",
-      "editor": "Ga Nam-hee (가남희)",
-      "photographer": "Lee Hye-in (이혜인)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Ji-hee (지희)",
-      "makeup": "Lee Sook-kyung (이숙경)",
-      "set": "Jeon Min-gyu (전민규)",
+      "editor": {
+        "ja": "カ・ナムヒ",
+        "en": "Ga Nam-hee"
+      },
+      "photographer": {
+        "ja": "イ・ヘイン",
+        "en": "Lee Hye-in"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "ジヒ",
+        "en": "Ji-hee"
+      },
+      "makeup": {
+        "ja": "イ・スッキョン",
+        "en": "Lee Sook-kyung"
+      },
+      "set": {
+        "ja": "チョン・ミンギュ",
+        "en": "Jeon Min-gyu"
+      },
       "brand": "Louis Vuitton"
     }
   },
@@ -205,12 +247,30 @@
     },
     "credits": {
       "publisher": "W Korea (Doosan Magazine)",
-      "photographer": "Min Hee-jin (민희진)",
-      "fashion_director": "Kim Shin (김신)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Ji-hee (지희)",
-      "makeup": "Lee Eun-seo (이은서)",
-      "writer": "Park Seo-ryeong (박서령)"
+      "photographer": {
+        "ja": "ミン・ヒジン",
+        "en": "Min Hee-jin"
+      },
+      "fashion_director": {
+        "ja": "キム・シン",
+        "en": "Kim Shin"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "ジヒ",
+        "en": "Ji-hee"
+      },
+      "makeup": {
+        "ja": "イ・ウンソ",
+        "en": "Lee Eun-seo"
+      },
+      "writer": {
+        "ja": "パク・ソリョン",
+        "en": "Park Seo-ryeong"
+      }
     }
   },
   {
@@ -384,13 +444,34 @@
     },
     "credits": {
       "publisher": "Elle Korea (Hearst JoongAng)",
-      "feature_editor": "Lee Ma-ru (이마루)",
-      "beauty_editor": "Jeong Yoon-ji (정윤지)",
-      "photographer": "Park Jong-ha (박종하)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Ji-hee (지희)",
-      "makeup": "Oh Gil-ju (오길주)",
-      "set_stylist": "Yoo Hye-won (유혜원)",
+      "feature_editor": {
+        "ja": "イ・マル",
+        "en": "Lee Ma-ru"
+      },
+      "beauty_editor": {
+        "ja": "チョン・ユンジ",
+        "en": "Jeong Yoon-ji"
+      },
+      "photographer": {
+        "ja": "パク・ジョンハ",
+        "en": "Park Jong-ha"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "ジヒ",
+        "en": "Ji-hee"
+      },
+      "makeup": {
+        "ja": "オ・ギルジュ",
+        "en": "Oh Gil-ju"
+      },
+      "set_stylist": {
+        "ja": "ユ・ヘウォン",
+        "en": "Yoo Hye-won"
+      },
       "brand": "Chanel"
     }
   },
@@ -458,11 +539,26 @@
     },
     "credits": {
       "publisher": "W Korea (Doosan Magazine)",
-      "fashion_editor": "Lee Ye-ji (이예지)",
-      "photographer": "Mok Jung-wook (목정욱)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Park Ji-hee (박지희)",
-      "makeup": "Oh Gil-ju (오길주)",
+      "fashion_editor": {
+        "ja": "イ・イェジ",
+        "en": "Lee Ye-ji"
+      },
+      "photographer": {
+        "ja": "モク・ジョンウク",
+        "en": "Mok Jung-wook"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "パク・ジヒ",
+        "en": "Park Ji-hee"
+      },
+      "makeup": {
+        "ja": "オ・ギルジュ",
+        "en": "Oh Gil-ju"
+      },
       "brand": "Gucci"
     },
     "source_url": "https://www.instagram.com/p/CpPl88VP66U/",
@@ -546,11 +642,26 @@
     },
     "credits": {
       "publisher": "Vogue Korea (Doosan Magazine)",
-      "fashion_editor": "Heo Bo-yeon (허보연)",
-      "photographer": "Kim Hee-june (김희준)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Park Ji-hoi (박지회)",
-      "makeup": "Oh Gil-ju (오길주)",
+      "fashion_editor": {
+        "ja": "ホ・ボヨン",
+        "en": "Heo Bo-yeon"
+      },
+      "photographer": {
+        "ja": "キム・ヒジュン",
+        "en": "Kim Hee-june"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "パク・ジフェ",
+        "en": "Park Ji-hoi"
+      },
+      "makeup": {
+        "ja": "オ・ギルジュ",
+        "en": "Oh Gil-ju"
+      },
       "brand": "Louis Vuitton"
     },
     "source_url": "https://www.vogue.co.kr/2023/03/24/%eb%89%b4%ec%a7%84%ec%8a%a4-%ed%98%9c%ec%9d%b8-%ed%8c%8c%eb%a6%ac%ec%97%90%ec%84%9c-%eb%b9%9b%eb%82%98%eb%8b%a4/",
@@ -597,12 +708,30 @@
     },
     "credits": {
       "publisher": "Vogue Korea (Doosan Magazine)",
-      "digital_editor": "Ga Nam-hee (가남희)",
-      "photographer": "Kim Shin-ae (김신애)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Ji-hee (지희)",
-      "makeup": "Lee Suk-kyung (이숙경)",
-      "set": "Yoo Hye-won (유혜원)",
+      "digital_editor": {
+        "ja": "カ・ナムヒ",
+        "en": "Ga Nam-hee"
+      },
+      "photographer": {
+        "ja": "キム・シネ",
+        "en": "Kim Shin-ae"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "ジヒ",
+        "en": "Ji-hee"
+      },
+      "makeup": {
+        "ja": "イ・スッキョン",
+        "en": "Lee Suk-kyung"
+      },
+      "set": {
+        "ja": "ユ・ヘウォン",
+        "en": "Yoo Hye-won"
+      },
       "brand": "Dior Joaillerie"
     },
     "source_url": "https://www.vogue.co.kr/2023/04/24/%EB%89%B4%EC%A7%84%EC%8A%A4-%ED%95%B4%EB%A6%B0-%EC%B2%AB-%EB%8B%A8%EB%8F%85-%ED%99%94%EB%B3%B4-b%EC%BB%B7-%EA%B3%B5%EA%B0%9C/",
@@ -657,7 +786,10 @@
     },
     "credits": {
       "publisher": "Harper's Bazaar Korea (Hearst JoongAng)",
-      "editor": "Seo Dong-beom (서동범), Yoon Hye-young (윤혜영)",
+      "editor": {
+        "ja": "ソ・ドンボム、ユン・ヘヨン",
+        "en": "Seo Dong-beom, Yoon Hye-young"
+      },
       "brand": "Louis Vuitton"
     }
   },
@@ -863,8 +995,14 @@
     },
     "credits": {
       "publisher": "Elle Korea (Hearst JoongAng)",
-      "editor": "Son Da-ye (손다예)",
-      "photographer": "Kim Sang-woo (김상우)",
+      "editor": {
+        "ja": "ソン・ダイェ",
+        "en": "Son Da-ye"
+      },
+      "photographer": {
+        "ja": "キム・サンウ",
+        "en": "Kim Sang-woo"
+      },
       "brand": "Louis Vuitton"
     },
     "source_url": "https://www.elle.co.kr/article/78118",
@@ -955,11 +1093,26 @@
     },
     "credits": {
       "publisher": "W Korea (Doosan Magazine)",
-      "editor": "Lee Ye-ji (이예지)",
-      "photographer": "Ko Won-tae (고원태)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Kyung Min-jung (경민정)",
-      "makeup": "Oh Gil-ju (오길주)",
+      "editor": {
+        "ja": "イ・イェジ",
+        "en": "Lee Ye-ji"
+      },
+      "photographer": {
+        "ja": "コ・ウォンテ",
+        "en": "Ko Won-tae"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "キョン・ミンジョン",
+        "en": "Kyung Min-jung"
+      },
+      "makeup": {
+        "ja": "オ・ギルジュ",
+        "en": "Oh Gil-ju"
+      },
       "location": "Gyeongbokgung Palace, Seoul"
     }
   },
@@ -1073,12 +1226,30 @@
     },
     "credits": {
       "publisher": "Cosmopolitan Korea (Hearst JoongAng)",
-      "beauty_editor": "Kim Min-ji (김민지)",
-      "photographer": "Kim Seon-hye (김선혜)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Shin Ga-be (신가베)",
-      "makeup": "Oh Ga-young (오가영)",
-      "nail": "Kim Su-ji (김수지)",
+      "beauty_editor": {
+        "ja": "キム・ミンジ",
+        "en": "Kim Min-ji"
+      },
+      "photographer": {
+        "ja": "キム・ソンヘ",
+        "en": "Kim Seon-hye"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "シン・ガベ",
+        "en": "Shin Ga-be"
+      },
+      "makeup": {
+        "ja": "オ・ガヨン",
+        "en": "Oh Ga-young"
+      },
+      "nail": {
+        "ja": "キム・スジ",
+        "en": "Kim Su-ji"
+      },
       "brand": "Dior Beauty"
     },
     "source_url": "https://www.instagram.com/p/Cug0FO0vncr/",
@@ -1179,13 +1350,34 @@
     },
     "credits": {
       "publisher": "Vogue Korea (Doosan Magazine)",
-      "fashion_editor": "Son Ki-ho (손기호)",
-      "feature_editor": "Ryu Ga-young (류가영)",
-      "photographer": "Ko Won-tae (고원태)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Gabe (가베)",
-      "makeup": "Oh Ga-young (오가영)",
-      "set": "Choi Seo-yun (최서윤, Da;rak)",
+      "fashion_editor": {
+        "ja": "ソン・ギホ",
+        "en": "Son Ki-ho"
+      },
+      "feature_editor": {
+        "ja": "リュ・ガヨン",
+        "en": "Ryu Ga-young"
+      },
+      "photographer": {
+        "ja": "コ・ウォンテ",
+        "en": "Ko Won-tae"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "ガベ",
+        "en": "Gabe"
+      },
+      "makeup": {
+        "ja": "オ・ガヨン",
+        "en": "Oh Ga-young"
+      },
+      "set": {
+        "ja": "チェ・ソユン（Da;rak）",
+        "en": "Choi Seo-yun (Da;rak)"
+      },
       "brand": "Chanel"
     }
   },
@@ -1225,12 +1417,30 @@
     },
     "credits": {
       "publisher": "Elle Korea (Hearst JoongAng)",
-      "editor": "Lee Jae-hee (이재희)",
-      "photographer": "Ko Won-tae (고원태)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Shin Ga-be (신가베)",
-      "makeup": "Lee Na-gyeom (이나겸)",
-      "set_stylist": "Kwon Do-hyeong (권도형)",
+      "editor": {
+        "ja": "イ・ジェヒ",
+        "en": "Lee Jae-hee"
+      },
+      "photographer": {
+        "ja": "コ・ウォンテ",
+        "en": "Ko Won-tae"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "シン・ガベ",
+        "en": "Shin Ga-be"
+      },
+      "makeup": {
+        "ja": "イ・ナギョム",
+        "en": "Lee Na-gyeom"
+      },
+      "set_stylist": {
+        "ja": "クォン・ドヒョン",
+        "en": "Kwon Do-hyeong"
+      },
       "brand": "Chaumet"
     },
     "editor_note": "ELLE公式記事「뉴진스 하니, <엘르>D에디션 커버 공개」(2023-08-04)に基づく。 / Cut for length: editor Lee Jae-hee, photographer Ko Won-tae, stylist Choi Yu-mi, hair Shin Ga-be, makeup Lee Na-gyeom, set Kwon Do-hyeong (retained in credits)."
@@ -1310,7 +1520,10 @@
     },
     "credits": {
       "publisher": "Harper's Bazaar Korea (Hearst JoongAng)",
-      "editor": "Kim Su-jin (김수진)",
+      "editor": {
+        "ja": "キム・スジン",
+        "en": "Kim Su-jin"
+      },
       "brand": "Armani Beauty"
     },
     "editor_note": "Photographer/stylist not shown on the visible part of harpersbazaar.co.kr/article/80580 (login wall). / harpersbazaar.co.kr/article/80580の可視部分（ログイン壁）に撮影者・スタイリストの記載なし。 / Cut for length: editor Kim Su-jin (retained in credits). / 2026-10-17 review: harpersbazaar.co.kr/article/80509 published 2023-09-10T19:17:35+09:00, announcing the September digital cover (3 covers, Armani Beauty Lip Power Matte). Article 80580 (2023-09-13 10:00) is the follow-up pictorial. namu dates the moving cover to 2023-09-08 (Instagram reel Cw7WLEuJpkd; Cw7UkZrpgCa decodes to 2023-09-08 19:07 KST) — possibly the true first release. Instagram captions could not be read on 2026-10-17 (r.jina.ai blocked for instagram.com), so Instagram-only dates remain unconfirmed."
@@ -1349,7 +1562,10 @@
     },
     "credits": {
       "publisher": "Harper's Bazaar Korea (Hearst JoongAng)",
-      "editor": "Hwang In-ae (황인애)",
+      "editor": {
+        "ja": "ファン・イネ",
+        "en": "Hwang In-ae"
+      },
       "brand": "Chanel Fine Jewelry"
     },
     "editor_note": "Photographer/stylist not shown on the visible part of the page (login wall). / 公式ページの可視部分（ログイン壁）に撮影者・スタイリストの記載なし。 / Cut for length: editor Hwang In-ae (retained in credits)."
@@ -1380,7 +1596,10 @@
     },
     "credits": {
       "publisher": "Marie Claire Korea (MCK Publishing)",
-      "editor": "Sagong Hyo-eun (사공효은)",
+      "editor": {
+        "ja": "サゴン・ヒョウン",
+        "en": "Sagong Hyo-eun"
+      },
       "brand": "Moose Knuckles"
     },
     "source_url": "https://www.marieclairekorea.com/fashion/2023/09/dream-a-dream/",
@@ -1528,7 +1747,10 @@
     },
     "credits": {
       "publisher": "Marie Claire Korea (MCK Publishing)",
-      "editor": "Kim Ji-soo (김지수)",
+      "editor": {
+        "ja": "キム・ジス",
+        "en": "Kim Ji-soo"
+      },
       "brand": "Burberry"
     },
     "editor_note": "公式ページには画像3点のみ。カバーの種類数、撮影者などのクレジットは記載なし。"
@@ -1648,11 +1870,26 @@
     },
     "credits": {
       "publisher": "W Korea (Doosan Magazine)",
-      "digital_editor": "Kim Ja-hye (김자혜)",
-      "photographer": "Song Si-young (송시영)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Oh Ji-hye (오지혜)",
-      "makeup": "Lee Na-gyeom (이나겸)",
+      "digital_editor": {
+        "ja": "キム・ジャヘ",
+        "en": "Kim Ja-hye"
+      },
+      "photographer": {
+        "ja": "ソン・シヨン",
+        "en": "Song Si-young"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "オ・ジヘ",
+        "en": "Oh Ji-hye"
+      },
+      "makeup": {
+        "ja": "イ・ナギョム",
+        "en": "Lee Na-gyeom"
+      },
       "brand": "Dior"
     },
     "source_url": "https://www.instagram.com/p/CzvqKZ_P2X5/",
@@ -1798,11 +2035,26 @@
     },
     "credits": {
       "publisher": "Elle Korea (Hearst JoongAng)",
-      "editor": "Son Da-ye (손다예)",
-      "photographer": "Kim Hee-jun (김희준)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Lee Hye-jin (이혜진)",
-      "makeup": "Lee Sol (이솔)",
+      "editor": {
+        "ja": "ソン・ダイェ",
+        "en": "Son Da-ye"
+      },
+      "photographer": {
+        "ja": "キム・ヒジュン",
+        "en": "Kim Hee-jun"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "イ・ヘジン",
+        "en": "Lee Hye-jin"
+      },
+      "makeup": {
+        "ja": "イ・ソル",
+        "en": "Lee Sol"
+      },
       "brand": "Dior Fine Jewelry"
     },
     "editor_note": "Cut for length: editor Son Da-ye, photographer Kim Hee-jun, stylist Choi Yu-mi, hair Lee Hye-jin, makeup Lee Sol (retained in credits)."
@@ -1888,7 +2140,10 @@
     },
     "credits": {
       "publisher": "Harper's Bazaar Korea (Hearst JoongAng)",
-      "editor": "Jung Hye-mi (정혜미)",
+      "editor": {
+        "ja": "チョン・ヘミ",
+        "en": "Jung Hye-mi"
+      },
       "brand": "Chanel Beauty"
     },
     "editor_note": "Cut for length: editor Jung Hye-mi (retained in credits). / 2026-10-17 review: harpersbazaar.co.kr/article/83463 datePublished 2024-01-04T09:00+09:00. Candidate earlier release: Instagram C1olH4sryuo 2024-01-03 19:03 KST (namu). Instagram captions could not be read on 2026-10-17 (r.jina.ai blocked for instagram.com), so Instagram-only dates remain unconfirmed."
@@ -1926,11 +2181,26 @@
     "credits": {
       "publisher": "W Korea (Doosan Magazine)",
       "photographer": "Hiroshi Fujiwara (cover 1), Song Si-young (covers 2-3)",
-      "fashion_editor": "Kim Shin (김신)",
-      "feature_editor": "Jeon Yeo-ul (전여울)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Lee Il-jung (이일중)",
-      "makeup": "Lee Na-gyeom (이나겸)",
+      "fashion_editor": {
+        "ja": "キム・シン",
+        "en": "Kim Shin"
+      },
+      "feature_editor": {
+        "ja": "チョン・ヨウル",
+        "en": "Jeon Yeo-ul"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "イ・イルジュン",
+        "en": "Lee Il-jung"
+      },
+      "makeup": {
+        "ja": "イ・ナギョム",
+        "en": "Lee Na-gyeom"
+      },
       "production": "TMN, Lee Ji-hee (Leica)",
       "brand": "Gucci"
     }
@@ -2049,13 +2319,34 @@
     },
     "credits": {
       "publisher": "Marie Claire Korea (MCK Publishing)",
-      "fashion_director": "Jung Pyeong-hwa (정평화)",
-      "photographer": "Kim Sin-ae (김신애)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Lee Hye-jin (이혜진)",
-      "makeup": "Lee Sol (이솔)",
-      "nails": "Heo Jin-hee (허진희)",
-      "set": "Choi Seo-yun (최서윤)",
+      "fashion_director": {
+        "ja": "チョン・ピョンファ",
+        "en": "Jung Pyeong-hwa"
+      },
+      "photographer": {
+        "ja": "キム・シネ",
+        "en": "Kim Sin-ae"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "イ・ヘジン",
+        "en": "Lee Hye-jin"
+      },
+      "makeup": {
+        "ja": "イ・ソル",
+        "en": "Lee Sol"
+      },
+      "nails": {
+        "ja": "ホ・ジンヒ",
+        "en": "Heo Jin-hee"
+      },
+      "set": {
+        "ja": "チェ・ソユン",
+        "en": "Choi Seo-yun"
+      },
       "brand": "Chaumet"
     },
     "editor_note": "公式記事の掲載時刻は2024-03-04 14:01。具体的なジュエリーの品名は記載なし。 / Cut for length: photography Kim Sin-ae, hair Lee Hye-jin, makeup Lee Sol, styling Choi Yu-mi, nails Heo Jin-hee, set Choi Seo-yun (retained in credits). / 2026-10-17 review: marieclairekorea.com/fashion/2024/02/hanni/ datePublished 2024-02-29T11:00Z (20:00 KST), \"하니와 조세핀 컬렉션의 담대한 조우로 완성한 스페셜 디지털 커버를 공개합니다\", same credits (Kim Sin-ae, Lee Hye-jin, Lee Sol, Choi Yu-mi, Heo Jin-hee, set Choi Seo-yun). The 03-04 14:01 article is the full digital-cover story; a FOOH cover followed 03-12."
@@ -2141,12 +2432,30 @@
     },
     "credits": {
       "publisher": "Vogue Korea (Doosan Magazine)",
-      "photographer": "Park Bae (박배)",
-      "fashion_editor": "Son Ki-ho (손기호)",
-      "feature_director": "Kim Na-rang (김나랑)",
-      "hair": "Oh Ji-hye (오지혜)",
-      "makeup": "Lee Na-gyeom (이나겸)",
-      "set": "Choi Seo-yun (최서윤, Da;rak)",
+      "photographer": {
+        "ja": "パク・ベ",
+        "en": "Park Bae"
+      },
+      "fashion_editor": {
+        "ja": "ソン・ギホ",
+        "en": "Son Ki-ho"
+      },
+      "feature_director": {
+        "ja": "キム・ナラン",
+        "en": "Kim Na-rang"
+      },
+      "hair": {
+        "ja": "オ・ジヘ",
+        "en": "Oh Ji-hye"
+      },
+      "makeup": {
+        "ja": "イ・ナギョム",
+        "en": "Lee Na-gyeom"
+      },
+      "set": {
+        "ja": "チェ・ソユン（Da;rak）",
+        "en": "Choi Seo-yun (Da;rak)"
+      },
       "brand": "Louis Vuitton"
     }
   },
@@ -2184,12 +2493,30 @@
     },
     "credits": {
       "publisher": "W Korea (Doosan Magazine)",
-      "photographer": "Sinae Kim (김신애)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "fashion_director": "Lee Ye-jin (이예진)",
-      "set_design": "Jeon Ye-byul (전예별)",
-      "hair": "Gabe (가베)",
-      "makeup": "Lee Sol (이솔)",
+      "photographer": {
+        "ja": "キム・シネ",
+        "en": "Sinae Kim"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "fashion_director": {
+        "ja": "イ・イェジン",
+        "en": "Lee Ye-jin"
+      },
+      "set_design": {
+        "ja": "チョン・イェビョル",
+        "en": "Jeon Ye-byul"
+      },
+      "hair": {
+        "ja": "ガベ",
+        "en": "Gabe"
+      },
+      "makeup": {
+        "ja": "イ・ソル",
+        "en": "Lee Sol"
+      },
       "brand": "Dior"
     }
   },
@@ -2229,12 +2556,30 @@
     },
     "credits": {
       "publisher": "Elle Korea (Hearst JoongAng)",
-      "editor": "Jeong Yoon-ji (정윤지)",
-      "photographer": "Ko Won-tae (고원태)",
-      "film_director": "Im Jin-yeol (임진열)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Shin Ga-be (신가베)",
-      "makeup": "Lee Sol (이솔)",
+      "editor": {
+        "ja": "チョン・ユンジ",
+        "en": "Jeong Yoon-ji"
+      },
+      "photographer": {
+        "ja": "コ・ウォンテ",
+        "en": "Ko Won-tae"
+      },
+      "film_director": {
+        "ja": "イム・ジニョル",
+        "en": "Im Jin-yeol"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "シン・ガベ",
+        "en": "Shin Ga-be"
+      },
+      "makeup": {
+        "ja": "イ・ソル",
+        "en": "Lee Sol"
+      },
       "brand": "Chanel Beauty (N°1 DE CHANEL)"
     },
     "editor_note": "Correction: source_url elle.co.kr/article/1864093 resolves to an unrelated 2024-04-26 comeback article; the correct article is elle.co.kr/article/85043 (2024-03-27). | source_url corrected to elle.co.kr/article/85043 / source_urlはelle.co.kr/article/85043(2024-03-27)に修正済み（旧URL elle.co.kr/article/1864093は無関係な2024-04-26カムバック記事）。 / Cut for length: article title 'NewJeans Minji, a moment with the red camellia' (in title.original). / 2026-10-17 review: Elle article 85043 byline date 2024.03.27 states Minji covered Elle's special digital project \"D Edition\"; the May print issue carries the pictorial. Date moved from month-precision 2024-05-01 to the publisher's publication date; id unchanged."
@@ -2265,11 +2610,23 @@
     },
     "credits": {
       "publisher": "W Korea (Doosan Magazine)",
-      "fashion_editor": "Kim Shin (김신)",
+      "fashion_editor": {
+        "ja": "キム・シン",
+        "en": "Kim Shin"
+      },
       "photographer": "Peter Ash Lee",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Lee Hye-jin (이혜진)",
-      "makeup": "Lee Na-gyeom (이나겸)",
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "イ・ヘジン",
+        "en": "Lee Hye-jin"
+      },
+      "makeup": {
+        "ja": "イ・ナギョム",
+        "en": "Lee Na-gyeom"
+      },
       "brand": "Celine"
     },
     "source_url": "https://www.wkorea.com/2024/04/01/%EB%89%B4%EC%A7%84%EC%8A%A4-%EB%8B%A4%EB%8B%88%EC%97%98-%EB%8D%94%EB%B8%94%EC%9C%A0-%EB%94%94%EC%A7%80%ED%84%B8-%EC%BB%A4%EB%B2%84-%EC%9E%A5%EC%8B%9D/",
@@ -2408,7 +2765,10 @@
     },
     "credits": {
       "publisher": "Harper's Bazaar Korea (Hearst JoongAng)",
-      "editor": "Seo Dong-beom (서동범)",
+      "editor": {
+        "ja": "ソ・ドンボム",
+        "en": "Seo Dong-beom"
+      },
       "brand": "Dior Joaillerie"
     },
     "editor_note": "Only 'Photo: Harper's Bazaar' credited on the page; individual credits not shown. / 公式ページのクレジットは「Photo: Harper's Bazaar」のみで個別クレジットなし。 / 2026-10-17 review: harpersbazaar.co.kr/article/1864464 datePublished 2024-05-03T09:01+09:00. Candidate earlier release: Instagram C6ddU7RLE6y 2024-05-02 18:00 KST (namu). Instagram captions could not be read on 2026-10-17 (r.jina.ai blocked for instagram.com), so Instagram-only dates remain unconfirmed."
@@ -2684,8 +3044,14 @@
     },
     "credits": {
       "publisher": "Harper's Bazaar Korea (Hearst JoongAng)",
-      "editor": "Kim Hyung-wook (김형욱)",
-      "video": "Publican (퍼블리칸)",
+      "editor": {
+        "ja": "キム・ヒョンウク",
+        "en": "Kim Hyung-wook"
+      },
+      "video": {
+        "ja": "Publican",
+        "en": "Publican"
+      },
       "brand": "Chanel Fine Jewelry"
     },
     "editor_note": "Correction: source_url harpersbazaar.co.kr/article/1868565 resolves to an unrelated 2024-07-30 Louis Vuitton pop-up article; the correct article is harpersbazaar.co.kr/article/1870618 (2024-09-13). | source_url corrected to harpersbazaar.co.kr/article/1870618 / Cut for length: editor Kim Hyung-wook, video Publican, assistant Shin Yun-seo (editor and video retained in credits). Removed provenance: photographer credits and jewelry piece names are not shown on the page. / 2026-10-17 review: harpersbazaar.co.kr/article/1870081 published 2024-09-11T08:00+09:00 (Chanel Fine Jewelry N°5 pictorial with Minji, editor Hwang In-ae); 1870618 (2024-09-13 01:29) is the interview. namu date 2024-09-10 = Instagram C_u6OLHS9KX (19:17 KST) — possibly the true first release. Instagram captions could not be read on 2026-10-17 (r.jina.ai blocked for instagram.com), so Instagram-only dates remain unconfirmed."
@@ -2724,13 +3090,34 @@
     },
     "credits": {
       "publisher": "Elle Korea (Hearst JoongAng)",
-      "fashion_editor": "Kang Min-ji (강민지)",
-      "feature_editor": "Jeon Hye-jin (전혜진), Jung So-jin (정소진)",
-      "photographer": "Song Si-young (송시영)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Lee Hye-jin (이혜진)",
-      "makeup": "Lee Na-gyeom (이나겸)",
-      "set_stylist": "Hwang Seo-in (황서인)",
+      "fashion_editor": {
+        "ja": "カン・ミンジ",
+        "en": "Kang Min-ji"
+      },
+      "feature_editor": {
+        "ja": "チョン・ヘジン、チョン・ソジン",
+        "en": "Jeon Hye-jin, Jung So-jin"
+      },
+      "photographer": {
+        "ja": "ソン・シヨン",
+        "en": "Song Si-young"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "イ・ヘジン",
+        "en": "Lee Hye-jin"
+      },
+      "makeup": {
+        "ja": "イ・ナギョム",
+        "en": "Lee Na-gyeom"
+      },
+      "set_stylist": {
+        "ja": "ファン・ソイン",
+        "en": "Hwang Seo-in"
+      },
       "brand": "Calvin Klein"
     },
     "editor_note": "Cut for length: fashion editor Kang Min-ji, photographer Song Si-young, stylist Choi Yu-mi, hair Lee Hye-jin, makeup Lee Na-gyeom, set Hwang Seo-in (retained in credits)."
@@ -2769,12 +3156,30 @@
     },
     "credits": {
       "publisher": "Marie Claire Korea (MCK Publishing)",
-      "beauty_visual_director": "Kim Sang-eun (김상은)",
-      "photographer": "Ahn Ju-young (안주영)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Lee Hye-jin (이혜진)",
-      "makeup": "Lee Na-gyeom (이나겸)",
-      "nails": "Kim Su-ji (김수지)",
+      "beauty_visual_director": {
+        "ja": "キム・サンウン",
+        "en": "Kim Sang-eun"
+      },
+      "photographer": {
+        "ja": "アン・ジュヨン",
+        "en": "Ahn Ju-young"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "イ・ヘジン",
+        "en": "Lee Hye-jin"
+      },
+      "makeup": {
+        "ja": "イ・ナギョム",
+        "en": "Lee Na-gyeom"
+      },
+      "nails": {
+        "ja": "キム・スジ",
+        "en": "Kim Su-ji"
+      },
       "brand": "Chanel Beauty"
     },
     "editor_note": "公式記事のキーワード欄にルージュ アリュール ヴェルヴェットが挙げられている。公開日の詳細は未確認（月精度）。 / Cut for length: photography Ahn Ju-young, makeup Lee Na-gyeom, hair Lee Hye-jin, styling Choi Yu-mi, nails Kim Su-ji (retained in credits), prop styling Lee Ye-seul."
@@ -2938,12 +3343,24 @@
     },
     "credits": {
       "publisher": "W Korea (Doosan Magazine)",
-      "editor": "Kim Min-ji (김민지)",
+      "editor": {
+        "ja": "キム・ミンジ",
+        "en": "Kim Min-ji"
+      },
       "photographer": "Florence Tetier & Nicolas Coulomb",
       "art_director": "Guillaume Boucher",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Lee Hye-jin (이혜진)",
-      "makeup": "Lee Sol (이솔)",
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "イ・ヘジン",
+        "en": "Lee Hye-jin"
+      },
+      "makeup": {
+        "ja": "イ・ソル",
+        "en": "Lee Sol"
+      },
       "brand": "Louis Vuitton"
     },
     "source_url": "https://www.wkorea.com/?p=328373",
@@ -3030,13 +3447,34 @@
     },
     "credits": {
       "publisher": "Elle Korea (Hearst JoongAng)",
-      "beauty_editor": "Jeong Yoon-ji (정윤지)",
-      "photographer": "Ko Won-tae (고원태)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Lee Hye-jin (이혜진)",
-      "makeup": "Lee Sol (이솔)",
-      "set_stylist": "Kwon Do-hyung (권도형, Ondoh)",
-      "nails": "Im Mi-sung (임미성)",
+      "beauty_editor": {
+        "ja": "チョン・ユンジ",
+        "en": "Jeong Yoon-ji"
+      },
+      "photographer": {
+        "ja": "コ・ウォンテ",
+        "en": "Ko Won-tae"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "イ・ヘジン",
+        "en": "Lee Hye-jin"
+      },
+      "makeup": {
+        "ja": "イ・ソル",
+        "en": "Lee Sol"
+      },
+      "set_stylist": {
+        "ja": "クォン・ドヒョン（Ondoh）",
+        "en": "Kwon Do-hyung (Ondoh)"
+      },
+      "nails": {
+        "ja": "イム・ミソン",
+        "en": "Im Mi-sung"
+      },
       "brand": "Dior Beauty"
     },
     "editor_note": "ELLE公式記事(2024-10-21)に基づく。記事中のブランド関係者コメント（ディオール ビューティーの高級感が完璧に表現された）は本文から省略。クレジット（정윤지、고원태、이혜진、이솔、최유미）はcredits欄に記載。 / Cut for length: article title 'NewJeans Haerin, a holiday pictorial with Dior Beauty' (in title.original); beauty editor Jeong Yoon-ji, photographer Ko Won-tae, hair Lee Hye-jin, makeup Lee Sol, stylist Choi Yu-mi (retained in credits)."
@@ -3077,12 +3515,30 @@
     },
     "credits": {
       "publisher": "Marie Claire Korea (MCK Publishing)",
-      "fashion_director": "Jung Pyeong-hwa (정평화)",
-      "photographer": "Ko Won-tae (고원태)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Oh Ji-hye (오지혜)",
-      "makeup": "Lee Na-gyeom (이나겸)",
-      "nails": "Choi Ji-suk (최지숙)",
+      "fashion_director": {
+        "ja": "チョン・ピョンファ",
+        "en": "Jung Pyeong-hwa"
+      },
+      "photographer": {
+        "ja": "コ・ウォンテ",
+        "en": "Ko Won-tae"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "オ・ジヘ",
+        "en": "Oh Ji-hye"
+      },
+      "makeup": {
+        "ja": "イ・ナギョム",
+        "en": "Lee Na-gyeom"
+      },
+      "nails": {
+        "ja": "チェ・ジスク",
+        "en": "Choi Ji-suk"
+      },
       "brand": "Dior Joaillerie"
     },
     "editor_note": "公式ページには画像4点。カバーの種類数は明記なし。 / Cut for length: styling Choi Yu-mi, hair Oh Ji-hye, makeup Lee Na-gyeom, nails Choi Ji-suk (retained in credits)."
@@ -3113,7 +3569,10 @@
     },
     "credits": {
       "publisher": "Vogue Korea (Doosan Magazine)",
-      "fashion_editor": "Shin Eun-ji (신은지)",
+      "fashion_editor": {
+        "ja": "シン・ウンジ",
+        "en": "Shin Eun-ji"
+      },
       "brand": "Nike"
     },
     "source_url": "https://www.vogue.co.kr/2024/11/04/%eb%82%98%ec%9d%b4%ed%82%a4%ec%99%80-%eb%89%b4%ec%a7%84%ec%8a%a4-%ec%83%88%eb%a1%9c%ec%9a%b4-%ec%8b%9c%ea%b0%84%ec%9d%98-%ea%b0%90%ea%b0%81/",
@@ -3167,7 +3626,10 @@
     "credits": {
       "publisher": "Shueisha (SPUR)",
       "photographer": "Peter Ash Lee",
-      "stylist": "Choi Yumi (최유미)",
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yumi"
+      },
       "brand": "Chanel (Minji), Gucci (Hanni)"
     }
   },
@@ -3244,12 +3706,30 @@
     },
     "credits": {
       "publisher": "Vogue Korea (Doosan Magazine)",
-      "editor": "Ga Nam-hee (가남희)",
-      "photographer": "Park Jong-ha (박종하)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Gabe (가베)",
-      "makeup": "Lee Sol (이솔)",
-      "set_design": "Kwon Do-hyung (권도형)",
+      "editor": {
+        "ja": "カ・ナムヒ",
+        "en": "Ga Nam-hee"
+      },
+      "photographer": {
+        "ja": "パク・ジョンハ",
+        "en": "Park Jong-ha"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "ガベ",
+        "en": "Gabe"
+      },
+      "makeup": {
+        "ja": "イ・ソル",
+        "en": "Lee Sol"
+      },
+      "set_design": {
+        "ja": "クォン・ドヒョン",
+        "en": "Kwon Do-hyung"
+      },
       "brand": "Omega"
     }
   },
@@ -3333,13 +3813,34 @@
     },
     "credits": {
       "publisher": "Elle Korea (Hearst JoongAng)",
-      "beauty_editor": "Jeong Yoon-ji (정윤지)",
-      "feature_editor": "Lee Ma-ru (이마루)",
-      "photographer": "Ko Won-tae (고원태)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Gabe Shin (가베 신)",
-      "makeup": "Lee Sol (이솔)",
-      "production": "Kim Yi-ji-eun (김이지은)",
+      "beauty_editor": {
+        "ja": "チョン・ユンジ",
+        "en": "Jeong Yoon-ji"
+      },
+      "feature_editor": {
+        "ja": "イ・マル",
+        "en": "Lee Ma-ru"
+      },
+      "photographer": {
+        "ja": "コ・ウォンテ",
+        "en": "Ko Won-tae"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "シン・ガベ",
+        "en": "Gabe Shin"
+      },
+      "makeup": {
+        "ja": "イ・ソル",
+        "en": "Lee Sol"
+      },
+      "production": {
+        "ja": "キム・イジウン",
+        "en": "Kim Yi-ji-eun"
+      },
       "brand": "Chanel Beauty",
       "location": "London"
     },
@@ -3379,7 +3880,10 @@
     },
     "credits": {
       "publisher": "Vogue Korea (Doosan Magazine)",
-      "special_creative_director": "Min Hee-jin (민희진)"
+      "special_creative_director": {
+        "ja": "ミン・ヒジン",
+        "en": "Min Hee-jin"
+      }
     }
   },
   {
@@ -3407,11 +3911,26 @@
     },
     "credits": {
       "publisher": "Vogue Korea (Doosan Magazine)",
-      "digital_editor": "Ga Nam-hee (가남희)",
-      "photographer": "Park Jong-ha (박종하)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Lee Hye-jin (이혜진)",
-      "makeup": "Lee Na-gyeom (이나겸)",
+      "digital_editor": {
+        "ja": "カ・ナムヒ",
+        "en": "Ga Nam-hee"
+      },
+      "photographer": {
+        "ja": "パク・ジョンハ",
+        "en": "Park Jong-ha"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "イ・ヘジン",
+        "en": "Lee Hye-jin"
+      },
+      "makeup": {
+        "ja": "イ・ナギョム",
+        "en": "Lee Na-gyeom"
+      },
       "set": "Kwon Do-hyung (ONDOH)",
       "brand": "Dior"
     },
@@ -3494,11 +4013,20 @@
     },
     "credits": {
       "publisher": "Vogue Korea (Doosan Magazine)",
-      "beauty_director": "Lee Joo-hyun (이주현)",
+      "beauty_director": {
+        "ja": "イ・ジュヒョン",
+        "en": "Lee Joo-hyun"
+      },
       "makeup_and_image": "Peter Philips",
       "film": "Kim Byeong-jun",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Oh Ji-hye (오지혜)",
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "オ・ジヘ",
+        "en": "Oh Ji-hye"
+      },
       "brand": "Dior Beauty"
     },
     "source_url": "https://www.vogue.co.kr/2025/02/03/%EC%B0%AC%EB%9E%80%ED%95%98%EA%B2%8C-%EB%B9%9B%EB%82%98%EB%8A%94-%ED%95%B4%EB%A6%B0%EC%9D%98-%EC%8B%9C%EA%B0%84/",
@@ -3644,7 +4172,10 @@
     },
     "credits": {
       "publisher": "Harper's Bazaar Korea (Hearst JoongAng)",
-      "editor": "Yoon Hye-young (윤혜영)",
+      "editor": {
+        "ja": "ユン・ヘヨン",
+        "en": "Yoon Hye-young"
+      },
       "brand": "Bottega Veneta"
     },
     "editor_note": "Only 'Photo: Harper's Bazaar Korea' credited; number of covers not stated. / 公式ページのクレジットは「Photo: Harper's Bazaar Korea」のみ。カバーの種類数は明記なし。 / Cut for length: article title 'NewJeans Hyein returns, nineteen, and Bottega Veneta' (in title.original); byline Yoon Hye-young (retained in credits)."
@@ -3685,13 +4216,34 @@
     },
     "credits": {
       "publisher": "Marie Claire Korea (MCK Publishing)",
-      "beauty_visual_director": "Kim Sang-eun (김상은)",
-      "photographer": "Kim Sin-ae (김신애)",
-      "stylist": "Choi Yu-mi (최유미)",
-      "hair": "Lee Hye-jin (이혜진)",
-      "makeup": "Lee Na-gyeom (이나겸)",
-      "nails": "Kim Su-ji (김수지)",
-      "production": "Jang Bo-ram (장보람)",
+      "beauty_visual_director": {
+        "ja": "キム・サンウン",
+        "en": "Kim Sang-eun"
+      },
+      "photographer": {
+        "ja": "キム・シネ",
+        "en": "Kim Sin-ae"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "イ・ヘジン",
+        "en": "Lee Hye-jin"
+      },
+      "makeup": {
+        "ja": "イ・ナギョム",
+        "en": "Lee Na-gyeom"
+      },
+      "nails": {
+        "ja": "キム・スジ",
+        "en": "Kim Su-ji"
+      },
+      "production": {
+        "ja": "チャン・ボラム",
+        "en": "Jang Bo-ram"
+      },
       "brand": "Dior Beauty"
     },
     "editor_note": "Marie Claire page says the multi-cover project involves three individuals; the other two cover subjects are not named on Haerin's page. / Cut for length: photography Kim Sin-ae, makeup Lee Na-gyeom, hair Lee Hye-jin, styling Choi Yu-mi, nails Kim Su-ji, production Jang Bo-ram (retained in credits), prop styling Lee Ye-seul, location Jo Gyeong-jong."

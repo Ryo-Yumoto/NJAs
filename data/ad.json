@@ -231,7 +231,10 @@
     },
     "credits": {
       "advertiser": "SK Telecom (0 / Young)",
-      "director": "Kim Min-sung (김민성)"
+      "director": {
+        "ja": "キム・ミンソン",
+        "en": "Kim Min-sung"
+      }
     }
   },
   {
@@ -509,7 +512,10 @@
     },
     "credits": {
       "brand": "Megastudy Education (Megapass)",
-      "director": "Lee Han-gyeol (이한결)"
+      "director": {
+        "ja": "イ・ハンギョル",
+        "en": "Lee Han-gyeol"
+      }
     },
     "editor_note": "Video date 2022-10-22 per en.wikipedia; record date 2022-11-01 is month-precision. / Video date and director from the English Wikipedia videography; record date 2022-11-01 is month-precision. Dropped from reader text: MTN's 2022-11-08 report listing Megapass among ads then airing alongside SK Telecom '0', Shinhan SOL and 5252 by OIOI, and ADOR's statement to MTN that the group had received offers from over 100 companies since debut (later than the record date, press-relayed). / 2026-10-17 review: theMEGASTUDY uploads (YouTube next API, KST): teaser HpntnGJcohA 2022-10-06; main spots DFt1MdfY7P8 and VPVDkYh0xss 2022-10-13; greeting PA8jHIs9oxE 10-14; \"수능도, 내신도!\" VdU_WsuWoSY 10-24. detail says the \"수능도, 내신도!\" video is dated October 22 — official upload is October 24; detail needs editing. Teaser/new-model reveal is a new record ad-2022-10-06-megastudy-2024-megapass-teaser."
   },
@@ -1547,7 +1553,10 @@
     },
     "credits": {
       "brand": "Coca-Cola (Coca-Cola Zero)",
-      "director": "Sung-hwi (성휘)"
+      "director": {
+        "ja": "ソンフィ",
+        "en": "Sung-hwi"
+      }
     },
     "editor_note": "Director credit from the English Wikipedia videography; sourcing frame removed from reader text."
   },
@@ -1787,7 +1796,10 @@
     },
     "credits": {
       "brand": "Apple (iPhone 14 Pro)",
-      "director": "Shin Woo-seok (신우석)",
+      "director": {
+        "ja": "シン・ウソク",
+        "en": "Shin Woo-seok"
+      },
       "agency": "TBWA/Media Arts Lab"
     },
     "editor_note": "The 15s/30s spots in the existing summary are not mentioned by 9to5Mac. / Korean campaign launch from Newsis; the 15s/30s spots in the previous summary are not mentioned by 9to5Mac and were dropped from the summary."
@@ -1996,7 +2008,10 @@
     },
     "credits": {
       "brand": "Hyundai Department Store Duty Free",
-      "director": "Jeon Mun-young (전문영)"
+      "director": {
+        "ja": "チョン・ムニョン",
+        "en": "Jeon Mun-young"
+      }
     },
     "editor_note": "Announcement details from Hankyung Business; CM title and director from the English Wikipedia videography, which gives an upload date of 17 August (after the record date, so the date is omitted from reader text). The official's reference to the Incheon Airport duty-free expansion and the lifting of China's Hallyu restrictions trimmed for length. / Cut for length (ja): MZ世代の形容「新しい消費トレンドに敏感な」（en には残存）"
   },
@@ -2323,7 +2338,10 @@
     },
     "credits": {
       "brand": "Shinhan Financial Group (Super SOL)",
-      "director": "Lee Hyun-ji (이현지)"
+      "director": {
+        "ja": "イ・ヒョンジ",
+        "en": "Lee Hyun-ji"
+      }
     }
   },
   {
