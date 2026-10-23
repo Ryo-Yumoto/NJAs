@@ -107,3 +107,4 @@ python3 scripts/coverage.py --missing   # 未収録の項目を列挙
 
 - 調査・収集・URL解決・画像探索・本文推敲など、エージェントに委任する作業はFableの1段下のモデル（Opus）で実行する。Fableはこのセッション本体（設計、レビュー、統合判断、公開）に限る。
 - 大きな収集処理は深夜（JST 3〜5時）にまとめて実行し、日中はトークン上限を圧迫しない。
+- 2026-10-23から、照合・画像補完・新着取り込みは毎晩の予約タスクで自動実行する。手順は docs/nightly.md、実績は docs/nightly-log.md、選定の重複防止は docs/nightly-state.json。
