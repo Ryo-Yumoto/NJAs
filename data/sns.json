@@ -3819,7 +3819,7 @@
       "collaboration"
     ],
     "verified": false,
-    "editor_note": "Instagram page not fetchable; shortcode C65VTGTrIaz found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-05-13 13:49:09 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode C65VTGTrIaz embedded in Marie Claire Korea's same-day article, source of the T-shirt description; time derived from the shortcode (= 13:49:09 KST). Caption not retrieved. / 2026-10-24 nightly (review queue): Instagram oEmbed confirms C65VTGTrIaz is by @fujiwarahiroshi (2024-05-13 13:49 KST, empty caption), not @newjeans_official; credits/tags corrected. Reader text still calls it an official post. Needs a decision: replace with an official NewJeans post on the T-shirt if one exists, or move/delete (sns covers official accounts only; category not changed here)."
+    "editor_note": "Instagram page not fetchable; shortcode C65VTGTrIaz found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-05-13 13:49:09 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode C65VTGTrIaz embedded in Marie Claire Korea's same-day article, source of the T-shirt description; time derived from the shortcode (= 13:49:09 KST). Caption not retrieved. / 2026-10-24 nightly (review queue): Instagram oEmbed confirms C65VTGTrIaz is by @fujiwarahiroshi (2024-05-13 13:49 KST, empty caption), not @newjeans_official; credits/tags corrected. Reader text still calls it an official post. Needs a decision: replace with an official NewJeans post on the T-shirt if one exists, or move/delete (sns covers official accounts only; category not changed here). / 2026-10-24 nightly: Marie Claire Korea (2024-05-13) re-read: T-shirt with Fujiwara's handwritten NewJeans/member names and signature, 'to be released at pop-up stores in Korea and Japan on 21 June 2024'; it does not attribute the embedded post to @newjeans_official. Earlier oEmbed finding stands (post is by @fujiwarahiroshi). SNKRDUNK (2024-05-10) already reported the collaboration, and later reports give the pop-ups as 26 June onward, so the 21 June wording is as announced at the time. No official NewJeans post on the shirt located. Not changed."
   },
   {
     "id": "sns-2024-05-15-youtube-happy-haerin-day",
@@ -3886,17 +3886,15 @@
       "en": "The How Sweet release schedule announced via Phoning: audio on May 24 at 13:00 KST, the MV at 16:00, and a four-track listing."
     },
     "source_url": "https://www.munhwa.com/article/11430682",
-    "reference_urls": [
-      "https://www.munhwa.com/article/11430682"
-    ],
+    "reference_urls": [],
     "media": {
       "type": "none"
     },
     "tags": [
       "promotion-schedule"
     ],
-    "verified": false,
-    "editor_note": "phoning. Munhwa Ilbo 2024-05-21: announced on the 20th via Phoning. No X status found. | Source is Munhwa Ilbo (2024-05-21) describing a Phoning announcement; no X status exists for this item. / Source is Munhwa Ilbo (2024-05-21) describing the Phoning announcement of the 20th; Phoning not fetchable; no X status exists for this item. Genre description also from that article.",
+    "verified": true,
+    "editor_note": "phoning. Munhwa Ilbo 2024-05-21: announced on the 20th via Phoning. No X status found. | Source is Munhwa Ilbo (2024-05-21) describing a Phoning announcement; no X status exists for this item. / Source is Munhwa Ilbo (2024-05-21) describing the Phoning announcement of the 20th; Phoning not fetchable; no X status exists for this item. Genre description also from that article. / 2026-10-24 nightly: Munhwa Ilbo (2024-05-21 08:49) re-read: ADOR announced via Phoning on the 20th: audio 24 May 13:00, title-track MV 16:00, four tracks (How Sweet, Bubble Gum, two instrumentals), recommendation to listen before watching the MV, first music show (Music Bank) right after, Miami-bass description. Phoning itself is app-only; confirmed on reputable press. Duplicate self-reference in reference_urls removed.",
     "detail": {
       "ja": "ファンアプリPhoningを通じたダブルシングル『How Sweet』の公開日程の告知。音源は5月24日13時、タイトル曲「How Sweet」のMVは同日16時（KST）公開で、シングルにはタイトル曲、収録曲「Bubble Gum」と各インストの計4曲を収録する。ADORは音源を十分に聴いてからMVを観ることを勧め、MV視聴後に続く初の音楽番組（KBS『ミュージックバンク』）まで楽しんでほしいと伝えた。「How Sweet」はマイアミベースを基盤にエレクトロニックサウンドを加えた曲。",
       "en": "ADOR's announcement of the How Sweet release schedule through the fan app Phoning: audio at 13:00 KST on May 24 and the 'How Sweet' MV at 16:00 the same day, with four tracks (the title track, 'Bubble Gum' and both instrumentals). ADOR recommended listening to the audio first, then watching the MV and the first music show appearance that followed (Music Bank). 'How Sweet' is Miami bass with added electronic sounds."
@@ -4005,16 +4003,16 @@
       "all"
     ],
     "title": {
-      "ja": "TikTok「You're my favorite flavor」(How Sweet)動画",
-      "en": "TikTok \"You're my favorite flavor\" (\"How Sweet\") video"
+      "ja": "TikTok「You're my favorite flavor」(Bubble Gum)動画",
+      "en": "TikTok \"You're my favorite flavor\" (\"Bubble Gum\") video"
     },
     "summary": {
-      "ja": "「How Sweet」の歌詞の一節「You're my favorite flavor」を題にした公式TikTok動画を発売日に投稿し、Xで告知した。",
-      "en": "A TikTok video titled with the 'How Sweet' lyric 'You're my favorite flavor', posted on release day and announced on X."
+      "ja": "「Bubble Gum」の歌詞の一節「You're my favorite flavor」を題にした公式TikTok動画を「How Sweet」発売日に投稿し、Xで告知した。",
+      "en": "A TikTok video titled with the 'Bubble Gum' lyric 'You're my favorite flavor', posted on the How Sweet release day and announced on X."
     },
     "detail": {
-      "ja": "「How Sweet」発売日に公式TikTokへ投稿された動画。公式Xは「[VIDEO] You're my favorite flavor」の一言と動画へのリンクで告知した。「You're my favorite flavor」は「How Sweet」の歌詞の一節。",
-      "en": "A video posted on the official TikTok on the 'How Sweet' release day, announced on X with the line '[VIDEO] You're my favorite flavor' and a link. The title is a lyric from 'How Sweet'."
+      "ja": "「How Sweet」発売日に公式TikTokへ投稿された動画。公式Xは「[VIDEO] You're my favorite flavor」の一言と動画へのリンクで告知した。「You're my favorite flavor」は収録曲「Bubble Gum」の歌詞の一節。",
+      "en": "A video posted on the official TikTok on the How Sweet release day, announced on X with the line '[VIDEO] You're my favorite flavor' and a link. The title is a lyric from the B-side 'Bubble Gum'."
     },
     "credits": {
       "account": "@newjeans_official (TikTok) / @NewJeans_ADOR (X)",
@@ -4031,12 +4029,11 @@
     "tags": [
       "@newjeans_official",
       "tiktok",
-      "HowSweet",
       "BubbleGum",
       "challenge"
     ],
-    "verified": false,
-    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1793870639771910398 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / You're my favorite flavor 🫧🫧🫧 /  / 🔗https://vt.tiktok.com/ZSYYNWvvT/ /  / #NewJeans #뉴진스 / #NewJeans_BubbleGum / #NewJeans_is_Everywhere. Time is that of the X cross-post; the TikTok upload may be slightly earlier. / Short link redirects to the TikTok home page from this network, so the full URL was found in the official account's TikTok playlist data (api/mix/item_list via headless Chromium) and verified 2026-10-16 via TikTok oEmbed: author newjeans_official, caption \"You're my favorite flavor ... #NewJeans_BubbleGum #newjeans_is_everywhere\" (matches the X cross-post); TikTok createTime 2024-05-24 14:00 KST.",
+    "verified": true,
+    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1793870639771910398 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / You're my favorite flavor 🫧🫧🫧 /  / 🔗https://vt.tiktok.com/ZSYYNWvvT/ /  / #NewJeans #뉴진스 / #NewJeans_BubbleGum / #NewJeans_is_Everywhere. Time is that of the X cross-post; the TikTok upload may be slightly earlier. / Short link redirects to the TikTok home page from this network, so the full URL was found in the official account's TikTok playlist data (api/mix/item_list via headless Chromium) and verified 2026-10-16 via TikTok oEmbed: author newjeans_official, caption \"You're my favorite flavor ... #NewJeans_BubbleGum #newjeans_is_everywhere\" (matches the X cross-post); TikTok createTime 2024-05-24 14:00 KST. / 2026-10-24 nightly: fxtwitter: official X post 1793870639771910398 at 2024-05-24 14:04 KST with the TikTok link and #NewJeans_BubbleGum (TikTok createTime 14:00 KST per the 10-16 oEmbed check). Bugs lyrics pages: 'favorite flavor' appears in 'Bubble Gum' (track 6243126) and not in 'How Sweet' (6246205), so the lyric attribution was corrected from How Sweet to Bubble Gum in title/summary/detail and the HowSweet tag dropped (id slug unchanged).",
     "links": {
       "tiktok": "https://www.tiktok.com/@newjeans_official/video/7372416016846015762"
     }
@@ -4083,8 +4080,8 @@
       "BubbleGum",
       "challenge"
     ],
-    "verified": false,
-    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1793871110418952523 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / 이미 우린 저기 멀리 높이 있는 풍선 같이🎈 /  / 🔗https://vt.tiktok.com/ZSYYN7qeT/ /  / #NewJeans #뉴진스 / #NewJeans_BubbleGum / #NewJeans_is_Everywhere. Time is that of the X cross-post; the TikTok upload may be slightly earlier. / Short link redirects to the TikTok home page from this network, so the full URL was found in the official account's TikTok playlist data (api/mix/item_list via headless Chromium) and verified 2026-10-16 via TikTok oEmbed: author newjeans_official, caption \"이미 우린 저기 멀리 높이 있는 풍선 같이 ... #NewJeans_BubbleGum #NewJeans_is_Everywhere\" (matches the X cross-post); TikTok createTime 2024-05-24 14:01 KST.",
+    "verified": true,
+    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1793871110418952523 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / 이미 우린 저기 멀리 높이 있는 풍선 같이🎈 /  / 🔗https://vt.tiktok.com/ZSYYN7qeT/ /  / #NewJeans #뉴진스 / #NewJeans_BubbleGum / #NewJeans_is_Everywhere. Time is that of the X cross-post; the TikTok upload may be slightly earlier. / Short link redirects to the TikTok home page from this network, so the full URL was found in the official account's TikTok playlist data (api/mix/item_list via headless Chromium) and verified 2026-10-16 via TikTok oEmbed: author newjeans_official, caption \"이미 우린 저기 멀리 높이 있는 풍선 같이 ... #NewJeans_BubbleGum #NewJeans_is_Everywhere\" (matches the X cross-post); TikTok createTime 2024-05-24 14:01 KST. / 2026-10-24 nightly: fxtwitter: official X post 1793871110418952523 at 2024-05-24 14:06 KST with the lyric, TikTok link and #NewJeans_BubbleGum (TikTok createTime 14:01 KST per the 10-16 oEmbed check). Bugs lyrics page for 'Bubble Gum' (track 6243126) contains '풍선', consistent with the lyric attribution. Confirmed.",
     "links": {
       "tiktok": "https://www.tiktok.com/@newjeans_official/video/7372426734999784721"
     }
@@ -4153,8 +4150,8 @@
       "en": "Official Instagram post late on June 19, timed with the June 20 YouTube release of 'Supernatural' Official MV Teaser 2."
     },
     "detail": {
-      "ja": "「Supernatural」Official MV Teaser 2の公式YouTube公開（6月20日）に合わせたティーザー投稿。MV公開を控えた6月19日23時59分（KST）に投稿された。",
-      "en": "A teaser post timed with the YouTube release of 'Supernatural' Official MV Teaser 2 on June 20. It went up at 23:59 KST on June 19, ahead of the MV premiere."
+      "ja": "「Supernatural」Official MV Teaser 2の映像を公式Instagramに投稿したもの。YouTubeでのTeaser 2公開（6月20日）の直前、6月19日23時59分（KST）に投稿された。",
+      "en": "The official Instagram posted the 'Supernatural' Official MV Teaser 2 video itself, at 23:59 KST on June 19, just before the teaser's YouTube release on June 20."
     },
     "credits": {
       "account": "@newjeans_official",
@@ -4173,8 +4170,8 @@
       "teaser",
       "MV"
     ],
-    "verified": false,
-    "editor_note": "Instagram page not fetchable; shortcode C8ZsjaDSczz found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-06-19 23:59:27 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode C8ZsjaDSczz embedded in Vogue Korea's 2024-07-05 article, in the paragraph where ADOR explained the 'Supernatural' MV would come in two parts; time derived from the shortcode (= 23:59:27 KST). Caption not retrieved; the link to MV Teaser 2 is inferred from timing (the post precedes the June 20 teaser by about a minute)."
+    "verified": true,
+    "editor_note": "Instagram page not fetchable; shortcode C8ZsjaDSczz found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-06-19 23:59:27 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode C8ZsjaDSczz embedded in Vogue Korea's 2024-07-05 article, in the paragraph where ADOR explained the 'Supernatural' MV would come in two parts; time derived from the shortcode (= 23:59:27 KST). Caption not retrieved; the link to MV Teaser 2 is inferred from timing (the post precedes the June 20 teaser by about a minute). / 2026-10-24 nightly: Instagram oEmbed now resolves C8ZsjaDSczz: author newjeans_official, caption \"NewJeans 'Supernatural' Official MV Teaser 2 #NewJeans #뉴진스 #NewJeans_Supernatural #NewJeans_RightNow #NewJeans_is_Everywhere\" (a reel); media id 3393939741401009395 decodes to 2024-06-19 23:59:27 KST. HYBE LABELS upload YmOjOMYDiXw 'Supernatural' Official MV Teaser 2 dated 2024-06-20 KST (next API). Detail made specific: the post is the teaser itself."
   },
   {
     "id": "sns-2024-06-21-supernatural-d-day-post",
@@ -4387,7 +4384,7 @@
       "photo"
     ],
     "verified": false,
-    "editor_note": "Instagram page not fetchable; shortcode C8yjQadg_hC found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-06-29 15:39:13 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode C8yjQadg_hC embedded in Vogue Korea's 2024-07-01 article introducing the Eri Wakiyama T-shirts; time derived from the shortcode (= 15:39:13 KST). Caption not retrieved; attendance figure from event coverage. / 2026-10-24 nightly (review queue): Instagram oEmbed confirms C8yjQadg_hC is by @mermaidhair (2024-06-29 15:39 KST); the caption says the poster drew portraits of all 5 members of @newjeans_official as a project due on her birthday, i.e. it is the illustrator's own post, not an official Tokyo Dome photo post. Credits/tags corrected; reader text (official photo post, attendance) does not match the post. Needs a decision: delete, or replace with an official @newjeans_official post on the Tokyo Dome T-shirts."
+    "editor_note": "Instagram page not fetchable; shortcode C8yjQadg_hC found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-06-29 15:39:13 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode C8yjQadg_hC embedded in Vogue Korea's 2024-07-01 article introducing the Eri Wakiyama T-shirts; time derived from the shortcode (= 15:39:13 KST). Caption not retrieved; attendance figure from event coverage. / 2026-10-24 nightly (review queue): Instagram oEmbed confirms C8yjQadg_hC is by @mermaidhair (2024-06-29 15:39 KST); the caption says the poster drew portraits of all 5 members of @newjeans_official as a project due on her birthday, i.e. it is the illustrator's own post, not an official Tokyo Dome photo post. Credits/tags corrected; reader text (official photo post, attendance) does not match the post. Needs a decision: delete, or replace with an official @newjeans_official post on the Tokyo Dome T-shirts. / 2026-10-24 nightly: Earlier finding stands: Instagram oEmbed attributes C8yjQadg_hC to @mermaidhair (an illustrator's own account, per the caption read in the earlier oEmbed check), not @newjeans_official, so the reader text (official Tokyo Dome photo post) does not match the post. No official @newjeans_official post on the Tokyo Dome T-shirts was located in this pass. Not changed."
   },
   {
     "id": "sns-2024-07-20-youtube-newjeans-day-on-air-d-2",
@@ -4598,7 +4595,7 @@
       "anniversary",
       "NewJeansDay"
     ],
-    "verified": false,
+    "verified": true,
     "time": "16:00",
     "credits": {
       "account": "Weverse NewJeans official",
@@ -4607,7 +4604,7 @@
     "links": {
       "weverse": "https://go.weverse.io/qt3S/3gc6mmf5"
     },
-    "editor_note": "Weverse content not fetched; X post 1815280688259830008 verified via fxtwitter. Content unknown beyond its title."
+    "editor_note": "Weverse content not fetched; X post 1815280688259830008 verified via fxtwitter. Content unknown beyond its title. / 2026-10-24 nightly: fxtwitter: official post 1815280688259830008 at 2024-07-22 16:00 KST '[NewJeans Day] for Agent Bunnies #NewJeans_2nd_Anniversary'; the go.weverse.io link resolves to weverse.io/newjeansofficial/media/4-171753875, i.e. a Weverse media post. Date and title confirmed; the media content itself was not viewed."
   },
   {
     "id": "sns-2024-07-22-2nd-anniversary-phoning-live-notice",

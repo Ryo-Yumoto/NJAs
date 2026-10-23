@@ -3010,7 +3010,11 @@
       "en": "Gucci Beauty named Hanni global brand ambassador, extending her Gucci fashion role held since 2022."
     },
     "source_url": "https://cosmeticsbusiness.com/newjeans-idol-hanni-named-gucci-beauty-ambassador",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.newsis.com/view/NISX20240329_0002680819",
+      "https://biz.heraldcorp.com/article/3359405",
+      "https://www.kpopstarz.com/articles/318495/20240328/newjeans-hanni-stuns-again-gucci-beauty-ambassador.htm"
+    ],
     "media": {
       "type": "none"
     },
@@ -3019,7 +3023,7 @@
       "ambassador"
     ],
     "verified": false,
-    "editor_note": "Instagram announcement reportedly Mar 28, 2024; trade coverage dated Apr 2, 2024. / Instagram announcement reportedly 28 March 2024; ADOR's photo post and Electronic Times coverage were on 29 March (date omitted from reader text as one day after the record date); product details from Cosmetics Business (2024-04-02).",
+    "editor_note": "Instagram announcement reportedly Mar 28, 2024; trade coverage dated Apr 2, 2024. / Instagram announcement reportedly 28 March 2024; ADOR's photo post and Electronic Times coverage were on 29 March (date omitted from reader text as one day after the record date); product details from Cosmetics Business (2024-04-02). / 2026-10-24 nightly: Korean press (Newsis 2024-03-29 16:51, Herald Business) say Gucci announced the appointment on the 29th and ADOR released photos on the 29th (KST). Gucci Beauty's Instagram announcement is dated 28 March in Pinterest/KpopStarz (URL 20240328) coverage, but the post's KST time could not be fetched. Content (global brand ambassador, extension of the 2022 fashion role) confirmed; date left as is pending a decision.",
     "detail": {
       "ja": "グッチ ビューティがInstagramでハニをグローバルブランドアンバサダーに起用したと発表し、ハニが「その真正さ、自信、カリスマでメゾンの核となる価値を体現している」と述べた。ADORも写真とともに起用を公表した。ハニは新作リップのルージュ ア レーヴル マット509「ロッソ アンコーラ」を塗るプロモーション映像に登場し、キャンペーン画像にはパレット ドゥ ボーテ カチュールとスティロ コントゥール デ ジューも含まれた。2022年からのグッチ ファッションのアンバサダー契約を拡張するもので、ブランドのアンバサダーにはDavika HoorneとMiley Cyrusがいた。",
       "en": "Gucci Beauty announced Hanni as its global brand ambassador on Instagram, saying she embodies the core values of the house with her authenticity, confidence and charisma, and ADOR also publicised the appointment with photos. Hanni appeared in a promotional video applying the new Rouge a Levres Mat lipstick in shade 509 'Rosso Ancora', and the campaign imagery also showed the Palette de Beaute Quatuor and the Stylo Contour des Yeux kohl pencil. The role extended her Gucci fashion ambassadorship held since 2022; the brand's other ambassadors included Davika Hoorne and Miley Cyrus."
@@ -3029,10 +3033,10 @@
     }
   },
   {
-    "id": "ad-2024-04-01-kao-essential-cm-japan",
-    "date": "2024-04-01",
+    "id": "ad-2024-04-08-kao-essential-cm-japan",
+    "date": "2024-04-08",
     "date_type": "release",
-    "date_precision": "month",
+    "date_precision": "day",
     "category": "ad",
     "entity": "newjeans",
     "members": [
@@ -3043,13 +3047,14 @@
       "en": "Kao Essential commercial (Japan)"
     },
     "summary": {
-      "ja": "花王「エッセンシャル」が「エッセンシャル プレミアム」へのリブランディングに合わせNewJeansを起用、CMソングは「Bubble Gum」日本語版。",
-      "en": "Kao's Essential cast NewJeans for its Essential Premium rebranding, with a new commercial set to the Japanese 'Bubble Gum'."
+      "ja": "花王「エッセンシャル」がリブランディングに合わせNewJeansを新広告モデルに起用し、新曲「Bubble Gum」を使った新TVCMを全国で放映開始。",
+      "en": "Kao's Essential named NewJeans its new advertising models for its rebranding and began airing a nationwide commercial set to the new song 'Bubble Gum'."
     },
     "source_url": "https://en.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/Bubble_Gum_(NewJeans_song)",
-      "https://ja.wikipedia.org/wiki/NewJeans"
+      "https://prtimes.jp/main/html/rd/p/000000006.000096518.html",
+      "https://www.fashionsnap.com/article/2024-04-08/essential-newjeans/",
+      "https://en.wikipedia.org/wiki/Bubble_Gum_(NewJeans_song)"
     ],
     "media": {
       "type": "none"
@@ -3059,11 +3064,11 @@
       "japan",
       "cm"
     ],
-    "verified": false,
-    "editor_note": "Early April 2024; en.wikipedia cites Apr 7 coverage. / Early April 2024; details from Fashionsnap (2024-04-08), English Wikipedia cites 7 April coverage and describes the soundtrack as the Japanese version of 'Bubble Gum'. Press framing removed.",
+    "verified": true,
+    "editor_note": "Early April 2024; en.wikipedia cites Apr 7 coverage. / Early April 2024; details from Fashionsnap (2024-04-08), English Wikipedia cites 7 April coverage and describes the soundtrack as the Japanese version of 'Bubble Gum'. Press framing removed. / 2026-10-24 nightly: Kao's own press release on PR TIMES (2024-04-08 00:00) states the new CM airs nationwide from Monday 8 April and premieres NewJeans' new song 'Bubble Gum'; Essential Premium series on sale 13 April; pop-up at Shibuya Sakura Stage 3F 18-21 April. Date corrected from month precision (04-01) to 2024-04-08 (day). Removed 'Japanese version' of Bubble Gum, which the release does not say. Better primary source: the PR TIMES release (source_url not changed here).",
     "detail": {
-      "ja": "花王「エッセンシャル」が、バリアシリーズを「エッセンシャル プレミアム」に改称する4月13日からのリブランディングに合わせてNewJeansを新しい広告モデルに起用し、「Bubble Gum」日本語版を使った新TVCM「きらめく朝、はじまる。」篇を全国で放映した。ヘアカラーやアイロンで髪が傷んだ若年層に向け、メンバーの明るい朝の場面を描くCM。4月18日から21日には渋谷サクラステージ3階で、CMセットを再現したフォトブースや新製品展示、「うさみくじ」を備えた無料のポップアップ「Brighten Me Up! Museum」を開く予定で、公式YouTubeにはメイキング映像も公開された。",
-      "en": "Kao's hair-care brand Essential named NewJeans its new advertising models for the rebranding of its barrier series as 'Essential Premium' from April 13, airing a new nationwide TV commercial, 'Kirameku asa, hajimaru', set to the Japanese version of the group's new song 'Bubble Gum'. Aimed at young people whose hair is damaged by colouring and straighteners, the commercial shows the members' bright mornings. A free pop-up, 'Brighten Me Up! Museum', was scheduled for April 18 to 21 on the third floor of Shibuya Sakura Stage with a photo booth recreating the CM set, new product displays and a rabbit-themed fortune draw, and a making-of video was posted on the brand's YouTube channel."
+      "ja": "花王のヘアケアブランド「エッセンシャル」が「Brighten Me Up！＜ときめきが世界を変える＞」をコンセプトとするリブランディングを始め、NewJeansを新しい広告モデルに起用した。4月8日から全国で放映された新TVCM「Essential Premium『きらめく朝、はじまる。』篇」では、NewJeansの新曲「Bubble Gum」がCMで初めて公開された。対象のEssential Premiumシリーズは4月13日発売で、4月18日から21日には渋谷サクラステージ3階で、CMセットを再現したフォトブースや「うさみくじ」を備えた無料のポップアップ「Brighten Me Up! Museum」を開く予定とされた。公式YouTubeにはメイキング映像も公開された。",
+      "en": "Kao's hair-care brand Essential launched a rebranding under the concept 'Brighten Me Up!' and named NewJeans its new advertising models. The new commercial, Essential Premium 'Kirameku asa, hajimaru', aired nationwide from April 8 and premiered the group's new song 'Bubble Gum'. The Essential Premium series was due on April 13, and a free pop-up, 'Brighten Me Up! Museum', was scheduled for April 18 to 21 on the third floor of Shibuya Sakura Stage with a photo booth recreating the CM set and a rabbit-themed fortune draw. A making-of video was posted on YouTube."
     },
     "credits": {
       "brand": "Kao (Essential / Essential Premium)"
@@ -3152,8 +3157,8 @@
       "jewelry",
       "campaign"
     ],
-    "verified": false,
-    "editor_note": "News1 (2024-04-12) reports Dior released the images on the 12th; L'Officiel Korea (2024-04-13) gives product names. / Source is a press report (Daum News); not confirmed against an official page."
+    "verified": true,
+    "editor_note": "News1 (2024-04-12) reports Dior released the images on the 12th; L'Officiel Korea (2024-04-13) gives product names. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: News1 via Daum (2024-04-12 15:50): Dior released new campaign images with Haerin on the 12th. L'Officiel Korea (2024-04-13): ROSE DES VENTS campaign, new Étoile des Vents by Victoire de Castellane, two rose-gold diamond necklaces. Confirmed on press; no Dior/ADOR post located."
   },
   {
     "id": "ad-2024-05-01-lotte-wellfood-zero-cm-right-now",
@@ -3310,8 +3315,11 @@
       "beauty",
       "video"
     ],
-    "verified": false,
-    "editor_note": "Dailian (2024-05-10) citing LG H&H. Related digital cover exists as magazine-2024-05-07-cosmopolitan-korea-hanni-gucci-beauty. / Source is a press report (Daum News); not confirmed against an official page."
+    "verified": true,
+    "editor_note": "Dailian (2024-05-10) citing LG H&H. Related digital cover exists as magazine-2024-05-07-cosmopolitan-korea-hanni-gucci-beauty. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: Dailian via Daum (2024-05-10 14:10) re-read: per LG H&H (Gucci Beauty's Korean distributor), the Hanni x Cosmopolitan Korea branded video went up on the magazine's official SNS on the afternoon of the 10th, theme 'time filled with things Hanni likes', five looks with Gucci Beauty bestsellers; online pictorial previewed on the 7th. Confirmed on press; the Cosmopolitan post itself not fetched.",
+    "reference_urls": [
+      "https://v.daum.net/v/20240510141023260"
+    ]
   },
   {
     "id": "ad-2024-05-14-british-museum-korean-audio-guide",
@@ -3341,9 +3349,12 @@
     },
     "source_url": "https://www.koreatimes.co.kr/www/art/2024/05/398_374738.html",
     "reference_urls": [
+      "https://www.britishmuseum.org/visit/audio-app/audio-app-korean",
+      "https://www.etnews.com/20240514000134",
+      "https://www.mksports.co.kr/news/entertain/11015159",
+      "https://www.vogue.co.kr/2024/05/14/%EB%89%B4%EC%A7%84%EC%8A%A4-%EB%8C%80%EC%98%81%EB%B0%95%EB%AC%BC%EA%B4%80-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%98%A4%EB%94%94%EC%98%A4-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%9E%AC%EB%8A%A5-%EA%B8%B0%EB%B6%80/",
       "https://blooloop.com/museum/news/british-museum-k-pop-newjeans-audio-guides/",
-      "https://www.tenasia.com/amp/2024051629584",
-      "https://en.wikipedia.org/wiki/NewJeans#Endorsements"
+      "https://www.koreatimes.co.kr/www/art/2024/05/398_374738.html"
     ],
     "media": {
       "type": "none"
@@ -3353,8 +3364,8 @@
       "culture",
       "audio-guide"
     ],
-    "verified": false,
-    "editor_note": "Korea Times (2024-05-16 14:48 KST) says ADOR announced it 'Tuesday' via press release and that the tour is available in the museum's Audio app (reports give 14 May). No British Museum or ADOR page fetched; date from press only. en.wikipedia gives May 2024 only."
+    "verified": true,
+    "editor_note": "Korea Times (2024-05-16 14:48 KST) says ADOR announced it 'Tuesday' via press release and that the tour is available in the museum's Audio app (reports give 14 May). No British Museum or ADOR page fetched; date from press only. en.wikipedia gives May 2024 only. / 2026-10-24 nightly: British Museum's own Korean audio-app page describes the NewJeans-voiced tour: 16 objects in 10 galleries, from the moon jar in Room 67 to the bronze head of Hadrian in Room 49. ADOR's announcement of the talent donation is dated 14 May 2024 in Electronic Times, MK Sports and Vogue Korea, with the same object list (celadon kundika, 14th-century inlaid celadon, moon jar, Four Heavenly Kings painting, recreated sarangbang). Confirmed."
   },
   {
     "id": "ad-2024-05-14-murakami-powerpuff-right-now",
@@ -3386,7 +3397,7 @@
       "art"
     ],
     "verified": false,
-    "editor_note": "Date is the article date; teaser reveal was on or just before. / Details from Harper's Bazaar Malaysia; the record date is the article date and the teaser was revealed on or just before it. Press framing removed.",
+    "editor_note": "Date is the article date; teaser reveal was on or just before. / Details from Harper's Bazaar Malaysia; the record date is the article date and the teaser was revealed on or just before it. Press framing removed. / 2026-10-24 nightly: The three-way NewJeans x Murakami x Powerpuff Girls collaboration was revealed by the HYBE LABELS upload UagOXpNCc10 \"NewJeans (뉴진스) 'Right Now' Official MV Teaser\", dated 2024-05-01 KST (next API; description carries the Cartoon Network and Takashi Murakami/Kaikai Kiki credits). That teaser is already recorded as mv-2024-05-01-right-now-mv-teaser. 14 May is only Harper's Bazaar Malaysia's article date; no separate announcement on 14 May was found. Also, the detail's mentions of the How Sweet 24 May release and Tokyo Dome dates would need re-checking against what was announced by 1 May if the date moves. Not changed.",
     "detail": {
       "ja": "「Right Now」のMVティーザーを通じて、NewJeans、村上隆、カートゥーン ネットワークの『パワーパフ ガールズ』による三者のコラボレーションが公開された。村上隆の代表的なレインボーフラワーが登場し、村上は各メンバーを表す新キャラクターもデザインした。「Right Now」は6月発売の日本デビューシングル『Supernatural』に収録される次のシングルで、MV本編は数週間内に公開予定。関連日程として『How Sweet』の5月24日発売と、6月26日・27日の東京ドームでの「Bunnies Camp 2024」が控えていた。",
       "en": "A teaser for the 'Right Now' music video revealed a three-way collaboration between NewJeans, Japanese artist Takashi Murakami and Cartoon Network's The Powerpuff Girls. Murakami's signature rainbow flower appears, and he also designed new characters representing each member. 'Right Now' was the group's next single, included on the Japanese debut single Supernatural due in June, with the full video expected within weeks. Upcoming related dates were the May 24 release of How Sweet and the 'Bunnies Camp 2024' fan meetings at Tokyo Dome on June 26 and 27."
@@ -3520,8 +3531,8 @@
       "fashion",
       "campaign"
     ],
-    "verified": false,
-    "editor_note": "MoneyWeek (2024-05-23) gives the 23 May release; L'Officiel Korea (2024-05-26) repeats the brand release. / Source is a press report (Daum News); not confirmed against an official page."
+    "verified": true,
+    "editor_note": "MoneyWeek (2024-05-23) gives the 23 May release; L'Officiel Korea (2024-05-26) repeats the brand release. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: MoneyS via Daum (2024-05-23 16:16): Dior unveiled the Denim Dior Oblique campaign with Haerin on the 23rd; Maria Grazia Chiuri, washed-vintage jacquard denim with dark-blue-to-white gradient motif, Dior Book Tote in the new material shot on New York streets. Confirmed on press; no Dior/ADOR post located."
   },
   {
     "id": "ad-2024-06-01-line-friends-collab-2024",
@@ -3816,7 +3827,7 @@
       "cm"
     ],
     "verified": false,
-    "editor_note": "Real Sound (2024-08-26); Kao release not fetched. First CM: ad-2024-04-01-kao-essential-cm-japan. Related content record: content-2024-10-17-light-jeans-essential-sports-day-campaign-behind."
+    "editor_note": "Real Sound (2024-08-26); Kao release not fetched. First CM: ad-2024-04-08-kao-essential-cm-japan. Related content record: content-2024-10-17-light-jeans-essential-sports-day-campaign-behind."
   },
   {
     "id": "ad-2024-09-01-skt-iphone-16-pro-cm",

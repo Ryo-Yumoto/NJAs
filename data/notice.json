@@ -1487,6 +1487,9 @@
     },
     "source_url": "https://www.heraldk.com/article/2025102915424533954",
     "reference_urls": [
+      "https://www.newsis.com/view/NISX20250911_0003325219",
+      "https://www.xportsnews.com/article/2051960",
+      "https://v.daum.net/v/20250911140429234",
       "https://en.wikipedia.org/wiki/NewJeans"
     ],
     "media": {
@@ -1497,11 +1500,11 @@
       "mediation",
       "dispute"
     ],
-    "verified": false,
-    "editor_note": "Details of the 09-11 session (attendance, duration) not reported; date per Herald/Wikipedia. | Session details still unreported; Herald Business piece (2025-10-29) confirms two failed mediations in August and September. / Session details (attendance, duration) not reported; date per Herald Business/Wikipedia. Herald Business (2025-10-29) confirms two failed mediations in August and September and gives the pronouncement time of 09:50 on 10-30.",
+    "verified": true,
+    "editor_note": "Details of the 09-11 session (attendance, duration) not reported; date per Herald/Wikipedia. | Session details still unreported; Herald Business piece (2025-10-29) confirms two failed mediations in August and September. / Session details (attendance, duration) not reported; date per Herald Business/Wikipedia. Herald Business (2025-10-29) confirms two failed mediations in August and September and gives the pronouncement time of 09:50 on 10-30. / 2026-10-24 nightly: Same-day reports (Newsis 2025-09-11, Xports News, Daum) confirm the session on 11 Sept from 13:30, ~20 minutes, closed, members absent, no agreement, ruling set for 30 Oct; first session 14 Aug. Replaced the 09:50 pronouncement time (only reported on 29 Oct, after the record date) with same-day session details.",
     "detail": {
-      "ja": "ソウル中央地裁民事合議41部（チョン・フェイル部長判事）で開かれた専属契約有効確認訴訟の第2回調停も、8月14日の第1回に続いて合意に至らなかった。裁判所は8月の時点で、調停が不成立なら10月30日に判決を言い渡すと予告しており、言い渡しは同日9時50分に予定された。争点はメンバーが主張する信頼関係の破綻の有無で、ADORは忠実に支援してきたとして解除事由はないと主張していた。",
-      "en": "The second mediation session in ADOR's contract-validity suit against the five members, held by the Seoul Central District Court's Civil Division 41 (presiding judge Jung Hoe-il), ended without agreement, like the first on August 14. The court had said in August that it would deliver judgment on October 30 if mediation failed, and the pronouncement was scheduled for 9:50 am that day. The central issue was whether the breakdown of trust claimed by the members had occurred, with ADOR maintaining that it had faithfully supported them and that there were no grounds for termination."
+      "ja": "ソウル中央地裁民事合議41部（チョン・フェイル部長判事）で9月11日13時30分から非公開で開かれた専属契約有効確認訴訟の第2回調停は約20分で終わり、8月14日の第1回に続いて合意に至らなかった。第1回と異なり、メンバー5人は出席しなかった。調停が不成立となったため、裁判所は10月30日に判決を言い渡すことになった。争点はメンバーが主張する信頼関係の破綻の有無で、ADORは十分に支援してきたとして解除事由はないと主張していた。",
+      "en": "The second mediation session in ADOR's contract-validity suit against the five members, held behind closed doors from 1:30 pm on September 11 by the Seoul Central District Court's Civil Division 41 (presiding judge Jung Hoe-il), lasted about 20 minutes and ended without agreement, like the first on August 14. Unlike the first session, the members did not attend in person. With mediation failed, the court was to deliver judgment on October 30. The central issue was whether the breakdown of trust claimed by the members had occurred, with ADOR maintaining that it had supported them substantially and that there were no grounds for termination."
     },
     "credits": {
       "court": "Seoul Central District Court, Civil Division 41 (presiding judge Jung Hoe-il)"
@@ -1525,7 +1528,8 @@
     "source_url": "https://www.segye.com/newsView/20251030513772",
     "reference_urls": [
       "https://www.dailian.co.kr/news/view/1566248",
-      "https://www.fnnews.com/news/202510301125187360"
+      "https://www.fnnews.com/news/202510301125187360",
+      "https://v.daum.net/v/20251030105447919"
     ],
     "media": {
       "type": "none"
@@ -1535,10 +1539,10 @@
       "ruling",
       "dispute"
     ],
-    "verified": false,
+    "verified": true,
     "note": "ADORは「NewJeansを待ち続ける」との立場を示した。",
     "note_en": "ADOR said it would 'keep waiting for NewJeans'.",
-    "editor_note": "Ruling delivered in the morning ('이날 오전'); exact time not confirmed. Contracts run to 2029-07-31 per ADOR.",
+    "editor_note": "Ruling delivered in the morning ('이날 오전'); exact time not confirmed. Contracts run to 2029-07-31 per ADOR. / 2026-10-24 nightly: Segye (2025-10-30) confirms the ruling for ADOR, the court's 'appearance of broken trust' reasoning, ADOR's thanks and its statement that preparations including a full album were complete and it was waiting, and the members' intent to appeal. Financial News gives the pronouncement at 09:50 by Civil Division 41 (presiding judge Jung Hoe-il), members absent. The clause about ADOR 'reflecting on its role as a management company' was not found in the pages fetched; left as is.",
     "detail": {
       "ja": "ソウル中央地裁民事合議41部（チョン・フェイル部長判事）は、ADORがメンバー5人を相手に起こした専属契約有効確認訴訟で原告ADOR勝訴の判決を言い渡し、専属契約はなお有効だと認めた。ADORが企画会社としての義務に違反したとは認められないとし、ミン・ヒジン前代表の解任が契約違反にあたるという主張と、信頼関係の破綻を理由とする解除の主張をいずれも退け、「信頼関係破綻の外観を作って専属契約から逃れようとする試みは許されるべきでない」と述べた。ADORは判決に感謝し、企画会社としての役割を省みるとともに、正規アルバムの発売など活動の準備を終えて待っているとして、アーティストとともにファンのもとへ戻ると表明した。メンバー5人は控訴の意向を示した。",
       "en": "The Seoul Central District Court's Civil Division 41 (presiding judge Jung Hoe-il) ruled for the plaintiff ADOR in its contract-validity suit against the five members, holding that the exclusive contracts remain valid. The court found that ADOR had not breached its obligations as the management company, rejected both the argument that former CEO Min Hee-jin's dismissal breached the contract and the claim of termination for breakdown of trust, and said that attempts to escape an exclusive contract by manufacturing the appearance of broken trust should not be permitted. ADOR thanked the court, said it would reflect on its role as a management company, said it had completed preparations for activities including a full-length album and was waiting, and pledged to bring the artists back to fans. The five members indicated they would appeal."
@@ -1579,11 +1583,11 @@
       "return",
       "dispute"
     ],
-    "verified": false,
-    "editor_note": "Issued in the afternoon of 11-12 (Khan 17:38). Exact time not given. / Issued in the afternoon of 11-12; Kyunghyang Shinmun reported at 17:38. Exact release time not given.",
+    "verified": true,
+    "editor_note": "Issued in the afternoon of 11-12 (Khan 17:38). Exact time not given. / Issued in the afternoon of 11-12; Kyunghyang Shinmun reported at 17:38. Exact release time not given. / 2026-10-24 nightly: Sports Kyunghyang (2025-11-12 17:38) and Kyunghyang Shinmun (19:41) quote ADOR: the two 'decided to respect the court ruling and honor their exclusive contracts after deliberating with their families and full discussion with ADOR', and ADOR will do its best so that 'Haerin and Hyein' can continue their entertainment activities smoothly. Corrected 'NewJeans' to 'Haerin and Hyein' in that clause. 348-day figure is arithmetic from 2024-11-29.",
     "detail": {
-      "ja": "ADORがプレスリリースで、ヘリンとヘインがADORと共に活動を続けることで意見をまとめたと発表した。2人は家族と熟考し、ADORと十分に協議した末、法院の判決を尊重し専属契約を守ると決めたとされ、ADORはNewJeansが円滑に芸能活動を続けられるよう最善を尽くすとした。2024年11月29日の契約解除通告から348日後の発表で、ADORは10月30日の1審判決後、正規アルバムの発売など活動の準備を終えて待っていると表明していた。",
-      "en": "ADOR announced in a press release that Haerin and Hyein had agreed to continue their activities with ADOR. According to ADOR, the two, after careful deliberation with their families and full consultation with ADOR, decided to respect the court's ruling and honor their exclusive contracts, and ADOR said it would do its best so that NewJeans could continue their activities smoothly. The announcement came 348 days after the November 29, 2024 termination notice; after the October 30 first-instance ruling ADOR had said it had completed preparations for activities, including a full-length album, and was waiting."
+      "ja": "ADORがプレスリリースで、ヘリンとヘインがADORと共に活動を続けることで意見をまとめたと発表した。2人は家族と熟考し、ADORと十分に協議した末、法院の判決を尊重し専属契約を守ると決めたとされ、ADORはヘリンとヘインが円滑に芸能活動を続けられるよう最善を尽くすとした。2024年11月29日の契約解除通告から348日後の発表で、ADORは10月30日の1審判決後、正規アルバムの発売など活動の準備を終えて待っていると表明していた。",
+      "en": "ADOR announced in a press release that Haerin and Hyein had agreed to continue their activities with ADOR. According to ADOR, the two, after careful deliberation with their families and full consultation with ADOR, decided to respect the court's ruling and honor their exclusive contracts, and ADOR said it would do its best so that Haerin and Hyein could continue their entertainment activities smoothly. The announcement came 348 days after the November 29, 2024 termination notice; after the October 30 first-instance ruling ADOR had said it had completed preparations for activities, including a full-length album, and was waiting."
     },
     "credits": {
       "issuer": "ADOR (press release)"
@@ -1621,11 +1625,11 @@
       "return",
       "dispute"
     ],
-    "verified": false,
-    "editor_note": "Sorted after the ADOR announcement by slug; reports say it came about two hours later in the afternoon. | Khan reports attribute the statement to the members' legal representative; the law firm is not named in the fetched pages. | note sentences already covered by detail: メンバーの1人が南極にいたため意思の伝達が遅れたと説明した。 / Removed source mention from reader text: Sports Kyunghyang, 20:08 KST.",
+    "verified": true,
+    "editor_note": "Sorted after the ADOR announcement by slug; reports say it came about two hours later in the afternoon. | Khan reports attribute the statement to the members' legal representative; the law firm is not named in the fetched pages. | note sentences already covered by detail: メンバーの1人が南極にいたため意思の伝達が遅れたと説明した。 / Removed source mention from reader text: Sports Kyunghyang, 20:08 KST. / 2026-10-24 nightly: Kyunghyang Shinmun (2025-11-12 19:41) confirms the statement via legal representative, the Antarctica delay, no reply from ADOR and the pledge; Sports Kyunghyang (11-12 20:08). Sports Kyunghyang (11-13 10:23) puts the gap at 'about three hours' and quotes ADOR as checking whether the three's intention is genuine; the earlier 'about two hours' was not found, so changed to 'a few hours'.",
     "detail": {
-      "ja": "ADORがヘリンとヘインの復帰を発表してから約2時間後、ミンジ、ハニ、ダニエルは法律代理人を通じた立場文で、慎重な相談の末ADORに復帰することを決めたと表明した。メンバーの1人が南極にいたため意思疎通が遅れ、ADORから返答がなかったため別途に立場を伝えることになったと説明し、真心を込めた音楽とステージで会いに行くと述べた。ADOR側は3人の真意を確認中とした。",
-      "en": "About two hours after ADOR announced the return of Haerin and Hyein, Minji, Hanni and Danielle stated through their legal representative that they had decided to return to ADOR after careful discussion. They explained that one member had been in Antarctica, delaying communication, and that because ADOR had not replied they were announcing their position separately, and pledged to return with sincere music and performances. ADOR's side said it was verifying the three members' intentions."
+      "ja": "ADORがヘリンとヘインの復帰を発表した数時間後、ミンジ、ハニ、ダニエルは法律代理人を通じた立場文で、慎重な相談の末ADORに復帰することを決めたと表明した。メンバーの1人が南極にいたため意思疎通が遅れ、ADORから返答がなかったため別途に立場を伝えることになったと説明し、真心を込めた音楽とステージで会いに行くと述べた。ADOR側は3人の復帰の意思の真意を確認中とした。",
+      "en": "A few hours after ADOR announced the return of Haerin and Hyein, Minji, Hanni and Danielle stated through their legal representative that they had decided to return to ADOR after careful discussion. They explained that one member had been in Antarctica, delaying communication, and that because ADOR had not replied they were announcing their position separately, and pledged to return with sincere music and performances. ADOR's side said it was verifying the three members' intentions."
     },
     "credits": {
       "issuer": "Minji, Hanni, Danielle (via counsel)"
@@ -1658,7 +1662,7 @@
       "ruling",
       "dispute"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "控訴期限の11月14日0時までに、メンバー5人（ヘリン、ヘイン、ミンジ、ダニエル、ハニ）のいずれも控訴状を出さず、ソウル中央地裁民事合議41部が10月30日に言い渡した専属契約有効確認の1審判決（ADOR勝訴）が確定した。11月12日にはヘリンとヘインがADORを通じて、ミンジ、ダニエル、ハニが別途の立場文で復帰を表明しており、ADORはヘリンとヘインが円滑に活動を続けられるよう最善を尽くすとし、ミンジ、ダニエル、ハニとは個別の面談を調整して協議を進めるとした。",
       "en": "By the appeal deadline of midnight on November 14, none of the five members (Haerin, Hyein, Minji, Danielle and Hanni) had filed a notice of appeal, making final the October 30 first-instance judgment of the Seoul Central District Court's Civil Division 41 confirming the contracts' validity in ADOR's favor. On November 12 Haerin and Hyein had announced their return through ADOR and Minji, Danielle and Hanni in a separate statement; ADOR said it would do its best so that Haerin and Hyein could continue smoothly and that it was arranging individual meetings with Minji, Danielle and Hanni."
@@ -1666,7 +1670,7 @@
     "credits": {
       "court": "Seoul Central District Court, Civil Division 41 (judgment of October 30, 2025)"
     },
-    "editor_note": "Removed source mention from reader text: The Herald Business, November 13, 2025."
+    "editor_note": "Removed source mention from reader text: The Herald Business, November 13, 2025. / 2026-10-24 nightly: Sidae (2025-11-14 10:32): none of the five filed an appeal by 00:00 on 14 Nov, so the 30 Oct first-instance ruling for ADOR became final; ADOR said it was arranging individual meetings with the members. Herald Business (11-13) consistent. Confirmed."
   },
   {
     "id": "notice-2025-12-29-ador-hanni-returns-danielle-contract-terminated",
@@ -1703,10 +1707,10 @@
       "danielle",
       "dispute"
     ],
-    "verified": false,
+    "verified": true,
     "note": "ADORはダニエルの家族1人と元代表ミン・ヒジンにも法的責任を問うとした。",
     "note_en": "ADOR said it would also pursue legal liability against one of Danielle's family members and former CEO Min Hee-jin.",
-    "editor_note": "Suit against Danielle and two others: Korean reports say the complaint was to be filed the same day (claim later reported as about 43.1bn won; one report says 33.1bn); English Wikipedia dates the filing 12-30. Not split into a separate record. | Damages amount and filing date of the suit against Danielle's side are not in the Money Today article; left out of reader text.",
+    "editor_note": "Suit against Danielle and two others: Korean reports say the complaint was to be filed the same day (claim later reported as about 43.1bn won; one report says 33.1bn); English Wikipedia dates the filing 12-30. Not split into a separate record. | Damages amount and filing date of the suit against Danielle's side are not in the Money Today article; left out of reader text. / 2026-10-24 nightly: Money Today (2025-12-29 11:17) re-read: ADOR's statement of the 29th covers Hanni's decision after visiting Korea with her family (respecting the ruling), continuing talks with Minji, termination notice to Danielle and legal responsibility for one of her family members and Min Hee-jin, the distorted-information remark, a later forum to address controversies, and returning NewJeans to fans soon. Confirmed.",
     "detail": {
       "ja": "ADORは、専属契約有効確認判決の確定後にミンジ、ハニ、ダニエルとその家族と協議を重ねてきたとして、3人に関する立場を発表した。ハニは家族とともに韓国を訪れてADORと長時間話し合い、過去を振り返った末に「法院の判決を尊重してADORと共にすることを決めた」とされた。ミンジとは相互理解を深める協議が続いており、まだ決定には至っていない。ダニエルについては、NewJeansのメンバーかつADOR所属アーティストとして共にすることは難しいと判断して同日専属契約の解除を通告し、紛争と離脱、復帰の遅れを招いたとしてダニエルの家族1人とミン・ヒジン前代表の法的責任を問うとした。ADORは、メンバーが長く偏った情報にさらされて誤解が生じたとし、信頼回復には正確な事実の共有と時間が必要で、紛争をめぐる論争については後日メンバーが語る場を別に設けると述べ、できるだけ早くNewJeansをファンのもとに戻すと表明した。",
       "en": "ADOR announced its position on Minji, Hanni and Danielle, saying it had held many discussions with the three and their families after the contract-validity ruling became final. Hanni, it said, had visited Korea with her family, held lengthy talks with ADOR and, after reflecting on the past, decided to respect the court's ruling and stay with ADOR. Talks with Minji were continuing to deepen mutual understanding, with no decision yet. ADOR said it had that day notified Danielle of the termination of her exclusive contract, judging it difficult to continue with her as a NewJeans member and ADOR artist, and that it would pursue legal responsibility against one of Danielle's family members and former CEO Min Hee-jin for causing the dispute, the departure and the delayed return. ADOR said the members had long been exposed to distorted information that led to misunderstandings, that restoring the trust of fans and the public would require accurate facts and time, that a separate forum would be arranged later for the members to speak about the controversies, and that it would do its best to bring NewJeans back to fans as soon as possible."
@@ -1742,8 +1746,8 @@
       "ador",
       "comeback-prep"
     ],
-    "verified": false,
-    "editor_note": "ADOR's statement does not name members; reports say Hanni, Haerin and Hyein were in Copenhagen (mid-April). / Statement reported by YTN star at 11:29 KST. ADOR's statement does not name members; the Copenhagen sightings of Hanni, Haerin and Hyein (mid-April) come from reports. The studio schedule sheet's authenticity was not confirmed, and ADOR did not confirm or deny use of a studio.",
+    "verified": true,
+    "editor_note": "ADOR's statement does not name members; reports say Hanni, Haerin and Hyein were in Copenhagen (mid-April). / Statement reported by YTN star at 11:29 KST. ADOR's statement does not name members; the Copenhagen sightings of Hanni, Haerin and Hyein (mid-April) come from reports. The studio schedule sheet's authenticity was not confirmed, and ADOR did not confirm or deny use of a studio. / 2026-10-24 nightly: YTN star (2026-04-27 11:29) quotes ADOR: members preparing 'according to each member's condition and an optimized schedule', the Copenhagen visit was 'part of the pre-production process' for 'a new musical narrative', next steps to be announced officially 'at the best time'; studio sheet (13th-16th, ADOR booking) circulated and unverified; Haerin, Hyein, Hanni returned, Danielle in dispute, Minji undecided. Confirmed.",
     "detail": {
       "ja": "4月中旬にヘリン、ヘイン、ハニがコペンハーゲンで目撃され、ADOR名義で13日から16日まで予約された現地レコーディングスタジオのスケジュール表がオンラインコミュニティで出回ったことを受け、ADORが立場を出した。ADORは「NewJeansのメンバーは現在、メンバーごとのコンディションと各自に最適化されたスケジュールに従って活動を準備している」とし、コペンハーゲン訪問は「NewJeansの新しい音楽的叙事を盛り込むための事前プロダクション過程の一環だった」と説明して、今後の歩みは最も良い時期に公式に伝えるとした。当時ヘリン、ヘイン、ハニはADORに復帰済みで、ダニエルは契約解除後に係争中、ミンジは去就未定だった。",
       "en": "ADOR issued a statement after Haerin, Hyein and Hanni were sighted in Copenhagen in mid-April and a local recording studio's schedule sheet showing bookings under ADOR's name from the 13th to the 16th circulated on an online community. ADOR said the NewJeans members were preparing activities according to each member's condition and a schedule optimized for her, described the Copenhagen visit as part of the pre-production process for a new musical narrative for NewJeans, and said it would officially announce their next steps at the best time. At the time Haerin, Hyein and Hanni had returned to ADOR, Danielle was in dispute after her contract was terminated, and Minji's status was undecided."

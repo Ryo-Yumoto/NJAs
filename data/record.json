@@ -3366,7 +3366,7 @@
       "all-kill"
     ],
     "verified": false,
-    "editor_note": "iChart PAK record not reachable; Circle week 28/2023 data (Super Shy No. 1 digital/streaming/Global) is consistent but not the certifying body. Not contradicted."
+    "editor_note": "iChart PAK record not reachable; Circle week 28/2023 data (Super Shy No. 1 digital/streaming/Global) is consistent but not the certifying body. Not contradicted. / 2026-10-24 nightly: Soompi (2023-07-16) re-read: PAK on the morning of 16 July per iChart, fourth 2023 song after IVE 'Kitsch', 'I AM' and (G)I-DLE 'Queencard'; Ditto 655 cumulative PAK hours. iChart/Instiz primary page and a Korean press report for the date not found in this pass."
   },
   {
     "id": "record-2023-07-20-get-up-stock-preorders-1-72m",
@@ -3397,8 +3397,13 @@
     "tags": [
       "sales"
     ],
-    "verified": false,
-    "editor_note": "Pre-order figure is an ADOR statement relayed by press; no ADOR/NewJeans official post located. Not contradicted."
+    "verified": true,
+    "editor_note": "Pre-order figure is an ADOR statement relayed by press; no ADOR/NewJeans official post located. Not contradicted. / 2026-10-24 nightly: Korean press of 2023-07-21 (SBS News, Hankyung, Electronic Times) report that per distributor YG PLUS, Get Up pre-orders passed 1.72 million as of the 20th, about double OMG's ~800,000. Confirmed.",
+    "reference_urls": [
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1007277366",
+      "https://www.hankyung.com/article/202307212491H",
+      "https://www.etnews.com/20230721000060"
+    ]
   },
   {
     "id": "record-2023-07-21-get-up-first-day-hanteo-1-19m",
@@ -3430,8 +3435,12 @@
       "chart",
       "sales"
     ],
-    "verified": false,
-    "editor_note": "Hanteoチャート初日集計に基づく。 / No Hanteo primary page for 1,194,623; corroborated by Soompi/KJD citing Hanteo. Not contradicted."
+    "verified": true,
+    "editor_note": "Hanteoチャート初日集計に基づく。 / No Hanteo primary page for 1,194,623; corroborated by Soompi/KJD citing Hanteo. Not contradicted. / 2026-10-24 nightly: Edaily (2023-07-22) and Herald Business: ADOR, citing Hanteo Chart, said Get Up sold 1,194,623 copies on release day 21 July (third consecutive million-seller). The girl-group ranking and OMG comparison figures rest on Soompi citing Hanteo; not contradicted.",
+    "reference_urls": [
+      "https://edaily.co.kr/News/Read?mediaCodeNo=258&newsId=01121766635677144",
+      "https://biz.heraldcorp.com/article/3175612"
+    ]
   },
   {
     "id": "record-2023-07-22-get-up-apple-music-itunes-no1",
@@ -3463,7 +3472,7 @@
       "chart"
     ],
     "verified": false,
-    "editor_note": "Apple Music/iTunes chart snapshots are not archived; claim rests on ADOR statements relayed by press. Not verifiable."
+    "editor_note": "Apple Music/iTunes chart snapshots are not archived; claim rests on ADOR statements relayed by press. Not verifiable. / 2026-10-24 nightly: Korean-language searches for the 17-region Apple Music / 9-region iTunes figure as of 22 July 10:00 KST found no Korean press or official post; only the Soompi report. Chart snapshots are not archived. Left unconfirmed."
   },
   {
     "id": "record-2023-07-22-super-shy-emerging-artists-no1",
@@ -3640,11 +3649,13 @@
       "chart",
       "sales"
     ],
-    "verified": false,
+    "verified": true,
     "reference_urls": [
+      "https://www.nocutnews.co.kr/news/5985510",
+      "https://edaily.co.kr/News/Read?mediaCodeNo=258&newsId=01108646635679112",
       "https://www.koreajoongangdaily.com/entertainment/newjeanss-get-up-sells-over-165-million-copies-in-first-week-of-release/10591281"
     ],
-    "editor_note": "No Hanteo primary page found for 1,650,181; corroborated by Korea JoongAng Daily/Soompi/The Fact citing Hanteo (Jul 21-27). Not contradicted."
+    "editor_note": "No Hanteo primary page found for 1,650,181; corroborated by Korea JoongAng Daily/Soompi/The Fact citing Hanteo (Jul 21-27). Not contradicted. / 2026-10-24 nightly: CBS NoCut News (2023-07-28 13:44): ADOR, citing Hanteo Chart, announced first-week sales of 1,650,181 for Get Up (released 21 July), second-highest first week for a K-pop female artist behind aespa (MY WORLD, title track 'Spicy'), more than double OMG's ~700,000. Confirmed."
   },
   {
     "id": "record-2023-07-28-get-up-uk-albums-15-super-shy-52",
@@ -3684,8 +3695,8 @@
     "editor_note": "Official Charts: 2nd EP 'Get Up' debuted/peaked at 15 (albums chart 20230728); Super Shy reached its peak of 52 on the singles chart of the same week."
   },
   {
-    "id": "record-2023-07-31-spotify-2-billion-streams",
-    "date": "2023-07-31",
+    "id": "record-2023-07-30-spotify-2-billion-streams",
+    "date": "2023-07-30",
     "date_type": "announce",
     "date_precision": "day",
     "category": "record",
@@ -3698,12 +3709,12 @@
       "en": "NewJeans surpass 2 billion cumulative Spotify streams about a year after debut"
     },
     "summary": {
-      "ja": "NewJeansのSpotify累計再生数が7月末時点で20億回を超え、3月の10億回から約5か月で倍増した。",
-      "en": "NewJeans' cumulative Spotify streams passed 2 billion by the end of July 2023, doubling the 1 billion of March in about five months."
+      "ja": "NewJeansのSpotify累計再生数が7月30日時点で20億回を超え、3月の10億回から約5か月で倍増した。",
+      "en": "NewJeans' cumulative Spotify streams passed 2 billion as of July 30, 2023, doubling the 1 billion of March in about five months."
     },
     "detail": {
-      "ja": "NewJeans楽曲のSpotify累計ストリーミングが2023年7月末時点で20億回を突破したと、ADORが8月1日に発表した。3月8日の10億回（デビュー219日）から約5か月での倍増で、7月21日発売の『Get Up』収録曲の好調が寄与した。",
-      "en": "ADOR announced on August 1, 2023 that NewJeans' songs had surpassed 2 billion cumulative streams on Spotify as of the end of July. That doubled the 1 billion reached on March 8 (219 days after debut) in about five months, helped by the tracks of Get Up, released July 21."
+      "ja": "NewJeans楽曲のSpotify累計ストリーミングが2023年7月30日時点で20億回を突破したことが8月1日に発表された。3月8日の10億回（デビュー219日）から約5か月での倍増で、7月21日発売の『Get Up』収録6曲は7月30日時点で計2億回を超えていた。",
+      "en": "It was announced on August 1, 2023 that NewJeans' songs had surpassed 2 billion cumulative streams on Spotify as of July 30. That doubled the 1 billion reached on March 8 (219 days after debut) in about five months; the six tracks of Get Up, released July 21, had passed 200 million plays combined as of July 30."
     },
     "source_url": "https://www.kedglobal.com/newsAmp/ked202308010001",
     "media": {
@@ -3713,12 +3724,12 @@
       "streaming",
       "spotify"
     ],
-    "verified": false,
+    "verified": true,
     "reference_urls": [
       "https://v.daum.net/v/20230801091958716",
       "https://www.tenasia.com/amp/2023080164894"
     ],
-    "editor_note": "No ADOR/NewJeans post or same-day major-outlet report stating 2 billion cumulative Spotify streams on/around 2023-07-31 was found (Korea Herald/Soompi searches surface only per-song and album milestones)."
+    "editor_note": "No ADOR/NewJeans post or same-day major-outlet report stating 2 billion cumulative Spotify streams on/around 2023-07-31 was found (Korea Herald/Soompi searches surface only per-song and album milestones). / 2026-10-24 nightly: KED Global (2023-08-01): ADOR said cumulative Spotify streams reached 2,000,186,919 as of 30 July, with the six Get Up tracks over 200 million. Sports Chosun via Daum (2023-08-01 09:19) gives 2,007,899,641 as of 30 July and attributes the figures to Spotify; it also gives 1 billion on 8 March in 219 days. Date moved from 07-31 to 07-30 (as-of date in both reports); announcer left neutral in text because the two reports differ."
   },
   {
     "id": "record-2023-08-01-riaj-omg-platinum",
@@ -3941,6 +3952,43 @@
     "editor_note": "Hot 100 dated 2023-08-05: Super Shy No. 48 (LW 64, peak 48, 3rd week) with ETA (81) and Cool With You (93) also charting."
   },
   {
+    "id": "record-2023-08-10-circle-cert-ditto-streaming-platinum",
+    "date": "2023-08-10",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart認定：「Ditto」ストリーミング・プラチナ（1億回）",
+      "en": "Circle Chart certification: Ditto certified platinum for 100 million streams"
+    },
+    "summary": {
+      "ja": "「Ditto」がCircle Chartのストリーミング部門で1億回超のプラチナに認定され、グループ3曲目のストリーミング認定となった。",
+      "en": "'Ditto' was certified platinum by Circle Chart for surpassing 100 million streams, the group's third streaming certification."
+    },
+    "detail": {
+      "ja": "「Ditto」が1億回再生超のストリーミング・プラチナに認定された。2023年8月10日付のCircle Chart認定で、BTOB「Only one for me」と同時の認定。グループのストリーミング認定は「Hype Boy」「Attention」に続く3曲目。",
+      "en": "'Ditto' was certified platinum for reaching 100 million streams in the streaming category of Circle Chart's certifications dated August 10, 2023, alongside BTOB's 'Only one for me'. It was the group's third streaming certification after 'Hype Boy' and 'Attention'."
+    },
+    "source_url": "https://circlechart.kr/page_cert/chart.circle?serviceGbn=S1040",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "streaming"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://circlechart.kr/page_chart/certification.circle",
+      "https://www.soompi.com/article/1606729wpp/stray-kids-and-ateez-earn-circle-quintuple-million-and-million-certifications-blackpinks-lisa-ive-gi-dle-shinee-ncts-taeyong-newjeans-and-btob-go-platinum"
+    ],
+    "editor_note": "Circle's live list shows Ditto at 2P (2025-06-12); the 1P entry is superseded. NOTE: 2023-08-12 is a Saturday, whereas Circle certifications are issued on Thursdays (2023-08-10 would fit the cycle) - date is suspect but could not be verified. / 2026-10-24 nightly: Soompi (2023-08-12) says the batch of Circle certifications was awarded on 10 August (a Thursday, matching Circle's weekly issue day); 12 Aug was Soompi's publication date. Date corrected to 2023-08-10. Circle's live certification API (POST /data/api/cert/chart, S1040) now lists only Ditto 2P (2025-06-12), so the 1P date cannot be read first-hand; left unverified."
+  },
+  {
     "id": "record-2023-08-10-k-global-heart-dream-awards-2023",
     "date": "2023-08-10",
     "date_type": "event",
@@ -3969,45 +4017,14 @@
     "tags": [
       "award"
     ],
-    "verified": false,
-    "editor_note": "No organizer page for the 2023 K Global Heart Dream Awards reachable; Soompi/Wikipedia list NewJeans among five K Global Best Music Award winners (announced Aug 9, ceremony Aug 10 at KSPO Dome). Not contradicted."
-  },
-  {
-    "id": "record-2023-08-12-circle-cert-ditto-streaming-platinum",
-    "date": "2023-08-12",
-    "date_type": "announce",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "Circle Chart認定：「Ditto」ストリーミング・プラチナ（1億回）",
-      "en": "Circle Chart certification: Ditto certified platinum for 100 million streams"
-    },
-    "summary": {
-      "ja": "「Ditto」がCircle Chartのストリーミング部門で1億回超のプラチナに認定され、グループ3曲目のストリーミング認定となった。",
-      "en": "'Ditto' was certified platinum by Circle Chart for surpassing 100 million streams, the group's third streaming certification."
-    },
-    "detail": {
-      "ja": "「Ditto」が1億回再生超のストリーミング・プラチナに認定された。2023年8月12日発表のCircle Chart認定で、BTOB「Only one for me」と同時の認定。グループのストリーミング認定は「Hype Boy」「Attention」に続く3曲目。",
-      "en": "'Ditto' was certified platinum for reaching 100 million streams in the streaming category of Circle Chart's certifications announced August 12, 2023, alongside BTOB's 'Only one for me'. It was the group's third streaming certification after 'Hype Boy' and 'Attention'."
-    },
-    "source_url": "https://circlechart.kr/page_cert/chart.circle?serviceGbn=S1040",
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "certification",
-      "streaming"
-    ],
-    "verified": false,
+    "verified": true,
+    "editor_note": "No organizer page for the 2023 K Global Heart Dream Awards reachable; Soompi/Wikipedia list NewJeans among five K Global Best Music Award winners (announced Aug 9, ceremony Aug 10 at KSPO Dome). Not contradicted. / 2026-10-24 nightly: Xports News and Hankooki report (G)I-DLE, aespa, IVE, LE SSERAFIM and NewJeans as the five 'K 글로벌 베스트 음원상' winners of the 2023 K Global Heart Dream Awards, held 10 Aug 2023 at KSPO Dome (Xports wrap-up). Confirmed; whether NewJeans attended not stated.",
     "reference_urls": [
-      "https://circlechart.kr/page_chart/certification.circle",
-      "https://www.soompi.com/article/1606729wpp/stray-kids-and-ateez-earn-circle-quintuple-million-and-million-certifications-blackpinks-lisa-ive-gi-dle-shinee-ncts-taeyong-newjeans-and-btob-go-platinum"
-    ],
-    "editor_note": "Circle's live list shows Ditto at 2P (2025-06-12); the 1P entry is superseded. NOTE: 2023-08-12 is a Saturday, whereas Circle certifications are issued on Thursdays (2023-08-10 would fit the cycle) - date is suspect but could not be verified."
+      "https://www.xportsnews.com/article/1757496",
+      "https://www.xportsnews.com/article/1758471",
+      "https://www.hankooki.com/news/articleView.html?idxno=96543",
+      "https://en.wikipedia.org/wiki/2023_K-Global_Heart_Dream_Awards"
+    ]
   },
   {
     "id": "record-2023-08-15-circle-monthly-july-2023-super-shy",
@@ -10529,7 +10546,7 @@
       "streaming"
     ],
     "verified": true,
-    "editor_note": "Circle streaming certification list, fetched 2026-10-17: `OMG` / Ditto 2P, Certify_Date 2025-06-12. Earlier platinum = record-2023-08-12-circle-cert-ditto-streaming-platinum. Certified during the activity pause."
+    "editor_note": "Circle streaming certification list, fetched 2026-10-17: `OMG` / Ditto 2P, Certify_Date 2025-06-12. Earlier platinum = record-2023-08-10-circle-cert-ditto-streaming-platinum. Certified during the activity pause."
   },
   {
     "id": "record-2025-08-07-circle-cert-attention-streaming-double-platinum",

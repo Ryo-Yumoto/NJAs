@@ -3133,8 +3133,8 @@
       "clip",
       "mv-reaction"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) for the official NewJeans channel video gives upload date 2022-12-23 KST and title \"NewJeans (뉴진스) 'Ditto' MV Reaction\"; matches record date and content."
   },
   {
     "id": "content-2022-12-24-yt-listening-to-ditto",
@@ -3177,8 +3177,8 @@
     "tags": [
       "clip"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) for the official NewJeans channel video gives upload date 2022-12-24 KST and title \"NewJeans (뉴진스) Listening To 'Ditto'🎵\"; matches record date and content."
   },
   {
     "id": "content-2022-12-26-light-jeans-2023-seasons-greetings-behind",
@@ -3438,7 +3438,7 @@
       "live-stream"
     ],
     "verified": false,
-    "editor_note": "Date and content from the fan-maintained namu.wiki \"NewJeans/Phoning LIVE\" log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+    "editor_note": "Date and content from the fan-maintained namu.wiki \"NewJeans/Phoning LIVE\" log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. / 2026-10-24 nightly: Phoning is app-only and no press or official post about this voice call was found; still rests on the namu.wiki log only."
   },
   {
     "id": "content-2023-01-09-making-jeans-ditto-mv-behind",
@@ -3574,8 +3574,8 @@
       "light-jeans",
       "behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) for the official NewJeans channel video gives upload date 2023-01-12 KST and title \"[Light Jeans] 'Ditto'&'OMG' Performance Video Behind\"; matches record date and content."
   },
   {
     "id": "content-2023-01-14-yt-omg-mv-reaction",
@@ -3700,7 +3700,7 @@
       "live-stream"
     ],
     "verified": false,
-    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. / 2026-10-24 nightly: Phoning is app-only and no press or official post about Minji's first solo voice call was found; still rests on the namu.wiki log only."
   },
   {
     "id": "content-2023-01-19-jeans-zine-seollal-park-ep-1",
@@ -3760,8 +3760,9 @@
       "all"
     ],
     "title": {
-      "ja": "Happy Seollal! 가 전하는 2023 설날 인사",
-      "en": "Happy Seollal! (뉴진스)가 전하는 2023 설날 인사"
+      "ja": "Happy Seollal! NewJeansが贈る2023年ソルラルのご挨拶",
+      "en": "Happy Seollal! | NewJeans' 2023 Lunar New Year Greeting",
+      "original": "Happy Seollal! | NewJeans(뉴진스)가 전하는 2023 설날 인사"
     },
     "summary": {
       "ja": "2023年の旧正月（ソルラル）に合わせた、メンバーからの新年のご挨拶映像。",
@@ -3790,8 +3791,8 @@
       "clip",
       "greeting"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives upload date 2023-01-21 KST; Korean title 'Happy Seollal! | NewJeans(뉴진스)가 전하는 2023 설날 인사', English title 'Happy Seollal! | NewJeans' 2023 Lunar New Year Greeting'. Fixed the broken ja/en titles (group name had been dropped) and added title.original."
   },
   {
     "id": "content-2023-01-23-making-jeans-omg-dance-practice-behind",
@@ -3837,8 +3838,8 @@
       "behind",
       "dance-practice"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) for the official NewJeans channel video gives upload date 2023-01-23 KST and title \"[Making Jeans] NewJeans (뉴진스) 'OMG' Dance Practice Behind\"; matches record date and content."
   },
   {
     "id": "content-2023-01-24-yt-tell-me-frnk-remix",
@@ -3974,8 +3975,8 @@
       "behind",
       "recording"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) for the official NewJeans channel video gives upload date 2023-01-30 KST and title \"[Making Jeans] NewJeans (뉴진스) 'Ditto' & 'OMG' Recording Behind(Final)\"; matches record date and content. The official title carries '(Final)'; record title left as is."
   },
   {
     "id": "content-2023-02-02-jeans-zine-valentines-day-for-bunnies-ep-1",

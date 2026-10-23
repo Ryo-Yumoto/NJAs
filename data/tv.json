@@ -2109,8 +2109,11 @@
       "music-show",
       "sbs"
     ],
-    "verified": false,
-    "editor_note": "Same episode as existing group record tv-2023-01-29-inkigayo-ditto-win-2 (no MC mention there). / Source is a press report (Daum News); not confirmed against an official page."
+    "verified": true,
+    "editor_note": "Same episode as existing group record tv-2023-01-29-inkigayo-ditto-win-2 (no MC mention there). / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: Re-read the source (MyDaily via Daum, 2023-01-29 15:53): Danielle filled in as special MC for Roh Jeong-eui (absent for drama filming) alongside Yeonjun and Seo Bum-june; headline calls it her music-show MC debut; greeting quote matches. namu.wiki special-MC list also lists 2023-01-29 Danielle. No SBS official clip located; confirmed on reputable press.",
+    "reference_urls": [
+      "https://namu.wiki/w/SBS%20%EC%9D%B8%EA%B8%B0%EA%B0%80%EC%9A%94"
+    ]
   },
   {
     "id": "tv-2023-01-29-inkigayo-ditto-win-2",
@@ -2132,6 +2135,9 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
+      "https://www.xportsnews.com/article/1681953",
+      "https://www.xportsnews.com/article/1681952",
+      "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
       "https://www.youtube.com/watch?v=-rr-AOreXQU",
       "https://www.youtube.com/watch?v=7b2Nbr34BW4",
@@ -2145,7 +2151,7 @@
       "music-show",
       "win"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "SBS『人気歌謡』で「Ditto」が7,119点で1位を獲得した。1位候補はTAEYANG「VIBE」とNewJeansの「Ditto」「OMG」の3曲で、この回のステージでは「OMG」を披露した。同じ週にはTOMORROW X TOGETHERやイェソンのカムバックステージがあった。",
       "en": "'Ditto' won first place on SBS's Inkigayo with 7,119 points; the nominees were Taeyang's 'VIBE' and NewJeans' 'Ditto' and 'OMG'. NewJeans performed 'OMG' on the episode, which also featured comeback stages by Tomorrow X Together and Yesung."
@@ -2154,7 +2160,7 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Nominees per Xports News (Jan 29, 2023); points per Inkigayo chart list. / 公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - OMG @인기가요 inkigayo 20230129」(2023-01-29); 関連3本をreference_urlsに記載",
+    "editor_note": "Nominees per Xports News (Jan 29, 2023); points per Inkigayo chart list. / 公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - OMG @인기가요 inkigayo 20230129」(2023-01-29); 関連3本をreference_urlsに記載 / 2026-10-24 nightly: SBSKPOP X INKIGAYO official uploads (YouTube next API): 'NewJeans(뉴진스) - OMG @인기가요 inkigayo 20230129' (2023-01-29) and the 'Ditto' 1st-place encore cam '@SBS Inkigayo 230129' (2023-01-29) confirm the win and the OMG stage. Xports News (2023-01-29) confirms nominees Taeyang 'VIBE', 'Ditto', 'OMG' and the TXT/Yesung comebacks. 7,119 points per the Inkigayo 2023 list citing SBS's chart board (SBS board itself not fetchable).",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=jUmeh5yvy0M"
     }
@@ -2222,7 +2228,10 @@
       "en": "'Ditto' completed an Inkigayo triple crown with its third win on the program, without NewJeans appearing."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.newsen.com/news_view.php?uid=202302051548260810",
+      "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)"
+    ],
     "media": {
       "type": "none"
     },
@@ -2230,7 +2239,7 @@
       "music-show",
       "win"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "SBS『人気歌謡』で「Ditto」が1位を獲得した。1月8日、1月29日に続くこの番組3回目の1位で、3週分の1位によるトリプルクラウンとなった。NewJeansはこの回に出演していない。",
       "en": "'Ditto' won first place on SBS's Inkigayo for the third time, after January 8 and 29, completing a triple crown on the program. NewJeans did not appear on the episode."
@@ -2239,7 +2248,7 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Triple crown per Inkigayo 2023 chart list; competing nominees not confirmed. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "editor_note": "Triple crown per Inkigayo 2023 chart list; competing nominees not confirmed. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip / 2026-10-24 nightly: Newsen (2023-02-05 16:42): NewJeans won Inkigayo with 'Ditto' over TXT 'Sugar Rush Ride' without appearing; previous wins 8, 15 and 29 Jan ('Ditto', 'OMG', 'Ditto'; no broadcast 22 Jan for Seollal). So this is the third 'Ditto' win on the program; triple crown per the Inkigayo 2023 list (6,006 points).",
     "image": {
       "url": "https://photo.newsen.com/news_photo/2023/02/05/202302051548260810_1.jpg",
       "source_url": "https://www.newsen.com/news_view.php?uid=202302051548260810"
@@ -2264,23 +2273,27 @@
       "en": "NewJeans received the female Rookie of the Year award, shared with Kep1er, at the 30th Hanteo Music Awards."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.osen.co.kr/article/G1112040256",
+      "https://www.xportsnews.com/article/1687179",
+      "https://www.mksports.co.kr/news/entertain/10640697"
+    ],
     "media": {
       "type": "none"
     },
     "tags": [
       "award-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "ソウルの蚕室室内体育館で開かれた第30回『Hanteo Music Awards 2022』の2日目に、女性部門の今年のルーキー賞（Kep1erと同時受賞）を受賞した。Hanteoチャートの販売データを基準とする賞で、大賞は防弾少年団、NCT DREAM、Stray Kidsが受賞した。NewJeansの出席と公演は記録されていない。",
-      "en": "On the second day of the 30th Hanteo Music Awards 2022 at Jamsil Indoor Gymnasium in Seoul, NewJeans received the female Rookie of the Year award, shared with Kep1er. The awards are based on Hanteo Chart sales data; the grand prizes went to BTS, NCT Dream and Stray Kids. No NewJeans attendance or performance is recorded."
+      "ja": "ソウルの蚕室室内体育館で開かれた第30回『Hanteo Music Awards 2022』の2日目に、女性部門の今年のルーキー賞（Kep1erと同時受賞）を受賞した。Hanteoチャートの販売データを基準とする賞で、大賞は防弾少年団、NCT DREAM、Stray Kidsが受賞した。NewJeansは会場には来ず、「2022年は本当に意義深い一年でした」と映像で受賞の感想を伝えた。",
+      "en": "On the second day of the 30th Hanteo Music Awards 2022 at Jamsil Indoor Gymnasium in Seoul, NewJeans received the female Rookie of the Year award, shared with Kep1er. The awards are based on Hanteo Chart sales data; the grand prizes went to BTS, NCT Dream and Stray Kids. NewJeans did not attend and sent their thanks by video, calling 2022 a truly meaningful year."
     },
     "credits": {
       "venue": "Jamsil Indoor Gymnasium, Seoul",
       "organizer": "Hanteo Chart"
     },
-    "editor_note": "Per OSEN (Feb 11, 2023); attendance unverified. / 公式YouTube動画なし: No official Hanteo/SBS M clip of NewJeans found; only fan uploads"
+    "editor_note": "Per OSEN (Feb 11, 2023); attendance unverified. / 公式YouTube動画なし: No official Hanteo/SBS M clip of NewJeans found; only fan uploads / 2026-10-24 nightly: OSEN (2023-02-11 23:57): day two of the two-day ceremony on the 11th at Jamsil Indoor Gymnasium; women's 올해의 루키상 shared by NewJeans and Kep1er; daesang BTS (song, artist), NCT Dream (album), Stray Kids (performance). Xports News (2023-02-11 20:47): NewJeans gave their speech by video. Replaced 'no attendance recorded' with the video speech."
   },
   {
     "id": "tv-2023-02-18-circle-chart-music-awards-2022",
@@ -2301,14 +2314,18 @@
       "en": "NewJeans won New Artist of the Year (Digital) for 'Attention' at the Circle Chart Music Awards 2022."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.xportsnews.com/article/1690030",
+      "https://www.hankookilbo.com/news/article/A2023021821580004354",
+      "https://www.mksports.co.kr/news/entertain/10650391"
+    ],
     "media": {
       "type": "none"
     },
     "tags": [
       "award-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "ソウル・オリンピック公園のKSPO DOMEで開かれた『CIRCLE CHART MUSIC AWARDS 2022』で、「Attention」により今年の新人賞（音源部門）を受賞した。アルバム部門の新人賞はIVE。司会はNCTのドヨンと（G）I-DLEのミヨン。このほか今年のアーティスト賞（グローバル音源・8月）と新人賞（アルバム部門）にもノミネートされていた。",
       "en": "At the Circle Chart Music Awards 2022 at KSPO Dome in Seoul's Olympic Park, NewJeans won New Artist of the Year (Digital) for 'Attention', while Ive took the album-category rookie award. Doyoung (NCT) and Miyeon ((G)I-dle) hosted. NewJeans were also nominated for Artist of the Year – Global Digital Music (August) and New Artist of the Year (Physical)."
@@ -2318,7 +2335,7 @@
       "organizer": "Circle Chart (KMCA)",
       "host": "Doyoung, Miyeon"
     },
-    "editor_note": "Per OSEN (Feb 18, 2023); performance not confirmed. / 公式YouTube動画なし: CIRCLE CHART channel has no NewJeans stage/award clip (group was not present); only full-show VOD"
+    "editor_note": "Per OSEN (Feb 18, 2023); performance not confirmed. / 公式YouTube動画なし: CIRCLE CHART channel has no NewJeans stage/award clip (group was not present); only full-show VOD / 2026-10-24 nightly: Korean press of 2023-02-18/19 (Hankook Ilbo, Xports News, MK Sports): Circle Chart Music Awards 2022 at KSPO Dome on the 18th, hosted by NCT's Doyoung and (G)I-DLE's Miyeon; NewJeans won New Artist of the Year (digital) for 'Attention', IVE the album rookie award for 'After Like'. The two other nominations were not re-checked."
   },
   {
     "id": "tv-2023-03-19-inkigayo-omg-win-2",
@@ -2339,7 +2356,10 @@
       "en": "'OMG' won Inkigayo with 5,781 points after promotions had ended, with NewJeans absent from the episode."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.osen.co.kr/article/G1112064066",
+      "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)"
+    ],
     "media": {
       "type": "none"
     },
@@ -2347,7 +2367,7 @@
       "music-show",
       "win"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "SBS『人気歌謡』で「OMG」が5,781点で1位を獲得した。1位候補はBSS（SEVENTEEN）「Fighting」とNewJeansの「Hype Boy」「OMG」の3曲。NewJeansは番組に出演せず、『OMG』活動終了後の不在での受賞となった。",
       "en": "'OMG' won first place on SBS's Inkigayo with 5,781 points; the nominees were BSS's 'Fighting' and NewJeans' 'Hype Boy' and 'OMG'. NewJeans did not appear on the broadcast; the win came after the end of OMG promotions."
@@ -2356,7 +2376,7 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Nominees per OSEN (Mar 19, 2023); points per chart list. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "editor_note": "Nominees per OSEN (Mar 19, 2023); points per chart list. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip / 2026-10-24 nightly: OSEN (2023-03-19): nominees BSS '파이팅 해야지' ('Fighting'), 'Hype Boy' and 'OMG'; 'OMG' won without NewJeans appearing. 5,781 points per the Inkigayo 2023 list citing SBS's chart board.",
     "image": {
       "url": "https://file.osen.co.kr/article/2023/03/19/202303191637771461_6416bd5c2aeed.jpg",
       "source_url": "http://www.osen.co.kr/article/G1112064066"
@@ -2381,7 +2401,11 @@
       "en": "'OMG' completed an Inkigayo triple crown with 6,309 points, its sixth music-show win."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.newsen.com/news_view.php?uid=202303261646366710",
+      "https://www.soompi.com/article/1575184wpp/watch-newjeans-takes-6th-win-for-omg-on-inkigayo-performances-by-exos-kai-nmixx-ikons-bobby-and-more",
+      "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)"
+    ],
     "media": {
       "type": "none"
     },
@@ -2389,7 +2413,7 @@
       "music-show",
       "win"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "SBS『人気歌謡』で「OMG」が6,309点で1位を獲得し、この番組で3週分の1位となるトリプルクラウンを達成した。1位候補はSTAYC「Teddy Bear」とNewJeansの「Hype Boy」「OMG」で、NewJeansは出演していない。「OMG」の音楽番組1位は通算6回目。",
       "en": "'OMG' won first place on SBS's Inkigayo with 6,309 points, completing a triple crown on the program. The nominees were STAYC's 'Teddy Bear' and NewJeans' 'Hype Boy' and 'OMG'; NewJeans did not perform. It was the song's sixth music-show win."
@@ -2398,7 +2422,7 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Per Soompi (Mar 26, 2023). / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "editor_note": "Per Soompi (Mar 26, 2023). / 公式YouTube動画なし: No stage; win announced in absentia, no official clip / 2026-10-24 nightly: Newsen (2023-03-26 16:48): nominees STAYC 'Teddy Bear', 'Hype Boy', 'OMG'; 'OMG' won without NewJeans appearing. Soompi (same day) gives 6,309 points and calls it the song's sixth music-show win (English Wikipedia's OMG article lists only five; count left as Soompi states). Triple crown per the Inkigayo 2023 list.",
     "image": {
       "url": "https://photo.newsen.com/news_photo/2023/03/26/202303261646366710_1.jpg",
       "source_url": "https://www.newsen.com/news_view.php?uid=202303261646366710"
@@ -2464,6 +2488,9 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
+      "https://www.tvguide.or.jp/news/news-2295663/",
+      "https://natalie.mu/music/news/527919",
+      "https://natalie.mu/music/news/527243",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
@@ -2472,7 +2499,7 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "千葉・幕張メッセから日本テレビ系で約8時間生放送された『THE MUSIC DAY 2023』に出演し、「Ditto」を披露した。総合司会は櫻井翔で、番組テーマは「あなたを変えた音」。NewJeansにとってこの番組への初出演だった。",
       "en": "NewJeans performed 'Ditto' on Nippon TV's THE MUSIC DAY 2023, an eight-hour live broadcast from Makuhari Messe in Chiba. Sho Sakurai hosted under the theme 'the sound that changed you', and it was the group's first appearance on the program."
@@ -2482,7 +2509,7 @@
       "program": "THE MUSIC DAY 2023",
       "host": "Sho Sakurai"
     },
-    "editor_note": "公式YouTube動画なし: NTV does not publish THE MUSIC DAY performances on YouTube; no official upload found"
+    "editor_note": "公式YouTube動画なし: NTV does not publish THE MUSIC DAY performances on YouTube; no official upload found / 2026-10-24 nightly: TV Guide (tvguide.or.jp, 2023-07-01): Nippon TV's THE MUSIC DAY 2023 aired live for eight hours from 15:00 on 1 July, theme 'あなたを変えた音'; NewJeans sang 'Ditto' in the 7 pm hour, its first Japanese TV performance of the song. Natalie lists NewJeans in the first line-up announcement and Sho Sakurai as host; Makuhari Messe per the programme's standing venue (ja.wikipedia)."
   },
   {
     "id": "tv-2023-07-12-fns-music-festival-summer-2023",

@@ -2342,7 +2342,7 @@
       "event"
     ],
     "verified": false,
-    "editor_note": "L'Officiel Korea (2023-11-28) reports the event; Wedding21 (2023-11-22) gives the 20 Nov departure. Exact event day not stated, so month precision. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-17: moved from ad to live (attendance event)."
+    "editor_note": "L'Officiel Korea (2023-11-28) reports the event; Wedding21 (2023-11-22) gives the 20 Nov departure. Exact event day not stated, so month precision. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-17: moved from ad to live (attendance event). / 2026-10-24 nightly: Re-read L'Officiel Korea (2023-11-28): 'Dior Canton Road store event held in Hong Kong on the 20th' with Cha Eun-woo and Kim Min-ha. This is the same event as live-2023-11-21-haerin-dior-road-cruise-party-hong-kong (Dior Cruise 24 event at the Canton Road store); Hong Kong press (Dimsum Daily, 2023-11-21) dates it to the evening of 21 Nov local time, so L'Officiel's '20th' appears to be the departure day. Not changed."
   },
   {
     "id": "live-2023-11-06-hyundai-duty-free-5th-anniversary-photocall",
@@ -2378,7 +2378,11 @@
       "event",
       "brand-event"
     ],
-    "verified": false
+    "verified": true,
+    "reference_urls": [
+      "https://www.ajunews.com/view/20231106225710709"
+    ],
+    "editor_note": "2026-10-24 nightly: Aju News press photo (2023-11-07 00:01): NewJeans attended the 'Hyundai Department Store Duty Free 5th anniversary photocall' at The Hyundai Seoul, Yeongdeungpo-gu, on the morning of 6 Nov; captions name all five members. Confirmed on press; no brand/official post located."
   },
   {
     "id": "live-2023-11-19-lol-worlds-2023-opening-ceremony",
@@ -2447,6 +2451,7 @@
     },
     "source_url": "https://x.com/NewJeans_ADOR/status/1727612956882640899",
     "reference_urls": [
+      "https://www.dimsumdaily.hk/korean-stars-and-other-celebrities-make-simultaneous-appearance-at-dior-cruise-event-in-tsim-sha-tsui/",
       "https://kbizoom.com/cha-eun-woo-newjeans-haerin-and-more-turn-dior-event-in-hong-kong-into-a-visual-party/",
       "https://sportskeeda.com/lifestyle/news-newjeans-haerin-s-look-dior-road-cruise-party-wins-internet-she-s-princess-coded-look"
     ],
@@ -2463,8 +2468,8 @@
       "fashion-event",
       "overseas"
     ],
-    "verified": false,
-    "editor_note": "Official X post 2023-11-23; event date 21 Nov 2023 (local) from Sportskeeda/KBIZoom, not confirmed on an official page."
+    "verified": true,
+    "editor_note": "Official X post 2023-11-23; event date 21 Nov 2023 (local) from Sportskeeda/KBIZoom, not confirmed on an official page. / 2026-10-24 nightly: fxtwitter: official @NewJeans_ADOR post 1727612956882640899 (2023-11-23 18:00 KST) 'HAERIN @Dior Cruise 24 in Hong Kong' with three photos. Hong Kong outlet Dimsum Daily (published 2023-11-21 22:17 HKT) reports the DIOR Cruise event on Canton Road, Tsim Sha Tsui 'tonight' 21 Nov with Cha Eun-woo, Kim Min-ha and others, Haerin in a white gown. Date and content confirmed. Note: live-2023-11-01-haerin-dior-canton-road-hong-kong describes the same event."
   },
   {
     "id": "live-2023-12-09-music-bank-global-festival-2023-japan",
@@ -2486,11 +2491,13 @@
       "en": "Five songs at the Japan show of the 2023 Music Bank Global Festival at Belluna Dome, Tokorozawa, including a segment on a moving platform close to the audience."
     },
     "source_url": "https://v.daum.net/v/20231216094017494",
-    "verified": false,
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
+      "https://www.xportsnews.com/article/1804583",
+      "https://edaily.co.kr/News/Read?mediaCodeNo=258&newsId=01416966635810968",
       "https://www.soompi.com/article/1627035wpp/kbs-announces-star-studded-lineup-for-2023-music-bank-global-festival-in-seoul",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
@@ -2498,7 +2505,7 @@
       "broadcast-concert",
       "japan"
     ],
-    "editor_note": "Broadcast-concert; the TV airing (2023-12-15) may be registered separately in tv. | Broadcast reworded as the announced schedule; it aired as Part 2 on 2023-12-15.",
+    "editor_note": "Broadcast-concert; the TV airing (2023-12-15) may be registered separately in tv. | Broadcast reworded as the announced schedule; it aired as Part 2 on 2023-12-15. / 2026-10-24 nightly: Ilgan Sports via Daum (2023-12-16): Part 2 was the show held on the 9th at Belluna Dome, first shown on KBS 2TV on the 15th, hosted by Rowoon, Go Min-si and Lee Young-ji, NewJeans among Part 2 performers. Xports News: NewJeans performed 'OMG', 'Ditto', 'New Jeans', 'Super Shy' and 'ETA' (about 15 minutes incl. dance break) at Belluna Dome on the 9th; Edaily gives the 15 Dec 20:30 broadcast. Moving-vehicle staging not separately checked.",
     "detail": {
       "ja": "埼玉県所沢市のベルーナドームで開かれたKBS『2023 MUSIC BANK GLOBAL FESTIVAL』の日本公演で、「OMG」「Ditto」「New Jeans」「Super Shy」「ETA」の5曲を披露した。司会はロウン、コ・ミンシ、イ・ヨンジ。ステージでは移動車に乗って客席に近づく演出も行われた。公演は収録され、KBS 2TVで12月15日に第2部として放送されると案内された。",
       "en": "At the Japan show of KBS's 2023 Music Bank Global Festival at Belluna Dome in Tokorozawa, Saitama, NewJeans performed five songs: 'OMG', 'Ditto', 'New Jeans', 'Super Shy' and 'ETA', including a segment riding a moving platform close to the audience. Rowoon, Go Min-si and Lee Young-ji hosted. The show was recorded for broadcast on KBS 2TV on 15 December as Part 2 of the festival."
@@ -2529,20 +2536,23 @@
       "en": "Performed 'New Jeans', 'ETA', 'Ditto' and 'OMG' (FRNK Remix ver.) in Part 2 of the 2023 SBS Gayo Daejeon at Inspire Arena, Incheon."
     },
     "source_url": "https://www.ajunews.com/view/20231225170927732",
-    "verified": false,
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
+      "https://www.hankookilbo.com/news/article/A2023122517060004153",
+      "https://www.youtube.com/watch?v=tR9LwwP3Ms4",
+      "https://www.youtube.com/watch?v=0RpjSMHBzo8",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "tags": [
       "broadcast-concert"
     ],
-    "editor_note": "Broadcast-concert; the TV airing may be registered separately in the tv category.",
+    "editor_note": "Broadcast-concert; the TV airing may be registered separately in the tv category. / 2026-10-24 nightly: Hankook Ilbo (2023-12-25): live broadcast from Inspire Arena, Incheon, hosts SHINee's Key, IVE's An Yu-jin, TXT's Yeonjun. Aju News photo (12-25 17:10) shows NewJeans on the red carpet. Official SBSKPOP X INKIGAYO uploads (YouTube next API, 2023-12-26 KST) are titled 'New Jeans + Ditto + OMG – FRNK Remix'. 'ETA' appears only in fan-cam titles (as a dance-break remix) and 'Part 2' was not confirmed, so both were removed from the detail.",
     "detail": {
-      "ja": "仁川のINSPIREアリーナで開かれた『2023 SBS歌謡大典』に出演し、SBSが生中継した。司会はキー、アン・ユジン、ヨンジュン。第2部で「New Jeans」「ETA」「Ditto」「OMG（FRNK Remix ver.）」を披露した。",
-      "en": "NewJeans performed at the 2023 SBS Gayo Daejeon at Inspire Arena in Incheon, broadcast live on SBS and hosted by Key, An Yu-jin and Yeonjun. They performed 'New Jeans', 'ETA', 'Ditto' and 'OMG' (FRNK Remix version) in Part 2."
+      "ja": "仁川のINSPIREアリーナで開かれた『2023 SBS歌謡大典』に出演し、SBSが生中継した。司会はキー、アン・ユジン、ヨンジュン。「New Jeans」「Ditto」「OMG – FRNK Remix」をつないだステージを披露した。",
+      "en": "NewJeans performed at the 2023 SBS Gayo Daejeon at Inspire Arena in Incheon, broadcast live on SBS and hosted by Key, An Yu-jin and Yeonjun. They performed a medley of 'New Jeans', 'Ditto' and 'OMG – FRNK Remix'."
     },
     "credits": {
       "venue": "Inspire Arena, Incheon",
@@ -2578,6 +2588,7 @@
     },
     "source_url": "https://www.tatlerasia.com/style/fashion/newjeans-haerin-dior-looks",
     "reference_urls": [
+      "https://v.daum.net/v/Xf8HROQ0M5",
       "https://kbizoom.com/?p=594742"
     ],
     "media": {
@@ -2588,8 +2599,8 @@
       "fashion-event",
       "overseas"
     ],
-    "verified": false,
-    "editor_note": "Date from a Tatler Asia photo caption (19 Jan 2024, outside Dior during Paris Men's Fashion Week); Tatler page could not be fetched (403). KBIZoom (21 Jan 2024) confirms attendance without a date."
+    "verified": true,
+    "editor_note": "Date from a Tatler Asia photo caption (19 Jan 2024, outside Dior during Paris Men's Fashion Week); Tatler page could not be fetched (403). KBIZoom (21 Jan 2024) confirms attendance without a date. / 2026-10-24 nightly: Korean report via Daum: Haerin left Incheon for Paris on the 17th for the Dior 2024 F/W men's show and appeared at the show held on the 19th (local time) at the École Militaire annex, in a black-and-white look. Date and attendance confirmed on press; 'first Dior fashion-week show' wording not re-checked. No official X post located."
   },
   {
     "id": "live-2024-01-23-minji-chanel-haute-couture-ss24-paris",
@@ -2610,8 +2621,8 @@
       "en": "Minji attended the CHANEL Spring/Summer 2024 Haute Couture show at the Grand Palais Éphémère in Paris as an ambassador."
     },
     "detail": {
-      "ja": "パリ・オートクチュール・ファッションウィークで、シャネル2024年春夏オートクチュールコレクションのショーがグラン・パレ・エフェメールで行われ、シャネルのアンバサダーであるミンジが出席した。ミンジにとって初めてのファッションウィーク出席となった。公式Xでは「CHANEL SHOW」として写真が公開された。",
-      "en": "Minji, a CHANEL ambassador, attended the house's Spring/Summer 2024 Haute Couture show at the Grand Palais Éphémère during Paris Haute Couture Week, her first fashion week. NewJeans' official X shared a photo captioned 'CHANEL SHOW'."
+      "ja": "パリ・オートクチュール・ファッションウィークで、シャネル2024年春夏オートクチュールコレクションのショーがグラン・パレ・エフェメールで行われ、シャネルのアンバサダーであるミンジが出席した。ミンジにとって初めてのファッションショー出席と報じられた。公式Xでは「CHANEL SHOW」として写真が公開された。",
+      "en": "Minji, a CHANEL ambassador, attended the house's Spring/Summer 2024 Haute Couture show at the Grand Palais Éphémère during Paris Haute Couture Week, reported as her first fashion show. NewJeans' official X shared a photo captioned 'CHANEL SHOW'."
     },
     "credits": {
       "venue": "Grand Palais Éphémère, Paris",
@@ -2637,8 +2648,8 @@
       "fashion-event",
       "overseas"
     ],
-    "verified": false,
-    "editor_note": "Official X post 2024-01-25 00:10 KST; show date 23 Jan 2024 from Sportskeeda."
+    "verified": true,
+    "editor_note": "Official X post 2024-01-25 00:10 KST; show date 23 Jan 2024 from Sportskeeda. / 2026-10-24 nightly: fxtwitter: official post 1750174114424467900 at 2024-01-25 00:10 KST 'CHANEL SHOW #광고 #CHANELHauteCouture'. Sports Hankook via Daum (2024-01-24 15:52): Minji attended the Chanel show in Paris on the 23rd, 'her first fashion show'. Changed 'first fashion week' to 'first fashion show' as reported."
   },
   {
     "id": "live-2024-02-02-incheon-departure-singapore",
@@ -2667,7 +2678,7 @@
     },
     "source_url": "https://news.nate.com/view/20240202n06345",
     "reference_urls": [
-      "https://www.clien.net/service/board/park/18569066"
+      "https://www.xportsnews.com/article/1820098"
     ],
     "media": {
       "type": "none"
@@ -2676,8 +2687,8 @@
       "airport",
       "overseas"
     ],
-    "verified": false,
-    "editor_note": "Xportsnews photo article via Nate. The schedule was the Nike Orchard Road event on 3 Feb (live-2024-02-03-nike-orchard-road-singapore); the article only says \"overseas schedule\"."
+    "verified": true,
+    "editor_note": "Xportsnews photo article via Nate. The schedule was the Nike Orchard Road event on 3 Feb (live-2024-02-03-nike-orchard-road-singapore); the article only says \"overseas schedule\". / 2026-10-24 nightly: Xports News photo article (2024-02-02 08:52): on the morning of the 2nd NewJeans left Incheon International Airport for Singapore for an overseas schedule. Confirmed; dropped the Clien community link from references."
   },
   {
     "id": "live-2024-02-03-nike-orchard-road-singapore",

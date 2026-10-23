@@ -5216,7 +5216,10 @@
       "en": "Stage cam of 'How Sweet' from the Korea University festival, one of seven university festival dates played right after How Sweet came out."
     },
     "source_url": "https://www.youtube.com/watch?v=HWiiwmzPJe4",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.hankookilbo.com/News/Read/A2024052615360003912",
+      "https://www.ajunews.com/view/20240526165410747"
+    ],
     "media": {
       "type": "youtube",
       "ref": "HWiiwmzPJe4"
@@ -5227,8 +5230,8 @@
       "university-festival",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Festival performance date not sourced; YouTube upload date None (PT). 2024 tour context from Korea JoongAng Daily (2024-05-26).",
+    "verified": true,
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Festival performance date not sourced; YouTube upload date None (PT). 2024 tour context from Korea JoongAng Daily (2024-05-26). / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives upload date 2024-06-20 KST on the official NewJeans channel; PT caveat resolved. Hankook Ilbo (2024-05-26) confirms the seven-festival run (Korea Univ 25, Chosun 27, Dong-eui and Pusan National 28, Dongguk and Sejong 30, Chung-Ang 31 May), the donation pledge first posted on Phoning on 25 May and confirmed by ADOR on 26 May; Korea University performance was on 25 May.",
     "detail": {
       "ja": "高麗大学校の大学祭ステージで披露した「How Sweet」のステージカム映像で、YouTubeで公開された。5月下旬、シングル『How Sweet』発売直後に行われた大学祭7校（5月25日の高麗大学校から朝鮮大学校、東義大学校、釜山大学校、東国大学校、世宗大学校、中央大学校）の出演の一つで、ADORはこれらの出演料を全額寄付すると5月26日に発表していた。",
       "en": "Stage-cam video of 'How Sweet' performed at the Korea University festival, published on YouTube. One of seven university festival appearances in late May 2024 made right after the release of the single How Sweet (starting with Korea University on 25 May, then Chosun, Dong-eui, Pusan National, Dongguk, Sejong and Chung-Ang universities); ADOR announced on 26 May that all appearance fees would be donated."
@@ -5257,7 +5260,10 @@
       "en": "Stage cam of 'OMG' from the Pusan National University festival, one of seven university festival dates played right after How Sweet came out."
     },
     "source_url": "https://www.youtube.com/watch?v=mDZEznPaDFk",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.hankookilbo.com/News/Read/A2024052615360003912",
+      "https://www.ajunews.com/view/20240526165410747"
+    ],
     "media": {
       "type": "youtube",
       "ref": "mDZEznPaDFk"
@@ -5268,8 +5274,8 @@
       "university-festival",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Festival performance date not sourced; YouTube upload date None (PT). 2024 tour context from Korea JoongAng Daily (2024-05-26).",
+    "verified": true,
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Festival performance date not sourced; YouTube upload date None (PT). 2024 tour context from Korea JoongAng Daily (2024-05-26). / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives upload date 2024-06-20 KST on the official NewJeans channel; PT caveat resolved. Hankook Ilbo (2024-05-26) confirms the seven-festival run (Korea Univ 25, Chosun 27, Dong-eui and Pusan National 28, Dongguk and Sejong 30, Chung-Ang 31 May), the donation pledge first posted on Phoning on 25 May and confirmed by ADOR on 26 May; Pusan National University performance was on 28 May.",
     "detail": {
       "ja": "釜山大学校の大学祭ステージで披露した「OMG」のステージカム映像で、YouTubeで公開された。5月下旬、シングル『How Sweet』発売直後に行われた大学祭7校（5月25日の高麗大学校から朝鮮大学校、東義大学校、釜山大学校、東国大学校、世宗大学校、中央大学校）の出演の一つで、ADORはこれらの出演料を全額寄付すると5月26日に発表していた。",
       "en": "Stage-cam video of 'OMG' performed at the Pusan National University festival, published on YouTube. One of seven university festival appearances in late May 2024 made right after the release of the single How Sweet (starting with Korea University on 25 May, then Chosun, Dong-eui, Pusan National, Dongguk, Sejong and Chung-Ang universities); ADOR announced on 26 May that all appearance fees would be donated."
@@ -5433,8 +5439,8 @@
       "dance-practice",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | YouTube page (title/channel/date/credits) read via reader; upload date on YouTube: None (PT).",
+    "verified": true,
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | YouTube page (title/channel/date/credits) read via reader; upload date on YouTube: None (PT). / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) for the official NewJeans channel video gives upload date 2024-07-24 KST and title \"NewJeans (뉴진스) 'Supernatural' Dance Practice\"; matches record date and content. Earlier PT-time caveat resolved.",
     "detail": {
       "ja": "日本デビューシングル『Supernatural』のタイトル曲「Supernatural」の振付を練習室で収めた映像。YouTubeで公開された。",
       "en": "Dance practice video for 'Supernatural', the title track of the Japanese debut single, shot in a practice room. Published on YouTube."
@@ -5471,8 +5477,8 @@
       "dance-practice",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | YouTube page (title/channel/date/credits) read via reader; upload date on YouTube: None (PT).",
+    "verified": true,
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | YouTube page (title/channel/date/credits) read via reader; upload date on YouTube: None (PT). / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) for the official NewJeans channel video gives upload date 2024-07-24 KST and title \"NewJeans (뉴진스) 'Supernatural' Dance Practice (Fix ver.)\"; matches record date and content. Earlier PT-time caveat resolved.",
     "detail": {
       "ja": "日本デビューシングル『Supernatural』のタイトル曲「Supernatural」の振付を練習室で収めた映像の固定カメラ版（Fix ver.）。YouTubeで公開された。",
       "en": "Fixed-camera version (Fix ver.) of the practice-room dance video for 'Supernatural', the title track of the Japanese debut single. Published on YouTube."
@@ -5509,8 +5515,8 @@
       "dance-practice",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | YouTube page (title/channel/date/credits) read via reader; upload date on YouTube: None (PT).",
+    "verified": true,
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | YouTube page (title/channel/date/credits) read via reader; upload date on YouTube: None (PT). / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) for the official NewJeans channel video gives upload date 2024-07-24 KST and title \"NewJeans (뉴진스) 'Supernatural' Dance Practice (Handheld ver.)\"; matches record date and content. Earlier PT-time caveat resolved.",
     "detail": {
       "ja": "日本デビューシングル『Supernatural』のタイトル曲「Supernatural」の振付を練習室で収めた映像の手持ちカメラ版（Handheld ver.）。YouTubeで公開された。",
       "en": "Handheld-camera version (Handheld ver.) of the practice-room dance video for 'Supernatural', the title track of the Japanese debut single. Published on YouTube."
@@ -5547,8 +5553,8 @@
       "dance-practice",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | YouTube page (title/channel/date/credits) read via reader; upload date on YouTube: None (PT).",
+    "verified": true,
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | YouTube page (title/channel/date/credits) read via reader; upload date on YouTube: None (PT). / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) for the official NewJeans channel video gives upload date 2024-07-25 KST and title \"NewJeans (뉴진스) 'Right Now' Dance Practice\"; matches record date and content. Earlier PT-time caveat resolved.",
     "detail": {
       "ja": "日本デビューシングル『Supernatural』のB面曲「Right Now」の振付を練習室で収めた映像。YouTubeで公開された。",
       "en": "Dance practice video for 'Right Now', the B-side of the Japanese debut single Supernatural, shot in a practice room. Published on YouTube."
@@ -5585,8 +5591,8 @@
       "dance-practice",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date assumed same as the non-Fix version (YouTube date not fetched); ID confirmed from the channel's 'NewJeans Choreography' playlist. | YouTube page (title/channel/date/credits) read via reader; upload date on YouTube: None (PT).",
+    "verified": true,
+    "editor_note": "Date assumed same as the non-Fix version (YouTube date not fetched); ID confirmed from the channel's 'NewJeans Choreography' playlist. | YouTube page (title/channel/date/credits) read via reader; upload date on YouTube: None (PT). / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) for the official NewJeans channel video gives upload date 2024-07-25 KST and title \"NewJeans (뉴진스) 'Right Now' Dance Practice (Fix ver.)\"; matches record date and content. Earlier PT-time caveat resolved.",
     "detail": {
       "ja": "日本デビューシングル『Supernatural』のB面曲「Right Now」の振付を練習室で収めた映像の固定カメラ版（Fix ver.）。YouTubeで公開された。",
       "en": "Fixed-camera version (Fix ver.) of the practice-room dance video for 'Right Now', the B-side of the Japanese debut single Supernatural. Published on YouTube."
