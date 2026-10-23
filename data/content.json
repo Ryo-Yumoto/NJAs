@@ -15047,7 +15047,11 @@
       "live-stream"
     ],
     "verified": false,
-    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source.",
+    "image": {
+      "url": "https://cdn.topstarnews.net/news/photo/202410/15552725_1414641_1923_org.jpg",
+      "source_url": "https://www.topstarnews.net/news/articleView.html?idxno=15552725"
+    }
   },
   {
     "id": "content-2024-10-06-yt-hannis-folder-what-home-feels-like",

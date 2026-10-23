@@ -3606,7 +3606,11 @@
       "broadcaster": "NHK General TV",
       "program": "Venue101 Presents NewJeans \"Get Up\" Live"
     },
-    "editor_note": "公式YouTube動画なし: NHK does not publish Venue101 performances on YouTube; no official upload found"
+    "editor_note": "公式YouTube動画なし: NHK does not publish Venue101 performances on YouTube; no official upload found",
+    "image": {
+      "url": "https://img-mdpr.freetls.fastly.net/article/OrRW/nm/OrRWf14r6Q-tAqDZcDB7aA-CcQvf8pSpUs23DPM_N4k.jpg",
+      "source_url": "https://mdpr.jp/k-enta/3995417"
+    }
   },
   {
     "id": "tv-2023-10-22-music-bank-in-mexico",
@@ -3647,6 +3651,10 @@
       "venue": "Palacio de los Deportes, Mexico City",
       "host": "Park Bo-gum",
       "director": "Hwang Min-gyu"
+    },
+    "image": {
+      "url": "https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20231103083149_aa34c7d14afc30f5789d627dfcbbe803.jpg",
+      "source_url": "https://kstar.kbs.co.kr/list_view.html?idx=287045"
     }
   },
   {
@@ -3871,7 +3879,11 @@
       "venue": "Belluna Dome, Tokorozawa",
       "host": "Rowoon, Go Min-si, Lee Young-ji"
     },
-    "editor_note": "公式YouTube動画なし: No KBS clip for the 2023 Music Bank Global Festival in Japan (Belluna Dome) found"
+    "editor_note": "公式YouTube動画なし: No KBS clip for the 2023 Music Bank Global Festival in Japan (Belluna Dome) found",
+    "image": {
+      "url": "https://img-mdpr.freetls.fastly.net/article/aa4B/nm/aa4BfDyv5IrLYOp4_UXm0wTH9lWQC2OwczC8nF1DZ30.jpg",
+      "source_url": "https://mdpr.jp/k-enta/4092295"
+    }
   },
   {
     "id": "tv-2023-12-14-asia-artist-awards-2023",
@@ -3956,7 +3968,11 @@
       "program": "2023 MUSIC BANK GLOBAL FESTIVAL",
       "host": "Rowoon, Jang Won-young (Part 1); Rowoon, Go Min-si, Lee Young-ji (Part 2)"
     },
-    "editor_note": "Correction: OSEN/Ilgan Sports (Dec 16, 2023) and the KBS Song Festival lineup place NewJeans in Part 2 (Japan, recorded Dec 9), not in the live KBS Hall Part 1. The previous summary ('performed at the Seoul leg') is not supported. / 公式YouTube動画なし: No KBS Kpop / KBS WORLD TV NewJeans clip dated 231215 found"
+    "editor_note": "Correction: OSEN/Ilgan Sports (Dec 16, 2023) and the KBS Song Festival lineup place NewJeans in Part 2 (Japan, recorded Dec 9), not in the live KBS Hall Part 1. The previous summary ('performed at the Seoul leg') is not supported. / 公式YouTube動画なし: No KBS Kpop / KBS WORLD TV NewJeans clip dated 231215 found",
+    "image": {
+      "url": "https://wimg.heraldcorp.com/upcontent/ncms/2023/12/15/202312152257075206528_20231215233452_01.jpg",
+      "source_url": "https://www.heraldmuse.com/article/3281646"
+    }
   },
   {
     "id": "tv-2023-12-25-sbs-gayo-daejeon-2023",
@@ -4085,7 +4101,11 @@
       "organizer": "Japan Composer's Association",
       "host": "Shinichiro Azumi, Haruna Kawaguchi"
     },
-    "editor_note": "公式YouTube動画なし: TBS does not publish Japan Record Awards performances on YouTube; no official upload found"
+    "editor_note": "公式YouTube動画なし: TBS does not publish Japan Record Awards performances on YouTube; no official upload found",
+    "image": {
+      "url": "https://img-mdpr.freetls.fastly.net/article/mt24/wm/mt24BmNkivCKi080Jeoc7SCB9QBeLZAkewl39i8_oxo.jpg",
+      "source_url": "https://mdpr.jp/music/4125625"
+    }
   },
   {
     "id": "tv-2023-12-31-dick-clarks-new-years-rockin-eve",
@@ -4262,7 +4282,11 @@
         "en": "NHK Special: Sekai ni Hibiku Uta, Nikkan POPS Shinjidai (Songs Resonating Around the World: A New Era of Japanese and Korean Pop)"
       }
     },
-    "editor_note": "公式YouTube動画なし: NHK did not upload the documentary; NHK MUSIC only posted a related Min Hee-jin interview excerpt (kUMl6mqXXyc, 2024-02-27)"
+    "editor_note": "公式YouTube動画なし: NHK did not upload the documentary; NHK MUSIC only posted a related Min Hee-jin interview excerpt (kUMl6mqXXyc, 2024-02-27)",
+    "image": {
+      "url": "https://img-mdpr.freetls.fastly.net/article/EK3S/nm/EK3SfWUaU8M5orAjifj5zpc-IA7pFyRM_EwsmysnERI.jpg",
+      "source_url": "https://mdpr.jp/music/4125268"
+    }
   },
   {
     "id": "tv-2024-03-06-billboard-women-in-music-2024",
@@ -4681,7 +4705,11 @@
       "broadcaster": "MBC",
       "program": "Show! Music Core"
     },
-    "editor_note": "Points per Music Core chart list. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
+    "editor_note": "Points per Music Core chart list. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "image": {
+      "url": "https://imgnews.pstatic.net/image/018/2024/06/08/0005759153_001_20240608170708778.jpg",
+      "source_url": "https://m.entertain.naver.com/article/018/0005759153"
+    }
   },
   {
     "id": "tv-2024-06-09-2-days-1-night-season4",
@@ -4863,7 +4891,11 @@
       "broadcaster": "MBC",
       "program": "Show! Music Core"
     },
-    "editor_note": "Per Music Core chart list; nominees not confirmed. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
+    "editor_note": "Per Music Core chart list; nominees not confirmed. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "image": {
+      "url": "https://imgnews.pstatic.net/image/108/2024/06/15/0003243028_002_20240615163310146.jpg",
+      "source_url": "https://m.entertain.naver.com/article/108/0003243028"
+    }
   },
   {
     "id": "tv-2024-06-16-inkigayo-bubble-gum",

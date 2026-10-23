@@ -5135,7 +5135,11 @@
       "spotify"
     ],
     "verified": false,
-    "editor_note": "TenAsia report dated Nov 9 (as of Nov 7); page not fetchable from this environment, figures from search index. / No ADOR post or same-day major-outlet report for a 3-billion cumulative Spotify milestone found."
+    "editor_note": "TenAsia report dated Nov 9 (as of Nov 7); page not fetchable from this environment, figures from search index. / No ADOR post or same-day major-outlet report for a 3-billion cumulative Spotify milestone found.",
+    "image": {
+      "url": "https://img1.newsis.com/2023/11/09/NISI20231109_0001407721_web.jpg",
+      "source_url": "https://www.newsis.com/view/NISX20231109_0002515118"
+    }
   },
   {
     "id": "record-2023-11-17-mma-2023-album-of-the-year-get-up-nomination",
@@ -5784,7 +5788,11 @@
     "editor_note": "TenAsia report dated Dec 4, 2023 (title confirmed via search; body not fetchable). Exact crossing date not confirmed. / Korea Herald (Today's K-pop, Dec 2023): Ditto amassed 500 million Spotify streams as of Dec. 4, 2023, the group's second song after OMG.",
     "reference_urls": [
       "https://www.tenasia.com/amp/2023120421594"
-    ]
+    ],
+    "image": {
+      "url": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2023/12/04/202312040987046.jpg",
+      "source_url": "https://www.viva100.com/article/202312044206079"
+    }
   },
   {
     "id": "record-2023-12-07-billboard-100-best-songs-2023-super-shy",
@@ -6427,7 +6435,11 @@
       "award"
     ],
     "verified": true,
-    "editor_note": "Sports Seoul (organizer): 세븐틴과 뉴진스가 각각 최고 앨범상과 최고 음원상을 수상 - NewJeans won 최고 음원상 (Best Song/Digital). Organizer text does not name OMG as the awarded song; kept as is."
+    "editor_note": "Sports Seoul (organizer): 세븐틴과 뉴진스가 각각 최고 앨범상과 최고 음원상을 수상 - NewJeans won 최고 음원상 (Best Song/Digital). Organizer text does not name OMG as the awarded song; kept as is.",
+    "image": {
+      "url": "https://file.sportsseoul.com/news/cms/2024/01/30/news-p.v1.20240130.92ff777f190b4fec9078e71ac7fadd56_P1.jpg",
+      "source_url": "https://www.sportsseoul.com/news/read/1395006"
+    }
   },
   {
     "id": "record-2024-01-02-sma-33-bonsang",
