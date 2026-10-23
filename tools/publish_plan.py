@@ -8,6 +8,8 @@ assets/*) and writes publish chunks (each under ~58 MB, at most 200 files) as JS
 {published_path: source_path | null} to OUT_DIR/pub1.json, pub2.json, ... The last chunk carries
 sprites.json, data, assets and removals, so the page only switches once all sheets are up.
 Usage: python3 tools/publish_plan.py LISTING.txt OUT_DIR
+       python3 tools/publish_plan.py --baseline LISTING.txt   # after a successful publish: write the local state as the new listing,
+                                                              # so the next run does not need to fetch the artifact's file list
 """
 import json, os, sys
 from pathlib import Path
@@ -41,5 +43,14 @@ def main(listing, out_dir):
     for i, c in enumerate(chunks, 1): Path(out_dir, f"pub{i}.json").write_text(json.dumps(c))
     print(f"changed {len(changed)} ({sum(v[1] for v in changed.values())/1e6:.1f} MB), removed {len(removed)}, chunks {[len(c) for c in chunks]}")
 
+def baseline(path):
+    os.chdir(ROOT); lines = ['- "sprites.json"  application/json  %d bytes' % os.path.getsize("build/artifact/sprites.json")]
+    for f in sorted(os.listdir("build/artifact/sprites")): lines.append('- "sprites/%s"  image/jpeg  %d bytes' % (f, os.path.getsize("build/artifact/sprites/" + f)))
+    for f in sorted(os.listdir("data")):
+        if f.endswith(".json"): lines.append('- "data/%s"  application/json  %d bytes' % (f, os.path.getsize("data/" + f)))
+    for p in ("media/x/posts.json", "assets/js/app.js", "assets/css/style.css"): lines.append('- "%s"  text/plain  %d bytes' % (p, os.path.getsize(p)))
+    Path(path).write_text("\n".join(lines) + "\n"); print("baseline written:", path, len(lines), "files")
+
 if __name__ == "__main__":
-    main(sys.argv[1], sys.argv[2])
+    if sys.argv[1] == "--baseline": baseline(sys.argv[2])
+    else: main(sys.argv[1], sys.argv[2])
