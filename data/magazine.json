@@ -3545,7 +3545,7 @@
     },
     "tags": [],
     "verified": false,
-    "editor_note": "Billboard Korea公式URL未確認。発売日は中央日報(2024-10-10)による。 / 中央日報英語版(2024-10-10)の報道に基づく。Billboard Korea公式URL未確認。写真キャプションでは「アートブック」とも表記。ページ数と価格は報道に記載なし。",
+    "editor_note": "Billboard Korea公式URL未確認。発売日は中央日報(2024-10-10)による。 / 中央日報英語版(2024-10-10)の報道に基づく。Billboard Korea公式URL未確認。写真キャプションでは「アートブック」とも表記。ページ数と価格は報道に記載なし。 / 2026-10-24 nightly: not confirmed. Korea JoongAng Daily (2024-10-10) only says the issue was 'set to be released on Oct. 25' per the company; Billboard Korea's site is JS-rendered (search and WP API return nothing) and no post-release report found. Left unverified.",
     "detail": {
       "ja": "Billboard Koreaが創刊した雑誌『Billboard Artist』第1号の表紙。Elina Kechichevaが撮影し、立ちのぼる煙の中でメンバーが木に寄りかかる構図をとった。誌面ではNewJeansの音楽産業への影響を1980年代ミラノの若者文化「パニナリ」と比べるエディトリアルを載せ、Billboard Koreaのクリエイティブディレクター李宇（Woo Lee）は、NewJeansには過去への郷愁を呼び起こす独特の力があるとコメントした。",
       "en": "The cover of the first issue of Billboard Korea's new magazine Billboard Artist. Photographed by Elina Kechicheva, it shows the members leaning against a tree amid billowing smoke. An editorial compared the group's impact on the music industry with the 'Paninari' youth culture of 1980s Milan, and Billboard Korea creative director Woo Lee said NewJeans has a unique ability to evoke nostalgia for the past."
@@ -3753,15 +3753,17 @@
       "en": "Minji and Hanni's first cover as a duo, shot in Seoul around flowers, for Shueisha's SPUR January 2025 issue."
     },
     "source_url": "https://mdpr.jp/news/detail/4426767",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://mdpr.jp/news/detail/4426767"
+    ],
     "media": {
       "type": "none"
     },
     "tags": [
       "japan"
     ],
-    "verified": false,
-    "editor_note": "SPUR公式URL未確認。発売日はモデルプレス(2024-11-15)による。 / Cut for length: BE:FIRST's RYUHEI made his solo debut in the same issue. Removed source mention: the members' remarks were reported by modelpress on November 15, 2024.",
+    "verified": true,
+    "editor_note": "SPUR公式URL未確認。発売日はモデルプレス(2024-11-15)による。 / Cut for length: BE:FIRST's RYUHEI made his solo debut in the same issue. Removed source mention: the members' remarks were reported by modelpress on November 15, 2024. / 2026-10-24 nightly: SPUR/Shueisha sites blocked; modelpress (2024-11-15, publisher-supplied text and credits) gives on sale 11-22, first duo cover, group's previous SPUR cover in the March 2023 issue, Peter Ash Lee, Choi Yumi, 'flowers' theme, Chanel/Gucci.",
     "detail": {
       "ja": "表紙と巻頭ファッションストーリーにミンジとハニが登場。2人だけの表紙は初めてで、グループとしては2023年3月号以来のSPUR表紙となった。撮影はニューヨークを拠点とするPeter Ash Lee、衣装はデビュー以来NewJeansのスタイリングを担うChoi Yumiで、ミンジはアンバサダーを務めるシャネル、ハニはグッチに国内外のブランドをミックスした。ソウルのスタジオで色とりどりの珍しい花を使った「花」のコンセプトで撮影し、インタビューでは互いの存在、第一印象、大切な記憶、今後の展望、この冬挑戦したいファッション、おすすめのNewJeansの曲を語った。ミンジは撮影を楽しみにしていたと話し、ハニは2人での撮影を新しいスタイルと表現した。",
       "en": "Minji and Hanni appeared on the cover and in the opening fashion story. It was the first cover with just the two of them, and the group's first SPUR cover since the March 2023 issue. Photography was by New York-based Peter Ash Lee and wardrobe by Choi Yumi, who has styled NewJeans since debut; Minji wore Chanel and Hanni Gucci, the houses they represent, mixed with domestic and international brands. Shot in a Seoul studio with colorful, unusual flowers under a 'flowers' concept, the interview covered what each means to the other, first impressions, important memories, future outlook, fashion to try this winter and a recommended NewJeans song. Minji said she had been looking forward to the shoot, and Hanni called working as a duo a new style."
@@ -3839,14 +3841,17 @@
       "ja": "「月の妖精」とオメガのファンタジーを重ね、ダニエルが時計をまとったVOGUE Koreaのオンライン画報（表紙ではない）。",
       "en": "Danielle in Omega watches for a Vogue Korea online pictorial joining a childhood 'moon fairy' with Omega's fantasy world (not a cover)."
     },
-    "source_url": "https://www.sportskeeda.com/us/k-pop/they-said-gonna-get-blacklisted-fans-react-newjeans-danielle-stuns-new-vogue-korea-cover-amidst-ador-contract-dispute",
-    "reference_urls": [],
+    "source_url": "https://www.vogue.co.kr/2024/12/09/%EC%98%A4%EB%A9%94%EA%B0%80%EB%9E%80-%EC%9A%B0%EC%A3%BC%EC%97%90%EC%84%9C-%EB%A7%88%EC%A3%BC%ED%95%9C-%EB%8B%A4%EB%8B%88%EC%97%98/",
+    "reference_urls": [
+      "https://www.vogue.co.kr/2024/12/09/%EC%98%A4%EB%A9%94%EA%B0%80%EB%9E%80-%EC%9A%B0%EC%A3%BC%EC%97%90%EC%84%9C-%EB%A7%88%EC%A3%BC%ED%95%9C-%EB%8B%A4%EB%8B%88%EC%97%98/",
+      "https://www.sportskeeda.com/us/k-pop/they-said-gonna-get-blacklisted-fans-react-newjeans-danielle-stuns-new-vogue-korea-cover-amidst-ador-contract-dispute"
+    ],
     "media": {
       "type": "none"
     },
     "tags": [],
-    "verified": false,
-    "editor_note": "Sportskeedaの検索要約のみで、本文取得不可。VOGUE Korea公式で未確認のため要検証（Omegaアンバサダー画報との混同の可能性あり）。 | Reader-facing 'reportedly' wording, the Dec 9 reveal date (later than this record's Dec 1 date) and the 'uncertain' tag moved here; still unverified against Vogue Korea official sources. | Correction: the Vogue Korea item is an online Omega-sponsored pictorial dated 2024-12-09 (vogue.co.kr/2024/12/09/오메가란-우주에서-마주한-다니엘/), not a December 2024 print cover; Sportskeeda's 'cover' framing is not supported. Suggest re-dating the record to 2024-12-09 and changing the title. The pictorial was published after the members' Nov 28 termination declaration. | re-dated 2024-12-01(month) -> 2024-12-09 and retitled: online Omega pictorial, not a December cover / Cut for length: published in the Fashion > Watch & Jewelry section; digital editor Ga Nam-hee, photographer Park Jong-ha, hair Gabe, makeup Lee Sol, stylist Choi Yu-mi, set design Kwon Do-hyung (retained in credits).",
+    "verified": true,
+    "editor_note": "Sportskeedaの検索要約のみで、本文取得不可。VOGUE Korea公式で未確認のため要検証（Omegaアンバサダー画報との混同の可能性あり）。 | Reader-facing 'reportedly' wording, the Dec 9 reveal date (later than this record's Dec 1 date) and the 'uncertain' tag moved here; still unverified against Vogue Korea official sources. | Correction: the Vogue Korea item is an online Omega-sponsored pictorial dated 2024-12-09 (vogue.co.kr/2024/12/09/오메가란-우주에서-마주한-다니엘/), not a December 2024 print cover; Sportskeeda's 'cover' framing is not supported. Suggest re-dating the record to 2024-12-09 and changing the title. The pictorial was published after the members' Nov 28 termination declaration. | re-dated 2024-12-01(month) -> 2024-12-09 and retitled: online Omega pictorial, not a December cover / Cut for length: published in the Fashion > Watch & Jewelry section; digital editor Ga Nam-hee, photographer Park Jong-ha, hair Gabe, makeup Lee Sol, stylist Choi Yu-mi, set design Kwon Do-hyung (retained in credits). / 2026-10-24 nightly: Vogue Korea's own article '오메가란 우주에서 마주한 다니엘' (published 2024-12-09 09:00 UTC) confirms the text, watches, brands and credits (photographer Park Jong-ha, digital editor Ga Nam-hee, hair Gabe, makeup Lee Sol, stylist Choi Yu-mi, set Kwon Do-hyung, SPONSORED BY OMEGA).",
     "detail": {
       "ja": "オメガ協賛のオンライン画報「オメガという宇宙で出会ったダニエル」。印刷版の表紙ではなく「SPONSORED BY OMEGA」と表示されたウェブ画報で、幼い頃の少女たちをときめかせた「月の妖精」とオメガのファンタジーの世界を重ねるコンセプトで撮影した。ダニエルはコンステレーション（29mmシルバー文字盤、25mmパープル文字盤、29mmイエロー文字盤など）とスピードマスター38（38mmブラウン文字盤、ムーンシャインゴールドのダイヤモンドベゼル、グリーン文字盤クロノグラフ）を着け、衣装はCecilie Bahnsen、Noir Kei Ninomiya、Sandy Liang、Yuhan Wang、Shushu/Tongだった。",
       "en": "The Omega-sponsored online pictorial 'Danielle in Omega's universe', a web feature labeled 'SPONSORED BY OMEGA' rather than a print cover, joining the 'moon fairy' who thrilled girls in childhood with Omega's fantasy-inspired universe. Danielle wore Constellation watches (including 29mm silver, 25mm purple and 29mm yellow dials) and the Speedmaster 38 (a 38mm brown dial, a diamond-set bezel model in Moonshine gold and a green-dial chronograph), with looks by Cecilie Bahnsen, Noir Kei Ninomiya, Sandy Liang, Yuhan Wang and Shushu/Tong."
@@ -3923,6 +3928,48 @@
     ],
     "verified": true,
     "editor_note": "Publisher posts via dazedkorea.com WP API (cover list 2024-12-16; web pictorial 2025-01-10); quote reported 2024-12-27."
+  },
+  {
+    "id": "magazine-2024-12-26-elle-japon-2025-02-haerin",
+    "date": "2024-12-26",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ELLE JAPON 2025年2月号 表紙 — ヘリン × Dior（2度目）",
+      "en": "Elle Japon February 2025 cover - Haerin x Dior (second time)"
+    },
+    "summary": {
+      "ja": "1年ぶり2度目のELLE JAPON表紙で、ヘリンがディオール2025クルーズの7ルックを着こなした8ページ特集。",
+      "en": "Haerin's second Elle Japon cover, a year after the first, with an eight-page feature of seven Dior Cruise 2025 looks."
+    },
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000742.000008128.html",
+    "reference_urls": [
+      "https://prtimes.jp/main/html/rd/p/000000742.000008128.html",
+      "https://tower.jp/article/news/2024/12/25/tgb004"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "japan",
+      "dior"
+    ],
+    "verified": true,
+    "editor_note": "ELLE JAPON公式URL未確認。記事日付2024-12-25、発売日未確認（通常12月下旬）。 | On-sale date and price not stated on tower.jp. / タワーレコード(tower.jp)の2024-12-25付記事に基づく。ELLE JAPON公式URL未確認。発売日（通常12月下旬）と価格はtower.jpに記載なし。 / 2026-10-24 nightly: Hearst Fujingaho press release on PR TIMES (2024-12-25 09:00) 'NewJeans HAERINがカバーに再び登場！' gives 2月号 on sale 2024-12-26 (Thu), 880 yen, second cover after the Feb 2024 issue, theme 「私らしく、新時代へ！」, 8 pages, Dior Cruise 2025, seven looks. Date moved from the issue month to the on-sale day.",
+    "detail": {
+      "ja": "2024年2月号以来1年ぶり、2度目のELLE JAPON表紙。号のテーマは「私らしく、新時代へ！」で、表紙はディオールのファインニットのトップスにマリンモチーフのネックレスを合わせたホリデーシーズンの装い。8ページの特集ではディオール2025クルーズコレクションの7ルックをパンクな要素を効かせたフェミニンなムードでスタイリングし、ヘリンはドレス風のツーピースにロングブーツを合わせたルックを一番のお気に入りに挙げた。撮影はJunkyoung Lee。",
+      "en": "Haerin's second ELLE JAPON cover, a year after the February 2024 issue. The issue's theme was 'Being myself, into a new era', and the cover paired a fine-knit Dior top with a marine-motif necklace in a holiday-season look. An eight-page feature styled seven looks from Dior's Cruise 2025 collection in a punk-inflected feminine mood, and Haerin named a dress-style two-piece with long boots as her favorite. Photography by Junkyoung Lee."
+    },
+    "credits": {
+      "publisher": "Hearst Fujingaho (ELLE JAPON)",
+      "photographer": "Junkyoung Lee",
+      "brand": "Dior"
+    }
   },
   {
     "id": "magazine-2025-01-01-elle-korea-2025-01-minji",
@@ -4020,7 +4067,7 @@
       "hanbok"
     ],
     "verified": false,
-    "editor_note": "VOGUE Korea公式URL未確認。表紙か中面画報かは未確定。 | Vogue Korea official article URL still not located; whether the pictorial was a cover remains unconfirmed. 'Koreanity' theme per vogue.co.kr/?p=573032. / VOGUE Korea公式記事URL未確認。表紙か中面画報かは未確定。「Koreanity」テーマはvogue.co.kr/?p=573032による。",
+    "editor_note": "VOGUE Korea公式URL未確認。表紙か中面画報かは未確定。 | Vogue Korea official article URL still not located; whether the pictorial was a cover remains unconfirmed. 'Koreanity' theme per vogue.co.kr/?p=573032. / VOGUE Korea公式記事URL未確認。表紙か中面画報かは未確定。「Koreanity」テーマはvogue.co.kr/?p=573032による。 / 2026-10-24 nightly: not confirmed. vogue.co.kr ?p=573032 is the 2025-01-08 'Vogue Salon: Hanbok' event page with no NewJeans mention; vogue.co.kr search is JS-rendered and its WP API needs login; no official article for the NewJeans pictorial found. Left unverified.",
     "detail": {
       "ja": "洋装と韓服の両方の装いを見せた1月号の画報。ADORが運用するInstagram（@newjeans_official）は「NewJeans 'Vogue Korea' January 2025 Edition」のキャプションとハッシュタグ#NewJeans、#NewJeans_is_Everywhereを添えて投稿した。VOGUE Korea側の投稿はグループ名を使わずメンバー5人の名前を並べ、ミン・ヒジンをスペシャルクリエイティブディレクターとしてクレジットし、メンバーが運営する@jeanzforfreeも本名表記とミン・ヒジンのクレジット付きで同じ画報を載せた。号のテーマは「Koreanity」で、韓服を扱う「ボーグ サロン」の開催も告知された。",
       "en": "A January-issue pictorial showing the members in both Western-style outfits and hanbok. The ADOR-run Instagram account @newjeans_official posted it with the caption 'NewJeans Vogue Korea January 2025 Edition' and the hashtags #NewJeans and #NewJeans_is_Everywhere. Vogue Korea's own post did not use the group name, listing Minji, Hanni, Danielle, Haerin and Hyein by name and crediting Min Hee-jin as Special Creative Director, and the members' account @jeanzforfree posted the same shoot with their real names and the Min Hee-jin credit. The issue's theme was 'Koreanity', and a related 'Vogue Salon' on hanbok was announced."
@@ -4097,45 +4144,6 @@
     "image": {
       "url": "https://www.instagram.com/p/DEepjE9phg8/media/?size=l",
       "source_url": "https://www.instagram.com/p/DEepjE9phg8/"
-    }
-  },
-  {
-    "id": "magazine-2025-02-01-elle-japon-2025-02-haerin",
-    "date": "2025-02-01",
-    "date_type": "publish",
-    "date_precision": "month",
-    "category": "magazine",
-    "entity": "newjeans",
-    "members": [
-      "haerin"
-    ],
-    "title": {
-      "ja": "ELLE JAPON 2025年2月号 表紙 — ヘリン × Dior（2度目）",
-      "en": "Elle Japon February 2025 cover - Haerin x Dior (second time)"
-    },
-    "summary": {
-      "ja": "1年ぶり2度目のELLE JAPON表紙で、ヘリンがディオール2025クルーズの7ルックを着こなした8ページ特集。",
-      "en": "Haerin's second Elle Japon cover, a year after the first, with an eight-page feature of seven Dior Cruise 2025 looks."
-    },
-    "source_url": "https://tower.jp/article/news/2024/12/25/tgb004",
-    "reference_urls": [],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "japan",
-      "dior"
-    ],
-    "verified": false,
-    "editor_note": "ELLE JAPON公式URL未確認。記事日付2024-12-25、発売日未確認（通常12月下旬）。 | On-sale date and price not stated on tower.jp. / タワーレコード(tower.jp)の2024-12-25付記事に基づく。ELLE JAPON公式URL未確認。発売日（通常12月下旬）と価格はtower.jpに記載なし。",
-    "detail": {
-      "ja": "2024年2月号以来1年ぶり、2度目のELLE JAPON表紙。号のテーマは「私らしく、新時代へ！」で、表紙はディオールのファインニットのトップスにマリンモチーフのネックレスを合わせたホリデーシーズンの装い。8ページの特集ではディオール2025クルーズコレクションの7ルックをパンクな要素を効かせたフェミニンなムードでスタイリングし、ヘリンはドレス風のツーピースにロングブーツを合わせたルックを一番のお気に入りに挙げた。撮影はJunkyoung Lee。",
-      "en": "Haerin's second ELLE JAPON cover, a year after the February 2024 issue. The issue's theme was 'Being myself, into a new era', and the cover paired a fine-knit Dior top with a marine-motif necklace in a holiday-season look. An eight-page feature styled seven looks from Dior's Cruise 2025 collection in a punk-inflected feminine mood, and Haerin named a dress-style two-piece with long boots as her favorite. Photography by Junkyoung Lee."
-    },
-    "credits": {
-      "publisher": "Hearst Fujingaho (ELLE JAPON)",
-      "photographer": "Junkyoung Lee",
-      "brand": "Dior"
     }
   },
   {
@@ -4249,7 +4257,7 @@
   {
     "id": "magazine-2025-04-16-spur-2025-06-danielle-celine",
     "date": "2025-04-16",
-    "date_type": "publish",
+    "date_type": "announce",
     "date_precision": "day",
     "category": "magazine",
     "entity": "newjeans",
@@ -4284,8 +4292,11 @@
       "celine",
       "japan"
     ],
-    "verified": false,
-    "editor_note": "Ilgan Sports (2025-04-16). Within the NJZ period, but SPUR/Celine presented her as Celine ambassador Danielle; the NJZ name is not confirmed in sources, so entity newjeans (cf. magazine-2025-03-01-elle-singapore-2025-03-danielle, which was under NJZ). / Source is a press report (Daum News); not confirmed against an official page."
+    "verified": true,
+    "editor_note": "Ilgan Sports (2025-04-16). Within the NJZ period, but SPUR/Celine presented her as Celine ambassador Danielle; the NJZ name is not confirmed in sources, so entity newjeans (cf. magazine-2025-03-01-elle-singapore-2025-03-danielle, which was under NJZ). / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: Ilgan Sports (2025-04-16 13:26) reports SPUR revealed the June cover on its official SNS on the 16th (Celine Summer 2025, summer-sunshine theme). The record date is the cover reveal, so date_type changed from publish to announce; on-sale date not confirmed (SPUR/Shueisha blocked).",
+    "reference_urls": [
+      "https://v.daum.net/v/20250416132659825"
+    ]
   },
   {
     "id": "magazine-2026-09-01-harpers-bazaar-korea-2026-09-hyein",

@@ -1460,8 +1460,8 @@
     "editor_note": "Details from Wikitree (2023-03-14 15:46 KST); press framing removed from reader text."
   },
   {
-    "id": "ad-2023-03-24-hanni-gucci-horsebit-1955-campaign",
-    "date": "2023-03-24",
+    "id": "ad-2023-03-23-hanni-gucci-horsebit-1955-campaign",
+    "date": "2023-03-23",
     "date_type": "release",
     "date_precision": "day",
     "category": "ad",
@@ -1481,14 +1481,18 @@
       "ja": "グッチのグローバルブランドアンバサダーとして、ハニがホースビット1955ハンドバッグのキャンペーン映像・ビジュアルに登場した。撮影はフォトグラファーデュオのマート＆マーカス。共演は『リトル・マーメイド』主演のハリー・ベイリーと俳優ジュリア・ガーナーで、グッチは各分野で地位を築く3人の女性アーティストが参加したと説明した。",
       "en": "As a Gucci global brand ambassador, Hanni appeared in the campaign film and visuals for the Horsebit 1955 handbag, shot by photographer duo Mert & Marcus. She was joined by Halle Bailey, star of the upcoming The Little Mermaid, and actor Julia Garner; Gucci said the campaign brought together three women artists each established in their own field."
     },
-    "source_url": "https://v.daum.net/v/20230324133702848",
+    "source_url": "https://www.youtube.com/watch?v=jlpoCNJ0SiM",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=jlpoCNJ0SiM",
+      "https://highxtar.com/en/halle-bailey-hanni-and-julia-garner-stars-of-gucci-horsebit-1955-campaign/",
       "https://vmagazine.com/article/star-studded-gucci-campaign-celebrates-the-horsebit-1955/",
+      "https://v.daum.net/v/20230324133702848",
       "https://v.daum.net/v/20230325091928324",
       "https://en.wikipedia.org/wiki/Hanni_(singer)"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "jlpoCNJ0SiM"
     },
     "image": {
       "url": "https://t1.daumcdn.net/news/202303/25/mydaily/20230325091928510vnyr.jpg",
@@ -1503,8 +1507,8 @@
       "campaign",
       "luxury"
     ],
-    "verified": false,
-    "editor_note": "Sports Donga 2023-03-24 reports the campaign as newly released; MyDaily 2023-03-25 adds co-stars and photographers. Gucci official page not fetched. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: Gucci's press release (gucci-oona.prezly.com, now 404; text seen only as a search extract) is datelined March 23, 2023 and confirms the Mert & Marcus campaign with Halle Bailey, Hanni and Julia Garner; V Magazine published 2023-03-24 15:49 UTC. Release day is 03-23 (Gucci dateline, likely CET) vs 03-24 (Korean press, KST); not resolved without the release time."
+    "verified": true,
+    "editor_note": "Sports Donga 2023-03-24 reports the campaign as newly released; MyDaily 2023-03-25 adds co-stars and photographers. Gucci official page not fetched. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: Gucci's press release (gucci-oona.prezly.com, now 404; text seen only as a search extract) is datelined March 23, 2023 and confirms the Mert & Marcus campaign with Halle Bailey, Hanni and Julia Garner; V Magazine published 2023-03-24 15:49 UTC. Release day is 03-23 (Gucci dateline, likely CET) vs 03-24 (Korean press, KST); not resolved without the release time. / 2026-10-24 nightly (queue): Gucci's official YouTube campaign film 'The Gucci Horsebit 1955' (jlpoCNJ0SiM; description names Halle Bailey, Hanni, Julia Garner and Mert & Marcus) is dated 2023-03-23 in KST via the YouTube next API (Asia/Seoul); HIGHXTAR published at 2023-03-23 12:55 UTC (21:55 KST); Gucci press dateline 03-23. Korean press on 03-24 reported it the next day. Date moved to 03-23."
   },
   {
     "id": "ad-2023-03-30-coca-cola-global-ambassador",
@@ -1887,8 +1891,8 @@
   {
     "id": "ad-2023-08-01-line-friends-collab-2023",
     "date": "2023-08-01",
-    "date_type": "release",
-    "date_precision": "month",
+    "date_type": "announce",
+    "date_precision": "day",
     "category": "ad",
     "entity": "newjeans",
     "members": [
@@ -1902,8 +1906,12 @@
       "ja": "LINE FRIENDSが『Get Up』発売記念で江南・弘大にポップアップを開き、TOKKIとminiiniを組み合わせた新キャラ「bunini」を展開。",
       "en": "Line Friends marked Get Up with Gangnam and Hongdae pop-ups built around 'bunini', a new character merging Tokki and minini."
     },
-    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "source_url": "http://moneys.mt.co.kr/news/mwView.php?no=2023080109361571968",
+    "reference_urls": [
+      "http://moneys.mt.co.kr/news/mwView.php?no=2023080109361571968",
+      "https://zdnet.co.kr/view/?no=20230801190441",
+      "https://en.wikipedia.org/wiki/NewJeans"
+    ],
     "media": {
       "type": "none"
     },
@@ -1911,15 +1919,15 @@
       "collab",
       "character"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "LINE FRIENDS（現IPX）が『Get Up』発売を記念し、8月11日から31日まで江南店と弘大店でNewJeansとのポップアップを開いた。中心はNewJeansのウサギ（TOKKI）とminiiniを組み合わせた新キャラクター「bunini」で、「ASAP」のMVにも登場した。商品はbuniniのぬいぐるみ、キーリング、クッションのほか、パワーパフ ガールズのNewJeans版を用いたフォトアルバム、スマートトーク、Tシャツ、スマホケースなど。一部は8月2日から4日にIPXのオンライン事前注文で販売され、即完売した商品もあった。IPXは米国、日本、東南アジアへの展開も予定した。",
-      "en": "Line Friends (now IPX) held an official pop-up store with NewJeans at its Gangnam and Hongdae stores from August 11 to 31 to mark the release of the second EP Get Up. At its center was the new character 'bunini', combining NewJeans' rabbit Tokki with Line Friends' minini, which had appeared in the music video for the track 'ASAP'. Products included bunini plushes, keyrings and cushions, plus photo albums, smart toks, T-shirts and phone cases using the NewJeans version of The Powerpuff Girls; some items went on online global pre-order through IPX from August 2 to 4, with several selling out soon after release. IPX said the pop-up would expand to the United States, Japan and Southeast Asia."
+      "ja": "LINE FRIENDS（現IPX）が8月1日、NewJeansとのIP公式商品の協業を発表し、『Get Up』発売を記念して8月11日から31日まで江南店と弘大店でポップアップを開くとした。中心はNewJeansのウサギをIPXの人気IP「minini」のようにミニサイズにした新キャラクター「bunini」で、「ASAP」のMVにも登場していた。商品はbuniniのぬいぐるみ、キーリング、フォトアルバム、スマートトーク、ステッカーパック、キャップ、スマホケースなどで、buniniとパワーパフ ガールズ版NewJeansの一部商品は8月2日から4日にIPXのオンラインで世界向けに事前注文を受け付けるとした。IPXは今後、米国、中国、日本、東南アジアなどへポップアップを広げる計画も示した。",
+      "en": "On August 1 Line Friends (now IPX) announced an official NewJeans IP merchandise collaboration, with a pop-up at its Gangnam and Hongdae stores from August 11 to 31 to mark the release of the second EP Get Up. At its center was the new character 'bunini', NewJeans' rabbit reimagined in the mini style of IPX's popular 'minini' line, which had appeared in the music video for 'ASAP'. Products included bunini plushes, keyrings, photo albums, smart toks, sticker packs, caps and phone cases, and some bunini and Powerpuff Girls-version NewJeans items were to go on global online pre-order through IPX from August 2 to 4. IPX said it planned to expand the pop-up to the United States, China, Japan and Southeast Asia."
     },
     "credits": {
       "brand": "Line Friends (IPX)"
     },
-    "editor_note": "Singapore and Manila pop-ups in the existing summary are later rollouts not covered by the August 2023 Korean sources.",
+    "editor_note": "Singapore and Manila pop-ups in the existing summary are later rollouts not covered by the August 2023 Korean sources. / 2026-10-24 nightly: IPX's announcement of 2023-08-01 as reported by Money S (10:54 KST) and ZDNet Korea (19:25) confirms pop-up dates, bunini, product range, Aug 2-4 online pre-order and planned US/China/Japan/SEA expansion. Set to day precision as the announcement date. Removed the post-pre-order sell-out remark (later than the record date).",
     "image": {
       "url": "https://image.zdnet.co.kr/2023/08/01/dc9bb15d1fd6df5eacbb0711121dfe5d.jpg",
       "source_url": "https://zdnet.co.kr/view/?no=20230801190441"
@@ -2055,7 +2063,7 @@
       "campaign"
     ],
     "verified": false,
-    "editor_note": "L'Officiel Korea and Star News (both 2023-08-14) report the release on the 14th. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly (queue): Dior公式YouTubeの動画「HAERIN and the 'Rose des Vents' collection」は2023-09-11（KST）、Fashion Gone Rogueは2023-07-13にフォトキャンペーンを報じ（ページは403、検索要約のみ）、台帳はDiorの投稿を07-10/11とする。韓国の報道は8月14日に「ディオールが公開」と伝えており、フォト（7月）・韓国向け公開（8月14日）・映像（9月11日）のどれをこの記録の日付とするか一次ソース同士で決められない。DiorのInstagram/X投稿は特定できず。要判断。なおad-2024-04-12-haerin-dior-rose-des-vents-campaignに対応するDior公式動画BGRqFPi_7wUは2024-04-08（KST）。"
+    "editor_note": "L'Officiel Korea and Star News (both 2023-08-14) report the release on the 14th. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly (queue): Dior公式YouTubeの動画「HAERIN and the 'Rose des Vents' collection」は2023-09-11（KST）、Fashion Gone Rogueは2023-07-13にフォトキャンペーンを報じ（ページは403、検索要約のみ）、台帳はDiorの投稿を07-10/11とする。韓国の報道は8月14日に「ディオールが公開」と伝えており、フォト（7月）・韓国向け公開（8月14日）・映像（9月11日）のどれをこの記録の日付とするか一次ソース同士で決められない。DiorのInstagram/X投稿は特定できず。要判断。なおad-2024-04-12-haerin-dior-rose-des-vents-campaignに対応するDior公式動画BGRqFPi_7wUは2024-04-08（KST）。 / 2026-10-24 nightly (round 4): no further primary source; Dior YouTube search shows only XD7FEKtus54 (2023-09-11) and BGRqFPi_7wU (2024); Dior Instagram post not identified. Date choice still awaits the queue decision."
   },
   {
     "id": "ad-2023-08-14-hyundai-department-store-duty-free",
@@ -2122,10 +2130,12 @@
       "en": "Chanel released a video of its ambassador Minji introducing her beauty routine, built on the N°1 de Chanel red camellia serum, cream and eye cream for revitalising the skin."
     },
     "credits": {
-      "brand": "Chanel Beauty"
+      "brand": "Chanel Beauty",
+      "account": "@chanel.beauty.korea (Instagram)"
     },
     "source_url": "https://www.instagram.com/p/Cv8-bw2v9R6/",
     "reference_urls": [
+      "https://www.instagram.com/p/Cv8-bw2v9R6/",
       "https://namu.wiki/w/%EB%AF%BC%EC%A7%80(NewJeans)"
     ],
     "media": {
@@ -2136,50 +2146,8 @@
       "beauty",
       "campaign"
     ],
-    "verified": false,
-    "editor_note": "Reel Cv8-bw2v9R6 (2023-08-15 14:00 KST) and Cv_jORrvP4K (08-16) listed in namu's Chanel section; caption text quoted by namu ('샤넬 앰배서더, 뉴진스 민지가 소개하는 뷰티 루틴', 'N°1 DE CHANEL 레드 까멜리아 세럼, 크림, 아이 크림으로 구성된 민지의 N°1 DE CHANEL 뷰티 루틴'). Fan re-uploads dated 230815 corroborate the date. Instagram account/caption could not be read (r.jina.ai reader blocked for instagram.com on 2026-10-17); post attributed to the brand by namu.wiki's brand section, date from the shortcode timestamp."
-  },
-  {
-    "id": "ad-2023-09-01-lotte-wellfood-pepero-model",
-    "date": "2023-09-01",
-    "date_type": "announce",
-    "date_precision": "day",
-    "category": "ad",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "ロッテウェルフード「ペペロ」モデル",
-      "en": "Lotte Wellfood Pepero ad models"
-    },
-    "summary": {
-      "ja": "ロッテウェルフードがNewJeansをペペロの公式アンバサダーに起用し、ペペロデーに向けたグローバルキャンペーンを展開。",
-      "en": "Lotte Wellfood named NewJeans Pepero's official ambassadors, with a global campaign toward Pepero Day including the US spot 'Say Hello with Pepero'."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [
-      "https://en.wikipedia.org/wiki/NewJeans_videography"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "food"
-    ],
-    "verified": false,
-    "detail": {
-      "ja": "ロッテウェルフードがNewJeansをペペロの公式アンバサダーに起用し、2023年のペペロデー（11月11日）に向けたグローバルキャンペーンを展開した。米国向けには「Say Hello with Pepero」のCMも展開された。",
-      "en": "Lotte Wellfood named NewJeans the official ambassadors of Pepero and ran a global campaign toward Pepero Day (November 11) in 2023. It included the US-market commercial 'Say Hello with Pepero'."
-    },
-    "credits": {
-      "brand": "Lotte Wellfood (Pepero)"
-    },
-    "editor_note": "No September 2023 announcement located (search budget exhausted); month-precision retained. | removed from reader text: [detail.ja] 2023年10月17日の報道では、京畿道義王市のロッテプレミアムアウトレット タイムヴィラスで開かれたペペロのポップアップ「Hello 빼빼로월드」で、公式アンバサダーのNewJeansとキャラクターのペペロフレンズを用いた展示と商品が紹介された。 [detail.ja] 英語版Wikipediaのビデオグラフィーは米国で放映されたCM「Say Hello with Pepero」（2023年10月26日報道）を記録しており、同社はLAとホーチミンでの屋外広告も展開した。 [detail.ja] 起用の正確な発表日は確認できていない。 [detail.en] Coverage of October 17, 2023 described the 'Hello Pepero World' pop-up at Lotte Premium Outlet Time Villas in Uiwang, Gyeonggi-do, with displays and products using official ambassador NewJeans and the Pepero Friends characters. [detail.en] The English Wikipedia videography lists the US commercial 'Say Hello with Pepero' (reported October 26, 2023), and the company also ran outdoor ads in Los Angeles and Ho Chi Minh City. [detail.en] The exact announcement date of the appointment could not be confirmed.",
-    "image": {
-      "url": "https://img1.newsis.com/2023/09/01/NISI20230901_0001353956_web.jpg",
-      "source_url": "https://www.newsis.com/view/NISX20230901_0002434131"
-    }
+    "verified": true,
+    "editor_note": "Reel Cv8-bw2v9R6 (2023-08-15 14:00 KST) and Cv_jORrvP4K (08-16) listed in namu's Chanel section; caption text quoted by namu ('샤넬 앰배서더, 뉴진스 민지가 소개하는 뷰티 루틴', 'N°1 DE CHANEL 레드 까멜리아 세럼, 크림, 아이 크림으로 구성된 민지의 N°1 DE CHANEL 뷰티 루틴'). Fan re-uploads dated 230815 corroborate the date. Instagram account/caption could not be read (r.jina.ai reader blocked for instagram.com on 2026-10-17); post attributed to the brand by namu.wiki's brand section, date from the shortcode timestamp. / 2026-10-24 nightly: Instagram oEmbed: author chanel.beauty.korea, media_id time 2023-08-15 14:00:59 KST; caption 'N°1 DE CHANEL : 레드 까멜리아 뷰티 루틴 ... 샤넬 앰배서더, 뉴진스 민지가 소개하는 뷰티 루틴을 만나보세요' (#레드까멜리아세럼)."
   },
   {
     "id": "ad-2023-09-14-haerin-dior-rose-celeste-campaign",
@@ -2223,13 +2191,59 @@
       "campaign"
     ],
     "verified": false,
-    "editor_note": "Star Today (2023-09-14) says Dior released it on the 14th; L'Officiel Korea (2023-09-16) details the Rose Céleste line. / Source is a press report (Daum News); not confirmed against an official page."
+    "editor_note": "Star Today (2023-09-14) says Dior released it on the 14th; L'Officiel Korea (2023-09-16) details the Rose Céleste line. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: not confirmed. No Dior YouTube or identifiable Instagram post for Haerin's Rose Céleste chapter (YouTube search returns only Cara Delevingne-era Rose Céleste films); overlaps the unresolved Rose des Vents dating (Dior video XD7FEKtus54 on 2023-09-11). Left unverified."
   },
   {
-    "id": "ad-2023-10-01-skt-iphone-15-pro-made-in-0",
-    "date": "2023-10-01",
+    "id": "ad-2023-09-15-lotte-wellfood-pepero-model",
+    "date": "2023-09-15",
     "date_type": "release",
-    "date_precision": "month",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ロッテウェルフード「ペペロ」モデル",
+      "en": "Lotte Wellfood Pepero ad models"
+    },
+    "summary": {
+      "ja": "ロッテウェルフードが、NewJeansを起用したペペロのTVCM「ニュージーンズ、私たちの気持ちはペペロで伝えよう！—会いたい編」を公開した。",
+      "en": "Lotte Wellfood released its Pepero TV commercial with NewJeans, the 'I miss you' edition of 'NewJeans, let's say it with Pepero!'"
+    },
+    "source_url": "https://www.youtube.com/watch?v=ZhqNMsJs5tc",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=ZhqNMsJs5tc",
+      "https://www.youtube.com/watch?v=ZffMmF9ZB_w",
+      "https://en.wikipedia.org/wiki/NewJeans",
+      "https://en.wikipedia.org/wiki/NewJeans_videography"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "ZhqNMsJs5tc"
+    },
+    "tags": [
+      "food"
+    ],
+    "verified": true,
+    "detail": {
+      "ja": "ロッテウェルフードが、NewJeansを起用したペペロのTVCM「ニュージーンズ、私たちの気持ちはペペロで伝えよう！—会いたい編」（15秒・20秒）を公式YouTubeチャンネル「맛깔스튜디오」で公開した。キャンペーンのスローガンは「Say Hello with PEPERO」。",
+      "en": "Lotte Wellfood released its Pepero TV commercial starring NewJeans, the 'I miss you' edition of 'NewJeans, let's say it with Pepero!' in 15- and 20-second versions, on its official YouTube channel. The campaign slogan was 'Say Hello with PEPERO'."
+    },
+    "credits": {
+      "brand": "Lotte Wellfood (Pepero)"
+    },
+    "editor_note": "No September 2023 announcement located (search budget exhausted); month-precision retained. | removed from reader text: [detail.ja] 2023年10月17日の報道では、京畿道義王市のロッテプレミアムアウトレット タイムヴィラスで開かれたペペロのポップアップ「Hello 빼빼로월드」で、公式アンバサダーのNewJeansとキャラクターのペペロフレンズを用いた展示と商品が紹介された。 [detail.ja] 英語版Wikipediaのビデオグラフィーは米国で放映されたCM「Say Hello with Pepero」（2023年10月26日報道）を記録しており、同社はLAとホーチミンでの屋外広告も展開した。 [detail.ja] 起用の正確な発表日は確認できていない。 [detail.en] Coverage of October 17, 2023 described the 'Hello Pepero World' pop-up at Lotte Premium Outlet Time Villas in Uiwang, Gyeonggi-do, with displays and products using official ambassador NewJeans and the Pepero Friends characters. [detail.en] The English Wikipedia videography lists the US commercial 'Say Hello with Pepero' (reported October 26, 2023), and the company also ran outdoor ads in Los Angeles and Ho Chi Minh City. [detail.en] The exact announcement date of the appointment could not be confirmed. / 2026-10-24 nightly: No September 2023 ambassador announcement found; earliest official item is Lotte Wellfood's YouTube TVC '[NewJeans X 빼빼로] ... 보고싶다 편' (15'/20', 2023-09-15 KST, 'PEPERO X NewJeans TVC 대공개', 'Say Hello with PEPERO'). Record re-dated to that release (day precision) and detail limited to it; the US spot 'Say Hello with PEPERO!' (uMfRKmNFazg) is 2023-10-30 KST and the English TVC (NDspOfKzFFE) 2023-10-16, both later than the record.",
+    "image": {
+      "url": "https://img1.newsis.com/2023/09/01/NISI20230901_0001353956_web.jpg",
+      "source_url": "https://www.newsis.com/view/NISX20230901_0002434131"
+    }
+  },
+  {
+    "id": "ad-2023-10-13-skt-iphone-15-pro-made-in-0",
+    "date": "2023-10-13",
+    "date_type": "release",
+    "date_precision": "day",
     "category": "ad",
     "entity": "newjeans",
     "members": [
@@ -2240,23 +2254,28 @@
       "en": "SK Telecom Made in 0 iPhone 15 Pro commercial"
     },
     "summary": {
-      "ja": "SKテレコムのiPhone 15 Pro向けCM「0のための特別なベネフィット、Made in 0」に出演、映像は10月12日公開。",
-      "en": "NewJeans starred in SK Telecom's iPhone 15 Pro commercial 'Made in 0', released October 12."
+      "ja": "SKテレコムのiPhone 15 Pro向けCM「0のための特別なベネフィット、Made in 0」に出演、映像は10月13日公開。",
+      "en": "NewJeans starred in SK Telecom's iPhone 15 Pro commercial 'Made in 0', released October 13."
     },
-    "source_url": "https://en.wikipedia.org/wiki/NewJeans_videography",
-    "reference_urls": [],
+    "source_url": "https://www.youtube.com/watch?v=ckVPg4C9ggI",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=ckVPg4C9ggI",
+      "https://www.apnews.kr/news/articleView.html?idxno=3013435",
+      "https://en.wikipedia.org/wiki/NewJeans_videography"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "ckVPg4C9ggI"
     },
     "tags": [
       "telecom",
       "cm"
     ],
-    "verified": false,
-    "editor_note": "Month approximate (iPhone 15 Korean launch, Oct 2023). / Month approximate (iPhone 15 Korean launch, October 2023). Upload date and director from the English Wikipedia videography; sourcing frame removed from reader text.",
+    "verified": true,
+    "editor_note": "Month approximate (iPhone 15 Korean launch, Oct 2023). / Month approximate (iPhone 15 Korean launch, October 2023). Upload date and director from the English Wikipedia videography; sourcing frame removed from reader text. / 2026-10-24 nightly: SK telecom official YouTube upload is 2023-10-13 KST (Oct 12 PT); description lists 0 Youth, Musinsa, Olive Young benefits. Director Hobin per AP Shinmun ad credits (AP Shinmun itself says released 10-15). Pre-order 10-06 to 10-12 per Korean press. Date set to the YouTube release.",
     "detail": {
-      "ja": "SKテレコムのiPhone 15 Pro向けCM「0のための特別なベネフィット、Made in 0」に出演した。映像は10月12日に公開され、監督はHobin。SKテレコムはiPhone 15シリーズの事前予約を10月6日から12日まで公式代理店、Tダイレクトショップ、11番街で受け付け、正式発売は10月13日で、若者向けブランド「0」ではMUSINSAとの「0青年企画展」などの特典を用意した。",
-      "en": "NewJeans starred in SK Telecom's iPhone 15 Pro commercial 'Special benefits for 0, Made in 0'. The video was released on October 12 and directed by Hobin. SK Telecom took iPhone 15 pre-orders from October 6 to 12 through its official stores, T Direct Shop and 11st, with the official launch on October 13, and its youth brand '0' offered perks such as a '0 youth special' with Musinsa."
+      "ja": "SKテレコムのiPhone 15 Pro向けCM「0のための特別なベネフィット、Made in 0」に出演した。映像は10月13日にSKテレコムの公式YouTubeチャンネルで公開され、監督はHobin。SKテレコムはiPhone 15シリーズの事前予約を10月6日から12日まで公式代理店、Tダイレクトショップ、11番街で受け付け、正式発売は10月13日で、若者向けブランド「0」ではMUSINSAやOlive Youngなどの特典を用意した。",
+      "en": "NewJeans starred in SK Telecom's iPhone 15 Pro commercial 'Special benefits for 0, Made in 0'. The video was released on SK Telecom's official YouTube channel on October 13 and directed by Hobin. SK Telecom took iPhone 15 pre-orders from October 6 to 12 through its official stores, T Direct Shop and 11st, with the official launch on October 13, and its youth brand '0' offered perks with partners such as Musinsa and Olive Young."
     },
     "credits": {
       "advertiser": "SK Telecom (0 / Young)",

@@ -976,10 +976,11 @@
       "ja": "ADORがメンバー5人を相手に、専属契約が有効であることの確認を求める訴えを起こした。",
       "en": "ADOR sued the five members seeking confirmation that their exclusive contracts remain valid."
     },
-    "source_url": "https://sports.khan.co.kr/article/202412051421003",
+    "source_url": "https://sports.khan.co.kr/article/202412051351003",
     "reference_urls": [
-      "https://www.tenasia.co.kr/article/2024120566154",
-      "https://sports.khan.co.kr/article/202412051351003?pt=nv"
+      "https://sports.khan.co.kr/article/202412051351003",
+      "https://sports.khan.co.kr/article/202412051421003",
+      "https://www.tenasia.co.kr/article/2024120566154"
     ],
     "media": {
       "type": "none"
@@ -990,8 +991,8 @@
       "court",
       "dispute"
     ],
-    "verified": false,
-    "editor_note": "Filed 12-03 per Khan ('지난 3일 ... 제기했다고 전날(5일) 밝혔다'); English Wikipedia gives 12-05 (the announcement date). Dated by filing. / Removed source mention from reader text: Sports Kyunghyang.",
+    "verified": true,
+    "editor_note": "Filed 12-03 per Khan ('지난 3일 ... 제기했다고 전날(5일) 밝혔다'); English Wikipedia gives 12-05 (the announcement date). Dated by filing. / Removed source mention from reader text: Sports Kyunghyang. / 2026-10-24 nightly: ADOR's statement, quoted in full by Sports Kyunghyang (2024-12-05 13:51), says '당사는 지난 12월 3일 ... 전속계약이 유효하게 존속한다는 점을 ... 소를 제기' — filing date 12-03 and announcement 12-05 confirmed from ADOR's own wording.",
     "detail": {
       "ja": "ADORがメンバー5人を相手取り、専属契約が有効に存続することの確認を求める訴えをソウル中央地裁に起こし、12月5日に公表した。紛争を法的判断で解決することは望んでいなかったが、専属契約が一方の主張だけで軽々しく解除されるものではないことを示すためのやむを得ない措置だとし、アイドルグループには長期的な投資が必要で、専属契約が守られなければその投資は保護されないと述べた。NewJeansと共に歩む立場は変わらず、訴訟とは別に率直な対話で誤解を解きたいとした。メンバー側は11月28日の会見で自ら法的措置は取らないとしていたため、解除を主張する側が仮処分を申請する通常の形とは逆に、ADORが先に提訴する形となった。",
       "en": "ADOR filed a suit at the Seoul Central District Court against the five members seeking confirmation that their exclusive contracts remain valid, announcing it on December 5. ADOR said it had not wanted the dispute settled by legal judgment but considered the step unavoidable to show that an exclusive contract cannot be terminated lightly on one side's claim alone, and argued that idol groups require long-term investment that would go unprotected if contracts were not honored. It said its wish to continue with NewJeans was unchanged and that it hoped for honest dialogue apart from the litigation to clear up misunderstandings. Because the members had said at their November 28 press conference that they would not take legal action themselves, ADOR filed first, reversing the usual pattern in which the party seeking termination applies for an injunction."
@@ -1004,7 +1005,7 @@
   {
     "id": "notice-2025-01-13-ador-files-injunction-against-independent-activities",
     "date": "2025-01-13",
-    "date_type": "event",
+    "date_type": "announce",
     "date_precision": "day",
     "category": "notice",
     "entity": "newjeans",
@@ -1013,11 +1014,13 @@
       "en": "ADOR files for an injunction to preserve its agency status and bar independent ad deals"
     },
     "summary": {
-      "ja": "ADORが、メンバー5人の独自の広告契約などを禁じ、企画会社としての地位を保全する仮処分を申請した。",
-      "en": "ADOR sought an injunction to preserve its status as the members' agency and bar them from independent advertising deals."
+      "ja": "ADORが、メンバー5人の独自の広告契約などを禁じ、企画会社としての地位を保全する仮処分を申請したと公表した。",
+      "en": "ADOR announced it had sought an injunction to preserve its status as the members' agency and bar them from independent advertising deals."
     },
-    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
+    "source_url": "https://www.tenasia.co.kr/article/2025011321884",
     "reference_urls": [
+      "https://www.tenasia.co.kr/article/2025011321884",
+      "https://sports.khan.co.kr/article/202501131516003",
       "https://isplus.com/article/view/isp202502060054",
       "https://mobile.newsis.com/view/NISX20250416_0003142174"
     ],
@@ -1030,15 +1033,15 @@
       "court",
       "dispute"
     ],
-    "verified": false,
-    "editor_note": "Day (01-13) taken from English Wikipedia; Korean reports only say '지난 1월'. Could not independently confirm the exact day. | Exact filing day (01-13) still only from en.wikipedia; Korean reports say 'January'. | removed from reader text: [detail.ja] 2025年1月、ADORはソウル中央地方裁判所に、企画会社としての地位を保全し、NewJeansのメンバー5人が独自に広告契約などを締結することを禁じる仮処分を申請した（日刊スポーツ2025年2月6日報道）。 / Removed source mention from reader text: Ilgan Sports, February 6, 2025.",
+    "verified": true,
+    "editor_note": "Day (01-13) taken from English Wikipedia; Korean reports only say '지난 1월'. Could not independently confirm the exact day. | Exact filing day (01-13) still only from en.wikipedia; Korean reports say 'January'. | removed from reader text: [detail.ja] 2025年1月、ADORはソウル中央地方裁判所に、企画会社としての地位を保全し、NewJeansのメンバー5人が独自に広告契約などを締結することを禁じる仮処分を申請した（日刊スポーツ2025年2月6日報道）。 / Removed source mention from reader text: Ilgan Sports, February 6, 2025. / 2026-10-24 nightly: Tenasia [전문] and Sports Kyunghyang (both 2025-01-13) quote ADOR's official statement of the 13th: the application was filed '지난 주' (week of Jan 6), exact filing day not given. Record kept on 01-13 as the announcement (date_type announce). Removed from detail: the 'new group name solicitation' quote (not in the Jan 13 statement), and the Civil Division 50 assignment, March 7 hearing, Sejong representation and April 3 date (reported 2025-02-06, later than this record).",
     "detail": {
-      "ja": "ADORがソウル中央地裁に、企画会社としての地位を保全し、メンバー5人が独自に広告などの契約を結ぶことを禁じる仮処分を申請した。ADORは「法的判断を受ける前に新しい活動名を公募するなど独自の芸能活動を試みることは重大な契約違反になり得るため残念に思う」と述べた。申請は民事合議50部に係属し、第1回審問は3月7日に指定された。メンバー側は法務法人セジョンを代理人に争う準備を進め、2024年12月に起こされた専属契約有効確認訴訟は民事合議41部で4月3日に第1回弁論が予定されていた。",
-      "en": "ADOR applied to the Seoul Central District Court for an injunction to preserve its status as the members' agency and to bar the five members from independently signing advertising and similar contracts. ADOR said it regretted that the members were attempting independent entertainment activities, such as soliciting a new group name, before a legal judgment, which could be a serious breach of contract. The application was assigned to Civil Division 50 with a first hearing set for March 7. The members, represented by the law firm Sejong (Shin & Kim), were preparing to contest it, and ADOR's contract-validity suit filed in December 2024 had its first hearing scheduled for April 3 before Civil Division 41."
+      "ja": "ADORは1月13日、前の週にメンバー5人を相手取り、ソウル中央地裁に「企画会社地位保全および広告契約締結等禁止」の仮処分を申請したと公式に明らかにした。2024年12月3日に起こした専属契約有効確認訴訟の1審判決まで、ADORが専属契約に基づく企画会社の地位にあることを認めてもらい、ADORの承認や同意なしにメンバーが独自に広告契約や広告活動をすることを防ぐためだと説明した。メンバーの独自行動による市場の混乱が続けば唯一の所属アーティストであるNewJeansのブランド価値の下落が避けられず、数年後に本案で契約の有効性が認められても原状回復ができなくなるおそれがあるとした。一方的な契約解除の宣言と法的手続きを経ない独自活動の前例ができれば、業界への投資が萎縮するという懸念も伝えた。",
+      "en": "On January 13 ADOR announced that the previous week it had applied to the Seoul Central District Court for an injunction against the five members to preserve its status as their agency and bar advertising and similar contracts. It said the aim was to have its status as the members' management company under the exclusive contracts recognized until the first-instance ruling in the contract-validity suit it filed on December 3, 2024, and to prevent the members from signing advertising contracts or doing advertising work on their own without its approval or consent. ADOR argued that continued market confusion from the members' independent moves would inevitably damage the brand value of NewJeans, its only artist, and that even if the contracts were upheld years later, the harm might be irreversible. It also conveyed industry concern that a precedent of declaring termination unilaterally and working independently without legal process would erode investment in the industry."
     },
     "credits": {
       "issuer": "ADOR",
-      "court": "Seoul Central District Court, Civil Division 50"
+      "court": "Seoul Central District Court"
     }
   },
   {
@@ -1058,6 +1061,7 @@
     },
     "source_url": "https://www.koreatimes.co.kr/entertainment/k-pop/20250207/k-pop-girl-group-newjeans-changes-team-name-to-njz-to-perform-at-hong-kong-concert-in-march",
     "reference_urls": [
+      "https://www.koreatimes.co.kr/entertainment/k-pop/20250207/k-pop-girl-group-newjeans-changes-team-name-to-njz-to-perform-at-hong-kong-concert-in-march",
       "https://www.koreajoongangdaily.com/entertainment/newjeans-or-njz-girl-group-changes-name-ahead-of-legal-battle/12403741",
       "https://v.daum.net/v/20250207105505062"
     ],
@@ -1069,10 +1073,10 @@
       "complexcon",
       "dispute"
     ],
-    "verified": false,
+    "verified": true,
     "note": "ADORは同日、法的判断の前に一方的に新名称を決めたことに遺憾を示し、メンバーや代理人といつでも面談する用意があると表明した。",
     "note_en": "The same day ADOR expressed regret that a new name had been decided unilaterally before any legal ruling, and said it was ready to meet the members or their representatives at any time.",
-    "editor_note": "No press conference: announced through Instagram (story/collab post with Complex) and a CNN interview. ADOR asked media on 02-10 to keep using 'NewJeans'. / No press conference: announced through Instagram (story/collab post with Complex) and a CNN interview (fan-suggestion origin per CNN, same day). Cut for length: Complex China CEO Bonnie Chan Woo's comment on the group's Y2K sound and retro style; the ComplexCon lineup also included Zico, B.I, Sik-K and Changmo. ADOR asked media on 02-10 to keep using 'NewJeans'.",
+    "editor_note": "No press conference: announced through Instagram (story/collab post with Complex) and a CNN interview. ADOR asked media on 02-10 to keep using 'NewJeans'. / No press conference: announced through Instagram (story/collab post with Complex) and a CNN interview (fan-suggestion origin per CNN, same day). Cut for length: Complex China CEO Bonnie Chan Woo's comment on the group's Y2K sound and retro style; the ComplexCon lineup also included Zico, B.I, Sik-K and Changmo. ADOR asked media on 02-10 to keep using 'NewJeans'. / 2026-10-24 nightly: Korea Times (published 2025-02-07 11:29 KST) confirms the NJZ name reveal on Friday 02-07, ComplexCon Hong Kong at AsiaWorld-Expo on March 21-23 as the first NJZ activity, and Minji's statement via the organizer.",
     "detail": {
       "ja": "メンバー5人がSNSで新名称「NJZ」を発表し、主催者のプレスリリースとともに、3月21〜23日に香港のアジアワールド・エキスポで開かれるComplexCon Hong Kongで新名称での初ステージに立つと告知した。ADORとの契約解除を宣言した後NewJeansの名称を使えなくなったことによるもので、名称はファンの提案から選ばれた。ミンジは主催者を通じて「NJZとして初めてステージに立ち、新しい音楽を共有できることにとても興奮している」とコメントした。ADORは法的判断の前にグループ名が公表されたことを非常に残念とし、NewJeansのブランド価値を守るとして、メンバーや代理人といつでも会う用意があると表明した。",
       "en": "The five members announced the new name 'NJZ' on social media and, with a press release from the organizer, announced their first stage under the name at ComplexCon Hong Kong at AsiaWorld-Expo on March 21-23. The change followed their declaration that the ADOR contracts had ended, after which they could not use the NewJeans name; the name was chosen from fan suggestions. Through the organizer Minji said she was very excited to be on stage for the first time as NJZ and to share new music. ADOR said it was very sorry that the group name was released before a legal judgment, pledged to protect NewJeans' brand value and said it was willing to meet the members or their lawyers at any time."
@@ -1098,7 +1102,10 @@
     },
     "source_url": "https://sports.khan.co.kr/article/202503071519003",
     "reference_urls": [
+      "https://sports.khan.co.kr/article/202503071519003",
       "https://m.seoul.co.kr/news/2025/03/07/20250307800005",
+      "https://www.segye.com/newsView/20250307510814",
+      "https://www.joynews24.com/view/1820913",
       "https://mobile.newsis.com/view/NISX20250306_0003088357"
     ],
     "media": {
@@ -1110,11 +1117,11 @@
       "hearing",
       "dispute"
     ],
-    "verified": false,
-    "editor_note": "Morning session per pre-report. First court proceeding since the termination declaration. | Sports Kyunghyang report does not mention CCTV footage; that element of the existing summary is unverified here. / Morning session per pre-report; source Sports Kyunghyang (2025-03-07). The earlier summary's claim that ADOR showed CCTV footage of the 'ignore her' incident is not in the Sports Kyunghyang report and is unverified, so it was removed from reader text. Cut for length: ADOR also argued that Hanni herself had initially called the remark no major issue and that Min had escalated it. First court proceeding bringing both sides together since the termination declaration (stated in summary).",
+    "verified": true,
+    "editor_note": "Morning session per pre-report. First court proceeding since the termination declaration. | Sports Kyunghyang report does not mention CCTV footage; that element of the existing summary is unverified here. / Morning session per pre-report; source Sports Kyunghyang (2025-03-07). The earlier summary's claim that ADOR showed CCTV footage of the 'ignore her' incident is not in the Sports Kyunghyang report and is unverified, so it was removed from reader text. Cut for length: ADOR also argued that Hanni herself had initially called the remark no major issue and that Min had escalated it. First court proceeding bringing both sides together since the termination declaration (stated in summary). / 2026-10-24 nightly: Corrected per Sports Kyunghyang, Seoul Shinmun, Segye and Joy News 24 (all 2025-03-07): ADOR disputed the 'ignore her' claim with footage of ILLIT greeting Hanni and Danielle and said Min Hee-jin escalated it (not 'the remark was directed at Min'); 21 billion won per Segye; Hanni's 'message' remark was written in her NJZ Instagram story, not told to reporters.",
     "detail": {
-      "ja": "ADORが申請した企画会社地位保全・広告契約締結禁止の仮処分の審問が、ソウル中央地裁民事合議50部（キム・サンフン首席部長判事）で開かれ、メンバー5人が出席した。ADOR側は「無視して」という発言はミン・ヒジン前代表に向けたものだったと主張し、210億ウォンを投資してきたとして差別の主張を否定した。メンバー側は、ADORとHYBEがメンバーを差別し別のグループに置き換えようとしたため解除は正当だと主張した。審問後、ハニは記者団に、自分で書いたメッセージの一部を切り取って意味を変えることはできないと話し、NJZのInstagramにもすべて覚えていると投稿した。",
-      "en": "The Seoul Central District Court's Civil Division 50 (presiding judge Kim Sang-hoon) heard ADOR's injunction application to preserve its agency status and bar advertising contracts, with the five members attending. ADOR's side argued that the 'ignore her' remark had been directed at former CEO Min Hee-jin, and rejected claims of discrimination by citing 21 billion won invested in the group. The members' side argued that ADOR and HYBE had discriminated against them and sought to replace them with another group, so termination was justified. After the hearing Hanni told reporters that part of a message she wrote herself could not be cut out to change its meaning, and posted on the NJZ Instagram that she remembered everything."
+      "ja": "ADORが申請した企画会社地位保全・広告契約締結禁止の仮処分の審問が、ソウル中央地裁民事合議50部（キム・サンフン首席部長判事）で開かれ、出席義務はないなかメンバー5人が出席した。ADOR側は、ILLITのマネージャーがハニを「無視して」と言ったという主張は事実ではないとして、ILLITのメンバーがハニとダニエルにあいさつする映像を示し、ミン・ヒジン前代表が問題を大きくしたと主張したうえで、210億ウォンを投資してきたとして差別の主張を否定した。メンバー側は、ADORとHYBEがメンバーを差別・排斥し別のグループに置き換えようとしたことが本質だとして、解除は正当だと主張した。審問後、ハニはNJZのInstagramストーリーで、すべて覚えている、法廷で言いたかったが我慢したと書き、自分が書いたメッセージの一部だけを切り取って意味を変えることはできないと訴えた。",
+      "en": "The Seoul Central District Court's Civil Division 50 (presiding judge Kim Sang-hoon) heard ADOR's injunction application to preserve its agency status and bar advertising contracts, with all five members attending although they were not required to. ADOR's side disputed the claim that an ILLIT manager had told others to 'ignore' Hanni, showing footage of ILLIT members greeting Hanni and Danielle and arguing that former CEO Min Hee-jin had escalated the matter, and rejected claims of discrimination by citing 21 billion won invested in the group. The members' side argued that the heart of the case was that ADOR and HYBE had discriminated against and excluded them and sought to replace them with another group, so termination was justified. After the hearing Hanni wrote in an NJZ Instagram story that she remembered everything and had held back from saying it in court, and that part of a message she herself had written could not be cut out to change its meaning."
     },
     "credits": {
       "court": "Seoul Central District Court, Civil Division 50 (presiding judge Kim Sang-hoon)"
@@ -1137,6 +1144,8 @@
     },
     "source_url": "https://isplus.com/article/view/isp202503210149",
     "reference_urls": [
+      "https://isplus.com/article/view/isp202503210149",
+      "https://isplus.com/article/view/isp202503210186",
       "https://mobile.newsis.com/view/NISX20250416_0003142174",
       "https://www.imaeil.com/page/view/2025032421152749602"
     ],
@@ -1148,10 +1157,10 @@
       "injunction",
       "dispute"
     ],
-    "verified": false,
+    "verified": true,
     "note": "裁判所は「無視して」事件、ILLITコピー疑惑、ミン・ヒジン解任のいずれも契約解除を正当化するほど疎明されていないと判断した。",
     "note_en": "The court found that none of the 'ignore her' incident, the ILLIT copying allegation or Min Hee-jin's dismissal had been shown to justify terminating the contracts.",
-    "editor_note": "Court press release not retrievable. Decision reported in the afternoon of 03-21. | Case number not given in the coverage; court press release not retrievable.",
+    "editor_note": "Court press release not retrievable. Decision reported in the afternoon of 03-21. | Case number not given in the coverage; court press release not retrievable. / 2026-10-24 nightly: Ilgan Sports (2025-03-21 14:19, 19:25) confirms Civil Division 50 granted ADOR's injunction on 03-21 and quotes the court's reasoning on breakdown of trust. Court press release still not retrieved.",
     "detail": {
       "ja": "ソウル中央地裁民事合議50部（キム・サンフン首席部長判事）は、ADORが申請した企画会社地位保全・広告契約締結等禁止の仮処分を全部認め、本案の1審判決まで、メンバーはADORの事前の承認・同意なしに自ら、またはADOR以外の第三者を通じて芸能活動をしてはならないとした。ADORは1月の申請後、作詞・作曲・歌唱などの音楽活動を含む芸能活動全般へと禁止の範囲を広げていた。裁判所は、信頼関係が壊れれば専属契約を解除できるが、終了を主張する側が維持の困難を疎明する必要があるとし、ミン・ヒジン前代表の解任だけでは制作が停滞したとは言えず、ADORに事業を遂行する計画や能力がないとも断定しがたいと判断した。メンバー側は2月6日にNJZの商標を出願し、3月23日のComplexCon香港で新曲を披露する予定だった。",
       "en": "The Seoul Central District Court's Civil Division 50 (presiding judge Kim Sang-hoon) granted in full ADOR's injunction to preserve its status as the members' agency and bar advertising and similar contracts, ordering that until the first-instance judgment in the main suit the members may not engage in entertainment activities on their own or through third parties without ADOR's prior approval or consent. After filing in January, ADOR had widened the application to all entertainment work, including writing lyrics, composing and singing. The court held that an artist may terminate an exclusive contract when trust breaks down, but the party claiming termination must show the relationship has become too difficult to maintain; it found that former CEO Min Hee-jin's dismissal alone did not show production had stalled and that it was hard to conclude ADOR lacked plans or ability to run the group's business. The members had filed a trademark application for NJZ on February 6 and planned to present a new song at ComplexCon Hong Kong on March 23."
@@ -1177,6 +1186,8 @@
     },
     "source_url": "https://twig24.com/news/entertainments/celebrity/2025/03/21/20250321500177",
     "reference_urls": [
+      "https://twig24.com/news/entertainments/celebrity/2025/03/21/20250321500177",
+      "https://isplus.com/article/view/isp202503210186",
       "https://www.newsis.com/view/NISX20250321_0003108288"
     ],
     "media": {
@@ -1187,8 +1198,8 @@
       "injunction",
       "dispute"
     ],
-    "verified": false,
-    "editor_note": "Statement issued the same afternoon (report 15:50). Instagram post URL not retrieved. / Removed source mention from reader text: Seoul Shinmun, 15:50 KST.",
+    "verified": true,
+    "editor_note": "Statement issued the same afternoon (report 15:50). Instagram post URL not retrieved. / Removed source mention from reader text: Seoul Shinmun, 15:50 KST. / 2026-10-24 nightly: Seoul Shinmun/twig24 (2025-03-21 15:50) reproduces the full statement posted to @njz_pr ('안녕하세요, NJZ입니다 ... 2025년 3월 7일 심문기일 이후 약 2주만에 ... 이의제기 절차'), matching the record; Ilgan Sports confirms the same-day statement. Instagram post URL itself not retrieved.",
     "detail": {
       "ja": "NJZ側が、メンバーの保護者が法的紛争に関する立場の発信に使うInstagramアカウント@njz_prで声明を出した。「法院の決定を尊重する」としつつ、決定はメンバーのADORへの信頼が完全に壊れたことを十分に考慮していないとし、3月7日の審問から約2週間で決定が出て事実を示す機会が足りなかったこと、関連情報の大半をADORとHYBEが持ち、圧力や報復を恐れて協力を断った人もいたことを挙げた。追加の論点と資料をそろえて異議を申し立て、4月3日の本案第1回弁論で契約の適法な解除を改めて主張するとし、人格を侮辱し成果を貶めた事務所とは金銭の問題とは別に共にできないと述べた。3月23日のComplexCon香港には、ファンや関係者に損害を与えないためやむを得ず出演を決めたとした。",
       "en": "NJZ's side issued a statement through the Instagram account @njz_pr, used by the members' parents to communicate their position on the legal dispute. It said they respected the court's decision but that it did not fully consider that the members' trust in ADOR had completely broken down, noting that the ruling came about two weeks after the March 7 hearing, leaving little chance to present the facts, and that most relevant information was held by ADOR and HYBE while some people had declined to cooperate out of fear of pressure or retaliation. NJZ said it would file an objection with additional arguments and materials, would again argue at the April 3 first hearing of the main suit that the contract was lawfully terminated, and could not work with an agency that had insulted their dignity and belittled their achievements, separate from financial matters. On the March 23 ComplexCon Hong Kong performance, they said they had reluctantly decided to take part so as not to harm fans and other stakeholders."

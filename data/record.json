@@ -2197,8 +2197,14 @@
     "tags": [
       "award"
     ],
-    "verified": false,
-    "editor_note": "Hanteo's official HMA 2023 site (awards.hanteo.com/2023/hma2023) is JS-only and Hanteo News has no reachable winners article for the 30th HMA; only Soompi/aggregators list Rookie of the Year (Female): NewJeans, Kep1er. Not contradicted."
+    "verified": true,
+    "editor_note": "Hanteo's official HMA 2023 site (awards.hanteo.com/2023/hma2023) is JS-only and Hanteo News has no reachable winners article for the 30th HMA; only Soompi/aggregators list Rookie of the Year (Female): NewJeans, Kep1er. Not contradicted. / 2026-10-24 nightly: Herald POP (2023-02-11 22:05, report on the 11th at Jamsil Arena) and Newsis (2023-02-11) list 올해의 루키상 = TNX, TEMPEST, Kep1er, NewJeans; Edaily (2023-02-12) describes the 30th-anniversary edition as an offline ceremony. The 'Female' split is per Soompi only. Hanteo's own site still JS-only.",
+    "reference_urls": [
+      "http://biz.heraldcorp.com/view.php?ud=202302111848175100904_1",
+      "http://www.newsis.com/view/?id=NISX20230211_0002189412",
+      "http://starin.edaily.co.kr/news/newspath.asp?newsid=01125046635509864",
+      "https://www.soompi.com/article/1566372wpp/winners-of-hanteo-music-awards-2022-day-2"
+    ]
   },
   {
     "id": "record-2023-02-11-hanteo-music-awards-30-whosfandom-nomination",
@@ -2231,7 +2237,7 @@
       "hanteo-music-awards"
     ],
     "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; WhosFandom bracket/candidate list not found."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; WhosFandom bracket/candidate list not found. / 2026-10-24 nightly: not confirmable. Korean coverage (Newsis, Herald POP, Edaily) lists only the WhosFandom winner (BTS); no official or press nominee list for the WhosFandom Award found (Hanteo site JS-only). Left unverified."
   },
   {
     "id": "record-2023-02-18-ccma-2022-global-digital-music-august-attention-nomination",
@@ -2267,7 +2273,7 @@
     "reference_urls": [
       "https://en.wikipedia.org/wiki/12th_Circle_Chart_Music_Awards"
     ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (12th Circle Chart Music Awards). Tirto.id (citing Soompi) dates the nominee reveal to 2022-12-18 but could not be fetched (blocked) and no Soompi/official nominee page was found."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (12th Circle Chart Music Awards). Tirto.id (citing Soompi) dates the nominee reveal to 2022-12-18 but could not be fetched (blocked) and no Soompi/official nominee page was found. / 2026-10-24 nightly: not confirmable. Edaily/Ilgan Sports winners lists give only BLACKPINK for the August-September digital award; no Circle Chart or press nominee list found (circlemusicawards.com holds only later editions). Left unverified."
   },
   {
     "id": "record-2023-02-18-ccma-2022-global-digital-music-august-hype-boy-nomination",
@@ -2303,7 +2309,7 @@
     "reference_urls": [
       "https://en.wikipedia.org/wiki/12th_Circle_Chart_Music_Awards"
     ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (12th Circle Chart Music Awards). Tirto.id (citing Soompi) dates the nominee reveal to 2022-12-18 but could not be fetched (blocked) and no Soompi/official nominee page was found."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (12th Circle Chart Music Awards). Tirto.id (citing Soompi) dates the nominee reveal to 2022-12-18 but could not be fetched (blocked) and no Soompi/official nominee page was found. / 2026-10-24 nightly: not confirmable. Edaily/Ilgan Sports winners lists give only BLACKPINK for the August-September digital award; no Circle Chart or press nominee list found. Left unverified."
   },
   {
     "id": "record-2023-02-18-ccma-2022-new-artist-physical-new-jeans-nomination",
@@ -2339,7 +2345,7 @@
     "reference_urls": [
       "https://en.wikipedia.org/wiki/12th_Circle_Chart_Music_Awards"
     ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (12th Circle Chart Music Awards). Tirto.id (citing Soompi) dates the nominee reveal to 2022-12-18 but could not be fetched (blocked) and no Soompi/official nominee page was found."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (12th Circle Chart Music Awards). Tirto.id (citing Soompi) dates the nominee reveal to 2022-12-18 but could not be fetched (blocked) and no Soompi/official nominee page was found. / 2026-10-24 nightly: not confirmable. Edaily (2023-02-18) confirms IVE won New Artist (album); no official or press nominee list showing New Jeans as a nominee found. Left unverified."
   },
   {
     "id": "record-2023-02-18-ccma-2022-rookie-digital",
@@ -2370,8 +2376,13 @@
     "tags": [
       "award"
     ],
-    "verified": false,
-    "editor_note": "circlemusicawards.com notice board only holds CCMA 2023 (Jan 2024) press releases; no 2022 winners release reachable. Not contradicted."
+    "verified": true,
+    "editor_note": "circlemusicawards.com notice board only holds CCMA 2023 (Jan 2024) press releases; no 2022 winners release reachable. Not contradicted. / 2026-10-24 nightly: Edaily (2023-02-18 22:58) winners list: 올해의 신인상 = 뉴진스(디지털 음원), 아이브(음반), ceremony on the 18th at KSPO Dome; Ilgan Sports (2023-02-19) body text agrees (NewJeans for 'Attention' digital, IVE album) though its appended list swaps them. Organiser release still not reachable.",
+    "reference_urls": [
+      "http://starin.edaily.co.kr/news/newspath.asp?newsid=01239846635511832",
+      "https://isplus.com/article/view/isp202302190012",
+      "https://www.soompi.com/article/1567185wpp/winners-of-the-circle-gaon-chart-music-awards"
+    ]
   },
   {
     "id": "record-2023-02-18-ditto-hot-100-peak-82",

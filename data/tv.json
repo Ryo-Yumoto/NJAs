@@ -1201,8 +1201,12 @@
       "ja": "SBSプリズムタワーでの『2022 SBS芸能大賞』で、『ゴール打つ女』のFCバラドリームと共に「Attention」を祝賀公演として披露。",
       "en": "NewJeans performed 'Attention' at the 2022 SBS Entertainment Awards, joined on stage by FC Balladream from Kick a Goal."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "source_url": "https://www.youtube.com/watch?v=eZDtpRgro-4",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=eZDtpRgro-4",
+      "https://ent.sbs.co.kr/news/article.do?article_id=E10010262653",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
     "media": {
       "type": "youtube",
       "ref": "eZDtpRgro-4"
@@ -1210,7 +1214,7 @@
     "tags": [
       "award-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "ソウル上岩のSBSプリズムタワーで開かれた『2022 SBS芸能大賞』で、祝賀公演として「Attention」を披露した。ステージにはSBS『ゴール打つ女』のチーム「FCバラドリーム」が加わった。",
       "en": "NewJeans performed 'Attention' as a celebratory stage at the 2022 SBS Entertainment Awards at SBS Prism Tower in Sangam, Seoul. They were joined by FC Balladream, the team from SBS's Kick a Goal (Gol-ttaerineun Geunyeodeul)."
@@ -1219,7 +1223,7 @@
       "broadcaster": "SBS",
       "venue": "SBS Prism Tower, Seoul"
     },
-    "editor_note": "Venue and collaboration per en.wikipedia live-performance list; no press article fetched. / 公式動画: SBS Entertainment「뉴진스×FC발라드림이 함께하는 초특급 콜라보 축하 무대! ＜Attention♪＞ #2022SBS연예대상 #SBSenter」(2022-12-17)",
+    "editor_note": "Venue and collaboration per en.wikipedia live-performance list; no press article fetched. / 公式動画: SBS Entertainment「뉴진스×FC발라드림이 함께하는 초특급 콜라보 축하 무대! ＜Attention♪＞ #2022SBS연예대상 #SBSenter」(2022-12-17) / 2026-10-24 nightly: SBS Entertainment official YouTube clip (2022-12-17 KST, 'broadcast 12-17 20:35') and SBS Entertainment News (2022-12-18 00:07) confirm the live broadcast from SBS Prism Tower, Sangam, and the 'Attention' collaboration with FC Balladream.",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=eZDtpRgro-4"
     }
@@ -1242,12 +1246,15 @@
       "ja": "高尺スカイドームでの『2022 SBS歌謡大典』で、第1部に「Attention」、第3部にWonder Girls「Tell Me」のリミックスカバーを披露。",
       "en": "At the 2022 SBS Gayo Daejeon, NewJeans performed 'Attention' in Part 1 and a remixed cover of Wonder Girls' 'Tell Me' in Part 3."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+    "source_url": "https://www.youtube.com/watch?v=VpI7WdNZSMs",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=VpI7WdNZSMs",
+      "https://www.youtube.com/watch?v=vEbPFhNSgzk",
       "https://www.youtube.com/watch?v=tjIU70YK4s8",
       "https://www.youtube.com/watch?v=vv6hmz-zYak",
       "https://www.youtube.com/watch?v=X058whXm-i8",
-      "https://www.youtube.com/watch?v=vEbPFhNSgzk"
+      "https://ent.sbs.co.kr/news/article.do?article_id=E10010261767",
+      "https://sports.donga.com/article/all/20221225/117152279/1"
     ],
     "media": {
       "type": "youtube",
@@ -1256,7 +1263,7 @@
     "tags": [
       "year-end"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "ソウルの高尺スカイドームで開かれた『2022 SBS歌謡大典』に出演し、第1部で「Attention」を披露、第3部ではWonder Girls「Tell Me」のリミックスをカバーした。SBSが19時30分から生中継。司会はSHINeeのキー、ASTROのチャ・ウヌ、IVEのアン・ユジン。",
       "en": "At the 2022 SBS Gayo Daejeon at Gocheok Sky Dome in Seoul, NewJeans performed 'Attention' in Part 1 and a remixed cover of Wonder Girls' 'Tell Me' in Part 3. SBS broadcast the show live from 7:30 pm KST, with Key (Shinee), Cha Eun-woo (Astro) and An Yu-jin (Ive) hosting."
@@ -1269,7 +1276,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=VpI7WdNZSMs"
     },
-    "editor_note": "公式動画: SBS Entertainment「뉴진스(NewJeans), 풋풋한 매력이 넘치는 무대 ＜Attention♬＞ #SBS가요대전 #SBSenter」(2022-12-24); 関連4本をreference_urlsに記載"
+    "editor_note": "公式動画: SBS Entertainment「뉴진스(NewJeans), 풋풋한 매력이 넘치는 무대 ＜Attention♬＞ #SBS가요대전 #SBSenter」(2022-12-24); 関連4本をreference_urlsに記載 / 2026-10-24 nightly: SBS Entertainment official clips (Attention, Tell Me; 2022-12-24 KST, live 19:30), SBS Entertainment News (2022-12-01: MCs Key, Cha Eun-woo, An Yu-jin; Gocheok Sky Dome) and Sports Donga (2022-12-25: NewJeans in Part 1, 'Tell Me' cover in Part 3) confirm the record."
   },
   {
     "id": "tv-2022-12-28-ntv-music-award-2022",
@@ -1289,8 +1296,11 @@
       "ja": "日本テレビ系の年間ミュージックアワード特番で「Attention」を披露した、日本のテレビでの初パフォーマンス。",
       "en": "NewJeans' first performance on Japanese television: 'Attention' on Nippon TV's year-end music award special."
     },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
+    "source_url": "https://www.oricon.co.jp/news/2261529/full/",
     "reference_urls": [
+      "https://www.oricon.co.jp/news/2261529/full/",
+      "https://www.newsis.com/view/?id=NISX20221229_0002141467",
+      "https://ja.wikipedia.org/wiki/NewJeans",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
@@ -1299,7 +1309,7 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "ホテルニューオータニ幕張から19時に日本テレビ系で生放送された『発表！今年イチバン聴いた歌～年間ミュージックアワード2022～』に出演し、「Attention」を披露した。ストリーミングデータをもとにApple Musicの2022年トップソング100を発表する番組で、NewJeansにとって日本のテレビでの初パフォーマンスだった。",
       "en": "NewJeans performed 'Attention' on Nippon TV's year-end special Happyo! Kotoshi Ichiban Kiita Uta: Nenkan Music Award 2022, broadcast live from 7 pm from Hotel New Otani Makuhari. The program counts down Apple Music's top 100 songs of 2022 based on streaming data, and this was the group's first performance on Japanese television."
@@ -1311,7 +1321,7 @@
         "en": "Happyo! Kotoshi Ichiban Kiita Uta: Nenkan Music Award 2022 (Announced! The Most-Listened Songs of the Year: Annual Music Award 2022)"
       }
     },
-    "editor_note": "公式YouTube動画なし: NTV does not publish performance clips on YouTube; no official upload found",
+    "editor_note": "公式YouTube動画なし: NTV does not publish performance clips on YouTube; no official upload found / 2026-10-24 nightly: ORICON NEWS (2022-12-21) gives the 12-28 19:00-23:24 live broadcast from Hotel New Otani Makuhari, the Apple Music chart basis and NewJeans' first Japanese TV performance; Newsis (2022-12-29) reports they performed 'Attention' on the 28th. NTV programme page not located.",
     "image": {
       "url": "https://cdn.livedoor.jp/kstyle/b7a7f5da37b61b27caaa25dcdc0ae214.jpg",
       "source_url": "https://kstyle.com/article.ksn?articleNo=2208664"
@@ -1335,8 +1345,12 @@
       "ja": "『OMG』発売翌日にSBSパワーFM『チェ・ファジョンのパワータイム』へ5人で出演し、反響の実感やMVの解釈、初精算の使い道を語った。",
       "en": "All five members on Choi Hwa-jung's Power Time the day after OMG's release, talking about their reception, the music video and their first earnings."
     },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "source_url": "https://www.youtube.com/watch?v=8J8m1xU02M0",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=8J8m1xU02M0",
+      "https://m.entertain.naver.com/article/001/0013680112",
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
     "media": {
       "type": "youtube",
       "ref": "8J8m1xU02M0"
@@ -1344,7 +1358,7 @@
     "tags": [
       "radio"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "前日に発売したシングルアルバム『OMG』の宣伝として、5人全員がSBSパワーFM『チェ・ファジョンのパワータイム』に午後出演した。DJチェ・ファジョンの質問に、メンバーはデビュー後の反響を予想していなかったと答え、ヘインは「OMG」のミュージックビデオの意味の解釈は視聴者に委ねたいと述べた。ほかに「Hype Boy」チャレンジへの反応や1位公約、初精算の使い道などが話題になった。",
       "en": "All five members appeared on Choi Hwa-jung's Power Time on SBS Power FM in the afternoon to promote the single album OMG, released the day before. Asked by DJ Choi Hwa-jung whether they had expected their reception, the members said they had not, and Hyein said the group wanted to leave the meaning of the 'OMG' music video open to viewers. Other topics included fan 'Hype Boy' challenge videos, a first-place pledge and how they spent their first earnings."
@@ -1357,7 +1371,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=8J8m1xU02M0"
     },
-    "editor_note": "公式動画: SBS Radio 에라오「[FULL] OMG👀!! The \"God-babies\"🐰NewJeans🐰 visited Choi Pa Ta | Choi Hwa-jung's Power Time | 01/03/23」(2023-01-03)"
+    "editor_note": "公式動画: SBS Radio 에라오「[FULL] OMG👀!! The \"God-babies\"🐰NewJeans🐰 visited Choi Pa Ta | Choi Hwa-jung's Power Time | 01/03/23」(2023-01-03) / 2026-10-24 nightly: SBS Radio official YouTube full video (2023-01-03 KST; description: broadcast 2023-01-03, Power Time 12-2 PM, OMG released the day before) and Yonhap (via Naver, 2023-01-03) on the members' remarks about the MV interpretation."
   },
   {
     "id": "tv-2023-01-04-sbs-radio-kim-young-chul",
@@ -1378,8 +1392,11 @@
       "ja": "ミンジとダニエルがSBSパワーFMの朝の番組『キム・ヨンチョルのパワーFM』に出演した、『OMG』発売週2日目のラジオ出演。",
       "en": "Minji and Danielle on Kim Young-chul's Power FM, the second radio visit of the OMG release week."
     },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "source_url": "https://www.youtube.com/watch?v=Mq5tzsjjFf4",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=Mq5tzsjjFf4",
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
     "media": {
       "type": "youtube",
       "ref": "Mq5tzsjjFf4"
@@ -1387,17 +1404,17 @@
     "tags": [
       "radio"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "ミンジとダニエルがSBSパワーFMの朝の番組『キム・ヨンチョルのパワーFM』に出演した。お笑い芸人キム・ヨンチョルが進行する平日午前7時台の番組で、前日の『チェ・ファジョンのパワータイム』に続く『OMG』発売週のラジオ出演だった。",
-      "en": "Minji and Danielle appeared on Kim Young-chul's Power FM, the weekday 7 am program on SBS Power FM hosted by comedian Kim Young-chul. It followed the full group's visit to Choi Hwa-jung's Power Time the day before, during the OMG release week."
+      "ja": "ミンジとダニエルがSBSパワーFMの朝の番組『キム・ヨンチョルのパワーFM』に出演した。お笑い芸人キム・ヨンチョルが進行する毎朝7時から9時の番組で、前日の『チェ・ファジョンのパワータイム』に続く『OMG』発売週のラジオ出演だった。",
+      "en": "Minji and Danielle appeared on Kim Young-chul's Power FM, the daily 7-9 am program on SBS Power FM hosted by comedian Kim Young-chul. It followed the full group's visit to Choi Hwa-jung's Power Time the day before, during the OMG release week."
     },
     "credits": {
       "broadcaster": "SBS Power FM",
       "program": "Kim Young-chul's Power FM",
       "dj": "Kim Young-chul"
     },
-    "editor_note": "Date and members per ja.wikipedia radio table; no contemporaneous article found. / 公式動画: SBS Radio 에라오「[FULL] Oh my oh my God🤭 OMG 하게 되는 뉴진스(NewJeans) 민지, 다니엘 보는 라디오 | 김영철의 파워FM | 230104」(2023-01-03)",
+    "editor_note": "Date and members per ja.wikipedia radio table; no contemporaneous article found. / 公式動画: SBS Radio 에라오「[FULL] Oh my oh my God🤭 OMG 하게 되는 뉴진스(NewJeans) 민지, 다니엘 보는 라디오 | 김영철의 파워FM | 230104」(2023-01-03) / 2026-10-24 nightly: SBS Radio official YouTube full video (2023-01-04 KST; title '민지, 다니엘 ... 230104'; description: broadcast 2023-01-04, daily 7-9 AM). 'Weekday' corrected to daily per the description.",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=Mq5tzsjjFf4"
     }
@@ -1420,13 +1437,16 @@
       "ja": "バンコクの第37回ゴールデンディスクアワードで新人賞とデジタル音源部門本賞を受賞し、オープニングで「OMG」を初披露。",
       "en": "NewJeans won Rookie of the Year and a Digital Song Bonsang at the 37th Golden Disc Awards in Bangkok, opening the show with the first-ever performance of 'OMG'."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+    "source_url": "https://www.youtube.com/watch?v=pXV-dJfu8JI",
     "reference_urls": [
-      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=pXV-dJfu8JI",
       "https://www.youtube.com/watch?v=j9h3jWNaKNY",
       "https://www.youtube.com/watch?v=WyZERuR-bXs",
       "https://www.youtube.com/watch?v=hBlaM7Wvt-c",
-      "https://www.youtube.com/watch?v=Q3sF0lV4nww"
+      "https://www.youtube.com/watch?v=Q3sF0lV4nww",
+      "https://www.mk.co.kr/article/10597672",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://ja.wikipedia.org/wiki/NewJeans"
     ],
     "media": {
       "type": "youtube",
@@ -1435,7 +1455,7 @@
     "tags": [
       "award-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "タイ・バンコクのラジャマンガラ・スタジアムで開かれた第37回ゴールデンディスクアワードで、新人賞（IVE、LE SSERAFIMと同時受賞）とデジタル音源部門本賞（「Attention」）を受賞した。「Attention」はデジタル音源大賞にもノミネートされていた。オープニングの1番手として、チアリーディング風のイントロ、新アレンジの「Attention（Golden Disc ver.）」「Hype Boy」、初披露となる「OMG」を続けて披露した。司会はソン・シギョン、イ・ダヒ、ニックン、パク・ソダム。韓国ではJTBC、日本ではTBSとParaviで放送・配信された。",
       "en": "At the 37th Golden Disc Awards at Rajamangala Stadium in Bangkok, NewJeans won Rookie Artist of the Year (shared with Ive and Le Sserafim) and a Digital Song Bonsang for 'Attention', which was also nominated for the Digital Daesang. Opening the show, they performed a cheerleading-style intro, a newly arranged Golden Disc version of 'Attention', 'Hype Boy' and the first-ever performance of 'OMG'. Sung Si-kyung, Lee Da-hee, Nichkhun and Park So-dam hosted, and the ceremony aired on JTBC in Korea and on TBS and Paravi in Japan."
@@ -1448,7 +1468,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=pXV-dJfu8JI"
     },
-    "editor_note": "公式動画: Golden Disc「[제37회 골든디스크] NewJeans - 'Opening + Attention (Golden Disc ver.) + Hype Boy + OMG' ♪｜JTBC 230107 방송」(2023-01-07); 関連4本をreference_urlsに記載"
+    "editor_note": "公式動画: Golden Disc「[제37회 골든디스크] NewJeans - 'Opening + Attention (Golden Disc ver.) + Hype Boy + OMG' ♪｜JTBC 230107 방송」(2023-01-07); 関連4本をreference_urlsに記載 / 2026-10-24 nightly: Golden Disc official YouTube clips (2023-01-07 KST: rookie award, digital bonsang, 'Opening + Attention (Golden Disc ver.) + Hype Boy + OMG') and Star Today/MK (2023-01-07 20:22: Rajamangala Stadium, hosts Lee Da-hee, Sung Si-kyung, Park So-dam, Nichkhun, first OMG stage). Japanese broadcast (TBS/Paravi) not separately checked."
   },
   {
     "id": "tv-2023-01-07-music-core-ditto-win",

@@ -2782,7 +2782,7 @@
       "pop-up"
     ],
     "verified": false,
-    "editor_note": "Sweet Mall category page (cate_no=1271) still carries the title '뉴진스 x 빼빼로 스페셜 에디션' but its products are no longer listed; a product review dated 2023-11-12 confirms sale. Plan announced 2023-09-01 (Money Today), edition confirmed for 'this year' by Seoul Economic Daily 2023-10-05; pop-up details from Money S (sidae) 2023-10-21. Exact release day not found, hence month precision. Matching campaign record: ad-2023-09-01-lotte-wellfood-pepero-model. / No packshot of the edition with a verified direct URL found; Sweet Mall product pages have been removed. / 2026-10-24 nightly: ロッテウェルフード スイートモール公式の企画展ページ（cate_no=1271、題名「뉴진스 x 빼빼로 스페셜 에디션」）は取得できたが、商品・発売日の記載はなく発売月を確認できず。ロッテウェルフード公式の発売告知も見つからず。",
+    "editor_note": "Sweet Mall category page (cate_no=1271) still carries the title '뉴진스 x 빼빼로 스페셜 에디션' but its products are no longer listed; a product review dated 2023-11-12 confirms sale. Plan announced 2023-09-01 (Money Today), edition confirmed for 'this year' by Seoul Economic Daily 2023-10-05; pop-up details from Money S (sidae) 2023-10-21. Exact release day not found, hence month precision. Matching campaign record: ad-2023-09-15-lotte-wellfood-pepero-model. / No packshot of the edition with a verified direct URL found; Sweet Mall product pages have been removed. / 2026-10-24 nightly: ロッテウェルフード スイートモール公式の企画展ページ（cate_no=1271、題名「뉴진스 x 빼빼로 스페셜 에디션」）は取得できたが、商品・発売日の記載はなく発売月を確認できず。ロッテウェルフード公式の発売告知も見つからず。",
     "local_assets": [
       "goods/goods-2023-10-01-newjeans-x-pepero-special-edition/01.jpg"
     ],
@@ -4192,8 +4192,12 @@
       "ja": "ヴィンテージのレコードショップに見立てた「How Sweet」ポップアップ。初日の予約枠は20分足らずで埋まった。",
       "en": "The 'How Sweet' pop-up dressed as a vintage record shop; first-day reservation slots filled in under 20 minutes."
     },
-    "source_url": "https://www.koreajoongangdaily.com/entertainment/newjeans-to-open-pop-up-store-for-latest-single-how-sweet/12268275",
-    "reference_urls": [],
+    "source_url": "https://linefriendssquare.com/blogs/event/newjeans-howsweet",
+    "reference_urls": [
+      "https://linefriendssquare.com/blogs/event/newjeans-howsweet",
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-to-open-pop-up-store-for-latest-single-how-sweet/12268275",
+      "https://snkrdunk.com/en/magazine/2024/05/27/line-friends-newjeans-pop-up-how-sweet-supernatural-takashi-murakami-hiroshi-fujiwara/"
+    ],
     "media": {
       "type": "none"
     },
@@ -4203,8 +4207,8 @@
       "line-friends",
       "how-sweet"
     ],
-    "verified": false,
-    "editor_note": "Secondary source (Korea JoongAng Daily 2024-05-31). | Secondary sources (Korea JoongAng Daily; heyPOP/Insight via search summary); no prices found. / Dates, concept and entry from Korea JoongAng Daily (2024-05-31); item list and reservation sell-out from Korean coverage (heyPOP/Insight via search summary); no prices found. Press framing removed. / cover = key visual of LINE FRIENDS SQUARE's official 'How Sweet' pop-up page (3840x5000); items = products of its showcase lineup collection still published (21, names as listed, Korean)",
+    "verified": true,
+    "editor_note": "Secondary source (Korea JoongAng Daily 2024-05-31). | Secondary sources (Korea JoongAng Daily; heyPOP/Insight via search summary); no prices found. / Dates, concept and entry from Korea JoongAng Daily (2024-05-31); item list and reservation sell-out from Korean coverage (heyPOP/Insight via search summary); no prices found. Press framing removed. / cover = key visual of LINE FRIENDS SQUARE's official 'How Sweet' pop-up page (3840x5000); items = products of its showcase lineup collection still published (21, names as listed, Korean) / 2026-10-24 nightly: LINE FRIENDS SQUARE official event page (published 2024-05-30) gives 'How Sweet POP-UP Store, LINE FRIENDS SQUARE SINSA, 2024.6.5 - 6.17, 12PM-8PM', online pre-registration 5/31-6/7 and on-site reservation from 6/8, new products from 6/5 11AM.",
     "detail": {
       "ja": "IPX（旧LINE FRIENDS）と共同で、ソウル江南区のLINE FRIENDS SQUARE新沙店で6月17日まで開いたポップアップ。楽曲に合わせたヴィンテージのレコードショップをコンセプトに、キーリング、人形、バッグ、ポーチ、傘などを販売し、入場はオンライン事前登録か現地登録。商品にはbuniniのプラッシュキーリングやサウンドキーリング、ラビットストリングバッグとファーリーバニーキーリングの「NewJeans COLLERエディション」、フォトカード、パワーパフガールズ版Tシャツ、スマートトックがあり、初日の事前予約枠は20分足らずで埋まった。商品は釜山や台湾、タイ、マレーシア、インドネシア、中国、米国などのLINE FRIENDS店舗でも順次販売される予定だった。",
       "en": "A joint pop-up with IPX (formerly LINE FRIENDS) at LINE FRIENDS SQUARE Sinsa in Gangnam, Seoul, running until June 17. Themed as a vintage record shop to match the single, it sold keyrings, dolls, bags, pouches, umbrellas and more, with entry by online pre-registration or on-site sign-up. Items included bunini plush and sound keyrings, a 'NewJeans COLLER edition' rabbit string bag and furry bunny keyring, photocards, Powerpuff Girls-version T-shirts and smart toks, and the first day's reservation slots filled in under 20 minutes. The merchandise was to roll out to LINE FRIENDS stores in Busan, Taiwan, Thailand, Malaysia, Indonesia, China, the US and elsewhere."
@@ -4506,8 +4510,11 @@
     "credits": {
       "brand": "KRAFTON (PUBG: BATTLEGROUNDS)"
     },
-    "source_url": "https://www.oneesports.gg/pubg/pubg-newjeans-collaboration-release-date",
+    "source_url": "https://www.youtube.com/watch?v=4V5N4RmaKBI",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=4V5N4RmaKBI",
+      "https://www.youtube.com/watch?v=k60yZ_pM_SM",
+      "https://www.oneesports.gg/pubg/pubg-newjeans-collaboration-release-date",
       "https://primagames.com/tips/how-to-get-pubg-x-newjeans-tokens-in-pubg",
       "https://koreaproductpost.com/pubg-battleground-x-newjeans-krafton-collab-skins-event/"
     ],
@@ -4528,8 +4535,8 @@
       "game",
       "digital-item"
     ],
-    "verified": false,
-    "editor_note": "KRAFTON's official release (krafton.com, 2024-06-03) returned 403; item list from ONE Esports (2024-06-12), token/crafting mechanics from Prima Games guides. Matching campaign record: ad-2024-06-12-krafton-pubg-collab.",
+    "verified": true,
+    "editor_note": "KRAFTON's official release (krafton.com, 2024-06-03) returned 403; item list from ONE Esports (2024-06-12), token/crafting mechanics from Prima Games guides. Matching campaign record: ad-2024-06-12-krafton-pubg-collab. / 2026-10-24 nightly: PUBG: BATTLEGROUNDS official YouTube: collaboration film (2024-06-08 KST) gives 'PC: June 12th / Console: June 20th Update'; skin collection video (2024-06-17 KST) gives Workshop Special Crafting until PC July 15 / console July 23 (UTC). Item list per ONE Esports.",
     "local_assets": [
       "goods/goods-2024-06-12-pubg-newjeans-collaboration-items/01.jpg",
       "goods/goods-2024-06-12-pubg-newjeans-collaboration-items/02.jpg"
@@ -4662,10 +4669,12 @@
       "ja": "村上隆と藤原ヒロシのコラボグッズを扱った明洞の「Supernatural」ポップアップ。事前予約は5分足らずで埋まった。",
       "en": "The Myeongdong 'Supernatural' pop-up with Takashi Murakami and Hiroshi Fujiwara collaboration goods; reservations filled in under five minutes."
     },
-    "source_url": "https://www.marieclairekorea.com/celebrity/2024/07/newjeans-linefriends",
+    "source_url": "https://linefriendssquare.com/blogs/event/newjeans-supernatural",
     "reference_urls": [
-      "https://snkrdunk.com/en/magazine/2024/03/28/newjeans-takashi-murakami-hyein-seo-bunnies-camp-tokyo-dome-hanni-danielle-minji-haerin/",
-      "https://www.marieclairekorea.com/celebrity/2024/05/fujiwara-hiroshi-newjeans"
+      "https://linefriendssquare.com/blogs/event/newjeans-supernatural",
+      "https://www.marieclairekorea.com/celebrity/2024/07/newjeans-linefriends",
+      "https://www.marieclairekorea.com/celebrity/2024/05/fujiwara-hiroshi-newjeans",
+      "https://snkrdunk.com/en/magazine/2024/03/28/newjeans-takashi-murakami-hyein-seo-bunnies-camp-tokyo-dome-hanni-danielle-minji-haerin/"
     ],
     "media": {
       "type": "none"
@@ -4678,8 +4687,8 @@
       "fujiwara-hiroshi",
       "supernatural"
     ],
-    "verified": false,
-    "editor_note": "Secondary sources (Marie Claire Korea, SNKRDUNK). | Secondary sources (Korea JoongAng Daily 2024-06-20, Marie Claire Korea 2024-07-01); no prices found. / Secondary sources: Korea JoongAng Daily (2024-06-20) for the opening, reservations and collaborator roles; Marie Claire Korea (2024-07-01) for the reservation sell-out, item list and Murakami's visit; no prices found. Press framing removed. / cover = key visual of LINE FRIENDS SQUARE's official 'Supernatural' pop-up page (Myeongdong, 3840x5000); items = still-published products of its Supernatural (6) and MURAKAMI (9) showcase collections; the Fujiwara showcase collection is empty",
+    "verified": true,
+    "editor_note": "Secondary sources (Marie Claire Korea, SNKRDUNK). | Secondary sources (Korea JoongAng Daily 2024-06-20, Marie Claire Korea 2024-07-01); no prices found. / Secondary sources: Korea JoongAng Daily (2024-06-20) for the opening, reservations and collaborator roles; Marie Claire Korea (2024-07-01) for the reservation sell-out, item list and Murakami's visit; no prices found. Press framing removed. / cover = key visual of LINE FRIENDS SQUARE's official 'Supernatural' pop-up page (Myeongdong, 3840x5000); items = still-published products of its Supernatural (6) and MURAKAMI (9) showcase collections; the Fujiwara showcase collection is empty / 2026-10-24 nightly: LINE FRIENDS SQUARE official event page (published 2024-06-20) gives 'Supernatural POP-UP Store, LINE FRIENDS SQUARE MYEONGDONG, 2024.6.26 - 7.10, 11AM-9PM', pre-reservation from 6/21 11AM, on-site reservation 6/29-7/10 from 10AM.",
     "detail": {
       "ja": "「Supernatural」ポップアップはソウル明洞と東京渋谷で同時に開き、入場予約はシングル発売の2時間前、6月21日11時に始まった。村上隆はNJ Tokkiと自身のフラワーを組み合わせたキャラクターとメンバー別の新キャラクター（IPXが補正）を手がけ、藤原ヒロシの手書きロゴはTシャツ、バンダナ、キャップ、バッグに使われた。明洞の事前予約は5分足らずで埋まり、村上隆のプラッシュキーリング、クッション、アクリルスマートトック、ボールペン、Binky Bong用デコパーツ、帽子、Tシャツ、バッグ、ポーチ、バッジなどを販売。初日は村上隆本人が来店し、ミン・ヒジン代表と写真に収まった。会期は7月10日までで、現地の入場予約は10時から。",
       "en": "The 'Supernatural' pop-ups opened simultaneously in Myeong-dong, Seoul, and Shibuya, Tokyo, with entry reservations opening on June 21 at 11:00, two hours before the single's release. Takashi Murakami created a character merging NJ Tokki with his flower and new per-member characters (retouched by IPX), and Hiroshi Fujiwara's handwritten logos appeared on T-shirts, bandanas, caps and bags, alongside keyrings, cushions, pouches and badges. Myeongdong reservations filled in under five minutes; the shop sold Murakami plush keyrings, cushions, acrylic smart toks, ballpoint pens, Binky Bong decoration parts, hats, T-shirts and bags. Murakami visited on opening day and was photographed with Min Hee-jin. The run lasted until July 10, with on-site entry reservations from 10 AM."
@@ -4793,7 +4802,9 @@
     },
     "source_url": "https://www.fashionsnap.com/article/2024-06-26/linefriends-newjeans/",
     "reference_urls": [
+      "https://www.fashionsnap.com/article/2024-06-26/linefriends-newjeans/",
       "https://www.timeout.jp/tokyo/ja/news/line-friends-square-shibuya-062724",
+      "https://linefriendssquare.us/blogs/collections/newjeans-x-hiroshi-fujiwara",
       "https://snkrdunk.com/en/magazine/2024/03/28/newjeans-takashi-murakami-hyein-seo-bunnies-camp-tokyo-dome-hanni-danielle-minji-haerin/"
     ],
     "media": {
@@ -4808,8 +4819,8 @@
       "supernatural",
       "japan"
     ],
-    "verified": false,
-    "editor_note": "Secondary sources (Fashionsnap, Time Out Tokyo). | Fashionsnap and Time Out Tokyo read directly; no NewJeans item prices found. / From Fashionsnap (2024-06-26) and Time Out Tokyo (2024-06-27), read directly; no NewJeans item prices found. Press framing removed; store address, floor area and opening hours trimmed from detail.ja for length. / cover only: LINE FRIENDS' 'NEWJEANS SUPERNATURAL SPECIAL EDITION' key visual (870x1127) from its official blog, not a Shibuya-specific poster; no official Shibuya item list found",
+    "verified": true,
+    "editor_note": "Secondary sources (Fashionsnap, Time Out Tokyo). | Fashionsnap and Time Out Tokyo read directly; no NewJeans item prices found. / From Fashionsnap (2024-06-26) and Time Out Tokyo (2024-06-27), read directly; no NewJeans item prices found. Press framing removed; store address, floor area and opening hours trimmed from detail.ja for length. / cover only: LINE FRIENDS' 'NEWJEANS SUPERNATURAL SPECIAL EDITION' key visual (870x1127) from its official blog, not a Shibuya-specific poster; no official Shibuya item list found / 2026-10-24 nightly: No LINE Friends Japan press release found (PR TIMES search empty); FASHIONSNAP (2024-06-26 12:36 JST, on-site report) confirms the 06-26 opening, 990 m2 three floors, Japan-only NewJeans x Hiroshi Fujiwara items, Murakami/Min Hee-jin visit and the pop-up period to 07-15, hours 11:00-20:00.",
     "detail": {
       "ja": "ラインフレンズジャパンが渋谷・公園通り（神南1-19-10 PARKWAY SQUARE 2）に開業した3フロア約990㎡の旗艦店の第1弾コラボで、7月15日まで開催した。2階では日本限定の「NewJeans × Hiroshi Fujiwara」のTシャツ、バンダナ、帽子、バッグとbuniniグッズ、「パワーパフガールズ × NJ」アイテムを扱い、事前予約制の地下1階メディアゾーンでは12台のプロジェクターでMVとメンバーのコメント映像を流し、村上隆とのコラボ商品を販売した。開店前に村上隆とミン・ヒジンが来店し、村上は準備期間中、ミン・ヒジンと毎日LINEでやり取りしたと話した。営業は11時〜20時。",
       "en": "LINE Friends Japan opened its three-floor flagship of about 990 square metres on Koen-dori (1-19-10 Jinnan, PARKWAY SQUARE 2) with the 'NewJeans Supernatural POP-UP' as its first collaboration, running until July 15. The second floor carried Japan-exclusive 'NewJeans x Hiroshi Fujiwara' T-shirts, bandanas, hats and bags plus bunini goods and 'Powerpuff Girls x NJ' items; the reservation-only basement media zone screened music videos and member comment videos on twelve projectors and sold the Takashi Murakami collaboration items. Murakami and Min Hee-jin visited before opening, and Murakami said he had exchanged LINE messages with Min every day during preparation. Hours were 11:00 to 20:00."
@@ -4914,15 +4925,19 @@
       "all"
     ],
     "title": {
-      "ja": "NewJeans × 村上隆 コラボグッズ LINE FRIENDS SQUARE Online 再入荷予約",
-      "en": "NewJeans x Murakami collab goods restock pre-order (LINE FRIENDS SQUARE Online)"
+      "ja": "「Supernatural」ポップアップグッズ LINE FRIENDS SQUARE Online プリオーダー",
+      "en": "'Supernatural' pop-up merch pre-order (LINE FRIENDS SQUARE Online)"
     },
     "summary": {
-      "ja": "明洞と渋谷のポップアップで売られたNewJeans × 村上隆コレクションの一部を、LINE FRIENDS SQUARE Onlineで再入荷予約した。",
-      "en": "Part of the NewJeans x Murakami collection from the Myeongdong and Shibuya pop-ups, restocked for pre-order online."
+      "ja": "ポップアップで好評だった「NewJeans Supernatural POP-UP」のグッズを、村上隆コラボを含めLINE FRIENDS SQUARE Onlineで3日間プリオーダー販売した。",
+      "en": "The 'NewJeans Supernatural POP-UP' merch, including the Takashi Murakami collaboration, went on a three-day pre-order at LINE FRIENDS SQUARE Online."
     },
-    "source_url": "https://snkrdunk.com/en/magazine/2024/03/28/newjeans-takashi-murakami-hyein-seo-bunnies-camp-tokyo-dome-hanni-danielle-minji-haerin/",
-    "reference_urls": [],
+    "source_url": "https://www.instagram.com/p/C8vkul7PNaY/",
+    "reference_urls": [
+      "https://www.instagram.com/p/C8vkul7PNaY/",
+      "https://linefriendssquare.com/collections/nj_showcase_murakami",
+      "https://snkrdunk.com/en/magazine/2024/03/28/newjeans-takashi-murakami-hyein-seo-bunnies-camp-tokyo-dome-hanni-danielle-minji-haerin/"
+    ],
     "media": {
       "type": "none"
     },
@@ -4931,11 +4946,11 @@
       "murakami",
       "collab"
     ],
-    "verified": false,
-    "editor_note": "Secondary source (SNKRDUNK). | Second restock round (2024-07-17 to 07-19) removed from the summary as later than this record's date. | Secondary source (SNKRDUNK); LINE FRIENDS post not fetched. | removed from reader text: [detail.ja] 価格は確認できていない。 [detail.en] Prices were not confirmed. / From SNKRDUNK's update of 2024-06-28 (secondary), which cites a LINE FRIENDS announcement post not fetched here; prices not confirmed. A second restock round (2024-07-17 to 07-19) stays out of reader text as later than the record date. / LINE FRIENDS SQUARE (KR online) NewJeans x MURAKAMI showcase collection; items = the 9 still-published products; which items were in the restock is not stated officially; cover = first product",
+    "verified": true,
+    "editor_note": "Secondary source (SNKRDUNK). | Second restock round (2024-07-17 to 07-19) removed from the summary as later than this record's date. | Secondary source (SNKRDUNK); LINE FRIENDS post not fetched. | removed from reader text: [detail.ja] 価格は確認できていない。 [detail.en] Prices were not confirmed. / From SNKRDUNK's update of 2024-06-28 (secondary), which cites a LINE FRIENDS announcement post not fetched here; prices not confirmed. A second restock round (2024-07-17 to 07-19) stays out of reader text as later than the record date. / LINE FRIENDS SQUARE (KR online) NewJeans x MURAKAMI showcase collection; items = the 9 still-published products; which items were in the restock is not stated officially; cover = first product / 2026-10-24 nightly: Official announcement found via SNKRDUNK's link: Instagram oEmbed of @linefriends_square p/C8vkul7PNaY (2024-06-28 11:54 KST): '[July 1st, 2PM OPEN] NewJeans Supernatural POP-UP MERCH PRE-ORDER NOTICE ... July 1st, 2PM - July 3rd, 6PM (KST) ... two per product ... shipping early September ... US, Japan, China separate sales'. Title/summary/detail aligned with the official wording (pop-up merch pre-order, not a Murakami-only restock); start time fixed to July 1 14:00.",
     "detail": {
-      "ja": "初回発売で入手できなかったファンに向けて、NewJeans × 村上隆コレクションの一部商品が再入荷され、LINE FRIENDS SQUARE Onlineで14時から7月3日18時（KST）まで予約を受け付けた。対象は6月26日からLINE FRIENDS SQUARE明洞・渋谷のポップアップで販売されていたぬいぐるみ、アパレル、フラワーモチーフのアイテムなど。",
-      "en": "Selected NewJeans x Takashi Murakami items were restocked for fans who missed the initial launch, with LINE FRIENDS SQUARE Online taking pre-orders from 14:00 until 18:00 on July 3 (KST). They were items sold from June 26 at the LINE FRIENDS SQUARE Myeongdong and Shibuya pop-ups, including plush toys, apparel and Murakami flower pieces."
+      "ja": "LINE FRIENDS SQUAREが、ポップアップとオンラインストアで好評だった「NewJeans Supernatural POP-UP」のグッズのプリオーダーを、7月1日14時から3日18時（KST）までLINE FRIENDS SQUARE Onlineで受け付けた。6月26日からの明洞・渋谷のポップアップで扱われた村上隆とのコラボ商品も対象で、購入は1商品につき2点まで、発送は9月初めの予定とされた。米国・日本・中国など一部の地域では別途販売するとした。",
+      "en": "LINE FRIENDS SQUARE took pre-orders for the 'NewJeans Supernatural POP-UP' merch, popular at the pop-ups and online store, on LINE FRIENDS SQUARE Online from 14:00 on July 1 until 18:00 on July 3 (KST). Items included the Takashi Murakami collaboration pieces sold at the Myeongdong and Shibuya pop-ups from June 26; purchases were limited to two per product and shipping was expected to start in early September. Some regions, including the United States, Japan and China, were to have separate sales."
     },
     "credits": {
       "brand": "IPX (LINE FRIENDS)",
@@ -5260,9 +5275,13 @@
       "pop-up",
       "usa"
     ],
-    "verified": false,
-    "editor_note": "Herald Economy US edition (2024-11-08); no primary Lotte page found. Which Pepero SKUs carried the NewJeans edition is not stated. / Cover shows an in-store Pepero Day display with NewJeans edition packs; no individual packshots found.",
-    "local_assets": []
+    "verified": true,
+    "editor_note": "Herald Economy US edition (2024-11-08); no primary Lotte page found. Which Pepero SKUs carried the NewJeans edition is not stated. / Cover shows an in-store Pepero Day display with NewJeans edition packs; no individual packshots found. / 2026-10-24 nightly: Herald Economy US edition (2024-11-08 15:58, photo courtesy of Lotte Corporation US) confirms the Nov 9-10 Pepero pop-up at The Grove, LA, the 'Show your love with Pepero' slogan and NewJeans as brand ambassadors for a second year. No Lotte web page found.",
+    "local_assets": [],
+    "reference_urls": [
+      "https://www.heraldk.com/article/2024110815580519058",
+      "https://biz.newdaily.co.kr/site/data/html/2024/09/27/2024092700068.amp.html"
+    ]
   },
   {
     "id": "goods-2024-11-27-2025-seasons-greetings-fairy-association",

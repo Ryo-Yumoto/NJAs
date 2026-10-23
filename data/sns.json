@@ -2933,7 +2933,7 @@
       "mama"
     ],
     "verified": false,
-    "editor_note": "Status URL not retrieved; existence of the post reported by iNews (Indonesia). Date is the ceremony date (2023-11-29 KST). | not enriched: status URL/text not found; awards list from Korea Times/Korea Herald coverage of 2023-11-29. | removed from reader text: [detail.ja] 投稿本文の原文と投稿時刻は確認できていない。 / Status URL, original wording and timestamp of the post not found; its existence and gist are reported by iNews (Indonesia, same date). Awards list from Korea Times/Korea Herald coverage of 2023-11-29. Record date is the ceremony date (KST).",
+    "editor_note": "Status URL not retrieved; existence of the post reported by iNews (Indonesia). Date is the ceremony date (2023-11-29 KST). | not enriched: status URL/text not found; awards list from Korea Times/Korea Herald coverage of 2023-11-29. | removed from reader text: [detail.ja] 投稿本文の原文と投稿時刻は確認できていない。 / Status URL, original wording and timestamp of the post not found; its existence and gist are reported by iNews (Indonesia, same date). Awards list from Korea Times/Korea Herald coverage of 2023-11-29. Record date is the ceremony date (KST). / 2026-10-24 nightly: not confirmed. Web search for the @NewJeans_ADOR status found only award coverage (Soompi day-2 winners etc.); the post itself was not located, so its existence, text and time remain unconfirmed.",
     "detail": {
       "ja": "東京ドームで開かれた2023 MAMA AWARDS2日目の受賞を受けた御礼投稿。NewJeansはこの日、Artist of the Year、Song of the Year（「Ditto」）、Best Female Group、Best Dance Performance Female Group（「Ditto」）を受賞し、公式XはSong of the Year（大賞）の受賞を祝って感謝を伝えた。",
       "en": "A thank-you post following the second night of the 2023 MAMA Awards at Tokyo Dome, where NewJeans won Artist of the Year, Song of the Year ('Ditto'), Best Female Group and Best Dance Performance Female Group ('Ditto'). The official X account celebrated the Song of the Year daesang and thanked fans."
@@ -3010,7 +3010,9 @@
     },
     "source_url": "https://kbizoom.com/newjeans-minji-apologizes-for-the-kalguksu-incident-reflect-on-immature-attitude/",
     "reference_urls": [
+      "http://www.segye.com/newsView/20240116513999",
       "https://www.koreatimes.co.kr/www/art/2024/01/398_367124.html",
+      "https://kbizoom.com/newjeans-minji-apologizes-for-the-kalguksu-incident-reflect-on-immature-attitude/",
       "https://www.sportskeeda.com/pop-culture/news-they-need-leave-girl-alone-fans-defend-newjeans-minji-uploads-apology-letter-following-recent-kalguksu-controversy"
     ],
     "media": {
@@ -3020,12 +3022,12 @@
       "Phoning",
       "apology"
     ],
-    "verified": false,
+    "verified": true,
     "credits": {
       "account": "Phoning (Minji)",
       "label": "ADOR"
     },
-    "editor_note": "Phoning is a closed app; post not fetchable. Date and quoted content from Kbizoom / Korea Times / Sportskeeda."
+    "editor_note": "Phoning is a closed app; post not fetchable. Date and quoted content from Kbizoom / Korea Times / Sportskeeda. / 2026-10-24 nightly: Phoning is app-only; Segye Ilbo (2024-01-16 16:29) confirms the long apology posted on Phoning on the 16th and quotes it (the January 2 live, never having eaten kalguksu as a picky eater, apology to Bunnies), matching the record."
   },
   {
     "id": "sns-2024-03-27-bunnies-camp-2024-tokyo-dome-announcement",
@@ -3258,6 +3260,7 @@
     },
     "source_url": "https://www.instagram.com/p/C6NQhyCSPro/",
     "reference_urls": [
+      "https://www.instagram.com/p/C6NQhyCSPro/",
       "https://www.soompi.com/article/1657317wpp/newjeans-unveils-first-teasers-for-how-sweet-comeback",
       "https://www.marieclairekorea.com/?p=357952"
     ],
@@ -3268,8 +3271,8 @@
       "teaser",
       "concept-photo"
     ],
-    "verified": false,
-    "editor_note": "instagram. Marie Claire Korea: Apr 26 11:00 KST; IG shortcode timestamp 2024-04-26 11:00 (also C6NQjYHSAiq). Pre-orders opened 11AM same day (kbizoom). X status URL not recovered. | Instagram captions verified via WebFetch (post date 2024-04-25 UTC = 04-26 KST). X status not recovered. / Instagram caption (p/C6NQhyCSPro) verified via WebFetch; the companion post one minute later (p/C6NQjYHSAiq, 'NewJeans ’How Sweet‘ / 2024.5.24. Release', one image) is sns-2024-04-26-instagram-how-sweet-concept-photos-2; shortcode timestamps 2024-04-26 11:00/11:01 KST (post date 04-25 UTC); Marie Claire Korea also gives Apr 26 11:00 KST. Teaser batch per Soompi; hairstyles, two editions and 11AM pre-order per Korea Times and kbizoom. X status URL not recovered.",
+    "verified": true,
+    "editor_note": "instagram. Marie Claire Korea: Apr 26 11:00 KST; IG shortcode timestamp 2024-04-26 11:00 (also C6NQjYHSAiq). Pre-orders opened 11AM same day (kbizoom). X status URL not recovered. | Instagram captions verified via WebFetch (post date 2024-04-25 UTC = 04-26 KST). X status not recovered. / Instagram caption (p/C6NQhyCSPro) verified via WebFetch; the companion post one minute later (p/C6NQjYHSAiq, 'NewJeans ’How Sweet‘ / 2024.5.24. Release', one image) is sns-2024-04-26-instagram-how-sweet-concept-photos-2; shortcode timestamps 2024-04-26 11:00/11:01 KST (post date 04-25 UTC); Marie Claire Korea also gives Apr 26 11:00 KST. Teaser batch per Soompi; hairstyles, two editions and 11AM pre-order per Korea Times and kbizoom. X status URL not recovered. / 2026-10-24 nightly: Instagram oEmbed: author newjeans_official, media_id time 2024-04-26 11:00:53 KST, caption 'NewJeans ’How Sweet‘ 🗓 2024.5.24. Release ✅ Pre-Order 2024.4.26. 11AM KST'.",
     "detail": {
       "ja": "『How Sweet』の発売日（2024年5月24日）と予約開始（4月26日11時）を記した告知画像1点の投稿。同日公開されたグループ・個人のティーザー画像とフィジカルアルバムのティーザーでは、ボブや鮮やかなカラー、強いカールなど多様なヘアスタイルを見せた。アルバムはStandard ver.とWeverse限定盤の2形態で、予約は同日11時に始まった。",
       "en": "A single announcement image for How Sweet, giving the May 24, 2024 release and pre-orders from 11AM KST on April 26. Group and individual teaser images and physical-album teasers released the same day showed hairstyles ranging from bob cuts to vivid colours and tight curls. The album came in Standard and Weverse-exclusive editions, with pre-orders opening at 11:00 that day."
@@ -3310,6 +3313,7 @@
     },
     "source_url": "https://www.instagram.com/p/C6NQjYHSAiq/",
     "reference_urls": [
+      "https://www.instagram.com/p/C6NQjYHSAiq/",
       "https://www.marieclairekorea.com/culture/music/2024/05/newjeans-bubble-gum/"
     ],
     "media": {
@@ -3320,8 +3324,8 @@
       "HowSweet",
       "concept-photo"
     ],
-    "verified": false,
-    "editor_note": "Instagram page not fetchable; shortcode C6NQjYHSAiq found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-04-26 11:01:06 KST. Post caption not retrieved; content described from the article context. / Shortcode C6NQjYHSAiq; caption verified via WebFetch in the sibling record sns-2024-04-26-how-sweet-concept-photos; time derived from the shortcode (= 11:01:06 KST). Hairstyle description per Marie Claire Korea (2024-05-02), which embeds the post."
+    "verified": true,
+    "editor_note": "Instagram page not fetchable; shortcode C6NQjYHSAiq found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-04-26 11:01:06 KST. Post caption not retrieved; content described from the article context. / Shortcode C6NQjYHSAiq; caption verified via WebFetch in the sibling record sns-2024-04-26-how-sweet-concept-photos; time derived from the shortcode (= 11:01:06 KST). Hairstyle description per Marie Claire Korea (2024-05-02), which embeds the post. / 2026-10-24 nightly: Instagram oEmbed: author newjeans_official, media_id time 2024-04-26 11:01:06 KST, caption 'NewJeans ’How Sweet‘ 🗓 2024.5.24. Release'."
   },
   {
     "id": "sns-2024-04-27-bubble-gum-release-day-post",
@@ -3396,6 +3400,9 @@
     },
     "source_url": "https://www.instagram.com/p/C6Opx_OyLxp/",
     "reference_urls": [
+      "https://www.instagram.com/p/C6Opx_OyLxp/",
+      "https://x.com/NewJeans_ADOR/status/1783873743225581973",
+      "https://www.youtube.com/watch?v=ft70sAYrFyY",
       "https://www.marieclairekorea.com/culture/music/2024/05/newjeans-bubble-gum/"
     ],
     "media": {
@@ -3407,8 +3414,8 @@
       "MV",
       "release"
     ],
-    "verified": false,
-    "editor_note": "Instagram page not fetchable; shortcode C6Opx_OyLxp found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-04-27 00:00:47 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode C6Opx_OyLxp embedded at the top of Marie Claire Korea's 2024-05-02 article; time derived from the shortcode (= 00:00:47 KST). Caption not retrieved; content described from the article context."
+    "verified": true,
+    "editor_note": "Instagram page not fetchable; shortcode C6Opx_OyLxp found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-04-27 00:00:47 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode C6Opx_OyLxp embedded at the top of Marie Claire Korea's 2024-05-02 article; time derived from the shortcode (= 00:00:47 KST). Caption not retrieved; content described from the article context. / 2026-10-24 nightly: Instagram oEmbed: author newjeans_official, media_id time 2024-04-27 00:00:47 KST, caption 'Bubble Gum 🫧 Please check more photos on the website below!'. Same caption on X (fxtwitter: 2024-04-26 15:00:17 UTC, 4 photos); MV ft70sAYrFyY dated 2024-04-27 KST."
   },
   {
     "id": "sns-2024-04-29-instagram-bubble-gum-era-post-0429",
@@ -3431,8 +3438,8 @@
       "en": "An official Instagram post two days after the April 27 'Bubble Gum' MV release."
     },
     "detail": {
-      "ja": "「Bubble Gum」プロモーション期間中の公式Instagram投稿。4月27日のMV公開から2日後に投稿された。",
-      "en": "An official Instagram post from the 'Bubble Gum' promotion, made two days after the MV's April 27 release."
+      "ja": "「Bubble Gum」プロモーション期間中の公式Instagram投稿で、キャプションは「Sweet like bubble gum 🐰🫧」。4月27日のMV公開から2日後に投稿された。",
+      "en": "An official Instagram post from the 'Bubble Gum' promotion, captioned 'Sweet like bubble gum 🐰🫧', made two days after the MV's April 27 release."
     },
     "credits": {
       "account": "@newjeans_official",
@@ -3440,6 +3447,7 @@
     },
     "source_url": "https://www.instagram.com/p/C6U-30iyTa7/",
     "reference_urls": [
+      "https://www.instagram.com/p/C6U-30iyTa7/",
       "https://www.marieclairekorea.com/culture/music/2024/05/newjeans-bubble-gum/"
     ],
     "media": {
@@ -3450,8 +3458,8 @@
       "BubbleGum",
       "promotion"
     ],
-    "verified": false,
-    "editor_note": "Instagram page not fetchable; shortcode C6U-30iyTa7 found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-04-29 11:00:32 KST. Post caption not retrieved; content described from the article context. | removed from reader text: [detail.ja] 投稿の本文・画像は未確認。 [detail.en] Caption and images not confirmed. / Instagram page not fetchable; shortcode C6U-30iyTa7 embedded in Marie Claire Korea's 2024-05-02 article, in its paragraph on the 'Bubble Gum' MV topping YouTube's trending chart (the date of that ranking is not pinned, so it is left out of reader text); time derived from the shortcode (= 11:00:32 KST). Caption and images not retrieved."
+    "verified": true,
+    "editor_note": "Instagram page not fetchable; shortcode C6U-30iyTa7 found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-04-29 11:00:32 KST. Post caption not retrieved; content described from the article context. | removed from reader text: [detail.ja] 投稿の本文・画像は未確認。 [detail.en] Caption and images not confirmed. / Instagram page not fetchable; shortcode C6U-30iyTa7 embedded in Marie Claire Korea's 2024-05-02 article, in its paragraph on the 'Bubble Gum' MV topping YouTube's trending chart (the date of that ranking is not pinned, so it is left out of reader text); time derived from the shortcode (= 11:00:32 KST). Caption and images not retrieved. / 2026-10-24 nightly: Instagram oEmbed: author newjeans_official, media_id time 2024-04-29 11:00:32 KST, caption 'Sweet like bubble gum 🐰🫧'. Caption added to detail."
   },
   {
     "id": "sns-2024-04-30-instagram-right-now-mv-teaser-post",

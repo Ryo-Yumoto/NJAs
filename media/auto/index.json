@@ -263,9 +263,9 @@
   "page_url": "https://www.wikitree.co.kr/articles/836489",
   "w": 1200
  },
- "ad-2023-03-24-hanni-gucci-horsebit-1955-campaign": {
+ "ad-2023-03-23-hanni-gucci-horsebit-1955-campaign": {
   "fetched": "2026-10-16",
-  "file": "ad-2023-03-24-hanni-gucci-horsebit-1955-campaign.jpg",
+  "file": "ad-2023-03-23-hanni-gucci-horsebit-1955-campaign.jpg",
   "h": 365,
   "image_url": "https://t1.daumcdn.net/news/202303/25/mydaily/20230325091928510vnyr.jpg",
   "page_url": "https://t1.daumcdn.net/news/202303/25/mydaily/20230325091928510vnyr.jpg",
@@ -383,14 +383,6 @@
   "page_url": "https://magazine.hankyung.com/business/article/202308148892b",
   "w": 1200
  },
- "ad-2023-09-01-lotte-wellfood-pepero-model": {
-  "fetched": "2026-10-23",
-  "file": "ad-2023-09-01-lotte-wellfood-pepero-model.jpg",
-  "h": 405,
-  "image_url": "https://img1.newsis.com/2023/09/01/NISI20230901_0001353956_web.jpg",
-  "page_url": "https://img1.newsis.com/2023/09/01/NISI20230901_0001353956_web.jpg",
-  "w": 720
- },
  "ad-2023-09-14-haerin-dior-rose-celeste-campaign": {
   "fetched": "2026-10-16",
   "file": "ad-2023-09-14-haerin-dior-rose-celeste-campaign.jpg",
@@ -399,9 +391,17 @@
   "page_url": "https://t1.daumcdn.net/news/202309/14/startoday/20230914153906050mufc.jpg",
   "w": 597
  },
- "ad-2023-10-01-skt-iphone-15-pro-made-in-0": {
+ "ad-2023-09-15-lotte-wellfood-pepero-model": {
   "fetched": "2026-10-23",
-  "file": "ad-2023-10-01-skt-iphone-15-pro-made-in-0.jpg",
+  "file": "ad-2023-09-15-lotte-wellfood-pepero-model.jpg",
+  "h": 405,
+  "image_url": "https://img1.newsis.com/2023/09/01/NISI20230901_0001353956_web.jpg",
+  "page_url": "https://img1.newsis.com/2023/09/01/NISI20230901_0001353956_web.jpg",
+  "w": 720
+ },
+ "ad-2023-10-13-skt-iphone-15-pro-made-in-0": {
+  "fetched": "2026-10-23",
+  "file": "ad-2023-10-13-skt-iphone-15-pro-made-in-0.jpg",
   "h": 720,
   "image_url": "https://i.ytimg.com/vi/ckVPg4C9ggI/maxresdefault.jpg",
   "page_url": "https://i.ytimg.com/vi/ckVPg4C9ggI/maxresdefault.jpg",
@@ -1127,9 +1127,9 @@
   "page_url": "https://i.ytimg.com/vi/Yb0G-IeZn0E/maxresdefault.jpg",
   "w": 1280
  },
- "content-2022-11-19-light-jeans-summer-memories-in-spain": {
+ "content-2022-11-18-light-jeans-summer-memories-in-spain": {
   "fetched": "2026-10-15",
-  "file": "content-2022-11-19-light-jeans-summer-memories-in-spain.jpg",
+  "file": "content-2022-11-18-light-jeans-summer-memories-in-spain.jpg",
   "h": 720,
   "image_url": "https://i.ytimg.com/vi/8KkUl1xsgXA/maxresdefault.jpg",
   "page_url": "https://i.ytimg.com/vi/8KkUl1xsgXA/maxresdefault.jpg",
@@ -5367,6 +5367,14 @@
   "page_url": "https://dazedkorea.com/wp-content/uploads/2026/03/2923072-scaled.jpg",
   "w": 1120
  },
+ "magazine-2024-12-26-elle-japon-2025-02-haerin": {
+  "fetched": "2026-10-13",
+  "file": "magazine-2024-12-26-elle-japon-2025-02-haerin.jpg",
+  "h": 797,
+  "image_url": "https://cdfront.tower.jp/~/media/Images/Article/News/tg/2024/12/25/tgb004.jpg",
+  "page_url": "https://tower.jp/article/news/2024/12/25/tgb004",
+  "w": 600
+ },
  "magazine-2025-01-01-elle-korea-2025-01-minji": {
   "fetched": "2026-10-13",
   "file": "magazine-2025-01-01-elle-korea-2025-01-minji.jpg",
@@ -5390,14 +5398,6 @@
   "image_url": "https://www.instagram.com/p/DEepjE9phg8/media/?size=l",
   "page_url": "https://www.instagram.com/p/DEepjE9phg8/media/?size=l",
   "w": 1080
- },
- "magazine-2025-02-01-elle-japon-2025-02-haerin": {
-  "fetched": "2026-10-13",
-  "file": "magazine-2025-02-01-elle-japon-2025-02-haerin.jpg",
-  "h": 797,
-  "image_url": "https://cdfront.tower.jp/~/media/Images/Article/News/tg/2024/12/25/tgb004.jpg",
-  "page_url": "https://tower.jp/article/news/2024/12/25/tgb004",
-  "w": 600
  },
  "magazine-2025-02-03-vogue-korea-haerin-dior-beauty-digital-cover": {
   "fetched": "2026-10-17",
@@ -6439,14 +6439,6 @@
   "page_url": "https://i.ytimg.com/vi/GLGk6TGANP8/maxresdefault.jpg",
   "w": 1280
  },
- "mv-2023-12-14-njwmx-teaser-20231219": {
-  "fetched": "2026-10-13",
-  "file": "mv-2023-12-14-njwmx-teaser-20231219.jpg",
-  "h": 720,
-  "image_url": "https://i.ytimg.com/vi/zIfUiwtCTtY/maxresdefault.jpg",
-  "page_url": "https://i.ytimg.com/vi/zIfUiwtCTtY/maxresdefault.jpg",
-  "w": 1280
- },
  "mv-2023-12-14-njwmx-teaser-7": {
   "fetched": "2026-10-13",
   "file": "mv-2023-12-14-njwmx-teaser-7.jpg",
@@ -6455,17 +6447,25 @@
   "page_url": "https://i.ytimg.com/vi/GPQI83T-cR4/maxresdefault.jpg",
   "w": 1280
  },
- "mv-2023-12-19-2023-billboard-music-awards-super-shy-omg": {
+ "mv-2023-12-15-njwmx-teaser-20231219": {
   "fetched": "2026-10-13",
-  "file": "mv-2023-12-19-2023-billboard-music-awards-super-shy-omg.jpg",
+  "file": "mv-2023-12-15-njwmx-teaser-20231219.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/zIfUiwtCTtY/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/zIfUiwtCTtY/maxresdefault.jpg",
+  "w": 1280
+ },
+ "mv-2023-12-20-2023-billboard-music-awards-super-shy-omg": {
+  "fetched": "2026-10-13",
+  "file": "mv-2023-12-20-2023-billboard-music-awards-super-shy-omg.jpg",
   "h": 720,
   "image_url": "https://i.ytimg.com/vi/zGCAGWdXHPM/maxresdefault.jpg",
   "page_url": "https://i.ytimg.com/vi/zGCAGWdXHPM/maxresdefault.jpg",
   "w": 1280
  },
- "mv-2023-12-24-2023-mma-dance-practice": {
+ "mv-2023-12-25-2023-mma-dance-practice": {
   "fetched": "2026-10-13",
-  "file": "mv-2023-12-24-2023-mma-dance-practice.jpg",
+  "file": "mv-2023-12-25-2023-mma-dance-practice.jpg",
   "h": 720,
   "image_url": "https://i.ytimg.com/vi/nDlNPbPnMUU/maxresdefault.jpg",
   "page_url": "https://i.ytimg.com/vi/nDlNPbPnMUU/maxresdefault.jpg",
@@ -6479,9 +6479,9 @@
   "page_url": "https://i.ytimg.com/vi/k6vqIRScUTs/maxresdefault.jpg",
   "w": 1280
  },
- "mv-2024-01-06-the-38th-golden-disc-awards-dance-practice": {
+ "mv-2024-01-07-the-38th-golden-disc-awards-dance-practice": {
   "fetched": "2026-10-13",
-  "file": "mv-2024-01-06-the-38th-golden-disc-awards-dance-practice.jpg",
+  "file": "mv-2024-01-07-the-38th-golden-disc-awards-dance-practice.jpg",
   "h": 720,
   "image_url": "https://i.ytimg.com/vi/8FpaiZrVoho/maxresdefault.jpg",
   "page_url": "https://i.ytimg.com/vi/8FpaiZrVoho/maxresdefault.jpg",

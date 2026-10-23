@@ -4260,48 +4260,6 @@
     }
   },
   {
-    "id": "mv-2023-12-14-njwmx-teaser-20231219",
-    "date": "2023-12-14",
-    "date_type": "release",
-    "date_precision": "day",
-    "category": "mv",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "NJWMX ティザー「NewJeans (뉴진스) 20231219」",
-      "en": "NJWMX teaser 'NewJeans (뉴진스) 20231219'"
-    },
-    "summary": {
-      "ja": "リミックスアルバム『NJWMX』のティザー。「20231219」の数字は発売日の2023年12月19日を示し、「7」のティザーと対をなす。",
-      "en": "Teaser for the remix album NJWMX; the number '20231219' is the release date, 19 December 2023, and it pairs with the teaser '7'."
-    },
-    "source_url": "https://www.youtube.com/watch?v=zIfUiwtCTtY",
-    "reference_urls": [
-      "https://en.wikipedia.org/wiki/NJWMX"
-    ],
-    "media": {
-      "type": "youtube",
-      "ref": "zIfUiwtCTtY"
-    },
-    "tags": [
-      "teaser",
-      "njwmx",
-      "newjeans-channel"
-    ],
-    "verified": false,
-    "editor_note": "Short video in the channel's NJWMX playlist (YouTube shows Dec 14, 2023 PT). Content not reviewed. | namu.wiki lists the '20231219' post at 2023-12-15 00:00 KST, which matches a 12-14 PT upload. YouTube page read via reader; upload date on YouTube: Dec 14, 2023 (PT).",
-    "detail": {
-      "ja": "リミックスアルバム『NJWMX』のティザー映像で、「20231219」と題してNewJeans公式YouTubeチャンネルに公開された。タイトルの数字はアルバムの発売日である2023年12月19日を示す。同時期に「7」と題したティザーも公開された。",
-      "en": "Teaser for the remix album NJWMX, posted on the NewJeans YouTube channel under the title '20231219'; the number is the album's release date, 19 December 2023. A companion teaser titled '7' went up at the same time."
-    },
-    "credits": {
-      "channel": "HYBE LABELS",
-      "label": "ADOR"
-    }
-  },
-  {
     "id": "mv-2023-12-14-njwmx-teaser-7",
     "date": "2023-12-14",
     "date_type": "release",
@@ -4321,6 +4279,8 @@
     },
     "source_url": "https://www.youtube.com/watch?v=GPQI83T-cR4",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=GPQI83T-cR4",
+      "https://www.youtube.com/watch?v=zIfUiwtCTtY",
       "https://en.wikipedia.org/wiki/NJWMX"
     ],
     "media": {
@@ -4332,8 +4292,8 @@
       "njwmx",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Short video in the channel's NJWMX playlist, posted ahead of the Dec 19 remix album (YouTube shows Dec 14, 2023 PT). Content not reviewed. | YouTube page read via reader; upload date on YouTube: Dec 14, 2023 (PT).",
+    "verified": true,
+    "editor_note": "Short video in the channel's NJWMX playlist, posted ahead of the Dec 19 remix album (YouTube shows Dec 14, 2023 PT). Content not reviewed. | YouTube page read via reader; upload date on YouTube: Dec 14, 2023 (PT). / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 2023-12-14 KST on the NewJeans channel; title '7' matches. The 18:00 KST release time is from the NJWMX article, not the video description.",
     "detail": {
       "ja": "リミックスアルバム『NJWMX』のティザー映像で、「7」と題してNewJeans公式YouTubeチャンネルに公開された。「20231219」と題したティザーと対をなすもので、アルバムの配信は2023年12月19日18時。",
       "en": "Teaser for the remix album NJWMX, posted on the NewJeans YouTube channel under the title '7', paired with the teaser titled '20231219'. The album's release was set for 19 December 2023 at 18:00 KST."
@@ -4344,8 +4304,52 @@
     }
   },
   {
-    "id": "mv-2023-12-19-2023-billboard-music-awards-super-shy-omg",
-    "date": "2023-12-19",
+    "id": "mv-2023-12-15-njwmx-teaser-20231219",
+    "date": "2023-12-15",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NJWMX ティザー「NewJeans (뉴진스) 20231219」",
+      "en": "NJWMX teaser 'NewJeans (뉴진스) 20231219'"
+    },
+    "summary": {
+      "ja": "リミックスアルバム『NJWMX』のティザー。「20231219」の数字は発売日の2023年12月19日を示し、「7」のティザーと対をなす。",
+      "en": "Teaser for the remix album NJWMX; the number '20231219' is the release date, 19 December 2023, and it pairs with the teaser '7'."
+    },
+    "source_url": "https://www.youtube.com/watch?v=zIfUiwtCTtY",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=zIfUiwtCTtY",
+      "https://www.youtube.com/watch?v=GPQI83T-cR4",
+      "https://en.wikipedia.org/wiki/NJWMX"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "zIfUiwtCTtY"
+    },
+    "tags": [
+      "teaser",
+      "njwmx",
+      "hybe-labels-channel"
+    ],
+    "verified": true,
+    "editor_note": "Short video in the channel's NJWMX playlist (YouTube shows Dec 14, 2023 PT). Content not reviewed. | namu.wiki lists the '20231219' post at 2023-12-15 00:00 KST, which matches a 12-14 PT upload. YouTube page read via reader; upload date on YouTube: Dec 14, 2023 (PT). / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 2023-12-15 KST and channel HYBE LABELS (not the NewJeans channel); the '7' teaser (GPQI83T-cR4) is 2023-12-14 KST on the NewJeans channel. Date and channel corrected.",
+    "detail": {
+      "ja": "リミックスアルバム『NJWMX』のティザー映像で、「20231219」と題してHYBE LABELSのYouTubeチャンネルに公開された。タイトルの数字はアルバムの発売日である2023年12月19日を示す。前日には「7」と題したティザーもNewJeans公式YouTubeチャンネルに公開されていた。",
+      "en": "Teaser for the remix album NJWMX, posted on the HYBE LABELS YouTube channel under the title '20231219'; the number is the album's release date, 19 December 2023. A companion teaser titled '7' had gone up on the NewJeans YouTube channel the previous day."
+    },
+    "credits": {
+      "channel": "HYBE LABELS",
+      "label": "ADOR"
+    }
+  },
+  {
+    "id": "mv-2023-12-20-2023-billboard-music-awards-super-shy-omg",
+    "date": "2023-12-20",
     "date_type": "release",
     "date_precision": "day",
     "category": "mv",
@@ -4362,7 +4366,9 @@
       "en": "Pre-recorded 'Super Shy' and 'OMG' performance from the 2023 Billboard Music Awards (19 November), where the group won Top Global K-Pop Artist."
     },
     "source_url": "https://www.youtube.com/watch?v=zGCAGWdXHPM",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=zGCAGWdXHPM"
+    ],
     "media": {
       "type": "youtube",
       "ref": "zGCAGWdXHPM"
@@ -4372,8 +4378,8 @@
       "award-show",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Staging per Rolling Stone (2023-11-20); pre-recorded format per The Fader. YouTube page read via reader; upload date on YouTube: Dec 19, 2023 (PT).",
+    "verified": true,
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Staging per Rolling Stone (2023-11-20); pre-recorded format per The Fader. YouTube page read via reader; upload date on YouTube: Dec 19, 2023 (PT). / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 2023-12-20 KST (watch page shows Dec 19 PT). Date corrected to KST.",
     "detail": {
       "ja": "11月19日（米国時間）に配信形式で行われた2023 Billboard Music Awardsでの「Super Shy」と「OMG」のパフォーマンス映像で、NewJeans公式YouTubeチャンネルに公開された。授賞式はBillboardのSNSチャンネルで配信され、パフォーマンスは事前収録。「Super Shy」では個別のブースから登場してダンサーとともにセンターへ移動し、衣装を替えて白い壁のセットで「OMG」を披露した。同授賞式でNewJeansはTop Global K-Pop Artistを受賞した。収録時間は6分29秒。",
       "en": "Performance video of 'Super Shy' and 'OMG' from the 2023 Billboard Music Awards, held on 19 November (US time) as an online broadcast, posted on the NewJeans YouTube channel. The ceremony streamed on Billboard's social channels with pre-recorded performances. For 'Super Shy' the members emerged from separate booths and moved to centre stage with dancers, then changed outfits for 'OMG' in a white-walled set. NewJeans received Top Global K-Pop Artist at the ceremony. Running time 6:29."
@@ -4386,8 +4392,8 @@
     }
   },
   {
-    "id": "mv-2023-12-24-2023-mma-dance-practice",
-    "date": "2023-12-24",
+    "id": "mv-2023-12-25-2023-mma-dance-practice",
+    "date": "2023-12-25",
     "date_type": "release",
     "date_precision": "day",
     "category": "mv",
@@ -4404,7 +4410,10 @@
       "en": "Practice video for the six-song Get Up stage at the 2023 MMA (2 December, Inspire Arena), running 10:11."
     },
     "source_url": "https://www.youtube.com/watch?v=nDlNPbPnMUU",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=nDlNPbPnMUU",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
     "media": {
       "type": "youtube",
       "ref": "nDlNPbPnMUU"
@@ -4414,8 +4423,8 @@
       "award-show",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Event date/venue from en.wikipedia List_of_NewJeans_live_performances; YouTube upload date Dec 24, 2023 (PT).",
+    "verified": true,
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Event date/venue from en.wikipedia List_of_NewJeans_live_performances; YouTube upload date Dec 24, 2023 (PT). / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 2023-12-25 KST (watch page shows Dec 24 PT). Date corrected to KST.",
     "detail": {
       "ja": "12月2日に仁川のInspire Arenaで行われた2023 Melon Music Awardsのステージ（「New Jeans」「Super Shy」「ETA」「Cool With You」「Get Up」「ASAP」）の振付を練習室で収めた映像で、NewJeans公式YouTubeチャンネルで公開された。収録時間は10分11秒。",
       "en": "Practice-room dance video for the 2023 Melon Music Awards stage ('New Jeans', 'Super Shy', 'ETA', 'Cool With You', 'Get Up' and 'ASAP') performed on 2 December at Inspire Arena, Incheon, published on the NewJeans YouTube channel. Running time 10:11."
@@ -4447,7 +4456,9 @@
       "en": "'ETA' and 'Super Shy' performance filmed in Korea for ABC's New Year's Rockin' Eve 2024, the first by a K-pop girl group on the show."
     },
     "source_url": "https://www.youtube.com/watch?v=k6vqIRScUTs",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=k6vqIRScUTs"
+    ],
     "media": {
       "type": "youtube",
       "ref": "k6vqIRScUTs"
@@ -4457,8 +4468,8 @@
       "tv",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Per Korea JoongAng Daily / ABC announcements (Dec 2023). YouTube page read via reader; upload date on YouTube: Jan 1, 2024 (PT).",
+    "verified": true,
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Per Korea JoongAng Daily / ABC announcements (Dec 2023). YouTube page read via reader; upload date on YouTube: Jan 1, 2024 (PT). / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 2024-01-01 KST on the NewJeans channel; title matches.",
     "detail": {
       "ja": "ABCの年越し特番『Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2024』（米東部時間2023年12月31日20時から生放送）で披露した「ETA」と「Super Shy」のパフォーマンス映像で、NewJeans公式YouTubeチャンネルに公開された。パフォーマンスは韓国で収録して放送に組み込まれたもので、同番組で韓国からの出演は初めて、K-POPガールズグループの出演も初めてだった。収録時間は6分02秒。",
       "en": "Performance video of 'ETA' and 'Super Shy' from ABC's Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2024 (aired live from 8 PM ET on 31 December 2023), posted on the NewJeans YouTube channel. The segment was filmed in South Korea for the broadcast, the first performance from Korea and the first by a K-pop girl group on the programme. Running time 6:02."
@@ -4472,8 +4483,8 @@
     }
   },
   {
-    "id": "mv-2024-01-06-the-38th-golden-disc-awards-dance-practice",
-    "date": "2024-01-06",
+    "id": "mv-2024-01-07-the-38th-golden-disc-awards-dance-practice",
+    "date": "2024-01-07",
     "date_type": "release",
     "date_precision": "day",
     "category": "mv",
@@ -4486,11 +4497,14 @@
       "en": "The 38th GOLDEN DISC AWARDS Dance Practice"
     },
     "summary": {
-      "ja": "第38回Golden Disc Awards（1月6日、ジャカルタ）の「Cool With You」「Ditto」ステージの練習映像。当日に公開された。",
-      "en": "Practice video for the 'Cool With You' and 'Ditto' stage at the 38th Golden Disc Awards (6 January, Jakarta), posted the same day."
+      "ja": "第38回Golden Disc Awards（1月6日、ジャカルタ）の「Cool With You」「Ditto」ステージの練習映像。翌日に公開された。",
+      "en": "Practice video for the 'Cool With You' and 'Ditto' stage at the 38th Golden Disc Awards (6 January, Jakarta), posted the following day."
     },
     "source_url": "https://www.youtube.com/watch?v=8FpaiZrVoho",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=8FpaiZrVoho",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
     "media": {
       "type": "youtube",
       "ref": "8FpaiZrVoho"
@@ -4500,11 +4514,11 @@
       "award-show",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Event date/venue from en.wikipedia List_of_NewJeans_live_performances; YouTube upload date Jan 6, 2024 (PT).",
+    "verified": true,
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Event date/venue from en.wikipedia List_of_NewJeans_live_performances; YouTube upload date Jan 6, 2024 (PT). / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 2024-01-07 KST (watch page shows Jan 6 PT). Date and 'same day' wording corrected.",
     "detail": {
-      "ja": "1月6日にジャカルタのJakarta International Stadiumで行われた38th Golden Disc Awardsのステージ（「Cool With You」「Ditto」）の振付を練習室で収めた映像で、同日にNewJeans公式YouTubeチャンネルで公開された。収録時間は6分52秒。",
-      "en": "Practice-room dance video for the 38th Golden Disc Awards stage ('Cool With You' and 'Ditto') performed on 6 January at Jakarta International Stadium, published on the NewJeans YouTube channel the same day. Running time 6:52."
+      "ja": "1月6日にジャカルタのJakarta International Stadiumで行われた38th Golden Disc Awardsのステージ（「Cool With You」「Ditto」）の振付を練習室で収めた映像で、翌7日にNewJeans公式YouTubeチャンネルで公開された。収録時間は6分52秒。",
+      "en": "Practice-room dance video for the 38th Golden Disc Awards stage ('Cool With You' and 'Ditto') performed on 6 January at Jakarta International Stadium, published on the NewJeans YouTube channel the following day, 7 January. Running time 6:52."
     },
     "credits": {
       "channel": "NewJeans",

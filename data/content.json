@@ -2027,7 +2027,8 @@
     },
     "source_url": "https://www.youtube.com/watch?v=LkJOwHmkySI",
     "reference_urls": [
-      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://www.youtube.com/watch?v=LkJOwHmkySI",
+      "https://www.dailian.co.kr/news/view/1154857/",
       "https://thetvdb.com/series/newzips/allseasons/official"
     ],
     "media": {
@@ -2041,8 +2042,8 @@
       "newzips",
       "reality"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 2022-10-22 KST on the NewJeans channel, title '[NewZips] 토끼 구출 작전 💣💥EP.5ㅣNewJeans'; Saturday 17:00 schedule per Dailian (2022-09-22)."
   },
   {
     "id": "content-2022-10-25-light-jeans-oioi-22fw-photoshoot-behind",
@@ -2170,7 +2171,7 @@
       "live-stream"
     ],
     "verified": false,
-    "editor_note": "Date and content from the fan-maintained namu.wiki \"NewJeans/Phoning LIVE\" log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. Phoning anniversary messages confirmed by iMBC (2022-10-30)."
+    "editor_note": "Date and content from the fan-maintained namu.wiki \"NewJeans/Phoning LIVE\" log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. Phoning anniversary messages confirmed by iMBC (2022-10-30). / 2026-10-24 nightly: not confirmable. Phoning is app-only; the official X '100 DAYS' post (1586009899628220417, 2022-10-29 00:00 KST) does not mention a face call; no press report of the call found."
   },
   {
     "id": "content-2022-10-29-yt-debut-100th-day-special-quiz-show",
@@ -2338,7 +2339,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=Yb0G-IeZn0E",
     "reference_urls": [
-      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+      "https://www.youtube.com/watch?v=Yb0G-IeZn0E"
     ],
     "media": {
       "type": "youtube",
@@ -2351,12 +2352,12 @@
       "clip",
       "greeting"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 2022-11-16 KST on the NewJeans channel; title matches."
   },
   {
-    "id": "content-2022-11-19-light-jeans-summer-memories-in-spain",
-    "date": "2022-11-19",
+    "id": "content-2022-11-18-light-jeans-summer-memories-in-spain",
+    "date": "2022-11-18",
     "date_type": "release",
     "date_precision": "day",
     "category": "content",
@@ -2383,7 +2384,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=8KkUl1xsgXA",
     "reference_urls": [
-      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://www.youtube.com/watch?v=8KkUl1xsgXA",
       "https://thetvdb.com/series/light-jeans/allseasons/official"
     ],
     "media": {
@@ -2397,8 +2398,8 @@
       "light-jeans",
       "behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 2022-11-18 KST (NewJeans channel, '[Light Jeans] Summer memories in Spain'); previous 11-19 date from namu.wiki was off by one. Date corrected."
   },
   {
     "id": "content-2022-11-21-yt-2023-seasons-greetings-clip-1",
@@ -2519,7 +2520,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=kNJcVolNJaU",
     "reference_urls": [
-      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+      "https://www.youtube.com/watch?v=kNJcVolNJaU"
     ],
     "media": {
       "type": "youtube",
@@ -2532,8 +2533,8 @@
       "clip",
       "seasons-greetings"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 2022-11-24 KST on the NewJeans channel ('Welcome to ROOM 722', pre-order from 2022-11-25 on Weverse Shop per description)."
   },
   {
     "id": "content-2022-11-26-phoning-mma-afterparty-voice-call",
@@ -2568,7 +2569,7 @@
       "live-stream"
     ],
     "verified": false,
-    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. / 2026-10-24 nightly: not confirmable. Phoning is app-only and no press or official SNS mention of the post-MMA voice call was found."
   },
   {
     "id": "content-2022-11-30-phoning-mama-afterparty-face-call",
