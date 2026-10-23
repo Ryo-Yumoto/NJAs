@@ -2478,7 +2478,7 @@
       "ja": "デビューEP『New Jeans』の売上が2022年8月から2023年2月11日までのCircle Chart集計で1,036,811枚に達したと、ADORが2023年2月20日に発表した。Circle Chartが集計を始めた2011年以降、デビューアルバムでミリオンを達成したのは初めて。1月の『OMG』に続き、約半年で2作のミリオンアルバムを持つことになった。",
       "en": "ADOR announced on February 20, 2023 that the debut EP New Jeans had sold 1,036,811 copies on Circle Chart from August 2022 through February 11, 2023. It was the first debut album to top one million since Circle began collecting data in 2011. Following OMG in January, the group had two million-selling albums within about six months."
     },
-    "source_url": "https://circlechart.kr/page_cert/chart.circle?serviceGbn=ALBUM",
+    "source_url": "https://www.osen.co.kr/article/G1112045780",
     "media": {
       "type": "none"
     },
@@ -2486,11 +2486,13 @@
       "sales",
       "million-seller"
     ],
-    "verified": false,
+    "verified": true,
     "reference_urls": [
+      "https://www.osen.co.kr/article/G1112045780",
+      "https://m.etnews.com/20230220000130",
       "https://www.soompi.com/article/1567525wpp/newjeans-achieves-2nd-million-selling-album-with-self-titled-debut-ep"
     ],
-    "editor_note": "Circle certified the 1st EP 'New Jeans' as Million only on 2023-09-07 (standard edition); the Feb 2023 'one million' claim must combine standard + Weverse editions or use Hanteo. Circle year-2022 chart shows 530,766 (standard) + 230,960 (Weverse); monthly API totals are not period sales, so the Feb 20 crossing cannot be verified."
+    "editor_note": "Circle certified the 1st EP 'New Jeans' as Million only on 2023-09-07 (standard edition); the Feb 2023 'one million' claim must combine standard + Weverse editions or use Hanteo. Circle year-2022 chart shows 530,766 (standard) + 230,960 (Weverse); monthly API totals are not period sales, so the Feb 20 crossing cannot be verified. / 2026-10-24 nightly: OSEN [공식] 2023-02-20 (ADOR) and etnews 2023-02-20 confirm 1,036,811 copies on Circle Chart through 2/11, first debut album to pass 1M since 2011, second million-seller after OMG. This is an ADOR sales announcement, not a Circle certification (Circle's Million cert came later); source_url moved off the Circle cert page."
   },
   {
     "id": "record-2023-02-27-ditto-melon-weekly-10-weeks",
@@ -2511,10 +2513,10 @@
       "en": "'Ditto' topped Melon's weekly chart for February 20-26, a 10th consecutive week at No. 1, the longest run since Melon launched in 2004."
     },
     "detail": {
-      "ja": "「Ditto」がMelon週間チャート（2月20日〜26日、2月27日発表）で10週連続1位を記録した。2022年12月19日の公開以来70日間1位を保ち、2004年11月のサービス開始以来最長の連続1位となった。非連続で10週超の1位はBTS「Dynamite」のみ。Bugsでも10週連続1位で同サイトの記録を更新した。",
-      "en": "'Ditto' held No. 1 on Melon's weekly chart for a 10th consecutive week (February 20-26, announced February 27), 70 straight days on top since its December 19, 2022 release and the longest consecutive run since Melon launched in November 2004. Only BTS's 'Dynamite' had exceeded 10 weeks non-consecutively. 'Ditto' also set a 10-week record on Bugs."
+      "ja": "「Ditto」がMelon週間チャート（2月20日〜26日、2月27日発表）で10週連続1位を記録した。2022年12月19日の公開以来70日間1位を保ち、2004年11月のサービス開始以来初の10週連続1位となった。それまでの週間チャート最長1位はBTS「Dynamite」の10週。Bugsでも10週連続1位で同サイト初の記録となった。",
+      "en": "'Ditto' held No. 1 on Melon's weekly chart for a 10th consecutive week (February 20-26, announced February 27), 70 straight days on top since its December 19, 2022 release and the first 10-week consecutive run since Melon launched in November 2004. The previous longest weekly run at No. 1 was BTS's 'Dynamite' with 10 weeks. 'Ditto' was also the first song to top Bugs for 10 straight weeks."
     },
-    "source_url": "https://www.soompi.com/article/1569746wpp/newjeans-ditto-becomes-1st-song-in-melon-history-to-chart-at-no-1-for-10-consecutive-weeks",
+    "source_url": "https://www.asiatoday.co.kr/view.php?key=20230228010015697",
     "media": {
       "type": "none"
     },
@@ -2522,8 +2524,14 @@
       "chart",
       "melon"
     ],
-    "verified": false,
-    "editor_note": "Melon weekly history not retrievable; Melon's 2023 annual-chart page only states Ditto was the year's No. 1. Not contradicted."
+    "verified": true,
+    "editor_note": "Melon weekly history not retrievable; Melon's 2023 annual-chart page only states Ditto was the year's No. 1. Not contradicted. / 2026-10-24 nightly: Melon chart finder returns 406 here; Asia Today / Nocut (2023-02-28, ADOR) confirm the 2/20-26 week announced 2/27, 70 days, first 10 straight weeks since 2004, Bugs record. Dynamite sentence corrected: TF (2023-03-07) gives Dynamite's longest weekly run as 10 weeks, not 'more than 10'.",
+    "reference_urls": [
+      "https://www.asiatoday.co.kr/view.php?key=20230228010015697",
+      "https://www.nocutnews.co.kr/news/5902238",
+      "https://news.tf.co.kr/read/ogmeta/2002912.htm",
+      "https://www.soompi.com/article/1569746wpp/newjeans-ditto-becomes-1st-song-in-melon-history-to-chart-at-no-1-for-10-consecutive-weeks"
+    ]
   },
   {
     "id": "record-2023-03-01-riaj-gold-hype-boy-ditto",
@@ -2583,10 +2591,10 @@
       "en": "'Ditto' spent its 76th day at No. 1 on Melon's daily chart, overtaking BTS's 'Dynamite' for the most days at No. 1 in the chart's history."
     },
     "detail": {
-      "ja": "「Ditto」が2023年3月5日、Melonデイリーチャート（2014年1月1日開始）で76日目の1位を記録し、それまでの最多記録だったBTS「Dynamite」を上回った。同じ週には週間チャート10週連続1位の記録も樹立している。",
-      "en": "On March 5, 2023, 'Ditto' recorded its 76th day at No. 1 on Melon's daily chart (launched January 1, 2014), surpassing the previous record held by BTS's 'Dynamite'. The same week it had set the record for 10 consecutive weeks atop the weekly chart."
+      "ja": "「Ditto」が2023年3月5日、Melonデイリーチャート（2014年1月1日開始）で76日目の1位を記録し、それまでの最多記録だったBTS「Dynamite」の75日を上回った。2月27日発表の週間チャートでは10週連続1位の記録も樹立していた。",
+      "en": "On March 5, 2023, 'Ditto' recorded its 76th day at No. 1 on Melon's daily chart (launched January 1, 2014), surpassing the previous record of 75 days held by BTS's 'Dynamite'. On the weekly chart announced February 27 it had already set the record for 10 consecutive weeks at No. 1."
     },
-    "source_url": "https://www.soompi.com/article/1570513wpp/newjeans-ditto-overtakes-btss-dynamite-to-become-song-with-most-days-at-no-1-on-melon-chart",
+    "source_url": "https://news.tf.co.kr/read/ogmeta/2002912.htm",
     "media": {
       "type": "none"
     },
@@ -2594,8 +2602,12 @@
       "chart",
       "melon"
     ],
-    "verified": false,
-    "editor_note": "Melon daily history not retrievable from this environment; no Melon/Kakao statement found. Not contradicted."
+    "verified": true,
+    "editor_note": "Melon daily history not retrievable from this environment; no Melon/Kakao statement found. Not contradicted. / 2026-10-24 nightly: The Fact (2023-03-07) confirms 76 daily No. 1s as of 3/5, past Dynamite's 75. 'Same week' wording fixed: the 10-week weekly record was announced 2/27 (previous week).",
+    "reference_urls": [
+      "https://news.tf.co.kr/read/ogmeta/2002912.htm",
+      "https://www.soompi.com/article/1570513wpp/newjeans-ditto-overtakes-btss-dynamite-to-become-song-with-most-days-at-no-1-on-melon-chart"
+    ]
   },
   {
     "id": "record-2023-03-05-kma-20-best-kpop-album-new-jeans",
@@ -2767,12 +2779,13 @@
       "certification",
       "streaming"
     ],
-    "verified": false,
+    "verified": true,
     "reference_urls": [
+      "https://www.etnews.com/20230309000237",
       "https://circlechart.kr/page_chart/certification.circle",
       "https://www.soompi.com/article/1571691wpp/txt-scores-double-million-circle-certification-newjeans-blackpink-twice-and-more-go-triple-double-platinum"
     ],
-    "editor_note": "Circle streaming list now shows Hype boy at 3P (2026-08-06); the 2023-03-09 (Thursday) 1P entry is superseded and not displayed. Not contradicted."
+    "editor_note": "Circle streaming list now shows Hype boy at 3P (2026-08-06); the 2023-03-09 (Thursday) 1P entry is superseded and not displayed. Not contradicted. / 2026-10-24 nightly: etnews 2023-03-09 lists streaming certs [3P] Jang Beom-june, [2P] IU 'Love poem', [1P] NewJeans 'Hype boy'; Circle's live API now shows only the later 3P grade. Jan/Feb 2023 cert lists (NSP, etnews) carry no NewJeans streaming cert."
   },
   {
     "id": "record-2023-03-09-circle-cert-omg-new-jeans-triple-platinum",
@@ -2803,12 +2816,14 @@
     "tags": [
       "certification"
     ],
-    "verified": false,
+    "verified": true,
     "reference_urls": [
+      "https://www.etnews.com/20230309000237",
+      "http://www.nspna.com/news/?mode=view&newsid=624652",
       "https://circlechart.kr/page_chart/certification.circle",
       "https://www.soompi.com/article/1571691wpp/txt-scores-double-million-circle-certification-newjeans-blackpink-twice-and-more-go-triple-double-platinum"
     ],
-    "editor_note": "Superseded in Circle's live list by OMG Million (2023-05-11), New Jeans Million (2023-09-07) and OMG (Weverse) 2P (2026-04-09). 2023-03-09 is a Thursday. Not contradicted."
+    "editor_note": "Superseded in Circle's live list by OMG Million (2023-05-11), New Jeans Million (2023-09-07) and OMG (Weverse) 2P (2026-04-09). 2023-03-09 is a Thursday. Not contradicted. / 2026-10-24 nightly: etnews / NSP (2023-03-09) list album certs [3P] '1st EP New Jeans' and 'OMG', [1P] 'OMG (Weverse)'."
   },
   {
     "id": "record-2023-03-25-ditto-circle-digital-13th-week-no1",
@@ -2866,11 +2881,14 @@
       "en": "'Ditto' held No. 1 on Melon's daily chart through March 27, 2023, a total of 99 days since its December 19, 2022 release, the most in the chart's history."
     },
     "detail": {
-      "ja": "「Ditto」のMelonデイリーチャート1位日数が2023年3月27日時点で99日に達し、同チャート史上最多となった。2022年12月19日の公開翌日から1位を続け、3月上旬にBTS「Dynamite」の記録を更新した後も首位を守った。",
-      "en": "'Ditto' had spent 99 days at No. 1 on Melon's daily chart as of March 27, 2023, the most for any song in the chart's history. It topped the chart from the day after its December 19, 2022 release, passed BTS's 'Dynamite' record in early March and kept the lead."
+      "ja": "「Ditto」のMelonデイリーチャート1位日数が2023年3月27日時点で99日に達し、同チャート史上最多となった。2022年12月19日の公開直後から1位を続け、3月上旬にBTS「Dynamite」の75日の記録を更新した後も首位を守った。",
+      "en": "'Ditto' had spent 99 days at No. 1 on Melon's daily chart as of March 27, 2023, the most for any song in the chart's history. It topped the chart from right after its December 19, 2022 release, passed the 75-day record of BTS's 'Dynamite' in early March and kept the lead."
     },
     "source_url": "https://www.koreatimes.co.kr/www/art/2023/12/398_365182.html",
     "reference_urls": [
+      "http://www.newsinside.kr/news/articleView.html?idxno=1328306",
+      "http://www.mydaily.co.kr/new_yk/html/read.php?newsid=202304020834762045",
+      "https://news.tf.co.kr/read/ogmeta/2002912.htm",
       "https://www.koreajoongangdaily.com/entertainment/newjeans-ditto-sets-record-for-topping-melon-chart-77-days-straight/11173111"
     ],
     "media": {
@@ -2880,8 +2898,8 @@
       "chart",
       "melon"
     ],
-    "verified": false,
-    "editor_note": "99-day span (2022.12.19-2023.3.27) per TenAsia/Korea Times; whether every day was consecutive is phrased differently across outlets. / Melon daily history not retrievable; not contradicted."
+    "verified": true,
+    "editor_note": "99-day span (2022.12.19-2023.3.27) per TenAsia/Korea Times; whether every day was consecutive is phrased differently across outlets. / Melon daily history not retrievable; not contradicted. / 2026-10-24 nightly: ADOR statement of 2023-04-02 (Newsinside, My Daily) gives 99 straight days at No. 1 from 2022-12-19 to 2023-03-27; 'from the day after release' changed to 'right after release' to match ADOR's span."
   },
   {
     "date_type": "announce",
@@ -2951,8 +2969,15 @@
       "chart",
       "melon"
     ],
-    "verified": false,
-    "editor_note": "Melon monthly history not retrievable; not contradicted."
+    "verified": true,
+    "editor_note": "Melon monthly history not retrievable; not contradicted. / 2026-10-24 nightly: Newsis / News1 / Newsinside / My Daily (ADOR, 2023-04-02) confirm the 3-month Melon monthly top-3 sweep, first since Nov 2004, Ditto 99 days daily and 14 straight weeks weekly.",
+    "reference_urls": [
+      "http://www.newsinside.kr/news/articleView.html?idxno=1328306",
+      "http://www.newsis.com/view/?id=NISX20230402_0002250306",
+      "https://www.news1.kr/articles/5001827",
+      "http://www.mydaily.co.kr/new_yk/html/read.php?newsid=202304020834762045",
+      "https://www.soompi.com/article/1576843wpp/newjeans-becomes-1st-artist-in-history-to-sweep-top-3-spots-for-3-months-on-melons-monthly-chart"
+    ]
   },
   {
     "id": "record-2023-04-24-forbes-korea-power-celebrity-40-2023",

@@ -1530,11 +1530,16 @@
       "en": "Inkigayo: Ditto wins #1"
     },
     "summary": {
-      "ja": "SBS『人気歌謡』で「Ditto」が6,719点で1位を獲得、出演なしでの受賞で同番組初の1位。",
+      "ja": "SBS『人気歌謡』で「Ditto」が6,719点で1位を獲得。NewJeansは出演せず、同番組での「Ditto」初の1位だった。",
       "en": "'Ditto' won its first Inkigayo trophy with 6,719 points, without NewJeans appearing on the episode."
     },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "source_url": "http://www.tvdaily.co.kr/read.php3?aid=16731637441664502010",
+    "reference_urls": [
+      "http://www.tvdaily.co.kr/read.php3?aid=16731637441664502010",
+      "http://www.mydaily.co.kr/new_yk/html/read.php?newsid=202301081642204056",
+      "https://www.news1.kr/articles/4886530",
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
     "media": {
       "type": "none"
     },
@@ -1542,7 +1547,7 @@
       "music-show",
       "win"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "SBS『人気歌謡』で「Ditto」が6,719点で1位を獲得した。1位候補はATEEZ「HALAZIA」、LE SSERAFIM「ANTIFRAGILE」と「Ditto」。NewJeansはこの回に出演しておらず、ステージなしでの受賞だった。『人気歌謡』での「Ditto」初の1位。",
       "en": "'Ditto' took first place on SBS's Inkigayo with 6,719 points over ATEEZ's 'HALAZIA' and Le Sserafim's 'ANTIFRAGILE'. NewJeans did not appear on the episode, so there was no performance. It was the song's first Inkigayo win."
@@ -1551,7 +1556,7 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Nominees and points per TV Daily report of Jan 8, 2023. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "editor_note": "Nominees and points per TV Daily report of Jan 8, 2023. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip / 2026-10-24 nightly: TV Daily 2023-01-08 gives nominees (ATEEZ/LE SSERAFIM) and 6,719 points; performer list excludes NewJeans; Inkigayo did not air 12/18, 12/25, 1/1 (News1), so this was Ditto's first Inkigayo win. JA summary reworded (was ambiguous 'first win on the show').",
     "image": {
       "url": "https://www.stoo.com/upimages/gisaimg/202301/08_847608_35784.jpg",
       "source_url": "http://www.stoo.com/article.php?aid=84760835784"
@@ -1572,11 +1577,15 @@
       "en": "M Countdown: OMG wins #1"
     },
     "summary": {
-      "ja": "Mnet『M COUNTDOWN』で「OMG」がNCT DREAM「Candy」を抑え7,834点で1位、同曲初の音楽番組1位。",
-      "en": "'OMG' took its first music-show trophy on M Countdown with 7,834 points over NCT Dream's 'Candy'."
+      "ja": "Mnet『M COUNTDOWN』で「OMG」がNCT DREAM「Candy」を抑えて1位を獲得、同曲初の音楽番組1位。",
+      "en": "'OMG' took its first music-show trophy on M Countdown, beating NCT Dream's 'Candy'."
     },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "source_url": "http://www.tvdaily.co.kr/read.php3?aid=16735169831664904010",
+    "reference_urls": [
+      "http://www.tvdaily.co.kr/read.php3?aid=16735169831664904010",
+      "https://www.osen.co.kr/article/G1112025419",
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
     "media": {
       "type": "none"
     },
@@ -1584,16 +1593,16 @@
       "music-show",
       "win"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "Mnet『M COUNTDOWN』で「OMG」が1位候補のNCT DREAM「Candy」を抑え、7,834点で1位を獲得した。1月2日発売のシングルアルバム『OMG』のタイトル曲で、音楽番組での最初の1位。NewJeansは番組に出演せず、不在での受賞だった。",
-      "en": "'OMG', the title track of the single album released on January 2, won first place on Mnet's M Countdown with 7,834 points over NCT Dream's 'Candy'. It was the song's first music-show trophy; NewJeans did not appear on the broadcast."
+      "ja": "Mnet『M COUNTDOWN』で「OMG」が1位候補のNCT DREAM「Candy」を抑え、1月第2週の1位を獲得した。1月2日発売のシングルアルバム『OMG』のタイトル曲で、音楽番組での最初の1位。NewJeansは番組に出演せず、不在での受賞だった。",
+      "en": "'OMG', the title track of the single album released on January 2, won first place for the second week of January on Mnet's M Countdown over NCT Dream's 'Candy'. It was the song's first music-show trophy; NewJeans did not appear on the broadcast."
     },
     "credits": {
       "broadcaster": "Mnet",
       "program": "M COUNTDOWN"
     },
-    "editor_note": "Nominee and no-appearance per TV Daily; points per M Countdown chart list. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "editor_note": "Nominee and no-appearance per TV Daily; points per M Countdown chart list. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip / 2026-10-24 nightly: TV Daily 2023-01-12 confirms win over NCT DREAM 'Candy'; OSEN 2023-01-15 confirms no appearance. The 7,834-point figure was not found in any fetched source and was removed.",
     "image": {
       "url": "https://onimg.nate.com/orgImg/tv/2023/01/12/121664904.jpg",
       "source_url": "https://news.nate.com/view/20230112n33569"
@@ -1617,8 +1626,13 @@
       "ja": "KBS『ミュージックバンク』で「Ditto」がムンビン&サナ「Madness」との対決を制し、合計11,011点で1位。",
       "en": "'Ditto' won Music Bank with 11,011 points against Moon Bin & Sanha's 'Madness', leading in digital, album and social scores."
     },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "source_url": "https://www.youtube.com/watch?v=eH43tNSXQcI",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=eH43tNSXQcI",
+      "http://www.newsinside.kr/news/articleView.html?idxno=1150544",
+      "https://www.osen.co.kr/article/G1112025419",
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
     "media": {
       "type": "youtube",
       "ref": "eH43tNSXQcI"
@@ -1627,7 +1641,7 @@
       "music-show",
       "win"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "KBS『ミュージックバンク』で「Ditto」がムンビン&サナ「Madness」との1位対決を制し、合計11,011点で1位を獲得した。ムンビン&サナは放送回数とK-POPファン投票で上回ったが、「Ditto」がデジタル音源、音盤、SNSの各スコアで大差をつけた。NewJeansはこの回に出演していない。",
       "en": "'Ditto' won first place on KBS's Music Bank with 11,011 points against Moon Bin & Sanha's 'Madness'. The latter led in broadcast-count and K-pop fan-vote scores, while 'Ditto' led by a wide margin in digital, album and social-media scores. NewJeans did not perform on the episode."
@@ -1636,7 +1650,7 @@
       "broadcaster": "KBS 2TV",
       "program": "Music Bank"
     },
-    "editor_note": "Points and nominee per Newsinside (KBS K-Chart). / 公式動画: KBS WORLD TV「(Interview) Winner's Ceremony - NewJeans 🏆 [Music Bank] | KBS WORLD TV 230113」(2023-01-13)",
+    "editor_note": "Points and nominee per Newsinside (KBS K-Chart). / 公式動画: KBS WORLD TV「(Interview) Winner's Ceremony - NewJeans 🏆 [Music Bank] | KBS WORLD TV 230113」(2023-01-13) / 2026-10-24 nightly: KBS WORLD TV official clip 'Winner's Ceremony - NewJeans [Music Bank] 230113' (KST 2023-01-13); Newsinside gives 11,011 points vs Moon Bin & Sanha and the score breakdown; OSEN 1/15 confirms the Ditto trophies came without appearances.",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=eH43tNSXQcI"
     }
@@ -1704,8 +1718,12 @@
       "ja": "SBS『人気歌謡』で「Ditto」「OMG」のカムバック初ステージを披露し、「OMG」がLE SSERAFIMを抑えて1位。",
       "en": "NewJeans' first music-show comeback stage, with 'Ditto' and 'OMG' on Inkigayo, where 'OMG' won first place over Le Sserafim."
     },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
+    "source_url": "https://www.youtube.com/watch?v=-p1ftgMVWOc",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=-p1ftgMVWOc",
+      "http://www.joynews24.com/view/1558362",
+      "https://www.newsen.com/news_view.php?uid=202301151549472310",
+      "https://www.xportsnews.com/article/1677074",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
       "https://www.youtube.com/watch?v=qaO0Wq3Acfs",
       "https://www.youtube.com/watch?v=20mMVe-gEPs",
@@ -1722,7 +1740,7 @@
       "music-show",
       "win"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "SBS『人気歌謡』で『OMG』のカムバックステージを行い、「Ditto」と「OMG」を披露した。音楽番組でのカムバック初ステージで、「OMG」は1位候補のLE SSERAFIMを抑えて1位を獲得。同じ回にはMONSTA X、SF9のカムバックステージもあった。",
       "en": "NewJeans held their comeback stage for the single album OMG on SBS's Inkigayo, performing 'Ditto' and 'OMG'. It was their first music-show performance of the comeback, and 'OMG' won first place over Le Sserafim. Monsta X and SF9 also staged comebacks on the episode."
@@ -1731,7 +1749,7 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Nominee (Le Sserafim) and comeback-stage detail per Joynews24 (Jan 15, 2023). / 公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - OMG @인기가요 inkigayo 20230115」(2023-01-15); 関連6本をreference_urlsに記載",
+    "editor_note": "Nominee (Le Sserafim) and comeback-stage detail per Joynews24 (Jan 15, 2023). / 公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - OMG @인기가요 inkigayo 20230115」(2023-01-15); 関連6本をreference_urlsに記載 / 2026-10-24 nightly: SBSKPOP official upload of the OMG stage (KST 2023-01-15); Joynews24/Newsen/Xportsnews confirm OMG win over LE SSERAFIM, first comeback music-show stage, Monsta X and SF9 comebacks.",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=-p1ftgMVWOc"
     }
@@ -1797,27 +1815,32 @@
       "en": "32nd Seoul Music Awards"
     },
     "summary": {
-      "ja": "KSPO DOMEで開かれたスポーツソウル主催の第32回ソウル歌謡大賞で新人賞を受賞。",
-      "en": "NewJeans received Rookie of the Year at the 32nd Seoul Music Awards at KSPO Dome."
+      "ja": "KSPO DOMEで開かれた第32回ソウル歌謡大賞で新人賞を受賞。授賞式には出席せず、映像で感想を伝えた。",
+      "en": "NewJeans received Rookie of the Year at the 32nd Seoul Music Awards at KSPO Dome, sending a video message instead of attending."
     },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "source_url": "https://www.bntnews.co.kr/article/view/bnt202301200020",
+    "reference_urls": [
+      "https://www.bntnews.co.kr/article/view/bnt202301200020",
+      "https://www.gukjenews.com/news/articleView.html?idxno=2639641",
+      "https://www.mk.co.kr/article/10613463",
+      "https://ja.wikipedia.org/wiki/NewJeans"
+    ],
     "media": {
       "type": "none"
     },
     "tags": [
       "award-show"
     ],
-    "verified": false,
-    "editor_note": "Award per ja.wikipedia; in-person attendance not independently confirmed. | en.wikipedia 32nd SMA page: NewJeans not in performer list; in-person attendance still unconfirmed. / 公式YouTube動画なし: Seoul Music Awards official channel has no NewJeans clip for the 32nd ceremony; only fan uploads exist",
+    "verified": true,
+    "editor_note": "Award per ja.wikipedia; in-person attendance not independently confirmed. | en.wikipedia 32nd SMA page: NewJeans not in performer list; in-person attendance still unconfirmed. / 公式YouTube動画なし: Seoul Music Awards official channel has no NewJeans clip for the 32nd ceremony; only fan uploads exist / 2026-10-24 nightly: bnt news / Gukje News / MK (2023-01-19/20) report NewJeans absent ('불참'), video acceptance; joint rookie award with TNX and LE SSERAFIM; broadcast KBS Joy and 아이돌플러스 (not 'U+Idol Live').",
     "detail": {
-      "ja": "ソウル・オリンピック公園のオリンピック体操競技場（KSPO DOME）で開かれた第32回ソウル歌謡大賞で新人賞を受賞した。スポーツソウルが主催し、KBS JoyとU+アイドルLiveで放送・配信された授賞式で、司会はチェ・ミンホ、ミジュ、キム・イルジュン。人気賞と韓流特別賞にもノミネートされていたが、出演者リストには含まれていない。",
-      "en": "NewJeans received Rookie of the Year at the 32nd Seoul Music Awards at the Olympic Gymnastics Arena (KSPO Dome) in Seoul. Organized by Sports Seoul, the ceremony was broadcast on KBS Joy and U+Idol Live and hosted by Choi Min-ho, Mijoo and Kim Il-joong. NewJeans were also nominated for the Popularity Award and the Hallyu Special Award, but are not listed among the performers."
+      "ja": "ソウル・オリンピック公園のKSPO DOMEで開かれた第32回ソウル歌謡大賞で、TNX、LE SSERAFIMとともに新人賞を受賞した。NewJeansは授賞式に出席せず、映像で「この賞はバニーズのおかげ」と感想を伝えた。スポーツソウルが主催し、KBS Joyとアイドルプラスで生中継された授賞式で、司会はチェ・ミンホ、ミジュ、キム・イルジュン。",
+      "en": "NewJeans shared Rookie of the Year with TNX and Le Sserafim at the 32nd Seoul Music Awards at KSPO Dome in Olympic Park, Seoul. They did not attend the ceremony and sent a video message crediting their fans, Bunnies, for the award. Organized by Sports Seoul, the ceremony was broadcast live on KBS Joy and Idol Plus and hosted by Choi Min-ho, Mijoo and Kim Il-joong."
     },
     "credits": {
       "venue": "Olympic Gymnastics Arena (KSPO Dome), Seoul",
       "organizer": "Sports Seoul",
-      "broadcaster": "KBS Joy, U+Idol Live",
+      "broadcaster": "KBS Joy, Idol Plus",
       "host": "Choi Min-ho, Mijoo, Kim Il-joong"
     }
   },
@@ -1839,8 +1862,11 @@
       "ja": "KBS『ミュージックバンク』で「Ditto」「OMG」を披露した、『OMG』活動での同番組初ステージ。",
       "en": "NewJeans' first Music Bank stage of the OMG promotions, performing 'Ditto' and 'OMG'."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+    "source_url": "https://www.youtube.com/watch?v=X8jjlicVUyY",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=X8jjlicVUyY",
+      "http://www.mydaily.co.kr/new_yk/html/read.php?newsid=202301201943409240",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
       "https://www.youtube.com/watch?v=tnGpaZBNBw8",
       "https://www.youtube.com/watch?v=0R-tkdX8UUw",
       "https://www.youtube.com/watch?v=8NFnxU8Ly1A",
@@ -1854,7 +1880,7 @@
     "tags": [
       "music-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "KBS『ミュージックバンク』で「Ditto」と「OMG」を披露した。『OMG』活動での『ミュージックバンク』初ステージとなった。",
       "en": "NewJeans performed 'Ditto' and 'OMG' on KBS's Music Bank. It was their first Music Bank stage of the OMG promotions."
@@ -1866,7 +1892,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=X8jjlicVUyY"
     },
-    "editor_note": "公式動画: KBS Kpop「OMG - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230120 방송」(2023-01-20); 関連5本をreference_urlsに記載"
+    "editor_note": "公式動画: KBS Kpop「OMG - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230120 방송」(2023-01-20); 関連5本をreference_urlsに記載 / 2026-10-24 nightly: KBS Kpop official upload 'OMG ... KBS 230120 방송' (KST 2023-01-20); My Daily 2023-01-20 confirms OMG and Ditto stages on the broadcast."
   },
   {
     "id": "tv-2023-01-20-music-bank-minji-special-mc",
@@ -1892,7 +1918,9 @@
     },
     "source_url": "https://v.daum.net/v/20230120181225514",
     "reference_urls": [
-      "https://v.daum.net/v/20230118175431460"
+      "https://v.daum.net/v/20230120181225514",
+      "https://v.daum.net/v/20230118175431460",
+      "http://www.mydaily.co.kr/new_yk/html/read.php?newsid=202301201832561328"
     ],
     "media": {
       "type": "none"
@@ -1906,8 +1934,8 @@
       "music-show",
       "kbs"
     ],
-    "verified": false,
-    "editor_note": "Same broadcast as existing group record tv-2023-01-20-music-bank-ditto-omg (which does not mention her MC role); this record covers the individual hosting. TV Report 2023-01-18 confirmed via ADOR. Second week (27 Jan) not separately verified. / Source is a press report (Daum News); not confirmed against an official page."
+    "verified": true,
+    "editor_note": "Same broadcast as existing group record tv-2023-01-20-music-bank-ditto-omg (which does not mention her MC role); this record covers the individual hosting. TV Report 2023-01-18 confirmed via ADOR. Second week (27 Jan) not separately verified. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: no official KBS page found; Xportsnews 2023-01-20 (via Daum) confirms intro as 'special bank manager', Hype Boy greeting, first-time hosting, two weeks, chant; TV Report 2023-01-18 confirms Jang Won-young's last broadcast 1/13 and ADOR confirmation."
   },
   {
     "id": "tv-2023-01-26-mcountdown-omg-win-2",

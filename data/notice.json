@@ -1224,10 +1224,12 @@
       "ja": "ComplexCon香港のステージの最後に、NJZが裁判所の決定を尊重して当面すべての活動を中断すると発表した。",
       "en": "At the end of their ComplexCon Hong Kong set, NJZ announced a pause of all activities in respect of the court's decision."
     },
-    "source_url": "https://en.wikipedia.org/wiki/NJZ",
+    "source_url": "http://www.osen.co.kr/article/G1112529609",
     "reference_urls": [
-      "https://www.aol.com/k-pop-group-newjeans-announces-100405636.html",
-      "https://www.koreaboo.com/news/njz-newjeans-hiatus-announcement-met-unanticipated-reactions/"
+      "http://www.osen.co.kr/article/G1112529609",
+      "https://www.job-post.co.kr/news/articleView.html?idxno=136826",
+      "https://www.koreaboo.com/news/njz-newjeans-hiatus-announcement-met-unanticipated-reactions/",
+      "https://en.wikipedia.org/wiki/NJZ"
     ],
     "media": {
       "type": "none"
@@ -1238,13 +1240,13 @@
       "hiatus",
       "dispute"
     ],
-    "verified": false,
-    "note": "公演自体はliveカテゴリを参照。ADORは翌日、一方的な活動中断発表に遺憾を示しメンバーとの面談を求めた。",
-    "note_en": "See the live category for the performance itself. The next day ADOR expressed regret at the unilateral announcement of a pause and asked to meet the members.",
-    "editor_note": "On-stage announcement (read as a letter). The ComplexCon performance belongs to the live category; this record covers only the announcement. ADOR's 03-24 response text not retrieved in full. | Who read the letter is not stated in Koreaboo's report; aol.com source returned 404. The performance itself belongs to the live category.",
+    "verified": true,
+    "note": "公演自体はliveカテゴリを参照。",
+    "note_en": "See the live category for the performance itself.",
+    "editor_note": "On-stage announcement (read as a letter). The ComplexCon performance belongs to the live category; this record covers only the announcement. ADOR's 03-24 response text not retrieved in full. | Who read the letter is not stated in Koreaboo's report; aol.com source returned 404. The performance itself belongs to the live category. / 2026-10-24 nightly: OSEN 2025-03-24 confirms 23 Mar at AsiaWorld-Expo, after the final song, read from a prepared memo, 'respecting the court decision' of the 21st, 'will definitely come back'. Removed: 'letter signed by all five' (not in Korean reports), and NJZ's 3/21 'will object' statement (objection filing was only reported 3/24, Newsen). Note trimmed: ADOR's next-day response is later than the record date.",
     "detail": {
-      "ja": "ComplexCon Hong Kong（アジアワールド・エキスポ）でのステージの最後に、NJZのメンバー5人（ミンジ、ハニ、ダニエル、ヘリン、ヘイン）は連名の手紙を読み上げ、3月21日の裁判所の決定を尊重して当分の間すべての活動を止めると発表した。難しいが必要な決定であり、自分たちを立て直す時間を取った後、必ず戻ってくると伝えた。ADORは21日にソウル中央地裁から独自活動を禁じる仮処分を得ており、NJZ側は同日、決定を尊重しつつ異議を申し立てると表明していた。",
-      "en": "At the end of their set at ComplexCon Hong Kong (AsiaWorld-Expo), the five NJZ members (Minji, Hanni, Danielle, Haerin and Hyein) read a letter signed by all five announcing that they would pause all activities for the time being in respect of the court's March 21 decision. The letter called it a difficult but necessary decision and said they would be back, no matter what, after taking some time to collect themselves. ADOR had obtained the injunction barring independent activities from the Seoul Central District Court on March 21, and NJZ's side had said the same day that it respected the decision but would file an objection."
+      "ja": "ComplexCon Hong Kong（アジアワールド・エキスポ）でのステージの最後に、NJZのメンバー5人（ミンジ、ハニ、ダニエル、ヘリン、ヘイン）は用意したメモを読み上げ、3月21日の裁判所の決定を尊重して当分の間すべての活動を止めると発表した。難しいが必要な決定だとし、必ず戻ってくると伝えた。ADORは21日、ソウル中央地裁から独自活動を禁じる仮処分を得ていた。",
+      "en": "At the end of their set at ComplexCon Hong Kong (AsiaWorld-Expo), the five NJZ members (Minji, Hanni, Danielle, Haerin and Hyein) read from a prepared note, announcing that they would pause all activities for the time being in respect of the court's March 21 decision. They called it a difficult but necessary decision and said they would definitely be back. ADOR had obtained the injunction barring independent activities from the Seoul Central District Court on March 21."
     },
     "credits": {
       "issuer": "NJZ members (on-stage letter)",
@@ -1268,6 +1270,9 @@
     },
     "source_url": "https://www.segye.com/newsView/20250416517256",
     "reference_urls": [
+      "https://www.segye.com/newsView/20250416517256",
+      "http://www.celuvmedia.com/article.php?aid=1744798267498303007",
+      "https://www.newsen.com/news_view.php?uid=202504161833276310",
       "https://www.osen.co.kr/article/G1112547893",
       "https://mobile.newsis.com/view/NISX20250416_0003142174"
     ],
@@ -1280,8 +1285,8 @@
       "appeal",
       "dispute"
     ],
-    "verified": false,
-    "editor_note": "Entity set to njz because the appeal is the members' action during the NJZ-period legal track; the group stopped using the NJZ name around this time (English Wikipedia).",
+    "verified": true,
+    "editor_note": "Entity set to njz because the appeal is the members' action during the NJZ-period legal track; the group stopped using the NJZ name around this time (English Wikipedia). / 2026-10-24 nightly: Segye 2025-04-16 confirms Civil Division 50 (Kim Sang-hoon), dismissal and the three reasons incl. Dolgorae Yugoedan; Celuv/Newsen [공식] 2025-04-16 quote counsel Sejong: 'today ... we filed an immediate appeal'.",
     "detail": {
       "ja": "ソウル中央地裁民事合議50部（キム・サンフン首席部長判事）は、メンバー5人が3月21日の仮処分決定に対して申し立てた異議を棄却し、独自活動を禁じる原決定を認可した。提出資料ではADORの契約違反や契約を終わらせるほどの信頼関係の破綻が十分に疎明されたとは言い難いとし、ミン・ヒジン前代表の解任はADORの経営判断でメンバーのプロデュース業務に直接関係せず、契約がミン前代表のプロデュースを前提としていた証拠もないとした。広告制作会社トルゴレユグェダン（Dolphiners Films）との紛争も本件の当事者でない者同士の争いで、それだけでADORが重要な義務に違反したとは言えないと判断した。メンバー側の代理人（法務法人セジョン）は同日、ソウル高裁に即時抗告した。",
       "en": "The Seoul Central District Court's Civil Division 50 (presiding judge Kim Sang-hoon) dismissed the five members' objection to the March 21 injunction and affirmed the original decision barring independent activities. The court found that the materials submitted did not sufficiently show a breach by ADOR or a breakdown of trust severe enough to end the contract, that the dismissal of former CEO Min Hee-jin was an ADOR management decision not directly tied to producing work for the members, and that there was no evidence the contract was premised on her producing. It also held that a dispute involving the ad production company Dolphiners Films (Dolgorae Yugoedan), a non-party, did not by itself show ADOR had breached a material obligation. The members' counsel, the law firm Sejong (Shin & Kim), filed an immediate appeal with the Seoul High Court the same day."
@@ -1308,6 +1313,8 @@
     },
     "source_url": "https://www.dt.co.kr/article/11668476",
     "reference_urls": [
+      "https://www.newspim.com/news/view/20250530001037",
+      "https://www.yna.co.kr/view/AKR20250530131751004",
       "https://www.sidae.com/article/2025053017062078742",
       "https://nocutnews.co.kr/news/6348447"
     ],
@@ -1320,10 +1327,10 @@
       "indirect-enforcement",
       "dispute"
     ],
-    "verified": false,
+    "verified": true,
     "note": "裁判所は仮処分の2日後にNJZ名義で香港公演と新曲発表を行った事実を認定した。ADORは1回20億ウォンを求めていた。",
     "note_en": "The court found that two days after the injunction the group had performed in Hong Kong and released a new song under the NJZ name. ADOR had asked for 2 billion won per violation.",
-    "editor_note": "Decision dated 05-29 (reported 05-30; the task brief listed 05-30). / Removed source mention from reader text: Digital Times, reported May 30, 2025.",
+    "editor_note": "Decision dated 05-29 (reported 05-30; the task brief listed 05-30). / Removed source mention from reader text: Digital Times, reported May 30, 2025. / 2026-10-24 nightly: Newspim 2025-05-30 (and Yonhap headline/snippet) confirm the 5/29 decision by Civil Division 52 (Heo Kyung-moo), 1 billion won per violation per member until the first-instance ruling, the finding on the 3/23 NJZ concert and new song, likelihood of further violations, and ADOR's 2 billion won request.",
     "detail": {
       "ja": "ソウル中央地裁民事合議52部（ホ・ギョンム部長判事）はADORの間接強制の申請を認め、専属契約有効確認訴訟の1審判決まで、メンバーがADORの事前の承認・同意なしに芸能活動をした場合、違反1回につき各自がADORに10億ウォンを支払うよう命じた。裁判所は、3月21日の仮処分のわずか2日後の3月23日にメンバーが海外公演にNJZの名で出演し新曲を公開したことを仮処分違反と認め、仮処分の前後を通じて独自活動の意思を直接・間接に示しており今後も違反のおそれがあるとして、履行を強制する間接強制が必要だと判断した。",
       "en": "The Seoul Central District Court's Civil Division 52 (presiding judge Heo Kyung-moo) granted ADOR's application for indirect enforcement, ordering that until the first-instance ruling in the contract-validity suit each member must pay ADOR one billion won per violation if she engages in entertainment activities without ADOR's prior approval or consent. The court found that the members had violated the injunction by performing at an overseas concert under the name NJZ and releasing a new song on March 23, only two days after the March 21 injunction, and that because they had directly or indirectly expressed an intent to act independently before and after the injunction, further violations were likely, making indirect enforcement necessary."
@@ -1349,6 +1356,9 @@
     },
     "source_url": "https://www.newsis.com/view/NISX20250617_0003216845",
     "reference_urls": [
+      "https://www.newsis.com/view/NISX20250617_0003216845",
+      "https://www.mk.co.kr/article/11345179",
+      "https://www.newspim.com/news/view/20250617000905",
       "https://www.koreatimes.co.kr/entertainment/k-pop/20250618/court-upholds-ban-on-newjeans-independent-activities-dismisses-appeal",
       "https://www.koreaherald.com/article/10511481"
     ],
@@ -1361,10 +1371,10 @@
       "appeal",
       "dispute"
     ],
-    "verified": false,
+    "verified": true,
     "note": "裁判所は、メンバーが挙げた事由は信頼関係の破綻を招くものとは言い難いと判断した。",
     "note_en": "The court found that the reasons the members cited could hardly be said to have caused a breakdown of trust.",
-    "editor_note": "Task brief said 06-18; the decision is dated 06-17 (reports published 06-17/18).",
+    "editor_note": "Task brief said 06-18; the decision is dated 06-17 (reports published 06-17/18). / 2026-10-24 nightly: Newsis 2025-06-17 confirms the reasoning (investment/future earnings, Min's role not in contract, HYBE-Min dispute, ADOR still trusts the members, injunction needed until the main suit); MK gives the panel Hwang Byung-ha, Jung Jong-kwan, Lee Kyun-yong.",
     "detail": {
       "ja": "ソウル高裁民事25-2部（ファン・ビョンハ、チョン・ジョングァン、イ・ギュニョン部長判事）は、メンバー5人が仮処分の認可決定に対して申し立てた即時抗告を棄却し、独自活動を禁じる仮処分を維持した。メンバーが契約を離れて独自に活動すれば、ADORは過去の投資を回収する機会を失う一方でメンバーが将来の収益をすべて得ることになり不合理だとし、ミン・ヒジン前代表の役割は契約に定められておらず、その解任はHYBEとミン前代表の経営権をめぐる紛争から生じたもので、それ自体が契約の基礎となる信頼を壊すものではないと判断した。ADORがメンバーへの信頼を保っている以上、解除の要件となる信頼関係の破綻は認められず、本案の結論が出るまで仮処分が必要だとした。",
       "en": "The Seoul High Court's Civil Division 25-2 (judges Hwang Byung-ha, Jung Jong-kwan and Lee Kyun-yong) dismissed the five members' immediate appeal against the affirmation of the injunction, upholding the ban on independent activities. It reasoned that if the members left the contract and worked independently, ADOR would lose the chance to recoup its past investment while the members would effectively keep all future earnings, which it called unreasonable; that Min Hee-jin's role was not written into the contract and her removal as CEO arose from a management-control dispute between HYBE and Min, which did not by itself break the trust underlying the contract; and that because ADOR still maintained its trust in the members, the breakdown required for termination was not established, so the injunction was needed until the main suit was decided."
@@ -1390,6 +1400,9 @@
     },
     "source_url": "https://www.newsis.com/view/NISX20250625_0003226775",
     "reference_urls": [
+      "https://www.newsis.com/view/NISX20250625_0003226775",
+      "https://www.newsis.com/view/NISX20250625_0003226299",
+      "https://www.newspim.com/news/view/20250625000539",
       "https://www.osen.co.kr/article/G1112599616",
       "https://www.musicbusinessworldwide.com/newjeans-loses-final-appeal-in-contract-dispute-with-hybes-ador/"
     ],
@@ -1401,7 +1414,7 @@
       "injunction",
       "dispute"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "メンバー5人が、6月17日のソウル高裁の抗告棄却決定に対し、送達から1週間の期限内に再抗告しなかったため、ADORの企画会社地位保全・広告契約締結等禁止の仮処分が確定した。これによりメンバーは本案の判断が出るまで、ADORの事前の承認・同意なしに自ら、またはADOR以外の第三者を通じて芸能活動をすることができず、対象には作詞・作曲、公演、放送出演、広告交渉、商業活動が含まれる。抗告審は、ミン・ヒジン前代表がADORの代表やNewJeansのプロデュースを担う必要があるとの主張も退けていた。",
       "en": "The injunction preserving ADOR's status as agency and barring advertising and similar contracts became final after the five members did not file a re-appeal against the Seoul High Court's June 17 dismissal within the one-week deadline from service. Until the main suit is decided, the members therefore may not engage in entertainment activities on their own or through third parties without ADOR's prior approval or consent, covering songwriting, performing, broadcast appearances, advertising negotiations and commercial activities. The appeals court had also rejected the argument that Min Hee-jin must serve as ADOR's CEO or lead NewJeans' production."
@@ -1409,7 +1422,7 @@
     "credits": {
       "court": "Seoul High Court (decision of June 17, 2025, final on June 25)"
     },
-    "editor_note": "Removed source mention from reader text: Newsis."
+    "editor_note": "Removed source mention from reader text: Newsis. / 2026-10-24 nightly: Newsis 2025-06-25 (two articles) confirm no re-appeal by the deadline (7th day after service, midnight 6/24), finality on 6/25, the list of barred activities and the appeal court's rejection of the Min Hee-jin argument."
   },
   {
     "id": "notice-2025-08-14-first-mediation-session",
@@ -1433,6 +1446,9 @@
     },
     "source_url": "https://www.newsis.com/view/NISX20250814_0003291201",
     "reference_urls": [
+      "https://www.newsis.com/view/NISX20250814_0003291201",
+      "https://www.newspim.com/news/view/20250814000744",
+      "https://www.insight.co.kr/news/515948",
       "https://www.hankyung.com/article/2025081408727",
       "https://www.sidae.com/article/2025081417568037649"
     ],
@@ -1444,7 +1460,7 @@
       "mediation",
       "dispute"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "ソウル中央地裁民事合議41部（チョン・フェイル部長判事）で、ADORがメンバー5人を相手に起こした専属契約有効確認訴訟の調停が14時から15時21分まで非公開で行われた。前回の弁論で裁判長がメンバーの出席を求めたことを受け、ミンジとダニエルが出席した。合意には至らず、第2回調停は9月11日、不成立なら10月30日に判決を言い渡す予定とされた。4月の第1回弁論では、ADORが解除事由はなく契約第15条1項の14日間の是正期間も与えられなかったと主張し、メンバー側はミン・ヒジン前代表への報復的措置で信頼関係が壊れ、紛争後6〜7か月間ADORから連絡も是正措置もなかったと主張していた。",
       "en": "The Seoul Central District Court's Civil Division 41 (presiding judge Jung Hoe-il) held a closed mediation session from 2:00 to 3:21 pm in ADOR's contract-validity suit against the five members; Minji and Danielle attended after the judge had asked at the previous hearing for the members to appear. The session ended without agreement, a second session was set for September 11, and the court said it would deliver judgment on October 30 if mediation failed. At the first hearing in April, ADOR had argued there were no grounds for termination and that the 14-day cure period under Article 15(1) of the contract had not been given, while the members argued that ADOR's retaliatory actions against former CEO Min Hee-jin had broken trust and that ADOR had made no contact or corrective steps for six to seven months after the dispute began."
@@ -1452,7 +1468,7 @@
     "credits": {
       "court": "Seoul Central District Court, Civil Division 41 (presiding judge Jung Hoe-il)"
     },
-    "editor_note": "note sentences already covered by detail: 14時から15時21分まで。 第2回調停期日は9月11日に指定された。 / Source Newsis (2025-08-14). The former note sentences (14:00-15:21; second session on 09-11) are covered by detail. Cut for length: asked about the outcome and settlement terms, Minji and Danielle said only 'I'm sorry'."
+    "editor_note": "note sentences already covered by detail: 14時から15時21分まで。 第2回調停期日は9月11日に指定された。 / Source Newsis (2025-08-14). The former note sentences (14:00-15:21; second session on 09-11) are covered by detail. Cut for length: asked about the outcome and settlement terms, Minji and Danielle said only 'I'm sorry'. / 2026-10-24 nightly: Newsis 2025-08-14 confirms 14:00-15:21 closed session, Minji and Danielle attending at the judge's request, no agreement, second session 9/11, ruling 10/30 if it fails, and the April hearing arguments; Newspim/Insight confirm the attendance."
   },
   {
     "id": "notice-2025-09-11-second-mediation-session",

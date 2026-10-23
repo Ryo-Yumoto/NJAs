@@ -2604,7 +2604,7 @@
       "live-stream"
     ],
     "verified": false,
-    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. / 2026-10-24 nightly: Phoning lives are app-only and namu.wiki is blocked; Naver news search for a MAMA after-party Phoning call found nothing. Date, host account and length remain unconfirmed."
   },
   {
     "id": "content-2022-12-01-jeans-zine-mbti-ep-1",
@@ -2619,7 +2619,8 @@
     ],
     "title": {
       "ja": "MBTI探究タイム EP.1",
-      "en": "MBTI 탐구 시간 EP.1"
+      "en": "MBTI Exploration Time EP.1",
+      "original": "[Jeans' ZINE] MBTI 탐구 시간💭 EP.1"
     },
     "summary": {
       "ja": "メンバーがMBTIを探究するJeans' ZINE「MBTI探究タイム」の第1回。",
@@ -2635,7 +2636,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=8L51gF1Wb74",
     "reference_urls": [
-      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://www.youtube.com/watch?v=8L51gF1Wb74",
       "https://thetvdb.com/series/jeans-zine/allseasons/official"
     ],
     "media": {
@@ -2649,8 +2650,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 2022-12-01 KST, official NewJeans channel; English title was Korean, moved to title.original."
   },
   {
     "id": "content-2022-12-02-light-jeans-w-korea-photoshoot-behind-ep-1",
@@ -2712,7 +2713,8 @@
     ],
     "title": {
       "ja": "MBTI探究タイム EP.2",
-      "en": "MBTI 탐구 시간 EP.2"
+      "en": "MBTI Exploration Time EP.2",
+      "original": "[Jeans' ZINE] MBTI 탐구 시간💥 EP.2"
     },
     "summary": {
       "ja": "メンバーがMBTIを探究するJeans' ZINE「MBTI探究タイム」の第2回。",
@@ -2728,7 +2730,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=nH3QsG1m7S8",
     "reference_urls": [
-      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://www.youtube.com/watch?v=nH3QsG1m7S8",
       "https://thetvdb.com/series/jeans-zine/allseasons/official"
     ],
     "media": {
@@ -2742,8 +2744,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 2022-12-08 KST, official NewJeans channel; English title was Korean, moved to title.original."
   },
   {
     "id": "content-2022-12-09-light-jeans-w-korea-photoshoot-behind-ep-2",
@@ -2774,7 +2776,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=O8j22bBsui0",
     "reference_urls": [
-      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://www.youtube.com/watch?v=O8j22bBsui0",
       "https://thetvdb.com/series/light-jeans/allseasons/official"
     ],
     "media": {
@@ -2789,8 +2791,8 @@
       "behind",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 2022-12-09 KST, title '[Light Jeans] W KOREA Photoshoot Behind EP.2'."
   },
   {
     "id": "content-2022-12-13-phoning-aaa-afterparty-face-call",
@@ -2825,7 +2827,7 @@
       "live-stream"
     ],
     "verified": false,
-    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. Host account and member line-up for this entry are not stated in the log."
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. Host account and member line-up for this entry are not stated in the log. / 2026-10-24 nightly: Phoning lives are app-only and namu.wiki is blocked; Naver news search for an AAA after-party Phoning call found nothing. Date and length remain unconfirmed."
   },
   {
     "id": "content-2022-12-15-jeans-zine-2022-unseen-moments",
@@ -2951,7 +2953,7 @@
       "live-stream"
     ],
     "verified": false,
-    "editor_note": "Date and content from the fan-maintained namu.wiki \"NewJeans/Phoning LIVE\" log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+    "editor_note": "Date and content from the fan-maintained namu.wiki \"NewJeans/Phoning LIVE\" log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. / 2026-10-24 nightly: Phoning lives are app-only and namu.wiki is blocked; Naver news search for a Ditto-release Phoning live found nothing. Date and content remain unconfirmed."
   },
   {
     "id": "content-2022-12-21-yt-ditto",
@@ -2965,8 +2967,9 @@
       "all"
     ],
     "title": {
-      "ja": "NewJeans 『Ditto』応援法",
-      "en": "NewJeans (뉴진스) 'Ditto' 응원법"
+      "ja": "「Ditto」応援法",
+      "en": "'Ditto' Cheer Guide",
+      "original": "NewJeans (뉴진스) 'Ditto' 응원법"
     },
     "summary": {
       "ja": "「Ditto」の応援法（ファンの掛け声）を紹介するガイド映像で、シリーズに属さない単発コンテンツ。",
@@ -2982,7 +2985,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=ZlyE2fEpsd8",
     "reference_urls": [
-      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+      "https://www.youtube.com/watch?v=ZlyE2fEpsd8"
     ],
     "media": {
       "type": "youtube",
@@ -2995,8 +2998,8 @@
       "clip",
       "cheer-guide"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 2022-12-21 KST; titles restyled (song in 「」, English title in English)."
   },
   {
     "id": "content-2022-12-22-jeans-zine-year-end-party-ep-1",

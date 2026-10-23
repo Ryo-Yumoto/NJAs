@@ -111,6 +111,7 @@
     try { state.eras = await (await fetch("data/eras.json", { cache: "no-store" })).json(); } catch (_) { state.eras = []; }
     try { const r = await fetch("media/auto/index.json", { cache: "no-store" }); if (r.ok) state.images = await r.json(); } catch (_) {}
     try { const r = await fetch("media/x/posts.json", { cache: "no-store" }); if (r.ok) state.xposts = await r.json(); } catch (_) {}
+    try { const r = await fetch("data/id-aliases.json", { cache: "no-store" }); if (r.ok) state.aliases = await r.json(); } catch (_) {}
     if (window.NJAS_SPRITES) { try { const r = await fetch(window.NJAS_SPRITES, { cache: "no-store" }); if (r.ok) state.sprites = await r.json(); } catch (_) {} }
     buildPages();
   }
@@ -184,7 +185,8 @@
     if (!h) return showCover();
     if (h === "index") return showIndex();
     if (/^\d{4}(-\d{2}){0,2}$/.test(h)) { const i = state.pages.findIndex(p => p.kind === "day" && p.key === h); return i >= 0 ? go(i, false) : go(nearestDateIdx(h), false); }
-    if (!goKey(h)) { const it = state.items.find(i => i.id === h); if (it) go(state.pages.findIndex(p => p.kind === "day" && p.date === it.date), false); else showCover(); }
+    // record ids are permanent anchors: an id renamed after a date correction resolves through data/id-aliases.json
+    if (!goKey(h)) { const id = (state.aliases && state.aliases[h]) || h; const it = state.items.find(i => i.id === id); if (it) go(state.pages.findIndex(p => p.kind === "day" && p.date === it.date), false); else showCover(); }
   }
 
   /* ---------- page ---------- */

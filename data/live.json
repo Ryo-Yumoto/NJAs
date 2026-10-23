@@ -2018,7 +2018,7 @@
     "tags": [
       "university-festival"
     ],
-    "editor_note": "Date from lineup posts and fan reports only; no official notice found. | not enriched: no source found beyond lineup posts and fan reports.",
+    "editor_note": "Date from lineup posts and fan reports only; no official notice found. | not enriched: no source found beyond lineup posts and fan reports. / 2026-10-24 nightly: Sports Donga (2023-09-18) confirms NewJeans played Sungkyunkwan, Seoul National, Kyung Hee and Hongik over 14-15 Sep, but not which day was Hongik; the 15 Sep date rests only on many fan cams titled 230915 (YouTube). No university/student-council or ADOR page found. Tried Naver news, WebSearch, YouTube search.",
     "detail": {
       "ja": "ソウルの弘益大学校の秋の大学祭に出演した。前日の成均館大学校に続く出演で、同日には慶熙大学校の大学祭にも出演した。",
       "en": "NewJeans performed at Hongik University's autumn festival in Seoul, the day after Sungkyunkwan University and on the same day as Kyung Hee University's festival."
@@ -2043,27 +2043,30 @@
       "original": "경희대학교 2023 축제"
     },
     "summary": {
-      "ja": "慶熙大学校の秋の大学祭に出演。同日の弘益大学校とあわせ、2023年秋の大学祭出演は4校になった。",
-      "en": "Autumn festival set at Kyung Hee University, the group's fourth university festival of autumn 2023 alongside Hongik University the same day."
+      "ja": "慶熙大学校（ソウルキャンパス）の秋の大学祭に出演。9月14日・15日の2日間で4校の大学祭に出演した日程の一つ。",
+      "en": "Autumn festival set at Kyung Hee University's Seoul campus, one of four university festivals NewJeans played over 14-15 September."
     },
-    "source_url": "https://www.clien.net/service/board/park/18307799",
-    "verified": false,
+    "source_url": "https://www.youtube.com/watch?v=3v3fHDZUYGk",
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
+      "https://www.youtube.com/watch?v=3v3fHDZUYGk",
+      "https://sports.donga.com/article/all/20230918/121239785/3",
+      "https://www.clien.net/service/board/park/18307799",
       "https://community.linkareer.com/jayuu/2251369"
     ],
     "tags": [
       "university-festival"
     ],
-    "editor_note": "Date from lineup posts and fan reports only; no official notice found. | not enriched: no source found beyond lineup posts and fan reports; campus (Seoul or Global) unconfirmed.",
+    "editor_note": "Date from lineup posts and fan reports only; no official notice found. | not enriched: no source found beyond lineup posts and fan reports; campus (Seoul or Global) unconfirmed. / 2026-10-24 nightly: Kyung Hee Seoul-campus broadcasting station VOU's own cam '230915 NewJeans ... 2023 경희대학교 가을 대동제' (DAY2; setlist Super Shy/ETA/Attention); Sports Donga 2023-09-18 gives the four schools over 14-15 Sep. Campus set to Seoul; same-day-as-Hongik wording dropped (Hongik day unconfirmed).",
     "detail": {
-      "ja": "慶熙大学校の秋の大学祭に出演した。同日の弘益大学校とあわせ、2023年秋の大学祭出演はこれで4校になった。",
-      "en": "NewJeans performed at Kyung Hee University's autumn festival, their fourth university festival of autumn 2023 alongside Hongik University the same day."
+      "ja": "慶熙大学校ソウルキャンパスの2023年秋の大同祭（2日目）に出演し、「Super Shy」「ETA」「Attention」などを披露した。9月14日・15日の2日間で成均館大学校、ソウル大学校、慶熙大学校、弘益大学校の4校の大学祭に出演した日程の一つ。",
+      "en": "NewJeans performed on day two of Kyung Hee University's 2023 autumn festival at its Seoul campus, with songs including 'Super Shy', 'ETA' and 'Attention'. It was one of four university festivals they played over 14-15 September, along with Sungkyunkwan, Seoul National and Hongik universities."
     },
     "credits": {
-      "venue": "Kyung Hee University"
+      "venue": "Kyung Hee University (Seoul campus)"
     }
   },
   {
@@ -2094,9 +2097,11 @@
     },
     "source_url": "https://x.com/NewJeans_ADOR/status/1707002151677956549",
     "reference_urls": [
-      "https://hypebae.com/jp/2023/9/gucci-spring-summer-2024-menswear-womenswear-milan-fashion-week-runway",
-      "https://www.harpersbazaar.com.sg/fashion/gucci-spring-summer24-attracts-the-likes-of-new-jeans-hanni-and-more",
+      "https://x.com/NewJeans_ADOR/status/1707002151677956549",
       "https://v.daum.net/v/20230925081245415",
+      "https://www.harpersbazaar.com.sg/fashion/gucci-spring-summer24-attracts-the-likes-of-new-jeans-hanni-and-more",
+      "https://www.bntnews.co.kr/article/view/bnt202403290013",
+      "https://hypebae.com/jp/2023/9/gucci-spring-summer-2024-menswear-womenswear-milan-fashion-week-runway",
       "https://v.daum.net/v/20230925235909851"
     ],
     "media": {
@@ -2112,8 +2117,8 @@
       "fashion-event",
       "overseas"
     ],
-    "verified": false,
-    "editor_note": "Official X post (2023-09-27) 'HANNI at #GucciSS24 in Milan' confirms attendance; show date 22 Sep 2023 local from Hypebae JP."
+    "verified": true,
+    "editor_note": "Official X post (2023-09-27) 'HANNI at #GucciSS24 in Milan' confirms attendance; show date 22 Sep 2023 local from Hypebae JP. / 2026-10-24 nightly: official X post (2023-09-27 21:00 KST, 'HANNI at #GucciSS24 in Milan', 3 photos) via fxtwitter; JoongAng Ilbo 2023-09-25 gives show date 22 Sep local (Gucci Hub, Milan) with Hanni among guests; Harper's Bazaar SG has her front row; bnt (2024) confirms Gucci fashion global ambassador since 2022."
   },
   {
     "id": "live-2023-10-02-hyein-louis-vuitton-ss24-paris",
@@ -2143,9 +2148,11 @@
     },
     "source_url": "https://x.com/NewJeans_ADOR/status/1710188139615326489",
     "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/1710188139615326489",
+      "https://v.daum.net/v/20231003104254399",
+      "http://www.edaily.co.kr/news/newspath.asp?newsid=01469446632563768",
       "https://www.sportskeeda.com/lifestyle/news-netizens-go-gaga-newjeans-hyein-s-look-louis-vuitton-spring-summer-2024-show-how-real",
-      "https://envimedia.co/newjeans-hyein-brought-the-black-nail-polish-trend-to-paris-fashion-week/",
-      "https://v.daum.net/v/20231003104254399"
+      "https://envimedia.co/newjeans-hyein-brought-the-black-nail-polish-trend-to-paris-fashion-week/"
     ],
     "media": {
       "type": "x",
@@ -2160,8 +2167,8 @@
       "fashion-event",
       "overseas"
     ],
-    "verified": false,
-    "editor_note": "Official X post (2023-10-06) 'HYEIN at #LVSS24 in Paris'; date 2 Oct 2023 from Sportskeeda."
+    "verified": true,
+    "editor_note": "Official X post (2023-10-06) 'HYEIN at #LVSS24 in Paris'; date 2 Oct 2023 from Sportskeeda. / 2026-10-24 nightly: official X post (2023-10-06 16:00 KST, 'HYEIN at #LVSS24 in Paris') via fxtwitter; My Daily 2023-10-03 gives the show on the 2nd local time at Paris Fashion Week; Edaily (2022) confirms LV ambassador appointment."
   },
   {
     "id": "live-2023-10-07-coke-studio-superpop-japan-2023",
@@ -2181,13 +2188,16 @@
       "ja": "『Coke STUDIO SUPERPOP JAPAN 2023』（横浜）に両日出演。生バンドで8曲を披露し、Jon Batisteのステージにも登場した。",
       "en": "Both days of Coke STUDIO SUPERPOP JAPAN 2023 at Pia Arena MM, Yokohama, with a live band, eight songs and a guest spot in Jon Batiste's set."
     },
-    "source_url": "https://mdpr.jp/k-enta/3869328",
-    "verified": false,
+    "source_url": "https://lp.p.pia.jp/article/news/282867/index.html",
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
+      "https://lp.p.pia.jp/article/news/282867/index.html",
+      "https://realsound.jp/2023/10/post-1458564.html",
       "https://realsound.jp/2023/10/post-1458564_2.html",
+      "https://mdpr.jp/k-enta/3869328",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "tags": [
@@ -2195,14 +2205,14 @@
       "japan",
       "brand-event"
     ],
-    "editor_note": "Dates: 2023-10-07 and 2023-10-08. | Slot times per Livefans listing; set per en.wikipedia list and Real Sound report.",
+    "editor_note": "Dates: 2023-10-07 and 2023-10-08. | Slot times per Livefans listing; set per en.wikipedia list and Real Sound report. / 2026-10-24 nightly: Pia (ticketing, 2023-07-28) lists NewJeans on both 7 and 8 Oct, event held 'under Coca-Cola Japan sponsorship' (not organiser; credit key changed to brand); Real Sound day-one report confirms band, 8-song set and Jon Batiste guest spot. Slot times (Livefans only) removed; setlist tied to day one since day two was not reported.",
     "detail": {
-      "ja": "横浜のぴあアリーナMMで10月7日と8日に開かれた日本コカ・コーラ主催の『Coke STUDIO SUPERPOP JAPAN 2023』に両日出演した。出演はMrs. GREEN APPLE、水曜日のカンパネラ、Jon Batiste、BOYNEXTDOOR（7日）など。生バンドを伴い、コラボ曲「Be Who You Are（Real Magic）」でJon Batisteのステージに登場したほか、「Zero」「Hype Boy」「Cookie」「Ditto」「OMG」「New Jeans」「Super Shy」「ETA」を披露した。出演は7日18時10分、8日17時25分。",
-      "en": "NewJeans performed on both days of Coke STUDIO SUPERPOP JAPAN 2023, held by Coca-Cola Japan at Pia Arena MM in Yokohama, Kanagawa, on 7 and 8 October, alongside Mrs. GREEN APPLE, Wednesday Campanella, Jon Batiste and BOYNEXTDOOR (day one). Backed by a live band, they joined Jon Batiste's set for their collaboration 'Be Who You Are (Real Magic)' and performed 'Zero', 'Hype Boy', 'Cookie', 'Ditto', 'OMG', 'New Jeans', 'Super Shy' and 'ETA'. Their slots were 6:10 pm on the 7th and 5:25 pm on the 8th."
+      "ja": "横浜のぴあアリーナMMで10月7日と8日に日本コカ・コーラの協賛で開かれた『Coke STUDIO SUPERPOP JAPAN 2023』に両日出演した。出演はMrs. GREEN APPLE、水曜日のカンパネラ、Jon Batiste、BOYNEXTDOOR（7日）など。初日の7日は生バンドを伴い「Zero」「Hype Boy」「Cookie」「Ditto」「OMG」「New Jeans」「Super Shy」「ETA」を披露し、Jon Batisteのステージにも登場してコラボ曲「Be Who You Are（Real Magic）」を歌った。",
+      "en": "NewJeans appeared on both days of Coke STUDIO SUPERPOP JAPAN 2023, held with Coca-Cola Japan's sponsorship at Pia Arena MM in Yokohama, Kanagawa, on 7 and 8 October, alongside Mrs. GREEN APPLE, Wednesday Campanella, Jon Batiste and BOYNEXTDOOR (day one). On the first day, backed by a live band, they performed 'Zero', 'Hype Boy', 'Cookie', 'Ditto', 'OMG', 'New Jeans', 'Super Shy' and 'ETA', and joined Jon Batiste's set for their collaboration 'Be Who You Are (Real Magic)'."
     },
     "credits": {
       "venue": "Pia Arena MM, Yokohama",
-      "organizer": "Coca-Cola (Japan)"
+      "brand": "Coca-Cola (Coke STUDIO)"
     }
   },
   {
@@ -2232,7 +2242,11 @@
     },
     "source_url": "https://news.nate.com/view/20231021n06678",
     "reference_urls": [
-      "https://www.youtube.com/watch?v=JfcfAY9sR40"
+      "https://news.nate.com/view/20231021n06678",
+      "https://www.youtube.com/watch?v=JfcfAY9sR40",
+      "https://www.newsen.com/news_view.php?uid=202310211423481310",
+      "https://www.newsen.com/news_view.php?uid=202310211426101310",
+      "http://www.dispatch.co.kr/2268278"
     ],
     "media": {
       "type": "none"
@@ -2241,7 +2255,8 @@
       "airport",
       "overseas"
     ],
-    "verified": false
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: no official page for an airport departure; Behind Press (article + video, Terminal 2) and Newsen photo reports (2023-10-21) confirm NewJeans and (G)I-DLE departing that afternoon; Dispatch confirms Park Bo-gum the same day."
   },
   {
     "id": "live-2023-10-22-music-bank-in-mexico",
@@ -2258,16 +2273,20 @@
       "en": "Music Bank in Mexico"
     },
     "summary": {
-      "ja": "『MUSIC BANK in MEXICO』で5曲を披露し、ダニエルは「Part of Your World」をライブ初披露、ハニはミンニとデュエットした。",
-      "en": "Five-song set at Music Bank in Mexico in Mexico City; Danielle gave 'Part of Your World' its first live outing and Hanni sang 'Recuérdame' with Minnie."
+      "ja": "『MUSIC BANK in MEXICO』に出演し、ダニエルは「Part of Your World」をライブ初披露、ハニはミンニとデュエットした。",
+      "en": "Set at Music Bank in Mexico in Mexico City; Danielle gave 'Part of Your World' its first live outing and Hanni sang 'Recuérdame' with Minnie."
     },
-    "source_url": "https://soompi.com/article/1603263wpp/music-bank-in-mexico-announces-performer-lineup",
-    "verified": false,
+    "source_url": "https://kstar.kbs.co.kr/list_view.html?idx=287045",
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
+      "https://kstar.kbs.co.kr/list_view.html?idx=287045",
+      "https://www.xportsnews.com/article/1787605",
+      "http://biz.heraldcorp.com/view.php?ud=202311041044512369539_1",
       "https://www.publimetro.com.mx/entretenimiento/2023/10/23/kpop-music-bank-mexico-2023-fotos-y-videos-world-tour-cdmx-newjeans-itzy-gidle-stayc/",
+      "https://soompi.com/article/1603263wpp/music-bank-in-mexico-announces-performer-lineup",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "tags": [
@@ -2275,15 +2294,15 @@
       "overseas"
     ],
     "detail": {
-      "ja": "メキシコシティのパラシオ・デ・ロス・デポルテスで開かれたKBS『MUSIC BANK in MEXICO』（ワールドツアー第17回）に、(G)I-DLE、ITZY、STAYC、AB6IX、TNXとともに出演した。司会はパク・ボゴム。「Hype Boy」「OMG」「New Jeans」「Super Shy」「ETA」を披露し、ダニエルは「Part of Your World」をライブ初披露、ハニは(G)I-DLEのミンニと「Recuérdame」を歌った。公演はKBS 2TVで11月5日に放送されると案内された。",
-      "en": "NewJeans performed at KBS's Music Bank in Mexico, the 17th show of the Music Bank World Tour, at Palacio de los Deportes in Mexico City alongside (G)I-DLE, ITZY, STAYC, AB6IX and TNX, hosted by Park Bo-gum. They performed 'Hype Boy', 'OMG', 'New Jeans', 'Super Shy' and 'ETA'; Danielle gave the first live performance of 'Part of Your World', and Hanni sang 'Recuérdame' with Minnie of (G)I-DLE. The show was scheduled for broadcast on KBS 2TV on 5 November."
+      "ja": "メキシコシティのパラシオ・デ・ロス・デポルテスで開かれたKBS『MUSIC BANK in MEXICO』（ワールドツアー第17回）に、(G)I-DLE、ITZY、STAYC、AB6IX、TNXとともに出演した。司会はパク・ボゴム。「Hype Boy」「Super Shy」「ETA」などを披露し、ダニエルは「Part of Your World」をライブ初披露、ハニは(G)I-DLEのミンニと「Recuérdame」を歌った。公演はKBS 2TVで11月5日に放送されると案内された。",
+      "en": "NewJeans performed at KBS's Music Bank in Mexico, the 17th show of the Music Bank World Tour, at Palacio de los Deportes in Mexico City alongside (G)I-DLE, ITZY, STAYC, AB6IX and TNX, hosted by Park Bo-gum. Their set included 'Hype Boy', 'Super Shy' and 'ETA'; Danielle gave the first live performance of 'Part of Your World', and Hanni sang 'Recuérdame' with Minnie of (G)I-DLE. The show was scheduled for broadcast on KBS 2TV on 5 November."
     },
     "credits": {
       "venue": "Palacio de los Deportes, Mexico City",
       "broadcaster": "KBS 2TV",
       "host": "Park Bo-gum"
     },
-    "editor_note": "Attendance (about 15,000) per KBS preview published Nov 3, after the event; omitted from reader text."
+    "editor_note": "Attendance (about 15,000) per KBS preview published Nov 3, after the event; omitted from reader text. / 2026-10-24 nightly: KBS press (kstar.kbs.co.kr) and Xportsnews (KBS release, 2023-10-31) confirm 22 Oct, Palacio de los Deportes, 17th World Tour stop, six-act lineup, MC Park Bo-gum, Danielle's first live 'Part of Your World', 11/5 broadcast; Herald (KBS photos) and Publimetro confirm Hanni-Minnie 'Recuérdame'. Only 'Hype Boy', 'Super Shy', 'ETA' are named in KBS material, so the five-song list (OMG, New Jeans) was trimmed to 'including'."
   },
   {
     "id": "live-2023-11-01-haerin-dior-canton-road-hong-kong",

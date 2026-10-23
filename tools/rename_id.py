@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Rename a record id everywhere: data/*.json (the record and text mentions in editor_note/links),
+"""Rename a record id everywhere (and record old -> new in data/id-aliases.json so old links keep working): data/*.json (the record and text mentions in editor_note/links),
 data/refs/*.json (record fields), media/auto/index.json and its file, media/<cat>/<id>/ galleries
 (image.path / local_assets rewritten). Does not change the record's date; set that separately.
 Usage: python3 tools/rename_id.py OLD_ID NEW_ID
@@ -35,7 +35,13 @@ def main(old, new):
     for cat_dir in (ROOT / "media").iterdir():
         g = cat_dir / old
         if g.is_dir(): g.rename(cat_dir / new)
-    print(f"renamed {old} -> {new} ({n} record)")
+    al = DATA / "id-aliases.json"
+    aliases = json.loads(al.read_text()) if al.exists() else {}
+    for k, v in list(aliases.items()):
+        if v == old: aliases[k] = new
+    aliases[old] = new
+    al.write_text(json.dumps(dict(sorted(aliases.items())), ensure_ascii=False, indent=1) + "\n")
+    print(f"renamed {old} -> {new} ({n} record); alias recorded")
 
 if __name__ == "__main__":
     main(sys.argv[1], sys.argv[2])

@@ -431,14 +431,6 @@
   "page_url": "https://i.ytimg.com/vi/gz1BTVjvGbU/maxresdefault.jpg",
   "w": 1280
  },
- "ad-2023-12-01-shinhan-super-sol-cm": {
-  "fetched": "2026-10-23",
-  "file": "ad-2023-12-01-shinhan-super-sol-cm.jpg",
-  "h": 720,
-  "image_url": "https://i.ytimg.com/vi/mWlmGyQ29G8/maxresdefault.jpg",
-  "page_url": "https://i.ytimg.com/vi/mWlmGyQ29G8/maxresdefault.jpg",
-  "w": 1280
- },
  "ad-2023-12-15-nike-air-max-90-lv8-campaign": {
   "fetched": "2026-10-16",
   "file": "ad-2023-12-15-nike-air-max-90-lv8-campaign.jpg",
@@ -446,6 +438,14 @@
   "image_url": "https://snkrdunk.s3.ap-northeast-1.amazonaws.com/en/magazine/wp-content/uploads/2023/12/16113947/NewJeans-Nike-Air-Max-90-LV8.webp",
   "page_url": "https://snkrdunk.s3.ap-northeast-1.amazonaws.com/en/magazine/wp-content/uploads/2023/12/16113947/NewJeans-Nike-Air-Max-90-LV8.webp",
   "w": 1024
+ },
+ "ad-2023-12-18-shinhan-super-sol-cm": {
+  "fetched": "2026-10-23",
+  "file": "ad-2023-12-18-shinhan-super-sol-cm.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/mWlmGyQ29G8/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/mWlmGyQ29G8/maxresdefault.jpg",
+  "w": 1280
  },
  "ad-2024-01-02-stonehenge-2024-winter-collection": {
   "fetched": "2026-10-17",
@@ -495,14 +495,6 @@
   "page_url": "https://i.ytimg.com/vi/GhEP_AiRB8M/maxresdefault.jpg",
   "w": 1280
  },
- "ad-2024-03-01-incheon-airport-customs-ambassador": {
-  "fetched": "2026-10-23",
-  "file": "ad-2024-03-01-incheon-airport-customs-ambassador.jpg",
-  "h": 349,
-  "image_url": "https://photo.newsen.com/news_photo/2024/03/22/202403221619365510_1.jpg",
-  "page_url": "https://photo.newsen.com/news_photo/2024/03/22/202403221619365510_1.jpg",
-  "w": 650
- },
  "ad-2024-03-11-minji-nec-election-campaign": {
   "fetched": "2026-10-16",
   "file": "ad-2024-03-11-minji-nec-election-campaign.jpg",
@@ -534,6 +526,14 @@
   "image_url": "https://www.datocms-assets.com/55010/1711099231-1711083234-celine_danielle_print.jpg?auto=format&fit=max&w=1200",
   "page_url": "https://www.lofficielsingapore.com/fashion/celine-announces-new-global-ambassador-danielle-of-newjeans-fashion-celebrity-news",
   "w": 1120
+ },
+ "ad-2024-03-22-incheon-airport-customs-ambassador": {
+  "fetched": "2026-10-23",
+  "file": "ad-2024-03-22-incheon-airport-customs-ambassador.jpg",
+  "h": 349,
+  "image_url": "https://photo.newsen.com/news_photo/2024/03/22/202403221619365510_1.jpg",
+  "page_url": "https://photo.newsen.com/news_photo/2024/03/22/202403221619365510_1.jpg",
+  "w": 650
  },
  "ad-2024-03-28-hanni-gucci-beauty-ambassador": {
   "fetched": "2026-10-13",
@@ -6495,9 +6495,9 @@
   "page_url": "https://i.ytimg.com/vi/VIDQTyNmkN4/maxresdefault.jpg",
   "w": 1280
  },
- "mv-2024-03-27-its-coming-shorts": {
+ "mv-2024-03-28-its-coming-shorts": {
   "fetched": "2026-10-13",
-  "file": "mv-2024-03-27-its-coming-shorts.jpg",
+  "file": "mv-2024-03-28-its-coming-shorts.jpg",
   "h": 720,
   "image_url": "https://i.ytimg.com/vi/WXbSVCkuyz0/maxresdefault.jpg",
   "page_url": "https://i.ytimg.com/vi/WXbSVCkuyz0/maxresdefault.jpg",
@@ -6535,20 +6535,12 @@
   "page_url": "https://i.ytimg.com/vi/Q3K0TOvTOno/maxresdefault.jpg",
   "w": 1280
  },
- "mv-2024-05-24-how-sweet-performance-video-coke-studio": {
+ "mv-2024-05-25-how-sweet-performance-video-coke-studio": {
   "fetched": "2026-10-13",
-  "file": "mv-2024-05-24-how-sweet-performance-video-coke-studio.jpg",
+  "file": "mv-2024-05-25-how-sweet-performance-video-coke-studio.jpg",
   "h": 720,
   "image_url": "https://i.ytimg.com/vi/Ec0Z1v7jKDQ/maxresdefault.jpg",
   "page_url": "https://i.ytimg.com/vi/Ec0Z1v7jKDQ/maxresdefault.jpg",
-  "w": 1280
- },
- "mv-2024-06-01-eta-stage-cam-chosun-university": {
-  "fetched": "2026-10-13",
-  "file": "mv-2024-06-01-eta-stage-cam-chosun-university.jpg",
-  "h": 720,
-  "image_url": "https://i.ytimg.com/vi/VWLWY2mLL2I/maxresdefault.jpg",
-  "page_url": "https://i.ytimg.com/vi/VWLWY2mLL2I/maxresdefault.jpg",
   "w": 1280
  },
  "mv-2024-06-10-right-now-mv-teaser-2": {
@@ -6581,6 +6573,14 @@
   "h": 720,
   "image_url": "https://i.ytimg.com/vi/tIm2LVL6rVM/maxresdefault.jpg",
   "page_url": "https://i.ytimg.com/vi/tIm2LVL6rVM/maxresdefault.jpg",
+  "w": 1280
+ },
+ "mv-2024-06-19-eta-stage-cam-chosun-university": {
+  "fetched": "2026-10-13",
+  "file": "mv-2024-06-19-eta-stage-cam-chosun-university.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/VWLWY2mLL2I/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/VWLWY2mLL2I/maxresdefault.jpg",
   "w": 1280
  },
  "mv-2024-06-19-how-sweet-stage-cam-dongguk-university": {

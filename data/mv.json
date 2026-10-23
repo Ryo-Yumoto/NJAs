@@ -4581,8 +4581,8 @@
     "editor_note": "Official IU channel upload 2024-02-23 (KST per YouTube next API); exact time (00:00 vs 18:00 in reports) not resolved, so no time set. Whether Hyein appears on screen was not confirmed; text only says the song features her. Teaser posted 2024-02-13 (not recorded). Companion music record: music-2024-02-20-iu-shh-feat-hyein."
   },
   {
-    "id": "mv-2024-03-27-its-coming-shorts",
-    "date": "2024-03-27",
+    "id": "mv-2024-03-28-its-coming-shorts",
+    "date": "2024-03-28",
     "date_type": "release",
     "date_precision": "day",
     "category": "mv",
@@ -4595,11 +4595,15 @@
       "en": "'It's coming...' (Shorts)"
     },
     "summary": {
-      "ja": "ADORが2024年のダブルシングル2作と日本デビューを発表した日に公開された「It's coming...」の予告ショート。",
-      "en": "'It's coming...' Shorts clip posted on the day ADOR announced two double singles for 2024 and the Japanese debut."
+      "ja": "ADORが2024年のダブルシングル2作と日本デビューの予定を発表した直後に公開された「It's coming...」の予告ショート。",
+      "en": "'It's coming...' Shorts teaser posted right after ADOR announced two double singles for 2024 and the Japanese debut."
     },
     "source_url": "https://www.youtube.com/watch?v=WXbSVCkuyz0",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=WXbSVCkuyz0",
+      "https://www.soompi.com/article/1651337wpp/newjeans-announces-plans-for-comeback-and-japanese-debut",
+      "https://x.com/NewJeans_ADOR/status/1772775547749462258"
+    ],
     "media": {
       "type": "youtube",
       "ref": "WXbSVCkuyz0"
@@ -4608,11 +4612,11 @@
       "teaser",
       "shorts"
     ],
-    "verified": false,
-    "editor_note": "invidious publish 2024-03-27 UTC; hashtag #NewJeans_is_Everywhere. | YouTube page read via reader; upload date on YouTube: Mar 27, 2024 (PT).",
+    "verified": true,
+    "editor_note": "invidious publish 2024-03-27 UTC; hashtag #NewJeans_is_Everywhere. | YouTube page read via reader; upload date on YouTube: Mar 27, 2024 (PT). / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 2024-03-28 KST; announcement was 3/26-27 (Soompi 3/26, Tokyo Dome X post 3/27 09:00 KST), so 'same day' wording replaced with 'right after'.",
     "detail": {
-      "ja": "「It's coming...」と題したYouTube Shorts動画で、ADORが2024年のダブルシングル2作と日本デビューを発表した日にNewJeans公式YouTubeチャンネルに公開された。発表では5月24日に「How Sweet」と「Bubble Gum」、6月21日に日本デビューシングル『Supernatural』を発売するとされた。",
-      "en": "YouTube Shorts clip titled 'It's coming...', posted on the NewJeans YouTube channel on the day ADOR announced two double singles for 2024 and the Japanese debut: 'How Sweet' and 'Bubble Gum' on 24 May, and the Japanese debut single Supernatural on 21 June."
+      "ja": "「It's coming...」と題したYouTube Shorts動画で、ADORが2024年のダブルシングル2作と日本デビューの予定を発表した直後にNewJeans公式YouTubeチャンネルに公開された。発表では5月24日に「How Sweet」と「Bubble Gum」、6月21日に日本デビューシングル『Supernatural』を発売するとされた。",
+      "en": "YouTube Shorts clip titled 'It's coming...', posted on the NewJeans YouTube channel right after ADOR announced two double singles for 2024 and the Japanese debut: 'How Sweet' and 'Bubble Gum' on 24 May, and the Japanese debut single Supernatural on 21 June."
     },
     "credits": {
       "channel": "NewJeans",
@@ -4800,8 +4804,8 @@
     "editor_note": "Director per en.wikipedia NewJeans_videography; Taiwan per namu.wiki. YouTube page read via reader; upload date on YouTube: None (PT)."
   },
   {
-    "id": "mv-2024-05-24-how-sweet-performance-video-coke-studio",
-    "date": "2024-05-24",
+    "id": "mv-2024-05-25-how-sweet-performance-video-coke-studio",
+    "date": "2024-05-25",
     "date_type": "release",
     "date_precision": "day",
     "category": "mv",
@@ -4818,7 +4822,9 @@
       "en": "'How Sweet' performance video released in partnership with Coke Studio, with '| Coke Studio' in the title and the choreography at its centre."
     },
     "source_url": "https://www.youtube.com/watch?v=Ec0Z1v7jKDQ",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=Ec0Z1v7jKDQ"
+    ],
     "media": {
       "type": "youtube",
       "ref": "Ec0Z1v7jKDQ"
@@ -4828,8 +4834,8 @@
       "coca-cola",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | YouTube page read via reader; upload date on YouTube: None (PT).",
+    "verified": true,
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | YouTube page read via reader; upload date on YouTube: None (PT). / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 2024-05-25 KST; description confirms 'filmed in partnership with Coke Studio'.",
     "detail": {
       "ja": "「How Sweet」のパフォーマンス映像で、Coke Studioとの提携のもとNewJeans公式YouTubeチャンネルに公開された。タイトルに「| Coke Studio」と付され、振付を中心に構成されている。",
       "en": "Performance video for 'How Sweet', posted on the NewJeans YouTube channel in partnership with Coke Studio. The title carries '| Coke Studio', and the video centres on the choreography."
@@ -4837,47 +4843,6 @@
     "credits": {
       "label": "ADOR",
       "brand": "Coca-Cola (Coke Studio)"
-    }
-  },
-  {
-    "id": "mv-2024-06-01-eta-stage-cam-chosun-university",
-    "date": "2024-06-01",
-    "date_type": "release",
-    "date_precision": "month",
-    "category": "mv",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "「ETA」Stage Cam @ 朝鮮大学",
-      "en": "'ETA' Stage Cam @ CHOSUN UNIVERSITY"
-    },
-    "summary": {
-      "ja": "朝鮮大学校（光州）の大学祭で披露した「ETA」のステージカム。『How Sweet』発売直後の大学祭7校出演の一つ。",
-      "en": "Stage cam of 'ETA' from the Chosun University in Gwangju festival, one of seven university festival dates played right after How Sweet came out."
-    },
-    "source_url": "https://www.youtube.com/watch?v=VWLWY2mLL2I",
-    "reference_urls": [],
-    "media": {
-      "type": "youtube",
-      "ref": "VWLWY2mLL2I"
-    },
-    "tags": [
-      "stage-cam",
-      "live",
-      "university-festival",
-      "newjeans-channel"
-    ],
-    "verified": false,
-    "editor_note": "YouTube date not fetched; listed in the 'NewJeans Stage' playlist among the June 2024 university festival stage cams. Month precision only. | Festival performance date not sourced; YouTube upload date None (PT). 2024 tour context from Korea JoongAng Daily (2024-05-26).",
-    "detail": {
-      "ja": "朝鮮大学校（光州）の大学祭ステージで披露した「ETA」のステージカム映像で、YouTubeで公開された。5月下旬、シングル『How Sweet』発売直後に行われた大学祭7校（5月25日の高麗大学校から朝鮮大学校、東義大学校、釜山大学校、東国大学校、世宗大学校、中央大学校）の出演の一つで、ADORはこれらの出演料を全額寄付すると5月26日に発表していた。",
-      "en": "Stage-cam video of 'ETA' performed at the Chosun University in Gwangju festival, published on YouTube. One of seven university festival appearances in late May 2024 made right after the release of the single How Sweet (starting with Korea University on 25 May, then Chosun, Dong-eui, Pusan National, Dongguk, Sejong and Chung-Ang universities); ADOR announced on 26 May that all appearance fees would be donated."
-    },
-    "credits": {
-      "label": "ADOR",
-      "venue": "Chosun University, Gwangju"
     }
   },
   {
@@ -5026,7 +4991,11 @@
       "en": "Stage cam of 'Cookie' from the Sejong University festival, one of seven university festival dates played right after How Sweet came out."
     },
     "source_url": "https://www.youtube.com/watch?v=tIm2LVL6rVM",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=tIm2LVL6rVM",
+      "https://v.daum.net/v/20240526174208329",
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-will-donate-earnings-from-university-festivals-to-charity/12481436"
+    ],
     "media": {
       "type": "youtube",
       "ref": "tIm2LVL6rVM"
@@ -5037,8 +5006,8 @@
       "university-festival",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Festival performance date not sourced; YouTube upload date None (PT). 2024 tour context from Korea JoongAng Daily (2024-05-26).",
+    "verified": true,
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Festival performance date not sourced; YouTube upload date None (PT). 2024 tour context from Korea JoongAng Daily (2024-05-26). / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 2024-06-19 KST; festival schedule and 5/26 donation notice confirmed via JoongAng Daily.",
     "detail": {
       "ja": "世宗大学校の大学祭ステージで披露した「Cookie」のステージカム映像で、YouTubeで公開された。5月下旬、シングル『How Sweet』発売直後に行われた大学祭7校（5月25日の高麗大学校から朝鮮大学校、東義大学校、釜山大学校、東国大学校、世宗大学校、中央大学校）の出演の一つで、ADORはこれらの出演料を全額寄付すると5月26日に発表していた。",
       "en": "Stage-cam video of 'Cookie' performed at the Sejong University festival, published on YouTube. One of seven university festival appearances in late May 2024 made right after the release of the single How Sweet (starting with Korea University on 25 May, then Chosun, Dong-eui, Pusan National, Dongguk, Sejong and Chung-Ang universities); ADOR announced on 26 May that all appearance fees would be donated."
@@ -5046,6 +5015,51 @@
     "credits": {
       "label": "ADOR",
       "venue": "Sejong University"
+    }
+  },
+  {
+    "id": "mv-2024-06-19-eta-stage-cam-chosun-university",
+    "date": "2024-06-19",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「ETA」Stage Cam @ 朝鮮大学",
+      "en": "'ETA' Stage Cam @ CHOSUN UNIVERSITY"
+    },
+    "summary": {
+      "ja": "朝鮮大学校（光州）の大学祭で披露した「ETA」のステージカム。『How Sweet』発売直後の大学祭7校出演の一つ。",
+      "en": "Stage cam of 'ETA' from the Chosun University in Gwangju festival, one of seven university festival dates played right after How Sweet came out."
+    },
+    "source_url": "https://www.youtube.com/watch?v=VWLWY2mLL2I",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=VWLWY2mLL2I",
+      "https://v.daum.net/v/20240526174208329",
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-will-donate-earnings-from-university-festivals-to-charity/12481436"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "VWLWY2mLL2I"
+    },
+    "tags": [
+      "stage-cam",
+      "live",
+      "university-festival",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "editor_note": "YouTube date not fetched; listed in the 'NewJeans Stage' playlist among the June 2024 university festival stage cams. Month precision only. | Festival performance date not sourced; YouTube upload date None (PT). 2024 tour context from Korea JoongAng Daily (2024-05-26). / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 2024-06-19 KST (description: 조선대학교 '대동제 GRACIA'); festival schedule and 5/26 donation notice confirmed via JoongAng Daily (Daum syndication).",
+    "detail": {
+      "ja": "朝鮮大学校（光州）の大学祭ステージで披露した「ETA」のステージカム映像で、YouTubeで公開された。5月下旬、シングル『How Sweet』発売直後に行われた大学祭7校（5月25日の高麗大学校から朝鮮大学校、東義大学校、釜山大学校、東国大学校、世宗大学校、中央大学校）の出演の一つで、ADORはこれらの出演料を全額寄付すると5月26日に発表していた。",
+      "en": "Stage-cam video of 'ETA' performed at the Chosun University in Gwangju festival, published on YouTube. One of seven university festival appearances in late May 2024 made right after the release of the single How Sweet (starting with Korea University on 25 May, then Chosun, Dong-eui, Pusan National, Dongguk, Sejong and Chung-Ang universities); ADOR announced on 26 May that all appearance fees would be donated."
+    },
+    "credits": {
+      "label": "ADOR",
+      "venue": "Chosun University, Gwangju"
     }
   },
   {
@@ -5067,7 +5081,11 @@
       "en": "Stage cam of 'How Sweet' from the Dongguk University festival, one of seven university festival dates played right after How Sweet came out."
     },
     "source_url": "https://www.youtube.com/watch?v=P7gcp4-ovYQ",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=P7gcp4-ovYQ",
+      "https://v.daum.net/v/20240526174208329",
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-will-donate-earnings-from-university-festivals-to-charity/12481436"
+    ],
     "media": {
       "type": "youtube",
       "ref": "P7gcp4-ovYQ"
@@ -5078,8 +5096,8 @@
       "university-festival",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Festival performance date not sourced; YouTube upload date None (PT). 2024 tour context from Korea JoongAng Daily (2024-05-26).",
+    "verified": true,
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Festival performance date not sourced; YouTube upload date None (PT). 2024 tour context from Korea JoongAng Daily (2024-05-26). / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 2024-06-19 KST; festival schedule and 5/26 donation notice confirmed via JoongAng Daily.",
     "detail": {
       "ja": "東国大学校の大学祭ステージで披露した「How Sweet」のステージカム映像で、YouTubeで公開された。5月下旬、シングル『How Sweet』発売直後に行われた大学祭7校（5月25日の高麗大学校から朝鮮大学校、東義大学校、釜山大学校、東国大学校、世宗大学校、中央大学校）の出演の一つで、ADORはこれらの出演料を全額寄付すると5月26日に発表していた。",
       "en": "Stage-cam video of 'How Sweet' performed at the Dongguk University festival, published on YouTube. One of seven university festival appearances in late May 2024 made right after the release of the single How Sweet (starting with Korea University on 25 May, then Chosun, Dong-eui, Pusan National, Dongguk, Sejong and Chung-Ang universities); ADOR announced on 26 May that all appearance fees would be donated."
@@ -5108,7 +5126,11 @@
       "en": "Stage cam of 'Hype Boy' from the Chung-Ang University festival, one of seven university festival dates played right after How Sweet came out."
     },
     "source_url": "https://www.youtube.com/watch?v=a7JDrjIZOVs",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=a7JDrjIZOVs",
+      "https://v.daum.net/v/20240526174208329",
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-will-donate-earnings-from-university-festivals-to-charity/12481436"
+    ],
     "media": {
       "type": "youtube",
       "ref": "a7JDrjIZOVs"
@@ -5119,8 +5141,8 @@
       "university-festival",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Festival performance date not sourced; YouTube upload date None (PT). 2024 tour context from Korea JoongAng Daily (2024-05-26).",
+    "verified": true,
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Festival performance date not sourced; YouTube upload date None (PT). 2024 tour context from Korea JoongAng Daily (2024-05-26). / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 2024-06-19 KST; festival schedule and 5/26 donation notice confirmed via JoongAng Daily.",
     "detail": {
       "ja": "中央大学校の大学祭ステージで披露した「Hype Boy」のステージカム映像で、YouTubeで公開された。5月下旬、シングル『How Sweet』発売直後に行われた大学祭7校（5月25日の高麗大学校から朝鮮大学校、東義大学校、釜山大学校、東国大学校、世宗大学校、中央大学校）の出演の一つで、ADORはこれらの出演料を全額寄付すると5月26日に発表していた。",
       "en": "Stage-cam video of 'Hype Boy' performed at the Chung-Ang University festival, published on YouTube. One of seven university festival appearances in late May 2024 made right after the release of the single How Sweet (starting with Korea University on 25 May, then Chosun, Dong-eui, Pusan National, Dongguk, Sejong and Chung-Ang universities); ADOR announced on 26 May that all appearance fees would be donated."
@@ -5149,7 +5171,11 @@
       "en": "Stage cam of 'Bubble Gum' from the Dong-eui University in Busan festival, one of seven university festival dates played right after How Sweet came out."
     },
     "source_url": "https://www.youtube.com/watch?v=vfkVtcYj0cU",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=vfkVtcYj0cU",
+      "https://v.daum.net/v/20240526174208329",
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-will-donate-earnings-from-university-festivals-to-charity/12481436"
+    ],
     "media": {
       "type": "youtube",
       "ref": "vfkVtcYj0cU"
@@ -5160,8 +5186,8 @@
       "university-festival",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Festival performance date not sourced; YouTube upload date None (PT). 2024 tour context from Korea JoongAng Daily (2024-05-26).",
+    "verified": true,
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Festival performance date not sourced; YouTube upload date None (PT). 2024 tour context from Korea JoongAng Daily (2024-05-26). / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 2024-06-20 KST; festival schedule and 5/26 donation notice confirmed via JoongAng Daily.",
     "detail": {
       "ja": "東義大学校（釜山）の大学祭ステージで披露した「Bubble Gum」のステージカム映像で、YouTubeで公開された。5月下旬、シングル『How Sweet』発売直後に行われた大学祭7校（5月25日の高麗大学校から朝鮮大学校、東義大学校、釜山大学校、東国大学校、世宗大学校、中央大学校）の出演の一つで、ADORはこれらの出演料を全額寄付すると5月26日に発表していた。",
       "en": "Stage-cam video of 'Bubble Gum' performed at the Dong-eui University in Busan festival, published on YouTube. One of seven university festival appearances in late May 2024 made right after the release of the single How Sweet (starting with Korea University on 25 May, then Chosun, Dong-eui, Pusan National, Dongguk, Sejong and Chung-Ang universities); ADOR announced on 26 May that all appearance fees would be donated."

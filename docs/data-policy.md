@@ -82,7 +82,7 @@ ADOR、HYBE、裁判所、メンバー側代理人による公式発表・声明
 
 ## 5. ID（id）
 
-`<category>-<YYYY-MM-DD>-<slug>`。slugは半角小文字英数字とハイフンのみ。同日に同カテゴリの複数レコードがある場合はslugで区別する。IDは一度付けたら変更しない（URLのアンカーとして使う）。
+`<category>-<YYYY-MM-DD>-<slug>`。slugは半角小文字英数字とハイフンのみ。同日に同カテゴリの複数レコードがある場合はslugで区別する。IDは一度付けたら変更しない（URLのアンカーとして使う）。ただし日付を訂正したときは、`<category>-<YYYY-MM-DD>` を日付に合わせるためIDを改名する。改名は tools/rename_id.py（tools/apply_patch.py から自動で呼ばれる）で行い、旧IDから新IDへの対応を data/id-aliases.json に記録する。サイトは旧IDのリンクをこの対応表で新IDに読み替えるので、外部から張ったリンクは切れない（2026-10-24）。
 
 ## 6. 代表画像（image / media/auto）
 

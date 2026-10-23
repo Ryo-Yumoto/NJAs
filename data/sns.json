@@ -3494,8 +3494,8 @@
       "en": "Official Instagram post of the 'Right Now' MV teaser, in which the five Powerpuff Girls-collaboration characters find a giant rainbow flower."
     },
     "detail": {
-      "ja": "日本デビューシングル『Supernatural』収録曲「Right Now」のMVティーザーに合わせた公式Instagram投稿。ティーザーはパワーパフガールズとの協業キャラクター5人が夜の森を歩き、「Love Potion」に使う巨大な虹色の花に出会う内容。公式YouTubeのティーザーは5月1日0時に公開された。",
-      "en": "An official Instagram post for the MV teaser of 'Right Now', a track on the Japan debut single Supernatural. In the teaser the five Powerpuff Girls-collaboration characters walk through a night forest and find a giant rainbow flower for a 'Love Potion'. The YouTube teaser went up at 00:00 on May 1."
+      "ja": "日本デビューシングル『Supernatural』収録曲「Right Now」のMVティーザーを告げる公式Instagram投稿で、本文は「NewJeans 'Right Now' Official MV Teaser」。ティーザーはパワーパフガールズとの協業キャラクター5人が夜の森を歩き、「Love Potion」に使う巨大な虹色の花に出会う内容。YouTubeのティーザーは5月1日0時に公開された。",
+      "en": "An official Instagram post for the MV teaser of 'Right Now', a track on the Japan debut single Supernatural, captioned 'NewJeans 'Right Now' Official MV Teaser'. In the teaser the five Powerpuff Girls-collaboration characters walk through a night forest and find a giant rainbow flower for a 'Love Potion'. The YouTube teaser went up at 00:00 on May 1."
     },
     "credits": {
       "account": "@newjeans_official",
@@ -3503,6 +3503,8 @@
     },
     "source_url": "https://www.instagram.com/p/C6Y8y_KyLs_/",
     "reference_urls": [
+      "https://www.instagram.com/p/C6Y8y_KyLs_/",
+      "https://www.youtube.com/watch?v=UagOXpNCc10",
       "https://www.vogue.co.kr/2024/05/01/%eb%89%b4%ec%a7%84%ec%8a%a4x%eb%ac%b4%eb%9d%bc%ec%b9%b4%eb%af%b8-%eb%8b%a4%ec%b9%b4%ec%8b%9c-%ed%98%91%ec%97%85-right-now/",
       "https://www.marieclairekorea.com/culture/music/2024/05/newjeans-bubble-gum/"
     ],
@@ -3515,8 +3517,8 @@
       "teaser",
       "Supernatural"
     ],
-    "verified": false,
-    "editor_note": "Instagram page not fetchable; shortcode C6Y8y_KyLs_ found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-04-30 23:59:21 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode C6Y8y_KyLs_ embedded in Vogue Korea's 2024-05-01 article, source of the teaser description; time derived from the shortcode (= 23:59:21 KST). Caption not retrieved."
+    "verified": true,
+    "editor_note": "Instagram page not fetchable; shortcode C6Y8y_KyLs_ found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-04-30 23:59:21 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode C6Y8y_KyLs_ embedded in Vogue Korea's 2024-05-01 article, source of the teaser description; time derived from the shortcode (= 23:59:21 KST). Caption not retrieved. / 2026-10-24 nightly: Instagram oembed confirms @newjeans_official caption \"NewJeans 'Right Now' Official MV Teaser\" and media_id time 2024-04-30 23:59:21 KST; HYBE LABELS YouTube teaser dated 2024-05-01 KST; Vogue Korea describes the teaser content."
   },
   {
     "id": "sns-2024-05-06-minji-birthday-phoning-chat",
@@ -3555,7 +3557,7 @@
       "account": "Phoning (Minji)",
       "label": "ADOR"
     },
-    "editor_note": "Secondary source only (Kbizoom); Phoning not fetchable; quote is an English translation. / Secondary source only (Kbizoom, 2024-05-09); Phoning not fetchable; the quote is rendered from Kbizoom's English translation."
+    "editor_note": "Secondary source only (Kbizoom); Phoning not fetchable; quote is an English translation. / Secondary source only (Kbizoom, 2024-05-09); Phoning not fetchable; the quote is rendered from Kbizoom's English translation. / 2026-10-24 nightly: Phoning messages are app-only; no Korean press report of this exchange found on Naver. Date and quote rest on Kbizoom's translation only."
   },
   {
     "id": "sns-2024-05-07-youtube-happy-minji-day",
@@ -3639,7 +3641,7 @@
       "account": "Phoning (Danielle)",
       "label": "ADOR"
     },
-    "editor_note": "Secondary source only (Kbizoom); quote is an English translation. / Secondary source only (Kbizoom, 2024-05-09); Phoning not fetchable; the quote is rendered from Kbizoom's English translation."
+    "editor_note": "Secondary source only (Kbizoom); quote is an English translation. / Secondary source only (Kbizoom, 2024-05-09); Phoning not fetchable; the quote is rendered from Kbizoom's English translation. / 2026-10-24 nightly: Phoning messages are app-only; no Korean press report of the message found. The same-day Hyein Weverse notice (2024-05-08) is confirmed via Idaegu Ilbo, but the message itself is not."
   },
   {
     "id": "sns-2024-05-08-weverse-hyein-activity-pause-notice",
@@ -3664,8 +3666,12 @@
       "ja": "ヘインが足の微細骨折と診断され、回復のためダブルシングル『How Sweet』の音楽番組やパフォーマンスなどの公式活動への参加を見合わせるという、ADORのWeverse公式コミュニティでの告知。『How Sweet』は5月24日発売予定だった。",
       "en": "ADOR's notice on the official Weverse community that Hyein had been diagnosed with a microfracture in her foot and would refrain from official activities for the double single How Sweet, including music broadcasts and performances, in order to recover. How Sweet was due on May 24."
     },
-    "source_url": "https://kbizoom.com/minjis-birthday-comfort-hyeins-foot-fracture-danielles-confession-newjeans-isnt-really-smiling/",
-    "reference_urls": [],
+    "source_url": "https://weverse.io/newjeansofficial/notice/19366",
+    "reference_urls": [
+      "https://weverse.io/newjeansofficial/notice/19366",
+      "https://www.idaegu.co.kr/news/articleView.html?idxno=460192",
+      "https://kbizoom.com/minjis-birthday-comfort-hyeins-foot-fracture-danielles-confession-newjeans-isnt-really-smiling/"
+    ],
     "media": {
       "type": "none"
     },
@@ -3675,12 +3681,12 @@
       "HowSweet",
       "injury"
     ],
-    "verified": false,
+    "verified": true,
     "credits": {
       "account": "Weverse NewJeans official (ADOR)",
       "label": "ADOR"
     },
-    "editor_note": "Secondary source; Weverse notice URL not located. / Secondary source (Kbizoom, 2024-05-09); the Weverse notice URL was not located."
+    "editor_note": "Secondary source; Weverse notice URL not located. / Secondary source (Kbizoom, 2024-05-09); the Weverse notice URL was not located. / 2026-10-24 nightly: Weverse notice URL from the SNS ledger ('NewJeans HYEIN's Health and Her Upcoming Schedule', 2024-05-08; page is JS-only here); Idaegu Ilbo 2024-05-08 quotes the notice: April practice injury, microfracture, no How Sweet official activities incl. music shows and performances."
   },
   {
     "id": "sns-2024-05-10-supernatural-packshot-preorder",
@@ -3703,9 +3709,10 @@
     },
     "source_url": "https://www.instagram.com/p/C6xUtiiyp7c/",
     "reference_urls": [
+      "https://www.instagram.com/p/C6xUtiiyp7c/",
+      "https://www.xportsnews.com/article/1857619",
       "https://www.marieclairekorea.com/?p=359904",
-      "https://www.vogue.co.kr/?p=483486",
-      "https://www.xportsnews.com/article/1857619"
+      "https://www.vogue.co.kr/?p=483486"
     ],
     "media": {
       "type": "none"
@@ -3714,8 +3721,8 @@
       "packshot",
       "preorder"
     ],
-    "verified": false,
-    "editor_note": "instagram. Shortcode timestamp 2024-05-10 11:10 KST. Status URL on X not recovered. | Instagram caption verified via WebFetch (post date 2024-05-09 UTC). X status not recovered. / Instagram caption (p/C6xUtiiyp7c) verified via WebFetch (hashtags #NewJeans #뉴진스 #NewJeans_Supernatural #NewJeans_RightNow #NewJeans_is_Everywhere omitted from reader text for length); shortcode timestamp 2024-05-10 11:10 KST (post date 05-09 UTC). Bag details per Xports News. X status not recovered. | removed from reader text: [detail.en] A one-image post announcing Supernatural as 'NewJeans X MURAKAMI', out June 21, 2024 with pre-orders from 11AM KST on May 10, in three editions: NJ X MURAKAMI Drawstring Bag ver., NJ X MURAKAMI Cross Bag ver. and Weverse Albums ver.",
+    "verified": true,
+    "editor_note": "instagram. Shortcode timestamp 2024-05-10 11:10 KST. Status URL on X not recovered. | Instagram caption verified via WebFetch (post date 2024-05-09 UTC). X status not recovered. / Instagram caption (p/C6xUtiiyp7c) verified via WebFetch (hashtags #NewJeans #뉴진스 #NewJeans_Supernatural #NewJeans_RightNow #NewJeans_is_Everywhere omitted from reader text for length); shortcode timestamp 2024-05-10 11:10 KST (post date 05-09 UTC). Bag details per Xports News. X status not recovered. | removed from reader text: [detail.en] A one-image post announcing Supernatural as 'NewJeans X MURAKAMI', out June 21, 2024 with pre-orders from 11AM KST on May 10, in three editions: NJ X MURAKAMI Drawstring Bag ver., NJ X MURAKAMI Cross Bag ver. and Weverse Albums ver. / 2026-10-24 nightly: Instagram oembed confirms caption (NewJeans X MURAKAMI, 2024.6.21 release, pre-order 2024.5.10 11AM KST, three editions) and media_id time 2024-05-10 11:10 KST. detail.en had lost its first sentence (only the bag description remained) and was restored to match detail.ja. | removed from reader text: [detail.en] A one-image post announcing Supernatural as 'NewJeans X MURAKAMI', out June 21, 2024 with pre-orders from 11 AM KST on May 10, in three editions: NJ X MURAKAMI Drawstring Bag ver., NJ X MURAKAMI Cross Bag ver. and Weverse Albums ver.",
     "detail": {
       "ja": "『Supernatural』を「NewJeans X MURAKAMI」として2024年6月21日に発売し、5月10日11時（KST）に予約を開始すると告げた画像1点の投稿。形態はNJ X MURAKAMI Drawstring Bag ver.、NJ X MURAKAMI Cross Bag ver.、Weverse Albums ver.の3種。同日公開のジャケット写真ではメンバーが村上隆コラボのバッグ型アルバムを肩に掛けており、Cross Bagは5色展開、Drawstring Bagには村上隆がスケッチしたメンバー別キャラクターが描かれる。",
       "en": "In the jacket photos released that day the members carry the Murakami-collaboration bag albums; the Cross Bag comes in five colours and the Drawstring Bag carries member characters sketched by Takashi Murakami."
@@ -3748,6 +3755,7 @@
     },
     "source_url": "https://www.instagram.com/p/C6ys6KAyGQv/",
     "reference_urls": [
+      "https://www.instagram.com/p/C6ys6KAyGQv/",
       "https://www.marieclairekorea.com/celebrity/2024/05/fujiwara-hiroshi-newjeans/"
     ],
     "media": {
@@ -3757,8 +3765,8 @@
       "collab",
       "concept-photo"
     ],
-    "verified": false,
-    "editor_note": "instagram. IG shortcode timestamp 2024-05-11 00:00 KST; Marie Claire Korea 2024-05-13. X status URL not recovered. | Instagram caption verified via WebFetch (post date 2024-05-10 UTC). X status not recovered. / Instagram caption (p/C6ys6KAyGQv) verified via WebFetch; shortcode timestamp 2024-05-11 00:00 KST (post date 05-10 UTC). The collaboration T-shirt details (handwritten names, signature, memo of writing the names in Hangul) come from Marie Claire Korea 2024-05-13, post-date this record and are covered by sns-2024-05-13-instagram-fujiwara-hiroshi-tshirt-post, so they are not repeated here. X status not recovered.",
+    "verified": true,
+    "editor_note": "instagram. IG shortcode timestamp 2024-05-11 00:00 KST; Marie Claire Korea 2024-05-13. X status URL not recovered. | Instagram caption verified via WebFetch (post date 2024-05-10 UTC). X status not recovered. / Instagram caption (p/C6ys6KAyGQv) verified via WebFetch; shortcode timestamp 2024-05-11 00:00 KST (post date 05-10 UTC). The collaboration T-shirt details (handwritten names, signature, memo of writing the names in Hangul) come from Marie Claire Korea 2024-05-13, post-date this record and are covered by sns-2024-05-13-instagram-fujiwara-hiroshi-tshirt-post, so they are not repeated here. X status not recovered. / 2026-10-24 nightly: Instagram oembed confirms @newjeans_official caption ('NewJeans X HIROSHI', 2024.6.21 Release) and media_id time 2024-05-11 00:00:46 KST.",
     "detail": {
       "ja": "6月21日発売の『Supernatural』に合わせた藤原ヒロシとのコラボレーションを告げた画像1点の投稿。本文には「NewJeans X HIROSHI」の文字と2024年6月21日の発売日だけが記されている。",
       "en": "A one-image post announcing a collaboration with Hiroshi Fujiwara tied to the June 21 release of Supernatural. The caption carries only 'NewJeans X HIROSHI' and the release date."
