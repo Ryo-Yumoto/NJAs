@@ -1906,6 +1906,10 @@
     },
     "credits": {
       "venue": "Sungkyunkwan University, Seoul"
+    },
+    "image": {
+      "url": "https://photo.newsen.com/news_photo/2023/09/15/202309150212021310_1.jpg",
+      "source_url": "https://www.newsen.com/news_view.php?uid=202309150212021310"
     }
   },
   {
@@ -4220,6 +4224,10 @@
       "venue": "Inspire Arena, Incheon",
       "organizer": "Livet (promoter)",
       "guest_of": "YOASOBI"
+    },
+    "image": {
+      "url": "https://www.thefirsttimes.jp/admin/wp-content/uploads/5000/12/20241209-tr-000010.jpg",
+      "source_url": "https://www.thefirsttimes.jp/report/0000532779/"
     }
   },
   {

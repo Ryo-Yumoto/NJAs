@@ -1997,7 +1997,11 @@
       "win"
     ],
     "verified": true,
-    "editor_note": "MBC official chart post '2023년 1월 28일 음악중심 차트' (posted 2023-01-30): 1 NewJeans Ditto 6,758; 2 Taeyang VIBE 5,098; 3 NCT DREAM Candy 4,131. OSEN (2023-01-28 16:40): NewJeans absent. Jan 21 cancellation per MBC notice cited by en.wikipedia."
+    "editor_note": "MBC official chart post '2023년 1월 28일 음악중심 차트' (posted 2023-01-30): 1 NewJeans Ditto 6,758; 2 Taeyang VIBE 5,098; 3 NCT DREAM Candy 4,131. OSEN (2023-01-28 16:40): NewJeans absent. Jan 21 cancellation per MBC notice cited by en.wikipedia.",
+    "image": {
+      "url": "https://photo.newsen.com/news_photo/2023/01/28/202301281417142510_1.jpg",
+      "source_url": "https://www.newsen.com/news_view.php?uid=202301281417142510"
+    }
   },
   {
     "id": "tv-2023-01-29-inkigayo-danielle-special-mc",
@@ -2122,7 +2126,11 @@
       "win"
     ],
     "verified": true,
-    "editor_note": "MBC official chart post '2023년 2월 4일 음악중심 차트' (posted 2023-02-06): 1 NewJeans Ditto 5,690; 2 TXT Sugar Rush Ride 4,816; 3 Taeyang VIBE 3,647. Whether NewJeans appeared that day was not confirmed (no stage expected; omitted from reader text)."
+    "editor_note": "MBC official chart post '2023년 2월 4일 음악중심 차트' (posted 2023-02-06): 1 NewJeans Ditto 5,690; 2 TXT Sugar Rush Ride 4,816; 3 Taeyang VIBE 3,647. Whether NewJeans appeared that day was not confirmed (no stage expected; omitted from reader text).",
+    "image": {
+      "url": "https://photo.newsen.com/news_photo/2023/02/04/202302041401142510_1.jpg",
+      "source_url": "https://www.newsen.com/news_view.php?uid=202302041401142510"
+    }
   },
   {
     "id": "tv-2023-02-05-inkigayo-ditto-win-3",
@@ -2160,7 +2168,11 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Triple crown per Inkigayo 2023 chart list; competing nominees not confirmed. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
+    "editor_note": "Triple crown per Inkigayo 2023 chart list; competing nominees not confirmed. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "image": {
+      "url": "https://photo.newsen.com/news_photo/2023/02/05/202302051548260810_1.jpg",
+      "source_url": "https://www.newsen.com/news_view.php?uid=202302051548260810"
+    }
   },
   {
     "id": "tv-2023-02-11-hanteo-music-awards-2022",
@@ -2273,7 +2285,11 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Nominees per OSEN (Mar 19, 2023); points per chart list. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
+    "editor_note": "Nominees per OSEN (Mar 19, 2023); points per chart list. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "image": {
+      "url": "https://file.osen.co.kr/article/2023/03/19/202303191637771461_6416bd5c2aeed.jpg",
+      "source_url": "http://www.osen.co.kr/article/G1112064066"
+    }
   },
   {
     "id": "tv-2023-03-26-inkigayo-omg-win-3",
@@ -2311,7 +2327,11 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Per Soompi (Mar 26, 2023). / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
+    "editor_note": "Per Soompi (Mar 26, 2023). / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "image": {
+      "url": "https://photo.newsen.com/news_photo/2023/03/26/202303261646366710_1.jpg",
+      "source_url": "https://www.newsen.com/news_view.php?uid=202303261646366710"
+    }
   },
   {
     "id": "tv-2023-04-02-inkigayo-hype-boy-win",
