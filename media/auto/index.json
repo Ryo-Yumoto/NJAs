@@ -8303,6 +8303,14 @@
   "page_url": "https://file.sportsseoul.com/news/cms/2024/01/30/news-p.v1.20240130.92ff777f190b4fec9078e71ac7fadd56_P1.jpg",
   "w": 700
  },
+ "record-2024-01-02-sma-33-bonsang": {
+  "fetched": "2026-10-23",
+  "file": "record-2024-01-02-sma-33-bonsang.jpg",
+  "h": 394,
+  "image_url": "https://file.sportsseoul.com/news/cms/2024/02/02/news-p.v1.20240201.7a5e4653db21482399f5d8dff06b6c9e_P1.jpg",
+  "page_url": "https://file.sportsseoul.com/news/cms/2024/02/02/news-p.v1.20240201.7a5e4653db21482399f5d8dff06b6c9e_P1.jpg",
+  "w": 700
+ },
  "record-2024-01-05-super-shy-spotify-400m": {
   "fetched": "2026-10-23",
   "file": "record-2024-01-05-super-shy-spotify-400m.jpg",
@@ -8687,6 +8695,14 @@
   "page_url": "https://www.soompi.com/article/1703865wpp/winners-of-1st-korea-grand-music-awards-kgma-day-1",
   "w": 1200
  },
+ "record-2024-11-16-kgma-2024-best-song-super-shy-nomination": {
+  "fetched": "2026-10-23",
+  "file": "record-2024-11-16-kgma-2024-best-song-super-shy-nomination.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/-hyQdASWNnY/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/-hyQdASWNnY/maxresdefault.jpg",
+  "w": 1280
+ },
  "record-2024-11-16-kgma-2024-grand-artist-daesang": {
   "fetched": "2026-10-15",
   "file": "record-2024-11-16-kgma-2024-grand-artist-daesang.jpg",
@@ -8694,6 +8710,14 @@
   "image_url": "https://0.soompi.io/wp-content/uploads/2024/11/16154817/NewJeans-Taemin-GIDLE-ZEROBASEONE.jpg",
   "page_url": "https://www.soompi.com/article/1703865wpp/winners-of-1st-korea-grand-music-awards-kgma-day-1",
   "w": 1200
+ },
+ "record-2024-11-16-kgma-2024-trend-of-the-year-k-pop-group-nomination": {
+  "fetched": "2026-10-23",
+  "file": "record-2024-11-16-kgma-2024-trend-of-the-year-k-pop-group-nomination.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/-hyQdASWNnY/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/-hyQdASWNnY/maxresdefault.jpg",
+  "w": 1280
  },
  "record-2024-11-21-mama-2024-fans-choice-of-the-year-nomination": {
   "fetched": "2026-10-17",
@@ -9807,6 +9831,22 @@
   "page_url": "https://x.com/NewJeans_ADOR/status/1947310605204943140",
   "w": 1080
  },
+ "sns-2025-10-06-youtube-happy-hanni-day": {
+  "fetched": "2026-10-23",
+  "file": "sns-2025-10-06-youtube-happy-hanni-day.jpg",
+  "h": 1080,
+  "image_url": "https://yt3.ggpht.com/k8lXcwYCc9QCFx3-q2H0WugLW2RBCAMuYcfYqKZB4G1IshQyoe7mJG5nZcabUkllRBAGud8fjFag1Q=s1080-nd-v1",
+  "page_url": "https://yt3.ggpht.com/k8lXcwYCc9QCFx3-q2H0WugLW2RBCAMuYcfYqKZB4G1IshQyoe7mJG5nZcabUkllRBAGud8fjFag1Q=s1080-nd-v1",
+  "w": 864
+ },
+ "sns-2025-10-29-youtube-happy-3rd-bunnies-day": {
+  "fetched": "2026-10-23",
+  "file": "sns-2025-10-29-youtube-happy-3rd-bunnies-day.jpg",
+  "h": 1400,
+  "image_url": "https://yt3.ggpht.com/gFkoybx8DjIM6ucgLVAIGEThe5xqScWZXGR5-AoG7wj30pnUVMHh8pnmnEsQg2rcgsjB7037I9v84g=s1944-nd-v1",
+  "page_url": "https://yt3.ggpht.com/gFkoybx8DjIM6ucgLVAIGEThe5xqScWZXGR5-AoG7wj30pnUVMHh8pnmnEsQg2rcgsjB7037I9v84g=s1944-nd-v1",
+  "w": 1120
+ },
  "sns-2026-04-21-happy-hyein-day": {
   "fetched": "2026-10-15",
   "file": "sns-2026-04-21-happy-hyein-day.jpg",
@@ -10150,6 +10190,14 @@
   "image_url": "https://i.ytimg.com/vi/LZdR2z49Pxc/maxresdefault.jpg",
   "page_url": "https://i.ytimg.com/vi/LZdR2z49Pxc/maxresdefault.jpg",
   "w": 1280
+ },
+ "tv-2023-01-19-seoul-music-awards-32": {
+  "fetched": "2026-10-23",
+  "file": "tv-2023-01-19-seoul-music-awards-32.jpg",
+  "h": 600,
+  "image_url": "https://www.bntnews.co.kr/data/bnt/image/2023/01/20/bnt202301200043.jpg",
+  "page_url": "https://www.bntnews.co.kr/article/view/bnt202301200020",
+  "w": 1200
  },
  "tv-2023-01-20-music-bank-ditto-omg": {
   "fetched": "2026-10-15",
@@ -10870,6 +10918,14 @@
   "image_url": "https://i.ytimg.com/vi/GWXmvcX27UA/maxresdefault.jpg",
   "page_url": "https://i.ytimg.com/vi/GWXmvcX27UA/maxresdefault.jpg",
   "w": 1280
+ },
+ "tv-2024-12-04-fns-music-festival-2024": {
+  "fetched": "2026-10-23",
+  "file": "tv-2024-12-04-fns-music-festival-2024.jpg",
+  "h": 1050,
+  "image_url": "https://pbs.twimg.com/media/Gd8z6nnaAAAun0E.jpg?name=orig",
+  "page_url": "https://pbs.twimg.com/media/Gd8z6nnaAAAun0E.jpg?name=orig",
+  "w": 1400
  },
  "tv-2024-12-16-cdtv-christmas-sp-2024": {
   "fetched": "2026-10-17",

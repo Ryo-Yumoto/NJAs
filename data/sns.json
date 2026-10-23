@@ -5569,7 +5569,11 @@
       "birthday"
     ],
     "verified": true,
-    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2025-10-06-happy-hanni-day. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2025-10-06-happy-hanni-day. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations.",
+    "image": {
+      "url": "https://yt3.ggpht.com/k8lXcwYCc9QCFx3-q2H0WugLW2RBCAMuYcfYqKZB4G1IshQyoe7mJG5nZcabUkllRBAGud8fjFag1Q=s1080-nd-v1",
+      "source_url": "https://www.youtube.com/post/UgkxFoleqw41ly3YpyZ0HN0ShESowbv7-VLl"
+    }
   },
   {
     "id": "sns-2025-10-29-youtube-happy-3rd-bunnies-day",
@@ -5612,7 +5616,11 @@
       "Bunnies"
     ],
     "verified": true,
-    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2025-10-29-bunnies-day-happy-3rd-bunnies-day. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2025-10-29-bunnies-day-happy-3rd-bunnies-day. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations.",
+    "image": {
+      "url": "https://yt3.ggpht.com/gFkoybx8DjIM6ucgLVAIGEThe5xqScWZXGR5-AoG7wj30pnUVMHh8pnmnEsQg2rcgsjB7037I9v84g=s1944-nd-v1",
+      "source_url": "https://www.youtube.com/post/Ugkxd8Y1GpYK9yfayKwi2eadKrA_Ha2UQ9m3"
+    }
   },
   {
     "id": "sns-2026-04-21-happy-hyein-day",
