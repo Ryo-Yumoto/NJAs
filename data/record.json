@@ -6486,7 +6486,11 @@
       "award"
     ],
     "verified": true,
-    "editor_note": "Sports Seoul (organizer) 33rd SMA (Bangkok, Jan 2, 2024): 본상 list of 18 teams includes 뉴진스."
+    "editor_note": "Sports Seoul (organizer) 33rd SMA (Bangkok, Jan 2, 2024): 본상 list of 18 teams includes 뉴진스.",
+    "image": {
+      "url": "https://file.sportsseoul.com/news/cms/2024/02/02/news-p.v1.20240201.7a5e4653db21482399f5d8dff06b6c9e_P1.jpg",
+      "source_url": "https://www.sportsseoul.com/news/read/1395866"
+    }
   },
   {
     "id": "record-2024-01-02-sma-33-daesang-nomination",
@@ -6555,7 +6559,11 @@
     "editor_note": "TenAsia report dated Jan 5, 2024 (title via search; body not fetchable). Exact crossing date not confirmed. / Korea Herald 2024-01-05: 'NewJeans tops 400m Spotify streams with Super Shy' (fourth song after OMG, Ditto, Hype Boy).",
     "reference_urls": [
       "https://www.tenasia.com/amp/2024010551114"
-    ]
+    ],
+    "image": {
+      "url": "https://img1.newsis.com/2024/01/05/NISI20240105_0001452759_web.jpg",
+      "source_url": "https://www.newsis.com/view/NISX20240105_0002581834"
+    }
   },
   {
     "id": "record-2024-01-06-gda-38-digital-daesang-ditto",

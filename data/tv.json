@@ -5004,7 +5004,11 @@
         "en": "Mezamashi 8"
       }
     },
-    "editor_note": "公式YouTube動画なし: Fuji TV has no Mezamashi 8 clip of NewJeans on YouTube (only the Mezamashi TV performance clip)"
+    "editor_note": "公式YouTube動画なし: Fuji TV has no Mezamashi 8 clip of NewJeans on YouTube (only the Mezamashi TV performance clip)",
+    "image": {
+      "url": "https://pbs.twimg.com/media/GQkzfDka0AAwjwm.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_jp/status/1804042860809064492"
+    }
   },
   {
     "id": "tv-2024-06-21-mezamashi-tv",
@@ -5143,7 +5147,11 @@
       "win"
     ],
     "verified": true,
-    "editor_note": "MBC official chart post '2024년 6월 22일 음악중심 차트' (posted 2024-06-24): 1 NewJeans How Sweet 7,125; 2 aespa Armageddon 5,678; 3 IVE HEYA 4,093. Appearance on the day not confirmed; no stage described."
+    "editor_note": "MBC official chart post '2024년 6월 22일 음악중심 차트' (posted 2024-06-24): 1 NewJeans How Sweet 7,125; 2 aespa Armageddon 5,678; 3 IVE HEYA 4,093. Appearance on the day not confirmed; no stage described.",
+    "image": {
+      "url": "https://photo.newsen.com/news_photo/2024/06/22/202406221520172510_1.jpg",
+      "source_url": "https://www.newsen.com/news_view.php?uid=202406221520172510"
+    }
   },
   {
     "id": "tv-2024-06-22-with-music",
@@ -5186,7 +5194,11 @@
       "program": "with MUSIC",
       "host": "Yumiko Udo, Kohei Matsushita"
     },
-    "editor_note": "公式YouTube動画なし: NTV does not publish with MUSIC performances on YouTube; no official upload found"
+    "editor_note": "公式YouTube動画なし: NTV does not publish with MUSIC performances on YouTube; no official upload found",
+    "image": {
+      "url": "https://pbs.twimg.com/media/GQraE07agAAKdRZ.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_jp/status/1804494446182199328"
+    }
   },
   {
     "id": "tv-2024-06-24-cdtv-live-live",
@@ -5231,7 +5243,11 @@
         "en": "CDTV Live! Live!"
       }
     },
-    "editor_note": "公式YouTube動画なし: CDTV official channel has no clip for the 2024-06-24 broadcast (only 07-01 and 08-17 talk clips)"
+    "editor_note": "公式YouTube動画なし: CDTV official channel has no clip for the 2024-06-24 broadcast (only 07-01 and 08-17 talk clips)",
+    "image": {
+      "url": "https://pbs.twimg.com/media/GQzr-sma8AASXTn.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_jp/status/1805214288279126476"
+    }
   },
   {
     "id": "tv-2024-06-29-venue101",
@@ -5273,7 +5289,11 @@
       "broadcaster": "NHK General TV",
       "program": "Venue101"
     },
-    "editor_note": "公式YouTube動画なし: NHK does not publish Venue101 performances on YouTube; no official upload found"
+    "editor_note": "公式YouTube動画なし: NHK does not publish Venue101 performances on YouTube; no official upload found",
+    "image": {
+      "url": "https://pbs.twimg.com/media/GRPv20MbQAAXPGR.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_jp/status/1807059446394441871"
+    }
   },
   {
     "id": "tv-2024-07-01-cdtv-live-live-2",
@@ -5404,7 +5424,11 @@
       },
       "host": "Masaki Aiba, Sayaka Inoue"
     },
-    "editor_note": "公式YouTube動画なし: Fuji TV does not publish FNS performances on YouTube; no official upload found"
+    "editor_note": "公式YouTube動画なし: Fuji TV does not publish FNS performances on YouTube; no official upload found",
+    "image": {
+      "url": "https://pbs.twimg.com/media/GRkMLh5a4AAoDDY.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_jp/status/1808490127267942845"
+    }
   },
   {
     "id": "tv-2024-07-06-the-music-day-2024",
@@ -5444,7 +5468,11 @@
       "program": "THE MUSIC DAY 2024",
       "host": "Sho Sakurai"
     },
-    "editor_note": "公式YouTube動画なし: NTV does not publish THE MUSIC DAY performances on YouTube; no official upload found"
+    "editor_note": "公式YouTube動画なし: NTV does not publish THE MUSIC DAY performances on YouTube; no official upload found",
+    "image": {
+      "url": "https://pbs.twimg.com/media/GRzi2vWbMAA3dr7.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_jp/status/1809586849972650052"
+    }
   },
   {
     "id": "tv-2024-07-12-music-bank-supernatural",
@@ -5577,7 +5605,11 @@
         "en": "Ongaku no Hi 2024 (Day of Music)"
       }
     },
-    "editor_note": "Remote-from-Korea listing per ja.wikipedia program page; song (Supernatural) per fan reports only, not confirmed by TBS. / 公式YouTube動画なし: TBS does not publish Ongaku no Hi performances on YouTube; no official upload found"
+    "editor_note": "Remote-from-Korea listing per ja.wikipedia program page; song (Supernatural) per fan reports only, not confirmed by TBS. / 公式YouTube動画なし: TBS does not publish Ongaku no Hi performances on YouTube; no official upload found",
+    "image": {
+      "url": "https://pbs.twimg.com/media/GSQ_U1FagAMYigG.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_jp/status/1812108717409607807"
+    }
   },
   {
     "id": "tv-2024-07-14-inkigayo-supernatural",
@@ -5753,7 +5785,11 @@
       "broadcaster": "Nippon TV",
       "program": "with MUSIC"
     },
-    "editor_note": "公式YouTube動画なし: NTV does not publish with MUSIC performances on YouTube; no official upload found"
+    "editor_note": "公式YouTube動画なし: NTV does not publish with MUSIC performances on YouTube; no official upload found",
+    "image": {
+      "url": "https://pbs.twimg.com/media/GVLA40rbgAAEoTG.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_jp/status/1824778208773898499"
+    }
   },
   {
     "id": "tv-2024-08-19-cdtv-summer-fes-sp",
@@ -6003,7 +6039,11 @@
       "broadcaster": "Nippon TV",
       "program": "with MUSIC"
     },
-    "editor_note": "公式YouTube動画なし: NTV does not publish with MUSIC performances on YouTube; no official upload found"
+    "editor_note": "公式YouTube動画なし: NTV does not publish with MUSIC performances on YouTube; no official upload found",
+    "image": {
+      "url": "https://pbs.twimg.com/media/Gb8OM_wasAA9I-y.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_jp/status/1855218781162987594"
+    }
   },
   {
     "id": "tv-2024-11-15-nino-san",
@@ -6045,7 +6085,11 @@
       },
       "host": "Kazunari Ninomiya"
     },
-    "editor_note": "公式YouTube動画なし: NTV has no official Nino-san clip of NewJeans on YouTube (only news-aggregator uploads)"
+    "editor_note": "公式YouTube動画なし: NTV has no official Nino-san clip of NewJeans on YouTube (only news-aggregator uploads)",
+    "image": {
+      "url": "https://img-mdpr.freetls.fastly.net/article/6gt-/nm/6gt-0Lz3RW2wqLBCGIvZmhVty__t2P1j3ST5Ubivuvo.jpg",
+      "source_url": "https://mdpr.jp/k-enta/4425870"
+    }
   },
   {
     "id": "tv-2024-11-16-korea-grand-music-awards-2024",
