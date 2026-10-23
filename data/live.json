@@ -37,7 +37,7 @@
       "event",
       "brand-event"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "live-2022-08-12-new-jeans-weverse-shop-video-call-fansign",
@@ -150,7 +150,7 @@
     "tags": [
       "university-festival"
     ],
-    "editor_note": "Lineup announced by the university (Sept 15, 2022); actual stage not separately confirmed from an official ADOR source. | Lineup per Insight (Sept 15, 2022); no post-event report found.",
+    "editor_note": "Lineup announced by the university (Sept 15, 2022); actual stage not separately confirmed from an official ADOR source. | Lineup per Insight (Sept 15, 2022); no post-event report found. / 2026-10-23 nightly: 大学発表のラインアップはInsight（9月15日）経由のみで、当日の出演報道・公式告知なし。2日目はパク・ジェボム本人ではなく所属事務所MORE VISIONのアーティストとMVP、HolyBangと報じられており、detailの記述は要見直し。source_urlのsegye 2022-05-26記事は別件の可能性。",
     "detail": {
       "ja": "京畿道龍仁市の檀国大学校竹田キャンパスで開かれた大学祭『2022 DANFESTA : WOULD U PLAY!?』（9月21日・22日）の初日に出演した。大学側が9月15日に公開したラインナップでは、初日にNewJeansとAOMG所属のイ・ハイ、ウ・ウォンジェ、Loco、サイモン・ドミニクら、2日目にパク・ジェボムらが予定されていた。デビュー後初の大学祭ステージだった。",
       "en": "NewJeans performed on day one of Dankook University's Jukjeon campus festival 2022 DANFESTA : WOULD U PLAY!? (21–22 September) in Yongin, Gyeonggi-do. The lineup released by the university on 15 September placed NewJeans on day one alongside AOMG artists Lee Hi, Woo Won-jae, Loco and Simon Dominic, with Jay Park and others on day two. It was the group's first university festival stage after debut."
@@ -195,7 +195,7 @@
       "fashion"
     ],
     "verified": false,
-    "editor_note": "Wedding21 News (2022-09-26) says the store opened on the 21st with the guests attending; event date taken as the opening day. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-17: moved from ad to live (attendance event, per data-policy 2026-10-16)."
+    "editor_note": "Wedding21 News (2022-09-26) says the store opened on the 21st with the guests attending; event date taken as the opening day. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-17: moved from ad to live (attendance event, per data-policy 2026-10-16). / 2026-10-23 nightly: Harper's BAZAAR Korea（2022-10-12）は漢南洞ストア開店のみで出席者・日付に触れず、ディーゼル公式の発表も見つからず。"
   },
   {
     "id": "live-2022-09-24-yonsei-akaraka",
@@ -235,7 +235,7 @@
       "venue": "Yonsei University Sinchon Campus Open-air Theater, Seoul",
       "organizer": "Yonsei University"
     },
-    "editor_note": "Per Wikitree (Sept 24, 2022); setlist not reported."
+    "editor_note": "Per Wikitree (Sept 24, 2022); setlist not reported. / 2026-10-23 nightly: Wikitree・Insightのみ。ソウル新聞2023-05-19は2022年9月24日の対面開催を記すがNewJeans出演には触れず、大学・ADORの公式告知なし。"
   },
   {
     "id": "live-2022-09-30-incheon-departure-kcon-saudi-arabia",
@@ -252,12 +252,12 @@
       "en": "Departs Incheon for KCON 2022 Saudi Arabia"
     },
     "summary": {
-      "ja": "KCON 2022 サウジアラビア出演のため、仁川国際空港からリヤドへ出国した。デビュー後初の海外公演に向けた出国。",
-      "en": "Left Incheon International Airport for Riyadh to perform at KCON 2022 Saudi Arabia, their first overseas show since debuting."
+      "ja": "KCON 2022 サウジアラビア出演のため、仁川国際空港からリヤドへ出国した。デビュー後初の海外への出国。",
+      "en": "Left Incheon International Airport for Riyadh to appear at KCON 2022 Saudi Arabia, their first departure abroad since debut."
     },
     "detail": {
-      "ja": "メンバー5人が「KCON 2022 Saudi Arabia」に出演するため、仁川国際空港からサウジアラビア・リヤドへ出国した。デビュー後初の海外公演に向けた出国で、多くの報道陣が空港での様子を伝えた。",
-      "en": "The five members left Incheon International Airport for Riyadh, Saudi Arabia, to appear at KCON 2022 Saudi Arabia. It was their departure for their first overseas performance since debut, and the airport scene drew wide press coverage."
+      "ja": "メンバー5人が「KCON 2022 Saudi Arabia」に出演するため、30日午前に仁川国際空港からサウジアラビア・リヤドへ出国した。デビュー後初の海外への出国と報じられた。KCON 2022 Saudi Arabiaは30日から翌日までの開催。",
+      "en": "The five members left Incheon International Airport on the morning of the 30th for Riyadh, Saudi Arabia, to appear at KCON 2022 Saudi Arabia. It was reported as their first departure abroad since debut. KCON 2022 Saudi Arabia ran from the 30th to the following day."
     },
     "credits": {
       "venue": "Incheon International Airport"
@@ -275,7 +275,7 @@
       "airport",
       "overseas"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "live-2022-10-01-kcon-2022-saudi-arabia",

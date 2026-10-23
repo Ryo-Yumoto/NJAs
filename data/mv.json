@@ -38,7 +38,7 @@
     "verified": false,
     "note": "「#THE_GIRL 1」と題した映像も同時期に公開されたとされる。",
     "note_en": "A video titled '#THE_GIRL 1' is said to have been released around the same time.",
-    "editor_note": "Upload date fetched from YouTube page metadata (now on the HYBE LABELS channel): 2019-09-03T17:00:10-07:00 = 2019-09-04 09:00 KST. Minji's appearance is per en/ja Wikipedia and fan wikis (not visually verified here), hence verified=false. The companion video '#THE_GIRL 1' (reported upload 2019-09-03/04) could not be located on the official channel; only fan re-uploads (e.g. VQtmLWYzecQ) were found, so it is not recorded. | Audition facts from Music Week / SBS Star (Sep 2019); Minji as 'The Girl' per en.wikipedia Minji_(singer). YouTube page read via reader; upload date on YouTube: Sep 3, 2019 (PT). | note sentences already covered by detail: ミンジはこの時点ではSource Musicの練習生。",
+    "editor_note": "Upload date fetched from YouTube page metadata (now on the HYBE LABELS channel): 2019-09-03T17:00:10-07:00 = 2019-09-04 09:00 KST. Minji's appearance is per en/ja Wikipedia and fan wikis (not visually verified here), hence verified=false. The companion video '#THE_GIRL 1' (reported upload 2019-09-03/04) could not be located on the official channel; only fan re-uploads (e.g. VQtmLWYzecQ) were found, so it is not recorded. | Audition facts from Music Week / SBS Star (Sep 2019); Minji as 'The Girl' per en.wikipedia Minji_(singer). YouTube page read via reader; upload date on YouTube: Sep 3, 2019 (PT). | note sentences already covered by detail: ミンジはこの時点ではSource Musicの練習生。 / 2026-10-23 nightly: HYBE LABELS公式YouTubeで公開日2019-09-04（KST）と概要欄（PLUS GLOBAL AUDITION 5 Oct - 27 Oct 2019）は確認。ミンジの出演を示す公式の記述は見つからず。",
     "detail": {
       "ja": "Big Hit EntertainmentとSource Musicが発表した新ガールズグループのオーディション「PLUS GLOBAL AUDITION」の宣伝映像の一つで、Big Hit Labels（現HYBE LABELS）のYouTubeチャンネルに「#THE_GIRL 2」として公開された。モデルとして当時Source Musicの練習生だったミンジが出演しており、同シリーズには「#THE_GIRL 1」もある。オーディションは2019年10月5日から27日に世界16都市で実施され、Bang Si-hyukが制作を、Min Hee-jinがクリエイティブを統括すると発表された。",
       "en": "One of the promotional videos for the PLUS GLOBAL AUDITION, the new girl group audition announced by Big Hit Entertainment and Source Music, posted on the Big Hit Labels (now HYBE LABELS) YouTube channel as '#THE_GIRL 2'. Minji, then a Source Music trainee, appears as the model; a companion '#THE_GIRL 1' video also exists. The audition ran from 5 to 27 October 2019 in 16 cities worldwide, with Bang Si-hyuk announced as overseeing production and Min Hee-jin the creative direction."
@@ -585,7 +585,7 @@
       "live-stream"
     ],
     "verified": false,
-    "editor_note": "Wikipedia (Korea Herald): countdown live held Aug 1, 2022. invidious publish date 2022-08-02 UTC (VOD). Time not confirmed. | 17:00 start and Cookie premiere per namu.wiki New Jeans(음반). YouTube page read via reader; upload date on YouTube: Aug 2, 2022 (PT). / Copyright line (ADOR) moved from detail to credits. Countdown live date per Wikipedia (Korea Herald); 17:00 start and Cookie premiere per namu.wiki; YouTube page read via reader, upload date Aug 2, 2022 (PT) is the VOD publish date; start time not independently confirmed.",
+    "editor_note": "Wikipedia (Korea Herald): countdown live held Aug 1, 2022. invidious publish date 2022-08-02 UTC (VOD). Time not confirmed. | 17:00 start and Cookie premiere per namu.wiki New Jeans(음반). YouTube page read via reader; upload date on YouTube: Aug 2, 2022 (PT). / Copyright line (ADOR) moved from detail to credits. Countdown live date per Wikipedia (Korea Herald); 17:00 start and Cookie premiere per namu.wiki; YouTube page read via reader, upload date Aug 2, 2022 (PT) is the VOD publish date; start time not independently confirmed. / 2026-10-23 nightly: 公式YouTubeの動画は2022-08-02（KST）公開のVOD（51:30）で、8月1日17時開始と配信中の「Cookie」MV初公開を示す公式・大手紙の記述は見つからず（「Cookie」MV自体はHYBE LABELSで8月1日にプレミア公開）。",
     "detail": {
       "ja": "1st EP『New Jeans』の配信開始（18時）に先立ち、同日17時からNewJeans公式YouTubeチャンネルで配信されたカウントダウンライブのアーカイブ。配信中に「Cookie」のミュージックビデオが初公開された。",
       "en": "Archive of the countdown live streamed on the NewJeans YouTube channel from 17:00 KST, ahead of the 1st EP New Jeans going live at 18:00. The 'Cookie' music video premiered during the stream."
@@ -1972,7 +1972,8 @@
     },
     "source_url": "https://www.youtube.com/watch?v=dgKui19_rU0",
     "reference_urls": [
-      "https://ja.wikipedia.org/wiki/NewJeans"
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=dgKui19_rU0"
     ],
     "media": {
       "type": "youtube",
@@ -1983,7 +1984,7 @@
       "performance",
       "hybe-labels-channel"
     ],
-    "verified": false,
+    "verified": true,
     "editor_note": "Date from ja.wikipedia; YouTube date not fetched. | YouTube page read via reader; upload date on YouTube: Jan 3, 2023 (PT).",
     "detail": {
       "ja": "「OMG」のパフォーマンス版ミュージックビデオの第2弾で、HYBE LABELSのYouTubeチャンネルに公開された。クレジットはプロデューサーMin Hee-jin、監督Wooseok Shin（Shin Woo-seok、Dolphiners Films）。収録時間は3分46秒。",
@@ -2017,7 +2018,8 @@
     },
     "source_url": "https://www.youtube.com/watch?v=eKZzOcgN4AI",
     "reference_urls": [
-      "https://ja.wikipedia.org/wiki/NewJeans"
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=eKZzOcgN4AI"
     ],
     "media": {
       "type": "youtube",
@@ -2028,7 +2030,7 @@
       "performance",
       "hybe-labels-channel"
     ],
-    "verified": false,
+    "verified": true,
     "editor_note": "ja.wikipedia gives 2023-01-04 (KST); YouTube shows Jan 3, 2023 (PT), consistent with a midnight-KST release. | YouTube page read via reader; upload date on YouTube: Jan 3, 2023 (PT).",
     "detail": {
       "ja": "「OMG」のパフォーマンス版ミュージックビデオの第3弾で、HYBE LABELSのYouTubeチャンネルに公開された。クレジットはプロデューサーMin Hee-jin、監督Wooseok Shin（Shin Woo-seok、Dolphiners Films）。",
@@ -2103,7 +2105,8 @@
     },
     "source_url": "https://www.youtube.com/watch?v=xbvjjhyaoSA",
     "reference_urls": [
-      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023",
+      "https://www.youtube.com/watch?v=xbvjjhyaoSA"
     ],
     "media": {
       "type": "youtube",
@@ -2113,7 +2116,7 @@
       "dance-practice",
       "newjeans-channel"
     ],
-    "verified": false,
+    "verified": true,
     "editor_note": "TheTVDB lists two Jan 6, 2023 uploads (assumed to be the two OMG dance practice versions); YouTube date not fetched. | YouTube page (title/channel/date/credits) read via reader; upload date on YouTube: Jan 6, 2023 (PT).",
     "detail": {
       "ja": "シングル1集『OMG』のタイトル曲「OMG」の振付を練習室で収めた映像の固定カメラ版（Fix ver.）で、NewJeans公式YouTubeチャンネルで公開された。収録時間は3分40秒。",

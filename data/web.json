@@ -18,7 +18,8 @@
     "source_url": "https://magazine.beattitude.kr/issue-03/artistproject-minheejin-part1-eng/",
     "reference_urls": [
       "https://www.nme.com/news/music/hybe-subsidiary-adors-upcoming-girl-group-set-to-debut-in-the-third-quarter-of-the-year-3190216",
-      "https://en.wikipedia.org/wiki/NewJeans"
+      "https://en.wikipedia.org/wiki/NewJeans",
+      "https://magazine.beattitude.kr/special-interview/artistproject-minheejin-part1-eng/"
     ],
     "media": {
       "type": "none"
@@ -28,9 +29,9 @@
       "min-hee-jin",
       "ador"
     ],
-    "verified": false,
-    "note": "続編「A Rare Peek into Min Hee-jin's World」（Part 2）も同誌に掲載された。",
-    "note_en": "A follow-up, 'A Rare Peek into Min Hee-jin's World' (Part 2), also ran in the same publication.",
+    "verified": true,
+    "note": "2部構成の連載の第1回として掲載された。",
+    "note_en": "Published as the first part of a two-part series.",
     "editor_note": "The Be(Attitude) page shows no explicit date; 2022-03-24 is the citation date used by English Wikipedia (NME follow-up 2022-03-25; images uploaded March 2022). Part 2 dated 2022-04-15 by Wikipedia. Not an ADOR press release; included as the first public statement of the launch window. | Page carries no explicit publication date; image paths point to March 2022. / Cut for length: translators (Kim Hye-jin, Kim Hyun-kyung, HKPP), editors (Harry Jun, Kim Jae-hun, Park Sanha, Jin Chae-min), 'under ADOR's establishment'.",
     "detail": {
       "ja": "ウェブマガジンBe(Attitude)のArtist Project 04「How Much Do You Know about Min Hee-jin?」Part 1として公開された、ADOR代表ミン・ヒジンへのQ&A形式のインタビュー（韓国語原文の英訳版）。寄稿編集者は評論家のチャ・ウジン、撮影はソン・シヨン。ミン・ヒジンは新ガールズグループについて、2019年9月にオーディションを行い年内にキャスティングを終えたこと、2020年初頭から約2年間練習してきたこと、当初2021年に予定していたローンチがパンデミックで延期され、2022年第3四半期にローンチする見込みであることを述べた。またグループの焦点を熟練度ではなく「楽しむこと」に置き、メンバーが楽しみながら最善を尽くせる環境を作りたいと語った。インタビュー時点でメンバーは未公開だった。",
@@ -90,8 +91,8 @@
     }
   },
   {
-    "id": "web-2022-12-27-rolling-stone-omg-interview",
-    "date": "2022-12-27",
+    "id": "web-2022-12-26-rolling-stone-omg-interview",
+    "date": "2022-12-26",
     "date_type": "publish",
     "date_precision": "day",
     "category": "web",
@@ -109,7 +110,8 @@
     },
     "source_url": "https://www.rollingstone.com/music/music-features/newjeans-new-album-omg-ditto-interview-1234651360/",
     "reference_urls": [
-      "https://rollingstoneindia.com/newjeans-owned-2022-theyre-going-even-bigger-in-2023"
+      "https://rollingstoneindia.com/newjeans-owned-2022-theyre-going-even-bigger-in-2023",
+      "https://www.rollingstone.com/music/music-features/newjeans-new-album-omg-ditto-interview-1234651360/"
     ],
     "media": {
       "type": "none"
@@ -117,7 +119,7 @@
     "tags": [
       "interview"
     ],
-    "verified": false,
+    "verified": true,
     "editor_note": "rollingstone.comはアクセス制限で本文未取得。日付は検索結果（Rolling Stone India転載）による。 | Content sourced from the Rolling Stone India reprint (rollingstoneindia.com); rollingstone.com itself not fetched.",
     "detail": {
       "ja": "初のシングルアルバム『OMG』（収録曲「Ditto」「OMG」）を前にしたQ&Aで、ハニとミンジがデビューEPに続いて両曲の作詞に参加したことが語られた。メンバーは「Ditto」を冬に合う温かい曲、「OMG」をよりトレンディな曲と説明し、ヘインは「Ditto」を母親のきつい抱擁にたとえた。ミンジは2本の「Ditto」MVに決まった筋書きはなく、解釈を開いておくのが魅力だと話した。Bunniesとの友人のような関係、海外のストリートスタイルに影響された古着、ヘインのキーホルダー好き、2023年に増やしたいステージとコンテンツ、米国での対面活動も話題に上り、「Ditto」はこの時点でYouTube再生1000万回を超えていた。",
@@ -228,8 +230,8 @@
       "en": "Disney Korea officially announced that Danielle voices Ariel in the Korean dub of the live-action The Little Mermaid."
     },
     "detail": {
-      "ja": "ウォルト・ディズニー・カンパニー・コリアが公式SNSで「韓国のアリエルはNewJeansのダニエル」と発表し、劇中歌「Part of Your World」（저곳으로）を歌う場面の一部を公開した。ディズニー本社で行われた公式オーディションを経て起用されたと説明した。5月2日にはウルスラ役のチョン・ヨンジュ、セバスチャン役のチョン・サンフンの参加とともに、アリエル役をシルエットだけで公開する「GUESS WHO?」イベントが行われていた。映画は同月に韓国で公開予定。",
-      "en": "The Walt Disney Company Korea announced on its official social media that 'Korea's Ariel is NewJeans' Danielle', releasing part of a scene in which she sings 'Part of Your World'. It said she was chosen through an official audition held at Disney headquarters. On 2 May Disney had named musical actors Jung Young-ju and Jung Sang-hoon to the Korean dub cast and shown Ariel's voice only as a silhouette in a 'GUESS WHO?' event. The film was due in Korean cinemas later that month."
+      "ja": "ウォルト・ディズニー・カンパニー・コリアが公式SNSで「韓国のアリエルはNewJeansのダニエル」と発表し、劇中歌「Part of Your World」（저곳으로）を歌う場面の一部を公開した。ダニエルは楽譜だけを受け取った状態で歌と台詞のテストを受け、最終的に選ばれたと伝えられた。5月2日にはウルスラ役のチョン・ヨンジュ、セバスチャン役のチョン・サンフンの参加とともに、アリエル役をシルエットだけで公開する「GUESS WHO?」イベントが行われていた。映画は5月24日に韓国で公開予定。",
+      "en": "The Walt Disney Company Korea announced on its official social media that 'Korea's Ariel is NewJeans' Danielle', releasing part of a scene in which she sings 'Part of Your World'. Danielle was reported to have been chosen after singing and line tests for which she had received only the score. On 2 May Disney had named musical actors Jung Young-ju and Jung Sang-hoon to the Korean dub cast and shown Ariel's voice only as a silhouette in a 'GUESS WHO?' event. The film was due in Korean cinemas on 24 May."
     },
     "source_url": "https://v.daum.net/v/20230512163411060",
     "reference_urls": [
@@ -254,7 +256,7 @@
       "voice-acting",
       "film"
     ],
-    "verified": false,
+    "verified": true,
     "editor_note": "Casting announcement 12 May 2023 per YTN (Daum 20230512163411060); silhouette teaser 2 May per Hankyung (Daum 20230502113801299). Disney Korea SNS post itself not fetched. / Source is a press report (Daum News); not confirmed against an official page."
   },
   {
@@ -328,7 +330,7 @@
       "feature"
     ],
     "verified": false,
-    "editor_note": "TIMEの個別記事URL未確認（コレクションページには表示されず）。発表日5月23日は二次報道による。 | time.com collection page returned no readable content; details via kbizoom/Koreaboo coverage. Individual TIME article URL and author still unconfirmed. / TIMEの個別記事URLと執筆者は未確認（コレクションページは読み取り可能な内容を返さず）。発表日5月23日と記事内容はkbizoom/Koreabooの二次報道による。",
+    "editor_note": "TIMEの個別記事URL未確認（コレクションページには表示されず）。発表日5月23日は二次報道による。 | time.com collection page returned no readable content; details via kbizoom/Koreaboo coverage. Individual TIME article URL and author still unconfirmed. / TIMEの個別記事URLと執筆者は未確認（コレクションページは読み取り可能な内容を返さず）。発表日5月23日と記事内容はkbizoom/Koreabooの二次報道による。 / 2026-10-23 nightly: time.comは406/404で取得不可、記事URLも検索で見つからず。",
     "detail": {
       "ja": "TIMEは「2023 Next Generation Leaders」で、NewJeansを同年唯一のK-POPアーティストとして選んだ。「OMG」と「Ditto」がBillboard Hot 100に5週間チャートインしたこと、韓国アーティスト最速でSpotify再生10億回に達したことを挙げ、先輩グループより速く節目に到達した新進のガールズグループと紹介した。付随するインタビューでハニはK-POPが世界で急成長する幸運な時期にデビューしたと語り、ダニエルは過程を楽しみ、自分たちが聴きたい音楽を作ることに集中していると話した。同年のリストには俳優のFlorence Pughらも名を連ねた。",
       "en": "TIME named NewJeans the only K-pop act on its 2023 Next Generation Leaders list. It described a nascent girl group that had reached milestones faster than its seniors, citing 'OMG' and 'Ditto' spending five weeks on the Billboard Hot 100 and the group becoming the fastest Korean act to one billion Spotify streams. In the accompanying interview Hanni said they debuted at a fortunate time as K-pop grew quickly worldwide, and Danielle said the members were focused on enjoying the process and making music they want to hear. Actress Florence Pugh was among the others on the list."
@@ -356,13 +358,14 @@
       "en": "Disney's live-action The Little Mermaid opened in Korean cinemas, with Danielle voicing Ariel in the Korean dub."
     },
     "detail": {
-      "ja": "ディズニーの実写ミュージカル映画『リトル・マーメイド』が韓国で公開され、韓国語吹替版ではダニエルが主人公アリエルの声を担当した。ダニエルにとって初めての声優・演技の仕事で、劇中歌の韓国語版「저곳으로（Part of Your World）」も歌っている。英語版でアリエルを演じたのはハリー・ベイリー。",
-      "en": "Disney's live-action musical The Little Mermaid opened in South Korea, with Danielle voicing the lead role of Ariel in the Korean-dubbed version. It was her first voice-acting role, and she also sings the Korean version of 'Part of Your World' in the film. Halle Bailey plays Ariel in the English version."
+      "ja": "ディズニーの実写ミュージカル映画『リトル・マーメイド』が韓国で公開され、韓国語吹替版ではダニエルが主人公アリエルの声を担当した。劇中歌の韓国語版「저곳으로（Part of Your World）」もダニエルが歌っている。英語版でアリエルを演じたのはハリー・ベイリー。",
+      "en": "Disney's live-action musical The Little Mermaid opened in South Korea, with Danielle voicing the lead role of Ariel in the Korean-dubbed version. She also sings the Korean version of 'Part of Your World' in the film. Halle Bailey plays Ariel in the English version."
     },
     "source_url": "https://v.daum.net/v/20230517151604015",
     "reference_urls": [
       "https://v.daum.net/v/20230530170211287",
-      "https://v.daum.net/v/20230512163411060"
+      "https://v.daum.net/v/20230512163411060",
+      "https://news.tf.co.kr/read/ogmeta/2019937.htm"
     ],
     "media": {
       "type": "none"
@@ -377,7 +380,7 @@
       "voice-acting",
       "film"
     ],
-    "verified": false,
+    "verified": true,
     "editor_note": "Korean release date 24 May 2023 stated in Korea Herald (2023-05-17) and Disney Korea casting coverage; dubbed-version reception covered by Sports Seoul 2023-05-30 (not used in reader text). / Source is a press report (Daum News); not confirmed against an official page."
   },
   {

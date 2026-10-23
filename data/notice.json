@@ -29,7 +29,7 @@
       "min-hee-jin",
       "big-hit"
     ],
-    "verified": false,
+    "verified": true,
     "editor_note": "Seoul Shinmun (twig24) report published 2019-07-01 09:58 KST: '민희진 전 SM엔터테인먼트 크리에이티브 디렉터 겸 등기이사가 오늘부터 빅히트에 합류한다' / '새로운 걸그룹의 론칭을 주도할 계획'. Big Hit/HYBE newsroom (hybecorp.com) returns 403, so a same-day press report is used; verified=false. | note sentences already covered by detail: パン・シヒョク代表はミン・ヒジンを「K-POPに『ビジュアルディレクター』『企画者』という概念を定着させたリーダー中のリーダー」と評した。 ミン・ヒジンは少女時代、f(x)、SHINee、EXO、Red Velvetのコンセプトを手掛けてきた。 / Removed source mention from reader text: reported by Seoul Shinmun at 09:58 KST the same day.",
     "detail": {
       "ja": "Big Hit Entertainmentは、SMエンターテインメントの元クリエイティブディレクター兼登記理事ミン・ヒジンを同日付でブランド総括（CBO）として迎えると発表した。レーベル拡大と組織再編を進めるBig Hitと関係会社のブランディングを統括し、複数レーベルのクリエイティブディレクターを務めるほか、新ガールズグループのローンチを主導し、人材発掘と音楽制作のための自身のレーベルを設立する計画とされた。パン・シヒョク代表はミン・ヒジンをK-POPに「ビジュアルディレクター」と「企画者」という概念を定着させた「リーダー中のリーダー」と評し、ミン・ヒジンはクリエイターとしての第2章をBig Hitで始められる喜びと同時に負担も感じると述べた。2018年末にSMを退社した彼女は、少女時代、f(x)、SHINee、EXO、Red Velvetのコンセプトやブランディングで知られていた。",
@@ -55,9 +55,11 @@
       "ja": "Big Hitが会社説明会で、PLUS GLOBAL AUDITIONで選ぶSource Musicのガールズグループを2021年にデビューさせると発表した。",
       "en": "At a corporate briefing Big Hit said a Source Music girl group chosen through the Plus Global Audition would debut in 2021."
     },
-    "source_url": "https://www.mt.co.kr/future/2020/02/05/2020020515280447911",
+    "source_url": "https://www.youtube.com/watch?v=WukUBUApb2U",
     "reference_urls": [
-      "https://kukinews.com/newsView/kuk202002050245"
+      "https://kukinews.com/newsView/kuk202002050245",
+      "https://www.mt.co.kr/future/2020/02/05/2020020515280447911",
+      "https://www.youtube.com/watch?v=WukUBUApb2U"
     ],
     "media": {
       "type": "none"
@@ -68,7 +70,7 @@
       "source-music",
       "corporate-briefing"
     ],
-    "verified": false,
+    "verified": true,
     "note": "発表したのはシン・ヨンジェBig Hitレーベル副代表。BTSとTOMORROW X TOGETHERを成功させた制作力とノウハウを集約したプロジェクトと説明した。",
     "note_en": "The announcement was made by Shin Young-jae, Big Hit's label vice president, who described it as a project drawing on the production capability and know-how behind BTS and TOMORROW X TOGETHER.",
     "editor_note": "Money Today (2020-02-05 16:48) says the briefing was held on 02-04 at DDP with contents released on 02-05 (press embargo); Kukinews dates it 02-05. Dated by the event (02-04). Min Hee-jin is not named in these reports. / Removed source mention from reader text: contents reported by Money Today on February 5, 2020.",
@@ -97,9 +99,11 @@
       "ja": "Big Hitのオンライン会社説明会で、パン・シヒョク議長がミン・ヒジンCBOと準備中のガールズグループの翌年デビューを明言した。",
       "en": "At Big Hit's online corporate briefing, Bang Si-hyuk said the girl group being prepared with CBO Min Hee-jin would debut the next year."
     },
-    "source_url": "https://www.xportsnews.com/article/1312492",
+    "source_url": "https://www.youtube.com/watch?v=MyGF8mFDMeI",
     "reference_urls": [
-      "https://sports.khan.co.kr/article/202103091731003"
+      "https://sports.khan.co.kr/article/202103091731003",
+      "https://www.xportsnews.com/article/1312492",
+      "https://www.youtube.com/watch?v=MyGF8mFDMeI"
     ],
     "media": {
       "type": "none"
@@ -111,7 +115,7 @@
       "min-hee-jin",
       "corporate-briefing"
     ],
-    "verified": false,
+    "verified": true,
     "note": "同じ説明会ではI-LAND（BELIFT LAB）出身グループのデビューメンバー選抜も予告された。",
     "note_en": "The same briefing also previewed the selection of debut members for the group from I-LAND (BELIFT LAB).",
     "editor_note": "Xports News 2020-08-13 13:56 KST: '민희진 빅히트 CBO, 쏘스뮤직과 함께 준비 중인 걸그룹도 내년 데뷔할 것'. The briefing video on the HYBE LABELS channel was not located (ID unknown).",
@@ -157,7 +161,7 @@
       "hybe",
       "min-hee-jin"
     ],
-    "verified": false,
+    "verified": true,
     "note": "合弁や買収ではなくHYBEが自ら設立した初の独自レーベル。ミン・ヒジンは「新レーベル設立を通じて音楽産業に再び変化をもたらす準備を終えた」とコメントした。",
     "note_en": "HYBE's first label founded by HYBE itself rather than through a joint venture or acquisition. Min Hee-jin commented that she had 'finished preparing to bring change to the music industry again by founding a new label'.",
     "editor_note": "Replaces the month-precision record notice-2021-11-01-ador-established. Announcement date 2021-11-12 is consistent across Soompi, Kstyle (Newsen report distributed 09:23 KST), Korea JoongAng Daily (10:41) and NME. The corporate entity was created by a physical spin-off of the Source Music label business with a spin-off date of 2021-11-02 and 16.1bn won capital (Hankyung Business 2024; one report says 15.4bn). HYBE newsroom returns 403 and no official page was fetched, so verified=false. | note sentences already covered by detail: ADORは「All Doors One Room」の略。 / Removed source mentions from reader text: Newsen (09:23 KST), Korea JoongAng Daily (10:41), Soompi and NME reported the same day.",
@@ -187,7 +191,8 @@
     "source_url": "https://www.youtube.com/watch?v=JpX3-8hbtOE",
     "reference_urls": [
       "https://enews.imbc.com/News/ViewAmp/364047",
-      "https://thetvdb.com/series/newjeans-youtube-channel/episodes/9459392"
+      "https://thetvdb.com/series/newjeans-youtube-channel/episodes/9459392",
+      "https://www.youtube.com/watch?v=JpX3-8hbtOE"
     ],
     "media": {
       "type": "youtube",
@@ -197,11 +202,11 @@
       "bunnies",
       "fandom"
     ],
-    "verified": false,
+    "verified": true,
     "editor_note": "Video exists on the official channel (ID from local channel crawl). Upload date 2022-10-29 per MBC report ('데뷔 100일') and TVDB; not fetched from YouTube directly, so verified=false. / Video ID from local channel crawl; upload date 2022-10-29 per MBC report ('데뷔 100일') and TVDB, not fetched from YouTube directly (verified=false). Cut for length: quiz topics included proverbs, pager codes and 'Friendship Day'; Bunnies was explained as a friend-like presence to the rabbits (NewJeans) and the Binky Bong as reflecting the warm feelings between the two.",
     "detail": {
-      "ja": "デビュー100日目に、公式YouTubeチャンネルの「デビュー100日記念 Special Quiz Show」と公式SNSで、公式ファンクラブ名「Bunnies（バニーズ）」と公式ペンライト「ビンキボン」を発表した。動画ではウサギの帽子をかぶった5人が「人間ウサギ」として友情をテーマにしたクイズに挑み、最後の連想クイズで「一緒に」「Phoning」「親友」「ファンクラブ」のキーワードからBunniesと愛称「トッキ」が明かされた。メンバーはPhoningに100日の所感を韓国語と英語で投稿し、Bunniesに出会ってからの日々は夢のようだったと伝えた。",
-      "en": "On their 100th day since debut, NewJeans revealed the official fan club name 'Bunnies' and the official light stick 'Binky Bong' through the 'Debut 100th day Special Quiz Show' on their official YouTube channel and through official social media. In the video the five members, wearing rabbit hats as 'human rabbits', took on friendship-themed quizzes, and in the final word-association round the keywords 'together', 'Phoning', 'best friend' and 'fan club' led to the reveal of Bunnies and the nickname 'Tokki'. The members posted 100-day reflections in Korean and English on Phoning, saying the days since meeting their Bunnies had been like a dream."
+      "ja": "デビュー100日目に、公式YouTubeチャンネルの「デビュー100日記念 Special Quiz Show」と公式SNSで、公式ファンクラブ名「Bunnies（バニーズ）」と公式ペンライト「ビンキボン」を発表した。動画ではウサギの帽子をかぶった5人が「人間ウサギ」として友情をテーマにしたクイズに挑み、最後の連想クイズで「一緒に」「Phoning」「親友」「ファンクラブ」のキーワードからBunniesと愛称「トッキ」が明かされた。メンバーはPhoningに韓国語と英語で感謝のメッセージを投稿し、自分たちを通してファンが幸せになってほしいと伝えた。",
+      "en": "On their 100th day since debut, NewJeans revealed the official fan club name 'Bunnies' and the official light stick 'Binky Bong' through the 'Debut 100th day Special Quiz Show' on their official YouTube channel and through official social media. In the video the five members, wearing rabbit hats as 'human rabbits', took on friendship-themed quizzes, and in the final word-association round the keywords 'together', 'Phoning', 'best friend' and 'fan club' led to the reveal of Bunnies and the nickname 'Tokki'. The members posted thank-you messages in Korean and English on Phoning, saying they hoped fans would find happiness through them."
     },
     "credits": {
       "issuer": "ADOR / NewJeans official channels"

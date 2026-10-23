@@ -189,7 +189,7 @@
       "pop-up",
       "seoul"
     ],
-    "verified": false,
+    "verified": true,
     "editor_note": "Dates from Korean news (Economist Korea 2022-08-11); no official notice fetched. | Japanese summary changed from past-tense '開催された' to neutral '開催の' (the run extends past this record's date). | Harper's Bazaar Korea 2022-08-12 and Economist Korea 2022-08-11 read directly; no official notice fetched. / Item list, purchase limit and photo booth from Harper's Bazaar Korea (2022-08-12); dates and the flooding delay from Economist Korea (2022-08-11); no official notice fetched. Press framing removed; the 'first rookie idol pop-up at The Hyundai Seoul' characterization dropped as a media claim.",
     "detail": {
       "ja": "汝矣島のザ・現代ソウル地下2階アイコニックスクエアで8月31日まで開かれ、ADOR制作のグッズを販売した。マグカップ、マスキングテープ、キーリング、フォンケース、グリップトックからTシャツ、スウェットシャツ、エコバッグまでそろい、購入は1品目2点まで。7万ウォン以上の購入でメンバーを背景にしたフォトブースを利用できた。会場では「Hurt」のメンバー別ソロ版音源が初公開され、柱に取り付けた受話器から音楽と映像が流れた。初日は集中豪雨による漏水で10時30分の開店が延期され、現代百貨店は14時の再開を予定すると説明した。",
@@ -373,7 +373,9 @@
     "reference_urls": [
       "https://shop.weverse.io/en/shop/USD/artists/82/notices/3180",
       "https://www.bandwagon.asia/articles/kpop-seasons-greetings-newjeans-shinee-monsta-x-nct-red-velvet-twice-ateez-list-2023",
-      "https://www.wikitree.co.kr/articles/839656"
+      "https://www.wikitree.co.kr/articles/839656",
+      "https://shop.weverse.io/en/shop/GL_USD/artists/82/notices/3002",
+      "https://weverse.io/newjeansofficial/notice/9982"
     ],
     "media": {
       "type": "none"
@@ -383,7 +385,7 @@
       "weverse-shop"
     ],
     "verified": true,
-    "editor_note": "Exact pre-order start date not confirmed (the 11-22 X post links the Weverse notice); Weverse Shop notice 3180 confirms 2nd/3rd pre-order rounds shipping 2022-12-22 and 2023-01-13. | Removed from the summary: sold out right after its December 2022 release (future knowledge as of 11-22). | Notice 9982 read via WebFetch in ko and en views. Pre-order date confirmed as 2022-11-25 11:00 KST (input said unconfirmed). / Removed provenance from reader text: details from Weverse notice 9982 (linked from the November 22 X post), which states no price; Korean-language tagline replaced with a translation. / cover = official ROOM 722 contents lineup image attached to the @NewJeans_ADOR post (1920x2480); item = Weverse Shop GLOBAL packshot (sales/13045)",
+    "editor_note": "Exact pre-order start date not confirmed (the 11-22 X post links the Weverse notice); Weverse Shop notice 3180 confirms 2nd/3rd pre-order rounds shipping 2022-12-22 and 2023-01-13. | Removed from the summary: sold out right after its December 2022 release (future knowledge as of 11-22). | Notice 9982 read via WebFetch in ko and en views. Pre-order date confirmed as 2022-11-25 11:00 KST (input said unconfirmed). / Removed provenance from reader text: details from Weverse notice 9982 (linked from the November 22 X post), which states no price; Korean-language tagline replaced with a translation. / cover = official ROOM 722 contents lineup image attached to the @NewJeans_ADOR post (1920x2480); item = Weverse Shop GLOBAL packshot (sales/13045) / 2026-10-23 nightly: 公式X投稿は2022-11-22 03:00 UTC（12:00 KST）でfxtwitter経由で確認。Weverse Shop GLOBAL告知3002で予約開始2022-11-25 11:00 KST（〜12-06）・12-07発売を確認。予約開始は別の出来事でdetailに記載済みのため、発表日（announce）の11-22を維持。",
     "detail": {
       "ja": "11月22日に公式Xで発売が案内された。「Welcome to ROOM 722!」と題し、NewJeansの寮の722号室では何があったのだろう、と呼びかけ、722号室の日常から「第1回NewJeansアワード」、新年の抱負までデビュー1年目と2023年を収めた。構成はデスクカレンダー（26ページ）、ハードカバーダイアリー（160ページ）、フォトブック（76ページ）、ステッカーパック、ミニポスター7枚、イヤーポスター、プレイングカード（フォトカード）54枚、スペシャル映像（約77分、韓英日中字幕）のデジタルコードカード、ドアハンガー、キーリング、メモパッド。Weverse Shop GLOBALで11月25日11時（KST）に予約が始まり12月7日発売、米国ストアは2023年1月31日発売で、国内販売店は後日案内とされた。",
       "en": "Announced on the official X account on November 22. Under 'Welcome to ROOM 722!', it asks what went on in NewJeans' dorm room 722, covering daily life there, 'the 1st NewJeans Awards' and resolutions for 2023 from the debut year. Contents: desk calendar (26 pages), hard-cover diary (160 pages), photobook (76 pages), sticker pack, seven mini posters, year poster, 54 playing cards (photocards), a digital code card for a special video (about 77 minutes, Korean/English/Japanese/Chinese subtitles), door hanger, keyring and memo pad. Pre-orders opened on Weverse Shop GLOBAL at 11:00 KST on November 25 with release on December 7 (US store release January 31, 2023); Korean retailers were to be announced later."
@@ -401,7 +403,8 @@
     ],
     "asset_titles": [
       "NewJeans 2023 SEASON’S GREETINGS"
-    ]
+    ],
+    "time": "12:00"
   },
   {
     "id": "goods-2022-12-12-omg-message-card-ver",
@@ -639,8 +642,8 @@
       "en": "'OMG! NU+JEANS' pop-up with Nudake"
     },
     "summary": {
-      "ja": "「OMG」MVに登場したケーキが並んだ、デザートブランドNudakeとのポップアップ「OMG! NU+JEANS」。",
-      "en": "'OMG! NU+JEANS', a pop-up with dessert brand Nudake serving the cakes seen in the 'OMG' music video."
+      "ja": "「OMG」MVにも登場予定のケーキを販売した、デザートブランドNudakeとのポップアップ「OMG! NU+JEANS」。",
+      "en": "'OMG! NU+JEANS', a pop-up with dessert brand Nudake selling cakes set to appear in the 'OMG' music video."
     },
     "source_url": "https://www.koreajoongangdaily.com/entertainment/girl-group-newjeans-to-open-popup-stores-with-dessert-brand-nudake/10460430",
     "reference_urls": [],
@@ -653,11 +656,11 @@
       "nudake",
       "omg"
     ],
-    "verified": false,
+    "verified": true,
     "editor_note": "Dates from Korea JoongAng Daily (2022-12-16). | Cake price from Ilgan Sports 2023-01-12 (secondary); exact store addresses not confirmed from an official page. / Dates, cakes and ADOR comment from Korea JoongAng Daily (2022-12-16); cake price from Ilgan Sports (2023-01-12, secondary); exact store addresses not confirmed from an official page. Press framing removed. / Nudake's official project page 'OMG! NU+JEANS'; cover = the giant rabbit-cake object in the pop-up space; items = NU+JEANS cake + the GOODS in page order (names as Nudake lists them, Korean)",
     "detail": {
-      "ja": "デザートブランドNudakeとのポップアップで、ソウル聖水洞と江南区ドサン公園付近の2店舗でケーキと季節商品、グッズを販売した。「OMG」MVにも登場したケーキ5種と、ツリートッパーセットやガーランドなど9品目のグッズが並び、うさぎ型のNewJeansケーキは1個36,000ウォン。ADORは「冬の雰囲気を持つ『OMG』の延長線上にあるポップアップ」と説明した。会期は2023年1月21日まで。",
-      "en": "A pop-up with dessert brand Nudake at two Seoul locations, in Seongsu-dong and near Dosan Park in Gangnam, selling cakes, seasonal items and merch. The five cakes also appear in the 'OMG' music video, and nine merch items including tree topper sets and garlands were on sale; the rabbit-shaped NewJeans cake cost 36,000 KRW. ADOR described the pop-up as an extension of the winter-themed OMG. It ran until January 21, 2023."
+      "ja": "デザートブランドNudakeとのポップアップで、ソウル聖水洞と江南区ドサン公園付近の2店舗でケーキと季節商品、グッズを販売した。「OMG」MVにも登場予定のケーキ5種と、ツリートッパーセットやガーランドなど9品目のグッズが並んだ。ADORは「冬の雰囲気を持つ『OMG』の延長線上にあるポップアップ」と説明した。会期は2023年1月21日まで。",
+      "en": "A pop-up with dessert brand Nudake at two Seoul locations, in Seongsu-dong and near Dosan Park in Gangnam, selling cakes, seasonal items and merch. Five cakes set to appear in the 'OMG' music video and nine merch items including tree topper sets and garlands were on sale. ADOR described the pop-up as an extension of the winter-themed OMG. It ran until January 21, 2023."
     },
     "credits": {
       "collaboration": "Nudake (Gentle Monster group)",
@@ -877,7 +880,7 @@
       "food",
       "giveaway"
     ],
-    "verified": false,
+    "verified": true,
     "editor_note": "Start date (March 9) from Maeil Shinmun (2023-03-15, '지난 9일부터'); kit contents and end date (29th) from NewDaily (2023-03-23). The kit was a prize, not sold. Matching campaign record: ad-2023-02-27-mcdonalds-korea-model (its detail already mentions the kit)."
   },
   {
@@ -1264,22 +1267,24 @@
       "en": "2023 SEASON'S GREETINGS re-release"
     },
     "summary": {
-      "ja": "発売直後に完売していた2023年シーズングリーティングを、ファンの要望に応えて追加発売した。",
-      "en": "The 2023 Season's Greetings, sold out right after launch, was released again in response to fan requests."
+      "ja": "2023年シーズングリーティングの追加発売分の予約受付が、Weverse Shop（USA）で在庫限りで始まった。",
+      "en": "Pre-orders for an additional release of the 2023 Season's Greetings opened on Weverse Shop (USA), while supplies last."
     },
-    "source_url": "https://www.wikitree.co.kr/articles/839656",
-    "reference_urls": [],
+    "source_url": "https://weverse.io/newjeansofficial/notice/12896",
+    "reference_urls": [
+      "https://weverse.io/newjeansofficial/notice/12896"
+    ],
     "media": {
       "type": "none"
     },
     "tags": [
       "seasons-greetings"
     ],
-    "verified": false,
+    "verified": true,
     "editor_note": "Secondary source (Wikitree 2023-03-25). | Secondary source (Wikitree 2023-03-25); re-release sale channel and price not confirmed. / Announcement and background from Wikitree (2023-03-25, secondary); contents from Weverse notice 9982 plus Wikitree. Re-release sale channel and price not confirmed. The 'unusual re-release' press characterization was dropped. / cover = packshot attached to Weverse notice 12896 (Additional Release Notice, 3746x3227); item = Weverse Shop GLOBAL re-release listing (sales/14623)",
     "detail": {
-      "ja": "2022年12月の発売直後に完売し品薄が続いていた「NewJeans 2023 SEASON'S GREETINGS」を、追加発売を求める声に応えて再び販売した。ADORは3月24日にWeverseコミュニティとファンアプリPhoningで告知していた。構成はデスクカレンダー、ダイアリー、フォトブック（76ページ）、プレイングカード（フォトカード）54枚、ミニポスター、イヤーポスター、デジタルコードカードなど。",
-      "en": "'NewJeans 2023 SEASON'S GREETINGS' had sold out immediately after its December 2022 launch and remained scarce, so it was released again in answer to fan requests. ADOR announced the re-release on March 24 through the Weverse community and the fan app Phoning. Contents include a desk calendar, diary, 76-page photobook, 54 playing cards (photocards), mini posters, a year poster and a digital code card."
+      "ja": "「NewJeans 2023 SEASON'S GREETINGS」の追加発売分の予約受付が、4月14日11時（KST）にWeverse Shop（USA）で在庫限りで始まった。発売日は5月22日（PDT）と案内された。構成はデスクカレンダー、ハードカバーダイアリー、フォトブック（76ページ）、ステッカーパック、ミニポスター7枚、イヤーポスター、プレイングカード（フォトカード）54枚、スペシャル映像のデジタルコードカード、ドアハンガー、キーリング、メモパッド。",
+      "en": "Pre-orders for an additional release of 'NewJeans 2023 SEASON'S GREETINGS' opened on Weverse Shop (USA) at 11:00 KST on April 14, while supplies last, with release dated May 22 (PDT). Contents: desk calendar, hard-cover diary, 76-page photobook, sticker pack, seven mini posters, year poster, 54 playing cards (photocards), a digital code card for a special video, door hanger, keyring and memo pad."
     },
     "credits": {
       "label": "ADOR",
@@ -1294,7 +1299,8 @@
     ],
     "asset_titles": [
       "NewJeans 2023 SEASON’S GREETINGS"
-    ]
+    ],
+    "time": "11:00"
   },
   {
     "id": "goods-2023-04-18-coca-cola-zero-lemon-cokeplay-preorder",
@@ -1512,7 +1518,7 @@
       "packaging"
     ],
     "verified": false,
-    "editor_note": "Launch reported by MADTimes on 2023-06-05 ('출시한다'); exact shelf date not found, so month precision. Image is the press photo of the cans/bottles. / Second image is from the later CokePLAY 'NewJeans planning pack' page showing the same can design.",
+    "editor_note": "Launch reported by MADTimes on 2023-06-05 ('출시한다'); exact shelf date not found, so month precision. Image is the press photo of the cans/bottles. / Second image is from the later CokePLAY 'NewJeans planning pack' page showing the same can design. / 2026-10-23 nightly: コカ・コーラ公式ページ（2023-08-13、coca-cola.com/kr/ko/offerings/culture/cokestudio-newjeans）でパッケージとデザインは確認したが、発売時期・2種・販売チャネルの記載なし。",
     "local_assets": [
       "goods/goods-2023-06-01-coca-cola-x-newjeans-special-package/01.jpg",
       "goods/goods-2023-06-01-coca-cola-x-newjeans-special-package/02.jpg"
@@ -2909,7 +2915,9 @@
       "en": "'Weverse by Fans' launched, letting fans design their own official NewJeans merch with photos, logos and text."
     },
     "source_url": "https://www.bandwagon.asia/articles/make-your-own-official-merch-with-weverse-by-fans-newjeans-enhypen-baekho-hwang-min-hyun-xia-available-on-weverse-shop-order-2023",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/GL_USD/artists/82/notices/5033"
+    ],
     "media": {
       "type": "none"
     },
@@ -2918,7 +2926,7 @@
       "official-md"
     ],
     "verified": false,
-    "editor_note": "Secondary source (Bandwagon 2023-10-17). | Secondary source (Bandwagon 2023-10-17). / From Bandwagon (2023-10-17, secondary); no prices given in the coverage. Press framing removed.",
+    "editor_note": "Secondary source (Bandwagon 2023-10-17). | Secondary source (Bandwagon 2023-10-17). / From Bandwagon (2023-10-17, secondary); no prices given in the coverage. Press framing removed. / 2026-10-23 nightly: Weverse Shop告知5033「NewJeans x Weverse by Fans Apparel Available for Purchase」で2023-12-05 11:00 KST開始（受注生産、各3点まで）を確認。2023-10-16 18:00 KSTのサービス開始告知は見つからず、10月時点でNewJeansの商品が含まれていたかも一次ソースで未確認。",
     "detail": {
       "ja": "Weverse Shopアプリの新機能「Weverse by Fans」が始まり、ENHYPEN、NewJeans、HWANG MIN HYUN、BAEKHO、XIAの公式MDをファン自身がカスタマイズできるようになった。Tシャツ、グリップホルダー、フォトカード、アクリルキーリング、フォンケース、イヤホンケースなど計23種から選び、オンラインの編集ツールで写真、ロゴ、文字、ステッカーを配置して注文すると受注生産される。2023年6月のWeverse Con Festivalで来場者向けに先行提供されていた。Weverse社のチェ・ジュン代表は、自分だけのグッズを作りたいというファンの需要に応えるサービスだと述べた。",
       "en": "The Weverse Shop app's new 'Weverse by Fans' feature let fans customize official merch for ENHYPEN, NewJeans, HWANG MIN HYUN, BAEKHO and XIA. There were 23 options, including T-shirts, grip holders, photocards, acrylic keyrings, phone cases and earbuds cases; fans place photos, logos, text and stickers in an online editor, and each item is made to order. The service had been previewed for attendees at Weverse Con Festival in June 2023. Weverse president Joon Choi said it answered fans' wish to make merchandise of their own."

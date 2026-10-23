@@ -33,7 +33,7 @@
     "reference_urls": [
       "https://view.asiae.co.kr/en/article/2022082610270881708"
     ],
-    "editor_note": "Hanteoチャート初日集計に基づく。 / No Hanteo primary (hanteochart/hanteonews) page for the 262,815 first-day figure could be reached; Hanteo News site search is JS-only and web search returned no Hanteo article. Figure corroborated only by secondary press (Soompi/The Fact citing Hanteo)."
+    "editor_note": "Hanteoチャート初日集計に基づく。 / No Hanteo primary (hanteochart/hanteonews) page for the 262,815 first-day figure could be reached; Hanteo News site search is JS-only and web search returned no Hanteo article. Figure corroborated only by secondary press (Soompi/The Fact citing Hanteo). / 2026-10-23 nightly: 262,815枚という数字は大手紙・Hanteoのページで見つからず。THE FACT（2022-08-12）は「26万枚超」、ソウル新聞（2022-08-16）は「Hanteo基準でガールズグループのデビュー作初日最高」とのみ記載。"
   },
   {
     "id": "record-2022-08-13-new-jeans-ep-circle-album-weekly-no1",
@@ -100,9 +100,11 @@
       "chart",
       "sales"
     ],
-    "verified": false,
+    "verified": true,
     "reference_urls": [
-      "https://www.soompi.com/article/1564515wpp/newjeans-becomes-fastest-k-pop-group-to-achieve-million-selling-album-with-omg"
+      "https://www.soompi.com/article/1564515wpp/newjeans-becomes-fastest-k-pop-group-to-achieve-million-selling-album-with-omg",
+      "https://m.seoul.co.kr/news/2022/08/15/20220815500090",
+      "https://m.seoul.co.kr/news/2022/08/16/20220816500150"
     ],
     "editor_note": "No Hanteo primary page found for the 311,271 first-week figure; corroborated only by secondary press (The Fact: '초동 31만→70만→165만')."
   },
@@ -249,7 +251,7 @@
     "reference_urls": [
       "https://news.tf.co.kr/read/ogmeta/1964540.htm"
     ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. The Fact (organiser) article of 2022-09-13 says the 20 finalists were set by the first-round vote (Aug 8-22) and the second round ran Sep 13-Oct 4, but does not list the finalists, so NewJeans' inclusion could not be confirmed from the organiser."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. The Fact (organiser) article of 2022-09-13 says the 20 finalists were set by the first-round vote (Aug 8-22) and the second round ran Sep 13-Oct 4, but does not list the finalists, so NewJeans' inclusion could not be confirmed from the organiser. / 2026-10-23 nightly: 主催THE FACTの2022-09-13記事は2次投票の20組を「参加確定アーティスト」として列挙しNewJeansを含むが、部門候補とは明記していない。"
   },
   {
     "id": "record-2022-10-08-tma-2022-idolplus-popularity-award-nomination",
@@ -285,7 +287,7 @@
     "reference_urls": [
       "https://news.tf.co.kr/read/ogmeta/1964540.htm"
     ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. The Fact (organiser) article of 2022-09-13 says Idolplus voting ran Sep 13-Oct 4 but does not list candidates."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. The Fact (organiser) article of 2022-09-13 says Idolplus voting ran Sep 13-Oct 4 but does not list candidates. / 2026-10-23 nightly: 主催THE FACTの記事でIdolplus人気賞の候補一覧が見つからず。"
   },
   {
     "id": "record-2022-10-08-tma-2022-next-leader",
@@ -532,7 +534,7 @@
       "award"
     ],
     "verified": false,
-    "editor_note": "Soompi winners list only; venue not stated. / THE-K Billboard Awards (1st, Oct 28 2022) has no reachable organizer page; only Soompi's winners list (Hot Rookie: NewJeans, ENHYPEN, IVE, Kep1er). Not contradicted."
+    "editor_note": "Soompi winners list only; venue not stated. / THE-K Billboard Awards (1st, Oct 28 2022) has no reachable organizer page; only Soompi's winners list (Hot Rookie: NewJeans, ENHYPEN, IVE, Kep1er). Not contradicted. / 2026-10-23 nightly: 主催者ページも韓国の大手紙報道も見つからず（検索ではCircle Chart等の別授賞式のみ）。"
   },
   {
     "id": "record-2022-11-04-mma-2022-album-of-the-year-new-jeans-nomination",
@@ -743,7 +745,7 @@
       "asian-pop-music-awards"
     ],
     "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list; no nominee announcement found. Ceremony/results month only (December 2022), so date_precision month."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list; no nominee announcement found. Ceremony/results month only (December 2022), so date_precision month. / 2026-10-23 nightly: 主催者の候補発表もWikipedia以外の報道も見つからず。"
   },
   {
     "id": "record-2022-12-01-asian-pop-music-awards-2022-hype-boy",

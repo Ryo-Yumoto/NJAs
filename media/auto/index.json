@@ -4655,12 +4655,20 @@
   "page_url": "https://imgix.bustle.com/uploads/image/2023/5/8/17eb7081-81c9-41b7-beac-7d6606a33f1e-wm202303musi15.jpg",
   "w": 1065
  },
- "magazine-2023-05-23-w-korea-seoul-jazz-festival-2023-minji": {
+ "magazine-2023-05-22-w-korea-seoul-jazz-festival-2023-minji": {
   "fetched": "2026-10-16",
-  "file": "magazine-2023-05-23-w-korea-seoul-jazz-festival-2023-minji.jpg",
+  "file": "magazine-2023-05-22-w-korea-seoul-jazz-festival-2023-minji.jpg",
   "h": 630,
   "image_url": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202305/23/startoday/20230523093305000silm.jpg",
   "page_url": "https://v.daum.net/v/20230523093300145",
+  "w": 1200
+ },
+ "magazine-2023-05-26-highsnobiety-special-issue": {
+  "fetched": "2026-10-13",
+  "file": "magazine-2023-05-26-highsnobiety-special-issue.jpg",
+  "h": 800,
+  "image_url": "https://www.highsnobiety.com/static-assets/dato/1685091302-newjeans-feat.jpg",
+  "page_url": "https://www.highsnobiety.com/p/newjeans-interview/",
   "w": 1200
  },
  "magazine-2023-06-01-dazed-korea-2023-06-danielle": {
@@ -4669,14 +4677,6 @@
   "h": 800,
   "image_url": "https://dazedkorea.com/wp-content/uploads/2026/04/Group-15.jpg",
   "page_url": "https://dazedkorea.com/2023/05/16/%ec%bd%94%eb%a6%ac%ec%95%84-6%ec%9b%94%ed%98%b8-%ec%bb%a4%eb%b2%84-5/",
-  "w": 1200
- },
- "magazine-2023-06-01-highsnobiety-special-issue": {
-  "fetched": "2026-10-13",
-  "file": "magazine-2023-06-01-highsnobiety-special-issue.jpg",
-  "h": 800,
-  "image_url": "https://www.highsnobiety.com/static-assets/dato/1685091302-newjeans-feat.jpg",
-  "page_url": "https://www.highsnobiety.com/p/newjeans-interview/",
   "w": 1200
  },
  "magazine-2023-06-05-elle-korea-hyein-louis-vuitton-seoul-show": {
@@ -8647,9 +8647,9 @@
   "page_url": "https://otakukart.com/newjeans-super-shy-surpasses-300-million-views-becomes-groups-2nd-mv-to-reach-milestone/",
   "w": 1280
  },
- "sns-2022-07-01-debut-teaser-22-7-22": {
+ "sns-2022-07-01-debut-teaser-roller-skating-rabbits": {
   "fetched": "2026-10-13",
-  "file": "sns-2022-07-01-debut-teaser-22-7-22.jpg",
+  "file": "sns-2022-07-01-debut-teaser-roller-skating-rabbits.jpg",
   "h": 1080,
   "image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1542656257844465664/pu/img/1cmQq8NXCg7sdcfJ.jpg",
   "page_url": "https://x.com/alldoorsoneroom/status/1542656334394322945",
@@ -10135,9 +10135,9 @@
   "page_url": "https://magazine.beattitude.kr/issue-03/artistproject-minheejin-part1-eng/",
   "w": 934
  },
- "web-2022-12-27-rolling-stone-omg-interview": {
+ "web-2022-12-26-rolling-stone-omg-interview": {
   "fetched": "2026-10-13",
-  "file": "web-2022-12-27-rolling-stone-omg-interview.jpg",
+  "file": "web-2022-12-26-rolling-stone-omg-interview.jpg",
   "h": 788,
   "image_url": "https://www.rollingstone.com/wp-content/uploads/2022/12/NewJeans-Official-Photo.jpg?w=1600&h=900&crop=1",
   "page_url": "https://www.rollingstone.com/music/music-features/newjeans-new-album-omg-ditto-interview-1234651360/",

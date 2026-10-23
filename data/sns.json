@@ -1,6 +1,6 @@
 [
   {
-    "id": "sns-2022-07-01-debut-teaser-22-7-22",
+    "id": "sns-2022-07-01-debut-teaser-roller-skating-rabbits",
     "date": "2022-07-01",
     "date_type": "post",
     "date_precision": "day",
@@ -10,15 +10,18 @@
       "all"
     ],
     "title": {
-      "ja": "デビューティーザー「22」「7」「22」投稿",
-      "en": "Debut teaser posts '22', '7', '22'"
+      "ja": "ADOR新人ガールズグループ初コンテンツ予告映像（ローラースケートのウサギ）投稿",
+      "en": "ADOR teaser post for its new girl group's first content (roller-skating rabbits clip)"
     },
     "summary": {
-      "ja": "ADORが「22」「7」「22」の数字をあしらった12秒のアニメーション映像を投稿し、新人ガールズグループの最初のコンテンツを7月22日に公開すると予告した。",
-      "en": "ADOR posted a 12-second animated clip built on the numbers '22', '7' and '22', announcing that its new girl group's first content would arrive on July 22, 2022."
+      "ja": "ADORが公式Xに、ローラースケートで進む色とりどりのウサギの12秒の映像を投稿し、新人ガールズグループの初コンテンツ公開を7月22日と予告した。",
+      "en": "ADOR posted a 12-second animated clip of colourful rabbits on roller skates on X, announcing that its new girl group's first content would arrive on July 22, 2022."
     },
-    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "source_url": "https://x.com/alldoorsoneroom/status/1542656334394322945",
+    "reference_urls": [
+      "https://x.com/alldoorsoneroom/status/1542656334394322945",
+      "https://en.wikipedia.org/wiki/NewJeans"
+    ],
     "media": {
       "type": "x",
       "ref": "https://x.com/alldoorsoneroom/status/1542656334394322945"
@@ -28,12 +31,12 @@
       "debut",
       "teaser"
     ],
-    "verified": false,
+    "verified": true,
     "editor_note": "Status URL not retrieved; date from Wikipedia. Posted across ADOR/NewJeans official SNS. | X status URL supplied by pre-debut research (ADOR account @alldoorsoneroom), time from snowflake id | Status 1542656334394322945 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-14; emoji omitted from quotations; this status carries one 12s video. The '22/7/22' three-clip description is from Wikipedia; sibling statuses not located. / Reader text describes only the single verified status (1542656334394322945: one 12s video; text/media/timestamp verified via fxtwitter API on 2026-10-14, time from snowflake ID, emoji omitted). English Wikipedia describes three animated clips ('22', '7', '22') posted that day; sibling statuses were not located, so the three-clip count was dropped from reader text. source_url is the Wikipedia page.",
     "time": "08:48",
     "detail": {
-      "ja": "12秒のアニメーション映像を添え、韓国語と英語の併記で「ついにADORの新人ガールズグループの最初のコンテンツが2022年7月22日に公開される」と告げたADORの告知。グループ名は明かさず公開日だけを示した投稿で、ハッシュタグも付いていなかった。",
-      "en": "A 12-second animated clip with a bilingual Korean-English caption announcing that ADOR's new girl group would finally drop its first content on July 22, 2022. The post gave only the date, with no group name and no hashtags."
+      "ja": "ADORの公式X（@alldoorsoneroom）が8時48分（KST）に投稿した告知。炎を背景に緑、白、ピンク、水色、黄色のウサギがローラースケートで横切り、最後にADORのロゴが映る12秒のアニメーション映像に、韓国語と英語で「2022年7月22日、ついにADORの新人ガールズグループの初コンテンツが公開されます」と添えた。グループ名やメンバーは明かされず、ハッシュタグもなかった。",
+      "en": "Posted by ADOR's official X account (@alldoorsoneroom) at 08:48 KST. A 12-second animated clip shows green, white, pink, light-blue and yellow rabbits roller-skating past a backdrop of flames before the ADOR logo appears, with a Korean and English caption: 'FINALLY The first ADOR new girl group will drop its first content on July 22, 2022'. The post named neither the group nor its members and carried no hashtags."
     },
     "credits": {
       "account": "@alldoorsoneroom (ADOR)",
@@ -71,7 +74,7 @@
       "attention"
     ],
     "verified": false,
-    "editor_note": "Embedded in Bandwagon's debut article; oEmbed lookup failed (post may have been deleted), so content is inferred from the article. Date derived from the snowflake ID (2022-07-22 00:00 KST). | Status 1550133496085184512 returns 404 on fxtwitter/vxtwitter (deleted or unavailable). Text inferred; the Hypebae-embedded '#ATTENTIon_NewJeans' post may be this status but is unconfirmed. / Posting time 00:00 KST derived from snowflake ID 1550133496085184512. The status returns 404 on fxtwitter/vxtwitter as of 2026-10 (deleted or unavailable), so the body text is unverified. Debut-day facts (no prior reveal, EP schedule) come from contemporary coverage (Bandwagon, in which the post was embedded). A Hypebae-embedded @NewJeans_ADOR post from the same hours ('#ATTENTIon_NewJeans' plus one image) may be this status but is unconfirmed and is not described in reader text.",
+    "editor_note": "Embedded in Bandwagon's debut article; oEmbed lookup failed (post may have been deleted), so content is inferred from the article. Date derived from the snowflake ID (2022-07-22 00:00 KST). | Status 1550133496085184512 returns 404 on fxtwitter/vxtwitter (deleted or unavailable). Text inferred; the Hypebae-embedded '#ATTENTIon_NewJeans' post may be this status but is unconfirmed. / Posting time 00:00 KST derived from snowflake ID 1550133496085184512. The status returns 404 on fxtwitter/vxtwitter as of 2026-10 (deleted or unavailable), so the body text is unverified. Debut-day facts (no prior reveal, EP schedule) come from contemporary coverage (Bandwagon, in which the post was embedded). A Hypebae-embedded @NewJeans_ADOR post from the same hours ('#ATTENTIon_NewJeans' plus one image) may be this status but is unconfirmed and is not described in reader text. / 2026-10-23 nightly: ステータス1550133496085184512はXのsyndication APIで「投稿者により削除」と返り、本文を確認できない。",
     "detail": {
       "ja": "デビュー曲「Attention」MVのサプライズ公開と同時刻、7月22日0時00分（KST）の投稿。ADORはこの日、メンバーやコンセプトの事前告知なしにMVを公開し、あわせて1st EP『New Jeans』の日程として7月23日の「Hype Boy」MV、8月1日のデジタル配信、8月8日のフィジカル発売を示した。",
       "en": "Posted at 00:00 KST, the moment the debut single 'Attention' MV went live as a surprise release. ADOR put the MV out that day with no prior reveal of the members or concept, and laid out the 1st EP New Jeans schedule alongside it: the 'Hype Boy' MV on July 23, digital release on August 1 and physical release on August 8."
@@ -115,7 +118,7 @@
     "verified": false,
     "note": "メンバー名はまだ非公開。",
     "note_en": "Member names had not yet been revealed.",
-    "editor_note": "Soompi 2022-07-21 UTC article shows photos; exact X status URLs not recovered. Posted on official X/Instagram. | Not enriched beyond Soompi; no status URL found. | note sentences already covered by detail: 名前は翌7/23の『Hype Boy』MVで明かされると予告。 / Photos and the 'big batch of group and individual teasers' description come from Soompi's 2022-07-21 (UTC) article; individual X status URLs were not recovered (source_url is the account page); not enriched beyond Soompi.",
+    "editor_note": "Soompi 2022-07-21 UTC article shows photos; exact X status URLs not recovered. Posted on official X/Instagram. | Not enriched beyond Soompi; no status URL found. | note sentences already covered by detail: 名前は翌7/23の『Hype Boy』MVで明かされると予告。 / Photos and the 'big batch of group and individual teasers' description come from Soompi's 2022-07-21 (UTC) article; individual X status URLs were not recovered (source_url is the account page); not enriched beyond Soompi. / 2026-10-23 nightly: 公式X/Instagramの該当投稿URLを見つけられず、Soompi以外の裏付けなし。",
     "detail": {
       "ja": "「Attention」MVのサプライズ公開に続いて、グループ写真と個人写真のティーザーが公式XとInstagramにまとめて投稿された。この時点で公表されていたのは5人組であることだけで、メンバー名は翌7月23日公開の「Hype Boy」MVで明かされると予告されていた。",
       "en": "Following the surprise 'Attention' MV, group and individual teaser photos went up in a batch on the official X and Instagram accounts. At that point the only public fact was the five-member lineup; the members' names were to be revealed in the 'Hype Boy' MV the next day, July 23."
@@ -581,7 +584,7 @@
       "challenge",
       "followers"
     ],
-    "verified": false,
+    "verified": true,
     "time": "21:00",
     "credits": {
       "account": "@newjeans_official (TikTok)",
@@ -619,7 +622,8 @@
     },
     "source_url": "https://x.com/NewJeans_ADOR/status/1556650134670233600",
     "reference_urls": [
-      "https://vt.tiktok.com/ZSRM4vdA9/"
+      "https://vt.tiktok.com/ZSRM4vdA9/",
+      "https://x.com/NewJeans_ADOR/status/1556650134670233600"
     ],
     "media": {
       "type": "x",
@@ -631,7 +635,7 @@
       "Attention",
       "challenge"
     ],
-    "verified": false,
+    "verified": true,
     "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1556650134670233600 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [TIkTok📹] / Attention 꽃이 피었습니다!😆 / Attention light Green light!😆 /  / 🔗https://vt.tiktok.com/ZSRM4vdA9/?k=1 /  / #NewJeans #뉴진스 #NewJeans_Attention  /  #MINJI #HANNI #DANIELLE #HAERIN #HYEIN. Time is that of the X cross-post; the TikTok upload may be slightly earlier. / Short link redirects to the TikTok home page from this network, so the full URL was found in the official account's TikTok playlist data (api/mix/item_list via headless Chromium) and verified 2026-10-16 via TikTok oEmbed: author newjeans_official, caption \"Attention 꽃이 피었습니다! Attention light green light! #NewJeans #NewJeans_Attention ...\" (matches the X cross-post); TikTok createTime 2022-08-08 23:09 KST.",
     "links": {
       "tiktok": "https://www.tiktok.com/@newjeans_official/video/7129507192322968833"

@@ -87,9 +87,9 @@
       "big-hit",
       "source-music"
     ],
-    "verified": false,
-    "note": "各都市の応募締切はオーディション日の6日前。合格者はオーディション後4週間以内に選抜される。パン・シヒョク代表とミン・ヒジンCBOが主導するプロジェクト。",
-    "note_en": "Applications for each city close six days before its audition. Successful applicants are chosen within four weeks of the audition. A project led by CEO Bang Si-hyuk and CBO Min Hee-jin.",
+    "verified": true,
+    "note": "各都市の応募受付は、その都市のオーディション日の6日前に締め切られる。合格者はオーディション後4週間以内に選ばれる。",
+    "note_en": "Applications for each city close six days before its audition. Successful applicants are chosen within four weeks of the audition.",
     "editor_note": "Seoul Shinmun (twig24) 2019-09-10 13:28 KST: '이날부터 신인 걸그룹 멤버 선발을 위한 플러스 글로벌 오디션 신청 접수를 시작한다'. Bandwagon (2019-09-10) gives the same date and the official site plusglobalaudition.com. The official site/SNS could not be fetched, so verified=false. | No new sources fetched this pass. / Date and eligibility from Seoul Shinmun (twig24, 2019-09-10 13:28 KST) and Bandwagon (2019-09-10); official site/SNS not fetched (verified=false). Press framing ('who will be the female BTS') removed from the note.",
     "detail": {
       "ja": "Big Hit EntertainmentとSource Musicが、新人ガールズグループのメンバー選抜のための「PLUS GLOBAL AUDITION」の応募受付を公式サイト（plusglobalaudition.com）で開始した。対象は2001年から2007年生まれの女性で、オンライン予選の通過者にオフライン審査が案内される。",
@@ -120,7 +120,8 @@
     "reference_urls": [
       "https://v.daum.net/v/20211201145841904",
       "https://www.soompi.com/article/1501435wpp/hybes-new-label-ador-launches-global-audition",
-      "https://www.bandwagon.asia/articles/hybe-launches-global-auditions-for-their-new-label-ador-how-to-join-singing-rapping-dance-acting-min-hee-jin-korea-december-2021"
+      "https://www.bandwagon.asia/articles/hybe-launches-global-auditions-for-their-new-label-ador-how-to-join-singing-rapping-dance-acting-min-hee-jin-korea-december-2021",
+      "https://x.com/alldoorsoneroom/status/1465845175079501824"
     ],
     "media": {
       "type": "x",
@@ -135,7 +136,7 @@
       "ador",
       "min-hee-jin"
     ],
-    "verified": false,
+    "verified": true,
     "note": "投稿文は「Welcome to the first ADOR Global Audition / Apply on [公式サイト] / Dec 1 ~ Jan 10」。写真・自己紹介動画・部門別オーディション動画を提出する。ADORは翌年ローンチ予定のガールズグループのメンバーは2019年のPLUS GLOBAL AUDITION参加者から選ばれるとしていた。",
     "note_en": "The post read 'Welcome to the first ADOR Global Audition / Apply on [official site] / Dec 1 ~ Jan 10'. Applicants submit photos, a self-introduction video and a video for their audition category. ADOR had said the members of the girl group launching the following year would be chosen from the 2019 PLUS GLOBAL AUDITION participants.",
     "editor_note": "Tweet ID 1465845175079501824 decodes (snowflake) to 2021-12-01 00:48:18 UTC = 09:48 KST; the tweet page itself could not be fetched (X blocked), so verified=false. Poster image is the Korea Herald/Daum copy of the ADOR audition poster. Wikipedia describes this as the 'second global audition' (Dec 2021-Jan 2022); application site was ador.world. | No new sources fetched this pass. / 推敲で本文から出典言及を除去: 同日報道は Soompi / Bandwagon / コリアヘラルド（Daum経由）; ポスター画像はコリアヘラルド掲載分が残存",
@@ -168,7 +169,8 @@
     "reference_urls": [
       "https://kstyle.com/article.ksn?articleNo=2196233",
       "https://v.daum.net/v/20220701152422984",
-      "https://www.nme.com/news/music/watch-first-teasers-hybe-ador-upcoming-k-pop-girl-group-3259962"
+      "https://www.nme.com/news/music/watch-first-teasers-hybe-ador-upcoming-k-pop-girl-group-3259962",
+      "https://x.com/alldoorsoneroom/status/1542656334394322945"
     ],
     "media": {
       "type": "none"
@@ -179,7 +181,7 @@
       "ador",
       "min-hee-jin"
     ],
-    "verified": false,
+    "verified": true,
     "note": "グループ名・メンバーは未公開。同日、ADOR公式SNSでは「22」「7」「22」の数字アニメーションと、色とりどりのウサギがローラースケートで進むポップアート風クリップも公開された（SNS投稿は別記録）。",
     "note_en": "The group name and members had not been revealed. The same day, ADOR's official social accounts posted a number animation of '22', '7', '22' and a pop-art clip of colourful rabbits on roller skates (the social posts are separate records).",
     "editor_note": "Out-of-home teaser recorded separately from the existing SNS record tweet-2022-07-01-debut-teaser-22-7-22. Newsis 2022-07-01 08:37 and Newsen (via Kstyle, 08:06) both give 06:00 KST and the three screens. The matching ADOR X post is https://twitter.com/alldoorsoneroom/status/1542656334394322945 (snowflake = 2022-07-01 08:48 KST; text 'FINALLY The first ADOR new girl group will drop its first content on July 22, 2022'); Instagram clips at instagram.com/tv/Cfcq9xoDguR, Cfcqp28D8vT, Cfcqxsojw8f, CfcqzyDjRvX. | No new sources fetched this pass. / 推敲で本文から出典言及を除去: 放映時刻と3スクリーンの報道はニューシス（同日8時37分）と Newsen（Kstyle経由、8時06分）",
@@ -269,7 +271,7 @@
       "ambassador"
     ],
     "verified": false,
-    "editor_note": "Reported by Nov 8, 2022; exact announcement date not confirmed. | Exact announcement date still unconfirmed (search budget exhausted before a Musinsa release could be located). / Role description from MTN (2022-11-08) and the English Wikipedia entry; exact announcement date unconfirmed (no Musinsa release located). MTN's analysis of the group's advertising demand (MZ influence, cost-effectiveness as a controversy-free rookie act) dropped as press commentary. / 2026-10-17 review: MUSINSA newsroom release 2022-10-05 (URL now redirects to corp.musinsa.com/newsroom/press; not archived) is indexed by search as announcing NewJeans as domestic and global ambassadors on 2022-10-05; Seoul Shinmun (2022-10-29) says the appointment was \"this month\"; MUSINSA newsroom 2022-12-20 describes the December campaign as the first activity since the October appointment. Page text not fetched directly, so verified stays false.",
+    "editor_note": "Reported by Nov 8, 2022; exact announcement date not confirmed. | Exact announcement date still unconfirmed (search budget exhausted before a Musinsa release could be located). / Role description from MTN (2022-11-08) and the English Wikipedia entry; exact announcement date unconfirmed (no Musinsa release located). MTN's analysis of the group's advertising demand (MZ influence, cost-effectiveness as a controversy-free rookie act) dropped as press commentary. / 2026-10-17 review: MUSINSA newsroom release 2022-10-05 (URL now redirects to corp.musinsa.com/newsroom/press; not archived) is indexed by search as announcing NewJeans as domestic and global ambassadors on 2022-10-05; Seoul Shinmun (2022-10-29) says the appointment was \"this month\"; MUSINSA newsroom 2022-12-20 describes the December campaign as the first activity since the October appointment. Page text not fetched directly, so verified stays false. / 2026-10-23 nightly: MUSINSAニュースルーム（newsroom.musinsa.com/2022-1005 → corp.musinsa.com）はcurl/WebFetchとも403・リダイレクトで本文取得不可。検索インデックスでは同日の「国内外アンバサダー起用」リリースを確認。",
     "detail": {
       "ja": "ファッションプラットフォームMUSINSAが、NewJeansのメンバー5人全員をグローバルアンバサダーに起用した。韓国、日本、東南アジア、米国、オーストラリアでブランドをプロモーションし、海外向けキャンペーンを主導する役割。",
       "en": "Fashion platform Musinsa named all five NewJeans members its global ambassadors. The role covers promoting the brand in Korea, Japan, Southeast Asia, the United States and Australia and leading its campaigns abroad."
@@ -317,7 +319,7 @@
       "model"
     ],
     "verified": false,
-    "editor_note": "Posts CjWZCXtPbD4 (2022-10-06 08:06 KST) and member posts CjWffBkPYm9/CjWnaL7P7Ah/CjXWhclvD77/CjXnu7VPNwJ/CjXxpSaPSUV per namu's O!Oi section; kpop.fandom also gives 10-06 (ledger had 10-07). Instagram account/caption could not be read (r.jina.ai reader blocked for instagram.com on 2026-10-17); post attributed to the brand by namu.wiki's brand section, date from the shortcode timestamp. The 22FW pictorial is ad-2022-10-11-5252-by-oioi-22fw."
+    "editor_note": "Posts CjWZCXtPbD4 (2022-10-06 08:06 KST) and member posts CjWffBkPYm9/CjWnaL7P7Ah/CjXWhclvD77/CjXnu7VPNwJ/CjXxpSaPSUV per namu's O!Oi section; kpop.fandom also gives 10-06 (ledger had 10-07). Instagram account/caption could not be read (r.jina.ai reader blocked for instagram.com on 2026-10-17); post attributed to the brand by namu.wiki's brand section, date from the shortcode timestamp. The 22FW pictorial is ad-2022-10-11-5252-by-oioi-22fw. / 2026-10-23 nightly: Instagram oEmbedがCjWZCXtPbD4ほか個別投稿5件すべてに「No Media Match」を返す（削除・非公開の可能性）。"
   },
   {
     "id": "ad-2022-10-06-megastudy-2024-megapass-teaser",

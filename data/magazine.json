@@ -302,7 +302,7 @@
       "japan"
     ],
     "verified": false,
-    "editor_note": "SPUR公式ページ未取得。発売日はTHE FIRST TIMES(2023-01-17)およびAppBank記事で確認。 | Photographer, page count, price and cover variants not stated in THE FIRST TIMES report; SPUR official page not fetched. / Removed provenance from reader text: based on THE FIRST TIMES' announcement of January 17, 2023.",
+    "editor_note": "SPUR公式ページ未取得。発売日はTHE FIRST TIMES(2023-01-17)およびAppBank記事で確認。 | Photographer, page count, price and cover variants not stated in THE FIRST TIMES report; SPUR official page not fetched. / Removed provenance from reader text: based on THE FIRST TIMES' announcement of January 17, 2023. / 2026-10-23 nightly: spur.hpplus.jpはJavaScriptチャレンジで取得不可、集英社の商品ページは503。発売日1月23日はモデルプレス・THE FIRST TIMES等の報道のみ。",
     "detail": {
       "ja": "表紙テーマは「世にもおしゃれな噂話」。リジッドデニムやウォッシュドデニムを使った1990年代風のスタイルでそろえ、ミンジはライトウォッシュのデニムジャケットにストレートの黒髪、ハニはデニムジャケットに水色のインナー、ダニエルは黒いカーディガンにデニムジャケット、ヘリンはベージュのデニムジャケット、ヘインはデニム・オン・デニムで登場した。誌面には撮り下ろしとインタビューを掲載。ミンジは全員で日本のファッション誌の表紙に立てた喜びと、現場の音楽が自然な雰囲気を作ったことを語り、ハニは光栄だと述べて新年の挨拶を寄せた。",
       "en": "The cover theme was 'Yo ni mo oshare na uwasabanashi', with the group in 1990s denim using rigid and washed pieces: Minji in a light-wash denim jacket with straight black hair, Hanni in a denim jacket over a light-blue inner, Danielle in a denim jacket over a black cardigan, Haerin in a beige denim jacket and Hyein in denim-on-denim. The issue carried a new shoot and an interview in which Minji said she was thrilled that all five appeared together on a Japanese fashion magazine cover and that the music on set created a natural mood, while Hanni called it an honor and offered New Year greetings."
@@ -504,7 +504,7 @@
       "gucci"
     ],
     "verified": false,
-    "editor_note": "コミュニティ投稿(2023-02-14)に基づく。marie claire公式記事URL未確認のため要確認。 | theqoo source returned 403 on re-fetch; Marie Claire Korea official article for this cover still not located. Credits unavailable. / カバー構成（16種、A/B/C型）はコミュニティ投稿(theqoo, 2023-02-14)に基づく。marie claire公式記事は未発見、theqooは再取得時403。撮影者等クレジット不明。要確認。",
+    "editor_note": "コミュニティ投稿(2023-02-14)に基づく。marie claire公式記事URL未確認のため要確認。 | theqoo source returned 403 on re-fetch; Marie Claire Korea official article for this cover still not located. Credits unavailable. / カバー構成（16種、A/B/C型）はコミュニティ投稿(theqoo, 2023-02-14)に基づく。marie claire公式記事は未発見、theqooは再取得時403。撮影者等クレジット不明。要確認。 / 2026-10-23 nightly: marie claire Korea公式記事「스물의 밤 #HMBD 하니 X 구찌」（2023-02-20公開、reference 2023年3月号、撮影コ・ウォンテ、スタイリング チェ・ユミ: https://www.marieclairekorea.com/celebrity/2023/02/gucci-hanni/）でグラビア掲載は確認。表紙であること・16種中のA型は公式記事に記載なし。",
     "detail": {
       "ja": "創刊30周年記念の3月号は16種のカバーで構成され、A型がハニとグッチの組み合わせだった。各カバーはブランドとのタイアップで、B型はEXOのカイとイヴ・サンローラン・ボーテ、C型はMONSTA Xのヒョンウォンとフレッド。ハニは2022年10月からグッチのブランドアンバサダーを務めている。",
       "en": "The 30th-anniversary March issue came with 16 covers, and cover A paired Hanni with Gucci. Each cover was a brand tie-in: cover B was EXO's Kai with YSL Beauty and cover C Monsta X's Hyungwon with Fred. Hanni had been a Gucci brand ambassador since October 2022."
@@ -842,8 +842,8 @@
     "editor_note": "wmagazine.com datePublished 2023-05-17T13:06:08Z = 22:06 KST. namu calls it the May issue; the page does not name an issue."
   },
   {
-    "id": "magazine-2023-05-23-w-korea-seoul-jazz-festival-2023-minji",
-    "date": "2023-05-23",
+    "id": "magazine-2023-05-22-w-korea-seoul-jazz-festival-2023-minji",
+    "date": "2023-05-22",
     "date_type": "publish",
     "date_precision": "day",
     "category": "magazine",
@@ -856,14 +856,14 @@
       "en": "W Korea 15th Seoul Jazz Festival 2023 special edition cover - Minji x Chanel"
     },
     "summary": {
-      "ja": "ミンジがシャネルと共にW Koreaの「第15回ソウルジャズフェスティバル2023」特別版の表紙を飾った。3種類のカバーで公開。",
-      "en": "Minji covered W Korea's special edition for the 15th Seoul Jazz Festival 2023 with Chanel, in three cover versions."
+      "ja": "W Koreaが公式Instagramで、第15回ソウルジャズフェスティバル2023に合わせたW特別版の表紙を飾ったミンジを公開した。",
+      "en": "W Korea unveiled Minji on the cover of its special edition for the 15th Seoul Jazz Festival 2023 on its official Instagram."
     },
     "detail": {
-      "ja": "ADORが、ミンジとシャネルによるW Korea「第15回ソウルジャズフェスティバル2023」特別版のグラビアを公開した。3種類のカバーで、音楽を楽しむサマーガールの姿を表現した。ミンジはシャネルのビューティ、ファッション、ウォッチ＆ジュエリー部門のアンバサダーとして活動している。",
-      "en": "ADOR released Minji's pictorial with Chanel for W Korea's special edition marking the 15th Seoul Jazz Festival 2023. Across three covers she portrays a summer girl who loves music. Minji is Chanel's ambassador for beauty, fashion, and watches and jewellery."
+      "ja": "W Koreaが公式Instagramで、第15回ソウルジャズフェスティバル2023のW特別版の表紙を飾ったミンジを公開した。シャネルとのタイアップで、夏空のように爽やかなメイクで音楽を楽しむ姿を撮影した。特別版はフェスティバル会場のWブースで配布され、同じグラビアは『W』Vol.6にも掲載されると案内された。撮影はカン・ヘウォン、スタイリングはチェ・ユミ。",
+      "en": "W Korea unveiled on its official Instagram that Minji covers its special edition for the 15th Seoul Jazz Festival 2023. The tie-in with Chanel shows her in fresh summer-sky makeup, enjoying the music. The special edition was to be handed out at the W booth at the festival, with the same pictorial also running in W Vol.6. Photographed by Kang Hye-won and styled by Choi Yu-mi."
     },
-    "source_url": "https://v.daum.net/v/20230523093300145",
+    "source_url": "https://www.instagram.com/p/CsiiOjzPFSQ/",
     "reference_urls": [
       "https://v.daum.net/v/20230523093002994",
       "https://en.wikipedia.org/wiki/Minji_(singer)",
@@ -876,14 +876,68 @@
     },
     "credits": {
       "publisher": "W Korea",
-      "brand": "Chanel"
+      "brand": "Chanel",
+      "photographer": {
+        "ja": "カン・ヘウォン",
+        "en": "Kang Hye-won"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      }
     },
     "tags": [
       "chanel",
       "seoul-jazz-festival"
     ],
-    "verified": false,
-    "editor_note": "Star Today (2023-05-23) citing ADOR. Companion 2024 edition exists as magazine-2024-05-31-w-korea-seoul-jazz-festival-2024-minji. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-17 review: W Korea web 2023-05-19 (teaser interview \"서재페 특별판 커버 촬영장에서 만난 뉴진스 민지\", says pictorial/beauty film/YouTube \"곧 공개\") and 2023-05-26 (beauty pictorial calling her the 서재페 special-edition cover). Likely cover reveal: Instagram CsiiOjzPFSQ 2023-05-22 18:00 KST (namu), Chanel Korea repost same day per namu. namu row date 05-14 unsupported. Instagram captions could not be read on 2026-10-17 (r.jina.ai blocked for instagram.com), so Instagram-only dates remain unconfirmed."
+    "verified": true,
+    "editor_note": "Star Today (2023-05-23) citing ADOR. Companion 2024 edition exists as magazine-2024-05-31-w-korea-seoul-jazz-festival-2024-minji. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-17 review: W Korea web 2023-05-19 (teaser interview \"서재페 특별판 커버 촬영장에서 만난 뉴진스 민지\", says pictorial/beauty film/YouTube \"곧 공개\") and 2023-05-26 (beauty pictorial calling her the 서재페 special-edition cover). Likely cover reveal: Instagram CsiiOjzPFSQ 2023-05-22 18:00 KST (namu), Chanel Korea repost same day per namu. namu row date 05-14 unsupported. Instagram captions could not be read on 2026-10-17 (r.jina.ai blocked for instagram.com), so Instagram-only dates remain unconfirmed.",
+    "time": "18:00"
+  },
+  {
+    "id": "magazine-2023-05-26-highsnobiety-special-issue",
+    "date": "2023-05-26",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Highsnobiety 限定スペシャルイシュー表紙 — 初の国際誌カバーストーリー",
+      "en": "Highsnobiety limited-edition special issue cover - first international print cover story"
+    },
+    "summary": {
+      "ja": "Highsnobiety限定スペシャルイシューの表紙で、NewJeans初の国際誌カバーストーリー。撮影Park Sangjun、文Elaine YJ Lee。",
+      "en": "Highsnobiety's limited-edition special issue, NewJeans' first international print cover story; photos Park Sangjun, words Elaine YJ Lee."
+    },
+    "source_url": "https://www.highsnobiety.com/p/newjeans-interview/",
+    "reference_urls": [
+      "https://www.thefirsttimes.jp/?p=284082",
+      "https://theimpression.com/?p=11037373"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "international"
+    ],
+    "verified": true,
+    "editor_note": "Highsnobiety記事ページに日付表記なし。公開日はTHE FIRST TIMES(2023-05-28)による。発売日未確認。 | Price, page count and on-sale date not stated on highsnobiety.com or The Impression. / Cut for length: styling Yumi Choi, hair Seoha Yoon, makeup Young Lee (retained in credits).",
+    "detail": {
+      "ja": "Highsnobietyのサイトでカバーストーリーが公開され、在庫限りの限定スペシャルイシューの注文受付が始まった。NewJeansにとって初の国際誌プリントカバーストーリー。インタビューでミンジはグループ名を「新しいジーンズ」になぞらえ、新しさと定番を併せ持つ音楽だと説明して挑戦を続けたいと語った。ハニは好きな韓国語に「ときめく」を意味する「ソルレダ」を挙げ、ヘインはファン名Bunniesの由来を、ダニエルはアボカドとオートミールを使ったブラウニー作りを話した。インタビューの韓国語版も公開された。",
+      "en": "Highsnobiety published the cover story on its site and opened orders for a limited-edition special issue, available while supplies last. It was NewJeans' first international print cover story. In the interview Minji likened the group name to a new pair of jeans, music that blends the new and the classic, and said she wants to keep taking on challenges; Hanni chose 'seolleda' as her favorite Korean word, Hyein explained the fan name Bunnies, and Danielle described baking brownies with avocado and oatmeal. A Korean-language version of the interview was also published."
+    },
+    "credits": {
+      "publisher": "Highsnobiety",
+      "writer": "Elaine YJ Lee",
+      "photographer": "Park Sangjun",
+      "stylist": "Yumi Choi",
+      "hair": "Seoha Yoon",
+      "makeup": "Young Lee",
+      "production": "Seungyeon Lee"
+    }
   },
   {
     "id": "magazine-2023-06-01-dazed-korea-2023-06-danielle",
@@ -924,51 +978,6 @@
       "brand": "Burberry"
     },
     "editor_note": "Both Dazed pages are behind a sign-up wall; photographer/stylist credits and interview text not retrievable."
-  },
-  {
-    "id": "magazine-2023-06-01-highsnobiety-special-issue",
-    "date": "2023-06-01",
-    "date_type": "publish",
-    "date_precision": "month",
-    "category": "magazine",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "Highsnobiety 2023年6/7月号（US版）限定スペシャルイシュー表紙 — 国際誌初カバー",
-      "en": "Highsnobiety June/July 2023 (US) limited-edition special issue cover - first international print cover"
-    },
-    "summary": {
-      "ja": "K-POPグループ初のHighsnobiety表紙で、NewJeans初の国際誌カバー。撮影Park Sangjun、文Elaine YJ Lee。",
-      "en": "The first K-pop group on a Highsnobiety cover and NewJeans' first international print cover; photos Park Sangjun, words Elaine YJ Lee."
-    },
-    "source_url": "https://www.highsnobiety.com/p/newjeans-interview/",
-    "reference_urls": [
-      "https://www.thefirsttimes.jp/?p=284082",
-      "https://theimpression.com/?p=11037373"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "international"
-    ],
-    "verified": false,
-    "editor_note": "Highsnobiety記事ページに日付表記なし。公開日はTHE FIRST TIMES(2023-05-28)による。発売日未確認。 | Price, page count and on-sale date not stated on highsnobiety.com or The Impression. / Cut for length: styling Yumi Choi, hair Seoha Yoon, makeup Young Lee (retained in credits).",
-    "detail": {
-      "ja": "5月26日（現地時間）に公開されたHighsnobietyの限定スペシャルイシューで、NewJeansにとって初の国際誌プリントカバーストーリー。インタビューでミンジはグループ名を「新しいジーンズ」になぞらえ、新しさと定番を併せ持つ音楽だと説明して挑戦を続けたいと語った。ハニは好きな韓国語に「ときめく」を意味する「ソルレダ」を挙げ、ヘインはファン名Bunniesの由来を、ダニエルはアボカドとオートミールを使ったブラウニー作りを話した。誌面はHighsnobietyのオンラインショップで在庫限りで販売され、インタビューの韓国語版も公開された。",
-      "en": "A limited-edition Highsnobiety special issue revealed May 26 (local time), and NewJeans' first international print cover story. In the interview Minji likened the group name to a new pair of jeans, music that blends the new and the classic, and said she wants to keep taking on challenges; Hanni chose 'seolleda' as her favorite Korean word, Hyein explained the fan name Bunnies, and Danielle described baking brownies with avocado and oatmeal. The issue was sold through Highsnobiety's online shop while supplies lasted, and a Korean-language version of the interview was also published."
-    },
-    "credits": {
-      "publisher": "Highsnobiety",
-      "writer": "Elaine YJ Lee",
-      "photographer": "Park Sangjun",
-      "stylist": "Yumi Choi",
-      "hair": "Seoha Yoon",
-      "makeup": "Young Lee",
-      "production": "Seungyeon Lee"
-    }
   },
   {
     "id": "magazine-2023-06-05-elle-korea-hyein-louis-vuitton-seoul-show",
@@ -1040,7 +1049,8 @@
     },
     "source_url": "https://www.thefirsttimes.jp/?p=286635",
     "reference_urls": [
-      "https://mdpr.jp/k-enta/3778319"
+      "https://mdpr.jp/k-enta/3778319",
+      "https://magazineworld.jp/popeye/popeye-915/"
     ],
     "media": {
       "type": "none"
@@ -1048,7 +1058,7 @@
     "tags": [
       "japan"
     ],
-    "verified": false,
+    "verified": true,
     "editor_note": "マガジンハウス公式ページ未取得。発売日はTHE FIRST TIMES/モデルプレスで確認。 | Photographer, page count and price not stated in THE FIRST TIMES report. / マガジンハウス公式ページ未取得。発売日はTHE FIRST TIMES/モデルプレスで確認。撮影者、ページ数、価格はTHE FIRST TIMES報道に記載なし。",
     "detail": {
       "ja": "「SEOUL CITY GUIDE」を特集した号で、NewJeansがK-POPアーティストとして初めて同誌の表紙に登場し、飾らないシンプルなスタイルで撮影された。インタビューではハニがソウルを新しい人生が始まった街、ダニエルがデビューして夢を叶えた場所と語った。目標としてミンジは初心を忘れず努力し続けること、ヘインは自分の知らない面を見つける楽しさを持ち続けること、ヘリンはファンに愛らしい姿を見せ続けることを挙げた。発売時点で8月19日のSUMMER SONIC 2023出演が決まっていた。",
@@ -1313,7 +1323,7 @@
       "cover"
     ],
     "verified": true,
-    "editor_note": "highsnobiety.jp article (2023-07-05) gives release date 2023年8月1日（火）, 1,650 yen. Distinct from the US Highsnobiety special issue (magazine-2023-06-01-highsnobiety-special-issue). Some retailers list a later Issue 11 (Holiday, Meguro Ren); the publisher page is followed here."
+    "editor_note": "highsnobiety.jp article (2023-07-05) gives release date 2023年8月1日（火）, 1,650 yen. Distinct from the US Highsnobiety special issue (magazine-2023-05-26-highsnobiety-special-issue). Some retailers list a later Issue 11 (Holiday, Meguro Ren); the publisher page is followed here."
   },
   {
     "id": "magazine-2023-08-01-vogue-korea-2023-08-minji",
@@ -3226,7 +3236,7 @@
       "chanel"
     ],
     "verified": true,
-    "editor_note": "Publisher posts fetched via dazedkorea.com WP API (cover list 2024-10-15, pictorial 2024-10-18)."
+    "editor_note": "Publisher posts fetched via dazedkorea.com WP API (cover list 2024-10-15, pictorial 2024-10-18). / 2026-10-23 nightly: Dazed Korea公式（WP API、2024-10-15 03:03）の「11월호 커버」投稿で表紙公開と予約受付（kr-shop.dazedkorea.com）を確認。Weverse Shopの発行日2024-10-30は今回再取得できず。data-policyの「発売日」に従えば10-30、出版社の表紙公開・予約開始なら10-15で、方針の選択が必要。"
   },
   {
     "id": "magazine-2024-10-17-hommegirls-volume-12",
@@ -4178,7 +4188,7 @@
       },
       "brand": "Bottega Veneta"
     },
-    "editor_note": "Only 'Photo: Harper's Bazaar Korea' credited; number of covers not stated. / 公式ページのクレジットは「Photo: Harper's Bazaar Korea」のみ。カバーの種類数は明記なし。 / Cut for length: article title 'NewJeans Hyein returns, nineteen, and Bottega Veneta' (in title.original); byline Yoon Hye-young (retained in credits)."
+    "editor_note": "Only 'Photo: Harper's Bazaar Korea' credited; number of covers not stated. / 公式ページのクレジットは「Photo: Harper's Bazaar Korea」のみ。カバーの種類数は明記なし。 / Cut for length: article title 'NewJeans Hyein returns, nineteen, and Bottega Veneta' (in title.original); byline Yoon Hye-young (retained in credits). / 2026-10-23 nightly: 発売日2026-09-07を出版社・販売店のページで確認できず（検索では表紙公開日のみ）。月精度のまま維持。"
   },
   {
     "id": "magazine-2026-09-01-marie-claire-korea-2026-09-haerin",
@@ -4246,6 +4256,6 @@
       },
       "brand": "Dior Beauty"
     },
-    "editor_note": "Marie Claire page says the multi-cover project involves three individuals; the other two cover subjects are not named on Haerin's page. / Cut for length: photography Kim Sin-ae, makeup Lee Na-gyeom, hair Lee Hye-jin, styling Choi Yu-mi, nails Kim Su-ji, production Jang Bo-ram (retained in credits), prop styling Lee Ye-seul, location Jo Gyeong-jong."
+    "editor_note": "Marie Claire page says the multi-cover project involves three individuals; the other two cover subjects are not named on Haerin's page. / Cut for length: photography Kim Sin-ae, makeup Lee Na-gyeom, hair Lee Hye-jin, styling Choi Yu-mi, nails Kim Su-ji, production Jang Bo-ram (retained in credits), prop styling Lee Ye-seul, location Jo Gyeong-jong. / 2026-10-23 nightly: 発売日2026-08-25を出版社・販売店のページで確認できず（検索では表紙公開日のみ）。月精度のまま維持。"
   }
 ]
