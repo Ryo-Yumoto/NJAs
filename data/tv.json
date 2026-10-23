@@ -2512,7 +2512,11 @@
       "broadcaster": "Mnet",
       "program": "M COUNTDOWN"
     },
-    "editor_note": "Per Star News (Jul 13, 2023); points per chart list. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
+    "editor_note": "Per Star News (Jul 13, 2023); points per chart list. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "image": {
+      "url": "https://image.starnewskorea.com/21/2023/07/2023071318532060454_1.jpg",
+      "source_url": "https://www.starnewskorea.com/music/2023/07/13/2023071318532060454"
+    }
   },
   {
     "id": "tv-2023-07-14-music-bank-get-up-comeback-stage",
@@ -3080,7 +3084,11 @@
       "broadcaster": "Mnet",
       "program": "M COUNTDOWN"
     },
-    "editor_note": "Per Xports News (Aug 10, 2023). / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
+    "editor_note": "Per Xports News (Aug 10, 2023). / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "image": {
+      "url": "https://image.xportsnews.com/contents/images/upload/article/2023/0810/1691663593151084.png",
+      "source_url": "https://www.xportsnews.com/article/1758072"
+    }
   },
   {
     "id": "tv-2023-08-11-kbs-kpop-super-live-jamboree",
@@ -3283,7 +3291,11 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Per Mydaily (Aug 20, 2023). / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
+    "editor_note": "Per Mydaily (Aug 20, 2023). / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "image": {
+      "url": "https://www.stoo.com/upimages/gisaimg/202308/20_887491_85508.jpg",
+      "source_url": "http://www.stoo.com/article.php?aid=88749185508"
+    }
   },
   {
     "id": "tv-2023-08-25-music-bank-asap",
@@ -3413,7 +3425,11 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Points per Asia Economy (stoo.com) report of Sept 3, 2023; nominees not legible in source. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
+    "editor_note": "Points per Asia Economy (stoo.com) report of Sept 3, 2023; nominees not legible in source. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "image": {
+      "url": "https://photo.newsen.com/news_photo/2023/09/03/202309031643595710_1.jpg",
+      "source_url": "https://www.newsen.com/news_view.php?uid=202309031643595710"
+    }
   },
   {
     "id": "tv-2023-09-10-inkigayo-eta-win-2",
@@ -3451,7 +3467,11 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Per Inkigayo 2023 chart list and ja.wikipedia win table. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
+    "editor_note": "Per Inkigayo 2023 chart list and ja.wikipedia win table. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "image": {
+      "url": "https://photo.newsen.com/news_photo/2023/09/10/202309101453076710_1.jpg",
+      "source_url": "https://www.newsen.com/news_view.php?uid=202309101453076710"
+    }
   },
   {
     "id": "tv-2023-09-14-nhk-music-expo-2023",
@@ -3491,7 +3511,11 @@
       "program": "NHK MUSIC EXPO 2023",
       "host": "Ryota Yamasato"
     },
-    "editor_note": "A later extended edition (Nov 4, 2023, BS4K) added an OMG performance; omitted from reader text as post-dated. / 公式YouTube動画なし: NHK does not publish MUSIC EXPO performances on YouTube; no official upload found"
+    "editor_note": "A later extended edition (Nov 4, 2023, BS4K) added an OMG performance; omitted from reader text as post-dated. / 公式YouTube動画なし: NHK does not publish MUSIC EXPO performances on YouTube; no official upload found",
+    "image": {
+      "url": "https://img-mdpr.freetls.fastly.net/article/vzXb/nm/vzXbHCewGHG_N1IDE13mzZfs1jCbm0UU7eA5nlTq9gk.jpg",
+      "source_url": "https://mdpr.jp/music/detail/3948597"
+    }
   },
   {
     "id": "tv-2023-10-10-the-fact-music-awards-2023",

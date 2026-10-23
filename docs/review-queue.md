@@ -31,3 +31,5 @@
 | 2026-10-24 | record オリコン デイリー1位 | 一次ソースがない。残すか削除か | 未決 |
 | 2026-10-24 | goods McDonald's マレーシア | 本文がレコード日付より後のブキッ・ビンタンのイベント（09-15〜17）に触れている。先の出来事なので本文から外す | 未対応 |
 | 2026-10-24 | 誌面の日付の基準（続き） | 2ラウンド目でBAZAARミンジ 01-03、BAZAARヘリン 05-02、Esquireダニエル 10-11 を出版社のInstagram初出日に変更（Esquireは後日公開のインタビュー本文を外し題も変更）。基準の判断と合わせて確認 | 未決 |
+| 2026-10-24 | content-2023-03-30-weverse-bunnies-membership-open | content-2023-03-30-bunnies-bunnies-membership-open・notice-2023-03-30-bunnies-membership-open と同じ出来事。統合するか | 未決 |
+| 2026-10-24 | tv-2023-08-17-mcountdown-eta-win-2 | 当日の報道がなく、Wikipediaの勝者一覧もこの週が空欄。1位そのものを再確認 | 未確認 |

@@ -383,6 +383,14 @@
   "page_url": "https://magazine.hankyung.com/business/article/202308148892b",
   "w": 1200
  },
+ "ad-2023-09-01-lotte-wellfood-pepero-model": {
+  "fetched": "2026-10-23",
+  "file": "ad-2023-09-01-lotte-wellfood-pepero-model.jpg",
+  "h": 405,
+  "image_url": "https://img1.newsis.com/2023/09/01/NISI20230901_0001353956_web.jpg",
+  "page_url": "https://img1.newsis.com/2023/09/01/NISI20230901_0001353956_web.jpg",
+  "w": 720
+ },
  "ad-2023-09-14-haerin-dior-rose-celeste-campaign": {
   "fetched": "2026-10-16",
   "file": "ad-2023-09-14-haerin-dior-rose-celeste-campaign.jpg",
@@ -390,6 +398,14 @@
   "image_url": "https://t1.daumcdn.net/news/202309/14/startoday/20230914153906050mufc.jpg",
   "page_url": "https://t1.daumcdn.net/news/202309/14/startoday/20230914153906050mufc.jpg",
   "w": 597
+ },
+ "ad-2023-10-01-skt-iphone-15-pro-made-in-0": {
+  "fetched": "2026-10-23",
+  "file": "ad-2023-10-01-skt-iphone-15-pro-made-in-0.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/ckVPg4C9ggI/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/ckVPg4C9ggI/maxresdefault.jpg",
+  "w": 1280
  },
  "ad-2023-11-06-skt-adot-iphone-call-recording-cm": {
   "fetched": "2026-10-17",
@@ -413,6 +429,14 @@
   "h": 720,
   "image_url": "https://i.ytimg.com/vi/gz1BTVjvGbU/maxresdefault.jpg",
   "page_url": "https://i.ytimg.com/vi/gz1BTVjvGbU/maxresdefault.jpg",
+  "w": 1280
+ },
+ "ad-2023-12-01-shinhan-super-sol-cm": {
+  "fetched": "2026-10-23",
+  "file": "ad-2023-12-01-shinhan-super-sol-cm.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/mWlmGyQ29G8/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/mWlmGyQ29G8/maxresdefault.jpg",
   "w": 1280
  },
  "ad-2023-12-15-nike-air-max-90-lv8-campaign": {
@@ -471,6 +495,14 @@
   "page_url": "https://i.ytimg.com/vi/GhEP_AiRB8M/maxresdefault.jpg",
   "w": 1280
  },
+ "ad-2024-03-01-incheon-airport-customs-ambassador": {
+  "fetched": "2026-10-23",
+  "file": "ad-2024-03-01-incheon-airport-customs-ambassador.jpg",
+  "h": 349,
+  "image_url": "https://photo.newsen.com/news_photo/2024/03/22/202403221619365510_1.jpg",
+  "page_url": "https://photo.newsen.com/news_photo/2024/03/22/202403221619365510_1.jpg",
+  "w": 650
+ },
  "ad-2024-03-11-minji-nec-election-campaign": {
   "fetched": "2026-10-16",
   "file": "ad-2024-03-11-minji-nec-election-campaign.jpg",
@@ -510,6 +542,14 @@
   "image_url": "https://cosmeticsbusiness.com/article-image-alias/newjeans-idol-hanni-named-gucci-beauty-2.jpg",
   "page_url": "https://cosmeticsbusiness.com/newjeans-idol-hanni-named-gucci-beauty-ambassador",
   "w": 802
+ },
+ "ad-2024-04-01-kao-essential-cm-japan": {
+  "fetched": "2026-10-23",
+  "file": "ad-2024-04-01-kao-essential-cm-japan.jpg",
+  "h": 467,
+  "image_url": "https://fashionsnap-assets.com/article/images/2024/04/essential-newjeans20240408-1-7607842f-974b-4101-887e-862879ee9dec.jpg",
+  "page_url": "https://fashionsnap-assets.com/article/images/2024/04/essential-newjeans20240408-1-7607842f-974b-4101-887e-862879ee9dec.jpg",
+  "w": 1400
  },
  "ad-2024-04-10-shibuya109-45th-anniversary": {
   "fetched": "2026-10-13",
@@ -567,6 +607,14 @@
   "page_url": "https://www.koreatimes.co.kr/www/art/2024/05/398_374738.html",
   "w": 740
  },
+ "ad-2024-05-14-murakami-powerpuff-right-now": {
+  "fetched": "2026-10-23",
+  "file": "ad-2024-05-14-murakami-powerpuff-right-now.jpg",
+  "h": 782,
+  "image_url": "https://harpersbazaar.my/wp-content/uploads/2024/05/1-2.jpg",
+  "page_url": "https://harpersbazaar.my/wp-content/uploads/2024/05/1-2.jpg",
+  "w": 1400
+ },
  "ad-2024-05-15-coca-cola-add-delicious-magic": {
   "fetched": "2026-10-17",
   "file": "ad-2024-05-15-coca-cola-add-delicious-magic.jpg",
@@ -591,12 +639,28 @@
   "page_url": "https://t1.daumcdn.net/news/202405/26/lofficielhommes/20240526141800954lpah.jpg",
   "w": 680
  },
+ "ad-2024-06-01-line-friends-collab-2024": {
+  "fetched": "2026-10-23",
+  "file": "ad-2024-06-01-line-friends-collab-2024.jpg",
+  "h": 480,
+  "image_url": "https://image.zdnet.co.kr/2024/06/26/be7f12ada10f4fb656c1d5901dba4c3d.jpg",
+  "page_url": "https://image.zdnet.co.kr/2024/06/26/be7f12ada10f4fb656c1d5901dba4c3d.jpg",
+  "w": 640
+ },
  "ad-2024-06-10-shinhan-card-sol-pay-cm": {
   "fetched": "2026-10-17",
   "file": "ad-2024-06-10-shinhan-card-sol-pay-cm.jpg",
   "h": 720,
   "image_url": "https://i.ytimg.com/vi/VG9bui99HAE/maxresdefault.jpg",
   "page_url": "https://i.ytimg.com/vi/VG9bui99HAE/maxresdefault.jpg",
+  "w": 1280
+ },
+ "ad-2024-06-12-krafton-pubg-collab": {
+  "fetched": "2026-10-23",
+  "file": "ad-2024-06-12-krafton-pubg-collab.jpg",
+  "h": 720,
+  "image_url": "https://i.ytimg.com/vi/4V5N4RmaKBI/maxresdefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/4V5N4RmaKBI/maxresdefault.jpg",
   "w": 1280
  },
  "ad-2024-07-11-mcst-korea-tourism-ambassador": {
@@ -4591,6 +4655,14 @@
   "page_url": "https://www.thefirsttimes.jp/admin/wp-content/uploads/5000/12/20241209-tr-000010.jpg",
   "w": 1400
  },
+ "live-2024-12-14-music-bank-global-festival-2024-fukuoka": {
+  "fetched": "2026-10-23",
+  "file": "live-2024-12-14-music-bank-global-festival-2024-fukuoka.jpg",
+  "h": 933,
+  "image_url": "https://www.thefirsttimes.jp/admin/wp-content/uploads/2024/12/20241217-tr-000016.jpg",
+  "page_url": "https://www.thefirsttimes.jp/admin/wp-content/uploads/2024/12/20241217-tr-000016.jpg",
+  "w": 1400
+ },
  "live-2024-12-25-sbs-gayo-daejeon": {
   "fetched": "2026-10-13",
   "file": "live-2024-12-25-sbs-gayo-daejeon.jpg",
@@ -7855,6 +7927,14 @@
   "page_url": "https://www.soompi.com/article/1612296wpp/nct-dream-newjeans-exo-treasure-zerobaseone-and-gi-dle-earn-circle-triple-million-and-million-certifications",
   "w": 900
  },
+ "record-2023-09-29-debut-ep-spotify-1-billion": {
+  "fetched": "2026-10-23",
+  "file": "record-2023-09-29-debut-ep-spotify-1-billion.jpg",
+  "h": 1099,
+  "image_url": "https://img1.newsis.com/2023/09/29/NISI20230929_0001376770_web.jpg",
+  "page_url": "https://img1.newsis.com/2023/09/29/NISI20230929_0001376770_web.jpg",
+  "w": 720
+ },
  "record-2023-10-01-riaj-super-shy-gold": {
   "fetched": "2026-10-15",
   "file": "record-2023-10-01-riaj-super-shy-gold.jpg",
@@ -8822,6 +8902,14 @@
   "image_url": "https://otakukart.com/wp-content/uploads/2026/10/uf8.jpg",
   "page_url": "https://otakukart.com/newjeans-super-shy-surpasses-300-million-views-becomes-groups-2nd-mv-to-reach-milestone/",
   "w": 1280
+ },
+ "sns-2022-07-01-ador-instagram-22-7-22-number-teasers": {
+  "fetched": "2026-10-23",
+  "file": "sns-2022-07-01-ador-instagram-22-7-22-number-teasers.jpg",
+  "h": 720,
+  "image_url": "https://www.instagram.com/p/Cfcqp28D8vT/media/?size=l",
+  "page_url": "https://www.instagram.com/p/Cfcqp28D8vT/media/?size=l",
+  "w": 720
  },
  "sns-2022-07-01-debut-teaser-roller-skating-rabbits": {
   "fetched": "2026-10-13",
@@ -9919,6 +10007,14 @@
   "page_url": "https://i.ytimg.com/vi/ZETQ1MKypC8/maxresdefault.jpg",
   "w": 1280
  },
+ "tv-2023-07-13-mcountdown-super-shy-win": {
+  "fetched": "2026-10-23",
+  "file": "tv-2023-07-13-mcountdown-super-shy-win.jpg",
+  "h": 1239,
+  "image_url": "https://image.starnewskorea.com/21/2023/07/2023071318532060454_1.jpg",
+  "page_url": "https://image.starnewskorea.com/21/2023/07/2023071318532060454_1.jpg",
+  "w": 745
+ },
  "tv-2023-07-14-music-bank-get-up-comeback-stage": {
   "fetched": "2026-10-15",
   "file": "tv-2023-07-14-music-bank-get-up-comeback-stage.jpg",
@@ -10007,6 +10103,14 @@
   "page_url": "https://i.ytimg.com/vi/nTUX-kRP17Q/maxresdefault.jpg",
   "w": 1280
  },
+ "tv-2023-08-10-mcountdown-eta-win": {
+  "fetched": "2026-10-23",
+  "file": "tv-2023-08-10-mcountdown-eta-win.jpg",
+  "h": 433,
+  "image_url": "https://image.xportsnews.com/contents/images/upload/article/2023/0810/1691663593151084.png",
+  "page_url": "https://image.xportsnews.com/contents/images/upload/article/2023/0810/1691663593151084.png",
+  "w": 887
+ },
  "tv-2023-08-11-kbs-kpop-super-live-jamboree": {
   "fetched": "2026-10-17",
   "file": "tv-2023-08-11-kbs-kpop-super-live-jamboree.jpg",
@@ -10023,6 +10127,14 @@
   "page_url": "https://i.ytimg.com/vi/d0_q9F8l9Hc/maxresdefault.jpg",
   "w": 1280
  },
+ "tv-2023-08-20-inkigayo-super-shy-win-2": {
+  "fetched": "2026-10-23",
+  "file": "tv-2023-08-20-inkigayo-super-shy-win-2.jpg",
+  "h": 668,
+  "image_url": "https://www.stoo.com/upimages/gisaimg/202308/20_887491_85508.jpg",
+  "page_url": "https://www.stoo.com/upimages/gisaimg/202308/20_887491_85508.jpg",
+  "w": 600
+ },
  "tv-2023-08-25-music-bank-asap": {
   "fetched": "2026-10-15",
   "file": "tv-2023-08-25-music-bank-asap.jpg",
@@ -10038,6 +10150,30 @@
   "image_url": "https://i.ytimg.com/vi/SGhugk1FsXo/maxresdefault.jpg",
   "page_url": "https://i.ytimg.com/vi/SGhugk1FsXo/maxresdefault.jpg",
   "w": 1280
+ },
+ "tv-2023-09-03-inkigayo-eta-win": {
+  "fetched": "2026-10-23",
+  "file": "tv-2023-09-03-inkigayo-eta-win.jpg",
+  "h": 353,
+  "image_url": "https://photo.newsen.com/news_photo/2023/09/03/202309031643595710_1.jpg",
+  "page_url": "https://photo.newsen.com/news_photo/2023/09/03/202309031643595710_1.jpg",
+  "w": 650
+ },
+ "tv-2023-09-10-inkigayo-eta-win-2": {
+  "fetched": "2026-10-23",
+  "file": "tv-2023-09-10-inkigayo-eta-win-2.jpg",
+  "h": 353,
+  "image_url": "https://photo.newsen.com/news_photo/2023/09/10/202309101453076710_1.jpg",
+  "page_url": "https://photo.newsen.com/news_photo/2023/09/10/202309101453076710_1.jpg",
+  "w": 650
+ },
+ "tv-2023-09-14-nhk-music-expo-2023": {
+  "fetched": "2026-10-23",
+  "file": "tv-2023-09-14-nhk-music-expo-2023.jpg",
+  "h": 933,
+  "image_url": "https://img-mdpr.freetls.fastly.net/article/vzXb/nm/vzXbHCewGHG_N1IDE13mzZfs1jCbm0UU7eA5nlTq9gk.jpg",
+  "page_url": "https://img-mdpr.freetls.fastly.net/article/vzXb/nm/vzXbHCewGHG_N1IDE13mzZfs1jCbm0UU7eA5nlTq9gk.jpg",
+  "w": 1400
  },
  "tv-2023-10-10-the-fact-music-awards-2023": {
   "fetched": "2026-10-15",

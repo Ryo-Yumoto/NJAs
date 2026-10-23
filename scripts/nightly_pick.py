@@ -37,7 +37,8 @@ def pick(mode, n, retry_days=30):
         cand = [r for r in rows if not r.get("verified")]
     else:
         idx = json.loads((ROOT / "media" / "auto" / "index.json").read_text())
-        cand = [r for r in rows if r["id"] not in idx and not (r.get("image") or {}).get("path") and (r.get("media") or {}).get("type") not in ("youtube", "x")]
+        bl = ROOT / "media" / "auto" / "blocked.json"; blocked = set(json.loads(bl.read_text()).get("ids", [])) if bl.exists() else set()
+        cand = [r for r in rows if r["id"] not in idx and r["id"] not in blocked and not (r.get("image") or {}).get("path") and (r.get("media") or {}).get("type") not in ("youtube", "x")]
     cand = [r for r in cand if tried.get(r["id"], "0000") < cutoff]
     # interleave categories so one night covers several kinds
     buckets = {c: sorted([r for r in cand if r["category"] == c], key=lambda r: r["date"]) for c in ROTATION}
