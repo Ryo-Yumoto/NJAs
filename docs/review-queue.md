@@ -36,4 +36,3 @@
 | 2026-10-24 | ad-2023-03-24-hanni-gucci-horsebit-1955-campaign | Gucciのプレスリリースは03-23付、韓国報道は03-24。公開時刻が取れず未確定 | 未確認 |
 | 2026-10-24 | magazine ELLE JAPON（ヘイン）/ VOGUE Korea（ミンジ） | 号の月で日付を置いているが、方針の発売日はおそらく約1か月前。誌面の日付の基準と合わせて決める | 未決 |
 | 2026-10-24 | sns-2023-07-17-cool-with-you-mv-date-announcement | 公式投稿が見つからず、報道向け発表だけの可能性。snsでなくnoticeに移すか | 未決 |
-| 2026-10-24 | data/refs/youtube_videos.json の日付 | 初回取得時の「N年前」由来の概算日付が多い（例 2022-10-13 など）。YouTube API（timeZone Asia/Seoul）で正確な日付に取り直す（照合には影響しない） | 未対応 |
