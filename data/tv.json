@@ -496,7 +496,11 @@
       "broadcaster": "MBC",
       "program": "Show! Music Core"
     },
-    "editor_note": "Points per Show! Music Core chart list (en.wikipedia); competing nominees not confirmed. / 公式YouTube動画なし: No stage; NewJeans did not appear on Music Core 220820 and MBCkpop has no winner clip"
+    "editor_note": "Points per Show! Music Core chart list (en.wikipedia); competing nominees not confirmed. / 公式YouTube動画なし: No stage; NewJeans did not appear on Music Core 220820 and MBCkpop has no winner clip",
+    "image": {
+      "url": "https://www.stoo.com/upimages/gisaimg/202208/20821059.jpg",
+      "source_url": "http://www.stoo.com/article.php?aid=82105975411"
+    }
   },
   {
     "id": "tv-2022-08-21-inkigayo-attention-win",
@@ -1272,7 +1276,11 @@
         "en": "Happyo! Kotoshi Ichiban Kiita Uta: Nenkan Music Award 2022 (Announced! The Most-Listened Songs of the Year: Annual Music Award 2022)"
       }
     },
-    "editor_note": "公式YouTube動画なし: NTV does not publish performance clips on YouTube; no official upload found"
+    "editor_note": "公式YouTube動画なし: NTV does not publish performance clips on YouTube; no official upload found",
+    "image": {
+      "url": "https://cdn.livedoor.jp/kstyle/b7a7f5da37b61b27caaa25dcdc0ae214.jpg",
+      "source_url": "https://kstyle.com/article.ksn?articleNo=2208664"
+    }
   },
   {
     "id": "tv-2023-01-03-sbs-radio-power-time",
@@ -1446,6 +1454,10 @@
     "credits": {
       "broadcaster": "MBC",
       "program": "Show! Music Core"
+    },
+    "image": {
+      "url": "https://www.stoo.com/upimages/gisaimg/202301/07847431.jpg",
+      "source_url": "http://www.stoo.com/article.php?aid=84743198652"
     }
   },
   {
@@ -1484,7 +1496,11 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Nominees and points per TV Daily report of Jan 8, 2023. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
+    "editor_note": "Nominees and points per TV Daily report of Jan 8, 2023. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "image": {
+      "url": "https://www.stoo.com/upimages/gisaimg/202301/08_847608_35784.jpg",
+      "source_url": "http://www.stoo.com/article.php?aid=84760835784"
+    }
   },
   {
     "id": "tv-2023-01-12-mcountdown-omg-win",
@@ -1522,7 +1538,11 @@
       "broadcaster": "Mnet",
       "program": "M COUNTDOWN"
     },
-    "editor_note": "Nominee and no-appearance per TV Daily; points per M Countdown chart list. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
+    "editor_note": "Nominee and no-appearance per TV Daily; points per M Countdown chart list. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "image": {
+      "url": "https://onimg.nate.com/orgImg/tv/2023/01/12/121664904.jpg",
+      "source_url": "https://news.nate.com/view/20230112n33569"
+    }
   },
   {
     "id": "tv-2023-01-13-music-bank-ditto-win",
@@ -1605,7 +1625,11 @@
       "win"
     ],
     "verified": true,
-    "editor_note": "MBC official chart post '2023년 1월 14일 음악중심 차트' (posted 2023-01-16): 1 NewJeans Ditto 7,002; 2 NCT DREAM Candy 4,706; 3 Moonbin & Sanha Madness 2,913. OSEN (2023-01-14 16:46): NewJeans did not appear; MCs to deliver trophy. No official stage clip."
+    "editor_note": "MBC official chart post '2023년 1월 14일 음악중심 차트' (posted 2023-01-16): 1 NewJeans Ditto 7,002; 2 NCT DREAM Candy 4,706; 3 Moonbin & Sanha Madness 2,913. OSEN (2023-01-14 16:46): NewJeans did not appear; MCs to deliver trophy. No official stage clip.",
+    "image": {
+      "url": "https://file.osen.co.kr/article/2023/01/14/202301141532775134_63c2599b31182.png",
+      "source_url": "https://www.osen.co.kr/article/G1112025240"
+    }
   },
   {
     "id": "tv-2023-01-15-inkigayo-omg-comeback-stage-win",

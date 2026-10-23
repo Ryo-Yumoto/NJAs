@@ -6,7 +6,8 @@
   "591440c9cb0c503e9369cba4f2af2deb",
   "2e8d95c8ad89d0d84269502ad1b5abf0",
   "dc0d579554648c1ad78eb2366953da1e",
-  "477c1da062708d2b7bef0877d0384ca7"
+  "477c1da062708d2b7bef0877d0384ca7",
+  "fed84aa56c4d6d61a4d88883d9344e44"
  ],
  "ids": [
   "ad-2022-10-28-hanni-gucci-ambassador",
@@ -25,7 +26,9 @@
   "record-2024-01-11-clio-music-awards-2024-ditto-music-video-shortlist",
   "record-2024-01-18-iheartradio-music-awards-2024-k-pop-song-of-the-year-super-shy-nomination",
   "record-2024-08-30-mtv-vma-2024-group-of-the-year-nomination",
-  "record-2024-10-08-mtv-ema-2024-best-k-pop-nomination"
+  "record-2024-10-08-mtv-ema-2024-best-k-pop-nomination",
+  "live-2022-10-27-konkuk-univ-green-zone",
+  "record-2024-08-06-mtv-vma-2024-best-k-pop-super-shy-nomination"
  ],
  "note": "hashes = md5 of saved JPEGs known to be generic (Weverse Shop artist image via X card, LINE FRIENDS SQUARE logo). ids = records whose only reachable image belongs to another record/date."
 }

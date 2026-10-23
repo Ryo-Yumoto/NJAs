@@ -1144,7 +1144,11 @@
       "account": "@NewJeans_ADOR",
       "label": "ADOR"
     },
-    "platform": "x"
+    "platform": "x",
+    "image": {
+      "url": "https://pbs.twimg.com/media/FkYsSAVakAAjpkh.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_ADOR/status/1605020452661133312"
+    }
   },
   {
     "id": "sns-2023-01-02-instagram-omg-release-day-post-1",

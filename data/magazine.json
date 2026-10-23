@@ -2213,6 +2213,10 @@
       },
       "production": "TMN, Lee Ji-hee (Leica)",
       "brand": "Gucci"
+    },
+    "image": {
+      "url": "https://www.wkorea.com/wp_data/w/2024/01/style_65a662d0de5e5-1056x1400.jpg",
+      "source_url": "https://www.wkorea.com/2024/01/16/%eb%89%b4%ec%a7%84%ec%8a%a4-%ed%95%98%eb%8b%88%ec%99%80-%ed%95%a8%ea%bb%98%ed%95%9c-vol-2-%ec%bb%a4%eb%b2%84/"
     }
   },
   {
@@ -3192,7 +3196,11 @@
       },
       "brand": "Chanel Beauty"
     },
-    "editor_note": "公式記事のキーワード欄にルージュ アリュール ヴェルヴェットが挙げられている。公開日の詳細は未確認（月精度）。 / Cut for length: photography Ahn Ju-young, makeup Lee Na-gyeom, hair Lee Hye-jin, styling Choi Yu-mi, nails Kim Su-ji (retained in credits), prop styling Lee Ye-seul."
+    "editor_note": "公式記事のキーワード欄にルージュ アリュール ヴェルヴェットが挙げられている。公開日の詳細は未確認（月精度）。 / Cut for length: photography Ahn Ju-young, makeup Lee Na-gyeom, hair Lee Hye-jin, styling Choi Yu-mi, nails Kim Su-ji (retained in credits), prop styling Lee Ye-seul.",
+    "image": {
+      "url": "https://img.marieclairekorea.com/2024/09/mck_66faafda3601d-1200x1467.jpg",
+      "source_url": "https://www.marieclairekorea.com/beauty/2024/10/chanel-newjeans-minji-cover/"
+    }
   },
   {
     "id": "magazine-2024-10-15-dazed-korea-2024-11-minji-chanel",
@@ -3280,7 +3288,11 @@
       "kiko-kostadinov"
     ],
     "verified": true,
-    "editor_note": "Magazine identified as HommeGirls from its official Instagram post DBM-NFNtPRp (account and caption read via reader), 2024-10-17 08:00 KST; namu's table left the title blank. No hommegirls.com product page for Volume 12 was found. Caption credits '@mrthakoon' (editor in chief) and story by @dianadiagram (Olivia Kan-Sperling per caption text)."
+    "editor_note": "Magazine identified as HommeGirls from its official Instagram post DBM-NFNtPRp (account and caption read via reader), 2024-10-17 08:00 KST; namu's table left the title blank. No hommegirls.com product page for Volume 12 was found. Caption credits '@mrthakoon' (editor in chief) and story by @dianadiagram (Olivia Kan-Sperling per caption text).",
+    "image": {
+      "url": "https://www.instagram.com/p/DBM-NFNtPRp/media/?size=l",
+      "source_url": "https://www.instagram.com/p/DBM-NFNtPRp/"
+    }
   },
   {
     "id": "magazine-2024-10-21-esquire-korea-danielle-celine",
@@ -3641,6 +3653,10 @@
         "en": "Choi Yumi"
       },
       "brand": "Chanel (Minji), Gucci (Hanni)"
+    },
+    "image": {
+      "url": "https://img-mdpr.freetls.fastly.net/article/Qo-l/nm/Qo-lL_XygAQ0OUssIuHQQOaBo1SmbstvAGy6SwCKdkQ.jpg",
+      "source_url": "https://mdpr.jp/news/detail/4426767"
     }
   },
   {
@@ -3956,7 +3972,11 @@
       "vogue-korea"
     ],
     "verified": true,
-    "editor_note": "Magazine identified as Vogue Korea from its official Instagram posts DEeozvBp33z (18:14 KST) and DEepjE9phg8 (18:20 KST) on 2025-01-06 (#VoguePictures; account and captions read via reader); namu's table left the title blank and says '1월호 수록'. No vogue.co.kr web article located. Distinct from magazine-2025-01-01-vogue-korea-2025-01-newjeans (hanbok pictorial)."
+    "editor_note": "Magazine identified as Vogue Korea from its official Instagram posts DEeozvBp33z (18:14 KST) and DEepjE9phg8 (18:20 KST) on 2025-01-06 (#VoguePictures; account and captions read via reader); namu's table left the title blank and says '1월호 수록'. No vogue.co.kr web article located. Distinct from magazine-2025-01-01-vogue-korea-2025-01-newjeans (hanbok pictorial).",
+    "image": {
+      "url": "https://www.instagram.com/p/DEepjE9phg8/media/?size=l",
+      "source_url": "https://www.instagram.com/p/DEepjE9phg8/"
+    }
   },
   {
     "id": "magazine-2025-02-01-elle-japon-2025-02-haerin",

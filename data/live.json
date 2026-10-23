@@ -77,7 +77,11 @@
       "video-call"
     ],
     "verified": true,
-    "editor_note": "Date/time from Weverse Shop event 517 (winner announcement: Fri. August 12, 2022, 8:00 PM KST); event 510 = original announcement. Held over KakaoTalk video call."
+    "editor_note": "Date/time from Weverse Shop event 517 (winner announcement: Fri. August 12, 2022, 8:00 PM KST); event 510 = original announcement. Held over KakaoTalk video call.",
+    "image": {
+      "url": "https://cdn-contents.weverseshop.io/public/shop/8ddc38f37652d3d863f1bad86d5280bb.png",
+      "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/events/510"
+    }
   },
   {
     "id": "live-2022-08-21-new-jeans-weverse-shop-offline-fansign",
@@ -437,7 +441,11 @@
       "university-festival"
     ],
     "verified": false,
-    "editor_note": "Performance confirmed by the official Light Jeans video \"Konkuk University Festival 2022 Behind\" (posted 2022-11-11); the date 27 Oct is from namu.wiki (festival 26-28 Oct; NewJeans listed on 10.27). No press article found."
+    "editor_note": "Performance confirmed by the official Light Jeans video \"Konkuk University Festival 2022 Behind\" (posted 2022-11-11); the date 27 Oct is from namu.wiki (festival 26-28 Oct; NewJeans listed on 10.27). No press article found.",
+    "image": {
+      "url": "https://i.ytimg.com/vi/cVXh3zrlfYE/maxresdefault.jpg",
+      "source_url": "https://www.youtube.com/watch?v=cVXh3zrlfYE"
+    }
   },
   {
     "id": "live-2022-10-28-w-korea-love-your-w-2022",
@@ -1297,7 +1305,11 @@
       "video-call"
     ],
     "verified": true,
-    "editor_note": "Date/time from Weverse Shop event 647 (raffle winner announcement: Wed. July 26, 2023, 8:00 PM KST); event 634 and Weverse notice 14125 said the date would be announced later."
+    "editor_note": "Date/time from Weverse Shop event 647 (raffle winner announcement: Wed. July 26, 2023, 8:00 PM KST); event 634 and Weverse notice 14125 said the date would be announced later.",
+    "image": {
+      "url": "https://cdn-contents.weverseshop.io/public/shop/d8efed02172b87e13019f8073deb5f4d.png",
+      "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/events/634"
+    }
   },
   {
     "id": "live-2023-07-30-get-up-yes24-video-call-fansign",
