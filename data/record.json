@@ -3986,7 +3986,7 @@
       "https://circlechart.kr/page_chart/certification.circle",
       "https://www.soompi.com/article/1606729wpp/stray-kids-and-ateez-earn-circle-quintuple-million-and-million-certifications-blackpinks-lisa-ive-gi-dle-shinee-ncts-taeyong-newjeans-and-btob-go-platinum"
     ],
-    "editor_note": "Circle's live list shows Ditto at 2P (2025-06-12); the 1P entry is superseded. NOTE: 2023-08-12 is a Saturday, whereas Circle certifications are issued on Thursdays (2023-08-10 would fit the cycle) - date is suspect but could not be verified. / 2026-10-24 nightly: Soompi (2023-08-12) says the batch of Circle certifications was awarded on 10 August (a Thursday, matching Circle's weekly issue day); 12 Aug was Soompi's publication date. Date corrected to 2023-08-10. Circle's live certification API (POST /data/api/cert/chart, S1040) now lists only Ditto 2P (2025-06-12), so the 1P date cannot be read first-hand; left unverified."
+    "editor_note": "Circle's live list shows Ditto at 2P (2025-06-12); the 1P entry is superseded. NOTE: 2023-08-12 is a Saturday, whereas Circle certifications are issued on Thursdays (2023-08-10 would fit the cycle) - date is suspect but could not be verified. / 2026-10-24 nightly: Soompi (2023-08-12) says the batch of Circle certifications was awarded on 10 August (a Thursday, matching Circle's weekly issue day); 12 Aug was Soompi's publication date. Date corrected to 2023-08-10. Circle's live certification API (POST /data/api/cert/chart, S1040) now lists only Ditto 2P (2025-06-12), so the 1P date cannot be read first-hand; left unverified. / 2026-10-24 nightly: Re-queried Circle's certification API (POST /data/api/cert/chart, serviceGbn=S1040): it returns only the current grade per song (Ditto 2P, 2025-06-12; Hype boy 3P; Attention 2P; OMG 1P 2024-01-11), so the 1P date for Ditto cannot be read first-hand. Soompi (12 Aug 2023) confirms Ditto and BTOB 'Only one for me' were certified platinum in that batch but gives the 10 Aug date only for Stray Kids; it does not say Ditto was the group's third streaming certification, so that claim also remains unconfirmed. No Korean press report found. Left unverified."
   },
   {
     "id": "record-2023-08-10-k-global-heart-dream-awards-2023",
@@ -4168,8 +4168,8 @@
       "list",
       "fashion"
     ],
-    "verified": false,
-    "editor_note": "BoF profile page returns 403 to this environment. Class of 2023 additions reported 2023-09-29 (FashionUnited, Fashionsnap); BoF published a NewJeans feature with an exclusive cover image on 2023-10-06 (Newsis 2023-10-07). Exact announcement day unconfirmed, so month precision. Ledger had year only."
+    "verified": true,
+    "editor_note": "BoF profile page returns 403 to this environment. Class of 2023 additions reported 2023-09-29 (FashionUnited, Fashionsnap); BoF published a NewJeans feature with an exclusive cover image on 2023-10-06 (Newsis 2023-10-07). Exact announcement day unconfirmed, so month precision. Ledger had year only. / 2026-10-24 nightly: BoF profile still returns 403 (Cloudflare). FashionSnap (29 Sep 2023) and FashionUnited (29 Sep 2023) both report NewJeans among the 2023 BoF 500 new entrants alongside BTS; Newsis (7 Oct 2023) confirms four Korean entries in 2023 (BTS, NewJeans, Lotte Shopping CEO Chung Jun-ho, Vogue Korea editor Shin Kwang-ho) with BTS and NewJeans the only two from entertainment. September 2023 (month precision) confirmed by three independent outlets; exact BoF publication day not read first-hand."
   },
   {
     "id": "record-2023-09-01-mtv-vma-2023-group-of-the-year-nomination",
@@ -4318,6 +4318,43 @@
       "https://www.soompi.com/article/1612296wpp/nct-dream-newjeans-exo-treasure-zerobaseone-and-gi-dle-earn-circle-triple-million-and-million-certifications"
     ],
     "editor_note": "Circle Chart album certification list (API /data/api/cert/chart): 2023-09-07 Get Up 1M, New Jeans (1st EP) 1M, Get Up (Weverse) 1P. Exact match. / 2026-10-17 review: re-fetched Circle album certification API: 1st EP `New Jeans` 1M Certify_Date 2023-09-07 (with Get Up 1M and Get Up (Weverse) 1P). en.wikipedia's '2024-09' for the New Jeans million is wrong (2024-09-12 is the Supernatural million)."
+  },
+  {
+    "id": "record-2023-09-11-tma-2023-best-music-fall-super-shy-nomination",
+    "date": "2023-09-11",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 The Fact Music Awards TMA Best Music – Fallにノミネート（「Super Shy」）",
+      "en": "2023 The Fact Music Awards – Best Music – Fall nomination ('Super Shy')"
+    },
+    "summary": {
+      "ja": "2023 The Fact Music AwardsのTMA Best Music – Fall部門で決選投票が始まり、NewJeansが候補に名を連ねた。",
+      "en": "NewJeans were among the candidates when the final vote for Best Music – Fall at the 2023 The Fact Music Awards opened."
+    },
+    "detail": {
+      "ja": "2023 The Fact Music Awardsは、TMA Best Music – Fall部門の決選投票を9月11日正午に始め、NewJeansはJung Kook、V、TOMORROW X TOGETHER、AKMU、NCT、THE BOYZ、TREASURE、ITZYらとともに候補となった。同部門はOSTを除き2023年7〜9月に音源を発表したアーティストが対象で、投票はファン投票アプリFan N Starで10月2日正午まで行われる。",
+      "en": "The 2023 The Fact Music Awards opened the final vote for TMA Best Music – Fall at noon on September 11, with NewJeans among the candidates alongside Jung Kook, V, TOMORROW X TOGETHER, AKMU, NCT, THE BOYZ, TREASURE and ITZY. The category covered artists who released music (excluding OSTs) between July and September 2023, and voting on the Fan N Star app runs until noon on October 2."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "tma"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://en.fannstar.tf.co.kr/fnnews/read/96351",
+      "https://news.tf.co.kr/read/ogmeta/2048421.htm"
+    ],
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; The Fact coverage gives the Fall vote period (Sep 11-Oct 2, 2023) but no finalist list including NewJeans was found. / 2026-10-24 nightly: Fan N Star (The Fact's own voting platform; en.fannstar.tf.co.kr, 11 Sep 2023 15:00) announced the TMA Best Music – Fall final vote from 11 Sep noon to 2 Oct noon and listed NewJeans among the nominees. Per data-policy (nominations dated to the announcement when identifiable) the date was moved from the 10 Oct ceremony to 2023-09-11, date_type announce (id needs renaming), and the ceremony details were removed from the text as later than the new date. The category was artist-based; the 'Super Shy' attribution in the title comes from en.wikipedia only."
   },
   {
     "id": "record-2023-09-29-debut-ep-spotify-1-billion",
@@ -4576,42 +4613,6 @@
     "editor_note": "The Fact (organizer) article states Listener's Choice is awarded among Artist of the Year honorees, and its 2024 interview (news.tf.co.kr/read/ogmeta/2147936.htm) says NewJeans took two awards in 2023; consistent with Artist of the Year (Bonsang) + Listener's Choice on 2023-10-10."
   },
   {
-    "id": "record-2023-10-10-tma-2023-best-music-fall-super-shy-nomination",
-    "date": "2023-10-10",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "2023 The Fact Music Awards TMA Best Music – Fallにノミネート（「Super Shy」）",
-      "en": "2023 The Fact Music Awards – Best Music – Fall nomination ('Super Shy')"
-    },
-    "summary": {
-      "ja": "2023 The Fact Music AwardsのTMA Best Music – Fall部門で「Super Shy」が候補となった。",
-      "en": "'Super Shy' by NewJeans was among the nominees for Best Music – Fall at the 2023 The Fact Music Awards."
-    },
-    "detail": {
-      "ja": "2023 The Fact Music Awards（2023年10月10日、仁川・南洞体育館）で、NewJeansはTMA Best Music – Fall部門の候補となった（対象：「Super Shy」）。同部門はファン投票（2023年9月11日〜10月2日）で選ばれた。",
-      "en": "NewJeans were nominated for Best Music – Fall at the 2023 The Fact Music Awards (held October 10, 2023 at Namdong Gymnasium, Incheon), for 'Super Shy'. The category was decided by a fan vote held September 11 to October 2, 2023."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "nomination",
-      "tma"
-    ],
-    "verified": false,
-    "reference_urls": [
-      "https://news.tf.co.kr/read/ogmeta/2048421.htm"
-    ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; The Fact coverage gives the Fall vote period (Sep 11-Oct 2, 2023) but no finalist list including NewJeans was found."
-  },
-  {
     "id": "record-2023-10-10-tma-2023-best-music-spring-omg-nomination",
     "date": "2023-10-10",
     "date_type": "event",
@@ -4645,7 +4646,7 @@
     "reference_urls": [
       "https://newsseoul.co.kr/news/view/1065572407937378"
     ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Newsseoul (minor outlet) reports that NewJeans were among the top 20 finalists from the Spring pre-vote (Apr 3-17, 2023) and that the final vote ran Apr 17-May 1, 2023; not confirmed by The Fact or major press, so dated to the ceremony. Work 'OMG' per ledger/Wikipedia."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Newsseoul (minor outlet) reports that NewJeans were among the top 20 finalists from the Spring pre-vote (Apr 3-17, 2023) and that the final vote ran Apr 17-May 1, 2023; not confirmed by The Fact or major press, so dated to the ceremony. Work 'OMG' per ledger/Wikipedia. / 2026-10-24 nightly: Newsseoul (18 Apr 2023 09:15) lists NewJeans 6th among the top-20 Spring pre-vote finalists, with the final vote from 17 Apr noon to 1 May noon. No Fan N Star / The Fact page for the 2023 Spring round was found (search returned only 2024-2026 rounds). Per policy the nomination date would be 2023-04-17, but this rests on a minor outlet only, so the date was not changed. The Fact's own 10 Oct 2023 coverage does not list Spring nominees. Left unverified."
   },
   {
     "id": "record-2023-10-10-tma-2023-idolplus-popularity-award-nomination",
@@ -4678,7 +4679,7 @@
       "tma"
     ],
     "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; candidate list not found."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; candidate list not found. / 2026-10-24 nightly: The Fact's own report (news.tf.co.kr 2048400, 10 Oct 2023) confirms the Idolplus Popularity Award was decided 100% by vote and went to BTS's Jimin, but gives no nominee list; NewJeans appear only as attendees. No Fan N Star / Idolplus candidate list found. Left unverified."
   },
   {
     "id": "record-2023-10-10-tma-2023-listeners-choice",
@@ -4991,8 +4992,8 @@
       "en": "NewJeans won the Best Buzz Award at the 2023 MTV Video Music Awards Japan."
     },
     "detail": {
-      "ja": "2023 MTV Video Music Awards JapanでBest Buzz Awardを受賞した。2023年10月28日発表の受賞者で、Stray Kids、ASTROのチャ・ウヌ、THE BOYZ（Best Asia Group）も受賞した。",
-      "en": "NewJeans took the Best Buzz Award among the 2023 MTV Video Music Awards Japan winners announced October 28, 2023. Stray Kids, ASTRO's Cha Eun Woo and THE BOYZ (Best Asia Group) also won."
+      "ja": "2023 MTV Video Music Awards JapanでBest Buzz Awardを受賞した。2023年10月27日に発表された受賞者で、Stray Kids、ASTROのチャ・ウヌ、THE BOYZ（Best Asia Group）も受賞した。授賞式は11月22日にKアリーナ横浜で開かれる。",
+      "en": "NewJeans took the Best Buzz Award among the 2023 MTV Video Music Awards Japan winners announced October 27, 2023. Stray Kids, ASTRO's Cha Eun Woo and THE BOYZ (Best Asia Group) also won. The ceremony is set for November 22 at K-Arena Yokohama."
     },
     "source_url": "https://www.soompi.com/article/1622681wpp/stray-kids-astros-cha-eun-woo-newjeans-and-the-boyz-win-at-2023-mtv-video-music-awards-japan",
     "media": {
@@ -5002,8 +5003,8 @@
       "award",
       "japan"
     ],
-    "verified": false,
-    "editor_note": "mtvjapan.com keeps no VMAJ 2023 winners page (event site now only covers 2026); only Oricon/RealSound/Bandwagon reports of the Oct 27, 2023 announcement (winners announced Oct 27; the record's Oct 28 is the ceremony date). Not contradicted. / 2026-10-17 review: Real Sound (2023-10-27 18:03) reports the VMAJ 2023 award winners (incl. Best Buzz Award: NewJeans) announced that day; the ceremony was 2023-11-22 (Video of the Year announced there). The previous note calling Oct 28 the ceremony date was wrong; Oct 28 is only the Soompi report date. Id should become record-2023-10-27-mtv-vmaj-2023-best-buzz and the detail's '10月28日発表'/'announced October 28' changed to 27.",
+    "verified": true,
+    "editor_note": "mtvjapan.com keeps no VMAJ 2023 winners page (event site now only covers 2026); only Oricon/RealSound/Bandwagon reports of the Oct 27, 2023 announcement (winners announced Oct 27; the record's Oct 28 is the ceremony date). Not contradicted. / 2026-10-17 review: Real Sound (2023-10-27 18:03) reports the VMAJ 2023 award winners (incl. Best Buzz Award: NewJeans) announced that day; the ceremony was 2023-11-22 (Video of the Year announced there). The previous note calling Oct 28 the ceremony date was wrong; Oct 28 is only the Soompi report date. Id should become record-2023-10-27-mtv-vmaj-2023-best-buzz and the detail's '10月28日発表'/'announced October 28' changed to 27. / 2026-10-24 nightly: Real Sound (27 Oct 2023 18:03 JST) confirms the winners were announced that day, with NewJeans receiving the Best Buzz Award (special award), Stray Kids, Cha Eun Woo (Global Icon Award) and THE BOYZ (Best Asia Group) also named, and the ceremony scheduled for 22 Nov 2023 at K-Arena Yokohama. Detail corrected from 'announced 28 October' to 27 October (28 Oct was Soompi's report date).",
     "reference_urls": [
       "https://realsound.jp/2023/10/post-1473015.html",
       "https://www.bandwagon.asia/articles/here-are-the-winners-of-the-2023-mtv-vmas-japan-be-first-yoasobi-idol-bright-vachirawit-aiko-list-"
@@ -5118,7 +5119,7 @@
       "https://sports.khan.co.kr/article/202312180856003",
       "https://en.wikipedia.org/wiki/33rd_Seoul_Music_Awards"
     ],
-    "editor_note": "Announcement date (Nov 5, 2023, voting start) confirmed by Sports Kyunghyang (2023-12-18: 1st round from 'last month 5th'); NewJeans' inclusion only per Wikipedia (33rd SMA, Bonsang list) - no official/major-press nominee list fetched."
+    "editor_note": "Announcement date (Nov 5, 2023, voting start) confirmed by Sports Kyunghyang (2023-12-18: 1st round from 'last month 5th'); NewJeans' inclusion only per Wikipedia (33rd SMA, Bonsang list) - no official/major-press nominee list fetched. / 2026-10-24 nightly: Searched for the 33rd SMA nominee announcement (Sports Seoul / organiser); seoulmusicawards.com does not resolve and no press article listing NewJeans among the Hallyu Special Award nominees was found. Sports Kyunghyang (18 Dec 2023) confirms the voting schedule only. Left unverified."
   },
   {
     "id": "record-2023-11-05-sma-33-popularity-award-nomination",
@@ -5155,7 +5156,7 @@
       "https://sports.khan.co.kr/article/202312180856003",
       "https://en.wikipedia.org/wiki/33rd_Seoul_Music_Awards"
     ],
-    "editor_note": "Announcement date (Nov 5, 2023) confirmed by Sports Kyunghyang; NewJeans' inclusion only per Wikipedia."
+    "editor_note": "Announcement date (Nov 5, 2023) confirmed by Sports Kyunghyang; NewJeans' inclusion only per Wikipedia. / 2026-10-24 nightly: Same searches as the Hallyu Special Award record; no organiser page or press nominee list naming NewJeans for the Popularity Award was found. Sports Kyunghyang (18 Dec 2023) confirms only the voting rounds and that Kim Ho-joong led the vote. Left unverified."
   },
   {
     "id": "record-2023-11-07-spotify-3-billion-streams",

@@ -4067,8 +4067,8 @@
       "behind",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) on the official NewJeans channel gives 'Feb 7, 2023' for iF777W0uIeQ, title '[Light Jeans] MUSINSA Photoshoot BehindㅣNewJeans'. Date and title confirmed."
   },
   {
     "id": "content-2023-02-09-jeans-zine-valentines-day-for-bunnies-ep-2-dear",
@@ -4083,7 +4083,8 @@
     ],
     "title": {
       "ja": "Valentine’s Day for Bunnies! EP.2 Dear. Bunnies",
-      "en": "Valentine’s Day for Bunnies! EP.2 Dear. 버니즈"
+      "en": "Valentine’s Day for Bunnies! EP.2 Dear. Bunnies",
+      "original": "[Jeans' ZINE] Valentine’s Day for Bunnies! EP.2 Dear. 버니즈💌🍫 | NewJeans"
     },
     "summary": {
       "ja": "「Dear. Bunnies」と題し、バレンタインにBunniesへ向けて贈るJeans' ZINE企画の第2回。",
@@ -4113,8 +4114,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 'Feb 9, 2023' for OTkvNyYHtCA on the official NewJeans channel; official title '[Jeans' ZINE] Valentine’s Day for Bunnies! EP.2 Dear. 버니즈💌🍫 | NewJeans'. Date confirmed; title.en rendered in English and the official title added as title.original."
   },
   {
     "id": "content-2023-02-14-light-jeans-ditto-omg-music-show-behind",
@@ -4160,8 +4161,8 @@
       "behind",
       "music-show"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 'Feb 14, 2023' for YBJk2dUzLiY on the official NewJeans channel, title '[Light Jeans] 'Ditto' & 'OMG' Music Show Behind | NewJeans'. Confirmed."
   },
   {
     "id": "content-2023-02-16-jeans-zine-game-day-ep-1-007",
@@ -4176,7 +4177,8 @@
     ],
     "title": {
       "ja": "Game Day EP.1 007パン、テレステーション",
-      "en": "Game Day EP.1 007빵, 텔레스테이션"
+      "en": "Game Day EP.1 007 Bang, Telestrations",
+      "original": "[Jeans' ZINE] Game Day EP.1 007빵, 텔레스테이션 🕹 | NewJeans"
     },
     "summary": {
       "ja": "メンバーが007パンとテレステーションで遊ぶJeans' ZINE「Game Day」の第1回。",
@@ -4206,8 +4208,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 'Feb 16, 2023' for yh9UdeSPTdQ on the official NewJeans channel; official title '[Jeans' ZINE] Game Day EP.1 007빵, 텔레스테이션 🕹 | NewJeans'. Date confirmed; title.en translated, official title added as original."
   },
   {
     "id": "content-2023-02-21-light-jeans-spur-photoshoot-behind",
@@ -4253,8 +4255,8 @@
       "behind",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 'Feb 21, 2023' for 5kCafaXvvQk on the official NewJeans channel, title '[Light Jeans] SPUR Photoshoot Behind | NewJeans'. Confirmed."
   },
   {
     "id": "content-2023-02-23-jeans-zine-game-day-ep-2-369",
@@ -4345,8 +4347,8 @@
       "light-jeans",
       "behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 'Feb 24, 2023' for tRtf6WlpS6E on the official NewJeans channel, title '[Light Jeans] SKT Photoshoot Behind | NewJeans'. Date and title confirmed; the description does not itself say the shoot was an advertisement (SK telecom was the group's sponsor brand at the time)."
   },
   {
     "id": "content-2023-02-28-light-jeans-nme-photoshoot-behind",
@@ -4407,7 +4409,8 @@
     ],
     "title": {
       "ja": "NewTube EP.1 チャンネルオープン",
-      "en": "NewTube EP.1 채널 오픈"
+      "en": "NewTube EP.1 Channel Open",
+      "original": "[Jeans' ZINE] NewTube EP.1 채널 오픈🎬 | NewJeans"
     },
     "summary": {
       "ja": "「チャンネルオープン」と題し、メンバーがチャンネル開設に挑むJeans' ZINE「NewTube」の第1回。",
@@ -4437,8 +4440,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 'Mar 2, 2023' for ZLhIr5ko3jI on the official NewJeans channel; official title '[Jeans' ZINE] NewTube EP.1 채널 오픈🎬 | NewJeans'. Date confirmed; title.en translated, official title added as original."
   },
   {
     "id": "content-2023-03-09-jeans-zine-newtube-ep-2",
@@ -4453,7 +4456,8 @@
     ],
     "title": {
       "ja": "NewTube EP.2 最高のコンテンツ",
-      "en": "NewTube EP.2 최고의 콘텐츠"
+      "en": "NewTube EP.2 The Best Content",
+      "original": "[Jeans' ZINE] NewTube EP.2 최고의 콘텐츠🖍🎨🔮🍰🥊 | NewJeans"
     },
     "summary": {
       "ja": "「最高のコンテンツ」と題し、メンバーがコンテンツ作りに挑むJeans' ZINE「NewTube」の第2回。",
@@ -4483,8 +4487,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 'Mar 9, 2023' for 8DdQEpSuTC8 on the official NewJeans channel; official title '[Jeans' ZINE] NewTube EP.2 최고의 콘텐츠🖍🎨🔮🍰🥊 | NewJeans'. Date confirmed; title.en translated, official title added as original."
   },
   {
     "id": "content-2023-03-10-light-jeans-oioi-23ss-photoshoot-behind",
@@ -4545,7 +4549,8 @@
     ],
     "title": {
       "ja": "ランダム指名ダンス OMG+Ditto+Hype Boy",
-      "en": "랜덤 지목 댄스 OMG+Ditto+Hype Boy"
+      "en": "Random-Pick Dance OMG+Ditto+Hype Boy",
+      "original": "[Jeans' ZINE+] 랜덤 지목 댄스 👉🕺 OMG+Ditto+Hype Boy | NewJeans"
     },
     "summary": {
       "ja": "「OMG」「Ditto」「Hype Boy」をつないだランダム指名ダンスに挑むJeans' ZINEの一編。",
@@ -4575,8 +4580,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) gives 'Mar 16, 2023' for nh0xMF3wxG0 on the official NewJeans channel; official title '[Jeans' ZINE+] 랜덤 지목 댄스 👉🕺 OMG+Ditto+Hype Boy | NewJeans' (a Jeans' ZINE+ episode). Date confirmed; title.en translated, official title added as original."
   },
   {
     "id": "content-2023-03-16-jeans-zine-omg-ditto-hype-boy-full-ver",

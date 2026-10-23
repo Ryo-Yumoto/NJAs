@@ -4735,8 +4735,8 @@
       "anniversary",
       "NewJeansDay"
     ],
-    "verified": false,
-    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1815352677754359837 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / oh i forgot… /  / 🔗https://vt.tiktok.com/ZSYWEokbw/ /  / #NewJeans #뉴진스 / #NewJeansDay #NewJeans_2nd_Anniversary. Time is that of the X cross-post; the TikTok upload may be slightly earlier. / Short link redirects to the TikTok home page from this network, so the full URL was found in the official account's TikTok playlist data (Right Now playlist, api/mix/item_list via headless Chromium) and verified 2026-10-16 via TikTok oEmbed: author newjeans_official, caption \"oh i forgot... #NewJeans #뉴진스 #NewJeansDay #NewJeans_2nd_Anniversary\" (matches the X cross-post); TikTok createTime 2024-07-22 20:35 KST.",
+    "verified": true,
+    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1815352677754359837 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / oh i forgot… /  / 🔗https://vt.tiktok.com/ZSYWEokbw/ /  / #NewJeans #뉴진스 / #NewJeansDay #NewJeans_2nd_Anniversary. Time is that of the X cross-post; the TikTok upload may be slightly earlier. / Short link redirects to the TikTok home page from this network, so the full URL was found in the official account's TikTok playlist data (Right Now playlist, api/mix/item_list via headless Chromium) and verified 2026-10-16 via TikTok oEmbed: author newjeans_official, caption \"oh i forgot... #NewJeans #뉴진스 #NewJeansDay #NewJeans_2nd_Anniversary\" (matches the X cross-post); TikTok createTime 2024-07-22 20:35 KST. / 2026-10-24 nightly: fxtwitter confirms @NewJeans_ADOR status 1815352677754359837 (22 Jul 2024 11:46 UTC = 20:46 KST) '[VIDEO📹] oh i forgot…' linking the TikTok; TikTok oEmbed resolves video 7394422408586726657, whose id-encoded creation time is 22 Jul 2024 11:35 UTC = 20:35 KST. Together with the earlier oEmbed author check (newjeans_official) date and authorship are confirmed.",
     "links": {
       "tiktok": "https://www.tiktok.com/@newjeans_official/video/7394422408586726657"
     }
@@ -4971,24 +4971,24 @@
     "entity": "newjeans",
     "platform": "phoning",
     "members": [
-      "minji",
-      "hanni"
+      "all"
     ],
     "title": {
       "ja": "専属契約解除会見後、メンバーがPhoningで別れのメッセージ",
       "en": "Members send parting messages on Phoning after the contract-termination press conference"
     },
     "summary": {
-      "ja": "11月28日夜の緊急記者会見で専属契約解除を宣言した後、ミンジとハニを中心にメンバーがPhoningで別れのメッセージを送った。",
-      "en": "After declaring their contracts terminated at a late-night press conference, members, notably Minji and Hanni, sent parting messages on Phoning."
+      "ja": "11月28日夜の緊急記者会見で専属契約解除を宣言した直後、メンバー5人がPhoningでBunniesへメッセージを送り、ミンジとハニはプロフィールも変えた。",
+      "en": "Right after declaring their contracts terminated at an emergency press conference on the evening of November 28, all five members messaged Bunnies on Phoning, and Minji and Hanni changed their profiles."
     },
     "detail": {
-      "ja": "11月28日20時30分の緊急記者会見でADORとの専属契約解除を宣言した後、メンバーがADOR運営のファンアプリPhoningでBunniesへ送った別れのメッセージ。ミンジはプロフィール画像を「みんな、さようなら」と空へ昇るアニメのミームに変え、「Phoningでこれ以上会えなくても…！方法を見つけてすぐ戻ってくる」と送り、ハニはプロフィールのメッセージを「see you on the other side」に変更した。",
-      "en": "Parting messages sent to Bunnies on the ADOR-run fan app Phoning after the members declared the termination of their exclusive contracts with ADOR at an emergency press conference at 20:30 on November 28. Minji changed her profile picture to an anime 'Goodbye, everyone' meme and wrote 'Even if we can't meet more in Phoning...! I'll find a way and come back soon', while Hanni changed her profile message to 'see you on the other side'."
+      "ja": "11月28日夜の緊急記者会見でADORとの専属契約解除を宣言した直後、メンバーがADOR運営のファンアプリPhoningでBunniesへメッセージを送った。ヘインは「本当にありがとう」、ミンジは「心配しないで、今日も暖かくしてよく寝てね」、ハニは「We love you」と書き、ダニエルとヘリンも感謝の言葉を送った。ミンジとハニはプロフィール画像をアニメ『犬夜叉』の場面を使った、いわゆる「退社画像」に変え、ハニはプロフィールのメッセージを「see you on the other side」に変更した。",
+      "en": "Right after declaring the termination of their exclusive contracts with ADOR at an emergency press conference on the evening of November 28, the members sent messages to Bunnies on the ADOR-run fan app Phoning. Hyein wrote 'Thank you so much', Minji 'Don't worry, stay warm today and sleep well', and Hanni 'We love you', while Danielle and Haerin also thanked Bunnies. Minji and Hanni changed their profile pictures to a scene from the anime Inuyasha used as a 'leaving the company' meme, and Hanni changed her profile message to 'see you on the other side'."
     },
     "source_url": "https://www.tenasia.com/amp/2024112942624",
     "reference_urls": [
-      "https://sportskeeda.com/us/k-pop/personal-instagram-incoming-fans-speculate-newjeans-phoning-account-shut-following-group-s-contract-termination-ador"
+      "https://sportskeeda.com/us/k-pop/personal-instagram-incoming-fans-speculate-newjeans-phoning-account-shut-following-group-s-contract-termination-ador",
+      "https://isplus.com/article/view/isp202411290012"
     ],
     "media": {
       "type": "none"
@@ -4997,12 +4997,12 @@
       "Phoning",
       "contract-termination"
     ],
-    "verified": false,
+    "verified": true,
     "credits": {
       "account": "Phoning (members)",
       "label": "ADOR"
     },
-    "editor_note": "Messages sent late on Nov 28 KST after the 20:30 press conference; some outlets date the conference Nov 29 (time-zone). Phoning not fetchable; quotes are English translations from Tenasia/Sportskeeda. / Messages sent late on Nov 28 KST after the 20:30 press conference; some outlets date the conference Nov 29 (time zone). Phoning not fetchable; quotes are translations via Tenasia/Sportskeeda English reports."
+    "editor_note": "Messages sent late on Nov 28 KST after the 20:30 press conference; some outlets date the conference Nov 29 (time-zone). Phoning not fetchable; quotes are English translations from Tenasia/Sportskeeda. / Messages sent late on Nov 28 KST after the 20:30 press conference; some outlets date the conference Nov 29 (time zone). Phoning not fetchable; quotes are translations via Tenasia/Sportskeeda English reports. / 2026-10-24 nightly: Ilgan Sports (29 Nov 2024 08:42) reports that right after the 28 Nov press conference all five posted on Phoning (Hyein '너무 고마워', Minji '걱정 말고 오늘도 따뜻하게 하고 잘 자요', Hanni 'We love you', Danielle and Haerin thanks), that Minji and Hanni switched profile pictures to the Inuyasha 'leaving work' meme, and that Hanni changed her status to 'see you on the other side'. Detail rewritten to these Korean-press quotes (the earlier Minji quote came only from an English fan-news translation), the unconfirmed 20:30 time removed, and members changed from minji/hanni to all since all five posted. Tenasia link no longer resolves (DNS)."
   },
   {
     "id": "sns-2024-12-14-jeanzforfree-instagram-first-post",
@@ -5041,8 +5041,8 @@
       "@jeanzforfree",
       "members-account"
     ],
-    "verified": false,
-    "editor_note": "Members' self-run account, not ADOR-managed; included because it became the members' primary channel after the 2024-11-28 press conference. Post shortcode not located. / Details and follower count from Korea JoongAng Daily (2024-12-14). Members' self-run account, not ADOR-managed; included because it became the members' primary channel after the 2024-11-28 press conference. Post shortcode not located. / First feed post shortcode DDjGCTWSlrE located via the Instagram embeds in Soompi and GMA Network (media-ID timestamp 2024-12-14 15:15 KST), but as of 2026-10-16 instagram.com/p/DDjGCTWSlrE/ serves no post data (same response as a nonexistent shortcode; embed page empty), consistent with the April 2025 wipe of the account (renamed jeanzforfree -> njz_official -> mhdhh_friends, all posts deleted, per Malay Mail 2025-04-05). Not set as links.instagram because the embed would be broken."
+    "verified": true,
+    "editor_note": "Members' self-run account, not ADOR-managed; included because it became the members' primary channel after the 2024-11-28 press conference. Post shortcode not located. / Details and follower count from Korea JoongAng Daily (2024-12-14). Members' self-run account, not ADOR-managed; included because it became the members' primary channel after the 2024-11-28 press conference. Post shortcode not located. / First feed post shortcode DDjGCTWSlrE located via the Instagram embeds in Soompi and GMA Network (media-ID timestamp 2024-12-14 15:15 KST), but as of 2026-10-16 instagram.com/p/DDjGCTWSlrE/ serves no post data (same response as a nonexistent shortcode; embed page empty), consistent with the April 2025 wipe of the account (renamed jeanzforfree -> njz_official -> mhdhh_friends, all posts deleted, per Malay Mail 2025-04-05). Not set as links.instagram because the embed would be broken. / 2026-10-24 nightly: Korea JoongAng Daily (14 Dec 2024 16:38 KST) confirms the members set up @jeanzforfree separate from the ADOR-managed account, with a first post offering 110 gimbap rolls, 250 drinks and 200 bowls of soup with rice already paid for near the National Assembly, available to anyone with a K-pop light stick, and over 274,000 followers as of 4 pm that day. The account and its posts were later deleted, so the first-party page is gone; confirmed via JoongAng."
   },
   {
     "id": "sns-2025-02-01-njz-official-x-account-opened",
@@ -5073,7 +5073,7 @@
       "account"
     ],
     "verified": false,
-    "editor_note": "Exact opening date not confirmed (month precision). Rebrand to NJZ announced on Instagram 2025-02-07. After the 2025-03-21 injunction the account later went dormant/renamed. | Removed 'in February 2025' retrospective framing from the summary. | fxtwitter returns 'User not found' for @NJZ_official as of 2026-10-14 (account renamed/removed). Soapcentral page blocked (Cloudflare); date 02-27 from WebSearch summary of fan-news coverage, unverified against the platform. | exact opening date unconfirmed; month precision / No Instagram post applies: the record is about the @NJZ_official X account opening (platform field says instagram but the subject is X); the members' Instagram (@njz_official, later @mhdhh_friends) had all posts deleted in April 2025 (Malay Mail 2025-04-05), so no NJZ-era Instagram post can be embedded. / platform corrected to x (record is about the @NJZ_official X account) / 2026-10-24 nightly (review queue): fxtwitter profile API: @NJZ_official joined Mon 2025-02-03 13:55:04 UTC; the account id 1886412972349947904 decodes to 2025-02-03 22:54 KST. The earliest status still visible is 2025-03-03 20:00 KST. Date not changed: 02-03 is the account's creation, four days before the NJZ name was revealed (02-07), so a record dated 02-03 would name NJZ before the reveal and its detail (02-07, 02-27) would become future events. Needs a decision: date to creation (rewrite reader text) or to the public announcement once confirmed.",
+    "editor_note": "Exact opening date not confirmed (month precision). Rebrand to NJZ announced on Instagram 2025-02-07. After the 2025-03-21 injunction the account later went dormant/renamed. | Removed 'in February 2025' retrospective framing from the summary. | fxtwitter returns 'User not found' for @NJZ_official as of 2026-10-14 (account renamed/removed). Soapcentral page blocked (Cloudflare); date 02-27 from WebSearch summary of fan-news coverage, unverified against the platform. | exact opening date unconfirmed; month precision / No Instagram post applies: the record is about the @NJZ_official X account opening (platform field says instagram but the subject is X); the members' Instagram (@njz_official, later @mhdhh_friends) had all posts deleted in April 2025 (Malay Mail 2025-04-05), so no NJZ-era Instagram post can be embedded. / platform corrected to x (record is about the @NJZ_official X account) / 2026-10-24 nightly (review queue): fxtwitter profile API: @NJZ_official joined Mon 2025-02-03 13:55:04 UTC; the account id 1886412972349947904 decodes to 2025-02-03 22:54 KST. The earliest status still visible is 2025-03-03 20:00 KST. Date not changed: 02-03 is the account's creation, four days before the NJZ name was revealed (02-07), so a record dated 02-03 would name NJZ before the reveal and its detail (02-07, 02-27) would become future events. Needs a decision: date to creation (rewrite reader text) or to the public announcement once confirmed. / 2026-10-24 nightly: No primary page for the public launch announcement could be found (@NJZ_official no longer resolves; the members' Instagram posts were wiped in April 2025). Korean press (Sports Kyunghyang 7 Feb 2025 etc.) covers only the 7 Feb rename of @jeanzforfree to @njz_official, not the X/YouTube/TikTok launch. Left unverified; the earlier note's open question (creation 3 Feb vs reported announcement 27 Feb) stands.",
     "detail": {
       "ja": "ADORとの専属契約をめぐる紛争の中で開設されたNJZ名義の公式アカウント。メンバーは2025年2月7日に新名称NJZとロゴを発表し、同月後半（報道では2月27日）に@NJZ_official名義のX、YouTube、TikTokアカウントの開設を各自のInstagramで告知した。各アカウントは「NJZ」の文字とうさぎの顔を共通のブランディングに用いた。ADORは、事前協議なく開設されたアカウントは専属契約違反にあたるとの立場を示した。",
       "en": "Official accounts under the NJZ name, opened amid the dispute over the members' exclusive contract with ADOR. The members announced the new name NJZ and logo on February 7, 2025 and, later that month (February 27 per reports), used their personal Instagram accounts to announce X, YouTube and TikTok accounts under @NJZ_official. The accounts shared the branding of the letters 'NJZ' with a bunny face. ADOR stated that accounts opened without prior consultation breached the exclusive contract."
@@ -5113,7 +5113,7 @@
       "teaser"
     ],
     "verified": false,
-    "editor_note": "Status URL not retrieved (Sportskeeda credits @NJZ_official on X). Posted one day after the Seoul court injunction against independent activities. | not enriched beyond Sportskeeda; status URL not found (account no longer resolvable). / Content per Sportskeeda (same day), which credits @NJZ_official on X; status URL and post text not recovered (account no longer resolvable); not enriched beyond Sportskeeda. Sportskeeda also reports fans reading the sounds as hints of new music (omitted). The earlier detail placed the court injunction on the same day; the existing editor_note and the court record give 2025-03-21, the day before the post, which reader text now follows.",
+    "editor_note": "Status URL not retrieved (Sportskeeda credits @NJZ_official on X). Posted one day after the Seoul court injunction against independent activities. | not enriched beyond Sportskeeda; status URL not found (account no longer resolvable). / Content per Sportskeeda (same day), which credits @NJZ_official on X; status URL and post text not recovered (account no longer resolvable); not enriched beyond Sportskeeda. Sportskeeda also reports fans reading the sounds as hints of new music (omitted). The earlier detail placed the court injunction on the same day; the existing editor_note and the court record give 2025-03-21, the day before the post, which reader text now follows. / 2026-10-24 nightly: Searched again for the D-1 teaser; @NJZ_official is no longer resolvable and no press beyond Sportskeeda describes the post or the bracelet. ComplexCon Hong Kong dates (21-23 Mar 2025, AsiaWorld-Expo) are confirmed by other coverage. Left unverified.",
     "detail": {
       "ja": "ComplexCon Hong Kong（AsiaWorld-Expo、3月21日から23日）での出演前日に投稿された13秒の「D-1」ティーザー映像。グループの象徴であるうさぎを模したプラチナ/シルバー調のブレスレットが映り、アーケード風の音とエンジン音が入る。前日の3月21日には、ソウル中央地方法院がADORの申し立てた仮処分を認容していた。",
       "en": "A 13-second 'D-1' teaser posted the day before the set at ComplexCon Hong Kong (AsiaWorld-Expo, March 21-23). The clip shows a platinum/silver bracelet in the group's rabbit motif, with arcade-like sounds and engine noise. The day before, March 21, the Seoul Central District Court had granted ADOR's injunction."
@@ -5140,12 +5140,12 @@
       "en": "Weverse notice: Bunnies Membership validity extended"
     },
     "summary": {
-      "ja": "活動停止中の措置として、グローバル公式ファンクラブ「Bunnies」メンバーシップの有効期間延長がWeverseで告知された。",
-      "en": "With group activities halted, an extension of the global official fanclub 'Bunnies' membership validity was announced on Weverse."
+      "ja": "グローバル公式ファンクラブ「Bunnies」メンバーシップの有効期間延長がWeverseで告知され、公式Xでも案内された。",
+      "en": "An extension of the global official fanclub 'Bunnies' membership validity was announced on Weverse and flagged on the official X account."
     },
     "detail": {
-      "ja": "グローバル公式ファンクラブ「Bunnies」メンバーシップの有効期間延長を知らせるWeverse公知。公式Xが「[案内]」の見出しで公知へのリンクを投稿した。グループの活動が停止している中での、ファンクラブ会員向けの措置。",
-      "en": "A Weverse notice announcing an extension of the validity period of the global official fanclub 'Bunnies' membership, linked from the official X account. The measure applied to fanclub members while group activities were halted."
+      "ja": "グローバル公式ファンクラブ「Bunnies」メンバーシップの有効期間延長を知らせるWeverse公知。公式Xが「[案内]」の見出しで公知へのリンクを投稿した。3月21日の仮処分決定後、グループの活動が止まっている中での告知だった。",
+      "en": "A Weverse notice announcing an extension of the validity period of the global official fanclub 'Bunnies' membership, linked from the official X account under the heading '[Notice]'. It came while group activities were at a standstill after the March 21 injunction ruling."
     },
     "source_url": "https://weverse.io/newjeansofficial/notice/25941",
     "reference_urls": [
@@ -5161,13 +5161,13 @@
       "Bunnies",
       "membership"
     ],
-    "verified": false,
+    "verified": true,
     "time": "10:00",
     "credits": {
       "account": "Weverse NewJeans official (ADOR)",
       "label": "ADOR"
     },
-    "editor_note": "Weverse notice not fetched (login-gated); existence/title/date confirmed from X post 1905062215872360903 (fxtwitter). Posted 6 days after the 2025-03-21 court injunction; entity kept newjeans as it is an ADOR notice."
+    "editor_note": "Weverse notice not fetched (login-gated); existence/title/date confirmed from X post 1905062215872360903 (fxtwitter). Posted 6 days after the 2025-03-21 court injunction; entity kept newjeans as it is an ADOR notice. / 2026-10-24 nightly: fxtwitter confirms @NewJeans_ADOR status 1905062215872360903 (27 Mar 2025 01:00 UTC = 10:00 KST): '[안내📢] NewJeans Global Official Fanclub “Bunnies” Membership 유효기간 연장 안내' linking weverse.io/newjeansofficial/notice/25941. Date and title confirmed from the official account; Weverse body remains login-gated, so the summary's causal framing ('as a measure during the activity halt') was replaced with a neutral temporal note."
   },
   {
     "id": "sns-2025-04-11-youtube-happy-danielle-day",
@@ -5235,8 +5235,8 @@
       "en": "On the 1,000th day since debut, a sunflower image and a thank-you to Bunnies were posted on the members-run Instagram @mhdhh_friends."
     },
     "detail": {
-      "ja": "デビュー1000日目に、メンバーが運用するInstagramアカウント@mhdhh_friendsへ投稿されたBunniesへのメッセージ。ひまわりの画像を添え、Bunniesと過ごした1000日は純粋な幸せだったと感謝を伝える内容で、グループの活動休止中の投稿となった。",
-      "en": "A message to Bunnies posted on the 1,000th day since debut on the members-run Instagram account @mhdhh_friends, with a sunflower image. It thanked Bunnies for 1,000 days of pure happiness, and was posted while group activities were paused."
+      "ja": "デビュー1000日目に、メンバーが運用するInstagramアカウント@mhdhh_friendsのストーリーズに投稿されたBunniesへのメッセージ。ひまわりの画像を添え、Bunniesと過ごした1000日は幸せでいっぱいだったと感謝を伝える内容で、グループの活動休止中の投稿となった。",
+      "en": "A message to Bunnies posted to the Stories of the members-run Instagram account @mhdhh_friends on the 1,000th day since debut, with a sunflower image. It thanked Bunnies for 1,000 days full of happiness, and was posted while group activities were paused."
     },
     "source_url": "https://www.instagram.com/mhdhh_friends/",
     "reference_urls": [
@@ -5253,8 +5253,8 @@
       "members-account",
       "1000days"
     ],
-    "verified": false,
-    "editor_note": "Members' self-run account (renamed from @jeanzforfree during the NJZ period). Entity kept as newjeans because the post marks NewJeans' 1,000th day; posted after the 2025-03-21 court injunction, during the activity pause. Post shortcode not located. / Post content known only through reports; shortcode not located. Members' self-run account (renamed from @jeanzforfree during the NJZ period); entity kept as newjeans because the post marks NewJeans' 1,000th day; posted after the 2025-03-21 injunction. / No feed-post URL exists: the 1,000-day sunflower message was an Instagram Story on @mhdhh_friends (Wikitree photo credit '@mhdhh_friends (Instagram Story)'; Recreio: shared 'utilizando a ferramenta stories'), so it has expired and cannot be embedded."
+    "verified": true,
+    "editor_note": "Members' self-run account (renamed from @jeanzforfree during the NJZ period). Entity kept as newjeans because the post marks NewJeans' 1,000th day; posted after the 2025-03-21 court injunction, during the activity pause. Post shortcode not located. / Post content known only through reports; shortcode not located. Members' self-run account (renamed from @jeanzforfree during the NJZ period); entity kept as newjeans because the post marks NewJeans' 1,000th day; posted after the 2025-03-21 injunction. / No feed-post URL exists: the 1,000-day sunflower message was an Instagram Story on @mhdhh_friends (Wikitree photo credit '@mhdhh_friends (Instagram Story)'; Recreio: shared 'utilizando a ferramenta stories'), so it has expired and cannot be embedded. / 2026-10-24 nightly: Wikitree (16 Apr 2025 16:01 KST, photo credited '@mhdhh_friends (Instagram Story)') quotes the message ('Bunnies! It's been 1,000 days since we met~! ... The 1,000 days with Bunnies have been full of happiness. Love you x1000'); 16 Apr 2025 is day 1,000 counting 22 Jul 2022 as day 1. Story has expired, so confirmed via press. Detail now says it was a Story."
   },
   {
     "id": "sns-2025-04-21-youtube-happy-hyein-day",
@@ -5787,7 +5787,7 @@
       "2026SummerOfNewJeans"
     ],
     "verified": false,
-    "editor_note": "Instagram page not fetchable; shortcode DbDzM-jEjM7 found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2026-07-22 00:07:28 KST. Post caption not retrieved; content described from the article context. | Danielle not included (contract terminated 2025-12-29 per reports). Official X post for the 4th anniversary not located (no status ID found). / Instagram page not fetchable; shortcode DbDzM-jEjM7 embedded in Bandwagon Asia's same-day article and others; time derived from the shortcode (= 00:07:28 KST). Caption not retrieved; content described from the article context. Danielle not included (contract terminated 2025-12-29 per reports). Official X anniversary post not located."
+    "editor_note": "Instagram page not fetchable; shortcode DbDzM-jEjM7 found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2026-07-22 00:07:28 KST. Post caption not retrieved; content described from the article context. | Danielle not included (contract terminated 2025-12-29 per reports). Official X post for the 4th anniversary not located (no status ID found). / Instagram page not fetchable; shortcode DbDzM-jEjM7 embedded in Bandwagon Asia's same-day article and others; time derived from the shortcode (= 00:07:28 KST). Caption not retrieved; content described from the article context. Danielle not included (contract terminated 2025-12-29 per reports). Official X anniversary post not located. / 2026-10-24 nightly: Bandwagon's embed maps shortcode DbDzM-jEjM7 to 'A post shared by NewJeans (@newjeans_official)' (decoded time 22 Jul 2026 00:07 KST); the films ('2026 Summer of NewJeans', NNbaTJX_9go etc.) are on the official NewJeans YouTube dated Jul 22, 2026, and JoongAng Daily (22 Jul 2026) says ADOR released the clip series that day. Authorship and date confirmed, but the post's images/caption could not be read (Instagram embed returns no post data), so the group/individual photo description remains unconfirmed. Left unverified."
   },
   {
     "id": "sns-2026-10-06-x-happy-hanni-day",

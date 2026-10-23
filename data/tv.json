@@ -2531,7 +2531,10 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://www.oricon.co.jp/news/2286614/full/",
+      "https://www.oricon.co.jp/news/2285696/full/",
+      "https://realsound.jp/2023/07/post-1373982.html"
     ],
     "media": {
       "type": "youtube",
@@ -2540,10 +2543,10 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "18時30分から21時54分までフジテレビ系で生放送された『2023 FNS歌謡祭 夏』に初出演し、21時台に「Ditto」を披露した。司会は相葉雅紀とフジテレビの永島優美アナウンサー。フジテレビの音楽番組への出演はこれが初めてだった。",
-      "en": "NewJeans made their first appearance on Fuji TV's 2023 FNS Music Festival Summer, broadcast live from 6:30 to 9:54 pm, performing 'Ditto' in the 9 pm block. Masaki Aiba and Fuji TV announcer Yumi Nagashima hosted. It was the group's first Fuji TV music program."
+      "ja": "18時30分から21時54分までフジテレビ系で生放送された『2023 FNS歌謡祭 夏』に番組初登場し、21時台に「Ditto」を特別演出で披露した。司会は相葉雅紀とフジテレビの永島優美アナウンサー。",
+      "en": "NewJeans made their first appearance on Fuji TV's 2023 FNS Music Festival Summer, broadcast live from 6:30 to 9:54 pm, performing 'Ditto' with special staging in the 9 pm block. Masaki Aiba and Fuji TV announcer Yumi Nagashima hosted."
     },
     "credits": {
       "broadcaster": "Fuji TV",
@@ -2556,7 +2559,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=ZETQ1MKypC8"
     },
-    "editor_note": "公式動画: NewJeans「NewJeans (뉴진스) 'Ditto' Stage Cam @ 2023 FNS Music Festival Summer」(2023-07-26)"
+    "editor_note": "公式動画: NewJeans「NewJeans (뉴진스) 'Ditto' Stage Cam @ 2023 FNS Music Festival Summer」(2023-07-26) / 2026-10-24 nightly: Oricon (12 Jul 2023, from the programme's official timetable) confirms the live broadcast 18:30-21:54, hosts Masaki Aiba and Yumi Nagashima, and that NewJeans, appearing on the programme for the first time, performed 'Ditto' with special staging in the 9 pm block. Official NewJeans stage cam ZETQ1MKypC8 (YouTube API: Jul 26, 2023) also confirms. Removed the unsupported claim that this was their first Fuji TV music programme."
   },
   {
     "id": "tv-2023-07-13-mcountdown-super-shy-win",
@@ -2573,11 +2576,14 @@
       "en": "M Countdown: Super Shy wins #1"
     },
     "summary": {
-      "ja": "Mnet『M COUNTDOWN』で先行公開曲「Super Shy」がSHINee「HARD」を抑え5,848点で1位、出演なしでの受賞。",
-      "en": "Pre-release single 'Super Shy' won M Countdown with 5,848 points over Shinee's 'HARD', with NewJeans absent."
+      "ja": "Mnet『M COUNTDOWN』で先行公開曲「Super Shy」がSHINee「HARD」を抑えて1位を獲得、番組には出演せず不在での受賞。",
+      "en": "Pre-release single 'Super Shy' won M Countdown over Shinee's 'HARD', with NewJeans absent from the broadcast."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.starnewskorea.com/music/2023/07/13/2023071318532060454",
+      "https://en.wikipedia.org/wiki/Super_Shy"
+    ],
     "media": {
       "type": "none"
     },
@@ -2585,16 +2591,16 @@
       "music-show",
       "win"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "Mnet『M COUNTDOWN』で、7月7日に先行公開された「Super Shy」が1位候補のSHINee「HARD」を抑え、5,848点で1位を獲得した。7月21日発売のミニアルバム『Get Up』の先行曲で、NewJeansは番組に出演せず不在での受賞となった。この回はEXOのカムバックとZEROBASEONEのデビューステージがあった。",
-      "en": "'Super Shy', pre-released on July 7 ahead of the EP Get Up (due July 21), won first place on Mnet's M Countdown with 5,848 points over Shinee's 'HARD'. NewJeans did not appear on the broadcast, which featured EXO's comeback and ZEROBASEONE's debut stage."
+      "ja": "Mnet『M COUNTDOWN』で、7月7日に先行公開された「Super Shy」が1位候補のSHINee「HARD」を抑えて1位を獲得した。7月21日発売のミニアルバム『Get Up』の先行曲で、NewJeansは番組に出演せず不在での受賞となった。この回はEXOのカムバックとZEROBASEONEのデビューステージがあった。",
+      "en": "'Super Shy', pre-released on July 7 ahead of the EP Get Up (due July 21), won first place on Mnet's M Countdown over Shinee's 'HARD'. NewJeans did not appear on the broadcast, which featured EXO's comeback and ZEROBASEONE's debut stage."
     },
     "credits": {
       "broadcaster": "Mnet",
       "program": "M COUNTDOWN"
     },
-    "editor_note": "Per Star News (Jul 13, 2023); points per chart list. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "editor_note": "Per Star News (Jul 13, 2023); points per chart list. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip / 2026-10-24 nightly: Star News (13 Jul 2023) confirms the win over SHINee 'HARD', the win without appearing, EXO's comeback ('Cream Soda') and ZEROBASEONE's debut stage. The 5,848-point total is not in Star News or any source found, so it was removed from summary and detail. en.wikipedia Super Shy lists this as the song's first music-show win.",
     "image": {
       "url": "https://image.starnewskorea.com/21/2023/07/2023071318532060454_1.jpg",
       "source_url": "https://www.starnewskorea.com/music/2023/07/13/2023071318532060454"
@@ -2624,7 +2630,8 @@
       "https://www.youtube.com/watch?v=2QSAl9BH3Y4",
       "https://www.youtube.com/watch?v=tiuMOXVhu_A",
       "https://www.youtube.com/watch?v=P14lg1Nlwa0",
-      "https://www.youtube.com/watch?v=DF3R2NNSqp4"
+      "https://www.youtube.com/watch?v=DF3R2NNSqp4",
+      "https://nocutnews.co.kr/news/5977597"
     ],
     "media": {
       "type": "youtube",
@@ -2634,7 +2641,7 @@
       "music-show",
       "comeback"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "KBS『ミュージックバンク』で『Get Up』活動の最初の音楽番組ステージを行い、先行公開曲「Super Shy」と「New Jeans」を披露した。両曲は7月7日に音源とミュージックビデオが公開されていた。",
       "en": "NewJeans gave their first music-show stage of the Get Up promotions on KBS's Music Bank, performing the pre-released tracks 'Super Shy' and 'New Jeans'. Both had been released with music videos on July 7."
@@ -2646,7 +2653,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=y42YU8JkTKw"
     },
-    "editor_note": "公式動画: KBS Kpop「Super Shy - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230714 방송」(2023-07-14); 関連5本をreference_urlsに記載"
+    "editor_note": "公式動画: KBS Kpop「Super Shy - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230714 방송」(2023-07-14); 関連5本をreference_urlsに記載 / 2026-10-24 nightly: KBS Kpop / KBS WORLD TV uploads (YouTube API, all Jul 14, 2023) show 'Super Shy' and 'New Jeans' stages tagged 'KBS 230714 방송'. Nocut News (15 Jul 2023) says the group first unveiled the pre-release stages on KBS2 Music Bank on the 14th. Confirmed."
   },
   {
     "id": "tv-2023-07-15-ongaku-no-hi-2023",
@@ -2663,12 +2670,13 @@
       "en": "TBS: Ongaku no Hi 2023"
     },
     "summary": {
-      "ja": "TBS系の夏の長時間音楽特番『音楽の日2023』に初出演し、「OMG」と宇多田ヒカル「Automatic」のカバーを披露。",
-      "en": "NewJeans' first appearance on TBS's Ongaku no Hi, performing 'OMG' and a cover of Hikaru Utada's 'Automatic'."
+      "ja": "TBS系の夏の長時間音楽特番『音楽の日2023』に初出演し、「OMG」のステージを披露。",
+      "en": "NewJeans' first appearance on TBS's summer music marathon Ongaku no Hi, performing 'OMG'."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://realsound.jp/2023/07/post-1376730.html"
     ],
     "media": {
       "type": "youtube",
@@ -2677,10 +2685,10 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "14時から21時54分までTBS系で生放送された『音楽の日2023』に出演し、「OMG」と宇多田ヒカル「Automatic」のカバーを披露した。『音楽の日』はTBSの夏の長時間音楽特番で、NewJeansの出演はこれが初めてだった。",
-      "en": "NewJeans performed 'OMG' and a cover of Hikaru Utada's 'Automatic' on TBS's Ongaku no Hi 2023, broadcast live from 2:00 to 9:54 pm. It was the group's first appearance on TBS's summer music marathon."
+      "ja": "14時から21時54分までTBS系で生放送された『音楽の日2023』に出演し、「OMG」のステージを披露した。『音楽の日』はTBSの夏の長時間音楽特番で、NewJeansの出演はこれが初めてだった。",
+      "en": "NewJeans performed 'OMG' on TBS's Ongaku no Hi 2023, broadcast live from 2:00 to 9:54 pm. It was the group's first appearance on TBS's summer music marathon."
     },
     "credits": {
       "broadcaster": "TBS",
@@ -2689,7 +2697,7 @@
         "en": "Ongaku no Hi 2023 (Day of Music)"
       }
     },
-    "editor_note": "Songs per en.wikipedia live-performance list (flagged citation needed there); broadcast time per ja.wikipedia. / 公式動画: NewJeans「NewJeans (뉴진스) ‘OMG’ Stage Cam @ ONGAKUNOHI 2023」(2023-07-31)",
+    "editor_note": "Songs per en.wikipedia live-performance list (flagged citation needed there); broadcast time per ja.wikipedia. / 公式動画: NewJeans「NewJeans (뉴진스) ‘OMG’ Stage Cam @ ONGAKUNOHI 2023」(2023-07-31) / 2026-10-24 nightly: Real Sound (Jul 2023) lists NewJeans in the line-up and gives the live broadcast as 15 Jul 14:00-21:54; the official NewJeans stage cam SN1Gb4Pqdo4 ('OMG' Stage Cam @ ONGAKUNOHI 2023, YouTube API Jul 31, 2023) confirms 'OMG'. The 'Automatic' (Hikaru Utada) cover could not be found in any timetable or report (en.wikipedia flags it citation needed) and was removed. Real Sound's article did not list per-artist songs; TBS timetable archive could not be fetched (Wayback reset).",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=SN1Gb4Pqdo4"
     }
@@ -2726,7 +2734,7 @@
       "music-show",
       "comeback"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "SBS『人気歌謡』で「Super Shy」と「New Jeans」を披露した。『Get Up』活動での『人気歌謡』初ステージ。",
       "en": "NewJeans performed 'Super Shy' and 'New Jeans' on SBS's Inkigayo. It was their first Inkigayo stage of the Get Up promotions."
@@ -2738,7 +2746,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=J9DlrnNlgfE"
     },
-    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - Super Shy @인기가요 inkigayo 20230716」(2023-07-16); 関連3本をreference_urlsに記載"
+    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - Super Shy @인기가요 inkigayo 20230716」(2023-07-16); 関連3本をreference_urlsに記載 / 2026-10-24 nightly: SBSKPOP X INKIGAYO uploads J9DlrnNlgfE, 9HOXWE4fWTs and fullcams (YouTube API, all Jul 16, 2023, tagged inkigayo 20230716) confirm 'Super Shy' and 'New Jeans' on that day's broadcast. Confirmed."
   },
   {
     "id": "tv-2023-07-21-music-bank-eta-stage",
@@ -2773,7 +2781,7 @@
     "tags": [
       "music-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "ミニアルバム『Get Up』の発売日にあわせ、KBS『ミュージックバンク』で「Super Shy」「Cool With You」「ETA」の3曲を披露した。「Cool With You」と「ETA」は同じ日に公開された楽曲で、音楽番組での初ステージとなった。",
       "en": "On the release day of the EP Get Up, NewJeans performed three tracks on KBS's Music Bank: 'Super Shy', 'Cool With You' and 'ETA'. The latter two were released the same day and received their first music-show stages."
@@ -2785,7 +2793,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=WN8IxUy4vhY"
     },
-    "editor_note": "公式動画: KBS Kpop「Super Shy - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230721 방송」(2023-07-21); 関連5本をreference_urlsに記載"
+    "editor_note": "公式動画: KBS Kpop「Super Shy - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230721 방송」(2023-07-21); 関連5本をreference_urlsに記載 / 2026-10-24 nightly: KBS Kpop / KBS WORLD TV uploads (YouTube API, all Jul 21, 2023, tagged 230721) show 'Super Shy', 'Cool With You' and 'ETA'. Get Up was released on 21 Jul 2023, and this was the first music show after release. Confirmed."
   },
   {
     "id": "tv-2023-07-22-music-core-super-shy-win",
@@ -2842,8 +2850,8 @@
       "en": "Inkigayo: Super Shy wins #1"
     },
     "summary": {
-      "ja": "SBS『人気歌謡』で「Super Shy」が6,994点で3度目の1位、ステージでは「Cool With You」「ETA」を披露。",
-      "en": "'Super Shy' took its third win on Inkigayo with 6,994 points over Jung Kook's 'Seven'; NewJeans performed 'Cool With You' and 'ETA'."
+      "ja": "SBS『人気歌謡』で「Super Shy」が音楽番組3度目の1位を獲得し、ステージでは「Cool With You」「ETA」を披露。",
+      "en": "'Super Shy' won on Inkigayo over Jung Kook's 'Seven', its third music-show win; NewJeans performed 'Cool With You' and 'ETA'."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
@@ -2851,7 +2859,8 @@
       "https://www.youtube.com/watch?v=7ZoPe5Rb7i0",
       "https://www.youtube.com/watch?v=grZQ8e5Z3dI",
       "https://www.youtube.com/watch?v=KKwi6BnWSmU",
-      "https://www.youtube.com/watch?v=crYY_Y9OczU"
+      "https://www.youtube.com/watch?v=crYY_Y9OczU",
+      "https://en.wikipedia.org/wiki/Super_Shy"
     ],
     "media": {
       "type": "youtube",
@@ -2861,16 +2870,16 @@
       "music-show",
       "win"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "SBS『人気歌謡』で「Super Shy」が1位候補のJung Kook「Seven」とパク・ジェジョン「Let's Say Goodbye」を抑え、6,994点で1位を獲得した。同曲の音楽番組1位は3回目。この回のステージでは「Cool With You」と「ETA」を披露した。",
-      "en": "'Super Shy' won first place on SBS's Inkigayo with 6,994 points over Jung Kook's 'Seven' and Parc Jae-jung's 'Let's Say Goodbye', the song's third music-show win. NewJeans performed 'Cool With You' and 'ETA' on the episode."
+      "ja": "SBS『人気歌謡』で「Super Shy」が1位候補のJung Kook「Seven」とパク・ジェジョン「Let's Say Goodbye」を抑えて1位を獲得した。同曲の音楽番組1位は3回目。この回のステージでは「Cool With You」と「ETA」を披露した。",
+      "en": "'Super Shy' won first place on SBS's Inkigayo over Jung Kook's 'Seven' and Parc Jae-jung's 'Let's Say Goodbye', the song's third music-show win. NewJeans performed 'Cool With You' and 'ETA' on the episode."
     },
     "credits": {
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Nominees per Korean press summary (Jul 23, 2023). / 公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - ETA @인기가요 inkigayo 20230723」(2023-07-23); 関連4本をreference_urlsに記載",
+    "editor_note": "Nominees per Korean press summary (Jul 23, 2023). / 公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - ETA @인기가요 inkigayo 20230723」(2023-07-23); 関連4本をreference_urlsに記載 / 2026-10-24 nightly: SBSKPOP X INKIGAYO uploads (YouTube API, Jul 23, 2023) include 'Cool With You', 'ETA' fullcam and a 'Super Shy' 1위 encore cam tagged 230723, confirming the win and stages. Korean press roundups confirm nominees Jung Kook 'Seven' and Parc Jae-jung '헤어지자 말해요'. Third win consistent with en.wikipedia (M Countdown 13 Jul, Music Core 22 Jul, Inkigayo 23 Jul). The 6,994-point total could not be found anywhere and was removed.",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=6xejzrLNGo8"
     }
@@ -2906,7 +2915,7 @@
     "tags": [
       "music-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "KBS『ミュージックバンク』で「ETA」を披露した。『Get Up』活動3週目のステージ。",
       "en": "NewJeans performed 'ETA' on KBS's Music Bank. It was a stage in the third week of Get Up promotions."
@@ -2918,7 +2927,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=ZWE6uaN241U"
     },
-    "editor_note": "公式動画: KBS Kpop「ETA - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230728 방송」(2023-07-28); 関連3本をreference_urlsに記載"
+    "editor_note": "公式動画: KBS Kpop「ETA - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230728 방송」(2023-07-28); 関連3本をreference_urlsに記載 / 2026-10-24 nightly: KBS Kpop ZWE6uaN241U ('ETA ... KBS 230728 방송') and KBS WORLD TV uploads (YouTube API, Jul 28, 2023) confirm 'ETA' and an interview on that day's Music Bank. 'Third week' counts Music Bank weeks from 14 Jul. Confirmed."
   },
   {
     "id": "tv-2023-07-30-inkigayo-eta",
@@ -2949,7 +2958,7 @@
     "tags": [
       "music-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "SBS『人気歌謡』で「ETA」を披露した。『Get Up』活動期間中の日曜のステージ。",
       "en": "NewJeans performed 'ETA' on SBS's Inkigayo. It was a Sunday stage during the Get Up promotions."
@@ -2961,7 +2970,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=_H1ilQy12uE"
     },
-    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - ETA @인기가요 inkigayo 20230730」(2023-07-30); 関連1本をreference_urlsに記載"
+    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - ETA @인기가요 inkigayo 20230730」(2023-07-30); 関連1本をreference_urlsに記載 / 2026-10-24 nightly: SBSKPOP X INKIGAYO _H1ilQy12uE and fullcam fmug4-ozV6E (YouTube API, Jul 30, 2023, tagged 20230730) confirm 'ETA' on that day's broadcast. Confirmed."
   },
   {
     "id": "tv-2023-08-03-lollapalooza-chicago-stream",

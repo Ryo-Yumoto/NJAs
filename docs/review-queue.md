@@ -37,3 +37,5 @@
 | 2026-10-24 | ad-2024-03-28-hanni-gucci-beauty-ambassador | Gucci Beautyの公式Instagramは3/28付（KST時刻未確認、二次報道で確認）、韓国でのGucci・ADORの発表は3/29 | 未決（発表日をどちらにするか） |
 | 2026-10-24 | live-2023-11-01-haerin-dior-canton-road-hong-kong | live-2023-11-21-haerin-dior-road-cruise-party-hong-kong（公式Xと香港報道で11/21を確認済み）と同一の出来事とみられる | 未決（出国時の服装情報を移して統合するか、削除するか） |
 | 2026-10-24 | ad-2024-05-14-murakami-powerpuff-right-now | コラボの公開は5/1の「Right Now」MVティザー（既存 mv-2024-05-01-right-now-mv-teaser）。5/14はHarper's Bazaar Malaysiaの記事日 | 未決（5/1に移すか、ティザーのレコードに統合して削除するか） |
+| 2026-10-24 | record-2023-10-10-tma-2023-best-music-spring-omg-nomination | 決選候補入りを伝えるのはニュースソウル（2023-04-18）のみ。決選投票は04-17正午開始。同じ授賞式の秋部門は発表日（09-11）に移した | 未決（04-17に移すか、単独ソースのため授賞式日のままにするか） |
+| 2026-10-24 | ad-2024-06-01-line-friends-collab-2024 | 内容がポップアップでの商品販売で、goods-2024-06-26 の明洞・渋谷ポップアップと重なる。「2度目のコラボ」も2023年以降の複数コラボと合わない | 未決（adとして残すか、goodsに統合・削除するか） |

@@ -3553,7 +3553,9 @@
       "en": "The second Line Friends collaboration, timed to Supernatural, sold goods designed by Takashi Murakami and Hiroshi Fujiwara at pop-ups in Korea and Japan."
     },
     "source_url": "https://en.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://zdnet.co.kr/view/?no=20240626150323"
+    ],
     "media": {
       "type": "none"
     },
@@ -3570,7 +3572,7 @@
       "brand": "Line Friends (IPX)",
       "designers": "Takashi Murakami, Hiroshi Fujiwara"
     },
-    "editor_note": "Pop-up start date not stated in the Marie Claire piece; June 2024 per en.wikipedia. | removed from reader text: [detail.ja] マリ・クレール コリアの2024年7月1日の記事によれば、韓国ではLINE FRIENDS SQUARE明洞で7月10日まで開催され、事前予約は5分足らずで完売した。 [detail.en] According to Marie Claire Korea on July 1, 2024, the Korean pop-up ran at Line Friends Square Myeongdong until July 10, with advance bookings selling out in under five minutes.",
+    "editor_note": "Pop-up start date not stated in the Marie Claire piece; June 2024 per en.wikipedia. | removed from reader text: [detail.ja] マリ・クレール コリアの2024年7月1日の記事によれば、韓国ではLINE FRIENDS SQUARE明洞で7月10日まで開催され、事前予約は5分足らずで完売した。 [detail.en] According to Marie Claire Korea on July 1, 2024, the Korean pop-up ran at Line Friends Square Myeongdong until July 10, with advance bookings selling out in under five minutes. / 2026-10-24 nightly: ZDNet Korea (26 Jun 2024) confirms IPX opened LINE FRIENDS SQUARE Shibuya on 26 Jun with a 'Supernatural POP-UP' featuring the Takashi Murakami and Hiroshi Fujiwara collaborations, with a simultaneous pop-up at LINE FRIENDS SQUARE Myeongdong through 10 July (the How Sweet pop-up had opened 5 June). This duplicates the goods records for the two 26 Jun pop-ups; 'second collaboration' is doubtful given the 2023 collab, the Nov 2023 'Hang Out' and Feb 2024 'Play with bunini' lines. Murakami's opening-day visit with Min Hee-jin not found in this source. Not changed.",
     "image": {
       "url": "https://image.zdnet.co.kr/2024/06/26/be7f12ada10f4fb656c1d5901dba4c3d.jpg",
       "source_url": "https://zdnet.co.kr/view/?no=20240626150323"
@@ -3783,8 +3785,11 @@
       "beauty",
       "campaign"
     ],
-    "verified": false,
-    "editor_note": "Wedding21 News (2024-08-22) says YSL Beauty released the campaign on the 21st with the product launch. / Source is a press report (Daum News); not confirmed against an official page."
+    "verified": true,
+    "editor_note": "Wedding21 News (2024-08-22) says YSL Beauty released the campaign on the 21st with the product launch. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: Insight (21 Aug 2024 14:53 KST, photos courtesy of YSL Beauty) reports YSL Beauty released the Ink Vinyl Tint campaign with Danielle that day; the Wedding21 brand release (22 Aug) adds that it was shot in Paris with local staff, in all-black styling, and that the product went on sale on Kakao Gift on 21 Aug and officially from 26 Aug. Confirmed.",
+    "reference_urls": [
+      "https://www.insight.co.kr/news/476944"
+    ]
   },
   {
     "id": "ad-2024-08-26-kao-essential-premium-sports-day-cm",
@@ -3826,49 +3831,12 @@
       "japan",
       "cm"
     ],
-    "verified": false,
-    "editor_note": "Real Sound (2024-08-26); Kao release not fetched. First CM: ad-2024-04-08-kao-essential-cm-japan. Related content record: content-2024-10-17-light-jeans-essential-sports-day-campaign-behind."
-  },
-  {
-    "id": "ad-2024-09-01-skt-iphone-16-pro-cm",
-    "date": "2024-09-01",
-    "date_type": "release",
-    "date_precision": "month",
-    "category": "ad",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "SKテレコム iPhone 16 Pro CM",
-      "en": "SK Telecom iPhone 16 Pro commercial"
-    },
-    "summary": {
-      "ja": "SKテレコムのiPhone 16 Pro向けCMに出演、事前予約特典にはPerplexity Proの1年利用権も用意された。",
-      "en": "NewJeans starred in SK Telecom's iPhone 16 Pro commercial, with pre-order perks including a year of Perplexity Pro."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/NewJeans_videography",
-    "reference_urls": [],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "telecom",
-      "cm"
-    ],
-    "verified": false,
-    "editor_note": "Month approximate (iPhone 16 launch). | not enriched: no primary SKT or news source for this CM located (search budget exhausted); month-precision retained. | removed from reader text: [detail.ja] CMのタイトル、監督、放映開始日は確認できていない。 [detail.en] The commercial's title, director and first air date could not be confirmed. / Month approximate (iPhone 16 launch); the English Wikipedia videography cites a 2024-09-15 article saying the spot drew attention. No primary SKT or news source located; the CM's title, director and first air date are unconfirmed.",
-    "detail": {
-      "ja": "SKテレコムのiPhone 16 Pro向けCMに出演し、韓国で放映された。SKテレコムはiPhone 16シリーズの事前予約を9月13日から19日まで行い、Perplexity Proの1年利用権などの特典を用意した。",
-      "en": "NewJeans starred in SK Telecom's commercial for the iPhone 16 Pro, aired in Korea. SK Telecom took iPhone 16 pre-orders from September 13 to 19, with perks such as a one-year Perplexity Pro subscription."
-    },
-    "credits": {
-      "advertiser": "SK Telecom"
-    },
-    "image": {
-      "url": "https://i.ytimg.com/vi/ebG2P1m6JW4/maxresdefault.jpg",
-      "source_url": "https://www.youtube.com/watch?v=ebG2P1m6JW4"
-    }
+    "verified": true,
+    "editor_note": "Real Sound (2024-08-26); Kao release not fetched. First CM: ad-2024-04-08-kao-essential-cm-japan. Related content record: content-2024-10-17-light-jeans-essential-sports-day-campaign-behind. / 2026-10-24 nightly: Kao's own press release on PR TIMES (26 Aug 2024 00:00) confirms CM title 'Essential Premium 「体育祭」篇', nationwide airing from 26 Aug 2024, NewJeans' first dance in a Japanese CM to 'Bubble Gum', and the in-store 'Essential with NewJeans プレゼントキャンペーン第２弾' (2,000 yen or more, 500 winners, six A3 posters, applications 26 Aug-7 Oct). Confirmed.",
+    "reference_urls": [
+      "https://prtimes.jp/main/html/rd/p/000000011.000096518.html",
+      "https://www.kao.co.jp/essential/topics/240826_campaign/"
+    ]
   },
   {
     "id": "ad-2024-09-02-pepero-day-2024-show-your-love-campaign",
@@ -3918,6 +3886,49 @@
       "https://biz.newdaily.co.kr/site/data/html/2024/09/11/2024091100056.amp.html",
       "https://biz.newdaily.co.kr/site/data/html/2024/09/27/2024092700068.amp.html"
     ]
+  },
+  {
+    "id": "ad-2024-09-13-skt-iphone-16-pro-cm",
+    "date": "2024-09-13",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "SKテレコム iPhone 16 Pro CM「Capture Your Vibe」",
+      "en": "SK Telecom iPhone 16 Pro commercial 'Capture Your Vibe'"
+    },
+    "summary": {
+      "ja": "SKテレコムがNewJeans出演のiPhone 16 Pro向けCM「Capture Your Vibe」を公開し、自社での事前予約を呼びかけた。",
+      "en": "SK Telecom released its iPhone 16 Pro commercial 'Capture Your Vibe' starring NewJeans, promoting pre-orders through the carrier."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/NewJeans_videography",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=ebG2P1m6JW4"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "telecom",
+      "cm"
+    ],
+    "verified": true,
+    "editor_note": "Month approximate (iPhone 16 launch). | not enriched: no primary SKT or news source for this CM located (search budget exhausted); month-precision retained. | removed from reader text: [detail.ja] CMのタイトル、監督、放映開始日は確認できていない。 [detail.en] The commercial's title, director and first air date could not be confirmed. / Month approximate (iPhone 16 launch); the English Wikipedia videography cites a 2024-09-15 article saying the spot drew attention. No primary SKT or news source located; the CM's title, director and first air date are unconfirmed. / 2026-10-24 nightly: Found the CM on SK telecom's official YouTube channel: ebG2P1m6JW4 'Capture Your Vibe, iPhone 16 Pro', YouTube API (Asia/Seoul) date Sep 13, 2024, description 'Capture Your Vibe with New Jeans' with pre-order perks (Adot phone service, Netflix plan benefits, daily lucky draw 13 Sep-14 Oct 2024). Date set to 2024-09-13 (day precision; id needs renaming) and text rewritten from the description. The Perplexity Pro perk appears only in SKT's later 'Slow Motion' cut (-73KWD-GzxY, 11 Oct 2024) and the 13-19 Sep pre-order window was not confirmed, so both were removed. media could be set to youtube ebG2P1m6JW4.",
+    "detail": {
+      "ja": "SKテレコムが公式YouTubeチャンネルで、NewJeans出演のiPhone 16 Pro向けCM「Capture Your Vibe, iPhone 16 Pro」を公開した。動画撮影機能を強化した新しいiPhoneを「Capture Your Vibe with NewJeans」と打ち出し、SKテレコムでの事前予約を呼びかけた。特典としてA.（エー・ドット）フォンサービス、Netflix料金プランの特典、9月13日から10月14日までの毎日抽選などを案内した。",
+      "en": "SK Telecom released its iPhone 16 Pro commercial 'Capture Your Vibe, iPhone 16 Pro' starring NewJeans on its official YouTube channel. Billed as 'Capture Your Vibe with NewJeans' around the new iPhone's upgraded video recording, it urged viewers to pre-order through SK Telecom, listing perks such as the A. (Adot) phone service, Netflix plan benefits and a daily lucky draw running from September 13 to October 14."
+    },
+    "credits": {
+      "advertiser": "SK Telecom"
+    },
+    "image": {
+      "url": "https://i.ytimg.com/vi/ebG2P1m6JW4/maxresdefault.jpg",
+      "source_url": "https://www.youtube.com/watch?v=ebG2P1m6JW4"
+    }
   },
   {
     "id": "ad-2024-09-23-shinhan-securities-cm",
@@ -3981,7 +3992,10 @@
     },
     "source_url": "https://variety.com/2024/shopping/news/newjeans-calvin-klein-ambassadors-campaign-1236154299/",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/NewJeans"
+      "https://en.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=QPznuobaU5Y",
+      "https://elle.com.sg/fashion/newjeans-calvin-klein-brand-ambassadors-exclusive-behind-the-scenes-2024/",
+      "https://www.pvh.com/news/calvin-klein-fall-2024-newjeans"
     ],
     "media": {
       "type": "none"
@@ -3990,11 +4004,11 @@
       "fashion",
       "ambassador"
     ],
-    "verified": false,
-    "editor_note": "Variety article not retrievable (paywall); date per en.wikipedia citation. | pvh.com page returned 403; details from search summaries of PVH/Elle Singapore/Highxtar coverage. / Variety article not retrievable (paywall); date per English Wikipedia citation. pvh.com returned 403; details from search summaries of PVH newsroom, Elle Singapore and Highxtar coverage. Sourcing frame removed from reader text.",
+    "verified": true,
+    "editor_note": "Variety article not retrievable (paywall); date per en.wikipedia citation. | pvh.com page returned 403; details from search summaries of PVH/Elle Singapore/Highxtar coverage. / Variety article not retrievable (paywall); date per English Wikipedia citation. pvh.com returned 403; details from search summaries of PVH newsroom, Elle Singapore and Highxtar coverage. Sourcing frame removed from reader text. / 2026-10-24 nightly: Calvin Klein's official YouTube film QPznuobaU5Y 'NewJeans in Calvin Klein | Fall 2024 Campaign' (YouTube API, Asia/Seoul: Sep 24, 2024; 'Directed by Gordon von Steiner') and Elle Singapore (24 Sep 2024: the five members are the brand's latest ambassadors, shot by Gordon von Steiner, denim and outerwear) confirm. PVH newsroom still 403. The 'It-Girl' (Kah-Lo, Karma Fields, Associanu) soundtrack claim could not be found in the video metadata or any fetched source and was removed.",
     "detail": {
-      "ja": "カルバン・クラインがNewJeansの5人をブランドアンバサダーに起用し、2024年秋キャンペーンの最終章として世界同時に公開した。キャンペーンはGordon von Steinerが撮影し、同じ週にブランドのSNSで展開され、バレル、ワイド、ストレートのジーンズにクロップドやボクシーなモノグラムTシャツ、パファージャケット、ボンバー、デニムトラッカー、ブレザーなど2024年秋のデニムとアウターウェアを中心に構成された。キャンペーン映像にはKah-Lo、Karma Fields、Associanuの「It-Girl」が使われた。",
-      "en": "Calvin Klein named the five members of NewJeans (Minji, Hanni, Danielle, Haerin and Hyein) brand ambassadors, launching the final chapter of its Fall 2024 campaign globally the same day. Shot by Gordon von Steiner and rolled out on the brand's social channels that week, the campaign centred on Fall 2024 denim and outerwear: barrel, wide and straight-leg jeans with cropped and boxy monogram tees, puffer jackets, bombers, denim truckers and blazers. The campaign video is set to 'It-Girl' by Kah-Lo, Karma Fields and Associanu."
+      "ja": "カルバン・クラインがNewJeansの5人をブランドアンバサダーに起用し、2024年秋キャンペーンの最終章として世界同時に公開した。キャンペーンはGordon von Steinerが撮影・監督し、同じ週にブランドのSNSで展開され、バレル、ワイド、ストレートのジーンズにクロップドやボクシーなモノグラムTシャツ、パファージャケット、ボンバー、デニムトラッカー、ブレザーなど2024年秋のデニムとアウターウェアを中心に構成された。",
+      "en": "Calvin Klein named the five members of NewJeans (Minji, Hanni, Danielle, Haerin and Hyein) brand ambassadors, launching the final chapter of its Fall 2024 campaign globally the same day. Shot and directed by Gordon von Steiner and rolled out on the brand's social channels that week, the campaign centred on Fall 2024 denim and outerwear: barrel, wide and straight-leg jeans with cropped and boxy monogram tees, puffer jackets, bombers, denim truckers and blazers."
     },
     "credits": {
       "brand": "Calvin Klein",
@@ -4025,7 +4039,8 @@
     },
     "source_url": "https://v.daum.net/v/20241024104950971",
     "reference_urls": [
-      "https://v.daum.net/v/20241027224555053"
+      "https://v.daum.net/v/20241027224555053",
+      "https://www.smarttoday.co.kr/ko-kr/articles/62562"
     ],
     "media": {
       "type": "none"
@@ -4042,8 +4057,8 @@
       "beauty",
       "campaign"
     ],
-    "verified": false,
-    "editor_note": "Sports Kyunghyang (2024-10-24) reports the release on the 24th. / Source is a press report (Daum News); not confirmed against an official page."
+    "verified": true,
+    "editor_note": "Sports Kyunghyang (2024-10-24) reports the release on the 24th. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: Sports Kyunghyang (via Daum, 24 Oct 2024 10:49) states YSL Beauty released the Ink Blur Tint campaign with Danielle on the 24th, describing the all-black outfit, ponytail and shades No. 216 Pink Domination and No. 234 Berry Satisfaction, with Kakao Gift pre-launch on 24 Oct and full release from 30 Oct; Smart Today (24 Oct 2024 09:55) concurs. Confirmed."
   },
   {
     "id": "ad-2024-10-31-indomie-global-ambassador",
@@ -4066,7 +4081,10 @@
     "source_url": "https://en.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
       "https://en.wikipedia.org/wiki/NewJeans_videography",
-      "https://hypebeast.com/2024/11/indomie-newjeans-global-brand-ambassadors-announcement"
+      "https://hypebeast.com/2024/11/indomie-newjeans-global-brand-ambassadors-announcement",
+      "https://www.youtube.com/watch?v=sYG2NltqKgw",
+      "https://www.malaymail.com/news/showbiz/2024/10/31/k-pop-girl-group-newjeans-named-new-global-ambassadors-of-indonesias-iconic-instant-noodle-brand-indomie/155425",
+      "https://mb.com.ph/2024/11/6/indomie-taps-new-jeans-as-global-brand-ambassador"
     ],
     "media": {
       "type": "none"
@@ -4075,8 +4093,8 @@
       "food",
       "ambassador"
     ],
-    "verified": false,
-    "editor_note": "Date per en.wikipedia citation (Oct 31, 2024); Hypebeast coverage early Nov 2024. / Cut for length (ja): 法人名 PT Indofood CBP Sukses Makmur（en には残存）",
+    "verified": true,
+    "editor_note": "Date per en.wikipedia citation (Oct 31, 2024); Hypebeast coverage early Nov 2024. / Cut for length (ja): 法人名 PT Indofood CBP Sukses Makmur（en には残存） / 2026-10-24 nightly: Indomie's YouTube upload sYG2NltqKgw 'Indomie Global Oh My Good! It's Indomie TVC 30s' (YouTube API, Asia/Seoul: Oct 31, 2024) announces NewJeans as Indomie's Global Ambassador. Malay Mail (31 Oct 2024) and other coverage confirm the Instagram announcement on 31 Oct, the 3 Nov launch with LED billboards at Pavilion and Fahrenheit88, Axton Salim's 'first Southeast Asian brand' remark and the Kantar 2024 Brand Footprint ranking. Confirmed.",
     "detail": {
       "ja": "インドフードのインスタント麺ブランドIndomieがInstagramで5人をグローバルブランドアンバサダーに起用したと発表し、同じ日にキャンペーン広告「Oh My Good! It's Indomie」をYouTubeで公開した。若い世代を狙ったグローバルキャンペーンで、11月3日にクアラルンプールのPavilionやFahrenheit88などのLEDビルボードで展開開始予定。ディレクターのAxton Salimは提携をグローバル展開への一歩と位置づけ、NewJeansと協業する初の東南アジアブランドだと述べた。Indomieは100か国以上で販売され、Kantarの2024年Brand Footprintで世界で最も選ばれたインスタント麺ブランドに挙げられている。",
       "en": "Indomie, the instant noodle brand of PT Indofood CBP Sukses Makmur, announced the five members of NewJeans as its global brand ambassadors on Instagram and posted the campaign advertisement 'Oh My Good! It's Indomie' starring the members on YouTube the same day. The global campaign aimed at younger audiences was to launch on November 3 with LED billboards in locations such as Pavilion and Fahrenheit88 in Kuala Lumpur. Indofood director Axton Salim called the deal a step toward global expansion and said Indomie was the first Southeast Asian brand to collaborate with the group. Indomie is sold in more than 100 countries and was ranked the most chosen instant noodle brand in the world in Kantar's 2024 Brand Footprint."
@@ -4132,8 +4150,8 @@
       "watch",
       "ambassador"
     ],
-    "verified": false,
-    "editor_note": "Star News (2024-12-17) citing ADOR. Existing magazine-2024-12-09-vogue-korea-danielle-omega-pictorial predates the formal appointment. / Source is a press report (Daum News); not confirmed against an official page."
+    "verified": true,
+    "editor_note": "Star News (2024-12-17) citing ADOR. Existing magazine-2024-12-09-vogue-korea-danielle-omega-pictorial predates the formal appointment. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: Star News (17 Dec 2024 18:30) reports ADOR announced on the 17th Danielle's appointment as Omega global ambassador ('star family'), with photos, and quotes Danielle's comment as in the detail (plus the Omega CEO); a 18 Dec report covers the pictorial released that day. Confirmed via press citing ADOR; no Omega or ADOR post fetched."
   },
   {
     "id": "ad-2025-03-14-hanni-ugg-golden-rise-sandal-campaign",
