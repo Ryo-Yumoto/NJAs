@@ -997,6 +997,8 @@
     },
     "source_url": "https://www.mksports.co.kr/news/entertain/10724940",
     "reference_urls": [
+      "https://www.mksports.co.kr/news/entertain/10724940",
+      "https://fashionunited.uk/news/fashion/louis-vuitton-showed-its-pre-fall-2023-collection-from-seoul-s-iconic-jamsugyo-bridge/2023050169273",
       "https://www.tatlerasia.com/style/fashion/louis-vuitton-pre-fall-2023-fashion-show-seoul-newjeans-hyein-snsd-taeyeon-mingyu-korean-celebrities",
       "https://v.daum.net/v/20230429214803872",
       "https://v.daum.net/v/20230430140703449"
@@ -1008,7 +1010,8 @@
       "event",
       "fashion-event"
     ],
-    "verified": false
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: Louis Vuitton's own page not found (louisvuitton.com not surfaced); MK Sports (2023-04-29 21:48 KST, via Daum) confirms the show that afternoon on Jamsugyo Bridge, Hyein's attendance as ambassador alongside Taeyeon and Bae Doona, and the Visit Korea Year framing; AP/FashionUnited confirm the date and venue."
   },
   {
     "id": "live-2023-05-03-adb-annual-meeting-opening",
@@ -1039,7 +1042,7 @@
     "tags": [
       "corporate-event"
     ],
-    "editor_note": "Listed on Wikipedia; could not be confirmed from the ADB programme or news. Treat as unverified. | Reader-facing 'reportedly / とされる' hedging moved here; appearance remains unverified (Wikipedia only). | Still unverified: ADB programme and Korean press found mention K-pop performances but not NewJeans by name; songs per en.wikipedia list only.",
+    "editor_note": "Listed on Wikipedia; could not be confirmed from the ADB programme or news. Treat as unverified. | Reader-facing 'reportedly / とされる' hedging moved here; appearance remains unverified (Wikipedia only). | Still unverified: ADB programme and Korean press found mention K-pop performances but not NewJeans by name; songs per en.wikipedia list only. / 2026-10-24 nightly: ADB's opening-session page (fetched) has no performer list and does not mention NewJeans; a Korean press search on the meeting (Songdo, May 2-4) found no report of a NewJeans performance. Still Wikipedia only; candidate for deletion if no source turns up.",
     "detail": {
       "ja": "仁川・松島コンベンシアで開かれた第56回アジア開発銀行（ADB）年次総会（5月2日から4日）の開会式で「Ditto」「OMG」を披露したと伝えられている。企画財政部の案内では総会期間中にK-POP公演や伝統文化公演が予定されており、5月3日にはドローンショーも計画されていた。",
       "en": "NewJeans are reported to have performed 'Ditto' and 'OMG' at the opening ceremony of the 56th Asian Development Bank Annual Meeting (2–4 May) at Songdo Convensia in Incheon. The Ministry of Economy and Finance's programme for the meeting included K-pop and traditional performances, with a drone show planned for 3 May."
@@ -1077,6 +1080,7 @@
     },
     "source_url": "https://www.ajunews.com/view/20230517065943387",
     "reference_urls": [
+      "https://www.ajunews.com/view/20230517065943387",
       "https://www.topstarnews.net/news/articleView.html?idxno=15337753",
       "https://www.nylon.com/fashion/gucci-cruise-2024-runway-show-front-row-newjeans-aespa-kpop/",
       "https://v.daum.net/v/20230517070024230",
@@ -1089,7 +1093,8 @@
       "event",
       "fashion-event"
     ],
-    "verified": false
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: iNews24 (2023-05-17 07:00 KST) confirms Hanni attended the 05-16 show as a Gucci ambassador; Maeil Business (05-16) confirms the 20:00 show before Geunjeongjeon and the 25 years since the first Korean flagship (1998). 'Her second Gucci show' not separately confirmed. Gucci's own page not found."
   },
   {
     "id": "live-2023-05-18-little-mermaid-korean-dub-preview-stage-greeting",
@@ -1150,17 +1155,18 @@
       "en": "NewJeans, Levi's global ambassadors, performed at the brand's music concert marking 150 years of the 501®."
     },
     "detail": {
-      "ja": "リーバイ・ストラウス・コリアが、最初のデニム501®の誕生150周年を記念した「Levi's 501® Experience」の一環として韓国で開いた音楽コンサートで、グローバルアンバサダーのNewJeansが出演し、Zior Park、BIG Naughtyも出演した。招待制のイベントで、公演は17時からリーバイスの公式YouTubeとInstagramでライブ配信された。会場には501®の歴史をたどるアーカイブ展示も設けられた。",
-      "en": "A music concert held in Korea by Levi Strauss Korea as part of 'Levi's 501® Experience', marking 150 years since the first 501® denim, with global ambassadors NewJeans performing alongside Zior Park and BIG Naughty. The invite-only event was livestreamed from 17:00 on Levi's official YouTube and Instagram, and the venue included an archive exhibition on the history of the 501®."
+      "ja": "リーバイ・ストラウス・コリアが、最初のデニム501®の誕生150周年を記念した「Levi's 501® Experience」の一環として韓国で開いた音楽コンサートで、グローバルアンバサダーのNewJeansが出演し、Zior Park、BIG Naughtyも出演した。招待制のイベントで、公演は17時01分からリーバイスの公式YouTubeとInstagramでライブ配信された。会場には501®の歴史をたどるアーカイブ展示も設けられた。",
+      "en": "A music concert held in Korea by Levi Strauss Korea as part of 'Levi's 501® Experience', marking 150 years since the first 501® denim, with global ambassadors NewJeans performing alongside Zior Park and BIG Naughty. The invite-only event was livestreamed from 17:01 on Levi's official YouTube and Instagram, and the venue included an archive exhibition on the history of the 501®."
     },
     "credits": {
       "organizer": "Levi Strauss Korea",
       "lineup": "NewJeans, Zior Park, BIG Naughty"
     },
-    "source_url": "https://www.smarttoday.co.kr/ko-kr/articles/30056",
+    "source_url": "https://www.instagram.com/p/Csa63pZp8qk/",
     "reference_urls": [
-      "https://www.instagram.com/p/Csf7HUmuHsC/",
       "https://www.instagram.com/p/Csa63pZp8qk/",
+      "https://www.smarttoday.co.kr/ko-kr/articles/30056",
+      "https://www.instagram.com/p/Csf7HUmuHsC/",
       "https://snkrdunk.com/en/magazine/2023/05/17/live-in-levis-music-concert-newjeans-zior-park-big-naughty",
       "https://marketech-apac.com/levis-celebrates-150-years-of-iconic-jean-with-slew-of-local-celebrations-across-apac-other-markets/"
     ],
@@ -1172,8 +1178,8 @@
       "brand-event",
       "concert"
     ],
-    "verified": false,
-    "editor_note": "Event announced by Levi Strauss Korea on 2023-05-17 (Smart Today): 501 Experience with exhibition and music concert on the 20th, livestream at 17:00 on Levi's YouTube/Instagram; 'invite-only' per Marketech APAC. Levi's Korea Instagram posts Csa63pZp8qk (2023-05-19) and Csf7HUmuHsC 'NewJeans @ LIVE IN LEVI'S' (2023-05-21 17:39 KST) per namu; official concert video JEURdXSwf4M is no longer available. Venue not identified. Category live per data-policy 2b (brand event performance); ledger listed it under ad. Instagram account/caption could not be read (r.jina.ai reader blocked for instagram.com on 2026-10-17); post attributed to the brand by namu.wiki's brand section, date from the shortcode timestamp."
+    "verified": true,
+    "editor_note": "Event announced by Levi Strauss Korea on 2023-05-17 (Smart Today): 501 Experience with exhibition and music concert on the 20th, livestream at 17:00 on Levi's YouTube/Instagram; 'invite-only' per Marketech APAC. Levi's Korea Instagram posts Csa63pZp8qk (2023-05-19) and Csf7HUmuHsC 'NewJeans @ LIVE IN LEVI'S' (2023-05-21 17:39 KST) per namu; official concert video JEURdXSwf4M is no longer available. Venue not identified. Category live per data-policy 2b (brand event performance); ledger listed it under ad. Instagram account/caption could not be read (r.jina.ai reader blocked for instagram.com on 2026-10-17); post attributed to the brand by namu.wiki's brand section, date from the shortcode timestamp. / 2026-10-24 nightly: Instagram oEmbed: @levis_korea Csa63pZp8qk (2023-05-19 19:01 KST) announces the 150th-anniversary LIVE IN LEVI'S music concert with global ambassador NewJeans on Sat 2023-05-20 at 05:01 PM, on Levi's official Instagram Live or YouTube; @newjeans_official Csf7HUmuHsC (2023-05-21 17:39 KST) 'NewJeans @ LIVE IN LEVI'S'. Start time corrected from 17:00 to 17:01 per the brand post; source_url switched to the brand post. Other performers and invite-only format per the existing references."
   },
   {
     "id": "live-2023-06-11-weverse-con-festival-2023",
@@ -1249,10 +1255,12 @@
       "event",
       "brand-event"
     ],
-    "verified": false,
+    "verified": true,
     "reference_urls": [
+      "https://www.newsinstar.com/news/article.html?no=73939",
       "https://v.daum.net/v/20230717090103192"
-    ]
+    ],
+    "editor_note": "2026-10-24 nightly: no CHANEL page for the photocall found; NewsInStar (registered 2023-06-29 02:19 KST) states the photocall was on the afternoon of Wed 06-28 at Layer41, Seongdong-gu, with Minji attending; bnt News (2023-07-17) repeats the 06-28 opening event and Minji's attendance."
   },
   {
     "id": "live-2023-07-01-bunnies-camp",
@@ -1404,6 +1412,7 @@
     },
     "source_url": "https://news.nate.com/view/20230731n07399?mid=e1100",
     "reference_urls": [
+      "https://news.nate.com/view/20230731n07399?mid=e1100",
       "https://www.kpopstarz.com/articles/313930/20230803/newjeans-spotted-incheon-international-airport.htm",
       "https://inkistyle.com/newjeans-incheon-airport-july-31-2023/"
     ],
@@ -1414,7 +1423,8 @@
       "airport",
       "overseas"
     ],
-    "verified": false
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: JTBC (2023-07-31 09:59 KST, via Nate) confirms the morning departure from Incheon for Chicago and Lollapalooza; airport departures have no official page."
   },
   {
     "id": "live-2023-08-03-lollapalooza-chicago-2023",

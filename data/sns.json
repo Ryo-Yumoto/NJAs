@@ -601,6 +601,49 @@
     "platform": "x"
   },
   {
+    "id": "sns-2022-07-30-youtube-1st-ep-countdown-live-notice",
+    "date": "2022-07-30",
+    "time": "18:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：1st EP『New Jeans』COUNTDOWN LIVEの告知",
+      "en": "YouTube community post: 1st EP 'New Jeans' COUNTDOWN LIVE notice"
+    },
+    "summary": {
+      "ja": "8月1日17時（KST）からHYBE LABELSのYouTubeチャンネルで行う1st EPのカウントダウンライブを告知した。",
+      "en": "Announced the 1st EP countdown live on the HYBE LABELS YouTube channel at 5 PM KST on August 1."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（18:00 KST）。「NewJeans 1st EP ‘New Jeans’ COUNTDOWN LIVE」を2022年8月1日17時（KST）／4時（EST）にHYBE LABELSのYouTubeチャンネルで配信すると告知し、「Let’s hang out with us!」と添えた。",
+      "en": "Community post on the official YouTube channel (18:00 KST). It announced 'NewJeans 1st EP ‘New Jeans’ COUNTDOWN LIVE' for August 1, 2022 at 5 PM KST (4 AM EST) on the HYBE LABELS YouTube channel, adding 'Let’s hang out with us!'"
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/Ugkxa8f3kxeWJt_vf6qkL1tyyzTs9Re1Ch1P",
+    "reference_urls": [
+      "https://www.youtube.com/post/Ugkxa8f3kxeWJt_vf6qkL1tyyzTs9Re1Ch1P"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "countdown-live",
+      "new-jeans-ep"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2022-07-30-newjeans-1st-ep-new-jeans-countdown-live-2022-08-01-5pm-kst. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
+  },
+  {
     "id": "sns-2022-08-06-tiktok-1m-followers-attention-challenge",
     "date": "2022-08-06",
     "date_type": "event",
@@ -691,6 +734,48 @@
     "links": {
       "tiktok": "https://www.tiktok.com/@newjeans_official/video/7129507192322968833"
     }
+  },
+  {
+    "id": "sns-2022-10-06-youtube-happy-hanni-day",
+    "date": "2022-10-06",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：ハニの誕生日を祝う投稿",
+      "en": "YouTube community post: Happy Hanni Day"
+    },
+    "summary": {
+      "ja": "ハニの誕生日に、公式YouTubeチャンネルのコミュニティで画像付きの誕生日祝いを投稿した。",
+      "en": "On Hanni's birthday, the official YouTube channel posted a birthday message with an image to its community tab."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（00:00 KST）。画像に「HAPPY HANNI DAY」と添え、韓国語と英語でハニの誕生日を祝い、ハッシュタグ#HAPPY_HANNI_DAYを付けた。",
+      "en": "Community post on the official YouTube channel (00:00 KST). With an image, it read 'HAPPY HANNI DAY' and wished Hanni a happy birthday in Korean and English, with the hashtag #HAPPY_HANNI_DAY."
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/UgkxG4KfhgIbl9kztM7BxTHXHVmGWAIrMuEV",
+    "reference_urls": [
+      "https://www.youtube.com/post/UgkxG4KfhgIbl9kztM7BxTHXHVmGWAIrMuEV"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "birthday"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2022-10-06-happy-hanni-day. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
   },
   {
     "id": "sns-2022-10-29-debut-100-days-post",
@@ -1204,6 +1289,49 @@
     }
   },
   {
+    "id": "sns-2022-12-26-youtube-omg-countdown-live-notice",
+    "date": "2022-12-26",
+    "time": "11:21",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：「OMG」COUNTDOWN LIVEの告知",
+      "en": "YouTube community post: 'OMG' COUNTDOWN LIVE notice"
+    },
+    "summary": {
+      "ja": "2023年1月2日17時（KST）にHYBE LABELSのYouTubeとWeverseで行う「OMG」のカウントダウンライブを告知した。",
+      "en": "Announced the 'OMG' countdown live for 5 PM KST on January 2, 2023, on the HYBE LABELS YouTube channel and Weverse."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（11:21 KST）。「NewJeans \"OMG\" COUNTDOWN LIVE」を2023年1月2日17時（KST）／4時（EST）に、HYBE LABELSのYouTubeチャンネルとNewJeansのWeverseで配信すると告知した。",
+      "en": "Community post on the official YouTube channel (11:21 KST). It announced 'NewJeans \"OMG\" COUNTDOWN LIVE' for January 2, 2023 at 5 PM KST (4 AM EST) on the HYBE LABELS YouTube channel and NewJeans' Weverse."
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/UgkxCWdXEg02CoG27DMXAISgCX3yrRuwi5wC",
+    "reference_urls": [
+      "https://www.youtube.com/post/UgkxCWdXEg02CoG27DMXAISgCX3yrRuwi5wC"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "countdown-live",
+      "OMG"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2022-12-26-newjeans-omg-countdown-live-2023-01-02-5pm-kst-4am-est-on-hy. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
+  },
+  {
     "id": "sns-2023-01-02-instagram-omg-release-day-post-1",
     "date": "2023-01-02",
     "time": "10:00",
@@ -1429,6 +1557,51 @@
     }
   },
   {
+    "id": "sns-2023-03-29-bunnies-membership-kit-packshot",
+    "date": "2023-03-29",
+    "time": "11:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Bunnies Membership Kitのパックショット公開",
+      "en": "Bunnies Membership Kit packshot release"
+    },
+    "summary": {
+      "ja": "公式Xで、3月30日11時（KST）にWeverse Shopで受付を開始するBunnies Membership Kitのパックショットを公開した。",
+      "en": "The official X account released packshots of the Bunnies Membership Kit, opening on Weverse Shop at 11 AM KST on March 30."
+    },
+    "detail": {
+      "ja": "公式X（@NewJeans_ADOR）の投稿（11:00 KST）。「[Bunnies Club] Bunnies Membership Kit Packshot RELEASE」として写真2点を公開し、受付開始を3月30日11時（KST）、場所をWeverse Shopと案内した。",
+      "en": "Post by the official X account (@NewJeans_ADOR) at 11:00 KST. Headed '[Bunnies Club] Bunnies Membership Kit Packshot RELEASE', it shared two photos and gave the opening as 11 AM KST on March 30 on Weverse Shop."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/1640896559234662400",
+    "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/1640896559234662400"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/1640896559234662400"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "Bunnies",
+      "packshot",
+      "goods"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item x-2023-03-29-bunnies-membership-kit-packshot-release-open-3-30-11am-kst. Status text, media count and timestamp verified via fxtwitter API (api.fxtwitter.com); emoji omitted from quotations."
+  },
+  {
     "id": "sns-2023-04-03-zero-release",
     "date": "2023-04-03",
     "date_type": "post",
@@ -1471,6 +1644,132 @@
     "platform": "x"
   },
   {
+    "id": "sns-2023-04-11-youtube-happy-danielle-day",
+    "date": "2023-04-11",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：ダニエルの誕生日を祝う投稿",
+      "en": "YouTube community post: Happy Danielle Day"
+    },
+    "summary": {
+      "ja": "ダニエルの誕生日に、公式YouTubeチャンネルのコミュニティで画像付きの誕生日祝いを投稿した。",
+      "en": "On Danielle's birthday, the official YouTube channel posted a birthday message with an image to its community tab."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（00:00 KST）。画像に「HAPPY DANIELLE DAY」と添え、韓国語と英語でダニエルの誕生日を祝い、ハッシュタグ#HAPPY_DANIELLE_DAYを付けた。",
+      "en": "Community post on the official YouTube channel (00:00 KST). With an image, it read 'HAPPY DANIELLE DAY' and wished Danielle a happy birthday in Korean and English, with the hashtag #HAPPY_DANIELLE_DAY."
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/UgkxlhwigU0faPAzK9zPrMRK--XHF3PmewmK",
+    "reference_urls": [
+      "https://www.youtube.com/post/UgkxlhwigU0faPAzK9zPrMRK--XHF3PmewmK"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "birthday"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2023-04-11-happy-danielle-day. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2023-04-27-youtube-happy-hyein-day",
+    "date": "2023-04-27",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：ヘインの誕生日（4月21日）を祝う投稿",
+      "en": "YouTube community post: Happy Hyein Day (April 21)"
+    },
+    "summary": {
+      "ja": "4月21日のヘインの誕生日を祝う画像付きの投稿を、4月27日0時に公式YouTubeチャンネルのコミュニティに掲載した。",
+      "en": "The official YouTube channel posted a birthday message for Hyein, whose birthday was April 21, to its community tab at midnight on April 27."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（00:00 KST）。画像に「HAPPY HYEIN DAY」と添え、韓国語と英語で「4月21日、ヘインの誕生日を祝います」と書き、ハッシュタグ#HAPPY_HYEIN_DAYを付けた。ヘインの誕生日（4月21日）から6日後の投稿だった。",
+      "en": "Community post on the official YouTube channel (00:00 KST). With an image, it read 'HAPPY HYEIN DAY' and, in Korean and English, 'April 21st, happy birthday to Hyein', with the hashtag #HAPPY_HYEIN_DAY. It went up six days after her April 21 birthday."
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/Ugkxp5c1A3P0EoPXzKZ7Z41ovE7G-OCRHmKD",
+    "reference_urls": [
+      "https://www.youtube.com/post/Ugkxp5c1A3P0EoPXzKZ7Z41ovE7G-OCRHmKD"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "birthday"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2023-04-27-happy-hyein-day. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2023-05-07-youtube-happy-minji-day",
+    "date": "2023-05-07",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：ミンジの誕生日を祝う投稿",
+      "en": "YouTube community post: Happy Minji Day"
+    },
+    "summary": {
+      "ja": "ミンジの誕生日に、公式YouTubeチャンネルのコミュニティで画像付きの誕生日祝いを投稿した。",
+      "en": "On Minji's birthday, the official YouTube channel posted a birthday message with an image to its community tab."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（00:00 KST）。画像に「HAPPY MINJI DAY」と添え、韓国語と英語でミンジの誕生日を祝い、ハッシュタグ#HAPPY_MINJI_DAYを付けた。",
+      "en": "Community post on the official YouTube channel (00:00 KST). With an image, it read 'HAPPY MINJI DAY' and wished Minji a happy birthday in Korean and English, with the hashtag #HAPPY_MINJI_DAY."
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/UgkxCzzKm4sgoT-iCOz-skqoj683ltLGQ8SJ",
+    "reference_urls": [
+      "https://www.youtube.com/post/UgkxCzzKm4sgoT-iCOz-skqoj683ltLGQ8SJ"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "birthday"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2023-05-07-happy-minji-day. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
+  },
+  {
     "id": "sns-2023-05-12-bunnies-camp-announcement",
     "date": "2023-05-12",
     "date_type": "post",
@@ -1511,6 +1810,48 @@
       "venue": "SK Olympic Handball Gymnasium, Seoul"
     },
     "platform": "x"
+  },
+  {
+    "id": "sns-2023-05-15-youtube-happy-haerin-day",
+    "date": "2023-05-15",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：ヘリンの誕生日を祝う投稿",
+      "en": "YouTube community post: Happy Haerin Day"
+    },
+    "summary": {
+      "ja": "ヘリンの誕生日に、公式YouTubeチャンネルのコミュニティで画像付きの誕生日祝いを投稿した。",
+      "en": "On Haerin's birthday, the official YouTube channel posted a birthday message with an image to its community tab."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（00:00 KST）。画像に「HAPPY HAERIN DAY」と添え、韓国語と英語でヘリンの誕生日を祝い、ハッシュタグ#HAPPY_HAERIN_DAYを付けた。",
+      "en": "Community post on the official YouTube channel (00:00 KST). With an image, it read 'HAPPY HAERIN DAY' and wished Haerin a happy birthday in Korean and English, with the hashtag #HAPPY_HAERIN_DAY."
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/Ugkx8POz9bhTZxBVhJPaxnKbgvLvZyg60thM",
+    "reference_urls": [
+      "https://www.youtube.com/post/Ugkx8POz9bhTZxBVhJPaxnKbgvLvZyg60thM"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "birthday"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2023-05-15-happy-haerin-day. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
   },
   {
     "id": "sns-2023-05-31-be-who-you-are-release",
@@ -1977,7 +2318,7 @@
       "packshot"
     ],
     "verified": false,
-    "editor_note": "Date from kstyle via ja.wikipedia. Status URL not recovered. | Kstyle states the packshot was released on the 28th (KST), not the 30th; the record date reflects the article date. Possible duplicate of the 06-28/06-29 Instagram packaging post. / All details from Kstyle (2023-06-30, via ja.wikipedia), which dates the packshot release to the 28th (KST); the record date reflects the article date. Official X status not recovered (source_url is the account page). Possible duplicate of the 06-28/06-29 Instagram packaging post. / Cut for length (ja detail only): photobook themes such as '10 Things LOVE ABOUT SUMMER' (kept in detail.en).",
+    "editor_note": "Date from kstyle via ja.wikipedia. Status URL not recovered. | Kstyle states the packshot was released on the 28th (KST), not the 30th; the record date reflects the article date. Possible duplicate of the 06-28/06-29 Instagram packaging post. / All details from Kstyle (2023-06-30, via ja.wikipedia), which dates the packshot release to the 28th (KST); the record date reflects the article date. Official X status not recovered (source_url is the account page). Possible duplicate of the 06-28/06-29 Instagram packaging post. / Cut for length (ja detail only): photobook themes such as '10 Things LOVE ABOUT SUMMER' (kept in detail.en). / 2026-10-24 nightly: still unconfirmed. The official status was not found (fxtwitter needs a status id; web search for the packshot post found nothing); the only official 06-28 posts recorded are the X '2nd EP Photo' post and Instagram CuCIRW0LFCs (06-28 21:00 KST, caption is only an emoji and hashtags, no packshot text). Kstyle dates the packshot to 06-28, so the 06-30 date is likely the article date; overlaps sns-2023-06-29-get-up-bunny-beach-bag-packaging.",
     "detail": {
       "ja": "2nd EP『Get Up』のパックショット。6月28日公開で、Bunny Beach Bag ver.、THE POWERPUFF GIRLS X NJ Box ver.、Weverse Albums ver.の3形態。Bunny Beach Bag ver.はピンク・ホワイト・ブルーの3色で、フォトブック、歌詞、フォトカード、ステッカー、ポストカード、しおり、CD入り。日本では6月19日11時に予約開始、Bunny Beach Bag ver.3,025円、Box ver.2,750円（税込）、お届け予定日は7月22日だった。",
       "en": "Packshots for the 2nd EP Get Up, released on June 28, showing three formats: Bunny Beach Bag ver., THE POWERPUFF GIRLS X NJ Box ver. and Weverse Albums ver. The Bunny Beach Bag ver. comes in pink, white and blue with a photobook, lyrics, photocards, stickers, postcards, a bookmark and the CD, and the photobook carries themes such as '10 Things LOVE ABOUT SUMMER'. Japan pre-orders opened on June 19 at 11:00 at 3,025 JPY (Bunny Beach Bag ver.) and 2,750 JPY (Box ver.), tax included, with delivery scheduled for July 22."
@@ -2060,7 +2401,7 @@
       "announcement"
     ],
     "verified": false,
-    "editor_note": "Announced Jul 17 KST per Soompi. Status URL not recovered; may be Weverse notice. | not enriched beyond Soompi (2023-07-17); no status URL found. / Announcement date and content per Soompi (2023-07-17). The original announcement channel (official SNS or Weverse notice) and the X status URL were not recovered; not enriched beyond Soompi.",
+    "editor_note": "Announced Jul 17 KST per Soompi. Status URL not recovered; may be Weverse notice. | not enriched beyond Soompi (2023-07-17); no status URL found. / Announcement date and content per Soompi (2023-07-17). The original announcement channel (official SNS or Weverse notice) and the X status URL were not recovered; not enriched beyond Soompi. / 2026-10-24 nightly: still unconfirmed as an SNS post. Korean press (Wikitree, OSEN) confirms ADOR's 07-17 announcement of 'two unexpected global stars' but no official X/Weverse/YouTube community post for it was found; it may have been a press release only, in which case it does not belong in sns.",
     "detail": {
       "ja": "2nd EP『Get Up』のタイトル曲の一つ「Cool With You」のMVを、アルバム発売（7月21日）に先立つ7月20日0時（KST）に公開するというADORの発表。MVは「Ditto」と同様にside Aとside Bの2バージョンで構成され、「予想外の2人のグローバルスターが出演する」と予告された。",
       "en": "ADOR's announcement that the MV for 'Cool With You', one of the title tracks of the 2nd EP Get Up, would be released on July 20 at midnight KST, a day ahead of the album. The MV was to come in side A and side B versions, as 'Ditto' had, and to feature 'two unexpected global stars'."
@@ -2069,6 +2410,49 @@
       "label": "ADOR"
     },
     "platform": "x"
+  },
+  {
+    "id": "sns-2023-07-20-youtube-newjeans-day-d-2",
+    "date": "2023-07-20",
+    "time": "18:16",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：デビュー1周年「NewJeans Day」D-2",
+      "en": "YouTube community post: 1st debut anniversary 'NewJeans Day' D-2"
+    },
+    "summary": {
+      "ja": "デビュー1周年の「NewJeans Day」を2日後に控え、D-2の告知画像を公式YouTubeチャンネルのコミュニティに投稿した。",
+      "en": "Two days before the first debut anniversary, the official YouTube channel posted a 'NewJeans Day' D-2 image to its community tab."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（18:16 KST）。画像に「NewJeans 1st Debut Anniversary <NewJeans Day> D-2」と添え、ハッシュタグ#NewJeansDay、#NewJeans_1st_Anniversaryを付けた。",
+      "en": "Community post on the official YouTube channel (18:16 KST). An image captioned 'NewJeans 1st Debut Anniversary <NewJeans Day> D-2', with the hashtags #NewJeansDay and #NewJeans_1st_Anniversary."
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/UgkxcIrkdbkZvF1sYra2P_nfnTl9KoFRiomU",
+    "reference_urls": [
+      "https://www.youtube.com/post/UgkxcIrkdbkZvF1sYra2P_nfnTl9KoFRiomU"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "anniversary",
+      "NewJeansDay"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2023-07-20-newjeans-1st-debut-anniversary-newjeans-day-d-2. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
   },
   {
     "id": "sns-2023-07-22-debut-1st-anniversary-post",
@@ -2179,7 +2563,9 @@
       "en": "First-anniversary content for fanclub members, 'NewJeans 1st Anniversary with Bunnies', announced by the official X account with a Weverse link under the heading '[Bunnies Club]'. Bunnies Club is the Weverse-based service for official fanclub members."
     },
     "source_url": "https://x.com/NewJeans_ADOR/status/1682654211207725057",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/1682654211207725057"
+    ],
     "media": {
       "type": "x",
       "ref": "https://x.com/NewJeans_ADOR/status/1682654211207725057"
@@ -2189,7 +2575,7 @@
       "BunniesClub",
       "anniversary"
     ],
-    "verified": false,
+    "verified": true,
     "time": "16:30",
     "credits": {
       "account": "Weverse NewJeans official",
@@ -2198,7 +2584,7 @@
     "links": {
       "weverse": "https://weverse.onelink.me/qt3S/bve34pjn"
     },
-    "editor_note": "Weverse content itself not fetched (membership-gated); X post 1682654211207725057 verified via fxtwitter. Content of the Weverse post unknown beyond its title."
+    "editor_note": "Weverse content itself not fetched (membership-gated); X post 1682654211207725057 verified via fxtwitter. Content of the Weverse post unknown beyond its title. / 2026-10-24 nightly: fxtwitter re-check: @NewJeans_ADOR, 2023-07-22 16:30 KST, text '[Bunnies Club] NewJeans 1st Anniversary with Bunnies' with a Weverse link."
   },
   {
     "id": "sns-2023-08-17-tiktok-eta-challenge-with-jimin",
@@ -2231,6 +2617,7 @@
     },
     "source_url": "https://x.com/NewJeans_ADOR/status/1692084120011362590",
     "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/1692084120011362590",
       "https://sportskeeda.com/pop-culture/news-oh-my-god-bts-jimin-joins-new-jeans-eta-challenge-sending-fans-frenzy",
       "https://vt.tiktok.com/ZSLgBWmTC/"
     ],
@@ -2245,8 +2632,8 @@
       "challenge",
       "BTS"
     ],
-    "verified": false,
-    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1692084120011362590 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / What's your ETA ⏱️ with #BTS #Jimin 😆 /  / 🔗https://vt.tiktok.com/ZSLgBWmTC/ /  / #NewJeans #뉴진스 #DANIELLE #HANNI / #NewJeans_ETA / #Time_to_NewJeans. Time is that of the X cross-post; the TikTok upload may be slightly earlier. / Short link redirects to the TikTok home page from this network, so the full URL was found in the official account's TikTok playlist data (api/mix/item_list via headless Chromium) and verified 2026-10-16 via TikTok oEmbed: author newjeans_official, caption \"What's your ETA with #BTS #Jimin ... #NewJeans_ETA #Time_to_NewJeans\" (matches the X cross-post); TikTok createTime 2023-08-17 16:58 KST.",
+    "verified": true,
+    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1692084120011362590 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / What's your ETA ⏱️ with #BTS #Jimin 😆 /  / 🔗https://vt.tiktok.com/ZSLgBWmTC/ /  / #NewJeans #뉴진스 #DANIELLE #HANNI / #NewJeans_ETA / #Time_to_NewJeans. Time is that of the X cross-post; the TikTok upload may be slightly earlier. / Short link redirects to the TikTok home page from this network, so the full URL was found in the official account's TikTok playlist data (api/mix/item_list via headless Chromium) and verified 2026-10-16 via TikTok oEmbed: author newjeans_official, caption \"What's your ETA with #BTS #Jimin ... #NewJeans_ETA #Time_to_NewJeans\" (matches the X cross-post); TikTok createTime 2023-08-17 16:58 KST. / 2026-10-24 nightly: fxtwitter re-check: @NewJeans_ADOR, 2023-08-17 17:01 KST, text matches (#DANIELLE #HANNI).",
     "links": {
       "tiktok": "https://www.tiktok.com/@newjeans_official/video/7268197418263416082"
     }
@@ -2281,6 +2668,7 @@
     },
     "source_url": "https://x.com/NewJeans_ADOR/status/1693805343170826698",
     "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/1693805343170826698",
       "https://www.sportskeeda.com/pop-culture/news-come-on-main-slayer-fans-go-gaga-kim-tae-hyung-joins-newjeans-hype-boy-challenge",
       "https://vt.tiktok.com/ZSLsDJUoC/"
     ],
@@ -2295,11 +2683,53 @@
       "challenge",
       "BTS"
     ],
-    "verified": false,
-    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1693805343170826698 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / Hype 'V'oy with #BTS #V 🧸 /  / 🔗https://vt.tiktok.com/ZSLsDJUoC/ /  / #NewJeans #뉴진스  / #NewJeans_HypeBoy / #Time_to_NewJeans. Time is that of the X cross-post; the TikTok upload may be slightly earlier. / Full TikTok URL taken from the TikTok embeds on GMA Network and KBizoom coverage (vt.tiktok.com short link redirects to the TikTok home page from this network); verified 2026-10-16 via TikTok oEmbed: author newjeans_official, caption \"Hype 'V'oy with #BTS #V ... #NewJeans_HypeBoy #Time_to_NewJeans\" (matches the X cross-post); video-ID timestamp 2023-08-22 10:58 KST.",
+    "verified": true,
+    "editor_note": "TikTok video itself not fetched (vt.tiktok.com short link redirects to the TikTok top page for non-browser clients). The official X cross-post is the source: Status 1693805343170826698 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | X post text: [VIDEO📹] / Hype 'V'oy with #BTS #V 🧸 /  / 🔗https://vt.tiktok.com/ZSLsDJUoC/ /  / #NewJeans #뉴진스  / #NewJeans_HypeBoy / #Time_to_NewJeans. Time is that of the X cross-post; the TikTok upload may be slightly earlier. / Full TikTok URL taken from the TikTok embeds on GMA Network and KBizoom coverage (vt.tiktok.com short link redirects to the TikTok home page from this network); verified 2026-10-16 via TikTok oEmbed: author newjeans_official, caption \"Hype 'V'oy with #BTS #V ... #NewJeans_HypeBoy #Time_to_NewJeans\" (matches the X cross-post); video-ID timestamp 2023-08-22 10:58 KST. / 2026-10-24 nightly: fxtwitter re-check: @NewJeans_ADOR, 2023-08-22 11:00 KST, text matches.",
     "links": {
       "tiktok": "https://www.tiktok.com/@newjeans_official/video/7269960095524588818"
     }
+  },
+  {
+    "id": "sns-2023-10-06-youtube-happy-hanni-day",
+    "date": "2023-10-06",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：ハニの誕生日を祝う投稿",
+      "en": "YouTube community post: Happy Hanni Day"
+    },
+    "summary": {
+      "ja": "ハニの誕生日に、公式YouTubeチャンネルのコミュニティで画像付きの誕生日祝いを投稿した。",
+      "en": "On Hanni's birthday, the official YouTube channel posted a birthday message with an image to its community tab."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（00:00 KST）。画像に「HAPPY BIRTHDAY TO HANNI」と添え、ハッシュタグ#HAPPY_HANNI_DAYを付けた。",
+      "en": "Community post on the official YouTube channel (00:00 KST). An image captioned 'HAPPY BIRTHDAY TO HANNI', with the hashtag #HAPPY_HANNI_DAY."
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/Ugkxei9il0PPPoFYMdURH9phnAmnrHHHURl4",
+    "reference_urls": [
+      "https://www.youtube.com/post/Ugkxei9il0PPPoFYMdURH9phnAmnrHHHURl4"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "birthday"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2023-10-06-happy-hanni-day. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
   },
   {
     "id": "sns-2023-10-15-tiktok-ditto-challenge-with-jungkook",
@@ -2324,8 +2754,10 @@
       "ja": "BTSのJUNG KOOKが参加した「Ditto」チャレンジ動画の公式TikTok投稿。同時にJUNG KOOK側のアカウントでは、NewJeansと彼のソロ曲「3D」を踊る動画が公開された。",
       "en": "A 'Ditto' challenge video featuring BTS' Jung Kook, posted on NewJeans' official TikTok. At the same time Jung Kook's own account posted a video of him dancing to his solo '3D' with NewJeans."
     },
-    "source_url": "https://www.sportskeeda.com/pop-culture/news-everything-i-waiting-for-fans-react-bts-jungkook-newjeans-join-forces-3d-ditto-challenge",
+    "source_url": "https://www.tiktok.com/@newjeans_official/video/7289998786703789330",
     "reference_urls": [
+      "https://www.tiktok.com/@newjeans_official/video/7289998786703789330",
+      "https://www.sportskeeda.com/pop-culture/news-everything-i-waiting-for-fans-react-bts-jungkook-newjeans-join-forces-3d-ditto-challenge",
       "https://gulfnews.com/entertainment/watch-jungkook-and-newjeans-come-together-for-3d-and-ditto-tiktok-challenge-1.1697467282725"
     ],
     "media": {
@@ -2338,16 +2770,62 @@
       "challenge",
       "BTS"
     ],
-    "verified": false,
+    "verified": true,
     "credits": {
       "account": "@newjeans_official (TikTok)",
       "label": "ADOR"
     },
-    "editor_note": "Date 2023-10-14 from Sportskeeda; Gulf News (2023-10-16) says only \"this weekend\". TikTok video not fetched; no official X cross-post located. / Date 2023-10-14 from Sportskeeda; Gulf News (2023-10-16) says only 'this weekend' and reported both videos at close to three million views with the 'Ditto' clip ahead (post-dates the record, so left out of reader text). TikTok video not fetched; no official X cross-post located. / Official TikTok URL taken from the TikTok embed in the Gulf News report; verified 2026-10-16 via TikTok oEmbed: author newjeans_official, caption \"Ra-ta-ta-ta with #BTS #JungKook #NewJeans #뉴진스 #NewJeans_ditto\". Video-ID timestamp decodes to 2023-10-15 10:58 KST (2023-10-14 in US time zones), so the record date 2023-10-14 (Sportskeeda) reflects US time; KST upload date is 2023-10-15. / date moved to 2023-10-15 (TikTok createTime 10:58 KST; the 10-14 date was US time)",
+    "editor_note": "Date 2023-10-14 from Sportskeeda; Gulf News (2023-10-16) says only \"this weekend\". TikTok video not fetched; no official X cross-post located. / Date 2023-10-14 from Sportskeeda; Gulf News (2023-10-16) says only 'this weekend' and reported both videos at close to three million views with the 'Ditto' clip ahead (post-dates the record, so left out of reader text). TikTok video not fetched; no official X cross-post located. / Official TikTok URL taken from the TikTok embed in the Gulf News report; verified 2026-10-16 via TikTok oEmbed: author newjeans_official, caption \"Ra-ta-ta-ta with #BTS #JungKook #NewJeans #뉴진스 #NewJeans_ditto\". Video-ID timestamp decodes to 2023-10-15 10:58 KST (2023-10-14 in US time zones), so the record date 2023-10-14 (Sportskeeda) reflects US time; KST upload date is 2023-10-15. / date moved to 2023-10-15 (TikTok createTime 10:58 KST; the 10-14 date was US time) / 2026-10-24 nightly: TikTok video page data: uniqueId newjeans_official, desc 'Ra-ta-ta-ta with #BTS #JungKook #NewJeans #뉴진스 #NewJeans_ditto', createTime 1697335115 = 2023-10-15 10:58 KST. source_url switched from Sportskeeda to the official TikTok post. Jung Kook's own '3D' video not fetched.",
     "links": {
       "tiktok": "https://www.tiktok.com/@newjeans_official/video/7289998786703789330"
     },
     "time": "10:58"
+  },
+  {
+    "id": "sns-2023-10-15-youtube-ditto-performance-video-100m",
+    "date": "2023-10-15",
+    "time": "13:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：「Ditto」Performance Video 1億回再生の祝い",
+      "en": "YouTube community post: 'Ditto' Performance Video passes 100 million views"
+    },
+    "summary": {
+      "ja": "「Ditto」Performance VideoのYouTube再生回数が1億回に達したことを、公式YouTubeチャンネルのコミュニティで祝った。",
+      "en": "The official YouTube channel celebrated the 'Ditto' Performance Video reaching 100 million YouTube views."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（13:00 KST）。韓国語と英語で「『Ditto』Performance Videoの1億回再生達成を祝います」と書き、動画へのリンクとハッシュタグ#100MILLIONを付けた。",
+      "en": "Community post on the official YouTube channel (13:00 KST). In Korean and English it congratulated the 'Ditto' Performance Video on hitting 100 million views on YouTube, with a link to the video and the hashtag #100MILLION."
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/UgkxQYmls8ygkLg3OmOrDVCznCMXJ_n_r1Nc",
+    "reference_urls": [
+      "https://www.youtube.com/post/UgkxQYmls8ygkLg3OmOrDVCznCMXJ_n_r1Nc"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "milestone",
+      "Ditto"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2023-10-15-ditto-performance-video-passes-100-million-youtube-views. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations.",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Km71Rr9K-Bw"
+    }
   },
   {
     "id": "sns-2023-11-04-gods-worlds-2023",
@@ -2597,6 +3075,90 @@
       "brand": "Gucci Beauty"
     },
     "platform": "x"
+  },
+  {
+    "id": "sns-2024-04-11-youtube-happy-danielle-day",
+    "date": "2024-04-11",
+    "time": "00:07",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：ダニエルの誕生日を祝う投稿",
+      "en": "YouTube community post: Happy Danielle Day"
+    },
+    "summary": {
+      "ja": "ダニエルの誕生日に、公式YouTubeチャンネルのコミュニティで画像付きの誕生日祝いを投稿した。",
+      "en": "On Danielle's birthday, the official YouTube channel posted a birthday message with an image to its community tab."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（00:07 KST）。画像に「HAPPY BIRTHDAY TO DANIELLE」と添え、ハッシュタグ#HAPPY_DANIELLE_DAYを付けた。",
+      "en": "Community post on the official YouTube channel (00:07 KST). An image captioned 'HAPPY BIRTHDAY TO DANIELLE', with the hashtag #HAPPY_DANIELLE_DAY."
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/UgkxVMs1mOVKfL9_3ZqsF9VPKEscRq3hIfeu",
+    "reference_urls": [
+      "https://www.youtube.com/post/UgkxVMs1mOVKfL9_3ZqsF9VPKEscRq3hIfeu"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "birthday"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2024-04-11-happy-danielle-day. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2024-04-21-youtube-happy-hyein-day",
+    "date": "2024-04-21",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：ヘインの誕生日を祝う投稿",
+      "en": "YouTube community post: Happy Hyein Day"
+    },
+    "summary": {
+      "ja": "ヘインの誕生日に、公式YouTubeチャンネルのコミュニティで画像付きの誕生日祝いを投稿した。",
+      "en": "On Hyein's birthday, the official YouTube channel posted a birthday message with an image to its community tab."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（00:00 KST）。画像に「HAPPY BIRTHDAY TO HYEIN」と添え、ハッシュタグ#HAPPY_HYEIN_DAYを付けた。",
+      "en": "Community post on the official YouTube channel (00:00 KST). An image captioned 'HAPPY BIRTHDAY TO HYEIN', with the hashtag #HAPPY_HYEIN_DAY."
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/UgkxLFb3jNyeUK-gZh5s_Z69U5akZBcXY-nh",
+    "reference_urls": [
+      "https://www.youtube.com/post/UgkxLFb3jNyeUK-gZh5s_Z69U5akZBcXY-nh"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "birthday"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2024-04-21-happy-hyein-day. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
   },
   {
     "id": "sns-2024-04-25-ador-legal-action-notice",
@@ -2940,6 +3502,48 @@
     "editor_note": "Secondary source only (Kbizoom); Phoning not fetchable; quote is an English translation. / Secondary source only (Kbizoom, 2024-05-09); Phoning not fetchable; the quote is rendered from Kbizoom's English translation."
   },
   {
+    "id": "sns-2024-05-07-youtube-happy-minji-day",
+    "date": "2024-05-07",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：ミンジの誕生日を祝う投稿",
+      "en": "YouTube community post: Happy Minji Day"
+    },
+    "summary": {
+      "ja": "ミンジの誕生日に、公式YouTubeチャンネルのコミュニティで画像付きの誕生日祝いを投稿した。",
+      "en": "On Minji's birthday, the official YouTube channel posted a birthday message with an image to its community tab."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（00:00 KST）。画像に「HAPPY BIRTHDAY TO MINJI」と添え、ハッシュタグ#HAPPY_MINJI_DAYを付けた。",
+      "en": "Community post on the official YouTube channel (00:00 KST). An image captioned 'HAPPY BIRTHDAY TO MINJI', with the hashtag #HAPPY_MINJI_DAY."
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/Ugkxlb19Xg3H0h9Ebcm86yvOri9HKOrIjuJ-",
+    "reference_urls": [
+      "https://www.youtube.com/post/Ugkxlb19Xg3H0h9Ebcm86yvOri9HKOrIjuJ-"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "birthday"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2024-05-07-happy-minji-day. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
+  },
+  {
     "id": "sns-2024-05-08-danielle-phoning-message-quiet",
     "date": "2024-05-08",
     "date_type": "post",
@@ -3131,8 +3735,7 @@
       "en": "Revealed the Supernatural release T-shirt bearing NewJeans and the members' names handwritten by Hiroshi Fujiwara, with his signature. The shirt was due on sale at pop-up stores in Korea and Japan on June 21, 2024. Fujiwara also shared a memo of himself writing the names in Hangul."
     },
     "credits": {
-      "account": "@newjeans_official",
-      "label": "ADOR"
+      "account": "@fujiwarahiroshi"
     },
     "source_url": "https://www.instagram.com/p/C65VTGTrIaz/",
     "reference_urls": [
@@ -3142,14 +3745,55 @@
       "type": "none"
     },
     "tags": [
-      "@newjeans_official",
       "Supernatural",
       "FujiwaraHiroshi",
       "goods",
       "collaboration"
     ],
     "verified": false,
-    "editor_note": "Instagram page not fetchable; shortcode C65VTGTrIaz found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-05-13 13:49:09 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode C65VTGTrIaz embedded in Marie Claire Korea's same-day article, source of the T-shirt description; time derived from the shortcode (= 13:49:09 KST). Caption not retrieved."
+    "editor_note": "Instagram page not fetchable; shortcode C65VTGTrIaz found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-05-13 13:49:09 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode C65VTGTrIaz embedded in Marie Claire Korea's same-day article, source of the T-shirt description; time derived from the shortcode (= 13:49:09 KST). Caption not retrieved. / 2026-10-24 nightly (review queue): Instagram oEmbed confirms C65VTGTrIaz is by @fujiwarahiroshi (2024-05-13 13:49 KST, empty caption), not @newjeans_official; credits/tags corrected. Reader text still calls it an official post. Needs a decision: replace with an official NewJeans post on the T-shirt if one exists, or move/delete (sns covers official accounts only; category not changed here)."
+  },
+  {
+    "id": "sns-2024-05-15-youtube-happy-haerin-day",
+    "date": "2024-05-15",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：ヘリンの誕生日を祝う投稿",
+      "en": "YouTube community post: Happy Haerin Day"
+    },
+    "summary": {
+      "ja": "ヘリンの誕生日に、公式YouTubeチャンネルのコミュニティで画像付きの誕生日祝いを投稿した。",
+      "en": "On Haerin's birthday, the official YouTube channel posted a birthday message with an image to its community tab."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（00:00 KST）。画像に「HAPPY BIRTHDAY TO HAERIN」と添え、ハッシュタグ#HAPPY_HAERIN_DAYを付けた。",
+      "en": "Community post on the official YouTube channel (00:00 KST). An image captioned 'HAPPY BIRTHDAY TO HAERIN', with the hashtag #HAPPY_HAERIN_DAY."
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/Ugkx0EPKR5nM9Jox8FEZG2aIYKtJddxG2ero",
+    "reference_urls": [
+      "https://www.youtube.com/post/Ugkx0EPKR5nM9Jox8FEZG2aIYKtJddxG2ero"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "birthday"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2024-05-15-happy-haerin-day. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
   },
   {
     "id": "sns-2024-05-20-how-sweet-release-schedule-phoning",
@@ -3656,8 +4300,7 @@
       "en": "Photos from 'Bunnies Camp 2024 Tokyo Dome', held on June 26-27 for about 91,200 attendees. They show the Eri Wakiyama-collaboration character T-shirts the members wore on stage."
     },
     "credits": {
-      "account": "@newjeans_official",
-      "label": "ADOR"
+      "account": "@mermaidhair"
     },
     "source_url": "https://www.instagram.com/p/C8yjQadg_hC/",
     "reference_urls": [
@@ -3667,13 +4310,55 @@
       "type": "none"
     },
     "tags": [
-      "@newjeans_official",
       "BunniesCamp",
       "TokyoDome",
       "photo"
     ],
     "verified": false,
-    "editor_note": "Instagram page not fetchable; shortcode C8yjQadg_hC found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-06-29 15:39:13 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode C8yjQadg_hC embedded in Vogue Korea's 2024-07-01 article introducing the Eri Wakiyama T-shirts; time derived from the shortcode (= 15:39:13 KST). Caption not retrieved; attendance figure from event coverage."
+    "editor_note": "Instagram page not fetchable; shortcode C8yjQadg_hC found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-06-29 15:39:13 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode C8yjQadg_hC embedded in Vogue Korea's 2024-07-01 article introducing the Eri Wakiyama T-shirts; time derived from the shortcode (= 15:39:13 KST). Caption not retrieved; attendance figure from event coverage. / 2026-10-24 nightly (review queue): Instagram oEmbed confirms C8yjQadg_hC is by @mermaidhair (2024-06-29 15:39 KST); the caption says the poster drew portraits of all 5 members of @newjeans_official as a project due on her birthday, i.e. it is the illustrator's own post, not an official Tokyo Dome photo post. Credits/tags corrected; reader text (official photo post, attendance) does not match the post. Needs a decision: delete, or replace with an official @newjeans_official post on the Tokyo Dome T-shirts."
+  },
+  {
+    "id": "sns-2024-07-20-youtube-newjeans-day-on-air-d-2",
+    "date": "2024-07-20",
+    "time": "19:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：デビュー2周年「NewJeans Day On Air」D-2の告知",
+      "en": "YouTube community post: debut 2nd anniversary 'NewJeans Day On Air' D-2 notice"
+    },
+    "summary": {
+      "ja": "デビュー2周年の7月22日0時から19時まで公式YouTubeチャンネルで行う「NewJeans Day On Air」を告知した。",
+      "en": "Announced 'NewJeans Day On Air' on the official YouTube channel from midnight to 7 PM KST on July 22, the debut 2nd anniversary."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（19:00 KST）。「[NewJeans Day] NewJeans 2nd Debut Anniversary <NewJeans Day On Air> D-2」として、2024年7月22日（月）0時から19時（KST）までNewJeansのYouTubeチャンネルで行うと告知した。",
+      "en": "Community post on the official YouTube channel (19:00 KST). Headed '[NewJeans Day] NewJeans 2nd Debut Anniversary <NewJeans Day On Air> D-2', it announced the event on the NewJeans YouTube channel on Mon July 22, 2024, from 0:00 to 19:00 KST."
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/UgkxUpmN6IQ5bmCAbJdWsfI2IxG0NX_9Y9MF",
+    "reference_urls": [
+      "https://www.youtube.com/post/UgkxUpmN6IQ5bmCAbJdWsfI2IxG0NX_9Y9MF"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "anniversary",
+      "NewJeansDay"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2024-07-20-newjeans-day-newjeans-2nd-debut-anniversary-newjeans-day-on. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
   },
   {
     "id": "sns-2024-07-22-2-years-of-newjeans",
@@ -4112,6 +4797,91 @@
     "platform": "x"
   },
   {
+    "id": "sns-2024-10-06-youtube-happy-hanni-day",
+    "date": "2024-10-06",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：ハニの誕生日を祝う投稿",
+      "en": "YouTube community post: Happy Hanni Day"
+    },
+    "summary": {
+      "ja": "ハニの誕生日に、公式YouTubeチャンネルのコミュニティで画像付きの誕生日祝いを投稿した。",
+      "en": "On Hanni's birthday, the official YouTube channel posted a birthday message with an image to its community tab."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（00:00 KST）。画像に「HAPPY BIRTHDAY TO HANNI」と添え、ハッシュタグ#HAPPY_HANNI_DAYを付けた。",
+      "en": "Community post on the official YouTube channel (00:00 KST). An image captioned 'HAPPY BIRTHDAY TO HANNI', with the hashtag #HAPPY_HANNI_DAY."
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/UgkxEPdCGGT4Aul1OG2ixiiLDnb5wWUxqnqv",
+    "reference_urls": [
+      "https://www.youtube.com/post/UgkxEPdCGGT4Aul1OG2ixiiLDnb5wWUxqnqv"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "birthday"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2024-10-06-happy-hanni-day. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2024-10-29-youtube-happy-2nd-bunnies-day",
+    "date": "2024-10-29",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：「Happy 2nd Bunnies Day」投稿",
+      "en": "YouTube community post: 'Happy 2nd Bunnies Day'"
+    },
+    "summary": {
+      "ja": "2回目の「Bunnies Day」を祝い、ファンに感謝を伝える画像付きの投稿を公式YouTubeチャンネルのコミュニティに掲載した。",
+      "en": "The official YouTube channel posted an image to its community tab celebrating the 2nd Bunnies Day."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（00:00 KST）。「[Bunnies Day]」の見出しで画像に「Happy 2nd Bunnies Day! Thank you Bunnies」と添え、ハッシュタグ#Happy2ndBunniesDay、#Bunniesを付けた。",
+      "en": "Community post on the official YouTube channel (00:00 KST). Headed '[Bunnies Day]', an image captioned 'Happy 2nd Bunnies Day! Thank you Bunnies', with the hashtags #Happy2ndBunniesDay and #Bunnies."
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/UgkxULY9hFT0QZfvLaWR3WK2T7Dj5nysaWU6",
+    "reference_urls": [
+      "https://www.youtube.com/post/UgkxULY9hFT0QZfvLaWR3WK2T7Dj5nysaWU6"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "anniversary",
+      "Bunnies"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2024-10-29-bunnies-day-happy-2nd-bunnies-day-thank-you-bunnies. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
+  },
+  {
     "id": "sns-2024-11-28-members-phoning-parting-messages",
     "date": "2024-11-28",
     "date_type": "post",
@@ -4222,7 +4992,7 @@
       "account"
     ],
     "verified": false,
-    "editor_note": "Exact opening date not confirmed (month precision). Rebrand to NJZ announced on Instagram 2025-02-07. After the 2025-03-21 injunction the account later went dormant/renamed. | Removed 'in February 2025' retrospective framing from the summary. | fxtwitter returns 'User not found' for @NJZ_official as of 2026-10-14 (account renamed/removed). Soapcentral page blocked (Cloudflare); date 02-27 from WebSearch summary of fan-news coverage, unverified against the platform. | exact opening date unconfirmed; month precision / No Instagram post applies: the record is about the @NJZ_official X account opening (platform field says instagram but the subject is X); the members' Instagram (@njz_official, later @mhdhh_friends) had all posts deleted in April 2025 (Malay Mail 2025-04-05), so no NJZ-era Instagram post can be embedded. / platform corrected to x (record is about the @NJZ_official X account)",
+    "editor_note": "Exact opening date not confirmed (month precision). Rebrand to NJZ announced on Instagram 2025-02-07. After the 2025-03-21 injunction the account later went dormant/renamed. | Removed 'in February 2025' retrospective framing from the summary. | fxtwitter returns 'User not found' for @NJZ_official as of 2026-10-14 (account renamed/removed). Soapcentral page blocked (Cloudflare); date 02-27 from WebSearch summary of fan-news coverage, unverified against the platform. | exact opening date unconfirmed; month precision / No Instagram post applies: the record is about the @NJZ_official X account opening (platform field says instagram but the subject is X); the members' Instagram (@njz_official, later @mhdhh_friends) had all posts deleted in April 2025 (Malay Mail 2025-04-05), so no NJZ-era Instagram post can be embedded. / platform corrected to x (record is about the @NJZ_official X account) / 2026-10-24 nightly (review queue): fxtwitter profile API: @NJZ_official joined Mon 2025-02-03 13:55:04 UTC; the account id 1886412972349947904 decodes to 2025-02-03 22:54 KST. The earliest status still visible is 2025-03-03 20:00 KST. Date not changed: 02-03 is the account's creation, four days before the NJZ name was revealed (02-07), so a record dated 02-03 would name NJZ before the reveal and its detail (02-07, 02-27) would become future events. Needs a decision: date to creation (rewrite reader text) or to the public announcement once confirmed.",
     "detail": {
       "ja": "ADORとの専属契約をめぐる紛争の中で開設されたNJZ名義の公式アカウント。メンバーは2025年2月7日に新名称NJZとロゴを発表し、同月後半（報道では2月27日）に@NJZ_official名義のX、YouTube、TikTokアカウントの開設を各自のInstagramで告知した。各アカウントは「NJZ」の文字とうさぎの顔を共通のブランディングに用いた。ADORは、事前協議なく開設されたアカウントは専属契約違反にあたるとの立場を示した。",
       "en": "Official accounts under the NJZ name, opened amid the dispute over the members' exclusive contract with ADOR. The members announced the new name NJZ and logo on February 7, 2025 and, later that month (February 27 per reports), used their personal Instagram accounts to announce X, YouTube and TikTok accounts under @NJZ_official. The accounts shared the branding of the letters 'NJZ' with a bunny face. ADOR stated that accounts opened without prior consultation breached the exclusive contract."
@@ -4319,6 +5089,48 @@
     "editor_note": "Weverse notice not fetched (login-gated); existence/title/date confirmed from X post 1905062215872360903 (fxtwitter). Posted 6 days after the 2025-03-21 court injunction; entity kept newjeans as it is an ADOR notice."
   },
   {
+    "id": "sns-2025-04-11-youtube-happy-danielle-day",
+    "date": "2025-04-11",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：ダニエルの誕生日を祝う投稿",
+      "en": "YouTube community post: Happy Danielle Day"
+    },
+    "summary": {
+      "ja": "ダニエルの誕生日に、公式YouTubeチャンネルのコミュニティで画像付きの誕生日祝いを投稿した。",
+      "en": "On Danielle's birthday, the official YouTube channel posted a birthday message with an image to its community tab."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（00:00 KST）。画像に「HAPPY BIRTHDAY TO DANIELLE」と添え、ハッシュタグ#HAPPY_DANIELLE_DAYを付けた。",
+      "en": "Community post on the official YouTube channel (00:00 KST). An image captioned 'HAPPY BIRTHDAY TO DANIELLE', with the hashtag #HAPPY_DANIELLE_DAY."
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/UgkxAqiRqn1wDO5q6X_3Wah3Fkt2iaH3gpQH",
+    "reference_urls": [
+      "https://www.youtube.com/post/UgkxAqiRqn1wDO5q6X_3Wah3Fkt2iaH3gpQH"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "birthday"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2025-04-11-happy-danielle-day. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
+  },
+  {
     "id": "sns-2025-04-16-mhdhh-friends-1000-days-post",
     "date": "2025-04-16",
     "date_type": "post",
@@ -4358,6 +5170,132 @@
     ],
     "verified": false,
     "editor_note": "Members' self-run account (renamed from @jeanzforfree during the NJZ period). Entity kept as newjeans because the post marks NewJeans' 1,000th day; posted after the 2025-03-21 court injunction, during the activity pause. Post shortcode not located. / Post content known only through reports; shortcode not located. Members' self-run account (renamed from @jeanzforfree during the NJZ period); entity kept as newjeans because the post marks NewJeans' 1,000th day; posted after the 2025-03-21 injunction. / No feed-post URL exists: the 1,000-day sunflower message was an Instagram Story on @mhdhh_friends (Wikitree photo credit '@mhdhh_friends (Instagram Story)'; Recreio: shared 'utilizando a ferramenta stories'), so it has expired and cannot be embedded."
+  },
+  {
+    "id": "sns-2025-04-21-youtube-happy-hyein-day",
+    "date": "2025-04-21",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：ヘインの誕生日を祝う投稿",
+      "en": "YouTube community post: Happy Hyein Day"
+    },
+    "summary": {
+      "ja": "ヘインの誕生日に、公式YouTubeチャンネルのコミュニティで画像付きの誕生日祝いを投稿した。",
+      "en": "On Hyein's birthday, the official YouTube channel posted a birthday message with an image to its community tab."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（00:00 KST）。画像に「HAPPY BIRTHDAY TO HYEIN」と添え、ハッシュタグ#HAPPY_HYEIN_DAYを付けた。",
+      "en": "Community post on the official YouTube channel (00:00 KST). An image captioned 'HAPPY BIRTHDAY TO HYEIN', with the hashtag #HAPPY_HYEIN_DAY."
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/UgkxBFeNzbe2G_Cw3ciDE8WV8nao0YscoCQC",
+    "reference_urls": [
+      "https://www.youtube.com/post/UgkxBFeNzbe2G_Cw3ciDE8WV8nao0YscoCQC"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "birthday"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2025-04-21-happy-hyein-day. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2025-05-07-youtube-happy-minji-day",
+    "date": "2025-05-07",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：ミンジの誕生日を祝う投稿",
+      "en": "YouTube community post: Happy Minji Day"
+    },
+    "summary": {
+      "ja": "ミンジの誕生日に、公式YouTubeチャンネルのコミュニティで画像付きの誕生日祝いを投稿した。",
+      "en": "On Minji's birthday, the official YouTube channel posted a birthday message with an image to its community tab."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（00:00 KST）。画像に「HAPPY BIRTHDAY TO MINJI」と添え、ハッシュタグ#HAPPY_MINJI_DAYを付けた。",
+      "en": "Community post on the official YouTube channel (00:00 KST). An image captioned 'HAPPY BIRTHDAY TO MINJI', with the hashtag #HAPPY_MINJI_DAY."
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/UgkxSZGNwLiYdlrVlPEhaGwFZTK7bhsASiI9",
+    "reference_urls": [
+      "https://www.youtube.com/post/UgkxSZGNwLiYdlrVlPEhaGwFZTK7bhsASiI9"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "birthday"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2025-05-07-happy-minji-day. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2025-05-15-youtube-happy-haerin-day",
+    "date": "2025-05-15",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：ヘリンの誕生日を祝う投稿",
+      "en": "YouTube community post: Happy Haerin Day"
+    },
+    "summary": {
+      "ja": "ヘリンの誕生日に、公式YouTubeチャンネルのコミュニティで画像付きの誕生日祝いを投稿した。",
+      "en": "On Haerin's birthday, the official YouTube channel posted a birthday message with an image to its community tab."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（00:00 KST）。画像に「HAPPY BIRTHDAY TO HAERIN」と添え、ハッシュタグ#HAPPY_HAERIN_DAYを付けた。",
+      "en": "Community post on the official YouTube channel (00:00 KST). An image captioned 'HAPPY BIRTHDAY TO HAERIN', with the hashtag #HAPPY_HAERIN_DAY."
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/UgkxpHvadZHu0sChOk_D-SuLTec-rH9g4NpK",
+    "reference_urls": [
+      "https://www.youtube.com/post/UgkxpHvadZHu0sChOk_D-SuLTec-rH9g4NpK"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "birthday"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2025-05-15-happy-haerin-day. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
   },
   {
     "id": "sns-2025-07-18-3rd-anniversary-d-4-on-air",
@@ -4403,6 +5341,49 @@
     "editor_note": "Post text: [NewJeans Day🎂] / NewJeans Debut 3rd Anniversary D-4 🎉  /  / ✅NewJeans Day On-Air  /  / #NewJeans #뉴진스  / #NewJeansDay #NewJeans_3rd_Anniversary | Status 1946132839013199918 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations. | D-3 1946510321080045714, D-2 1946872787920212394, D-1 1947204919909593232 also in fx cache (verified)."
   },
   {
+    "id": "sns-2025-07-20-youtube-newjeans-day-on-air-d-2",
+    "date": "2025-07-20",
+    "time": "19:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：デビュー3周年「NewJeans Day On Air」D-2の告知",
+      "en": "YouTube community post: debut 3rd anniversary 'NewJeans Day On Air' D-2 notice"
+    },
+    "summary": {
+      "ja": "デビュー3周年の7月22日0時から19時まで公式YouTubeチャンネルで行う「NewJeans Day On Air」を告知した。",
+      "en": "Announced 'NewJeans Day On Air' on the official YouTube channel from midnight to 7 PM KST on July 22, the debut 3rd anniversary."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（19:00 KST）。「[NewJeans Day] NewJeans Debut 3rd Anniversary <NewJeans Day On Air> D-2」として、2025年7月22日（火）0時から19時（KST）までNewJeansのYouTubeチャンネルで行うと告知した。",
+      "en": "Community post on the official YouTube channel (19:00 KST). Headed '[NewJeans Day] NewJeans Debut 3rd Anniversary <NewJeans Day On Air> D-2', it announced the event on the NewJeans YouTube channel on Tue July 22, 2025, from 0:00 to 19:00 KST."
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/UgkxlYcau7jUi9PQJ3M_R5A2fvUaN_q4p6TR",
+    "reference_urls": [
+      "https://www.youtube.com/post/UgkxlYcau7jUi9PQJ3M_R5A2fvUaN_q4p6TR"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "anniversary",
+      "NewJeansDay"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2025-07-20-newjeans-day-newjeans-debut-3rd-anniversary-newjeans-day-on. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
+  },
+  {
     "id": "sns-2025-07-22-happy-3rd-anniversary-post",
     "date": "2025-07-22",
     "time": "00:00",
@@ -4443,6 +5424,91 @@
     ],
     "verified": true,
     "editor_note": "Post text: [NewJeans Day🎂]  / Happy 3rd Anniversary🩷 /  / #NewJeans #뉴진스  / #NewJeansDay #NewJeans_3rd_Anniversary | Status 1947310605204943140 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2025-10-06-youtube-happy-hanni-day",
+    "date": "2025-10-06",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：ハニの誕生日を祝う投稿",
+      "en": "YouTube community post: Happy Hanni Day"
+    },
+    "summary": {
+      "ja": "ハニの誕生日に、公式YouTubeチャンネルのコミュニティで画像付きの誕生日祝いを投稿した。",
+      "en": "On Hanni's birthday, the official YouTube channel posted a birthday message with an image to its community tab."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（00:00 KST）。画像に「HAPPY BIRTHDAY TO HANNI」と添え、ハッシュタグ#HAPPY_HANNI_DAYを付けた。",
+      "en": "Community post on the official YouTube channel (00:00 KST). An image captioned 'HAPPY BIRTHDAY TO HANNI', with the hashtag #HAPPY_HANNI_DAY."
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/UgkxFoleqw41ly3YpyZ0HN0ShESowbv7-VLl",
+    "reference_urls": [
+      "https://www.youtube.com/post/UgkxFoleqw41ly3YpyZ0HN0ShESowbv7-VLl"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "birthday"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2025-10-06-happy-hanni-day. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
+  },
+  {
+    "id": "sns-2025-10-29-youtube-happy-3rd-bunnies-day",
+    "date": "2025-10-29",
+    "time": "13:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "YouTubeコミュニティ：「Happy 3rd Bunnies Day」投稿",
+      "en": "YouTube community post: 'Happy 3rd Bunnies Day'"
+    },
+    "summary": {
+      "ja": "3回目の「Bunnies Day」を祝う画像付きの投稿を、公式YouTubeチャンネルのコミュニティに掲載した。",
+      "en": "The official YouTube channel posted an image to its community tab celebrating the 3rd Bunnies Day."
+    },
+    "detail": {
+      "ja": "公式YouTubeチャンネルのコミュニティ投稿（13:00 KST）。「[Bunnies Day]」の見出しで画像に「Happy 3rd Bunnies Day」と添え、ハッシュタグ#Happy3rdBunniesDay、#Bunniesを付けた。",
+      "en": "Community post on the official YouTube channel (13:00 KST). Headed '[Bunnies Day]', an image captioned 'Happy 3rd Bunnies Day', with the hashtags #Happy3rdBunniesDay and #Bunnies."
+    },
+    "credits": {
+      "account": "@NewJeans_official (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/post/Ugkxd8Y1GpYK9yfayKwi2eadKrA_Ha2UQ9m3",
+    "reference_urls": [
+      "https://www.youtube.com/post/Ugkxd8Y1GpYK9yfayKwi2eadKrA_Ha2UQ9m3"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "youtube-community",
+      "anniversary",
+      "Bunnies"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item youtube-2025-10-29-bunnies-day-happy-3rd-bunnies-day. Post author, text and time confirmed from the YouTube post page (ytInitialData backstagePostRenderer; embedded ISO timestamp converted to KST); emoji omitted from quotations."
   },
   {
     "id": "sns-2026-04-21-happy-hyein-day",
@@ -4613,5 +5679,49 @@
     ],
     "verified": false,
     "editor_note": "Instagram page not fetchable; shortcode DbDzM-jEjM7 found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2026-07-22 00:07:28 KST. Post caption not retrieved; content described from the article context. | Danielle not included (contract terminated 2025-12-29 per reports). Official X post for the 4th anniversary not located (no status ID found). / Instagram page not fetchable; shortcode DbDzM-jEjM7 embedded in Bandwagon Asia's same-day article and others; time derived from the shortcode (= 00:07:28 KST). Caption not retrieved; content described from the article context. Danielle not included (contract terminated 2025-12-29 per reports). Official X anniversary post not located."
+  },
+  {
+    "id": "sns-2026-10-06-x-happy-hanni-day",
+    "date": "2026-10-06",
+    "time": "00:00",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "platform": "x",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "X：ハニの誕生日を祝う「Photo by HANNI」投稿",
+      "en": "X post: Happy Hanni Day ('Photo by HANNI')"
+    },
+    "summary": {
+      "ja": "ハニの誕生日の0時に、公式Xでハニ自身が撮った写真2点を「Photo by HANNI」として投稿した。",
+      "en": "At midnight on Hanni's birthday, the official X account posted two photos credited 'Photo by HANNI'."
+    },
+    "detail": {
+      "ja": "公式X（@NewJeans_ADOR）の投稿（00:00 KST）。「HAPPY HANNI DAY」「Photo by HANNI」と添えて写真2点を掲載し、ハッシュタグ#HAPPY_HANNI_DAYを付けた。",
+      "en": "Post by the official X account (@NewJeans_ADOR) at 00:00 KST. Captioned 'HAPPY HANNI DAY' and 'Photo by HANNI', with two photos and the hashtag #HAPPY_HANNI_DAY."
+    },
+    "credits": {
+      "account": "@NewJeans_ADOR",
+      "label": "ADOR"
+    },
+    "source_url": "https://x.com/NewJeans_ADOR/status/2107123659752235210",
+    "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/2107123659752235210",
+      "https://sports.khan.co.kr/en/article/202610061649007"
+    ],
+    "media": {
+      "type": "x",
+      "ref": "https://x.com/NewJeans_ADOR/status/2107123659752235210"
+    },
+    "tags": [
+      "@NewJeans_ADOR",
+      "birthday"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: created from the sns_posts ledger item x-2026-10-06-happy-hanni-day-birthday-post-photo-by-hanni. Status text, media count and timestamp verified via fxtwitter API (api.fxtwitter.com); emoji omitted from quotations."
   }
 ]

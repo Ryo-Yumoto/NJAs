@@ -3786,6 +3786,8 @@
     },
     "source_url": "https://www.youtube.com/watch?v=SN1Gb4Pqdo4",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=SN1Gb4Pqdo4",
+      "https://thetv.jp/program/0001033245/1/",
       "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
     ],
     "media": {
@@ -3798,8 +3800,8 @@
       "japan",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Broadcast date per ja.wikipedia NewJeans and en.wikipedia live performances list. YouTube page read via reader; upload date on YouTube: Jul 31, 2023 (PT).",
+    "verified": true,
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Broadcast date per ja.wikipedia NewJeans and en.wikipedia live performances list. YouTube page read via reader; upload date on YouTube: Jul 31, 2023 (PT). / 2026-10-24 nightly: KST publish date confirmed via YouTube next API (timeZone Asia/Seoul); runtime checked against the channel's video list. Ongaku no Hi 2023 broadcast date (2023-07-15, TBS) per thetv.jp programme page.",
     "detail": {
       "ja": "7月15日にTBS系で放送された『音楽の日 2023』で披露した「OMG」のステージカム映像で、NewJeans公式YouTubeチャンネルに公開された。収録時間は3分38秒。",
       "en": "Stage-cam video of 'OMG' as performed on TBS's Ongaku no Hi 2023 broadcast of 15 July, posted on the NewJeans YouTube channel. Running time 3:38."
@@ -4033,8 +4035,8 @@
     }
   },
   {
-    "id": "mv-2023-10-10-2023-tma-dance-practice",
-    "date": "2023-10-10",
+    "id": "mv-2023-10-11-2023-tma-dance-practice",
+    "date": "2023-10-11",
     "date_type": "release",
     "date_precision": "day",
     "category": "mv",
@@ -4051,7 +4053,11 @@
       "en": "Practice video for the 'Super Shy' and 'ETA' stage at the 2023 The Fact Music Awards (10 October, Namdong Gymnasium, Incheon)."
     },
     "source_url": "https://www.youtube.com/watch?v=jeKFPHa9Kec",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=jeKFPHa9Kec",
+      "https://news.tf.co.kr/read/ogmeta/2048307.htm",
+      "https://www.youtube.com/watch?v=ND0uxS6pxFk"
+    ],
     "media": {
       "type": "youtube",
       "ref": "jeKFPHa9Kec"
@@ -4061,11 +4067,11 @@
       "award-show",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Event date/venue from en.wikipedia List_of_NewJeans_live_performances; YouTube upload date Oct 10, 2023 (PT).",
+    "verified": true,
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Event date/venue from en.wikipedia List_of_NewJeans_live_performances; YouTube upload date Oct 10, 2023 (PT). / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) gives the KST publish date as 2023-10-11, not 10-10 (10-10 was the US date); date and detail corrected. Event date/venue confirmed by the organiser's outlet The Fact (2023-10-10 17:01 KST); songs per the official TMA channel stage video ND0uxS6pxFk ('Super Shy' + 'ETA').",
     "detail": {
-      "ja": "10月10日に仁川のNamdong Gymnasiumで行われた2023 The Fact Music Awardsのステージ（「Super Shy」「ETA」）の振付を練習室で収めた映像で、同日にNewJeans公式YouTubeチャンネルで公開された。収録時間は6分05秒。",
-      "en": "Practice-room dance video for the 2023 The Fact Music Awards stage ('Super Shy' and 'ETA') performed on 10 October at Namdong Gymnasium, Incheon, published on the NewJeans YouTube channel the same day. Running time 6:05."
+      "ja": "10月10日に仁川の南洞体育館で行われた2023 The Fact Music Awardsのステージ（「Super Shy」「ETA」）の振付を練習室で収めた映像で、翌11日にNewJeans公式YouTubeチャンネルで公開された。収録時間は6分05秒。",
+      "en": "Practice-room dance video for the 2023 The Fact Music Awards stage ('Super Shy' and 'ETA') performed on 10 October at Namdong Gymnasium, Incheon, published on the NewJeans YouTube channel the following day. Running time 6:05."
     },
     "credits": {
       "channel": "NewJeans",
@@ -4094,7 +4100,9 @@
       "en": "Stage cam of 'ETA' from the Seoul National University festival, posted alongside stage cams from other universities the same day."
     },
     "source_url": "https://www.youtube.com/watch?v=qI8J7zPwYEE",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=qI8J7zPwYEE"
+    ],
     "media": {
       "type": "youtube",
       "ref": "qI8J7zPwYEE"
@@ -4105,8 +4113,8 @@
       "university-festival",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Festival performance date not sourced; YouTube upload date Nov 2, 2023 (PT). 2024 tour context from Korea JoongAng Daily (2024-05-26).",
+    "verified": true,
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Festival performance date not sourced; YouTube upload date Nov 2, 2023 (PT). 2024 tour context from Korea JoongAng Daily (2024-05-26). / 2026-10-24 nightly: KST publish date confirmed via YouTube next API (timeZone Asia/Seoul); runtime checked against the channel's video list.",
     "detail": {
       "ja": "ソウル大学校の大学祭ステージで披露した「ETA」のステージカム映像で、NewJeans公式YouTubeチャンネルで公開された。2023年の大学祭出演の一つで、同日に他の大学でのステージカムも公開された。",
       "en": "Stage-cam video of 'ETA' performed at the Seoul National University festival, published on the NewJeans YouTube channel. One of the group's 2023 university festival appearances; stage cams from other universities went up the same day."
@@ -4136,7 +4144,9 @@
       "en": "Stage cam of 'Hype Boy' from the Hongik University festival, posted alongside stage cams from other universities the same day."
     },
     "source_url": "https://www.youtube.com/watch?v=-sXbmJd_KHM",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=-sXbmJd_KHM"
+    ],
     "media": {
       "type": "youtube",
       "ref": "-sXbmJd_KHM"
@@ -4147,8 +4157,8 @@
       "university-festival",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Festival performance date not sourced; YouTube upload date Nov 2, 2023 (PT). 2024 tour context from Korea JoongAng Daily (2024-05-26).",
+    "verified": true,
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Festival performance date not sourced; YouTube upload date Nov 2, 2023 (PT). 2024 tour context from Korea JoongAng Daily (2024-05-26). / 2026-10-24 nightly: KST publish date confirmed via YouTube next API (timeZone Asia/Seoul); runtime checked against the channel's video list.",
     "detail": {
       "ja": "弘益大学校の大学祭ステージで披露した「Hype Boy」のステージカム映像で、NewJeans公式YouTubeチャンネルで公開された。2023年の大学祭出演の一つで、同日に他の大学でのステージカムも公開された。収録時間は3分23秒。",
       "en": "Stage-cam video of 'Hype Boy' performed at the Hongik University festival, published on the NewJeans YouTube channel. One of the group's 2023 university festival appearances; stage cams from other universities went up the same day. Running time 3:23."
@@ -4179,7 +4189,9 @@
       "en": "Stage cam of 'OMG' from the Sungkyunkwan University festival, posted alongside stage cams from other universities the same day."
     },
     "source_url": "https://www.youtube.com/watch?v=QWF61fHJa7g",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=QWF61fHJa7g"
+    ],
     "media": {
       "type": "youtube",
       "ref": "QWF61fHJa7g"
@@ -4190,8 +4202,8 @@
       "university-festival",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Festival performance date not sourced; YouTube upload date Nov 2, 2023 (PT). 2024 tour context from Korea JoongAng Daily (2024-05-26).",
+    "verified": true,
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Festival performance date not sourced; YouTube upload date Nov 2, 2023 (PT). 2024 tour context from Korea JoongAng Daily (2024-05-26). / 2026-10-24 nightly: KST publish date confirmed via YouTube next API (timeZone Asia/Seoul); runtime checked against the channel's video list.",
     "detail": {
       "ja": "成均館大学校の大学祭ステージで披露した「OMG」のステージカム映像で、NewJeans公式YouTubeチャンネルで公開された。2023年の大学祭出演の一つで、同日に他の大学でのステージカムも公開された。収録時間は3分41秒。",
       "en": "Stage-cam video of 'OMG' performed at the Sungkyunkwan University festival, published on the NewJeans YouTube channel. One of the group's 2023 university festival appearances; stage cams from other universities went up the same day. Running time 3:41."
@@ -4222,7 +4234,9 @@
       "en": "Stage cam of 'Super Shy' from the Kyung Hee University festival, posted alongside stage cams from other universities the same day."
     },
     "source_url": "https://www.youtube.com/watch?v=GLGk6TGANP8",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=GLGk6TGANP8"
+    ],
     "media": {
       "type": "youtube",
       "ref": "GLGk6TGANP8"
@@ -4233,8 +4247,8 @@
       "university-festival",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Festival performance date not sourced; YouTube upload date Nov 2, 2023 (PT). 2024 tour context from Korea JoongAng Daily (2024-05-26).",
+    "verified": true,
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Festival performance date not sourced; YouTube upload date Nov 2, 2023 (PT). 2024 tour context from Korea JoongAng Daily (2024-05-26). / 2026-10-24 nightly: KST publish date confirmed via YouTube next API (timeZone Asia/Seoul); runtime checked against the channel's video list.",
     "detail": {
       "ja": "慶熙大学校の大学祭ステージで披露した「Super Shy」のステージカム映像で、NewJeans公式YouTubeチャンネルで公開された。2023年の大学祭出演の一つで、同日に他の大学でのステージカムも公開された。",
       "en": "Stage-cam video of 'Super Shy' performed at the Kyung Hee University festival, published on the NewJeans YouTube channel. One of the group's 2023 university festival appearances; stage cams from other universities went up the same day."

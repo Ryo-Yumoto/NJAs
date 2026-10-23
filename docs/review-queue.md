@@ -22,14 +22,19 @@
 | 2026-10-24 | goods-2023-09-12-…powerpuff（旧 goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop） | 夜間照合でWeverse Shop告知4530に基づき「Weverse Shopの予約開始（09-12 11:00 KST）」に組み替えた。画像はLINE FRIENDS US（2023-09-28作成）由来。この組み替えでよいか、LINE FRIENDSの記録として別に残すか | 未決（適用済み・元に戻せる） |
 | 2026-10-24 | Billboard Women in Music 2024 の web レコードと magazine レコード | 同じ表紙を2件で扱っている。どちらかを削除するか | 未決 |
 | 2026-10-24 | SNS台帳の範囲（Weverse告知120件） | 未収録の多くは事前収録の案内、サイン会の案内、応援法、ファンクラブ告知、法的対応の経過報告。方針「告知・発売・節目・声明」に含めてレコード化するか、運営的な案内として対象外にするか | 未決 |
-| 2026-10-24 | sns-2024-05-13-instagram-fujiwara-hiroshi-tshirt-post / sns-2024-06-29-instagram-bunnies-camp-tokyo-dome-photos | 投稿のshortcodeが公式アカウントではない（@fujiwarahiroshi / @mermaidhair）。公式投稿への差し替えか、記録の扱いの見直し | 未対応 |
-| 2026-10-24 | sns-2025-02-01-njz-official-x-account-opened | @NJZ_official の開設は 2025-02-03 22:55 KST（プロフィール情報）。日付を直す | 未対応 |
-| 2026-10-24 | sns台帳 YouTubeコミュニティ投稿の未収録29件・X 2件 | レコード未作成（Weverse告知の範囲判断とは別に進められる） | 未着手 |
+| 2026-10-24 | sns-2024-05-13-instagram-fujiwara-hiroshi-tshirt-post / sns-2024-06-29-instagram-bunnies-camp-tokyo-dome-photos | 投稿者は公式ではなく @fujiwarahiroshi / @mermaidhair と確認（クレジットとタグは修正済み、本文は「公式投稿」のまま）。削除・他カテゴリへ移動・公式投稿に差し替えのどれにするか | 未決 |
+| 2026-10-24 | sns-2025-02-01-njz-official-x-account-opened | @NJZ_official の作成は 2025-02-03 22:54 KST だが、名称の公表（02-07）より前に日付を置くと名前を先に明かすことになる。作成日と公表日のどちらにするか | 未決 |
 
 | 2026-10-24 | sns-2023-06-29-get-up-bunny-beach-bag-packaging / sns-2023-06-28-instagram-get-up-era-post-0628 | 同じInstagram投稿（CuCIRW0LFCs、06-28 21:00 KST）を2件で扱っている。統合か削除か | 未決 |
 | 2026-10-24 | magazine W Korea ミンジ × シャネル（02-29） | W Korea自身の「민지, 그리고 샤넬」は 02-26 公開。同じ撮影なら日付を変える | 未決 |
 | 2026-10-24 | record オリコン デイリー1位 | 一次ソースがない。残すか削除か | 未決 |
-| 2026-10-24 | goods McDonald's マレーシア | 本文がレコード日付より後のブキッ・ビンタンのイベント（09-15〜17）に触れている。先の出来事なので本文から外す | 未対応 |
 | 2026-10-24 | 誌面の日付の基準（続き） | 2ラウンド目でBAZAARミンジ 01-03、BAZAARヘリン 05-02、Esquireダニエル 10-11 を出版社のInstagram初出日に変更（Esquireは後日公開のインタビュー本文を外し題も変更）。基準の判断と合わせて確認 | 未決 |
 | 2026-10-24 | content-2023-03-30-weverse-bunnies-membership-open | content-2023-03-30-bunnies-bunnies-membership-open・notice-2023-03-30-bunnies-membership-open と同じ出来事。統合するか | 未決 |
-| 2026-10-24 | tv-2023-08-17-mcountdown-eta-win-2 | 当日の報道がなく、Wikipediaの勝者一覧もこの週が空欄。1位そのものを再確認 | 未確認 |
+| 2026-10-24 | tv-2023-08-17-mcountdown-eta-win-2 | 08-17の放送（EP.810）は「K-POPタイムトラベル」特集で順位発表がなかった可能性。1位の報道・映像なし。削除するか | 未決 |
+
+| 2026-10-24 | live-2023-05-03-adb-annual-meeting-opening | ADB公式の開会ページ・韓国報道にNewJeansの公演が見当たらず、根拠はWikipediaのみ。削除するか | 未決 |
+| 2026-10-24 | ad-2023-03-24-hanni-gucci-horsebit-1955-campaign | Gucciのプレスリリースは03-23付、韓国報道は03-24。公開時刻が取れず未確定 | 未確認 |
+| 2026-10-24 | magazine ELLE JAPON（ヘイン）/ VOGUE Korea（ミンジ） | 号の月で日付を置いているが、方針の発売日はおそらく約1か月前。誌面の日付の基準と合わせて決める | 未決 |
+| 2026-10-24 | goods McDonald's マレーシア（2枚目の画像） | ギャラリー2枚目が後日のブキッ・ビンタン店の写真。外すか | 未対応 |
+| 2026-10-24 | sns-2023-07-17-cool-with-you-mv-date-announcement | 公式投稿が見つからず、報道向け発表だけの可能性。snsでなくnoticeに移すか | 未決 |
+| 2026-10-24 | data/refs/youtube_videos.json の日付 | 初回取得時の「N年前」由来の概算日付が多い（例 2022-10-13 など）。YouTube API（timeZone Asia/Seoul）で正確な日付に取り直す（照合には影響しない） | 未対応 |

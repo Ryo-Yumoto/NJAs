@@ -1483,6 +1483,7 @@
     },
     "source_url": "https://v.daum.net/v/20230324133702848",
     "reference_urls": [
+      "https://vmagazine.com/article/star-studded-gucci-campaign-celebrates-the-horsebit-1955/",
       "https://v.daum.net/v/20230325091928324",
       "https://en.wikipedia.org/wiki/Hanni_(singer)"
     ],
@@ -1503,7 +1504,7 @@
       "luxury"
     ],
     "verified": false,
-    "editor_note": "Sports Donga 2023-03-24 reports the campaign as newly released; MyDaily 2023-03-25 adds co-stars and photographers. Gucci official page not fetched. / Source is a press report (Daum News); not confirmed against an official page."
+    "editor_note": "Sports Donga 2023-03-24 reports the campaign as newly released; MyDaily 2023-03-25 adds co-stars and photographers. Gucci official page not fetched. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: Gucci's press release (gucci-oona.prezly.com, now 404; text seen only as a search extract) is datelined March 23, 2023 and confirms the Mert & Marcus campaign with Halle Bailey, Hanni and Julia Garner; V Magazine published 2023-03-24 15:49 UTC. Release day is 03-23 (Gucci dateline, likely CET) vs 03-24 (Korean press, KST); not resolved without the release time."
   },
   {
     "id": "ad-2023-03-30-coca-cola-global-ambassador",
@@ -1585,7 +1586,7 @@
       "campaign"
     ],
     "verified": false,
-    "editor_note": "Xportsnews (2023-04-02) says the campaign was released \"recently\"; Global Cosmetics News said the campaign would run from April. Exact launch day unconfirmed, so month precision. / Source is a press report (Daum News); not confirmed against an official page."
+    "editor_note": "Xportsnews (2023-04-02) says the campaign was released \"recently\"; Global Cosmetics News said the campaign would run from April. Exact launch day unconfirmed, so month precision. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: not re-searched in depth; no Armani Beauty page or post dating the Power Fabric+ campaign with Hanni was found. Still month precision from press."
   },
   {
     "id": "ad-2023-04-03-coca-cola-zero-cm-zero",
@@ -1670,8 +1671,11 @@
       "fashion",
       "ambassador"
     ],
-    "verified": false,
-    "editor_note": "Lady Kyunghyang (2023-04-05 10:15); STONEHENgE's own announcement not fetched. Related content records: content-2023-05-09-light-jeans-stonehenge-behind and later STONEHENgE behind videos."
+    "verified": true,
+    "editor_note": "Lady Kyunghyang (2023-04-05 10:15); STONEHENgE's own announcement not fetched. Related content records: content-2023-05-09-light-jeans-stonehenge-behind and later STONEHENgE behind videos. / 2026-10-24 nightly: STONEHENgE's own post not found; Lady Kyunghyang (2023-04-05 10:15 KST) reproduces the brand's announcement with a brand quote: NewJeans added as new brand models alongside Jun Ji-hyun, new creative to be released in stages during April.",
+    "reference_urls": [
+      "https://lady.khan.co.kr/entertainment/article/202304051015001"
+    ]
   },
   {
     "id": "ad-2023-04-26-haerin-dior-ambassador",
@@ -1743,7 +1747,7 @@
       "collab"
     ],
     "verified": false,
-    "editor_note": "Rewritten so the Philippines/Thailand rollouts are not stated as completed on the Korean launch date. | Bandwagon (2023-05-26) gives the country list but not dates or menu; Korean launch details unverified. | removed from reader text: [detail.ja] 韓国のセット内容と価格は確認できていない。 [detail.en] The Korean set contents and prices could not be confirmed. / Country list from Bandwagon (2023-05-26), which gives no dates or menu; Korean set contents and prices unconfirmed. English Wikipedia records the cross-branded product as a June 2023 collaboration; that framing removed from reader text. / 2026-10-17 review: Date precision changed from month to day. Korean start 2023-06-01 and the market dates are from McDonald's official 'Fly to the McDonald's Chicken World' schedule visual reproduced by SNKRDUNK (published 2023-05-26 05:25 UTC, updated 05-29 with packaging photos); McDonald's Korea's press release is reproduced by Insight (2023-05-26 11:35 KST: first global campaign led by McDonald's Korea, launch 'next month 1st' with a new menu, Chicken Song dance challenge, weekly draws, member-photo interiors and standees, ten markets in H2). No McDonald's Korea page or post was fetched (mcdonalds.co.kr story pages return 404), hence verified=false. Removed the claim that the commercial titled 'Crispiness that makes even NewJeans dance, McCrispy!' was uploaded to YouTube on June 1: it came from Wikipedia and could not be confirmed. The new burger names (McCrispy/McSpicy Hot & Cheese) appear only in coverage from 2023-06-20 and are left out. Packaging/market goods are separate records (goods-2023-06-01-mcdonalds-korea-chicken-world-newjeans-packaging, -06-13 Philippines, -06-28 Thailand, -07-12 Indonesia, -09-07 Malaysia, -10-25 Taiwan, -11-02 Singapore). Wikipedia source replaced.",
+    "editor_note": "Rewritten so the Philippines/Thailand rollouts are not stated as completed on the Korean launch date. | Bandwagon (2023-05-26) gives the country list but not dates or menu; Korean launch details unverified. | removed from reader text: [detail.ja] 韓国のセット内容と価格は確認できていない。 [detail.en] The Korean set contents and prices could not be confirmed. / Country list from Bandwagon (2023-05-26), which gives no dates or menu; Korean set contents and prices unconfirmed. English Wikipedia records the cross-branded product as a June 2023 collaboration; that framing removed from reader text. / 2026-10-17 review: Date precision changed from month to day. Korean start 2023-06-01 and the market dates are from McDonald's official 'Fly to the McDonald's Chicken World' schedule visual reproduced by SNKRDUNK (published 2023-05-26 05:25 UTC, updated 05-29 with packaging photos); McDonald's Korea's press release is reproduced by Insight (2023-05-26 11:35 KST: first global campaign led by McDonald's Korea, launch 'next month 1st' with a new menu, Chicken Song dance challenge, weekly draws, member-photo interiors and standees, ten markets in H2). No McDonald's Korea page or post was fetched (mcdonalds.co.kr story pages return 404), hence verified=false. Removed the claim that the commercial titled 'Crispiness that makes even NewJeans dance, McCrispy!' was uploaded to YouTube on June 1: it came from Wikipedia and could not be confirmed. The new burger names (McCrispy/McSpicy Hot & Cheese) appear only in coverage from 2023-06-20 and are left out. Packaging/market goods are separate records (goods-2023-06-01-mcdonalds-korea-chicken-world-newjeans-packaging, -06-13 Philippines, -06-28 Thailand, -07-12 Indonesia, -09-07 Malaysia, -10-25 Taiwan, -11-02 Singapore). Wikipedia source replaced. / 2026-10-24 nightly: still no McDonald's Korea page or post found (only Insight's reproduction of the press release and Bandwagon); left unverified.",
     "detail": {
       "ja": "マクドナルド・コリアは5月26日、NewJeansとのキャンペーンを韓国を皮切りにアジア10か国・地域で順次展開すると発表し、6月1日に韓国で開始した。Mロゴやバーガー、ポテト、うさぎのキャラクターをあしらったスペシャルパッケージでチキンメニューを提供し、「マクドナルド・チキンソング」に合わせたダンスチャレンジや毎週の抽選、メンバーの写真で飾った店内と等身大パネルも用意された。公式スケジュールでは韓国（6月1日）に続き、フィリピン（6月13日）、タイ（6月28日）、インドネシア（7月12日）、ブルネイ（9月1日）、マレーシア（9月7日）、香港（10月24日）、台湾（10月25日）での開始が予定され、シンガポールとベトナムは「近日」とされた。",
       "en": "On May 26 McDonald's Korea announced a NewJeans campaign that would roll out across ten Asian markets starting with Korea, and it launched in Korea on June 1. Chicken menu items came in special packaging featuring the M logo, burgers, fries and a bunny character, with a dance challenge to the 'McDonald's Chicken Song', weekly prize draws, and stores decorated with member photos and life-size standees. The official schedule listed Korea (June 1) followed by the Philippines (June 13), Thailand (June 28), Indonesia (July 12), Brunei (September 1), Malaysia (September 7), Hong Kong (October 24) and Taiwan (October 25), with Singapore and Vietnam 'upcoming'."
@@ -1791,7 +1795,7 @@
       "campaign"
     ],
     "verified": false,
-    "editor_note": "SNKRDUNK (URL dated 2023-06-30, updated 2023-07-04 noting Nike Seoul's behind-the-scenes Instagram post); Nike Seoul's own post not fetched, so the release day is per SNKRDUNK. Danielle's jersey not identified."
+    "editor_note": "SNKRDUNK (URL dated 2023-06-30, updated 2023-07-04 noting Nike Seoul's behind-the-scenes Instagram post); Nike Seoul's own post not fetched, so the release day is per SNKRDUNK. Danielle's jersey not identified. / 2026-10-24 nightly: Nike Seoul's Instagram post not located (no shortcode in coverage); still SNKRDUNK only."
   },
   {
     "id": "ad-2023-07-01-powerpuff-girls-get-up-collab",
@@ -1812,7 +1816,9 @@
       "en": "Get Up era collaboration with The Powerpuff Girls for the show's 25th anniversary, spanning the 'New Jeans' video and two album packages."
     },
     "source_url": "https://en.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=kcelgrGY1h8"
+    ],
     "media": {
       "type": "none"
     },
@@ -1820,7 +1826,7 @@
       "collab",
       "character"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "2nd EP『Get Up』の活動で、カートゥーン ネットワークの『パワーパフ ガールズ』（この年25周年）とコラボレーションした。先行公開曲「New Jeans」のMVは協業作品として7月7日0時にHYBE LABELSのYouTubeで公開され、ADORはパワーパフ ガールズの純粋さとエネルギー、クラシックで安定したイメージがNewJeansの目指すイメージと本質的に通じていると説明した。7月21日発売のEPは協業商品の「Bunny Beach Bag」「The Powerpuff Girls x NJ Box」とWeverseアルバムの3形態。",
       "en": "For the second EP Get Up, NewJeans collaborated with Cartoon Network's The Powerpuff Girls, marking the show's 25th anniversary, through Warner Bros. Discovery Global Consumer Products. The music video for the pre-release track 'New Jeans', a Powerpuff Girls collaboration, premiered at midnight on July 7 on the HYBE LABELS YouTube channel, and ADOR said the characters' innocence, energy and classic, steady image were essentially aligned with the image NewJeans pursues. The EP, released July 21, came in three versions: the Powerpuff Girls tie-in packages 'Bunny Beach Bag' and 'The Powerpuff Girls x NJ Box' plus a Weverse album."
@@ -1828,7 +1834,7 @@
     "credits": {
       "brand": "The Powerpuff Girls (Cartoon Network / Warner Bros. Discovery Global Consumer Products)"
     },
-    "editor_note": "Correction: Korean coverage (MBC enews, Vogue Korea 2023-06-19) ties the collaboration to the Powerpuff Girls' 25th anniversary, not Warner Bros.' 25th; Warner Bros. marked its 100th anniversary in 2023. / Cut for length (ja): 協業窓口 Warner Bros. Discovery Global Consumer Products（en には残存）",
+    "editor_note": "Correction: Korean coverage (MBC enews, Vogue Korea 2023-06-19) ties the collaboration to the Powerpuff Girls' 25th anniversary, not Warner Bros.' 25th; Warner Bros. marked its 100th anniversary in 2023. / Cut for length (ja): 協業窓口 Warner Bros. Discovery Global Consumer Products（en には残存） / 2026-10-24 nightly: official 'New Jeans' MV on HYBE LABELS (kcelgrGY1h8) confirmed via YouTube API: premiered 2023-07-07 KST, description credits THE POWERPUFF GIRLS (c) Cartoon Network (s23). Month precision kept (July campaign). ADOR quote and Warner Bros. Discovery GCP role per Korean press in earlier notes.",
     "image": {
       "url": "https://flexible.img.hani.co.kr/flexible/normal/904/535/imgdb/original/2023/0707/20230707500807.jpg",
       "source_url": "https://www.hani.co.kr/arti/culture/culture_general/1099161.html"

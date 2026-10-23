@@ -2314,8 +2314,8 @@
       "en": "McDonald's Malaysia launched limited-time chicken items in special NewJeans packaging."
     },
     "detail": {
-      "ja": "マレーシアでは9月7日から「NewJeans Chicken Dance Campaign」として、スパイシー・クリスピー・チキンバーガー（9.95リンギット）、シーウィード・マックシェーカーフライ、スパイシー・クリスピー・チキンラップ（10.90リンギット）を期間限定で販売した。食事とドリンクはMロゴにドット絵のポテト、バーガー、NewJeansのうさぎを配した特別パッケージで提供され、ブキッ・ビンタン店はフォトコーナー付きのNewJeans仕様に改装された。",
-      "en": "Malaysia's 'NewJeans Chicken Dance Campaign' began on September 7 with a limited-time Spicy Crispy Chicken Burger (RM9.95), Seaweed McShaker Fries and Spicy Crispy Chicken Wrap (RM10.90). Meals and drinks came in special packaging pairing the M logo with pixel-art fries, burgers and the NewJeans bunny, and the Bukit Bintang outlet was given a NewJeans makeover with photo corners."
+      "ja": "マレーシアでは9月7日から「NewJeans Chicken Dance Campaign」として、スパイシー・クリスピー・チキンバーガー（9.95リンギット）、シーウィード・マックシェーカーフライ、スパイシー・クリスピー・チキンラップ（10.90リンギット）を期間限定で販売した。食事とドリンクはMロゴにドット絵のポテト、バーガー、NewJeansのうさぎを配した特別パッケージで提供された。",
+      "en": "Malaysia's 'NewJeans Chicken Dance Campaign' began on September 7 with a limited-time Spicy Crispy Chicken Burger (RM9.95), Seaweed McShaker Fries and Spicy Crispy Chicken Wrap (RM10.90). Meals and drinks came in special packaging pairing the M logo with pixel-art fries, burgers and the NewJeans bunny."
     },
     "credits": {
       "brand": "McDonald's Malaysia"
@@ -2340,7 +2340,7 @@
       "malaysia"
     ],
     "verified": false,
-    "editor_note": "TheSmartLocal Malaysia (2023-09-06); McDonald's Malaysia primary post not fetched. Matching campaign record: ad-2023-06-01-mcdonalds-newjeans-collab-launch. Market dates follow McDonald's 'Fly to the McDonald's Chicken World' schedule visual (reproduced by SNKRDUNK 2023-05-26). / 2026-10-24 nightly: mcdonalds.com.myは403で取得不可、McDonald's Malaysia公式SNSの該当投稿もWeb検索で見つからず。TheSmartLocal・SAYS・Marketing-Interactiveは9月7日開始とメニュー価格で一致するが二次資料。なおブキッ・ビンタン店のオングラウンドイベントは9月15〜17日と報じられており、記録日時点の記述として扱うか要確認。",
+    "editor_note": "TheSmartLocal Malaysia (2023-09-06); McDonald's Malaysia primary post not fetched. Matching campaign record: ad-2023-06-01-mcdonalds-newjeans-collab-launch. Market dates follow McDonald's 'Fly to the McDonald's Chicken World' schedule visual (reproduced by SNKRDUNK 2023-05-26). / 2026-10-24 nightly: mcdonalds.com.myは403で取得不可、McDonald's Malaysia公式SNSの該当投稿もWeb検索で見つからず。TheSmartLocal・SAYS・Marketing-Interactiveは9月7日開始とメニュー価格で一致するが二次資料。なおブキッ・ビンタン店のオングラウンドイベントは9月15〜17日と報じられており、記録日時点の記述として扱うか要確認。 / 2026-10-24 nightly (review queue): removed the Bukit Bintang outlet makeover from the detail (the on-ground event there was reported for 09-15 to 09-17, after the record date). local_assets/02.jpg ('NewJeans-themed Bukit Bintang outlet') still shows that later outlet; consider removing it.",
     "local_assets": [
       "goods/goods-2023-09-07-mcdonalds-malaysia-newjeans-chicken-dance/01.jpg",
       "goods/goods-2023-09-07-mcdonalds-malaysia-newjeans-chicken-dance/02.jpg"
@@ -2910,8 +2910,8 @@
     ]
   },
   {
-    "id": "goods-2023-10-17-weverse-by-fans-newjeans-custom-merch",
-    "date": "2023-10-17",
+    "id": "goods-2023-10-16-weverse-by-fans-newjeans-custom-merch",
+    "date": "2023-10-16",
     "date_type": "sale_start",
     "date_precision": "day",
     "category": "goods",
@@ -2927,9 +2927,11 @@
       "ja": "写真やロゴ、文字を自由に配置し、NewJeansの公式MDを自分仕様で注文できる「Weverse by Fans」が始まった。",
       "en": "'Weverse by Fans' launched, letting fans design their own official NewJeans merch with photos, logos and text."
     },
-    "source_url": "https://www.bandwagon.asia/articles/make-your-own-official-merch-with-weverse-by-fans-newjeans-enhypen-baekho-hwang-min-hyun-xia-available-on-weverse-shop-order-2023",
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/4712",
     "reference_urls": [
-      "https://shop.weverse.io/en/shop/GL_USD/artists/82/notices/5033"
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/4712",
+      "https://shop.weverse.io/en/shop/GL_USD/artists/82/notices/5033",
+      "https://www.bandwagon.asia/articles/make-your-own-official-merch-with-weverse-by-fans-newjeans-enhypen-baekho-hwang-min-hyun-xia-available-on-weverse-shop-order-2023"
     ],
     "media": {
       "type": "none"
@@ -2938,11 +2940,11 @@
       "weverse-shop",
       "official-md"
     ],
-    "verified": false,
-    "editor_note": "Secondary source (Bandwagon 2023-10-17). | Secondary source (Bandwagon 2023-10-17). / From Bandwagon (2023-10-17, secondary); no prices given in the coverage. Press framing removed. / 2026-10-23 nightly: Weverse Shop告知5033「NewJeans x Weverse by Fans Apparel Available for Purchase」で2023-12-05 11:00 KST開始（受注生産、各3点まで）を確認。2023-10-16 18:00 KSTのサービス開始告知は見つからず、10月時点でNewJeansの商品が含まれていたかも一次ソースで未確認。",
+    "verified": true,
+    "editor_note": "Secondary source (Bandwagon 2023-10-17). | Secondary source (Bandwagon 2023-10-17). / From Bandwagon (2023-10-17, secondary); no prices given in the coverage. Press framing removed. / 2026-10-23 nightly: Weverse Shop告知5033「NewJeans x Weverse by Fans Apparel Available for Purchase」で2023-12-05 11:00 KST開始（受注生産、各3点まで）を確認。2023-10-16 18:00 KSTのサービス開始告知は見つからず、10月時点でNewJeansの商品が含まれていたかも一次ソースで未確認。 / 2026-10-24 nightly: Weverse Shop notice 4712 '[Weverse by Fans] Merch customization service launched' (artist 82 = NewJeans; found by scanning notice ids 4550-5032): purchases from Mon 2023-10-16 KST, shipping from 10-18, worldwide; customization with NewJeans official assets, made to order, max 3 per option. Date moved from 10-17 (Bandwagon article date) to 10-16; source_url switched to the notice. Item count (23), other artists and the Weverse Con preview remain per Bandwagon. Notice 5033 (2023-12-05) is a later apparel addition.",
     "detail": {
-      "ja": "Weverse Shopアプリの新機能「Weverse by Fans」が始まり、ENHYPEN、NewJeans、HWANG MIN HYUN、BAEKHO、XIAの公式MDをファン自身がカスタマイズできるようになった。Tシャツ、グリップホルダー、フォトカード、アクリルキーリング、フォンケース、イヤホンケースなど計23種から選び、オンラインの編集ツールで写真、ロゴ、文字、ステッカーを配置して注文すると受注生産される。2023年6月のWeverse Con Festivalで来場者向けに先行提供されていた。Weverse社のチェ・ジュン代表は、自分だけのグッズを作りたいというファンの需要に応えるサービスだと述べた。",
-      "en": "The Weverse Shop app's new 'Weverse by Fans' feature let fans customize official merch for ENHYPEN, NewJeans, HWANG MIN HYUN, BAEKHO and XIA. There were 23 options, including T-shirts, grip holders, photocards, acrylic keyrings, phone cases and earbuds cases; fans place photos, logos, text and stickers in an online editor, and each item is made to order. The service had been previewed for attendees at Weverse Con Festival in June 2023. Weverse president Joon Choi said it answered fans' wish to make merchandise of their own."
+      "ja": "Weverse Shopアプリの新機能「Weverse by Fans」の購入受付が10月16日（KST）に始まり、ENHYPEN、NewJeans、HWANG MIN HYUN、BAEKHO、XIAの公式MDをファン自身がカスタマイズできるようになった。発送は18日からで、全世界に配送する。Tシャツ、グリップホルダー、フォトカード、アクリルキーリング、フォンケース、イヤホンケースなど計23種から選び、オンラインの編集ツールで写真、ロゴ、文字、ステッカーを配置して注文すると受注生産される。2023年6月のWeverse Con Festivalで来場者向けに先行提供されていた。Weverse社のチェ・ジュン代表は、自分だけのグッズを作りたいというファンの需要に応えるサービスだと述べた。",
+      "en": "Orders opened on October 16 (KST) for the Weverse Shop app's new 'Weverse by Fans' feature, which let fans customize official merch for ENHYPEN, NewJeans, HWANG MIN HYUN, BAEKHO and XIA, with worldwide shipping from October 18. There were 23 options, including T-shirts, grip holders, photocards, acrylic keyrings, phone cases and earbuds cases; fans place photos, logos, text and stickers in an online editor, and each item is made to order. The service had been previewed for attendees at Weverse Con Festival in June 2023. Weverse president Joon Choi said it answered fans' wish to make merchandise of their own."
     },
     "credits": {
       "platform": "Weverse Shop (Weverse Company)"
@@ -2995,7 +2997,7 @@
       "taiwan"
     ],
     "verified": false,
-    "editor_note": "Official McDonald's Taiwan newsroom (2023-10-20) returned 403 to direct fetch (and the archive was unreachable); facts from Marie Claire Taiwan (updated 2023-10-20) and search-engine extracts of the official newsroom text. The drive-thru can offer's exact conditions are worded unclearly in the secondary source. Matching campaign record: ad-2023-06-01-mcdonalds-newjeans-collab-launch. Market dates follow McDonald's 'Fly to the McDonald's Chicken World' schedule visual (reproduced by SNKRDUNK 2023-05-26).",
+    "editor_note": "Official McDonald's Taiwan newsroom (2023-10-20) returned 403 to direct fetch (and the archive was unreachable); facts from Marie Claire Taiwan (updated 2023-10-20) and search-engine extracts of the official newsroom text. The drive-thru can offer's exact conditions are worded unclearly in the secondary source. Matching campaign record: ad-2023-06-01-mcdonalds-newjeans-collab-launch. Market dates follow McDonald's 'Fly to the McDonald's Chicken World' schedule visual (reproduced by SNKRDUNK 2023-05-26). / 2026-10-24 nightly: official newsroom page still returns 403 (Akamai 'Access Denied') to both curl and WebFetch; no other official McDonald's Taiwan source found.",
     "local_assets": [
       "goods/goods-2023-10-25-mcdonalds-taiwan-newjeans-packaging/01.jpg",
       "goods/goods-2023-10-25-mcdonalds-taiwan-newjeans-packaging/02.jpg"
@@ -3099,7 +3101,7 @@
       "singapore"
     ],
     "verified": false,
-    "editor_note": "NME (2023-11-02); McDonald's Singapore primary post not fetched. The May schedule had listed Singapore as 'upcoming'. Matching campaign record: ad-2023-06-01-mcdonalds-newjeans-collab-launch. Market dates follow McDonald's 'Fly to the McDonald's Chicken World' schedule visual (reproduced by SNKRDUNK 2023-05-26)."
+    "editor_note": "NME (2023-11-02); McDonald's Singapore primary post not fetched. The May schedule had listed Singapore as 'upcoming'. Matching campaign record: ad-2023-06-01-mcdonalds-newjeans-collab-launch. Market dates follow McDonald's 'Fly to the McDonald's Chicken World' schedule visual (reproduced by SNKRDUNK 2023-05-26). / 2026-10-24 nightly: no mcdonalds.com.sg page surfaced; Time Out Singapore ('arrives in Singapore today', 2023-11-02) redirects to timeout.sg, which refuses fetches (405). Eatbook/Hungry Go Where coverage suggests the meal was McCrispy + Crisscut Fries + drink with the Dark Chocolate Sea Salt Frappe as an add-on, which differs from the detail's wording; check before verifying."
   },
   {
     "id": "goods-2023-11-23-line-friends-hang-out-with-newjeans-collection",
@@ -3129,7 +3131,7 @@
       "collab"
     ],
     "verified": false,
-    "editor_note": "Secondary source; PST date. | Secondary source (SNKRDUNK running update); PST date. | removed from reader text: [detail.ja] 価格は確認できていない。 [detail.en] Prices were not confirmed. / From SNKRDUNK's running update (2023-11-23, secondary); PST date; prices not confirmed. / LINE FRIENDS SQUARE US 'Hang Out with NewJeans' collection; items = the 15 products still published (collection lists 24); no lineup image, cover = first product",
+    "editor_note": "Secondary source; PST date. | Secondary source (SNKRDUNK running update); PST date. | removed from reader text: [detail.ja] 価格は確認できていない。 [detail.en] Prices were not confirmed. / From SNKRDUNK's running update (2023-11-23, secondary); PST date; prices not confirmed. / LINE FRIENDS SQUARE US 'Hang Out with NewJeans' collection; items = the 15 products still published (collection lists 24); no lineup image, cover = first product / 2026-10-24 nightly: no LINE FRIENDS announcement dating the 'Hang Out With NewJeans' launch was found; still SNKRDUNK (PST) only.",
     "detail": {
       "ja": "LINE FRIENDSとNewJeansの追加コレクションで、グラフィックTシャツ、バッグ、ヘアバンドなどで構成され、18時（PST）にLINE FRIENDS COLLECTIONでグローバル発売された。8月の初回コレクション、9月のパワーパフガールズ版第2弾、10月のスマホケース（パワーパフガールズ版を含み、購入ごとにキャラクターフォトカード付き、10月17〜19日PDTに予約受付）に続く展開。",
       "en": "An additional LINE FRIENDS x NewJeans collection of graphic tees, bags, headbands and more, launched globally on LINE FRIENDS COLLECTION at 6 PM PST. It followed the first collection in August, the Powerpuff Girls second drop in September and the October smartphone-case line-up (including Powerpuff Girls designs, with a character photocard per case, pre-ordered October 17 to 19 PDT)."
@@ -3427,7 +3429,7 @@
       "singapore"
     ],
     "verified": false,
-    "editor_note": "Member Days dates from Mothership and Mustsharenews (2024-01-27); items and price range from Highsnobiety (which says 'until February 3'). Nike's newsroom release (2024-02-03) confirms the store opening and performance but does not mention the NewJeans graphics. Matching records: ad-2024-01-27-nike-orchard-road-collab, live-2024-02-03-nike-orchard-road-singapore. / No product photos of the Nike By You x NewJeans pieces with verified direct URLs found.",
+    "editor_note": "Member Days dates from Mothership and Mustsharenews (2024-01-27); items and price range from Highsnobiety (which says 'until February 3'). Nike's newsroom release (2024-02-03) confirms the store opening and performance but does not mention the NewJeans graphics. Matching records: ad-2024-01-27-nike-orchard-road-collab, live-2024-02-03-nike-orchard-road-singapore. / No product photos of the Nike By You x NewJeans pieces with verified direct URLs found. / 2026-10-24 nightly: Nike's newsroom covers the store opening and performance but not the Nike By You NewJeans graphics or Member Days dates; no other Nike page found.",
     "local_assets": [
       "goods/goods-2024-01-30-nike-by-you-x-newjeans-orchard-road/01.jpg"
     ],
@@ -4015,7 +4017,7 @@
       "official-md"
     ],
     "verified": false,
-    "editor_note": "FASHIONSNAP (2024-04-10) and Stripes Japan (Merch shop on 1F and B1F); SHIBUYA109's own campaign page not fetched; product line-up not found. Matching campaign record: ad-2024-04-10-shibuya109-45th-anniversary. / Cover is the campaign visual; no product line-up images found.",
+    "editor_note": "FASHIONSNAP (2024-04-10) and Stripes Japan (Merch shop on 1F and B1F); SHIBUYA109's own campaign page not fetched; product line-up not found. Matching campaign record: ad-2024-04-10-shibuya109-45th-anniversary. / Cover is the campaign visual; no product line-up images found. / 2026-10-24 nightly: SHIBUYA109's campaign site not surfaced; FASHIONSNAP (2024-04-10, re-fetched) gives the campaign period 04-26 to 05-19, the two shops and the 04-15 17:00 reservation opening, but not a separate pop-up opening date.",
     "local_assets": []
   },
   {

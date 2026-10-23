@@ -155,7 +155,7 @@
    "date": "2022-07-30",
    "title": "1st EP New Jeans COUNTDOWN LIVE notice",
    "url": "https://www.youtube.com/post/Ugkxa8f3kxeWJt_vf6qkL1tyyzTs9Re1Ch1P",
-   "record": null,
+   "record": "sns-2022-07-30-youtube-1st-ep-countdown-live-notice",
    "exclude": null,
    "note": "announce; platform: youtube community; posted 18:00 KST; event date differs from post date (record dated on the live); related record mv-2022-08-01-1st-ep-new-jeans-countdown-live"
   },
@@ -263,7 +263,7 @@
    "date": "2022-10-06",
    "title": "Happy Hanni Day birthday post",
    "url": "https://www.youtube.com/post/UgkxG4KfhgIbl9kztM7BxTHXHVmGWAIrMuEV",
-   "record": null,
+   "record": "sns-2022-10-06-youtube-happy-hanni-day",
    "exclude": null,
    "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
   },
@@ -605,7 +605,7 @@
    "date": "2022-12-26",
    "title": "'OMG' COUNTDOWN LIVE notice",
    "url": "https://www.youtube.com/post/UgkxCWdXEg02CoG27DMXAISgCX3yrRuwi5wC",
-   "record": null,
+   "record": "sns-2022-12-26-youtube-omg-countdown-live-notice",
    "exclude": null,
    "note": "announce; platform: youtube community; posted 11:21 KST; event date differs from post date (record dated on the live); related record mv-2023-01-02-omg-countdown-live"
   },
@@ -750,7 +750,7 @@
    "title": "Thank-you post to YouTube Music; 'OMG' on YouTube Music",
    "url": "https://www.youtube.com/post/UgkxMmSTTxpkQL0WhQnb8ZPctEonS24bLgAO",
    "record": null,
-   "exclude": null,
+   "exclude": "YouTube Musicへのお礼と聴取の呼びかけで、告知・発売・節目・声明に当たらない（発売は1月2日で既に収録済み）。",
    "note": "announce; platform: youtube community; posted 14:00 KST"
   },
   {
@@ -956,7 +956,7 @@
    "date": "2023-03-29",
    "title": "Bunnies Membership Kit packshot release (open 3.30 11AM KST)",
    "url": "https://x.com/NewJeans_ADOR/status/1640896559234662400",
-   "record": null,
+   "record": "sns-2023-03-29-bunnies-membership-kit-packshot",
    "exclude": null,
    "note": "announce; platform: x; posted 11:00 KST; text: [Bunnies Club🥕] Bunnies Membership Kit Packshot RELEASE  🗓️ OPEN 3.30.11AM (KST) 📍 Weverse shop  #NewJeans #뉴진스 #Bunnies"
   },
@@ -1019,7 +1019,7 @@
    "date": "2023-04-11",
    "title": "Happy Danielle Day birthday post",
    "url": "https://www.youtube.com/post/UgkxlhwigU0faPAzK9zPrMRK--XHF3PmewmK",
-   "record": null,
+   "record": "sns-2023-04-11-youtube-happy-danielle-day",
    "exclude": null,
    "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
   },
@@ -1046,7 +1046,7 @@
    "date": "2023-04-27",
    "title": "Happy Hyein Day birthday post",
    "url": "https://www.youtube.com/post/Ugkxp5c1A3P0EoPXzKZ7Z41ovE7G-OCRHmKD",
-   "record": null,
+   "record": "sns-2023-04-27-youtube-happy-hyein-day",
    "exclude": null,
    "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
   },
@@ -1064,7 +1064,7 @@
    "date": "2023-05-07",
    "title": "Happy Minji Day birthday post",
    "url": "https://www.youtube.com/post/UgkxCzzKm4sgoT-iCOz-skqoj683ltLGQ8SJ",
-   "record": null,
+   "record": "sns-2023-05-07-youtube-happy-minji-day",
    "exclude": null,
    "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
   },
@@ -1110,7 +1110,7 @@
    "title": "'Part of Your World' (Korean ver.) MV teaser shared",
    "url": "https://www.youtube.com/post/UgkxRn8NaKm9Zf_Lclthe4N-l1uTEF19rAfX",
    "record": null,
-   "exclude": null,
+   "exclude": "Disney Koreaの動画（z21GxIj5qAE）の共有で、他チャンネルの動画の共有（リポスト相当）にあたる。",
    "note": "release; platform: youtube community; posted 16:08 KST; attached video https://youtu.be/z21GxIj5qAE"
   },
   {
@@ -1136,7 +1136,7 @@
    "date": "2023-05-15",
    "title": "Happy Haerin Day birthday post",
    "url": "https://www.youtube.com/post/Ugkx8POz9bhTZxBVhJPaxnKbgvLvZyg60thM",
-   "record": null,
+   "record": "sns-2023-05-15-youtube-happy-haerin-day",
    "exclude": null,
    "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
   },
@@ -1407,7 +1407,7 @@
    "title": "#ImSuperShy YouTube Shorts challenge launch",
    "url": "https://www.youtube.com/post/UgkxDP8EwsgOt4sH7IJzQRg90ylHW3_Evw4s",
    "record": null,
-   "exclude": null,
+   "exclude": "投稿者がYouTube Koreaで、公式アカウント自身の投稿ではない（他アカウントの投稿の共有）。",
    "note": "announce; platform: youtube community; posted 16:05 KST"
   },
   {
@@ -1496,7 +1496,7 @@
    "date": "2023-07-20",
    "title": "1st debut anniversary 'NewJeans Day' D-2 notice",
    "url": "https://www.youtube.com/post/UgkxcIrkdbkZvF1sYra2P_nfnTl9KoFRiomU",
-   "record": null,
+   "record": "sns-2023-07-20-youtube-newjeans-day-d-2",
    "exclude": null,
    "note": "milestone; platform: youtube community; posted 18:16 KST"
   },
@@ -1874,7 +1874,7 @@
    "date": "2023-10-06",
    "title": "Happy Hanni Day birthday post",
    "url": "https://www.youtube.com/post/Ugkxei9il0PPPoFYMdURH9phnAmnrHHHURl4",
-   "record": null,
+   "record": "sns-2023-10-06-youtube-happy-hanni-day",
    "exclude": null,
    "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
   },
@@ -1919,7 +1919,7 @@
    "date": "2023-10-15",
    "title": "'Ditto' Performance Video passes 100 million YouTube views",
    "url": "https://www.youtube.com/post/UgkxQYmls8ygkLg3OmOrDVCznCMXJ_n_r1Nc",
-   "record": null,
+   "record": "sns-2023-10-15-youtube-ditto-performance-video-100m",
    "exclude": null,
    "note": "milestone; platform: youtube community; posted 13:00 KST"
   },
@@ -2046,7 +2046,7 @@
    "title": "Thank-you post to YouTube Music",
    "url": "https://www.youtube.com/post/UgkxrPbDunmMJQLN6mle9a264uHWlKBdLEpA",
    "record": null,
-   "exclude": null,
+   "exclude": "YouTube Musicへの短いお礼のみの投稿で、告知・発売・節目・声明に当たらない。",
    "note": "announce; platform: youtube community; posted 21:00 KST; text: Thank you ‪@YouTubeMusic‬ !"
   },
   {
@@ -2315,7 +2315,7 @@
    "date": "2024-04-11",
    "title": "Happy Danielle Day birthday post",
    "url": "https://www.youtube.com/post/UgkxVMs1mOVKfL9_3ZqsF9VPKEscRq3hIfeu",
-   "record": null,
+   "record": "sns-2024-04-11-youtube-happy-danielle-day",
    "exclude": null,
    "note": "milestone (member birthday); platform: youtube community; posted 00:07 KST"
   },
@@ -2333,7 +2333,7 @@
    "date": "2024-04-21",
    "title": "Happy Hyein Day birthday post",
    "url": "https://www.youtube.com/post/UgkxLFb3jNyeUK-gZh5s_Z69U5akZBcXY-nh",
-   "record": null,
+   "record": "sns-2024-04-21-youtube-happy-hyein-day",
    "exclude": null,
    "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
   },
@@ -2459,7 +2459,7 @@
    "date": "2024-05-07",
    "title": "Happy Minji Day birthday post",
    "url": "https://www.youtube.com/post/Ugkxlb19Xg3H0h9Ebcm86yvOri9HKOrIjuJ-",
-   "record": null,
+   "record": "sns-2024-05-07-youtube-happy-minji-day",
    "exclude": null,
    "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
   },
@@ -2540,7 +2540,7 @@
    "date": "2024-05-15",
    "title": "Happy Haerin Day birthday post",
    "url": "https://www.youtube.com/post/Ugkx0EPKR5nM9Jox8FEZG2aIYKtJddxG2ero",
-   "record": null,
+   "record": "sns-2024-05-15-youtube-happy-haerin-day",
    "exclude": null,
    "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
   },
@@ -2676,7 +2676,7 @@
    "title": "#HowSweet YouTube Shorts challenge launch",
    "url": "https://www.youtube.com/post/UgkxVsgr8ndRDLQE4KxFuV1KSqfH5SUYeFJa",
    "record": null,
-   "exclude": null,
+   "exclude": "投稿者がYouTube公式アカウントで、公式アカウント自身の投稿ではない（他アカウントの投稿の共有）。",
    "note": "announce; platform: youtube community; posted 11:15 KST"
   },
   {
@@ -3017,7 +3017,7 @@
    "date": "2024-07-20",
    "title": "2nd debut anniversary 'NewJeans Day On Air' D-2 notice (2024-07-22 0:00-19:00 KST on YouTube)",
    "url": "https://www.youtube.com/post/UgkxUpmN6IQ5bmCAbJdWsfI2IxG0NX_9Y9MF",
-   "record": null,
+   "record": "sns-2024-07-20-youtube-newjeans-day-on-air-d-2",
    "exclude": null,
    "note": "milestone; platform: youtube community; posted 19:00 KST"
   },
@@ -3242,7 +3242,7 @@
    "date": "2024-10-06",
    "title": "Happy Hanni Day birthday post",
    "url": "https://www.youtube.com/post/UgkxEPdCGGT4Aul1OG2ixiiLDnb5wWUxqnqv",
-   "record": null,
+   "record": "sns-2024-10-06-youtube-happy-hanni-day",
    "exclude": null,
    "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
   },
@@ -3296,7 +3296,7 @@
    "date": "2024-10-29",
    "title": "Happy 2nd Bunnies Day post",
    "url": "https://www.youtube.com/post/UgkxULY9hFT0QZfvLaWR3WK2T7Dj5nysaWU6",
-   "record": null,
+   "record": "sns-2024-10-29-youtube-happy-2nd-bunnies-day",
    "exclude": null,
    "note": "milestone; platform: youtube community; posted 00:00 KST; related record content-2024-10-28-bunnies-day-newjeans-love-bunnies dated 2024-10-28"
   },
@@ -3503,7 +3503,7 @@
    "date": "2025-04-11",
    "title": "Happy Danielle Day birthday post",
    "url": "https://www.youtube.com/post/UgkxAqiRqn1wDO5q6X_3Wah3Fkt2iaH3gpQH",
-   "record": null,
+   "record": "sns-2025-04-11-youtube-happy-danielle-day",
    "exclude": null,
    "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
   },
@@ -3521,7 +3521,7 @@
    "date": "2025-04-21",
    "title": "Happy Hyein Day birthday post",
    "url": "https://www.youtube.com/post/UgkxBFeNzbe2G_Cw3ciDE8WV8nao0YscoCQC",
-   "record": null,
+   "record": "sns-2025-04-21-youtube-happy-hyein-day",
    "exclude": null,
    "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
   },
@@ -3530,7 +3530,7 @@
    "date": "2025-05-07",
    "title": "Happy Minji Day birthday post",
    "url": "https://www.youtube.com/post/UgkxSZGNwLiYdlrVlPEhaGwFZTK7bhsASiI9",
-   "record": null,
+   "record": "sns-2025-05-07-youtube-happy-minji-day",
    "exclude": null,
    "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
   },
@@ -3539,7 +3539,7 @@
    "date": "2025-05-15",
    "title": "Happy Haerin Day birthday post",
    "url": "https://www.youtube.com/post/UgkxpHvadZHu0sChOk_D-SuLTec-rH9g4NpK",
-   "record": null,
+   "record": "sns-2025-05-15-youtube-happy-haerin-day",
    "exclude": null,
    "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
   },
@@ -3566,7 +3566,7 @@
    "date": "2025-07-20",
    "title": "3rd debut anniversary 'NewJeans Day On Air' D-2 notice (2025-07-22 0:00-19:00 KST on YouTube)",
    "url": "https://www.youtube.com/post/UgkxlYcau7jUi9PQJ3M_R5A2fvUaN_q4p6TR",
-   "record": null,
+   "record": "sns-2025-07-20-youtube-newjeans-day-on-air-d-2",
    "exclude": null,
    "note": "milestone; platform: youtube community; posted 19:00 KST; related record content-2025-07-22-youtube-newjeans-day-on-air dated 2025-07-22"
   },
@@ -3584,7 +3584,7 @@
    "date": "2025-10-06",
    "title": "Happy Hanni Day birthday post",
    "url": "https://www.youtube.com/post/UgkxFoleqw41ly3YpyZ0HN0ShESowbv7-VLl",
-   "record": null,
+   "record": "sns-2025-10-06-youtube-happy-hanni-day",
    "exclude": null,
    "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
   },
@@ -3602,7 +3602,7 @@
    "date": "2025-10-29",
    "title": "Happy 3rd Bunnies Day post",
    "url": "https://www.youtube.com/post/Ugkxd8Y1GpYK9yfayKwi2eadKrA_Ha2UQ9m3",
-   "record": null,
+   "record": "sns-2025-10-29-youtube-happy-3rd-bunnies-day",
    "exclude": null,
    "note": "milestone; platform: youtube community; posted 13:00 KST; related record content-2025-10-28-bunnies-happy-3rd-bunnies-day dated 2025-10-28"
   },
@@ -3701,7 +3701,7 @@
    "date": "2026-10-06",
    "title": "Happy Hanni Day birthday post ('Photo by HANNI')",
    "url": "https://sports.khan.co.kr/en/article/202610061649007",
-   "record": null,
+   "record": "sns-2026-10-06-x-happy-hanni-day",
    "exclude": null,
    "note": "milestone (member birthday); platform: official SNS (press does not name the platform); post URL not located"
   }

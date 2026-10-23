@@ -1481,8 +1481,12 @@
       "chart",
       "sales"
     ],
-    "verified": false,
-    "editor_note": "Hanteoチャート初週集計に基づく。 / No Hanteo primary page found for 701,241; corroborated by secondary press (OSEN '[공식]', The Fact) citing Hanteo. Not contradicted."
+    "verified": true,
+    "editor_note": "Hanteoチャート初週集計に基づく。 / No Hanteo primary page found for 701,241; corroborated by secondary press (OSEN '[공식]', The Fact) citing Hanteo. Not contradicted. / 2026-10-24 nightly: Hanteo's historical weekly page is not retrievable; Korea JoongAng Daily (2023-01-09) and OSEN '[공식]' confirm 701,241 copies for Jan 2-8 per Hanteo and the 125% rise over the debut EP's ~310,000. The exact 'fourth-highest for a girl group' ranking is from Soompi only (KJD says top five); not contradicted.",
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-sells-over-700000-copies-of-latest-ep-omg-in-first-week/10678411",
+      "https://www.osen.co.kr/article/G1112022252"
+    ]
   },
   {
     "id": "record-2023-01-12-circle-cert-new-jeans-double-platinum",
@@ -1518,7 +1522,7 @@
       "https://circlechart.kr/page_chart/certification.circle",
       "https://www.soompi.com/article/1562676wpp/itzy-earns-circle-million-certification-red-velvet-le-sserafim-rm-newjeans-and-more-go-double-triple-platinum"
     ],
-    "editor_note": "Circle's live certification list shows only the highest current grade per title (1st EP New Jeans = Million, certified 2023-09-07), so the earlier 2P entry is no longer displayed. 2023-01-12 is a Thursday, consistent with Circle's certification cycle. Not contradicted."
+    "editor_note": "Circle's live certification list shows only the highest current grade per title (1st EP New Jeans = Million, certified 2023-09-07), so the earlier 2P entry is no longer displayed. 2023-01-12 is a Thursday, consistent with Circle's certification cycle. Not contradicted. / 2026-10-24 nightly: Circle's cert API (/data/api/cert/chart) lists only the current grade (1st EP New Jeans 1M, 2023-09-07); no Circle notice or Korean major-press report of the 2023-01-12 double-platinum batch was found. Still Soompi only."
   },
   {
     "id": "record-2023-01-12-circle-weekly-quintuple-crown-omg",
@@ -1695,7 +1699,7 @@
       "melon"
     ],
     "verified": false,
-    "editor_note": "Melon does not expose historical weekly charts without a browser session (chart/search endpoint returns empty); no Kakao/Melon official statement found. Not contradicted."
+    "editor_note": "Melon does not expose historical weekly charts without a browser session (chart/search endpoint returns empty); no Kakao/Melon official statement found. Not contradicted. / 2026-10-24 nightly: no report for the Jan 9-15 Melon weekly chart itself was found. OSEN coverage of later weeks implies it ('OMG' 2nd for two straight weeks as of Jan 16-22; 'Hype Boy' 3rd for three straight weeks as of Jan 23-29), but the 2NE1/BIGBANG comparison is Soompi only."
   },
   {
     "id": "record-2023-01-19-sma-32-rookie-of-the-year",
@@ -1906,8 +1910,12 @@
       "chart",
       "melon"
     ],
-    "verified": false,
-    "editor_note": "Melon月間チャート（2023年1月）の公開に基づく。 / Melon historical monthly chart not retrievable from this environment; no Melon/Kakao official statement located. Not contradicted."
+    "verified": true,
+    "editor_note": "Melon月間チャート（2023年1月）の公開に基づく。 / Melon historical monthly chart not retrievable from this environment; no Melon/Kakao official statement located. Not contradicted. / 2026-10-24 nightly: OSEN (2023-02-02 07:44 KST) confirms Ditto 1st, OMG 2nd, Hype Boy 3rd on Melon's January monthly chart; OSEN's February-chart report repeats that only Busker Busker and MC Mong had swept the monthly top three before. Ditto's eight-place climb, 'first idol group' framing and the 40/60 weighting are Soompi only; not contradicted.",
+    "reference_urls": [
+      "https://www.osen.co.kr/article/G1112034240",
+      "https://www.osen.co.kr/article/G1112052103"
+    ]
   },
   {
     "id": "record-2023-02-09-circle-cert-new-jeans-weverse-platinum",
@@ -1943,7 +1951,7 @@
       "https://circlechart.kr/page_chart/certification.circle",
       "https://www.soompi.com/article/1566088wpp/seventeen-and-nct-dream-earn-circle-gaon-triple-million-and-million-certifications-ateez-newjeans-and-more-go-platinum"
     ],
-    "editor_note": "Circle live list shows 1st EP New Jeans (Weverse) at 2P certified 2024-03-07; the earlier 1P entry (2023-02-09, a Thursday) is superseded and not displayed. Not contradicted."
+    "editor_note": "Circle live list shows 1st EP New Jeans (Weverse) at 2P certified 2024-03-07; the earlier 1P entry (2023-02-09, a Thursday) is superseded and not displayed. Not contradicted. / 2026-10-24 nightly: Circle's cert API shows 1st EP New Jeans (Weverse) at 2P (2024-03-07) only; the 2023-02-09 1P entry is no longer listed and no Circle notice or Korean major-press report of it was found. Still Soompi only."
   },
   {
     "id": "record-2023-02-09-circle-monthly-jan-2023-ditto",
@@ -2158,7 +2166,7 @@
       "hanteo-music-awards"
     ],
     "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list; 30th HMA Wikipedia says voting opened Dec 13, 2022 on Whosfan, but no official or major-press nominee list was found."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list; 30th HMA Wikipedia says voting opened Dec 13, 2022 on Whosfan, but no official or major-press nominee list was found. / 2026-10-24 nightly: not attempted beyond a quick check; no Hanteo/Whosfan nominee list or major-press nominee report found. Still Wikipedia only."
   },
   {
     "id": "record-2023-02-11-hanteo-music-awards-30-rookie",

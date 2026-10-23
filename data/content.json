@@ -1668,7 +1668,7 @@
       "live-stream"
     ],
     "verified": false,
-    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. / 2026-10-24 nightly: Phoning live replays are in-app only and no official post or notice naming this face call was found; the official 'Happy Hanni Day' YouTube community post (00:00 KST) confirms only the birthday, not the face call or its length. Still namu.wiki only."
   },
   {
     "id": "content-2022-10-07-light-jeans-1st-ep-new-jeans-music-show-behind-ep-1",
@@ -1745,6 +1745,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=XwUdoDcgfng",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=XwUdoDcgfng",
       "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
       "https://thetvdb.com/series/newzips/allseasons/official"
     ],
@@ -1759,7 +1760,7 @@
       "newzips",
       "reality"
     ],
-    "verified": false,
+    "verified": true,
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
   },
   {
@@ -1837,6 +1838,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=8Lp9tQXixbQ",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=8Lp9tQXixbQ",
       "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
       "https://thetvdb.com/series/light-jeans/allseasons/official"
     ],
@@ -1852,7 +1854,7 @@
       "behind",
       "music-show"
     ],
-    "verified": false,
+    "verified": true,
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
   },
   {
@@ -1884,6 +1886,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=5HutVgXuJnM",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=5HutVgXuJnM",
       "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
       "https://thetvdb.com/series/newzips/allseasons/official"
     ],
@@ -1898,7 +1901,7 @@
       "newzips",
       "reality"
     ],
-    "verified": false,
+    "verified": true,
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
   },
   {
@@ -1930,6 +1933,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=N8CPj5xk8Qs",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=N8CPj5xk8Qs",
       "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
       "https://thetvdb.com/series/light-jeans/allseasons/official"
     ],
@@ -1944,7 +1948,7 @@
       "light-jeans",
       "behind"
     ],
-    "verified": false,
+    "verified": true,
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
   },
   {
@@ -1976,6 +1980,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=KEDZ9z7tlCw",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=KEDZ9z7tlCw",
       "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
       "https://thetvdb.com/series/light-jeans/allseasons/official"
     ],
@@ -1990,7 +1995,7 @@
       "light-jeans",
       "behind"
     ],
-    "verified": false,
+    "verified": true,
     "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
   },
   {
