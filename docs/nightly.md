@@ -34,7 +34,7 @@
 - `python3 scripts/validate.py --fix-order` → `python3 scripts/sanitize_future.py` → `python3 scripts/validate.py`（errors=0 でなければ直すまで公開しない）
 - `python3 scripts/build_artifact.py`
 - 公開の基準ファイル `<scratchpad>/publish_baseline.txt`（前回公開後の状態）があればそれを使う。無ければ（コンテナが変わった等）アーティファクト https://claude.ai/artifact/Q69aY2x29YLqxY6s46156j のファイル一覧を Artifact（action list, scope files）で取ってテキストに保存する → `python3 tools/publish_plan.py <baseline> <scratchpad>/pub` → pub1.json, pub2.json … の順に Artifact publish（file_path=build/artifact/index.html、root=リポジトリ、files=各JSON）→ 成功したら `python3 tools/publish_plan.py --baseline <scratchpad>/publish_baseline.txt` で基準を更新。
-- `git add -A data media docs scripts tools `git add -A data media docs && git commit``git add -A data media docs && git commit` git commit`（media は改名で画像ファイルが動くので必ず含める）（メッセージ末尾に所定の署名行）→ `git push -u origin claude/initial-site` と `git push origin HEAD:main`。本番（Cloudflare Workers）はpushで自動デプロイ。
+- `git add -A data media docs scripts tools assets && git commit`（media は改名で画像ファイルが動くので必ず含める。メッセージ末尾に所定の署名行）→ `git push -u origin claude/initial-site` と `git push origin HEAD:main`。本番（Cloudflare Workers）はpushで自動デプロイ。
 
 ## 6.5 次のラウンド
 - 2〜4の対象が残っていれば、2に戻る。対象がなくなったら7へ。
