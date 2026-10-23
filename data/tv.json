@@ -302,8 +302,10 @@
       "ja": "デビューステージの翌週、SBS『人気歌謡』2度目の出演で「Attention」1曲を披露したステージ。",
       "en": "NewJeans' second Inkigayo appearance, performing 'Attention' as a single-song stage."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+    "source_url": "https://www.youtube.com/watch?v=YKeLPiX2weg",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=YKeLPiX2weg",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
       "https://www.youtube.com/watch?v=-H-VBvGyWbA"
     ],
     "media": {
@@ -313,7 +315,7 @@
     "tags": [
       "music-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "SBS『人気歌謡』への2度目の出演で「Attention」を披露した。この週は「Attention」1曲だけのステージだった。",
       "en": "NewJeans' second appearance on SBS's Inkigayo, performing 'Attention'. The stage that week consisted of the one song."
@@ -325,7 +327,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=YKeLPiX2weg"
     },
-    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - Attention @인기가요 inkigayo 20220814」(2022-08-14); 関連1本をreference_urlsに記載"
+    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - Attention @인기가요 inkigayo 20220814」(2022-08-14); 関連1本をreference_urlsに記載 / 2026-10-24 nightly: SBSKPOP X INKIGAYO official uploads checked via YouTube API: 'NewJeans(뉴진스) - Attention @인기가요 inkigayo 20220814' (Aug 14, 2022 KST, #SBSInkigayo_EP1150) and FullCam -H-VBvGyWbA; no other NewJeans song uploaded for the 0814 episode."
   },
   {
     "id": "tv-2022-08-14-sbs-radio-cultwo-show",
@@ -342,12 +344,14 @@
       "en": "SBS Radio: Cultwo Show"
     },
     "summary": {
-      "ja": "5人全員がSBSパワーFMの公開ラジオ『2時脱出カルトショー』に出演した、2日連続のSBSラジオ出演。",
-      "en": "All five members on SBS Power FM's Cultwo Show, their second SBS radio appearance in two days."
+      "ja": "5人全員でのラジオ初出演となったSBSパワーFM『2時脱出カルトショー』。前日に続く2日連続のSBSラジオ出演。",
+      "en": "All five members on SBS Power FM's Cultwo Show, their first radio appearance as a full group and their second SBS radio slot in two days."
     },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
+    "source_url": "https://www.youtube.com/watch?v=wf5bRNl24tY",
     "reference_urls": [
-      "https://www.youtube.com/watch?v=DEoh4Z4uH_0"
+      "https://www.youtube.com/watch?v=wf5bRNl24tY",
+      "https://www.youtube.com/watch?v=DEoh4Z4uH_0",
+      "https://ja.wikipedia.org/wiki/NewJeans"
     ],
     "media": {
       "type": "youtube",
@@ -356,17 +360,16 @@
     "tags": [
       "radio"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "5人全員がSBSパワーFMの平日昼の公開ラジオ『2時脱出カルトショー』に出演した。進行はお笑いコンビ・カルトのキム・テギュン。前日の『パク・ソヒョンのラブゲーム』に続き、2日連続のSBSラジオ出演となった。",
-      "en": "All five members appeared on SBS Power FM's Cultwo Show (2 O'Clock Escape Cultwo Show), the weekday afternoon program hosted by Kim Tae-gyun of the comedy duo Cultwo. Following Park So-hyun's Love Game the day before, it was the group's second SBS radio appearance in two days."
+      "ja": "5人全員がSBSパワーFM（107.7MHz）の『2時脱出カルトショー』（毎日14時〜16時）に出演した。グループ5人そろってのラジオ出演はこれが初めてで、「見るラジオ」として収録映像も公開された。放送前の8月11日には「Attention」「Hype Boy」のポイント振付の先行映像が公開されていた。前日の『パク・ソヒョンのラブゲーム』（3人出演）に続き、2日連続のSBSラジオ出演となった。",
+      "en": "All five members appeared on SBS Power FM (107.7MHz)'s Cultwo Show, broadcast daily from 2 to 4 p.m. It was the group's first radio appearance as a full five-member lineup, and the visible-radio footage was released. A preview clip of the point choreography for 'Attention' and 'Hype Boy' had been posted on August 11. Following Park So-hyun's Love Game the day before (with three members), it was the group's second SBS radio appearance in two days."
     },
     "credits": {
       "broadcaster": "SBS Power FM",
-      "program": "Cultwo Show",
-      "dj": "Kim Tae-gyun"
+      "program": "Cultwo Show"
     },
-    "editor_note": "Date and lineup per ja.wikipedia radio table; no contemporaneous article found for the broadcast content. / 公式動画: SBS Radio 에라오「[FULL][4K] The birth of the perfect \"God-tier rookie\" group you'll never get tired of! 💙NewJeans💙...」(2022-08-14); 関連1本をreference_urlsに記載",
+    "editor_note": "Date and lineup per ja.wikipedia radio table; no contemporaneous article found for the broadcast content. / 公式動画: SBS Radio 에라오「[FULL][4K] The birth of the perfect \"God-tier rookie\" group you'll never get tired of! 💙NewJeans💙...」(2022-08-14); 関連1本をreference_urlsに記載 / 2026-10-24 nightly: SBS Radio 에라오 official YouTube: wf5bRNl24tY (Aug 14, 2022: 'first full-group radio appearance on Cultwo Show', 'August 14, 2022 During Broadcast', 'Every day 2 PM - 4 PM') and DEoh4Z4uH_0 (Aug 11, 2022 preview: '완전체 라디오 첫 출연', '8월 14일 일요일'). Fixed 'weekday public radio' (programme airs daily; 08-14 was a Sunday) and dropped the unconfirmed DJ credit (Kim Tae-gyun).",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=wf5bRNl24tY"
     }
@@ -426,14 +429,16 @@
       "en": "Music Bank: Attention wins #1"
     },
     "summary": {
-      "ja": "KBS『ミュージックバンク』で「Attention」が少女時代「FOREVER 1」との対決を制し11,150点で1位、2つ目のトロフィーに。",
-      "en": "'Attention' beat 'FOREVER 1' on Music Bank with 11,150 points, NewJeans' second trophy; they performed 'Hype Boy' and 'Hurt'."
+      "ja": "KBS『ミュージックバンク』で「Attention」が1位を獲得し、前日の『M COUNTDOWN』に続く2つ目のトロフィーとなった。",
+      "en": "'Attention' took first place on KBS's Music Bank, NewJeans' second trophy after M Countdown the day before; they performed 'Hype Boy' and 'Hurt'."
     },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
+    "source_url": "https://www.youtube.com/watch?v=DqU7QGO2hI4",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=DqU7QGO2hI4",
+      "https://www.youtube.com/watch?v=VezhLH-1b-E",
+      "https://www.newsis.com/view/NISX20220819_0001983617",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
       "https://www.youtube.com/watch?v=iW7B08-TlJ0",
-      "https://www.youtube.com/watch?v=DqU7QGO2hI4",
       "https://www.youtube.com/watch?v=0E-gSXviJ3U",
       "https://www.youtube.com/watch?v=ogklOvuqJH0",
       "https://www.youtube.com/watch?v=DZPuz2z8z7M"
@@ -446,16 +451,16 @@
       "music-show",
       "win"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "KBS『ミュージックバンク』で「Attention」が少女時代「FOREVER 1」との1位対決を制し、合計11,150点で1位を獲得した。デジタル音源、放送回数、音盤の各スコアで上回った結果で、前日の『M COUNTDOWN』に続く2つ目のトロフィー。この回のステージでは「Hype Boy」と「Hurt」を披露した。",
-      "en": "'Attention' won first place on KBS's Music Bank with 11,150 points against Girls' Generation's 'FOREVER 1', leading in the digital, broadcast-count and album scores. It was NewJeans' second trophy, a day after M Countdown. On the episode they performed 'Hype Boy' and 'Hurt'."
+      "ja": "KBS『ミュージックバンク』で「Attention」が1位を獲得した。前日の『M COUNTDOWN』に続く2つ目のトロフィーで、地上波の音楽番組では初の1位。この回のステージでは「Hype Boy」と「Hurt」を披露し、1位のアンコールでは「Attention」を歌った。",
+      "en": "'Attention' won first place on KBS's Music Bank. It was NewJeans' second trophy, a day after M Countdown, and their first win on a terrestrial-TV music show. On the episode they performed 'Hype Boy' and 'Hurt', and sang 'Attention' for the winner's encore."
     },
     "credits": {
       "broadcaster": "KBS 2TV",
       "program": "Music Bank"
     },
-    "editor_note": "Points and nominee per Newsinside (KBS K-Chart) and Music Bank chart list. / 公式動画: KBS Kpop「Hype boy - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 220819 방송」(2022-08-19); 関連5本をreference_urlsに記載",
+    "editor_note": "Points and nominee per Newsinside (KBS K-Chart) and Music Bank chart list. / 公式動画: KBS Kpop「Hype boy - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 220819 방송」(2022-08-19); 関連5本をreference_urlsに記載 / 2026-10-24 nightly: KBS Kpop official uploads for the 220819 episode: 'Attention' 1위 앵콜 직캠 (DqU7QGO2hI4), Hype boy (iXM99GTJWsk), Hurt (iW7B08-TlJ0); KBS WORLD 'Winner's Ceremony - NewJeans' (VezhLH-1b-E). The 11,150-point total and the head-to-head with Girls' Generation 'FOREVER 1' (Newsinside) could not be confirmed from KBS or major press and were removed from reader text.",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=iXM99GTJWsk"
     }
@@ -475,11 +480,13 @@
       "en": "Show! Music Core: Attention wins #1"
     },
     "summary": {
-      "ja": "MBC『ショー！音楽中心』で「Attention」が7,495点で1位を獲得し、3日連続の音楽番組1位に。",
-      "en": "'Attention' won Show! Music Core with 7,495 points, NewJeans' third music-show win in three days."
+      "ja": "MBC『ショー！音楽中心』で「Attention」が1位を獲得し、3日連続の音楽番組1位となった。",
+      "en": "'Attention' won Show! Music Core, NewJeans' third music-show win in three days."
     },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "source_url": "https://www.harpersbazaar.co.kr/article/70301",
+    "reference_urls": [
+      "https://www.harpersbazaar.co.kr/article/70301"
+    ],
     "media": {
       "type": "none"
     },
@@ -487,16 +494,16 @@
       "music-show",
       "win"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "MBC『ショー！音楽中心』で「Attention」が7,495点で1位を獲得した。『M COUNTDOWN』『ミュージックバンク』に続く3日連続の1位で、この番組では初のトロフィーだった。",
-      "en": "'Attention' took first place on MBC's Show! Music Core with 7,495 points, NewJeans' first trophy on that program and their third win in three days after M Countdown and Music Bank."
+      "ja": "MBC『ショー！音楽中心』で「Attention」が1位を獲得した。『M COUNTDOWN』『ミュージックバンク』に続く3日連続の1位で、この番組では初のトロフィーだった。",
+      "en": "'Attention' took first place on MBC's Show! Music Core, NewJeans' first trophy on that program and their third win in three days after M Countdown and Music Bank."
     },
     "credits": {
       "broadcaster": "MBC",
       "program": "Show! Music Core"
     },
-    "editor_note": "Points per Show! Music Core chart list (en.wikipedia); competing nominees not confirmed. / 公式YouTube動画なし: No stage; NewJeans did not appear on Music Core 220820 and MBCkpop has no winner clip",
+    "editor_note": "Points per Show! Music Core chart list (en.wikipedia); competing nominees not confirmed. / 公式YouTube動画なし: No stage; NewJeans did not appear on Music Core 220820 and MBCkpop has no winner clip / 2026-10-24 nightly: No MBC clip exists (NewJeans did not appear). Harper's BAZAAR Korea (2022-08-31) lists the wins: 18 M Countdown, 19 Music Bank, 20 Show! Music Core, 21 and 28 Inkigayo. The 7,495-point total (en.wikipedia chart list) could not be confirmed from MBC or press and was removed from reader text.",
     "image": {
       "url": "https://www.stoo.com/upimages/gisaimg/202208/20821059.jpg",
       "source_url": "http://www.stoo.com/article.php?aid=82105975411"
@@ -517,14 +524,16 @@
       "en": "Inkigayo: Attention wins #1"
     },
     "summary": {
-      "ja": "SBS『人気歌謡』で「Attention」が8,273点で1位を獲得し、地上波3局とMnetの音楽番組すべてで1位を達成した回。",
-      "en": "'Attention' won Inkigayo with 8,273 points, completing wins on all four major music shows; NewJeans performed 'Hype Boy'."
+      "ja": "SBS『人気歌謡』で「Attention」が1位を獲得し、地上波3局とMnetの音楽番組すべてで1位を達成した回。",
+      "en": "'Attention' won Inkigayo, completing wins on all four major music shows; NewJeans performed 'Hype Boy'."
     },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
+    "source_url": "https://www.youtube.com/watch?v=XPxdU5NOIW4",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=XPxdU5NOIW4",
+      "https://www.youtube.com/watch?v=E9VkRkKzktw",
+      "https://www.harpersbazaar.co.kr/article/70301",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
       "https://www.youtube.com/watch?v=5sp_qdC3_dg",
-      "https://www.youtube.com/watch?v=XPxdU5NOIW4",
       "https://www.youtube.com/watch?v=YLy4iXLu0qI"
     ],
     "media": {
@@ -535,16 +544,16 @@
       "music-show",
       "win"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "SBS『人気歌謡』で「Attention」が8,273点で1位を獲得した。1位候補は少女時代「FOREVER 1」、ITZY「SNEAKERS」と「Attention」の3曲。これで地上波3局とMnetの音楽番組すべてで1位を獲得したことになる。この回では「Hype Boy」を披露した。",
-      "en": "'Attention' won first place on SBS's Inkigayo with 8,273 points, over fellow nominees Girls' Generation's 'FOREVER 1' and ITZY's 'SNEAKERS'. With this win NewJeans had topped M Countdown, Music Bank, Show! Music Core and Inkigayo. They performed 'Hype Boy' on the episode."
+      "ja": "SBS『人気歌謡』で「Attention」が1位を獲得した。これで『M COUNTDOWN』『ミュージックバンク』『ショー！音楽中心』と合わせ、地上波3局とMnetの音楽番組すべてで1位を獲得したことになる。この回では「Hype Boy」を披露し、1位のアンコールでは「Attention」を歌った。",
+      "en": "'Attention' won first place on SBS's Inkigayo. With this win NewJeans had topped M Countdown, Music Bank, Show! Music Core and Inkigayo. They performed 'Hype Boy' on the episode and sang 'Attention' for the winner's encore."
     },
     "credits": {
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Nominees per Joynews24 (Aug 21, 2022); points per Inkigayo chart list. Joynews24 states Attention was performed; en.wikipedia live list records Hype Boy. / 公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - Hype Boy @인기가요 inkigayo 20220821」(2022-08-21); 関連3本をreference_urlsに記載",
+    "editor_note": "Nominees per Joynews24 (Aug 21, 2022); points per Inkigayo chart list. Joynews24 states Attention was performed; en.wikipedia live list records Hype Boy. / 公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - Hype Boy @인기가요 inkigayo 20220821」(2022-08-21); 関連3本をreference_urlsに記載 / 2026-10-24 nightly: SBSKPOP X INKIGAYO official uploads dated Aug 21, 2022: 'Attention' 인기가요 1위 앵콜 직캠 (XPxdU5NOIW4) and 'Hype Boy @인기가요 inkigayo 20220821' (E9VkRkKzktw); no 0821 'Attention' stage upload, so the performed song was Hype Boy. The 8,273 points and the nominees (Girls' Generation 'FOREVER 1', ITZY 'SNEAKERS', per Joynews24) could not be confirmed from SBS or a fetchable article and were removed from reader text.",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=E9VkRkKzktw"
     }
@@ -567,8 +576,11 @@
       "ja": "「Attention」で1位を獲得した翌週、Mnet『M COUNTDOWN』で「Hype Boy」を披露したステージ。",
       "en": "NewJeans performed 'Hype Boy' on M Countdown, the week after 'Attention' won the program."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "source_url": "https://www.youtube.com/watch?v=GL2QFKnhxv8",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=GL2QFKnhxv8",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
     "media": {
       "type": "youtube",
       "ref": "GL2QFKnhxv8"
@@ -576,7 +588,7 @@
     "tags": [
       "music-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "Mnet『M COUNTDOWN』で「Hype Boy」を披露した。前週に「Attention」で1位を獲得した番組への続けての出演で、この週は「Hype Boy」のステージだった。",
       "en": "NewJeans performed 'Hype Boy' on Mnet's M Countdown. It was the week after 'Attention' had won first place on the program."
@@ -588,7 +600,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=GL2QFKnhxv8"
     },
-    "editor_note": "公式動画: Mnet K-POP「[NewJeans - Hype Boy] #엠카운트다운 EP.767 | Mnet 220825 방송」(2022-08-25)"
+    "editor_note": "公式動画: Mnet K-POP「[NewJeans - Hype Boy] #엠카운트다운 EP.767 | Mnet 220825 방송」(2022-08-25) / 2026-10-24 nightly: Mnet K-POP official upload GL2QFKnhxv8 '[NewJeans - Hype Boy] #엠카운트다운 EP.767 | Mnet 220825 방송' dated Aug 25, 2022 KST; the 08-18 'Attention' win is in the verified record tv-2022-08-18-mcountdown-attention-first-win."
   },
   {
     "id": "tv-2022-08-26-music-bank-hurt",

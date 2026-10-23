@@ -306,7 +306,7 @@
       "live-stream"
     ],
     "verified": false,
-    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. / 2026-10-24 nightly: Not confirmable: Phoning live replays are app-only and no official web/SNS post announcing this face call was found; namu.wiki remains the only source."
   },
   {
     "id": "content-2022-08-16-making-jeans-1st-ep-new-jeans-behind-ep-1",
@@ -473,6 +473,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=6AR_hBqR274",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=6AR_hBqR274",
       "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
       "https://thetvdb.com/series/making-jeans/allseasons/official"
     ],
@@ -487,8 +488,8 @@
       "making-jeans",
       "behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube API (Asia/Seoul): 6AR_hBqR274 '[Making Jeans] NewJeans (뉴진스) 1st EP 'New Jeans' Behind EP.2', NewJeans channel, Aug 23, 2022 KST."
   },
   {
     "id": "content-2022-08-24-jeans-zine-newjeans-bakery-1",
@@ -597,12 +598,12 @@
       "en": "NewJeans Bakery EP.1"
     },
     "summary": {
-      "ja": "ベーカリーをテーマにしたJeans' ZINE『NewJeans Bakery』の第1回。",
-      "en": "Episode 1 of 'NewJeans Bakery', the bakery-themed Jeans' ZINE outing."
+      "ja": "メンバーがクッキー作りに挑むJeans' ZINE『NewJeans Bakery』の第1回。",
+      "en": "Episode 1 of Jeans' ZINE 'NewJeans Bakery', in which the members take on a cookie-baking challenge."
     },
     "detail": {
-      "ja": "ベーカリーをテーマにしたJeans' ZINE『NewJeans Bakery』の第1回。メンバーが企画に挑む自主制作バラエティ。",
-      "en": "The first episode of 'NewJeans Bakery', the bakery-themed outing of Jeans' ZINE. Part of the members' self-produced variety series."
+      "ja": "Jeans' ZINEの企画『NewJeans Bakery』の第1回で、メンバーがクッキー作りに挑戦した。マニト（秘密の相手）決め、材料獲得ゲーム、クッキー作りで構成され、最後に完成したクッキーの映像が収められている。",
+      "en": "The first episode of the Jeans' ZINE feature 'NewJeans Bakery', in which the members try making cookies. It runs through drawing secret 'manito' partners, a game to win ingredients and the baking itself, ending with a look at the finished cookies."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -610,6 +611,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=9yYA6rymmBk",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=9yYA6rymmBk",
       "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
       "https://thetvdb.com/series/jeans-zine/allseasons/official"
     ],
@@ -624,8 +626,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube API (Asia/Seoul): 9yYA6rymmBk '[Jeans' ZINE] NewJeans Bakery EP.1', NewJeans channel, Aug 27, 2022 KST; description chapters (Intro, 마니또 뽑기, 재료 얻기 게임, 쿠키 만들기, 쿠키 영상). Detail rewritten from the description; 'self-produced variety' was not supported."
   },
   {
     "id": "content-2022-08-28-light-jeans-youtube",
@@ -657,6 +659,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=fbPaDZVgfrU",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=fbPaDZVgfrU",
       "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
       "https://thetvdb.com/series/light-jeans/allseasons/official"
     ],
@@ -671,8 +674,8 @@
       "light-jeans",
       "behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube API (Asia/Seoul): fbPaDZVgfrU '[Light Jeans] NewJeans (뉴진스) 'Hype Boy' MV Reaction', NewJeans channel, Aug 28, 2022 KST."
   },
   {
     "id": "content-2022-08-30-making-jeans-1st-ep-new-jeans-behind-ep-3-final",
@@ -964,8 +967,8 @@
       "en": "A one-minute short clip from episode 1 of 'NewJeans School', the school-themed Jeans' ZINE outing."
     },
     "detail": {
-      "ja": "学校をテーマにしたJeans' ZINE『NewJeans School』第1回の1分ショートクリップ。短尺で見どころを切り出した映像。",
-      "en": "A one-minute short clip from episode 1 of 'NewJeans School', the school-themed outing of Jeans' ZINE. A bite-sized cut of the episode."
+      "ja": "学校をテーマにしたJeans' ZINE『NewJeans School』第1回の1分ショートクリップ。概要欄では本編を9月10日（土）17時に公開すると予告した。",
+      "en": "A one-minute short clip from episode 1 of 'NewJeans School', the school-themed outing of Jeans' ZINE. The description announced the full episode for Saturday, September 10 at 5 p.m. KST."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -973,6 +976,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=akBsvbxUR-4",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=akBsvbxUR-4",
       "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
       "https://thetvdb.com/series/jeans-zine/allseasons/official"
     ],
@@ -987,8 +991,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube API (Asia/Seoul): akBsvbxUR-4 '[Jeans' ZINE] NewJeans School EP.1 l 1분 숏클립', NewJeans channel, Sep 7, 2022 KST; description '2022.09.10.(SAT) 5PM KST NewJeans School OPEN'."
   },
   {
     "id": "content-2022-09-08-light-jeans-happy-chuseok-with-newjeans",
@@ -1037,6 +1041,52 @@
     "verified": true
   },
   {
+    "id": "content-2022-09-09-yt-happy-chuseok-chuseok-greetings-from-newjeans",
+    "date": "2022-09-09",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "content",
+    "entity": "newjeans",
+    "platform": "youtube",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Happy Chuseok!｜NewJeansの秋夕のご挨拶",
+      "en": "Happy Chuseok! | Chuseok Greetings from NewJeans"
+    },
+    "summary": {
+      "ja": "2022年の秋夕（9月10日）を前に公開された、メンバーからの約1分のご挨拶映像。",
+      "en": "A roughly one-minute greeting from the members, posted on the eve of Chuseok 2022 (September 10)."
+    },
+    "detail": {
+      "ja": "2022年の秋夕（9月10日）を前に公開された約1分のご挨拶映像。シリーズに属さない単発コンテンツ。",
+      "en": "A roughly one-minute greeting video posted ahead of Chuseok 2022 (September 10). A stand-alone piece outside the regular series."
+    },
+    "credits": {
+      "channel": "NewJeans (YouTube)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.youtube.com/watch?v=GO2slC7BG-g",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=GO2slC7BG-g",
+      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "GO2slC7BG-g"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=GO2slC7BG-g"
+    },
+    "tags": [
+      "clip",
+      "greeting"
+    ],
+    "verified": true,
+    "editor_note": "YouTube watch page (reader, US-Pacific display) shows 2022-09-09; greeting/preview-type uploads on this channel go up at midnight KST, which shifts the Pacific display a day earlier (verified pattern on 30 namu-dated items), so the following KST date 2022-09-10 is used. Not confirmed from a KST-dated source. / 2026-10-24 nightly: Date corrected: YouTube API returns Sep 9, 2022 with timeZone Asia/Seoul, UTC and US Pacific alike, so the upload was 16:00–24:00 KST on Sep 9 (the earlier 'midnight KST' assumption does not hold for this video)."
+  },
+  {
     "id": "content-2022-09-10-jeans-zine-newjeans-school-ep-1",
     "date": "2022-09-10",
     "date_type": "release",
@@ -1080,51 +1130,6 @@
       "variety"
     ],
     "verified": true
-  },
-  {
-    "id": "content-2022-09-10-yt-happy-chuseok-chuseok-greetings-from-newjeans",
-    "date": "2022-09-10",
-    "date_type": "release",
-    "date_precision": "day",
-    "category": "content",
-    "entity": "newjeans",
-    "platform": "youtube",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "Happy Chuseok!｜NewJeansの秋夕のご挨拶",
-      "en": "Happy Chuseok! | Chuseok Greetings from NewJeans"
-    },
-    "summary": {
-      "ja": "2022年の秋夕（9月10日）に合わせた、メンバーからの約1分のご挨拶映像。",
-      "en": "A roughly one-minute greeting from the members for Chuseok 2022 (September 10)."
-    },
-    "detail": {
-      "ja": "2022年の秋夕（9月10日）に合わせて公開された約1分のご挨拶映像。シリーズに属さない単発コンテンツ。",
-      "en": "A roughly one-minute greeting video released for Chuseok 2022 (September 10). A stand-alone piece outside the regular series."
-    },
-    "credits": {
-      "channel": "NewJeans (YouTube)",
-      "label": "ADOR"
-    },
-    "source_url": "https://www.youtube.com/watch?v=GO2slC7BG-g",
-    "reference_urls": [
-      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
-    ],
-    "media": {
-      "type": "youtube",
-      "ref": "GO2slC7BG-g"
-    },
-    "links": {
-      "youtube": "https://www.youtube.com/watch?v=GO2slC7BG-g"
-    },
-    "tags": [
-      "clip",
-      "greeting"
-    ],
-    "verified": false,
-    "editor_note": "YouTube watch page (reader, US-Pacific display) shows 2022-09-09; greeting/preview-type uploads on this channel go up at midnight KST, which shifts the Pacific display a day earlier (verified pattern on 30 namu-dated items), so the following KST date 2022-09-10 is used. Not confirmed from a KST-dated source."
   },
   {
     "id": "content-2022-09-14-jeans-zine-newjeans-school-ep-2-l-1",

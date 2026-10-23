@@ -227,8 +227,10 @@
       "ja": "デビュー作が夏なら今作は冬、と位置づけた初のシングルアルバム『OMG』の発売日が2023年1月2日と発表された。",
       "en": "ADOR set January 2, 2023 for the first single album OMG, framed as the group's winter after the debut's summer."
     },
-    "source_url": "https://www.gqkorea.co.kr/?p=203366",
+    "source_url": "https://sbsstar.net/article/N1006965722/newjeans-to-release-a-prerelease-single-on-december-19",
     "reference_urls": [
+      "https://sbsstar.net/article/N1006965722/newjeans-to-release-a-prerelease-single-on-december-19",
+      "https://www.gqkorea.co.kr/?p=203366",
       "https://kpop.fandom.com/wiki/NewJeans"
     ],
     "media": {
@@ -238,10 +240,10 @@
       "omg",
       "comeback"
     ],
-    "verified": false,
-    "note": "先行公開曲『Ditto』とタイトル曲『OMG』の2曲構成。ティーザー「NewJeans of Winter」は後日公開される。",
-    "note_en": "Two tracks: the pre-release 'Ditto' and the title track 'OMG'. The teaser 'NewJeans of Winter' is to be released later.",
-    "editor_note": "Task brief mentioned a 'NewJeans of Winter' announcement on 2022-12-02; sources show the comeback date notice on 2022-11-10 and the first teasers on 2022-12-12 (the latter already in tweet.json). The 12-02 date could not be confirmed. | Original announcement channel not identified in the GQ Korea report. / Removed source mention from reader text: reported the same day by GQ Korea, with photos from ADOR.",
+    "verified": true,
+    "note": "収録曲はタイトル曲と、ファン（Bunnies）と迎える初めての冬のために用意した特別な冬の曲で構成されると説明された。",
+    "note_en": "ADOR said the album would consist of a title track and a special winter track prepared for the group's first winter with their fans, Bunnies.",
+    "editor_note": "Task brief mentioned a 'NewJeans of Winter' announcement on 2022-12-02; sources show the comeback date notice on 2022-11-10 and the first teasers on 2022-12-12 (the latter already in tweet.json). The 12-02 date could not be confirmed. | Original announcement channel not identified in the GQ Korea report. / Removed source mention from reader text: reported the same day by GQ Korea, with photos from ADOR. / 2026-10-24 nightly: No ADOR/NewJeans official post found for this announcement; SBS Star (SBS Entertainment News, 2022-11-10 11:36) and GQ Korea (2022-11-10) both report ADOR's announcement of OMG on Jan 2 with a pre-release on Dec 19 and the summer/winter remark. Reader note replaced: the old note named 'Ditto' and the 'NewJeans of Winter' teaser, which were not public on Nov 10. en.wikipedia attributes the news to HYBE's community briefing (Park Ji-won) the same day.",
     "detail": {
       "ja": "ADORは、初のシングルアルバム『OMG』を2023年1月2日に発売し、12月19日に収録曲を先行公開すると発表した。デビューアルバム『New Jeans』の制作過程で書かれた曲と冬の情緒を持つ曲が収録されるとし、ミン・ヒジン代表は「デビューアルバムがNewJeansの夏を見せたとすれば、今回のシングルアルバムはNewJeansの冬を見せるアルバムになる」と述べた。",
       "en": "ADOR announced that NewJeans' first single album OMG would be released on January 2, 2023, with a track pre-released on December 19. The album was to include songs written during production of the debut album New Jeans and songs with a winter feel, and CEO Min Hee-jin said that if the debut album showed NewJeans' summer, this single album would show their winter."
@@ -308,6 +310,7 @@
     },
     "source_url": "https://news.tf.co.kr/read/ogmeta/2086113.htm",
     "reference_urls": [
+      "https://news.tf.co.kr/read/ogmeta/2086113.htm",
       "https://www.marieclairekorea.com/?p=346169",
       "https://www.vogue.co.kr/?p=467749"
     ],
@@ -320,10 +323,10 @@
       "japan-debut",
       "phoning"
     ],
-    "verified": false,
-    "note": "同じ告知で6月26・27日の東京ドームファンミーティング『Bunnies Camp 2024』も予告された（正式発表は翌27日）。",
-    "note_en": "The same notice also previewed the 'Bunnies Camp 2024' fan meeting at Tokyo Dome on June 26 and 27 (formally announced the next day, the 27th).",
-    "editor_note": "Phoning notice itself is not publicly fetchable; date 03-26 per TF/Marie Claire reports. Tokyo Dome announcement post of 03-27 already exists in tweet.json. / Removed source mention from reader text: reported by The Fact on March 27, 2024.",
+    "verified": true,
+    "note": "",
+    "note_en": "",
+    "editor_note": "Phoning notice itself is not publicly fetchable; date 03-26 per TF/Marie Claire reports. Tokyo Dome announcement post of 03-27 already exists in tweet.json. / Removed source mention from reader text: reported by The Fact on March 27, 2024. / 2026-10-24 nightly: The Phoning notice is app-only (no public page); The Fact (2024-03-27 07:27 KST) states ADOR announced on March 26 via Phoning: May 24 Korean double single (How Sweet, Bubble Gum, instrumentals, 4 tracks), June 21 Japan debut double single (Supernatural, Right Now), Tokyo Dome 'Bunnies Camp 2024' June 26-27, groundwork for a 2025 world tour, practice time/condition management. Reader note removed: it cited the formal announcement 'the next day (27th)', later than the record date, and repeated the detail.",
     "detail": {
       "ja": "ADORはファンアプリPhoningで、NewJeansが5月24日に韓国でダブルシングル（タイトル曲「How Sweet」と「Bubble Gum」、各インストを含む4トラック）を発売し、6月21日に日本でダブルシングル（タイトル曲「Supernatural」と「Right Now」）で正式デビューすると発表した。6月26日・27日に東京ドームで初のファンミーティング「Bunnies Camp 2024」を開くことも告知し、東京ドーム公演を2025年のワールドツアーに向けた土台と位置づけ、メンバーの練習時間の確保とコンディション管理を重視して質の高い公演を届けると説明した。",
       "en": "Through the fan app Phoning, ADOR announced that NewJeans would release a double single in Korea on May 24 (title track 'How Sweet' and 'Bubble Gum', four tracks including instrumentals) and make their official Japanese debut on June 21 with a double single (title track 'Supernatural' and 'Right Now'). It also announced the group's first fan meeting at Tokyo Dome, 'Bunnies Camp 2024', on June 26 and 27, describing the shows as groundwork for a 2025 world tour and saying it prioritized the members' practice time and condition management to deliver a high-quality show."
@@ -345,8 +348,8 @@
       "en": "HYBE announces audit of ADOR management"
     },
     "summary": {
-      "ja": "HYBEが「経営権奪取の試み」を理由にADORのミン・ヒジン代表らへの監査を始め、辞任を要求した。",
-      "en": "HYBE began an audit of ADOR CEO Min Hee-jin and others over an alleged takeover attempt and demanded her resignation."
+      "ja": "HYBEが「経営権奪取の試み」を理由にADORのミン・ヒジン代表と役員への監査を始め、辞任を要求した。",
+      "en": "HYBE began an audit of ADOR CEO Min Hee-jin and an executive over an alleged takeover attempt and demanded her resignation."
     },
     "source_url": "https://mobile.newsis.com/view/NISX20240422_0002708599",
     "reference_urls": [
@@ -362,13 +365,13 @@
       "audit",
       "dispute"
     ],
-    "verified": false,
+    "verified": true,
     "note": "HYBEはADORの株式80%を保有する親会社。",
     "note_en": "HYBE is ADOR's parent company, holding 80% of its shares.",
-    "editor_note": "HYBE newsroom (hybecorp.com) returns 403, so a Newsis report is used. Audit letter reportedly delivered around 10:00 on the 22nd; the public announcement followed the same day. / Reported by Newsis (16:07 KST); HYBE newsroom (hybecorp.com) returns 403. Audit letter reportedly delivered around 10:00 on the 22nd; the public announcement followed the same day. ADOR had not issued a statement at the time of the Newsis article.",
+    "editor_note": "HYBE newsroom (hybecorp.com) returns 403, so a Newsis report is used. Audit letter reportedly delivered around 10:00 on the 22nd; the public announcement followed the same day. / Reported by Newsis (16:07 KST); HYBE newsroom (hybecorp.com) returns 403. Audit letter reportedly delivered around 10:00 on the 22nd; the public announcement followed the same day. ADOR had not issued a statement at the time of the Newsis article. / 2026-10-24 nightly: HYBE newsroom still blocked; Newsis (2024-04-22 16:07, a national news agency) read in full: audit of CEO Min and '임원 A씨', morning visit, IT asset retrieval and in-person statements, EGM request, resignation letter, the two allegations, conditional legal action, HYBE 80% / Min 18% (573,160 shares). Wording fixed: 'vice president' -> executive (임원); 'call option' dropped (Newsis only implies it).",
     "detail": {
-      "ja": "HYBEはADORのミン・ヒジン代表と副代表A氏に対する監査に着手した。監査チームは同日午前にADORのオフィスを訪れ、会社のIT資産を回収して対面で陳述を求めた。HYBEはADOR取締役会に臨時株主総会の招集を要請し、ミン代表に辞任を求める書簡を送った。A氏が投資家誘致のため機密契約を漏らした疑い、ミン代表らがHYBEにADOR株を売却させる方法を協議した疑いを挙げ、回収資産の内容次第で法的措置を取るとした。HYBEはADOR株の80%を保有し、ミン代表は前年にコールオプションを行使して18%（573,160株）を取得した第2位株主だった。",
-      "en": "HYBE began an audit of ADOR CEO Min Hee-jin and a vice president identified as A. Its audit team visited ADOR's offices that morning to retrieve company IT assets and take in-person statements, and HYBE asked ADOR's board to convene an extraordinary shareholders' meeting and sent Min a letter demanding her resignation. HYBE alleged that A had leaked confidential contracts to attract investors and that Min and A had discussed ways to make HYBE sell its ADOR shares, and said it would weigh legal action depending on the retrieved assets. HYBE held 80% of ADOR; Min was the second-largest shareholder with 18% (573,160 shares) acquired the previous year through a call option."
+      "ja": "HYBEはADORのミン・ヒジン代表と役員A氏らに対する監査に着手した。監査チームは同日午前にADOR経営陣の業務区域を訪れ、会社のIT資産の回収と対面での陳述確保を進めた。HYBEはADOR取締役会に臨時株主総会の招集を要請し、ミン代表に辞任を求める書簡を送った。ADOR経営陣が投資家誘致のため社外秘の契約書などを流出させた疑い、HYBEにADOR株を売却させる方法を協議した疑いを挙げ、回収資産の内容次第で必要なら法的措置を取るとした。HYBEはADOR株の80%を保有し、ミン代表は前年に18%（573,160株）を取得した第2位株主だった。",
+      "en": "HYBE began an audit of ADOR CEO Min Hee-jin and an executive identified as A, among others. Its audit staff visited ADOR's management offices that morning to retrieve company IT assets and secure in-person statements, and HYBE asked ADOR's board to convene an extraordinary shareholders' meeting and sent Min a letter demanding her resignation. HYBE alleged that ADOR's management had leaked confidential documents such as contracts to attract investors and had discussed ways to make HYBE sell its ADOR shares, and said it would take legal action if necessary depending on the retrieved assets. HYBE held 80% of ADOR; Min was the second-largest shareholder with 18% (573,160 shares) acquired the previous year."
     },
     "credits": {
       "issuer": "HYBE"
@@ -401,8 +404,8 @@
       "hybe",
       "dispute"
     ],
-    "verified": false,
-    "editor_note": "Yonhap 종합2보 via Daum, 2024-04-22 19:51. ADOR's 04-25 legal-notice post on X is already in tweet.json and is not duplicated here. / Removed source mention from reader text: Yonhap, 19:51 KST.",
+    "verified": true,
+    "editor_note": "Yonhap 종합2보 via Daum, 2024-04-22 19:51. ADOR's 04-25 legal-notice post on X is already in tweet.json and is not duplicated here. / Removed source mention from reader text: Yonhap, 19:51 KST. / 2026-10-24 nightly: No ADOR-owned page for the statement (issued to press); Daum-hosted report (shown as Newsis, 2024-04-22 19:51 KST) confirms the statement: ILLIT copying issue raised with HYBE/BELIFT LAB, delayed reply then notice that day of suspending Min Hee-jin's duties and starting dismissal, takeover reports baseless, protest on behalf of NewJeans' cultural achievements cannot harm ADOR's interests.",
     "detail": {
       "ja": "HYBEの監査着手を受け、ADORは同日夜に公式立場を出した。HYBEとBELIFT LABに対し、前月デビューしたBELIFT LABの新人ILLITによるNewJeansのコピー問題を含め、HYBEがNewJeansに対して取ってきた一連の行為について公式に問題を提起し、それに先立ってNewJeansのブランド価値毀損に関するHYBEの立場を求める書簡も送っていたと説明した。HYBEとBELIFT LABは具体的な回答を先延ばしにした末、同日ミン・ヒジン代表の職務停止と解任手続きの開始を通告してきたとし、経営権奪取を図ったとする報道は根拠がなく、NewJeansの文化的成果を守るための抗議がADORの利益を害するはずがないと反論した。",
       "en": "ADOR issued an official statement that evening in response to HYBE's audit. It said it had formally raised concerns with HYBE and BELIFT LAB about a series of HYBE's actions toward NewJeans, including the copying issue involving BELIFT LAB's rookie group ILLIT, which had debuted the previous month, and had earlier sent HYBE a letter asking for its position on the damage to NewJeans' brand value. It said HYBE and BELIFT LAB delayed a concrete response and then notified ADOR that day that they would suspend CEO Min Hee-jin's duties and begin dismissal proceedings, called reports that she tried to seize management control baseless, and argued that protesting on behalf of NewJeans' cultural achievements could not harm ADOR's interests."
@@ -429,8 +432,9 @@
     },
     "source_url": "https://v.daum.net/v/20240425233144568",
     "reference_urls": [
-      "https://v.daum.net/v/20240426064736520",
-      "https://v.daum.net/v/20240425183158877"
+      "https://v.daum.net/v/20240425233144568",
+      "https://v.daum.net/v/20240425183158877",
+      "https://v.daum.net/v/20240426064736520"
     ],
     "media": {
       "type": "none"
@@ -440,10 +444,10 @@
       "press-conference",
       "dispute"
     ],
-    "verified": false,
+    "verified": true,
     "note": "HYBEは同日夕方、会見内容の多くが事実と異なるとする公式立場を出した。",
     "note_en": "That evening HYBE issued an official position saying much of what was said at the press conference was untrue.",
-    "editor_note": "15:00 KST start confirmed by Dailian/Nocut reports. HYBE rebuttal at 18:31 (Daum).",
+    "editor_note": "15:00 KST start confirmed by Dailian/Nocut reports. HYBE rebuttal at 18:31 (Daum). / 2026-10-24 nightly: Event held for the press (no official page). Sports Chosun via Daum (2024-04-25) confirms the ~2-hour conference with Sejong lawyers in Seocho-gu, live on KBS/SBS/MBC, takeover denial, KakaoTalk 'venting', 80%/20% argument, LE SSERAFIM-first origin, messages with Bang Si-hyuk and Park Ji-won, 'HYBE betrayed me', HYBE interim audit results; Star News (18:31) confirms HYBE's same-day rebuttal and the venue 한국컨퍼런스센터 대강당 (its caption says Gangnam-gu; Sports Chosun says Seocho-gu).",
     "detail": {
       "ja": "ミン・ヒジン代表が法律代理人（法務法人セジョン）とともにソウル・瑞草区の韓国カンファレンスセンターで開いた約2時間の会見で、KBS、SBS、MBCや複数のYouTubeチャンネルが生中継した。ミン代表は経営権奪取を計画・意図・実行したことはないと述べ、副代表とのカカオトークのやり取りは業務上の愚痴だったと説明し、代理人はHYBEが80%、ミン側が20%を持つ構造で奪取は不可能だと主張した。HYBEがNewJeansを最初のガールズグループとしてデビューさせる約束を破りLE SSERAFIMを先に出したことを対立の発端に挙げ、パン・シヒョク議長やパク・ジウォン代表とのメッセージの一部を公開して、HYBEの主張は自分を追い出すために仕組まれたものだとし、「私がHYBEを裏切ったのではなく、HYBEが私を裏切った」と語った。HYBEは同日午前、中間監査結果として経営権奪取計画の具体的な事実と物証を確保したと発表していた。",
       "en": "ADOR CEO Min Hee-jin held an emergency press conference of about two hours with her lawyers from the law firm Sejong at the Korea Conference Center in Seocho-gu, Seoul, livestreamed by KBS, SBS, MBC and several YouTube channels. She said she had never planned, intended or carried out a takeover of management control, described her KakaoTalk exchange with the vice president as workplace venting, and her lawyer argued a takeover was impossible with HYBE holding 80% and her side 20%. She traced the conflict to HYBE breaking an agreement to debut NewJeans as its first girl group by debuting LE SSERAFIM first, released parts of her messages with chairman Bang Si-hyuk and CEO Park Ji-won, called HYBE's allegations a frame-up to push her out, and said it was HYBE that had betrayed her, not the other way round. That morning HYBE had announced interim audit results claiming specific facts and physical evidence of a takeover plan."

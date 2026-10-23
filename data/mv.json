@@ -2400,6 +2400,8 @@
     },
     "source_url": "https://www.youtube.com/watch?v=Q3sF0lV4nww",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=Q3sF0lV4nww",
+      "https://www.youtube.com/watch?v=pXV-dJfu8JI",
       "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
     ],
     "media": {
@@ -2411,8 +2413,8 @@
       "award-show",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "YouTube shows Jan 7, 2023 (PT) = Jan 8 KST; TheTVDB lists seven Jan 8 uploads. | Event date/venue from en.wikipedia List_of_NewJeans_live_performances; YouTube upload date Jan 7, 2023 (PT).",
+    "verified": true,
+    "editor_note": "YouTube shows Jan 7, 2023 (PT) = Jan 8 KST; TheTVDB lists seven Jan 8 uploads. | Event date/venue from en.wikipedia List_of_NewJeans_live_performances; YouTube upload date Jan 7, 2023 (PT). / 2026-10-24 nightly: YouTube API with Asia/Seoul timezone: Q3sF0lV4nww dated Jan 8, 2023 KST (Jan 7 PT), length 7:27; description credits match (producer MIN HEE JIN, performance directors EunJu Kim/YoungHoo Kim, 'Attention' remix 250, mashup Jinsu Park, 10 dancers, SUNNY INSPIRES). Golden Disc official upload pXV-dJfu8JI is the JTBC 230107 broadcast of the same stage.",
     "detail": {
       "ja": "1月7日にバンコクのRajamangala Stadiumで行われた37th Golden Disc Awardsのステージ（Opening、「Attention」「Hype Boy」「OMG」）の振付を練習室で収めた映像で、NewJeans公式YouTubeチャンネルで公開された。収録時間は7分27秒。クレジットはプロデューサーMin Hee-jin、パフォーマンスディレクターEunJu KimとYoungHoo Kim（Black Q）、ダンサー10名、撮影SUNNY INSPIRESで、「Attention」のリミックスは250、Mashup RemixはJinsu Park。",
       "en": "Practice-room dance video for the 37th Golden Disc Awards stage (Opening, 'Attention', 'Hype Boy' and 'OMG') performed on 7 January at Rajamangala Stadium, Bangkok, published on the NewJeans YouTube channel. Running time 7:27. Credits: producer Min Hee-jin, performance directors EunJu Kim (Kim Eun-ju) and YoungHoo Kim (Black Q), 10 dancers, videographer SUNNY INSPIRES, with the 'Attention' remix by 250 and the mashup remix by Jinsu Park."
@@ -2497,6 +2499,8 @@
     },
     "source_url": "https://www.youtube.com/watch?v=DrNtuAgwWgQ",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=DrNtuAgwWgQ",
+      "https://www.youtube.com/watch?v=XIOoqJyx8E4",
       "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
     ],
     "media": {
@@ -2508,8 +2512,8 @@
       "coca-cola",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "YouTube shows Apr 9, 2023 (PT); TheTVDB lists Apr 10 (KST). | YouTube page read via reader; upload date on YouTube: Apr 9, 2023 (PT).",
+    "verified": true,
+    "editor_note": "YouTube shows Apr 9, 2023 (PT); TheTVDB lists Apr 10 (KST). | YouTube page read via reader; upload date on YouTube: Apr 9, 2023 (PT). / 2026-10-24 nightly: YouTube API (Asia/Seoul): DrNtuAgwWgQ 'Zero' Performance Video dated Apr 10, 2023 KST; 'Zero' Official MV XIOoqJyx8E4 dated Apr 3, 2023 KST (one week earlier). Both on the NewJeans channel.",
     "detail": {
       "ja": "コカ・コーラ ゼロシュガーのキャンペーン曲「Zero」のパフォーマンス映像で、NewJeans公式YouTubeチャンネルに公開された。ミュージックビデオの1週間後に公開されたもので、振付を中心に構成されている。",
       "en": "Performance video for 'Zero', the Coca-Cola Zero Sugar campaign song, posted on the NewJeans YouTube channel one week after the music video; it focuses on the choreography."
@@ -2564,8 +2568,8 @@
     "editor_note": "Official upload on DisneyMusicKoreaVEVO (YouTube next API, KST): 2023-05-17. MV released with the single per iMBC enews 382330 (18:00 KST release); time not set because the MV upload time itself was not confirmed. Companion music record: music-2023-05-17-danielle-part-of-your-world."
   },
   {
-    "id": "mv-2023-05-22-coke-studio-new-music-coming-shorts",
-    "date": "2023-05-22",
+    "id": "mv-2023-05-23-coke-studio-new-music-coming-shorts",
+    "date": "2023-05-23",
     "date_type": "release",
     "date_precision": "day",
     "category": "mv",
@@ -2582,7 +2586,9 @@
       "en": "First Shorts clip teasing the Coke Studio collaboration, with the song title withheld and hashtags such as #CokeStudio attached."
     },
     "source_url": "https://www.youtube.com/watch?v=5GcZHD8y5UQ",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=5GcZHD8y5UQ"
+    ],
     "media": {
       "type": "youtube",
       "ref": "5GcZHD8y5UQ"
@@ -2592,8 +2598,8 @@
       "shorts",
       "ad"
     ],
-    "verified": false,
-    "editor_note": "invidious publish 2023-05-22 UTC. | YouTube page read via reader; upload date on YouTube: May 22, 2023 (PT).",
+    "verified": true,
+    "editor_note": "invidious publish 2023-05-22 UTC. | YouTube page read via reader; upload date on YouTube: May 22, 2023 (PT). / 2026-10-24 nightly: Date corrected to KST: YouTube API gives May 23, 2023 with timeZone Asia/Seoul and UTC, May 22 only in US Pacific time, so the upload was between 09:00 and 16:00 KST on May 23. Title, @cokestudioglobal tag and hashtags (#CokeStudio #RealMagic #CokePartner #광고) confirmed.",
     "detail": {
       "ja": "Coke Studioとのコラボレーション曲を予告するYouTube Shorts動画で、NewJeans公式YouTubeチャンネルに公開された。タイトルは「New music coming out soon!」で、@cokestudioglobalのタグと#CokeStudio、#RealMagic、#CokePartner、#광고（広告）のハッシュタグが付されている。曲名は明かされていない。",
       "en": "YouTube Shorts clip teasing the Coke Studio collaboration track, posted on the NewJeans YouTube channel. Titled 'New music coming out soon!', it tags @cokestudioglobal and carries the hashtags #CokeStudio, #RealMagic, #CokePartner and #광고 (advertisement). The song title was not disclosed."
@@ -2605,8 +2611,8 @@
     }
   },
   {
-    "id": "mv-2023-05-24-coke-studio-new-music-soon-shorts",
-    "date": "2023-05-24",
+    "id": "mv-2023-05-25-coke-studio-new-music-soon-shorts",
+    "date": "2023-05-25",
     "date_type": "release",
     "date_precision": "day",
     "category": "mv",
@@ -2619,11 +2625,13 @@
       "en": "'We are releasing new music soon' Coke Studio teaser (Shorts)"
     },
     "summary": {
-      "ja": "Coke Studioコラボ曲を予告する2本目のショート。該当曲はJon Batiste「Be Who You Are (Real Magic)」。",
-      "en": "Second Shorts clip teasing the Coke Studio collaboration; the track turned out to be Jon Batiste's 'Be Who You Are (Real Magic)', out 31 May."
+      "ja": "Coke Studioとのコラボ曲を予告する2本目のショート動画。曲名はまだ明かされていない。",
+      "en": "Second Shorts clip teasing the Coke Studio collaboration, with the song title still withheld."
     },
     "source_url": "https://www.youtube.com/watch?v=UU6sw9eE634",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=UU6sw9eE634"
+    ],
     "media": {
       "type": "youtube",
       "ref": "UU6sw9eE634"
@@ -2633,11 +2641,11 @@
       "shorts",
       "ad"
     ],
-    "verified": false,
-    "editor_note": "invidious publish 2023-05-24 UTC. Sister short 5GcZHD8y5UQ ('New music coming out soon!') date not retrieved. | YouTube page read via reader; upload date on YouTube: May 24, 2023 (PT).",
+    "verified": true,
+    "editor_note": "invidious publish 2023-05-24 UTC. Sister short 5GcZHD8y5UQ ('New music coming out soon!') date not retrieved. | YouTube page read via reader; upload date on YouTube: May 24, 2023 (PT). / 2026-10-24 nightly: Date corrected to KST: YouTube API gives May 25, 2023 with timeZone Asia/Seoul, May 24 in UTC and US Pacific, so the upload was between 00:00 and 09:00 KST on May 25. Spoiler removed from summary/detail: the track's identity (Jon Batiste 'Be Who You Are (Real Magic)') and its May 31 release were not public on this date.",
     "detail": {
-      "ja": "Coke Studioとのコラボレーション曲を予告する2本目のYouTube Shorts動画で、NewJeans公式YouTubeチャンネルに公開された。タイトルは「We are releasing new music soon」で、@cokestudioglobalのタグと#CokeStudio、#RealMagic、#CokePartner、#광고のハッシュタグが付されている。該当曲はJon Batisteの「Be Who You Are (Real Magic)」で、5月31日に発売された。",
-      "en": "Second YouTube Shorts clip teasing the Coke Studio collaboration, posted on the NewJeans YouTube channel. Titled 'We are releasing new music soon', it tags @cokestudioglobal with the hashtags #CokeStudio, #RealMagic, #CokePartner and #광고. The track in question, Jon Batiste's 'Be Who You Are (Real Magic)', was released on 31 May."
+      "ja": "Coke Studioとのコラボレーション曲を予告する2本目のYouTube Shorts動画で、NewJeans公式YouTubeチャンネルに公開された。タイトルは「We are releasing new music soon」で、@cokestudioglobalのタグと#CokeStudio、#RealMagic、#CokePartner、#광고のハッシュタグが付されている。曲名は明かされていない。",
+      "en": "Second YouTube Shorts clip teasing the Coke Studio collaboration, posted on the NewJeans YouTube channel. Titled 'We are releasing new music soon', it tags @cokestudioglobal with the hashtags #CokeStudio, #RealMagic, #CokePartner and #광고. The song title was not disclosed."
     },
     "credits": {
       "channel": "NewJeans",
@@ -2875,10 +2883,11 @@
     },
     "summary": {
       "ja": "2023 Weverse Con Festival（6月11日、KSPO Dome）での「INTRO+OMG」ステージカム。収録時間は5分30秒。",
-      "en": "Stage cam of 'INTRO+OMG' at the 2023 Weverse Con Festival (11 June, KSPO Dome), a set that also included 'Ditto', 'Attention', 'Hype Boy' and 'Cookie'."
+      "en": "Stage cam of 'INTRO+OMG' at the 2023 Weverse Con Festival (11 June, KSPO Dome), running 5:30."
     },
     "source_url": "https://www.youtube.com/watch?v=T6CWrx166Z0",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=T6CWrx166Z0",
       "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
     ],
     "media": {
@@ -2890,11 +2899,11 @@
       "live",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Date/venue/setlist from en.wikipedia List_of_NewJeans_live_performances. YouTube page read via reader; upload date on YouTube: Jun 29, 2023 (PT).",
+    "verified": true,
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. | Date/venue/setlist from en.wikipedia List_of_NewJeans_live_performances. YouTube page read via reader; upload date on YouTube: Jun 29, 2023 (PT). / 2026-10-24 nightly: YouTube API: T6CWrx166Z0 dated Jun 29, 2023 in KST, UTC and PT alike (so the KST date stands), length 5:30, NewJeans channel. Event day 11 June (day 2) is consistent with many 230611 fan uploads but no official page was read; the full-set sentence (Ditto, Attention, Hype Boy, Cookie) rested on Wikipedia and fan uploads and was removed from reader text.",
     "detail": {
-      "ja": "6月11日にソウルのKSPO Domeで開かれた2023 Weverse Con Festival（6月10日・11日開催）での「INTRO+OMG」のステージカム映像で、NewJeans公式YouTubeチャンネルに公開された。当日のセットリストはIntro、「OMG」「Ditto」「Attention」「Hype Boy」「Cookie」。収録時間は5分30秒。",
-      "en": "Stage-cam video of 'INTRO+OMG' performed on 11 June at the 2023 Weverse Con Festival (held 10–11 June) at KSPO Dome, Seoul, posted on the NewJeans YouTube channel. The set that day was Intro, 'OMG', 'Ditto', 'Attention', 'Hype Boy' and 'Cookie'. Running time 5:30."
+      "ja": "6月11日にソウルのKSPO Domeで開かれた2023 Weverse Con Festival（6月10日・11日開催）での「INTRO+OMG」のステージカム映像で、NewJeans公式YouTubeチャンネルに公開された。収録時間は5分30秒。",
+      "en": "Stage-cam video of 'INTRO+OMG' performed on 11 June at the 2023 Weverse Con Festival (held 10–11 June) at KSPO Dome, Seoul, posted on the NewJeans YouTube channel. Running time 5:30."
     },
     "credits": {
       "channel": "NewJeans",

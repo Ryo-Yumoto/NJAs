@@ -764,7 +764,7 @@
       "limited-edition"
     ],
     "verified": true,
-    "editor_note": "LG press release (lg.co.kr/media/release/25864, dated 2023-01-30) gives the 200-unit sale on 2023-02-01 20:00 via the OBS live show; model names, prices and 'LGE.COM only' from the LG product pages read 2026-10-16. Matching campaign record: ad-2023-02-02-lg-gram-style-collab. The 6-minute sell-out (SBS Biz) is left out of reader text as secondary. / Official LG product gallery images (Big Bunny 14Z90RS-XA5NK / Mini Bunny 14Z90RS-XA5JK).",
+    "editor_note": "LG press release (lg.co.kr/media/release/25864, dated 2023-01-30) gives the 200-unit sale on 2023-02-01 20:00 via the OBS live show; model names, prices and 'LGE.COM only' from the LG product pages read 2026-10-16. Matching campaign record: ad-2023-01-25-lg-gram-style-collab. The 6-minute sell-out (SBS Biz) is left out of reader text as secondary. / Official LG product gallery images (Big Bunny 14Z90RS-XA5NK / Mini Bunny 14Z90RS-XA5JK).",
     "local_assets": [
       "goods/goods-2023-02-01-lg-gram-style-newjeans-limited-edition/01.jpg",
       "goods/goods-2023-02-01-lg-gram-style-newjeans-limited-edition/02.jpg",
@@ -1572,7 +1572,7 @@
       "packaging"
     ],
     "verified": false,
-    "editor_note": "No McDonald's Korea primary page fetched; facts from SNKRDUNK (2023-05-26, updated 05-29) and Bandwagon. Some reports give June 2 for the Korean start; the schedule visual says 01 JUN. Matching campaign record: ad-2023-06-01-mcdonalds-newjeans-collab-launch. Market dates follow McDonald's 'Fly to the McDonald's Chicken World' schedule visual (reproduced by SNKRDUNK 2023-05-26). / Cover is the official market schedule visual.",
+    "editor_note": "No McDonald's Korea primary page fetched; facts from SNKRDUNK (2023-05-26, updated 05-29) and Bandwagon. Some reports give June 2 for the Korean start; the schedule visual says 01 JUN. Matching campaign record: ad-2023-06-01-mcdonalds-newjeans-collab-launch. Market dates follow McDonald's 'Fly to the McDonald's Chicken World' schedule visual (reproduced by SNKRDUNK 2023-05-26). / Cover is the official market schedule visual. / 2026-10-24 nightly: Partly checked: McDonald's Korea official YouTube posted the NewJeans chicken ad '뉴진스도 춤추게 하는 맥크리스피!(Full ver)' (qBJjFONHxiE) on Jun 1, 2023 and the Chicken Dance video (NDfh8m20dy4) on Jun 2, but no McDonald's page confirming the special packaging, store decoration or the market schedule was found.",
     "local_assets": [
       "goods/goods-2023-06-01-mcdonalds-korea-chicken-world-newjeans-packaging/01.jpg",
       "goods/goods-2023-06-01-mcdonalds-korea-chicken-world-newjeans-packaging/02.jpg",
@@ -1613,6 +1613,7 @@
     },
     "source_url": "https://tribune.net.ph/2023/06/14/phl-welcomes-mcdonalds-chicken-world-with-newjeans",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=Rnp15VwWJ_A",
       "https://www.dzrh.com.ph/post/newjeans-x-mcdonalds-to-arrive-in-the-ph-on-june-13",
       "https://snkrdunk.com/en/magazine/2023/05/26/mcdonalds-and-newjeans-launches-fly-to-the-mcdonalds-chicken-world-campaign-in-asia"
     ],
@@ -1630,8 +1631,8 @@
       "packaging",
       "philippines"
     ],
-    "verified": false,
-    "editor_note": "Secondary sources only (Daily Tribune 2023-06-15, DZRH 2023-06-04); McDonald's Philippines primary post not fetched. Matching campaign record: ad-2023-06-01-mcdonalds-newjeans-collab-launch. Market dates follow McDonald's 'Fly to the McDonald's Chicken World' schedule visual (reproduced by SNKRDUNK 2023-05-26). / No Philippines-specific product photo found; item shows the campaign-wide packaging design.",
+    "verified": true,
+    "editor_note": "Secondary sources only (Daily Tribune 2023-06-15, DZRH 2023-06-04); McDonald's Philippines primary post not fetched. Matching campaign record: ad-2023-06-01-mcdonalds-newjeans-collab-launch. Market dates follow McDonald's 'Fly to the McDonald's Chicken World' schedule visual (reproduced by SNKRDUNK 2023-05-26). / No Philippines-specific product photo found; item shows the campaign-wide packaging design. / 2026-10-24 nightly: McDo Philippines official YouTube 'NewJeans Chicken Dance Campaign' (Rnp15VwWJ_A, Jun 13, 2023): McChicken or 6-pc Chicken McNuggets at ₱99 ala carte each, #McDonalds_Chicken_World. Packaging with NewJeans logos and bright colours per Daily Tribune (2023-06-15); the official video does not show the packaging text.",
     "local_assets": [
       "goods/goods-2023-06-13-mcdonalds-philippines-newjeans-packaging/01.jpg"
     ],
@@ -1917,7 +1918,7 @@
       "thailand"
     ],
     "verified": false,
-    "editor_note": "The Beat Asia (published 2023-07-03) cites a McThai post of 2023-06-26 but gives no start date; 28 June is from the campaign schedule visual. Matching campaign record: ad-2023-06-01-mcdonalds-newjeans-collab-launch. Market dates follow McDonald's 'Fly to the McDonald's Chicken World' schedule visual (reproduced by SNKRDUNK 2023-05-26). / No Thailand-specific product photo with a verified direct URL found; cover is the article's campaign visual.",
+    "editor_note": "The Beat Asia (published 2023-07-03) cites a McThai post of 2023-06-26 but gives no start date; 28 June is from the campaign schedule visual. Matching campaign record: ad-2023-06-01-mcdonalds-newjeans-collab-launch. Market dates follow McDonald's 'Fly to the McDonald's Chicken World' schedule visual (reproduced by SNKRDUNK 2023-05-26). / No Thailand-specific product photo with a verified direct URL found; cover is the article's campaign visual. / 2026-10-24 nightly: Not confirmable: no McDonald's Thailand official page, video or readable post found (official YouTube search returns Korea, Philippines and Malaysia NewJeans videos only); the 06-28 start rests on the schedule visual as reproduced by SNKRDUNK.",
     "local_assets": []
   },
   {
@@ -2032,7 +2033,7 @@
       "indonesia"
     ],
     "verified": false,
-    "editor_note": "Kontan MomsMoney (2023-07-12) and Liputan6 (2023-07-13); McDonald's Indonesia primary post not fetched. Liputan6 also mentions a 'McD x NewJeans Special Kit' with a photocard but without sale details, so it is left out. Matching campaign record: ad-2023-06-01-mcdonalds-newjeans-collab-launch. Market dates follow McDonald's 'Fly to the McDonald's Chicken World' schedule visual (reproduced by SNKRDUNK 2023-05-26).",
+    "editor_note": "Kontan MomsMoney (2023-07-12) and Liputan6 (2023-07-13); McDonald's Indonesia primary post not fetched. Liputan6 also mentions a 'McD x NewJeans Special Kit' with a photocard but without sale details, so it is left out. Matching campaign record: ad-2023-06-01-mcdonalds-newjeans-collab-launch. Market dates follow McDonald's 'Fly to the McDonald's Chicken World' schedule visual (reproduced by SNKRDUNK 2023-05-26). / 2026-10-24 nightly: Not confirmable: no McDonald's Indonesia official page, video or readable post found (YouTube search shows only a fan re-upload of the TVC and reviews); dates and gifts rest on Kontan/Liputan6.",
     "local_assets": [
       "goods/goods-2023-07-12-mcdonalds-indonesia-newjeans-k-meals/01.jpg",
       "goods/goods-2023-07-12-mcdonalds-indonesia-newjeans-k-meals/02.jpg"
@@ -2123,7 +2124,7 @@
       "bunini"
     ],
     "verified": false,
-    "editor_note": "Dates from SNKRDUNK Magazine's running update; LINE FRIENDS official notice not fetched. | Launch date reworded as the announced schedule. | Secondary sources (Lady Kyunghyang, MTN, SNKRDUNK); LINE FRIENDS official notice not fetched; no prices found. / Facts from Lady Kyunghyang (2023-08-01), MTN (2023-08-10) and SNKRDUNK Magazine's running update (all secondary); LINE FRIENDS official notice not fetched; no prices found. Press framing removed. / LINE FRIENDS SQUARE US (ex LINE FRIENDS COLLECTION) 'NJ PRE ORDER EVENT' collection; items = the 10 products still published (collection lists 22); no lineup image, cover = first product",
+    "editor_note": "Dates from SNKRDUNK Magazine's running update; LINE FRIENDS official notice not fetched. | Launch date reworded as the announced schedule. | Secondary sources (Lady Kyunghyang, MTN, SNKRDUNK); LINE FRIENDS official notice not fetched; no prices found. / Facts from Lady Kyunghyang (2023-08-01), MTN (2023-08-10) and SNKRDUNK Magazine's running update (all secondary); LINE FRIENDS official notice not fetched; no prices found. Press framing removed. / LINE FRIENDS SQUARE US (ex LINE FRIENDS COLLECTION) 'NJ PRE ORDER EVENT' collection; items = the 10 products still published (collection lists 22); no lineup image, cover = first product / 2026-10-24 nightly: Not confirmable: no IPX/LINE FRIENDS notice for an Aug 2 pre-order found; LINE FRIENDS SQUARE US 'nj-pre-order-event' collection now lists only bunini costume plush/keyrings created 2023-08-30 (a later pre-order), so it does not support this record.",
     "detail": {
       "ja": "IPX（旧LINE FRIENDS）がNewJeansとの公式IP商品事業の提携を発表し、2nd EP『Get Up』に合わせた最初のコレクションのオンライン予約を8月4日まで実施した。IMPRESSIVE PRESENTとLINE FRIENDS COLLECTIONで、ぬいぐるみやスマホケースなどbunini版とパワーパフガールズ版の一部商品を受け付け、50ドル以上の注文には「Get Up」エコバッグが付いた。buniniはNewJeansのうさぎ（Tokki）とIPXのmininiを掛け合わせた新キャラクターで、「ASAP」MVに登場した。一部商品は公開直後に完売し、8月17日19時（PDT）にLINE FRIENDS COLLECTIONでグローバル発売される予定だった。",
       "en": "IPX (formerly LINE FRIENDS) announced an official NewJeans IP merchandise partnership and ran online pre-orders for the first collection, tied to the 2nd EP Get Up, until August 4. The IMPRESSIVE PRESENT mall and LINE FRIENDS COLLECTION took orders for selected bunini and Powerpuff Girls-version items such as plush toys and phone cases, and orders over USD 50 came with a 'Get Up' reusable bag. bunini is a new character combining NewJeans' rabbit Tokki with IPX's minini, first seen in the 'ASAP' music video. Some items sold out shortly after going live, and a global launch on LINE FRIENDS COLLECTION was set for August 17 at 7 PM PDT."
@@ -2415,8 +2416,8 @@
     ]
   },
   {
-    "id": "goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop",
-    "date": "2023-09-11",
+    "id": "goods-2023-09-12-line-friends-powerpuff-girls-x-newjeans-online-drop",
+    "date": "2023-09-12",
     "date_type": "sale_start",
     "date_precision": "day",
     "category": "goods",
@@ -2425,15 +2426,18 @@
       "all"
     ],
     "title": {
-      "ja": "LINE FRIENDS『Powerpuff Girls × NewJeans』オンライン第2弾",
-      "en": "LINE FRIENDS 'Powerpuff Girls x NewJeans' second online drop"
+      "ja": "『Get Up』第2弾オフィシャルグッズ（パワーパフガールズ×NewJeans・bunini）予約販売",
+      "en": "Get Up 2nd official merch pre-order (Powerpuff Girls x NewJeans, bunini)"
     },
     "summary": {
-      "ja": "カードホルダーやバニーペン、ネックピローなど、パワーパフガールズ×NewJeansの第2弾オンライン商品。",
-      "en": "The second online drop of Powerpuff Girls x NewJeans goods, from card holders and bunny pens to neck pillows."
+      "ja": "2nd EP『Get Up』の第2弾オフィシャルグッズとして、パワーパフガールズ×NewJeansやbuniniの商品がWeverse Shopで予約販売された。",
+      "en": "The second wave of official Get Up merch, including Powerpuff Girls x NewJeans and bunini items, went on pre-order on Weverse Shop."
     },
-    "source_url": "https://snkrdunk.com/en/magazine/2023/07/21/line-friends-teases-upcoming-collab-with-newjeans/",
-    "reference_urls": [],
+    "source_url": "https://shop.weverse.io/en/shop/USD/artists/82/notices/4530",
+    "reference_urls": [
+      "https://shop.weverse.io/en/shop/USD/artists/82/notices/4530",
+      "https://snkrdunk.com/en/magazine/2023/07/21/line-friends-teases-upcoming-collab-with-newjeans/"
+    ],
     "media": {
       "type": "none"
     },
@@ -2442,42 +2446,42 @@
       "powerpuff-girls",
       "collab"
     ],
-    "verified": false,
-    "editor_note": "Secondary source; PDT date. | Secondary source (SNKRDUNK running update); PDT date. | removed from reader text: [detail.ja] 価格は確認できていない。 [detail.en] Prices were not confirmed. / From SNKRDUNK's running update (2023-09-07, secondary); PDT date; prices not confirmed. / LINE FRIENDS SQUARE US 'NewJeans 2nd Edition' collection; items = the 20 products still published (collection lists 27); no lineup image, cover = first product",
+    "verified": true,
+    "editor_note": "Secondary source; PDT date. | Secondary source (SNKRDUNK running update); PDT date. | removed from reader text: [detail.ja] 価格は確認できていない。 [detail.en] Prices were not confirmed. / From SNKRDUNK's running update (2023-09-07, secondary); PDT date; prices not confirmed. / LINE FRIENDS SQUARE US 'NewJeans 2nd Edition' collection; items = the 20 products still published (collection lists 27); no lineup image, cover = first product / 2026-10-24 nightly: Weverse Shop notice 4530 read (server-rendered JSON; displayStartAt 2023-09-12 10:00 KST): 'Pre-order NewJeans 2nd EP [Get Up] 2nd Official Merch', pre-order Tue Sep 12, 2023 11:00 AM KST until sold out, shipping Mon Sep 18, categories COLLAB > Get Up / bunini / THE POWERPUFF GIRLS X NewJeans, TOKKI TRAVEL NECK PILLOW limit 3. SNKRDUNK's 'LINE FRIENDS COLLECTION 7 PM PDT Sep 11' is the same instant (11:00 KST Sep 12); record re-dated to KST and re-based on the Weverse Shop notice. The LINE FRIENDS COLLECTION channel and the 50,000 KRW eco-bag gift were not in any official page read and were dropped. The LINE FRIENDS SQUARE US 'newjeans-2nd-edition-pre-order' products behind local_assets were created 2023-09-28 (a later US listing of the same items).",
     "detail": {
-      "ja": "パワーパフガールズ×NewJeansのカードホルダー、バニーペン、ネックピローなどの追加商品が、19時（PDT）にLINE FRIENDS COLLECTIONでグローバル発売された。初回と同様、50,000ウォン以上の注文には「Get Up」エコバッグが付く。2nd EP『Get Up』に合わせたIPX（旧LINE FRIENDS）との公式IP商品の、第2弾のオンライン展開だった。",
-      "en": "Additional Powerpuff Girls x NewJeans items including card holders, bunny pens and neck pillows launched globally on LINE FRIENDS COLLECTION at 7 PM PDT. As with the first drop, orders over 50,000 KRW came with a 'Get Up' reusable bag. It was the second online wave of the official IP merchandise with IPX (formerly LINE FRIENDS) tied to the 2nd EP Get Up."
+      "ja": "Weverse Shopで、2nd EP『Get Up』の第2弾オフィシャルグッズの予約販売が9月12日11時（KST）に始まった。商品は「Get Up」「bunini」「THE POWERPUFF GIRLS X NewJeans」の各カテゴリーに分かれ、TOKKIのトラベルネックピローなどが含まれた。数量限定の事前生産品で、発送は9月18日からとされ、海外発送にも対応した。",
+      "en": "Pre-orders for the second wave of official merch for the 2nd EP Get Up opened on Weverse Shop at 11:00 KST on September 12. Items were grouped into Get Up, bunini and THE POWERPUFF GIRLS X NewJeans categories and included a TOKKI travel neck pillow. The goods were made in limited quantities in advance, with shipping, including overseas, set to start on September 18."
     },
     "credits": {
       "brand": "IPX (LINE FRIENDS)",
       "collaboration": "Cartoon Network (The Powerpuff Girls)",
-      "sale_channel": "LINE FRIENDS COLLECTION"
+      "sale_channel": "Weverse Shop"
     },
     "image": {
-      "path": "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/cover.jpg",
+      "path": "goods/goods-2023-09-12-line-friends-powerpuff-girls-x-newjeans-online-drop/cover.jpg",
       "source_url": "https://linefriendssquare.us/collections/newjeans-2nd-edition-pre-order"
     },
     "local_assets": [
-      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/01.jpg",
-      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/02.jpg",
-      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/03.jpg",
-      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/04.jpg",
-      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/05.jpg",
-      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/06.jpg",
-      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/07.jpg",
-      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/08.jpg",
-      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/09.jpg",
-      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/10.jpg",
-      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/11.jpg",
-      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/12.jpg",
-      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/13.jpg",
-      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/14.jpg",
-      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/15.jpg",
-      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/16.jpg",
-      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/17.jpg",
-      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/18.jpg",
-      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/19.jpg",
-      "goods/goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop/20.jpg"
+      "goods/goods-2023-09-12-line-friends-powerpuff-girls-x-newjeans-online-drop/01.jpg",
+      "goods/goods-2023-09-12-line-friends-powerpuff-girls-x-newjeans-online-drop/02.jpg",
+      "goods/goods-2023-09-12-line-friends-powerpuff-girls-x-newjeans-online-drop/03.jpg",
+      "goods/goods-2023-09-12-line-friends-powerpuff-girls-x-newjeans-online-drop/04.jpg",
+      "goods/goods-2023-09-12-line-friends-powerpuff-girls-x-newjeans-online-drop/05.jpg",
+      "goods/goods-2023-09-12-line-friends-powerpuff-girls-x-newjeans-online-drop/06.jpg",
+      "goods/goods-2023-09-12-line-friends-powerpuff-girls-x-newjeans-online-drop/07.jpg",
+      "goods/goods-2023-09-12-line-friends-powerpuff-girls-x-newjeans-online-drop/08.jpg",
+      "goods/goods-2023-09-12-line-friends-powerpuff-girls-x-newjeans-online-drop/09.jpg",
+      "goods/goods-2023-09-12-line-friends-powerpuff-girls-x-newjeans-online-drop/10.jpg",
+      "goods/goods-2023-09-12-line-friends-powerpuff-girls-x-newjeans-online-drop/11.jpg",
+      "goods/goods-2023-09-12-line-friends-powerpuff-girls-x-newjeans-online-drop/12.jpg",
+      "goods/goods-2023-09-12-line-friends-powerpuff-girls-x-newjeans-online-drop/13.jpg",
+      "goods/goods-2023-09-12-line-friends-powerpuff-girls-x-newjeans-online-drop/14.jpg",
+      "goods/goods-2023-09-12-line-friends-powerpuff-girls-x-newjeans-online-drop/15.jpg",
+      "goods/goods-2023-09-12-line-friends-powerpuff-girls-x-newjeans-online-drop/16.jpg",
+      "goods/goods-2023-09-12-line-friends-powerpuff-girls-x-newjeans-online-drop/17.jpg",
+      "goods/goods-2023-09-12-line-friends-powerpuff-girls-x-newjeans-online-drop/18.jpg",
+      "goods/goods-2023-09-12-line-friends-powerpuff-girls-x-newjeans-online-drop/19.jpg",
+      "goods/goods-2023-09-12-line-friends-powerpuff-girls-x-newjeans-online-drop/20.jpg"
     ],
     "asset_titles": [
       "NewJeans TOKKI Plush Face Pouch (Yellow)",
@@ -2500,7 +2504,8 @@
       "NewJeans bunini Plush Pen (Blue)",
       "NewJeans bunini Plush Pen (Pink)",
       "NewJeans bunini Plush Pen (Green)"
-    ]
+    ],
+    "time": "11:00"
   },
   {
     "id": "goods-2023-09-15-hanni-birthday-official-merch-2023",

@@ -767,7 +767,7 @@
    "date": "2023-03-28",
    "title": "RIAJ streaming certification: Hype Boy and Ditto certified gold",
    "url": "https://www.soompi.com/article/1575871wpp/bts-earns-their-3rd-triple-platinum-riaj-certification-in-japan-for-streaming-newjeans-goes-gold-for-1st-time",
-   "record": "record-2023-03-28-riaj-gold-hype-boy-ditto",
+   "record": "record-2023-03-01-riaj-gold-hype-boy-ditto",
    "exclude": null,
    "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
   },
@@ -776,7 +776,7 @@
    "date": "2023-04-01",
    "title": "RIAJ certification: OMG Gold (streaming, certified 2023-03)",
    "url": "https://www.riaj.or.jp/f/data/cert/sm.html",
-   "record": null,
+   "record": "record-2023-04-01-riaj-omg-gold",
    "exclude": null,
    "note": "2026-10-17 の照合で判明（RIAJ検索データ / BPI）。未収録。"
   },
@@ -857,7 +857,7 @@
    "date": "2023-06-28",
    "title": "RIAJ streaming certification: Ditto platinum, Attention gold",
    "url": "https://www.soompi.com/article/1597181wpp/le-sserafim-and-newjeans-earn-their-1st-platinum-certifications-in-japan-for-streaming-aespa-and-bts-go-gold",
-   "record": "record-2023-06-28-riaj-ditto-platinum-attention-gold",
+   "record": "record-2023-06-01-riaj-ditto-platinum-attention-gold",
    "exclude": null,
    "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
   },
@@ -1064,7 +1064,7 @@
    "date": "2023-08-23",
    "title": "RIAJ streaming certification: OMG certified platinum",
    "url": "https://www.soompi.com/article/1608970wpp/newjeans-twices-nayeon-blackpink-and-stray-kids-earn-platinum-and-gold-certifications-for-streaming-in-japan",
-   "record": "record-2023-08-23-riaj-omg-platinum",
+   "record": "record-2023-08-01-riaj-omg-platinum",
    "exclude": null,
    "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
   },
@@ -1109,7 +1109,7 @@
    "date": "2023-09-28",
    "title": "RIAJ streaming certification: Hype Boy certified platinum",
    "url": "https://www.soompi.com/article/1616668wpp/le-sserafim-newjeans-stray-kids-bts-seventeen-and-izone-earn-platinum-and-gold-certifications-for-streaming-in-japan",
-   "record": "record-2023-09-28-riaj-hype-boy-platinum",
+   "record": "record-2023-09-01-riaj-hype-boy-platinum",
    "exclude": null,
    "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
   },
@@ -1199,7 +1199,7 @@
    "date": "2023-10-28",
    "title": "RIAJ streaming certification: Super Shy certified gold",
    "url": "https://www.soompi.com/article/1622641wpp/blackpink-btss-jungkook-newjeans-le-sserafim-and-seventeen-earn-platinum-and-gold-certifications-for-streaming-in-japan",
-   "record": "record-2023-10-28-riaj-super-shy-gold",
+   "record": "record-2023-10-01-riaj-super-shy-gold",
    "exclude": null,
    "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
   },
@@ -1217,7 +1217,7 @@
    "date": "2023-11-01",
    "title": "RIAJ certification: ETA Gold (streaming, certified 2023-10)",
    "url": "https://www.riaj.or.jp/f/data/cert/sm.html",
-   "record": null,
+   "record": "record-2023-11-01-riaj-eta-gold",
    "exclude": null,
    "note": "2026-10-17 の照合で判明（RIAJ検索データ / BPI）。未収録。"
   },
@@ -1937,7 +1937,7 @@
    "date": "2024-04-01",
    "title": "RIAJ certification: Ditto Double Platinum (streaming, certified 2024-03)",
    "url": "https://www.riaj.or.jp/f/data/cert/sm.html",
-   "record": null,
+   "record": "record-2024-04-01-riaj-ditto-double-platinum",
    "exclude": null,
    "note": "2026-10-17 の照合で判明（RIAJ検索データ / BPI）。未収録。"
   },
@@ -2207,7 +2207,7 @@
    "date": "2024-09-29",
    "title": "RIAJ streaming certification: OMG double platinum, Attention platinum",
    "url": "https://soompi.com/article/1691593wpp/newjeans-jungkook-aespa-ive-g-dragon-le-sserafim-bts-and-treasure-earn-riaj-platinum-and-gold-certifications-in-japan",
-   "record": "record-2024-09-29-riaj-omg-double-platinum-attention-platinum",
+   "record": "record-2024-09-01-riaj-omg-double-platinum-attention-platinum",
    "exclude": null,
    "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
   },
@@ -2549,7 +2549,7 @@
    "date": "2025-02-02",
    "title": "RIAJ streaming certification: Supernatural certified gold",
    "url": "https://www.soompi.com/article/1719747wpp/twice-aespa-newjeans-seventeen-and-bigbang-earn-riaj-platinum-and-gold-certifications-for-streaming-in-japan",
-   "record": "record-2025-02-02-riaj-supernatural-streaming-gold",
+   "record": "record-2025-01-01-riaj-supernatural-streaming-gold",
    "exclude": null,
    "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
   },
@@ -2765,7 +2765,7 @@
    "date": "2025-11-27",
    "title": "RIAJ streaming certification: Ditto triple platinum, a first for a K-pop girl group",
    "url": "https://sbsstar.net/article/N1008346951/amid-turmoil-newjeans-ditto-goes-triple-platinum-in-japan",
-   "record": "record-2025-11-27-riaj-ditto-triple-platinum",
+   "record": "record-2025-11-01-riaj-ditto-triple-platinum",
    "exclude": null,
    "note": "chart/sales/streaming milestone enumerated from the existing record (source: its source_url); not in the Wikipedia award list"
   },
@@ -2819,7 +2819,7 @@
    "date": "2026-02-13",
    "title": "BPI certification: Super Shy Silver (UK)",
    "url": "https://www.bpi.co.uk/brit-certified/",
-   "record": null,
+   "record": "record-2026-02-13-bpi-super-shy-silver",
    "exclude": null,
    "note": "2026-10-17 の照合で判明（RIAJ検索データ / BPI）。未収録。"
   },

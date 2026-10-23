@@ -300,11 +300,13 @@
       "en": "Performed 'Hype Boy', 'Attention' and 'Cookie' on day two of KCON 2022 Saudi Arabia in Riyadh, the group's first overseas stage."
     },
     "source_url": "https://newsroom.cj.net/saudi-arabia-and-japan-kcon-events/",
-    "verified": false,
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
+      "https://www.youtube.com/watch?v=iMqXW6lSvB4",
+      "https://www.youtube.com/watch?v=3JDbRue8SB8",
       "https://www.soompi.com/article/1544699wpp/kcon-2022-saudi-arabia-announces-star-studded-lineup",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
@@ -312,7 +314,7 @@
       "festival",
       "overseas"
     ],
-    "editor_note": "Event ran Sept 30-Oct 1, 2022; NewJeans on Oct 1 (day 2).",
+    "editor_note": "Event ran Sept 30-Oct 1, 2022; NewJeans on Oct 1 (day 2). / 2026-10-24 nightly: KCON official YouTube 'NewJeans ALL MOMENTS | KCON 2022 SAUDI ARABIA' (iMqXW6lSvB4): 'OCT 1, 2022 (AST) [SHOW DAY2]', stages Hype Boy, Cookie, Attention. ALL MOMENTS videos of ATEEZ, HYOLYN, ONEUS, STAYC and TO1 are also marked SHOW DAY2 (P1Harmony DAY1). CJ newsroom (2022-09-26) confirms venue/dates/lineup.",
     "detail": {
       "ja": "サウジアラビア・リヤドのブルバード・リヤドシティで開かれた『KCON 2022 SAUDI ARABIA』（9月30日・10月1日）の2日目に出演し、「Hype Boy」「Attention」「Cookie」を披露した。同国初開催のKCONで、グループにとって初の海外ステージ。同日の出演者はATEEZ、ヒョリン、ONEUS、STAYC、TO1。",
       "en": "NewJeans performed on day two of KCON 2022 Saudi Arabia (30 September – 1 October) at Boulevard Riyadh City in Riyadh, singing 'Hype Boy', 'Attention' and 'Cookie'. It was the first KCON held in the country and the group's first overseas performance. ATEEZ, Hyolyn, ONEUS, STAYC and TO1 shared the day's bill."
@@ -349,6 +351,7 @@
     },
     "source_url": "https://www.xportsnews.com/article/1641769",
     "reference_urls": [
+      "https://www.xportsnews.com/article/1641769",
       "https://www.asiatoday.co.kr/kn/view.php?key=20221014010006617",
       "https://mydaily.co.kr/m/page/view/2022101408481405209"
     ],
@@ -359,7 +362,8 @@
       "airport",
       "overseas"
     ],
-    "verified": false
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: No official page exists for an airport departure; Xportsnews (2022-10-14 08:22 KST) reports NewJeans leaving Gimpo International Airport for Tokyo on the morning of the 14th to attend KCON 2022 Japan."
   },
   {
     "id": "live-2022-10-15-kcon-2022-japan",
@@ -380,11 +384,13 @@
       "en": "Performed 'Attention' and 'Hype Boy' on day two of KCON 2022 Japan at Ariake Arena, Tokyo, the group's first stage in Japan."
     },
     "source_url": "https://newsroom.cj.net/saudi-arabia-and-japan-kcon-events/",
-    "verified": false,
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
+      "https://www.oricon.co.jp/news/2253188/full/",
+      "https://www.crank-in.net/trend/report/115986/1",
       "https://www.soompi.com/article/1542195wpp/kcon-2022-japan-announces-1st-lineup-of-performers",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
@@ -392,10 +398,10 @@
       "festival",
       "japan"
     ],
-    "editor_note": "Day assignment (Oct 15) from Wikipedia and an Indonesian lineup report; not confirmed from the official day-by-day lineup. | Day-2 assignment confirmed by the ja.wikipedia KCON day-by-day lineup table (Oct 15: IVE / JO1 / NewJeans / TXT / fromis_9 / ATBO / DKZ / KQ Fellaz 2). / 2026-10-17 review: Minji as special MC on day 2 not confirmed. Oricon/NME name Hwang Min-hyun as MC for all three days; crank-in day-2 report (2022-10-17) names no other MC; the en.wikipedia Minji claim cites Natalie (497627), which could not be fetched (403/405). Not added; detail left as is.",
+    "editor_note": "Day assignment (Oct 15) from Wikipedia and an Indonesian lineup report; not confirmed from the official day-by-day lineup. | Day-2 assignment confirmed by the ja.wikipedia KCON day-by-day lineup table (Oct 15: IVE / JO1 / NewJeans / TXT / fromis_9 / ATBO / DKZ / KQ Fellaz 2). / 2026-10-17 review: Minji as special MC on day 2 not confirmed. Oricon/NME name Hwang Min-hyun as MC for all three days; crank-in day-2 report (2022-10-17) names no other MC; the en.wikipedia Minji claim cites Natalie (497627), which could not be fetched (403/405). Not added; detail left as is. / 2026-10-24 nightly: ORICON NEWS (2022-10-15 19:53) reports NewJeans on the DAY2 show performing 'Attention' and 'Hype Boy'; crank-in day-2 report (2022-10-17) lists TXT, IVE, JO1, ATBO, DKZ, fromis_9 and NewJeans. KQ Fellaz 2 is not in the day-2 report (its KCON official stage video has no day), so it was removed from the lineup. CJ newsroom confirms venue and dates.",
     "detail": {
-      "ja": "東京・有明アリーナで開かれた『KCON 2022 JAPAN』（10月14日から16日）の2日目に出演し、「Attention」「Hype Boy」を披露した。同日の出演者はIVE、JO1、TOMORROW X TOGETHER、fromis_9、ATBO、DKZ、KQ Fellaz 2で、MCはファン・ミニョン。日本での初ステージだった。",
-      "en": "NewJeans performed on day two of KCON 2022 Japan (14–16 October) at Ariake Arena in Tokyo, singing 'Attention' and 'Hype Boy'. The day's lineup also featured IVE, JO1, TOMORROW X TOGETHER, fromis_9, ATBO, DKZ and KQ Fellaz 2, with Hwang Min-hyun as MC. It was the group's first stage in Japan."
+      "ja": "東京・有明アリーナで開かれた『KCON 2022 JAPAN』（10月14日から16日）の2日目に出演し、「Attention」「Hype Boy」を披露した。同日の出演者はIVE、JO1、TOMORROW X TOGETHER、fromis_9、ATBO、DKZで、MCはファン・ミニョン。日本での初ステージだった。",
+      "en": "NewJeans performed on day two of KCON 2022 Japan (14–16 October) at Ariake Arena in Tokyo, singing 'Attention' and 'Hype Boy'. The day's lineup also featured IVE, JO1, TOMORROW X TOGETHER, fromis_9, ATBO and DKZ, with Hwang Min-hyun as MC. It was the group's first stage in Japan."
     },
     "credits": {
       "venue": "Ariake Arena, Tokyo",
@@ -441,7 +447,7 @@
       "university-festival"
     ],
     "verified": false,
-    "editor_note": "Performance confirmed by the official Light Jeans video \"Konkuk University Festival 2022 Behind\" (posted 2022-11-11); the date 27 Oct is from namu.wiki (festival 26-28 Oct; NewJeans listed on 10.27). No press article found.",
+    "editor_note": "Performance confirmed by the official Light Jeans video \"Konkuk University Festival 2022 Behind\" (posted 2022-11-11); the date 27 Oct is from namu.wiki (festival 26-28 Oct; NewJeans listed on 10.27). No press article found. / 2026-10-24 nightly: Still not confirmable: the official Light Jeans behind video (cVXh3zrlfYE, Nov 11, 2022 KST) confirms the performance but not the day; no Konkuk University/student-council post or press report giving Oct 27 was found.",
     "image": {
       "url": "https://i.ytimg.com/vi/cVXh3zrlfYE/maxresdefault.jpg",
       "source_url": "https://www.youtube.com/watch?v=cVXh3zrlfYE"
@@ -487,7 +493,7 @@
       "charity"
     ],
     "verified": false,
-    "editor_note": "Performance confirmed by W KOREA's official YouTube upload '[Love Your W 4K 고화질 무대] 뉴진스(NewJeans) ‘Attention’ by W Korea' (uploaded 2022-11-24 per ja.wikipedia citation; title/channel confirmed via oEmbed). Event date Oct 28, 2022 and venue from inkistyle and ja.wikipedia; no W Korea page with the date was fetched (wkorea.com search blocked). Full setlist not confirmed."
+    "editor_note": "Performance confirmed by W KOREA's official YouTube upload '[Love Your W 4K 고화질 무대] 뉴진스(NewJeans) ‘Attention’ by W Korea' (uploaded 2022-11-24 per ja.wikipedia citation; title/channel confirmed via oEmbed). Event date Oct 28, 2022 and venue from inkistyle and ja.wikipedia; no W Korea page with the date was fetched (wkorea.com search blocked). Full setlist not confirmed. / 2026-10-24 nightly: Still not confirmable for the date: W KOREA official videos (ffHFjeXq3mE, 2022-11-24; behind fX8aAfP5qDY, 2022-11-26) confirm NewJeans' 'Attention' stage and call it the 17th Love Your W, back offline after three years, but give no event date or venue; no press report with Oct 28 found. Note: the official text says '제17회' (17th edition), not 17th anniversary of the magazine."
   },
   {
     "id": "live-2022-12-16-kbs-song-festival",
@@ -505,25 +511,29 @@
       "original": "2022 KBS 가요대축제"
     },
     "summary": {
-      "ja": "『2022 KBS歌謡大祝祭』第1部の最後に「Attention」「Hype Boy」を披露。ミンジとヘインはユニットAkizでSHINeeをカバー。",
-      "en": "Closed Part 1 of the 2022 KBS Song Festival at Jamsil Arena with 'Attention' and 'Hype Boy'; Minji and Hyein covered SHINee as the unit Akiz."
+      "ja": "『2022 KBS歌謡大祝祭』でイントロと「Attention」「Hype Boy」を披露。ミンジとヘインはユニットAkizでSHINeeをカバー。",
+      "en": "Performed an intro, 'Attention' and 'Hype Boy' at the 2022 KBS Song Festival at Jamsil Arena; Minji and Hyein covered SHINee as the unit Akiz."
     },
-    "source_url": "https://sports.khan.co.kr/article/202212121202003",
-    "verified": false,
+    "source_url": "https://www.youtube.com/watch?v=ovn2K0EqSPs",
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
+      "https://www.youtube.com/watch?v=ovn2K0EqSPs",
+      "https://www.youtube.com/watch?v=4zGLOI5MYOQ",
+      "https://www.youtube.com/watch?v=xVjo9xW1JX0",
+      "https://sports.khan.co.kr/article/202212121202003",
       "https://en.wikipedia.org/wiki/2022_KBS_Song_Festival",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "tags": [
       "broadcast-concert"
     ],
-    "editor_note": "Broadcast-concert; the TV airing may be registered separately in the tv category.",
+    "editor_note": "Broadcast-concert; the TV airing may be registered separately in the tv category. / 2026-10-24 nightly: KBS Kpop official uploads dated Dec 16, 2022: 'Intro + Attention + Hype boy' (ovn2K0EqSPs) and '아키즈 (이서 X 설윤 X 홍은채 X 민지 X 혜인) - 산소같은 너 (원곡 : 샤이니)' (4zGLOI5MYOQ); KBS News 2022-11-29 (xVjo9xW1JX0) gives the MCs, 8:30 pm live and Jamsil Arena. Removed as unconfirmed: audience applications from Dec 2 9 am, and 'closed Part 1'.",
     "detail": {
-      "ja": "ソウルの蚕室室内体育館で開かれた『2022 KBS歌謡大祝祭』に出演した。観覧申込は12月2日9時から受け付けられ、KBS 2TVが20時30分から生中継した。第1部の最後に「Attention」「Hype Boy」を披露し、ミンジとヘインはプロジェクトユニット「Akiz」としてSHINee「Love Like Oxygen」をカバーした。司会はナ・イヌ、チャン・ウォニョン、キム・シニョン。",
-      "en": "NewJeans performed at the 2022 KBS Song Festival at Jamsil Arena in Seoul, staged before a ticketed audience (applications from 2 December at 9 am) and broadcast live on KBS 2TV from 8:30 pm. They closed Part 1 with 'Attention' and 'Hype Boy', and Minji and Hyein covered SHINee's 'Love Like Oxygen' as part of the project unit Akiz. Na In-woo, Jang Won-young and Kim Shin-young hosted."
+      "ja": "ソウルの蚕室室内体育館で開かれた『2022 KBS歌謡大祝祭』に出演した。KBS 2TVが20時30分から生中継し、イントロに続いて「Attention」「Hype Boy」を披露した。ミンジとヘインはIVEのイソ、NMIXXのソリュン、LE SSERAFIMのホン・ウンチェとのプロジェクトユニット「Akiz」としてSHINee「Love Like Oxygen」をカバーした。司会はナ・イヌ、チャン・ウォニョン、キム・シニョン。",
+      "en": "NewJeans performed at the 2022 KBS Song Festival at Jamsil Arena in Seoul, broadcast live on KBS 2TV from 8:30 pm, with an intro followed by 'Attention' and 'Hype Boy'. Minji and Hyein covered SHINee's 'Love Like Oxygen' in the project unit Akiz with IVE's Leeseo, NMIXX's Sullyoon and LE SSERAFIM's Hong Eun-chae. Na In-woo, Jang Won-young and Kim Shin-young hosted."
     },
     "credits": {
       "venue": "Jamsil Arena, Seoul",
@@ -3753,22 +3763,24 @@
       "en": "Performed 'How Sweet' and 'Supernatural' at the first-ever SBS Gayo Daejeon Summer at Inspire Arena."
     },
     "source_url": "https://www.ajunews.com/view/20240721171710042",
-    "verified": false,
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
       "https://weverse.io/nct127/notice/20988",
+      "https://www.youtube.com/watch?v=5Tsp_Lj0qy4",
+      "https://www.youtube.com/watch?v=sP9U-kJWaYU",
       "https://www.soompi.com/article/1667854wpp/sbs-gayo-daejeon-announces-first-ever-summer-edition",
       "https://soompi.com/article/1675938wpp/watch-performances-from-2024-sbs-gayo-daejeon-summer"
     ],
     "tags": [
       "broadcast-concert"
     ],
-    "editor_note": "Held and broadcast live on 2024-07-21 at Inspire Arena, Incheon (not Daegu). Wikipedia lists July 24, which appears to be an error. | July 21 date confirmed by the SBS Gayo Daejeon article (en.wikipedia); the tv-category record carries July 24. / 2026-10-17 review: event date 2024-07-21 confirmed (Ajunews blue carpet 07-21; NCT 127 Weverse notice '7/21 (일) ... 생방송'). SBS's TV airing is listed as 2024-07-26 on the SBS program page, so 'SBSが生中継' in the detail is doubtful (the 07-21 live was likely an online stream; NCT 127's notice calls it 생방송). Consider rewording detail to drop the SBS live-broadcast claim. en.wikipedia's July 24 is unsupported.",
+    "editor_note": "Held and broadcast live on 2024-07-21 at Inspire Arena, Incheon (not Daegu). Wikipedia lists July 24, which appears to be an error. | July 21 date confirmed by the SBS Gayo Daejeon article (en.wikipedia); the tv-category record carries July 24. / 2026-10-17 review: event date 2024-07-21 confirmed (Ajunews blue carpet 07-21; NCT 127 Weverse notice '7/21 (일) ... 생방송'). SBS's TV airing is listed as 2024-07-26 on the SBS program page, so 'SBSが生中継' in the detail is doubtful (the 07-21 live was likely an online stream; NCT 127's notice calls it 생방송). Consider rewording detail to drop the SBS live-broadcast claim. en.wikipedia's July 24 is unsupported. / 2026-10-24 nightly: Wording fixed per review queue: 'broadcast live on SBS' removed. NCT 127 Weverse notice 20988: '7/21 (일) 2024 SBS 가요대전 Summer 생방송', live show at 18:30 at Inspire Arena (no TV channel named). SBS Entertainment upload 5Tsp_Lj0qy4 'How Sweet + Break Dance + Supernatural' gives the TV main broadcast as 07-26 23:20 (later than the record date, so not in reader text); SBSKPOP sP9U-kJWaYU titles it 'Intro + How Sweet + Supernatural'.",
     "detail": {
-      "ja": "仁川のINSPIREアリーナで初の夏開催となる『2024 SBS歌謡大典』夏編（SBS Gayo Daejeon Summer）が開かれ、SBSが生中継した。司会はドヨン、ヨンジュン、アン・ユジン。NewJeansは「How Sweet」と「Supernatural」を披露した。",
-      "en": "The first SBS Gayo Daejeon Summer was held at Inspire Arena in Incheon and broadcast live on SBS, hosted by Doyoung, Yeonjun and An Yu-jin. NewJeans performed 'How Sweet' and 'Supernatural'."
+      "ja": "仁川のINSPIREアリーナで初の夏開催となる『2024 SBS歌謡大典』夏編（SBS Gayo Daejeon Summer）が開かれ、公演は18時30分から生放送形式で進行した。司会はドヨン、ヨンジュン、アン・ユジン。NewJeansはイントロとダンスブレイクを挟んで「How Sweet」と「Supernatural」を披露した。",
+      "en": "The first SBS Gayo Daejeon Summer was held at Inspire Arena in Incheon, run as a live show from 6:30 p.m. and hosted by Doyoung, Yeonjun and An Yu-jin. NewJeans performed 'How Sweet' and 'Supernatural', with an intro and a dance break."
     },
     "credits": {
       "venue": "Inspire Arena, Incheon",

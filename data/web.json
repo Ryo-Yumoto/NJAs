@@ -398,11 +398,12 @@
       "en": "Rolling Stone 'Future 25' feature and interview"
     },
     "summary": {
-      "ja": "Rolling Stoneが音楽業界の未来を担う25組「Future 25」にNewJeansを選出し、『Get Up』を控えたインタビューも掲載した。",
-      "en": "Rolling Stone named NewJeans to its 2023 Future 25, with an interview ahead of the EP Get Up."
+      "ja": "Rolling Stoneが音楽の未来を担う25組「Future 25」にNewJeansを選出し、メンバー5人へのインタビュー記事も公開した。",
+      "en": "Rolling Stone named NewJeans to its 2023 Future 25 and published an interview with the five members."
     },
     "source_url": "https://www.rollingstone.com/music/music-lists/best-new-rising-artists-2023-1234745765/",
     "reference_urls": [
+      "https://www.rollingstone.com/music/music-features/newjeans-new-music-minji-hanni-danielle-haerin-hyein-1234770863/",
       "https://www.soompi.com/article/1596698wpp/newjeans-selected-as-rolling-stones-future-25",
       "https://www.thefirsttimes.jp/?p=296826"
     ],
@@ -412,11 +413,11 @@
     "tags": [
       "feature"
     ],
-    "verified": false,
-    "editor_note": "rollingstone.comは本文未取得。公開日6月26日(現地)はSoompi(2023-06-27)/THE FIRST TIMESによる。 | rollingstone.com not fetched; interview content about 'Get Up' mentioned in the existing summary could not be verified from Soompi. / Removed source mention from reader text: Soompi reported the selection on June 27, 2023.",
+    "verified": true,
+    "editor_note": "rollingstone.comは本文未取得。公開日6月26日(現地)はSoompi(2023-06-27)/THE FIRST TIMESによる。 | rollingstone.com not fetched; interview content about 'Get Up' mentioned in the existing summary could not be verified from Soompi. / Removed source mention from reader text: Soompi reported the selection on June 27, 2023. / 2026-10-24 nightly: Fetched rollingstone.com list (published 2023-06-26 13:00 UTC, 'The 25 Best New And Rising Artists In 2023, Chosen With Bad Bunny') and the linked interview (same timestamp). Neither names 'Get Up', and the X/#RollingStoneFuture25 announcement was not checked, so both were removed from the summary/detail.",
     "detail": {
-      "ja": "音楽業界の変化を担う25組を選ぶ「Future 25」で、Rolling StoneはNewJeansを選出した。同誌は2022年のサプライズリリース戦略によって世界で最も急速に台頭したアーティストの一つになったと評し、2023年夏には新曲でさらに上を目指すと記した。選出はハッシュタグ#RollingStoneFuture25とともにX（旧Twitter）でも告知された。",
-      "en": "Rolling Stone's Future 25, a list of artists set to lead change in the music industry, included NewJeans. The magazine wrote that the group's surprise-release strategy in 2022 had made it one of the fastest-rising acts in the world and that it was aiming even higher with new music that summer. The selection was also announced on X (formerly Twitter) with the hashtag #RollingStoneFuture25."
+      "ja": "Rolling Stoneは、Bad Bunnyとともに選んだ2023年の新人・注目アーティスト25組「Future 25」にNewJeansを選出した。同誌は2022年の型破りなサプライズリリース戦略で世界で最も急速に台頭したアーティストの一つになったと評し、この夏は新曲でさらに上を目指すと記した。同日、2月28日にソウルで撮影した写真とともにメンバー5人へのインタビュー記事も公開された。",
+      "en": "Rolling Stone included NewJeans in its Future 25, the 25 best new and rising artists of 2023 chosen with Bad Bunny. The magazine wrote that the group's unconventional surprise-release strategy in 2022 had made them one of the fastest-rising acts in the world and that they were aiming even higher with new music that summer. An interview with the five members, photographed in Seoul on February 28, was published the same day."
     },
     "credits": {
       "outlet": "Rolling Stone"
@@ -441,7 +442,9 @@
       "en": "A written self-interview before the first anniversary, with each member on what makes the group special, the fans and future dreams."
     },
     "source_url": "https://www.koreajoongangdaily.com/entertainment/newjeans-reflects-on-debut-in-one-year-anniversary-self-interview/11354563",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-reflects-on-debut-in-one-year-anniversary-self-interview/11354563"
+    ],
     "media": {
       "type": "none"
     },
@@ -449,8 +452,8 @@
       "interview",
       "ador"
     ],
-    "verified": false,
-    "editor_note": "公開媒体（ADOR公式/Weverse等）のURL未確認。中央日報記事(2023-07-21)による。 | Original posting platform of the self-interview still unconfirmed; content via Korea JoongAng Daily (2023-07-21 18:08). / Cut from reader text: the Korea JoongAng Daily ran excerpts under three headings ('What makes NewJeans special', 'Wonderful moments', 'New adventures').",
+    "verified": true,
+    "editor_note": "公開媒体（ADOR公式/Weverse等）のURL未確認。中央日報記事(2023-07-21)による。 | Original posting platform of the self-interview still unconfirmed; content via Korea JoongAng Daily (2023-07-21 18:08). / Cut from reader text: the Korea JoongAng Daily ran excerpts under three headings ('What makes NewJeans special', 'Wonderful moments', 'New adventures'). / 2026-10-24 nightly: No ADOR/Weverse page for the self-interview was found (likely distributed to press). Korea JoongAng Daily (2023-07-21 18:08) confirms release that Friday, a day before the first anniversary, with Get Up out at 1 p.m., and each member's answers as summarised.",
     "detail": {
       "ja": "デビュー1周年の前日、2nd EP『Get Up』の発売（13時）に合わせて、各メンバーが質問に書面で答えたセルフインタビューがADORを通じて公開された。ミンジは挑戦を続けてきたことがグループを最も特別にしていると述べ、ハニはメンバー同士の信頼と誠実さ、ミン・ヒジン代表やスタッフとの関係を挙げた。ダニエルはファンを友人であり家族だと表現してワールドツアーの夢を語り、ヘリンは次が待ちきれない予測不能なグループでありたいと話した。ヘインは5人の声をとらえる努力と、誰もが楽しめる作品を作りたいという思いを語った。",
       "en": "Released through ADOR the day before the group's first anniversary, alongside the 1 pm release of the second EP Get Up, this written self-interview had each member answer questions. Minji said the challenges the group has taken on make it most special; Hanni credited the members' mutual trust and sincerity and their relationship with CEO Min Hee-jin and staff; Danielle called fans friends and family and spoke of dreaming of a world tour; Haerin said the group wants to stay unpredictable so people cannot wait for what is next; and Hyein spoke of the effort to capture the five members' voices and of making releases everyone can enjoy."
@@ -625,11 +628,14 @@
       "en": "Billboard Women in Music 2024 cover story (Group of the Year)"
     },
     "summary": {
-      "ja": "Billboard Women in Musicの「Group of the Year」としてカバーを飾った、韓屋で撮影のストーリーとインタビュー。",
-      "en": "Billboard's Women in Music cover story and interview with NewJeans, its Group of the Year, shot against a hanok."
+      "ja": "Billboard Women in Musicの「Group of the Year」としてNewJeansがカバーを飾り、ソウルで撮影したストーリーとインタビューが公開された。",
+      "en": "Billboard's Women in Music cover story and interview with NewJeans, its Group of the Year, shot in Seoul."
     },
-    "source_url": "https://www.thefirsttimes.jp/?p=391864",
+    "source_url": "https://www.billboard.com/music/awards/newjeans-members-billboard-cover-women-in-music-1235616028/",
     "reference_urls": [
+      "https://www.billboard.com/music/awards/newjeans-members-billboard-cover-women-in-music-1235616028/",
+      "https://www.billboard.com/photos/newjeans-photos-billboard-women-in-music-cover-shoot-1235616193/",
+      "https://www.billboard.com/lists/2024-billboard-women-in-music-awards-honorees-newjeans-ice-spice-tems/",
       "https://kbizoom.com/newjeans-adorns-the-cover-of-billboard-magazine-lead-a-new-era-of-female-influence/"
     ],
     "media": {
@@ -639,11 +645,11 @@
       "interview",
       "cover"
     ],
-    "verified": false,
-    "editor_note": "billboard.com記事URL未確認（サイトがアクセス制限）。 | billboard.com article not fetched; writer and photographer unconfirmed. Duplicates the magazine record for the same cover. / billboard.com記事URL未確認（サイトがアクセス制限、記事未取得）。執筆者・撮影者未確認。MMA/MAMA受賞に関する発言は二次報道による。同カバーのmagazineレコードと重複。 / Cut for length (EN only): the members attributing early fan affection to the songs they chose rather than any plan to change K-pop, and wanting to move people with their songs. Published February 28, 2024 (US time).",
+    "verified": true,
+    "editor_note": "billboard.com記事URL未確認（サイトがアクセス制限）。 | billboard.com article not fetched; writer and photographer unconfirmed. Duplicates the magazine record for the same cover. / billboard.com記事URL未確認（サイトがアクセス制限、記事未取得）。執筆者・撮影者未確認。MMA/MAMA受賞に関する発言は二次報道による。同カバーのmagazineレコードと重複。 / Cut for length (EN only): the members attributing early fan affection to the songs they chose rather than any plan to change K-pop, and wanting to move people with their songs. Published February 28, 2024 (US time). / 2026-10-24 nightly: billboard.com cover story fetched ('NewJeans Members Talk Women in Music Honor, 'Surreal' Success', published 2024-02-28 13:00 UTC; photos Ssam Kim; story ran in the March 2, 2024 issue) plus the cover-shoot gallery (2024-02-28) and the honorees list (2024-01-24: ceremony Wednesday March 6 at YouTube Theater, Inglewood). 'Hanok backdrop' was not found in either page and was replaced by 'shot in Seoul'; ceremony place made precise. Still overlaps the magazine record for the same cover.",
     "detail": {
-      "ja": "2024年Billboard Women in Musicの「Group of the Year」に選ばれたNewJeansのカバーストーリー。撮影は韓屋を背景に行われ、Billboardは総括プロデューサー兼代表のミン・ヒジンを成功の立役者として紹介した。メンバーはデビュー前は新しく面白いことを試したかっただけで、それが「イージーリスニング」なサウンドにつながったと語り、「Ditto」を聴けば昨冬を思い出すような、長く記憶に残る存在になりたいと話した。メロンミュージックアワードとMAMAでの受賞を、ハニは「現実離れしている」と表現した。授賞式は3月6日にロサンゼルスで開かれる予定だった。",
-      "en": "The cover story for NewJeans as Group of the Year at the 2024 Billboard Women in Music. The shoot used a hanok backdrop, and Billboard presented executive producer and CEO Min Hee-jin as the leader behind the group's success. The members said they had simply wanted to try new and fun things before debut, which they believe led to their 'easy listening' sound, and hoped to be remembered for a long time, with 'Ditto' bringing back memories of the previous winter. Hanni called their Melon Music Awards and MAMA wins surreal. The ceremony was scheduled for March 6 in Los Angeles."
+      "ja": "2024年Billboard Women in Musicの「Group of the Year」に選ばれたNewJeansのカバーストーリー。撮影はソウルで行われ、Billboardは創業者兼代表のミン・ヒジンをグループの成功を導いた存在として紹介した。メンバーは、新しく楽しいことを試したかっただけで、それが「イージーリスニング」な音楽につながったと語り、ミンジは「Ditto」を聴いて昨冬を思い出してもらえるような、長く記憶に残る音楽にしたいと話した。メロンミュージックアワードとMAMAでの大賞受賞を、ハニは「現実離れしている」と表現した。授賞式は3月6日にロサンゼルス近郊イングルウッドのYouTube Theaterで開かれる予定だった。",
+      "en": "The cover story for NewJeans as Group of the Year at the 2024 Billboard Women in Music. The shoot took place in Seoul, and Billboard presented founder and CEO Min Hee Jin as the leader behind the group's success. The members said they had simply wanted to try something new and fun, which led to their 'easy listening' music, and Minji said she wanted their music remembered for a long time, with people thinking of the previous winter when they hear 'Ditto'. Hanni called their artist and song of the year wins at the Melon Music Awards and MAMA surreal. The ceremony was scheduled for March 6 at YouTube Theater in Inglewood, just outside Los Angeles."
     },
     "credits": {
       "outlet": "Billboard"
@@ -680,8 +686,8 @@
       "interview",
       "ador"
     ],
-    "verified": false,
-    "editor_note": "ADOR公式掲載URL未確認。テンアジア(2024-07-22)、marie claire(2024-07-25)、Korea Times(2024-07-23)が同内容を掲載。 / Cut from reader text: Tenasia (reporter Choi Ji-ye) published the Q&A at 13:33 under the headline \"'데뷔 2주년' 뉴진스 민지 '뉴진스는 뉴진스라서 특별해'\" (headline also in title.original).",
+    "verified": true,
+    "editor_note": "ADOR公式掲載URL未確認。テンアジア(2024-07-22)、marie claire(2024-07-25)、Korea Times(2024-07-23)が同内容を掲載。 / Cut from reader text: Tenasia (reporter Choi Ji-ye) published the Q&A at 13:33 under the headline \"'데뷔 2주년' 뉴진스 민지 '뉴진스는 뉴진스라서 특별해'\" (headline also in title.original). / 2026-10-24 nightly: No ADOR-owned page found (press release). Tenasia (2024-07-22 13:33 KST) confirms the members' answers were shared through a press release on the 22nd (photos credited to ADOR) and matches each member's summary.",
     "detail": {
       "ja": "ADORが報道資料として配布した一問一答。ミンジは2年があっという間だったとし、自分のペースで成長することに集中していると話して東京ドームのファンミーティングを最も記憶に残る瞬間に挙げた。ハニは仕事への愛着が深まり、日本デビューの準備が楽しかったと語った。ダニエルは「夢のような2年」とし、初の海外ファンミーティングだった東京ドームではファンを見た瞬間に緊張が消えたという。ヘリンは新しい宿舎をこの2年の変化に挙げ、東京ドームの無数のペンライトと輝く目を振り返った。ヘインはデビューステージと東京ドームを忘れられない瞬間とし、負傷でメンバーと過ごせなかった時間を経て健康を目標にした。",
       "en": "A Q&A ADOR distributed as a press release. Minji said the two years had passed in an instant, that she was focusing on growing at her own pace, and named the Tokyo Dome fan meeting as her most memorable moment. Hanni said her love for the work had deepened and that preparing the Japan debut was genuinely fun. Danielle called it two years like a dream and said Tokyo Dome, her first overseas fan meeting, had made her nervous until she saw the fans. Haerin named a new dorm as the main change and recalled the countless light sticks and sparkling eyes at Tokyo Dome, and Hyein named the debut stage and Tokyo Dome as unforgettable and, having missed time with the members because of an injury, set staying healthy as her goal."
@@ -795,19 +801,22 @@
       "ja": "パク・ミョンスのYouTubeチャンネル「ハルミョンス」で「NewJeansヘインが好きな街を紹介します」と題した第212回が公開された。「延禧洞半周」をテーマに、ヘインが散歩の相棒として出演した。パク・ミョンスは足の甲のけがの具合を気遣い、ヘインは「不思議な感じ」と笑った。",
       "en": "Park Myung-soo's YouTube channel Halmyungsoo posted episode 212, titled 'Introducing the neighbourhood NewJeans' Hyein likes'. Themed as half a lap of Yeonhui-dong, it featured Hyein as his walking companion. Park asked after the foot injury she had been recovering from, and Hyein laughed that the pairing felt surreal."
     },
-    "source_url": "https://v.daum.net/v/20241206194306130",
+    "source_url": "https://www.youtube.com/watch?v=ibud58Ar-30",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=ibud58Ar-30",
+      "https://v.daum.net/v/20241206194306130",
       "https://v.daum.net/v/20241207050002044"
     ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "ibud58Ar-30"
     },
     "tags": [
       "web-variety",
       "youtube"
     ],
-    "verified": false,
-    "editor_note": "Secondary only (Xportsnews 2024-12-06); YouTube video ID not retrieved. Category web used for a third-party YouTube show."
+    "verified": true,
+    "editor_note": "Secondary only (Xportsnews 2024-12-06); YouTube video ID not retrieved. Category web used for a third-party YouTube show. / 2026-10-24 nightly: Official 할명수 YouTube channel: ibud58Ar-30 'NewJeans' Hyein Introduces Her Favorite Neighborhood | Around Yeonhui-dong | HalMyungSoo ep.212', Dec 6, 2024 KST (chapter 'A Half-Loop Around Yeonhui with Hyein'). Foot-injury exchange per Xportsnews; not re-checked in the video."
   },
   {
     "id": "web-2025-02-07-cnn-njz-interview",

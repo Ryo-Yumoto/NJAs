@@ -1124,8 +1124,10 @@
       "ja": "12月12日の予約開始投稿で予告されていた『OMG』フィジカルアルバムのパックショットを公開し、2形態の構成を示した。",
       "en": "Packshot reveal for the physical OMG album, as promised in the December 12 pre-order post, showing both formats' contents."
     },
-    "source_url": "https://x.com/NewJeans_ADOR",
+    "source_url": "https://x.com/NewJeans_ADOR/status/1605020452661133312",
     "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/1605020452661133312",
+      "https://shop.weverse.io/en/shop/JPY/artists/82/notices/3144",
       "https://x.com/NewJeans_ADOR/status/1602121156718624770"
     ],
     "media": {
@@ -1134,8 +1136,8 @@
     "tags": [
       "packshot"
     ],
-    "verified": false,
-    "editor_note": "Date from the pre-order message card (Packshot Release: 2022.12.20). Status URL not recovered. | not enriched: no source found for the post itself; product details from Weverse Shop notice 3144. / Date from the pre-order message card schedule; the X status for the packshot post itself was not recovered (source_url is the account page; not enriched). Product details from Weverse Shop notice 3144.",
+    "verified": true,
+    "editor_note": "Date from the pre-order message card (Packshot Release: 2022.12.20). Status URL not recovered. | not enriched: no source found for the post itself; product details from Weverse Shop notice 3144. / Date from the pre-order message card schedule; the X status for the packshot post itself was not recovered (source_url is the account page; not enriched). Product details from Weverse Shop notice 3144. / 2026-10-24 nightly: Status URL recovered: @NewJeans_ADOR 1605020452661133312 (fxtwitter: 2022-12-20 02:01 UTC = 11:01 KST), 'NewJeans \"OMG\" Packshot Release', two images (six Message Card ver. outboxes; Weverse Albums ver. box). Component list matches Weverse Shop notice 3144 (Message Card ver.: outbox 6 versions 129x174x21mm, 25 message cards, 52p photobook, 12p lyric card, CD-R, 5 photocards, 2 stickers; Weverse Albums ver.: outbox, lyric card, 10 photocards, QR card).",
     "detail": {
       "ja": "『OMG』フィジカルアルバムのパックショット公開。12月12日の予約開始投稿で予告されていたもので、Message Card ver.はアウトボックス6種（129x174x21mm）、メッセージカード25枚、52ページのフォトブック、12ページの歌詞カード、CD-R、フォトカード5枚、ステッカー2枚で構成される。Weverse Albums ver.はアウトボックス、歌詞カード、フォトカード10枚、QRカードからなる。",
       "en": "The packshots for the physical OMG album, flagged in the December 12 pre-order post as 'Packshot Release: 2022.12.20.'. The Message Card ver. consists of six outbox designs (129x174x21mm), 25 message cards, a 52-page photobook, a 12-page lyric card, a CD-R, five photocards and two stickers; the Weverse Albums ver. has an outbox, lyric card, ten photocards and a QR card."
@@ -1171,8 +1173,8 @@
       "en": "The first of the official Instagram posts on the OMG release day, up in the morning ahead of the 18:00 release."
     },
     "detail": {
-      "ja": "シングルアルバム『OMG』発売日の午前に公式Instagramへ投稿された1本目。アルバムは同日18時に発売された。",
-      "en": "The first official Instagram post of the OMG release day, up at 10:00 KST in the morning. The single album itself was released at 18:00 that day."
+      "ja": "シングルアルバム『OMG』発売日の午前に公式Instagramへ投稿された1本目で、「2023.1.2. 6PM (KST) 'OMG' Release」と発売時刻を告知した。アルバムは同日18時に発売された。",
+      "en": "The first official Instagram post of the OMG release day, up at 10:00 KST, announcing \"2023.1.2. 6PM (KST) 'OMG' Release\". The single album itself was released at 18:00 that day."
     },
     "credits": {
       "account": "@newjeans_official",
@@ -1180,6 +1182,7 @@
     },
     "source_url": "https://www.instagram.com/p/Cm5MDh1yTpc/",
     "reference_urls": [
+      "https://www.instagram.com/api/v1/oembed/?url=https://www.instagram.com/p/Cm5MDh1yTpc/",
       "https://www.marieclairekorea.com/celebrity/2023/01/omg-newjeans/"
     ],
     "media": {
@@ -1190,8 +1193,8 @@
       "OMG",
       "release"
     ],
-    "verified": false,
-    "editor_note": "Instagram page not fetchable; shortcode Cm5MDh1yTpc found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-01-02 10:00:30 KST. Post caption not retrieved; content described from the article context. | removed from reader text: [detail.ja] 投稿の本文・画像は未確認。 [detail.en] Caption and images not confirmed. / Instagram page not fetchable; shortcode Cm5MDh1yTpc found embedded in Marie Claire Korea's 2023-01-03 'OMG' release article. Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms = 2023-01-02 10:00:30 KST). Caption and images not retrieved; the link to the 'OMG' release is inferred from the article context only."
+    "verified": true,
+    "editor_note": "Instagram page not fetchable; shortcode Cm5MDh1yTpc found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-01-02 10:00:30 KST. Post caption not retrieved; content described from the article context. | removed from reader text: [detail.ja] 投稿の本文・画像は未確認。 [detail.en] Caption and images not confirmed. / Instagram page not fetchable; shortcode Cm5MDh1yTpc found embedded in Marie Claire Korea's 2023-01-03 'OMG' release article. Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms = 2023-01-02 10:00:30 KST). Caption and images not retrieved; the link to the 'OMG' release is inferred from the article context only. / 2026-10-24 nightly: Instagram oEmbed read: author newjeans_official, media_id 3006487245298940508 (= 2023-01-02 10:00:30 KST), caption '🫢 2023.1.2. 6PM (KST) 'OMG' Release #NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto #Year_of_NewJeans'. Caption added to detail."
   },
   {
     "id": "sns-2023-01-02-weverse-omg-fansign-notice",
@@ -1230,13 +1233,13 @@
       "OMG",
       "fansign"
     ],
-    "verified": false,
+    "verified": true,
     "time": "10:30",
     "credits": {
       "account": "Weverse NewJeans official",
       "label": "ADOR"
     },
-    "editor_note": "Weverse notice page not fetched (login-gated); existence, title and date confirmed from the official X post (status 1609723776467361796 verified via fxtwitter). Time is that of the X post."
+    "editor_note": "Weverse notice page not fetched (login-gated); existence, title and date confirmed from the official X post (status 1609723776467361796 verified via fxtwitter). Time is that of the X post. / 2026-10-24 nightly: Weverse notice 10328 read with WebFetch: '[Notice] NewJeans [OMG] Release Fan-signing Event Information' (fan-sign Jan 13, 2023 20:00 KST at Coex Mall B2 Live Plaza; entries via M2U Record Jan 2 11:00 – Jan 4 18:00). fxtwitter: @NewJeans_ADOR 1609723776467361796 at 2023-01-02 01:30 UTC (10:30 KST), '[안내📢] NewJeans [OMG] 활동 기념 팬사인회 안내 (+ENG/JPN) (+0102추가)' linking the notice."
   },
   {
     "id": "sns-2023-01-02-omg-available-now",
@@ -1297,12 +1300,12 @@
       "en": "Instagram post on the \"OMG\" release day (2)"
     },
     "summary": {
-      "ja": "『OMG』発売日の夜、23時36分に公式Instagramへ投稿された発売日投稿の2本目。",
-      "en": "The second official Instagram post of the OMG release day, up at 23:36 that night."
+      "ja": "『OMG』発売日の夜、23時36分に公式Instagramへ「OH MY OH MY GOD !」のキャプションで写真を投稿した。",
+      "en": "Official Instagram photo post captioned 'OH MY OH MY GOD !', up at 23:36 on the night of the OMG release day."
     },
     "detail": {
-      "ja": "シングルアルバム『OMG』発売日の夜の公式Instagram投稿。同日18時に発売されたアルバムの発売日投稿の2本目で、同じ夜の23時20分にも別の投稿がある。",
-      "en": "An official Instagram post on the night of the OMG release day, the second of the day after the 18:00 album release. Another post had gone up at 23:20 the same night."
+      "ja": "シングルアルバム『OMG』発売日の夜23時36分に公式Instagramへ投稿された写真で、キャプションは「📸 OH MY OH MY GOD !」。アルバムは同日18時に発売された。同じ夜の23時20分には別の投稿（イラストの投稿）もあった。",
+      "en": "A photo post on the official Instagram at 23:36 on the night of the OMG release day, captioned '📸 OH MY OH MY GOD !'. The single album had been released at 18:00 that day. Another post, of drawings, had gone up at 23:20 the same night."
     },
     "credits": {
       "account": "@newjeans_official",
@@ -1310,6 +1313,7 @@
     },
     "source_url": "https://www.instagram.com/p/Cm6pYZmSiFj/",
     "reference_urls": [
+      "https://www.instagram.com/api/v1/oembed/?url=https://www.instagram.com/p/Cm6pYZmSiFj/",
       "https://www.marieclairekorea.com/celebrity/2023/01/omg-newjeans/"
     ],
     "media": {
@@ -1320,8 +1324,8 @@
       "OMG",
       "release"
     ],
-    "verified": false,
-    "editor_note": "Instagram page not fetchable; shortcode Cm6pYZmSiFj found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-01-02 23:36:00 KST. Post caption not retrieved; content described from the article context. | Sibling shortcode Cm6nm9xSCS3 (2023-01-02 23:20 KST) also embedded in the same article. | removed from reader text: [detail.ja] 投稿の本文・画像は未確認。 [detail.en] Caption and images not confirmed. / Instagram page not fetchable; shortcode Cm6pYZmSiFj embedded at the top of Marie Claire Korea's 2023-01-03 article; time derived from the shortcode (= 2023-01-02 23:36:00 KST). Sibling shortcode Cm6nm9xSCS3 (23:20 KST) embedded in the same article. Caption and images not retrieved; relation to 'OMG' inferred from article context."
+    "verified": true,
+    "editor_note": "Instagram page not fetchable; shortcode Cm6pYZmSiFj found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-01-02 23:36:00 KST. Post caption not retrieved; content described from the article context. | Sibling shortcode Cm6nm9xSCS3 (2023-01-02 23:20 KST) also embedded in the same article. | removed from reader text: [detail.ja] 投稿の本文・画像は未確認。 [detail.en] Caption and images not confirmed. / Instagram page not fetchable; shortcode Cm6pYZmSiFj embedded at the top of Marie Claire Korea's 2023-01-03 article; time derived from the shortcode (= 2023-01-02 23:36:00 KST). Sibling shortcode Cm6nm9xSCS3 (23:20 KST) embedded in the same article. Caption and images not retrieved; relation to 'OMG' inferred from article context. / 2026-10-24 nightly: Instagram oEmbed read: Cm6pYZmSiFj by newjeans_official, media_id 3006897697883562339 (= 2023-01-02 23:36:00 KST), caption '📸 𝗢𝗛 𝗠𝗬 𝗢𝗛 𝗠𝗬 𝗚𝗢𝗗 ! #NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto #Year_of_NewJeans'. Sibling Cm6nm9xSCS3 (23:20:30 KST): '✍️ Drawing by 침착맨님 & 주우재님✨'. Caption and the 23:20 post's nature added to text."
   },
   {
     "id": "sns-2023-01-21-danielle-lunar-new-year-apology",
@@ -1346,8 +1350,10 @@
       "ja": "ダニエルが1月19日にファンアプリPhoningで「what r u bunnies doing for chinese new year?」と送り、「Lunar New Year」と呼ぶべきだとの批判を受けたことへの謝罪文。間違いに気づいてすぐに削除したが既に多くの人に届いてしまったこと、旧正月は韓国を含む多くの国が祝う祝日であり自分の表現は不適切だったとして、深く反省し謝罪すると述べた。",
       "en": "Danielle's apology over a Phoning message sent on January 19, 'what r u bunnies doing for chinese new year?', which drew criticism that it should be 'Lunar New Year'. She wrote that she deleted it as soon as she realised her mistake but it had already reached many people, that Lunar New Year is a holiday celebrated by many countries including Korea, and that her wording was inappropriate, for which she deeply apologised."
     },
-    "source_url": "https://www.koreajoongangdaily.com/entertainment/chinese-commenters-target-any-mention-of-lunar-new-year/11550120",
+    "source_url": "https://www.instagram.com/p/Cnql5uLSuV5/",
     "reference_urls": [
+      "https://www.instagram.com/p/Cnql5uLSuV5/",
+      "https://www.koreajoongangdaily.com/entertainment/chinese-commenters-target-any-mention-of-lunar-new-year/11550120",
       "https://www.bollywoodhungama.com/?p=1536202",
       "https://www.soompi.com/article/1563860wpp/newjeans-danielle-apologizes-for-calling-lunar-new-year-chinese-new-year",
       "https://www.koreaboo.com/news/newjeans-danielle-apologizes-calling-lunar-new-year-chinese-new-year/",
@@ -1361,12 +1367,12 @@
       "apology",
       "Phoning"
     ],
-    "verified": false,
+    "verified": true,
     "credits": {
       "account": "@newjeans_official",
       "label": "ADOR"
     },
-    "editor_note": "Secondary sources only; the Instagram post/story URL not located. Korea JoongAng Daily says the apology was posted on Instagram on Jan 21; Katadata (ID) gives Jan 23. Original Phoning message date Jan 19 (Phoning message deleted). / Apology was a feed post on @newjeans_official (OSEN 2023-01-21: posted via NewJeans' official Instagram). Shortcode Cnql5uLSuV5 taken from the Instagram embeds in Soompi and Koreaboo; verified 2026-10-16: HEAD 200, embed page shows owner newjeans_official and caption beginning '안녕하세요 뉴진스 다니엘입니다. 지난 1월 19일 목요일에 포닝에서...'; media-ID timestamp 2023-01-21 14:29 KST, confirming the Jan 21 date (Katadata's Jan 23 is wrong).",
+    "editor_note": "Secondary sources only; the Instagram post/story URL not located. Korea JoongAng Daily says the apology was posted on Instagram on Jan 21; Katadata (ID) gives Jan 23. Original Phoning message date Jan 19 (Phoning message deleted). / Apology was a feed post on @newjeans_official (OSEN 2023-01-21: posted via NewJeans' official Instagram). Shortcode Cnql5uLSuV5 taken from the Instagram embeds in Soompi and Koreaboo; verified 2026-10-16: HEAD 200, embed page shows owner newjeans_official and caption beginning '안녕하세요 뉴진스 다니엘입니다. 지난 1월 19일 목요일에 포닝에서...'; media-ID timestamp 2023-01-21 14:29 KST, confirming the Jan 21 date (Katadata's Jan 23 is wrong). / 2026-10-24 nightly: Instagram oEmbed read: Cnql5uLSuV5 by newjeans_official at 2023-01-21 14:29 KST; caption '안녕하세요 뉴진스 다니엘입니다. 지난 1월 19일 목요일에 포닝에서 제가 “what r u bunnies doing for Chinese new year?” 라고 메시지를 보냈습니다…' matches the detail (deleted at once, Lunar New Year celebrated in many countries incl. Korea, wording inappropriate, apology).",
     "links": {
       "instagram": "https://www.instagram.com/p/Cnql5uLSuV5/"
     }

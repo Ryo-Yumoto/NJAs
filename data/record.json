@@ -777,7 +777,7 @@
       "award"
     ],
     "verified": false,
-    "editor_note": "受賞発表日が未確認のため月精度（2022年12月）。要確認 / Asian Pop Music Awards (VVV Entertainment) publishes results on Weibo/online only; no official page reachable. Only Wikipedia/fan sources list Hype Boy in Top 20 Songs (Overseas) 2022."
+    "editor_note": "受賞発表日が未確認のため月精度（2022年12月）。要確認 / Asian Pop Music Awards (VVV Entertainment) publishes results on Weibo/online only; no official page reachable. Only Wikipedia/fan sources list Hype Boy in Top 20 Songs (Overseas) 2022. / 2026-10-24 nightly: Not confirmable: searched for an Asian Pop Music Awards (亚洲流行音乐大奖) official results page or post; only Wikipedia and fan lists found, and the organiser publishes on Weibo, which is not reachable here."
   },
   {
     "id": "record-2022-12-01-rolling-stone-100-best-albums-2022",
@@ -809,11 +809,12 @@
       "year-end",
       "list"
     ],
-    "verified": false,
+    "verified": true,
     "reference_urls": [
+      "https://www.rollingstone.com/music/music-lists/best-albums-2022-list-1234632387/new-jeans-1st-ep-1234633162/",
       "https://www.soompi.com/article/1556813wpp/btss-j-hope-blackpink-and-newjeans-make-rolling-stones-the-100-best-albums-of-2022-list"
     ],
-    "editor_note": "Rolling Stone confirms (in its own NewJeans interview) that the debut EP was on its 100 Best Albums of 2022, but the list page only renders positions 51-100 without JS, so the No. 46 placement could not be verified. Not contradicted."
+    "editor_note": "Rolling Stone confirms (in its own NewJeans interview) that the debut EP was on its 100 Best Albums of 2022, but the list page only renders positions 51-100 without JS, so the No. 46 placement could not be verified. Not contradicted. / 2026-10-24 nightly: Rolling Stone list data (page 2 via nextPageLink, pmcGalleryExports): positionDisplay 46 \"NewJeans, 'New Jeans'\" (item 1234633162); list published 2022-12-01 14:00 UTC; blurb matches (under 13 minutes, four songs, Nineties pop aesthetic)."
   },
   {
     "id": "record-2022-12-05-nme-50-best-songs-2022-hype-boy",
@@ -1062,7 +1063,7 @@
       "aaa"
     ],
     "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; the DCM popularity vote's candidate list was not found in press."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; the DCM popularity vote's candidate list was not found in press. / 2026-10-24 nightly: Not confirmable: no AAA/DCM official nominee list or major-press report naming NewJeans for the DCM Popularity Award (female singer) was found; Wikipedia remains the only source."
   },
   {
     "id": "record-2022-12-13-aaa-2022-idolplus-popularity-award-music-nomination",
@@ -1095,7 +1096,7 @@
       "aaa"
     ],
     "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; candidate list not found in press."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; candidate list not found in press. / 2026-10-24 nightly: Not confirmable: no AAA/IDOLPLUS official nominee list or major-press report naming NewJeans for the Idolplus Popularity Award (music) was found."
   },
   {
     "id": "record-2022-12-13-aaa-2022-performance-of-the-year",
@@ -1163,7 +1164,7 @@
       "all-kill"
     ],
     "verified": false,
-    "editor_note": "iChart (Instiz) certification history is not reachable from this environment; no primary page found for the Certified All-Kill date. Circle weekly data (Ditto No. 1 digital/streaming/Global K-pop, week of Dec 18-24) is consistent but not the certifying body."
+    "editor_note": "iChart (Instiz) certification history is not reachable from this environment; no primary page found for the Certified All-Kill date. Circle weekly data (Ditto No. 1 digital/streaming/Global K-pop, week of Dec 18-24) is consistent but not the certifying body. / 2026-10-24 nightly: Still not confirmable: instiz.net iChart pages return 403 and ichart.instiz.net is unreachable; no major Korean press report of the CAK time was found."
   },
   {
     "id": "record-2022-12-26-ditto-perfect-all-kill",
@@ -1196,7 +1197,7 @@
       "all-kill"
     ],
     "verified": false,
-    "editor_note": "iChart (Instiz) PAK record not reachable; no primary source found. Not contradicted."
+    "editor_note": "iChart (Instiz) PAK record not reachable; no primary source found. Not contradicted. / 2026-10-24 nightly: Still not confirmable: instiz.net iChart pages return 403 and ichart.instiz.net is unreachable; no major Korean press report with the PAK time was found."
   },
   {
     "id": "record-2022-12-29-ditto-circle-weekly-double-crown",
@@ -2493,6 +2494,45 @@
     "editor_note": "Melon weekly history not retrievable; Melon's 2023 annual-chart page only states Ditto was the year's No. 1. Not contradicted."
   },
   {
+    "id": "record-2023-03-01-riaj-gold-hype-boy-ditto",
+    "date": "2023-03-01",
+    "date_type": "announce",
+    "date_precision": "month",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「Hype Boy」「Ditto」ゴールド（5,000万回）",
+      "en": "RIAJ streaming certification: Hype Boy and Ditto certified gold"
+    },
+    "summary": {
+      "ja": "日本レコード協会が「Hype Boy」「Ditto」を各5,000万回再生超のゴールドに認定し、グループ初のRIAJ認定となった。",
+      "en": "The RIAJ certified 'Hype Boy' and 'Ditto' gold for over 50 million streams each in Japan, NewJeans' first RIAJ certifications."
+    },
+    "detail": {
+      "ja": "「Hype Boy」と「Ditto」が日本レコード協会（RIAJ）の2023年2月度ストリーミング認定で、それぞれ5,000万回再生超のゴールドに認定された。認定は翌3月に公表され、グループ初のRIAJ認定となった。RIAJのストリーミング認定はシルバー3,000万回、ゴールド5,000万回、プラチナ1億回。",
+      "en": "'Hype Boy' and 'Ditto' were each certified gold for surpassing 50 million streams in Japan in the RIAJ's streaming certifications for February 2023, published in March. They were the group's first RIAJ certifications. RIAJ streaming tiers are silver (30 million), gold (50 million) and platinum (100 million)."
+    },
+    "source_url": "https://www.riaj.or.jp/data/st/search/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "japan",
+      "streaming"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://www.riaj.or.jp/f/data/api/StProducts/index.json?n_artist=NewJeans",
+      "https://www.riaj.or.jp/data/st/",
+      "https://www.soompi.com/article/1575871wpp/bts-earns-their-3rd-triple-platinum-riaj-certification-in-japan-for-streaming-newjeans-goes-gold-for-1st-time"
+    ],
+    "editor_note": "RIAJ streaming-certification pages (riaj.or.jp/data/st/) load monthly lists client-side and the search form uses server actions; monthly archives for 2023 could not be retrieved, and the old /f/data/cert URLs return 404 (Wayback blocked from this environment). Unverified. / 2026-10-24 nightly: RIAJ streaming certification API (https://www.riaj.or.jp/f/data/api/StProducts/index.json?n_artist=NewJeans) fetched 2026-10-24: Hype Boy ゴールド / Ditto ゴールド, year_month 2023-02. Dated to the announcement month (month precision) like the other RIAJ records; former day date 2023-03-28 was a secondary report date."
+  },
+  {
     "id": "record-2023-03-05-ditto-melon-daily-76-days",
     "date": "2023-03-05",
     "date_type": "event",
@@ -2812,41 +2852,42 @@
     "editor_note": "99-day span (2022.12.19-2023.3.27) per TenAsia/Korea Times; whether every day was consecutive is phrased differently across outlets. / Melon daily history not retrievable; not contradicted."
   },
   {
-    "id": "record-2023-03-28-riaj-gold-hype-boy-ditto",
-    "date": "2023-03-28",
     "date_type": "announce",
-    "date_precision": "day",
     "category": "record",
     "entity": "newjeans",
     "members": [
       "all"
     ],
-    "title": {
-      "ja": "日本レコード協会ストリーミング認定：「Hype Boy」「Ditto」ゴールド（5,000万回）",
-      "en": "RIAJ streaming certification: Hype Boy and Ditto certified gold"
-    },
-    "summary": {
-      "ja": "日本レコード協会が「Hype Boy」「Ditto」を各5,000万回再生超のゴールドに認定し、グループ初のRIAJ認定となった。",
-      "en": "The RIAJ certified 'Hype Boy' and 'Ditto' gold for over 50 million streams each in Japan, NewJeans' first RIAJ certifications."
-    },
-    "detail": {
-      "ja": "「Hype Boy」と「Ditto」が日本レコード協会（RIAJ）の2023年2月度ストリーミング認定で、それぞれ5,000万回再生超のゴールドに認定された。3月28日頃の発表で、グループ初のRIAJ認定。RIAJのストリーミング認定はシルバー3,000万回、ゴールド5,000万回、プラチナ1億回。",
-      "en": "'Hype Boy' and 'Ditto' were each certified gold for surpassing 50 million streams in Japan in the RIAJ's streaming certifications for February 2023, reported around March 28. They were the group's first RIAJ certifications. RIAJ streaming tiers are silver (30 million), gold (50 million) and platinum (100 million)."
-    },
-    "source_url": "https://www.soompi.com/article/1575871wpp/bts-earns-their-3rd-triple-platinum-riaj-certification-in-japan-for-streaming-newjeans-goes-gold-for-1st-time",
     "media": {
       "type": "none"
     },
+    "verified": true,
+    "id": "record-2023-04-01-riaj-omg-gold",
+    "date": "2023-04-01",
+    "date_precision": "month",
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「OMG」ゴールド",
+      "en": "RIAJ streaming certification: OMG certified gold"
+    },
+    "summary": {
+      "ja": "日本レコード協会の2023年3月度ストリーミング認定で、「OMG」が5,000万回超のゴールドとなった。",
+      "en": "'OMG' was certified gold for over 50 million streams in Japan in the RIAJ's streaming certifications for March 2023."
+    },
+    "detail": {
+      "ja": "2023年1月2日発表のシングル『OMG』の表題曲「OMG」が、日本レコード協会（RIAJ）の2023年3月度ストリーミング認定で、累計5,000万回超のゴールドを獲得した。グループのRIAJ認定は「Hype Boy」「Ditto」に続く3曲目。",
+      "en": "'OMG', the title track of the single released on January 2, 2023, received gold certification for over 50 million streams in Japan in the Recording Industry Association of Japan's streaming certifications for March 2023. It was the group's third RIAJ-certified song after 'Hype Boy' and 'Ditto'."
+    },
+    "source_url": "https://www.riaj.or.jp/data/st/search/",
+    "reference_urls": [
+      "https://www.riaj.or.jp/f/data/api/StProducts/index.json?n_artist=NewJeans",
+      "https://www.riaj.or.jp/data/st/"
+    ],
     "tags": [
       "certification",
       "japan",
       "streaming"
     ],
-    "verified": false,
-    "reference_urls": [
-      "https://www.riaj.or.jp/f/data/cert/"
-    ],
-    "editor_note": "RIAJ streaming-certification pages (riaj.or.jp/data/st/) load monthly lists client-side and the search form uses server actions; monthly archives for 2023 could not be retrieved, and the old /f/data/cert URLs return 404 (Wayback blocked from this environment). Unverified."
+    "editor_note": "RIAJ streaming certification API, fetched 2026-10-24: OMG ゴールド, year_month 2023-03 (start_date 2023-01-02). Dated to the announcement month 2023-04 (month precision). Added from awards_records ledger (review queue 2026-10-17)."
   },
   {
     "id": "record-2023-04-02-melon-monthly-top3-three-months",
@@ -3162,10 +3203,10 @@
     "editor_note": "TIME Next Generation Leaders collection profile 'NewJeans Is Taking K-Pop-and the World-By Storm', published 2023-05-23."
   },
   {
-    "id": "record-2023-06-28-riaj-ditto-platinum-attention-gold",
-    "date": "2023-06-28",
+    "id": "record-2023-06-01-riaj-ditto-platinum-attention-gold",
+    "date": "2023-06-01",
     "date_type": "announce",
-    "date_precision": "day",
+    "date_precision": "month",
     "category": "record",
     "entity": "newjeans",
     "members": [
@@ -3183,7 +3224,7 @@
       "ja": "「Ditto」が1億回再生超のプラチナ、「Attention」が5,000万回超のゴールドに認定された。日本レコード協会（RIAJ）の2023年5月度ストリーミング認定によるもので、韓国語曲でのグループ初のRIAJプラチナ。同時にLE SSERAFIM「ANTIFRAGILE」も初のプラチナを獲得した。",
       "en": "'Ditto' was certified platinum for surpassing 100 million streams in Japan and 'Attention' gold for 50 million, in the RIAJ's streaming certifications for May 2023. It was the group's first RIAJ platinum, earned with a Korean-language song; LE SSERAFIM's 'ANTIFRAGILE' received its first platinum at the same time."
     },
-    "source_url": "https://www.soompi.com/article/1597181wpp/le-sserafim-and-newjeans-earn-their-1st-platinum-certifications-in-japan-for-streaming-aespa-and-bts-go-gold",
+    "source_url": "https://www.riaj.or.jp/data/st/search/",
     "media": {
       "type": "none"
     },
@@ -3192,11 +3233,13 @@
       "japan",
       "streaming"
     ],
-    "verified": false,
+    "verified": true,
     "reference_urls": [
-      "https://www.riaj.or.jp/f/data/cert/"
+      "https://www.riaj.or.jp/f/data/api/StProducts/index.json?n_artist=NewJeans",
+      "https://www.riaj.or.jp/data/st/",
+      "https://www.soompi.com/article/1597181wpp/le-sserafim-and-newjeans-earn-their-1st-platinum-certifications-in-japan-for-streaming-aespa-and-bts-go-gold"
     ],
-    "editor_note": "RIAJ monthly streaming certification archive unreachable (see 2023-03-28 note). Unverified."
+    "editor_note": "RIAJ monthly streaming certification archive unreachable (see 2023-03-28 note). Unverified. / 2026-10-24 nightly: RIAJ streaming certification API (https://www.riaj.or.jp/f/data/api/StProducts/index.json?n_artist=NewJeans) fetched 2026-10-24: Ditto プラチナ / Attention ゴールド (also LE SSERAFIM ANTIFRAGILE プラチナ, 2023-05), year_month 2023-05. Dated to the announcement month (month precision) like the other RIAJ records; former day date 2023-06-28 was a secondary report date."
   },
   {
     "id": "record-2023-07-14-super-shy-uk-singles-debut-59",
@@ -3621,6 +3664,45 @@
     "editor_note": "No ADOR/NewJeans post or same-day major-outlet report stating 2 billion cumulative Spotify streams on/around 2023-07-31 was found (Korea Herald/Soompi searches surface only per-song and album milestones)."
   },
   {
+    "id": "record-2023-08-01-riaj-omg-platinum",
+    "date": "2023-08-01",
+    "date_type": "announce",
+    "date_precision": "month",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「OMG」プラチナ（1億回）",
+      "en": "RIAJ streaming certification: OMG certified platinum"
+    },
+    "summary": {
+      "ja": "「OMG」が日本で1億回再生を超え、「Ditto」に続くグループ2曲目のRIAJプラチナに認定された。",
+      "en": "'OMG' was certified platinum by the RIAJ for surpassing 100 million streams in Japan, the group's second RIAJ platinum after 'Ditto'."
+    },
+    "detail": {
+      "ja": "「OMG」が1億回再生超のプラチナに認定された。日本レコード協会（RIAJ）の2023年7月度ストリーミング認定で、BLACKPINK「Kill This Love」と同時の認定。グループのRIAJプラチナは「Ditto」に続く2曲目。",
+      "en": "'OMG' was certified platinum for over 100 million streams in Japan in the RIAJ's streaming certifications for July 2023, alongside BLACKPINK's 'Kill This Love'. It was the group's second RIAJ platinum after 'Ditto'."
+    },
+    "source_url": "https://www.riaj.or.jp/data/st/search/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "japan",
+      "streaming"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://www.riaj.or.jp/f/data/api/StProducts/index.json?n_artist=NewJeans",
+      "https://www.riaj.or.jp/data/st/",
+      "https://www.soompi.com/article/1608970wpp/newjeans-twices-nayeon-blackpink-and-stray-kids-earn-platinum-and-gold-certifications-for-streaming-in-japan"
+    ],
+    "editor_note": "RIAJ monthly streaming certification archive unreachable. Unverified. / 2026-10-24 nightly: RIAJ streaming certification API (https://www.riaj.or.jp/f/data/api/StProducts/index.json?n_artist=NewJeans) fetched 2026-10-24: OMG プラチナ (BLACKPINK Kill This Love プラチナ same month), year_month 2023-07. Dated to the announcement month (month precision) like the other RIAJ records; former day date 2023-08-23 was a secondary report date."
+  },
+  {
     "id": "record-2023-08-05-cool-with-you-hot-100-debut-93",
     "date": "2023-08-05",
     "date_type": "event",
@@ -3942,43 +4024,6 @@
     "editor_note": "Hot 100 dated 2023-08-19: Super Shy No. 66 in its 5th week (LW 77, peak 48). Ditto had logged 5 weeks by 2023-02-18 and OMG 4 weeks by then (5+ later). Chart data consistent with the claim; the 'first female K-pop act' framing is Billboard's and not re-checked."
   },
   {
-    "id": "record-2023-08-23-riaj-omg-platinum",
-    "date": "2023-08-23",
-    "date_type": "announce",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "日本レコード協会ストリーミング認定：「OMG」プラチナ（1億回）",
-      "en": "RIAJ streaming certification: OMG certified platinum"
-    },
-    "summary": {
-      "ja": "「OMG」が日本で1億回再生を超え、「Ditto」に続くグループ2曲目のRIAJプラチナに認定された。",
-      "en": "'OMG' was certified platinum by the RIAJ for surpassing 100 million streams in Japan, the group's second RIAJ platinum after 'Ditto'."
-    },
-    "detail": {
-      "ja": "「OMG」が1億回再生超のプラチナに認定された。日本レコード協会（RIAJ）の2023年7月度ストリーミング認定で、BLACKPINK「Kill This Love」と同時の認定。グループのRIAJプラチナは「Ditto」に続く2曲目。",
-      "en": "'OMG' was certified platinum for over 100 million streams in Japan in the RIAJ's streaming certifications for July 2023, alongside BLACKPINK's 'Kill This Love'. It was the group's second RIAJ platinum after 'Ditto'."
-    },
-    "source_url": "https://www.soompi.com/article/1608970wpp/newjeans-twices-nayeon-blackpink-and-stray-kids-earn-platinum-and-gold-certifications-for-streaming-in-japan",
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "certification",
-      "japan",
-      "streaming"
-    ],
-    "verified": false,
-    "reference_urls": [
-      "https://www.riaj.or.jp/f/data/cert/"
-    ],
-    "editor_note": "RIAJ monthly streaming certification archive unreachable. Unverified."
-  },
-  {
     "id": "record-2023-08-26-get-up-billboard-200-four-weeks-top-20",
     "date": "2023-08-26",
     "date_type": "event",
@@ -4089,6 +4134,45 @@
     "editor_note": "CBS NoCut News 2023-09-02 13:27 KST: MTV VMA announced the additional nominee list on the 1st (local time) via its official site and SNS; NewJeans nominated for Group of the Year. Date kept as US local date."
   },
   {
+    "id": "record-2023-09-01-riaj-hype-boy-platinum",
+    "date": "2023-09-01",
+    "date_type": "announce",
+    "date_precision": "month",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「Hype Boy」プラチナ（1億回）",
+      "en": "RIAJ streaming certification: Hype Boy certified platinum"
+    },
+    "summary": {
+      "ja": "「Hype Boy」が日本で1億回再生を超え、「Ditto」「OMG」に続くグループ3曲目のRIAJプラチナに認定された。",
+      "en": "'Hype Boy' was certified platinum by the RIAJ for over 100 million streams in Japan, the group's third RIAJ platinum after 'Ditto' and 'OMG'."
+    },
+    "detail": {
+      "ja": "「Hype Boy」が1億回再生超のプラチナに認定された。日本レコード協会（RIAJ）の2023年8月度ストリーミング認定によるもので、「Ditto」「OMG」に続くグループ3曲目のRIAJプラチナ。",
+      "en": "'Hype Boy' was certified platinum for surpassing 100 million streams in Japan in the RIAJ's streaming certifications for August 2023. It was the group's third RIAJ platinum, after 'Ditto' and 'OMG'."
+    },
+    "source_url": "https://www.riaj.or.jp/data/st/search/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "japan",
+      "streaming"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://www.riaj.or.jp/f/data/api/StProducts/index.json?n_artist=NewJeans",
+      "https://www.riaj.or.jp/data/st/",
+      "https://www.soompi.com/article/1616668wpp/le-sserafim-newjeans-stray-kids-bts-seventeen-and-izone-earn-platinum-and-gold-certifications-for-streaming-in-japan"
+    ],
+    "editor_note": "RIAJ monthly streaming certification archive unreachable. Unverified. / 2026-10-24 nightly: RIAJ streaming certification API (https://www.riaj.or.jp/f/data/api/StProducts/index.json?n_artist=NewJeans) fetched 2026-10-24: Hype Boy プラチナ, year_month 2023-08. Dated to the announcement month (month precision) like the other RIAJ records; former day date 2023-09-28 was a secondary report date."
+  },
+  {
     "id": "record-2023-09-02-super-shy-circle-digital-8-weeks-no1",
     "date": "2023-09-02",
     "date_type": "event",
@@ -4162,43 +4246,6 @@
     "editor_note": "Circle Chart album certification list (API /data/api/cert/chart): 2023-09-07 Get Up 1M, New Jeans (1st EP) 1M, Get Up (Weverse) 1P. Exact match. / 2026-10-17 review: re-fetched Circle album certification API: 1st EP `New Jeans` 1M Certify_Date 2023-09-07 (with Get Up 1M and Get Up (Weverse) 1P). en.wikipedia's '2024-09' for the New Jeans million is wrong (2024-09-12 is the Supernatural million)."
   },
   {
-    "id": "record-2023-09-28-riaj-hype-boy-platinum",
-    "date": "2023-09-28",
-    "date_type": "announce",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "日本レコード協会ストリーミング認定：「Hype Boy」プラチナ（1億回）",
-      "en": "RIAJ streaming certification: Hype Boy certified platinum"
-    },
-    "summary": {
-      "ja": "「Hype Boy」が日本で1億回再生を超え、「Ditto」「OMG」に続くグループ3曲目のRIAJプラチナに認定された。",
-      "en": "'Hype Boy' was certified platinum by the RIAJ for over 100 million streams in Japan, the group's third RIAJ platinum after 'Ditto' and 'OMG'."
-    },
-    "detail": {
-      "ja": "「Hype Boy」が1億回再生超のプラチナに認定された。日本レコード協会（RIAJ）の2023年8月度ストリーミング認定によるもので、「Ditto」「OMG」に続くグループ3曲目のRIAJプラチナ。",
-      "en": "'Hype Boy' was certified platinum for surpassing 100 million streams in Japan in the RIAJ's streaming certifications for August 2023. It was the group's third RIAJ platinum, after 'Ditto' and 'OMG'."
-    },
-    "source_url": "https://www.soompi.com/article/1616668wpp/le-sserafim-newjeans-stray-kids-bts-seventeen-and-izone-earn-platinum-and-gold-certifications-for-streaming-in-japan",
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "certification",
-      "japan",
-      "streaming"
-    ],
-    "verified": false,
-    "reference_urls": [
-      "https://www.riaj.or.jp/f/data/cert/"
-    ],
-    "editor_note": "RIAJ monthly streaming certification archive unreachable. Unverified."
-  },
-  {
     "id": "record-2023-09-29-debut-ep-spotify-1-billion",
     "date": "2023-09-29",
     "date_type": "announce",
@@ -4234,6 +4281,45 @@
       "https://www.tenasia.com/amp/2023092966854"
     ],
     "editor_note": "TenAsia 2023-09-29報道に基づく。達成日の時刻は未確認 / TenAsia 2023-09-29報道に基づく。達成日の時刻は未確認。「ガールズグループ初」の記述も同報道による。 / Korea Herald 2023-09-29: NewJeans hit 1 billion Spotify streams with its namesake debut album, ADOR said Friday (Sep 29)."
+  },
+  {
+    "id": "record-2023-10-01-riaj-super-shy-gold",
+    "date": "2023-10-01",
+    "date_type": "announce",
+    "date_precision": "month",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「Super Shy」ゴールド（5,000万回）",
+      "en": "RIAJ streaming certification: Super Shy certified gold"
+    },
+    "summary": {
+      "ja": "「Super Shy」が日本で5,000万回再生を超え、日本レコード協会のゴールドに認定された。",
+      "en": "'Super Shy' was certified gold by the RIAJ for over 50 million streams in Japan."
+    },
+    "detail": {
+      "ja": "「Super Shy」が5,000万回再生超のゴールドに認定された。日本レコード協会（RIAJ）の2023年9月度ストリーミング認定で、Jungkook「Seven」（クリーン版）、LE SSERAFIM「Eve, Psyche & The Bluebeard's wife」と同時の認定。",
+      "en": "'Super Shy' was certified gold for surpassing 50 million streams in Japan in the RIAJ's streaming certifications for September 2023. Jungkook's 'Seven' (clean version) and LE SSERAFIM's 'Eve, Psyche & The Bluebeard's wife' were certified at the same time."
+    },
+    "source_url": "https://www.riaj.or.jp/data/st/search/",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "japan",
+      "streaming"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "https://www.riaj.or.jp/f/data/api/StProducts/index.json?n_artist=NewJeans",
+      "https://www.riaj.or.jp/data/st/",
+      "https://www.soompi.com/article/1622641wpp/blackpink-btss-jungkook-newjeans-le-sserafim-and-seventeen-earn-platinum-and-gold-certifications-for-streaming-in-japan"
+    ],
+    "editor_note": "RIAJ monthly streaming certification archive unreachable. Unverified. / 2026-10-24 nightly: RIAJ streaming certification API (https://www.riaj.or.jp/f/data/api/StProducts/index.json?n_artist=NewJeans) fetched 2026-10-24: Super Shy ゴールド (LE SSERAFIM Eve, Psyche & The Bluebeard's wife ゴールド same month, JUNG KOOK Seven[Clean] ゴールド same month), year_month 2023-09. Dated to the announcement month (month precision) like the other RIAJ records; former day date 2023-10-28 was a secondary report date."
   },
   {
     "id": "record-2023-10-04-mtv-ema-2023-best-group-nomination",
@@ -4846,41 +4932,42 @@
     ]
   },
   {
-    "id": "record-2023-10-28-riaj-super-shy-gold",
-    "date": "2023-10-28",
     "date_type": "announce",
-    "date_precision": "day",
     "category": "record",
     "entity": "newjeans",
     "members": [
       "all"
     ],
-    "title": {
-      "ja": "日本レコード協会ストリーミング認定：「Super Shy」ゴールド（5,000万回）",
-      "en": "RIAJ streaming certification: Super Shy certified gold"
-    },
-    "summary": {
-      "ja": "「Super Shy」が日本で5,000万回再生を超え、日本レコード協会のゴールドに認定された。",
-      "en": "'Super Shy' was certified gold by the RIAJ for over 50 million streams in Japan."
-    },
-    "detail": {
-      "ja": "「Super Shy」が5,000万回再生超のゴールドに認定された。日本レコード協会（RIAJ）の2023年9月度ストリーミング認定で、Jungkook「Seven」（クリーン版）、LE SSERAFIM「Eve, Psyche & The Bluebeard's wife」と同時の認定。",
-      "en": "'Super Shy' was certified gold for surpassing 50 million streams in Japan in the RIAJ's streaming certifications for September 2023. Jungkook's 'Seven' (clean version) and LE SSERAFIM's 'Eve, Psyche & The Bluebeard's wife' were certified at the same time."
-    },
-    "source_url": "https://www.soompi.com/article/1622641wpp/blackpink-btss-jungkook-newjeans-le-sserafim-and-seventeen-earn-platinum-and-gold-certifications-for-streaming-in-japan",
     "media": {
       "type": "none"
     },
+    "verified": true,
+    "id": "record-2023-11-01-riaj-eta-gold",
+    "date": "2023-11-01",
+    "date_precision": "month",
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「ETA」ゴールド",
+      "en": "RIAJ streaming certification: ETA certified gold"
+    },
+    "summary": {
+      "ja": "日本レコード協会の2023年10月度ストリーミング認定で、「ETA」が5,000万回超のゴールドとなった。",
+      "en": "'ETA' was certified gold for over 50 million streams in Japan in the RIAJ's streaming certifications for October 2023."
+    },
+    "detail": {
+      "ja": "2023年7月21日発売の2nd EP『Get Up』収録の「ETA」が、日本レコード協会（RIAJ）の2023年10月度ストリーミング認定で、累計5,000万回超のゴールドを獲得した。",
+      "en": "'ETA', from the second EP Get Up released on July 21, 2023, received gold certification for over 50 million streams in Japan in the Recording Industry Association of Japan's streaming certifications for October 2023."
+    },
+    "source_url": "https://www.riaj.or.jp/data/st/search/",
+    "reference_urls": [
+      "https://www.riaj.or.jp/f/data/api/StProducts/index.json?n_artist=NewJeans",
+      "https://www.riaj.or.jp/data/st/"
+    ],
     "tags": [
       "certification",
       "japan",
       "streaming"
     ],
-    "verified": false,
-    "reference_urls": [
-      "https://www.riaj.or.jp/f/data/cert/"
-    ],
-    "editor_note": "RIAJ monthly streaming certification archive unreachable. Unverified."
+    "editor_note": "RIAJ streaming certification API, fetched 2026-10-24: ETA ゴールド, year_month 2023-10 (start_date 2023-07-21). Dated to the announcement month 2023-11 (month precision). Added from awards_records ledger (review queue 2026-10-17)."
   },
   {
     "id": "record-2023-11-04-get-up-billboard-200-14-weeks-top-100",
@@ -7374,6 +7461,44 @@
     "editor_note": "iHeartRadio (iHeartMedia station site) full winners list: Best New Artist (K-pop), new for 2024 - NewJeans WINNER; ceremony April 1, 2024."
   },
   {
+    "date_type": "announce",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "verified": true,
+    "id": "record-2024-04-01-riaj-ditto-double-platinum",
+    "date": "2024-04-01",
+    "date_precision": "month",
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「Ditto」ダブル・プラチナ",
+      "en": "RIAJ streaming certification: Ditto certified double platinum"
+    },
+    "summary": {
+      "ja": "日本レコード協会の2024年3月度ストリーミング認定で、「Ditto」が2億回超のダブル・プラチナとなった。",
+      "en": "'Ditto' was certified double platinum for over 200 million streams in Japan in the RIAJ's streaming certifications for March 2024."
+    },
+    "detail": {
+      "ja": "「Ditto」が日本レコード協会（RIAJ）の2024年3月度ストリーミング認定で、累計2億回超のダブル・プラチナを獲得した。グループの楽曲で初のダブル・プラチナ。「Ditto」は2023年5月度にプラチナ認定を受けていた。",
+      "en": "'Ditto' received double platinum certification for over 200 million streams in Japan in the Recording Industry Association of Japan's streaming certifications for March 2024, the group's first double platinum. It had been certified platinum in the certifications for May 2023."
+    },
+    "source_url": "https://www.riaj.or.jp/data/st/search/",
+    "reference_urls": [
+      "https://www.riaj.or.jp/f/data/api/StProducts/index.json?n_artist=NewJeans",
+      "https://www.riaj.or.jp/data/st/"
+    ],
+    "tags": [
+      "certification",
+      "japan",
+      "streaming"
+    ],
+    "editor_note": "RIAJ streaming certification API, fetched 2026-10-24: Ditto ダブル・プラチナ, year_month 2024-03 (start_date 2022-12-19); no earlier NewJeans double platinum in the data. Dated to the announcement month 2024-04 (month precision). Added from awards_records ledger (review queue 2026-10-17)."
+  },
+  {
     "id": "record-2024-04-24-forbes-korea-power-celebrity-40-2024",
     "date": "2024-04-24",
     "date_type": "event",
@@ -8164,6 +8289,45 @@
     "editor_note": "Soompi (2024-08-31 UTC): 'On August 30 local time, MTV officially announced its latest batch of nominations, including the nominees for Best Group.'"
   },
   {
+    "id": "record-2024-09-01-riaj-omg-double-platinum-attention-platinum",
+    "date": "2024-09-01",
+    "date_type": "announce",
+    "date_precision": "month",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「OMG」ダブルプラチナ、「Attention」プラチナ",
+      "en": "RIAJ streaming certification: OMG double platinum, Attention platinum"
+    },
+    "summary": {
+      "ja": "日本レコード協会の2024年8月度ストリーミング認定で、「OMG」が2億回超のダブルプラチナ、「Attention」が1億回超のプラチナとなった。",
+      "en": "In the RIAJ's streaming certifications for August 2024, 'OMG' went double platinum (over 200 million) and 'Attention' platinum (over 100 million)."
+    },
+    "detail": {
+      "ja": "日本レコード協会（RIAJ）の2024年8月度ストリーミング認定で、「OMG」が累計2億回超のダブルプラチナ、デビュー曲「Attention」が累計1億回超のプラチナを獲得した。認定は翌9月に公表された。「OMG」は2023年7月度にプラチナ認定を受けていた。",
+      "en": "In the Recording Industry Association of Japan's streaming certifications for August 2024, published in September, 'OMG' received double platinum for over 200 million streams and the debut track 'Attention' platinum for over 100 million. 'OMG' had been certified platinum in the certifications for July 2023."
+    },
+    "source_url": "https://www.riaj.or.jp/data/st/search/",
+    "reference_urls": [
+      "https://www.riaj.or.jp/f/data/api/StProducts/index.json?n_artist=NewJeans",
+      "https://www.riaj.or.jp/data/st/",
+      "https://soompi.com/article/1691593wpp/newjeans-jungkook-aespa-ive-g-dragon-le-sserafim-bts-and-treasure-earn-riaj-platinum-and-gold-certifications-in-japan"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "japan",
+      "streaming"
+    ],
+    "verified": true,
+    "editor_note": "RIAJ monthly streaming certification archive unreachable. Unverified. / 2026-10-24 nightly: RIAJ streaming certification API (https://www.riaj.or.jp/f/data/api/StProducts/index.json?n_artist=NewJeans) fetched 2026-10-24: OMG ダブル・プラチナ / Attention プラチナ, year_month 2024-08. Dated to the announcement month (month precision) like the other RIAJ records; former day date 2024-09-29 was a secondary report date."
+  },
+  {
     "id": "record-2024-09-02-spotify-5-billion-streams",
     "date": "2024-09-02",
     "date_type": "event",
@@ -8376,43 +8540,6 @@
     ],
     "verified": true,
     "editor_note": "Date (Sept 12, 2024) from a fan wiki citing Soompi; not independently verified. / Circle Chart album certification list: 2024-09-12 Supernatural grade 1M (Million). Exact match."
-  },
-  {
-    "id": "record-2024-09-29-riaj-omg-double-platinum-attention-platinum",
-    "date": "2024-09-29",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "日本レコード協会ストリーミング認定：「OMG」ダブルプラチナ、「Attention」プラチナ",
-      "en": "RIAJ streaming certification: OMG double platinum, Attention platinum"
-    },
-    "summary": {
-      "ja": "日本レコード協会の9月のストリーミング認定で、「OMG」が2億回超のダブルプラチナ、「Attention」が1億回超のプラチナとなった。",
-      "en": "In the RIAJ's September streaming certifications, 'OMG' went double platinum (over 200 million) and 'Attention' platinum (over 100 million)."
-    },
-    "detail": {
-      "ja": "日本レコード協会（RIAJ）の2024年9月のストリーミング認定で、「OMG」が累計2億回超のダブルプラチナ、デビュー曲「Attention」が累計1億回超のプラチナを獲得した。「OMG」は2023年8月にプラチナ認定を受けていた。",
-      "en": "In the Recording Industry Association of Japan's September 2024 streaming certifications, 'OMG' received double platinum for over 200 million streams and the debut track 'Attention' platinum for over 100 million. 'OMG' had been certified platinum in August 2023."
-    },
-    "source_url": "https://soompi.com/article/1691593wpp/newjeans-jungkook-aespa-ive-g-dragon-le-sserafim-bts-and-treasure-earn-riaj-platinum-and-gold-certifications-in-japan",
-    "reference_urls": [
-      "https://www.riaj.or.jp/f/data/cert/"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "certification",
-      "japan",
-      "streaming"
-    ],
-    "verified": false,
-    "editor_note": "RIAJ monthly streaming certification archive unreachable. Unverified."
   },
   {
     "id": "record-2024-10-08-mtv-ema-2024-best-k-pop-nomination",
@@ -9497,6 +9624,45 @@
     "editor_note": "Dated to the ceremony; award list announced Nov 21, 2024. Official TBS/JACOMPA page not fetched. / Official 66th JRA page lists 「Supernatural」 NewJeans under 優秀作品賞; ceremony 2024-12-30. / 2026-10-17: separated from the 2024-11-21 selection record (announcement vs ceremony)."
   },
   {
+    "id": "record-2025-01-01-riaj-supernatural-streaming-gold",
+    "date": "2025-01-01",
+    "date_type": "announce",
+    "date_precision": "month",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "日本レコード協会ストリーミング認定：「Supernatural」ゴールド",
+      "en": "RIAJ streaming certification: Supernatural certified gold"
+    },
+    "summary": {
+      "ja": "日本レコード協会の2024年12月度ストリーミング認定で、「Supernatural」が5,000万回超のゴールドとなった。",
+      "en": "'Supernatural' was certified gold for over 50 million streams in Japan in the RIAJ's streaming certifications for December 2024."
+    },
+    "detail": {
+      "ja": "日本デビューシングルの表題曲「Supernatural」が、日本レコード協会（RIAJ）の2024年12月度ストリーミング認定で、累計5,000万回超のゴールドを獲得した。認定は翌2025年1月に公表された。",
+      "en": "The Japanese debut title track 'Supernatural' received gold certification for over 50 million streams in Japan in the Recording Industry Association of Japan's streaming certifications for December 2024, published in January 2025."
+    },
+    "source_url": "https://www.riaj.or.jp/data/st/search/",
+    "reference_urls": [
+      "https://www.riaj.or.jp/f/data/api/StProducts/index.json?n_artist=NewJeans",
+      "https://www.riaj.or.jp/data/st/",
+      "https://www.soompi.com/article/1719747wpp/twice-aespa-newjeans-seventeen-and-bigbang-earn-riaj-platinum-and-gold-certifications-for-streaming-in-japan"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "certification",
+      "japan",
+      "streaming"
+    ],
+    "verified": true,
+    "editor_note": "RIAJ monthly streaming certification archive unreachable. Unverified. / 2026-10-24 nightly: RIAJ streaming certification API (https://www.riaj.or.jp/f/data/api/StProducts/index.json?n_artist=NewJeans) fetched 2026-10-24: Supernatural ゴールド (start_date 2024-06-21), year_month 2024-12. Dated to the announcement month (month precision) like the other RIAJ records; former day date 2025-02-02 was a secondary report date. Certification month is 2024-12, so the February 2025 date (Soompi report, 2025-02-02) was one month late."
+  },
+  {
     "id": "record-2025-01-04-gda-39-cosmopolitan-artist-award",
     "date": "2025-01-04",
     "date_type": "event",
@@ -9603,43 +9769,6 @@
     "reference_urls": [
       "https://respawn.outlookindia.com/pop-culture/pop-culture-news/newjeans-omg-hits-900m-streams-amid-ador-danielle-legal-rift"
     ]
-  },
-  {
-    "id": "record-2025-02-02-riaj-supernatural-streaming-gold",
-    "date": "2025-02-02",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "日本レコード協会ストリーミング認定：「Supernatural」ゴールド",
-      "en": "RIAJ streaming certification: Supernatural certified gold"
-    },
-    "summary": {
-      "ja": "日本レコード協会の2月のストリーミング認定で、「Supernatural」が5,000万回超のゴールドとなった。",
-      "en": "'Supernatural' was certified gold for over 50 million streams in the RIAJ's February streaming certifications."
-    },
-    "detail": {
-      "ja": "日本デビューシングルの表題曲「Supernatural」が、日本レコード協会（RIAJ）の2025年2月発表のストリーミング認定で、累計5,000万回超のゴールドを獲得した。",
-      "en": "The Japanese debut title track 'Supernatural' received gold certification for over 50 million streams in the Recording Industry Association of Japan's streaming certifications announced in February 2025."
-    },
-    "source_url": "https://www.soompi.com/article/1719747wpp/twice-aespa-newjeans-seventeen-and-bigbang-earn-riaj-platinum-and-gold-certifications-for-streaming-in-japan",
-    "reference_urls": [
-      "https://www.riaj.or.jp/f/data/cert/"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "certification",
-      "japan",
-      "streaming"
-    ],
-    "verified": false,
-    "editor_note": "RIAJ monthly streaming certification archive unreachable. Unverified."
   },
   {
     "id": "record-2025-02-15-hanteo-music-awards-32-artist-of-the-year-bonsang",
@@ -10460,10 +10589,10 @@
     "editor_note": "RIAJ streaming certification search API, fetched 2026-10-17: Bubble Gum ゴールド year_month 2025-09 (start_date 2024-05-24). Dated to the announcement month 2025-10 (month precision)."
   },
   {
-    "id": "record-2025-11-27-riaj-ditto-triple-platinum",
-    "date": "2025-11-27",
-    "date_type": "event",
-    "date_precision": "day",
+    "id": "record-2025-11-01-riaj-ditto-triple-platinum",
+    "date": "2025-11-01",
+    "date_type": "announce",
+    "date_precision": "month",
     "category": "record",
     "entity": "newjeans",
     "members": [
@@ -10478,12 +10607,14 @@
       "en": "'Ditto' passed 300 million streams in Japan and became the first K-pop girl group song certified triple platinum by the RIAJ."
     },
     "detail": {
-      "ja": "「Ditto」が2025年10月時点で日本での累計ストリーミング3億回を超え、日本レコード協会（RIAJ）のトリプルプラチナ認定を受けた。K-POPガールズグループの楽曲でストリーミングのトリプルプラチナは初めて。NewJeansはほかに「OMG」「Hype Boy」がダブルプラチナ、「ETA」「Super Shy」「Attention」がプラチナ認定を受けている。RIAJが11月27日に確認した。",
-      "en": "'Ditto' passed 300 million cumulative streams in Japan as of October 2025 and received triple platinum certification from the Recording Industry Association of Japan, confirmed on November 27, the first for a K-pop girl group song in the streaming category. NewJeans also held double platinum for 'OMG' and 'Hype Boy' and platinum for 'ETA', 'Super Shy' and 'Attention'."
+      "ja": "「Ditto」が日本レコード協会（RIAJ）の2025年10月度ストリーミング認定で、累計3億回超のトリプルプラチナを獲得した。K-POPガールズグループの楽曲でストリーミングのトリプルプラチナは初めて。NewJeansはほかに「OMG」「Hype Boy」がダブルプラチナ、「ETA」「Super Shy」「Attention」がプラチナ認定を受けている。認定は翌11月に公表された。",
+      "en": "'Ditto' received triple platinum certification for over 300 million streams in Japan in the Recording Industry Association of Japan's streaming certifications for October 2025, published in November, the first for a K-pop girl group song in the streaming category. NewJeans also held double platinum for 'OMG' and 'Hype Boy' and platinum for 'ETA', 'Super Shy' and 'Attention'."
     },
-    "source_url": "https://sbsstar.net/article/N1008346951/amid-turmoil-newjeans-ditto-goes-triple-platinum-in-japan",
+    "source_url": "https://www.riaj.or.jp/data/st/search/",
     "reference_urls": [
-      "https://www.riaj.or.jp/f/data/cert/"
+      "https://www.riaj.or.jp/f/data/api/StProducts/index.json?n_artist=NewJeans",
+      "https://www.riaj.or.jp/data/st/",
+      "https://sbsstar.net/article/N1008346951/amid-turmoil-newjeans-ditto-goes-triple-platinum-in-japan"
     ],
     "media": {
       "type": "none"
@@ -10493,10 +10624,10 @@
       "japan",
       "streaming"
     ],
-    "verified": false,
+    "verified": true,
     "note": "活動休止中の認定。",
     "note_en": "Certified while activities were suspended.",
-    "editor_note": "SBS article says 'on the 27th' (Nov 27, 2025 per article date); RIAJ's own list not fetched. / RIAJ monthly streaming certification archive unreachable. Unverified."
+    "editor_note": "SBS article says 'on the 27th' (Nov 27, 2025 per article date); RIAJ's own list not fetched. / RIAJ monthly streaming certification archive unreachable. Unverified. / 2026-10-24 nightly: RIAJ streaming certification API (https://www.riaj.or.jp/f/data/api/StProducts/index.json?n_artist=NewJeans) fetched 2026-10-24: Ditto トリプル・プラチナ; no K-pop girl group track at triple platinum or above in RIAJ streaming data before 2025-10; OMG/Hype Boy ダブル・プラチナ, ETA/Super Shy/Attention プラチナ as stated, year_month 2025-10. Dated to the announcement month (month precision) like the other RIAJ records; former day date 2025-11-27 was a secondary report date. SBS 'on the 27th' is a press date, not RIAJ's."
   },
   {
     "id": "record-2025-12-01-forbes-korea-k-idol-of-the-year-2025",
@@ -10644,6 +10775,42 @@
     ],
     "verified": true,
     "editor_note": "BPI Certified Awards search (certified-awards.bpi.co.uk), fetched 2026-10-17: NEWJEANS 2ND EP 'GET UP', Silver, Album, label Polydor, certified 13.02.2026. Same date: SUPER SHY Silver (single, ADOR) — not in the ledger and not in existing records."
+  },
+  {
+    "date_type": "announce",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "verified": true,
+    "id": "record-2026-02-13-bpi-super-shy-silver",
+    "date": "2026-02-13",
+    "date_precision": "day",
+    "title": {
+      "ja": "BPI認定：「Super Shy」シルバー（英国）",
+      "en": "BPI certification: Super Shy certified Silver in the UK"
+    },
+    "summary": {
+      "ja": "英国レコード産業協会（BPI）が「Super Shy」を英国でのシングル・シルバー（20万ユニット）に認定した。",
+      "en": "The BPI certified 'Super Shy' Silver (200,000 units) as a single in the United Kingdom."
+    },
+    "detail": {
+      "ja": "2023年7月7日発表の「Super Shy」が、英国レコード産業協会（BPI）から2026年2月13日付でシングルのシルバー認定（20万ユニット）を受けた。同じ日に2nd EP『Get Up』もアルバムのシルバー認定を受けた。",
+      "en": "'Super Shy', released on July 7, 2023, was certified Silver (200,000 units) as a single by the British Phonographic Industry on February 13, 2026. The second EP Get Up was certified Silver as an album on the same date."
+    },
+    "source_url": "https://certified-awards.bpi.co.uk/?search=NewJeans",
+    "reference_urls": [
+      "https://certified-awards.bpi.co.uk/?search=NewJeans"
+    ],
+    "tags": [
+      "certification",
+      "uk"
+    ],
+    "editor_note": "BPI Certified Awards search (htmx results), fetched 2026-10-24: NEWJEANS SUPER SHY, Silver, Single, label ADOR, latest certification 13.02.2026, released 07.07.2023. Added from awards_records ledger (review queue 2026-10-17)."
   },
   {
     "id": "record-2026-02-20-new-jeans-song-spotify-500m",
