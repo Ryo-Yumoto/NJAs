@@ -2340,14 +2340,12 @@
       "malaysia"
     ],
     "verified": false,
-    "editor_note": "TheSmartLocal Malaysia (2023-09-06); McDonald's Malaysia primary post not fetched. Matching campaign record: ad-2023-06-01-mcdonalds-newjeans-collab-launch. Market dates follow McDonald's 'Fly to the McDonald's Chicken World' schedule visual (reproduced by SNKRDUNK 2023-05-26). / 2026-10-24 nightly: mcdonalds.com.myは403で取得不可、McDonald's Malaysia公式SNSの該当投稿もWeb検索で見つからず。TheSmartLocal・SAYS・Marketing-Interactiveは9月7日開始とメニュー価格で一致するが二次資料。なおブキッ・ビンタン店のオングラウンドイベントは9月15〜17日と報じられており、記録日時点の記述として扱うか要確認。 / 2026-10-24 nightly (review queue): removed the Bukit Bintang outlet makeover from the detail (the on-ground event there was reported for 09-15 to 09-17, after the record date). local_assets/02.jpg ('NewJeans-themed Bukit Bintang outlet') still shows that later outlet; consider removing it.",
+    "editor_note": "TheSmartLocal Malaysia (2023-09-06); McDonald's Malaysia primary post not fetched. Matching campaign record: ad-2023-06-01-mcdonalds-newjeans-collab-launch. Market dates follow McDonald's 'Fly to the McDonald's Chicken World' schedule visual (reproduced by SNKRDUNK 2023-05-26). / 2026-10-24 nightly: mcdonalds.com.myは403で取得不可、McDonald's Malaysia公式SNSの該当投稿もWeb検索で見つからず。TheSmartLocal・SAYS・Marketing-Interactiveは9月7日開始とメニュー価格で一致するが二次資料。なおブキッ・ビンタン店のオングラウンドイベントは9月15〜17日と報じられており、記録日時点の記述として扱うか要確認。 / 2026-10-24 nightly (review queue): removed the Bukit Bintang outlet makeover from the detail (the on-ground event there was reported for 09-15 to 09-17, after the record date). local_assets/02.jpg ('NewJeans-themed Bukit Bintang outlet') still shows that later outlet; consider removing it. / 2026-10-24: removed gallery image 02 (Bukit Bintang outlet, opened 09-15, after the record date).",
     "local_assets": [
-      "goods/goods-2023-09-07-mcdonalds-malaysia-newjeans-chicken-dance/01.jpg",
-      "goods/goods-2023-09-07-mcdonalds-malaysia-newjeans-chicken-dance/02.jpg"
+      "goods/goods-2023-09-07-mcdonalds-malaysia-newjeans-chicken-dance/01.jpg"
     ],
     "asset_titles": [
-      "Spicy Crispy Chicken Burger, Seaweed McShaker Fries and Spicy Crispy Chicken Wrap in NewJeans packaging",
-      "NewJeans-themed Bukit Bintang outlet"
+      "Spicy Crispy Chicken Burger, Seaweed McShaker Fries and Spicy Crispy Chicken Wrap in NewJeans packaging"
     ]
   },
   {

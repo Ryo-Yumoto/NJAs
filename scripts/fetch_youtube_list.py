@@ -59,13 +59,18 @@ def list_videos(s, channel):
     return out
 
 def watch_info(s, vid):
-    r = s.get(f"https://www.youtube.com/watch?v={vid}", timeout=40)
-    m = re.search(r'"publishDate":"(\d{4}-\d{2}-\d{2})', r.text)
+    """Exact publish date in KST via the next endpoint (watch pages may be blocked); length if available."""
+    from datetime import datetime
+    body = {"context": {"client": {**CTX["context"]["client"], "timeZone": "Asia/Seoul", "utcOffsetMinutes": 540}}, "videoId": vid}
+    r = s.post("https://www.youtube.com/youtubei/v1/next?prettyPrint=false", json=body, timeout=40)
+    m = re.search(r'"dateText":\{"simpleText":"([A-Z][a-z]{2} \d{1,2}, \d{4})"', r.text)
     d = re.search(r'"lengthSeconds":"(\d+)"', r.text)
-    return (m.group(1) if m else None), (int(d.group(1)) if d else None)
+    pub = datetime.strptime(m.group(1), "%b %d, %Y").strftime("%Y-%m-%d") if m else None
+    return pub, (int(d.group(1)) if d else None)
 
 def main():
     ap = argparse.ArgumentParser(); ap.add_argument("--channel", default=CHANNEL); ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--refresh-dates", action="store_true", help="re-read the exact KST publish date of every ledger item")
     a = ap.parse_args()
     L = json.loads(LEDGER.read_text())
     have = {i["key"]: i for i in L["items"]}
@@ -80,6 +85,14 @@ def main():
         print(f"+ {item['date']} {vid} {vids[vid][:70]}")
         L["items"].append(item)
         time.sleep(0.5)
+    if a.refresh_dates:
+        changed = 0
+        for n, it in enumerate(L["items"], 1):
+            pub, _ = watch_info(s, it["key"])
+            if pub and pub != it.get("date"): it["date"] = pub; changed += 1
+            if n % 50 == 0: print(f"  dates checked {n}/{len(L['items'])}, changed {changed}", flush=True)
+            time.sleep(0.3)
+        print(f"dates refreshed: {changed} changed")
     gone = [k for k in have if k not in vids]
     if gone: print(f"in ledger but no longer listed ({len(gone)}): {gone[:10]} (kept; mark exclude manually if removed)")
     L["items"].sort(key=lambda i: (i.get("date") or "", i["key"]))
