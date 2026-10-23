@@ -1,5 +1,52 @@
 [
   {
+    "id": "sns-2022-07-01-ador-instagram-22-7-22-number-teasers",
+    "date": "2022-07-01",
+    "time": "08:30",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "predebut",
+    "platform": "instagram",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ADOR公式Instagram「22」「7」「22」数字アニメーション投稿",
+      "en": "ADOR Instagram '22', '7', '22' number animation posts"
+    },
+    "summary": {
+      "ja": "ADORが公式Instagramに「22」「7」「22」の立体数字のアニメーション3本を続けて投稿し、新人ガールズグループの始動を予告した。",
+      "en": "ADOR posted three animated clips of the 3D numbers '22', '7' and '22' on Instagram in a row, teasing the start of its new girl group."
+    },
+    "detail": {
+      "ja": "ADORの公式Instagram（@alldoorsoneroom）が8時30分から8時31分（KST）にかけて、暗い背景に浮かぶ金属質の立体数字「22」「7」「22」のアニメーションを1本ずつ投稿した。3本とも本文は韓国語と英語で「長くお待たせしましたか？」の一文だけで、グループ名やメンバーは明かされなかった。プロフィールの一覧では3本が並んで「22 7 22」と読める。続く8時32分には、ローラースケートのウサギの映像とともに、新人ガールズグループの初コンテンツを7月22日に公開すると告知した。",
+      "en": "ADOR's official Instagram account (@alldoorsoneroom) posted three animations between 08:30 and 08:31 KST, each showing a metallic 3D number against a dark background: '22', '7' and '22'. Each carried only the line 'Did you wait for a long time?' in Korean and English, without naming the group or its members, and side by side on the profile grid they read '22 7 22'. At 08:32 the account followed with a clip of roller-skating rabbits announcing that the new girl group's first content would arrive on July 22."
+    },
+    "credits": {
+      "account": "@alldoorsoneroom (ADOR)",
+      "label": "ADOR"
+    },
+    "source_url": "https://www.instagram.com/p/Cfcqp28D8vT/",
+    "reference_urls": [
+      "https://www.instagram.com/p/Cfcqp28D8vT/",
+      "https://www.instagram.com/p/Cfcqxsojw8f/",
+      "https://www.instagram.com/p/CfcqzyDjRvX/",
+      "https://www.instagram.com/p/Cfcq9xoDguR/",
+      "https://en.wikipedia.org/wiki/NewJeans"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "@alldoorsoneroom",
+      "debut",
+      "teaser"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-24 nightly (queue): Instagram oembedで@alldoorsoneroomの3投稿を確認。Cfcqp28D8vT（media_id=2022-07-01 08:30:08 KST、数字「22」）、Cfcqxsojw8f（08:31:13、「7」）、CfcqzyDjRvX（08:31:30、「22」）、本文はいずれも「오래 기다리셨나요?🐰 / Did you wait for a long time?🐰」（絵文字は本文から省略）。数字はサムネイル画像で確認。続くCfcq9xoDguR（08:32:52）はウサギの映像で、本文「22년 7월 22일, 드디어 어도어 신인 걸그룹의 첫 콘텐츠가 공개됩니다」。公式Xの同種投稿は未特定。関連：sns-2022-07-01-debut-teaser-roller-skating-rabbits（X、08:48）、ad-2022-07-01-ador-girl-group-gangnam-billboard-teaser。"
+  },
+  {
     "id": "sns-2022-07-01-debut-teaser-roller-skating-rabbits",
     "date": "2022-07-01",
     "date_type": "post",
@@ -1562,12 +1609,12 @@
       "en": "Instagram post announcing the 2nd EP \"Get Up\""
     },
     "summary": {
-      "ja": "7月のカムバックと2nd EP『Get Up』の6曲構成を告知した公式Instagram投稿。",
-      "en": "Official Instagram post announcing the July comeback and the six-track structure of the 2nd EP Get Up."
+      "ja": "2nd EP『Get Up』のカムバックと7月7日の先行公開、7月21日の発売、予約販売開始を告げた公式Instagram投稿。",
+      "en": "Official Instagram post announcing the 2nd EP Get Up, with a July 7 pre-release, a July 21 release and the start of pre-orders."
     },
     "detail": {
-      "ja": "2nd EP『Get Up』のカムバックを告げた公式Instagram投稿。この日、収録曲の構成が公開され、7月7日先行公開のプロローグ「New Jeans」、トリプルタイトル曲「Super Shy」「ETA」「Cool With You」、インタールード「Get Up」、エピローグ「ASAP」の6曲と示された。公式Xでも同時刻に「Coming Soon」の告知が行われた。",
-      "en": "The official Instagram post announcing the 2nd EP Get Up. The EP's six-track structure was revealed that day: the prologue 'New Jeans', pre-released July 7, the triple title tracks 'Super Shy', 'ETA' and 'Cool With You', the interlude 'Get Up' and the epilogue 'ASAP'. The official X account posted its 'Coming Soon' notice at the same time."
+      "ja": "「Coming Soon!」と題して2nd EP『Get Up』を告知した公式Instagram投稿で、7月7日の先行公開、7月21日のEP発売、同日11時（KST）からの予約販売開始を記した。この日、EPは6曲構成で、プロローグ「New Jeans」、トリプルタイトル曲「Super Shy」「ETA」「Cool With You」、インタールード「Get Up」、エピローグ「ASAP」が収録されることも明らかになった。",
+      "en": "An official Instagram post headed 'Coming Soon!' announcing the 2nd EP Get Up, listing a pre-release on July 7, the EP release on July 21 and pre-orders opening at 11:00 KST that day. The same day it was revealed that the EP has six tracks: the prologue 'New Jeans', the triple title tracks 'Super Shy', 'ETA' and 'Cool With You', the interlude 'Get Up' and the epilogue 'ASAP'."
     },
     "credits": {
       "account": "@newjeans_official",
@@ -1575,6 +1622,7 @@
     },
     "source_url": "https://www.instagram.com/p/Ctp34EnS20f/",
     "reference_urls": [
+      "https://www.instagram.com/p/Ctp34EnS20f/",
       "https://www.vogue.co.kr/2023/06/19/7%ec%9b%94-%eb%89%b4%ec%a7%84%ec%8a%a4%ea%b0%80-%eb%8f%8c%ec%95%84%ec%98%a8%eb%8b%a4/",
       "https://www.marieclairekorea.com/celebrity/2023/06/newjeans-comback/"
     ],
@@ -1587,8 +1635,8 @@
       "comeback",
       "announce"
     ],
-    "verified": false,
-    "editor_note": "Instagram page not fetchable; shortcode Ctp34EnS20f found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-06-19 10:55:19 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode Ctp34EnS20f embedded in Vogue Korea's same-day article, which reported the track-list reveal; time derived from the shortcode (= 2023-06-19 10:55:19 KST). Caption not retrieved; the post's own content is described from the article context."
+    "verified": true,
+    "editor_note": "Instagram page not fetchable; shortcode Ctp34EnS20f found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-06-19 10:55:19 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode Ctp34EnS20f embedded in Vogue Korea's same-day article, which reported the track-list reveal; time derived from the shortcode (= 2023-06-19 10:55:19 KST). Caption not retrieved; the post's own content is described from the article context. / 2026-10-24 nightly: Instagram oembedで@newjeans_officialの投稿本文（Coming Soon! / 2023.7.7. Pre-Release / 2023.7.21. 2nd EP 'Get Up' Release / Pre-Order 2023.6.19. 11AM KST）とmedia_id（=2023-06-19 10:55:19 KST）を確認。6曲構成はVogue Korea同日記事による。公式Xの同時刻告知は確認できず本文から外した。"
   },
   {
     "id": "sns-2023-06-26-eta-teaser-post",
@@ -1653,8 +1701,8 @@
       "en": "Official Instagram post for the 'ASAP' teaser, in which the members, now blonde, search a dark forest for someone."
     },
     "detail": {
-      "ja": "2nd EP『Get Up』収録曲「ASAP」のティーザー公開に合わせた公式Instagram投稿。ティーザーは金髪に変身したメンバーが暗い森で誰かを探す映像で、同日に公式YouTubeでも公開された。",
-      "en": "An official Instagram post timed with the teaser for 'ASAP', a track on the 2nd EP Get Up. In the teaser the members, now blonde, search for someone in a dark forest; it also went up on the official YouTube channel the same day."
+      "ja": "「NewJeans 'ASAP' Teaser」の一文を添え、2nd EP『Get Up』収録曲「ASAP」のティーザー映像を載せた公式Instagram投稿。映像では金髪のメンバー5人が草原に敷いた布の上に寝そべる場面が映る。ティーザーは同日にHYBE LABELSのYouTubeでも公開された。",
+      "en": "An official Instagram post captioned 'NewJeans 'ASAP' Teaser', carrying the teaser for 'ASAP' from the 2nd EP Get Up. The footage shows the five members, now blonde, lying on a cloth spread over a meadow. The teaser also went up on the HYBE LABELS YouTube channel the same day."
     },
     "credits": {
       "account": "@newjeans_official",
@@ -1662,6 +1710,8 @@
     },
     "source_url": "https://www.instagram.com/p/Ct9TWNryz_O/",
     "reference_urls": [
+      "https://www.instagram.com/p/Ct9TWNryz_O/",
+      "https://www.youtube.com/watch?v=CgNVotVutx0",
       "https://www.marieclairekorea.com/celebrity/2023/06/newjeans-comback/"
     ],
     "media": {
@@ -1673,8 +1723,8 @@
       "ASAP",
       "teaser"
     ],
-    "verified": false,
-    "editor_note": "Instagram page not fetchable; shortcode Ct9TWNryz_O found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-06-27 00:00:56 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode Ct9TWNryz_O embedded in Marie Claire Korea's 2023-06-29 article, which describes the teaser; time derived from the shortcode (= 2023-06-27 00:00:56 KST). Caption not retrieved; content described from the article context."
+    "verified": true,
+    "editor_note": "Instagram page not fetchable; shortcode Ct9TWNryz_O found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-06-27 00:00:56 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode Ct9TWNryz_O embedded in Marie Claire Korea's 2023-06-29 article, which describes the teaser; time derived from the shortcode (= 2023-06-27 00:00:56 KST). Caption not retrieved; content described from the article context. / 2026-10-24 nightly: Instagram oembedで本文「NewJeans 'ASAP' Teaser」と投稿時刻（media_id=2023-06-27 00:00:56 KST）、サムネイル画像（金髪の5人が草原に寝そべる）を確認。HYBE LABELSの「ASAP」Teaser（CgNVotVutx0）は2023-06-27（KST）。「暗い森で誰かを探す」は確認できず本文から外した。"
   },
   {
     "id": "sns-2023-06-28-get-up-2nd-ep-photo-post",
@@ -1740,8 +1790,8 @@
       "en": "Official Get Up album photos of the members as ballerinas in chiffon and pointe shoes, posted on the official Instagram."
     },
     "detail": {
-      "ja": "シフォン素材の衣装とトウシューズでバレリーナに扮した、2nd EP『Get Up』のアルバム公式写真の投稿。同時刻に2本目の投稿と、公式Xの「2nd EP Photo」投稿も行われた。",
-      "en": "Official album photos for the 2nd EP Get Up, with the members dressed as ballerinas in chiffon and pointe shoes. A second post and the official X '2nd EP Photo' post went up in the same minute."
+      "ja": "「2nd EP Photo」の一文を添えた、2nd EP『Get Up』のアルバム公式写真の公式Instagram投稿。リボンを結んだ髪に白いシフォン素材の衣装をまとったメンバーの写真が載る。26秒後に2本目の「2nd EP Photo」投稿が続いた。",
+      "en": "Official Instagram post of album photos for the 2nd EP Get Up, captioned '2nd EP Photo'. The images show the members in white chiffon with ribbons in their hair. A second '2nd EP Photo' post followed 26 seconds later."
     },
     "credits": {
       "account": "@newjeans_official",
@@ -1749,6 +1799,8 @@
     },
     "source_url": "https://www.instagram.com/p/Ct_4ENurW2C/",
     "reference_urls": [
+      "https://www.instagram.com/p/Ct_4ENurW2C/",
+      "https://www.instagram.com/p/Ct_4HV_L5EL/",
       "https://www.marieclairekorea.com/celebrity/2023/06/newjeans-comback/"
     ],
     "media": {
@@ -1759,8 +1811,8 @@
       "GetUp",
       "concept-photo"
     ],
-    "verified": false,
-    "editor_note": "Instagram page not fetchable; shortcode Ct_4ENurW2C found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-06-28 00:00:16 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode Ct_4ENurW2C embedded in Marie Claire Korea's 2023-06-29 article, source of the photo description; time derived from the shortcode (= 00:00:16 KST). Caption not retrieved. Sibling post Ct_4HV_L5EL."
+    "verified": true,
+    "editor_note": "Instagram page not fetchable; shortcode Ct_4ENurW2C found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-06-28 00:00:16 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode Ct_4ENurW2C embedded in Marie Claire Korea's 2023-06-29 article, source of the photo description; time derived from the shortcode (= 00:00:16 KST). Caption not retrieved. Sibling post Ct_4HV_L5EL. / 2026-10-24 nightly: Instagram oembedで本文「2nd EP Photo」、投稿時刻（media_id=2023-06-28 00:00:16 KST）、サムネイル（白いシフォン・リボン）を確認。2本目（Ct_4HV_L5EL）は00:00:42。公式Xの同時刻投稿は確認できず本文から外した。トウシューズは画像で確認できず外した。"
   },
   {
     "id": "sns-2023-06-28-instagram-get-up-2nd-ep-photo-2",
@@ -1783,8 +1835,8 @@
       "en": "The second official Instagram post of the Get Up album photos, posted in the same minute as the first."
     },
     "detail": {
-      "ja": "2nd EP『Get Up』アルバム公式写真の公式Instagram投稿の2本目。同時刻に1本目の投稿と、公式Xの「2nd EP Photo」投稿が行われた。",
-      "en": "The second official Instagram post of album photos for the 2nd EP Get Up. The first post and the official X '2nd EP Photo' post went up in the same minute."
+      "ja": "「2nd EP Photo」の一文を添えた、2nd EP『Get Up』アルバム公式写真の公式Instagram投稿の2本目で、1本目の26秒後に投稿された。大きな緑の葉を前にしたメンバーのクローズアップ写真が載る。",
+      "en": "The second official Instagram post of album photos for the 2nd EP Get Up, captioned '2nd EP Photo' and posted 26 seconds after the first. It shows a close-up of a member behind a large green leaf."
     },
     "credits": {
       "account": "@newjeans_official",
@@ -1792,6 +1844,8 @@
     },
     "source_url": "https://www.instagram.com/p/Ct_4HV_L5EL/",
     "reference_urls": [
+      "https://www.instagram.com/p/Ct_4HV_L5EL/",
+      "https://www.instagram.com/p/Ct_4ENurW2C/",
       "https://www.marieclairekorea.com/celebrity/2023/06/newjeans-comback/"
     ],
     "media": {
@@ -1802,8 +1856,8 @@
       "GetUp",
       "concept-photo"
     ],
-    "verified": false,
-    "editor_note": "Instagram page not fetchable; shortcode Ct_4HV_L5EL found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-06-28 00:00:42 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode Ct_4HV_L5EL embedded in Marie Claire Korea's 2023-06-29 article next to its note that all six 'Get Up' tracks would get music videos (that announcement is not dated in the record, so it is kept out of reader text); time derived from the shortcode (= 00:00:42 KST). Caption not retrieved; pairing with Ct_4ENurW2C inferred."
+    "verified": true,
+    "editor_note": "Instagram page not fetchable; shortcode Ct_4HV_L5EL found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-06-28 00:00:42 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode Ct_4HV_L5EL embedded in Marie Claire Korea's 2023-06-29 article next to its note that all six 'Get Up' tracks would get music videos (that announcement is not dated in the record, so it is kept out of reader text); time derived from the shortcode (= 00:00:42 KST). Caption not retrieved; pairing with Ct_4ENurW2C inferred. / 2026-10-24 nightly: Instagram oembedで本文「2nd EP Photo」、投稿時刻（media_id=2023-06-28 00:00:42 KST）、サムネイル（緑の葉越しのクローズアップ）を確認。公式Xの同時刻投稿は確認できず本文から外した。"
   },
   {
     "id": "sns-2023-06-28-instagram-get-up-era-post-0628",
@@ -1826,8 +1880,8 @@
       "en": "An official Instagram post from the evening of the album-photo reveal day, during the Get Up promotion."
     },
     "detail": {
-      "ja": "2nd EP『Get Up』プロモーション期間中の公式Instagram投稿。同日0時のアルバム公式写真2本に続く、6月28日夜の投稿。",
-      "en": "An official Instagram post made during the promotion of the 2nd EP Get Up, following the two album-photo posts at midnight on June 28."
+      "ja": "2nd EP『Get Up』プロモーション期間中の公式Instagram投稿で、本文はビーチの絵文字「🏖」とハッシュタグのみ。芝生に寝そべったメンバーが、穴あきのデザインに飾りの付いた白いバッグを手にする写真が載る。同日0時のアルバム公式写真2本に続く投稿。",
+      "en": "An official Instagram post during the promotion of the 2nd EP Get Up, captioned only with a beach emoji and hashtags. It shows a member lying on the grass holding a white cut-out bag decorated with charms. It followed the two album-photo posts at midnight that day."
     },
     "credits": {
       "account": "@newjeans_official",
@@ -1835,6 +1889,7 @@
     },
     "source_url": "https://www.instagram.com/p/CuCIRW0LFCs/",
     "reference_urls": [
+      "https://www.instagram.com/p/CuCIRW0LFCs/",
       "https://www.marieclairekorea.com/celebrity/2023/06/newjeans-comback/"
     ],
     "media": {
@@ -1845,8 +1900,8 @@
       "GetUp",
       "promotion"
     ],
-    "verified": false,
-    "editor_note": "Instagram page not fetchable; shortcode CuCIRW0LFCs found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-06-28 21:00:21 KST. Post caption not retrieved; content described from the article context. | removed from reader text: [detail.ja] 投稿の本文・画像は未確認。 [detail.en] Caption and images not confirmed. / Instagram page not fetchable; shortcode CuCIRW0LFCs embedded at the top of Marie Claire Korea's 2023-06-29 comeback article; time derived from the shortcode (= 21:00:21 KST). Caption and images not retrieved; nothing beyond timing is known about its content."
+    "verified": true,
+    "editor_note": "Instagram page not fetchable; shortcode CuCIRW0LFCs found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-06-28 21:00:21 KST. Post caption not retrieved; content described from the article context. | removed from reader text: [detail.ja] 投稿の本文・画像は未確認。 [detail.en] Caption and images not confirmed. / Instagram page not fetchable; shortcode CuCIRW0LFCs embedded at the top of Marie Claire Korea's 2023-06-29 comeback article; time derived from the shortcode (= 21:00:21 KST). Caption and images not retrieved; nothing beyond timing is known about its content. / 2026-10-24 nightly: Instagram oembedで本文「🏖 #NewJeans #뉴진스 #NewJeans_GetUp #Time_to_NewJeans」、投稿時刻（media_id=2023-06-28 21:00:21 KST）、サムネイル（白いバッグを持つメンバー）を確認。同じ投稿をsns-2023-06-29-get-up-bunny-beach-bag-packagingも扱っており重複の可能性（要判断）。"
   },
   {
     "id": "sns-2023-06-29-get-up-bunny-beach-bag-packaging",
@@ -1878,7 +1933,7 @@
       "goods"
     ],
     "verified": false,
-    "editor_note": "Soompi update dated Jun 29 KST; likely Instagram post CuCIRW0LFCs (2023-06-28 21:00 KST by shortcode). Status URL not recovered. | Instagram caption verified via WebFetch (post date 2023-06-28). The input's date 06-29 follows Soompi's KST update; the IG shortcode time is 2023-06-28 21:00 KST. / Cut from reader text: Instagram post id p/CuCIRW0LFCs and the note that the X status was not recovered (provenance).",
+    "editor_note": "Soompi update dated Jun 29 KST; likely Instagram post CuCIRW0LFCs (2023-06-28 21:00 KST by shortcode). Status URL not recovered. | Instagram caption verified via WebFetch (post date 2023-06-28). The input's date 06-29 follows Soompi's KST update; the IG shortcode time is 2023-06-28 21:00 KST. / Cut from reader text: Instagram post id p/CuCIRW0LFCs and the note that the X status was not recovered (provenance). / 2026-10-24 nightly: 本文が根拠とするInstagram投稿はCuCIRW0LFCs（2023-06-28 21:00:21 KST、本文「🏖」、白いバッグの写真）で、sns-2023-06-28-instagram-get-up-era-post-0628と同一投稿。日付6月29日は報道日。source_urlはアカウントのトップ（https://x.com/NewJeans_ADOR）で個別投稿が特定できない。重複として統合・削除するか、Weverse Shopのパッケージ案内として別立てにするか要判断のため未確認のまま。",
     "detail": {
       "ja": "2nd EP『Get Up』Bunny Beach Bag ver.のパッケージを先行公開した投稿。公式Instagram（6月28日）にビーチの絵文字だけを添えた画像1点が投稿され、翌29日にはパッケージのスニークピークとして報じられた。Weverse Shopの案内によれば、この形態はアウトボックス6種、ピンク・ホワイト・ブルーのバッグ3種、インナーボックス、フォトブック、ポストカード、ブックマーク、ステッカー、フォトカード5枚、CD-Rで構成される。",
       "en": "A sneak peek of the Bunny Beach Bag ver. packaging for the 2nd EP Get Up. The official Instagram post of June 28 carried one image with only a beach emoji, and was picked up the next day as a sneak peek of the album packaging. Per the Weverse Shop notice the format comprises six outbox versions, a bag in pink, white or blue, an inner box, photobook, postcards, bookmark, stickers, five photocards and a CD-R."

@@ -143,21 +143,22 @@
       "ja": "檀国大学校竹田キャンパスの大学祭『2022 DANFESTA』初日に出演。デビュー後初の大学祭ステージだった。",
       "en": "Day-one appearance at Dankook University's Jukjeon campus festival 2022 DANFESTA, the group's first university festival stage since debut."
     },
-    "source_url": "https://www.segye.com/newsView/20220526519042",
+    "source_url": "https://www.insight.co.kr/news/411747",
     "verified": false,
     "media": {
       "type": "none"
     },
     "reference_urls": [
-      "https://www.segye.com/newsView/20220526519042"
+      "https://www.insight.co.kr/news/411747",
+      "https://www.instagram.com/reel/CifcooRpR3U/"
     ],
     "tags": [
       "university-festival"
     ],
-    "editor_note": "Lineup announced by the university (Sept 15, 2022); actual stage not separately confirmed from an official ADOR source. | Lineup per Insight (Sept 15, 2022); no post-event report found. / 2026-10-23 nightly: 大学発表のラインアップはInsight（9月15日）経由のみで、当日の出演報道・公式告知なし。2日目はパク・ジェボム本人ではなく所属事務所MORE VISIONのアーティストとMVP、HolyBangと報じられており、detailの記述は要見直し。source_urlのsegye 2022-05-26記事は別件の可能性。",
+    "editor_note": "Lineup announced by the university (Sept 15, 2022); actual stage not separately confirmed from an official ADOR source. | Lineup per Insight (Sept 15, 2022); no post-event report found. / 2026-10-23 nightly: 大学発表のラインアップはInsight（9月15日）経由のみで、当日の出演報道・公式告知なし。2日目はパク・ジェボム本人ではなく所属事務所MORE VISIONのアーティストとMVP、HolyBangと報じられており、detailの記述は要見直し。source_urlのsegye 2022-05-26記事は別件の可能性。 / 2026-10-24 nightly (queue): 旧source_urlのセゲイルボ（2022-05-26）は大学祭全般の記事で檀国大・NewJeansに触れておらず無関係のため、ラインナップを報じたインサイト（2022-09-15）に差し替え。インサイト本文では2日目はMORE VISIONのMVP、HolyBang、パク・ジェボム本人も出演と記載（「박재범 역시 모습을 드러내」）。初日にクギ（쿠기）を追加。インサイトが埋め込む総学生会（@dku_play）のリールCifcooRpR3U（2022-09-14 23:59 KST）はoembedで404（削除済み）。当日の出演はファン撮影動画のみで公式確認なし、verifiedは維持。",
     "detail": {
-      "ja": "京畿道龍仁市の檀国大学校竹田キャンパスで開かれた大学祭『2022 DANFESTA : WOULD U PLAY!?』（9月21日・22日）の初日に出演した。大学側が9月15日に公開したラインナップでは、初日にNewJeansとAOMG所属のイ・ハイ、ウ・ウォンジェ、Loco、サイモン・ドミニクら、2日目にパク・ジェボムらが予定されていた。デビュー後初の大学祭ステージだった。",
-      "en": "NewJeans performed on day one of Dankook University's Jukjeon campus festival 2022 DANFESTA : WOULD U PLAY!? (21–22 September) in Yongin, Gyeonggi-do. The lineup released by the university on 15 September placed NewJeans on day one alongside AOMG artists Lee Hi, Woo Won-jae, Loco and Simon Dominic, with Jay Park and others on day two. It was the group's first university festival stage after debut."
+      "ja": "京畿道龍仁市の檀国大学校竹田キャンパスで開かれた大学祭『2022 DANFESTA : WOULD U PLAY!?』（9月21日・22日）の初日に出演した。大学側が9月15日に公開したラインナップでは、初日にNewJeansとAOMG所属のイ・ハイ、ウ・ウォンジェ、クギ、Loco、サイモン・ドミニク、2日目にMORE VISIONのダンスクルーMVP、ダンスクルーHolyBang、パク・ジェボムが予定されていた。デビュー後初の大学祭ステージだった。",
+      "en": "NewJeans performed on day one of Dankook University's Jukjeon campus festival 2022 DANFESTA : WOULD U PLAY!? (21–22 September) in Yongin, Gyeonggi-do. The lineup released by the university on 15 September placed NewJeans on day one alongside AOMG artists Lee Hi, Woo Won-jae, Coogie, Loco and Simon Dominic, with MORE VISION's dance crew MVP, the dance crew HolyBang and Jay Park on day two. It was the group's first university festival stage after debut."
     },
     "credits": {
       "venue": "Dankook University Jukjeon Campus, Yongin",
@@ -557,24 +558,30 @@
       "original": "2022 SBS 가요대전"
     },
     "summary": {
-      "ja": "高尺スカイドームの『2022 SBS歌謡大典』で第1部に「Attention」、第3部にWonder Girls「Tell Me」のリミックスカバーを披露。",
-      "en": "Performed 'Attention' in Part 1 and a remixed cover of Wonder Girls' 'Tell Me' in Part 3 of the 2022 SBS Gayo Daejeon at Gocheok Sky Dome."
+      "ja": "高尺スカイドームの『2022 SBS歌謡大典』で「Attention」とWonder Girls「Tell Me」のカバーを披露した。",
+      "en": "Performed 'Attention' and a cover of Wonder Girls' 'Tell Me' at the 2022 SBS Gayo Daejeon at Gocheok Sky Dome."
     },
-    "source_url": "https://twig24.com/news/entertainments/2022/12/17/20221217801001",
-    "verified": false,
+    "source_url": "https://www.youtube.com/watch?v=VpI7WdNZSMs",
+    "verified": true,
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "VpI7WdNZSMs"
     },
     "reference_urls": [
+      "https://www.youtube.com/watch?v=VpI7WdNZSMs",
+      "https://www.youtube.com/watch?v=vEbPFhNSgzk",
+      "https://www.youtube.com/watch?v=tjIU70YK4s8",
+      "https://www.youtube.com/watch?v=EWtpo5nkxMg",
+      "https://www.soompi.com/article/1556603wpp/shinees-key-astros-cha-eun-woo-and-ives-an-yu-jin-confirmed-to-host-2022-sbs-gayo-daejeon",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "tags": [
       "broadcast-concert"
     ],
-    "editor_note": "Broadcast-concert; the TV airing may be registered separately in the tv category.",
+    "editor_note": "Broadcast-concert; the TV airing may be registered separately in the tv category. / 2026-10-24 nightly: 旧source_url（twig24）はKBS歌謡大祝祭（12/16）の記事で無関係のため差し替え。SBS Entertainment公式動画2本（Attention / Tell Me、2022-12-24、概要欄「12월 24일 오후 7시 30분 본방송」）とSBSKPOP公式フルカム（221224）で確認。第1部・第3部の割り振りと「リミックス」の記述は一次ソースで確認できず本文から外した。司会はSoompi（SBS確認報道）による。",
     "detail": {
-      "ja": "ソウルの高尺スカイドームで開かれた『2022 SBS歌謡大典』に出演し、SBSが19時30分から生中継した。第1部で「Attention」を、第3部でWonder Girls「Tell Me」のリミックスカバーを披露した。司会はキー、チャ・ウヌ、アン・ユジン。",
-      "en": "NewJeans performed at the 2022 SBS Gayo Daejeon at Gocheok Sky Dome in Seoul, broadcast live on SBS from 7:30 pm. They performed 'Attention' in Part 1 and a remixed cover of Wonder Girls' 'Tell Me' in Part 3. Key, Cha Eun-woo and An Yu-jin hosted."
+      "ja": "ソウルの高尺スカイドームで開かれた『2022 SBS歌謡大典』に出演し、SBSが19時30分から放送した。イントロに続けて「Attention」を披露し、別のステージでWonder Girls「Tell Me」をカバーした。司会はキー、チャ・ウヌ、アン・ユジン。",
+      "en": "NewJeans performed at the 2022 SBS Gayo Daejeon at Gocheok Sky Dome in Seoul, broadcast on SBS from 7:30 pm. They performed an intro followed by 'Attention', and in a separate stage covered Wonder Girls' 'Tell Me'. Key, Cha Eun-woo and An Yu-jin hosted."
     },
     "credits": {
       "venue": "Gocheok Sky Dome, Seoul",
@@ -763,10 +770,12 @@
       "venue": "Milan",
       "brand": "Gucci"
     },
-    "source_url": "https://www.harpersbazaar.com.sg/fashion/runway/newjeans-hanni-heart-evangelista-and-high-glamour-at-gucci-fall-winter-2023",
+    "source_url": "https://www.elle.co.kr/article/75379",
     "reference_urls": [
-      "https://www.mydaily.co.kr/page/view/2023022211163105794",
-      "https://www.tatlerasia.com/style/fashion/newjeans-hanni-gucci-cruise-2024-fashion-show-seoul-korea-outfit-jackie-kennedy-style"
+      "https://www.elle.co.kr/article/75379",
+      "https://www.wkorea.com/2023/03/20/adorable/",
+      "https://www.harpersbazaar.com.sg/fashion/runway/newjeans-hanni-heart-evangelista-and-high-glamour-at-gucci-fall-winter-2023",
+      "https://www.mydaily.co.kr/page/view/2023022211163105794"
     ],
     "media": {
       "type": "none"
@@ -776,8 +785,8 @@
       "fashion-event",
       "overseas"
     ],
-    "verified": false,
-    "editor_note": "Show held 24 Feb 2023 local time (early 25 Feb in some time zones). Departure 22 Feb per MyDaily photo article."
+    "verified": true,
+    "editor_note": "Show held 24 Feb 2023 local time (early 25 Feb in some time zones). Departure 22 Feb per MyDaily photo article. / 2026-10-24 nightly: Gucci公式（gucci.com・SNS）の該当ページは見つからず。ELLE Korea（2023-02-27）を取得し、ハニがグッチ2023 F/Wウィメンズコレクションのショーに出席したことを確認。ショー日2月24日（ミラノ）は各誌で一致。アンバサダー就任後初のグッチのショーという点は検索要約のELLE Korea別記事による。"
   },
   {
     "id": "live-2023-03-04-tokyo-girls-collection-2023-ss",
@@ -797,12 +806,15 @@
       "ja": "国立代々木競技場第一体育館のTGC 2023 S/Sにメインアーティストとして初出演。開幕ステージで「Ditto」「Hype Boy」「OMG」を披露した。",
       "en": "First Tokyo Girls Collection appearance, as a main artist of the 2023 S/S show at Yoyogi National Gymnasium, performing 'Ditto', 'Hype Boy' and 'OMG' in the opening stage."
     },
-    "source_url": "https://mdpr.jp/k-enta/3633493",
-    "verified": false,
+    "source_url": "https://tgc.girlswalker.com/23ss/",
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
+      "https://tgc.girlswalker.com/23ss/",
+      "https://tgc.girlswalker.com/23ss/artist/",
+      "https://mdpr.jp/k-enta/3633493",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "tags": [
@@ -810,14 +822,14 @@
       "fashion-event"
     ],
     "detail": {
-      "ja": "東京・国立代々木競技場第一体育館で開かれた『第36回マイナビ東京ガールズコレクション2023 SPRING/SUMMER』に、メインアーティストの一組として初出演した。開場12時、開演14時、終演20時30分予定の公演で、開幕ステージで「Ditto」「Hype Boy」「OMG」を披露した。",
-      "en": "NewJeans made their first Tokyo Girls Collection appearance as one of the main artists of the 36th Mynavi Tokyo Girls Collection 2023 Spring/Summer at Yoyogi National Gymnasium's First Gymnasium in Tokyo (doors 12:00, start 14:00, scheduled end 20:30). They performed 'Ditto', 'Hype Boy' and 'OMG' in the opening stage."
+      "ja": "東京・国立代々木競技場第一体育館で開かれた『第36回マイナビ東京ガールズコレクション2023 SPRING/SUMMER』に初出演し、スペシャルライブを披露した。開場12時、開演14時、終演21時20分予定の公演で、開幕ステージで「Ditto」などを歌った。",
+      "en": "NewJeans made their first Tokyo Girls Collection appearance with a special live stage at the 36th Mynavi Tokyo Girls Collection 2023 Spring/Summer at Yoyogi National Gymnasium's First Gymnasium in Tokyo (doors 12:00, start 14:00, scheduled end 21:20). They sang 'Ditto' among other songs in the opening stage."
     },
     "credits": {
       "venue": "Yoyogi National Gymnasium First Gymnasium, Tokyo",
       "organizer": "Tokyo Girls Collection Executive Committee"
     },
-    "editor_note": "Opening-stage placement per Modelpress headline; three-song set per en.wikipedia list, Modelpress names Ditto only."
+    "editor_note": "Opening-stage placement per Modelpress headline; three-song set per en.wikipedia list, Modelpress names Ditto only. / 2026-10-24 nightly: TGC公式サイト（23ss）で2023年3月4日（土）・国立代々木競技場第一体育館・開場12:00/開演14:00/終演21:20（予定）・主催 東京ガールズコレクション実行委員会、「NewJeans 出演決定！スペシャルライブを披露！」を確認。旧本文の終演20時30分は誤り。セットリストはモデルプレスが「Ditto」のみ明記、3曲構成はWikipediaのみのため「「Ditto」など」に改めた。"
   },
   {
     "id": "live-2023-03-06-hyein-louis-vuitton-fw23-paris",
@@ -838,15 +850,17 @@
       "en": "As a Louis Vuitton ambassador, Hyein attended the Women's Fall/Winter 2023-2024 show at Paris Fashion Week."
     },
     "detail": {
-      "ja": "ヘインがルイ・ヴィトンのアンバサダーとして、パリ・ファッションウィークで行われた2023-24年秋冬ウィメンズコレクションのショーに出席し、最前列に座った。ヘインにとって初めてのファッションウィークとなった。3月5日に仁川国際空港からパリへ出国した。",
-      "en": "Hyein attended the Louis Vuitton Women's Fall/Winter 2023-2024 show at Paris Fashion Week as a brand ambassador, seated in the front row. It was her first fashion week. She left Incheon International Airport for Paris on March 5."
+      "ja": "ヘインがルイ・ヴィトンのグローバルアンバサダーとして、パリ・ファッションウィークで行われた2023-24年秋冬ウィメンズコレクションのショーに出席した。会場はオルセー美術館で、アンバサダー選定後初めての公の場となった。3月5日に仁川国際空港からパリへ出国した。",
+      "en": "Hyein attended the Louis Vuitton Women's Fall/Winter 2023-2024 show at Paris Fashion Week as a global brand ambassador. The show was held at the Musée d'Orsay, and it was her first public appearance since being named ambassador. She left Incheon International Airport for Paris on March 5."
     },
     "credits": {
       "venue": "Paris",
       "brand": "Louis Vuitton"
     },
-    "source_url": "https://envimedia.co/newjeans-hyein-brought-the-black-nail-polish-trend-to-paris-fashion-week/",
+    "source_url": "https://www.gqkorea.co.kr/?p=215588",
     "reference_urls": [
+      "https://www.gqkorea.co.kr/?p=215588",
+      "https://www.marieclairekorea.com/?p=285147",
       "https://www.xportsnews.com/article/1695406",
       "https://www.harpersbazaar.com.sg/fashion/newjeans-hyein-zendaya-louis-vuitton-fall-winter-2023"
     ],
@@ -858,7 +872,8 @@
       "fashion-event",
       "overseas"
     ],
-    "verified": false
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: Louis Vuittonの一次ページは見つからず。GQ Korea（2023-03-07）でパリ現地時間6日のショー出席とアンバサダー発表後初の公の場を、Marie Claire Koreaでオルセー美術館を確認。「最前列」「初めてのファッションウィーク」は確認できず本文を直した。"
   },
   {
     "id": "live-2023-03-15-seoul-fashion-week-2023-fw-ulkin",
@@ -888,6 +903,9 @@
     },
     "source_url": "https://www.xportsnews.com/article/1699938",
     "reference_urls": [
+      "https://www.xportsnews.com/article/1699938",
+      "https://www.newsis.com/view/NISX20230315_0002227706",
+      "https://mediahub.seoul.go.kr/archives/2007080",
       "https://www.mt.co.kr/living/2023/02/25/2023022410470476733",
       "https://www.newspim.com/news/view/20230315000760"
     ],
@@ -899,7 +917,8 @@
       "fashion-event",
       "government-event"
     ],
-    "verified": false
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: ソウル市・ソウルファッションウィークの一次ページにul:kinショー出席の記載はなし（市の記事はグローバル広報大使のみ）。エクスポーツニュース（2023-03-15）で「デザイナー イ・ソンドンのul:kinコレクションに出席しフォトタイム」、ニューシス（同日）でDDPの開幕フォトウォール出席を確認。"
   },
   {
     "id": "live-2023-03-29-apple-gangnam-press-preview",
@@ -929,6 +948,7 @@
     },
     "source_url": "https://x.com/NewJeans_ADOR/status/1640987155060146176",
     "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/1640987155060146176",
       "https://www.apple.com/newsroom/2023/03/apple-gangnam-will-welcome-first-customers-this-friday-march-31-in-south-korea/",
       "https://byline.network/2023/03/30-214",
       "https://newstomato.com/ReadNews.aspx?no=1182689"
@@ -946,8 +966,8 @@
       "listening-session",
       "brand-event"
     ],
-    "verified": false,
-    "editor_note": "Official X post (2023-03-29 17:00 KST) announces the Today at Apple session; members' attendance at the press briefing from Byline Network (quotes from Minji, Haerin, Hyein, Hanni). Newstomato dates the media preview to 29 Mar; Byline article published 30 Mar. Existing content record content-2023-03-29-phoning-after-apple-event-face-call matches this date."
+    "verified": true,
+    "editor_note": "Official X post (2023-03-29 17:00 KST) announces the Today at Apple session; members' attendance at the press briefing from Byline Network (quotes from Minji, Haerin, Hyein, Hanni). Newstomato dates the media preview to 29 Mar; Byline article published 30 Mar. Existing content record content-2023-03-29-phoning-after-apple-event-face-call matches this date. / 2026-10-24 nightly: fxtwitterで公式X投稿（2023-03-29 08:00 UTC＝17:00 KST、「NewJeans X Today at Apple … 📍 Apple Gangnam」）、Apple Newsroom（2023-03-28）で3月31日開店と「OMG (Apple Music Edition)」の空間オーディオ・ポップアップスタジオ、ニューストマト（2023-03-29）で同日のメディアプレビュー、Byline Network（3-30）で5人の記者懇談会参加を確認。"
   },
   {
     "id": "live-2023-04-29-hyein-louis-vuitton-pre-fall-2023-seoul",

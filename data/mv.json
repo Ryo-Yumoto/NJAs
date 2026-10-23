@@ -3113,6 +3113,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=qsHvdRA0a6o",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=qsHvdRA0a6o",
       "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
     ],
     "media": {
@@ -3123,8 +3124,8 @@
       "dance-practice",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. TheTVDB lists uploads on both Jul 10 and Jul 11, 2023. | YouTube page (title/channel/date/credits) read via reader; upload date on YouTube: Jul 10, 2023 (PT).",
+    "verified": true,
+    "editor_note": "Date taken from YouTube watch page (shown in US Pacific time); KST date may be one day later. TheTVDB lists uploads on both Jul 10 and Jul 11, 2023. | YouTube page (title/channel/date/credits) read via reader; upload date on YouTube: Jul 10, 2023 (PT). / 2026-10-24 nightly: YouTube next API（timeZone Asia/Seoul）で公式チャンネルNewJeansの投稿日2023-07-10（KST）とタイトルを確認。再生時間2:44は今回取得できず未再確認。",
     "detail": {
       "ja": "2nd EP『Get Up』に収録された「Super Shy」の振付を練習室で収めた映像の固定カメラ版（Fix ver.）で、NewJeans公式YouTubeチャンネルで公開された。収録時間は2分44秒。",
       "en": "Fixed-camera version (Fix ver.) of the practice-room dance video for 'Super Shy' from the 2nd EP Get Up, published on the NewJeans YouTube channel. Running time 2:44."
@@ -3239,6 +3240,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=nJDMAjwxthM",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=nJDMAjwxthM",
       "https://ja.wikipedia.org/wiki/NewJeans",
       "https://ja.wikipedia.org/wiki/Get_Up_(NewJeans%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0)",
       "https://en.wikipedia.org/wiki/NewJeans_videography"
@@ -3251,8 +3253,8 @@
       "mv",
       "hybe-labels-channel"
     ],
-    "verified": false,
-    "editor_note": "Date from ja.wikipedia (KST); en.wikipedia gives Jul 19 (US time). YouTube date not fetched. | Cast/locations from en.wikipedia Cool_with_You_(NewJeans_song) and namu.wiki. YouTube page read via reader; upload date on YouTube: Jul 19, 2023 (PT). / Cut for length: HYBE LABELS YouTube channel, Dolphiners Films, the painting reference (François-Édouard Picot's L'Amour et Psyché) and 'Spain' — retained in credits and in the side A entry.",
+    "verified": true,
+    "editor_note": "Date from ja.wikipedia (KST); en.wikipedia gives Jul 19 (US time). YouTube date not fetched. | Cast/locations from en.wikipedia Cool_with_You_(NewJeans_song) and namu.wiki. YouTube page read via reader; upload date on YouTube: Jul 19, 2023 (PT). / Cut for length: HYBE LABELS YouTube channel, Dolphiners Films, the painting reference (François-Édouard Picot's L'Amour et Psyché) and 'Spain' — retained in credits and in the side A entry. / 2026-10-24 nightly: YouTube next API（Asia/Seoul）でHYBE LABELSの公開日2023-07-20（KST）、タイトル、概要欄のProducer: MIN HEE JIN / Music Video Director: Wooseok Shinを確認。出演者・ロケ地はWikipediaによる。再生時間は未再確認。credits内にmusic_video_directorとmv_directorの重複あり（未修正）。",
     "detail": {
       "ja": "「Cool With You」のミュージックビデオはside Aとside Bの2部構成で、EP発売前日の0時に公開された。監督はShin Woo-seokで、主にバルセロナで撮影され、Tony Leungの場面は東京で撮られた。エロスとプシュケの神話を下敷きに、Jung Ho-yeonがエロス、Micol Velaがプシュケを演じる。side Bは「Cool With You」から「Get Up」へ続く後半で、Tony Leung Chiu-waiがアフロディテ役で登場し、インタールード曲「Get Up」で踊るメンバーをエロスが見つめて終わる。収録時間は4分16秒。",
       "en": "The music video for 'Cool With You' comes in two parts, side A and side B, posted at 00:00 KST the day before the EP. Directed by Shin Woo-seok, it was shot mainly in Barcelona, with Tony Leung's scenes filmed in Tokyo. Drawing on the myth of Eros and Psyche, it casts Jung Ho-yeon as Eros and Micol Vela as Psyche. Side B is the second half, running from 'Cool With You' into 'Get Up'; Tony Leung Chiu-wai appears as Aphrodite, and it ends with Eros watching the members dance to the interlude 'Get Up'. Running time 4:16."
@@ -3515,7 +3517,9 @@
       "en": "Roughly 8-second Shorts clip announcing the 'ASAP' music video for 26 July at 00:00 KST."
     },
     "source_url": "https://www.youtube.com/watch?v=Q1scJsrX9hI",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=Q1scJsrX9hI"
+    ],
     "media": {
       "type": "youtube",
       "ref": "Q1scJsrX9hI"
@@ -3524,8 +3528,8 @@
       "teaser",
       "shorts"
     ],
-    "verified": false,
-    "editor_note": "invidious publish date 2023-07-25 UTC; title says MV 7/26 0:00 KST, so posted Jul 25 KST. | YouTube page read via reader; upload date on YouTube: Jul 25, 2023 (PT).",
+    "verified": true,
+    "editor_note": "invidious publish date 2023-07-25 UTC; title says MV 7/26 0:00 KST, so posted Jul 25 KST. | YouTube page read via reader; upload date on YouTube: Jul 25, 2023 (PT). / 2026-10-24 nightly: YouTube next API（Asia/Seoul）で公式チャンネルNewJeansの投稿日2023-07-25（KST）とタイトル「ASAP MV SOON 7/26 0:00 KST」を確認。長さ約8秒は未再確認。",
     "detail": {
       "ja": "「ASAP」のミュージックビデオが7月26日0時に公開されることを告知する約8秒のYouTube Shorts動画で、NewJeans公式YouTubeチャンネルに公開された。公開日時を伝えるだけの短い予告。",
       "en": "Roughly 8-second YouTube Shorts clip announcing that the 'ASAP' music video would arrive on 26 July at 00:00 KST, posted on the NewJeans YouTube channel. A brief notice of the date and time, nothing more."
@@ -3627,6 +3631,56 @@
     "editor_note": "Director per en.wikipedia NewJeans_videography; visuals per Hypebae/Tenasia. YouTube page read via reader; upload date on YouTube: Jul 25, 2023 (PT)."
   },
   {
+    "id": "mv-2023-07-26-ditto-stage-cam-2023-fns-music-festival-summer",
+    "date": "2023-07-26",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "mv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Ditto」Stage Cam @ 2023 FNS歌謡祭 夏",
+      "en": "'Ditto' Stage Cam @ 2023 FNS Music Festival Summer"
+    },
+    "summary": {
+      "ja": "フジテレビ『2023 FNS歌謡祭 夏』（7月12日）で披露した「Ditto」のステージカム。同番組への初出演だった。",
+      "en": "Stage cam of 'Ditto' from Fuji TV's 2023 FNS Music Festival Summer (12 July), the group's first appearance on the programme."
+    },
+    "source_url": "https://www.youtube.com/watch?v=ZETQ1MKypC8",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=ZETQ1MKypC8",
+      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "ZETQ1MKypC8"
+    },
+    "tags": [
+      "stage-cam",
+      "live",
+      "japan",
+      "newjeans-channel"
+    ],
+    "verified": true,
+    "editor_note": "YouTube shows Jul 26, 2023 (PT); TheTVDB Jul 27. | Broadcast details from Oricon (2023-07-12). YouTube page read via reader; upload date on YouTube: Jul 26, 2023 (PT). / 2026-10-24 nightly: YouTube next API（timeZone Asia/Seoul）で公式チャンネルNewJeansの投稿日は2023-07-26（KST）。記録日7月27日はTheTVDBによる誤りのため26日に修正。放送日7月12日・初出演・21時台の案内はオリコン（2023-07-12）による。再生時間は未再確認。",
+    "detail": {
+      "ja": "7月12日にフジテレビ系で生放送された『2023 FNS歌謡祭 夏』で披露した「Ditto」のステージカム映像で、NewJeans公式YouTubeチャンネルに公開された。同番組への出演は初めてで、番組のタイムテーブルでは21時台に特別演出で披露すると案内されていた。収録時間は3分08秒。",
+      "en": "Stage-cam video of 'Ditto' as performed on Fuji TV's live broadcast 2023 FNS Music Festival Summer on 12 July, posted on the NewJeans YouTube channel. It was the group's first appearance on the programme, and the timetable had placed the specially staged number in the 9 PM hour. Running time 3:08."
+    },
+    "credits": {
+      "channel": "NewJeans",
+      "label": "ADOR",
+      "runtime": "3:08",
+      "broadcaster": "Fuji TV",
+      "program": {
+        "ja": "2023 FNS歌謡祭 夏",
+        "en": "FNS Kayosai Summer 2023 (FNS Music Festival Summer)"
+      }
+    }
+  },
+  {
     "id": "mv-2023-07-27-asap-dance-practice",
     "date": "2023-07-27",
     "date_type": "release",
@@ -3646,6 +3700,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=5EyMNU8gxZs",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=5EyMNU8gxZs",
       "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
     ],
     "media": {
@@ -3656,8 +3711,8 @@
       "dance-practice",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "YouTube shows Jul 27, 2023 (PT); TheTVDB lists two Jul 27 uploads. | YouTube page (title/channel/date/credits) read via reader; upload date on YouTube: Jul 27, 2023 (PT).",
+    "verified": true,
+    "editor_note": "YouTube shows Jul 27, 2023 (PT); TheTVDB lists two Jul 27 uploads. | YouTube page (title/channel/date/credits) read via reader; upload date on YouTube: Jul 27, 2023 (PT). / 2026-10-24 nightly: YouTube next API（Asia/Seoul）で公式チャンネルNewJeansの投稿日2023-07-27（KST）とタイトルを確認。再生時間2:22は未再確認。",
     "detail": {
       "ja": "2nd EP『Get Up』に収録された「ASAP」の振付を練習室で収めた映像で、NewJeans公式YouTubeチャンネルで公開された。収録時間は2分22秒。",
       "en": "Dance practice video for 'ASAP' from the 2nd EP Get Up, shot in a practice room and published on the NewJeans YouTube channel. Running time 2:22."
@@ -3669,57 +3724,8 @@
     }
   },
   {
-    "id": "mv-2023-07-27-ditto-stage-cam-2023-fns-music-festival-summer",
+    "id": "mv-2023-07-27-asap-dance-practice-fix-ver",
     "date": "2023-07-27",
-    "date_type": "release",
-    "date_precision": "day",
-    "category": "mv",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "「Ditto」Stage Cam @ 2023 FNS歌謡祭 夏",
-      "en": "'Ditto' Stage Cam @ 2023 FNS Music Festival Summer"
-    },
-    "summary": {
-      "ja": "フジテレビ『2023 FNS歌謡祭 夏』（7月12日）で披露した「Ditto」のステージカム。同番組への初出演だった。",
-      "en": "Stage cam of 'Ditto' from Fuji TV's 2023 FNS Music Festival Summer (12 July), the group's first appearance on the programme."
-    },
-    "source_url": "https://www.youtube.com/watch?v=ZETQ1MKypC8",
-    "reference_urls": [
-      "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
-    ],
-    "media": {
-      "type": "youtube",
-      "ref": "ZETQ1MKypC8"
-    },
-    "tags": [
-      "stage-cam",
-      "live",
-      "japan",
-      "newjeans-channel"
-    ],
-    "verified": false,
-    "editor_note": "YouTube shows Jul 26, 2023 (PT); TheTVDB Jul 27. | Broadcast details from Oricon (2023-07-12). YouTube page read via reader; upload date on YouTube: Jul 26, 2023 (PT).",
-    "detail": {
-      "ja": "7月12日にフジテレビ系で生放送された『2023 FNS歌謡祭 夏』で披露した「Ditto」のステージカム映像で、NewJeans公式YouTubeチャンネルに公開された。同番組への出演は初めてで、番組のタイムテーブルでは21時台に特別演出で披露すると案内されていた。収録時間は3分08秒。",
-      "en": "Stage-cam video of 'Ditto' as performed on Fuji TV's live broadcast 2023 FNS Music Festival Summer on 12 July, posted on the NewJeans YouTube channel. It was the group's first appearance on the programme, and the timetable had placed the specially staged number in the 9 PM hour. Running time 3:08."
-    },
-    "credits": {
-      "channel": "NewJeans",
-      "label": "ADOR",
-      "runtime": "3:08",
-      "broadcaster": "Fuji TV",
-      "program": {
-        "ja": "2023 FNS歌謡祭 夏",
-        "en": "FNS Kayosai Summer 2023 (FNS Music Festival Summer)"
-      }
-    }
-  },
-  {
-    "id": "mv-2023-07-29-asap-dance-practice-fix-ver",
-    "date": "2023-07-29",
     "date_type": "release",
     "date_precision": "day",
     "category": "mv",
@@ -3737,6 +3743,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=9fP26lxq-wo",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=9fP26lxq-wo",
       "https://thetvdb.com/series/newjeans-youtube-channel/seasons/official/2023"
     ],
     "media": {
@@ -3747,8 +3754,8 @@
       "dance-practice",
       "newjeans-channel"
     ],
-    "verified": false,
-    "editor_note": "Inferred from TheTVDB (Jul 29, 2023 upload); YouTube date not fetched. | YouTube page (title/channel/date/credits) read via reader; upload date on YouTube: Jul 27, 2023 (PT).",
+    "verified": true,
+    "editor_note": "Inferred from TheTVDB (Jul 29, 2023 upload); YouTube date not fetched. | YouTube page (title/channel/date/credits) read via reader; upload date on YouTube: Jul 27, 2023 (PT). / 2026-10-24 nightly: YouTube next API（timeZone Asia/Seoul）で公式チャンネルNewJeansの「'ASAP' Dance Practice (Fix ver.)」の投稿日は2023-07-27（KST）。記録日7月29日はTheTVDBによる誤りのため27日に修正。再生時間は未再確認。",
     "detail": {
       "ja": "2nd EP『Get Up』に収録された「ASAP」の振付を練習室で収めた映像の固定カメラ版（Fix ver.）で、NewJeans公式YouTubeチャンネルで公開された。収録時間は2分22秒。",
       "en": "Fixed-camera version (Fix ver.) of the practice-room dance video for 'ASAP' from the 2nd EP Get Up, published on the NewJeans YouTube channel. Running time 2:22."

@@ -620,11 +620,14 @@
       "ja": "KBS『ミュージックバンク』でデビューミニアルバム収録曲「Hurt」を披露した、音楽番組で同曲だけを歌う最初のステージ。",
       "en": "NewJeans performed 'Hurt' on Music Bank, the first music-show stage devoted to the song alone."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+    "source_url": "https://www.youtube.com/watch?v=DGBpiPSUNMY",
     "reference_urls": [
+      "https://www.youtube.com/watch?v=DGBpiPSUNMY",
       "https://www.youtube.com/watch?v=NTQFhv50AXg",
       "https://www.youtube.com/watch?v=RpCVUJowDvA",
-      "https://www.youtube.com/watch?v=PrSzaKpCcfY"
+      "https://www.youtube.com/watch?v=PrSzaKpCcfY",
+      "https://www.youtube.com/watch?v=tVIXY14aJms",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
       "type": "youtube",
@@ -633,7 +636,7 @@
     "tags": [
       "music-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "KBS『ミュージックバンク』でデビューミニアルバム収録曲「Hurt」を披露した。ミュージックビデオは7月25日に公開されており、音楽番組で「Hurt」だけを歌うステージはこの回が最初だった。",
       "en": "NewJeans performed 'Hurt', a track from the debut EP, on KBS's Music Bank. The song's music video had been released on July 25, and this was the first music-show stage devoted to it alone."
@@ -645,7 +648,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=DGBpiPSUNMY"
     },
-    "editor_note": "公式動画: KBS Kpop「Hurt - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 220826 방송」(2022-08-26); 関連3本をreference_urlsに記載"
+    "editor_note": "公式動画: KBS Kpop「Hurt - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 220826 방송」(2022-08-26); 関連3本をreference_urlsに記載 / 2026-10-24 nightly: KBS Kpop公式動画「Hurt - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 220826 방송」(2022-08-26 KST)で放送日と曲を確認。HYBE LABELSの「Hurt」MVは2022-07-25（KST）。前日8/25のMカウントダウンは「Hype Boy」で、それ以前の「Hurt」音楽番組ステージは見つからなかった。"
   },
   {
     "id": "tv-2022-08-28-inkigayo-attention-win-2",
@@ -665,11 +668,13 @@
       "ja": "SBS『人気歌謡』で「Attention」が2週連続1位となり、デビュー活動最終週に「Hurt」を披露して通算5冠に。",
       "en": "'Attention' took a second straight Inkigayo win, its fifth trophy, as NewJeans performed 'Hurt' in the final week of debut promotions."
     },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
+    "source_url": "https://www.youtube.com/watch?v=XsO8TTrQ4uA",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
       "https://www.youtube.com/watch?v=XsO8TTrQ4uA",
-      "https://www.youtube.com/watch?v=zV3jF5viZUY"
+      "https://www.youtube.com/watch?v=XPxdU5NOIW4",
+      "https://www.youtube.com/watch?v=4SjJzU05Qjc",
+      "https://www.youtube.com/watch?v=zV3jF5viZUY",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
       "type": "youtube",
@@ -679,7 +684,7 @@
       "music-show",
       "win"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "SBS『人気歌謡』で「Attention」が前週に続き2週連続で1位を獲得した。デビュー活動4週目の最終週で、この回では「Hurt」を披露した。「Attention」の音楽番組1位はこれで通算5回となった。",
       "en": "'Attention' won first place on SBS's Inkigayo for a second consecutive week. The episode fell in the fourth and final week of debut promotions, and NewJeans performed 'Hurt'. The win brought the song's music-show total to five trophies."
@@ -688,7 +693,7 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Fifth-trophy count per OSEN/ANI reports of Aug 28, 2022. / 公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - Hurt @인기가요 inkigayo 20220828」(2022-08-28); 関連2本をreference_urlsに記載",
+    "editor_note": "Fifth-trophy count per OSEN/ANI reports of Aug 28, 2022. / 公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - Hurt @인기가요 inkigayo 20220828」(2022-08-28); 関連2本をreference_urlsに記載 / 2026-10-24 nightly: SBSKPOP公式の1位アンコールカム（220828）と前週の1位アンコールカム（2022.08.21）で2週連続1位を、公式「Hurt」ステージ動画（20220828）で同回の披露曲を確認。通算5回目の数え方は一次ソースで未再確認（OSEN報道による）。",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=4SjJzU05Qjc"
     }
@@ -704,15 +709,18 @@
       "all"
     ],
     "title": {
-      "ja": "第49回韓国放送大賞",
-      "en": "49th Korea Broadcasting Awards"
+      "ja": "第49回韓国放送大賞 祝賀公演",
+      "en": "49th Korea Broadcasting Awards congratulatory performance"
     },
     "summary": {
-      "ja": "ソウル汝矣島のKBSホールで開かれた韓国放送協会主催の第49回韓国放送大賞の授賞式に出席した。",
-      "en": "NewJeans attended the 49th Korea Broadcasting Awards ceremony at KBS Hall in Yeouido, Seoul."
+      "ja": "第49回韓国放送大賞の授賞式で祝賀公演として「Attention」を披露し、KBSで放送された。",
+      "en": "NewJeans performed 'Attention' as a congratulatory stage at the 49th Korea Broadcasting Awards, broadcast on KBS."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "source_url": "https://www.youtube.com/watch?v=xhRgoLReeFE",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=xhRgoLReeFE",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
     "media": {
       "type": "youtube",
       "ref": "xhRgoLReeFE"
@@ -720,16 +728,16 @@
     "tags": [
       "award-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "ソウル汝矣島のKBSホールで開かれた第49回韓国放送大賞の授賞式に出席した。韓国放送協会が主催する放送界の賞で、授賞式はKBSで放送された。NewJeansの楽曲披露は記録されていない。",
-      "en": "NewJeans attended the 49th Korea Broadcasting Awards ceremony at KBS Hall in Yeouido, Seoul. The awards are organized by the Korean Broadcasters Association, and the ceremony was broadcast by KBS. No NewJeans performance is recorded for the event."
+      "ja": "韓国放送協会が主催する第49回韓国放送大賞の授賞式に出演し、祝賀公演として「Attention」を披露した。授賞式はKBSで放送された。",
+      "en": "NewJeans appeared at the 49th Korea Broadcasting Awards, organized by the Korean Broadcasters Association, and performed 'Attention' as a congratulatory stage. The ceremony was broadcast on KBS."
     },
     "credits": {
-      "venue": "KBS Hall, Seoul",
-      "organizer": "Korean Broadcasters Association"
+      "organizer": "Korean Broadcasters Association",
+      "broadcaster": "KBS"
     },
-    "editor_note": "Only en.wikipedia live-performance list (performance N/A) found; no press article located. Attendance role unverified. / 公式動画: KBS Entertain「[제49회 한국방송대상 시상식] 축하공연 - 뉴진스 Attention [제 49회 한국방송대상] | KBS 220905 방송」(2022-09-05)",
+    "editor_note": "Only en.wikipedia live-performance list (performance N/A) found; no press article located. Attendance role unverified. / 公式動画: KBS Entertain「[제49회 한국방송대상 시상식] 축하공연 - 뉴진스 Attention [제 49회 한국방송대상] | KBS 220905 방송」(2022-09-05) / 2026-10-24 nightly: KBS Entertain公式動画「[제49회 한국방송대상 시상식] 축하공연 - 뉴진스 Attention | KBS 220905 방송」（2022-09-05 KST）で祝賀公演の披露を確認。旧本文の「楽曲披露は記録されていない」は誤り。会場（KBSホール）は一次ソースで未確認のため本文とcreditsから外した。",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=xhRgoLReeFE"
     }
@@ -752,9 +760,12 @@
       "ja": "KSPO DOMEでの『2022 THE FACT MUSIC AWARDS』でネクストリーダー賞を受賞し、「Hype Boy」「Attention」を披露。",
       "en": "NewJeans received the Next Leader Award at the 2022 The Fact Music Awards and performed 'Hype Boy' and 'Attention'."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+    "source_url": "https://news.tf.co.kr/read/ogmeta/1970328.htm",
     "reference_urls": [
-      "https://ja.wikipedia.org/wiki/NewJeans"
+      "https://news.tf.co.kr/read/ogmeta/1970328.htm",
+      "https://news.tf.co.kr/read/ogmeta/1970436.htm",
+      "https://www.youtube.com/watch?v=ygmKzYlCFZU",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
       "type": "youtube",
@@ -763,7 +774,7 @@
     "tags": [
       "award-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "ソウル・オリンピック公園のKSPO DOMEで開かれた『2022 THE FACT MUSIC AWARDS』でネクストリーダー賞を受賞した。ザ・ファクトが主催し、Circle Chartのデータと審査、ファン投票で選定される賞。ステージではイントロに続いて「Hype Boy」「Attention」を披露した。ファンNスター選択賞、フォースター賞、アイドルプラス人気賞にもノミネートされていた。",
       "en": "NewJeans received the Next Leader Award at the 2022 The Fact Music Awards, held at KSPO Dome in Seoul's Olympic Park. The ceremony is organized by The Fact and judged on Circle Chart data, a panel and fan voting. The group performed an intro followed by 'Hype Boy' and 'Attention', and was also nominated for the Fan N Star Choice, Four Star and Idolplus Popularity awards."
@@ -775,7 +786,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=ygmKzYlCFZU"
     },
-    "editor_note": "公式動画:  THE FACT MUSIC AWARDS「[2022 더팩트 뮤직 어워즈] NewJeans (뉴진스) 'Hype Boy' + 'Attention' @TMA」(2025-03-10)"
+    "editor_note": "公式動画:  THE FACT MUSIC AWARDS「[2022 더팩트 뮤직 어워즈] NewJeans (뉴진스) 'Hype Boy' + 'Attention' @TMA」(2025-03-10) / 2026-10-24 nightly: 主催者The Factの記事「[2022 TMA]신드롬 걸그룹 뉴진스,'넥스트 리더' 선정」で10月8日・KSPO DOME・ザ・ファクト主催／ファンNスター主管・ネクストリーダー賞を確認。TMA公式YouTube（2025年アップロード）で「Hype Boy」「Attention」のステージを確認。その他ノミネートは未再確認。"
   },
   {
     "id": "tv-2022-10-16-newjeans-code-in-busan",
@@ -796,13 +807,15 @@
       "ja": "釜山広域市と釜山観光公社が製作し、5人がQRコードを手がかりに釜山を巡る全3話のトラベルリアリティ番組の第1話。",
       "en": "First episode of a three-part SBS travel reality series in which the five members explore Busan guided by QR codes."
     },
-    "source_url": "https://en.wikipedia.org/wiki/NewJeans_Code_in_Busan",
+    "source_url": "https://www.youtube.com/watch?v=OcO4b-qdtwk",
     "reference_urls": [
-      "https://ja.wikipedia.org/wiki/NewJeans",
       "https://www.youtube.com/watch?v=OcO4b-qdtwk",
+      "https://www.youtube.com/watch?v=zA84NbBgPQE",
       "https://www.youtube.com/watch?v=M6i00-d3ekQ",
       "https://www.youtube.com/watch?v=bcmY4_7wkaQ",
-      "https://www.youtube.com/watch?v=1COa96OCqHo"
+      "https://www.youtube.com/watch?v=1COa96OCqHo",
+      "https://en.wikipedia.org/wiki/NewJeans_Code_in_Busan",
+      "https://ja.wikipedia.org/wiki/NewJeans"
     ],
     "media": {
       "type": "youtube",
@@ -812,11 +825,11 @@
       "variety",
       "reality"
     ],
-    "verified": false,
-    "editor_note": "Aired Oct 16 - Nov 6, 2022 (end date removed from the reader-facing summary). / 公式動画: SBS Entertainment「‘부산 구경도 식후경’ 뉴진스, 국밥집으로 이동 중에도 차 안에서 해피 에너지 뿜뿜★ | SBS 221016 방송 #뉴진스코드in부산 #newjeanscode #SBSenter」(2022-10-16); 関連4本をreference_urlsに記載",
+    "verified": true,
+    "editor_note": "Aired Oct 16 - Nov 6, 2022 (end date removed from the reader-facing summary). / 公式動画: SBS Entertainment「‘부산 구경도 식후경’ 뉴진스, 국밥집으로 이동 중에도 차 안에서 해피 에너지 뿜뿜★ | SBS 221016 방송 #뉴진스코드in부산 #newjeanscode #SBSenter」(2022-10-16); 関連4本をreference_urlsに記載 / 2026-10-24 nightly: SBS公式の予告動画（2022-10-14、「10월 16일 [일] 밤 12시 5분 첫 방송」）とSBS Entertainment公式クリップ（「SBS 221016 방송」「밤 12시 05분 본방송」）で放送日と時刻を確認。旧本文の「12時10分」は誤り（深夜0時5分、SBSの表記は16日放送）。製作・撮影日・スタッフはWikipediaによる。",
     "detail": {
-      "ja": "5人がQRコードを手がかりに松島スカイパーク、富平カントン市場、太宗台、多大浦海水浴場などを巡る全3話のトラベルリアリティ番組で、第1話「NewJeansと釜山で会いましょう！」がSBSで12時10分（KST）に放送された。釜山広域市と釜山観光公社が製作し、撮影は9月26日と27日に釜山で行われた。製作総括はソン・ギフン、演出はユ・ギョンソクほか。配信はWavve。",
-      "en": "The first episode, 'See You in Busan with NewJeans!', of a three-episode travel reality series in which the five members tour Songdo Sky Park, Bupyeong Kkangtong Market, Taejongdae and Dadaepo Beach guided by QR codes. Produced by Busan Metropolitan City and the Busan Tourism Organization and aired on SBS at 12:10 KST, it was filmed in Busan on September 26 and 27. Seong Ki-hun was executive producer, Yoo Gyeong-seok among the directors, and the series streamed on Wavve."
+      "ja": "5人がQRコードを手がかりに松島スカイパーク、富平カントン市場、太宗台、多大浦海水浴場などを巡る全3話のトラベルリアリティ番組で、第1話「NewJeansと釜山で会いましょう！」がSBSで10月16日（日）の深夜0時5分（KST）から放送された。釜山広域市と釜山観光公社が製作し、撮影は9月26日と27日に釜山で行われた。製作総括はソン・ギフン、演出はユ・ギョンソクほか。配信はWavve。",
+      "en": "The first episode, 'See You in Busan with NewJeans!', of a three-episode travel reality series in which the five members tour Songdo Sky Park, Bupyeong Kkangtong Market, Taejongdae and Dadaepo Beach guided by QR codes. Produced by Busan Metropolitan City and the Busan Tourism Organization, it aired on SBS in the late-night slot of Sunday, October 16, from 12:05 a.m. KST. It was filmed in Busan on September 26 and 27. Seong Ki-hun was executive producer, Yoo Gyeong-seok among the directors, and the series streamed on Wavve."
     },
     "credits": {
       "broadcaster": "SBS",
@@ -847,8 +860,11 @@
       "ja": "KBSホールでの第43回青龍映画賞で、祝賀公演の1番手として「Hype Boy」「Attention」を披露。",
       "en": "NewJeans opened the performances at the 43rd Blue Dragon Film Awards with 'Hype Boy' and 'Attention'."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "source_url": "https://www.youtube.com/watch?v=6MN1EsAnmkQ",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=6MN1EsAnmkQ",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
     "media": {
       "type": "youtube",
       "ref": "6MN1EsAnmkQ"
@@ -856,7 +872,7 @@
     "tags": [
       "award-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "ソウル汝矣島のKBSホールで開かれた第43回青龍映画賞の授賞式で、祝賀公演の1番手として「Hype Boy」「Attention」を披露した。司会はキム・ヘスとユ・ヨンソク。KBS 2TVが生中継し、YouTubeとNAVER NOWでも配信された。",
       "en": "NewJeans opened the performances at the 43rd Blue Dragon Film Awards at KBS Hall in Yeouido, Seoul, with 'Hype Boy' followed by 'Attention'. Hosted by Kim Hye-soo and Yoo Yeon-seok, the ceremony was broadcast live on KBS2 and streamed on YouTube and Naver Now."
@@ -869,7 +885,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=6MN1EsAnmkQ"
     },
-    "editor_note": "公式動画: KBS Entertain「뉴진스, ‘Hype boy & Attention’ 축하공연 [제43회 청룡영화상 시상식] | KBS 221125 방송」(2022-11-25)"
+    "editor_note": "公式動画: KBS Entertain「뉴진스, ‘Hype boy & Attention’ 축하공연 [제43회 청룡영화상 시상식] | KBS 221125 방송」(2022-11-25) / 2026-10-24 nightly: KBS Entertain公式動画「뉴진스, 'Hype boy & Attention' 축하공연 [제43회 청룡영화상 시상식] | KBS 221125 방송」（2022-11-25 KST、タグに김혜수・유연석）で祝賀公演と司会を確認。会場KBSホールと「1番手」は一次ソースで未再確認。"
   },
   {
     "id": "tv-2022-11-26-melon-music-awards-2022",

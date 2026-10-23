@@ -1144,7 +1144,8 @@
     ],
     "title": {
       "ja": "NewJeans School EP.2 l 1分ショートクリップ",
-      "en": "NewJeans School EP.2 l 1분 숏클립"
+      "en": "NewJeans School EP.2 | 1-minute short clip",
+      "original": "[Jeans' ZINE] NewJeans School EP.2ㅣ1분 숏클립"
     },
     "summary": {
       "ja": "学校をテーマにしたJeans' ZINE『NewJeans School』第2回の1分ショートクリップ。",
@@ -1160,7 +1161,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=IdV3bcTjKZM",
     "reference_urls": [
-      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://www.youtube.com/watch?v=IdV3bcTjKZM",
       "https://thetvdb.com/series/jeans-zine/allseasons/official"
     ],
     "media": {
@@ -1174,8 +1175,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: 公式YouTube（NewJeans）で投稿日2022-09-14（KST）とタイトルを確認。概要欄は本編を9月17日（土）17時KSTと告知。英題の韓国語を英訳に置換。"
   },
   {
     "id": "content-2022-09-15-light-jeans-newjeans-in-spain-home-video-ver",
@@ -1279,16 +1280,17 @@
       "all"
     ],
     "title": {
-      "ja": "Teaser",
-      "en": "Teaser"
+      "ja": "NewZips ティザー",
+      "en": "NewZips Teaser",
+      "original": "[NewZips] 📁 Teaser ㅣNewJeans"
     },
     "summary": {
       "ja": "NewJeans初の自主制作リアリティ『NewZips』のティザー映像。",
       "en": "Teaser for NewZips, NewJeans' first self-produced reality series."
     },
     "detail": {
-      "ja": "NewJeans初の自主制作リアリティ『NewZips』のティザー映像。本編は毎週土曜17時（KST）に公式YouTubeチャンネルで公開された。",
-      "en": "A teaser for NewZips, NewJeans' first self-produced reality series. Episodes followed on the official YouTube channel on Saturdays at 17:00 KST."
+      "ja": "NewJeans初の自主制作リアリティ『NewZips』のティザー映像。概要欄で、本編の公開開始を9月24日（土）17時（KST）と告知した。",
+      "en": "A teaser for NewZips, NewJeans' first self-produced reality series. The description announced that the series would open on Saturday, September 24 at 17:00 KST."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -1296,7 +1298,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=ulwrgndExOI",
     "reference_urls": [
-      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://www.youtube.com/watch?v=ulwrgndExOI",
       "https://thetvdb.com/series/newzips/allseasons/official"
     ],
     "media": {
@@ -1310,8 +1312,8 @@
       "newzips",
       "reality"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: 公式YouTubeで投稿日2022-09-21（KST）とタイトル、概要欄「2022.09.24.(SAT) 5PM KST NewZips OPEN」を確認。「毎週土曜」は投稿時点の告知にないため初回の告知に置き換えた。"
   },
   {
     "id": "content-2022-09-22-yt-dance-tips",
@@ -1326,7 +1328,8 @@
     ],
     "title": {
       "ja": "ダンスのコツ",
-      "en": "Dance Tips"
+      "en": "Dance Tips",
+      "original": "NewJeans(뉴진스) Dance Tips💡"
     },
     "summary": {
       "ja": "ダンスのコツをテーマにした単発映像「Dance Tips」。",
@@ -1342,7 +1345,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=zNLRL1GYTDE",
     "reference_urls": [
-      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
+      "https://www.youtube.com/watch?v=zNLRL1GYTDE"
     ],
     "media": {
       "type": "youtube",
@@ -1354,8 +1357,8 @@
     "tags": [
       "clip"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: 公式YouTube（NewJeans）で投稿日2022-09-22（KST）とタイトルを確認。"
   },
   {
     "id": "content-2022-09-23-light-jeans-we-are-newjeans-behind-home-video-ver",
@@ -1415,7 +1418,8 @@
     ],
     "title": {
       "ja": "NewJeans.zip OPEN! EP.1",
-      "en": "뉴진스.zip OPEN! EP.1"
+      "en": "NewJeans.zip OPEN! EP.1",
+      "original": "[NewZips] 뉴진스.zip OPEN!🔍 EP.1ㅣNewJeans"
     },
     "summary": {
       "ja": "「NewJeans.zip OPEN!」と題した、初の自主制作リアリティ『NewZips』の第1回。",
@@ -1431,7 +1435,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=9IV9Wju5f0Q",
     "reference_urls": [
-      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://www.youtube.com/watch?v=9IV9Wju5f0Q",
       "https://thetvdb.com/series/newzips/allseasons/official"
     ],
     "media": {
@@ -1445,8 +1449,8 @@
       "newzips",
       "reality"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: 公式YouTube（NewJeans）で投稿日2022-09-24（KST）とタイトルを確認。英題の韓国語を英字に置換。"
   },
   {
     "id": "content-2022-09-27-light-jeans-youtube",
@@ -1479,7 +1483,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=5yYqxv5T0uY",
     "reference_urls": [
-      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://www.youtube.com/watch?v=5yYqxv5T0uY",
       "https://thetvdb.com/series/light-jeans/allseasons/official"
     ],
     "media": {
@@ -1493,8 +1497,8 @@
       "light-jeans",
       "behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: 公式YouTube（NewJeans）で投稿日2022-09-27（KST）とタイトルを確認。"
   },
   {
     "id": "content-2022-09-30-light-jeans-newjeans-short-form-day",
@@ -1554,15 +1558,16 @@
     ],
     "title": {
       "ja": "Welcome to ニューキャンプ EP.2",
-      "en": "Welcome to 뉴캠프 EP.2"
+      "en": "Welcome to NewCamp EP.2",
+      "original": "[NewZips] Welcome to 뉴캠프🚞💨 EP.2ㅣNewJeans"
     },
     "summary": {
       "ja": "「Welcome to ニューキャンプ」と題し、メンバーのキャンプを追う『NewZips』の第2回。",
       "en": "'Welcome to NewCamp', episode 2 of NewZips, following the members on their camp."
     },
     "detail": {
-      "ja": "「Welcome to ニューキャンプ」と題し、メンバーのキャンプ（ニューキャンプ）を追う『NewZips』の第2回。初の自主制作リアリティで、毎週土曜17時（KST）に公式YouTubeチャンネルで公開された。",
-      "en": "Titled 'Welcome to NewCamp', the second episode of NewZips follows the members at their camp. The first self-produced reality series, released on the official YouTube channel on Saturdays at 17:00 KST."
+      "ja": "「Welcome to ニューキャンプ」と題し、メンバーのキャンプ（ニューキャンプ）を追う『NewZips』の第2回。初の自主制作リアリティで、前週に続き土曜17時（KST）に公式YouTubeチャンネルで公開された。",
+      "en": "Titled 'Welcome to NewCamp', the second episode of NewZips follows the members at their camp. Part of the group's first self-produced reality series, it followed the previous week's episode at 17:00 KST on a Saturday on the official YouTube channel."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -1570,7 +1575,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=NzbZrknwTgA",
     "reference_urls": [
-      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
+      "https://www.youtube.com/watch?v=NzbZrknwTgA",
       "https://thetvdb.com/series/newzips/allseasons/official"
     ],
     "media": {
@@ -1584,8 +1589,8 @@
       "newzips",
       "reality"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: 公式YouTube（NewJeans）で投稿日2022-10-01（KST）とタイトルを確認。英題の韓国語を英訳に置換。"
   },
   {
     "id": "content-2022-10-05-yt-newjeans-moving-photos-clip",

@@ -408,7 +408,7 @@
    "date": "2024-01-03",
    "title": "Harper's Bazaar Korea January 2024 digital cover - Minji (with Chanel Beauty)",
    "url": "https://harpersbazaar.co.kr/article/83463",
-   "record": "magazine-2024-01-04-harpers-bazaar-korea-minji-chanel-beauty-digital",
+   "record": "magazine-2024-01-03-harpers-bazaar-korea-minji-chanel-beauty-digital",
    "exclude": null,
    "note": "existing record date differs: record 2024-01-04 vs source 2024-01-03"
   },
@@ -426,7 +426,7 @@
    "date": "2024-02-15",
    "title": "W Korea 2024 Vol.3 (March) woman cover - Haerin (with Dior)",
    "url": "https://www.designscene.net/?p=606603",
-   "record": "magazine-2024-03-01-w-korea-2024-03-haerin",
+   "record": "magazine-2024-02-15-w-korea-2024-03-haerin",
    "exclude": null,
    "note": "ヘリン個人ページの初出は02-14 | existing record is month-precision (2024-03-01); source gives 2024-02-15"
   },
@@ -503,7 +503,7 @@
    "date": "2024-05-02",
    "title": "Harper's Bazaar Korea May 2024 digital cover - Haerin (Dior Joaillerie)",
    "url": "https://www.harpersbazaar.co.kr/article/1864464",
-   "record": "magazine-2024-05-03-harpers-bazaar-korea-2024-05-haerin-dior",
+   "record": "magazine-2024-05-02-harpers-bazaar-korea-2024-05-haerin-dior",
    "exclude": null,
    "note": "existing record date differs: record 2024-05-03 vs source 2024-05-02"
   },
@@ -588,7 +588,7 @@
    "date": "2024-10-11",
    "title": "Esquire Korea November 2024 cover - Danielle (with Celine)",
    "url": "https://v.daum.net/v/20241021172110325",
-   "record": "magazine-2024-10-21-esquire-korea-danielle-celine",
+   "record": "magazine-2024-10-11-esquire-korea-danielle-celine",
    "exclude": null,
    "note": "existing record date differs: record 2024-10-21 vs source 2024-10-11"
   },
@@ -738,7 +738,7 @@
    "date": "2025-02-18",
    "title": "Vogue France feature - NJZ",
    "url": "https://www.sportskeeda.com/us/k-pop/this-waited-for-fans-react-vogue-france-addresses-newjeans-njz-despite-ador-s-recent-demands",
-   "record": "web-2025-02-18-vogue-france-njz-feature",
+   "record": "web-2025-02-17-vogue-france-njz-feature",
    "exclude": null,
    "note": "NJZ名義期。webレコードでカバー"
   },

@@ -860,8 +860,8 @@
     }
   },
   {
-    "id": "web-2025-02-18-vogue-france-njz-feature",
-    "date": "2025-02-18",
+    "id": "web-2025-02-17-vogue-france-njz-feature",
+    "date": "2025-02-17",
     "date_type": "publish",
     "date_precision": "day",
     "category": "web",
@@ -870,29 +870,33 @@
       "all"
     ],
     "title": {
-      "ja": "Vogue France — NJZ（ex-NewJeans）特集",
-      "en": "Vogue France - NJZ (ex-NewJeans) feature"
+      "ja": "Vogue France「2025年に注目すべきK-POPグループ12組」— NJZ（ex-NewJeans）",
+      "en": "Vogue France '12 K-pop groups to watch in 2025' - NJZ (ex-NewJeans)"
     },
     "summary": {
-      "ja": "ADORが名称の使用に異議を唱えるなか、Vogue Franceがグループを「NJZ (ex-NewJeans)」と表記して特集した。",
-      "en": "Vogue France ran a feature crediting the group as 'NJZ (ex-NewJeans)', despite ADOR's objection to the name."
+      "ja": "Vogue Franceが2025年に注目すべきK-POPグループ12組の記事で、グループを「NJZ (ex-NewJeans)」として最初に取り上げた。",
+      "en": "Vogue France listed the group as 'NJZ (ex-NewJeans)' first in its article on 12 K-pop groups to watch in 2025."
     },
-    "source_url": "https://www.sportskeeda.com/us/k-pop/this-waited-for-fans-react-vogue-france-addresses-newjeans-njz-despite-ador-s-recent-demands",
-    "reference_urls": [],
+    "source_url": "https://www.vogue.fr/article/groupes-k-pop-a-suivre-2025",
+    "reference_urls": [
+      "https://www.vogue.fr/article/groupes-k-pop-a-suivre-2025",
+      "https://www.sportskeeda.com/us/k-pop/this-waited-for-fans-react-vogue-france-addresses-newjeans-njz-despite-ador-s-recent-demands"
+    ],
     "media": {
       "type": "none"
     },
     "tags": [
       "njz"
     ],
-    "verified": false,
-    "editor_note": "Sportskeedaの検索要約のみ。vogue.frの記事URLと内容（表紙/ウェブ特集か）は未確認。要検証。 | Reader-facing 'reportedly' wording and 'uncertain' tag moved here; still unverified (Sportskeeda search summary only). | not enriched: Sportskeeda page returns 403 and no vogue.fr URL located; still unverified. | removed from reader text: [detail.ja] vogue.frの記事そのもの（表紙かウェブ特集か、撮影者、内容）は確認できていない。 / Sportskeeda(2025年2月)の検索要約のみに基づく（ページは403）。vogue.frの記事URLと内容（表紙かウェブ特集か、撮影者、本文）は未確認。要検証。",
+    "verified": true,
+    "editor_note": "Sportskeedaの検索要約のみ。vogue.frの記事URLと内容（表紙/ウェブ特集か）は未確認。要検証。 | Reader-facing 'reportedly' wording and 'uncertain' tag moved here; still unverified (Sportskeeda search summary only). | not enriched: Sportskeeda page returns 403 and no vogue.fr URL located; still unverified. | removed from reader text: [detail.ja] vogue.frの記事そのもの（表紙かウェブ特集か、撮影者、内容）は確認できていない。 / Sportskeeda(2025年2月)の検索要約のみに基づく（ページは403）。vogue.frの記事URLと内容（表紙かウェブ特集か、撮影者、本文）は未確認。要検証。 / 2026-10-24 nightly: vogue.frのサイト内検索で該当記事を特定し取得。datePublished 2025-02-17T11:27+01:00（KSTでも2月17日）のため日付を2月18日から17日に修正。表紙・誌面特集ではなくウェブのリスト記事。2月10日のADOR要請は記事外（既存記述を維持、未再確認）。",
     "detail": {
-      "ja": "グループを改名後の名称で紹介する特集で、「NJZ (ex-NewJeans)」と表記した。これに先立つ2月10日、ADORは専属契約がなお有効だとして、報道機関にNJZではなくNewJeansの名称を使い続けるよう求めていた。",
-      "en": "A feature presenting the group under its new name, labeled 'NJZ (ex-NewJeans)'. On February 10 ADOR had asked media outlets to keep using the NewJeans name rather than NJZ, arguing that the exclusive contracts remained valid."
+      "ja": "Vogue Franceのウェブ記事「12 groupes de K-pop à suivre en 2025」（執筆：Lolita Mang）で、Deezer FranceのK-POPエディター、ルディ・ジャン＝バティストの解説とともに12組が紹介され、最初の項目が「NJZ (ex-NewJeans)」だった。記事は「Super Shy」でのBillboard Hot 100入りと2nd EP『Get Up』に触れ、前所属レーベルとの契約が破られた後の新たな出発として、グループがNJZに改名し、3月のComplexCon Hong Kongでヘッドライナーを務めると紹介した。これに先立つ2月10日、ADORは専属契約がなお有効だとして、報道機関にNewJeansの名称を使い続けるよう求めていた。",
+      "en": "Vogue France's web article '12 groupes de K-pop à suivre en 2025' (by Lolita Mang) presented twelve groups with commentary from Deezer France K-pop editor Rudy Jean-Baptiste, opening with 'NJZ (ex-NewJeans)'. It recalled the group's first Billboard Hot 100 entry with 'Super Shy' and the 2nd EP Get Up, and described the renaming to NJZ and their headlining slot at ComplexCon Hong Kong in March as a fresh start after the break with their former label. On February 10 ADOR had asked media outlets to keep using the NewJeans name, arguing that the exclusive contracts remained valid."
     },
     "credits": {
-      "outlet": "Vogue France"
+      "outlet": "Vogue France",
+      "writer": "Lolita Mang"
     }
   },
   {
@@ -913,23 +917,32 @@
       "ja": "仮処分決定の前後2回の対話で、メンバーが決定への衝撃とADORとの対立への思いを語ったBBCのインタビュー。",
       "en": "A BBC interview in two conversations, before and after the injunction ruling, on the members' shock and the dispute with ADOR."
     },
-    "source_url": "https://www.nme.com/news/music/newjeans-feud-ador-very-aware-intense-scrutiny-judgement-3849601",
-    "reference_urls": [],
+    "source_url": "https://www.youtube.com/watch?v=FAbMP0m57tM",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=FAbMP0m57tM",
+      "https://www.youtube.com/watch?v=pwkj0_0B3Gg",
+      "https://www.nme.com/news/music/newjeans-feud-ador-very-aware-intense-scrutiny-judgement-3849601"
+    ],
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "FAbMP0m57tM"
     },
     "tags": [
       "interview",
       "njz"
     ],
-    "verified": false,
-    "editor_note": "BBC記事URL未確認。NME(2025-03-27)の報道による。仮処分決定後の公開のため活動名義の扱いに注意。 | BBC article URL not located; details via NME 2025-03-27. | removed from reader text: [detail.en] The interviewer, programme and format are not confirmed by NME's report. / BBC記事URL未確認。内容はNME(2025-03-27)の報道による。インタビュアー、番組名、映像か記事かはNMEの報道からは確認できない。仮処分決定後の公開のため活動名義の扱いに注意。",
+    "verified": true,
+    "editor_note": "BBC記事URL未確認。NME(2025-03-27)の報道による。仮処分決定後の公開のため活動名義の扱いに注意。 | BBC article URL not located; details via NME 2025-03-27. | removed from reader text: [detail.en] The interviewer, programme and format are not confirmed by NME's report. / BBC記事URL未確認。内容はNME(2025-03-27)の報道による。インタビュアー、番組名、映像か記事かはNMEの報道からは確認できない。仮処分決定後の公開のため活動名義の扱いに注意。 / 2026-10-24 nightly: BBC News 코리아公式YouTube「뉴진스, 'NJZ' 활동을 중단한 이유」（2025-03-26 KST、取材 문준아）を特定。概要欄で仮処分判決前後2回のインタビューと「活動をしばらく止める」発言を確認。BBC News英語版の動画は3月28日。個々の発言はNMEの報道による。旧本文の「決定当日に異議申し立て」は概要欄で確認できず、活動中断の発言に置き換えた。",
     "detail": {
-      "ja": "ソウル中央地裁がADORの仮処分を認めた3月21日の決定の前後、2回に分けて行われた対話をまとめたインタビュー。メンバーは独自活動を禁じる決定を「ショック」と表現し、ミンジは「呆然とした」と語り、ダニエルは最初は聞き間違いかと思ったという。2024年11月に契約解除を発表した記者会見以来、厳しい世間の目を意識してきたと話し、ハニは若いからといって軽く扱われるべきではないと訴え、ヘインは長い間感情を抑えてきたと述べた。グループは決定当日、信頼関係の破綻が十分に考慮されていないとして異議を申し立てていた。",
-      "en": "An interview with NewJeans (NJZ) made up of two conversations, one before and one after the Seoul Central District Court's March 21 decision granting ADOR's injunction. The members called the ruling barring independent activities a shock; Minji said she was stunned, and Danielle said she at first thought she had misheard. They said they had felt intense public scrutiny since the November 2024 press conference announcing the termination of their contracts; Hanni argued their youth should not lead people to take them less seriously, and Hyein said they had held things in for a long time. The group had filed an objection on the day of the ruling, arguing it did not fully account for the breakdown of trust with ADOR."
+      "ja": "ソウル中央地裁がADORの仮処分を認めた3月21日の決定の前後、2回に分けて行われた対話をまとめたインタビューで、BBC News 코리아のYouTubeとウェブで公開された。メンバーは独自活動を禁じる決定を「ショック」と表現し、ミンジは「呆然とした」と語り、ダニエルは最初は聞き間違いかと思ったという。2024年11月に契約解除を発表した記者会見以来、厳しい世間の目を意識してきたと話し、ハニは若いからといって軽く扱われるべきではないと訴え、ヘインは長い間感情を抑えてきたと述べた。メンバーは裁判所の決定を尊重して、しばらくすべての活動を止めることにしたと明らかにしている。",
+      "en": "An interview made up of two conversations, one before and one after the Seoul Central District Court's March 21 decision granting ADOR's injunction, published on BBC News Korean's YouTube channel and website. The members called the ruling barring independent activities a shock; Minji said she was stunned, and Danielle said she at first thought she had misheard. They said they had felt intense public scrutiny since the November 2024 press conference announcing the termination of their contracts; Hanni argued their youth should not lead people to take them less seriously, and Hyein said they had held things in for a long time. The members had said they would pause all activities for now out of respect for the court's decision."
     },
     "credits": {
-      "outlet": "BBC"
+      "outlet": "BBC News Korean",
+      "reporter": {
+        "ja": "ムン・ジュナ",
+        "en": "Moon Joon-a"
+      }
     }
   },
   {

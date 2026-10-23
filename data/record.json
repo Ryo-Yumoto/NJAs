@@ -1268,7 +1268,7 @@
     "reference_urls": [
       "https://www.soompi.com/article/1561968wpp/newjeans-achieves-4th-highest-1st-week-sales-of-any-girl-group-in-hanteo-history-with-omg"
     ],
-    "editor_note": "Hanteoチャート初日集計に基づく。 / No Hanteo primary page found for the 481,425 first-day figure; only secondary press. Not contradicted."
+    "editor_note": "Hanteoチャート初日集計に基づく。 / No Hanteo primary page found for the 481,425 first-day figure; only secondary press. Not contradicted. / 2026-10-24 nightly: Hanteoチャート（hanteochart.comはリダイレクト、Hanteo Newsは検索がクライアント側で取得不可）やADOR公式の発表を探したが、481,425枚の数字を載せた一次ページは見つからず。韓国紙の検索でも「48万枚超」までで正確な数字は出なかった。"
   },
   {
     "id": "record-2023-01-02-omg-stock-preorders-800k",
@@ -1300,7 +1300,7 @@
       "sales"
     ],
     "verified": false,
-    "editor_note": "Pre-order figure comes from an ADOR statement relayed by press; no ADOR/NewJeans official post located. Not contradicted."
+    "editor_note": "Pre-order figure comes from an ADOR statement relayed by press; no ADOR/NewJeans official post located. Not contradicted. / 2026-10-24 nightly: Soompi（2023-01-02）を取得したが発表元の記載なし（Naver記事の引用のみ）。ADOR/NewJeans公式の発表や韓国紙の「[공식]」記事を検索したが80万枚の数字は見つからず。"
   },
   {
     "id": "record-2023-01-07-gda-37-digital-bonsang-attention",
@@ -1324,18 +1324,22 @@
       "ja": "「Attention」で第37回Golden Disc Awardsのデジタル音源部門本賞（Best Digital Song Bonsang）を受賞した。2023年1月7日の授賞式で、BIGBANG、(G)I-DLE、IVE、イム・ヨンウン、PSYらと並ぶ受賞だった。",
       "en": "'Attention' earned NewJeans a Best Digital Song Bonsang at the 37th Golden Disc Awards on January 7, 2023. BIGBANG, (G)I-DLE, IVE, Lim Young Woong and PSY were among the other Bonsang recipients."
     },
-    "source_url": "https://www.soompi.com/article/1561876wpp/winners-of-the-golden-disc-awards-2023",
+    "source_url": "https://www.youtube.com/watch?v=WyZERuR-bXs",
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "WyZERuR-bXs"
     },
     "tags": [
       "award"
     ],
-    "verified": false,
+    "verified": true,
     "reference_urls": [
+      "https://www.youtube.com/watch?v=WyZERuR-bXs",
+      "https://www.youtube.com/watch?v=JLphHYNzCLM",
+      "https://www.soompi.com/article/1561876wpp/winners-of-the-golden-disc-awards-2023",
       "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
     ],
-    "editor_note": "Golden Disc organizer (Ilgan Sports/JTBC) article for the 37th GDA could not be located via search (isplus search surfaces only 38th/39th); goldendisc.co.kr winners page is JS-only. Secondary press (OSEN, The Fact) report NewJeans won a Digital Song Bonsang and Rookie award on 2023-01-07 in Bangkok; none names 'Attention' as the awarded song. Not contradicted."
+    "editor_note": "Golden Disc organizer (Ilgan Sports/JTBC) article for the 37th GDA could not be located via search (isplus search surfaces only 38th/39th); goldendisc.co.kr winners page is JS-only. Secondary press (OSEN, The Fact) report NewJeans won a Digital Song Bonsang and Rookie award on 2023-01-07 in Bangkok; none names 'Attention' as the awarded song. Not contradicted. / 2026-10-24 nightly: Golden Disc公式YouTube「[37th Golden Disc Awards] Digital Song Division Bonsang (Main Prize) - NewJeans | JTBC」（2023-01-07 KST）で受賞と日付を確認。受賞対象曲が「Attention」である点は公式動画に記載がなく、Wikipedia等による。"
   },
   {
     "id": "record-2023-01-07-gda-37-rookie-artist-of-the-year",
@@ -1359,15 +1363,23 @@
       "ja": "第37回Golden Disc AwardsでRookie Artist of the Yearを受賞した。授賞式は2023年1月7日、タイ・バンコクのラジャマンガラ・スタジアムで開催され、IVE、LE SSERAFIMとともに受賞し、「Attention」「Hype Boy」「OMG」を披露した。",
       "en": "NewJeans received Rookie Artist of the Year at the 37th Golden Disc Awards, held January 7, 2023 at Rajamangala Stadium in Bangkok. IVE and LE SSERAFIM shared the award, and NewJeans performed 'Attention', 'Hype Boy' and 'OMG'."
     },
-    "source_url": "https://www.soompi.com/article/1561876wpp/winners-of-the-golden-disc-awards-2023",
+    "source_url": "https://www.youtube.com/watch?v=j9h3jWNaKNY",
     "media": {
-      "type": "none"
+      "type": "youtube",
+      "ref": "j9h3jWNaKNY"
     },
     "tags": [
       "award"
     ],
-    "verified": false,
-    "editor_note": "Same as above: Rookie Artist of the Year (shared with LE SSERAFIM, IVE) is reported by OSEN/The Fact, but no organizer page found."
+    "verified": true,
+    "editor_note": "Same as above: Rookie Artist of the Year (shared with LE SSERAFIM, IVE) is reported by OSEN/The Fact, but no organizer page found. / 2026-10-24 nightly: Golden Disc公式YouTubeで「[제37회 골든디스크] 신인상 - NewJeans｜JTBC 230107」とIVE・LE SSERAFIMの新人賞動画、ステージ動画「Opening + Attention (Golden Disc ver.) + Hype Boy + OMG」（いずれも2023-01-07 KST）を確認。会場（ラジャマンガラ・スタジアム）は二次資料による。",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=j9h3jWNaKNY",
+      "https://www.youtube.com/watch?v=EKA6UQPGu8g",
+      "https://www.youtube.com/watch?v=5ZafXQw4UoA",
+      "https://www.youtube.com/watch?v=pXV-dJfu8JI",
+      "https://www.soompi.com/article/1561876wpp/winners-of-the-golden-disc-awards-2023"
+    ]
   },
   {
     "id": "record-2023-01-07-gda-37-tiktok-most-popular-artist-nomination",
@@ -1400,7 +1412,7 @@
       "gda"
     ],
     "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; popularity-vote candidate list and start date not found."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; popularity-vote candidate list and start date not found. / 2026-10-24 nightly: Golden Disc公式YouTubeに人気賞の投票案内動画はあるが候補者一覧は確認できず、公式サイトはJSのみで取得不可。ノミネートを示す一次ソースが見つからない。"
   },
   {
     "id": "record-2023-01-07-omg-oricon-daily-singles-no1",
@@ -1413,18 +1425,18 @@
       "all"
     ],
     "title": {
-      "ja": "『OMG』オリコン デイリーシングルランキング初登場1位（初日20,638枚）",
-      "en": "OMG debuts at No. 1 on Oricon's Daily Singles Ranking with 20,638 copies"
+      "ja": "『OMG』オリコン デイリーシングルランキング1位",
+      "en": "OMG tops Oricon's Daily Singles Ranking"
     },
     "summary": {
-      "ja": "『OMG』がオリコンデイリーシングルランキングで初登場1位となり、日本での発売初日に20,638枚を売り上げてグループ初のオリコン1位を記録した。",
-      "en": "OMG debuted at No. 1 on Oricon's Daily Singles Ranking with 20,638 copies sold on its first day in Japan, the group's first Oricon chart-topper."
+      "ja": "『OMG』がオリコンのデイリーシングルランキングで1位となり、グループ初のオリコン1位を記録したと報じられた。",
+      "en": "OMG was reported to have reached No. 1 on Oricon's Daily Singles Ranking, the group's first Oricon chart-topper."
     },
     "detail": {
-      "ja": "1stシングルアルバム『OMG』がオリコンのデイリーシングルランキングで初登場1位となった。2023年1月7日のオリコン発表で、日本での発売初日の売上は20,638枚。先行曲「Ditto」は週間ストリーミングランキングで6位に初登場していた。",
-      "en": "The single album OMG debuted at No. 1 on Oricon's Daily Singles Ranking, as Oricon announced on January 7, 2023, with 20,638 copies sold on its first day in Japan. 'Ditto' had earlier debuted at No. 6 on Oricon's weekly streaming ranking."
+      "ja": "1stシングルアルバム『OMG』がオリコンのデイリーシングルランキングで1位になったと報じられた。先行曲「Ditto」は週間ストリーミングランキングで6位に初登場していた。",
+      "en": "The single album OMG was reported to have reached No. 1 on Oricon's Daily Singles Ranking. 'Ditto' had earlier debuted at No. 6 on Oricon's weekly streaming ranking."
     },
-    "source_url": "https://www.oricon.co.jp/news/2263876/full/",
+    "source_url": "https://www.soompi.com/article/1561909wpp/newjeans-tops-oricons-daily-singles-chart-for-1st-time-with-omg",
     "media": {
       "type": "none"
     },
@@ -1434,9 +1446,10 @@
     ],
     "verified": false,
     "reference_urls": [
-      "https://www.soompi.com/article/1561909wpp/newjeans-tops-oricons-daily-singles-chart-for-1st-time-with-omg"
+      "https://www.soompi.com/article/1561909wpp/newjeans-tops-oricons-daily-singles-chart-for-1st-time-with-omg",
+      "https://www.oricon.co.jp/news/2263876/full/"
     ],
-    "editor_note": "Oricon's daily ranking archive only covers recent dates (2023-01-07 page returns 404). Oricon News (2023-01-13) confirms the CD charted No. 2 on the weekly singles chart with 2.1万 first-week sales and 20,638 CD points - the 20,638 in the record is the CD point figure, not a daily count. Daily No. 1 on Jan 7 could not be verified."
+    "editor_note": "Oricon's daily ranking archive only covers recent dates (2023-01-07 page returns 404). Oricon News (2023-01-13) confirms the CD charted No. 2 on the weekly singles chart with 2.1万 first-week sales and 20,638 CD points - the 20,638 in the record is the CD point figure, not a daily count. Daily No. 1 on Jan 7 could not be verified. / 2026-10-24 nightly: オリコンニュース2263876（2023-01-13 04:00）を取得。内容は週間合算シングル1位（56,560PT、CD 20,638PT）で、別レコードrecord-2023-01-13-omg-oricon-weekly-single-no1の出典。20,638は週間CDポイントでありデイリー初日枚数ではないため、題名・本文から数字を削除し、source_urlをデイリー1位を伝えるSoompiに替えた。オリコンのデイリーランキング（2023-01-07付）は過去分が取得できず、デイリー1位自体は未確認のまま。"
   },
   {
     "id": "record-2023-01-08-omg-first-week-hanteo-701k",

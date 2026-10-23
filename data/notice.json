@@ -475,6 +475,7 @@
     },
     "source_url": "https://biz.sbs.co.kr/amp/article/20000174049",
     "reference_urls": [
+      "https://biz.sbs.co.kr/amp/article/20000174049",
       "https://dealsite.co.kr/articles/123351",
       "https://nocutnews.co.kr/news/6153323"
     ],
@@ -487,10 +488,10 @@
       "min-hee-jin",
       "dispute"
     ],
-    "verified": false,
+    "verified": true,
     "note": "裁判所は「解任事由が十分に疎明されていない」としつつ、ミン代表が独立支配の方法を模索したことは「明らか」と付言した。",
     "note_en": "The court said the grounds for dismissal had not been sufficiently shown, while adding that it was 'clear' CEO Min had explored ways to gain independent control.",
-    "editor_note": "Date and bench consistent across SBS Biz, Dealsite, Nocut. Court press release not retrievable (scourt.go.kr connection reset). | Court press release not retrievable; details per SBS Biz. Case number not given in the coverage. / Date and bench consistent across SBS Biz, Dealsite and Nocut; details per SBS Biz. Court press release not retrievable (scourt.go.kr connection reset); case number not given in coverage. Cut for length: Min's side argued the shareholders' agreement guaranteed a five-year term, HYBE that its clause allowed a resignation demand for damage of 1 billion won or more or acts such as embezzlement.",
+    "editor_note": "Date and bench consistent across SBS Biz, Dealsite, Nocut. Court press release not retrievable (scourt.go.kr connection reset). | Court press release not retrievable; details per SBS Biz. Case number not given in the coverage. / Date and bench consistent across SBS Biz, Dealsite and Nocut; details per SBS Biz. Court press release not retrievable (scourt.go.kr connection reset); case number not given in coverage. Cut for length: Min's side argued the shareholders' agreement guaranteed a five-year term, HYBE that its clause allowed a resignation demand for damage of 1 billion won or more or acts such as embezzlement. / 2026-10-24 nightly: 裁判所の公表資料は取得できず（一次ページなし）、SBS Biz（2024-05-30 15:40）を取得して合議50部・キム・サンフン首席部長判事、仮処分認容、違反時200億ウォン、「背信的行為だが背任ではない」の判断を確認。",
     "detail": {
       "ja": "ソウル中央地裁民事合議50部（キム・サンフン首席部長判事）は、ミン・ヒジン代表が申請した議決権行使禁止の仮処分を認め、翌31日のADOR臨時株主総会でHYBEがミン代表の解任案に賛成の議決権を行使することを禁じ、違反した場合は200億ウォンを支払うよう命じた。裁判所は、解任・辞任事由の疎明責任を負うHYBEの疎明が十分でなく、その存否は本案で判断すべきで、総会が差し迫っている以上、取締役の地位を失えば後の金銭賠償では回復できないとした。一方、ミン代表がNewJeansをHYBEから切り離す方法やHYBEにADOR株を売らせる方法を模索したことは明らかだが具体的な実行には至っておらず、「背信的行為」ではあってもADORに対する背任には当たらないと判断した。",
       "en": "The Seoul Central District Court's Civil Division 50 (presiding senior judge Kim Sang-hoon) granted Min Hee-jin's injunction, barring HYBE from voting in favor of her dismissal at ADOR's extraordinary shareholders' meeting the next day, with a penalty of 20 billion won for any violation. The court held that HYBE bore the burden of showing grounds for dismissal or resignation and had not sufficiently done so, that the question belonged to the main suit, and that with the meeting imminent, the loss of her directorship could not be remedied by later compensation. It also found that Min had clearly explored ways to take NewJeans out of HYBE's sphere or to pressure HYBE into selling its ADOR shares, but that this had not reached concrete action and, while a betrayal, did not amount to a breach of duty against ADOR."
@@ -516,6 +517,7 @@
     },
     "source_url": "https://v.daum.net/v/20240531163303255",
     "reference_urls": [
+      "https://v.daum.net/v/20240531163303255",
       "https://nocutnews.co.kr/news/6154122",
       "https://sports.khan.co.kr/article/202406011110003"
     ],
@@ -529,8 +531,8 @@
       "min-hee-jin",
       "press-conference"
     ],
-    "verified": false,
-    "editor_note": "New inside directors: Kim Ju-young (CHRO), Lee Jae-sang (CSO), Lee Kyung-jun (CFO). HYBE said it respected the court decision and would take further steps within the law.",
+    "verified": true,
+    "editor_note": "New inside directors: Kim Ju-young (CHRO), Lee Jae-sang (CSO), Lee Kyung-jun (CFO). HYBE said it respected the court decision and would take further steps within the law. / 2026-10-24 nightly: ADOR・HYBEの公式発表ページはなく、SPOTV NEWS（Daum配信、2024-05-31 16:33）を取得してミン代表の留任、シン副代表・キム理事の解任、キム・ジュヨン（CHRO）・イ・ジェサン（CSO）・イ・ギョンジュン（CFO）の選任、光化門プレスセンターでの2回目の会見内容、HYBEのコメントを確認。",
     "detail": {
       "ja": "前日の仮処分決定により、HYBEはミン・ヒジン代表個人の解任案に議決権を行使できず、ミン代表は留任した。一方、ミン側とされるシン副代表とキム理事は解任され、HYBEが推薦したキム・ジュヨン（HYBE CHRO）、イ・ジェサン（CSO）、イ・ギョンジュン（CFO）が社内取締役に選ばれた。ミン代表は同日、光化門のプレスセンターで2回目の会見を開いて「身軽になった」と話し、大義のために次の章へ進もうとHYBEに和解を提案し、自分も一歩引くと述べた。裁判所がメディアで流れた主張の一部を正しくないと判断したとして決定の尊重を求め、東京ドーム公演、2025年のワールドツアー、年末のアルバムに影響が出ていると説明して、双方をゼロに戻しNewJeansの計画を維持しようと提案した。HYBEは法の枠内で後続の手続きを進めるとコメントした。",
       "en": "Because of the previous day's injunction, HYBE could not vote to dismiss CEO Min Hee-jin personally at ADOR's extraordinary shareholders' meeting in Seoul, and she remained CEO. Vice President Shin and Director Kim, regarded as her allies, were removed, and HYBE's nominees Kim Ju-young (HYBE CHRO), Lee Jae-sang (CSO) and Lee Kyung-jun (CFO) were appointed inside directors. The same day Min held a second press conference at the Press Center in Gwanghwamun, said she felt unburdened, proposed reconciliation with HYBE so that everyone could move to the next chapter for the greater good, and said she too would give up a step. She asked HYBE to respect the ruling, saying the court had found some media claims against her incorrect, said the Tokyo Dome show, a 2025 world tour and a year-end album had been affected, and proposed treating both sides as zero while keeping the NewJeans plan intact. HYBE said it would pursue follow-up procedures within the bounds of the law."
@@ -558,6 +560,7 @@
     },
     "source_url": "https://www.ytn.co.kr/_ln/0103_202408271802547687",
     "reference_urls": [
+      "https://www.ytn.co.kr/_ln/0103_202408271802547687",
       "https://magazine.hankyung.com/business/article/202408279846b",
       "https://biz.sbs.co.kr/amp/article/20000174192"
     ],
@@ -570,10 +573,10 @@
       "min-hee-jin",
       "dispute"
     ],
-    "verified": false,
-    "note": "ミン・ヒジン側は「一方的な解任」で仮処分決定と株主間契約に反すると反発した。",
-    "note_en": "Min Hee-jin's side objected that it was a 'unilateral dismissal' contrary to the injunction ruling and the shareholders' agreement.",
-    "editor_note": "Board meeting at 13:00 per Min's side statement (Nocut). ADOR: 'separating management from production serves ADOR's interests'. / Board meeting at 13:00 and the 08-24 notice per Min's side statement (Nocut); ADOR quote 'separating management from production serves ADOR's interests'. Primary report YTN.",
+    "verified": true,
+    "note": "ミン・ヒジン側は、本人の同意のない一方的な解任で株主間契約に反すると反発した。",
+    "note_en": "Min Hee-jin's side objected that the removal was unilateral, made without her consent, and breached the shareholders' agreement.",
+    "editor_note": "Board meeting at 13:00 per Min's side statement (Nocut). ADOR: 'separating management from production serves ADOR's interests'. / Board meeting at 13:00 and the 08-24 notice per Min's side statement (Nocut); ADOR quote 'separating management from production serves ADOR's interests'. Primary report YTN. / 2026-10-24 nightly: ADORの公式ページはなく、YTN（2024-08-27 18:02）を取得してキム・ジュヨン（社内取締役・HYBE CHRO）の代表選任、ミン氏の社内取締役残留とプロデュース継続の発表、ビデオ通話での参加、24日の通知、ミン側の反論（同意なき一方的解任・株主間契約違反、プロデュース継続は未協議で未定）を確認。readerノートの「仮処分決定に反する」はYTNで確認できず外した。",
     "detail": {
       "ja": "ADORの取締役会が、社内取締役でHYBEの最高人事責任者（CHRO）のキム・ジュヨンを新代表に選んだ。HYBEは8月24日に「代表理事変更の件」を議題とする27日の取締役会を通知しており、ミン・ヒジンはビデオ通話で参加した。ADORは、ミン・ヒジンは代表を退くが社内取締役として残りNewJeansのプロデュースを続けるとし、経営とプロデュースの分離がADORの利益になると説明した。ミン側は、本人の同意なく一方的に決議された解任で株主間契約の重大な違反だとし、プロデュース業務の継続は協議されておらず一方的な通告で、続けるかどうかはまだ決めていないと述べた。",
       "en": "ADOR's board appointed inside director Kim Ju-young, HYBE's chief human resources officer, as the new CEO. HYBE had given notice on August 24 of a board meeting on the 27th with a 'change of CEO' on the agenda, and Min Hee-jin joined by video call. ADOR said Min would step down as CEO but remain an inside director in charge of producing NewJeans, describing the separation of management and production as in ADOR's interest. Min's side called the removal a unilateral resolution without her consent and a material breach of the shareholders' agreement, said the producing role had not been discussed and was a one-sided notice, and said she had not yet decided whether to continue producing."
@@ -599,6 +602,7 @@
     },
     "source_url": "https://mobile.newsis.com/view/NISX20240911_0002885447",
     "reference_urls": [
+      "https://mobile.newsis.com/view/NISX20240911_0002885447",
       "https://www.fnnews.com/news/202409112105413615",
       "https://www.tenasia.co.kr/article/2024091134674"
     ],
@@ -610,10 +614,10 @@
       "ultimatum",
       "dispute"
     ],
-    "verified": false,
-    "note": "配信は約30分。配信後、動画とチャンネルは削除された。",
-    "note_en": "The stream ran about 30 minutes. Afterwards the video and the channel were deleted.",
-    "editor_note": "Exact start time not confirmed in reports ('11일 오후'); namu says the video was deleted around 19:35. ADOR reportedly had no prior notice. | note sentences already covered by detail: ハニは他レーベルのマネージャーから「無視して」と言われた件を語った。 / Removed source mention from reader text: Newsis, 19:40 KST; Korean broadcast title replaced with a translation.",
+    "verified": true,
+    "note": "配信は約30分。配信後、チャンネル（nwjns）は閉鎖された。",
+    "note_en": "The broadcast ran about 30 minutes. The 'nwjns' channel was closed afterwards.",
+    "editor_note": "Exact start time not confirmed in reports ('11일 오후'); namu says the video was deleted around 19:35. ADOR reportedly had no prior notice. | note sentences already covered by detail: ハニは他レーベルのマネージャーから「無視して」と言われた件を語った。 / Removed source mention from reader text: Newsis, 19:40 KST; Korean broadcast title replaced with a translation. / 2026-10-24 nightly: 配信動画・チャンネルは削除済みで一次ページなし。ニューシス（2024-09-11 19:40）でチャンネル名nwjns、約30分、約6万人視聴、ヘイン・ダニエル・ミンジの発言、9月25日の期限とパン・シヒョク議長への要求を確認。fnニュースで配信後のアカウント閉鎖を確認（動画の削除は明記なし、noteを「チャンネルは閉鎖」に修正）。ハニの「無視して」発言はこの2紙では未確認。",
     "detail": {
       "ja": "メンバー5人が新設したYouTubeチャンネル「nwjns」で予告なしに行った約30分の生配信「NewJeansが言いたいこと」で、約6万人が視聴した。ヘインはミン・ヒジン代表の解任から間もないのにスタッフが不当な要求と圧力を受けるのを見るのがつらく、5人の未来も心配だと配信の理由を語り、ダニエルはHYBEにミン代表への圧力をやめるよう求め、ミンジはミン代表が経営とプロデュースを一体で率いる元のADORに戻ることを望むと述べた。メンバーはHYBEのパン・シヒョク議長とHYBEに、9月25日までにADORを元に戻す賢明な決定を求めた。ハニは他のHYBEレーベルのマネージャーから「無視して」と言われたとする体験も語った。",
       "en": "The five members went live without notice on a newly created YouTube channel, 'nwjns', in a roughly 30-minute broadcast titled 'What NewJeans want to say', watched by about 60,000 people. Hyein said they went live because it was hard to watch staff face unfair demands and pressure so soon after CEO Min Hee-jin's dismissal and because she worried about the five members' future; Danielle asked HYBE to stop pressuring Min; and Minji said they wanted ADOR restored to its original form, with Min leading management and production together. The members asked HYBE chairman Bang Si-hyuk and HYBE to make the wise decision to return ADOR to its original state by September 25. Hanni also described being told 'ignore her' by a manager from another HYBE label."
@@ -640,6 +644,7 @@
     },
     "source_url": "https://v.daum.net/v/20240925161030451",
     "reference_urls": [
+      "https://v.daum.net/v/20240925161030451",
       "https://www.mydaily.co.kr/page/view/2024092509081919510",
       "https://www.fnnews.com/news/202409250912349898"
     ],
@@ -652,8 +657,8 @@
       "ultimatum",
       "dispute"
     ],
-    "verified": false,
-    "editor_note": "This is the deadline day set in the 09-11 live. English Wikipedia attributes the rejection to HYBE citing 'separation of management and production'; Korean reports attribute the decision to ADOR's board.",
+    "verified": true,
+    "editor_note": "This is the deadline day set in the 09-11 live. English Wikipedia attributes the rejection to HYBE citing 'separation of management and production'; Korean reports attribute the decision to ADOR's board. / 2026-10-24 nightly: ADORの公式ページはなく、TVリポート（Daum配信、2024-09-25 16:10）を取得して臨時株主総会招集の決議、代表復帰は「현재로서는 수용 불가」、9月11日の5年間のプロデュース提案、メンバーへのメール、ミン側の9月13日の仮処分申請を確認。",
     "detail": {
       "ja": "メンバーが9月11日の生配信で示した期限の日に、ADORはミン・ヒジンの代表復帰要求への回答を発表した。取締役会はミン・ヒジンを社内取締役に再選任するための臨時株主総会の招集を決議する一方、代表への復帰は「現時点では受け入れられない」とした。ADORは9月11日、専属契約の残存期間全体にあたる5年間のプロデュース業務をミン・ヒジンに提案し、プロデューサーとしての地位、任期、権限の基本的な保証を示して詳細は今後協議するとしていた。取締役会の議論とメンバーの質問への回答は、メンバーにメールで詳しく送られた。ミン側は9月13日、臨時株主総会の招集と社内取締役再選任を求める仮処分をソウル中央地裁に申請していた。",
       "en": "On September 25, the deadline set in the members' September 11 livestream, ADOR announced its reply to the demand for Min Hee-jin's return as CEO. Its board resolved to convene an extraordinary shareholders' meeting to re-elect Min as an inside director, but said her return as CEO was not acceptable at present. ADOR noted that on September 11 it had offered Min a five-year producing role for NewJeans covering the full remaining term of the group's contract, with basic guarantees on her position, term and authority as producer and further conditions to be negotiated. The board's discussion and answers to the members' questions were sent to the members in detail by email. Min's side had on September 13 asked the Seoul Central District Court for an injunction seeking an EGM and her re-election as inside director."
@@ -682,6 +687,7 @@
     },
     "source_url": "https://mobile.newsis.com/view/NISX20241015_0002920990",
     "reference_urls": [
+      "https://mobile.newsis.com/view/NISX20241015_0002920990",
       "https://www.khan.co.kr/article/202410151656001/amp",
       "https://m.seoul.co.kr/news/2024/10/15/20241015500141"
     ],
@@ -693,8 +699,8 @@
       "national-assembly",
       "workplace-harassment"
     ],
-    "verified": false,
-    "editor_note": "Afternoon session; exact start time not given in reports (arrival ~13:58, testimony reported 15:48).",
+    "verified": true,
+    "editor_note": "Afternoon session; exact start time not given in reports (arrival ~13:58, testimony reported 15:48). / 2026-10-24 nightly: 国会の公式映像ページは未取得。ニューシス（2024-10-15 15:53）でハニの発言（法がすべてを解決できなくても人間として尊重すれば…、先輩・同期・後輩・練習生、メンバーと職員は謝らなくてよい、謝るべき人は分かっていない、オーストラリア大使館が両親に連絡）、キム・ジュヨン代表の発言、BELIFT LABの反論を確認。京郷新聞でも参考人出席を確認。",
     "detail": {
       "ja": "ハニが汝矣島の国会で環境労働委員会の国政監査に参考人として出席し、職場内のいじめと嫌がらせをめぐる質疑で証言した。ハニは前月の生配信で、HYBE傘下の別レーベル（ILLITのBELIFT LAB）のマネージャーが聞こえるように「無視して」と言ったと主張し、BELIFT LABはCCTV映像と内部調査を根拠に否定していた。ハニは涙ながらに、法律がすべてを解決できなくても人を人として尊重すれば職場のいじめや仲間外れはなくなると述べ、問題を提起してくれた人々に感謝し、先輩や同僚、後輩、練習生が同じ心配をしなくて済むよう願った。家族のような韓国人メンバーやスタッフが代わりに謝る必要はなく、謝るべき人がそれを分かっていないとも語り、両親に連絡してくれたオーストラリア大使館に感謝した。ADORのキム・ジュヨン代表も出席し、双方の主張が食い違っており事実関係を確認中だと述べた。",
       "en": "Hanni appeared as a reference witness at the National Assembly Environment and Labor Committee's state audit in Yeouido, testifying in a session on workplace harassment and bullying. In the previous month's livestream she had said a manager from another HYBE label (ILLIT's BELIFT LAB) had said 'ignore her' within her hearing, which BELIFT LAB disputed citing CCTV footage and an internal review. In tears she said that even if laws cannot solve everything, workplace harassment and ostracism would not exist if people were treated as human, thanked those who raised the issue, and hoped seniors, peers, juniors and trainees would not have to worry about this. She said her Korean members and staff, who are like family, need not apologize on her behalf while those who should apologize did not understand this, and thanked the Australian embassy for contacting her parents. ADOR CEO Kim Ju-young also attended and said the accounts conflicted and the facts were still being verified."
