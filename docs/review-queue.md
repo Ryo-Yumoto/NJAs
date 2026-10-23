@@ -25,3 +25,7 @@
 
 | 2026-10-24 | goods-2023-09-12-…powerpuff（旧 goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop） | 夜間照合でWeverse Shop告知4530に基づき「Weverse Shopの予約開始（09-12 11:00 KST）」に組み替えた。画像はLINE FRIENDS US（2023-09-28作成）由来。この組み替えでよいか、LINE FRIENDSの記録として別に残すか | 未決（適用済み・元に戻せる） |
 | 2026-10-24 | Billboard Women in Music 2024 の web レコードと magazine レコード | 同じ表紙を2件で扱っている。どちらかを削除するか | 未決 |
+| 2026-10-24 | SNS台帳の範囲（Weverse告知120件） | 未収録の多くは事前収録の案内、サイン会の案内、応援法、ファンクラブ告知、法的対応の経過報告。方針「告知・発売・節目・声明」に含めてレコード化するか、運営的な案内として対象外にするか | 未決 |
+| 2026-10-24 | sns-2024-05-13-instagram-fujiwara-hiroshi-tshirt-post / sns-2024-06-29-instagram-bunnies-camp-tokyo-dome-photos | 投稿のshortcodeが公式アカウントではない（@fujiwarahiroshi / @mermaidhair）。公式投稿への差し替えか、記録の扱いの見直し | 未対応 |
+| 2026-10-24 | sns-2025-02-01-njz-official-x-account-opened | @NJZ_official の開設は 2025-02-03 22:55 KST（プロフィール情報）。日付を直す | 未対応 |
+| 2026-10-24 | sns台帳 YouTubeコミュニティ投稿の未収録29件・X 2件 | レコード未作成（Weverse告知の範囲判断とは別に進められる） | 未着手 |

@@ -1,0 +1,3709 @@
+{
+ "name": "sns_posts",
+ "category": "sns",
+ "scope": "2022-07-01以降、NewJeans/NJZの公式アカウント（X @NewJeans_ADOR・@NewJeans_jp・@NJZ_official、Instagram @newjeans_official、TikTok @newjeans_official、YouTubeコミュニティ投稿、Weverse/Phoningのアーティスト告知）が投稿した告知・発売/公開・節目（周年・記録達成・誕生日）・公式声明の投稿の全件（同日に複数プラットフォームへ同内容で投稿されたものは1項目、日常的な写真投稿・リポスト・返信は対象外）。",
+ "source": "https://www.youtube.com/@NewJeans_official/posts (innertube, 123 posts), https://weverse.io/newjeansofficial/notice + https://weverse.io/newjeans/notice (Weverse notice API, community-81/73, 275 notices), https://api.fxtwitter.com (X statuses referenced in data/*.json), https://www.instagram.com/api/v1/oembed/ (Instagram posts referenced in data/*.json), /home/user/NJAs/data/sns.json, data/mv.json, data/music.json, data/notice.json, https://en.wikipedia.org/wiki/NewJeans",
+ "fetched": "2026-10-23",
+ "match": "manual",
+ "items": [
+  {
+   "key": "x-2022-07-01-debut-teaser-roller-skating-rabbits",
+   "date": "2022-07-01",
+   "title": "ADOR teaser post for its new girl group's first content (roller-skating rabbits clip)",
+   "url": "https://x.com/alldoorsoneroom/status/1542656334394322945",
+   "record": "sns-2022-07-01-debut-teaser-roller-skating-rabbits",
+   "exclude": null,
+   "note": "release; platform: x"
+  },
+  {
+   "key": "x-2022-07-22-debut-day-post",
+   "date": "2022-07-22",
+   "title": "Debut-day post ('Attention' release)",
+   "url": "https://x.com/NewJeans_ADOR/status/1550133496085184512",
+   "record": "sns-2022-07-22-debut-day-post",
+   "exclude": null,
+   "note": "release; platform: x; status 1550133496085184512 returns 404 (deleted)"
+  },
+  {
+   "key": "x-2022-07-22-debut-teaser-photos",
+   "date": "2022-07-22",
+   "title": "Debut teaser photos (group + individual)",
+   "url": "https://x.com/NewJeans_ADOR",
+   "record": "sns-2022-07-22-debut-teaser-photos",
+   "exclude": null,
+   "note": "release; platform: x"
+  },
+  {
+   "key": "x-2022-07-23-hype-boy-mvs-intro-four-member-versions-release-post",
+   "date": "2022-07-23",
+   "title": "'Hype Boy' MVs (intro + four member versions) release post",
+   "url": "https://www.youtube.com/@NewJeans_official",
+   "record": "mv-2022-07-23-hype-boy-intro",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "x-2022-07-23-member-profile-danielle",
+   "date": "2022-07-23",
+   "title": "Member introduction post: DANIELLE",
+   "url": "https://x.com/NewJeans_ADOR/status/1550496891535761413",
+   "record": "sns-2022-07-23-member-profile-danielle",
+   "exclude": null,
+   "note": "release; platform: x"
+  },
+  {
+   "key": "x-2022-07-23-member-profile-haerin",
+   "date": "2022-07-23",
+   "title": "Member introduction post: HAERIN",
+   "url": "https://x.com/NewJeans_ADOR/status/1550496639588130820",
+   "record": "sns-2022-07-23-member-profile-haerin",
+   "exclude": null,
+   "note": "release; platform: x"
+  },
+  {
+   "key": "x-2022-07-23-member-profile-hanni",
+   "date": "2022-07-23",
+   "title": "Member introduction post: HANNI",
+   "url": "https://x.com/NewJeans_ADOR/status/1550496136217038848",
+   "record": "sns-2022-07-23-member-profile-hanni",
+   "exclude": null,
+   "note": "release; platform: x"
+  },
+  {
+   "key": "x-2022-07-23-member-profile-hyein",
+   "date": "2022-07-23",
+   "title": "Member introduction post: HYEIN",
+   "url": "https://x.com/NewJeans_ADOR/status/1550496387833311233",
+   "record": "sns-2022-07-23-member-profile-hyein",
+   "exclude": null,
+   "note": "release; platform: x"
+  },
+  {
+   "key": "x-2022-07-23-member-profile-minji",
+   "date": "2022-07-23",
+   "title": "Member introduction post: MINJI",
+   "url": "https://x.com/NewJeans_ADOR/status/1550495896827113474",
+   "record": "sns-2022-07-23-member-profile-minji",
+   "exclude": null,
+   "note": "release; platform: x"
+  },
+  {
+   "key": "x-2022-07-24-attention-post",
+   "date": "2022-07-24",
+   "title": "'A T T E N T I on!' post",
+   "url": "https://x.com/NewJeans_ADOR/status/1551083236746416128",
+   "record": "sns-2022-07-24-attention-post",
+   "exclude": null,
+   "note": "release; platform: x"
+  },
+  {
+   "key": "x-2022-07-25-1st-ep-bag-preorder",
+   "date": "2022-07-25",
+   "title": "1st EP Bag ver. (limited) pre-order post",
+   "url": "https://x.com/NewJeans_ADOR/status/1551387509388521473",
+   "record": "sns-2022-07-25-1st-ep-bag-preorder",
+   "exclude": null,
+   "note": "announce; platform: x"
+  },
+  {
+   "key": "x-2022-07-25-1st-ep-bluebook-preorder",
+   "date": "2022-07-25",
+   "title": "1st EP Bluebook ver. pre-order post",
+   "url": "https://x.com/NewJeans_ADOR/status/1551387258011275264",
+   "record": "sns-2022-07-25-1st-ep-bluebook-preorder",
+   "exclude": null,
+   "note": "announce; platform: x"
+  },
+  {
+   "key": "x-2022-07-25-1st-ep-weverse-albums-preorder",
+   "date": "2022-07-25",
+   "title": "1st EP Weverse Albums ver. pre-order post",
+   "url": "https://x.com/NewJeans_ADOR/status/1551387006046900224",
+   "record": "sns-2022-07-25-1st-ep-weverse-albums-preorder",
+   "exclude": null,
+   "note": "announce; platform: x"
+  },
+  {
+   "key": "x-2022-07-25-hurt-mv-release-post",
+   "date": "2022-07-25",
+   "title": "'Hurt' MV release post",
+   "url": "https://www.youtube.com/@NewJeans_official",
+   "record": "mv-2022-07-25-hurt-official-mv",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "x-2022-07-25-phoning-app-launch",
+   "date": "2022-07-25",
+   "title": "Official app 'Phoning' launch post",
+   "url": "https://x.com/NewJeans_ADOR/status/1551221918451245057",
+   "record": "sns-2022-07-25-phoning-app-launch",
+   "exclude": null,
+   "note": "announce; platform: x"
+  },
+  {
+   "key": "x-2022-07-27-phoning-hyein-day-post",
+   "date": "2022-07-27",
+   "title": "Phoning 'HYEIN DAY' post",
+   "url": "https://x.com/NewJeans_ADOR/status/1551945777186242560",
+   "record": "content-2022-07-27-phoning-hyein-day-live",
+   "exclude": null,
+   "note": "announce; platform: x; posted 00:01 KST; text: [Phoning📱] Yay! Today is HYEIN DAY! Phoning에서 혜인이와 베프 되기!  #NewJeans #Phoning #HYEIN"
+  },
+  {
+   "key": "youtube-2022-07-30-newjeans-1st-ep-new-jeans-countdown-live-2022-08-01-5pm-kst",
+   "date": "2022-07-30",
+   "title": "1st EP New Jeans COUNTDOWN LIVE notice",
+   "url": "https://www.youtube.com/post/Ugkxa8f3kxeWJt_vf6qkL1tyyzTs9Re1Ch1P",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platform: youtube community; posted 18:00 KST; event date differs from post date (record dated on the live); related record mv-2022-08-01-1st-ep-new-jeans-countdown-live"
+  },
+  {
+   "key": "x-2022-08-01-1st-ep-new-jeans-release-available-now-post",
+   "date": "2022-08-01",
+   "title": "1st EP 'New Jeans' release (Available Now) post",
+   "url": "https://en.wikipedia.org/wiki/New_Jeans_(EP)",
+   "record": "music-2022-08-01-new-jeans-ep",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "x-2022-08-01-cookie-mv-release-post",
+   "date": "2022-08-01",
+   "title": "'Cookie' MV release post",
+   "url": "https://www.youtube.com/@NewJeans_official",
+   "record": "mv-2022-08-01-cookie-official-mv",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "tiktok-2022-08-06-tiktok-1m-followers-attention-challenge",
+   "date": "2022-08-06",
+   "title": "Official TikTok passes 1M followers; \"Attention\" challenge begins",
+   "url": "https://mobile.newsis.com/view/NISX20220808_0001971195",
+   "record": "sns-2022-08-06-tiktok-1m-followers-attention-challenge",
+   "exclude": null,
+   "note": "milestone; platform: tiktok"
+  },
+  {
+   "key": "tiktok-2022-08-08-tiktok-attention-red-light-green-light",
+   "date": "2022-08-08",
+   "title": "TikTok video \"Attention light Green light!\"",
+   "url": "https://x.com/NewJeans_ADOR/status/1556650134670233600",
+   "record": "sns-2022-08-08-tiktok-attention-red-light-green-light",
+   "exclude": null,
+   "note": "release; platform: tiktok"
+  },
+  {
+   "key": "youtube-2022-08-20-shared-dacx8-hlxty",
+   "date": "2022-08-20",
+   "title": "Shared video: #NewJeans (#뉴진스) -“Hurt” Band LIVE Concert│최초로 공개하는 뉴진스의 Hurt FULL ver.💗 [it’s K",
+   "url": "https://www.youtube.com/post/UgkxQw1WVbww-G-cb88bN9MTQXszI3bqU4hm",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 18:00 KST; attached video https://youtu.be/DaCx8_hLxTY"
+  },
+  {
+   "key": "phoning-2022-09-01-how-to-send-fan-letters-to-newjeans",
+   "date": "2022-09-01",
+   "title": "Phoning/Weverse notice: How to send fan letters to NewJeans",
+   "url": "https://weverse.io/newjeans/notice/3579",
+   "record": null,
+   "exclude": "プラットフォーム運営・利用案内の告知（NewJeansの活動の告知・発売・節目・声明ではない）",
+   "note": "announce; platforms: phoning (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 16:38 KST"
+  },
+  {
+   "key": "youtube-2022-09-08-shared-w7if6gsgok",
+   "date": "2022-09-08",
+   "title": "Shared video: 이게 바로 케미 맛집?! #뉴진스 멤버들의 귀염뽀작 케미💘 #NewJeans #민지, #하니, #다니엘, #해린, #혜인 의 이모지 인터뷰🐰👖 ",
+   "url": "https://www.youtube.com/post/UgkxduLBFCWYZZhUGjzlII1ePKpxscta4s45",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 21:00 KST; attached video https://youtu.be/_W7if6GSgok"
+  },
+  {
+   "key": "phoning-2022-09-14-phoning-terms-of-service-changes",
+   "date": "2022-09-14",
+   "title": "Phoning/Weverse notice: Phoning terms of service changes",
+   "url": "https://weverse.io/newjeans/notice/3640",
+   "record": null,
+   "exclude": "プラットフォーム運営・利用案内の告知（NewJeansの活動の告知・発売・節目・声明ではない）",
+   "note": "announce; platforms: phoning (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 12:00 KST"
+  },
+  {
+   "key": "phoning-2022-09-20-phoning-service-operation-policy-changes",
+   "date": "2022-09-20",
+   "title": "Phoning/Weverse notice: Phoning service operation policy changes",
+   "url": "https://weverse.io/newjeans/notice/9047",
+   "record": null,
+   "exclude": "プラットフォーム運営・利用案内の告知（NewJeansの活動の告知・発売・節目・声明ではない）",
+   "note": "announce; platforms: phoning (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:36 KST"
+  },
+  {
+   "key": "phoning-2022-09-20-phoning-youth-protection-policy-changes",
+   "date": "2022-09-20",
+   "title": "Phoning/Weverse notice: Phoning youth protection policy changes",
+   "url": "https://weverse.io/newjeans/notice/9048",
+   "record": null,
+   "exclude": "プラットフォーム運営・利用案内の告知（NewJeansの活動の告知・発売・節目・声明ではない）",
+   "note": "announce; platforms: phoning (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:36 KST"
+  },
+  {
+   "key": "youtube-2022-09-28-shared-6lhr64t9evm",
+   "date": "2022-09-28",
+   "title": "Shared video: #뉴진스(#NewJeans)도 게임에 진심이었어💞 귀요미들 찐텐션 볼 사람 모여라 l SPOILER GAME I GQ Shoothing Behi",
+   "url": "https://www.youtube.com/post/UgkxnfromXas4NzPDuniFFhbwjxI0yIsvArw",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 18:16 KST; attached video https://youtu.be/6lhr64T9EvM"
+  },
+  {
+   "key": "youtube-2022-10-06-happy-hanni-day",
+   "date": "2022-10-06",
+   "title": "Happy Hanni Day birthday post",
+   "url": "https://www.youtube.com/post/UgkxG4KfhgIbl9kztM7BxTHXHVmGWAIrMuEV",
+   "record": null,
+   "exclude": null,
+   "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
+  },
+  {
+   "key": "youtube-2022-10-07-shared-snymxh7-9yq",
+   "date": "2022-10-07",
+   "title": "Shared video: 프로 아이돌 그 잡채 #뉴진스(#NEWJEANS), \"이거 다 보면...입덕하는 거다?\"",
+   "url": "https://www.youtube.com/post/UgkxldMbdpJXZv3gH002rMsKzszBuqZHuZdB",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 21:04 KST; attached video https://youtu.be/sNyMxH7_9yQ"
+  },
+  {
+   "key": "youtube-2022-10-11-shared-apygl-hax2o",
+   "date": "2022-10-11",
+   "title": "Shared video: Pinkfong's 🐱 Ninimo Song Dance with 🐰👖#NewJeans🧡 | 💖 KPOP Dance Collab. | Pinkfo",
+   "url": "https://www.youtube.com/post/UgkxJ-_HY2ccLnbMXiYz0KBXQBN-_e6mEakl",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 19:06 KST; attached video https://youtu.be/APyGL-haX2o"
+  },
+  {
+   "key": "youtube-2022-10-11-shared-rk2n1otxq8s",
+   "date": "2022-10-11",
+   "title": "Shared video: 니니모송🐱 | #뉴진스 X 핑크퐁 X 아기상어 | 니니모는 핑크퐁, 뉴진스가 가는 곳 어디든 따라갈테야🐈 | 핑크퐁 Dance Alive",
+   "url": "https://www.youtube.com/post/Ugkxe1n08_vqlUMCr9AyXX7sP4zd2CW1Z9Vf",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 19:05 KST; attached video https://youtu.be/rk2N1OtxQ8s"
+  },
+  {
+   "key": "youtube-2022-10-14-shared-kyia5il-jma",
+   "date": "2022-10-14",
+   "title": "Shared video: Attention (어텐션)✨ | #뉴진스 X 핑크퐁 X 아기상어 | 스페셜 콜라보 | 뉴진스와 함께한 핑크퐁, 아기상어의 KPOP 커버댄스 |",
+   "url": "https://www.youtube.com/post/Ugkxs0brf0Y2BQaSEbkeEf92VknMADqQ-wYr",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 19:01 KST; attached video https://youtu.be/KYiA5Il-JmA"
+  },
+  {
+   "key": "youtube-2022-10-14-shared-y4mf2vln-xk",
+   "date": "2022-10-14",
+   "title": "Shared video: ⭐️Attention Dance Cover by Pinkfong x Baby Shark x #NewJeans | 💖 KPOP Dance Coll",
+   "url": "https://www.youtube.com/post/UgkxKNr6Oz4aiRw8fwtitwi0BZaxMEAofj7c",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 19:04 KST; attached video https://youtu.be/Y4Mf2vln_xk"
+  },
+  {
+   "key": "youtube-2022-10-21-shared-48i-cqcjbck",
+   "date": "2022-10-21",
+   "title": "Shared video: Pinkfong and Baby Shark to Join #NewJeans💃🏻 | Looking for Attention!👀 | Pinkfong",
+   "url": "https://www.youtube.com/post/Ugkxb3w27vezvCUhch4kFEk7uWz2tJ5_Ts4g",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 19:05 KST; attached video https://youtu.be/48I_cQCjBCk"
+  },
+  {
+   "key": "youtube-2022-10-21-shared-aeo8pwcyd4a",
+   "date": "2022-10-21",
+   "title": "Shared video: 핑크퐁VS아기상어, #뉴진스 의 새 멤버는 누가 될까? | 뉴진스가 직접 알려주는 Attention(어텐션) 안무 포인트 | 뉴진스의 댄스클래스",
+   "url": "https://www.youtube.com/post/UgkxZbCxtcimb03orfCv0KvT5OV-XFoYTyHh",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 19:03 KST; attached video https://youtu.be/aeO8pwcYD4A"
+  },
+  {
+   "key": "phoning-2022-10-29-official-fandom-name-bunnies-and-official-light-stick",
+   "date": "2022-10-29",
+   "title": "Phoning/Weverse notice: Official fandom name 'Bunnies' and official light stick",
+   "url": "https://weverse.io/newjeans/notice/9647",
+   "record": "sns-2022-10-29-official-fanclub-name-bunnies",
+   "exclude": null,
+   "note": "announce; platforms: phoning (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 13:00 KST"
+  },
+  {
+   "key": "x-2022-10-29-binky-bong-name-reveal",
+   "date": "2022-10-29",
+   "title": "Light stick name \"Binky Bong\" revealed",
+   "url": "https://x.com/NewJeans_ADOR/status/1586297094012538881",
+   "record": "sns-2022-10-29-binky-bong-name-reveal",
+   "exclude": null,
+   "note": "announce; platform: x"
+  },
+  {
+   "key": "x-2022-10-29-debut-100-days-post",
+   "date": "2022-10-29",
+   "title": "Debut 100 days post",
+   "url": "https://x.com/NewJeans_ADOR/status/1586009899628220417",
+   "record": "sns-2022-10-29-debut-100-days-post",
+   "exclude": null,
+   "note": "milestone; platform: x; also YouTube community post https://www.youtube.com/post/UgkxQXP2GX0BHRV1fAvynvAPwlbVVhglz05C (2022-10-29 00:07 KST)"
+  },
+  {
+   "key": "x-2022-10-29-official-light-stick-reveal",
+   "date": "2022-10-29",
+   "title": "Official light stick revealed",
+   "url": "https://x.com/NewJeans_ADOR/status/1586205934421831680",
+   "record": "sns-2022-10-29-official-light-stick-reveal",
+   "exclude": null,
+   "note": "announce; platform: x"
+  },
+  {
+   "key": "weverse-2022-11-08-guide-for-newjeans-weverse-community",
+   "date": "2022-11-08",
+   "title": "Weverse notice: Guide for NewJeans Weverse Community",
+   "url": "https://weverse.io/newjeansofficial/notice/9649",
+   "record": null,
+   "exclude": "プラットフォーム運営・利用案内の告知（NewJeansの活動の告知・発売・節目・声明ではない）",
+   "note": "announce; platforms: weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 12:00 KST"
+  },
+  {
+   "key": "weverse-2022-11-14-phoning-new-services-and-paid-subscription",
+   "date": "2022-11-14",
+   "title": "Weverse notice: Phoning new services and paid subscription",
+   "url": "https://weverse.io/newjeansofficial/notice/9943",
+   "record": null,
+   "exclude": "プラットフォーム運営・利用案内の告知（NewJeansの活動の告知・発売・節目・声明ではない）",
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/9650"
+  },
+  {
+   "key": "youtube-2022-11-21-shared-z8briginkea",
+   "date": "2022-11-21",
+   "title": "Shared video: [ENG] #뉴진스 데뷔 후 가장 마음에 들었던 #혜인 의 스타일링은? GRWM 🐰💙 | VOGUE MEETS",
+   "url": "https://www.youtube.com/post/UgkxgIqN_JnezMGVf17BEiVqBRqUPoRx5XLz",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 21:18 KST; attached video https://youtu.be/Z8BRIGinkEA"
+  },
+  {
+   "key": "weverse-2022-11-22-newjeans-2023-season-s-greetings-release-announcement",
+   "date": "2022-11-22",
+   "title": "Weverse notice: NewJeans 2023 SEASON'S GREETINGS Release Announcement",
+   "url": "https://weverse.io/newjeansofficial/notice/9982",
+   "record": "sns-2022-11-22-2023-seasons-greetings-notice",
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse+x (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:58 KST; also https://weverse.io/newjeans/notice/10007; X relay: https://x.com/NewJeans_ADOR/status/1594888405229473794"
+  },
+  {
+   "key": "phoning-2022-11-28-we-re-having-a-scheduled-maintenance-on-december-1",
+   "date": "2022-11-28",
+   "title": "Phoning/Weverse notice: We’re having a scheduled maintenance on December 1",
+   "url": "https://weverse.io/newjeans/notice/10028",
+   "record": null,
+   "exclude": "プラットフォーム運営・利用案内の告知（NewJeansの活動の告知・発売・節目・声明ではない）",
+   "note": "announce; platforms: phoning (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST"
+  },
+  {
+   "key": "phoning-2022-11-30-phoning-subscription-passes-and-events",
+   "date": "2022-11-30",
+   "title": "Phoning/Weverse notice: Phoning subscription passes and events",
+   "url": "https://weverse.io/newjeans/notice/10089",
+   "record": null,
+   "exclude": "プラットフォーム運営・利用案内の告知（NewJeansの活動の告知・発売・節目・声明ではない）",
+   "note": "announce; platforms: phoning (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST"
+  },
+  {
+   "key": "weverse-2022-12-06-how-to-watch-newjeans-2023-season-s-greetings-special-video",
+   "date": "2022-12-06",
+   "title": "Weverse notice: How to Watch <NewJeans 2023 SEASON'S GREETINGS Special Video> VOD",
+   "url": "https://weverse.io/newjeansofficial/notice/10118",
+   "record": null,
+   "exclude": "プラットフォーム運営・利用案内の告知（NewJeansの活動の告知・発売・節目・声明ではない）",
+   "note": "announce; platforms: weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 18:00 KST"
+  },
+  {
+   "key": "weverse-2022-12-12-weverse-shop-pre-order-customer-newjeans-omg-video-call-fans",
+   "date": "2022-12-12",
+   "title": "Weverse notice: Weverse Shop Pre-order Customer NewJeans [OMG] Video Call Fansign",
+   "url": "https://weverse.io/newjeansofficial/notice/10190",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse+x (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/10197; X relay: https://x.com/NewJeans_ADOR/status/1602121189425840128; KR title: [NOTICE] Weverse Shop Pre-order Customer NewJeans [OMG] Video Call Fansign"
+  },
+  {
+   "key": "x-2022-12-12-ditto-teaser",
+   "date": "2022-12-12",
+   "title": "'Ditto' teaser post",
+   "url": "https://x.com/NewJeans_ADOR/status/1602121086598270976",
+   "record": "sns-2022-12-12-ditto-teaser",
+   "exclude": null,
+   "note": "release; platform: x"
+  },
+  {
+   "key": "x-2022-12-12-newjeans-of-winter-poster-2",
+   "date": "2022-12-12",
+   "title": "'NewJeans of Winter' moving poster (2)",
+   "url": "https://x.com/NewJeans_ADOR/status/1601955058916085760",
+   "record": "sns-2022-12-12-newjeans-of-winter-poster-2",
+   "exclude": null,
+   "note": "release; platform: x"
+  },
+  {
+   "key": "x-2022-12-12-newjeans-of-winter-poster-3",
+   "date": "2022-12-12",
+   "title": "'NewJeans of Winter' moving poster (3)",
+   "url": "https://x.com/NewJeans_ADOR/status/1601955112070455299",
+   "record": "sns-2022-12-12-newjeans-of-winter-poster-3",
+   "exclude": null,
+   "note": "release; platform: x"
+  },
+  {
+   "key": "x-2022-12-12-omg-comeback-announcement",
+   "date": "2022-12-12",
+   "title": "'NewJeans of Winter' OMG comeback announcement",
+   "url": "https://x.com/NewJeans_ADOR/status/1601954986296225793",
+   "record": "sns-2022-12-12-omg-comeback-announcement",
+   "exclude": null,
+   "note": "announce; platform: x"
+  },
+  {
+   "key": "x-2022-12-12-omg-preorder-start",
+   "date": "2022-12-12",
+   "title": "'OMG' pre-order start post",
+   "url": "https://x.com/NewJeans_ADOR/status/1602121156718624770",
+   "record": "sns-2022-12-12-omg-preorder-start",
+   "exclude": null,
+   "note": "announce; platform: x"
+  },
+  {
+   "key": "x-2022-12-14-newjeans-6-ditto-teaser-post",
+   "date": "2022-12-14",
+   "title": "'NewJeans 6' ('Ditto' teaser) post",
+   "url": "https://www.youtube.com/@NewJeans_official",
+   "record": "mv-2022-12-14-newjeans-6-ditto-teaser",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "youtube-2022-12-14-shared-z23kc3o2cai",
+   "date": "2022-12-14",
+   "title": "Shared video: 🎉대상, 신인상 축하해요👏 #뉴진스 는 자신의 이름을 하루에 몇 번 검색할까? 휴대폰에 서로의 이름을 어떻게 저장했을까? 궁금했던 모든 것, 전",
+   "url": "https://www.youtube.com/post/Ugkxb-StjGYas1SKI-yhDWXwoS3XjpFB2gxQ",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 09:00 KST; attached video https://youtu.be/z23Kc3O2cAI"
+  },
+  {
+   "key": "x-2022-12-15-omg-promotion-calendar",
+   "date": "2022-12-15",
+   "title": "'OMG' promotion calendar",
+   "url": "https://x.com/NewJeans_ADOR/status/1603042126341713920",
+   "record": "sns-2022-12-15-omg-promotion-calendar",
+   "exclude": null,
+   "note": "announce; platform: x"
+  },
+  {
+   "key": "x-2022-12-19-ditto-mv-side-a-side-b-release-post",
+   "date": "2022-12-19",
+   "title": "'Ditto' MV (side A / side B) release post",
+   "url": "https://www.youtube.com/@NewJeans_official",
+   "record": "mv-2022-12-19-ditto-official-mv-side-a",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "x-2022-12-19-ditto-release-available-now-post",
+   "date": "2022-12-19",
+   "title": "'Ditto' release (Available Now) post",
+   "url": "https://en.wikipedia.org/wiki/Ditto_(song)",
+   "record": "music-2022-12-19-ditto",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "x-2022-12-20-omg-packshot",
+   "date": "2022-12-20",
+   "title": "'OMG' packshot reveal",
+   "url": "https://x.com/NewJeans_ADOR/status/1605020452661133312",
+   "record": "sns-2022-12-20-omg-packshot",
+   "exclude": null,
+   "note": "announce; platform: x"
+  },
+  {
+   "key": "weverse-2022-12-21-cheering-guide-attention",
+   "date": "2022-12-21",
+   "title": "Weverse notice: Cheering guide: Attention",
+   "url": "https://weverse.io/newjeansofficial/notice/10247",
+   "record": null,
+   "exclude": null,
+   "note": "release; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 19:30 KST; also https://weverse.io/newjeans/notice/10251"
+  },
+  {
+   "key": "weverse-2022-12-21-cheering-guide-cookie",
+   "date": "2022-12-21",
+   "title": "Weverse notice: Cheering guide: Cookie",
+   "url": "https://weverse.io/newjeansofficial/notice/10249",
+   "record": null,
+   "exclude": null,
+   "note": "release; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 19:30 KST; also https://weverse.io/newjeans/notice/10253"
+  },
+  {
+   "key": "weverse-2022-12-21-cheering-guide-ditto",
+   "date": "2022-12-21",
+   "title": "Weverse notice: Cheering guide: Ditto",
+   "url": "https://weverse.io/newjeansofficial/notice/10250",
+   "record": null,
+   "exclude": null,
+   "note": "release; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 19:30 KST; also https://weverse.io/newjeans/notice/10254"
+  },
+  {
+   "key": "weverse-2022-12-21-cheering-guide-hype-boy",
+   "date": "2022-12-21",
+   "title": "Weverse notice: Cheering guide: Hype Boy",
+   "url": "https://weverse.io/newjeansofficial/notice/10248",
+   "record": null,
+   "exclude": null,
+   "note": "release; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 19:30 KST; also https://weverse.io/newjeans/notice/10252"
+  },
+  {
+   "key": "weverse-2022-12-21-how-to-apply-for-sbs-gayo-daejeon-dec-2022",
+   "date": "2022-12-21",
+   "title": "Weverse notice: How to apply for SBS Gayo Daejeon (Dec 2022)",
+   "url": "https://weverse.io/newjeansofficial/notice/10260",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 17:00 KST; also https://weverse.io/newjeans/notice/10265; KR title: [Notice] SBS 가요대전 참여 안내 (+ENG/JPN)"
+  },
+  {
+   "key": "weverse-2022-12-21-newjeans-2023-season-s-greetings-additional-retailers",
+   "date": "2022-12-21",
+   "title": "Weverse notice: NewJeans 2023 SEASON'S GREETINGS Additional Retailers",
+   "url": "https://weverse.io/newjeansofficial/notice/10214",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 10:00 KST; also https://weverse.io/newjeans/notice/10215; KR title: [NOTICE] NewJeans 2023 SEASON'S GREETINGS 판매처 추가 안내 (+ENG/JPN)"
+  },
+  {
+   "key": "youtube-2022-12-23-shared-yd1ubliuee4",
+   "date": "2022-12-23",
+   "title": "Shared video: #NewJeans (#뉴진스) -“Ditto” Band LIVE Concert │뉴진스의 겨울싱글 밴드라이브🎄[it’s KPOP LIVE 잇츠라",
+   "url": "https://www.youtube.com/post/Ugkx9xzqS2jRWJq8g5SAkbvIjFJbRPyxgPAC",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 17:00 KST; attached video https://youtu.be/YD1UblIUEe4"
+  },
+  {
+   "key": "youtube-2022-12-26-newjeans-omg-countdown-live-2023-01-02-5pm-kst-4am-est-on-hy",
+   "date": "2022-12-26",
+   "title": "'OMG' COUNTDOWN LIVE notice",
+   "url": "https://www.youtube.com/post/UgkxCWdXEg02CoG27DMXAISgCX3yrRuwi5wC",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platform: youtube community; posted 11:21 KST; event date differs from post date (record dated on the live); related record mv-2023-01-02-omg-countdown-live"
+  },
+  {
+   "key": "weverse-2022-12-28-update-notice-on-legal-proceedings-against-violation-of-arti",
+   "date": "2022-12-28",
+   "title": "Weverse notice: Update Notice on Legal Proceedings Against Violation of Artist Rights (Dec. 28)",
+   "url": "https://weverse.io/newjeansofficial/notice/10298",
+   "record": null,
+   "exclude": null,
+   "note": "statement; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 17:00 KST; also https://weverse.io/newjeans/notice/10297; KR title: [NOTICE] 아티스트 권익 침해 관련 법적 대응 진행 상황 안내 (12.28)(+ENG)"
+  },
+  {
+   "key": "youtube-2022-12-29-shared-fqwpgvyvhuy",
+   "date": "2022-12-29",
+   "title": "Shared video: #뉴진스 #민지 못하는게 뭔지? ㅇㅇ상위 4프로에 도전! ⚡아이돌 출발 드림팀⚡ [EP.5-1] | Idol's Physical Race | #",
+   "url": "https://www.youtube.com/post/Ugkxup39xE31RVPktmbwFO3Umd8zMY8xqEBn",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 19:00 KST; attached video https://youtu.be/FQwpgvYVhuY"
+  },
+  {
+   "key": "weverse-2022-12-31-newjeans-omg-release-fan-signing-event-information",
+   "date": "2022-12-31",
+   "title": "Weverse notice: NewJeans [OMG] Release Fan-signing Event Information",
+   "url": "https://weverse.io/newjeansofficial/notice/10177",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 10:30 KST; also https://weverse.io/newjeans/notice/10176; KR title: [NOTICE] NewJeans [OMG] 활동 기념 팬사인회 안내 (+ENG/JPN)"
+  },
+  {
+   "key": "instagram-2023-01-02-instagram-omg-release-day-post-1",
+   "date": "2023-01-02",
+   "title": "Instagram post on the \"OMG\" release day (1)",
+   "url": "https://www.instagram.com/p/Cm5MDh1yTpc/",
+   "record": "sns-2023-01-02-instagram-omg-release-day-post-1",
+   "exclude": null,
+   "note": "release; platform: instagram"
+  },
+  {
+   "key": "instagram-2023-01-02-instagram-omg-release-day-post-2",
+   "date": "2023-01-02",
+   "title": "Instagram post on the \"OMG\" release day (2)",
+   "url": "https://www.instagram.com/p/Cm6pYZmSiFj/",
+   "record": "sns-2023-01-02-instagram-omg-release-day-post-2",
+   "exclude": null,
+   "note": "release; platform: instagram"
+  },
+  {
+   "key": "weverse-2023-01-02-misprint-on-newjeans-omg-message-card-ver-component-notice",
+   "date": "2023-01-02",
+   "title": "Weverse notice: Misprint on NewJeans ‘OMG’ Message Card ver. Component Notice",
+   "url": "https://weverse.io/newjeansofficial/notice/10342",
+   "record": null,
+   "exclude": "プラットフォーム運営・利用案内の告知（NewJeansの活動の告知・発売・節目・声明ではない）",
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 09:00 KST; also https://weverse.io/newjeans/notice/10343; KR title: [NOTICE] NewJeans ‘OMG’ Message Card ver. 구성품 내 오인쇄 안내 (+ENG/JPN/CHN)"
+  },
+  {
+   "key": "weverse-2023-01-02-newjeans-omg-release-fan-signing-event-information",
+   "date": "2023-01-02",
+   "title": "Weverse notice: NewJeans [OMG] Release Fan-signing Event Information",
+   "url": "https://weverse.io/newjeansofficial/notice/10328",
+   "record": "sns-2023-01-02-weverse-omg-fansign-notice",
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse+x (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 10:30 KST; also https://weverse.io/newjeans/notice/10345; X relay: https://x.com/NewJeans_ADOR/status/1609723776467361796; KR title: [NOTICE] NewJeans [OMG] 활동 기념 팬사인회 안내 (+ENG/JPN) (+0102추가)"
+  },
+  {
+   "key": "x-2023-01-02-omg-available-now",
+   "date": "2023-01-02",
+   "title": "\"OMG\" Available Now post",
+   "url": "https://x.com/NewJeans_ADOR/status/1609840814217363457",
+   "record": "sns-2023-01-02-omg-available-now",
+   "exclude": null,
+   "note": "release; platform: x"
+  },
+  {
+   "key": "x-2023-01-02-omg-mv-release-post",
+   "date": "2023-01-02",
+   "title": "'OMG' MV release post",
+   "url": "https://www.youtube.com/@NewJeans_official",
+   "record": "mv-2023-01-02-omg-official-mv",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "weverse-2023-01-03-cheering-guide-omg",
+   "date": "2023-01-03",
+   "title": "Weverse notice: Cheering guide: OMG",
+   "url": "https://weverse.io/newjeansofficial/notice/10350",
+   "record": null,
+   "exclude": null,
+   "note": "release; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 19:30 KST; also https://weverse.io/newjeans/notice/10376"
+  },
+  {
+   "key": "weverse-2023-01-03-newjeans-omg-release-fan-signing-event-information",
+   "date": "2023-01-03",
+   "title": "Weverse notice: NewJeans [OMG] Release Fan-signing Event Information",
+   "url": "https://weverse.io/newjeansofficial/notice/10329",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse+x (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 10:30 KST; also https://weverse.io/newjeans/notice/10349; X relay: https://x.com/NewJeans_ADOR/status/1610086166384054272; KR title: [NOTICE] NewJeans [OMG] 활동 기념 팬사인회 안내 (+ENG/JPN)(+0103추가)"
+  },
+  {
+   "key": "weverse-2023-01-04-newjeans-omg-release-fan-signing-event-information",
+   "date": "2023-01-04",
+   "title": "Weverse notice: NewJeans [OMG] Release Fan-signing Event Information",
+   "url": "https://weverse.io/newjeansofficial/notice/10330",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse+x (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 10:30 KST; also https://weverse.io/newjeans/notice/10374; X relay: https://x.com/NewJeans_ADOR/status/1610448427820654592; KR title: [NOTICE] NewJeans [OMG] 활동 기념 팬사인회 안내 (+ENG/JPN) (+0104추가)"
+  },
+  {
+   "key": "youtube-2023-01-04-shared-1hcdqixxjda",
+   "date": "2023-01-04",
+   "title": "Shared video: #뉴진스(#NewJeans) _ OMG | 1theKILLPO | 원더킬포 | 킬포인트 | 퍼포먼스 | Performance | 4K | #민지",
+   "url": "https://www.youtube.com/post/UgkxU183jSyqN-rt_gcaaNiPJXND5oYf-0Dx",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 20:00 KST; attached video https://youtu.be/1hcdQixxJdA"
+  },
+  {
+   "key": "weverse-2023-01-06-newjeans-omg-release-fan-signing-event-information",
+   "date": "2023-01-06",
+   "title": "Weverse notice: NewJeans [OMG] Release Fan-signing Event Information",
+   "url": "https://weverse.io/newjeansofficial/notice/10331",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse+x (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 10:30 KST; also https://weverse.io/newjeans/notice/12264; X relay: https://x.com/NewJeans_ADOR/status/1611173330471600128; KR title: [NOTICE] NewJeans [OMG] 활동 기념 팬사인회 안내 (+ENG/JPN) (+0106추가)"
+  },
+  {
+   "key": "youtube-2023-01-06-shared-co-ycyzu2ag",
+   "date": "2023-01-06",
+   "title": "Shared video: 한지분야 한류연계 협업콘텐츠 - #뉴진스, 한지를 만나다 ❉𓂂(◕˓˳◕ )𓂂❉",
+   "url": "https://www.youtube.com/post/Ugkxx4HyrEjC3ziqqqhgbllJum8ugHIDB0Yt",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 14:05 KST; attached video https://youtu.be/Co-YCyZu2ag"
+  },
+  {
+   "key": "youtube-2023-01-07-thanks-so-much-to-listen-our-new-album-omg-now-on",
+   "date": "2023-01-07",
+   "title": "Thank-you post to YouTube Music; 'OMG' on YouTube Music",
+   "url": "https://www.youtube.com/post/UgkxMmSTTxpkQL0WhQnb8ZPctEonS24bLgAO",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platform: youtube community; posted 14:00 KST"
+  },
+  {
+   "key": "weverse-2023-01-11-how-to-apply-for-kbs-music-bank-pre-recording",
+   "date": "2023-01-11",
+   "title": "Weverse notice: How to Apply for KBS <MUSIC BANK> Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/12280",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 15:30 KST; also https://weverse.io/newjeans/notice/12294; KR title: [Notice]  KBS <뮤직뱅크>  사전녹화 참여 안내 (+ENG/JPN)"
+  },
+  {
+   "key": "weverse-2023-01-12-regarding-newjeans-scheduled-appearances-for-january-13",
+   "date": "2023-01-12",
+   "title": "Weverse notice: Regarding NewJeans’ scheduled appearances for January 13",
+   "url": "https://weverse.io/newjeansofficial/notice/12305",
+   "record": null,
+   "exclude": null,
+   "note": "statement; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 12:40 KST; also https://weverse.io/newjeans/notice/12307; KR title: [NOTICE] NewJeans 1월 13일 스케줄 관련 안내 (+ENG/JPN/CHN)"
+  },
+  {
+   "key": "youtube-2023-01-12-shared-x3vpzchjgty",
+   "date": "2023-01-12",
+   "title": "Shared video: #뉴진스 체육교실 (O.M.Z 퀸민지 상위 4% 도전🏆)⚡아이돌 출발 드림팀⚡ [EP.5-2] | Idol's Physical Race | #N",
+   "url": "https://www.youtube.com/post/UgkxfIiiP03cTlYm6ZNKCQeGH5UHWWXIPkKV",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 19:00 KST; attached video https://youtu.be/X3vPzcHJgTY"
+  },
+  {
+   "key": "weverse-2023-01-13-how-to-apply-for-sbs-inkigayo-pre-recording",
+   "date": "2023-01-13",
+   "title": "Weverse notice: How to Apply for SBS <Inkigayo> Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/12316",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 14:00 KST; also https://weverse.io/newjeans/notice/12319; KR title: [Notice]  SBS <인기가요>  사전녹화 참여 안내 (+ENG/JPN)(+예비인원변경)"
+  },
+  {
+   "key": "weverse-2023-01-13-newjeans-album-promotion-event-details",
+   "date": "2023-01-13",
+   "title": "Weverse notice: NewJeans Album Promotion Event Details",
+   "url": "https://weverse.io/newjeansofficial/notice/12281",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/12298; KR title: [NOTICE] NewJeans 앨범 활동 이벤트 안내(+ENG/JPN)"
+  },
+  {
+   "key": "youtube-2023-01-13-shared-rnwx0x3kwjy",
+   "date": "2023-01-13",
+   "title": "Shared video: #뉴진스~💕 예능에서 제일 나쁜 사람 만났으니까 이제 뭐든 할 수 있어요ㅣep.113",
+   "url": "https://www.youtube.com/post/UgkxSPHjpw1LuDYv24hVk1Xs7EW8Lv-uLDQm",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 17:33 KST; attached video https://youtu.be/rnwx0X3kWJY"
+  },
+  {
+   "key": "youtube-2023-01-14-shared-irvxxlgfotu",
+   "date": "2023-01-14",
+   "title": "Shared video: [4K] #NewJeans(#뉴진스) - 'OMG' | Close-up Clip #Multiview #NewJeans",
+   "url": "https://www.youtube.com/post/UgkxSlEyyqP5HlPA2dKDD8xmeFUmwFbhrPQO",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 19:05 KST; attached video https://youtu.be/irvxxlGfOTU"
+  },
+  {
+   "key": "youtube-2023-01-14-shared-vpnbwwrs0a0",
+   "date": "2023-01-14",
+   "title": "Shared video: [4K] #NewJeans(#뉴진스) - 'OMG' | Performance Clip #Multiview #NewJeans",
+   "url": "https://www.youtube.com/post/UgkxijKmd782cjAKGO-1y3g5QjPXLrQj2X-7",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 19:03 KST; attached video https://youtu.be/vPNbwwrs0A0"
+  },
+  {
+   "key": "youtube-2023-01-17-shared-7-0vvikt0l0",
+   "date": "2023-01-17",
+   "title": "Shared video: [리무진서비스] EP.46 #뉴진스 #하니 | #NewJeans #HANNI | OMG, Just A Feeling, 와르르 ♥, Lucky",
+   "url": "https://www.youtube.com/post/UgkxSrevKTJP34fAnNMmwxvOWMPvZ6HspDyT",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 18:00 KST; attached video https://youtu.be/7-0VvIKT0L0"
+  },
+  {
+   "key": "weverse-2023-01-18-how-to-apply-for-kbs-music-bank-pre-recording",
+   "date": "2023-01-18",
+   "title": "Weverse notice: How to Apply for KBS <MUSIC BANK> Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/12358",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 17:30 KST; also https://weverse.io/newjeans/notice/12361; KR title: [Notice]  KBS <뮤직뱅크>  사전녹화 참여 안내 (스페셜 MC 민지) (+ENG/JPN)"
+  },
+  {
+   "key": "youtube-2023-01-19-shared-wuyf9424ppe",
+   "date": "2023-01-19",
+   "title": "Shared video: 오늘은 돈쓰는 날💰 feat.#뉴진스 미공개 클립 ⚡아이돌 출발 드림팀⚡ [EP.5-3] | Idol's Physical Race | #NewJ",
+   "url": "https://www.youtube.com/post/Ugkxx7o-gcdTYNRwbX-xg4qmiBDyj3olXkDC",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 19:00 KST; attached video https://youtu.be/WuyF9424pPE"
+  },
+  {
+   "key": "instagram-2023-01-21-danielle-lunar-new-year-apology",
+   "date": "2023-01-21",
+   "title": "Danielle posts apology over \"Chinese New Year\" wording",
+   "url": "https://www.instagram.com/p/Cnql5uLSuV5/",
+   "record": "sns-2023-01-21-danielle-lunar-new-year-apology",
+   "exclude": null,
+   "note": "statement; platform: instagram"
+  },
+  {
+   "key": "youtube-2023-01-21-shared-gmawsab7nhw",
+   "date": "2023-01-21",
+   "title": "Shared video: 기분이 나쁠 땐? #뉴진스 를 보세요😉👈🏻 | 아이돌 인간극장",
+   "url": "https://www.youtube.com/post/Ugkx0-9-E-7K5kXbt-ilBriFWyW_SLK5yQE8",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 21:00 KST; attached video https://youtu.be/GmAwsAB7nhw"
+  },
+  {
+   "key": "weverse-2023-01-25-230127-how-to-apply-for-kbs-music-bank-pre-recording",
+   "date": "2023-01-25",
+   "title": "Weverse notice: 230127 How to Apply for KBS <MUSIC BANK> Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/12385",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 20:00 KST; also https://weverse.io/newjeans/notice/12399; KR title: [Notice]  230127 KBS <뮤직뱅크>  사전녹화 참여 안내 (+ENG/JPN)"
+  },
+  {
+   "key": "weverse-2023-01-27-how-to-apply-for-sbs-inkigayo-pre-recording",
+   "date": "2023-01-27",
+   "title": "Weverse notice: How to Apply for SBS <Inkigayo> Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/12386",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 16:30 KST; also https://weverse.io/newjeans/notice/12408; KR title: [Notice]  SBS <인기가요>  사전녹화 참여 안내 (스페셜 MC 다니엘) (+ENG/JPN)"
+  },
+  {
+   "key": "youtube-2023-01-31-shared-nrwhibw4ktc",
+   "date": "2023-01-31",
+   "title": "Shared video: #NewJeans on their first live performance, scary movies & their first CDs | Firs",
+   "url": "https://www.youtube.com/post/UgkxIClUcCiQZ7ndc86OXInxoYHph0fEa74U",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 19:57 KST; attached video https://youtu.be/NRwHiBW4kTc"
+  },
+  {
+   "key": "youtube-2023-02-03-shared-3cki1wp8mbs",
+   "date": "2023-02-03",
+   "title": "Shared video: #NewJeans Play \"I Dare You\" 👖 | Teen Vogue",
+   "url": "https://www.youtube.com/post/Ugkxbm2VLLYQYpgVcgvJHlzLBylLojVnuy4f",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 07:40 KST; attached video https://youtu.be/3CkI1wp8MBs"
+  },
+  {
+   "key": "weverse-2023-02-14-newjeans-omg-album-promotion-event-winner-announcement",
+   "date": "2023-02-14",
+   "title": "Weverse notice: NewJeans [OMG] Album Promotion Event winner Announcement",
+   "url": "https://weverse.io/newjeansofficial/notice/12549",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 14:00 KST; also https://weverse.io/newjeans/notice/12550; KR title: [NOTICE] NewJeans [OMG] 앨범 활동 이벤트 당첨자 안내 (+ENG/JPN)"
+  },
+  {
+   "key": "youtube-2023-02-20-shared-u0ucelhftqe",
+   "date": "2023-02-20",
+   "title": "Shared video: ‘강해린 이상하다’ ESTJ #민지 의 멤버 분석?! 뉴진스 민지의 #ASKMEANYTHING | ELLE KOREA",
+   "url": "https://www.youtube.com/post/UgkxWPSnU-v9pi01xg-ZYC-5jRImYXFDqshH",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 20:15 KST; attached video https://youtu.be/u0uCelHFTQE"
+  },
+  {
+   "key": "youtube-2023-03-21-shared-sem88j7veqs",
+   "date": "2023-03-21",
+   "title": "Shared video: #뉴진스 #하니 의 폴꾸 도전기✨ 하니가 뽑은 최애곡?!(feat. 뉴진스 하입보이요) 폴꾸zip📁 with #HANNI of #NewJeans",
+   "url": "https://www.youtube.com/post/UgkxX1JpB7t8OH6pdcsZKj8UA86pFv_8uV_j",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 19:44 KST; attached video https://youtu.be/SEm88J7veQs"
+  },
+  {
+   "key": "weverse-2023-03-24-newjeans-2023-season-s-greetings-additional-release-notice",
+   "date": "2023-03-24",
+   "title": "Weverse notice: NewJeans 2023 SEASON'S GREETINGS Additional Release Notice",
+   "url": "https://weverse.io/newjeansofficial/notice/12896",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/12897; KR title: [NOTICE] NewJeans 2023 SEASON'S GREETINGS 추가 출시 안내 (+ENG/JPN)"
+  },
+  {
+   "key": "weverse-2023-03-27-information-on-the-opening-of-newjeans-global-official-fancl",
+   "date": "2023-03-27",
+   "title": "Weverse notice: Information on the Opening of NewJeans Global Official Fanclub \"Bunnies\" Membership and Official Light Stick",
+   "url": "https://weverse.io/newjeansofficial/notice/12893",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/12894; KR title: [NOTICE] NewJeans Global Official Fanclub “Bunnies” Membership 및 Official Light Stick 오픈 안내 (+ENG/JPN/CHN)"
+  },
+  {
+   "key": "x-2023-03-29-bunnies-membership-kit-packshot-release-open-3-30-11am-kst",
+   "date": "2023-03-29",
+   "title": "Bunnies Membership Kit packshot release (open 3.30 11AM KST)",
+   "url": "https://x.com/NewJeans_ADOR/status/1640896559234662400",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platform: x; posted 11:00 KST; text: [Bunnies Club🥕] Bunnies Membership Kit Packshot RELEASE  🗓️ OPEN 3.30.11AM (KST) 📍 Weverse shop  #NewJeans #뉴진스 #Bunnies"
+  },
+  {
+   "key": "x-2023-03-29-newjeans-x-today-at-apple-listening-session",
+   "date": "2023-03-29",
+   "title": "NewJeans X Today at Apple listening session",
+   "url": "https://x.com/NewJeans_ADOR/status/1640987155060146176",
+   "record": "live-2023-03-29-apple-gangnam-press-preview",
+   "exclude": null,
+   "note": "announce; platform: x; posted 17:00 KST; text: NewJeans X Today at Apple Join an immersive NewJeans listening experience !  📍 Apple Gangnam   #NewJeans #뉴진스 #TodayatAp"
+  },
+  {
+   "key": "weverse-2023-03-30-newjeans-global-official-fanclub-bunnies-membership-detailed",
+   "date": "2023-03-30",
+   "title": "Weverse notice: NewJeans Global Official Fanclub “Bunnies” Membership Detailed Information",
+   "url": "https://weverse.io/newjeansofficial/notice/12909",
+   "record": "notice-2023-03-30-bunnies-membership-open",
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/12912; KR title: [NOTICE] NewJeans Global Official Fanclub “Bunnies” Membership 상세 안내 (+ENG/JPN/CHN)"
+  },
+  {
+   "key": "weverse-2023-03-31-additional-sale-of-newjeans-official-merch",
+   "date": "2023-03-31",
+   "title": "Weverse notice: Additional sale of NewJeans Official Merch",
+   "url": "https://weverse.io/newjeansofficial/notice/12966",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 12:00 KST; also https://weverse.io/newjeans/notice/12968"
+  },
+  {
+   "key": "youtube-2023-03-31-shared-khlhrtbnb7w",
+   "date": "2023-03-31",
+   "title": "Shared video: 미세먼지가 심한 날엔 맑은 다니엘을 보자!🐥🍋 #뉴진스 #다니엘 의 가방 속 최초 공개 | MY VOGUE",
+   "url": "https://www.youtube.com/post/UgkxO26DS4HuqQgQyMNVQ78aLTOUmYzuLGUc",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 18:07 KST; attached video https://youtu.be/kHlHrTbnB7w"
+  },
+  {
+   "key": "x-2023-04-03-zero-mv-release-post",
+   "date": "2023-04-03",
+   "title": "'Zero' MV release post",
+   "url": "https://www.youtube.com/@NewJeans_official",
+   "record": "mv-2023-04-03-zero-official-mv",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "x-2023-04-03-zero-release",
+   "date": "2023-04-03",
+   "title": "'Zero' release post",
+   "url": "https://x.com/NewJeans_ADOR/status/1642818193575268352",
+   "record": "sns-2023-04-03-zero-release",
+   "exclude": null,
+   "note": "release; platform: x"
+  },
+  {
+   "key": "youtube-2023-04-11-happy-danielle-day",
+   "date": "2023-04-11",
+   "title": "Happy Danielle Day birthday post",
+   "url": "https://www.youtube.com/post/UgkxlhwigU0faPAzK9zPrMRK--XHF3PmewmK",
+   "record": null,
+   "exclude": null,
+   "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
+  },
+  {
+   "key": "weverse-2023-04-26-detailed-information-on-2023-weverse-con-festival-final-line",
+   "date": "2023-04-26",
+   "title": "Weverse notice: Detailed Information on 2023 Weverse Con Festival Final Line-up and Tickets",
+   "url": "https://weverse.io/newjeansofficial/notice/13176",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/13177; KR title: [NOTICE] 2023 Weverse Con Festival 최종 라인업 및 티켓 안내 (+ENG/JPN/CHN)"
+  },
+  {
+   "key": "weverse-2023-04-26-detailed-information-on-the-2023-weverse-con-festival-in-per",
+   "date": "2023-04-26",
+   "title": "Weverse notice: Detailed Information on the 2023 Weverse Con Festival In-person Concert",
+   "url": "https://weverse.io/newjeansofficial/notice/13178",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 14:00 KST; also https://weverse.io/newjeans/notice/13179; KR title: [NOTICE] 2023 Weverse Con Festival 오프라인 공연 상세 안내 (+ENG/JPN/CHN)"
+  },
+  {
+   "key": "youtube-2023-04-27-happy-hyein-day",
+   "date": "2023-04-27",
+   "title": "Happy Hyein Day birthday post",
+   "url": "https://www.youtube.com/post/Ugkxp5c1A3P0EoPXzKZ7Z41ovE7G-OCRHmKD",
+   "record": null,
+   "exclude": null,
+   "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
+  },
+  {
+   "key": "youtube-2023-05-04-shared-gseo5l0mepa",
+   "date": "2023-05-04",
+   "title": "Shared video: 최초공개! #뉴진스 #혜인 의 가방 속을 처음 공개합니다. 혜인이가 좋아하는 최애 키링들부터 #민지 언니에게 선물 받은 아이템까지. 귀염막둥이의",
+   "url": "https://www.youtube.com/post/Ugkx0QSKG-PZ6ZCq_aHei1zC08xl80o031yC",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 18:03 KST; attached video https://youtu.be/gseo5l0MePA"
+  },
+  {
+   "key": "youtube-2023-05-07-happy-minji-day",
+   "date": "2023-05-07",
+   "title": "Happy Minji Day birthday post",
+   "url": "https://www.youtube.com/post/UgkxCzzKm4sgoT-iCOz-skqoj683ltLGQ8SJ",
+   "record": null,
+   "exclude": null,
+   "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
+  },
+  {
+   "key": "weverse-2023-05-10-detailed-information-on-the-2023-weverse-con-festival-fan-ar",
+   "date": "2023-05-10",
+   "title": "Weverse notice: Detailed Information on the 2023 Weverse Con Festival - Fan Art Gallay",
+   "url": "https://weverse.io/newjeansofficial/notice/13451",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 14:00 KST; also https://weverse.io/newjeans/notice/13452; KR title: [NOTICE] 2023 Weverse Con Festival - 팬 아트 갤러리 이벤트 안내 (+ENG/JPN/CHN)"
+  },
+  {
+   "key": "weverse-2023-05-12-newjeans-1st-fan-meeting-bunnies-camp-announcement",
+   "date": "2023-05-12",
+   "title": "Weverse notice: NewJeans 1st Fan Meeting 'Bunnies Camp' Announcement",
+   "url": "https://weverse.io/newjeansofficial/notice/13468",
+   "record": "sns-2023-05-12-bunnies-camp-announcement",
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse+x (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/13469; X relay: https://x.com/NewJeans_ADOR/status/1656841656036110337; KR title: [NOTICE] NewJeans 1st Fan Meeting 'Bunnies Camp' 개최 안내 (+ENG/JPN/CHN)"
+  },
+  {
+   "key": "weverse-2023-05-12-newjeans-1st-fan-meeting-bunnies-camp-in-person-event-ticket",
+   "date": "2023-05-12",
+   "title": "Weverse notice: NewJeans 1st Fan Meeting 'Bunnies Camp' In-person Event Ticketing Guide",
+   "url": "https://weverse.io/newjeansofficial/notice/13470",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/13518; KR title: [NOTICE] NewJeans 1st Fan Meeting 'Bunnies Camp' 오프라인 공연 상세 안내 (+ENG/JPN/CHN)"
+  },
+  {
+   "key": "weverse-2023-05-12-the-little-mermaid-korean-dub-preview-screening-event-for-bu",
+   "date": "2023-05-12",
+   "title": "Weverse notice: 'The Little Mermaid' Korean-dub preview screening event for Bunnies",
+   "url": "https://weverse.io/newjeansofficial/notice/13540",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse+x (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 17:15 KST; also https://weverse.io/newjeans/notice/13541; X relay: https://x.com/NewJeans_ADOR/status/1656935994950828033"
+  },
+  {
+   "key": "youtube-2023-05-12-part-of-your-world-mv",
+   "date": "2023-05-12",
+   "title": "'Part of Your World' (Korean ver.) MV teaser shared",
+   "url": "https://www.youtube.com/post/UgkxRn8NaKm9Zf_Lclthe4N-l1uTEF19rAfX",
+   "record": null,
+   "exclude": null,
+   "note": "release; platform: youtube community; posted 16:08 KST; attached video https://youtu.be/z21GxIj5qAE"
+  },
+  {
+   "key": "youtube-2023-05-13-shared-if-2r4xuwgm",
+   "date": "2023-05-13",
+   "title": "Shared video: [마이보그] #해린 의 가방에서 등장한 애착 개구리?💚 | MY VOGUE (카드 지갑, 다이어리, 피규어, 파우치)",
+   "url": "https://www.youtube.com/post/Ugkx-SL84EMZDkWs_9AtjmdTB2aslSRr9JIG",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 12:38 KST; attached video https://youtu.be/IF_2R4XUwgM"
+  },
+  {
+   "key": "youtube-2023-05-14-omg-official-mv-performance-ver-1-passes-100-million-youtube",
+   "date": "2023-05-14",
+   "title": "'OMG' Official MV (Performance ver.1) passes 100 million YouTube views",
+   "url": "https://www.youtube.com/post/UgkxwuS6bgyjudtqCW4EjjyiMyyKLu7YSQIm",
+   "record": "record-2023-05-13-omg-mv-100m-views",
+   "exclude": null,
+   "note": "milestone; platform: youtube community; posted 08:00 KST; matched milestone record dated 2023-05-13 (achievement date), post dated 2023-05-14"
+  },
+  {
+   "key": "youtube-2023-05-15-happy-haerin-day",
+   "date": "2023-05-15",
+   "title": "Happy Haerin Day birthday post",
+   "url": "https://www.youtube.com/post/Ugkx8POz9bhTZxBVhJPaxnKbgvLvZyg60thM",
+   "record": null,
+   "exclude": null,
+   "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
+  },
+  {
+   "key": "youtube-2023-05-17-",
+   "date": "2023-05-17",
+   "title": "Danielle 'Part of Your World' (Korean ver.) MV shared",
+   "url": "https://www.youtube.com/post/UgkxYV456rN3eroRNN1JVGioJrPgMNCbFA0X",
+   "record": "mv-2023-05-17-part-of-your-world-danielle-mv",
+   "exclude": null,
+   "note": "release; platform: youtube community; posted 18:02 KST; attached video https://youtu.be/ho0d4rf1LwY"
+  },
+  {
+   "key": "instagram-2023-05-21-newjeans-live-in-levi-s-newjean",
+   "date": "2023-05-21",
+   "title": "Instagram post: NewJeans @ LIVE IN LEVI'S (Levi's 150th anniversary concert)",
+   "url": "https://www.instagram.com/p/Csf7HUmuHsC/",
+   "record": "live-2023-05-20-levis-501-150th-live-in-levis-concert",
+   "exclude": null,
+   "note": "announce; platform: instagram; posted 17:39 KST (from media id); caption: NewJeans @ LIVE IN LEVI'S 👖❤️✨\n\n#NewJeans #뉴진스\n#LiveInLevis @levis_korea"
+  },
+  {
+   "key": "weverse-2023-05-22-newjeans-1st-fan-meeting-bunnies-camp-rolling-paper-event",
+   "date": "2023-05-22",
+   "title": "Weverse notice: NewJeans 1st Fan Meeting “Bunnies Camp” Rolling Paper EVENT",
+   "url": "https://weverse.io/newjeansofficial/notice/13683",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/13684; KR title: [NOTICE] NewJeans 1st Fan Meeting 'Bunnies Camp' Rolling Paper EVENT  (+ENG/JPN/CHN)"
+  },
+  {
+   "key": "weverse-2023-05-24-detailed-information-on-the-2023-weverse-con-festival-online",
+   "date": "2023-05-24",
+   "title": "Weverse notice: Detailed Information on the 2023 Weverse Con Festival Online Live Streaming Tickets",
+   "url": "https://weverse.io/newjeansofficial/notice/13744",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 12:00 KST; also https://weverse.io/newjeans/notice/13745; KR title: [NOTICE] 2023 Weverse Con Festival 온라인 라이브 스트리밍 이용권 상세 안내 (+ENG/JPN/CHN)"
+  },
+  {
+   "key": "youtube-2023-05-24-next-generation-leaders",
+   "date": "2023-05-24",
+   "title": "TIME 'Next Generation Leaders' video shared (NewJeans named to TIME's 2023 list)",
+   "url": "https://www.youtube.com/post/Ugkx0z9Tm3-9pimBczU9wN1PEgVWcxLZEKzp",
+   "record": "record-2023-05-23-time-next-generation-leaders-2023",
+   "exclude": null,
+   "note": "milestone; platform: youtube community; posted 00:18 KST; attached video https://youtu.be/8LJG2JXek5c; matched milestone record dated 2023-05-23 (achievement date), post dated 2023-05-24"
+  },
+  {
+   "key": "youtube-2023-05-30-shared-wwknulz5fso",
+   "date": "2023-05-30",
+   "title": "Shared video: WE SABOTAGED THOSE GENERAL IDEAS AT A SMALL COTTAGE #협찬",
+   "url": "https://www.youtube.com/post/UgkxDlv9kJwjr5eKw7hyHDz-sy4WpQe8l4Y7",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 18:03 KST; attached video https://youtu.be/wwKNuLZ5fso"
+  },
+  {
+   "key": "x-2023-05-31-be-who-you-are-release",
+   "date": "2023-05-31",
+   "title": "'Be Who You Are (Real Magic)' release post",
+   "url": "https://x.com/NewJeans_ADOR/status/1663562156778958848",
+   "record": "sns-2023-05-31-be-who-you-are-release",
+   "exclude": null,
+   "note": "release; platform: x; also YouTube community post https://www.youtube.com/post/UgkxU7N0nnZYMF_7cWwQOVgJCLFf-jTWpotd (2023-05-31 21:49 KST)"
+  },
+  {
+   "key": "weverse-2023-06-01-detailed-information-on-newjeans-1st-fan-meeting-bunnies-cam",
+   "date": "2023-06-01",
+   "title": "Weverse notice: Detailed Information on NewJeans 1st Fan Meeting 'Bunnies Camp' Online Live Streaming Tickets",
+   "url": "https://weverse.io/newjeansofficial/notice/13856",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/13869; KR title: [NOTICE] NewJeans 1st Fan Meeting 'Bunnies Camp' 온라인 라이브 스트리밍 상세 안내  (+ENG/JPN/CHN)"
+  },
+  {
+   "key": "youtube-2023-06-07-shared-syzrjtupgk",
+   "date": "2023-06-07",
+   "title": "Shared video: (경)#다니엘 데이즈드 등장!🥳(축) 다니엘이 직접 찍은 사진부터 영상까지😲 / 다니엘 V-LOG #협찬",
+   "url": "https://www.youtube.com/post/Ugkx03W5vg6EfXp2c1tr2ve3rdyZAcLE-K8k",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 18:29 KST; attached video https://youtu.be/-SyzrJtupgk"
+  },
+  {
+   "key": "youtube-2023-06-12-shared-devwkfyw6jw",
+   "date": "2023-06-12",
+   "title": "Shared video: #민지 의 왓츠인마이백💝 #뉴진스 멤버 모두의 최애 필수템부터 파리에서 모셔온 쇼핑 아이템, 소듕한 데일리 제품까지 대공개! by W Korea",
+   "url": "https://www.youtube.com/post/UgkxR4hj4SXrmBMPxrO6nLbdW8xz5MiKgO16",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 18:02 KST; attached video https://youtu.be/DEVWKFYw6Jw"
+  },
+  {
+   "key": "instagram-2023-06-19-instagram-get-up-comeback-announcement",
+   "date": "2023-06-19",
+   "title": "Instagram post announcing the 2nd EP \"Get Up\"",
+   "url": "https://www.instagram.com/p/Ctp34EnS20f/",
+   "record": "sns-2023-06-19-instagram-get-up-comeback-announcement",
+   "exclude": null,
+   "note": "release; platform: instagram"
+  },
+  {
+   "key": "weverse-2023-06-19-newjeans-2nd-ep-get-up-pre-order-customer-video-call-fansign",
+   "date": "2023-06-19",
+   "title": "Weverse notice: NewJeans 2nd EP [Get Up] Pre-order Customer Video Call Fansign Event Announcement",
+   "url": "https://weverse.io/newjeansofficial/notice/14125",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/14133; KR title: [NOTICE] NewJeans  2nd EP 'Get Up'활동 기념 팬사인회 안내 (+ENG/JPN)"
+  },
+  {
+   "key": "x-2023-06-19-get-up-coming-soon",
+   "date": "2023-06-19",
+   "title": "2nd EP 'Get Up' comeback announcement",
+   "url": "https://x.com/NewJeans_ADOR/status/1670611109454434304",
+   "record": "sns-2023-06-19-get-up-coming-soon",
+   "exclude": null,
+   "note": "announce; platform: x"
+  },
+  {
+   "key": "weverse-2023-06-26-information-on-the-operation-of-the-fan-club-booth-bunnies-z",
+   "date": "2023-06-26",
+   "title": "Weverse notice: Information on the Operation of the Fan Club Booth “Bunnies Zone” at NewJeans 1st Fan Meeting “Bunnies Camp”",
+   "url": "https://weverse.io/newjeansofficial/notice/14217",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/14221; KR title: [NOTICE] NewJeans 1st Fan Meeting 'Bunnies Camp' 팬클럽 부스 'Bunnies Zone' 운영안내(+ENG/JPN/CHN)"
+  },
+  {
+   "key": "x-2023-06-26-eta-teaser-post",
+   "date": "2023-06-26",
+   "title": "'ETA' Teaser post",
+   "url": "https://x.com/NewJeans_ADOR/status/1672983005827309569",
+   "record": "sns-2023-06-26-eta-teaser-post",
+   "exclude": null,
+   "note": "release; platform: x"
+  },
+  {
+   "key": "youtube-2023-06-26-shared-3duhn1mlw1u",
+   "date": "2023-06-26",
+   "title": "Shared video: \"하트를 좋아합니다\" #다니엘 과 사랑에 빠질 수 밖에 없는 드로잉터뷰!❤♥♥ by W Korea",
+   "url": "https://www.youtube.com/post/UgkxuzPcTThhXqZ2lXV8xZxhlJmFriQ-lZH9",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 18:05 KST; attached video https://youtu.be/3dUhn1mLw1U"
+  },
+  {
+   "key": "instagram-2023-06-27-instagram-asap-teaser-post",
+   "date": "2023-06-27",
+   "title": "Instagram \"ASAP\" teaser post",
+   "url": "https://www.instagram.com/p/Ct9TWNryz_O/",
+   "record": "sns-2023-06-27-instagram-asap-teaser-post",
+   "exclude": null,
+   "note": "release; platform: instagram"
+  },
+  {
+   "key": "weverse-2023-06-27-information-on-the-newjeans-1st-fan-meeting-bunnies-camp-off",
+   "date": "2023-06-27",
+   "title": "Weverse notice: Information on the NewJeans 1st Fan Meeting “Bunnies Camp” Official Merchandise On-Site Sales",
+   "url": "https://weverse.io/newjeansofficial/notice/14244",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 15:00 KST; also https://weverse.io/newjeans/notice/14245; KR title: [NOTICE] NewJeans 1st Fan Meeting 'Bunnies Camp' 공식 상품 현장 판매 안내 (+ENG/JPN/CHN)"
+  },
+  {
+   "key": "instagram-2023-06-28-instagram-get-up-2nd-ep-photo-1",
+   "date": "2023-06-28",
+   "title": "Instagram \"Get Up\" 2nd EP photo post (1)",
+   "url": "https://www.instagram.com/p/Ct_4ENurW2C/",
+   "record": "sns-2023-06-28-instagram-get-up-2nd-ep-photo-1",
+   "exclude": null,
+   "note": "release; platform: instagram"
+  },
+  {
+   "key": "instagram-2023-06-28-instagram-get-up-2nd-ep-photo-2",
+   "date": "2023-06-28",
+   "title": "Instagram \"Get Up\" 2nd EP photo post (2)",
+   "url": "https://www.instagram.com/p/Ct_4HV_L5EL/",
+   "record": "sns-2023-06-28-instagram-get-up-2nd-ep-photo-2",
+   "exclude": null,
+   "note": "release; platform: instagram"
+  },
+  {
+   "key": "instagram-2023-06-28-instagram-get-up-era-post-0628",
+   "date": "2023-06-28",
+   "title": "Instagram \"Get Up\" promotion post (evening of June 28)",
+   "url": "https://www.instagram.com/p/CuCIRW0LFCs/",
+   "record": "sns-2023-06-28-instagram-get-up-era-post-0628",
+   "exclude": null,
+   "note": "release; platform: instagram"
+  },
+  {
+   "key": "x-2023-06-28-get-up-2nd-ep-photo-post",
+   "date": "2023-06-28",
+   "title": "'2nd EP Photo' post ('Get Up' teaser photos)",
+   "url": "https://x.com/NewJeans_ADOR/status/1673707835547615232",
+   "record": "sns-2023-06-28-get-up-2nd-ep-photo-post",
+   "exclude": null,
+   "note": "release; platform: x"
+  },
+  {
+   "key": "weverse-2023-06-29-update-notice-on-legal-proceedings-against-violation-of-arti",
+   "date": "2023-06-29",
+   "title": "Weverse notice: Update Notice on Legal Proceedings Against Violation of Artist Rights (Jun. 29)",
+   "url": "https://weverse.io/newjeansofficial/notice/14276",
+   "record": null,
+   "exclude": null,
+   "note": "statement; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 18:00 KST; also https://weverse.io/newjeans/notice/14277; KR title: [NOTICE] 아티스트 권익 침해 관련 법적 대응 상황 안내 (06.29) (+ENG)"
+  },
+  {
+   "key": "x-2023-06-29-get-up-bunny-beach-bag-packaging",
+   "date": "2023-06-29",
+   "title": "'Get Up' Bunny Beach Bag ver. packaging sneak peek",
+   "url": "https://x.com/NewJeans_ADOR",
+   "record": "sns-2023-06-29-get-up-bunny-beach-bag-packaging",
+   "exclude": null,
+   "note": "release; platform: x"
+  },
+  {
+   "key": "x-2023-06-30-get-up-packshot",
+   "date": "2023-06-30",
+   "title": "'Get Up' album packshot",
+   "url": "https://x.com/NewJeans_ADOR",
+   "record": "sns-2023-06-30-get-up-packshot",
+   "exclude": null,
+   "note": "release; platform: x"
+  },
+  {
+   "key": "x-2023-07-05-super-shy-release-poster",
+   "date": "2023-07-05",
+   "title": "'Super Shy' release poster",
+   "url": "https://x.com/NewJeans_ADOR/status/1676591775853445120",
+   "record": "sns-2023-07-05-super-shy-release-poster",
+   "exclude": null,
+   "note": "release; platform: x"
+  },
+  {
+   "key": "x-2023-07-07-new-jeans-mv-release-post",
+   "date": "2023-07-07",
+   "title": "'New Jeans' MV release post",
+   "url": "https://www.youtube.com/@NewJeans_official",
+   "record": "mv-2023-07-07-new-jeans-official-mv",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "x-2023-07-07-super-shy-mv-release-post",
+   "date": "2023-07-07",
+   "title": "'Super Shy' MV release post",
+   "url": "https://www.youtube.com/@NewJeans_official",
+   "record": "mv-2023-07-07-super-shy-official-mv",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "x-2023-07-07-super-shy-new-jeans-pre-release-available-now-post",
+   "date": "2023-07-07",
+   "title": "'Super Shy' / 'New Jeans' pre-release (Available Now) post",
+   "url": "https://en.wikipedia.org/wiki/Super_Shy",
+   "record": "music-2023-07-07-super-shy",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "youtube-2023-07-07-shorts-supershy-shorts",
+   "date": "2023-07-07",
+   "title": "#ImSuperShy YouTube Shorts challenge launch",
+   "url": "https://www.youtube.com/post/UgkxDP8EwsgOt4sH7IJzQRg90ylHW3_Evw4s",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platform: youtube community; posted 16:05 KST"
+  },
+  {
+   "key": "weverse-2023-07-11-cheering-guide-super-shy",
+   "date": "2023-07-11",
+   "title": "Weverse notice: Cheering guide: Super Shy",
+   "url": "https://weverse.io/newjeansofficial/notice/14421",
+   "record": null,
+   "exclude": null,
+   "note": "release; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 19:30 KST; also https://weverse.io/newjeans/notice/14430"
+  },
+  {
+   "key": "weverse-2023-07-13-how-to-apply-for-kbs-music-bank-pre-recording",
+   "date": "2023-07-13",
+   "title": "Weverse notice: How to Apply for KBS <MUSIC BANK> Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/14440",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/14442; KR title: [NOTICE]  KBS <뮤직뱅크> 사전녹화 참여 안내 (+ENG/JPN)"
+  },
+  {
+   "key": "weverse-2023-07-14-how-to-apply-for-sbs-inkigayo-pre-recording",
+   "date": "2023-07-14",
+   "title": "Weverse notice: How to Apply for SBS <Inkigayo> Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/14455",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 12:00 KST; also https://weverse.io/newjeans/notice/14456; KR title: [NOTICE]  SBS <인기가요> 사전녹화 참여 안내 (+ENG/JPN)"
+  },
+  {
+   "key": "x-2023-07-17-cool-with-you-mv-date-announcement",
+   "date": "2023-07-17",
+   "title": "'Cool With You' MV date announcement",
+   "url": "https://x.com/NewJeans_ADOR",
+   "record": "sns-2023-07-17-cool-with-you-mv-date-announcement",
+   "exclude": null,
+   "note": "announce; platform: x"
+  },
+  {
+   "key": "youtube-2023-07-17-shared-qrhiuwsht74",
+   "date": "2023-07-17",
+   "title": "Shared video: #뉴진스 #해린 이 풍선껌 불며 두둠칫! 하이틴 영화 주인공 재질 아기고양이💞 by W Korea",
+   "url": "https://www.youtube.com/post/Ugkx6mqNQ1M3cT58sgtwBoty8JwFwXDrviVD",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 18:06 KST; attached video https://youtu.be/qRhIuwsht74"
+  },
+  {
+   "key": "weverse-2023-07-19-how-to-apply-for-kbs-music-bank-pre-recording",
+   "date": "2023-07-19",
+   "title": "Weverse notice: How to Apply for KBS <MUSIC BANK> Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/14521",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 21:30 KST; also https://weverse.io/newjeans/notice/14522; KR title: [NOTICE]  KBS <뮤직뱅크> 사전녹화 참여 안내 (+ENG/JPN)"
+  },
+  {
+   "key": "weverse-2023-07-20-230724-how-to-apply-for-naver-x-playlist-music-show-pre-reco",
+   "date": "2023-07-20",
+   "title": "Weverse notice: 230724 How to Apply for NAVER X PLAYLIST Music Show Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/14529",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 19:10 KST; also https://weverse.io/newjeans/notice/14531; KR title: [NOTICE] 230724 NAVER X PLAYLIST 음악방송 사전녹화 참여 안내 (+ENG/JPN)"
+  },
+  {
+   "key": "weverse-2023-07-20-230725-how-to-apply-for-naver-x-playlist-music-show-pre-reco",
+   "date": "2023-07-20",
+   "title": "Weverse notice: 230725 How to Apply for NAVER X PLAYLIST Music Show Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/14530",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 19:10 KST; also https://weverse.io/newjeans/notice/14532; KR title: [NOTICE] 230725 NAVER X PLAYLIST 음악방송사전녹화 참여 안내 (+ENG/JPN)"
+  },
+  {
+   "key": "x-2023-07-20-cool-with-you-mv-side-a-side-b-with-get-up-release-post",
+   "date": "2023-07-20",
+   "title": "'Cool With You' MV (side A / side B with 'Get Up') release post",
+   "url": "https://www.youtube.com/@NewJeans_official",
+   "record": "mv-2023-07-20-cool-with-you-official-mv-side-a",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "youtube-2023-07-20-newjeans-1st-debut-anniversary-newjeans-day-d-2",
+   "date": "2023-07-20",
+   "title": "1st debut anniversary 'NewJeans Day' D-2 notice",
+   "url": "https://www.youtube.com/post/UgkxcIrkdbkZvF1sYra2P_nfnTl9KoFRiomU",
+   "record": null,
+   "exclude": null,
+   "note": "milestone; platform: youtube community; posted 18:16 KST"
+  },
+  {
+   "key": "weverse-2023-07-21-230723-how-to-apply-for-sbs-inkigayo-pre-recording",
+   "date": "2023-07-21",
+   "title": "Weverse notice: 230723 How to Apply for SBS <Inkigayo> Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/14542",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 12:00 KST; also https://weverse.io/newjeans/notice/14543; KR title: [NOTICE] 230723 SBS <인기가요> 사전녹화 참여 안내 (+ENG/JPN)"
+  },
+  {
+   "key": "weverse-2023-07-21-cheering-guide-cool-with-you",
+   "date": "2023-07-21",
+   "title": "Weverse notice: Cheering guide: Cool With You",
+   "url": "https://weverse.io/newjeansofficial/notice/14535",
+   "record": null,
+   "exclude": null,
+   "note": "release; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 19:30 KST; also https://weverse.io/newjeans/notice/14537"
+  },
+  {
+   "key": "weverse-2023-07-21-cheering-guide-eta",
+   "date": "2023-07-21",
+   "title": "Weverse notice: Cheering guide: ETA",
+   "url": "https://weverse.io/newjeansofficial/notice/14534",
+   "record": null,
+   "exclude": null,
+   "note": "release; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 19:30 KST; also https://weverse.io/newjeans/notice/14536"
+  },
+  {
+   "key": "weverse-2023-07-21-newjeans-2nd-ep-get-up-release-fan-signing-event-information",
+   "date": "2023-07-21",
+   "title": "Weverse notice: NewJeans 2nd EP 'Get Up' Release Fan-signing Event Information",
+   "url": "https://weverse.io/newjeansofficial/notice/14513",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 10:30 KST; also https://weverse.io/newjeans/notice/14514; KR title: [NOTICE] NewJeans 2nd EP 'Get Up' 활동 기념 팬사인회 (+ENG/JPN) (+0721 추가)"
+  },
+  {
+   "key": "x-2023-07-21-2nd-ep-get-up-release-available-now-post",
+   "date": "2023-07-21",
+   "title": "2nd EP 'Get Up' release (Available Now) post",
+   "url": "https://en.wikipedia.org/wiki/Get_Up_(EP)",
+   "record": "music-2023-07-21-get-up-ep",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "x-2023-07-21-eta-mv-release-post",
+   "date": "2023-07-21",
+   "title": "'ETA' MV release post",
+   "url": "https://www.youtube.com/@NewJeans_official",
+   "record": "mv-2023-07-21-eta-official-mv",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "weverse-2023-07-22-newjeans-2nd-ep-get-up-release-fan-signing-event-information",
+   "date": "2023-07-22",
+   "title": "Weverse notice: NewJeans 2nd EP 'Get Up' Release Fan-signing Event Information",
+   "url": "https://weverse.io/newjeansofficial/notice/14552",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 10:30 KST; also https://weverse.io/newjeans/notice/14553; KR title: [NOTICE] NewJeans 2nd EP 'Get Up' 활동 기념 팬사인회 (+ENG/JPN) (+0722 추가)"
+  },
+  {
+   "key": "weverse-2023-07-22-weverse-bunnies-club-1st-anniversary",
+   "date": "2023-07-22",
+   "title": "Weverse Bunnies Club post \"NewJeans 1st Anniversary with Bunnies\"",
+   "url": "https://x.com/NewJeans_ADOR/status/1682654211207725057",
+   "record": "sns-2023-07-22-weverse-bunnies-club-1st-anniversary",
+   "exclude": null,
+   "note": "milestone; platform: weverse"
+  },
+  {
+   "key": "x-2023-07-22-debut-1st-anniversary-post",
+   "date": "2023-07-22",
+   "title": "Debut 1st anniversary post",
+   "url": "https://x.com/NewJeans_ADOR/status/1682405079872311296",
+   "record": "sns-2023-07-22-debut-1st-anniversary-post",
+   "exclude": null,
+   "note": "milestone; platform: x; also YouTube community post https://www.youtube.com/post/UgkxWbY4V2tV-A1YFPD4p7A5alBzJ-j3QsSR (2023-07-22 00:00 KST)"
+  },
+  {
+   "key": "x-2023-07-22-we-are-newjeans-anniversary-photos",
+   "date": "2023-07-22",
+   "title": "1st anniversary \"We Are NewJeans!\" photo post",
+   "url": "https://x.com/NewJeans_ADOR/status/1682571168447102976",
+   "record": "sns-2023-07-22-we-are-newjeans-anniversary-photos",
+   "exclude": null,
+   "note": "milestone; platform: x"
+  },
+  {
+   "key": "weverse-2023-07-23-newjeans-2nd-ep-get-up-release-fan-signing-event-information",
+   "date": "2023-07-23",
+   "title": "Weverse notice: NewJeans 2nd EP 'Get Up' Release Fan-signing Event Information",
+   "url": "https://weverse.io/newjeansofficial/notice/14558",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse+x (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 10:30 KST; also https://weverse.io/newjeans/notice/14559; X relay: https://x.com/NewJeans_ADOR/status/1682926000450011137; KR title: [NOTICE] NewJeans 2nd EP 'Get Up' 활동 기념 팬사인회 (+ENG/JPN) (+0723 추가)"
+  },
+  {
+   "key": "weverse-2023-07-24-newjeans-2nd-ep-get-up-release-fan-signing-event-information",
+   "date": "2023-07-24",
+   "title": "Weverse notice: NewJeans 2nd EP 'Get Up' Release Fan-signing Event Information",
+   "url": "https://weverse.io/newjeansofficial/notice/14560",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 10:30 KST; also https://weverse.io/newjeans/notice/14561; KR title: [NOTICE] NewJeans 2nd EP 'Get Up' 활동 기념 팬사인회 (+ENG/JPN) (+0724추가)"
+  },
+  {
+   "key": "youtube-2023-07-24-shared-9a3cb5rj7b0",
+   "date": "2023-07-24",
+   "title": "Shared video: 아기 고양이 코스모 등판이요🐱 #해린 의 Super Shy한 잔망 줌터뷰 | #뉴진스 | 해린 | 줌터뷰",
+   "url": "https://www.youtube.com/post/UgkxqhtaGEIQvOORuNkOx7UR38Vsivqd3dvv",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 11:39 KST; attached video https://youtu.be/9a3CB5RJ7B0"
+  },
+  {
+   "key": "youtube-2023-07-24-shared-msqhnxrdecs",
+   "date": "2023-07-24",
+   "title": "Shared video: [아이유의 팔레트🎨] 뉴진스의 컬러 스위치요 (With #뉴진스) Ep.21",
+   "url": "https://www.youtube.com/post/Ugkx2LHfCQuhzbBkbovo7hqxZIUKeZwp63d-",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 18:02 KST; attached video https://youtu.be/MSQhnXRdECs"
+  },
+  {
+   "key": "weverse-2023-07-25-newjeans-2nd-ep-get-up-release-fan-signing-event-information",
+   "date": "2023-07-25",
+   "title": "Weverse notice: NewJeans 2nd EP 'Get Up' Release Fan-signing Event Information",
+   "url": "https://weverse.io/newjeansofficial/notice/14587",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse+x (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 10:30 KST; also https://weverse.io/newjeans/notice/14588; X relay: https://x.com/NewJeans_ADOR/status/1683650777452253184; KR title: [NOTICE] NewJeans 2nd EP 'Get Up' 활동 기념 팬사인회 (+ENG/JPN) (+0725 추가)"
+  },
+  {
+   "key": "weverse-2023-07-25-weverse-live-streaming-of-newjeans-at-lollapalooza",
+   "date": "2023-07-25",
+   "title": "Weverse notice: Weverse LIVE streaming of NewJeans at Lollapalooza",
+   "url": "https://weverse.io/newjeansofficial/notice/14305",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 12:00 KST; also https://weverse.io/newjeans/notice/14589; KR title: [NOTICE] NewJeans 롤라팔루자(Lollapalooza) 공연 Weverse LIVE 스트리밍 안내 (+ENG/JPN) (+라이브 링크 추가)"
+  },
+  {
+   "key": "x-2023-07-26-asap-mv-release-post",
+   "date": "2023-07-26",
+   "title": "'ASAP' MV release post",
+   "url": "https://www.youtube.com/@NewJeans_official",
+   "record": "mv-2023-07-26-asap-official-mv",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "weverse-2023-07-27-230728-how-to-apply-for-kbs-music-bank-pre-recording",
+   "date": "2023-07-27",
+   "title": "Weverse notice: 230728 How to Apply for KBS <MUSIC BANK> Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/14622",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 10:30 KST; also https://weverse.io/newjeans/notice/14623; KR title: [NOTICE]  230728 KBS <뮤직뱅크> 사전녹화 참여 안내 (+ENG/JPN)"
+  },
+  {
+   "key": "weverse-2023-07-27-230730-how-to-apply-for-sbs-inkigayo-pre-recording",
+   "date": "2023-07-27",
+   "title": "Weverse notice: 230730 How to Apply for SBS <Inkigayo> Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/14637",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 22:30 KST; also https://weverse.io/newjeans/notice/14638; KR title: [NOTICE] 230730 SBS <인기가요> 사전녹화 참여 안내 (+ENG/JPN)"
+  },
+  {
+   "key": "youtube-2023-08-01-shared-nuee5gfhekw",
+   "date": "2023-08-01",
+   "title": "Shared video: [4K] #NewJeans (#뉴진스) “Cool With You” Band LIVE Concert │믿고 보는 뉴진스의 밴드라이브🐰 [it’s",
+   "url": "https://www.youtube.com/post/UgkxV8_18_M3xaJeQ00S2XeS_eG8nvy8DZrO",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 17:00 KST; attached video https://youtu.be/Nuee5Gfhekw"
+  },
+  {
+   "key": "weverse-2023-08-02-newjeans-2nd-ep-get-up-release-fan-signing-event-information",
+   "date": "2023-08-02",
+   "title": "Weverse notice: NewJeans 2nd EP 'Get Up' Release Fan-signing Event Information",
+   "url": "https://weverse.io/newjeansofficial/notice/14711",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse+x (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 17:30 KST; also https://weverse.io/newjeans/notice/14712; X relay: https://x.com/NewJeans_ADOR/status/1686655574535249920; KR title: [NOTICE] NewJeans 2nd EP 'Get Up' 활동 기념 팬사인회 (+ENG/JPN) (+0802 추가)"
+  },
+  {
+   "key": "weverse-2023-08-03-230806-how-to-apply-for-sbs-inkigayo-pre-recording",
+   "date": "2023-08-03",
+   "title": "Weverse notice: 230806 How to Apply for SBS <Inkigayo> Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/14735",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 22:30 KST; also https://weverse.io/newjeans/notice/14736; KR title: [NOTICE] 230806 SBS <인기가요> 사전녹화 참여 안내 (+ENG/JPN)"
+  },
+  {
+   "key": "youtube-2023-08-05-shared-kotbllk9-um",
+   "date": "2023-08-05",
+   "title": "Shared video: #뉴진스 #하니 는 금발💛흑발🖤?? 팜하니 극락 모먼트를 7분간 쉼없이 감상하는 귀한 영상😋🦦 #HANNI #NewJeans | ELLE KOR",
+   "url": "https://www.youtube.com/post/Ugkx_ry5JXYYSRedoAcPA7HK_Xe4nFGAAuwq",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 12:02 KST; attached video https://youtu.be/KoTbLLK9-UM"
+  },
+  {
+   "key": "weverse-2023-08-07-newjeans-2nd-ep-get-up-release-fan-signing-event-information",
+   "date": "2023-08-07",
+   "title": "Weverse notice: NewJeans 2nd EP 'Get Up' Release Fan-signing Event Information",
+   "url": "https://weverse.io/newjeansofficial/notice/14755",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse+x (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 10:30 KST; also https://weverse.io/newjeans/notice/14756; X relay: https://x.com/NewJeans_ADOR/status/1688361817805111296; KR title: [NOTICE] NewJeans 2nd EP 'Get Up' 활동 기념 팬사인회 (+ENG/JPN) (+0807 추가)"
+  },
+  {
+   "key": "youtube-2023-08-08-shared-zvnuqfdaap0",
+   "date": "2023-08-08",
+   "title": "Shared video: [리무진서비스] EP.75 #뉴진스 #다니엘 | #NewJeans #DANIELLE I | ASAP, 우주를 건너, Only Hope, Writ",
+   "url": "https://www.youtube.com/post/UgkxR5LsE0eYhP9IN2lP4XSYqsQ8oNHqL2x4",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 18:00 KST; attached video https://youtu.be/ZvnUqFDAaP0"
+  },
+  {
+   "key": "weverse-2023-08-10-230813-how-to-apply-for-sbs-inkigayo-pre-recording",
+   "date": "2023-08-10",
+   "title": "Weverse notice: 230813 How to Apply for SBS <Inkigayo> Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/14815",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 23:00 KST; also https://weverse.io/newjeans/notice/14816; KR title: [NOTICE] 230813 SBS <인기가요> 사전녹화 참여 안내 (+ENG/JPN)"
+  },
+  {
+   "key": "tiktok-2023-08-17-tiktok-eta-challenge-with-jimin",
+   "date": "2023-08-17",
+   "title": "TikTok \"ETA\" challenge with BTS' Jimin",
+   "url": "https://x.com/NewJeans_ADOR/status/1692084120011362590",
+   "record": "sns-2023-08-17-tiktok-eta-challenge-with-jimin",
+   "exclude": null,
+   "note": "release; platform: tiktok"
+  },
+  {
+   "key": "tiktok-2023-08-22-tiktok-hype-voy-with-v",
+   "date": "2023-08-22",
+   "title": "TikTok \"Hype 'V'oy\" challenge with BTS' V",
+   "url": "https://x.com/NewJeans_ADOR/status/1693805343170826698",
+   "record": "sns-2023-08-22-tiktok-hype-voy-with-v",
+   "exclude": null,
+   "note": "release; platform: tiktok"
+  },
+  {
+   "key": "weverse-2023-08-23-230825-how-to-apply-for-kbs-music-bank-pre-recording",
+   "date": "2023-08-23",
+   "title": "Weverse notice: 230825 How to Apply for KBS <MUSIC BANK> Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/14939",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 21:00 KST; also https://weverse.io/newjeans/notice/14942; KR title: [NOTICE]  230825 KBS <뮤직뱅크> 사전녹화 참여 안내 (스페셜 MC 하니) (+ENG/JPN)"
+  },
+  {
+   "key": "weverse-2023-08-25-230827-how-to-apply-for-sbs-inkigayo-pre-recording",
+   "date": "2023-08-25",
+   "title": "Weverse notice: 230827 How to Apply for SBS <Inkigayo> Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/14956",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/14957; KR title: [NOTICE] 230827 SBS <인기가요> 사전녹화 참여 안내 (+ENG/JPN)"
+  },
+  {
+   "key": "youtube-2023-08-25-shared-8rducdnijhy",
+   "date": "2023-08-25",
+   "title": "Shared video: [LINE FRIENDS X #NewJeans] Let's Play with bunini @NewJeans POP-UP STORE",
+   "url": "https://www.youtube.com/post/UgkxrmzRCcbkxYfiqmzoqOaEZkAngTBj5A_9",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 20:25 KST; attached video https://youtu.be/8rducdnIJHY"
+  },
+  {
+   "key": "weverse-2023-08-26-newjeans-2nd-ep-get-up-album-promotions-event",
+   "date": "2023-08-26",
+   "title": "Weverse notice: NewJeans 2nd EP “Get Up” Album Promotions Event",
+   "url": "https://weverse.io/newjeansofficial/notice/14980",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/14981; KR title: [NOTICE] NewJeans 2nd EP ‘Get Up’ 앨범 활동 이벤트 안내 (+ENG/JPN)"
+  },
+  {
+   "key": "weverse-2023-09-01-information-on-how-to-deliver-fan-letters-to-newjeans",
+   "date": "2023-09-01",
+   "title": "Weverse notice: Information on How to Deliver Fan Letters to NewJeans",
+   "url": "https://weverse.io/newjeansofficial/notice/15079",
+   "record": null,
+   "exclude": "プラットフォーム運営・利用案内の告知（NewJeansの活動の告知・発売・節目・声明ではない）",
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/15080; KR title: [NOTICE] NewJeans 팬레터 전달 방법 안내 (+ENG/JPN)"
+  },
+  {
+   "key": "youtube-2023-09-13-shared-w5-rfg30yti",
+   "date": "2023-09-13",
+   "title": "Shared video: 웃음 빵! #뉴진스 #하니 가 촬영 전에 한 일은? 도전하고 있는 셀카 포즈는? 최애 립 컬러는?",
+   "url": "https://www.youtube.com/post/UgkxTCLBOsNrri8pU8U9R78qRh5Mz60TQzAj",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 18:14 KST; attached video https://youtu.be/W5-Rfg30YtI"
+  },
+  {
+   "key": "weverse-2023-09-14-newjeans-2nd-ep-get-up-album-promotion-event-winner-announce",
+   "date": "2023-09-14",
+   "title": "Weverse notice: NewJeans 2nd EP ‘Get Up’ Album Promotion Event winner Announcement",
+   "url": "https://weverse.io/newjeansofficial/notice/15260",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 14:00 KST; also https://weverse.io/newjeans/notice/15261; KR title: [NOTICE] NewJeans 2nd EP ‘Get Up’ 앨범 활동 이벤트 당첨자 안내 (+ENG/JPN)"
+  },
+  {
+   "key": "youtube-2023-09-19-shared-q7yiyhype0o",
+   "date": "2023-09-19",
+   "title": "Shared video: '뉴스9'와 만난 #뉴진스…데뷔 1년, ‘온세뉴’가 된 그들의 이야기 / #NewJeans Interview(Full Ver.) on KBS N",
+   "url": "https://www.youtube.com/post/Ugkxbka-NrJ-9Ei0Voefh5W5mWFgFS4tzrgy",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 22:34 KST; attached video https://youtu.be/Q7YIYhype0o"
+  },
+  {
+   "key": "x-2023-09-27-hanni-at-the-gucci-ss24-show-in-milan",
+   "date": "2023-09-27",
+   "title": "Hanni at the Gucci SS24 show in Milan (#광고)",
+   "url": "https://x.com/NewJeans_ADOR/status/1707002151677956549",
+   "record": "live-2023-09-22-hanni-gucci-ancora-ss24-milan",
+   "exclude": null,
+   "note": "release (brand campaign/attendance post tagged #광고); platform: x; posted 21:00 KST; matched record is the event itself (2023-09-22)"
+  },
+  {
+   "key": "x-2023-10-04-gods-worlds-2023-anthem-release-post",
+   "date": "2023-10-04",
+   "title": "'GODS' (Worlds 2023 anthem) release post",
+   "url": "https://www.youtube.com/watch?v=C3GouGa0noM",
+   "record": "mv-2023-10-04-gods-ft-newjeans-official-music-video-worlds-2023-anthem",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "youtube-2023-10-05-shared-85ucukymohc",
+   "date": "2023-10-05",
+   "title": "Shared video: 바자 10월호와 함께하는 민지의 기분은? OOO이다! #툭툭인터뷰 with #뉴진스 #민지",
+   "url": "https://www.youtube.com/post/UgkxnUs0eXRq4Rj2Hhcb2a85MeSK6FCcA27h",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 19:03 KST; attached video https://youtu.be/85UCuKymohc"
+  },
+  {
+   "key": "weverse-2023-10-06-2023-the-fact-music-awards-oct-10-audience-participation",
+   "date": "2023-10-06",
+   "title": "Weverse notice: 2023 THE FACT MUSIC AWARDS (Oct 10) audience participation",
+   "url": "https://weverse.io/newjeansofficial/notice/15581",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 18:00 KST; also https://weverse.io/newjeans/notice/15585"
+  },
+  {
+   "key": "x-2023-10-06-hyein-at-the-louis-vuitton-ss24-show-in-paris",
+   "date": "2023-10-06",
+   "title": "Hyein at the Louis Vuitton SS24 show in Paris (#광고)",
+   "url": "https://x.com/NewJeans_ADOR/status/1710188139615326489",
+   "record": "live-2023-10-02-hyein-louis-vuitton-ss24-paris",
+   "exclude": null,
+   "note": "release (brand campaign/attendance post tagged #광고); platform: x; posted 16:00 KST; matched record is the event itself (2023-10-02)"
+  },
+  {
+   "key": "youtube-2023-10-06-happy-hanni-day",
+   "date": "2023-10-06",
+   "title": "Happy Hanni Day birthday post",
+   "url": "https://www.youtube.com/post/Ugkxei9il0PPPoFYMdURH9phnAmnrHHHURl4",
+   "record": null,
+   "exclude": null,
+   "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
+  },
+  {
+   "key": "youtube-2023-10-06-shared-qw-jru3tqri",
+   "date": "2023-10-06",
+   "title": "Shared video: #뉴진스 #하니 가 몇 번이고 다시 볼 수 있는 인생 영화가 'LA LA LAND'인 이유?🎬✨ | VOGUEMEETS",
+   "url": "https://www.youtube.com/post/UgkxNo08IZd7fUPeSHuGrFOz7rqFN9nqRx8Q",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 17:02 KST; attached video https://youtu.be/qW-jRu3tQRI"
+  },
+  {
+   "key": "youtube-2023-10-06-super-shy-official-mv-passes-100-million-youtube-views",
+   "date": "2023-10-06",
+   "title": "'Super Shy' Official MV passes 100 million YouTube views",
+   "url": "https://www.youtube.com/post/Ugkx4uL3yKOqNionjlgIvcQqSQiYphkJSJ8c",
+   "record": "record-2023-10-05-super-shy-mv-100m-views",
+   "exclude": null,
+   "note": "milestone; platform: youtube community; posted 08:00 KST; matched milestone record dated 2023-10-05 (achievement date), post dated 2023-10-06"
+  },
+  {
+   "key": "youtube-2023-10-07-shared-o3xxo-ymrw8",
+   "date": "2023-10-07",
+   "title": "Shared video: 🐰\"그게 너무 귀여워 보였어요!💖\" #뉴진스(#NewJeans) MISSION BOX interview",
+   "url": "https://www.youtube.com/post/Ugkxii0DhDICa2ypp9JvTfpJU0Lx1y0fcfOR",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 12:08 KST; attached video https://youtu.be/o3xXO_yMRW8"
+  },
+  {
+   "key": "tiktok-2023-10-15-tiktok-ditto-challenge-with-jungkook",
+   "date": "2023-10-15",
+   "title": "TikTok \"Ditto\" challenge with BTS' Jung Kook",
+   "url": "https://www.sportskeeda.com/pop-culture/news-everything-i-waiting-for-fans-react-bts-jungkook-newjeans-join-forces-3d-ditto-challenge",
+   "record": "sns-2023-10-15-tiktok-ditto-challenge-with-jungkook",
+   "exclude": null,
+   "note": "release; platform: tiktok"
+  },
+  {
+   "key": "youtube-2023-10-15-ditto-performance-video-passes-100-million-youtube-views",
+   "date": "2023-10-15",
+   "title": "'Ditto' Performance Video passes 100 million YouTube views",
+   "url": "https://www.youtube.com/post/UgkxQYmls8ygkLg3OmOrDVCznCMXJ_n_r1Nc",
+   "record": null,
+   "exclude": null,
+   "note": "milestone; platform: youtube community; posted 13:00 KST"
+  },
+  {
+   "key": "youtube-2023-10-26-shared-uv6i5miq410",
+   "date": "2023-10-26",
+   "title": "Shared video: #뉴진스(#NewJeans) #다니엘 이 요즘 빠져 있는 취미는?! 🩷A Day with #DANIELLE💜",
+   "url": "https://www.youtube.com/post/UgkxTZMNL4JtZ-kYkSIL5YxHTftjVD-aVGGZ",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 18:02 KST; attached video https://youtu.be/Uv6i5Miq410"
+  },
+  {
+   "key": "weverse-2023-10-27-231103-how-to-apply-for-performance-pre-recording",
+   "date": "2023-10-27",
+   "title": "Weverse notice: 231103 How to Apply for Performance Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/15986",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 10:00 KST"
+  },
+  {
+   "key": "weverse-2023-10-27-newjeans-yearbook-22-23-release-announcement",
+   "date": "2023-10-27",
+   "title": "Weverse notice: NewJeans Yearbook 22-23 Release Announcement",
+   "url": "https://weverse.io/newjeansofficial/notice/15976",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/15978"
+  },
+  {
+   "key": "weverse-2023-10-27-nov-4-music-show-name-tba-pre-recording-application",
+   "date": "2023-10-27",
+   "title": "Weverse notice: Nov 4 music show (name TBA) pre-recording application",
+   "url": "https://weverse.io/newjeansofficial/notice/15987",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 18:00 KST"
+  },
+  {
+   "key": "x-2023-11-04-gods-worlds-2023",
+   "date": "2023-11-04",
+   "title": "'GODS' Worlds 2023 Opening Ceremony performance post",
+   "url": "https://x.com/NewJeans_ADOR/status/1720455798080548934",
+   "record": "sns-2023-11-04-gods-worlds-2023",
+   "exclude": null,
+   "note": "release; platform: x"
+  },
+  {
+   "key": "youtube-2023-11-07-shared-ez6ppffz5tu",
+   "date": "2023-11-07",
+   "title": "Shared video: 민지 긴장하면 나오는 말투? | #민지, #MINJI, #뉴진스, #NewJeans, 몽클레르, Moncler, 에스콰이어, ESQUIREKOR",
+   "url": "https://www.youtube.com/post/UgkxURZmhY9EnhWiPML9OieKJ_Svd2ukk38T",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 19:20 KST; attached video https://youtu.be/Ez6PpffZ5TU"
+  },
+  {
+   "key": "weverse-2023-11-09-how-to-watch-newjeans-yearbook-22-23-vod",
+   "date": "2023-11-09",
+   "title": "Weverse notice: How to Watch <NewJeans Yearbook 22-23> VOD",
+   "url": "https://weverse.io/newjeansofficial/notice/16246",
+   "record": null,
+   "exclude": "プラットフォーム運営・利用案内の告知（NewJeansの活動の告知・発売・節目・声明ではない）",
+   "note": "announce; platforms: weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 18:00 KST"
+  },
+  {
+   "key": "phoning-2023-11-20-revocation-of-inactive-account-handling-policies-by-weverse",
+   "date": "2023-11-20",
+   "title": "Phoning/Weverse notice: Revocation of inactive account handling policies by WEVERSE COMPANY",
+   "url": "https://weverse.io/newjeans/notice/16478",
+   "record": null,
+   "exclude": "プラットフォーム運営・利用案内の告知（NewJeansの活動の告知・発売・節目・声明ではない）",
+   "note": "announce; platforms: phoning (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 12:00 KST"
+  },
+  {
+   "key": "youtube-2023-11-21-shared-sw8axavz7ec",
+   "date": "2023-11-21",
+   "title": "Shared video: #뉴진스 건강 지킴이 #다니엘, 모닝 루틴부터 멤버들에게 해주고 싶은 음식까지! | 얼루어코리아 Allure Korea",
+   "url": "https://www.youtube.com/post/UgkxKGLUy9sA_3BL-GzrB10xNUpeKe5CINBz",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 18:03 KST; attached video https://youtu.be/sW8AxaVZ7ec"
+  },
+  {
+   "key": "x-2023-11-23-haerin-at-dior-cruise-24-in-hong-kong",
+   "date": "2023-11-23",
+   "title": "Haerin at Dior Cruise 24 in Hong Kong (#광고)",
+   "url": "https://x.com/NewJeans_ADOR/status/1727612956882640899",
+   "record": "live-2023-11-21-haerin-dior-road-cruise-party-hong-kong",
+   "exclude": null,
+   "note": "release (brand campaign/attendance post tagged #광고); platform: x; posted 18:00 KST; matched record is the event itself (2023-11-21)"
+  },
+  {
+   "key": "weverse-2023-11-28-newjeans-2024-season-s-greetings-release-announcement",
+   "date": "2023-11-28",
+   "title": "Weverse notice: NewJeans 2024 SEASON'S GREETINGS Release Announcement",
+   "url": "https://weverse.io/newjeansofficial/notice/16549",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/16633; KR title: [NOTICE] NewJeans 2024 SEASON'S GREETINGS Release Announcement(+판매처 URL 추가)(+ENG/JPN/CHN)"
+  },
+  {
+   "key": "other-2023-11-29-mama-2023-daesang-thanks",
+   "date": "2023-11-29",
+   "title": "2023 MAMA AWARDS win thank-you post",
+   "url": "https://www.inews.id/lifestyle/music/selamat-newjeans-sukses-borong-penghargaan-di-mama-awards-2023/all",
+   "record": "sns-2023-11-29-mama-2023-daesang-thanks",
+   "exclude": null,
+   "note": "milestone; platform: other"
+  },
+  {
+   "key": "youtube-2023-12-06-shared-yswqldn4cam",
+   "date": "2023-12-06",
+   "title": "Shared video: ‘너.. OO가 누구야?’ #뉴진스 #해린 이 버니즈에게 물어보고 싶은 질문은?🧐 by W Korea",
+   "url": "https://www.youtube.com/post/Ugkx__FqboDFBiOEMnm2n6ydr9Tf7HBXhcIr",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 21:03 KST; attached video https://youtu.be/ysWQlDN4CAM"
+  },
+  {
+   "key": "youtube-2023-12-06-thank-you",
+   "date": "2023-12-06",
+   "title": "Thank-you post to YouTube Music",
+   "url": "https://www.youtube.com/post/UgkxrPbDunmMJQLN6mle9a264uHWlKBdLEpA",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platform: youtube community; posted 21:00 KST; text: Thank you ‪@YouTubeMusic‬ !"
+  },
+  {
+   "key": "youtube-2023-12-08-shared-vsne-zyuv9i",
+   "date": "2023-12-08",
+   "title": "Shared video: '강해린'으로 삼행시?! 그리고 의외의 결과🐱💦 엉뚱 귀염 뽀작 고양이 #뉴진스 #해린 의 이모지 인터뷰 | ELLE KOREA",
+   "url": "https://www.youtube.com/post/Ugkxa6GqM8dfzNqg-zHbgTVEp8MCOtoBKo2P",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 10:00 KST; attached video https://youtu.be/VSnE_zyUv9I"
+  },
+  {
+   "key": "weverse-2023-12-10-how-to-watch-newjeans-2024-season-s-greetings-special-video",
+   "date": "2023-12-10",
+   "title": "Weverse notice: How to Watch \"NewJeans 2024 SEASON's GREETINGS Special Video\" VOD",
+   "url": "https://weverse.io/newjeansofficial/notice/16801",
+   "record": null,
+   "exclude": "プラットフォーム運営・利用案内の告知（NewJeansの活動の告知・発売・節目・声明ではない）",
+   "note": "announce; platforms: weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 18:00 KST"
+  },
+  {
+   "key": "youtube-2023-12-12-shared-f-yverfzpkw",
+   "date": "2023-12-12",
+   "title": "Shared video: \"어쩌면 토끼를 제일 잘 그릴지도 몰라요🐰\" #뉴진스(#NewJeans) #민지(#MINJI) 그림일기🎨",
+   "url": "https://www.youtube.com/post/UgkxXhviasdR6XZ3zbgchoCaj0v8u7xZaW8D",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 19:01 KST; attached video https://youtu.be/F-yverfZpkw"
+  },
+  {
+   "key": "x-2023-12-14-remix-album-njwmx-teaser-posts",
+   "date": "2023-12-14",
+   "title": "Remix album 'NJWMX' teaser posts",
+   "url": "https://www.youtube.com/@NewJeans_official",
+   "record": "mv-2023-12-14-njwmx-teaser-20231219",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "x-2023-12-14-rockin-eve-announcement",
+   "date": "2023-12-14",
+   "title": "New Year's Rockin' Eve appearance post",
+   "url": "https://x.com/NewJeans_ADOR/status/1735072119825031316",
+   "record": "sns-2023-12-14-rockin-eve-announcement",
+   "exclude": null,
+   "note": "announce; platform: x"
+  },
+  {
+   "key": "weverse-2023-12-15-newjeans-2024-season-s-greetings-content-printing-error-info",
+   "date": "2023-12-15",
+   "title": "Weverse notice: NewJeans 2024 SEASON'S GREETINGS Content Printing Error Information",
+   "url": "https://weverse.io/newjeansofficial/notice/16865",
+   "record": null,
+   "exclude": "プラットフォーム運営・利用案内の告知（NewJeansの活動の告知・発売・節目・声明ではない）",
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/16866"
+  },
+  {
+   "key": "x-2023-12-19-remix-album-njwmx-release-post",
+   "date": "2023-12-19",
+   "title": "Remix album 'NJWMX' release post",
+   "url": "https://en.wikipedia.org/wiki/NewJeans_discography",
+   "record": "music-2023-12-19-njwmx",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "weverse-2023-12-22-how-to-apply-for-2023-sbs-gayo-daejeon-live",
+   "date": "2023-12-22",
+   "title": "Weverse notice: How to Apply for 2023 SBS Gayo Daejeon live",
+   "url": "https://weverse.io/newjeansofficial/notice/16975",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/16976; KR title: [Notice] How to Apply for 2023 SBS Gayo Daejeon live (+Winner announced) (+KOR/JPN)"
+  },
+  {
+   "key": "weverse-2023-12-29-update-notice-on-legal-proceedings-against-violation-of-arti",
+   "date": "2023-12-29",
+   "title": "Weverse notice: Update Notice on Legal Proceedings Against Violation of Artist Rights (Dec. 29)",
+   "url": "https://weverse.io/newjeansofficial/notice/17058",
+   "record": null,
+   "exclude": null,
+   "note": "statement; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 13:30 KST; also https://weverse.io/newjeans/notice/17059"
+  },
+  {
+   "key": "youtube-2023-12-29-omg-official-mv-performance-ver-1-passes-200-million-youtube",
+   "date": "2023-12-29",
+   "title": "'OMG' Official MV (Performance ver.1) passes 200 million YouTube views",
+   "url": "https://www.youtube.com/post/UgkxsuBCM7iLp7JnnwAATZBG9uWHeZFL2oIT",
+   "record": "record-2023-12-29-omg-mv-200m-views",
+   "exclude": null,
+   "note": "milestone; platform: youtube community; posted 18:50 KST"
+  },
+  {
+   "key": "youtube-2024-01-13-shared-dlcaqpp-fzy",
+   "date": "2024-01-13",
+   "title": "Shared video: #뉴진스(#NewJeans) #민지 의 데뷔부터 지금까지 #뷰티타임라인",
+   "url": "https://www.youtube.com/post/UgkxzLov0VKIgUh2axKWC043vN7UJCwtNeM7",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 19:01 KST; attached video https://youtu.be/dLCaQpP-FZY"
+  },
+  {
+   "key": "phoning-2024-01-16-minji-phoning-apology-letter",
+   "date": "2024-01-16",
+   "title": "Minji posts apology letter \"Hello, this is Minji\" on Phoning",
+   "url": "https://kbizoom.com/newjeans-minji-apologizes-for-the-kalguksu-incident-reflect-on-immature-attitude/",
+   "record": "sns-2024-01-16-minji-phoning-apology-letter",
+   "exclude": null,
+   "note": "statement; platform: phoning"
+  },
+  {
+   "key": "weverse-2024-01-16-240119-how-to-apply-for-kbs2-music-bank-mc-hyein",
+   "date": "2024-01-16",
+   "title": "Weverse notice: 240119 How to Apply for KBS2 Music Bank (MC HYEIN)",
+   "url": "https://weverse.io/newjeansofficial/notice/17276",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 18:00 KST; also https://weverse.io/newjeans/notice/17281; KR title: [NOTICE] 240119 How to Apply for KBS2 Music Bank (MC HYEIN) (+KOR/JPN/CHN) (+URL 추가)"
+  },
+  {
+   "key": "youtube-2024-01-22-shared-ebic3zjffg0",
+   "date": "2024-01-22",
+   "title": "Shared video: How well do #NewJeans' #HANNI and #DANIELLE know each other? | Vogue Australia",
+   "url": "https://www.youtube.com/post/UgkxHnPkgO9h633jyLJe9idi71KS8REwTYo7",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 17:16 KST; attached video https://youtu.be/ebIc3zjFfg0"
+  },
+  {
+   "key": "x-2024-01-25-minji-at-the-chanel-haute-couture-show",
+   "date": "2024-01-25",
+   "title": "Minji at the CHANEL Haute Couture show (#광고)",
+   "url": "https://x.com/NewJeans_ADOR/status/1750174114424467900",
+   "record": "live-2024-01-23-minji-chanel-haute-couture-ss24-paris",
+   "exclude": null,
+   "note": "release (brand campaign/attendance post tagged #광고); platform: x; posted 00:10 KST; matched record is the event itself (2024-01-23)"
+  },
+  {
+   "key": "youtube-2024-01-30-shared-ugkpt-vctu4",
+   "date": "2024-01-30",
+   "title": "Shared video: #뉴진스 #하니 가 숙소 통째로 옮겨온(?) 애장품 컬렉션! 캐리어에 담아온 아이템이 무려 17개💓 by W Korea",
+   "url": "https://www.youtube.com/post/Ugkx0_XoLwPZbHh7xSbefnu_DSfFVe6Rh-SJ",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 20:14 KST; attached video https://youtu.be/ugKpt-vCTu4"
+  },
+  {
+   "key": "youtube-2024-02-26-shared-xhyxgdqw-qw",
+   "date": "2024-02-26",
+   "title": "Shared video: #뉴진스 #해린 이 직접 뽑은 최애 헤메코는? by W Korea",
+   "url": "https://www.youtube.com/post/Ugkx7ZRxmYMePwaHfPc2l1vVCBAzCiUXdsQt",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 20:14 KST; attached video https://youtu.be/XhyXgDQW-Qw"
+  },
+  {
+   "key": "x-2024-02-27-hanni-at-the-gucci-fw24-show-in-milan",
+   "date": "2024-02-27",
+   "title": "Hanni at the Gucci FW24 show in Milan (#광고)",
+   "url": "https://x.com/NewJeans_ADOR/status/1762251201561682053",
+   "record": "live-2024-02-23-hanni-gucci-fw24-milan",
+   "exclude": null,
+   "note": "release (brand campaign/attendance post tagged #광고); platform: x; posted 08:00 KST; matched record is the event itself (2024-02-23)"
+  },
+  {
+   "key": "youtube-2024-03-06-shared-pe8ur56l1rm",
+   "date": "2024-03-06",
+   "title": "Shared video: #뉴진스(#NewJeans) #하니 가 요즘 푹 빠져 있는 것은?!🐰 A Day with #HANNI💙",
+   "url": "https://www.youtube.com/post/UgkxaBjXzfIcf98JGVCHF-AYdLV1qSVEA9sB",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 15:28 KST; attached video https://youtu.be/pe8uR56L1RM"
+  },
+  {
+   "key": "x-2024-03-07-hyein-at-the-louis-vuitton-fw24-show-in-paris",
+   "date": "2024-03-07",
+   "title": "Hyein at the Louis Vuitton FW24 show in Paris (#광고)",
+   "url": "https://x.com/NewJeans_ADOR/status/1765527785236562195",
+   "record": "live-2024-03-05-hyein-louis-vuitton-fw24-paris",
+   "exclude": null,
+   "note": "release (brand campaign/attendance post tagged #광고); platform: x; posted 09:00 KST; matched record is the event itself (2024-03-05)"
+  },
+  {
+   "key": "weverse-2024-03-19-newjeans-global-official-fanclub-bunnies-membership-renewal",
+   "date": "2024-03-19",
+   "title": "Weverse notice: NewJeans Global Official Fanclub “Bunnies” Membership Renewal Information",
+   "url": "https://weverse.io/newjeansofficial/notice/18194",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/18195"
+  },
+  {
+   "key": "weverse-2024-03-27-newjeans-fan-meeting-bunnies-camp-2024-tokyo-dome-announceme",
+   "date": "2024-03-27",
+   "title": "Weverse notice: NewJeans Fan Meeting 'Bunnies Camp 2024 Tokyo Dome' Announcement",
+   "url": "https://weverse.io/newjeansofficial/notice/18349",
+   "record": "sns-2024-03-27-bunnies-camp-2024-tokyo-dome-announcement",
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 06:00 KST; also https://weverse.io/newjeans/notice/18414; KR title: [NOTICE] NewJeans Fan Meeting 'Bunnies Camp 2024 Tokyo Dome' Announcement (+ENG/JPN)"
+  },
+  {
+   "key": "x-2024-03-27-it-s-coming-comeback-teaser-post",
+   "date": "2024-03-27",
+   "title": "'It's coming...' comeback teaser post",
+   "url": "https://www.youtube.com/@NewJeans_official",
+   "record": "mv-2024-03-27-its-coming-shorts",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "x-2024-03-28-hanni-gucci-beauty-ambassador",
+   "date": "2024-03-28",
+   "title": "Hanni named Gucci Beauty global brand ambassador",
+   "url": "https://x.com/NewJeans_ADOR/status/1773230644727775339",
+   "record": "sns-2024-03-28-hanni-gucci-beauty-ambassador",
+   "exclude": null,
+   "note": "announce; platform: x"
+  },
+  {
+   "key": "weverse-2024-03-29-newjeans-global-official-fanclub-bunnies-membership-renewal",
+   "date": "2024-03-29",
+   "title": "Weverse notice: NewJeans Global Official Fanclub \"Bunnies\" Membership Renewal Details",
+   "url": "https://weverse.io/newjeansofficial/notice/18442",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/18463"
+  },
+  {
+   "key": "youtube-2024-04-02-shared-6ure8vrwoum",
+   "date": "2024-04-02",
+   "title": "Shared video: #뉴진스 가 아니었다면 지금쯤 무엇을 하고 있을까?🥹 #다니엘 이 말하는 제2의 꿈(?) 공개✨by W Korea",
+   "url": "https://www.youtube.com/post/Ugkxj5iz-fGXJo2Ku2DSiXsTPiTiTtm7WFGt",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 12:06 KST; attached video https://youtu.be/6ure8vrwoUM"
+  },
+  {
+   "key": "weverse-2024-04-05-information-on-how-to-deliver-fan-letters-to-newjeans-no-giv",
+   "date": "2024-04-05",
+   "title": "Weverse notice: Information on How to Deliver Fan Letters to NewJeans (No Giving Letters at the Airport)",
+   "url": "https://weverse.io/newjeansofficial/notice/18598",
+   "record": null,
+   "exclude": "プラットフォーム運営・利用案内の告知（NewJeansの活動の告知・発売・節目・声明ではない）",
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/18605"
+  },
+  {
+   "key": "weverse-2024-04-06-newjeans-fan-meeting-bunnies-camp-2024-tokyo-dome-bunnies-me",
+   "date": "2024-04-06",
+   "title": "Weverse notice: “NewJeans Fan Meeting ‘Bunnies Camp 2024 Tokyo Dome’” Bunnies Membership (JP) Member Raffle Results Announcement",
+   "url": "https://weverse.io/newjeansofficial/notice/18641",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 18:00 KST"
+  },
+  {
+   "key": "weverse-2024-04-08-newjeans-fan-meeting-bunnies-camp-2024-tokyo-dome-bunnies-me",
+   "date": "2024-04-08",
+   "title": "Weverse notice: NewJeans Fan Meeting 'Bunnies Camp 2024 Tokyo Dome' Bunnies Membership (GL) Holders Raffle Entry Information",
+   "url": "https://weverse.io/newjeansofficial/notice/18552",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/18676; KR title: NOTICE] NewJeans Fan Meeting 'Bunnies Camp 2024 Tokyo Dome' Bunnies Membership (GL) Holders Raffle Entry Information"
+  },
+  {
+   "key": "youtube-2024-04-11-happy-danielle-day",
+   "date": "2024-04-11",
+   "title": "Happy Danielle Day birthday post",
+   "url": "https://www.youtube.com/post/UgkxVMs1mOVKfL9_3ZqsF9VPKEscRq3hIfeu",
+   "record": null,
+   "exclude": null,
+   "note": "milestone (member birthday); platform: youtube community; posted 00:07 KST"
+  },
+  {
+   "key": "weverse-2024-04-18-newjeans-official-light-stick-app-and-firmware-update-guide",
+   "date": "2024-04-18",
+   "title": "Weverse notice: NewJeans Official Light Stick App and Firmware Update Guide",
+   "url": "https://weverse.io/newjeansofficial/notice/18926",
+   "record": null,
+   "exclude": "プラットフォーム運営・利用案内の告知（NewJeansの活動の告知・発売・節目・声明ではない）",
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 13:00 KST; also https://weverse.io/newjeans/notice/18927"
+  },
+  {
+   "key": "youtube-2024-04-21-happy-hyein-day",
+   "date": "2024-04-21",
+   "title": "Happy Hyein Day birthday post",
+   "url": "https://www.youtube.com/post/UgkxLFb3jNyeUK-gZh5s_Z69U5akZBcXY-nh",
+   "record": null,
+   "exclude": null,
+   "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
+  },
+  {
+   "key": "weverse-2024-04-25-legal-action-over-infringement-of-newjeans-rights",
+   "date": "2024-04-25",
+   "title": "Weverse notice: Legal action over infringement of NewJeans' rights",
+   "url": "https://weverse.io/newjeansofficial/notice/19130",
+   "record": "sns-2024-04-25-ador-legal-action-notice",
+   "exclude": null,
+   "note": "statement; platforms: weverse+x (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 18:00 KST; X relay: https://x.com/NewJeans_ADOR/status/1783420809111011802"
+  },
+  {
+   "key": "instagram-2024-04-26-how-sweet-concept-photos",
+   "date": "2024-04-26",
+   "title": "'How Sweet' concept photos (first batch)",
+   "url": "https://www.instagram.com/p/C6NQhyCSPro/",
+   "record": "sns-2024-04-26-how-sweet-concept-photos",
+   "exclude": null,
+   "note": "release; platform: instagram"
+  },
+  {
+   "key": "instagram-2024-04-26-instagram-how-sweet-concept-photos-2",
+   "date": "2024-04-26",
+   "title": "Instagram \"How Sweet\" concept photo post (second)",
+   "url": "https://www.instagram.com/p/C6NQjYHSAiq/",
+   "record": "sns-2024-04-26-instagram-how-sweet-concept-photos-2",
+   "exclude": null,
+   "note": "release; platform: instagram"
+  },
+  {
+   "key": "weverse-2024-04-26-newjeans-fan-meeting-bunnies-camp-2024-tokyo-dome-bunnies-me",
+   "date": "2024-04-26",
+   "title": "Weverse notice: NewJeans Fan Meeting “Bunnies Camp 2024 Tokyo Dome” Bunnies Membership (GL) Fan Club Member Raffle Results Announcement",
+   "url": "https://weverse.io/newjeansofficial/notice/19156",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 18:00 KST; also https://weverse.io/newjeans/notice/19159"
+  },
+  {
+   "key": "weverse-2024-04-26-newjeans-how-sweet-pre-order-customer-video-call-fansign-eve",
+   "date": "2024-04-26",
+   "title": "Weverse notice: NewJeans [How Sweet] Pre-order Customer Video Call Fansign Event",
+   "url": "https://weverse.io/newjeansofficial/notice/19071",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse+x (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/19128; X relay: https://x.com/NewJeans_ADOR/status/1783677379875143690"
+  },
+  {
+   "key": "x-2024-04-26-minji-at-chanel-nuit-blanche-seoul",
+   "date": "2024-04-26",
+   "title": "Minji at CHANEL Nuit Blanche Seoul (#광고)",
+   "url": "https://x.com/NewJeans_ADOR/status/1783828374156439690",
+   "record": "live-2024-04-23-minji-chanel-rouge-allure-popup-photocall",
+   "exclude": null,
+   "note": "release (brand campaign/attendance post tagged #광고); platform: x; posted 21:00 KST; matched record is the event itself (2024-04-23)"
+  },
+  {
+   "key": "instagram-2024-04-27-instagram-bubble-gum-mv-release-post",
+   "date": "2024-04-27",
+   "title": "Instagram \"Bubble Gum\" MV release post",
+   "url": "https://www.instagram.com/p/C6Opx_OyLxp/",
+   "record": "sns-2024-04-27-instagram-bubble-gum-mv-release-post",
+   "exclude": null,
+   "note": "release; platform: instagram"
+  },
+  {
+   "key": "x-2024-04-27-bubble-gum-release-day-post",
+   "date": "2024-04-27",
+   "title": "\"Bubble Gum\" release-day photo post",
+   "url": "https://x.com/NewJeans_ADOR/status/1783873743225581973",
+   "record": "sns-2024-04-27-bubble-gum-release-day-post",
+   "exclude": null,
+   "note": "release; platform: x"
+  },
+  {
+   "key": "instagram-2024-04-29-instagram-bubble-gum-era-post-0429",
+   "date": "2024-04-29",
+   "title": "Instagram \"Bubble Gum\"-era post (April 29)",
+   "url": "https://www.instagram.com/p/C6U-30iyTa7/",
+   "record": "sns-2024-04-29-instagram-bubble-gum-era-post-0429",
+   "exclude": null,
+   "note": "release; platform: instagram"
+  },
+  {
+   "key": "youtube-2024-04-29-shared-budbzx5vybm",
+   "date": "2024-04-29",
+   "title": "Shared video: \"I Love my baby💚\" #다니엘 의 소중한 10가지 애정템 공개✨ MY 10 FAVORITES with #NewJeans #DANIEL",
+   "url": "https://www.youtube.com/post/Ugkxy9fp1-uBcqIm99Ts11iM4yPrfDNkP5KU",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 20:18 KST; attached video https://youtu.be/buDBzX5vyBM"
+  },
+  {
+   "key": "instagram-2024-04-30-instagram-right-now-mv-teaser-post",
+   "date": "2024-04-30",
+   "title": "Instagram \"Right Now\" MV teaser post",
+   "url": "https://www.instagram.com/p/C6Y8y_KyLs_/",
+   "record": "sns-2024-04-30-instagram-right-now-mv-teaser-post",
+   "exclude": null,
+   "note": "release; platform: instagram"
+  },
+  {
+   "key": "youtube-2024-05-03-shared-ivkqntp-zaq",
+   "date": "2024-05-03",
+   "title": "Shared video: 깜찍한 아기 고양이 #해린 에게 카리스마란..? #B_잡학사전",
+   "url": "https://www.youtube.com/post/UgkxR5oWklUx4CptEM6J-PBEZG_L0u0v2Vhh",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 18:01 KST; attached video https://youtu.be/iVkQNTp_zaQ"
+  },
+  {
+   "key": "phoning-2024-05-06-minji-birthday-phoning-chat",
+   "date": "2024-05-06",
+   "title": "Minji chats with fans on Phoning ahead of her birthday",
+   "url": "https://kbizoom.com/minjis-birthday-comfort-hyeins-foot-fracture-danielles-confession-newjeans-isnt-really-smiling/",
+   "record": "sns-2024-05-06-minji-birthday-phoning-chat",
+   "exclude": "メンバーのPhoningでの日常的なやり取り（告知・発売・節目・声明ではない）",
+   "note": "milestone; platform: phoning"
+  },
+  {
+   "key": "youtube-2024-05-07-happy-minji-day",
+   "date": "2024-05-07",
+   "title": "Happy Minji Day birthday post",
+   "url": "https://www.youtube.com/post/Ugkxlb19Xg3H0h9Ebcm86yvOri9HKOrIjuJ-",
+   "record": null,
+   "exclude": null,
+   "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
+  },
+  {
+   "key": "phoning-2024-05-08-danielle-phoning-message-quiet",
+   "date": "2024-05-08",
+   "title": "Danielle reassures fans on Phoning after a quieter-than-usual spell",
+   "url": "https://kbizoom.com/minjis-birthday-comfort-hyeins-foot-fracture-danielles-confession-newjeans-isnt-really-smiling/",
+   "record": "sns-2024-05-08-danielle-phoning-message-quiet",
+   "exclude": "メンバーのPhoningでの日常的なメッセージ（告知・発売・節目・声明ではない）",
+   "note": "release; platform: phoning"
+  },
+  {
+   "key": "weverse-2024-05-08-240521-how-to-apply-for-2024-korea-on-stage-new-generation",
+   "date": "2024-05-08",
+   "title": "Weverse notice: 240521 How to Apply for '2024 KOREA ON STAGE – New Generation'",
+   "url": "https://weverse.io/newjeansofficial/notice/19393",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 18:00 KST; also https://weverse.io/newjeans/notice/19394; KR title: [Notice] 240521 How to Apply for '2024 KOREA ON STAGE – New Generation' (+MC DANIELLE)  (+참여자 발표)"
+  },
+  {
+   "key": "weverse-2024-05-08-newjeans-hyein-s-health-and-her-upcoming-schedule",
+   "date": "2024-05-08",
+   "title": "Weverse notice: NewJeans HYEIN’s Health and Her Upcoming Schedule",
+   "url": "https://weverse.io/newjeansofficial/notice/19366",
+   "record": "sns-2024-05-08-weverse-hyein-activity-pause-notice",
+   "exclude": null,
+   "note": "statement; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/19367"
+  },
+  {
+   "key": "instagram-2024-05-10-supernatural-packshot-preorder",
+   "date": "2024-05-10",
+   "title": "'Supernatural' packshot and pre-order start",
+   "url": "https://www.instagram.com/p/C6xUtiiyp7c/",
+   "record": "sns-2024-05-10-supernatural-packshot-preorder",
+   "exclude": null,
+   "note": "announce; platform: instagram"
+  },
+  {
+   "key": "youtube-2024-05-10-shared-unqjufxbes4",
+   "date": "2024-05-10",
+   "title": "Shared video: 【#NewJeans #DANIELLE】台北101「セリーヌ」イベントへ！ 密着＆秘蔵インタビュー｜Getting Ready With｜ ELLE Japa",
+   "url": "https://www.youtube.com/post/UgkxaA_r6gf8yCjtBXJviWkq6yBhCjtnqOGI",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 14:00 KST; attached video https://youtu.be/unqjUFXBEs4"
+  },
+  {
+   "key": "instagram-2024-05-11-fujiwara-hiroshi-collab-photos",
+   "date": "2024-05-11",
+   "title": "Hiroshi Fujiwara collaboration photo series",
+   "url": "https://www.instagram.com/p/C6ys6KAyGQv/",
+   "record": "sns-2024-05-11-fujiwara-hiroshi-collab-photos",
+   "exclude": null,
+   "note": "release; platform: instagram"
+  },
+  {
+   "key": "instagram-2024-05-13-instagram-fujiwara-hiroshi-tshirt-post",
+   "date": "2024-05-13",
+   "title": "Instagram post on the Fujiwara Hiroshi collaboration T-shirt",
+   "url": "https://www.instagram.com/p/C65VTGTrIaz/",
+   "record": "sns-2024-05-13-instagram-fujiwara-hiroshi-tshirt-post",
+   "exclude": null,
+   "note": "release; platform: instagram; record URL C65VTGTrIaz resolves (oEmbed) to @fujiwarahiroshi, not @newjeans_official; official-account post not verified"
+  },
+  {
+   "key": "youtube-2024-05-13-shared-8rxy3rxbsru",
+   "date": "2024-05-13",
+   "title": "Shared video: #뉴진스 #하니 가 고른 하루 중 제일 행복한 순간은? ㅣ하니ㅣ뉴진스ㅣ줌터뷰",
+   "url": "https://www.youtube.com/post/Ugkx2pIjMwmQ9Ir71_UEpQQd5Vvb27AXFUT2",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 14:04 KST; attached video https://youtu.be/8rxy3RxbsRU"
+  },
+  {
+   "key": "youtube-2024-05-15-happy-haerin-day",
+   "date": "2024-05-15",
+   "title": "Happy Haerin Day birthday post",
+   "url": "https://www.youtube.com/post/Ugkx0EPKR5nM9Jox8FEZG2aIYKtJddxG2ero",
+   "record": null,
+   "exclude": null,
+   "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
+  },
+  {
+   "key": "weverse-2024-05-17-newjeans-how-sweet-release-fan-signing-event-information",
+   "date": "2024-05-17",
+   "title": "Weverse notice: NewJeans [How Sweet] Release Fan-signing Event Information",
+   "url": "https://weverse.io/newjeansofficial/notice/19543",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse+x (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/19544; X relay: https://x.com/NewJeans_ADOR/status/1791287522225446950"
+  },
+  {
+   "key": "youtube-2024-05-17-shared-q5wodrkjkio",
+   "date": "2024-05-17",
+   "title": "Shared video: #뉴진스(#NewJeans) 세 번째 출연권 따낸(?) 애비진스ㅣ할명수 ep.183",
+   "url": "https://www.youtube.com/post/UgkxXPidQW-06mS-S5PV3oRjFBCJ00rZPYFA",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 17:33 KST; attached video https://youtu.be/Q5woDRKjKio"
+  },
+  {
+   "key": "phoning-2024-05-20-how-sweet-release-schedule-phoning",
+   "date": "2024-05-20",
+   "title": "'How Sweet' release schedule announced (Phoning)",
+   "url": "https://www.munhwa.com/article/11430682",
+   "record": "sns-2024-05-20-how-sweet-release-schedule-phoning",
+   "exclude": null,
+   "note": "announce; platform: phoning"
+  },
+  {
+   "key": "weverse-2024-05-21-newjeans-fan-meeting-bunnies-camp-2024-tokyo-dome-bunnies-me",
+   "date": "2024-05-21",
+   "title": "Weverse notice: NewJeans Fan Meeting 'Bunnies Camp 2024 Tokyo Dome' \"Bunnies\" Membership (GL) EVENT Participation Information",
+   "url": "https://weverse.io/newjeansofficial/notice/19625",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/19626"
+  },
+  {
+   "key": "weverse-2024-05-22-240524-how-to-apply-for-kbs2-music-bank-pre-recording",
+   "date": "2024-05-22",
+   "title": "Weverse notice: 240524 How to Apply for KBS2 <MUSIC BANK> Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/19675",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 18:00 KST; also https://weverse.io/newjeans/notice/19683"
+  },
+  {
+   "key": "weverse-2024-05-23-cheering-guide-bubble-gum",
+   "date": "2024-05-23",
+   "title": "Weverse notice: Cheering guide: Bubble Gum",
+   "url": "https://weverse.io/newjeansofficial/notice/19733",
+   "record": null,
+   "exclude": null,
+   "note": "release; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 19:00 KST; also https://weverse.io/newjeans/notice/19743"
+  },
+  {
+   "key": "tiktok-2024-05-24-tiktok-bubble-gum-balloon-video",
+   "date": "2024-05-24",
+   "title": "TikTok \"Bubble Gum\" video (\"like a balloon far up high\")",
+   "url": "https://x.com/NewJeans_ADOR/status/1793871110418952523",
+   "record": "sns-2024-05-24-tiktok-bubble-gum-balloon-video",
+   "exclude": null,
+   "note": "release; platform: tiktok"
+  },
+  {
+   "key": "tiktok-2024-05-24-tiktok-how-sweet-favorite-flavor",
+   "date": "2024-05-24",
+   "title": "TikTok \"You're my favorite flavor\" (\"How Sweet\") video",
+   "url": "https://x.com/NewJeans_ADOR/status/1793870639771910398",
+   "record": "sns-2024-05-24-tiktok-how-sweet-favorite-flavor",
+   "exclude": null,
+   "note": "release; platform: tiktok"
+  },
+  {
+   "key": "weverse-2024-05-24-240526-how-to-apply-for-sbs-inkigayo-pre-recording",
+   "date": "2024-05-24",
+   "title": "Weverse notice: 240526 How to Apply for SBS <Inkigayo> Pre-recording(",
+   "url": "https://weverse.io/newjeansofficial/notice/19768",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 20:00 KST; also https://weverse.io/newjeans/notice/19773; KR title: [NOTICE] 240526 How to Apply for SBS <Inkigayo> Pre-recording(+참여자 발표 완료)"
+  },
+  {
+   "key": "weverse-2024-05-24-cheering-guide-how-sweet",
+   "date": "2024-05-24",
+   "title": "Weverse notice: Cheering guide: How Sweet",
+   "url": "https://weverse.io/newjeansofficial/notice/19742",
+   "record": null,
+   "exclude": null,
+   "note": "release; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 17:10 KST; also https://weverse.io/newjeans/notice/19745"
+  },
+  {
+   "key": "weverse-2024-05-24-newjeans-how-sweet-release-fan-signing-event-information",
+   "date": "2024-05-24",
+   "title": "Weverse notice: NewJeans [How Sweet] Release Fan-signing Event Information",
+   "url": "https://weverse.io/newjeansofficial/notice/19736",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse+x (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/19741; X relay: https://x.com/NewJeans_ADOR/status/1793824240061604304"
+  },
+  {
+   "key": "x-2024-05-24-how-sweet-available-now",
+   "date": "2024-05-24",
+   "title": "\"How Sweet\" Available Now post",
+   "url": "https://x.com/NewJeans_ADOR/status/1793862568857227310",
+   "record": "sns-2024-05-24-how-sweet-available-now",
+   "exclude": null,
+   "note": "release; platform: x"
+  },
+  {
+   "key": "x-2024-05-24-how-sweet-d-day-post",
+   "date": "2024-05-24",
+   "title": "\"How Sweet\" release-day D-Day post",
+   "url": "https://x.com/NewJeans_ADOR/status/1793809139363127518",
+   "record": "sns-2024-05-24-how-sweet-d-day-post",
+   "exclude": null,
+   "note": "announce; platform: x"
+  },
+  {
+   "key": "x-2024-05-24-how-sweet-mv-release-photos",
+   "date": "2024-05-24",
+   "title": "\"How Sweet\" MV-release photo post",
+   "url": "https://x.com/NewJeans_ADOR/status/1793899770244943967",
+   "record": "sns-2024-05-24-how-sweet-mv-release-photos",
+   "exclude": null,
+   "note": "release; platform: x"
+  },
+  {
+   "key": "youtube-2024-05-25-hey-bunnies-check-out-challenge-on-youtube-shorts-can-t-wait",
+   "date": "2024-05-25",
+   "title": "#HowSweet YouTube Shorts challenge launch",
+   "url": "https://www.youtube.com/post/UgkxVsgr8ndRDLQE4KxFuV1KSqfH5SUYeFJa",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platform: youtube community; posted 11:15 KST"
+  },
+  {
+   "key": "weverse-2024-05-26-newjeans-how-sweet-release-fan-signing-event-information",
+   "date": "2024-05-26",
+   "title": "Weverse notice: NewJeans [How Sweet] Release Fan-signing Event Information",
+   "url": "https://weverse.io/newjeansofficial/notice/19746",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse+x (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/19788; X relay: https://x.com/NewJeans_ADOR/status/1794549013053612111"
+  },
+  {
+   "key": "weverse-2024-05-28-newjeans-how-sweet-pre-order-customer-video-call-fansign-eve",
+   "date": "2024-05-28",
+   "title": "Weverse notice: NewJeans [How Sweet] Pre-order Customer Video Call Fansign Event",
+   "url": "https://weverse.io/newjeansofficial/notice/19843",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse+x (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/19844; X relay: https://x.com/NewJeans_ADOR/status/1795273787849482551"
+  },
+  {
+   "key": "x-2024-05-29-haerin-at-the-dioriviera-pop-up",
+   "date": "2024-05-29",
+   "title": "Haerin at the Dioriviera pop-up (#광고)",
+   "url": "https://x.com/NewJeans_ADOR/status/1795779624384835809",
+   "record": "live-2024-05-29-haerin-dioriviera-popup-opening",
+   "exclude": null,
+   "note": "release; platform: x; posted 20:30 KST; text: HAERIN at the dioriviera pop-up event with #diorbeauty  #광고 @dior  #DIORIVIERA #DIORSUMMER #디올리비에라 #디올리비에라팝업스토어  #NewJea"
+  },
+  {
+   "key": "weverse-2024-05-30-240602-how-to-apply-for-k-wave-concert-inkikayo-pre-recordin",
+   "date": "2024-05-30",
+   "title": "Weverse notice: 240602 How to Apply for K-WAVE CONCERT INKIKAYO Pre-recording(MC HAERIN)",
+   "url": "https://weverse.io/newjeansofficial/notice/19901",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 16:00 KST; also https://weverse.io/newjeans/notice/19902; KR title: [NOTICE] 240602 How to Apply for K-WAVE CONCERT INKIKAYO Pre-recording (MC HAERIN)(+참여자 발표 완료)"
+  },
+  {
+   "key": "weverse-2024-06-05-240607-kbs2-music-bank-pre-recording-participation-and-annou",
+   "date": "2024-06-05",
+   "title": "Weverse notice: 240607 KBS2 <Music Bank> pre-recording participation and announcements",
+   "url": "https://weverse.io/newjeansofficial/notice/20053",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 20:00 KST; also https://weverse.io/newjeans/notice/20066"
+  },
+  {
+   "key": "weverse-2024-06-05-how-to-report-rights-violations-against-newjeans-legal-actio",
+   "date": "2024-06-05",
+   "title": "Weverse notice: How to report rights violations against NewJeans (legal action)",
+   "url": "https://weverse.io/newjeansofficial/notice/20064",
+   "record": null,
+   "exclude": null,
+   "note": "statement; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 19:00 KST; also https://weverse.io/newjeans/notice/20065"
+  },
+  {
+   "key": "x-2024-06-10-right-now-mv-teaser-2-post",
+   "date": "2024-06-10",
+   "title": "'Right Now' MV teaser 2 post",
+   "url": "https://www.youtube.com/@NewJeans_official",
+   "record": "mv-2024-06-10-right-now-mv-teaser-2",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "youtube-2024-06-11-shared-yieb6cdncwi",
+   "date": "2024-06-11",
+   "title": "Shared video: #뉴진스 #민지 가 직접 쇼핑한 택배 언박싱📦 소비가 소비를 부르는🎶 민지의 무의식 쇼핑 리스트는? by W Korea",
+   "url": "https://www.youtube.com/post/Ugkx_dBvCYgGmYqnr4Pob_Z8ozZ6l_T-69W7",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 18:02 KST; attached video https://youtu.be/YIeB6CDncwI"
+  },
+  {
+   "key": "weverse-2024-06-12-240614-how-to-apply-for-kbs2-music-bank-pre-recording",
+   "date": "2024-06-12",
+   "title": "Weverse notice: 240614 How to Apply for KBS2 <MUSIC BANK> Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/20213",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 20:00 KST; also https://weverse.io/newjeans/notice/20215"
+  },
+  {
+   "key": "weverse-2024-06-14-240616-how-to-apply-for-sbs-inkigayo-pre-recording",
+   "date": "2024-06-14",
+   "title": "Weverse notice: 240616 How to Apply for SBS <Inkigayo> Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/20265",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 13:00 KST; also https://weverse.io/newjeans/notice/20264"
+  },
+  {
+   "key": "weverse-2024-06-14-regarding-ticket-collection-for-newjeans-fan-meeting-bunnies",
+   "date": "2024-06-14",
+   "title": "Weverse notice: Regarding Ticket Collection for 'NewJeans Fan Meeting Bunnies Camp 2024 Tokyo Dome' Bunnies Membership (JP)/(GL) Pre-order Raffle Winners",
+   "url": "https://weverse.io/newjeansofficial/notice/20256",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 12:00 KST; also https://weverse.io/newjeans/notice/20261"
+  },
+  {
+   "key": "x-2024-06-15-supernatural-mv-teaser-1-post",
+   "date": "2024-06-15",
+   "title": "'Supernatural' MV teaser 1 post",
+   "url": "https://www.youtube.com/@NewJeans_official",
+   "record": "mv-2024-06-15-supernatural-mv-teaser-1",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "x-2024-06-17-right-now-mv-release-post",
+   "date": "2024-06-17",
+   "title": "'Right Now' MV release post",
+   "url": "https://www.youtube.com/@NewJeans_official",
+   "record": "mv-2024-06-17-right-now-official-mv",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "weverse-2024-06-18-premium-ticket-holders-special-premium-kit-details-announced",
+   "date": "2024-06-18",
+   "title": "Weverse notice: [PREMIUM ticket holders] SPECIAL PREMIUM KIT Details Announced!",
+   "url": "https://weverse.io/newjeansofficial/notice/20366",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 20:00 KST; also https://weverse.io/newjeans/notice/20367"
+  },
+  {
+   "key": "instagram-2024-06-19-instagram-supernatural-mv-teaser-post",
+   "date": "2024-06-19",
+   "title": "Instagram \"Supernatural\" MV teaser post",
+   "url": "https://www.instagram.com/p/C8ZsjaDSczz/",
+   "record": "sns-2024-06-19-instagram-supernatural-mv-teaser-post",
+   "exclude": null,
+   "note": "release; platform: instagram"
+  },
+  {
+   "key": "weverse-2024-06-20-newjeans-hyein-s-health-and-upcoming-schedule",
+   "date": "2024-06-20",
+   "title": "Weverse notice: NewJeans HYEIN’s Health and Upcoming Schedule",
+   "url": "https://weverse.io/newjeansofficial/notice/20389",
+   "record": null,
+   "exclude": null,
+   "note": "statement; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/20390"
+  },
+  {
+   "key": "weverse-2024-06-21-announcement-of-newjeans-fan-meeting-bunnies-camp-2024-tokyo",
+   "date": "2024-06-21",
+   "title": "Weverse notice: Announcement of NewJeans Fan Meeting 'Bunnies Camp 2024 Tokyo Dome’ Official Merch. Lineup and On-site Purchase Guide",
+   "url": "https://weverse.io/newjeansofficial/notice/20456",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 22:00 KST; also https://weverse.io/newjeans/notice/20458; also X @NewJeans_jp https://x.com/NewJeans_jp/status/1804119575157682376 (20:50 KST)"
+  },
+  {
+   "key": "weverse-2024-06-21-cheering-guide-rightnow",
+   "date": "2024-06-21",
+   "title": "Weverse notice: Cheering guide: RightNow",
+   "url": "https://weverse.io/newjeansofficial/notice/20434",
+   "record": null,
+   "exclude": null,
+   "note": "release; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 15:30 KST; also https://weverse.io/newjeans/notice/20436; KR title: [응원법] Right Now"
+  },
+  {
+   "key": "weverse-2024-06-21-cheering-guide-supernatural",
+   "date": "2024-06-21",
+   "title": "Weverse notice: Cheering guide: Supernatural",
+   "url": "https://weverse.io/newjeansofficial/notice/20433",
+   "record": null,
+   "exclude": null,
+   "note": "release; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 15:30 KST; also https://weverse.io/newjeans/notice/20435"
+  },
+  {
+   "key": "x-2024-06-21-supernatural-available-now",
+   "date": "2024-06-21",
+   "title": "\"Supernatural\" Available Now post",
+   "url": "https://x.com/NewJeans_ADOR/status/1804007193701994702",
+   "record": "sns-2024-06-21-supernatural-available-now",
+   "exclude": null,
+   "note": "release; platform: x"
+  },
+  {
+   "key": "x-2024-06-21-supernatural-d-day-post",
+   "date": "2024-06-21",
+   "title": "\"Supernatural\" release-day D-Day post",
+   "url": "https://x.com/NewJeans_ADOR/status/1803805007189577909",
+   "record": "sns-2024-06-21-supernatural-d-day-post",
+   "exclude": null,
+   "note": "announce; platform: x"
+  },
+  {
+   "key": "weverse-2024-06-23-newjeans-fan-meeting-bunnies-camp-2024-tokyo-dome-official-l",
+   "date": "2024-06-23",
+   "title": "Weverse notice: NewJeans Fan Meeting 'Bunnies Camp 2024 Tokyo Dome' Official Light Stick User Guide",
+   "url": "https://weverse.io/newjeansofficial/notice/20414",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 14:00 KST; also https://weverse.io/newjeans/notice/20415"
+  },
+  {
+   "key": "weverse-2024-06-24-bunnies-camp-2024-tokyo-dome-audience-guide",
+   "date": "2024-06-24",
+   "title": "Weverse notice: 'Bunnies Camp 2024 Tokyo Dome' audience guide",
+   "url": "https://weverse.io/newjeansofficial/notice/20473",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 12:00 KST; also https://weverse.io/newjeans/notice/20474"
+  },
+  {
+   "key": "x-2024-06-26-bunnies-camp-tokyo-dome-d-day",
+   "date": "2024-06-26",
+   "title": "Bunnies Camp 2024 Tokyo Dome D-Day post",
+   "url": "https://x.com/NewJeans_ADOR/status/1805873636831904104",
+   "record": "sns-2024-06-26-bunnies-camp-tokyo-dome-d-day",
+   "exclude": null,
+   "note": "announce; platform: x"
+  },
+  {
+   "key": "x-2024-06-26-tokyo-dome-day1-thank-you",
+   "date": "2024-06-26",
+   "title": "Tokyo Dome day-1 thank-you post",
+   "url": "https://x.com/NewJeans_ADOR/status/1805983429621628958",
+   "record": "sns-2024-06-26-tokyo-dome-day1-thank-you",
+   "exclude": null,
+   "note": "milestone; platform: x"
+  },
+  {
+   "key": "weverse-2024-06-28-information-on-the-newjeans-fan-meeting-bunnies-camp-2024-to",
+   "date": "2024-06-28",
+   "title": "Weverse notice: Information on the NewJeans Fan Meeting “Bunnies Camp 2024 Tokyo Dome” Bunnies Membership (GL) Fan Club Event",
+   "url": "https://weverse.io/newjeansofficial/notice/20566",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/20568"
+  },
+  {
+   "key": "weverse-2024-06-28-update-notice-on-legal-proceedings-against-violation-of-arti",
+   "date": "2024-06-28",
+   "title": "Weverse notice: Update Notice on Legal Proceedings Against Violation of Artist Rights (June. 28.)",
+   "url": "https://weverse.io/newjeansofficial/notice/20613",
+   "record": null,
+   "exclude": null,
+   "note": "statement; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 16:00 KST; also https://weverse.io/newjeans/notice/20615"
+  },
+  {
+   "key": "instagram-2024-06-29-instagram-bunnies-camp-tokyo-dome-photos",
+   "date": "2024-06-29",
+   "title": "Instagram Bunnies Camp 2024 Tokyo Dome photo post",
+   "url": "https://www.instagram.com/p/C8yjQadg_hC/",
+   "record": "sns-2024-06-29-instagram-bunnies-camp-tokyo-dome-photos",
+   "exclude": null,
+   "note": "release; platform: instagram; record URL C8yjQadg_hC resolves (oEmbed) to @mermaidhair, not @newjeans_official; official-account post not verified"
+  },
+  {
+   "key": "x-2024-07-05-supernatural-mv-part-2-release-post",
+   "date": "2024-07-05",
+   "title": "'Supernatural' MV (Part.2) release post",
+   "url": "https://www.youtube.com/@NewJeans_official",
+   "record": "mv-2024-07-05-supernatural-official-mv-part-2",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "youtube-2024-07-05-shared-rswwbwug60o",
+   "date": "2024-07-05",
+   "title": "Shared video: 🐰#뉴진스 가 비밀리에 해외 학교로 전학을 갔다고..?🐰 | 비밀 전학생 Ep.03-1",
+   "url": "https://www.youtube.com/post/UgkxQ0dluxkZaa-mgdA42xCNjdPO5W6TUM2V",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 18:02 KST; attached video https://youtu.be/rsWWBwUG60o"
+  },
+  {
+   "key": "weverse-2024-07-10-240712-how-to-apply-for-kbs2-music-bank-pre-recording",
+   "date": "2024-07-10",
+   "title": "Weverse notice: 240712 How to Apply for KBS2 <MUSIC BANK> Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/20906",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 20:00 KST; also https://weverse.io/newjeans/notice/20907"
+  },
+  {
+   "key": "weverse-2024-07-11-240713-how-to-apply-for-mbc-show-music-core-pre-recording",
+   "date": "2024-07-11",
+   "title": "Weverse notice: 240713 How to Apply for MBC <Show! Music Core> Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/20954",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 21:00 KST; also https://weverse.io/newjeans/notice/20956; KR title: [NOTICE] 240713 How to Apply for MBC <Show! Music Core> Pre-recording  (+참여자 발표 완료)"
+  },
+  {
+   "key": "weverse-2024-07-12-jul-14-sbs-inkigayo-pre-recording-application",
+   "date": "2024-07-12",
+   "title": "Weverse notice: Jul 14 SBS Inkigayo pre-recording application",
+   "url": "https://weverse.io/newjeansofficial/notice/20995",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 22:00 KST; also https://weverse.io/newjeans/notice/20997"
+  },
+  {
+   "key": "weverse-2024-07-12-right-now-cheering-guide-domestic-promotion-ver",
+   "date": "2024-07-12",
+   "title": "Weverse notice: 'Right Now' cheering guide (domestic promotion ver.)",
+   "url": "https://weverse.io/newjeansofficial/notice/20992",
+   "record": null,
+   "exclude": null,
+   "note": "release; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 20:00 KST; also https://weverse.io/newjeans/notice/20994"
+  },
+  {
+   "key": "weverse-2024-07-12-supernatural-cheering-guide-domestic-promotion-ver",
+   "date": "2024-07-12",
+   "title": "Weverse notice: 'Supernatural' cheering guide (domestic promotion ver.)",
+   "url": "https://weverse.io/newjeansofficial/notice/20991",
+   "record": null,
+   "exclude": null,
+   "note": "release; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 20:00 KST; also https://weverse.io/newjeans/notice/20993"
+  },
+  {
+   "key": "youtube-2024-07-12-shared-hkpadhost7o",
+   "date": "2024-07-12",
+   "title": "Shared video: 드디어! 일본 학생들을 만난 비밀 전학생 🐰#뉴진스🐰| 비밀 전학생 Ep.3-2",
+   "url": "https://www.youtube.com/post/UgkxbMtLq66y3qXgaEMPAG09EHMZ0MUfM2jT",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 18:00 KST; attached video https://youtu.be/HkPADHOSt7o"
+  },
+  {
+   "key": "weverse-2024-07-15-jul-21-2024-sbs-gayo-daejeon-summer-participation",
+   "date": "2024-07-15",
+   "title": "Weverse notice: Jul 21 2024 SBS Gayo Daejeon Summer participation",
+   "url": "https://weverse.io/newjeansofficial/notice/21032",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 19:00 KST; also https://weverse.io/newjeans/notice/21033"
+  },
+  {
+   "key": "youtube-2024-07-20-newjeans-day-newjeans-2nd-debut-anniversary-newjeans-day-on",
+   "date": "2024-07-20",
+   "title": "2nd debut anniversary 'NewJeans Day On Air' D-2 notice (2024-07-22 0:00-19:00 KST on YouTube)",
+   "url": "https://www.youtube.com/post/UgkxUpmN6IQ5bmCAbJdWsfI2IxG0NX_9Y9MF",
+   "record": null,
+   "exclude": null,
+   "note": "milestone; platform: youtube community; posted 19:00 KST"
+  },
+  {
+   "key": "tiktok-2024-07-22-tiktok-oh-i-forgot-anniversary",
+   "date": "2024-07-22",
+   "title": "TikTok \"oh i forgot…\" 2nd-anniversary video",
+   "url": "https://x.com/NewJeans_ADOR/status/1815352677754359837",
+   "record": "sns-2024-07-22-tiktok-oh-i-forgot-anniversary",
+   "exclude": null,
+   "note": "milestone; platform: tiktok"
+  },
+  {
+   "key": "weverse-2024-07-22-newjeans-global-official-fanclub-bunnies-membership-kit-tokk",
+   "date": "2024-07-22",
+   "title": "Weverse notice: NewJeans Global Official Fanclub “Bunnies” Membership Kit (Tokki Edition)Relaunch Notice",
+   "url": "https://weverse.io/newjeansofficial/notice/21140",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 14:00 KST; also https://weverse.io/newjeans/notice/21155"
+  },
+  {
+   "key": "weverse-2024-07-22-weverse-for-agent-bunnies",
+   "date": "2024-07-22",
+   "title": "Weverse 2nd-anniversary content \"for Agent Bunnies\"",
+   "url": "https://x.com/NewJeans_ADOR/status/1815280688259830008",
+   "record": "sns-2024-07-22-weverse-for-agent-bunnies",
+   "exclude": null,
+   "note": "milestone; platform: weverse"
+  },
+  {
+   "key": "x-2024-07-22-2-years-of-newjeans",
+   "date": "2024-07-22",
+   "title": "Debut 2nd anniversary post \"2 Years of NewJeans\"",
+   "url": "https://x.com/NewJeans_ADOR/status/1815039071384993818",
+   "record": "sns-2024-07-22-2-years-of-newjeans",
+   "exclude": null,
+   "note": "milestone; platform: x"
+  },
+  {
+   "key": "x-2024-07-22-2-years-of-newjeans-film",
+   "date": "2024-07-22",
+   "title": "2nd anniversary film \"2 years of NewJeans\"",
+   "url": "https://x.com/NewJeans_ADOR/status/1815347358944879039",
+   "record": "sns-2024-07-22-2-years-of-newjeans-film",
+   "exclude": null,
+   "note": "milestone; platform: x"
+  },
+  {
+   "key": "x-2024-07-22-2nd-anniversary-phoning-live-notice",
+   "date": "2024-07-22",
+   "title": "Notice of the 2nd-anniversary Phoning Live (19:22 KST)",
+   "url": "https://x.com/NewJeans_ADOR/status/1815315849861005491",
+   "record": "sns-2024-07-22-2nd-anniversary-phoning-live-notice",
+   "exclude": null,
+   "note": "milestone; platform: x"
+  },
+  {
+   "key": "x-2024-07-22-bunnies-love-newjeans-video",
+   "date": "2024-07-22",
+   "title": "2nd anniversary video \"Bunnies Love NewJeans\"",
+   "url": "https://x.com/NewJeans_ADOR/status/1815039038279295383",
+   "record": "sns-2024-07-22-bunnies-love-newjeans-video",
+   "exclude": null,
+   "note": "milestone; platform: x"
+  },
+  {
+   "key": "x-2024-07-22-bunny-cake-ascii-post",
+   "date": "2024-07-22",
+   "title": "2nd anniversary bunny-with-cake emoticon post",
+   "url": "https://x.com/NewJeans_ADOR/status/1815383185733382455",
+   "record": "sns-2024-07-22-bunny-cake-ascii-post",
+   "exclude": null,
+   "note": "milestone; platform: x"
+  },
+  {
+   "key": "x-2024-07-22-love-is-here-anniversary-video",
+   "date": "2024-07-22",
+   "title": "2nd anniversary video \"Love is here, sitting next to you\"",
+   "url": "https://x.com/NewJeans_ADOR/status/1815386325849079988",
+   "record": "sns-2024-07-22-love-is-here-anniversary-video",
+   "exclude": null,
+   "note": "milestone; platform: x"
+  },
+  {
+   "key": "x-2024-07-22-this-is-newjeans-anniversary-photos",
+   "date": "2024-07-22",
+   "title": "2nd anniversary \"This is NewJeans\" photo post",
+   "url": "https://x.com/NewJeans_ADOR/status/1815205125302153332",
+   "record": "sns-2024-07-22-this-is-newjeans-anniversary-photos",
+   "exclude": null,
+   "note": "milestone; platform: x"
+  },
+  {
+   "key": "weverse-2024-07-25-announcement-of-the-end-of-the-newjeans-double-singles-promo",
+   "date": "2024-07-25",
+   "title": "Weverse notice: Announcement of the end of the NewJeans Double Singles promotion",
+   "url": "https://weverse.io/newjeansofficial/notice/21226",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 16:00 KST; also https://weverse.io/newjeans/notice/21227"
+  },
+  {
+   "key": "youtube-2024-07-25-super-shy-official-mv-passes-200-million-youtube-views",
+   "date": "2024-07-25",
+   "title": "'Super Shy' Official MV passes 200 million YouTube views",
+   "url": "https://www.youtube.com/post/UgkxpQhH0jMTAWDh08DI-T7j2VdhSsqp_vDb",
+   "record": "record-2024-07-23-super-shy-mv-200m-views",
+   "exclude": null,
+   "note": "milestone; platform: youtube community; posted 10:00 KST; matched milestone record dated 2024-07-23 (achievement date), post dated 2024-07-25"
+  },
+  {
+   "key": "youtube-2024-07-31-shared-1berjpxy-eo",
+   "date": "2024-07-31",
+   "title": "Shared video: 【GRWM】#NewJeans・#DANIELLE のセリーヌ御堂筋ビジットに独占密着！",
+   "url": "https://www.youtube.com/post/UgkxeHBVOY_YEomZRuuSDYec8RcceTK9-JD3",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 12:01 KST; attached video https://youtu.be/1berJpxY-Eo"
+  },
+  {
+   "key": "youtube-2024-08-02-shared-smnbbd0devg",
+   "date": "2024-08-02",
+   "title": "Shared video: #뉴진스 십오야 준비 갈 완료 | 👅나영석의 지글지글",
+   "url": "https://www.youtube.com/post/Ugkx9hr-0-DdOIuuEbZMKaorfIe71caWytC_",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 18:01 KST; attached video https://youtu.be/SMNBbD0dEVg"
+  },
+  {
+   "key": "youtube-2024-08-09-shared-ef1s01rzzmg",
+   "date": "2024-08-09",
+   "title": "Shared video: 벌칙 썸네일 어때? 음~ 나쁘지엑스 | 👅나영석의 지글지글",
+   "url": "https://www.youtube.com/post/UgkxBcR-667gY3fOvt6D_05NTFhKyMZf3-au",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 18:01 KST; attached video https://youtu.be/eF1S01RzzMg"
+  },
+  {
+   "key": "youtube-2024-08-13-cookie-official-mv-passes-100-million-youtube-views",
+   "date": "2024-08-13",
+   "title": "'Cookie' Official MV passes 100 million YouTube views",
+   "url": "https://www.youtube.com/post/UgkxbBILO3AQqX1ACQyeDARV08IgiEomKcCj",
+   "record": "record-2024-08-13-cookie-mv-100m-views",
+   "exclude": null,
+   "note": "milestone; platform: youtube community; posted 20:16 KST"
+  },
+  {
+   "key": "weverse-2024-08-16-announcement-of-winners-for-newjeans-double-single-promotion",
+   "date": "2024-08-16",
+   "title": "Weverse notice: Announcement of Winners for NewJeans’ Double Single Promotions Event",
+   "url": "https://weverse.io/newjeansofficial/notice/21658",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 18:00 KST; also https://weverse.io/newjeans/notice/21659"
+  },
+  {
+   "key": "youtube-2024-09-13-shared-oqunbq1nsoe",
+   "date": "2024-09-13",
+   "title": "Shared video: 아니 그냥 #민지 가 너무 예쁜데요? 필기 좀 해본 민지가 완성한 잡학사전",
+   "url": "https://www.youtube.com/post/UgkxDsGBnZ21HVFYIi6RldC3ah2zbw-PtuGj",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 12:00 KST; attached video https://youtu.be/oQUnBq1NsoE"
+  },
+  {
+   "key": "weverse-2024-09-23-now-open-unified-reporting-portal-for-violation-of-artists-r",
+   "date": "2024-09-23",
+   "title": "Weverse notice: Now Open: Unified Reporting Portal for Violation of Artists’ Rights",
+   "url": "https://weverse.io/newjeansofficial/notice/22546",
+   "record": null,
+   "exclude": null,
+   "note": "statement; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 15:00 KST; also https://weverse.io/newjeans/notice/22548"
+  },
+  {
+   "key": "x-2024-09-24-calvin-klein-global-ambassador",
+   "date": "2024-09-24",
+   "title": "NewJeans named Calvin Klein global ambassadors",
+   "url": "https://x.com/NewJeans_ADOR/status/1838571590318969323",
+   "record": "sns-2024-09-24-calvin-klein-global-ambassador",
+   "exclude": null,
+   "note": "announce; platform: x"
+  },
+  {
+   "key": "youtube-2024-09-25-shared-fzcbdo167ws",
+   "date": "2024-09-25",
+   "title": "Shared video: 🔥난이도 극상🔥 #하니 의 모든 실력을 총 동원한 엉망잔칭 드로잉! 근데 이제 10초를 곁들인… [NINE HEART PICKS]",
+   "url": "https://www.youtube.com/post/UgkxQ4gFlHGJAg3mxoCm3gHqC0tU_NqjHF9C",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 19:00 KST; attached video https://youtu.be/fzCBDO167Ws"
+  },
+  {
+   "key": "x-2024-09-26-hanni-a-day-with-gucci-gucci-ss25",
+   "date": "2024-09-26",
+   "title": "Hanni: 'A day with Gucci' (Gucci SS25, #광고)",
+   "url": "https://x.com/NewJeans_ADOR/status/1839198218812350598",
+   "record": "live-2024-09-20-hanni-gucci-ss25-milan",
+   "exclude": null,
+   "note": "release (brand campaign/attendance post tagged #광고); platform: x; posted 16:00 KST; matched record is the event itself (2024-09-20)"
+  },
+  {
+   "key": "youtube-2024-10-01-shared-dowrjjwypuy",
+   "date": "2024-10-01",
+   "title": "Shared video: ‘인면어 귀여운데요!’ 그 후… 짤부자 #뉴진스 의 #짤터뷰",
+   "url": "https://www.youtube.com/post/Ugkxo_qdyfCYWWy08R_SgL4Wlw0aSWQAniFa",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 11:30 KST; attached video https://youtu.be/doWRJJwypuY"
+  },
+  {
+   "key": "x-2024-10-04-hyein-at-louis-vuitton-ss25",
+   "date": "2024-10-04",
+   "title": "Hyein at Louis Vuitton SS25 (#광고)",
+   "url": "https://x.com/NewJeans_ADOR/status/1842127523863216339",
+   "record": "live-2024-10-01-hyein-louis-vuitton-ss25-paris",
+   "exclude": null,
+   "note": "release (brand campaign/attendance post tagged #광고); platform: x; posted 18:00 KST; matched record is the event itself (2024-10-01)"
+  },
+  {
+   "key": "youtube-2024-10-06-happy-hanni-day",
+   "date": "2024-10-06",
+   "title": "Happy Hanni Day birthday post",
+   "url": "https://www.youtube.com/post/UgkxEPdCGGT4Aul1OG2ixiiLDnb5wWUxqnqv",
+   "record": null,
+   "exclude": null,
+   "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
+  },
+  {
+   "key": "youtube-2024-10-06-shared-ln7clzjgl1o",
+   "date": "2024-10-06",
+   "title": "Shared video: #하니 의 웃으면 안되는 생일파티",
+   "url": "https://www.youtube.com/post/UgkxXXdaRy9ScVqCT3eBBGkZ0svX3evvzxYk",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 17:01 KST; attached video https://youtu.be/ln7CLzjGL1o"
+  },
+  {
+   "key": "youtube-2024-10-11-shared-nw8mnoxdzdi",
+   "date": "2024-10-11",
+   "title": "Shared video: #하니 랑 #해린 만 나옴",
+   "url": "https://www.youtube.com/post/UgkxI-jcwKjPdyan2txI4CWUDwOQ4bpdHa-k",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 17:46 KST; attached video https://youtu.be/Nw8mNoXDZdI"
+  },
+  {
+   "key": "youtube-2024-10-17-shared-p-nb6awdbne",
+   "date": "2024-10-17",
+   "title": "Shared video: 천사 실존! 다니엘과 폴꾸했다니 🌻 | #다니엘, #뉴진스, #Danielle, #NewJeans",
+   "url": "https://www.youtube.com/post/UgkxuesqQZ8FG_gm9RrrGq6eC3RR1xq_njRb",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 17:01 KST; attached video https://youtu.be/p-nB6aWDbNE"
+  },
+  {
+   "key": "youtube-2024-10-18-shared-mvixl6rzsuy",
+   "date": "2024-10-18",
+   "title": "Shared video: #뉴진스(#NewJeans) #해린 이 요즘 자주 찾아 보는 영상은?!✨ A Day with #HAERIN🤍",
+   "url": "https://www.youtube.com/post/UgkxjglDFxZYeY6U7eZ-gfcR2vY1k8PTMl70",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 20:02 KST; attached video https://youtu.be/mvIxl6RzsUY"
+  },
+  {
+   "key": "youtube-2024-10-20-shared-ce0iczd-nme",
+   "date": "2024-10-20",
+   "title": "Shared video: ⭐ 포스트시즌을 응원하러 온 #뉴진스 #민지 & 배우 강기영 ⭐",
+   "url": "https://www.youtube.com/post/UgkxTGwoVP1Fs8ZZdIrEa14bd9xNfs5gnYOX",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 12:06 KST; attached video https://youtu.be/ce0IcZD-nME"
+  },
+  {
+   "key": "youtube-2024-10-29-bunnies-day-happy-2nd-bunnies-day-thank-you-bunnies",
+   "date": "2024-10-29",
+   "title": "Happy 2nd Bunnies Day post",
+   "url": "https://www.youtube.com/post/UgkxULY9hFT0QZfvLaWR3WK2T7Dj5nysaWU6",
+   "record": null,
+   "exclude": null,
+   "note": "milestone; platform: youtube community; posted 00:00 KST; related record content-2024-10-28-bunnies-day-newjeans-love-bunnies dated 2024-10-28"
+  },
+  {
+   "key": "youtube-2024-11-02-shared-2hh1jav3lgo",
+   "date": "2024-11-02",
+   "title": "Shared video: [DUGU-DUGU] 어렵다... 참 어렵다... #민지 가 하나 남을 때까지 골라버린🤫 #뉴진스 노래는 과연? (+민지의 시선으로 본 뉴진스 ",
+   "url": "https://www.youtube.com/post/UgkxsMCootWKgyHmnXTZmIlh4ROcl-ir4FqM",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 19:02 KST; attached video https://youtu.be/2hh1jaV3LGo"
+  },
+  {
+   "key": "youtube-2024-11-13-hype-boy-official-mv-performance-ver-1-passes-200-million-yo",
+   "date": "2024-11-13",
+   "title": "'Hype Boy' Official MV (Performance ver.1) passes 200 million YouTube views",
+   "url": "https://www.youtube.com/post/Ugkxv0r-u8t2Cu-bHbMgvpRgnkJZh27GhbLq",
+   "record": "record-2024-11-13-hype-boy-mv-200m-views",
+   "exclude": null,
+   "note": "milestone; platform: youtube community; posted 17:00 KST"
+  },
+  {
+   "key": "weverse-2024-11-26-newjeans-2025-season-s-greetings-release-announcement",
+   "date": "2024-11-26",
+   "title": "Weverse notice: NewJeans 2025 SEASON'S GREETINGS Release announcement",
+   "url": "https://weverse.io/newjeansofficial/notice/23850",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/23851"
+  },
+  {
+   "key": "x-2024-11-27-ador-statement-on-the-ignore-remark-trusts-hanni-s-account",
+   "date": "2024-11-27",
+   "title": "ADOR statement on the 'ignore' remark (trusts Hanni's account)",
+   "url": "https://v.daum.net/v/20241127160116906",
+   "record": "notice-2024-11-27-ador-statement-on-ignore-remark",
+   "exclude": null,
+   "note": "statement; platform: x; reported by the press as posted on official SNS; post URL not located"
+  },
+  {
+   "key": "phoning-2024-11-28-members-phoning-parting-messages",
+   "date": "2024-11-28",
+   "title": "Members send parting messages on Phoning after the contract-termination press conference",
+   "url": "https://www.tenasia.com/amp/2024112942624",
+   "record": "sns-2024-11-28-members-phoning-parting-messages",
+   "exclude": null,
+   "note": "statement; platform: phoning"
+  },
+  {
+   "key": "youtube-2024-12-06-shared-ibud58ar-30",
+   "date": "2024-12-06",
+   "title": "Shared video: #뉴진스(#NewJeans) #혜인 이가 좋아하는 동네 소개해드립니다 | 연희동 반 바퀴 | 할명수",
+   "url": "https://www.youtube.com/post/UgkxHJycs69PlyeHUmezmMj0Qo7d6CbApaXo",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 17:32 KST; attached video https://youtu.be/ibud58Ar-30"
+  },
+  {
+   "key": "x-2024-12-07-haerin-at-the-dior-beauty-holiday-pop-up",
+   "date": "2024-12-07",
+   "title": "Haerin at the Dior Beauty holiday pop-up (#광고)",
+   "url": "https://x.com/NewJeans_ADOR/status/1865229762991686060",
+   "record": "live-2024-12-06-haerin-dior-beauty-holiday-popup-photocall",
+   "exclude": null,
+   "note": "release (brand campaign/attendance post tagged #광고); platform: x; posted 12:00 KST; matched record is the event itself (2024-12-06)"
+  },
+  {
+   "key": "x-2024-12-10-danielle-at-celine-cheongdam",
+   "date": "2024-12-10",
+   "title": "Danielle at CELINE Cheongdam (#광고)",
+   "url": "https://x.com/NewJeans_ADOR/status/1866392437033427294",
+   "record": "live-2024-11-28-danielle-celine-cheongdam-flagship-photocall",
+   "exclude": null,
+   "note": "release (brand campaign/attendance post tagged #광고); platform: x; posted 17:00 KST; matched record is the event itself (2024-11-28)"
+  },
+  {
+   "key": "weverse-2024-12-11-how-to-watch-newjeans-2025-season-s-greetings-special-video",
+   "date": "2024-12-11",
+   "title": "Weverse notice: How to Watch <NewJeans 2025 SEASON'S GREETINGS Special Video> VOD Using Digital Code",
+   "url": "https://weverse.io/newjeansofficial/notice/24196",
+   "record": null,
+   "exclude": "プラットフォーム運営・利用案内の告知（NewJeansの活動の告知・発売・節目・声明ではない）",
+   "note": "announce; platforms: weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 18:00 KST"
+  },
+  {
+   "key": "weverse-2024-12-13-dec-25-2024-sbs-gayo-daejeon-participation",
+   "date": "2024-12-13",
+   "title": "Weverse notice: Dec 25 2024 SBS Gayo Daejeon participation",
+   "url": "https://weverse.io/newjeansofficial/notice/24227",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 11:00 KST; also https://weverse.io/newjeans/notice/24228"
+  },
+  {
+   "key": "instagram-2024-12-14-jeanzforfree-instagram-first-post",
+   "date": "2024-12-14",
+   "title": "Members' own Instagram @jeanzforfree opens with first post",
+   "url": "https://www.instagram.com/jeanzforfree/",
+   "record": "sns-2024-12-14-jeanzforfree-instagram-first-post",
+   "exclude": null,
+   "note": "release; platform: instagram"
+  },
+  {
+   "key": "weverse-2024-12-18-241222-how-to-apply-for-2024-mbc-gayo-daejejeon-pre-recordin",
+   "date": "2024-12-18",
+   "title": "Weverse notice: 241222 How to Apply for 2024 MBC Gayo Daejejeon Pre-recording",
+   "url": "https://weverse.io/newjeansofficial/notice/24314",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 16:00 KST; also https://weverse.io/newjeans/notice/24315; KR title: [NOTICE] 241222 How to Apply for 2024 MBC Gayo Daejejeon Pre-recording"
+  },
+  {
+   "key": "weverse-2024-12-23-2025-season-s-greetings-pop-up-information",
+   "date": "2024-12-23",
+   "title": "Weverse notice: 2025 SEASON’S GREETINGS POP-UP INFORMATION",
+   "url": "https://weverse.io/newjeansofficial/notice/24391",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 12:00 KST; also https://weverse.io/newjeans/notice/24397"
+  },
+  {
+   "key": "youtube-2024-12-26-shared-w-lzzdttqo8",
+   "date": "2024-12-26",
+   "title": "Shared video: #뉴진스 #민지 가 촬영을 준비하는 자세🐰 #언더더씬 | ELLE KOREA",
+   "url": "https://www.youtube.com/post/UgkxOSBWRNLAkq8AwN_IBVvGbV0uPH7i_yZ7",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 19:05 KST; attached video https://youtu.be/W_LZzDTtQo8"
+  },
+  {
+   "key": "weverse-2024-12-27-update-on-legal-proceedings-against-violation-of-artist-righ",
+   "date": "2024-12-27",
+   "title": "Weverse notice: Update on Legal Proceedings Against Violation of Artist Rights (12.27)",
+   "url": "https://weverse.io/newjeansofficial/notice/24483",
+   "record": null,
+   "exclude": null,
+   "note": "statement; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 15:00 KST; also https://weverse.io/newjeans/notice/24484"
+  },
+  {
+   "key": "youtube-2025-01-07-omg-official-mv-performance-ver-1-passes-300-million-youtube",
+   "date": "2025-01-07",
+   "title": "'OMG' Official MV (Performance ver.1) passes 300 million YouTube views",
+   "url": "https://www.youtube.com/post/UgkxcQH7zWJq4aMr5IIDzYDdoh8RgAUd_rkX",
+   "record": "record-2025-01-07-omg-mv-300m-views",
+   "exclude": null,
+   "note": "milestone; platform: youtube community; posted 17:00 KST"
+  },
+  {
+   "key": "youtube-2025-01-16-shared-ivbgvrmau-a",
+   "date": "2025-01-16",
+   "title": "Shared video: [NINE HEART PICKS] #혜인 의 #민지 첫인상은? 😳 데뷔 전 연습실의 추억부터 지금의 무대 위 모습까지, 혜인이 직접 고른 9가지",
+   "url": "https://www.youtube.com/post/UgkxyCE2uTUeJlW376I-zQ99EkFSjs1XeS6U",
+   "record": null,
+   "exclude": "他チャンネル・他媒体の動画の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 13:02 KST; attached video https://youtu.be/iVbGVrmaU_A"
+  },
+  {
+   "key": "x-2025-01-18-haerin-at-the-dior-lip-glow-pop-up",
+   "date": "2025-01-18",
+   "title": "Haerin at the Dior Lip Glow pop-up (#광고)",
+   "url": "https://x.com/NewJeans_ADOR/status/1880540642151186762",
+   "record": "live-2025-01-17-haerin-dior-lip-glow-popup-opening",
+   "exclude": null,
+   "note": "release (brand campaign/attendance post tagged #광고); platform: x; posted 18:00 KST; matched record is the event itself (2025-01-17)"
+  },
+  {
+   "key": "x-2025-02-03-njz-official-x-account-opened",
+   "date": "2025-02-03",
+   "title": "NJZ official X account (@NJZ_official) opened",
+   "url": "https://x.com/NJZ_official",
+   "record": "sns-2025-02-01-njz-official-x-account-opened",
+   "exclude": null,
+   "note": "announce; platform: x; existing record date differs: record 2025-02-01 (month precision) vs @NJZ_official account created 2025-02-03 13:55 UTC (2025-02-03 22:55 KST) per X profile metadata (api.vxtwitter.com)"
+  },
+  {
+   "key": "instagram-2025-02-07-new-group-name-njz-announced-on-the-members-instagram",
+   "date": "2025-02-07",
+   "title": "New group name 'NJZ' announced on the members' Instagram",
+   "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20250207/k-pop-girl-group-newjeans-changes-team-name-to-njz-to-perform-at-hong-kong-concert-in-march",
+   "record": "notice-2025-02-07-njz-name-announced",
+   "exclude": null,
+   "note": "announce; platform: instagram; reported by the press as posted on official SNS; post URL not located"
+  },
+  {
+   "key": "other-2025-03-22-njz-complexcon-d-1-teaser",
+   "date": "2025-03-22",
+   "title": "NJZ ComplexCon 'D-1' teaser post",
+   "url": "https://www.sportskeeda.com/us/k-pop/news-im-excited-fans-react-njz-drops-d-1-teaser",
+   "record": "sns-2025-03-22-njz-complexcon-d-1-teaser",
+   "exclude": null,
+   "note": "release; platform: other"
+  },
+  {
+   "key": "weverse-2025-03-27-extension-of-newjeans-global-official-fanclub-bunnies-member",
+   "date": "2025-03-27",
+   "title": "Weverse notice: Extension of NewJeans Global Official Fanclub “Bunnies” Membership Validity",
+   "url": "https://weverse.io/newjeansofficial/notice/25941",
+   "record": "sns-2025-03-27-weverse-bunnies-membership-extension-notice",
+   "exclude": null,
+   "note": "announce; platforms: phoning+weverse+x (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 10:00 KST; also https://weverse.io/newjeans/notice/25942; X relay: https://x.com/NewJeans_ADOR/status/1905062215872360903"
+  },
+  {
+   "key": "youtube-2025-04-11-happy-danielle-day",
+   "date": "2025-04-11",
+   "title": "Happy Danielle Day birthday post",
+   "url": "https://www.youtube.com/post/UgkxAqiRqn1wDO5q6X_3Wah3Fkt2iaH3gpQH",
+   "record": null,
+   "exclude": null,
+   "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
+  },
+  {
+   "key": "instagram-2025-04-16-mhdhh-friends-1000-days-post",
+   "date": "2025-04-16",
+   "title": "Debut 1,000th day: members' Instagram message to Bunnies",
+   "url": "https://www.instagram.com/mhdhh_friends/",
+   "record": "sns-2025-04-16-mhdhh-friends-1000-days-post",
+   "exclude": null,
+   "note": "milestone; platform: instagram"
+  },
+  {
+   "key": "youtube-2025-04-21-happy-hyein-day",
+   "date": "2025-04-21",
+   "title": "Happy Hyein Day birthday post",
+   "url": "https://www.youtube.com/post/UgkxBFeNzbe2G_Cw3ciDE8WV8nao0YscoCQC",
+   "record": null,
+   "exclude": null,
+   "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
+  },
+  {
+   "key": "youtube-2025-05-07-happy-minji-day",
+   "date": "2025-05-07",
+   "title": "Happy Minji Day birthday post",
+   "url": "https://www.youtube.com/post/UgkxSZGNwLiYdlrVlPEhaGwFZTK7bhsASiI9",
+   "record": null,
+   "exclude": null,
+   "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
+  },
+  {
+   "key": "youtube-2025-05-15-happy-haerin-day",
+   "date": "2025-05-15",
+   "title": "Happy Haerin Day birthday post",
+   "url": "https://www.youtube.com/post/UgkxpHvadZHu0sChOk_D-SuLTec-rH9g4NpK",
+   "record": null,
+   "exclude": null,
+   "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
+  },
+  {
+   "key": "weverse-2025-06-30-update-on-legal-proceedings-against-violation-of-artist-righ",
+   "date": "2025-06-30",
+   "title": "Weverse notice: Update on Legal Proceedings Against Violation of Artist Rights (6.30)",
+   "url": "https://weverse.io/newjeansofficial/notice/28196",
+   "record": null,
+   "exclude": null,
+   "note": "statement; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 15:00 KST; also https://weverse.io/newjeans/notice/28195"
+  },
+  {
+   "key": "x-2025-07-18-3rd-anniversary-d-4-on-air",
+   "date": "2025-07-18",
+   "title": "Debut 3rd anniversary D-4 \"NewJeans Day On-Air\" post",
+   "url": "https://x.com/NewJeans_ADOR/status/1946132839013199918",
+   "record": "sns-2025-07-18-3rd-anniversary-d-4-on-air",
+   "exclude": null,
+   "note": "milestone; platform: x"
+  },
+  {
+   "key": "youtube-2025-07-20-newjeans-day-newjeans-debut-3rd-anniversary-newjeans-day-on",
+   "date": "2025-07-20",
+   "title": "3rd debut anniversary 'NewJeans Day On Air' D-2 notice (2025-07-22 0:00-19:00 KST on YouTube)",
+   "url": "https://www.youtube.com/post/UgkxlYcau7jUi9PQJ3M_R5A2fvUaN_q4p6TR",
+   "record": null,
+   "exclude": null,
+   "note": "milestone; platform: youtube community; posted 19:00 KST; related record content-2025-07-22-youtube-newjeans-day-on-air dated 2025-07-22"
+  },
+  {
+   "key": "x-2025-07-22-happy-3rd-anniversary-post",
+   "date": "2025-07-22",
+   "title": "Debut 3rd anniversary post \"Happy 3rd Anniversary\"",
+   "url": "https://x.com/NewJeans_ADOR/status/1947310605204943140",
+   "record": "sns-2025-07-22-happy-3rd-anniversary-post",
+   "exclude": null,
+   "note": "milestone; platform: x"
+  },
+  {
+   "key": "youtube-2025-10-06-happy-hanni-day",
+   "date": "2025-10-06",
+   "title": "Happy Hanni Day birthday post",
+   "url": "https://www.youtube.com/post/UgkxFoleqw41ly3YpyZ0HN0ShESowbv7-VLl",
+   "record": null,
+   "exclude": null,
+   "note": "milestone (member birthday); platform: youtube community; posted 00:00 KST"
+  },
+  {
+   "key": "youtube-2025-10-07-shared-27kuws21j0c",
+   "date": "2025-10-07",
+   "title": "Shared video: YOASOBI「Biri-Biri」 Special Guest：#NewJeans『YOASOBI ASIA TOUR 2024-2025 “超現実｜cho-",
+   "url": "https://www.youtube.com/post/UgkxIpRegB8Kbw8c2Nru0h3AoEGGCF2D_ACV",
+   "record": null,
+   "exclude": "YOASOBIチャンネルの公演映像の共有（リポスト相当）",
+   "note": "repost; platform: youtube community; posted 22:00 KST; attached video https://youtu.be/27kuWS21j0c"
+  },
+  {
+   "key": "youtube-2025-10-29-bunnies-day-happy-3rd-bunnies-day",
+   "date": "2025-10-29",
+   "title": "Happy 3rd Bunnies Day post",
+   "url": "https://www.youtube.com/post/Ugkxd8Y1GpYK9yfayKwi2eadKrA_Ha2UQ9m3",
+   "record": null,
+   "exclude": null,
+   "note": "milestone; platform: youtube community; posted 13:00 KST; related record content-2025-10-28-bunnies-happy-3rd-bunnies-day dated 2025-10-28"
+  },
+  {
+   "key": "weverse-2025-11-17-update-on-legal-proceedings-against-violation-of-artist-righ",
+   "date": "2025-11-17",
+   "title": "Weverse notice: Update on Legal Proceedings Against Violation of Artist Rights (11.17)",
+   "url": "https://weverse.io/newjeansofficial/notice/31837",
+   "record": null,
+   "exclude": null,
+   "note": "statement; platforms: phoning+weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 14:00 KST; also https://weverse.io/newjeans/notice/31840"
+  },
+  {
+   "key": "weverse-2025-12-29-update-notice-on-legal-proceedings-against-violation-of-arti",
+   "date": "2025-12-29",
+   "title": "Weverse notice: Update Notice on Legal Proceedings Against Violation of Artist Rights (December.29.)",
+   "url": "https://weverse.io/newjeansofficial/notice/32721",
+   "record": null,
+   "exclude": null,
+   "note": "statement; platforms: weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 14:00 KST"
+  },
+  {
+   "key": "weverse-2026-03-03-information-on-phoning-content-maintenance-3-3",
+   "date": "2026-03-03",
+   "title": "Weverse notice: Information on Phoning Content Maintenance (3.3)",
+   "url": "https://weverse.io/newjeansofficial/notice/33913",
+   "record": null,
+   "exclude": "プラットフォーム運営・利用案内の告知（NewJeansの活動の告知・発売・節目・声明ではない）",
+   "note": "announce; platforms: weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 15:00 KST"
+  },
+  {
+   "key": "weverse-2026-03-25-extension-of-newjeans-global-official-fanclub-bunnies-member",
+   "date": "2026-03-25",
+   "title": "Weverse notice: Extension of NewJeans Global Official Fanclub “Bunnies” Membership Validity",
+   "url": "https://weverse.io/newjeansofficial/notice/34222",
+   "record": null,
+   "exclude": null,
+   "note": "announce; platforms: weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 10:00 KST"
+  },
+  {
+   "key": "x-2026-04-21-happy-hyein-day",
+   "date": "2026-04-21",
+   "title": "HAPPY HYEIN DAY post",
+   "url": "https://x.com/NewJeans_ADOR/status/2046242495559029197",
+   "record": "sns-2026-04-21-happy-hyein-day",
+   "exclude": null,
+   "note": "milestone; platform: x"
+  },
+  {
+   "key": "x-2026-05-07-happy-minji-day",
+   "date": "2026-05-07",
+   "title": "HAPPY MINJI DAY post",
+   "url": "https://x.com/NewJeans_ADOR/status/2052040697583444307",
+   "record": "sns-2026-05-07-happy-minji-day",
+   "exclude": null,
+   "note": "milestone; platform: x"
+  },
+  {
+   "key": "x-2026-05-15-happy-haerin-day",
+   "date": "2026-05-15",
+   "title": "HAPPY HAERIN DAY post",
+   "url": "https://x.com/NewJeans_ADOR/status/2054939805218459724",
+   "record": "sns-2026-05-15-happy-haerin-day",
+   "exclude": null,
+   "note": "milestone; platform: x"
+  },
+  {
+   "key": "weverse-2026-06-29-update-notice-on-legal-proceedings-against-violation-of-arti",
+   "date": "2026-06-29",
+   "title": "Weverse notice: Update Notice on Legal Proceedings Against Violation of Artist Rights (June.29.)",
+   "url": "https://weverse.io/newjeansofficial/notice/37024",
+   "record": null,
+   "exclude": null,
+   "note": "statement; platforms: weverse (Weverse community-81 = weverse.io/newjeansofficial; community-73 = weverse.io/newjeans, which also carries Phoning service notices); posted 14:00 KST"
+  },
+  {
+   "key": "instagram-2026-07-22-instagram-4th-anniversary-post",
+   "date": "2026-07-22",
+   "title": "Instagram debut 4th anniversary post",
+   "url": "https://www.instagram.com/p/DbDzM-jEjM7/",
+   "record": "sns-2026-07-22-instagram-4th-anniversary-post",
+   "exclude": null,
+   "note": "milestone; platform: instagram"
+  },
+  {
+   "key": "x-2026-07-22-2026-summer-of-newjeans-4th-anniversary-videos-release-post",
+   "date": "2026-07-22",
+   "title": "'2026 Summer of NewJeans' (4th anniversary) videos release post",
+   "url": "https://www.youtube.com/watch?v=NNbaTJX_9go",
+   "record": "mv-2026-07-22-2026-summer-of-newjeans",
+   "exclude": null,
+   "note": "release; platform: x; post URL not located (X/Instagram timelines not enumerable from this environment); release/announcement shared on official SNS on this date"
+  },
+  {
+   "key": "x-2026-10-06-happy-hanni-day-birthday-post-photo-by-hanni",
+   "date": "2026-10-06",
+   "title": "Happy Hanni Day birthday post ('Photo by HANNI')",
+   "url": "https://sports.khan.co.kr/en/article/202610061649007",
+   "record": null,
+   "exclude": null,
+   "note": "milestone (member birthday); platform: official SNS (press does not name the platform); post URL not located"
+  }
+ ]
+}
