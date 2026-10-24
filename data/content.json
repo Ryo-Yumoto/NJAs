@@ -13987,11 +13987,11 @@
     },
     "summary": {
       "ja": "ミンジがNIKE江南ストアでアルバイトに挑む「バイト王キム・ミンジ」第1回、Jeans' ZINEの職業体験回。",
-      "en": "Minji takes a part-time shift at the Nike Gangnam store in part 1 of 'Part-Time Queen Kim Minji', a Jeans' ZINE job-experience episode."
+      "en": "Minji takes a part-time shift at the Nike Gangnam store in part 1 of 'Part-Time King Kim Minji', a Jeans' ZINE job-experience episode."
     },
     "detail": {
-      "ja": "ミンジのソロ企画「バイト王キム・ミンジ」の第1回。「NIKE江南ストア 準備完了」と題し、ミンジがNIKEの江南ストアでアルバイトの仕事に臨む。Jeans' ZINEの一編。",
-      "en": "Part 1 of Minji's solo storyline 'Part-Time Queen Kim Minji'. Titled 'Nike Gangnam store, ready to go', it follows Minji working a part-time shift at the Nike Gangnam store. A Jeans' ZINE episode."
+      "ja": "ミンジのソロ企画「バイト王キム・ミンジ」の第1回。「NIKE江南ストア 準備完了」と題し、ミンジがNIKEの江南ストアでアルバイトの仕事に臨む。NIKEとのパートナーシップで撮影された、Jeans' ZINEの一編。",
+      "en": "Part 1 of Minji's solo storyline 'Part-Time King Kim Minji'. Titled 'Nike Gangnam store, ready to go', it follows Minji working a part-time shift at the Nike Gangnam store. The video was filmed in partnership with Nike. A Jeans' ZINE episode."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -14013,8 +14013,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Aug 8, 2024' for KMIDJb942bc on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-08-08 KST matches the record. Official title: \"[Jeans' ZINE💫] 알바왕 김민지 EP.1 나이키 강남 스토어 준비 갈 완료 (갈 준비 완료.)🏃‍♀️ | NewJeans\"; record title and members consistent with it. Corrections: EN summary/detail called the series 'Part-Time Queen Kim Minji' while the title says 'Part-Time King' (알바왕); unified to 'Part-Time King'; added the description's 'filmed in partnership with NIKE' line to detail."
   },
   {
     "id": "content-2024-08-13-about-jeans-d-days-day-4-danielle-vlog",
@@ -14152,8 +14152,8 @@
       "by-jeans",
       "cover"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Aug 16, 2024' for x3INFYk0z68 on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-08-16 KST matches the record. Official title: \"[By Jeans] 'Olivia Dean - Dive' Cover by HANNI | NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2024-08-18-phoning-minji-hanni-four-hour-face-call",
@@ -14189,7 +14189,7 @@
       "live-stream"
     ],
     "verified": false,
-    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. / 2026-10-24 nightly: Phoning replays are app-only, so no first-party page could be fetched. Naver news searches (Korean queries for Minji/Hanni Phoning live and a four-hour live, filtered to 2024-08-17..22 and unfiltered) returned no article about this call; English web search found nothing either. Date, participants, the ~4h03m running time and the 'one of the longest' claim remain sourced only to namu.wiki."
   },
   {
     "id": "content-2024-08-20-light-jeans-supernatural-right-now-music-show-behind",
@@ -14235,8 +14235,8 @@
       "behind",
       "music-show"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Aug 20, 2024' for aPf1H_gYEnE on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-08-20 KST matches the record. Official title: \"[Light Jeans] 'Supernatural' & 'Right Now' Music Show Behind | NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2024-08-22-jeans-zine-go-go-jeans-ep-2",
@@ -14282,8 +14282,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Aug 22, 2024' for YUcaWZZqUzs on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-08-22 KST matches the record. Official title: \"[Jeans' ZINE] Go! Go! Jeans! EP.2 너랑만 있으면 무서울 게 없어 💥🔫 | NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2024-08-23-about-jeans-ep-6-daily-scraps",
@@ -14303,11 +14303,11 @@
     },
     "summary": {
       "ja": "ハニの日常の断片を集めた「楽しみでハニ」第6回「daily scraps」、About Jeansの一編。",
-      "en": "Scraps of Hanni's everyday life, in episode 6 of her 'Fun with Hanni' vlog, 'daily scraps'."
+      "en": "Scraps of Hanni's everyday life, in episode 6 of her vlog 'For Fun, Hanni', titled 'daily scraps'."
     },
     "detail": {
-      "ja": "ハニ自身が記録したVlog「楽しみでハニ」の第6回。「daily scraps」と題し、日常の断片を集めて収める。About Jeansの一編。",
-      "en": "Episode 6 of Hanni's self-shot vlog 'Fun with Hanni', titled 'daily scraps', gathers fragments of her everyday life. An About Jeans episode."
+      "ja": "ハニのVlog「楽しみでハニ」の第6回。「daily scraps」と題し、日常の断片を集めて収める。About Jeansの一編。",
+      "en": "Episode 6 of Hanni's vlog 'For Fun, Hanni', titled 'daily scraps', gathers fragments of her everyday life. An About Jeans episode."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -14329,8 +14329,8 @@
       "about-jeans",
       "vlog"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Aug 23, 2024' for 8KT2buwnNtY on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-08-23 KST matches the record. Official title: \"[About Jeans] 재미로 하니🙃 EP.6 daily scraps 🗑 | HANNI vlog\"; record title and members consistent with it. Corrections: EN summary/detail used 'Fun with Hanni' while title.en says 'For Fun, Hanni'; unified; removed the unsupported 'self-shot' claim (the official title only says 'HANNI vlog')."
   },
   {
     "id": "content-2024-08-27-light-jeans-hyein-elle-japan-photoshoot-behind",
@@ -14743,8 +14743,8 @@
       "light-jeans",
       "behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Sep 13, 2024' for ZkPCccHzedI on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-09-13 KST matches the record. Official title: \"[Light Jeans] Nike Air Max Dynamic Land Pop-up Behind🥽 | NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2024-09-16-light-jeans-2024",
@@ -14791,8 +14791,8 @@
       "behind",
       "greeting"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Sep 16, 2024' for KReeCbW8D6I on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-09-16 KST matches the record. Official title: \"[Light Jeans] 2024년 추석맞이 스몰 토크 🐰🌕 | NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2024-09-17-light-jeans-2024-chuseok-photoshoot-behind",
@@ -14839,8 +14839,8 @@
       "greeting",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Sep 17, 2024' for haEZn8R6LKc on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-09-17 KST matches the record. Official title: \"[Light Jeans] 2024 Chuseok Photoshoot Behind 🐰🌕 | NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2024-09-17-yt-happy-chuseok-2024",
@@ -14885,8 +14885,8 @@
       "clip",
       "greeting"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Sep 17, 2024' for o4WIesPB81M on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-09-17 KST matches the record. Official title: \"Happy Chuseok! NewJeans' 2024 Chuseok Greeting 🐰🌕\"; record title and members consistent with it."
   },
   {
     "id": "content-2024-09-19-jeans-zine-1-jz-ep-2",
@@ -14906,11 +14906,11 @@
     },
     "summary": {
       "ja": "クイズ対決が続く「第1回JZクイズショー」第2回「予想してた、私」、Jeans' ZINEの一編。",
-      "en": "The quiz continues in part 2 of the '1st JZ Quiz Show', 'I saw it coming', a Jeans' ZINE episode."
+      "en": "The quiz continues in part 2 of the '1st JZ Quiz Show', 'I Saw That Coming', a Jeans' ZINE episode."
     },
     "detail": {
       "ja": "クイズ企画「第1回JZクイズショー」の第2回。「予想してた、私」と題し、メンバー全員が出演する。Jeans' ZINEの一編。",
-      "en": "Part 2 of the quiz storyline '1st JZ Quiz Show', titled 'I saw it coming', with all members appearing. A Jeans' ZINE episode."
+      "en": "Part 2 of the quiz storyline '1st JZ Quiz Show', titled 'I Saw That Coming', with all members appearing. A Jeans' ZINE episode."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -14932,8 +14932,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Sep 19, 2024' for 50LYcGiWDBY on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-09-19 KST matches the record. Official title: \"[Jeans' ZINE] 제1회 JZ 퀴즈쇼 EP.2 예상했어 나 🧐 | NewJeans\"; record title and members consistent with it. Corrections: EN summary/detail quoted the episode as 'I saw it coming'; aligned with title.en 'I Saw That Coming'."
   },
   {
     "id": "content-2024-09-24-light-jeans-minji-w-korea-photoshoot-behind",
@@ -14979,8 +14979,8 @@
       "behind",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Sep 24, 2024' for _8sZg3MgR5s on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-09-24 KST matches the record. Official title: \"[Light Jeans] MINJI W KOREA Photoshoot Behind🍃 | NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2024-09-26-jeans-zine-ep-1",
@@ -15000,11 +15000,11 @@
     },
     "summary": {
       "ja": "メンバー全員で「ニュージンスパランド」を開業する第1回「祝・開業」、Jeans' ZINEの一編。",
-      "en": "The members open 'NewJeans Spa Land' in part 1, 'Grand opening', a Jeans' ZINE episode."
+      "en": "The members open 'NewJeanSpa Land' in part 1, 'Grand Opening', a Jeans' ZINE episode."
     },
     "detail": {
       "ja": "スパをテーマにした企画「ニュージンスパランド」の第1回。「祝・開業」と題し、メンバー全員で開業を迎える。Jeans' ZINEの一編。",
-      "en": "Part 1 of the spa-themed storyline 'NewJeans Spa Land', titled 'Grand opening', with all members on hand for the opening. A Jeans' ZINE episode."
+      "en": "Part 1 of the spa-themed storyline 'NewJeanSpa Land', titled 'Grand Opening', with all members on hand for the opening. A Jeans' ZINE episode."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -15026,8 +15026,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Sep 26, 2024' for Iw43IE9xA-s on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-09-26 KST matches the record. Official title: \"[Jeans' ZINE] 뉴진스파랜드 EP.1 축 개업 ♨ | NewJeans\"; record title and members consistent with it. Corrections: EN summary/detail wrote 'NewJeans Spa Land'; aligned with title.en 'NewJeanSpa Land' (뉴진스파랜드)."
   },
   {
     "id": "content-2024-09-27-light-jeans-coca-cola-behind",
@@ -15072,8 +15072,8 @@
       "light-jeans",
       "behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Sep 27, 2024' for AqPjuir_KoA on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-09-27 KST matches the record. Official title: \"[Light Jeans] Coca-Cola Behind 🥤 | NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2024-10-01-about-jeans-d-days-day-5-danielle-vlog",
@@ -15192,7 +15192,9 @@
       "en": "The members held a face call on Phoning to celebrate Hanni's birthday. All members joined, and the call ran for about 57 minutes."
     },
     "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.topstarnews.net/news/articleView.html?idxno=15552725"
+    ],
     "media": {
       "type": "none"
     },
@@ -15201,7 +15203,7 @@
       "live-stream"
     ],
     "verified": false,
-    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source.",
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. / 2026-10-24 nightly: Phoning replays are app-only. TopStar News 2024-10-07 09:23 (idxno=15552725, the article the record's image comes from) reports that on the 6th NewJeans held a live on Phoning for Hanni's birthday, quoting Hanni, Minji and Haerin (Minji reading out a stack of 23,965 fan messages). This corroborates the date and the group birthday live, but no source found names all five members as present or gives the ~57-minute running time (namu.wiki only). Image download from cdn.topstarnews.net failed (connection reset), so members could not be counted from it. Left unverified; added the TopStar article as a reference.",
     "image": {
       "url": "https://cdn.topstarnews.net/news/photo/202410/15552725_1414641_1923_org.jpg",
       "source_url": "https://www.topstarnews.net/news/articleView.html?idxno=15552725"
@@ -15341,8 +15343,8 @@
       "light-jeans",
       "behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Oct 10, 2024' for kMf9fvNIFS4 on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-10-10 KST matches the record. Official title: \"[Light Jeans] ShinhanCard Behind 💳 | NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2024-10-11-phoning-minji-hanni-live",
@@ -15378,7 +15380,7 @@
       "live-stream"
     ],
     "verified": false,
-    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. Last entry in the namu log; the existing 2024-10-18 record (news-sourced) follows it."
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. Last entry in the namu log; the existing 2024-10-18 record (news-sourced) follows it. / 2026-10-24 nightly: Phoning replays are app-only. Naver news searches for a Minji and Hanni Phoning live around 2024-10-10..14 only returned coverage of Hanni's 10-09 Phoning post about attending the National Assembly audit and her 10-10 post sharing family messages; nothing about a joint Minji-Hanni live on 10-11. Date, participants and ~44-minute running time remain sourced only to namu.wiki."
   },
   {
     "id": "content-2024-10-15-light-jeans-pepero-behind",
@@ -15423,8 +15425,8 @@
       "light-jeans",
       "behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Oct 15, 2024' for hSkJIVVp1cQ on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-10-15 KST matches the record. Official title: \"[Light Jeans] PEPERO Behind🎁 | NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2024-10-17-light-jeans-essential-sports-day-campaign-behind",
@@ -15470,8 +15472,8 @@
       "behind",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Oct 17, 2024' for xceoU4a9jmo on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-10-17 KST matches the record. Official title: \"[Light Jeans] Essential Sports day Campaign Behind 🎊 | NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2024-10-18-phoning-minji-hanni-live",
@@ -15578,8 +15580,8 @@
       "en": "Minji heads to throw the first pitch for the Doosan Bears, in the sixth 'MINJI SCENE' vlog."
     },
     "detail": {
-      "ja": "ミンジ自身が記録したVlog「MINJI SCENE」の第6回。「斗山ベアーズ始球式に行く？」と題し、始球式に向かう様子を収める。About Jeansの一編。",
-      "en": "The sixth 'MINJI SCENE' vlog, shot by Minji herself and titled 'Going to throw the Doosan Bears first pitch?', follows her to the ceremonial first pitch. An About Jeans episode."
+      "ja": "ミンジのVlog「MINJI SCENE」の第6回。「斗山ベアーズ始球式に行く？」と題し、始球式に向かう様子を収める。About Jeansの一編。",
+      "en": "The sixth episode of Minji's vlog 'MINJI SCENE', titled 'Throwing the First Pitch for the Doosan Bears?', follows her to the ceremonial first pitch. An About Jeans episode."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -15601,8 +15603,8 @@
       "about-jeans",
       "vlog"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Oct 23, 2024' for JrSVBnMlcSs on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-10-23 KST matches the record. Official title: \"[About Jeans] MINJI SCENE🎬 #6 두산베어스 시구 가요? | MINJI vlog\"; record title and members consistent with it. Corrections: removed the unsupported 'shot by Minji herself' claim (title only says 'MINJI vlog'); press (Star News, Sports Donga 2024-10-02/03) confirms Minji threw the Doosan Bears first pitch at the 2024 KBO Wild Card game 1 on 2024-10-02."
   },
   {
     "id": "content-2024-10-24-light-jeans-haerin-harpers-bazaar-photoshoot-behind",
@@ -16037,8 +16039,8 @@
       "en": "Minji heads to Paris in the seventh 'MINJI SCENE' vlog."
     },
     "detail": {
-      "ja": "ミンジ自身が記録したVlog「MINJI SCENE」の第7回。「パリに行く？」と題し、パリ行きの様子を収める。About Jeansの一編。",
-      "en": "The seventh 'MINJI SCENE' vlog, shot by Minji herself and titled 'Going to Paris?', follows her trip to Paris. An About Jeans episode."
+      "ja": "ミンジのVlog「MINJI SCENE」の第7回。「パリに行く？」と題し、パリ行きの様子を収める。About Jeansの一編。",
+      "en": "The seventh episode of Minji's vlog 'MINJI SCENE', titled 'Going to Paris?', follows her trip to Paris. An About Jeans episode."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -16060,8 +16062,8 @@
       "about-jeans",
       "vlog"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Nov 13, 2024' for KnnwBG1RzPc on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-11-13 KST matches the record. Official title: \"[About Jeans] MINJI SCENE🎬 #7 파리 가요? | MINJI vlog\"; record title and members consistent with it. Corrections: removed the unsupported 'shot by Minji herself' claim (title only says 'MINJI vlog')."
   },
   {
     "id": "content-2024-11-13-yt-2025",
@@ -16106,8 +16108,8 @@
       "clip",
       "greeting"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Nov 13, 2024' for LyP_uJP9m5w on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-11-13 KST matches the record. Official title: \"뉴진스가 전하는 2025학년도 수능 응원 메시지 📝\"; record title and members consistent with it."
   },
   {
     "id": "content-2024-11-14-jeans-zine-ep-1",
@@ -16290,8 +16292,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Nov 21, 2024' for Yk9rlNH8gxc on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-11-21 KST matches the record. Official title: \"[Jeans' ZINE] 가을캠프 EP.2 게임에는 팀워크가 필요해💗 | NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2024-11-22-by-jeans-lizzy-mcalpine-ceilings-cover-by-haerin",
@@ -16381,8 +16383,8 @@
       "behind",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Nov 26, 2024' for uYZYqcyhSAg on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-11-26 KST matches the record. Official title: \"[Light Jeans] 25SS Seoul Fashion Week Campaign Behind 🪄| NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2024-11-26-yt-2025-seasons-greetings-preview-clip-1",
@@ -16428,8 +16430,8 @@
       "seasons-greetings",
       "preview"
     ],
-    "verified": false,
-    "editor_note": "YouTube watch page (reader, US-Pacific display) shows 2024-11-25; greeting/preview-type uploads on this channel go up at midnight KST, which shifts the Pacific display a day earlier (verified pattern on 30 namu-dated items), so the following KST date 2024-11-26 is used. Not confirmed from a KST-dated source."
+    "verified": true,
+    "editor_note": "YouTube watch page (reader, US-Pacific display) shows 2024-11-25; greeting/preview-type uploads on this channel go up at midnight KST, which shifts the Pacific display a day earlier (verified pattern on 30 namu-dated items), so the following KST date 2024-11-26 is used. Not confirmed from a KST-dated source. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Nov 26, 2024' for 3OgNx9OxTPw on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-11-26 KST matches the record. Official title: \"[Preview] NewJeans (뉴진스) 2025 SEASON'S GREETINGS Preview Clip #1\"; record title and members consistent with it."
   },
   {
     "id": "content-2024-11-27-by-jeans-grentperez-clementine-cover-by-hanni",
@@ -16565,8 +16567,8 @@
       "seasons-greetings",
       "preview"
     ],
-    "verified": false,
-    "editor_note": "YouTube watch page (reader, US-Pacific display) shows 2024-11-27; greeting/preview-type uploads on this channel go up at midnight KST, which shifts the Pacific display a day earlier (verified pattern on 30 namu-dated items), so the following KST date 2024-11-28 is used. Not confirmed from a KST-dated source."
+    "verified": true,
+    "editor_note": "YouTube watch page (reader, US-Pacific display) shows 2024-11-27; greeting/preview-type uploads on this channel go up at midnight KST, which shifts the Pacific display a day earlier (verified pattern on 30 namu-dated items), so the following KST date 2024-11-28 is used. Not confirmed from a KST-dated source. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Nov 28, 2024' for sdwInKIu-Kg on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-11-28 KST matches the record. Official title: \"[Preview] NewJeans (뉴진스) 2025 SEASON'S GREETINGS Preview Clip #2\"; record title and members consistent with it."
   },
   {
     "id": "content-2024-12-03-light-jeans-billboard-artist-photoshoot-behind",
@@ -16658,8 +16660,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Dec 5, 2024' for nD3MKxxa3ec on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-12-05 KST matches the record. Official title: \"[Jeans' ZINE] 가을캠프 EP.4 깊어가는 우정의 밤…⭐️️ | NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2024-12-06-light-jeans-2024-tma-behind",
@@ -16704,8 +16706,8 @@
       "light-jeans",
       "behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Dec 6, 2024' for 48WTUOhaAwc on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-12-06 KST matches the record. Official title: \"[Light Jeans] 2024 TMA Behind ✨ | NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2024-12-10-light-jeans-coke-studio-concert-behind",
@@ -16750,8 +16752,8 @@
       "light-jeans",
       "behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Dec 10, 2024' for h_EzAicsdd0 on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-12-10 KST matches the record. Official title: \"[Light Jeans] Coke Studio Concert Behind 🎵 | NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2024-12-12-jeans-zine-ep-1",
@@ -16797,8 +16799,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Dec 12, 2024' for YqD-JkBo5IU on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-12-12 KST matches the record. Official title: \"[Jeans' ZINE] 요리퀸을 찾아라 EP.1 뉴셰프들의 등장👩‍🍳 | NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2024-12-13-light-jeans-hanni-marie-claire-photoshoot-behind",
@@ -16844,8 +16846,8 @@
       "behind",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Dec 13, 2024' for Is2VwU9jXcA on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-12-13 KST matches the record. Official title: \"[Light Jeans] HANNI Marie Claire Photoshoot Behind💎 | NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2024-12-17-light-jeans-haerin-w-korea-beauty-photoshoot-behind",
@@ -16937,8 +16939,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Dec 19, 2024' for 7qfcs3Xs_DY on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-12-19 KST matches the record. Official title: \"[Jeans' ZINE] 요리퀸을 찾아라 EP.2 요리칙~대결착~🍽️  | NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2024-12-20-light-jeans-indomie-behind",
@@ -17076,8 +17078,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Dec 26, 2024' for yfz2vceroSU on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2024-12-26 KST matches the record. Official title: \"[Jeans' ZINE] 요리퀸을 찾아라 EP.3 어차피 주인공은 나👸 | NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2025-01-09-jeans-zine-ep-1",
@@ -17097,11 +17099,11 @@
     },
     "summary": {
       "ja": "キムジャン（キムチ漬け）に向けて口・手・体を慣らす「キムジャン大騒動」第1回、Jeans' ZINEの一編。",
-      "en": "The members warm up for kimjang in part 1 of 'The Great Kimjang Commotion', a Jeans' ZINE episode."
+      "en": "The members warm up for kimjang in part 1 of 'Kimjang Chaos', a Jeans' ZINE episode."
     },
     "detail": {
       "ja": "キムジャン（キムチ漬け）企画「キムジャン大騒動」の第1回。「口慣らし？手慣らし？体慣らし？タイム」と題し、メンバー全員で本番前のウォーミングアップに臨む。Jeans' ZINEの一編。",
-      "en": "Part 1 of the kimchi-making storyline 'The Great Kimjang Commotion'. Titled 'Warm-up time: mouth? hands? body?', it has all the members limbering up before the main event. A Jeans' ZINE episode."
+      "en": "Part 1 of the kimchi-making storyline 'Kimjang Chaos'. Titled 'Warm-Up Time: Mouths? Hands? Bodies?', it has all the members limbering up before the main event. A Jeans' ZINE episode."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -17123,8 +17125,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Jan 9, 2025' for XGFHmdbSKhk on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2025-01-09 KST matches the record. Official title: \"[Jeans' ZINE] 김장대소동 EP.1 입 풀기? 손 풀기? 몸 풀기? 시간 🎶 | NewJeans\"; record title and members consistent with it. Corrections: EN summary/detail called the series 'The Great Kimjang Commotion' while title.en says 'Kimjang Chaos' (김장대소동); unified."
   },
   {
     "id": "content-2025-01-14-light-jeans-stonehenge-f-w-campaign-behind",
@@ -17262,8 +17264,8 @@
       "behind",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Jan 17, 2025' for aOzWJYJjvM0 on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2025-01-17 KST matches the record. Official title: \"[Light Jeans] HANNI Gucci Horsebit Campaign Behind🤎 | NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2025-01-21-light-jeans-hyein-dazed-korea-photoshoot-behind",
@@ -17309,8 +17311,8 @@
       "behind",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Jan 21, 2025' for 85qXx0CIRA8 on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2025-01-21 KST matches the record. Official title: \"[Light Jeans] HYEIN DAZED KOREA Photoshoot Behind 👜  | NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2025-01-23-jeans-zine-ep-3",
@@ -17329,12 +17331,12 @@
       "original": "김장대소동 EP.3 모두 모두~ 김치"
     },
     "summary": {
-      "ja": "みんなでキムチを仕上げる「キムジャン大騒動」第3回「みんなみんな〜キムチ」、Jeans' ZINEの一編。",
-      "en": "Everyone's kimchi comes together in part 3 of 'The Great Kimjang Commotion', a Jeans' ZINE episode."
+      "ja": "メンバー全員でキムジャンに臨む「キムジャン大騒動」第3回「みんなみんな〜キムチ」、Jeans' ZINEの一編。",
+      "en": "All the members make kimchi together in part 3 of 'Kimjang Chaos', a Jeans' ZINE episode."
     },
     "detail": {
-      "ja": "キムジャン企画「キムジャン大騒動」の第3回。「みんなみんな〜キムチ」と題し、メンバー全員でキムチ漬けを仕上げる。Jeans' ZINEの一編。",
-      "en": "Part 3 of the kimjang storyline 'The Great Kimjang Commotion', titled 'Everyone, everyone, kimchi', sees all the members finishing their kimchi. A Jeans' ZINE episode."
+      "ja": "キムジャン企画「キムジャン大騒動」の第3回。「みんなみんな〜キムチ」と題し、メンバー全員でキムチ漬けに臨む。Jeans' ZINEの一編。",
+      "en": "Part 3 of the kimjang storyline 'Kimjang Chaos', titled 'Everyone Say~ Kimchi', with all the members making kimchi together. A Jeans' ZINE episode."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -17356,8 +17358,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Jan 23, 2025' for YC2KOfxbQsc on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2025-01-23 KST matches the record. Official title: \"[Jeans' ZINE] 김장대소동 EP.3 모두 모두~ 김치✌️🙂✌️ | NewJeans\"; record title and members consistent with it. Corrections: EN summary/detail called the series 'The Great Kimjang Commotion'; unified with title.en 'Kimjang Chaos'; episode quote aligned with title.en 'Everyone Say~ Kimchi'; dropped the unverifiable 'finishing their kimchi' claim."
   },
   {
     "id": "content-2025-01-28-light-jeans-olens-behind",
@@ -17402,8 +17404,8 @@
       "light-jeans",
       "behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Jan 28, 2025' for YhlFoAslBC4 on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2025-01-28 KST matches the record. Official title: \"[Light Jeans] OLENS Behind💫 | NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2025-01-30-light-jeans-minji-hanni-spur-photoshoot-behind",
@@ -17450,8 +17452,8 @@
       "behind",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Jan 30, 2025' for wi9ZBvFFVqI on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2025-01-30 KST matches the record. Official title: \"[Light Jeans] MINJI & HANNI SPUR Photoshoot Behind 💐ㅣNewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2025-02-04-light-jeans-shinhan-securities-campaign-behind",
@@ -17497,8 +17499,8 @@
       "behind",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (client timeZone Asia/Seoul) returns dateText 'Feb 4, 2025' for zgpIgqsoNAs on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw, @NewJeans_official); upload date 2025-02-04 KST matches the record. Official title: \"[Light Jeans] Shinhan Securities Campaign behind 🔎 | NewJeans\"; record title and members consistent with it."
   },
   {
     "id": "content-2025-02-06-light-jeans-danielle-marie-claire-photoshoot-behind",
@@ -18576,17 +18578,20 @@
       "en": "'NewJeans Day On Air' third-anniversary stream"
     },
     "summary": {
-      "ja": "デビュー3周年にADORが「NewJeans Day On-Air」として未公開写真と2本の記念映像を公開。",
-      "en": "ADOR's 'NewJeans Day On-Air' for the third debut anniversary: unreleased photos and two anniversary videos."
+      "ja": "デビュー3周年の7月22日0時から19時まで、公式YouTubeチャンネルで「NewJeans Day On Air」としてビハインド映像を配信した。",
+      "en": "For the third debut anniversary, the official YouTube channel streamed behind-the-scenes content as 'NewJeans Day On Air' from midnight to 7 PM KST."
     },
     "detail": {
-      "ja": "デビュー3周年に合わせ、ADORは「NewJeans Day On-Air」と題して公式SNSで未公開写真を公開した。公式YouTubeチャンネルでは同じ日に「[NewJeans Day] Happy 3rd Anniversary」と「[NewJeans Day] We are NewJeans」の2本が公開された。",
-      "en": "For the third debut anniversary, ADOR ran 'NewJeans Day On-Air', posting unreleased photos on official SNS. The same day, two videos, '[NewJeans Day] Happy 3rd Anniversary' and '[NewJeans Day] We are NewJeans', went up on the official YouTube channel."
+      "ja": "デビュー3周年の7月22日、公式YouTubeチャンネルで「NewJeans Day On Air」を0時から19時（KST）まで行い、約19時間にわたってビハインド映像を配信した。7月20日に同チャンネルのコミュニティ投稿で予告されていた。同じ日、同チャンネルでは記念映像「[NewJeans Day] Happy 3rd Anniversary」と「[NewJeans Day] We are NewJeans」も公開された。",
+      "en": "On July 22, the third debut anniversary, the official YouTube channel ran 'NewJeans Day On Air' from 0:00 to 19:00 KST, streaming behind-the-scenes content for about 19 hours. It had been announced in a community post on the channel on July 20. The same day the channel also released the anniversary videos '[NewJeans Day] Happy 3rd Anniversary' and '[NewJeans Day] We are NewJeans'."
     },
     "source_url": "https://www.youtube.com/@NewJeans_official",
     "reference_urls": [
-      "https://www.tenasia.co.kr/article/2025072255084",
-      "https://news.tf.co.kr/read/ogmeta/2228503.htm"
+      "https://www.youtube.com/post/UgkxlYcau7jUi9PQJ3M_R5A2fvUaN_q4p6TR",
+      "https://www.tenasia.co.kr/article/2025072243674",
+      "https://news.tf.co.kr/read/ogmeta/2228503.htm",
+      "https://www.youtube.com/watch?v=zMTPU1rvhyM",
+      "https://www.youtube.com/watch?v=vCLOISqUHYQ"
     ],
     "media": {
       "type": "none"
@@ -18596,8 +18601,8 @@
       "newjeans-day",
       "live-stream"
     ],
-    "verified": false,
-    "editor_note": "TenAsia reported a ~19-hour YouTube stream (850-900 concurrent viewers at 16:00); no stream VOD ID found on the channel, and other outlets describe \"On-Air\" as an SNS post. Treat the stream claim with caution. / TenAsia reported a roughly 19-hour stream on the official YouTube channel (00:00-19:00 KST; 850-900 concurrent viewers at 16:00); no stream VOD ID was found on the channel and other outlets describe 'On-Air' as an SNS post, so the stream claim is unverified and kept out of reader text."
+    "verified": true,
+    "editor_note": "TenAsia reported a ~19-hour YouTube stream (850-900 concurrent viewers at 16:00); no stream VOD ID found on the channel, and other outlets describe \"On-Air\" as an SNS post. Treat the stream claim with caution. / TenAsia reported a roughly 19-hour stream on the official YouTube channel (00:00-19:00 KST; 850-900 concurrent viewers at 16:00); no stream VOD ID was found on the channel and other outlets describe 'On-Air' as an SNS post, so the stream claim is unverified and kept out of reader text. / 2026-10-24 nightly: Official YouTube community post UgkxlYcau7jUi9PQJ3M_R5A2fvUaN_q4p6TR (fetched) reads '[NewJeans Day] NewJeans Debut 3rd Anniversary <NewJeans Day On Air> D-2 / 2025.7.22.(TUE) 0:00~19:00 (KST) / YouTube on NewJeans Channel'. TenAsia 2025-07-22 17:09 (correct URL /article/2025072243674; the old /2025072255084 returns 404) reports the channel streaming behind content under 'NewJeans Day On Air' from 0:00 to 19:00, about 19 hours, 850-900 viewers at 16:00. YouTube next API confirms zMTPU1rvhyM and vCLOISqUHYQ both dated Jul 22, 2025 (KST). The stream is therefore confirmed by the official announcement plus press; reader text rewritten around the stream. Dropped the old claim that 'On-Air' unreleased photos were posted on SNS on the 22nd: press (Naver snippet) places the unreleased member photos with the 'D-2 NewJeans Day On Air' text on July 20. No VOD of the stream was found on the channel. The Fact (2025-07-29) notes the anniversary videos used animated characters and 2022 debut-era footage rather than new footage."
   },
   {
     "id": "content-2025-07-31-jeans-zine-plus-zip",
@@ -19674,6 +19679,6 @@
       "behind"
     ],
     "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) returns dateText 'Jul 24, 2026' for YujaE27VmSA on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw); official title '[Light Jeans] 2026 Summer of NewJeans Behind | NewJeans' matches, so date and title are confirmed. Sports Kyunghyang 2026-07-25 (https://sports.khan.co.kr/article/202607250916013) says ADOR posted the video on the 24th and that it shows Minji, Hanni, Haerin and Hyein filming the 4th-anniversary content in Los Angeles; Danielle (whose ADOR contract had been terminated) does not take part. The record has members ['all'] and says 'with all members'/'メンバー全員'. Left unchanged pending a members convention for the four-member period; if four names are chosen, detail could read '...the four members Minji, Hanni, Haerin and Hyein filming in Los Angeles'. Same question applies to mv-2026-07-22-2026-summer-of-newjeans and content-2026-07-23-weverse-bunnies-club-access."
   }
 ]
