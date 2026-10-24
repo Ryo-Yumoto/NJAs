@@ -1920,5 +1920,48 @@
     "credits": {
       "court": "Seoul Central District Court, Civil Division 31 (presiding judge Nam In-su)"
     }
+  },
+  {
+    "id": "notice-2026-10-22-damages-suit-sixth-hearing",
+    "date": "2026-10-22",
+    "time": "15:30",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "members": [
+      "danielle"
+    ],
+    "title": {
+      "ja": "ADORの対ダニエル損害賠償訴訟で第6回弁論、損害算定の資料と「ミン・ヒジン効果」で応酬",
+      "en": "Sixth hearing in ADOR's damages suit against Danielle: clash over appraisal materials and the 'Min Hee-jin effect'"
+    },
+    "summary": {
+      "ja": "約331億ウォンの損害賠償訴訟の第6回弁論で、ダニエル側はADORが鑑定資料の提出を遅らせていると主張し、ADORは否定した。",
+      "en": "At the sixth hearing of the roughly 33.1 billion won damages suit, Danielle's side accused ADOR of delaying appraisal materials, which ADOR denied."
+    },
+    "detail": {
+      "ja": "ソウル中央地裁民事合議31部（ナム・インス部長判事）で、ADORがダニエルとその母親、ミン・ヒジン前代表に約331億ウォンの違約罰・損害賠償を求める訴訟の第6回弁論が開かれた。ダニエル側は、鑑定人が8月4日に求めた18項目のうち5項目が未提出で、前日夜に一部が出されたにすぎないとして、ADORが意図的に訴訟を遅らせていると主張した。ADOR側は、提出可能な資料の大半は9月に出しており、営業秘密に関わる資料や複数レーベルからの取りまとめに時間がかかっただけで、遅らせる意図はないと反論した。裁判長は、鑑定ではミン前代表の寄与（「ミン・ヒジン効果」）をどう反映するかが最も重要だとし、ほかのグループの実績を比較に使うことの妥当性や、維持された広告契約と中断した契約の区別についても検討を求めた。次回は11月12日、その次は12月3日に指定された。",
+      "en": "The Seoul Central District Court's Civil Division 31 (presiding judge Nam In-su) held the sixth hearing in ADOR's suit seeking about 33.1 billion won in penalties and damages from Danielle, her mother and former CEO Min Hee-jin. Danielle's side said five of the 18 items the court-appointed appraiser had requested on August 4 were still missing, with only some submitted the previous evening, and accused ADOR of deliberately delaying the case. ADOR's side replied that it had submitted most available materials in September, that items involving trade secrets and collecting data from several labels had taken time, and that it had no intention of delaying. The presiding judge said the most important question for the appraisal was how to reflect Min's contribution (the 'Min Hee-jin effect'), and asked the parties to consider whether another group's results could serve as a comparison and how to separate advertising contracts that continued from those that were halted. The next hearings were set for November 12 and December 3."
+    },
+    "credits": {
+      "court": "Seoul Central District Court, Civil Division 31 (presiding judge Nam In-su)"
+    },
+    "source_url": "https://www.nocutnews.co.kr/news/6595814",
+    "reference_urls": [
+      "https://isplus.com/article/view/isp202610220218",
+      "https://www.dailian.co.kr/news/view/1704924/",
+      "https://www.koreajoongangdaily.com/entertainment/danielle-ador-clash-over-price-tag-of-min-heejins-impact/12933574"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "ador",
+      "court",
+      "danielle"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-25 survey: in-court reports. Nocut News ([현장EN:], 2026-10-22): hearing opened 15:33 KST, Civil Division 31 (Nam In-su), 6th hearing, ~33.1 billion won; Danielle's side: 5 of 18 items requested 8/4 missing as of 10/13, some submitted evening of 10/21; ADOR: most submitted 9/16, trade-secret items; judge mediated ('if not submitted, treat as nonexistent'); next 11/12 and 12/3. Ilgan Sports [종합] and Dailian [현장] add the 'Min Hee-jin effect' discussion (judge questioned using LE SSERAFIM etc. as comparator), ad-contract dispute, and the claim reduced from ~43.09 to ~33.09 billion won. JoongAng Daily: ~50-minute hearing; expert appointed July 2. No court page; confirmed via in-court press. time set to 15:30 (start 15:33 per Nocut). members set to ['danielle'] per record-rules (precedent notice-2026-09-10 omits members)."
   }
 ]

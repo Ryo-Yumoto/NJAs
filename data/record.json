@@ -11294,6 +11294,44 @@
     ]
   },
   {
+    "id": "record-2026-09-29-hype-boy-spotify-800m",
+    "date": "2026-09-29",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Hype Boy」Spotify再生8億回突破、4曲目",
+      "en": "Hype Boy passes 800 million Spotify streams, the group's fourth"
+    },
+    "summary": {
+      "ja": "「Hype Boy」のSpotify累計再生数が9月29日時点で800,220,045回となり、NewJeans4曲目の8億回到達曲となった。",
+      "en": "'Hype Boy' reached 800,220,045 Spotify streams as of September 29, 2026, the group's fourth song past 800 million."
+    },
+    "detail": {
+      "ja": "2022年8月にデビューEP『New Jeans』のトリプルタイトル曲の一つとして公開された「Hype Boy」のSpotify累計再生数が、2026年9月29日時点で800,220,045回となった。「OMG」「Ditto」「Super Shy」に続き、NewJeansで4曲目の8億回到達曲となった。この時点で「Ditto」「OMG」「Super Shy」が9億回を超え、全楽曲の累計は80億回を超えていた。",
+      "en": "'Hype Boy', one of the triple title tracks of the debut EP 'New Jeans' released in August 2022, had 800,220,045 cumulative Spotify streams as of September 29, 2026. It became the fourth NewJeans song past 800 million, after 'OMG', 'Ditto' and 'Super Shy'. At that point 'Ditto', 'OMG' and 'Super Shy' were above 900 million, and the catalog total was above 8 billion."
+    },
+    "source_url": "https://www.breaknews.com/1240359",
+    "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/2105447609804657038",
+      "https://isplus.com/article/view/isp202610010159",
+      "https://www.dailian.co.kr/news/view/1696783/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "streaming",
+      "spotify"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-25 survey: Break News and Ilgan Sports (both 2026-10-01) cite Spotify: 800,220,045 streams as of Sept 29, fourth NewJeans song past 800M after OMG, Ditto, Super Shy; Dailian (10-02) same figure and catalog total over 8 billion. ADOR's official X congratulation post ('Hype Boy hits 800,000,000 Streams on Spotify!') went up 2026-10-01 09:00 KST (fxtwitter: Thu Oct 01 00:00:02 UTC), i.e. after the record date, so it is kept out of the text and media; image is that post's graphic. Exact crossing day not stated (as-of date used, same convention as record-2025-12-19-super-shy-spotify-800m). | 2026-10-25 nightly: ADOR congratulation graphic not used as image (posted after the record date)."
+  },
+  {
     "id": "record-2026-10-02-bpi-omg-silver",
     "date": "2026-10-02",
     "date_type": "announce",
@@ -11330,6 +11368,44 @@
     "editor_note": "BPI Certified Awards search, fetched 2026-10-17: NEWJEANS OMG, Silver, Single, ADOR, certified 02.10.2026. Ledger had year only (2026-01-01)."
   },
   {
+    "id": "record-2026-10-04-asap-spotify-200m",
+    "date": "2026-10-04",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「ASAP」Spotify再生2億回突破、13曲目",
+      "en": "ASAP passes 200 million Spotify streams, the group's 13th"
+    },
+    "summary": {
+      "ja": "EP『Get Up』収録曲「ASAP」のSpotify累計再生数が10月4日時点で200,023,211回となり、13曲目の2億回到達曲となった。",
+      "en": "'ASAP' from the EP 'Get Up' reached 200,023,211 Spotify streams as of October 4, 2026, the group's 13th song past 200 million."
+    },
+    "detail": {
+      "ja": "2023年7月発表の2nd EP『Get Up』の収録曲「ASAP」のSpotify累計再生数が、2026年10月4日時点で200,023,211回となった。NewJeansで13曲目の2億回到達曲となった。この時点で全楽曲の累計は81億回を超えていた。",
+      "en": "'ASAP', a track on the second EP 'Get Up' released in July 2023, had 200,023,211 cumulative Spotify streams as of October 4, 2026, making it the 13th NewJeans song past 200 million. The catalog total stood above 8.1 billion at that point."
+    },
+    "source_url": "https://www.xportsnews.com/article/2204471",
+    "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/2107274646437699985",
+      "https://www.breaknews.com/1241206",
+      "https://www.atstar1.com/news/articleView.html?idxno=6039309"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "streaming",
+      "spotify"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-25 survey: Xports News (2026-10-06 15:41 KST) cites Spotify: 200,023,211 streams as of Oct 4, 13th NewJeans song past 200M, catalog over 8.1 billion. ADOR's official X congratulation post ('ASAP hits 200,000,000 Streams on Spotify!') went up 2026-10-06 10:00 KST (fxtwitter: Tue Oct 06 01:00:01 UTC), after the record date, so kept out of text/media; image is that post's graphic. | 2026-10-25 nightly: ADOR congratulation graphic not used as image (posted after the record date)."
+  },
+  {
     "id": "record-2026-10-05-super-shy-mv-300m-views",
     "date": "2026-10-05",
     "date_type": "event",
@@ -11364,5 +11440,43 @@
     "reference_urls": [
       "https://otakukart.com/newjeans-super-shy-surpasses-300-million-views-becomes-groups-2nd-mv-to-reach-milestone/"
     ]
+  },
+  {
+    "id": "record-2026-10-12-cool-with-you-spotify-300m",
+    "date": "2026-10-12",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Cool With You」Spotify再生3億回突破、11曲目",
+      "en": "Cool With You passes 300 million Spotify streams, the group's 11th"
+    },
+    "summary": {
+      "ja": "「Cool With You」のSpotify累計再生数が10月12日時点で300,107,778回となり、11曲目の3億回到達曲となった。",
+      "en": "'Cool With You' reached 300,107,778 Spotify streams as of October 12, 2026, the group's 11th song past 300 million."
+    },
+    "detail": {
+      "ja": "2023年7月発表の2nd EP『Get Up』のトリプルタイトル曲の一つ「Cool With You」のSpotify累計再生数が、2026年10月12日時点で300,107,778回となった。NewJeansで11曲目の3億回到達曲となった。この時点で全楽曲の累計は82億回を超えていた。",
+      "en": "'Cool With You', one of the triple title tracks of the second EP 'Get Up' released in July 2023, had 300,107,778 cumulative Spotify streams as of October 12, 2026, making it the 11th NewJeans song past 300 million. The catalog total stood above 8.2 billion at that point."
+    },
+    "source_url": "http://www.osen.co.kr/article/G1112892482",
+    "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/2110158647359602885",
+      "https://isplus.com/article/view/isp202610140096",
+      "https://www.topstarnews.net/news/articleView.html?idxno=16247117"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "streaming",
+      "spotify"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-25 survey: OSEN (2026-10-14 11:30 KST, '[공식]') quotes ADOR: per Spotify, Cool With You had 300,107,778 streams as of Oct 12, 11th NewJeans song past 300M; Ilgan Sports same figure, catalog over 8.2 billion. ADOR's official X congratulation post ('Cool With You hits 300,000,000 Streams on Spotify!') went up 2026-10-14 09:00 KST (fxtwitter: Wed Oct 14 00:00:01 UTC), after the record date, so kept out of text/media; image is that post's graphic. Note: the 11th-song count implies How Sweet (ADOR post 2026-07-30) and Hurt (ADOR post 2026-08-14) 300M milestones, which have no records in the archive. | 2026-10-25 nightly: ADOR congratulation graphic not used as image (posted after the record date)."
   }
 ]
