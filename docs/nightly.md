@@ -22,7 +22,7 @@
 ## 3. 画像の補完（1ラウンド40件）
 - `python3 scripts/nightly_pick.py images 40 <scratchpad>/images.json`
 - Opusエージェント1体に、公式の画像（公式X/Instagram、放送局・主催者・ブランド・出版社のページ）の直接URLを探させ、`{"<id>": {"image": {"url": "...", "source_url": "..."}}}` で返させる。ロゴ・汎用画像・別の日の写真は不可。
-- `python3 tools/apply_patch.py <out>` → `python3 scripts/fetch_images.py` → 新しい画像を縮小一覧にして目視し、ロゴ・同一画像（ハッシュ重複）は `media/auto/blocked.json` に登録して削除 → `python3 scripts/nightly_pick.py mark images <scratchpad>/images.json`
+- `python3 tools/apply_patch.py <out>` → `python3 scripts/fetch_images.py` → 新しい画像を縮小一覧にして目視し（対象のレコードだけでなく `git status media/auto` に出た新規ファイルすべて。照合で reference_urls が増えたレコードは記事の og:image を拾うので、記録日より後の写真・他の出演者・ロゴが混じる。新規が出なくなるまで fetch_images を繰り返す）、ロゴ・汎用画像・記録日より後の画像・同一画像（ハッシュ重複）は `media/auto/blocked.json` に登録して削除 → `python3 scripts/nightly_pick.py mark images <scratchpad>/images.json`
 
 ## 4. 要確認キュー（1ラウンド5行）
 - docs/review-queue.md の「未対応」「未着手」「未確認」の行から最大5行を、2のエージェントに一緒に渡して確認させる。解決した行は消す。
@@ -33,7 +33,7 @@
 ## 6. 検証・公開
 - `python3 scripts/validate.py --fix-order` → `python3 scripts/sanitize_future.py` → `python3 scripts/validate.py`（errors=0 でなければ直すまで公開しない）
 - `python3 scripts/build_artifact.py`
-- 公開の基準ファイル `<scratchpad>/publish_baseline.txt`（前回公開後の状態）があればそれを使う。無ければ（コンテナが変わった等）アーティファクト https://claude.ai/artifact/Q69aY2x29YLqxY6s46156j のファイル一覧を Artifact（action list, scope files）で取ってテキストに保存する → `python3 tools/publish_plan.py <baseline> <scratchpad>/pub` → pub1.json, pub2.json … の順に Artifact publish（file_path=build/artifact/index.html、root=リポジトリ、files=各JSON）→ 成功したら `python3 tools/publish_plan.py --baseline <scratchpad>/publish_baseline.txt` で基準を更新。
+- 公開の基準ファイル `<scratchpad>/publish_baseline.txt`（前回公開後の状態）があればそれを使う。無ければ（コンテナが変わった等）アーティファクト https://claude.ai/artifact/Q69aY2x29YLqxY6s46156j のファイル一覧を Artifact（action list, scope files）で取ってテキストに保存し、それを基準にする。基準があっても、セッションが変わった直後は公開が「未読のファイル」として拒否されるので、先に同じ一覧を一度取っておく → `python3 tools/publish_plan.py <baseline> <scratchpad>/pub` → pub1.json, pub2.json … の順に Artifact publish（file_path=build/artifact/index.html、root=リポジトリ、files=各JSON）→ 成功したら `python3 tools/publish_plan.py --baseline <scratchpad>/publish_baseline.txt` で基準を更新。
 - `git add -A data media docs scripts tools assets && git commit`（media は改名で画像ファイルが動くので必ず含める。メッセージ末尾に所定の署名行）→ `git push -u origin claude/initial-site` と `git push origin HEAD:main`。本番（Cloudflare Workers）はpushで自動デプロイ。
 
 ## 6.5 次のラウンド
