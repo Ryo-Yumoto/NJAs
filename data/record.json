@@ -11184,6 +11184,45 @@
     ]
   },
   {
+    "id": "record-2026-07-25-how-sweet-spotify-300m",
+    "date": "2026-07-25",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "streaming",
+      "spotify"
+    ],
+    "verified": true,
+    "title": {
+      "ja": "「How Sweet」Spotify再生3億回突破、9曲目",
+      "en": "How Sweet passes 300 million Spotify streams, the group's ninth"
+    },
+    "summary": {
+      "ja": "「How Sweet」のSpotify累計再生数が7月25日時点で302,620,152回となり、NewJeans9曲目の3億回到達曲となった。",
+      "en": "'How Sweet' reached 302,620,152 Spotify streams as of July 25, 2026, the group's ninth song past 300 million."
+    },
+    "detail": {
+      "ja": "2024年5月発表のダブルシングル『How Sweet』のタイトル曲「How Sweet」のSpotify累計再生数が、2026年7月25日時点で302,620,152回となった。NewJeansで9曲目の3億回到達曲となった。この時点で「Ditto」「OMG」が9億回、「Super Shy」が8億回、「Hype Boy」が7億回を超え、全楽曲の累計は80億回に迫っていた。",
+      "en": "'How Sweet', the title track of the double single 'How Sweet' released in May 2024, had 302,620,152 cumulative Spotify streams as of July 25, 2026, making it the ninth NewJeans song past 300 million. At that point 'Ditto' and 'OMG' were above 900 million, 'Super Shy' above 800 million and 'Hype Boy' above 700 million, and the catalog total was approaching 8 billion."
+    },
+    "source_url": "https://www.yna.co.kr/view/AKR20260730059100005",
+    "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/2082602076245213186",
+      "https://www.newsis.com/view/NISX20260730_0003730063",
+      "https://sports.khan.co.kr/article/202607301024003",
+      "https://www.koreaherald.com/article/10825511"
+    ],
+    "editor_note": "2026-10-25 nightly: Yonhap (2026-07-30 11:00 KST) reports ADOR's announcement that 'How Sweet' had 302,620,152 Spotify streams as of July 25 (3억262만152회), the ninth NewJeans song past 300M; Newsis, Sports Kyunghyang and Star News (all 07-30) give the same figure and the per-song tiers (Ditto/OMG 900M+, Super Shy 800M+, Hype Boy 700M+, catalog nearing 8 billion). Korea Herald (07-30) says 'as of Saturday' (= July 25). Some English machine translations print 300,262,152 or 302,621,528; the Korean originals' 302,620,152 is used. ADOR's official X congratulation post ('How Sweet' hits 300,000,000 Streams on Spotify!) went up 2026-07-30 08:00 KST (fxtwitter: Wed Jul 29 23:00:02 UTC), after the record date, so it is kept out of text, media and image (reference only). Exact crossing day not stated; as-of date used (same convention as record-2026-09-04-super-shy-spotify-900m)."
+  },
+  {
     "id": "record-2026-08-06-circle-cert-hype-boy-triple-platinum-cookie-platinum",
     "date": "2026-08-06",
     "date_type": "event",
@@ -11219,6 +11258,45 @@
     ],
     "verified": true,
     "editor_note": "Dated to the Soompi roundup (Aug 18, 2026). / Circle streaming certification list: Hype boy 3P and Cookie 1P both certified 2026-08-06, not 08-18. (date moved from 2026-08-18)"
+  },
+  {
+    "id": "record-2026-08-12-hurt-spotify-300m",
+    "date": "2026-08-12",
+    "date_type": "event",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "streaming",
+      "spotify"
+    ],
+    "verified": true,
+    "title": {
+      "ja": "「Hurt」Spotify再生3億回突破、10曲目",
+      "en": "Hurt passes 300 million Spotify streams, the group's tenth"
+    },
+    "summary": {
+      "ja": "デビューEP収録曲「Hurt」のSpotify累計再生数が8月12日時点で300,050,241回となり、10曲目の3億回到達曲となった。",
+      "en": "'Hurt' from the debut EP reached 300,050,241 Spotify streams as of August 12, 2026, the group's tenth song past 300 million."
+    },
+    "detail": {
+      "ja": "2022年8月発表のデビューEP『New Jeans』の収録曲「Hurt」のSpotify累計再生数が、2026年8月12日時点で300,050,241回となった。「How Sweet」に続き、NewJeansで10曲目の3億回到達曲となった。この時点で全楽曲の累計は80億回に迫っていた。",
+      "en": "'Hurt', a track on the debut EP 'New Jeans' released in August 2022, had 300,050,241 cumulative Spotify streams as of August 12, 2026, becoming the tenth NewJeans song past 300 million after 'How Sweet'. The catalog total was approaching 8 billion at that point."
+    },
+    "source_url": "https://www.newsis.com/view/NISX20260814_0003749006",
+    "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/2088037885329240370",
+      "https://www.starnewskorea.com/stview.php?no=2026081410150962734",
+      "https://www.koreaherald.com/article/10841398",
+      "https://www.newsen.com/news_view.php?uid=202608140935530410"
+    ],
+    "editor_note": "2026-10-25 nightly: Newsis and Star News ('[공식]', both 2026-08-14) cite Spotify: 'Hurt' had 300,050,241 streams as of Aug 12 (3억 5만241회), the tenth NewJeans song past 300M, catalog nearing 8 billion; Newsen (08-14) gives the same figure and tier list; Korea Herald (08-14) quotes ADOR and says the milestone came 'Wednesday' (= Aug 12). Star News' English machine translation prints 305,024,100; the Korean figure is used. ADOR's official X congratulation post ('Hurt' hits 300,000,000 Streams on Spotify!) went up 2026-08-14 08:00 KST (fxtwitter: Thu Aug 13 23:00:00 UTC), after the record date, so it is kept out of text, media and image (reference only). As-of date used."
   },
   {
     "id": "record-2026-08-18-spotify-8-billion-streams",
@@ -11272,12 +11350,12 @@
       "en": "Super Shy passes 900 million Spotify streams, the group's third"
     },
     "summary": {
-      "ja": "「Super Shy」のSpotify累計再生数が9月4日時点で948,670,000回となり、9億回を超えた。",
-      "en": "'Super Shy' passed 900 million Spotify streams, reaching 948,670,000 as of September 4, 2026."
+      "ja": "「Super Shy」のSpotify累計再生数が9月4日時点で900,048,067回となり、9億回を超えた。",
+      "en": "'Super Shy' passed 900 million Spotify streams, reaching 900,048,067 as of September 4, 2026."
     },
     "detail": {
-      "ja": "「Super Shy」のSpotify累計再生数が9月4日時点で948,670,000回となり、「OMG」「Ditto」に続くNewJeans3曲目の9億回到達曲となった。ADORが9月6日に発表した。",
-      "en": "'Super Shy' had 948,670,000 cumulative Spotify streams as of September 4, the third NewJeans song past 900 million after 'OMG' and 'Ditto'. ADOR announced it on September 6."
+      "ja": "「Super Shy」のSpotify累計再生数が9月4日時点で900,048,067回となり、「OMG」「Ditto」に続くNewJeans3曲目の9億回到達曲となった。",
+      "en": "'Super Shy' had 900,048,067 cumulative Spotify streams as of September 4, the third NewJeans song past 900 million after 'OMG' and 'Ditto'."
     },
     "source_url": "https://www.koreaherald.com/article/10864105",
     "media": {
@@ -11288,9 +11366,13 @@
       "spotify"
     ],
     "verified": true,
-    "editor_note": "Announcement date used; the 900M crossing itself was earlier (count was 948.67M on Sept 4). Korean outlets gave a slightly different figure (900,048,067). / 発表日を記録日とした。9億回の到達自体はそれ以前（9月4日時点で9億4,867万回）。韓国メディアは別の数値（900,048,067回）を報道。 / Korea Herald 2026-09-06: 'As of Friday (Sep 4), Super Shy has accumulated 900,048,067 streams', third song to pass 900M; ADOR announced Sunday Sep 6. Event date corrected to 09-04. (date moved from 2026-09-06)",
+    "editor_note": "Announcement date used; the 900M crossing itself was earlier (count was 948.67M on Sept 4). Korean outlets gave a slightly different figure (900,048,067). / 発表日を記録日とした。9億回の到達自体はそれ以前（9月4日時点で9億4,867万回）。韓国メディアは別の数値（900,048,067回）を報道。 / Korea Herald 2026-09-06: 'As of Friday (Sep 4), Super Shy has accumulated 900,048,067 streams', third song to pass 900M; ADOR announced Sunday Sep 6. Event date corrected to 09-04. (date moved from 2026-09-06) / 2026-10-25 nightly: 'ADOR announced it on September 6' removed from the reader text (post-dated relative to the Sept 4 record date); ADOR announced the milestone on Sept 6, 2026 (KBS/Newsis/Aju same day) and its X congratulation post went up 2026-09-06 09:00 KST (status 2096387911306334685, fxtwitter Sun Sep 06 00:00:01 UTC), kept as reference only. Count corrected from 948,670,000 to 900,048,067: KBS, Newsis and Aju News all give '9억 4만 8067회' as of Sept 4 and Korea Herald gives 900,048,067; the 948,670,000 in Edaily's English edition is a mistranslation of 9억4만8067.",
     "reference_urls": [
-      "https://en.edaily.co.kr/news/eda202609065223"
+      "https://en.edaily.co.kr/news/eda202609065223",
+      "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8655848",
+      "https://www.newsis.com/view/NISX20260906_0003778183",
+      "https://www.ajunews.com/view/20260906155752206",
+      "https://x.com/NewJeans_ADOR/status/2096387911306334685"
     ]
   },
   {
