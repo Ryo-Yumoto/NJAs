@@ -9823,16 +9823,16 @@
     ],
     "title": {
       "ja": "楽しみでハニ EP.4 ミアとミリに会いに行く楽しみ",
-      "en": "For Fun, Hanni EP.4 The Fun of Going to See Mia and Milly",
+      "en": "For Fun, Hanni EP.4 The Fun of Going to See Mia and Milli",
       "original": "재미로 하니 EP.4 미아랑 밀리를 보러 가는 재미"
     },
     "summary": {
-      "ja": "ハニがミアとミリに会いに行く様子を収めた、ハニのVlog「楽しみでハニ」第4回。",
-      "en": "Hanni goes to see Mia and Milli in episode 4 of her 'Fun with Hanni' vlog."
+      "ja": "ハニが故郷のメルボルンに帰省し、愛犬ミアとミリに会う様子を収めたVlog「楽しみでハニ」第4回。",
+      "en": "Hanni goes home to Melbourne and is reunited with her dogs Mia and Milli in episode 4 of her vlog 'For Fun, Hanni'."
     },
     "detail": {
-      "ja": "ハニ自身が記録したVlog「楽しみでハニ」の第4回で、ミアとミリに会いに行く様子を収める。About Jeansの一編。",
-      "en": "Episode 4 of Hanni's self-shot vlog 'Fun with Hanni', following her as she goes to see Mia and Milli. An About Jeans episode."
+      "ja": "ハニのVlog「楽しみでハニ」の第4回。休暇で故郷のオーストラリア・メルボルンに帰省し、家族と過ごす日々を収める。実家では愛犬のミアとミリがハニを出迎えた。About Jeansの一編。",
+      "en": "Episode 4 of Hanni's vlog 'For Fun, Hanni', following her on a holiday home to Melbourne, Australia, with her family. At the family home she is greeted by her dogs Mia and Milli. An About Jeans episode."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -9840,6 +9840,7 @@
     },
     "source_url": "https://www.youtube.com/watch?v=8b-ODdKLf_k",
     "reference_urls": [
+      "https://www.tvreport.co.kr/breaking/article/779702/",
       "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
       "https://thetvdb.com/series/about-jeans/allseasons/official"
     ],
@@ -9854,8 +9855,8 @@
       "about-jeans",
       "vlog"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[About Jeans] 재미로 하니🙃 EP.4 미아랑 밀리를 보러 가는 재미 | HANNI vlog', dateText 'Dec 22, 2023', owner 'NewJeans'; matches the record date (KST). Identified Mia and Milli as Hanni's pet dogs and the setting as her holiday home in Melbourne from TV Report (2023-12-23, describing the official video); unified the English series name to 'For Fun, Hanni' (matching title.en) and the spelling 'Milli'; removed the unconfirmed 'self-shot' claim."
   },
   {
     "id": "content-2023-12-24-phoning-christmas-eve-face-call",
@@ -9881,7 +9882,9 @@
       "en": "On Christmas Eve the members held an all-member face call on Phoning, spending about 70 minutes of the holiday with Bunnies."
     },
     "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=tnCIT5Zug_Q"
+    ],
     "media": {
       "type": "none"
     },
@@ -9890,7 +9893,7 @@
       "live-stream"
     ],
     "verified": false,
-    "editor_note": "Date and content from the fan-maintained namu.wiki \"NewJeans/Phoning LIVE\" log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+    "editor_note": "Date and content from the fan-maintained namu.wiki \"NewJeans/Phoning LIVE\" log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. / 2026-10-24 nightly: No official record found (Phoning replays are app-only; no ADOR/NewJeans post or press report located; namu.wiki returns 403). Fan subtitle re-upload by TikkiTokki, '(ENG SUB) NewJeans Phoning Live 23.12.24 - A Wholesome NewJeans Christmas Live!' (1:10:58, uploaded Dec 31, 2023), corroborates the date and the roughly 70-minute length; added as a reference only. Left unverified."
   },
   {
     "id": "content-2023-12-26-about-jeans-minji-scene-3",
@@ -9913,8 +9916,8 @@
       "en": "Minji heads to Tokyo in the third instalment of her 'MINJI SCENE' vlog."
     },
     "detail": {
-      "ja": "ミンジ自身が記録したVlog「MINJI SCENE」の第3回。「東京に行く？」と題し、東京行きの様子を収める。About Jeansの一編。",
-      "en": "The third 'MINJI SCENE' vlog, shot by Minji herself and titled 'Going to Tokyo?', follows her trip to Tokyo. An About Jeans episode."
+      "ja": "ミンジのVlog「MINJI SCENE」の第3回。「東京に行く？」と題し、東京行きの様子を収める。About Jeansの一編。",
+      "en": "The third 'MINJI SCENE' vlog, titled 'Going to Tokyo?', follows Minji's trip to Tokyo. An About Jeans episode."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -9936,8 +9939,8 @@
       "about-jeans",
       "vlog"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[About Jeans] MINJI SCENE🎬 #3 도쿄 가요? | MINJI vlog', dateText 'Dec 26, 2023', owner 'NewJeans'; matches the record date (KST). Removed the unconfirmed claim that the vlog was shot by Minji herself."
   },
   {
     "id": "content-2023-12-28-jeans-zine-ep-1",
@@ -10123,8 +10126,8 @@
       "behind",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Light Jeans] HANNI ELLE Photoshoot Behind 💍 | NewJeans', dateText 'Jan 12, 2024', owner 'NewJeans'; matches the record date (KST)."
   },
   {
     "id": "content-2024-01-16-light-jeans-danielle-ysl-beauty-behind",
@@ -10217,8 +10220,8 @@
       "variety",
       "recap"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Jeans' ZINE] 2023 연말 파티 EP.1 Gingerbread House 만들기 🏘 | NewJeans', dateText 'Jan 18, 2024', owner 'NewJeans'; matches the record date (KST)."
   },
   {
     "id": "content-2024-01-23-light-jeans-2023-billboard-music-awards-behind",
@@ -10263,8 +10266,8 @@
       "light-jeans",
       "behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Light Jeans] 2023 Billboard Music Awards Behind 🪩 | NewJeans', dateText 'Jan 23, 2024', owner 'NewJeans'; matches the record date (KST)."
   },
   {
     "id": "content-2024-01-25-jeans-zine-2023-ep-2-2023",
@@ -10311,8 +10314,8 @@
       "variety",
       "recap"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Jeans' ZINE] 2023 연말 파티 EP.2 2023년 돌아보기 & 쿠킹 타임 🥪🍝 | NewJeans', dateText 'Jan 25, 2024', owner 'NewJeans'; matches the record date (KST)."
   },
   {
     "id": "content-2024-02-01-jeans-zine-asap-wish-list",
@@ -10494,8 +10497,8 @@
       "light-jeans",
       "behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Light Jeans] 2024 New Year’s Rockin’ Eve Behind🎆 | NewJeans', dateText 'Feb 9, 2024', owner 'NewJeans'; matches the record date (KST)."
   },
   {
     "id": "content-2024-02-09-yt-happy-seollal-newjeans-2024-lunar-new-year-greeting",
@@ -10513,12 +10516,12 @@
       "en": "Happy Seollal! NewJeans' 2024 Lunar New Year Greeting"
     },
     "summary": {
-      "ja": "2024年のソルラル（2月10日）に合わせた、メンバー全員による約1分のご挨拶映像。",
-      "en": "A roughly one-minute greeting from all members for Seollal 2024 (February 10)."
+      "ja": "2024年のソルラル（旧正月、2月10日）を前に公式YouTubeで公開された、メンバー全員によるご挨拶映像。",
+      "en": "A greeting from all members for Seollal 2024 (February 10), posted on the official YouTube channel the day before."
     },
     "detail": {
-      "ja": "2024年のソルラル（旧正月、2月10日）に合わせて公開された約1分のご挨拶映像。メンバー全員が登場する、公式YouTubeの単発コンテンツ。",
-      "en": "A roughly one-minute greeting video for Seollal 2024, the Lunar New Year falling on February 10, with all members. A stand-alone upload on the official YouTube channel."
+      "ja": "2024年のソルラル（旧正月、2月10日）に合わせて公開されたご挨拶映像。メンバー全員が登場する、公式YouTubeの単発コンテンツ。",
+      "en": "A greeting video for Seollal 2024, the Lunar New Year falling on February 10, with all members. A stand-alone upload on the official YouTube channel."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -10539,8 +10542,8 @@
       "clip",
       "greeting"
     ],
-    "verified": false,
-    "editor_note": "YouTube watch page (reader, US-Pacific display) shows 2024-02-08; greeting/preview-type uploads on this channel go up at midnight KST, which shifts the Pacific display a day earlier (verified pattern on 30 namu-dated items), so the following KST date 2024-02-09 is used. Not confirmed from a KST-dated source."
+    "verified": true,
+    "editor_note": "YouTube watch page (reader, US-Pacific display) shows 2024-02-08; greeting/preview-type uploads on this channel go up at midnight KST, which shifts the Pacific display a day earlier (verified pattern on 30 namu-dated items), so the following KST date 2024-02-09 is used. Not confirmed from a KST-dated source. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): 'Happy Seollal! NewJeans’ 2024 Lunar New Year Greeting 🪁', dateText 'Feb 9, 2024', owner 'NewJeans'; matches the record date (KST). KST upload date 2024-02-09 now confirmed directly (dateText 'Feb 9, 2024' with timeZone Asia/Seoul), replacing the earlier inference from the Pacific-time display. The video description gives the Korean line 'Happy Seollal! 뉴진스가 전하는 2024 설날 인사'; the official title is English, so title is unchanged. Removed the unconfirmed 'about one minute' running time (player data not reachable)."
   },
   {
     "id": "content-2024-02-13-light-jeans-2023-tma-behind",
@@ -10722,8 +10725,8 @@
       "light-jeans",
       "behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Light Jeans] 2023 MMA Behind🎵 | NewJeans', dateText 'Feb 23, 2024', owner 'NewJeans'; matches the record date (KST)."
   },
   {
     "id": "content-2024-02-28-light-jeans-2023-diary",
@@ -10770,8 +10773,8 @@
       "behind",
       "recap"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Light Jeans] 2023 연말 Diary 🤳 | NewJeans', dateText 'Feb 28, 2024', owner 'NewJeans'; matches the record date (KST)."
   },
   {
     "id": "content-2024-02-29-jeans-zine-ep-2",
@@ -10955,8 +10958,8 @@
       "behind",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Light Jeans] HAERIN Vogue Hong Kong Photoshoot Behind 🦋 | NewJeans', dateText 'Mar 11, 2024', owner 'NewJeans'; matches the record date (KST)."
   },
   {
     "id": "content-2024-03-12-about-jeans-ep-5-phamily-trip-to-vietnam",
@@ -10976,11 +10979,11 @@
     },
     "summary": {
       "ja": "ハニが家族とベトナムを旅する「楽しみでハニ」第5回「Phamily trip to Vietnam」。",
-      "en": "Hanni's family trip to Vietnam, in episode 5 of her 'Fun with Hanni' vlog."
+      "en": "Hanni's family trip to Vietnam, in episode 5 of her vlog 'For Fun, Hanni'."
     },
     "detail": {
-      "ja": "ハニ自身が記録したVlog「楽しみでハニ」の第5回。「Phamily trip to Vietnam」と題し、家族とのベトナム旅行を収める。About Jeansの一編。",
-      "en": "Episode 5 of Hanni's self-shot vlog 'Fun with Hanni', titled 'Phamily trip to Vietnam', follows her family trip to Vietnam. An About Jeans episode."
+      "ja": "ハニのVlog「楽しみでハニ」の第5回。「Phamily trip to Vietnam」と題し、家族とのベトナム旅行を収める。About Jeansの一編。",
+      "en": "Episode 5 of Hanni's vlog 'For Fun, Hanni', titled 'Phamily trip to Vietnam', follows her family trip to Vietnam. An About Jeans episode."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -11002,8 +11005,8 @@
       "about-jeans",
       "vlog"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[About Jeans] 재미로 하니🙃 EP.5  Phamily trip to Vietnam🪷 | HANNI vlog', dateText 'Mar 12, 2024', owner 'NewJeans'; matches the record date (KST). Unified the English series name to 'For Fun, Hanni' (matching title.en) and removed the unconfirmed 'self-shot' claim."
   },
   {
     "id": "content-2024-03-14-jeans-zine-ep-2",
@@ -11023,11 +11026,11 @@
     },
     "summary": {
       "ja": "ミンジが弓を射る「射撃王キム・ミンジ」第2回「つらい時は弓を放つ..」、Jeans' ZINEのソロ企画。",
-      "en": "Minji moves on to the bow in part 2 of 'Shooting Queen Kim Minji', a Jeans' ZINE solo storyline."
+      "en": "Minji moves on to the bow in part 2 of 'Shooting King Kim Minji', a Jeans' ZINE solo storyline."
     },
     "detail": {
       "ja": "ミンジのソロ企画「射撃王キム・ミンジ」の第2回。「つらい時は弓を放つ..」と題し、ミンジが弓を射ることに挑む。Jeans' ZINEの一編。",
-      "en": "Part 2 of Minji's solo storyline 'Shooting Queen Kim Minji'. Titled 'When things get hard, I shoot arrows..', it has Minji taking up the bow. A Jeans' ZINE episode."
+      "en": "Part 2 of Minji's solo storyline 'Shooting King Kim Minji'. Titled 'When It's Tough, I Let Arrows Fly..', it has Minji taking up the bow. A Jeans' ZINE episode."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -11049,8 +11052,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Jeans' ZINE💫] 사격왕 김민지 EP.2 난 힘들 때 활을 날려.. 🏹 | NewJeans', dateText 'Mar 14, 2024', owner 'NewJeans'; matches the record date (KST). Aligned the English storyline and episode names in summary/detail with title.en (사격왕 = 'Shooting King')."
   },
   {
     "id": "content-2024-03-15-about-jeans-newjeans-vlog",
@@ -11190,8 +11193,8 @@
       "behind",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Light Jeans] Shinhan Financial Group Campaign behind📱| NewJeans', dateText 'Mar 19, 2024', owner 'NewJeans'; matches the record date (KST)."
   },
   {
     "id": "content-2024-03-21-jeans-zine-ep-1",
@@ -11211,11 +11214,11 @@
     },
     "summary": {
       "ja": "ハニが幼稚園の先生として登場する「ちびっこ幼稚園 ハニ・ドゥル・セッ」第1回、Jeans' ZINEのソロ企画。",
-      "en": "Hanni steps in as a kindergarten teacher in part 1 of 'Little Kindergarten Hanni, Two, Three', a Jeans' ZINE solo storyline."
+      "en": "Hanni steps in as a kindergarten teacher in part 1 of 'Kiddie Kindergarten Hanni Two Three', a Jeans' ZINE solo storyline."
     },
     "detail": {
       "ja": "ハニのソロ企画「ちびっこ幼稚園 ハニ・ドゥル・セッ」の第1回。「ハニ先生登場！」と題し、ハニが幼稚園の先生役に挑む。Jeans' ZINEの一編。",
-      "en": "Part 1 of Hanni's solo storyline 'Little Kindergarten Hanni, Two, Three'. Titled 'Teacher Hanni arrives!', it follows Hanni taking on the role of kindergarten teacher. A Jeans' ZINE episode."
+      "en": "Part 1 of Hanni's solo storyline 'Kiddie Kindergarten Hanni Two Three'. Titled 'Here Comes Teacher Hanni!', it follows Hanni taking on the role of kindergarten teacher. A Jeans' ZINE episode."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -11237,8 +11240,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Jeans' ZINE🧺] 꼬마 유치원 하니 둘 셋 EP.1 하니 선생님 등장!🐝 | NewJeans', dateText 'Mar 21, 2024', owner 'NewJeans'; matches the record date (KST). Aligned the English storyline and episode names in summary/detail with title.en."
   },
   {
     "id": "content-2024-03-25-about-jeans-minji-scene-4-minji-vlog",
@@ -11349,11 +11352,11 @@
     },
     "summary": {
       "ja": "ハニ先生の幼稚園が続く「ちびっこ幼稚園 ハニ・ドゥル・セッ」第2回「イプセ組 晴れ Lv.96」。",
-      "en": "Teacher Hanni's kindergarten continues in part 2 of 'Little Kindergarten Hanni, Two, Three', a Jeans' ZINE episode."
+      "en": "Teacher Hanni's kindergarten continues in part 2 of 'Kiddie Kindergarten Hanni Two Three', a Jeans' ZINE episode."
     },
     "detail": {
       "ja": "ハニのソロ企画「ちびっこ幼稚園 ハニ・ドゥル・セッ」の第2回。「イプセ組 晴れ Lv.96」と題し、ハニ先生のクラスでの一日が続く。Jeans' ZINEの一編。",
-      "en": "Part 2 of Hanni's solo storyline 'Little Kindergarten Hanni, Two, Three'. Titled 'Ipsae class, sunny, Lv.96', it continues Hanni's day as teacher. A Jeans' ZINE episode."
+      "en": "Part 2 of Hanni's solo storyline 'Kiddie Kindergarten Hanni Two Three'. Titled 'Leaf Class: Sunny Lv.96', it continues Hanni's day as teacher. A Jeans' ZINE episode."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -11375,8 +11378,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Jeans' ZINE🧺] 꼬마 유치원 하니 둘 셋 EP.2 잎새반 맑음 Lv.96☀️ | NewJeans', dateText 'Mar 28, 2024', owner 'NewJeans'; matches the record date (KST). Aligned the English storyline and episode names in summary/detail with title.en."
   },
   {
     "id": "content-2024-03-29-by-jeans-passenger-let-her-go-cover-by-danielle",
@@ -11625,11 +11628,11 @@
     },
     "summary": {
       "ja": "ゲーム対決が続く「ウバムダンナッ・アーケード」第2回「誰も勝てない」、Jeans' ZINEの一編。",
-      "en": "Nobody can win: part 2 of 'Ubamdangnat Arcade', a Jeans' ZINE episode with all members."
+      "en": "Nobody can win: part 2 of 'Our Night, Your Day Arcade', a Jeans' ZINE episode with all members."
     },
     "detail": {
       "ja": "ゲーム企画「ウバムダンナッ・アーケード」の第2回。「誰も勝てない」と題し、メンバー全員のゲーム対決が続く。Jeans' ZINEの一編。",
-      "en": "Part 2 of the games storyline 'Ubamdangnat Arcade', titled 'Nobody can win', continues the members' game battles. A Jeans' ZINE episode."
+      "en": "Part 2 of the games storyline 'Our Night, Your Day Arcade', titled 'Nobody Can Win', continues the members' game battles. A Jeans' ZINE episode."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -11651,8 +11654,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Jeans' ZINE] 우밤당낮 아케이드 EP.2 아무도 못 이김 👽🖍️🛞 | NewJeans', dateText 'Apr 11, 2024', owner 'NewJeans'; matches the record date (KST). Aligned the English storyline name (우밤당낮 = 'Our Night, Your Day') in summary/detail with title.en."
   },
   {
     "id": "content-2024-04-12-light-jeans-minji-harpers-bazaar-photoshoot-behind",
@@ -11860,7 +11863,9 @@
       "en": "The members held a face call on Phoning to celebrate Hyein's birthday. All members joined, and the call ran for about 40 minutes."
     },
     "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=z32N6Zvcv4U"
+    ],
     "media": {
       "type": "none"
     },
@@ -11869,7 +11874,7 @@
       "live-stream"
     ],
     "verified": false,
-    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. / 2026-10-24 nightly: No official record found (Phoning replays app-only; no official post or press report located). Fan subtitle re-upload by TikkiTokki, '(ENG SUB) NewJeans Phoning Live 24.04.21 - Hyein's Sweet 16 Birthday Live!' (40:16, uploaded Apr 22, 2024), corroborates the date and about 40 minutes; whether all five members joined is not stated in that title. Added as a reference only; left unverified."
   },
   {
     "id": "content-2024-04-23-light-jeans-newjeans-in-singapore-with-nike",
@@ -12025,11 +12030,11 @@
     },
     "summary": {
       "ja": "討論が続く「第2回めちゃくちゃ称賛討論会」第2回「ニューヘア ニュークイーン」、Jeans' ZINEの一編。",
-      "en": "The '2nd Messy Praise Debate' continues with part 2, 'New Hair, New Queen', a Jeans' ZINE episode."
+      "en": "'The 2nd Messy Compliment Debate' continues with part 2, 'New Hair, New Queen', a Jeans' ZINE episode."
     },
     "detail": {
       "ja": "討論企画「第2回めちゃくちゃ称賛討論会」の第2回。「ニューヘア ニュークイーン」と題し、メンバー全員で討論を続ける。Jeans' ZINEの一編。",
-      "en": "Part 2 of the debate storyline '2nd Messy Praise Debate', titled 'New Hair, New Queen', with all members continuing the debate. A Jeans' ZINE episode."
+      "en": "Part 2 of the debate storyline 'The 2nd Messy Compliment Debate', titled 'New Hair, New Queen', with all members continuing the debate. A Jeans' ZINE episode."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -12051,8 +12056,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Jeans' ZINE] 제2회 엉망잔칭 토론회 EP.2 뉴 헤어 뉴 퀸👸🪄 | NewJeans', dateText 'May 2, 2024', owner 'NewJeans'; matches the record date (KST). Aligned the English storyline name in summary/detail with title.en."
   },
   {
     "id": "content-2024-05-03-light-jeans-haerin-w-korea-photoshoot-behind",
@@ -12098,8 +12103,8 @@
       "behind",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Light Jeans] HAERIN W KOREA Photoshoot Behind🐈‍⬛ | NewJeans', dateText 'May 3, 2024', owner 'NewJeans'; matches the record date (KST)."
   },
   {
     "id": "content-2024-05-07-phoning-minji-birthday-face-call",
@@ -12125,7 +12130,9 @@
       "en": "The members held a face call on Phoning to celebrate Minji's birthday. It went out from Haerin's account, with all members joining, and ran for about 29 minutes."
     },
     "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=2wgh6tGu_5k"
+    ],
     "media": {
       "type": "none"
     },
@@ -12134,7 +12141,7 @@
       "live-stream"
     ],
     "verified": false,
-    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. / 2026-10-24 nightly: No official record found (Phoning replays app-only). Fan subtitle re-upload by TikkiTokki, '(ENG SUB) NewJeans Phoning Live 24.05.07 - Minji's 20th Birthday Live!' (29:32, uploaded May 8, 2024), corroborates the date and about 29 minutes; streaming from Haerin's account and all-member participation not confirmed. Added as a reference only; left unverified."
   },
   {
     "id": "content-2024-05-08-light-jeans-billboard-women-in-music-photoshoot-behind",
@@ -12274,8 +12281,8 @@
       "behind",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Light Jeans] 24FW Seoul Fashion Week Campaign Behind🌃 | NewJeans', dateText 'May 10, 2024', owner 'NewJeans'; matches the record date (KST)."
   },
   {
     "id": "content-2024-05-13-phoning-podcast-launch",
@@ -12289,19 +12296,21 @@
       "all"
     ],
     "title": {
-      "ja": "Phoning 購読者向けポッドキャスト開始",
-      "en": "Phoning: subscriber podcasts begin"
+      "ja": "Phoning ポッドキャスト機能追加",
+      "en": "Phoning: podcast feature added"
     },
     "summary": {
-      "ja": "Phoningに購読者向けポッドキャストが加わり、毎週月曜19時にメンバーのポッドキャストを配信。",
-      "en": "Phoning adds subscriber-only podcasts, with member episodes every Monday at 19:00 KST."
+      "ja": "公式アプリPhoningのアップデート（バージョン2.1.0）で、ポッドキャスト機能が追加された。",
+      "en": "The official Phoning app added a podcast feature in its version 2.1.0 update."
     },
     "detail": {
-      "ja": "公式アプリPhoningに購読者向けのポッドキャスト機能が加わった。メンバーのポッドキャストを毎週月曜19時（KST）に配信する形で始まった。",
-      "en": "A subscriber-only podcast feature was added to the official app Phoning. Member podcasts are released every Monday at 19:00 KST."
+      "ja": "NewJeansの公式アプリPhoningがバージョン2.1.0に更新され、アップデート内容として「ポッドキャスト機能が追加されました」と告知された。",
+      "en": "NewJeans' official app Phoning was updated to version 2.1.0, with the release notes announcing that a podcast feature had been added."
     },
     "source_url": "https://namu.wiki/w/Phoning",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://apps.apple.com/kr/app/phoning/id1627432527"
+    ],
     "media": {
       "type": "none"
     },
@@ -12309,8 +12318,8 @@
       "phoning",
       "podcast"
     ],
-    "verified": false,
-    "editor_note": "From namu.wiki \"Phoning\" page (app update history); not confirmed from an official notice."
+    "verified": true,
+    "editor_note": "From namu.wiki \"Phoning\" page (app update history); not confirmed from an official notice. / 2026-10-24 nightly: The Phoning App Store listing's own version history (apps.apple.com/kr, id1627432527) shows version 2.1.0 released Mon May 13, 2024 02:57 UTC (11:57 KST) with the note '팟캐스트 기능이 추가되었어요.' This confirms the date and the feature launch. The claims that podcasts are subscriber-only and released every Monday at 19:00 KST (from namu.wiki) were not found in any official source and were removed; title adjusted accordingly."
   },
   {
     "id": "content-2024-05-15-phoning-haerin-birthday-face-call",
@@ -12336,7 +12345,9 @@
       "en": "The members held a face call on Phoning to celebrate Haerin's birthday. All members joined, and the call ran for about 39 minutes."
     },
     "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=YfRzZCZNBj8"
+    ],
     "media": {
       "type": "none"
     },
@@ -12345,7 +12356,7 @@
       "live-stream"
     ],
     "verified": false,
-    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. / 2026-10-24 nightly: No official record found (Phoning replays app-only). Fan subtitle re-upload by TikkiTokki, '(ENG SUB) NewJeans Phoning Live 24.05.15 - Haerin's Chaotic 18th Birthday Live!' (40:15, uploaded May 16, 2024), corroborates the date; its length (about 40 minutes) is close to the record's 'about 39 minutes'. All-member participation not confirmed. Added as a reference only; left unverified."
   },
   {
     "id": "content-2024-05-16-jeans-zine-ep-2",
@@ -12365,11 +12376,11 @@
     },
     "summary": {
       "ja": "雨の中でもお出かけを続ける「少し早い春のお出かけ」第2回「雨でも直進 直進」、Jeans' ZINEの一編。",
-      "en": "The outing goes on in the rain in part 2 of 'A Slightly Early Spring Outing', a Jeans' ZINE episode."
+      "en": "The outing goes on in the rain in part 2 of 'A Little Early Spring Outing', a Jeans' ZINE episode."
     },
     "detail": {
       "ja": "「少し早い春のお出かけ」の第2回。「雨でも直進 直進」と題し、雨の中でも春のお出かけを続ける。メンバー全員が出演するJeans' ZINEの一編。",
-      "en": "Part 2 of 'A Slightly Early Spring Outing', titled 'Straight ahead, even in the rain', keeps the spring outing going through the rain. A Jeans' ZINE episode with all members."
+      "en": "Part 2 of 'A Little Early Spring Outing', titled 'Straight Ahead Even in the Rain', keeps the spring outing going through the rain. A Jeans' ZINE episode with all members."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -12391,8 +12402,8 @@
       "jeans-zine",
       "variety"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Jeans' ZINE] 조금 이른 봄놀이 EP.2 비가 와도 직진 직진🛶 | NewJeans', dateText 'May 16, 2024', owner 'NewJeans'; matches the record date (KST). Aligned the English storyline and episode names in summary/detail with title.en."
   },
   {
     "id": "content-2024-05-19-light-jeans-nike-air-max-campaign-shoot-behind",
@@ -12438,8 +12449,8 @@
       "behind",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Light Jeans] NIKE Air Max Campaign Shoot Behind 👟 | NewJeans', dateText 'May 19, 2024', owner 'NewJeans'; matches the record date (KST)."
   },
   {
     "id": "content-2024-05-21-about-jeans-minji-scene-5",
@@ -12462,8 +12473,8 @@
       "en": "Minji heads to Biarritz in the fifth 'MINJI SCENE' vlog."
     },
     "detail": {
-      "ja": "ミンジ自身が記録したVlog「MINJI SCENE」の第5回。「ビアリッツに行く？」と題し、ビアリッツ行きの様子を収める。About Jeansの一編。",
-      "en": "The fifth 'MINJI SCENE' vlog, shot by Minji herself and titled 'Going to Biarritz?', follows her trip to Biarritz. An About Jeans episode."
+      "ja": "ミンジのVlog「MINJI SCENE」の第5回。「ビアリッツに行く？」と題し、ビアリッツ行きの様子を収める。About Jeansの一編。",
+      "en": "The fifth 'MINJI SCENE' vlog, titled 'Going to Biarritz?', follows Minji's trip to Biarritz. An About Jeans episode."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -12485,8 +12496,8 @@
       "about-jeans",
       "vlog"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[About Jeans] MINJI SCENE🎬 #5 비아리츠 가요? | MINJI vlog', dateText 'May 21, 2024', owner 'NewJeans'; matches the record date (KST). Removed the unconfirmed claim that the vlog was shot by Minji herself."
   },
   {
     "id": "content-2024-05-22-about-jeans-d-days-danielle-vlog",
@@ -12670,8 +12681,8 @@
       "behind",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Light Jeans] Essential Campaign Behind🫧 | NewJeans', dateText 'May 29, 2024', owner 'NewJeans'; matches the record date (KST)."
   },
   {
     "id": "content-2024-05-30-making-jeans-bubble-gum-mv-behind",
@@ -12717,8 +12728,8 @@
       "behind",
       "mv-behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Making Jeans] NewJeans (뉴진스) 'Bubble Gum' MV Behind', dateText 'May 30, 2024', owner 'NewJeans'; matches the record date (KST)."
   },
   {
     "id": "content-2024-06-04-about-jeans-4",
@@ -12741,8 +12752,8 @@
       "en": "Haerin's outing in New York, in the fourth 'Just Haerin' vlog."
     },
     "detail": {
-      "ja": "ヘリン自身が記録したVlog「そのままヘリン」の第4回。「ニューヨークお出かけ」と題し、ニューヨークでのお出かけを収める。About Jeansの一編。",
-      "en": "The fourth instalment of Haerin's self-shot vlog 'Just Haerin', titled 'New York outing', follows her out and about in New York. An About Jeans episode."
+      "ja": "ヘリンのVlog「そのままヘリン」の第4回。「ニューヨークお出かけ」と題し、ニューヨークでのお出かけを収める。About Jeansの一編。",
+      "en": "The fourth instalment of Haerin's vlog 'Just Haerin', titled 'New York Outing', follows her out and about in New York. An About Jeans episode."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -12764,8 +12775,8 @@
       "about-jeans",
       "vlog"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[About Jeans] 걍해린 4걍. 뉴욕 나들이 | HAERIN vlog', dateText 'Jun 4, 2024', owner 'NewJeans'; matches the record date (KST). Removed the unconfirmed 'self-shot' claim."
   },
   {
     "id": "content-2024-06-06-making-jeans-how-sweet-mv-behind",
@@ -12855,8 +12866,8 @@
     "tags": [
       "clip"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): 'NewJeans (뉴진스) 'How Sweet' MV Review', dateText 'Jun 12, 2024', owner 'NewJeans'; matches the record date (KST)."
   },
   {
     "id": "content-2024-06-13-making-jeans-bubble-gum-how-sweet-recording-behind",
@@ -12995,8 +13006,8 @@
       "behind",
       "music-show"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Light Jeans] 'How Sweet' & 'Bubble Gum' Music Show Behind EP.1| NewJeans', dateText 'Jun 18, 2024', owner 'NewJeans'; matches the record date (KST)."
   },
   {
     "id": "content-2024-06-20-making-jeans-how-sweet-bubble-gum-dance-practice-behind",
@@ -13042,8 +13053,8 @@
       "behind",
       "dance-practice"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Making Jeans] NewJeans (뉴진스) 'How Sweet' & 'Bubble Gum' Dance Practice Behind', dateText 'Jun 20, 2024', owner 'NewJeans'; matches the record date (KST)."
   },
   {
     "id": "content-2024-06-20-yt-right-now",
@@ -13226,8 +13237,8 @@
       "behind",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Light Jeans] Shinhan SOL Travel Check Card Campaign Behind 💳 | NewJeans', dateText 'Jun 25, 2024', owner 'NewJeans'; matches the record date (KST)."
   },
   {
     "id": "content-2024-06-28-making-jeans-right-now-mv-behind",
@@ -13364,8 +13375,8 @@
       "clip",
       "mv-reaction"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): 'NewJeans (뉴진스) 'Right Now' MV Reaction', dateText 'Jul 4, 2024', owner 'NewJeans'; matches the record date (KST)."
   },
   {
     "id": "content-2024-07-05-making-jeans-supernatural-mv-behind",
@@ -13411,8 +13422,8 @@
       "behind",
       "mv-behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Making Jeans] NewJeans (뉴진스) 'Supernatural' MV Behind', dateText 'Jul 5, 2024', owner 'NewJeans'; matches the record date (KST)."
   },
   {
     "id": "content-2024-07-09-light-jeans-olens-behind",
@@ -13503,8 +13514,8 @@
       "behind",
       "dance-practice"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Making Jeans] NewJeans (뉴진스) 'Supernatural' Dance Practice Behind', dateText 'Jul 11, 2024', owner 'NewJeans'; matches the record date (KST)."
   },
   {
     "id": "content-2024-07-16-light-jeans-the-face-magazine-photoshoot-behind",
@@ -13550,8 +13561,8 @@
       "behind",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Light Jeans] The Face Magazine Photoshoot Behind 🔦 | NewJeans', dateText 'Jul 16, 2024', owner 'NewJeans'; matches the record date (KST)."
   },
   {
     "id": "content-2024-07-18-making-jeans-supernatural-right-now-recording-behind",
@@ -13565,8 +13576,8 @@
       "all"
     ],
     "title": {
-      "ja": "'Supernatural' & Right Now レコーディング・ビハインド",
-      "en": "'Supernatural' & Right Now Recording Behind"
+      "ja": "'Supernatural' & 'Right Now' レコーディング・ビハインド",
+      "en": "'Supernatural' & 'Right Now' Recording Behind"
     },
     "summary": {
       "ja": "「Supernatural」と「Right Now」のレコーディング現場を記録した、Making Jeansの制作ビハインド。",
@@ -13597,8 +13608,8 @@
       "behind",
       "recording"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Making Jeans] NewJeans (뉴진스) 'Supernatural' & 'Right Now' Recording Behind', dateText 'Jul 18, 2024', owner 'NewJeans'; matches the record date (KST). Official title quotes both songs ('Supernatural' & 'Right Now'); added the missing quotation marks around Right Now in title.ja/en."
   },
   {
     "id": "content-2024-07-22-newjeans-day-bunnies-love-newjeans",
@@ -13712,7 +13723,11 @@
       "en": "On the day of the second debut anniversary, the members held an all-member face call on Phoning, running about an hour. The same day, anniversary videos such as '[NewJeans Day] Happy 2nd Anniversary' went up on the official YouTube channel."
     },
     "source_url": "https://namu.wiki/w/NewJeans/Phoning%20LIVE",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://x.com/NewJeans_ADOR/status/1815315849861005491",
+      "https://www.youtube.com/watch?v=dq8aMNGDGP8",
+      "https://www.youtube.com/watch?v=yNoCO2Rriuk"
+    ],
     "media": {
       "type": "none"
     },
@@ -13720,8 +13735,8 @@
       "phoning-live",
       "live-stream"
     ],
-    "verified": false,
-    "editor_note": "Date and content from the fan-maintained namu.wiki \"NewJeans/Phoning LIVE\" log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+    "verified": true,
+    "editor_note": "Date and content from the fan-maintained namu.wiki \"NewJeans/Phoning LIVE\" log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. / 2026-10-24 nightly: Official @NewJeans_ADOR X post (fxtwitter: Mon Jul 22, 2024 09:20 UTC = 18:20 KST) announces '[NewJeans Day] NewJeans 2nd Anniversary party' Phoning Live starting at 19:22 KST (also recorded as sns-2024-07-22-2nd-anniversary-phoning-live-notice); the D-2/D-1 posts list 'Live on Phoning' in the anniversary programme. The official YouTube videos '[NewJeans Day🎂] Happy 2nd Anniversary 🌃' (dq8aMNGDGP8) and 'Bunnies Love NewJeans' were uploaded Jul 22, 2024 KST (youtubei next API). The roughly one-hour length is corroborated only by the fan subtitle re-upload '(ENG SUB) NewJeans Phoning Live 24.07.22 - NewJeans 2nd Anniversary Live!' (TikkiTokki, 1:00:11)."
   },
   {
     "id": "content-2024-07-23-light-jeans-lotte-zero-behind",
@@ -13811,8 +13826,8 @@
       "light-jeans",
       "behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[Light Jeans] University Festivals 2024 Behind🏫  | NewJeans', dateText 'Jul 30, 2024', owner 'NewJeans'; matches the record date (KST)."
   },
   {
     "id": "content-2024-08-01-making-jeans-supernatural-jacket-photoshoot-behind",
@@ -13878,12 +13893,12 @@
       "original": "오늘을, 기록혠 4 ⊹ 세 번째 파리의 오늘"
     },
     "summary": {
-      "ja": "ヘインが3度目のパリでの一日を記録した、ヘインのVlog「今日を、記録ヘン」第4回。",
-      "en": "Hyein records a day on her third visit to Paris, in the fourth 'Recording Today, Hyein' vlog."
+      "ja": "ヘインがパリでの一日を記録した、ヘインのVlog「今日を、記録ヘン」第4回「3度目のパリの今日」。",
+      "en": "Hyein records a day in Paris in the fourth 'Recording Today, Hyein' vlog, 'Today in Paris, the Third Time'."
     },
     "detail": {
-      "ja": "ヘイン自身が記録したVlog「今日を、記録ヘン」の第4回。「3度目のパリの今日」と題し、3度目のパリ滞在の一日を収める。About Jeansの一編。",
-      "en": "The fourth instalment of Hyein's self-shot vlog 'Recording Today, Hyein', titled 'Today in Paris, third time', captures a day on her third stay in Paris. An About Jeans episode."
+      "ja": "ヘインのVlog「今日を、記録ヘン」の第4回。「3度目のパリの今日」と題し、パリでの一日を収める。About Jeansの一編。",
+      "en": "The fourth instalment of Hyein's vlog 'Recording Today, Hyein', titled 'Today in Paris, the Third Time', captures a day in Paris. An About Jeans episode."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -13905,8 +13920,8 @@
       "about-jeans",
       "vlog"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: Upload date and title confirmed on the official NewJeans YouTube channel via the youtubei next API (timeZone Asia/Seoul): '[About Jeans] 오늘을, 기록혠 4 ⊹ 세 번째 파리의 오늘 | HYEIN vlog', dateText 'Aug 6, 2024', owner 'NewJeans'; matches the record date (KST). Removed the unconfirmed 'self-shot' claim and the interpretation of the title as her third stay in Paris (the official title only says '세 번째 파리의 오늘'); aligned the episode name with title.en."
   },
   {
     "id": "content-2024-08-07-about-jeans-2-vlog",

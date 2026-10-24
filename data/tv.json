@@ -5803,7 +5803,7 @@
     "tags": [
       "music-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "SBS『人気歌謡』で「Right Now」と「Supernatural」を披露した。ヘインの合流により、5人での『人気歌謡』復帰ステージとなった。",
       "en": "NewJeans performed 'Right Now' and 'Supernatural' on SBS's Inkigayo. With Hyein back, it was their return to the program as a full five-member group."
@@ -5815,7 +5815,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=86fJXRuP6Ko"
     },
-    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) – Supernatural @인기가요 inkigayo 20240714」(2024-07-14); 関連4本をreference_urlsに記載"
+    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) – Supernatural @인기가요 inkigayo 20240714」(2024-07-14); 関連4本をreference_urlsに記載 / 2026-10-24 nightly: Confirmed via the broadcaster's official channel SBSKPOP X INKIGAYO (youtubei next API, KST): 'NewJeans (뉴진스) – Supernatural @인기가요 inkigayo 20240714' and '... Right Now @인기가요 inkigayo 20240714', both uploaded Jul 14, 2024, plus the FullCam uploads. Hyein rejoining for the domestic music-show stages from July 12 (Music Bank) through July 14 (Inkigayo) confirmed by ADOR's statement quoted in The Fact (2024-07-12)."
   },
   {
     "id": "tv-2024-07-26-sbs-gayo-daejeon-summer-2024",
@@ -5927,6 +5927,9 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
+      "https://x.com/NewJeans_jp/status/1824778208773898499",
+      "https://mdpr.jp/music/detail/4348082",
+      "https://www.thetvdb.com/series/with-music/episodes/10556436",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
@@ -5935,7 +5938,7 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "日本テレビ系『with MUSIC』に出演し、「Supernatural」と「ETA」を披露した。6月22日に続く、この番組2度目の出演で、この回の出演者はano、BE:FIRST、flumpool、ポルノグラフィティ、WANIMAなど。",
       "en": "NewJeans made their second appearance on Nippon TV's with MUSIC, after June 22, performing 'Supernatural' and 'ETA'. Other acts that night included ano, BE:FIRST, flumpool, Porno Graffitti and WANIMA."
@@ -5944,7 +5947,7 @@
       "broadcaster": "Nippon TV",
       "program": "with MUSIC"
     },
-    "editor_note": "公式YouTube動画なし: NTV does not publish with MUSIC performances on YouTube; no official upload found",
+    "editor_note": "公式YouTube動画なし: NTV does not publish with MUSIC performances on YouTube; no official upload found / 2026-10-24 nightly: Official @NewJeans_jp X post (fxtwitter, 2024-08-17 21:00 JST, #withMUSIC) confirms the appearance on the date. Songs 'ETA' and 'Supernatural' and the line-up (Porno Graffitti, BE:FIRST, WANIMA, flumpool, ano) confirmed from Nippon TV's announcement as carried by Modelpress (2024-08-10, photos credited Nippon TV); program aired from 19:56. Prior June 22, 2024 appearance confirmed via TheTVDB episode listing.",
     "image": {
       "url": "https://pbs.twimg.com/media/GVLA40rbgAAEoTG.jpg?name=orig",
       "source_url": "https://x.com/NewJeans_jp/status/1824778208773898499"
@@ -5961,7 +5964,7 @@
       "all"
     ],
     "title": {
-      "ja": "TBS『CDTVライブ!ライブ! 夏フェスSP』",
+      "ja": "TBS『CDTVライブ！ライブ！夏フェスSP』",
       "en": "CDTV Live! Live! Summer Fes SP (TBS)"
     },
     "summary": {
@@ -5970,6 +5973,10 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
+      "https://mdpr.jp/k-enta/detail/4344730",
+      "https://animeanime.jp/article/2024/08/19/86096.html",
+      "https://www.sportsworldi.com/newsView/20240825503574",
+      "https://thetv.jp/program/0000979177/124/",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
@@ -5979,7 +5986,7 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "TBS系『CDTVライブ！ライブ！ 夏フェスSP』に出演し、人気企画「名曲ライブ！ライブ！」に初参加した。メンバーがそれぞれJ-POPをカバーし、ミンジはVaundy「踊り子」、ハニはTUBE「シーズン・イン・ザ・サン」、ヘインはスピッツ「チェリー」、ダニエルは「Part of Your World」、ヘリンは宇多田ヒカル「Automatic」を歌った。グループとしては「Supernatural」を披露した。",
       "en": "NewJeans appeared on TBS's CDTV Live! Live! Summer Fes SP, joining the 'Meikyoku Live! Live!' cover segment for the first time. Each member sang a solo cover: Minji performed Vaundy's 'Odoriko', Hanni TUBE's 'Season in the Sun', Hyein Spitz's 'Cherry', Danielle 'Part of Your World' and Haerin Hikaru Utada's 'Automatic'. As a group they performed 'Supernatural'."
@@ -5987,11 +5994,11 @@
     "credits": {
       "broadcaster": "TBS",
       "program": {
-        "ja": "CDTVライブ!ライブ! 夏フェスSP",
+        "ja": "CDTVライブ！ライブ！夏フェスSP",
         "en": "CDTV Live! Live! Summer Fes Special"
       }
     },
-    "editor_note": "Per-member covers per en.wikipedia live-performance list; TBS listing confirms only the Utada cover and segment. / 公式動画: CDTV 公式YouTube「【CDTV】NewJeans⚡️夏を8000倍楽しむぅ～～～～🐱」(2024-08-17)",
+    "editor_note": "Per-member covers per en.wikipedia live-performance list; TBS listing confirms only the Utada cover and segment. / 公式動画: CDTV 公式YouTube「【CDTV】NewJeans⚡️夏を8000倍楽しむぅ～～～～🐱」(2024-08-17) / 2026-10-24 nightly: TBS announcement (Modelpress 2024-08-05, photo credited TBS) confirms the 2024-08-19 18:30 live broadcast and the members' first 'Meikyoku Live! Live!' solo covers (Minji a Vaundy song, Hanni an 80s summer classic, Hyein a Spitz hit, Danielle a Disney song, Haerin an Utada Hikaru song). The broadcast timetable published on the day (Anime!Anime!, 2024-08-19) lists NewJeans in the Meikyoku segment in the 7 and 8 pm blocks and 'Supernatural' in the 9 pm block. Sportsworld (2024-08-26) names the covers: Hanni TUBE 'Season in the Sun', Minji Vaundy 'Odoriko', Haerin 'Automatic', Hyein 'Cherry', Danielle 'Part of Your World'. Program name normalized to TBS's full-width form 『CDTVライブ！ライブ！夏フェスSP』 in title.ja/credits. The CDTV YouTube video in media (aXr_L_aka54) was uploaded Aug 17, 2024 KST, i.e. a pre-broadcast clip.",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=aXr_L_aka54"
     }
@@ -6011,11 +6018,13 @@
       "en": "2024 The Fact Music Awards"
     },
     "summary": {
-      "ja": "『2024 THE FACT MUSIC AWARDS』でワールドワイドアイコン賞など5冠、「Bubble Gum」日本語版を含む4曲を披露。",
-      "en": "NewJeans took five awards including Worldwide Icon at the 2024 The Fact Music Awards in Osaka, performing four songs including the Japanese 'Bubble Gum'."
+      "ja": "京セラドーム大阪での『2024 THE FACT MUSIC AWARDS』2日目でワールドワイドアイコンなど4冠、7曲を披露。",
+      "en": "NewJeans won four awards including Worldwide Icon on day two of the 2024 The Fact Music Awards in Osaka and performed seven songs."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
+      "https://www.nocutnews.co.kr/news/6208732",
+      "https://www.mhnse.com/news/articleView.html?idxno=321970",
       "https://ja.wikipedia.org/wiki/NewJeans",
       "https://www.youtube.com/watch?v=7S7dLZx1r5g"
     ],
@@ -6027,16 +6036,16 @@
       "award-show",
       "japan"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "大阪の京セラドーム大阪で開かれた『2024 THE FACT MUSIC AWARDS』で、ワールドワイドアイコン賞、ワールドベストパフォーマー賞、今年のアーティスト賞（本賞）、ムシンサ人気賞、TMA人気賞を受賞した。ステージでは「ETA」「OMG」「Attention」「Bubble Gum（Japanese ver.）」の4曲を披露し、受賞スピーチでは前ADOR代表のミン・ヒジンに謝意を述べた。",
-      "en": "At the 2024 The Fact Music Awards at Kyocera Dome Osaka, NewJeans received the Worldwide Icon Award, the World Best Performer Award, Artist of the Year (Bonsang), the Musinsa Popularity Award and the TMA Popularity Award. They performed four songs, 'ETA', 'OMG', 'Attention' and the Japanese version of 'Bubble Gum', and in their acceptance speech thanked former ADOR CEO Min Hee-jin."
+      "ja": "京セラドーム大阪で2日間にわたって開かれた『2024 THE FACT MUSIC AWARDS』の2日目に出演し、ワールドワイドアイコン、ワールドベストパフォーマー、今年のアーティスト（本賞）、ムシンサ人気賞の4冠を獲得した。ステージではメンバーそれぞれのソロで「ETA」「OMG」「Ditto」「Hype Boy」「Attention」を披露し、続いて「Bubble Gum」の日本語版と5人での「How Sweet」を披露した。受賞スピーチでは「私たちを大切にしてくださるミン・ヒジン代表」に感謝を述べた。",
+      "en": "On day two of the two-day 2024 The Fact Music Awards at Kyocera Dome Osaka, NewJeans won four awards: Worldwide Icon, World Best Performer, Artist of the Year (Bonsang) and the Musinsa Popularity Award. The members performed 'ETA', 'OMG', 'Ditto', 'Hype Boy' and 'Attention' as individual solo stages, followed by the Japanese version of 'Bubble Gum' and 'How Sweet' as a five-piece. In their acceptance speech they thanked 'CEO Min Hee-jin, who cherishes us'."
     },
     "credits": {
       "venue": "Kyocera Dome Osaka",
       "organizer": "The Fact / Fan N Star"
     },
-    "editor_note": "Award list per en.wikipedia awards page (5) vs ja.wikipedia (4); speech per Korea JoongAng Daily headline (Sept 9, 2024). / 公式動画:  THE FACT MUSIC AWARDS「[2024 더팩트 뮤직 어워즈] NewJeans (뉴진스) 'ETA+OMG+Ditto+Hype Boy+Attention' + 'Bubble Gum+How Sweet' @TMA」(2024-12-30); 関連1本をreference_urlsに記載",
+    "editor_note": "Award list per en.wikipedia awards page (5) vs ja.wikipedia (4); speech per Korea JoongAng Daily headline (Sept 9, 2024). / 公式動画:  THE FACT MUSIC AWARDS「[2024 더팩트 뮤직 어워즈] NewJeans (뉴진스) 'ETA+OMG+Ditto+Hype Boy+Attention' + 'Bubble Gum+How Sweet' @TMA」(2024-12-30); 関連1本をreference_urlsに記載 / 2026-10-24 nightly: The organizer's official THE FACT MUSIC AWARDS YouTube upload (Y5ArLNBfvkc, Dec 30, 2024 KST) is titled 'ETA+OMG+Ditto+Hype Boy+Attention' + 'Bubble Gum+How Sweet'. CBS NoCut News (2024-09-09, photo from the TMA organizing committee) and MHN Sports (2024-09-09) report four awards (World Best Performer, Artist of the Year, Musinsa Popularity, Worldwide Icon) on day two (Sept 8); the day-two winners list (Maeil Business, 2024-09-08) gives the TMA Popularity Award to JO1, so that fifth award in the record was wrong and was removed. Setlist corrected from four songs to the solo stages ETA/OMG/Ditto/Hype Boy/Attention plus Japanese 'Bubble Gum' and 'How Sweet'. The speech quote is from NoCut News.",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=Y5ArLNBfvkc"
     }
@@ -6181,6 +6190,8 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
+      "https://x.com/NewJeans_jp/status/1855218781162987594",
+      "https://www.excite.co.jp/news/article/Cinra_202411_whn_withmusic_edteam/",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
@@ -6189,7 +6200,7 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "日本テレビ系『with MUSIC』に出演し、「OMG」を披露した。この番組3度目の出演で、この回にはいきものがかり、Omoinotake、松下洸平、wacciが出演した。",
       "en": "NewJeans made their third appearance on Nippon TV's with MUSIC, performing 'OMG'. The episode also featured Ikimonogakari, Omoinotake, Kohei Matsushita and wacci."
@@ -6198,7 +6209,7 @@
       "broadcaster": "Nippon TV",
       "program": "with MUSIC"
     },
-    "editor_note": "公式YouTube動画なし: NTV does not publish with MUSIC performances on YouTube; no official upload found",
+    "editor_note": "公式YouTube動画なし: NTV does not publish with MUSIC performances on YouTube; no official upload found / 2026-10-24 nightly: Official @NewJeans_jp X post (fxtwitter, 2024-11-09 21:00 JST, #withMUSIC) confirms the appearance. CINRA's program listing (via Excite) gives the 2024-11-09 19:56 broadcast with NewJeans performing 'OMG' alongside Ikimonogakari, Omoinotake, wacci and Kohei Matsushita (who also performed, besides being the regular navigator).",
     "image": {
       "url": "https://pbs.twimg.com/media/Gb8OM_wasAA9I-y.jpg?name=orig",
       "source_url": "https://x.com/NewJeans_jp/status/1855218781162987594"
@@ -6219,11 +6230,14 @@
       "en": "Nino-san (NTV)"
     },
     "summary": {
-      "ja": "二宮和也の『ニノさん』初の2時間SPにゲスト出演し、「目が合っちゃダメよチャレンジ」などに挑んだ日本のバラエティ初出演回。",
-      "en": "NewJeans' first Japanese variety appearance, guesting on Nino-san's first two-hour special with challenge games against the cast."
+      "ja": "二宮和也の『ニノさん』の金曜枠初の2時間SPにゲスト出演し、日本のバラエティ番組に初めて出演した。",
+      "en": "NewJeans made their first Japanese variety-show appearance as guests on the first two-hour special of Nino-san in its Friday slot."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.thefirsttimes.jp/?p=517192",
+      "https://mdpr.jp/k-enta/4425870"
+    ],
     "media": {
       "type": "none"
     },
@@ -6231,10 +6245,10 @@
       "japan-tv",
       "variety"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "日本テレビ系で19時から20時54分に放送された、二宮和也がMCを務めるバラエティ番組『ニノさん』初の2時間SPにゲスト出演した。日本のバラエティ番組への出演はこれが初めてで、同じブロックのゲストは有岡大貴（Hey! Say! JUMP）とヒコロヒー。「NewJeansの今一番気になるモノ」のコーナーや、「目が合っちゃダメよチャレンジ」などの対決企画に参加した。",
-      "en": "NewJeans guested on the first two-hour special of Nippon TV's variety show Nino-san, hosted by Kazunari Ninomiya and aired from 7:00 to 8:54 pm, their first appearance on a Japanese variety show. Daiki Arioka (Hey! Say! JUMP) and Hikorohee shared the block. Segments included 'NewJeans' most intriguing things right now' and the 'don't make eye contact' challenge contest."
+      "ja": "日本テレビ系で19時から20時54分に放送された、二宮和也がMCを務めるバラエティ番組『ニノさん』の金曜よる枠初の2時間SPにゲスト出演した。日本のバラエティ番組への出演はこれが初めてで、NewJeansのブロックには有岡大貴（Hey! Say! JUMP）とヒコロヒーが加わった。メンバーそれぞれの特技の披露、街の人の質問に答える「カプセルトーク」、「NewJeans VSニノさん！ 絆を試す3番勝負！」、番組恒例のラストゲーム「目が合ったらダメよチャレンジ」などに参加した。",
+      "en": "NewJeans guested on the first two-hour special in the Friday slot of Nippon TV's variety show Nino-san, hosted by Kazunari Ninomiya and aired from 7:00 to 8:54 pm, their first appearance on a Japanese variety show. Daiki Arioka (Hey! Say! JUMP) and Hikorohee joined the NewJeans block. The members showed off their individual talents and took part in the 'Capsule Talk' corner answering questions from people on the street, a three-game team battle against the Nino-san side, and the show's regular closing game, the 'don't make eye contact' challenge."
     },
     "credits": {
       "broadcaster": "Nippon TV",
@@ -6244,7 +6258,7 @@
       },
       "host": "Kazunari Ninomiya"
     },
-    "editor_note": "公式YouTube動画なし: NTV has no official Nino-san clip of NewJeans on YouTube (only news-aggregator uploads)",
+    "editor_note": "公式YouTube動画なし: NTV has no official Nino-san clip of NewJeans on YouTube (only news-aggregator uploads) / 2026-10-24 nightly: Nippon TV's pre-broadcast release (THE FIRST TIMES and Modelpress, 2024-11-14, photos credited Nippon TV) confirms the 11/15 (Fri) 19:00–20:54 two-hour special, NewJeans' first Japanese variety appearance, the NewJeans block guests Arioka and Hikorohee, and the corners 'Capsule Talk', 'NewJeans VSニノさん！ 絆を試す3番勝負！' and the closing game 「目が合ったらダメよチャレンジ」. Corrected the game name (was 目が合っちゃダメよ), removed the unconfirmed corner 'NewJeansの今一番気になるモノ', and qualified 'first two-hour special' as the first in the Friday 7 pm slot (per Modelpress). No official NTV video exists.",
     "image": {
       "url": "https://img-mdpr.freetls.fastly.net/article/6gt-/nm/6gt-0Lz3RW2wqLBCGIvZmhVty__t2P1j3ST5Ubivuvo.jpg",
       "source_url": "https://mdpr.jp/k-enta/4425870"
@@ -6265,11 +6279,12 @@
       "en": "2024 Korea Grand Music Awards"
     },
     "summary": {
-      "ja": "第1回『Korea Grand Music Awards』初日で大賞のグランドアーティストを受賞、ハニが司会も務め、4曲を披露。",
-      "en": "NewJeans won the Grand Artist Daesang at the inaugural Korea Grand Music Awards, where Hanni co-hosted and the group performed four songs."
+      "ja": "第1回『Korea Grand Music Awards』初日で大賞のグランドアーティストとベストアーティスト10を受賞、ハニが司会を務め、4曲を披露。",
+      "en": "NewJeans won the Grand Artist Daesang and a Best Artist 10 award at the inaugural Korea Grand Music Awards, where Hanni co-hosted and the group performed four songs."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
+      "https://isplus.com/article/view/isp202411160382",
       "https://en.wikipedia.org/wiki/NewJeans",
       "https://www.youtube.com/watch?v=KREKSUPia3k",
       "https://www.youtube.com/watch?v=mZeRbgRF2H0",
@@ -6282,21 +6297,22 @@
     "tags": [
       "award-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "仁川のINSPIREアリーナで開かれた日刊スポーツ主催の第1回『Korea Grand Music Awards』初日に、大賞のグランドアーティストと本賞のベストアーティストを受賞した。ベストソング（「Super Shy」）と今年のトレンド（K-POPグループ）にもノミネート。初日の司会はナム・ジヒョンとハニが務めた。NewJeansは「Right Now」「Bubble Gum」「How Sweet」「Supernatural」の4曲を披露し、授賞式はKisweとWavveで配信された。",
-      "en": "On day one of the inaugural Korea Grand Music Awards, organized by Ilgan Sports at Inspire Arena in Incheon, NewJeans won the Grand Artist (Daesang) and a Best Artist bonsang, with further nominations for Best Song ('Super Shy') and Trend of the Year (K-pop Group). Nam Ji-hyun and Hanni hosted day one. The group performed 'Right Now', 'Bubble Gum', 'How Sweet' and 'Supernatural', and the show streamed on Kiswe and Wavve."
+      "ja": "仁川のINSPIREアリーナで開かれた日刊スポーツ主催の第1回『Korea Grand Music Awards』初日（アーティストデー）に、大賞のグランドアーティストと本賞のベストアーティスト10を受賞した。初日の司会はナム・ジヒョンとハニが務めた。NewJeansは「Right Now」「Bubble Gum」「How Sweet」「Supernatural」の4曲を披露し、授賞式はENAで生中継され、WavveとKisweでも配信された。",
+      "en": "On day one (Artist Day) of the inaugural Korea Grand Music Awards, organized by Ilgan Sports at Inspire Arena in Incheon, NewJeans won the Grand Artist (Daesang) and a Best Artist 10 award. Nam Ji-hyun and Hanni hosted day one. The group performed 'Right Now', 'Bubble Gum', 'How Sweet' and 'Supernatural'; the ceremony aired live on ENA and streamed on Wavve and Kiswe."
     },
     "credits": {
       "venue": "Inspire Arena, Incheon",
       "organizer": "Ilgan Sports",
+      "broadcaster": "ENA",
       "host": "Nam Ji-hyun, Hanni",
       "streaming": "Kiswe, Wavve"
     },
     "links": {
       "youtube": "https://www.youtube.com/watch?v=-hyQdASWNnY"
     },
-    "editor_note": "公式動画: ENA 이엔에이「[#2024KGMA] NewJeans(뉴진스) - Right now + Bubble gum + How sweet + Supernatural | #뉴진스 | ENA 241116」(2024-12-08); 関連3本をreference_urlsに記載"
+    "editor_note": "公式動画: ENA 이엔에이「[#2024KGMA] NewJeans(뉴진스) - Right now + Bubble gum + How sweet + Supernatural | #뉴진스 | ENA 241116」(2024-12-08); 関連3本をreference_urlsに記載 / 2026-10-24 nightly: Organizer Ilgan Sports' own wrap-up (isplus.com, 2024-11-16 22:13 KST) confirms the date, venue, Hanni and Nam Ji-hyun as day-one MCs and the Grand Artist award; the day-one winners list (Breaknews 2024-11-17) includes NewJeans in Best Artist 10. ENA live broadcast with Wavve and Kiswe streaming confirmed by Ilgan Sports pre-event reports. Setlist confirmed by the broadcaster's official ENA upload (-hyQdASWNnY; dateText Dec 9, 2024 KST, not Dec 8 as in the earlier note). Removed the nominations for Best Song ('Super Shy') and Trend of the Year, which were not confirmed from any source found; added broadcaster ENA to credits."
   },
   {
     "id": "tv-2024-11-27-superman-returns-minji",
@@ -6337,8 +6353,8 @@
       "variety",
       "kbs"
     ],
-    "verified": false,
-    "editor_note": "KBS confirmed the appearance on 28 Oct 2024 (Sports Kyunghyang); broadcast date 27 Nov (Wed) and episode number 550 per Sports Donga 2024-11-26. / Source is a press report (Daum News); not confirmed against an official page."
+    "verified": true,
+    "editor_note": "KBS confirmed the appearance on 28 Oct 2024 (Sports Kyunghyang); broadcast date 27 Nov (Wed) and episode number 550 per Sports Donga 2024-11-26. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: KBS's own confirmation of the booking is quoted in Sports Kyunghyang (2024-10-28, '[공식]'); Sports Donga (2024-11-26, carried on Daum) gives the KBS 2TV broadcast on Wed Nov 27, 2024 at 20:30, episode 550 titled '너를 사랑하는 건 슈퍼내추럴', Minji's first solo variety appearance, her being a fan who had watched all the brothers' videos, the month-long 'nuna or imo' question and Eun-woo answering 'Minji nuna'. All record facts match; KBS program page itself not fetched."
   },
   {
     "id": "tv-2024-11-29-music-station-2",
@@ -6360,6 +6376,7 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
+      "https://www.oricon.co.jp/news/2356607/full/",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
@@ -6369,7 +6386,7 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "テレビ朝日系で21時から放送された『ミュージックステーション』に5人で出演し、「Ditto」と「How Sweet」を披露した。6月21日に続く2度目の出演で、「Ditto」はこの番組で初めて披露した。前日11月28日にソウルで専属契約解除を発表する記者会見を開いた翌日の出演だった。この回にはHey! Say! JUMP、BABYMONSTER、ゴスペラーズなどが出演した。",
       "en": "NewJeans appeared as a five-piece on TV Asahi's Music Station, broadcast from 9 pm, performing 'Ditto' and 'How Sweet', their second appearance on the show and the first time 'Ditto' was performed on it. It came the day after their November 28 press conference in Seoul announcing the termination of their exclusive contracts. Hey! Say! JUMP, BABYMONSTER and the Gospellers were among the other acts."
@@ -6384,7 +6401,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=GWXmvcX27UA"
     },
-    "editor_note": "公式動画: MUSIC STATION「NewJeansの ちょっとした特技が最高すぎる【Mステ】」(2024-11-29)"
+    "editor_note": "公式動画: MUSIC STATION「NewJeansの ちょっとした特技が最高すぎる【Mステ】」(2024-11-29) / 2026-10-24 nightly: TV Asahi's official MUSIC STATION YouTube channel uploaded a NewJeans clip on Nov 29, 2024 (KST, GWXmvcX27UA). Oricon (2024-11-29, program announcement) confirms the 21:00 broadcast, 'Ditto' and 'How Sweet', the group's comment that it was their second appearance and that they would perform a song new to the show, and the other acts (The Gospellers, Hey! Say! JUMP, BABYMONSTER, PEOPLE 1, Marcy). Oricon headlines it as their first Music Station appearance as five."
   },
   {
     "id": "tv-2024-11-30-best-artist-2024",
@@ -6401,11 +6418,14 @@
       "en": "Best Artist 2024 (NTV)"
     },
     "summary": {
-      "ja": "30回目の日本テレビ『ベストアーティスト2024』に初出演し、「Supernatural」を披露。",
-      "en": "NewJeans' first appearance on Nippon TV's Best Artist, performing 'Supernatural' on its 30th edition."
+      "ja": "24回目となる日本テレビ『ベストアーティスト2024』に初出演し、「Supernatural」を披露。",
+      "en": "NewJeans' first appearance on Nippon TV's Best Artist, performing 'Supernatural' on its 24th edition."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
+      "https://www.oricon.co.jp/news/2354475/full/",
+      "https://tower.jp/article/news/2024/11/29/tg004",
+      "https://animeanime.jp/article/2023/12/02/81607.html",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
@@ -6415,10 +6435,10 @@
       "japan-tv",
       "year-end"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "19時から22時54分まで日本テレビ系で生放送された『日テレ系音楽の祭典 ベストアーティスト2024』に出演し、「Supernatural」を披露した。30回目となるこの番組への出演はこれが初めてで、出演者第1弾として11月16日に発表されていた。",
-      "en": "NewJeans performed 'Supernatural' on Nippon TV's live music special Best Artist 2024, broadcast from 7:00 to 10:54 pm. It was the group's first appearance on the program, in its 30th edition; they had been announced in the first lineup on November 16."
+      "ja": "19時から22時54分まで日本テレビ系で生放送された『日テレ系音楽の祭典 ベストアーティスト2024』に出演し、21時台に「Supernatural」を披露した。2001年に始まり24回目となるこの番組への出演はこれが初めてで、出演者第1弾として11月16日に発表されていた。",
+      "en": "NewJeans performed 'Supernatural' in the 9 pm block of Nippon TV's live music special Best Artist 2024, broadcast from 7:00 to 10:54 pm. It was the group's first appearance on the program, which began in 2001 and was in its 24th edition; they had been announced in the first lineup on November 16."
     },
     "credits": {
       "broadcaster": "Nippon TV",
@@ -6427,7 +6447,7 @@
         "en": "Best Artist 2024"
       }
     },
-    "editor_note": "公式YouTube動画なし: NTV does not publish Best Artist performances on YouTube; no official upload found"
+    "editor_note": "公式YouTube動画なし: NTV does not publish Best Artist performances on YouTube; no official upload found / 2026-10-24 nightly: Oricon (2024-11-16, Nippon TV's first-lineup announcement) lists NewJeans among the first 16 acts for the 11/30 19:00–22:54 broadcast and states the program began in 2001 and this was its 24th edition, so '30th' in the record was wrong and was corrected to 24th. The timetable released on 2024-11-29 (Tower Records news) places NewJeans 'Supernatural' in the 21:00 block. First appearance supported by the 2023 edition's announced line-up (Anime!Anime! 2023-12-02) not including NewJeans."
   },
   {
     "id": "tv-2024-12-04-fns-music-festival-2024",
@@ -6449,6 +6469,9 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
+      "https://x.com/fns_kayousai/status/1864268159924228296",
+      "https://www.thefirsttimes.jp/?p=529884",
+      "https://realsound.jp/2024/11/post-1845836.html",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
@@ -6458,7 +6481,7 @@
       "japan-tv",
       "year-end"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "18時30分から23時28分までフジテレビ系で生放送された『2024 FNS歌謡祭』第1夜に出演し、タイムテーブルでは20時台に「How Sweet」、21時台に「Ditto」を披露した。司会は相葉雅紀と井上清華アナウンサー。同じ年の夏の『FNS歌謡祭 夏』に続く出演。",
       "en": "NewJeans appeared on the first night of Fuji TV's 2024 FNS Music Festival, broadcast live from 6:30 to 11:28 pm, performing 'How Sweet' in the 8 pm block and 'Ditto' in the 9 pm block per the published timetable. Masaki Aiba and announcer Sayaka Inoue hosted, and the appearance followed the group's slot on the summer edition."
@@ -6471,7 +6494,7 @@
       },
       "host": "Masaki Aiba, Sayaka Inoue"
     },
-    "editor_note": "公式YouTube動画なし: Fuji TV does not publish FNS performances on YouTube; no official upload found",
+    "editor_note": "公式YouTube動画なし: Fuji TV does not publish FNS performances on YouTube; no official upload found / 2026-10-24 nightly: Fuji TV's official @fns_kayousai X post (fxtwitter, 2024-12-04 20:19 JST) thanks NewJeans for 'How Sweet' and says 'Ditto' is still to come. The day's timetable (THE FIRST TIMES, 2024-12-04) confirms Night 1 on 12/04 18:30–23:28, hosts Masaki Aiba and Sayaka Inoue, 'How Sweet' around 20:00 and 'Ditto' around 21:00. Real Sound (2024-11-20, second lineup announcement) describes NewJeans as appearing again after the summer edition.",
     "image": {
       "url": "https://pbs.twimg.com/media/Gd8z6nnaAAAun0E.jpg?name=orig",
       "source_url": "https://x.com/fns_kayousai/status/1864268159924228296"
@@ -6628,8 +6651,8 @@
       "en": "2024 SBS Gayo Daejeon"
     },
     "summary": {
-      "ja": "仁川INSPIREアリーナでの『2024 SBS歌謡大典』冬編で「Ditto（250 remix）」「Cookie」「Hype Boy」を披露。",
-      "en": "NewJeans performed the 250 remix of 'Ditto', 'Cookie' and 'Hype Boy' at the winter 2024 SBS Gayo Daejeon."
+      "ja": "仁川INSPIREアリーナでの『2024 SBS歌謡大典』で「Ditto（250 remix）」「Cookie」「Hype Boy」を披露。",
+      "en": "NewJeans performed the 250 remix of 'Ditto', 'Cookie' and 'Hype Boy' at the 2024 SBS Gayo Daejeon in December."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
@@ -6644,10 +6667,10 @@
     "tags": [
       "year-end"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "仁川のINSPIREアリーナで開かれた『2024 SBS歌謡大典』冬編に出演し、「Ditto（250 remix）」「Cookie」「Hype Boy」を披露した。SBSが生中継し、司会はNCTのドヨン、TOMORROW X TOGETHERのヨンジュン、IVEのアン・ユジン。",
-      "en": "NewJeans performed 'Ditto' (250 remix), 'Cookie' and 'Hype Boy' at the 2024 SBS Gayo Daejeon Winter at Inspire Arena in Incheon. SBS broadcast the show live, with Doyoung (NCT), Yeonjun (Tomorrow X Together) and An Yu-jin (Ive) hosting."
+      "ja": "仁川のINSPIREアリーナで開かれた『2024 SBS歌謡大典』に出演し、「Ditto（250 remix）」「Cookie」「Hype Boy」を披露した。SBSが生中継し、司会はNCTのドヨン、TOMORROW X TOGETHERのヨンジュン、IVEのアン・ユジン。",
+      "en": "NewJeans performed 'Ditto' (250 remix), 'Cookie' and 'Hype Boy' at the 2024 SBS Gayo Daejeon at Inspire Arena in Incheon. SBS broadcast the show live, with Doyoung (NCT), Yeonjun (Tomorrow X Together) and An Yu-jin (Ive) hosting."
     },
     "credits": {
       "broadcaster": "SBS",
@@ -6657,7 +6680,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=utGcrIdSQXE"
     },
-    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) - Ditto (250 Remix) + Cookie + Hype Boy @가요대전 GayoDaejeon 20241225」(2024-12-25); 関連2本をreference_urlsに記載"
+    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) - Ditto (250 Remix) + Cookie + Hype Boy @가요대전 GayoDaejeon 20241225」(2024-12-25); 関連2本をreference_urlsに記載 / 2026-10-24 nightly: Setlist and date confirmed by SBS's official uploads (SBSKPOP X INKIGAYO 'NewJeans (뉴진스) - Ditto (250 Remix) + Cookie + Hype Boy @가요대전 GayoDaejeon 20241225' and the FullCam, plus SBS Entertainment) — all uploaded Dec 26, 2024 KST per the youtubei next API (the earlier note's 2024-12-25 was the stage date). Venue Inspire Arena on Dec 25 per YTN (2024-12-12, YG statement) and OSEN (2024-12-26); MCs Doyoung, Yeonjun and An Yu-jin per OSEN/MHN. Removed the 'Winter' (冬編) label, which was not found in SBS's own titles."
   },
   {
     "id": "tv-2024-12-27-asia-artist-awards-2024",
@@ -6674,11 +6697,14 @@
       "en": "2024 Asia Artist Awards"
     },
     "summary": {
-      "ja": "『2024 Asia Artist Awards』で3年連続の大賞となる今年のアーティスト賞など3冠、3曲を披露。",
-      "en": "NewJeans took a third straight AAA Daesang, Artist of the Year, plus two more awards in Bangkok, performing three songs."
+      "ja": "『2024 Asia Artist Awards』で3年連続の大賞となる今年の歌手賞など3冠、3曲を披露。",
+      "en": "NewJeans took a third straight AAA Daesang, Singer of the Year, plus two more awards in Bangkok, performing three songs."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
+      "https://www.asiaartistawards.com/winner/2024",
+      "https://sports.khan.co.kr/article/202412280907003",
+      "https://www.hankookilbo.com/News/Read/A2024122719140000473",
       "https://www.youtube.com/watch?v=cVm3RZCfP88",
       "https://www.youtube.com/watch?v=lL7UIUYRJ2I"
     ],
@@ -6689,10 +6715,10 @@
     "tags": [
       "award-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "タイ・バンコクのインパクト・チャレンジャーホールで開かれた『2024 Asia Artist Awards』で、大賞の今年のアーティスト賞（歌手部門）、ベストアーティスト賞（音楽部門）、ベストパフォーマンス賞（「How Sweet」）を受賞した。大賞受賞は3年連続。ステージでは「Bubble Gum」「Supernatural」「How Sweet」を披露。司会はリュ・ジュンヨル、チャン・ウォニョン、ソン・ハンビンで、韓国ではMTN、世界ではWeverse、日本ではU-NEXTが配信した。",
-      "en": "At the 2024 Asia Artist Awards at Impact Challenger Hall in Bangkok, NewJeans won the Artist of the Year (Singer) grand prize, their third consecutive AAA Daesang, plus the Best Artist Award (Music) and the Best Performance Award for 'How Sweet', and performed 'Bubble Gum', 'Supernatural' and 'How Sweet'. Ryu Jun-yeol, Jang Won-young and Sung Han-bin hosted; the show aired on MTN in Korea, Weverse worldwide and U-NEXT in Japan."
+      "ja": "タイ・バンコクのインパクト・チャレンジャーホールで開かれた『2024 Asia Artist Awards』で、大賞の今年の歌手賞、ベストアーティスト賞、ベストパフォーマンス賞を受賞した。大賞受賞は3年連続。ステージでは「Bubble Gum」「Supernatural」「How Sweet」を披露。司会はリュ・ジュンヨル、チャン・ウォニョン、ソン・ハンビンで、韓国ではMTN、世界ではWeverse、日本ではU-NEXTが配信した。",
+      "en": "At the 2024 Asia Artist Awards at Impact Challenger Hall in Bangkok, NewJeans won the Singer of the Year grand prize, their third consecutive AAA Daesang, plus the Best Artist Award and the Best Performance Award, and performed 'Bubble Gum', 'Supernatural' and 'How Sweet'. Ryu Jun-yeol, Jang Won-young and Sung Han-bin hosted; the show aired on MTN in Korea, Weverse worldwide and U-NEXT in Japan."
     },
     "credits": {
       "venue": "Impact Challenger Hall, Bangkok",
@@ -6702,7 +6728,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=9Wcpn-ppdsI"
     },
-    "editor_note": "公式動画: ASIA ARTIST AWARDS 스타뉴스「[#AAA2024] NEWJEANS(뉴진스) - 'Bubble Gum + Supernatural + How Sweet' Broadcast Stage | Official Video」(2025-01-02); 関連2本をreference_urlsに記載"
+    "editor_note": "公式動画: ASIA ARTIST AWARDS 스타뉴스「[#AAA2024] NEWJEANS(뉴진스) - 'Bubble Gum + Supernatural + How Sweet' Broadcast Stage | Official Video」(2025-01-02); 関連2本をreference_urlsに記載 / 2026-10-24 nightly: Organizer Star News' official ASIA ARTIST AWARDS channel uploads confirm the stage ('Bubble Gum + Supernatural + How Sweet', 9Wcpn-ppdsI dated Jan 3, 2025 KST; full-perf cam premiered Dec 28, 2024; red carpet Dec 27, 2024). Sports Kyunghyang and Hankook Ilbo (2024-12-28, photo from the AAA organizing committee) confirm date (Dec 27, 19:00 KST), venue IMPACT Challenger Hall 1-2, MCs, and NewJeans' Singer of the Year (올해의 가수) Daesang, Best Artist and Best Performance; Ilgan Sports/Star News headlines confirm a third consecutive AAA Daesang. Star News pre-event reports confirm MTN, Weverse and U-NEXT (Japan). The winners lists give Best Performance to NewJeans without a song, so 'for How Sweet' was removed; award names corrected to match the lists (the Daesang is 올해의 가수 'Singer of the Year', not 'Artist of the Year'). The organizer's official winners page (asiaartistawards.com/winner/2024) lists NewJeans under 대상 올해의 가수, 베스트 아티스트 and 베스트 퍼포먼스 (no song named), confirming the corrections."
   },
   {
     "id": "tv-2024-12-28-ntv-music-award-2024",
@@ -6724,6 +6750,10 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
+      "https://www.oricon.co.jp/news/2361507/full/",
+      "https://www.oricon.co.jp/news/2359088/full/",
+      "https://www.oricon.co.jp/news/2261529/full/",
+      "https://realsound.jp/2023/12/post-1520614.html",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
@@ -6733,10 +6763,10 @@
       "japan-tv",
       "year-end"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "ホテルニューオータニ幕張から19時に日本テレビ系で生放送された『発表！今年イチバン聴いた歌～年間ミュージックアワード2024～』に3年連続で出演した。MCは上白石萌音と池田エライザ。ストリーミングのランキングデータをもとに14組が50曲を歌う構成で、NewJeansは21時台の枠に編成された。",
-      "en": "NewJeans appeared for a third consecutive year on Nippon TV's live year-end special Happyo! Kotoshi Ichiban Kiita Uta: Nenkan Music Award 2024, broadcast from 7 pm from Hotel New Otani Makuhari and hosted by Mone Kamishiraishi and Elaiza Ikeda. Fourteen acts performed 50 songs selected from streaming data, with NewJeans scheduled in the 9 pm block."
+      "ja": "千葉・ホテルニューオータニ幕張から19時から22時54分まで日本テレビ系で生放送された『発表！今年イチバン聴いた歌～年間ミュージックアワード2024～』に3年連続で出演した。MCは上白石萌音と池田エライザ。サブスクのランキングデータをもとに今年最も聴かれた曲・アーティストを発表する番組で、NewJeansは21時台の枠に編成された。",
+      "en": "NewJeans appeared for a third consecutive year on Nippon TV's live year-end special Happyo! Kotoshi Ichiban Kiita Uta: Nenkan Music Award 2024, broadcast from 7:00 to 10:54 pm from Hotel New Otani Makuhari in Chiba and hosted by Mone Kamishiraishi and Elaiza Ikeda. The program presents the year's most-streamed songs and artists based on subscription ranking data, and NewJeans were scheduled in the 9 pm block."
     },
     "credits": {
       "broadcaster": "Nippon TV",
@@ -6746,7 +6776,7 @@
       },
       "host": "Mone Kamishiraishi, Elaiza Ikeda"
     },
-    "editor_note": "Songs performed not confirmed from sources found. / 公式YouTube動画なし: NTV does not publish performance clips on YouTube; no official upload found"
+    "editor_note": "Songs performed not confirmed from sources found. / 公式YouTube動画なし: NTV does not publish performance clips on YouTube; no official upload found / 2026-10-24 nightly: Nippon TV's timetable (Oricon 2024-12-28, image credited Nippon TV) confirms the 12/28 19:00–22:54 live broadcast from Hotel New Otani Makuhari, MCs Kamishiraishi and Ikeda, and NewJeans in the 9 pm block; lineup announcement Oricon 2024-12-14. Third consecutive year supported by the 2022 (Oricon 2022-12-21) and 2023 (Real Sound 2023-12-16) line-ups. The claim '14 acts performing 50 songs' could not be found (the final line-up had over 20 acts) and was removed; broadcast end time added. Songs performed still not confirmed."
   },
   {
     "id": "tv-2024-12-30-japan-record-awards-66",
@@ -6763,11 +6793,14 @@
       "en": "66th Japan Record Awards"
     },
     "summary": {
-      "ja": "『第66回輝く！日本レコード大賞』で「Supernatural」が2年連続の優秀作品賞を受賞、チェジュ航空機事故の喪章を付けて同曲を披露。",
-      "en": "'Supernatural' won NewJeans a second straight Excellent Work Award at the 66th Japan Record Awards, performed while wearing mourning ribbons for the Jeju Air crash."
+      "ja": "『第66回輝く！日本レコード大賞』で「Supernatural」が2年連続の優秀作品賞を受賞、チェジュ航空機事故を悼む黒いリボンを付けて同曲を披露。",
+      "en": "'Supernatural' won NewJeans a second straight Excellent Work Award at the 66th Japan Record Awards, performed while wearing black mourning ribbons for the Jeju Air crash."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
+      "https://mdpr.jp/music/detail/4462699",
+      "https://isplus.com/article/view/isp202412310005",
+      "http://news.mt.co.kr/mtview.php?no=2024123020255019399",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
@@ -6777,10 +6810,10 @@
       "japan-tv",
       "award-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "東京・新国立劇場で開かれた『第66回輝く！日本レコード大賞』で、日本デビュー曲「Supernatural」により2年連続の優秀作品賞を受賞し、同曲を披露した。前日12月29日の務安国際空港でのチェジュ航空機事故を受けて韓国政府が国家哀悼期間を指定したため、韓国のアーティストは喪章を付けて出演した。ヘインは最近覚えた日本語のフレーズを披露した。TBS系で17時30分から22時まで生放送され、総合司会は安住紳一郎と川口春奈。",
-      "en": "At the 66th Japan Record Awards at the New National Theatre in Tokyo, NewJeans received the Excellent Work Award for their Japanese debut single 'Supernatural', their second consecutive year, and performed the song. Because the South Korean government had declared a national mourning period after the Jeju Air crash at Muan on December 29, Korean artists appeared wearing mourning ribbons. Hyein shared a recently learned Japanese phrase. TBS broadcast the ceremony live from 5:30 to 10:00 pm, hosted by Shinichiro Azumi and Haruna Kawaguchi."
+      "ja": "東京・新国立劇場で開かれた『第66回輝く！日本レコード大賞』で、日本デビュー曲「Supernatural」により2年連続の優秀作品賞を受賞し、同曲を披露した。前日12月29日に務安国際空港で起きたチェジュ航空機事故を受け、メンバーは襟に黒いリボンを付けて出演した。パフォーマンス前のトークでは、ヘリンが最近覚えた日本語として「右・左」を挙げた。TBS系で17時30分から22時まで生放送され、総合司会は安住紳一郎と川口春奈。",
+      "en": "At the 66th Japan Record Awards at the New National Theatre in Tokyo, NewJeans received the Excellent Work Award for their Japanese debut single 'Supernatural', their second consecutive year, and performed the song. Following the Jeju Air crash at Muan International Airport the day before, December 29, the members appeared with black mourning ribbons on their collars. In the talk before the performance, Haerin said the Japanese words she had recently learned were 'migi' and 'hidari' (right and left). TBS broadcast the ceremony live from 5:30 to 10:00 pm, hosted by Shinichiro Azumi and Haruna Kawaguchi."
     },
     "credits": {
       "broadcaster": "TBS",
@@ -6788,7 +6821,7 @@
       "organizer": "Japan Composer's Association",
       "host": "Shinichiro Azumi, Haruna Kawaguchi"
     },
-    "editor_note": "公式YouTube動画なし: TBS does not publish Japan Record Awards performances on YouTube; no official upload found"
+    "editor_note": "公式YouTube動画なし: TBS does not publish Japan Record Awards performances on YouTube; no official upload found / 2026-10-24 nightly: Modelpress on-site report (2024-12-30 21:20) confirms the TBS 17:30–22:00 live broadcast from the New National Theatre, the Excellent Work Award for 'Supernatural' (second straight after 'Ditto' in 2023) and the performance; it attributes the 'recently learned Japanese' talk ('右・左') to HAERIN, not Hyein, so the member was corrected. Ilgan Sports (2024-12-31, quoting ADOR's statement) and Money Today (2024-12-30) confirm the members wore black ribbons and posted 'In sincere condolences 애도의 마음을 담아'; the record's generalization that all Korean artists wore ribbons because of the government mourning period was not confirmed and was narrowed to NewJeans. Hosts Azumi and Kawaguchi per TBS announcements (Oricon/THE FIRST TIMES)."
   },
   {
     "id": "tv-2025-01-06-golden-disc-awards-39",
@@ -6854,11 +6887,14 @@
       "en": "2024 MBC Gayo Daejejeon (postponed broadcast)"
     },
     "summary": {
-      "ja": "チェジュ航空機事故で延期・事前収録となった『2024 MBC歌謡大祭典』で、放送順2番目に「Attention」を披露。",
-      "en": "NewJeans performed 'Attention' second in the running order of the 2024 MBC Gayo Daejejeon, postponed and pre-recorded after the Jeju Air crash."
+      "ja": "チェジュ航空機事故で延期・録画放送となった『2024 MBC歌謡大祭典』第1部で、序盤のデビュー曲ステージとして「Attention」を披露。",
+      "en": "NewJeans performed 'Attention' in the opening debut-song stages of part 1 of the 2024 MBC Gayo Daejejeon, postponed and aired as a recording after the Jeju Air crash."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
+      "https://www.heraldpop.com/article/10408466",
+      "https://www.heraldpop.com/article/10408486",
+      "https://www.xportsnews.com/article/1955828",
       "https://ko.wikipedia.org/wiki/NewJeans_라이브_공연_목록",
       "https://www.youtube.com/watch?v=KIEYykVoblw",
       "https://www.youtube.com/watch?v=t0D5nhylt44",
@@ -6874,11 +6910,11 @@
     "tags": [
       "year-end"
     ],
-    "verified": false,
-    "editor_note": "Originally scheduled Dec 31, 2024; delayed due to the Jeju Air Flight 2216 accident. | Second set (order 30) per en.wikipedia MBC Gayo Daejejeon page; which night it aired not confirmed. / 公式動画: MBCkpop「[2024 MBC 가요대제전] NewJeans - Right Now (Jazz Ver.) + Dance Break + How Sweet + Hurt, MBC 250129 방송」(2025-01-29); 関連6本をreference_urlsに記載",
+    "verified": true,
+    "editor_note": "Originally scheduled Dec 31, 2024; delayed due to the Jeju Air Flight 2216 accident. | Second set (order 30) per en.wikipedia MBC Gayo Daejejeon page; which night it aired not confirmed. / 公式動画: MBCkpop「[2024 MBC 가요대제전] NewJeans - Right Now (Jazz Ver.) + Dance Break + How Sweet + Hurt, MBC 250129 방송」(2025-01-29); 関連6本をreference_urlsに記載 / 2026-10-24 nightly: MBC's official MBCkpop uploads (youtubei next API, KST) dated Jan 29, 2025 cover both sets: '어텐션 ... MBC 250129 방송' and 'Right Now (Jazz Ver.) + Dance Break + How Sweet + Hurt, MBC 250129 방송', so both aired on Jan 29 (part 1); the Right Now fullcam is labelled MBC241231 (recording date label). Herald POP (2025-01-29, two articles) confirms the switch to a recorded broadcast due to the national mourning period, part 1 on the 29th, MCs Yoona/Minho/Dohoon, the opening DAY6 collaboration followed by the debut-song stages of NewJeans, IVE and (G)I-DLE, and that NewJeans were introduced under that name with the name shown on stage; Star News/Celeb Media confirm part 2 on Jan 30. 'Second in the running order' (en.wikipedia) was softened to 'early in part 1'; 'pre-recorded' wording replaced with 'recorded broadcast'; program subtitle WANNABE added.",
     "detail": {
-      "ja": "『2024 MBC歌謡大祭典』は当初2024年12月31日の生放送が予定されていたが、前日のチェジュ航空機事故を受けて中止され、事前収録のうえ1月29日と30日の旧正月連休に放送された。司会はユナ（少女時代）、ミンホ（SHINee）、ドフン（TWS）。NewJeansは放送順2番目に登場して「Attention」を披露し、司会はグループ名「NewJeans」で紹介し、画面にもグループ名が表示された。番組後半には「Right Now（Jazz ver.）」「How Sweet」「Hurt」のステージも編成された。",
-      "en": "The 2024 MBC Gayo Daejejeon, originally scheduled for live broadcast on December 31, 2024, was cancelled after the Jeju Air crash the day before, then pre-recorded and aired on January 29 and 30 during the Lunar New Year holiday, hosted by Yoona (Girls' Generation), Minho (Shinee) and Dohoon (TWS). NewJeans appeared second in the running order with 'Attention'; the hosts introduced them as NewJeans and the group name was shown on screen. A later block of the program included 'Right Now' (Jazz ver.), 'How Sweet' and 'Hurt'."
+      "ja": "『2024 MBC歌謡大祭典 WANNABE』は当初2024年12月31日の生放送が予定されていたが、チェジュ航空機事故による国家哀悼期間を受けて録画放送に切り替えられ、1月29日に第1部、30日に第2部が旧正月連休に放送された。司会はユナ（少女時代）、ミンホ（SHINee）、ドフン（TWS）。NewJeansは第1部の序盤、IVE、(G)I-DLEとともに「ワナビー」スターたちのデビュー曲を披露するブロックで「Attention」を歌い、グループ名「NewJeans」で紹介され、ステージにもグループ名が掲げられた。同じ第1部では「Right Now（Jazz ver.）」「How Sweet」「Hurt」のステージも放送された。",
+      "en": "The 2024 MBC Gayo Daejejeon WANNABE, originally scheduled for live broadcast on December 31, 2024, was switched to a recorded broadcast because of the national mourning period after the Jeju Air crash, airing in two parts on January 29 and 30 during the Lunar New Year holiday, hosted by Yoona (Girls' Generation), Minho (Shinee) and Dohoon (TWS). Early in part 1, in a block of debut-song stages by 'wannabe' stars NewJeans, Ive and (G)I-dle, NewJeans performed 'Attention'; they were introduced as NewJeans and the group name was displayed on the stage. Part 1 also featured their stages of 'Right Now' (Jazz ver.), 'How Sweet' and 'Hurt'."
     },
     "credits": {
       "broadcaster": "MBC",
@@ -6920,7 +6956,7 @@
       "njz"
     ],
     "verified": false,
-    "editor_note": "Published by CNN Style Feb 6–7, 2025 (US/KST); exact CNN URL not captured. Independent activity during the dispute, before the Mar 21, 2025 injunction. | CNN article syndicated at kvia.com (Feb 6, 2025 US); Hanni's comments were by phone per the article. / 公式YouTube動画なし: CNN official channel has no upload of the NJZ interview; only re-uploads",
+    "editor_note": "Published by CNN Style Feb 6–7, 2025 (US/KST); exact CNN URL not captured. Independent activity during the dispute, before the Mar 21, 2025 injunction. | CNN article syndicated at kvia.com (Feb 6, 2025 US); Hanni's comments were by phone per the article. / 公式YouTube動画なし: CNN official channel has no upload of the NJZ interview; only re-uploads / 2026-10-24 nightly: The CNN Style article is https://www.cnn.com/2025/02/06/style/newjeans-kpop-new-name-hnk-intl ('K-pop act NewJeans unveils new identity — and a new name', by Oscar Holland), published Feb 6, 2025 US time; the syndicated copy (KVIA) carries 2025-02-07T00:05 UTC = Feb 7 09:05 KST, so the KST date is correct. Its text confirms the exclusive NJZ reveal ahead of 'Friday's announcement', Hanni's comments (by phone) on 'turning this rough period... into something more exciting' and keeping the 'essence' of the name, Danielle on weighing fan suggestions, the first performance and new song at ComplexCon Hong Kong in March, and ADOR's statement to CNN about a possible material breach. However, it was a phone interview published as a web article, not a TV broadcast, so category tv / date_type broadcast looks wrong; not changed pending a decision. The same CNN exclusive is already recorded as web-2025-02-07-cnn-njz-interview (CNN.co.jp Japanese edition, category web), and the name announcement itself as notice-2025-02-07-njz-name-announced.",
     "detail": {
       "ja": "メンバー5人がCNN（CNN Style、記者オスカー・ホランド）の独占インタビューで新しいグループ名「NJZ」を発表した。ハニは改名を困難な時期をより前向きなものに変える方法と説明し、元の名前の本質を残したと述べ、ダニエルはファンの提案を長い時間をかけて検討したと語った。3月に香港のComplexConで新名義での初ステージと新曲の披露を予定していると明かした。ADORは同じ日、法的判断前の一方的な名称の発表は専属契約の重大な違反となり得るとの声明を出した。",
       "en": "The five members announced their new group name NJZ in an exclusive interview with CNN (CNN Style, by Oscar Holland). Hanni described the renaming as a way of turning a rough period into something more exciting and said it kept the essence of the original name, while Danielle said the group had spent a long time weighing fan suggestions. They said they would perform under the new name for the first time and debut a new song at ComplexCon Hong Kong in March. ADOR responded the same day that announcing an unauthorized name before a legal ruling could constitute a material breach of the exclusive contract."
