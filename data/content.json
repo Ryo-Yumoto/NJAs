@@ -18485,12 +18485,12 @@
       "original": "[NewJeans Day🎂] Happy 3rd Anniversary🩷"
     },
     "summary": {
-      "ja": "デビュー3周年当日に公開された約20秒の記念映像。同日ADORは「NewJeans Day On-Air」として未公開写真も公開。",
-      "en": "A roughly 20-second clip for the third debut anniversary, released alongside ADOR's 'NewJeans Day On-Air' photos."
+      "ja": "デビュー3周年当日に公式YouTubeチャンネルで公開された、メンバーをイラストのキャラクターで描いた約23秒の記念映像。",
+      "en": "A roughly 23-second clip for the third debut anniversary, released on the official YouTube channel with the members drawn as animated characters."
     },
     "detail": {
-      "ja": "デビュー3周年を祝う約20秒の記念映像「Happy 3rd Anniversary」。デビュー記念日「NewJeans Day」（7月22日）の当日に公式YouTubeチャンネルで公開され、メンバー全員が登場する。同じ日、ADORは公式SNSで「NewJeans Day On-Air」として未公開写真も公開した。",
-      "en": "'Happy 3rd Anniversary', a roughly 20-second clip marking three years since debut, with all members. It went up on the official YouTube channel on NewJeans Day, the debut anniversary on July 22; the same day ADOR also posted unreleased photos on official SNS as 'NewJeans Day On-Air'."
+      "ja": "デビュー3周年を祝う約23秒の記念映像「Happy 3rd Anniversary」。デビュー記念日「NewJeans Day」（7月22日）の当日に公式YouTubeチャンネルで公開され、メンバーはアニメーションのキャラクターとして描かれている。同じ日、同チャンネルでは0時から19時まで「NewJeans Day On Air」としてビハインド映像の配信も行われた。",
+      "en": "'Happy 3rd Anniversary', a roughly 23-second clip marking three years since debut, in which the members appear as animated characters. It went up on the official YouTube channel on NewJeans Day, the debut anniversary on July 22; the same day the channel also streamed behind-the-scenes content as 'NewJeans Day On Air' from 0:00 to 19:00 KST."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -18499,7 +18499,9 @@
     "source_url": "https://www.youtube.com/watch?v=zMTPU1rvhyM",
     "reference_urls": [
       "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
-      "https://www.tenasia.co.kr/article/2025072255084"
+      "https://www.tenasia.co.kr/article/2025072243674",
+      "https://news.tf.co.kr/read/entertain/2228503.htm",
+      "https://www.youtube.com/post/UgkxlYcau7jUi9PQJ3M_R5A2fvUaN_q4p6TR"
     ],
     "media": {
       "type": "youtube",
@@ -18513,7 +18515,7 @@
       "newjeans-day"
     ],
     "verified": true,
-    "editor_note": "YouTube page (reader, US-Pacific display) shows Jul 21/22, 2025; Korean media (TenAsia 2025-07-22) report both NewJeans Day videos as released on July 22 KST."
+    "editor_note": "YouTube page (reader, US-Pacific display) shows Jul 21/22, 2025; Korean media (TenAsia 2025-07-22) report both NewJeans Day videos as released on July 22 KST. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) dateText 'Jul 22, 2025'; YouTube search API lengthText 0:23 (was 'about 20 seconds'). Thumbnail shows the five members as illustrated characters, matching The Fact 2025-07-29 ('뉴진스 멤버는 애니메이션 캐릭터로 대체됐고'); replaced 'with all members/メンバー全員が登場' accordingly. Replaced dead TenAsia /article/2025072255084 (404) with /article/2025072243674 (2025-07-22 17:09 KST), which reports the 'NewJeans Day On Air' YouTube stream 0:00-19:00 on the 22nd (also the official community post of 07-20). Dropped the claim that ADOR posted 'NewJeans Day On-Air' unreleased photos on the 22nd: those were the X countdown posts D-4 to D-1 (07-18 to 07-21; isplus/Xportsnews place the D-2 photos on 07-20; see sns-2025-07-18-3rd-anniversary-d-4-on-air). The On Air sentence now describes the stream, consistent with content-2025-07-22-youtube-newjeans-day-on-air."
   },
   {
     "id": "content-2025-07-22-newjeans-day-we-are-newjeans",
@@ -18532,12 +18534,12 @@
       "original": "[NewJeans Day🎂] We are NewJeans💫"
     },
     "summary": {
-      "ja": "デビュー3周年に公開された、デビューからの歩みをまとめた約7分の記念映像「We are NewJeans」。",
-      "en": "'We are NewJeans', a roughly seven-minute third-anniversary video looking back over the group's journey since debut."
+      "ja": "デビュー3周年に公開された、デビュー直前の2022年に撮影したメンバーのインタビューをまとめた約7分の記念映像。",
+      "en": "'We are NewJeans', a roughly seven-minute third-anniversary video built from member interviews filmed in 2022, just before debut."
     },
     "detail": {
-      "ja": "デビューからの歩みをまとめた約7分の記念映像「We are NewJeans」。デビュー3周年の「NewJeans Day」（7月22日）に合わせて公式YouTubeチャンネルで公開され、メンバー全員が登場する。",
-      "en": "'We are NewJeans', a roughly seven-minute video looking back over the group's activities since debut, with all members. Released on the official YouTube channel for NewJeans Day, the third debut anniversary on July 22."
+      "ja": "デビュー3周年の「NewJeans Day」（7月22日）に公式YouTubeチャンネルで公開された約7分の記念映像「We are NewJeans」。デビューを約1か月後に控えた2022年5月と6月に撮影されたメンバーのインタビューや当時の映像で構成され、ケーキのろうそくに火をともしてデビューを祝う場面から始まる。",
+      "en": "'We are NewJeans', a roughly seven-minute video released on the official YouTube channel for NewJeans Day, the third debut anniversary on July 22. It is made up of member interviews and footage filmed in May and June 2022, about a month before debut, and opens with the members lighting candles on a cake to celebrate their debut."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -18546,7 +18548,11 @@
     "source_url": "https://www.youtube.com/watch?v=vCLOISqUHYQ",
     "reference_urls": [
       "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0",
-      "https://www.tenasia.co.kr/article/2025072255084"
+      "https://www.tenasia.co.kr/article/2025072243674",
+      "https://news.tf.co.kr/read/entertain/2228503.htm",
+      "http://www.osen.co.kr/article/G1112619309",
+      "https://www.newsis.com/view/NISX20250723_0003263847",
+      "https://www.starnewskorea.com/music/2025/07/23/2025072311162657632"
     ],
     "media": {
       "type": "youtube",
@@ -18560,7 +18566,7 @@
       "newjeans-day"
     ],
     "verified": true,
-    "editor_note": "YouTube page (reader, US-Pacific display) shows Jul 21/22, 2025; Korean media (TenAsia 2025-07-22) report both NewJeans Day videos as released on July 22 KST."
+    "editor_note": "YouTube page (reader, US-Pacific display) shows Jul 21/22, 2025; Korean media (TenAsia 2025-07-22) report both NewJeans Day videos as released on July 22 KST. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) dateText 'Jul 22, 2025'; search API lengthText 6:57. The video is 2022 pre-debut material, not new footage: OSEN/Newsis/Newsen 2025-07-23 describe interviews filmed in May and June 2022, a month before debut; Star News 2025-07-23 says it opens with the members lighting cake candles; The Fact 2025-07-29 says it shows the 2022 debut-era members rather than 2025 (thumbnail also 2022 footage). These describe what the video shows on release day, so used for content. Replaced 'looking back over the journey since debut' and 'with all members/メンバー全員が登場'. Replaced dead TenAsia /article/2025072255084 (404) with /article/2025072243674."
   },
   {
     "id": "content-2025-07-22-youtube-newjeans-day-on-air",

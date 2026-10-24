@@ -9679,17 +9679,19 @@
       "en": "Best Artist Award at the 2024 Asia Artist Awards"
     },
     "summary": {
-      "ja": "2024 Asia Artist Awardsで、音楽部門のBest Artist賞を受賞した。",
-      "en": "NewJeans received the Best Artist Award (Music) at the 2024 Asia Artist Awards."
+      "ja": "バンコク近郊で開かれた2024 Asia Artist Awardsで、Best Artist賞を受賞した。",
+      "en": "NewJeans received the Best Artist Award at the 2024 Asia Artist Awards near Bangkok."
     },
     "detail": {
-      "ja": "2024 Asia Artist Awardsで音楽部門のBest Artist賞を受賞した。第9回の授賞式はタイ・バンコク近郊のインパクト・チャレンジャーホールで開かれ、NewJeansは歌手部門の大賞Artist of the Yearと、「How Sweet」でBest Performance賞も受賞し、「Bubble Gum」「Supernatural」「How Sweet」を披露した。",
-      "en": "NewJeans received the Best Artist Award (Music) at the 9th Asia Artist Awards, held December 27 at Impact Challenger Hall near Bangkok, Thailand. The group also won Artist of the Year (Singer, Daesang) and the Best Performance Award for 'How Sweet', and performed 'Bubble Gum', 'Supernatural' and 'How Sweet'."
+      "ja": "2024 Asia Artist AwardsでBest Artist賞を受賞した。第9回の授賞式は12月27日にタイ・バンコク近郊のインパクト・チャレンジャーホールで開かれ、NewJeansは大賞のSinger of the YearとBest Performance賞も受賞し、「Bubble Gum」「Supernatural」「How Sweet」を披露した。",
+      "en": "NewJeans won the Best Artist Award at the 9th Asia Artist Awards, held December 27 at Impact Challenger Hall near Bangkok, Thailand. The group also won the Singer of the Year grand prize and the Best Performance Award, and performed 'Bubble Gum', 'Supernatural' and 'How Sweet'."
     },
     "source_url": "https://www.asiaartistawards.com/winner/2024",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/9th_Asia_Artist_Awards",
-      "https://www.soompi.com/article/1712809wpp/winners-of-the-2024-asia-artist-awards"
+      "https://www.starnewskorea.com/stview.php?no=2024122711271637061",
+      "https://www.sportsseoul.com/news/read/1486218",
+      "https://isplus.com/article/view/isp202412280015",
+      "https://sports.khan.co.kr/article/202412280907003"
     ],
     "media": {
       "type": "none"
@@ -9698,7 +9700,7 @@
       "award"
     ],
     "verified": true,
-    "editor_note": "AAA official 2024 winners page: 뉴진스 - 베스트 아티스트."
+    "editor_note": "AAA official 2024 winners page: 뉴진스 - 베스트 아티스트. / 2026-10-24 nightly: Re-fetched https://asiaartistawards.com/winner/2024: NewJeans appears under '대상 / 올해의 가수' (Singer of the Year), '베스트 아티스트' and '베스트 퍼포먼스' (no song attached). Corrected 'Best Artist賞（音楽部門）/Best Artist Award (Music)' -> 'Best Artist Award' (no category qualifier on the organizer page), '歌手部門の大賞Artist of the Year/Artist of the Year (Singer, Daesang)' -> 'Singer of the Year' grand prize, and dropped 'How Sweet' from the Best Performance Award. Wording aligned with record-2024-12-27-aaa-2024-artist-of-the-year-daesang and record-2024-12-27-aaa-2024-best-performance-how-sweet; Wikipedia/Soompi references replaced with the same Korean press set. Title unchanged (already correct)."
   },
   {
     "id": "record-2024-12-27-aaa-2024-best-performance-how-sweet",

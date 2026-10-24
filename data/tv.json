@@ -4496,7 +4496,10 @@
     "category": "tv",
     "entity": "newjeans",
     "members": [
-      "all"
+      "minji",
+      "hanni",
+      "danielle",
+      "haerin"
     ],
     "title": {
       "ja": "KBS『Korea on Stage』景福宮",
@@ -4524,7 +4527,7 @@
       "special"
     ],
     "verified": true,
-    "editor_note": "Event date; KBS broadcast date not confirmed. | Broadcast same day at 23:15 KST per The Fact (May 2024). / 公式動画: KBS Kpop「Super Shy - New Jeans [코리아 온 스테이지 - 뉴제너레이션] | KBS 240521 방송」(2024-05-21); 関連7本をreference_urlsに記載 / 2026-10-24 nightly: KBS Kpop's official uploads (px6COR5Xpug, n_sh0TCZBfQ, 4ey8eGaz4EQ, JOa0ZY05IZI) are captioned 'KBS 240521 방송' and were uploaded May 22, 2024 KST; Ilgan Sports (2024-05-21) confirms the 7:30 pm show at Heungnyemun, Korea Heritage Service host / Korea Heritage Agency + KBS organizers, launch commemoration, Danielle as sole MC, Geunjeongjeon special stage and 142-country KBS World feed; The Fact (2024-05-16) confirms the pre-recorded 'Cool With You' Geunjeongjeon stage; press photo captions confirm Hyein's absence (foot injury) and the Ditto/ETA/Super Shy set. Broadcast time conflicts: The Fact (May 16) says 11:15 pm, while Ilgan Sports and other same-day reports say 11:25 pm, so the exact time was dropped from the detail. The claims that NewJeans closed the show and the running order were not confirmed and were removed.",
+    "editor_note": "Event date; KBS broadcast date not confirmed. | Broadcast same day at 23:15 KST per The Fact (May 2024). / 公式動画: KBS Kpop「Super Shy - New Jeans [코리아 온 스테이지 - 뉴제너레이션] | KBS 240521 방송」(2024-05-21); 関連7本をreference_urlsに記載 / 2026-10-24 nightly: KBS Kpop's official uploads (px6COR5Xpug, n_sh0TCZBfQ, 4ey8eGaz4EQ, JOa0ZY05IZI) are captioned 'KBS 240521 방송' and were uploaded May 22, 2024 KST; Ilgan Sports (2024-05-21) confirms the 7:30 pm show at Heungnyemun, Korea Heritage Service host / Korea Heritage Agency + KBS organizers, launch commemoration, Danielle as sole MC, Geunjeongjeon special stage and 142-country KBS World feed; The Fact (2024-05-16) confirms the pre-recorded 'Cool With You' Geunjeongjeon stage; press photo captions confirm Hyein's absence (foot injury) and the Ditto/ETA/Super Shy set. Broadcast time conflicts: The Fact (May 16) says 11:15 pm, while Ilgan Sports and other same-day reports say 11:25 pm, so the exact time was dropped from the detail. The claims that NewJeans closed the show and the running order were not confirmed and were removed. / 2026-10-24 nightly: members changed from ['all'] to the four members who appeared; the record's own text and the press photo captions cited in the editor note already state that Hyein (foot injury) did not take part.",
     "detail": {
       "ja": "ソウル・景福宮の興礼門前特設舞台で19時30分に開かれた『2024コリア・オン・ステージ―ニュージェネレーション』に出演し、公演は同じ日の夜にKBS 2TVで放送された。国家遺産庁の発足を記念する公演で、国家遺産庁の主催、国家遺産振興院とKBSの主管。司会はダニエルが単独で務めた。NewJeansはK-POPガールズグループとして初めて勤政殿で事前収録した「Cool With You」のスペシャルステージを見せ、会場では「Ditto」「ETA」「Super Shy」を披露した。足の甲を負傷したヘインは参加せず4人での出演で、放送はKBS Worldを通じて142か国に送出された。",
       "en": "NewJeans appeared at the 2024 Korea on Stage – New Generation concert, held at 7:30 pm on a special stage in front of Heungnyemun Gate at Gyeongbokgung Palace in Seoul and aired on KBS 2TV that night. Hosted by the Korea Heritage Service and organized by the Korea Heritage Agency and KBS to mark the agency's launch, the show was emceed solely by Danielle. NewJeans presented a 'Cool With You' special stage pre-recorded at Geunjeongjeon Hall, the first K-pop girl group to perform there, and performed 'Ditto', 'ETA' and 'Super Shy' at the venue. Hyein, with an injury to her foot, did not take part, so four members appeared. KBS World carried the broadcast to 142 countries."
@@ -4691,7 +4694,10 @@
     "category": "tv",
     "entity": "newjeans",
     "members": [
-      "all"
+      "minji",
+      "hanni",
+      "danielle",
+      "haerin"
     ],
     "title": {
       "ja": "ミュージックバンク「How Sweet」1位",
@@ -4709,7 +4715,8 @@
       "https://www.youtube.com/watch?v=fgkwEt3sCEM",
       "https://www.youtube.com/watch?v=mWG_3MTr4kc",
       "https://www.youtube.com/watch?v=KkHkn6IXhCg",
-      "https://www.youtube.com/watch?v=PJgVo3M7Sxk"
+      "https://www.youtube.com/watch?v=PJgVo3M7Sxk",
+      "http://starin.edaily.co.kr/news/newspath.asp?newsid=01115206638894496"
     ],
     "media": {
       "type": "youtube",
@@ -4721,14 +4728,14 @@
     ],
     "verified": true,
     "detail": {
-      "ja": "KBS『ミュージックバンク』で「How Sweet」がaespa「Supernova」を抑え、9,836点で5月第5週の1位を獲得した。2日前の『SHOW CHAMPION』に続く同曲2つ目のトロフィーで、この日は「How Sweet」のステージも披露した。",
-      "en": "'How Sweet' won the fifth week of May on KBS's Music Bank with 9,836 points, ahead of aespa's 'Supernova'. It was the song's second trophy, after Show Champion two days earlier, and NewJeans also performed 'How Sweet' on the show."
+      "ja": "KBS『ミュージックバンク』で「How Sweet」がaespa「Supernova」を抑え、9,836点で5月第5週の1位を獲得した。2日前の『SHOW CHAMPION』に続く同曲2つ目のトロフィーで、この日は「How Sweet」のステージも披露した。足の負傷で活動を休止中のヘインを除く4人での出演だった。",
+      "en": "'How Sweet' won the fifth week of May on KBS's Music Bank with 9,836 points, ahead of aespa's 'Supernova'. It was the song's second trophy, after Show Champion two days earlier, and NewJeans also performed 'How Sweet' on the show. Hyein, on hiatus with a foot injury, was absent, so four members appeared."
     },
     "credits": {
       "broadcaster": "KBS 2TV",
       "program": "Music Bank"
     },
-    "editor_note": "Points per Music Bank chart list; competing nominee and performance not confirmed. / 公式動画: KBS Kpop「How Sweet - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240531 방송」(2024-05-31); 関連5本をreference_urlsに記載 / 2026-10-24 nightly: HuffPost Korea (2024-05-31 20:48) reports 'How Sweet' beat aespa's 'Supernova' with a total of 9,836 points for the 5th week of May on that day's Music Bank; Xportsnews (2024-06-01) quotes Minji's acceptance speech. KBS Kpop official uploads JqjanOFxr-Q ('How Sweet', 'KBS 240531 방송') and fvozIPz40eM (#1 encore facecam), uploaded May 31, 2024 KST, confirm the stage and the encore. Competitor and performance added to the detail.",
+    "editor_note": "Points per Music Bank chart list; competing nominee and performance not confirmed. / 公式動画: KBS Kpop「How Sweet - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240531 방송」(2024-05-31); 関連5本をreference_urlsに記載 / 2026-10-24 nightly: HuffPost Korea (2024-05-31 20:48) reports 'How Sweet' beat aespa's 'Supernova' with a total of 9,836 points for the 5th week of May on that day's Music Bank; Xportsnews (2024-06-01) quotes Minji's acceptance speech. KBS Kpop official uploads JqjanOFxr-Q ('How Sweet', 'KBS 240531 방송') and fvozIPz40eM (#1 encore facecam), uploaded May 31, 2024 KST, confirm the stage and the encore. Competitor and performance added to the detail. / 2026-10-24 nightly: Edaily (2024-05-31, same day) says the group appears on that day's Music Bank and that 'member Hyein is not taking part in activities due to the after-effects of a foot injury'. Frames of KBS Kpop's #1 encore cam fvozIPz40eM and KBS WORLD TV's winner's ceremony clip KkHkn6IXhCg (both 2024-05-31) show four members (Minji, Hanni, Danielle, Haerin). Members changed from ['all'] to the four; detail notes Hyein's absence.",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=JqjanOFxr-Q"
     }
@@ -4784,7 +4791,10 @@
     "category": "tv",
     "entity": "newjeans",
     "members": [
-      "all"
+      "minji",
+      "hanni",
+      "danielle",
+      "haerin"
     ],
     "title": {
       "ja": "ミュージックバンク「How Sweet」",
@@ -4797,7 +4807,8 @@
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
       "https://www.youtube.com/watch?v=IEhmB-RpoX4",
-      "https://www.youtube.com/watch?v=UxGfaCjOSIM"
+      "https://www.youtube.com/watch?v=UxGfaCjOSIM",
+      "https://kstar.kbs.co.kr/list_view.html?idx=318998"
     ],
     "media": {
       "type": "youtube",
@@ -4808,8 +4819,8 @@
     ],
     "verified": true,
     "detail": {
-      "ja": "KBS『ミュージックバンク』で「How Sweet」を披露した。『How Sweet』活動期間中の金曜のステージ。",
-      "en": "NewJeans performed 'How Sweet' on KBS's Music Bank. It was a Friday stage during the How Sweet promotions."
+      "ja": "KBS『ミュージックバンク』で「How Sweet」を披露した。『How Sweet』活動期間中の金曜のステージで、足の負傷で活動を休止中のヘインを除く4人が出演した。",
+      "en": "NewJeans performed 'How Sweet' on KBS's Music Bank. It was a Friday stage during the How Sweet promotions, with four members performing while Hyein was on hiatus with a foot injury."
     },
     "credits": {
       "broadcaster": "KBS 2TV",
@@ -4818,7 +4829,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=q2xhULuEFjM"
     },
-    "editor_note": "公式動画: KBS Kpop「How Sweet - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240607 방송」(2024-06-07); 関連2本をreference_urlsに記載 / 2026-10-24 nightly: KBS Kpop official upload q2xhULuEFjM 'How Sweet - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240607 방송', uploaded Jun 7, 2024 KST, confirms the broadcast date and song."
+    "editor_note": "公式動画: KBS Kpop「How Sweet - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240607 방송」(2024-06-07); 関連2本をreference_urlsに記載 / 2026-10-24 nightly: KBS Kpop official upload q2xhULuEFjM 'How Sweet - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240607 방송', uploaded Jun 7, 2024 KST, confirms the broadcast date and song. / 2026-10-24 nightly: KBS Kpop's official K-Choreo 8K cam UxGfaCjOSIM ('How Sweet' @MusicBank 240607, uploaded 2024-06-07) shows four members in every frame (title card and full-stage shots); KBS Media's own article (kstar idx=318998, 2024-06-07) confirms the stage but does not count members. Hyein was still out at that point (same-period press: Edaily 05-31, Xportsnews/Newsen 06-16 describe the How Sweet promotions as run by the four). Members changed from ['all'] to the four."
   },
   {
     "id": "tv-2024-06-08-music-core-how-sweet-win",
@@ -4925,7 +4936,10 @@
     "category": "tv",
     "entity": "newjeans",
     "members": [
-      "all"
+      "minji",
+      "hanni",
+      "danielle",
+      "haerin"
     ],
     "title": {
       "ja": "SBS『K-Wave Concert 人気歌謡』",
@@ -4951,15 +4965,15 @@
     ],
     "verified": true,
     "detail": {
-      "ja": "6月2日に仁川・永宗島のINSPIREアリーナで開かれたSBS『K-Wave Concert Inkigayo』に出演し、イントロに続いて「How Sweet」、そして「Bubble Gum」を披露した。公演は6月9日にSBSで放送された。",
-      "en": "NewJeans performed an intro and 'How Sweet', followed by 'Bubble Gum', at SBS's K-Wave Concert Inkigayo, held at Inspire Arena on Yeongjong Island, Incheon, on June 2. The concert was broadcast on SBS on June 9."
+      "ja": "6月2日に仁川・永宗島のINSPIREアリーナで開かれたSBS『K-Wave Concert Inkigayo』に出演し、イントロに続いて「How Sweet」、そして「Bubble Gum」を披露した。公演は6月9日にSBSで放送された。足の負傷で活動を休止中のヘインは参加せず、4人でのステージだった。",
+      "en": "NewJeans performed an intro and 'How Sweet', followed by 'Bubble Gum', at SBS's K-Wave Concert Inkigayo, held at Inspire Arena on Yeongjong Island, Incheon, on June 2. The concert was broadcast on SBS on June 9. Hyein, on hiatus with a foot injury, did not take part, so four members performed."
     },
     "credits": {
       "broadcaster": "SBS",
       "program": "K-Wave Concert Inkigayo",
       "venue": "Inspire Arena, Incheon"
     },
-    "editor_note": "Set per en.wikipedia live-performance list only. / 公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) – INTRO+How Sweet @인기가요 inkigayo 20240609」(2024-06-09); 関連2本をreference_urlsに記載 / date moved to broadcast date 2024-06-09 per the broadcaster's official upload (was tv-2024-06-02-k-wave-concert-inkigayo) / 2026-10-24 nightly: SBSKPOP X INKIGAYO official uploads IBgtzAbnxwI ('INTRO+How Sweet @인기가요 20240609') and SEENRl55Cy4 ('[K-WAVE CONCERT 4K] Bubble Gum ... 240609'), uploaded Jun 9, 2024 KST, confirm the broadcast date and those two stages; SBS's preview (Daum 2024-06-07) confirms the June 2 Inspire Arena concert aired June 9 with NewJeans in the line-up. 'ETA' appears only in the Wikipedia live-performance list and no SBS upload or report of it was found, so it was removed from the summary and detail. Broadcast time differs between reports (2:00 pm vs 2:55 pm) and is not stated.",
+    "editor_note": "Set per en.wikipedia live-performance list only. / 公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) – INTRO+How Sweet @인기가요 inkigayo 20240609」(2024-06-09); 関連2本をreference_urlsに記載 / date moved to broadcast date 2024-06-09 per the broadcaster's official upload (was tv-2024-06-02-k-wave-concert-inkigayo) / 2026-10-24 nightly: SBSKPOP X INKIGAYO official uploads IBgtzAbnxwI ('INTRO+How Sweet @인기가요 20240609') and SEENRl55Cy4 ('[K-WAVE CONCERT 4K] Bubble Gum ... 240609'), uploaded Jun 9, 2024 KST, confirm the broadcast date and those two stages; SBS's preview (Daum 2024-06-07) confirms the June 2 Inspire Arena concert aired June 9 with NewJeans in the line-up. 'ETA' appears only in the Wikipedia live-performance list and no SBS upload or report of it was found, so it was removed from the summary and detail. Broadcast time differs between reports (2:00 pm vs 2:55 pm) and is not stated. / 2026-10-24 nightly: SBS KPOP's official full cam MJZE4OF7iSA ('[K-WAVE CONCERT 4K] How Sweet', uploaded 2024-06-09) shows four members in all sampled frames (title card and full-stage shots); the concert (June 2) fell inside Hyein's injury break (Inkigayo 06-16 press still says she was out). Members changed from ['all'] to the four. Note: live-2024-06-02-k-wave-concert-inkigayo (live.json) also lists ['all'] and was not changed here.",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=IBgtzAbnxwI"
     }
@@ -4972,7 +4986,10 @@
     "category": "tv",
     "entity": "newjeans",
     "members": [
-      "all"
+      "minji",
+      "hanni",
+      "danielle",
+      "haerin"
     ],
     "title": {
       "ja": "ミュージックバンク「Bubble Gum」",
@@ -4996,8 +5013,8 @@
     ],
     "verified": true,
     "detail": {
-      "ja": "KBS『ミュージックバンク』で「Bubble Gum」を披露した。『How Sweet』活動期間中の金曜のステージ。",
-      "en": "NewJeans performed 'Bubble Gum' on KBS's Music Bank. It was a Friday stage during the How Sweet promotions."
+      "ja": "KBS『ミュージックバンク』で「Bubble Gum」を披露した。『How Sweet』活動期間中の金曜のステージで、足の負傷で活動を休止中のヘインを除く4人が出演した。",
+      "en": "NewJeans performed 'Bubble Gum' on KBS's Music Bank. It was a Friday stage during the How Sweet promotions, with four members performing while Hyein was on hiatus with a foot injury."
     },
     "credits": {
       "broadcaster": "KBS 2TV",
@@ -5006,7 +5023,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=PWZDbAT3L7o"
     },
-    "editor_note": "公式動画: KBS Kpop「Bubble Gum - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240614 방송」(2024-06-14); 関連2本をreference_urlsに記載 / 2026-10-24 nightly: KBS Kpop official upload PWZDbAT3L7o 'Bubble Gum - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240614 방송', uploaded Jun 14, 2024 KST, confirms the broadcast date and song."
+    "editor_note": "公式動画: KBS Kpop「Bubble Gum - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240614 방송」(2024-06-14); 関連2本をreference_urlsに記載 / 2026-10-24 nightly: KBS Kpop official upload PWZDbAT3L7o 'Bubble Gum - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240614 방송', uploaded Jun 14, 2024 KST, confirms the broadcast date and song. / 2026-10-24 nightly: KBS Kpop's official upload PWZDbAT3L7o ('Bubble Gum', KBS 240614 방송) opens on a group shot of four members (Minji, Hanni, Danielle, Haerin), and the One Take cam 90Jqld7le-k shows the same four. Two days later Newsen (2024-06-16) reports the Inkigayo 'Bubble Gum' stage by the four without Hyein, and Xportsnews (2024-06-16) says the How Sweet promotions had been carried on by the four. Members changed from ['all'] to the four."
   },
   {
     "id": "tv-2024-06-15-music-core-how-sweet-win-2",
@@ -5060,7 +5077,10 @@
     "category": "tv",
     "entity": "newjeans",
     "members": [
-      "all"
+      "minji",
+      "hanni",
+      "danielle",
+      "haerin"
     ],
     "title": {
       "ja": "人気歌謡「Bubble Gum」",
@@ -5073,7 +5093,8 @@
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
       "https://www.youtube.com/watch?v=HHXGpHqC0DM",
-      "https://www.youtube.com/watch?v=_HXblE3mKbQ"
+      "https://www.youtube.com/watch?v=_HXblE3mKbQ",
+      "https://www.newsen.com/news_view.php?uid=202406161030546710"
     ],
     "media": {
       "type": "youtube",
@@ -5084,8 +5105,8 @@
     ],
     "verified": true,
     "detail": {
-      "ja": "SBS『人気歌謡』で「Bubble Gum」を披露した。『How Sweet』活動期間中の日曜のステージ。",
-      "en": "NewJeans performed 'Bubble Gum' on SBS's Inkigayo. It was a Sunday stage during the How Sweet promotions."
+      "ja": "SBS『人気歌謡』で「Bubble Gum」を披露した。『How Sweet』活動期間中の日曜のステージで、足の甲の骨折で活動を休止中のヘインを除く4人が出演した。",
+      "en": "NewJeans performed 'Bubble Gum' on SBS's Inkigayo. It was a Sunday stage during the How Sweet promotions, with four members performing while Hyein was on hiatus with a fractured foot."
     },
     "credits": {
       "broadcaster": "SBS",
@@ -5094,7 +5115,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=i6E8O-PhaVI"
     },
-    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) – Bubble Gum @인기가요 inkigayo 20240616」(2024-06-16); 関連2本をreference_urlsに記載 / 2026-10-24 nightly: SBSKPOP X INKIGAYO official upload i6E8O-PhaVI 'NewJeans (뉴진스) – Bubble Gum @인기가요 inkigayo 20240616', uploaded Jun 16, 2024 KST, confirms the broadcast date and song."
+    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) – Bubble Gum @인기가요 inkigayo 20240616」(2024-06-16); 関連2本をreference_urlsに記載 / 2026-10-24 nightly: SBSKPOP X INKIGAYO official upload i6E8O-PhaVI 'NewJeans (뉴진스) – Bubble Gum @인기가요 inkigayo 20240616', uploaded Jun 16, 2024 KST, confirms the broadcast date and song. / 2026-10-24 nightly: Newsen (2024-06-16, same day) headline '‘인기가요’ 뉴진스, 발등 부상 혜인 제외 4人 출격' and body: the four members Minji, Hanni, Danielle and Haerin performed, excluding Hyein, who had paused activities with a minor fracture of the top of her foot; SBS full cam _HXblE3mKbQ also shows four. Members changed from ['all'] to the four."
   },
   {
     "id": "tv-2024-06-21-mezamashi-8",
@@ -5540,7 +5561,10 @@
     "category": "tv",
     "entity": "newjeans",
     "members": [
-      "all"
+      "minji",
+      "hanni",
+      "danielle",
+      "haerin"
     ],
     "title": {
       "ja": "フジテレビ『2024 FNS歌謡祭 夏』",
@@ -5555,7 +5579,10 @@
       "https://www.excite.co.jp/news/article/Crankin_147799/",
       "https://www.excite.co.jp/news/article/Cinra_202407_whn_fns_edteam/",
       "https://x.com/NewJeans_jp/status/1808490127267942845",
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "http://www.osen.co.kr/article/G1112370723",
+      "https://www.yna.co.kr/view/AKR20240625045000005",
+      "https://www.news1.kr/articles/5461840"
     ],
     "media": {
       "type": "none"
@@ -5565,8 +5592,8 @@
     ],
     "verified": true,
     "detail": {
-      "ja": "18時30分からフジテレビ系で生放送された『2024 FNS歌謡祭 夏』にスタジオ生出演し、「ETA」「OMG」「Supernatural」のスペシャルメドレーを披露した。司会は相葉雅紀と井上清華アナウンサー。NewJeansが『FNS歌謡祭』のスタジオに登場するのはこれが初めてだった。",
-      "en": "NewJeans appeared live in the studio on Fuji TV's 2024 FNS Music Festival Summer, broadcast from 6:30 pm, performing a special medley of 'ETA', 'OMG' and 'Supernatural'. Masaki Aiba and announcer Sayaka Inoue hosted, and it was the group's first time in the FNS Music Festival studio."
+      "ja": "18時30分からフジテレビ系で生放送された『2024 FNS歌謡祭 夏』にスタジオ生出演し、「ETA」「OMG」「Supernatural」のスペシャルメドレーを披露した。司会は相葉雅紀と井上清華アナウンサー。NewJeansが『FNS歌謡祭』のスタジオに登場するのはこれが初めてだった。足の負傷で療養中のヘインは出演せず、4人でのステージだった。",
+      "en": "NewJeans appeared live in the studio on Fuji TV's 2024 FNS Music Festival Summer, broadcast from 6:30 pm, performing a special medley of 'ETA', 'OMG' and 'Supernatural'. Masaki Aiba and announcer Sayaka Inoue hosted, and it was the group's first time in the FNS Music Festival studio. Hyein, recovering from a foot injury, did not appear, so four members performed."
     },
     "credits": {
       "broadcaster": "Fuji TV",
@@ -5576,7 +5603,7 @@
       },
       "host": "Masaki Aiba, Sayaka Inoue"
     },
-    "editor_note": "公式YouTube動画なし: Fuji TV does not publish FNS performances on YouTube; no official upload found / 2026-10-24 nightly: Official @NewJeans_jp post 1808490127267942845 (2024-07-03 22:17 KST) thanks viewers of '2024 FNS歌謡祭 夏'; Crank-in (2024-06-12) says NewJeans would make their first appearance in the FNS studio, live, with a special medley, hosts Aiba and Inoue; CINRA timetable (2024-07-03) lists NewJeans 'ETA' 'OMG' 'Supernatural' and the 6:30 pm start. The 9:43 pm end time and 'second summer FNS appearance' were not confirmed (the press calls it their first time in the FNS studio) and were replaced.",
+    "editor_note": "公式YouTube動画なし: Fuji TV does not publish FNS performances on YouTube; no official upload found / 2026-10-24 nightly: Official @NewJeans_jp post 1808490127267942845 (2024-07-03 22:17 KST) thanks viewers of '2024 FNS歌謡祭 夏'; Crank-in (2024-06-12) says NewJeans would make their first appearance in the FNS studio, live, with a special medley, hosts Aiba and Inoue; CINRA timetable (2024-07-03) lists NewJeans 'ETA' 'OMG' 'Supernatural' and the 6:30 pm start. The 9:43 pm end time and 'second summer FNS appearance' were not confirmed (the press calls it their first time in the FNS studio) and were replaced. / 2026-10-24 nightly: the official @NewJeans_jp post for the show (1808490127267942845, 2024-07-03 22:17 KST) carries a backstage photo of four members only (no Hyein); OSEN (2024-07-05) shows Hyein departing Gimpo for Tokyo on July 5 for THE MUSIC DAY, i.e. she was not in Japan for the July 3 live broadcast; Yonhap (2024-06-25, citing ADOR) says she would join the Tokyo Dome fan meeting, and News1 (2024-06-28) quotes ADOR that for the same reason she could not take part in the official Japanese 'Supernatural' activities including music shows and performances. No Fuji TV clip exists to check directly. Members changed from ['all'] to the four.",
     "image": {
       "url": "https://pbs.twimg.com/media/GRkMLh5a4AAoDDY.jpg?name=orig",
       "source_url": "https://x.com/NewJeans_jp/status/1808490127267942845"

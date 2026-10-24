@@ -47,7 +47,8 @@
 | 2026-10-24 | record-2025-02-15-hanteo-music-awards-32-whosfandom-female-nomination | ノミネートの発表日が判明（2024-12-02 TOP40投票開始、12-09 TOP16発表）。現在は授賞式日 | 未決（どちらの日に移すか） |
 | 2026-10-24 | tv-2024-06-02-k-wave-concert-inkigayo-haerin-mc | tvなのに公演日で置いている。放送は6/9のtvレコード側。credits の co_hosts も語彙外 | 未決（6/9のtvへ統合／liveへ移動／現状維持） |
 | 2026-10-24 | tv-2024-07-02-j-wave-spark | 「火曜24時」の放送（暦では7/3 0時） | 未決（7/2のままか7/3に移すか） |
-| 2026-10-24 | ヘイン休養中（2024-05〜07）の音楽番組 tv レコードの members | 5/31・6/7・6/14 Music Bank、6/8・6/15 Music Core、6/16 Inkigayo は all、5/24・5/26 と日本の6/21〜7/1は4人。ADOR談（The Fact）ではヘインの韓国音楽番組復帰は7/12 Music Bank | 未確認（各回の出演人数を確認して揃える） |
 | 2026-10-24 | live-2024-06-02-k-wave-concert-inkigayo | セットリストの「ETA」はWikipediaのみが根拠（確認済みのレコード） | 未確認 |
 | 2026-10-24 | tv-2025-02-07-cnn-interview-njz | 放送ではなくCNN Styleのウェブ記事（電話取材）。日本語版は web-2025-02-07-cnn-njz-interview として収録済み | 未決（重複として削除するか、英語の原記事としてwebに移すか） |
 | 2026-10-24 | ダニエル契約解除後の4人体制のレコードの members（content-2026-07-24-light-jeans-2026-summer-of-newjeans-behind、mv-2026-07-22-2026-summer-of-newjeans、content-2026-07-23-weverse-bunnies-club-access） | 現在は ["all"] と本文「メンバー全員」。スポーツ京郷（2026-07-25）は4人（ミンジ・ハニ・ヘリン・ヘイン）と報道 | 未決（4人体制の時期のmembersを all にするか4人を列挙するか） |
+| 2026-10-24 | ヘイン休養中（2024-05-21〜06-20）の live レコードの members | tv側は放送映像・報道で4人に直した（2026-10-24）。live側の大学祭 5/25〜5/31、ファンサイン 6/1〜6/7、K-Wave Concert 6/2、Coke Studio 6/4、金浦出国 6/20、景福宮 5/21 は ["all"] のまま | 未確認（各回の出演を確認して4人に直す） |
+| 2026-10-24 | tv-2024-07-02-j-wave-spark（members） | 東京ドームのリハーサル楽屋で収録された座談会にヘインが加わっていたかを示す資料なし | 未決（["all"] のままにするか） |
