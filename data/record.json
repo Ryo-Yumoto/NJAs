@@ -7677,14 +7677,14 @@
       "en": "How Sweet sells over 800,000 copies on day one on Hanteo"
     },
     "summary": {
-      "ja": "ダブルシングル『How Sweet』が、Hanteoチャートの集計で発売初日に80万枚以上を売り上げた。",
-      "en": "The double single How Sweet sold more than 800,000 copies on its first day, by Hanteo Chart's count."
+      "ja": "ダブルシングル『How Sweet』が、Hanteoチャートの集計で発売初日に811,843枚を売り上げた。",
+      "en": "The double single How Sweet sold 811,843 copies on its first day, by Hanteo Chart's count."
     },
     "detail": {
-      "ja": "5月24日発売のダブルシングル『How Sweet』が、Hanteoチャートの集計で初日だけで80万枚以上を売り上げた。前作『Get Up』の初日売上は1,194,623枚だった。",
-      "en": "The double single How Sweet, released May 24, sold more than 800,000 copies on its first day by Hanteo Chart's count. The previous release, Get Up, had sold 1,194,623 on day one."
+      "ja": "5月24日発売のダブルシングル『How Sweet』が、Hanteoチャートの集計で発売当日だけで811,843枚を売り上げ、同日付の日間アルバムチャート1位となった。前作『Get Up』の初日売上は1,194,623枚だった。",
+      "en": "The double single How Sweet, released May 24, sold 811,843 copies on its release day by Hanteo Chart's count, topping the daily album chart for that date. The previous release, Get Up, had sold 1,194,623 on day one."
     },
-    "source_url": "https://www.koreatimes.co.kr/www/art/2024/05/398_375333.html",
+    "source_url": "https://www.yna.co.kr/view/AKR20240525022600005?input=1195m",
     "media": {
       "type": "none"
     },
@@ -7692,8 +7692,11 @@
       "chart",
       "sales"
     ],
-    "verified": false,
-    "editor_note": "Hanteoチャート初日集計に基づく。 / No Hanteo primary page found; How Sweet first-day figure not located even in secondary search results. Unverified."
+    "verified": true,
+    "editor_note": "Hanteoチャート初日集計に基づく。 / No Hanteo primary page found; How Sweet first-day figure not located even in secondary search results. Unverified. / 2026-10-24 nightly: Yonhap 2024-05-25 12:01 KST: per Hanteo Chart, How Sweet sold 811,843 on release day 24 May; other reports (Naver) add that it topped Hanteo's daily album chart dated 24 May. Get Up day-one 1,194,623 matches a 2023-07-22 report (ADOR, 'xx4623장', daily No. 1). Added the exact figure.",
+    "reference_urls": [
+      "https://www.koreatimes.co.kr/www/art/2024/05/398_375333.html"
+    ]
   },
   {
     "id": "record-2024-05-25-how-sweet-circle-album-weekly-no1",
@@ -7750,10 +7753,10 @@
       "en": "How Sweet's first-week sales (May 24-30) came to 884,717 copies on Hanteo Chart."
     },
     "detail": {
-      "ja": "『How Sweet』はHanteoチャートの集計で、5月24日の発売から7日間で884,717枚を売り上げた。前作『Get Up』の初週1,650,181枚には届かなかったが、『OMG』の初週701,241枚を上回った。",
-      "en": "How Sweet sold 884,717 copies in its first seven days from May 24, by Hanteo Chart's count. The figure was below Get Up's first week of 1,650,181 but above OMG's 701,241."
+      "ja": "『How Sweet』はHanteoチャートの集計で、5月24日の発売から7日間で884,717枚を売り上げた。前作『Get Up』の初週1,650,181枚には届かなかった。",
+      "en": "How Sweet sold 884,717 copies in its first seven days from May 24, by Hanteo Chart's count, below Get Up's first week of 1,650,181."
     },
-    "source_url": "https://v.daum.net/v/20240606174916614",
+    "source_url": "https://www.newsis.com/view/?id=NISX20240604_0002760320&cID=10601&pID=10600",
     "media": {
       "type": "none"
     },
@@ -7761,8 +7764,12 @@
       "chart",
       "sales"
     ],
-    "verified": false,
-    "editor_note": "Korea Herald via Daum (Jun 6, 2024); 1.03M cumulative as of Jun 5. / Korea Herald（Daum経由、2024-06-06）に基づく。同報道では6月5日時点の累計103万枚。 / No Hanteo primary page found for 884,717; not found in secondary search either. Unverified."
+    "verified": true,
+    "editor_note": "Korea Herald via Daum (Jun 6, 2024); 1.03M cumulative as of Jun 5. / Korea Herald（Daum経由、2024-06-06）に基づく。同報道では6月5日時点の累計103万枚。 / No Hanteo primary page found for 884,717; not found in secondary search either. Unverified. / 2026-10-24 nightly: Newsis 2024-06-04 (citing Hanteo Chart) confirms the first-week total of 884,717 and day-one 811,843; Naver results give Get Up's first week as 1,650,181. OMG's first-week 701,241 could not be found in any source, so that comparison was removed. Note Newsis misstates the release date as 'last month 27th'; the release was 24 May.",
+    "reference_urls": [
+      "https://v.daum.net/v/20240606174916614",
+      "https://star.ytn.co.kr/_sn/0117_202406051457168310"
+    ]
   },
   {
     "id": "record-2024-05-31-billboard-21-under-21-2024",
@@ -7965,12 +7972,14 @@
       "en": "The Japanese debut single 'Supernatural' topped Oricon's Daily Singles Ranking on its release day."
     },
     "detail": {
-      "ja": "日本デビューシングル「Supernatural」が、6月21日の発売当日にオリコンデイリーシングルランキング1位となり、LINE MUSICやAWAなど日本の配信チャートでも1位を記録した。ADORは「日本語シングルが韓国国内の音源チャートで上位に入るのは珍しい」とコメントした。",
-      "en": "The Japanese debut single 'Supernatural' topped Oricon's Daily Singles Ranking on its June 21 release day and also reached No. 1 on the Japanese streaming services LINE MUSIC and AWA. ADOR noted that it is uncommon for a Japanese-language single to rank high on Korean domestic charts."
+      "ja": "日本デビューシングル「Supernatural」が、6月21日の発売当日にオリコンデイリーシングルランキング1位となり、タイトル曲はLINE MUSICやAWAなど日本の配信サービスのリアルタイムチャートでも1位を記録した。",
+      "en": "The Japanese debut single 'Supernatural' topped Oricon's Daily Singles Ranking on its June 21 release day, and the title track reached No. 1 on the real-time charts of Japanese streaming services such as LINE MUSIC and AWA."
     },
-    "source_url": "https://www.koreajoongangdaily.com/entertainment/newjeans-tops-japans-oricon-chart-with-supernatural/12394400",
+    "source_url": "https://www.yna.co.kr/view/AKR20240623020300005?input=1195m",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/Supernatural_(NewJeans_song)"
+      "https://www.koreajoongangdaily.com/entertainment/newjeans-tops-japans-oricon-chart-with-supernatural/12394400",
+      "https://en.wikipedia.org/wiki/Supernatural_(NewJeans_song)",
+      "https://www.newsis.com/view/NISX20240623_0002783072"
     ],
     "media": {
       "type": "none"
@@ -7979,8 +7988,8 @@
       "chart",
       "japan"
     ],
-    "verified": false,
-    "editor_note": "Oricon daily ranking archive for 2024-06-21 returns 404 and no Oricon News article on the daily No. 1 was found (Oricon's Jun 21 article covers the Music Station appearance). Secondary reports (Daum/Forbes JP) mention a daily No. 1. Unverified."
+    "verified": true,
+    "editor_note": "Oricon daily ranking archive for 2024-06-21 returns 404 and no Oricon News article on the daily No. 1 was found (Oricon's Jun 21 article covers the Music Station appearance). Secondary reports (Daum/Forbes JP) mention a daily No. 1. Unverified. / 2026-10-24 nightly: Yonhap 2024-06-23 11:09 KST (per ADOR) confirms No. 1 on Oricon's Daily Single Ranking for release day 21 June and No. 1 on LINE MUSIC/AWA real-time charts for two days. Oricon daily archive pages (rank/js/d/2024-06-20..22) still 404. The ADOR remark about Korean charts was not found in the Yonhap text and was dropped; the LINE MUSIC/AWA claim narrowed to real-time charts."
   },
   {
     "id": "record-2024-06-22-supernatural-circle-album-weekly-no1",
@@ -8477,7 +8486,7 @@
       "ja": "全楽曲のSpotify累計再生数が、デビューから約2年1か月で50億回を超えた。曲別では「OMG」が7億回超、「Ditto」と「Super Shy」が6億回超、「Hype Boy」が5億回超で、1億回を超えた楽曲は13曲。再生の多い国は米国、日本、インドネシア、フィリピン、ブラジル、メキシコ、台湾、タイだった。ADORが9月2日に発表した。",
       "en": "The group's cumulative Spotify streams passed 5 billion about two years and one month after debut. By song, 'OMG' was above 700 million, 'Ditto' and 'Super Shy' above 600 million and 'Hype Boy' above 500 million, with 13 songs over 100 million. The most streams came from the United States, Japan, Indonesia, the Philippines, Brazil, Mexico, Taiwan and Thailand. ADOR announced the milestone on September 2."
     },
-    "source_url": "http://www.kedglobal.com/newsView/ked202409020001",
+    "source_url": "https://www.yna.co.kr/view/AKR20240902025700005?input=1195m",
     "media": {
       "type": "none"
     },
@@ -8485,8 +8494,13 @@
       "streaming",
       "spotify"
     ],
-    "verified": false,
-    "editor_note": "ADOR発表（2024-09-02）に基づく。 / Only allkpop (Aug 2024) reports 5 billion cumulative streams; no ADOR post or accepted major-outlet same-day report found. Unverified."
+    "verified": true,
+    "editor_note": "ADOR発表（2024-09-02）に基づく。 / Only allkpop (Aug 2024) reports 5 billion cumulative streams; no ADOR post or accepted major-outlet same-day report found. Unverified. / 2026-10-24 nightly: Yonhap 2024-09-02 08:48 KST (per ADOR) confirms cumulative Spotify streams over 5 billion, 13 songs above 100M, OMG 700M+, Ditto/Super Shy 600M+, Hype Boy 500M+, and the top countries (US, Japan, Indonesia, Philippines, Brazil, Mexico, Taiwan, Thailand); JTBC adds the count was as of 31 Aug and 'about two years and one month after debut'. All record text supported; earlier note that no ADOR/major-outlet report existed is superseded.",
+    "reference_urls": [
+      "http://www.kedglobal.com/newsView/ked202409020001",
+      "https://www.newsis.com/view/NISX20240902_0002871168",
+      "https://news.jtbc.co.kr/article/article.aspx?news_id=NB12213088"
+    ]
   },
   {
     "id": "record-2024-09-08-tma-2024-artist-of-the-year-bonsang",
@@ -9241,7 +9255,7 @@
     "reference_urls": [
       "https://en.wikipedia.org/wiki/2024_Korea_Grand_Music_Awards"
     ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (2024 KGMA / NewJeans awards list); KGMA fan voting ran in several rounds from September 2024 (Fancast) but no official or major-press nominee list naming NewJeans was found.",
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (2024 KGMA / NewJeans awards list); KGMA fan voting ran in several rounds from September 2024 (Fancast) but no official or major-press nominee list naming NewJeans was found. / 2026-10-24 nightly: Not confirmed. en.wikipedia '2024 Korea Grand Music Awards' lists NewJeans – 'Super Shy' among the Best Song nominees (fan-vote nominee lists on Caliverse/Diggus/Fancast), but no KGMA/Ilgan Sports nominee page or press report naming it was found via Naver (Aug-Nov 2024). Note 'Super Shy' was released July 2023; the eligibility window could not be checked.",
     "image": {
       "url": "https://i.ytimg.com/vi/-hyQdASWNnY/maxresdefault.jpg",
       "source_url": "https://www.youtube.com/watch?v=-hyQdASWNnY"
@@ -9317,7 +9331,7 @@
     "reference_urls": [
       "https://en.wikipedia.org/wiki/2024_Korea_Grand_Music_Awards"
     ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (2024 KGMA / NewJeans awards list); KGMA fan voting ran in several rounds from September 2024 (Fancast) but no official or major-press nominee list naming NewJeans was found.",
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (2024 KGMA / NewJeans awards list); KGMA fan voting ran in several rounds from September 2024 (Fancast) but no official or major-press nominee list naming NewJeans was found. / 2026-10-24 nightly: Not confirmed. en.wikipedia lists NewJeans among the Trend of the Year – K-pop Group nominees (fan voting May-Nov 9, 2024 via Caliverse, Diggus, Fancast), but no KGMA/Ilgan Sports nominee page or press report was found via Naver.",
     "image": {
       "url": "https://i.ytimg.com/vi/-hyQdASWNnY/maxresdefault.jpg",
       "source_url": "https://www.youtube.com/watch?v=-hyQdASWNnY"
@@ -9393,7 +9407,7 @@
     "reference_urls": [
       "https://www.soompi.com/article/1694893wpp/2024-mama-awards-announces-nominees-fans-choice-voting-begins"
     ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list. Soompi (Oct 14, 2024) gives voting rules for Fans' Choice of the Year but no separate nominee list; NewJeans were in the Fans' Choice Female first-round list. Dated to the ceremony's first day (ledger date)."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list. Soompi (Oct 14, 2024) gives voting rules for Fans' Choice of the Year but no separate nominee list; NewJeans were in the Fans' Choice Female first-round list. Dated to the ceremony's first day (ledger date). / 2026-10-24 nightly: Not confirmed. Naver news (Oct-Nov 2024) has no nominee list for Fans' Choice of the Year; Mnet Plus voting pages are app/JS-only. Wikipedia only."
   },
   {
     "id": "record-2024-11-22-mama-2024-fans-choice-top-10-female",
@@ -9465,7 +9479,7 @@
     "reference_urls": [
       "https://www.soompi.com/article/1703533wpp/melon-music-awards-2024-announces-nominees"
     ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; not in Soompi's Nov 15 nominee article and no other nominee list found."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; not in Soompi's Nov 15 nominee article and no other nominee list found. / 2026-10-24 nightly: Not confirmed. Naver news (Nov 2024) search for the MMA2024 KakaoBank Everyone's Star nominees returned no list naming NewJeans; Melon's MMA site is JS-rendered. Wikipedia only."
   },
   {
     "id": "record-2024-11-30-mma-2024-millions-top-10-how-sweet",
@@ -9820,8 +9834,10 @@
       "ja": "第39回ゴールデンディスクアワードでCosmopolitan Artist賞を受賞した。福岡で開かれた初日の授賞式で、同じ日に「How Sweet」でデジタル音源本賞も受賞した。",
       "en": "NewJeans received the Cosmopolitan Artist Award on Day 1 of the 39th Golden Disc Awards in Fukuoka, the same night it won a Digital Song Bonsang for 'How Sweet'."
     },
-    "source_url": "https://isplus.com/article/view/isp202501060142",
+    "source_url": "https://www.joongang.co.kr/article/25305415",
     "reference_urls": [
+      "https://isplus.com/article/view/isp202501060142",
+      "https://www.nocutnews.co.kr/news/6272646",
       "https://www.koreajoongangdaily.com/entertainment/winners-of-the-39th-golden-disc-awards-in-fukuoka-in-pictures/12262037",
       "https://soompi.com/article/1713809wpp/winners-of-2025-golden-disc-awards-day-1"
     ],
@@ -9831,8 +9847,8 @@
     "tags": [
       "award"
     ],
-    "verified": false,
-    "editor_note": "Ilgan Sports (GDA organizer, 2025-01-06) confirms NewJeans won two awards including a Bonsang at the 39th GDA (Fukuoka, Jan 4) but does not name the second award; 'Cosmopolitan Artist Award' could not be confirmed from organizer text."
+    "verified": true,
+    "editor_note": "Ilgan Sports (GDA organizer, 2025-01-06) confirms NewJeans won two awards including a Bonsang at the 39th GDA (Fukuoka, Jan 4) but does not name the second award; 'Cosmopolitan Artist Award' could not be confirmed from organizer text. / 2026-10-24 nightly: JoongAng Ilbo (organizer group; winners list with photos credited to the GDA secretariat) lists 코스모폴리탄 아티스트상: 뉴진스 under the digital-song (day 1) section and says NewJeans won two awards, the Digital Song Bonsang and the Cosmopolitan Artist Award; Nocut News 2025-01-06 also names NewJeans for the Cosmopolitan Artist Award. Confirmed."
   },
   {
     "id": "record-2025-01-04-gda-39-digital-song-bonsang-how-sweet",
@@ -9973,7 +9989,11 @@
       "hanteo-music-awards"
     ],
     "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic. / 2026-10-24 nightly: Still not confirmed from a primary source. Sportskeeda (secondary; reproduces the HMA official X nominee post of 2024-12-17) lists NewJeans in the single Global Artist nominee pool used for all regional categories, which supports the nomination; the HMA X post itself and an HMA/Hanteo News nominee page could not be retrieved (Sportskeeda later served a bot wall). Naver news had no nominee report. Left unverified.",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/32nd_Hanteo_Music_Awards",
+      "https://www.sportskeeda.com/us/k-pop/news-how-vote-2024-hanteo-music-awards-nominations-list-need-know-bts-members-blackpink-s-rose-txt-twice-bag-nods"
+    ]
   },
   {
     "id": "record-2025-02-15-hanteo-music-awards-32-global-artist-asia-nomination",
@@ -10006,7 +10026,11 @@
       "hanteo-music-awards"
     ],
     "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic. / 2026-10-24 nightly: Still not confirmed from a primary source. Sportskeeda (secondary; reproduces the HMA official X nominee post of 2024-12-17) lists NewJeans in the single Global Artist nominee pool used for all regional categories, which supports the nomination; the HMA X post itself and an HMA/Hanteo News nominee page could not be retrieved (Sportskeeda later served a bot wall). Naver news had no nominee report. Left unverified.",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/32nd_Hanteo_Music_Awards",
+      "https://www.sportskeeda.com/us/k-pop/news-how-vote-2024-hanteo-music-awards-nominations-list-need-know-bts-members-blackpink-s-rose-txt-twice-bag-nods"
+    ]
   },
   {
     "id": "record-2025-02-15-hanteo-music-awards-32-global-artist-europe-nomination",
@@ -10039,7 +10063,11 @@
       "hanteo-music-awards"
     ],
     "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic. / 2026-10-24 nightly: Still not confirmed from a primary source. Sportskeeda (secondary; reproduces the HMA official X nominee post of 2024-12-17) lists NewJeans in the single Global Artist nominee pool used for all regional categories, which supports the nomination; the HMA X post itself and an HMA/Hanteo News nominee page could not be retrieved (Sportskeeda later served a bot wall). Naver news had no nominee report. Left unverified.",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/32nd_Hanteo_Music_Awards",
+      "https://www.sportskeeda.com/us/k-pop/news-how-vote-2024-hanteo-music-awards-nominations-list-need-know-bts-members-blackpink-s-rose-txt-twice-bag-nods"
+    ]
   },
   {
     "id": "record-2025-02-15-hanteo-music-awards-32-global-artist-north-america-nomination",
@@ -10072,7 +10100,11 @@
       "hanteo-music-awards"
     ],
     "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic. / 2026-10-24 nightly: Still not confirmed from a primary source. Sportskeeda (secondary; reproduces the HMA official X nominee post of 2024-12-17) lists NewJeans in the single Global Artist nominee pool used for all regional categories, which supports the nomination; the HMA X post itself and an HMA/Hanteo News nominee page could not be retrieved (Sportskeeda later served a bot wall). Naver news had no nominee report. Left unverified.",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/32nd_Hanteo_Music_Awards",
+      "https://www.sportskeeda.com/us/k-pop/news-how-vote-2024-hanteo-music-awards-nominations-list-need-know-bts-members-blackpink-s-rose-txt-twice-bag-nods"
+    ]
   },
   {
     "id": "record-2025-02-15-hanteo-music-awards-32-global-artist-oceania-nomination",
@@ -10105,7 +10137,11 @@
       "hanteo-music-awards"
     ],
     "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic. / 2026-10-24 nightly: Still not confirmed from a primary source. Sportskeeda (secondary; reproduces the HMA official X nominee post of 2024-12-17) lists NewJeans in the single Global Artist nominee pool used for all regional categories, which supports the nomination; the HMA X post itself and an HMA/Hanteo News nominee page could not be retrieved (Sportskeeda later served a bot wall). Naver news had no nominee report. Left unverified.",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/32nd_Hanteo_Music_Awards",
+      "https://www.sportskeeda.com/us/k-pop/news-how-vote-2024-hanteo-music-awards-nominations-list-need-know-bts-members-blackpink-s-rose-txt-twice-bag-nods"
+    ]
   },
   {
     "id": "record-2025-02-15-hanteo-music-awards-32-global-artist-south-america-nomination",
@@ -10138,7 +10174,11 @@
       "hanteo-music-awards"
     ],
     "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic. / 2026-10-24 nightly: Still not confirmed from a primary source. Sportskeeda (secondary; reproduces the HMA official X nominee post of 2024-12-17) lists NewJeans in the single Global Artist nominee pool used for all regional categories, which supports the nomination; the HMA X post itself and an HMA/Hanteo News nominee page could not be retrieved (Sportskeeda later served a bot wall). Naver news had no nominee report. Left unverified.",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/32nd_Hanteo_Music_Awards",
+      "https://www.sportskeeda.com/us/k-pop/news-how-vote-2024-hanteo-music-awards-nominations-list-need-know-bts-members-blackpink-s-rose-txt-twice-bag-nods"
+    ]
   },
   {
     "id": "record-2025-02-15-hanteo-music-awards-32-whosfandom-female-nomination",

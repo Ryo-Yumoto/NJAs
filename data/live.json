@@ -4161,8 +4161,8 @@
       "fashion-event",
       "overseas"
     ],
-    "verified": false,
-    "editor_note": "Official X post 2024-10-04; show date 1 Oct 2024 local from Newsen via Nate."
+    "verified": true,
+    "editor_note": "Official X post 2024-10-04; show date 1 Oct 2024 local from Newsen via Nate. / 2026-10-24 nightly: Official X post 1842127523863216339 (NewJeans_ADOR, 2024-10-04 09:00 UTC = 18:00 KST, via fxtwitter: '#광고 @LouisVuitton #LVSS25 ... #HYEIN', 3 photos) confirms the brand appearance; Newsen 2024-10-02 confirms 1 Oct (local) in Paris, third year as LV ambassador, invited by the brand; Marie Claire Korea 2024-10-02 places Hyein at the LV 2025 S/S show at the Louvre. Confirmed."
   },
   {
     "id": "live-2024-10-19-coke-studio-live-2024-saitama",
@@ -4175,15 +4175,15 @@
       "all"
     ],
     "title": {
-      "ja": "Coke STUDIO LIVE 2024（さいたまスーパーアリーナ）出演",
-      "en": "Coke STUDIO LIVE 2024 at Saitama Super Arena"
+      "ja": "Coke STUDIOライブ 2024（さいたまスーパーアリーナ）出演",
+      "en": "Coke STUDIO Live 2024 at Saitama Super Arena"
     },
     "summary": {
-      "ja": "さいたまスーパーアリーナの『Coke STUDIO LIVE 2024』に両日ヘッドライナーで出演。リミックスメドレーで始め「Supernatural」で締めた。",
-      "en": "Headlined both days of Coke STUDIO LIVE 2024 at Saitama Super Arena, opening with a remix medley and closing on 'Supernatural'."
+      "ja": "さいたまスーパーアリーナの『Coke STUDIOライブ 2024』に出演し、メドレーで始めて「Supernatural」で締める7曲を披露。",
+      "en": "Performed at Coke STUDIO Live 2024 at Saitama Super Arena, opening with a medley and closing on 'Supernatural'."
     },
     "source_url": "https://tower.jp/article/news/2024/08/05/tg010",
-    "verified": false,
+    "verified": true,
     "media": {
       "type": "none"
     },
@@ -4196,10 +4196,10 @@
       "japan",
       "brand-event"
     ],
-    "editor_note": "Dates: 2024-10-19 and 2024-10-20 (announced for both days). | Set per Billboard Japan report (Oct 21, 2024); en.wikipedia list adds Attention/Ditto/OMG as the medley components.",
+    "editor_note": "Dates: 2024-10-19 and 2024-10-20 (announced for both days). | Set per Billboard Japan report (Oct 21, 2024); en.wikipedia list adds Attention/Ditto/OMG as the medley components. / 2026-10-24 nightly: Tower Records news 2024-08-05 confirms the dates (19-20 Oct), venue, OPEN 14:00/START 15:00 and NewJeans on the bill; Real Sound 2024 (event photo report) gives the 19 Oct setlist: 1. Attention + Ditto + OMG, 2. Super Shy, 3. ETA, 4. Zero, 5. Bubble Gum, 6. How Sweet, 7. Supernatural, and the 8-act lineup. Corrected the setlist (record had 'OMG' in place of 'Super Shy' and omitted 'Bubble Gum'). Removed 'headliner both days' and ticket prices, which no fetched source states; title aligned to the official name 'Coke STUDIOライブ'. Day-two setlist not found.",
     "detail": {
-      "ja": "さいたまスーパーアリーナで10月19日と20日に開かれた日本コカ・コーラの『Coke STUDIO LIVE 2024』（開場14時、開演15時）に、両日ヘッドライナーとして出演した。出演はほかにCreepy Nuts、Rauw Alejandro、Rita Oraなど。「Attention」「Ditto」「OMG」のリミックスメドレーで始め、「OMG」「ETA」「Zero」「How Sweet」を経て「Supernatural」で締めくくった。チケットはGOLD席25,000円、SS席19,000円、S席17,000円（各税込）。",
-      "en": "NewJeans headlined both days of Coca-Cola Japan's Coke STUDIO LIVE 2024 at Saitama Super Arena on 19 and 20 October (doors 2 pm, start 3 pm), on a bill that also included Creepy Nuts, Rauw Alejandro and Rita Ora. Their set opened with a remix medley of 'Attention', 'Ditto' and 'OMG' and continued with 'OMG', 'ETA', 'Zero' and 'How Sweet' before closing with 'Supernatural'. Tickets were priced at 25,000 yen (GOLD), 19,000 yen (SS) and 17,000 yen (S), tax included."
+      "ja": "さいたまスーパーアリーナで10月19日と20日に開かれた『Coke STUDIOライブ 2024』（開場14時、開演15時）に出演した。出演はほかにCreepy Nuts、ラウ・アレハンドロ、リタ・オラなど計8組。10月19日のセットリストは「Attention + Ditto + OMG」のメドレーに始まり、「Super Shy」「ETA」「Zero」「Bubble Gum」「How Sweet」を経て「Supernatural」で締めくくった。",
+      "en": "NewJeans performed at Coke STUDIO Live 2024 at Saitama Super Arena, held on 19 and 20 October (doors 2 pm, start 3 pm), on an eight-act bill that also included Creepy Nuts, Rauw Alejandro and Rita Ora. Their 19 October set opened with an 'Attention + Ditto + OMG' medley and continued with 'Super Shy', 'ETA', 'Zero', 'Bubble Gum' and 'How Sweet' before closing with 'Supernatural'."
     },
     "credits": {
       "venue": "Saitama Super Arena, Saitama",
@@ -4225,8 +4225,8 @@
       "en": "Danielle attended the opening photocall for CELINE's Cheongdam flagship store in Seoul as a global ambassador."
     },
     "detail": {
-      "ja": "セリーヌのグローバルアンバサダーであるダニエルが、ソウル江南区清潭洞で開かれたセリーヌ清潭フラッグシップストアのオープン記念フォトコールに出席した。同じ行事にはパク・ボゴム、スジ、TWSらも出席した。",
-      "en": "Danielle, a CELINE global ambassador, attended the opening photocall for the CELINE Cheongdam flagship store in Cheongdam-dong, Seoul, alongside Park Bo-gum, Suzy and TWS."
+      "ja": "セリーヌのグローバルアンバサダーであるダニエルが、ソウル江南区清潭洞で開かれたセリーヌ清潭フラッグシップストアのオープン記念行事に出席した。同じ行事にはパク・ボゴム、スジ、TWS、ケヴィン・パーカーも出席した。",
+      "en": "Danielle, a CELINE global ambassador, attended the opening event for the CELINE Cheongdam flagship store in Cheongdam-dong, Seoul, alongside Park Bo-gum, Suzy, TWS and Kevin Parker."
     },
     "credits": {
       "venue": "CELINE Cheongdam flagship, Seoul",
@@ -4251,8 +4251,8 @@
       "event",
       "brand-event"
     ],
-    "verified": false,
-    "editor_note": "Official X post 2024-12-10 (#CELINECHEONGDAM) shows Danielle at the store; photocall date 28 Nov 2024 from ETNews. Same day as the members' press conference (notice-2024-11-28-termination-press-conference); not mentioned in the text."
+    "verified": true,
+    "editor_note": "Official X post 2024-12-10 (#CELINECHEONGDAM) shows Danielle at the store; photocall date 28 Nov 2024 from ETNews. Same day as the members' press conference (notice-2024-11-28-termination-press-conference); not mentioned in the text. / 2026-10-24 nightly: Official X post 1866392437033427294 (2024-12-10 08:00 UTC, '#광고 @celineofficial #CELINECHEONGDAM ... #DANIELLE', 4 photos) confirms the brand appearance; ETNews and Xportsnews (both 2024-11-28) confirm the photocall on 28 Nov in Cheongdam-dong; Newsen 2024-11-28 lists attendees Park Bo-gum, Suzy, Danielle, TWS and Kevin Parker (added)."
   },
   {
     "id": "live-2024-12-06-haerin-dior-beauty-holiday-popup-photocall",
@@ -4297,8 +4297,8 @@
       "event",
       "brand-event"
     ],
-    "verified": false,
-    "editor_note": "Official X post 2024-12-07 (#디올홀리데이팝업); photocall date 6 Dec 2024 from Xportsnews."
+    "verified": true,
+    "editor_note": "Official X post 2024-12-07 (#디올홀리데이팝업); photocall date 6 Dec 2024 from Xportsnews. / 2026-10-24 nightly: Official X post 1865229762991686060 (2024-12-07 03:00 UTC = 12:00 KST, '#광고 #디올뷰티 #디올홀리데이팝업 ... #HAERIN', 4 photos) confirms; Xportsnews and Topstar News (both 2024-12-06) confirm the photocall on 6 Dec at the Lotte World Mall atrium with Han So-hee, Kim Yuna and Nam Joo-hyuk. Naver snippets give the pop-up as running from 7 Dec (end date in snippets cut off; 26 Dec kept from earlier research)."
   },
   {
     "id": "live-2024-12-07-yoasobi-asia-tour-incheon-guest",
@@ -4319,25 +4319,26 @@
       "en": "Special guests on the first Seoul-area night of YOASOBI's Asia tour at Inspire Arena, performing 'How Sweet' and then 'Right Now' and 'Biri-Biri' with ikura."
     },
     "source_url": "https://www.tenasia.com/amp/2024112284124",
-    "verified": false,
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
       "https://en.wikipedia.org/wiki/Ch%C5%8D-genjitsu_Asia_Tour",
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://www.mk.co.kr/article/11189502",
+      "http://www.heraldpop.com/view.php?ud=202412091010214211223_1"
     ],
     "tags": [
       "guest-appearance"
     ],
-    "editor_note": "Took place after the members' Nov 29, 2024 contract-termination announcement; still listed under newjeans entity.",
+    "editor_note": "Took place after the members' Nov 29, 2024 contract-termination announcement; still listed under newjeans entity. / 2026-10-24 nightly: Star Today/MK and Herald Pop (2024-12-09) confirm the 7 Dec guest slot at Inspire Arena, 'How Sweet', and the self-introductions by individual name (하니, 혜인, 다니엘, 민지, 해린) without the group name; a Naver snippet (2024-12 tour wrap) confirms 'Right Now' and 'Biri-Biri' with YOASOBI on the 7th and Lee Su-hyun (AKMU) dueting with ikura. Removed the unconfirmed 'except in a question in Japanese' clause and the unconfirmed promoter credit (Livet).",
     "detail": {
-      "ja": "仁川中区のINSPIREアリーナで開かれたYOASOBIの『YOASOBI ASIA TOUR 2024-2025』（超現実）ソウル公演（12月7日・8日）の初日に、5人がスペシャルゲストとして出演した。「How Sweet」を披露した後、YOASOBIのikuraとともに「Right Now」「Biri-Biri」を歌った。11月28日の専属契約解除の発表後の出演で、メンバーは個人名で自己紹介し、YOASOBIとのトークで日本語で質問した場面を除きグループ名を口にしなかった。2日目のゲストはAKMU。",
-      "en": "The five members appeared as special guests on the first of YOASOBI's two Seoul-area shows (7 and 8 December) of the YOASOBI ASIA TOUR 2024-2025 Cho-genjitsu at Inspire Arena in Jung-gu, Incheon. They performed 'How Sweet' and then sang 'Right Now' and 'Biri-Biri' with YOASOBI's ikura. Appearing after their 28 November announcement terminating their contracts, the members introduced themselves by individual name and did not say the group name except in a question posed in Japanese during the talk with YOASOBI. AKMU guested on the second night."
+      "ja": "仁川中区のINSPIREアリーナで開かれたYOASOBIの『YOASOBI ASIA TOUR 2024-2025 “超現実 / cho-genjitsu”』韓国公演（12月7日・8日）の初日に、5人がスペシャルゲストとして出演した。「How Sweet」を披露した後、YOASOBIとともに「Right Now」「Biri-Biri」のステージを見せた。11月28日の専属契約解除の発表後の出演で、メンバーは「こんにちは」とあいさつした後、グループ名を言わずに個人名で自己紹介した。2日目にはAKMUのイ・スヒョンがゲスト出演した。",
+      "en": "The five members appeared as special guests on the first of YOASOBI's two Korean shows (7 and 8 December) of the YOASOBI ASIA TOUR 2024-2025 'Cho-genjitsu' at Inspire Arena in Jung-gu, Incheon. They performed 'How Sweet' and then joined YOASOBI for 'Right Now' and 'Biri-Biri'. Appearing after their 28 November announcement terminating their contracts, the members greeted the audience and introduced themselves by individual name without saying the group name. AKMU's Lee Su-hyun guested on the second night."
     },
     "credits": {
       "venue": "Inspire Arena, Incheon",
-      "organizer": "Livet (promoter)",
       "guest_of": "YOASOBI"
     },
     "image": {
@@ -4363,22 +4364,25 @@
       "ja": "みずほPayPayドーム福岡の『2024 MUSIC BANK GLOBAL FESTIVAL in JAPAN』初日で「Super Shy」「How Sweet」「Supernatural」を披露。",
       "en": "Performed 'Super Shy', 'How Sweet' and 'Supernatural' on day one of the 2024 Music Bank Global Festival in Japan at Mizuho PayPay Dome Fukuoka."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "verified": false,
+    "source_url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8133711&ref=A",
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
-      "https://ja.wikipedia.org/wiki/NewJeans"
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://soompi.com/article/1706781wpp/2024-music-bank-global-festival-in-japan-announces-mcs-and-star-studded-lineup",
+      "https://www.newsis.com/view/NISX20241219_0003003174"
     ],
     "tags": [
       "broadcast-concert",
       "japan"
     ],
-    "editor_note": "Date per en/ja Wikipedia; no official notice fetched. | Two-day attendance (about 70,000) reported by Natalie after the event; omitted from reader text.",
+    "editor_note": "Date per en/ja Wikipedia; no official notice fetched. | Two-day attendance (about 70,000) reported by Natalie after the event; omitted from reader text. / 2026-10-24 nightly: KBS News 2024-12-19 confirms the 14-15 Dec Fukuoka Mizuho PayPay Dome event, hosts Shin Ye-eun/Moon Sang-min/Hong Eun-chae, NewJeans in the 22-act lineup and the KBS2 broadcast on 19 Dec 8:30 pm; Naver snippets of 2024-12-19 reviews give the set 'Super Shy', 'How Sweet', 'Supernatural'. Day-one placement and day-one lineup per Soompi's lineup announcement (secondary). Removed doors/start times (15:00/17:00), which no fetched source states.",
     "detail": {
-      "ja": "福岡のみずほPayPayドーム福岡で開かれた『2024 MUSIC BANK GLOBAL FESTIVAL in JAPAN』（12月14日・15日、開場15時、開演17時）の初日に出演し、「Super Shy」「How Sweet」「Supernatural」を披露した。初日の出演者はTOMORROW X TOGETHER、ATEEZ、WayV、STAYC、NMIXX、xikers、RIIZE、EVNNE、TRENDZ、INIなど。司会はシン・イェウン、ムン・サンミン、ホン・ウンチェで、公演は収録のうえKBS 2TVで12月19日に放送されると案内された。",
-      "en": "NewJeans performed 'Super Shy', 'How Sweet' and 'Supernatural' on day one of the 2024 Music Bank Global Festival in Japan (14–15 December, doors 3 pm, start 5 pm) at Mizuho PayPay Dome Fukuoka. The day-one bill also included TOMORROW X TOGETHER, ATEEZ, WayV, STAYC, NMIXX, xikers, RIIZE, EVNNE, TRENDZ and INI; Shin Ye-eun, Moon Sang-min and Hong Eun-chae hosted. The show was recorded for broadcast on KBS 2TV on 19 December."
+      "ja": "福岡のみずほPayPayドーム福岡で開かれた『2024 MUSIC BANK GLOBAL FESTIVAL in JAPAN』（12月14日・15日）の初日に出演し、「Super Shy」「How Sweet」「Supernatural」を披露した。初日の出演者はTOMORROW X TOGETHER、ATEEZ、WayV、STAYC、NMIXX、xikers、RIIZE、EVNNE、TRENDZ、INIなど。司会はシン・イェウン、ムン・サンミン、ホン・ウンチェで、公演は収録のうえKBS 2TVで12月19日に放送されると案内された。",
+      "en": "NewJeans performed 'Super Shy', 'How Sweet' and 'Supernatural' on day one of the 2024 Music Bank Global Festival in Japan (14–15 December) at Mizuho PayPay Dome Fukuoka. The day-one bill also included TOMORROW X TOGETHER, ATEEZ, WayV, STAYC, NMIXX, xikers, RIIZE, EVNNE, TRENDZ and INI; Shin Ye-eun, Moon Sang-min and Hong Eun-chae hosted. The show was recorded for broadcast on KBS 2TV on 19 December."
     },
     "credits": {
       "venue": "Mizuho PayPay Dome Fukuoka",
@@ -4406,24 +4410,26 @@
       "original": "2024 SBS 가요대전"
     },
     "summary": {
-      "ja": "INSPIREアリーナの『2024 SBS歌謡大典』冬編で「Ditto（250 remix）」「Cookie」「Hype Boy」を披露。",
-      "en": "Performed 'Ditto' (250 remix), 'Cookie' and 'Hype Boy' at the 2024 SBS Gayo Daejeon Winter at Inspire Arena."
+      "ja": "INSPIREアリーナの『2024 SBS歌謡大典』で「Ditto（250 Remix）」から「Cookie」「Hype Boy」へ続くメドレーを披露。",
+      "en": "Performed a medley from 'Ditto' (250 Remix) into 'Cookie' and 'Hype Boy' at the 2024 SBS Gayo Daejeon at Inspire Arena."
     },
     "source_url": "https://www.ytn.co.kr/_ln/0117_202412121440244570",
-    "verified": false,
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://isplus.com/article/view/isp202412250287",
+      "https://www.starnewskorea.com/stview.php?no=2024122518250234253"
     ],
     "tags": [
       "broadcast-concert"
     ],
-    "editor_note": "Broadcast-concert; the TV airing may be registered separately in the tv category.",
+    "editor_note": "Broadcast-concert; the TV airing may be registered separately in the tv category. / 2026-10-24 nightly: Ilgan Sports 2024-12-25 20:10 KST confirms 25 Dec at Inspire Arena, hosts Doyoung/Yeonjun/An Yu-jin, 29 acts, NewJeans in bunny hats performing 'Ditto' then a hit medley of 'Cookie' and 'Hype Boy'; Naver snippets specify the 'Ditto' 250 Remix version. Removed 'Winter' (冬編) from the show name and the 'broadcast live' claim, neither found in the sources checked; added stage details.",
     "detail": {
-      "ja": "仁川のINSPIREアリーナで『2024 SBS歌謡大典』冬編（SBS Gayo Daejeon Winter）が開かれ、SBSが生中継した。司会はドヨン、ヨンジュン、アン・ユジン。NewJeansは「Ditto（250 remix）」「Cookie」「Hype Boy」を披露した。",
-      "en": "The 2024 SBS Gayo Daejeon Winter was staged at Inspire Arena in Incheon and broadcast live on SBS, hosted by Doyoung, Yeonjun and An Yu-jin. NewJeans performed 'Ditto' (250 remix), 'Cookie' and 'Hype Boy'."
+      "ja": "仁川のINSPIREアリーナで『2024 SBS歌謡大典』が開かれ、司会はドヨン、ヨンジュン、アン・ユジン、出演は計29組。NewJeansはウサギの帽子をかぶって登場し、「Ditto（250 Remix）」に続いて「Cookie」「Hype Boy」のメドレーを披露、「Hype Boy」の終盤に「みんなでハッピージャンプ」と呼びかけ、「ハッピーホリデー」と叫んでステージを締めくくった。",
+      "en": "The 2024 SBS Gayo Daejeon was staged at Inspire Arena in Incheon with 29 acts, hosted by Doyoung, Yeonjun and An Yu-jin. NewJeans appeared in bunny hats and performed 'Ditto' (250 Remix) followed by a medley of 'Cookie' and 'Hype Boy', calling for a 'happy jump' together at the end of 'Hype Boy' and closing with 'Happy holiday'."
     },
     "credits": {
       "venue": "Inspire Arena, Incheon",
@@ -4450,22 +4456,25 @@
       "en": "EARTH STAGE slot at 20:05 on the final day of COUNTDOWN JAPAN 24/25 at Makuhari Messe, the first K-pop group to play the festival."
     },
     "source_url": "https://www.koreajoongangdaily.com/entertainment/newjeans-to-perform-at-music-festival-countdown-japan-on-new-years-eve/12350114",
-    "verified": false,
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
       "https://utaten.com/specialArticle/index/8866",
-      "https://mdpr.jp/music/4419415"
+      "https://mdpr.jp/music/4419415",
+      "https://www.nocutnews.co.kr/news/6269753",
+      "https://www.youtube.com/watch?v=saY9KS7mKvI",
+      "https://www.setlist.fm/setlists/newjeans-4bfc8f3e.html"
     ],
     "tags": [
       "festival",
       "japan"
     ],
-    "editor_note": "Festival ran Dec 28-31, 2024; NewJeans on Dec 31 only. Announced by ADOR on Nov 6, 2024.",
+    "editor_note": "Festival ran Dec 28-31, 2024; NewJeans on Dec 31 only. Announced by ADOR on Nov 6, 2024. / 2026-10-24 nightly: Korea JoongAng Daily 2024-11-06 (ADOR) confirms the 31 Dec appearance and 'first K-pop group'; UtaTen timetable gives EARTH STAGE 20:05～ NewJeans on 31 Dec; Modelpress gives Makuhari Messe and 28-31 Dec. Nocut News/JoongAng 2024-12-31: ADOR posted on 30 Dec that NewJeans would attend the Japan Record Awards and CDJ as scheduled (the record said NewJeans themselves confirmed; corrected to ADOR). The full nine-song setlist exists only on setlist.fm (fan-maintained), so the text now names only 'Right Now', 'Hype Boy', 'Ditto', confirmed by the official upload saY9KS7mKvI (dateText Mar 20, 2025).",
     "detail": {
-      "ja": "千葉・幕張メッセ国際展示場で開かれたrockin'on主催の『COUNTDOWN JAPAN 24/25』（12月28日から31日）の最終日に、EARTH STAGEの20時05分からの枠で出演した。出演は11月6日にADORが発表し、K-POPグループとして同フェス初の出演。12月29日のチェジュ航空機事故を受けて韓国では公演の中止が相次いだが、NewJeansは予定どおり出演すると12月30日までに発表した。セットリストは「OMG（FRNK Remix）」「Cookie」「Right Now」「Supernatural」「Hype Boy」「ETA」「How Sweet」「Bubble Gum」「Ditto」。",
-      "en": "On the final day of rockin'on's COUNTDOWN JAPAN 24/25 (28–31 December) at Makuhari Messe in Chiba, NewJeans performed on the EARTH STAGE in the 8:05 pm slot. Their appearance, announced by ADOR on 6 November, made them the first K-pop group to play the festival. Although events in Korea were being cancelled after the Jeju Air crash of 29 December, NewJeans confirmed by 30 December that they would appear as scheduled. The setlist was 'OMG' (FRNK Remix), 'Cookie', 'Right Now', 'Supernatural', 'Hype Boy', 'ETA', 'How Sweet', 'Bubble Gum' and 'Ditto'."
+      "ja": "千葉・幕張メッセ国際展示場で開かれたrockin'on主催の『COUNTDOWN JAPAN 24/25』（12月28日から31日）の最終日に、EARTH STAGEの20時05分からの枠で出演した。出演は11月6日にADORが発表し、K-POPグループとして同フェス初の出演。12月29日のチェジュ航空機事故を受けて韓国では公演の中止が相次いだが、ADORは12月30日、主催者への影響などを考慮して予定どおり出演すると発表した。「Right Now」「Hype Boy」「Ditto」などを披露した。",
+      "en": "On the final day of rockin'on's COUNTDOWN JAPAN 24/25 (28–31 December) at Makuhari Messe in Chiba, NewJeans performed on the EARTH STAGE in the 8:05 pm slot. Their appearance, announced by ADOR on 6 November, made them the first K-pop group to play the festival. Although events in Korea were being cancelled after the Jeju Air crash of 29 December, ADOR announced on 30 December that NewJeans would appear as scheduled, citing the impact on the organisers. Their set included 'Right Now', 'Hype Boy' and 'Ditto'."
     },
     "credits": {
       "venue": "Makuhari Messe, Chiba (EARTH STAGE)",
@@ -4517,8 +4526,8 @@
       "event",
       "brand-event"
     ],
-    "verified": false,
-    "editor_note": "Official X post 2025-01-18 (#디올립글로우팝업); opening event 17 Jan 2025 per search summary of Digital Times/Asiae (DT page fetched but body text not extracted)."
+    "verified": true,
+    "editor_note": "Official X post 2025-01-18 (#디올립글로우팝업); opening event 17 Jan 2025 per search summary of Digital Times/Asiae (DT page fetched but body text not extracted). / 2026-10-24 nightly: Official X post 1880540642151186762 (2025-01-18 09:00 UTC, '#광고 #디올뷰티 ... #디올립글로우팝업 ... #HAERIN', 3 photos) confirms; Asia Economy 2025-01-23 confirms the pop-up at Shinsegae Gangnam Central City 1F until 2 Feb and the opening event on 17 Jan with Kim Yuna, Haerin, Han So-hee and Nam Joo-hyuk (Naver snippets: '지난 1월 17일 열린 오프닝 행사')."
   },
   {
     "id": "live-2025-03-22-njz-incheon-departure-hong-kong",
@@ -4558,7 +4567,8 @@
       "overseas",
       "njz"
     ],
-    "verified": false
+    "verified": false,
+    "editor_note": "2026-10-24 nightly: Facts check out in press: Tenasia 2025-03-22 20:45 (members left Incheon for Hong Kong on 22 Mar for ComplexCon; many reporters at the airport, bodyguards used) and the Star News live stream y32PeyRHy0w ('Streamed live on Mar 22, 2025'). 'In the morning' not stated in sources found. Not changed: the departure is after the 21 Mar 2025 court injunction, data-policy §2 says post-injunction NJZ activity is recorded only when based on official announcements with the background in note, and this record is press-only with no note."
   },
   {
     "id": "live-2025-03-23-complexcon-hong-kong-2025",
@@ -4640,7 +4650,8 @@
       "overseas",
       "njz"
     ],
-    "verified": false
+    "verified": false,
+    "editor_note": "2026-10-24 nightly: Facts check out in press: Xportsnews 2025-03-24 20:05 (afternoon arrival at Incheon T1 after ComplexCon; Hanni and Hyein in NJZ caps with their own names, Minji in a cap with the NJZ name) and Newsen 2025-03-24. Not changed: post-injunction, press-only airport record without a note, same scope question as live-2025-03-22-njz-incheon-departure-hong-kong."
   },
   {
     "id": "live-2025-06-18-danielle-omega-aqua-terra-kyoto",
@@ -4666,7 +4677,9 @@
     },
     "source_url": "https://v.daum.net/v/20250619134559814",
     "reference_urls": [
-      "https://v.daum.net/v/20250619123830888"
+      "https://v.daum.net/v/20250619123830888",
+      "https://www.scmp.com/magazines/style/luxury/watches/article/3315003/omega-unveils-aqua-terra-30mm-watch-tems-and-newjeans-danielle-kyoto-small-watch-shines-brands-my",
+      "https://en.worldtempus.com/article/events/omega-reveals-aqua-terra-30-mm-collection-kyoto-omega-80743.html"
     ],
     "media": {
       "type": "none"
@@ -4680,8 +4693,8 @@
       "watch",
       "event"
     ],
-    "verified": false,
-    "editor_note": "Segye Ilbo (2025-06-19). Appeared as Omega ambassador with ADOR, not under the NJZ name, so entity newjeans. Court ruling context omitted from reader text. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-17: moved from ad to live (attendance event)."
+    "verified": true,
+    "editor_note": "Segye Ilbo (2025-06-19). Appeared as Omega ambassador with ADOR, not under the NJZ name, so entity newjeans. Court ruling context omitted from reader text. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-17: moved from ad to live (attendance event). / 2026-10-24 nightly: No Omega first-party page found. Segye Ilbo 2025-06-19 (Daum) and multiple Korean outlets (Naver, 2025-06-19..20) give 18 June, Kyoto, Aqua Terra 30mm launch, attendance as global ambassador with ADOR staff accompanying; SCMP and WorldTempus confirm Danielle among the ambassadors at the Kyoto launch at Shogunzuka Seiryuden (they give no exact day). Treated as confirmed on consistent major-press reporting."
   },
   {
     "id": "live-2026-07-19-haerin-hyein-incheon-arrival-us",
@@ -4721,8 +4734,8 @@
       "airport",
       "overseas"
     ],
-    "verified": false,
-    "editor_note": "Purpose of the US trip not disclosed in press; Newsen photo/video articles only. Departure date unknown."
+    "verified": true,
+    "editor_note": "Purpose of the US trip not disclosed in press; Newsen photo/video articles only. Departure date unknown. / 2026-10-24 nightly: Newsen 2026-07-19 (photo/video desk, '1년4개월만에') and Newsen via Nate confirm Haerin and Hyein arriving from the US on the afternoon of 19 July 2026 through Incheon Airport Terminal 2. Airport sightings have no first-party source; confirmed on the photographers' own reports. Purpose of the trip still not reported."
   },
   {
     "id": "live-2026-09-07-haerin-rouge-dior-on-stage-popup-photocall",
@@ -4743,8 +4756,8 @@
       "en": "Haerin attended the photocall for Dior Beauty's 'Rouge Dior On Stage' pop-up at Lotte Department Store Avenuel Jamsil, Seoul."
     },
     "detail": {
-      "ja": "クリスチャン・ディオール・ビューティー「ルージュ ディオール オン ステージ」コレクションのポップアップ開店記念フォトコールが、ソウル松坡区のロッテ百貨店蚕室店アベニュエルで開かれ、ヘリンが出席した。ADOR復帰後、ヘリンが初めて公の場に姿を見せた公式日程と報じられ、会場には多くのファンが集まった。",
-      "en": "Haerin attended the opening photocall for Christian Dior Beauty's 'Rouge Dior On Stage' collection pop-up at Lotte Department Store Avenuel Jamsil in Songpa-gu, Seoul. Press reported it as her first official public appearance since returning to ADOR, and a large crowd of fans gathered."
+      "ja": "クリスチャン・ディオール・ビューティー「2026 ルージュ ディオール オン ステージ」コレクションのポップアップ開店記念フォトコールが、ソウル松坡区のロッテ百貨店蚕室店アベニュエルで開かれ、ヘリンがキム・ヨナ、ナム・ジュヒョクらとともに出席した。ADOR復帰後、ヘリンが初めて公の場に姿を見せた公式日程と報じられ、会場には多くのファンが集まった。ポップアップは9月27日まで運営される。",
+      "en": "Haerin attended the opening photocall for Christian Dior Beauty's '2026 Rouge Dior On Stage' collection pop-up at Lotte Department Store Avenuel Jamsil in Songpa-gu, Seoul, with Kim Yuna and Nam Joo-hyuk among the other guests. Press reported it as her first official public appearance since returning to ADOR, and a large crowd of fans gathered. The pop-up runs until September 27."
     },
     "credits": {
       "venue": "Lotte Department Store Avenuel Jamsil, Seoul",
@@ -4764,7 +4777,7 @@
       "event",
       "brand-event"
     ],
-    "verified": false,
-    "editor_note": "Replaces ad-2026-09-07-haerin-beauty-brand-photocall (brand unnamed there); Dong-A Ilbo 2026-09-10 names Christian Dior Beauty \"2026 Rouge Dior On Stage\"."
+    "verified": true,
+    "editor_note": "Replaces ad-2026-09-07-haerin-beauty-brand-photocall (brand unnamed there); Dong-A Ilbo 2026-09-10 names Christian Dior Beauty \"2026 Rouge Dior On Stage\". / 2026-10-24 nightly: Aju Business Daily 2026-09-08 confirms Haerin at the Rouge Dior On Stage collection pop-up photocall on the afternoon of 7 Sep at Lotte Department Store Jamsil; Dong-A Ilbo 2026-09-10 (photo credited to Christian Dior Beauty) confirms the opening event on 7 Sep at Avenuel B1 'The Crown', the run until 27 Sep, and Haerin, Kim Yuna, Nam Joo-hyuk attending (added). Korea Times 2026-09-08 headline: first official appearance in 18 months. No official X/Instagram post was checked."
   }
 ]

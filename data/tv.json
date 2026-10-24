@@ -3657,9 +3657,11 @@
       "ja": "仁川での『2023 THE FACT MUSIC AWARDS』で今年のアーティスト賞など2冠、「Super Shy」「ETA」を披露。",
       "en": "NewJeans won Artist of the Year and Listener's Choice at the 2023 The Fact Music Awards in Incheon, performing 'Super Shy' and 'ETA'."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+    "source_url": "http://biz.heraldcorp.com/view.php?ud=202310101839487801299_1",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
       "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=ND0uxS6pxFk",
       "https://www.youtube.com/watch?v=jeKFPHa9Kec"
     ],
     "media": {
@@ -3669,10 +3671,10 @@
     "tags": [
       "award-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "仁川南洞体育館で開かれた『2023 THE FACT MUSIC AWARDS』で、今年のアーティスト（本賞）とListener's Choice賞を受賞した。レッドカーペットは16時30分、本授賞式は18時30分開始で、司会はチョン・ヒョンムとソヒョン。受賞コメントでヘインはミン・ヒジン代表とスタッフに、ハニはBunniesに謝意を述べた。ステージでは「Super Shy」と「ETA」を披露した。",
-      "en": "NewJeans received Artist of the Year (Bonsang) and the Listener's Choice Award at the 2023 The Fact Music Awards at Namdong Gymnasium in Incheon. The red carpet began at 4:30 pm and the ceremony at 6:30 pm, hosted by Jun Hyun-moo and Seohyun. In their speech Hyein thanked CEO Min Hee-jin and the staff, and Hanni thanked Bunnies. The group performed 'Super Shy' and 'ETA'."
+      "ja": "仁川南洞体育館で開かれた『2023 THE FACT MUSIC AWARDS』で、今年のアーティスト（本賞）とListener's Choice賞を受賞した。授賞式は18時30分開始で、司会はチョン・ヒョンムとソヒョン。受賞コメントでは、いつ聴いても飽きない音楽で舞台に立たせてくれたとミン・ヒジン代表に感謝し、Bunniesにも謝意を述べた。ステージでは「Super Shy」と「ETA」を披露した。",
+      "en": "NewJeans received Artist of the Year (Bonsang) and the Listener's Choice Award at the 2023 The Fact Music Awards at Namdong Gymnasium in Incheon. The ceremony began at 6:30 pm, hosted by Jun Hyun-moo and Seohyun. In their acceptance speech they thanked CEO Min Hee-jin for letting them perform music that never gets old, and thanked Bunnies. The group performed 'Super Shy' and 'ETA'."
     },
     "credits": {
       "venue": "Namdong Gymnasium, Incheon",
@@ -3682,7 +3684,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=ND0uxS6pxFk"
     },
-    "editor_note": "公式動画:  THE FACT MUSIC AWARDS「[2023 더팩트 뮤직 어워즈] NewJeans (뉴진스) 'Super Shy' + 'ETA' @TMA」(2025-02-03); 関連1本をreference_urlsに記載"
+    "editor_note": "公式動画:  THE FACT MUSIC AWARDS「[2023 더팩트 뮤직 어워즈] NewJeans (뉴진스) 'Super Shy' + 'ETA' @TMA」(2025-02-03); 関連1本をreference_urlsに記載 / 2026-10-24 nightly: Herald Pop (2023-10-10 22:22 KST) confirms date, Incheon Namdong Gymnasium, hosts Jun Hyun-moo/Seohyun, both awards, and the speech (thanks to CEO Min Hee-jin and the fans); other Naver results give the 6:30 pm start. Organizer's official YouTube upload ND0uxS6pxFk (Feb 3, 2025) confirms 'Super Shy' + 'ETA'. Removed unconfirmed 4:30 pm red-carpet time and the per-member attribution of the speech (Hyein/Hanni), which no source found supports."
   },
   {
     "id": "tv-2023-10-21-venue101-presents-get-up-live",
@@ -3704,7 +3706,9 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://mdpr.jp/k-enta/4013367",
+      "https://www.thetvdb.com/series/venue101/episodes/11308971"
     ],
     "media": {
       "type": "none"
@@ -3721,15 +3725,15 @@
       "broadcaster": "NHK General TV",
       "program": "Venue101 Presents NewJeans \"Get Up\" Live"
     },
-    "editor_note": "公式YouTube動画なし: NHK does not publish Venue101 performances on YouTube; no official upload found",
+    "editor_note": "公式YouTube動画なし: NHK does not publish Venue101 performances on YouTube; no official upload found / 2026-10-24 nightly: Broadcast date (Sat 21 Oct 2023, NHK General) and format confirmed: Modelpress 2023-10-22 ('21日放送のNHK音楽番組「Venue101」…スピンオフ特番『Venue101 Presents NewJeans“Get Up”Live』', fan questions answered) and NHK's programme blurb (copied on TheTVDB: studio performance, members-only talk, a song performed on Japanese TV for the first time, 全米チャート1位). Korean press (Naver, 2023-10-10..20) also pre-announced the 21 Oct solo appearance. The three-song setlist ('New Jeans', 'Super Shy', 'ETA') could not be confirmed from any NHK page or press report, so verified left false.",
     "image": {
       "url": "https://img-mdpr.freetls.fastly.net/article/OrRW/nm/OrRWf14r6Q-tAqDZcDB7aA-CcQvf8pSpUs23DPM_N4k.jpg",
       "source_url": "https://mdpr.jp/k-enta/3995417"
     }
   },
   {
-    "id": "tv-2023-10-22-music-bank-in-mexico",
-    "date": "2023-10-22",
+    "id": "tv-2023-11-05-music-bank-in-mexico",
+    "date": "2023-11-05",
     "date_type": "broadcast",
     "date_precision": "day",
     "category": "tv",
@@ -3739,14 +3743,17 @@
     ],
     "title": {
       "ja": "KBS『ミュージックバンク in メキシコ』",
-      "en": "Music Bank in Mexico"
+      "en": "Music Bank in Mexico (KBS 2TV broadcast)"
     },
     "summary": {
-      "ja": "『MUSIC BANK in MEXICO』で5曲を披露し、ダニエルは「Part of Your World」、ハニはミンニと「Recuérdame」を歌った。",
-      "en": "NewJeans played five songs at Music Bank in Mexico City, with Danielle singing 'Part of Your World' and Hanni duetting 'Recuérdame' with Minnie."
+      "ja": "メキシコシティ公演を収めたKBS 2TV『ミュージックバンク in メキシコ』が放送され、ダニエルのソロやハニの共演も流れた。",
+      "en": "KBS 2TV aired Music Bank in Mexico, with NewJeans' set from Mexico City, Danielle's 'Part of Your World' and Hanni's duet with Minnie."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "source_url": "https://kstar.kbs.co.kr/list_view.html?idx=287051",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://www.mk.co.kr/article/10866116"
+    ],
     "media": {
       "type": "none"
     },
@@ -3754,18 +3761,17 @@
       "music-show",
       "world-tour"
     ],
-    "verified": false,
-    "editor_note": "Date is the event date; KBS broadcast date not confirmed. | Broadcast date Nov 5, 2023 per KBS preview (Daum/News1, Nov 3, 2023). / 公式YouTube動画なし: No KBS Kpop / KBS WORLD TV clip of NewJeans at Music Bank in Mexico found",
+    "verified": true,
+    "editor_note": "Date is the event date; KBS broadcast date not confirmed. | Broadcast date Nov 5, 2023 per KBS preview (Daum/News1, Nov 3, 2023). / 公式YouTube動画なし: No KBS Kpop / KBS WORLD TV clip of NewJeans at Music Bank in Mexico found / 2026-10-24 nightly: Date changed 2023-10-22 -> 2023-11-05: tv records take the broadcast date (data-policy §1), and KBS's own press page (kstar.kbs.co.kr, 2023-11-03) gives the concert as 22 Oct at Palacio de los Deportes and the KBS 2TV broadcast as Sun 5 Nov 11:15 pm; the concert itself is already covered by live-2023-10-22-music-bank-in-mexico. KBS names 'Hype Boy', 'Super Shy', 'ETA' (\"등\"); 'OMG' and 'New Jeans' are not named in any source found, so the five-song claim was softened. Hanni/Minnie duet was 'Remember Me' (Coco OST) with Park Bo-gum on piano per Star Today/MK 2023-11-04 (the record called it 'Recuérdame'). Danielle's first live 'Part of Your World' confirmed by multiple 2023-11-03..05 headlines. Removed unconfirmed director credit (Hwang Min-gyu).",
     "detail": {
-      "ja": "メキシコシティのパラシオ・デ・ロス・デポルテスで開かれたKBS『ミュージックバンク』ワールドツアー第17回公演に出演した。司会はパク・ボゴムで、出演はNewJeans、（G）I-DLE、ITZY、STAYC、AB6IX、TNXの6組。NewJeansは「Hype Boy」「OMG」「New Jeans」「Super Shy」「ETA」を披露し、ダニエルは『リトル・マーメイド』のOST「Part of Your World」をライブで初めて歌い、ハニは（G）I-DLEのミンニと「Recuérdame」を歌った。KBS 2TVでの放送は11月5日23時15分と予告された。",
-      "en": "NewJeans appeared at Music Bank in Mexico, the 17th show of KBS's Music Bank World Tour, at Palacio de los Deportes in Mexico City, as one of six acts alongside (G)I-dle, ITZY, STAYC, AB6IX and TNX, with Park Bo-gum hosting. They performed 'Hype Boy', 'OMG', 'New Jeans', 'Super Shy' and 'ETA'; Danielle sang 'Part of Your World' from The Little Mermaid live for the first time, and Hanni sang 'Recuérdame' with Minnie of (G)I-dle. KBS 2TV scheduled the broadcast for November 5 at 11:15 pm."
+      "ja": "10月22日にメキシコシティのパラシオ・デ・ロス・デポルテスで開かれた『ミュージックバンク』ワールドツアー第17回公演が、KBS 2TVで23時15分から放送された。司会はパク・ボゴムで、出演はNewJeans、（G）I-DLE、ITZY、STAYC、AB6IX、TNXの6組。NewJeansは「Hype Boy」「Super Shy」「ETA」などを披露し、ダニエルは『リトル・マーメイド』のOST「Part of Your World」をライブで初披露した。ハニは（G）I-DLEのミンニと、パク・ボゴムのピアノ伴奏で『リメンバー・ミー』のOST「Remember Me」を歌った。",
+      "en": "KBS 2TV aired the 17th stop of the Music Bank World Tour, held on October 22 at Palacio de los Deportes in Mexico City, at 11:15 pm. Park Bo-gum hosted, and the six acts were NewJeans, (G)I-dle, ITZY, STAYC, AB6IX and TNX. NewJeans performed songs including 'Hype Boy', 'Super Shy' and 'ETA'; Danielle gave her first live performance of 'Part of Your World' from The Little Mermaid, and Hanni sang 'Remember Me' from Coco with (G)I-dle's Minnie, accompanied by Park Bo-gum on piano."
     },
     "credits": {
       "broadcaster": "KBS 2TV",
       "program": "MUSIC BANK in MEXICO",
       "venue": "Palacio de los Deportes, Mexico City",
-      "host": "Park Bo-gum",
-      "director": "Hwang Min-gyu"
+      "host": "Park Bo-gum"
     },
     "image": {
       "url": "https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20231103083149_aa34c7d14afc30f5789d627dfcbbe803.jpg",
@@ -3792,7 +3798,9 @@
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
       "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://www.etonline.com/2023-billboard-music-awards-the-complete-winners-list-215199",
       "https://www.youtube.com/watch?v=BI4SnEZ_e2Q",
       "https://www.youtube.com/watch?v=KMGeWyu4FbE",
       "https://www.youtube.com/watch?v=1Nppg1IbmSM",
@@ -3806,10 +3814,10 @@
       "award-show",
       "us"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "『2023 Billboard Music Awards』で新設のTop Global K-Pop Artistを受賞した。この年の授賞式はテレビ放送ではなくBillboardのウェブサイトとSNSで配信され、受賞スピーチとパフォーマンスは事前収録で構成された。NewJeansは「Super Shy」と「OMG」を披露。ノミネートは計5部門で、Top Global K-Pop Album（『Get Up』）、Top Global K-Pop Song（「Ditto」「OMG」）、Top Billboard Global（Excl. U.S.）Artistにも名を連ねた。",
-      "en": "NewJeans won the newly created Top Global K-Pop Artist award at the 2023 Billboard Music Awards. That year's ceremony streamed on Billboard's website and social channels rather than on television, with pre-recorded speeches and performances; NewJeans performed 'Super Shy' and 'OMG'. They had five nominations in total, including Top Global K-Pop Album (Get Up), Top Global K-Pop Song ('Ditto' and 'OMG') and Top Billboard Global (Excl. U.S.) Artist."
+      "ja": "『2023 Billboard Music Awards』で新設のTop Global K-Pop Artistを受賞した。この年の授賞式はテレビ放送ではなくオンライン（BBMAs.watch）で米東部時間19日20時から配信された。NewJeansは「Super Shy」と「OMG」のパフォーマンスを披露。ノミネートは計5部門で、Top K-Pop Album（『Get Up』）、Top Global K-Pop Song（「Ditto」「OMG」）、Top Billboard Global（Excl. U.S.）Artistにも名を連ねた。",
+      "en": "NewJeans won the newly created Top Global K-Pop Artist award at the 2023 Billboard Music Awards. That year's ceremony streamed online at BBMAs.watch from 8 pm ET on November 19 rather than airing on television. NewJeans performed 'Super Shy' and 'OMG'. They had five nominations in total, including Top K-Pop Album (Get Up), Top Global K-Pop Song ('Ditto' and 'OMG') and Top Billboard Global (Excl. U.S.) Artist."
     },
     "credits": {
       "organizer": "Billboard / Dick Clark Productions",
@@ -3818,7 +3826,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=zGCAGWdXHPM"
     },
-    "editor_note": "公式動画: NewJeans「NewJeans (뉴진스) 2023 Billboard Music Awards (Super Shy+OMG)」(2023-12-19); 関連4本をreference_urlsに記載"
+    "editor_note": "公式動画: NewJeans「NewJeans (뉴진스) 2023 Billboard Music Awards (Super Shy+OMG)」(2023-12-19); 関連4本をreference_urlsに記載 / 2026-10-24 nightly: Confirmed date (streamed Sun 19 Nov 2023, 8 pm ET, BBMAs.watch), the win and all four other nominations via ET Online complete winners list; Billboard Music Awards channel upload 'NewJeans win Top Global K-Pop Artist' (BI4SnEZ_e2Q) dated Nov 20 KST. Performance of 'Super Shy'+'OMG' per the official NewJeans upload zGCAGWdXHPM (dateText Dec 20, 2023 KST; earlier note said 12-19). Corrected the album category name to 'Top K-Pop Album' (not 'Top Global K-Pop Album'); dropped the 'pre-recorded speeches' claim, not stated in sources checked."
   },
   {
     "id": "tv-2023-11-24-blue-dragon-film-awards-44",
@@ -3835,11 +3843,13 @@
       "en": "44th Blue Dragon Film Awards"
     },
     "summary": {
-      "ja": "KBSホールでの第44回青龍映画賞で、祝賀公演の1番手として「ETA」「Super Shy」を披露。",
-      "en": "NewJeans opened the performances at the 44th Blue Dragon Film Awards with 'ETA' and 'Super Shy'."
+      "ja": "KBSホールでの第44回青龍映画賞の授賞式で、祝賀公演として「ETA」「Super Shy」を披露。",
+      "en": "NewJeans gave a celebratory performance of 'ETA' and 'Super Shy' at the 44th Blue Dragon Film Awards."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+    "source_url": "https://www.youtube.com/watch?v=yIBQpq5CHMA",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "http://www.celuvmedia.com/article.php?aid=1700838257466773011",
       "https://www.youtube.com/watch?v=WDFephZ_Q94",
       "https://www.youtube.com/watch?v=P1z0D64qJKA",
       "https://www.youtube.com/watch?v=xIU__uoVqdA"
@@ -3851,10 +3861,10 @@
     "tags": [
       "award-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "ソウル汝矣島のKBSホールで開かれた第44回青龍映画賞の授賞式で、祝賀公演の1番手として「ETA」と「Super Shy」を披露した。司会はキム・ヘス（30回目で最後の司会）とユ・ヨンソク。KBS 2TVとKBSのYouTubeチャンネルで生中継された。",
-      "en": "NewJeans opened the performances at the 44th Blue Dragon Film Awards at KBS Hall in Yeouido, Seoul, with 'ETA' and 'Super Shy'. Kim Hye-soo, hosting for the 30th and final time, presided with Yoo Yeon-seok, and the ceremony aired live on KBS2 and KBS's YouTube channel."
+      "ja": "ソウル汝矣島のKBSホールで開かれた第44回青龍映画賞の授賞式で、イントロに続いて「ETA」と「Super Shy」を祝賀公演として披露した。祝賀公演にはほかにダンスクルーの1MILLION、チャン・ギハ、キム・ワンソン、パク・ジニョンが出演。司会はキム・ヘス（今回が最後の司会）とユ・ヨンソクで、KBSが20時30分から生中継した。",
+      "en": "At the 44th Blue Dragon Film Awards at KBS Hall in Yeouido, Seoul, NewJeans gave a celebratory performance of an intro followed by 'ETA' and 'Super Shy'. The other celebratory acts were dance crew 1MILLION, Jang Ki-ha, Kim Wan-sun and Park Jin-young. Kim Hye-soo, hosting for the last time, presided with Yoo Yeon-seok, and KBS broadcast the ceremony live from 8:30 pm."
     },
     "credits": {
       "venue": "KBS Hall, Seoul",
@@ -3864,7 +3874,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=yIBQpq5CHMA"
     },
-    "editor_note": "公式動画: KBS Entertain「NewJeans, ‘INTRO + ETA & Super Shy’ Celebratory Performance [The 44th Blue Dragon Film Awards] | ...」(2023-11-24); 関連3本をreference_urlsに記載"
+    "editor_note": "公式動画: KBS Entertain「NewJeans, ‘INTRO + ETA & Super Shy’ Celebratory Performance [The 44th Blue Dragon Film Awards] | ...」(2023-11-24); 関連3本をreference_urlsに記載 / 2026-10-24 nightly: Confirmed 24 Nov 2023, KBS Hall Yeouido, hosts Kim Hye-soo/Yoo Yeon-seok, live on KBS from 8:30 pm and the celebratory-act lineup (1MILLION, NewJeans, Jang Ki-ha, Kim Wan-sun, Park Jin-young) via Celuv Media 2023-11-24 and Sports Chosun photo captions; KBS Entertain upload yIBQpq5CHMA ('INTRO + ETA & Super Shy', dateText Nov 24, 2023) confirms the set. Removed 'first of the celebratory performances' (not supported; press lists 1MILLION first) and 'live on KBS YouTube' (not found)."
   },
   {
     "id": "tv-2023-11-30-newjeans-yearbook-22-23",
@@ -3898,7 +3908,7 @@
       "vod"
     ],
     "verified": false,
-    "editor_note": "VOD release rather than a TV broadcast; date_type set to broadcast for sorting consistency with other video programs. | not enriched: no source found beyond the input; platform and runtime unverified. / 公式動画: NewJeans「[Preview] NewJeans (뉴진스) Yearbook 22-23 Preview Clip #1」(2023-10-26); 関連2本をreference_urlsに記載",
+    "editor_note": "VOD release rather than a TV broadcast; date_type set to broadcast for sorting consistency with other video programs. | not enriched: no source found beyond the input; platform and runtime unverified. / 公式動画: NewJeans「[Preview] NewJeans (뉴진스) Yearbook 22-23 Preview Clip #1」(2023-10-26); 関連2本をreference_urlsに記載 / 2026-10-24 nightly: Could not confirm a 30 Nov 2023 VOD release; the date appears only on en.wikipedia 'NewJeans videography'. Weverse notice 15976 and Weverse Shop notices are JS-rendered and returned no content to curl; Naver news (Oct-Dec 2023) has no coverage. The verified goods record goods-2023-10-30-newjeans-yearbook-22-23 (Weverse Shop notices 4755/4756, artist notice 15976) describes the same product as a package released 10 Nov (GLOBAL) whose digital code card carries ~140 min of 4K Bunnies Camp footage plus ~165 min of unreleased behind-the-scenes, which conflicts with this record's description of a documentary 'from debut preparations through 2023'. Preview clips confirmed on the official channel: XSJqQaZfZLQ and HramRxsThE4 dated Oct 27, 2023 KST, AEpg7yJG-Ac Oct 31, 2023 KST (editor note's 2023-10-26 for clip #1 is the Pacific-time date).",
     "detail": {
       "ja": "ADORとHYBEが、NewJeansの最初の1年を追ったドキュメンタリー映像作品『NewJeans Yearbook 22-23』をVODとして公開した。デビュー準備から2023年の活動までを記録した内容で、テレビ放送ではなく映像配信としてリリースされた。",
       "en": "ADOR and HYBE released NewJeans Yearbook 22-23, a documentary following the group's first year from debut preparations through their 2023 activities. It came out as a VOD title rather than a television broadcast."
@@ -3925,12 +3935,14 @@
       "en": "2023 Melon Music Awards"
     },
     "summary": {
-      "ja": "『Melon Music Awards 2023』で大賞2冠を含む最多5冠、「Track: NewJeans」で『Get Up』全6曲を披露。",
-      "en": "NewJeans swept five awards at the 2023 Melon Music Awards, including the Artist and Song of the Year Daesangs, and performed all six Get Up tracks."
+      "ja": "『Melon Music Awards 2023』で大賞2部門を含む5冠を獲得し、『Get Up』全6曲のメドレーを披露。",
+      "en": "NewJeans won five awards at the 2023 Melon Music Awards, including the Artist and Song of the Year Daesangs, and performed all six Get Up tracks."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+    "source_url": "https://sports.donga.com/article/all/20231203/122455590/1",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
       "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=MfO1FenJbKI",
       "https://www.youtube.com/watch?v=MO3uEWJv4OY",
       "https://www.youtube.com/watch?v=nDlNPbPnMUU",
       "https://www.youtube.com/watch?v=jZSVOfmeVTs"
@@ -3942,20 +3954,19 @@
     "tags": [
       "award-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "仁川のINSPIREアリーナでの『Melon Music Awards 2023』で、大賞の今年のアーティスト賞と今年のベストソング（「Ditto」）、ベストグループ賞、TOP10、Millions TOP10（『Get Up』）の5部門で最多受賞となった。年間アルバム賞（『Get Up』）にもノミネート。司会はアン・ユジン。「Track: NewJeans」のステージで「New Jeans」「Super Shy」「ETA」「Cool With You」「Get Up」「ASAP」の『Get Up』全6曲を披露した。配信はMelon、Wavve、ABEMA（日本）、Beyond LIVE。",
-      "en": "At the 2023 Melon Music Awards at Inspire Arena in Incheon, NewJeans won five awards, the most of the night: the Daesangs for Artist of the Year and Song of the Year ('Ditto'), plus Best Female Group, Top 10 Artist and Millions Top 10 (Get Up), with a further nomination for Album of the Year (Get Up). An Yu-jin hosted. In a stage titled 'Track: NewJeans' the group performed all six Get Up tracks: 'New Jeans', 'Super Shy', 'ETA', 'Cool With You', 'Get Up' and 'ASAP'. The show streamed on Melon, Wavve, Abema (Japan) and Beyond Live."
+      "ja": "仁川のINSPIREアリーナでの『Melon Music Awards 2023』で、大賞の今年のアーティスト賞と今年のベストソング（「Ditto」）、ベストグループ（女性）、TOP10、Millions TOP10の5部門を受賞した。第1部の締めくくりに『Get Up』の全6曲を新たな編曲と振付でつなぐステージを披露し、「New Jeans」はヘリン、「Super Shy」はダニエル、「ETA」はミンジ・ダニエル・ヘインのユニット、「Cool With You」はハニが中心となり、「Get Up」と「ASAP」は5人で披露した。受賞コメントではBunniesへの感謝を述べた。日本ではABEMA、韓日以外ではBeyond LIVEで中継された。",
+      "en": "At the 2023 Melon Music Awards at Inspire Arena in Incheon, NewJeans won five awards: the Daesangs for Artist of the Year and Song of the Year ('Ditto'), plus Best Group (Female), Top 10 and Millions Top 10. Closing Part 1, they performed all six Get Up tracks in new arrangements and choreography: Haerin led 'New Jeans', Danielle 'Super Shy', Minji, Danielle and Hyein performed 'ETA' as a unit, Hanni led 'Cool With You', and all five performed 'Get Up' and 'ASAP'. In their speeches they thanked Bunnies. The show streamed on ABEMA in Japan and on Beyond LIVE outside Korea and Japan."
     },
     "credits": {
       "venue": "Inspire Arena, Incheon",
-      "organizer": "Kakao Entertainment / Melon",
-      "host": "An Yu-jin"
+      "organizer": "Kakao Entertainment / Melon"
     },
     "links": {
       "youtube": "https://www.youtube.com/watch?v=MfO1FenJbKI"
     },
-    "editor_note": "公式動画: Melon「[MMA2023] NewJeans - FULL Performance | #NewJeans #SuperShy #ETA #CoolWithYou #GetUp #ASAP #MMA2023」(2023-12-02); 関連3本をreference_urlsに記載"
+    "editor_note": "公式動画: Melon「[MMA2023] NewJeans - FULL Performance | #NewJeans #SuperShy #ETA #CoolWithYou #GetUp #ASAP #MMA2023」(2023-12-02); 関連3本をreference_urlsに記載 / 2026-10-24 nightly: Sports Donga 2023-12-03 confirms 2 Dec at Inspire Arena, the five awards, and the six-song Get Up stage closing Part 1 with member-by-member staging; Melon's official uploads MfO1FenJbKI / MO3uEWJv4OY dated Dec 2, 2023. Pre-show press (Naver, Nov 2023) gives ABEMA (Japan) and Beyond LIVE (other countries). Removed claims not found in any source: 'most awards of the night', the stage title 'Track: NewJeans', host An Yu-jin, and Melon/Wavve streaming. The Album of the Year nomination is left to record-2023-11-17-mma-2023-album-of-the-year-get-up-nomination."
   },
   {
     "id": "tv-2023-12-09-music-bank-global-festival-2023-japan",
@@ -3994,7 +4005,7 @@
       "venue": "Belluna Dome, Tokorozawa",
       "host": "Rowoon, Go Min-si, Lee Young-ji"
     },
-    "editor_note": "公式YouTube動画なし: No KBS clip for the 2023 Music Bank Global Festival in Japan (Belluna Dome) found",
+    "editor_note": "公式YouTube動画なし: No KBS clip for the 2023 Music Bank Global Festival in Japan (Belluna Dome) found / 2026-10-24 nightly: Event facts check out (OSEN 2023-12-16: Japan show held 9 Dec at Belluna Dome, Part 2 hosts Rowoon, Go Min-si, Lee Young-ji, aired on KBS2 15 Dec), but this tv record is dated on the recording day, not a broadcast day, and duplicates both live-2023-12-09-music-bank-global-festival-2023-japan (the concert) and tv-2023-12-15-music-bank-global-festival-2023-seoul (the broadcast). Setlist not confirmed. Left unchanged pending decision.",
     "image": {
       "url": "https://img-mdpr.freetls.fastly.net/article/aa4B/nm/aa4BfDyv5IrLYOp4_UXm0wTH9lWQC2OwczC8nF1DZ30.jpg",
       "source_url": "https://mdpr.jp/k-enta/4092295"
@@ -4018,10 +4029,12 @@
       "ja": "『2023 Asia Artist Awards』で今年の歌手賞と今年の歌賞の大賞2冠を含む6冠、「OMG」「ETA」「Super Shy」を披露。",
       "en": "NewJeans won two Daesangs and four more awards at the 2023 Asia Artist Awards at Philippine Arena, performing 'OMG', 'ETA' and 'Super Shy'."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+    "source_url": "https://www.youtube.com/watch?v=YI-AtARfI7o",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
       "https://ja.wikipedia.org/wiki/NewJeans",
-      "https://www.youtube.com/watch?v=YI-AtARfI7o",
+      "https://www.news1.kr/articles/5262151",
+      "https://www.youtube.com/watch?v=5LxNE3usT40",
       "https://www.youtube.com/watch?v=hVJNEthXXoI",
       "https://www.youtube.com/watch?v=LK6uf5xJgDM"
     ],
@@ -4032,10 +4045,10 @@
     "tags": [
       "award-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "フィリピン・ブラカン州ボカウェのフィリピン・アリーナで開かれた『2023 Asia Artist Awards』で、大賞の今年の歌手賞と今年の歌賞（「Ditto」）のほか、ファビュラス賞、ベストチョイス賞、アジアセレブリティ賞、ホットトレンド賞を受賞した。ステージでは「OMG」「ETA」「Super Shy」を披露。司会はカン・ダニエル、チャン・ウォニョン、ソン・ハンビンで、Weverse（世界）、Hulu（日本）、Lazada（フィリピン）で配信された。",
-      "en": "At the 2023 Asia Artist Awards at Philippine Arena in Bocaue, Bulacan, NewJeans won the Singer of the Year and Song of the Year ('Ditto') grand prizes along with the Fabulous, Best Choice, Asia Celebrity and Hot Trend awards, and performed 'OMG', 'ETA' and 'Super Shy'. Kang Daniel, Jang Won-young and Sung Han-bin hosted; the show streamed on Weverse worldwide, Hulu in Japan and Lazada in the Philippines."
+      "ja": "フィリピン・ブラカン州ボカウェのフィリピン・アリーナで開かれた『2023 Asia Artist Awards』で、大賞の今年の歌手賞と今年の歌賞（「Ditto」）のほか、ファビュラス賞、ベストチョイス賞、アジアセレブリティ賞、ホットトレンド賞を受賞した。ステージでは「OMG」「ETA」「Super Shy」を披露。司会はカン・ダニエル、チャン・ウォニョン、ソン・ハンビンで、韓国ではWeverse、日本ではHulu、フィリピンではLazadaで配信された。",
+      "en": "At the 2023 Asia Artist Awards at Philippine Arena in Bocaue, Bulacan, NewJeans won the Singer of the Year and Song of the Year ('Ditto') grand prizes along with the Fabulous, Best Choice, Asia Celebrity and Hot Trend awards, and performed 'OMG', 'ETA' and 'Super Shy'. Kang Daniel, Jang Won-young and Sung Han-bin hosted; the show streamed on Weverse in Korea, Hulu in Japan and Lazada in the Philippines."
     },
     "credits": {
       "venue": "Philippine Arena, Bocaue",
@@ -4045,7 +4058,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=5LxNE3usT40"
     },
-    "editor_note": "公式動画: ASIA ARTIST AWARDS 스타뉴스「[#AAA2023] NewJeans (뉴진스) - Broadcast Stage | Official Video」(2023-12-14); 関連3本をreference_urlsに記載"
+    "editor_note": "公式動画: ASIA ARTIST AWARDS 스타뉴스「[#AAA2023] NewJeans (뉴진스) - Broadcast Stage | Official Video」(2023-12-14); 関連3本をreference_urlsに記載 / 2026-10-24 nightly: Korean press via Naver (2023-12-14..16) confirms 14 Dec at Philippine Arena, the six awards (two Daesangs + Fabulous, Best Choice, Asia Celebrity, Hot Trend) and hosts Jang Won-young, Sung Han-bin, Kang Daniel; pre-show press says Weverse was the exclusive live stream in Korea (not worldwide), Lazada Philippines and hulu Japan. AAA official channel upload YI-AtARfI7o ('INTRO Perf. + OMG + ETA + Super Shy', premiered Dec 15, 2023 KST) confirms the set. Fixed 'Weverse (worldwide)' to Weverse in Korea."
   },
   {
     "id": "tv-2023-12-15-music-bank-global-festival-2023-seoul",
@@ -4058,32 +4071,35 @@
       "all"
     ],
     "title": {
-      "ja": "ミュージックバンク グローバルフェスティバル 2023（KBSホール）",
-      "en": "Music Bank Global Festival 2023 (KBS Hall)"
+      "ja": "ミュージックバンク グローバルフェスティバル 2023（KBS 2TV放送）",
+      "en": "2023 Music Bank Global Festival (KBS 2TV broadcast)"
     },
     "summary": {
-      "ja": "KBS 2TVで放送された『2023 MUSIC BANK GLOBAL FESTIVAL』で、ベルーナドーム収録の第2部に5曲のステージが登場。",
-      "en": "KBS 2TV's broadcast of the 2023 Music Bank Global Festival, with NewJeans' five-song Belluna Dome set airing in Part 2."
+      "ja": "KBS 2TVで放送された『2023 MUSIC BANK GLOBAL FESTIVAL』で、ベルーナドーム収録の第2部にNewJeansのステージが登場。",
+      "en": "KBS 2TV's broadcast of the 2023 Music Bank Global Festival, with NewJeans' set from the Belluna Dome show airing in Part 2."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "source_url": "http://www.osen.co.kr/article/G1112241354",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://www.mk.co.kr/article/10900173"
+    ],
     "media": {
       "type": "none"
     },
     "tags": [
       "year-end"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "KBS 2TVで放送された『2023 MUSIC BANK GLOBAL FESTIVAL』は、ソウル汝矣島のKBSホールからの生放送の第1部（司会ロウン、チャン・ウォニョン）と、12月9日にベルーナドームで収録した日本公演の第2部（司会ロウン、コ・ミンシ、イ・ヨンジ）で構成された。NewJeansは第2部の出演者で、「OMG」「Ditto」「New Jeans」「Super Shy」「ETA」の5曲のステージが放送された。全37組・50ステージ、240分の構成で、OTTや見逃し配信は提供されず、12月17日23時45分にKBS 2TVで120分の特別再放送が予定された。",
-      "en": "KBS 2TV's broadcast of the 2023 Music Bank Global Festival consisted of Part 1, live from KBS Hall in Yeouido, Seoul (hosted by Rowoon and Jang Won-young), and Part 2, the Japan show recorded on December 9 at Belluna Dome (hosted by Rowoon, Go Min-si and Lee Young-ji). NewJeans appeared in Part 2, with their five-song set of 'OMG', 'Ditto', 'New Jeans', 'Super Shy' and 'ETA' aired. The 240-minute program featured 37 acts and 50 stages; no OTT or replay service was offered, and a 120-minute special rebroadcast was scheduled on KBS 2TV for December 17 at 11:45 pm."
+      "ja": "KBS 2TVで放送された『2023 MUSIC BANK GLOBAL FESTIVAL』は、ソウル汝矣島のKBSホールからの生放送の第1部（司会ロウン、チャン・ウォニョン）と、12月9日にベルーナドームで開かれた日本公演を初公開した第2部（司会ロウン、コ・ミンシ、イ・ヨンジ）で構成された。NewJeansは第2部の出演者としてステージが放送された。全37組・50ステージ、240分の構成だった。",
+      "en": "KBS 2TV's broadcast of the 2023 Music Bank Global Festival consisted of Part 1, live from KBS Hall in Yeouido, Seoul (hosted by Rowoon and Jang Won-young), and Part 2, the first airing of the Japan show held on December 9 at Belluna Dome (hosted by Rowoon, Go Min-si and Lee Young-ji). NewJeans' stage aired in Part 2. The 240-minute program featured 37 acts and 50 stages."
     },
     "credits": {
       "broadcaster": "KBS 2TV",
       "program": "2023 MUSIC BANK GLOBAL FESTIVAL",
       "host": "Rowoon, Jang Won-young (Part 1); Rowoon, Go Min-si, Lee Young-ji (Part 2)"
     },
-    "editor_note": "Correction: OSEN/Ilgan Sports (Dec 16, 2023) and the KBS Song Festival lineup place NewJeans in Part 2 (Japan, recorded Dec 9), not in the live KBS Hall Part 1. The previous summary ('performed at the Seoul leg') is not supported. / 公式YouTube動画なし: No KBS Kpop / KBS WORLD TV NewJeans clip dated 231215 found",
+    "editor_note": "Correction: OSEN/Ilgan Sports (Dec 16, 2023) and the KBS Song Festival lineup place NewJeans in Part 2 (Japan, recorded Dec 9), not in the live KBS Hall Part 1. The previous summary ('performed at the Seoul leg') is not supported. / 公式YouTube動画なし: No KBS Kpop / KBS WORLD TV NewJeans clip dated 231215 found / 2026-10-24 nightly: OSEN 2023-12-16 confirms the 15 Dec KBS2 broadcast, Part 1 live from KBS Hall (Rowoon, Jang Won-young), Part 2 = Belluna Dome show of 9 Dec aired for the first time (Rowoon, Go Min-si, Lee Young-ji), NewJeans in the Part 2 lineup, 240 min, 37 acts, 50 stages. Title said '(KBS Hall)', which misplaced NewJeans; renamed to the broadcast. The five-song setlist ('OMG','Ditto','New Jeans','Super Shy','ETA') could not be confirmed from any source and was removed from summary/detail. Removed the no-replay and 17 Dec 23:45 rebroadcast sentences: they come from Star Today/MK 2023-12-16 (after the record date) and the replay policy was later reversed after viewer complaints.",
     "image": {
       "url": "https://wimg.heraldcorp.com/upcontent/ncms/2023/12/15/202312152257075206528_20231215233452_01.jpg",
       "source_url": "https://www.heraldmuse.com/article/3281646"
@@ -4104,11 +4120,14 @@
       "en": "2023 SBS Gayo Daejeon"
     },
     "summary": {
-      "ja": "『2023 SBS歌謡大典』第2部で「New Jeans」「ETA」「Ditto」「OMG（FRNK Remix ver.）」を披露。",
-      "en": "NewJeans performed 'New Jeans', 'ETA', 'Ditto' and the FRNK remix of 'OMG' in Part 2 of the 2023 SBS Gayo Daejeon."
+      "ja": "『2023 SBS歌謡大典』で「New Jeans」とクリスマス仕様のリミックスによる「ETA」「Ditto」「OMG（FRNK Remix）」を披露。",
+      "en": "NewJeans performed 'New Jeans' and Christmas remix versions of 'ETA', 'Ditto' and 'OMG' (FRNK Remix) at the 2023 SBS Gayo Daejeon."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+    "source_url": "http://sports.khan.co.kr/news/sk_index.html?art_id=202312260851003&sec_id=540101&pt=nv",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "http://www.newsis.com/view/?id=NISX20231226_0002570202&cID=10601&pID=10600",
+      "https://www.youtube.com/watch?v=tR9LwwP3Ms4",
       "https://www.youtube.com/watch?v=0RpjSMHBzo8",
       "https://www.youtube.com/watch?v=zFJPBVOLr8s"
     ],
@@ -4119,10 +4138,10 @@
     "tags": [
       "year-end"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "仁川のINSPIREアリーナで開かれた『2023 SBS歌謡大典』の第2部で、「New Jeans」「ETA」「Ditto」「OMG（FRNK Remix ver.）」を披露した。SBSが生中継し、司会はSHINeeのキー、IVEのアン・ユジン、TOMORROW X TOGETHERのヨンジュン。",
-      "en": "NewJeans performed 'New Jeans', 'ETA', 'Ditto' and 'OMG' (FRNK Remix version) in Part 2 of the 2023 SBS Gayo Daejeon at Inspire Arena in Incheon. SBS broadcast the show live, with Key (Shinee), An Yu-jin (Ive) and Yeonjun (Tomorrow X Together) hosting."
+      "ja": "仁川のINSPIREアリーナで開かれた『2023 SBS歌謡大典』で、今年最多の1位を獲得したグループとして紹介され、「New Jeans」に続いて、クリスマスに合わせたリミックス版の「ETA」「Ditto」「OMG（FRNK Remix）」を披露した。最後にはスケッチブックに書いたメッセージをファンに向けて見せた。司会はSHINeeのキー、IVEのアン・ユジン、TOMORROW X TOGETHERのヨンジュンで、出演は計25組。",
+      "en": "At the 2023 SBS Gayo Daejeon at Inspire Arena in Incheon, NewJeans were introduced as the act with the most music-show wins of the year and performed 'New Jeans' followed by Christmas remix versions of 'ETA', 'Ditto' and 'OMG' (FRNK Remix), closing with sketchbook messages to fans. Key (Shinee), An Yu-jin (Ive) and Yeonjun (Tomorrow X Together) hosted the 25-act show."
     },
     "credits": {
       "broadcaster": "SBS",
@@ -4132,7 +4151,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=tR9LwwP3Ms4"
     },
-    "editor_note": "公式動画: SBSKPOP X INKIGAYO「Newjeans (뉴진스) - New Jeans + Ditto + OMG – FRNK Remix @가요대전 GayoDaejeon20231225」(2023-12-25); 関連2本をreference_urlsに記載"
+    "editor_note": "公式動画: SBSKPOP X INKIGAYO「Newjeans (뉴진스) - New Jeans + Ditto + OMG – FRNK Remix @가요대전 GayoDaejeon20231225」(2023-12-25); 関連2本をreference_urlsに記載 / 2026-10-24 nightly: Sports Kyunghyang 2023-12-26 (ADOR-supplied) gives the set: 'New Jeans', then Christmas remix 'ETA', 'Ditto', 'OMG' (FRNK Remix), sketchbook letters at the end; Newsis 2023-12-26 photo caption confirms 25 Dec, Inspire Arena, hosts Key/Yeonjun/An Yu-jin, 25 acts. SBS official uploads (tR9LwwP3Ms4, zFJPBVOLr8s) dated Dec 26, 2023 KST. 'Part 2' placement not found in sources, removed. Editor note's 2023-12-25 date for tR9LwwP3Ms4 is the Pacific-time date."
   },
   {
     "id": "tv-2023-12-27-ntv-music-award-2023",
@@ -4152,9 +4171,12 @@
       "ja": "日本テレビ系の年間ミュージックアワード特番に2年連続で出演し、「Super Shy」「OMG」を披露。",
       "en": "NewJeans returned to Nippon TV's year-end music award special for a second year, performing 'Super Shy' and 'OMG'."
     },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
+    "source_url": "https://www.oricon.co.jp/news/2308425/full/",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "http://sports.khan.co.kr/news/sk_index.html?art_id=202312280842003&sec_id=540301&pt=nv",
+      "http://www.newsis.com/view/?id=NISX20231226_0002570202&cID=10601&pID=10600"
     ],
     "media": {
       "type": "none"
@@ -4162,10 +4184,10 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "日本テレビ系で生放送された『発表！今年イチバン聴いた歌～年間ミュージックアワード2023～』に2年連続で出演し、「Super Shy」と「OMG」を披露した。ストリーミングデータをもとに年間の人気曲を発表する年末特番。",
-      "en": "NewJeans appeared for a second consecutive year on Nippon TV's live year-end special Happyo! Kotoshi Ichiban Kiita Uta: Nenkan Music Award 2023, performing 'Super Shy' and 'OMG'. The program presents the year's most-streamed songs."
+      "ja": "日本テレビ系で19時から4時間生放送された『発表！今年イチバン聴いた歌～年間ミュージックアワード2023～』に2年連続で出演し、「Super Shy」と「OMG」を披露した。サブスクのランキングデータなどをもとに年間の人気曲を発表する年末特番で、司会は上白石萌音、藤井貴彦、水卜麻美。",
+      "en": "NewJeans appeared for a second consecutive year on Nippon TV's four-hour live year-end special Happyo! Kotoshi Ichiban Kiita Uta: Nenkan Music Award 2023, broadcast from 7 pm, performing 'Super Shy' and 'OMG'. The program presents the year's most-listened songs based on streaming ranking data and was hosted by Mone Kamishiraishi, Takahiko Fujii and Asami Miura."
     },
     "credits": {
       "broadcaster": "Nippon TV",
@@ -4174,7 +4196,7 @@
         "en": "Happyo! Kotoshi Ichiban Kiita Uta: Nenkan Music Award 2023 (Announced! The Most-Listened Songs of the Year: Annual Music Award 2023)"
       }
     },
-    "editor_note": "公式YouTube動画なし: NTV does not publish performance clips on YouTube; no official upload found"
+    "editor_note": "公式YouTube動画なし: NTV does not publish performance clips on YouTube; no official upload found / 2026-10-24 nightly: Oricon 2023-12-27 timetable confirms the live NTV broadcast on 27 Dec (19:00-22:54, from Hotel New Otani Makuhari), NewJeans in the 8 pm and 9 pm hours, hosts Kamishiraishi/Fujii/Miura and the subscription-ranking basis. Newsis 2023-12-26 (per ADOR) confirms the second consecutive appearance; Sports Kyunghyang 2023-12-28 confirms 'OMG' and 'Super Shy'. Added time and hosts."
   },
   {
     "id": "tv-2023-12-30-japan-record-awards-65",
@@ -4191,12 +4213,16 @@
       "en": "65th Japan Record Awards"
     },
     "summary": {
-      "ja": "『第65回輝く！日本レコード大賞』で「Ditto」が日本語詞を含まない楽曲として史上初の優秀作品賞に選ばれ、特別賞も受賞。",
-      "en": "'Ditto' became the first song without Japanese lyrics to win an Excellent Work Award at the 65th Japan Record Awards, where NewJeans also received a Special Award."
+      "ja": "『第65回輝く！日本レコード大賞』で「Ditto」の優秀作品賞と特別賞をダブル受賞し、「Ditto」「ETA」「New Jeans」を披露。",
+      "en": "At the 65th Japan Record Awards NewJeans received an Excellent Work Award for 'Ditto' and a Special Award, and performed 'Ditto', 'ETA' and 'New Jeans'."
     },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
+    "source_url": "https://www.oricon.co.jp/news/2307243/full/",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://mdpr.jp/music/detail/4062561",
+      "http://www.newsis.com/view/?id=NISX20231226_0002570202&cID=10601&pID=10600",
+      "https://www.tenasia.com/amp/2023123128704"
     ],
     "media": {
       "type": "none"
@@ -4205,10 +4231,10 @@
       "japan-tv",
       "award-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "東京・新国立劇場中劇場で開かれた『第65回輝く！日本レコード大賞』で、「Ditto」により優秀作品賞を受賞し、あわせて特別賞も受賞した。優秀作品賞は11月22日に発表されており、日本語詞を含まない楽曲の選出は史上初で、海外アーティストとしても初の受賞。ステージでは「Ditto」「ETA」「New Jeans」の3曲を披露した。TBS系で17時30分から22時まで生放送され、総合司会は安住紳一郎と川口春奈。",
-      "en": "At the 65th Japan Record Awards at the New National Theatre's Playhouse in Tokyo, NewJeans received the Excellent Work Award for 'Ditto', announced on November 22, along with a Special Award; 'Ditto' was the first Excellent Work selection without Japanese lyrics, and NewJeans the first foreign act to win it. They performed 'Ditto', 'ETA' and 'New Jeans'. TBS broadcast the ceremony live from 5:30 to 10:00 pm, hosted by Shinichiro Azumi and Haruna Kawaguchi."
+      "ja": "東京・新国立劇場で開かれた『第65回輝く！日本レコード大賞』で、大賞候補となる優秀作品賞（「Ditto」）と特別賞を受賞した。両賞は11月22日に発表されており、所属事務所によれば海外アーティストが大賞候補に選ばれたのは初めて。ステージでは「Ditto」「ETA」「New Jeans」の3曲を披露した。TBS系で17時30分から22時まで生放送され、総合司会は安住紳一郎と川口春奈。",
+      "en": "At the 65th Japan Record Awards at the New National Theatre in Tokyo, NewJeans received an Excellent Work Award for 'Ditto', which made it a Grand Prix candidate, and a Special Award; both were announced on November 22, and according to their agency they were the first overseas act to be a Grand Prix candidate. They performed 'Ditto', 'ETA' and 'New Jeans'. TBS broadcast the ceremony live from 5:30 to 10:00 pm, hosted by Shinichiro Azumi and Haruna Kawaguchi."
     },
     "credits": {
       "broadcaster": "TBS",
@@ -4216,7 +4242,7 @@
       "organizer": "Japan Composer's Association",
       "host": "Shinichiro Azumi, Haruna Kawaguchi"
     },
-    "editor_note": "公式YouTube動画なし: TBS does not publish Japan Record Awards performances on YouTube; no official upload found",
+    "editor_note": "公式YouTube動画なし: TBS does not publish Japan Record Awards performances on YouTube; no official upload found / 2026-10-24 nightly: Oricon 2023-12-19 confirms TBS live 30 Dec 17:30-22:00 at 新国立劇場, Excellent Work ('Ditto') + Special Award double win, set 'Ditto','ETA','New Jeans', hosts Azumi/Kawaguchi; Modelpress 2023-11-22 00:00 lists the awards; Tenasia 2023-12-31 reports the two awards and three songs performed. Newsis 2023-12-26 (per ADOR) says first overseas artist to be a Grand Prix candidate. Removed unconfirmed 'first song without Japanese lyrics' and 'first foreign act to win it' wording and the 中劇場 detail.",
     "image": {
       "url": "https://img-mdpr.freetls.fastly.net/article/mt24/wm/mt24BmNkivCKi080Jeoc7SCB9QBeLZAkewl39i8_oxo.jpg",
       "source_url": "https://mdpr.jp/music/4125625"
@@ -4240,9 +4266,13 @@
       "ja": "ABCの年越し特番にK-POPガールグループとして初出演し、韓国で収録した「Super Shy」「ETA」が放送された。",
       "en": "NewJeans became the first K-pop girl group on ABC's Dick Clark's New Year's Rockin' Eve, with 'Super Shy' and 'ETA' recorded in Korea."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+    "source_url": "https://x.com/NewJeans_ADOR/status/1735072119825031316",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/NewJeans"
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://en.wikipedia.org/wiki/NewJeans",
+      "https://www.laughingplace.com/w/entertainment/dick-clarks-new-years-rockin-eve-with-ryan-seacrest-2024-adds-post-malone-ivy-queen-and-newjeans-to-the-lineup/",
+      "https://www.tenasia.com/amp/2023121469854",
+      "http://www.newsis.com/view/?id=NISX20231226_0002570202&cID=10601&pID=10600"
     ],
     "media": {
       "type": "youtube",
@@ -4251,17 +4281,17 @@
     "tags": [
       "us"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "ABCの年越し特番『Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2024』に出演し、「Super Shy」と「ETA」を披露した。K-POPのガールグループとしてこの番組初の出演で、出演は12月13日に発表されていた。パフォーマンスは韓国で収録したものが放送された。",
-      "en": "NewJeans performed 'Super Shy' and 'ETA' on ABC's New Year's Eve special Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2024, the first K-pop girl group on the program. Their addition to the lineup was announced on December 13, and the performance was recorded in South Korea."
+      "ja": "ABCの年越し特番『Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2024』に出演し、「Super Shy」と「ETA」を披露した。K-POPのガールグループとしてこの番組初の出演で、出演は12月13日（米国時間）に発表されていた。番組として初めて韓国で行われたパフォーマンスとして放送された。",
+      "en": "NewJeans performed 'Super Shy' and 'ETA' on ABC's New Year's Eve special Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2024, the first K-pop girl group on the program. Their addition to the lineup was announced on December 13 (US time), and their segment, staged in South Korea, was the show's first performance from the country."
     },
     "credits": {
       "broadcaster": "ABC",
       "program": "Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2024",
       "producer": "Dick Clark Productions"
     },
-    "editor_note": "Recorded-in-Korea detail per ja.wikipedia Kohaku article; Billboard lineup announcement dated Dec 13, 2023. / 公式動画: NewJeans「NewJeans (뉴진스) New Year’s Rockin’ Eve 2024 (ETA+Super Shy)」(2024-01-01)",
+    "editor_note": "Recorded-in-Korea detail per ja.wikipedia Kohaku article; Billboard lineup announcement dated Dec 13, 2023. / 公式動画: NewJeans「NewJeans (뉴진스) New Year’s Rockin’ Eve 2024 (ETA+Super Shy)」(2024-01-01) / 2026-10-24 nightly: Official X post (NewJeans_ADOR 1735072119825031316, 2023-12-13 23:00 UTC = 13 Dec US / 14 Dec 08:00 KST, via fxtwitter) announces 'Super Shy' and 'ETA' from South Korea, airing Dec 31 8 pm ET / Jan 1 10 am KST on ABC. ABC/Dick Clark Productions release (copy on LaughingPlace; abc.com URL now 404) calls it the show's first-ever performance in South Korea. 'First K-pop girl group' per Tenasia 2023-12-14 and Newsis 2023-12-26 (ADOR). Official NewJeans upload k6vqIRScUTs dated Jan 1, 2024 KST. Source switched from Wikipedia to the official X post.",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=k6vqIRScUTs"
     }
@@ -4329,9 +4359,11 @@
       "ja": "ジャカルタの第38回ゴールデンディスクアワードで「Ditto」がデジタル音源大賞（今年の歌）と本賞を受賞、「Cool With You」「Ditto」を披露。",
       "en": "'Ditto' won the Digital Daesang and a Digital Song Bonsang at the 38th Golden Disc Awards in Jakarta, where NewJeans performed 'Cool With You' and 'Ditto'."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+    "source_url": "https://www.yna.co.kr/view/AKR20240107000600005?input=1195m",
     "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
       "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://www.youtube.com/watch?v=bbsZQ8x6i7U",
       "https://www.youtube.com/watch?v=JmZwZmi6g3Y",
       "https://www.youtube.com/watch?v=UPGD8Gfpbt4",
       "https://www.youtube.com/watch?v=8FpaiZrVoho"
@@ -4343,7 +4375,7 @@
     "tags": [
       "award-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "インドネシア・ジャカルタのジャカルタ国際スタジアムで開かれた第38回ゴールデンディスクアワードで、「Ditto」によりデジタル音源大賞（今年の歌）とデジタル音源部門本賞を受賞した。ステージでは「Cool With You」と「Ditto」を披露。司会はソン・シギョンとチャ・ウヌで、JTBCが放送した。",
       "en": "At the 38th Golden Disc Awards at Jakarta International Stadium in Jakarta, Indonesia, NewJeans won the Digital Daesang (Song of the Year) and a Digital Song Bonsang for 'Ditto', and performed 'Cool With You' and 'Ditto'. Sung Si-kyung and Cha Eun-woo hosted, and JTBC broadcast the ceremony."
@@ -4356,7 +4388,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=bbsZQ8x6i7U"
     },
-    "editor_note": "公式動画: Golden Disc「[38th Golden Disc Awards] NewJeans - Cool With You + Ditto♪｜JTBC 240106 방송」(2024-01-06); 関連3本をreference_urlsに記載"
+    "editor_note": "公式動画: Golden Disc「[38th Golden Disc Awards] NewJeans - Cool With You + Ditto♪｜JTBC 240106 방송」(2024-01-06); 関連3本をreference_urlsに記載 / 2026-10-24 nightly: Yonhap 2024-01-07 01:03 KST confirms 6 Jan (local) in Jakarta, Digital Daesang for 'Ditto' and hosts Sung Si-kyung/Cha Eun-woo; other Naver results (2024-01-06..08) give Jakarta International Stadium and the Digital Song Bonsang. Golden Disc official uploads bbsZQ8x6i7U ('Cool With You + Ditto | JTBC 240106 방송') and JmZwZmi6g3Y dated Jan 6, 2024 KST confirm the set and JTBC broadcast. No text changes needed."
   },
   {
     "id": "tv-2024-01-07-nhk-special-sekai-ni-hibiku-uta",

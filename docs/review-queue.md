@@ -41,3 +41,6 @@
 | 2026-10-24 | ad-2024-06-01-line-friends-collab-2024 | 内容がポップアップでの商品販売で、goods-2024-06-26 の明洞・渋谷ポップアップと重なる。「2度目のコラボ」も2023年以降の複数コラボと合わない | 未決（adとして残すか、goodsに統合・削除するか） |
 | 2026-10-24 | record-2024-01-02-sma-33-daesang-nomination | ソウル歌謡大賞は大賞の候補を公表していない（公表は本賞・人気賞など）。ノミネートの根拠はWikipediaの一覧のみ | 未決（残すか削除するか） |
 | 2026-10-24 | tv-2023-08-10-k-global-heart-dream-awards-2023 | NewJeansは出席・出演しておらず、受賞は record-2023-08-10-k-global-heart-dream-awards-2023 と重複 | 未決（tvレコードを削除するか） |
+| 2026-10-24 | tv-2023-11-30-newjeans-yearbook-22-23 | goods-2023-10-30-newjeans-yearbook-22-23 と同じ商品。11/30のVOD公開日に一次ソースがなく、本文が公式告知と食い違う | 未決（残す・書き直す・削除のいずれか） |
+| 2026-10-24 | tv-2023-12-09-music-bank-global-festival-2023-japan | 収録日で置いたtvレコード。live-2023-12-09（公演）と tv-2023-12-15（放送）の両方と重なる | 未決（削除か統合か） |
+| 2026-10-24 | live-2025-03-22-njz-incheon-departure-hong-kong / live-2025-03-24-njz-incheon-arrival-hong-kong | 3/21の仮処分決定後の出入国で、根拠は報道のみ。data-policy §2は仮処分後のNJZの活動を公式発表があるものに限る | 未決（残すか外すか） |
