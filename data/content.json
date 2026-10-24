@@ -7538,8 +7538,8 @@
       "behind",
       "recording"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) shows the video on the official NewJeans channel uploaded Aug 10, 2023 KST under the title \"[Making Jeans] NewJeans (뉴진스) 'Cool With You' & 'ETA' Recording Behind\"; date and title confirmed. Description is boilerplate only, so the content description rests on the title."
   },
   {
     "id": "content-2023-08-11-light-jeans-2nd-ep-get-up-music-show-behind-ep-1",
@@ -7667,7 +7667,7 @@
       "live-stream"
     ],
     "verified": false,
-    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. / 2026-10-24 nightly: Tried Naver news search (date-limited to the broadcast day ±2) for coverage of this Phoning face call and found none; Phoning replays are app-only and there is no public official log. namu.wiki (fan-maintained, currently returns a bot block) remains the only source. Not confirmed."
   },
   {
     "id": "content-2023-08-17-making-jeans-cool-with-you-mv-behind",
@@ -7944,8 +7944,8 @@
       "behind",
       "dance-practice"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) shows the video on the official NewJeans channel uploaded Aug 31, 2023 KST under the title \"[Making Jeans] NewJeans (뉴진스) 'Cool With You' Dance Practice Behind\"; date and title confirmed. Description is boilerplate only, so the content description rests on the title."
   },
   {
     "id": "content-2023-09-05-light-jeans-2nd-ep-get-up-music-show-behind-ep-2",
@@ -7991,8 +7991,8 @@
       "behind",
       "music-show"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) shows the video on the official NewJeans channel uploaded Sep 5, 2023 KST under the title \"[Light Jeans] 2nd EP 'Get Up' Music Show Behind 🎀 EP.2 | NewJeans\"; date and title confirmed. Description is boilerplate only, so the content description rests on the title."
   },
   {
     "id": "content-2023-09-07-making-jeans-2nd-ep-jacket-photoshoot-behind",
@@ -8038,8 +8038,8 @@
       "behind",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) shows the video on the official NewJeans channel uploaded Sep 7, 2023 KST under the title \"[Making Jeans] NewJeans (뉴진스) 2nd EP Jacket Photoshoot Behind\"; date and title confirmed. Description is boilerplate only, so the content description rests on the title."
   },
   {
     "id": "content-2023-09-12-by-jeans-akmu-love-lee-cover-by-haerin",
@@ -8129,8 +8129,8 @@
       "behind",
       "mv-behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) shows the video on the official NewJeans channel uploaded Sep 14, 2023 KST under the title \"[Making Jeans] NewJeans (뉴진스) 'New Jeans' & 'ASAP' MV Behind (Final)\"; date and title confirmed. Description is boilerplate only, so the content description rests on the title."
   },
   {
     "id": "content-2023-09-16-light-jeans-2nd-ep-get-up-music-show-behind-ep-3",
@@ -8176,8 +8176,8 @@
       "behind",
       "music-show"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) shows the video on the official NewJeans channel uploaded Sep 16, 2023 KST under the title \"[Light Jeans] 2nd EP 'Get Up' Music Show Behind 🦋 EP.3 | NewJeans\"; date and title confirmed. Description is boilerplate only, so the content description rests on the title."
   },
   {
     "id": "content-2023-09-20-by-jeans-v-slow-dancing-cover-by-hyein",
@@ -8221,8 +8221,8 @@
       "by-jeans",
       "cover"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) shows the video on the official NewJeans channel uploaded Sep 20, 2023 KST under the title \"[By Jeans] 'V - Slow Dancing' Cover by HYEIN | NewJeans\"; date and title confirmed. Description is boilerplate only, so the content description rests on the title."
   },
   {
     "id": "content-2023-09-21-about-jeans-newjeans-vlog",
@@ -8236,8 +8236,8 @@
       "all"
     ],
     "title": {
-      "ja": "NewJeans Vlog シカゴ・ショッピングデー",
-      "en": "NewJeans Vlog 시카고 쇼핑데이"
+      "ja": "[About Jeans] シカゴ・ショッピングデー",
+      "en": "[About Jeans] Chicago Shopping Day"
     },
     "summary": {
       "ja": "「シカゴ・ショッピングデー」と題し、メンバーがシカゴで買い物をする一日を自ら記録したvlog。",
@@ -8267,8 +8267,8 @@
       "about-jeans",
       "vlog"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) shows ir6ndUQ2pS4 on the official NewJeans channel uploaded Sep 21, 2023 KST. The official title is English, '[About Jeans] Chicago Shopping Day 👛 | NewJeans' (same with hl=ko), not 'NewJeans Vlog 시카고 쇼핑데이'; title corrected. Which members appear was not checked (description is boilerplate)."
   },
   {
     "id": "content-2023-09-28-light-jeans-2023",
@@ -8283,7 +8283,8 @@
     ],
     "title": {
       "ja": "2023年秋夕スモールトーク",
-      "en": "2023년 추석맞이 스몰 토크"
+      "en": "2023 Chuseok Small Talk",
+      "original": "2023년 추석맞이 스몰 토크"
     },
     "summary": {
       "ja": "2023年の秋夕（チュソク）に合わせ、メンバーが語り合うスモールトークを収めたLight Jeansの一編。",
@@ -8314,8 +8315,8 @@
       "behind",
       "greeting"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) shows oIysDTZk48w on the official NewJeans channel uploaded Sep 28, 2023 KST, titled '[Light Jeans] 2023년 추석맞이 스몰 토크 🐰🌕 | NewJeans'. Date confirmed; title.en translated to English and the Korean title moved to title.original."
   },
   {
     "id": "content-2023-09-28-yt-happy-chuseok-newjeans-2023-chuseok-greeting",
@@ -8408,8 +8409,8 @@
       "greeting",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) shows the video on the official NewJeans channel uploaded Sep 29, 2023 KST under the title \"[Light Jeans] 2023 Chuseok Photoshoot Behind 🐰🌕 | NewJeans\"; date and title confirmed. Description is boilerplate only, so the content description rests on the title."
   },
   {
     "id": "content-2023-10-05-by-jeans-stephanie-poetri-i-love-you-3000-cover-by-minji",
@@ -8488,7 +8489,7 @@
       "live-stream"
     ],
     "verified": false,
-    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+    "editor_note": "Date, participants and running time from the fan-maintained namu.wiki 'NewJeans/Phoning LIVE' log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. / 2026-10-24 nightly: Tried Naver news search (date-limited to the broadcast day ±2) for coverage of this Phoning face call and found none; Phoning replays are app-only and there is no public official log. namu.wiki (fan-maintained, currently returns a bot block) remains the only source. Not confirmed."
   },
   {
     "id": "content-2023-10-07-light-jeans-bunnyland-pop-up-behind",
@@ -8533,8 +8534,8 @@
       "light-jeans",
       "behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) shows the video on the official NewJeans channel uploaded Oct 7, 2023 KST under the title \"[Light Jeans] Bunnyland Pop-Up Behind | NewJeans\"; date and title confirmed. Description is boilerplate only, so the content description rests on the title."
   },
   {
     "id": "content-2023-10-11-light-jeans-newjeans-pop-up-line-friends",
@@ -8579,8 +8580,8 @@
       "light-jeans",
       "behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) shows the video on the official NewJeans channel uploaded Oct 11, 2023 KST under the title \"[Light Jeans] NewJeans POP-UP @LINE FRIENDS\"; date and title confirmed. Description is boilerplate only, so the content description rests on the title."
   },
   {
     "id": "content-2023-10-12-light-jeans-nike-campaign-shoot-behind",
@@ -8716,8 +8717,8 @@
       "light-jeans",
       "behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) shows the video on the official NewJeans channel uploaded Oct 26, 2023 KST under the title \"[Light Jeans] University Festivals 2023 Behind | NewJeans\"; date and title confirmed. Description is boilerplate only, so the content description rests on the title."
   },
   {
     "id": "content-2023-10-27-about-jeans-minji-scene-2-minji-vlog",
@@ -8778,7 +8779,8 @@
     ],
     "title": {
       "ja": "[Preview] NewJeans Yearbook 22-23 プレビュークリップ #1",
-      "en": "[Preview] NewJeans (뉴진스) Yearbook 22-23 Preview Clip #1"
+      "en": "[Preview] NewJeans Yearbook 22-23 Preview Clip #1",
+      "original": "[Preview] NewJeans (뉴진스) Yearbook 22-23 Preview Clip #1"
     },
     "summary": {
       "ja": "『NewJeans Yearbook 22-23』のプレビュークリップ第1弾。",
@@ -8808,8 +8810,8 @@
       "yearbook",
       "preview"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) shows XSJqQaZfZLQ on the official NewJeans channel uploaded Oct 27, 2023 KST with this title. Date confirmed; Hangul removed from title.en (full official title kept in title.original)."
   },
   {
     "id": "content-2023-10-27-yt-yearbook-22-23-preview-clip-2",
@@ -8891,7 +8893,7 @@
       "live-stream"
     ],
     "verified": false,
-    "editor_note": "Date and content from the fan-maintained namu.wiki \"NewJeans/Phoning LIVE\" log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+    "editor_note": "Date and content from the fan-maintained namu.wiki \"NewJeans/Phoning LIVE\" log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. / 2026-10-24 nightly: Tried Naver news search (date-limited to the broadcast day ±2) for coverage of this Phoning face call and found none; Phoning replays are app-only and there is no public official log. namu.wiki (fan-maintained, currently returns a bot block) remains the only source. Not confirmed. The 'one year after the fandom name was revealed' premise of Bunnies Day was also not confirmed from an official or press source."
   },
   {
     "id": "content-2023-10-31-yt-yearbook-22-23-preview-clip-3",
@@ -8906,15 +8908,16 @@
     ],
     "title": {
       "ja": "[Preview] NewJeans Yearbook 22-23 プレビュークリップ #3",
-      "en": "[Preview] NewJeans (뉴진스) Yearbook 22-23 Preview Clip #3"
+      "en": "[Preview] NewJeans Yearbook 22-23 Preview Clip #3",
+      "original": "[Preview] NewJeans (뉴진스) Yearbook 22-23 Preview Clip #3"
     },
     "summary": {
       "ja": "『NewJeans Yearbook 22-23』のプレビュークリップ第3弾。",
       "en": "The third preview clip for the NewJeans Yearbook 22-23."
     },
     "detail": {
-      "ja": "『NewJeans Yearbook 22-23』のプレビューとして公開されたクリップ第3弾。シリーズに属さない単発コンテンツ。",
-      "en": "Preview Clip #3, released ahead of the NewJeans Yearbook 22-23. A stand-alone piece outside the regular series."
+      "ja": "『NewJeans Yearbook 22-23』のプレビューとして公開されたクリップ第3弾。動画の説明欄では発売日が2023年11月10日（金）と告知された。シリーズに属さない単発コンテンツ。",
+      "en": "Preview Clip #3, released ahead of the NewJeans Yearbook 22-23. The video description gave the release date as Friday, November 10, 2023 (KST). A stand-alone piece outside the regular series."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -8936,8 +8939,8 @@
       "yearbook",
       "preview"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) shows AEpg7yJG-Ac on the official NewJeans channel uploaded Oct 31, 2023 KST; description reads 'RELEASE : 23.11.10ㅣFriㅣKST' (added to detail). Hangul removed from title.en."
   },
   {
     "id": "content-2023-11-03-about-jeans-1",
@@ -8952,7 +8955,8 @@
     ],
     "title": {
       "ja": "そのままヘリン 1回目. パリお出かけ",
-      "en": "걍해린 1걍. 파리 나들이"
+      "en": "Just Haerin, Ep. 1: Outing in Paris",
+      "original": "걍해린 1걍. 파리 나들이"
     },
     "summary": {
       "ja": "「パリお出かけ」と題した、ヘリン自身が記録したvlog「そのままヘリン」の第1回。",
@@ -8982,8 +8986,8 @@
       "about-jeans",
       "vlog"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) shows iEr6m_QCtFo on the official NewJeans channel uploaded Nov 3, 2023 KST, titled '[About Jeans] 걍해린 1걍. 파리 나들이 | HAERIN vlog'. Date confirmed; title.en translated and Korean moved to title.original."
   },
   {
     "id": "content-2023-11-08-light-jeans-levis-501customization-hero-campaign-behind",
@@ -9029,8 +9033,8 @@
       "behind",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) shows the video on the official NewJeans channel uploaded Nov 8, 2023 KST under the title \"[Light Jeans] LEVI'S® 501CUSTOMIZATION Hero Campaign Behind🧢 | NewJeans\"; date and title confirmed. Description is boilerplate only, so the content description rests on the title."
   },
   {
     "id": "content-2023-11-10-light-jeans-1st-fan-meeting-bunnies-camp-behind",
@@ -9122,8 +9126,8 @@
       "behind",
       "photoshoot"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) shows the video on the official NewJeans channel uploaded Nov 14, 2023 KST under the title \"[Light Jeans] POPEYE Photoshoot Behind 🏙 | NewJeans\"; date and title confirmed. Description is boilerplate only, so the content description rests on the title."
   },
   {
     "id": "content-2023-11-15-yt-2024",
@@ -9138,7 +9142,8 @@
     ],
     "title": {
       "ja": "NewJeansが贈る2024学年度 修能応援メッセージ",
-      "en": "뉴진스가 전하는 2024학년도 수능 응원 메시지"
+      "en": "Support Message for the 2024 College Scholastic Ability Test from NewJeans",
+      "original": "뉴진스가 전하는 2024학년도 수능 응원 메시지"
     },
     "summary": {
       "ja": "2024学年度の修能（大学修学能力試験）を受ける受験生に向けた、メンバーからの応援メッセージ。",
@@ -9167,8 +9172,8 @@
       "clip",
       "greeting"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) shows 9nKMVI8OEEs on the official NewJeans channel uploaded Nov 15, 2023 KST; the description gives the official English title 'Support Message for the 2024 College Scholastic Ability Test from NewJeans', now used as title.en with the Korean title in title.original."
   },
   {
     "id": "content-2023-11-16-about-jeans-summer-in-tokyo",
@@ -9342,7 +9347,7 @@
       "live-stream"
     ],
     "verified": false,
-    "editor_note": "Date and content from the fan-maintained namu.wiki \"NewJeans/Phoning LIVE\" log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source."
+    "editor_note": "Date and content from the fan-maintained namu.wiki \"NewJeans/Phoning LIVE\" log; Phoning replays are app-only and could not be fetched. Not confirmed from an official source. / 2026-10-24 nightly: Tried Naver news search (date-limited to the broadcast day ±2) for coverage of this Phoning face call and found none; Phoning replays are app-only and there is no public official log. namu.wiki (fan-maintained, currently returns a bot block) remains the only source. Not confirmed."
   },
   {
     "id": "content-2023-11-28-yt-2024-seasons-greetings-preview-clip-1",
@@ -9526,8 +9531,8 @@
       "light-jeans",
       "behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) shows the video on the official NewJeans channel uploaded Dec 1, 2023 KST under the title \"[Light Jeans] STONEHENgE Behind  | NewJeans\"; date and title confirmed. Description is boilerplate only, so the content description rests on the title."
   },
   {
     "id": "content-2023-12-05-by-jeans-sarah-kang-once-in-a-moon-cover-by-hanni",
@@ -9631,8 +9636,9 @@
       "hyein"
     ],
     "title": {
-      "ja": "今日を、記録ヘン 2 ⊹ 시골에 간 헨스터의 오늘",
-      "en": "오늘을, 기록혠 2 ⊹ 시골에 간 헨스터의 오늘"
+      "ja": "今日を、記録ヘン 2 ⊹ 田舎へ行ったヘンスターの今日",
+      "en": "Recording Today, Hyein 2 ⊹ Hyeinster's Day in the Countryside",
+      "original": "오늘을, 기록혠 2 ⊹ 시골에 간 혠스터의 오늘"
     },
     "summary": {
       "ja": "「田舎へ行ったヘンスターの今日」と題した、ヘイン自身が記録したvlog「今日を、記録ヘン」の第2回。",
@@ -9662,8 +9668,8 @@
       "about-jeans",
       "vlog"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) shows NB44sWLhAAQ on the official NewJeans channel uploaded Dec 8, 2023 KST, titled '[About Jeans] 오늘을, 기록혠 2 ⊹ 시골에 간 혠스터의 오늘 | HYEIN vlog'. The record's Korean had a typo (헨스터 for 혠스터); title.en translated, title.ja fully Japanese, Korean in title.original."
   },
   {
     "id": "content-2023-12-13-light-jeans-pepero-behind",
@@ -9708,8 +9714,8 @@
       "light-jeans",
       "behind"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) shows the video on the official NewJeans channel uploaded Dec 13, 2023 KST under the title \"[Light Jeans] PEPERO Behind ❣️ | NewJeans\"; date and title confirmed. Description is boilerplate only, so the content description rests on the title."
   },
   {
     "id": "content-2023-12-15-about-jeans-2",
@@ -9724,7 +9730,8 @@
     ],
     "title": {
       "ja": "そのままヘリン 2回目. 東京お出かけ",
-      "en": "걍해린 2걍. 도쿄 나들이"
+      "en": "Just Haerin, Ep. 2: Outing in Tokyo",
+      "original": "걍해린 2걍. 도쿄 나들이"
     },
     "summary": {
       "ja": "「東京お出かけ」と題した、ヘリン自身が記録したvlog「そのままヘリン」の第2回。",
@@ -9754,8 +9761,8 @@
       "about-jeans",
       "vlog"
     ],
-    "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully."
+    "verified": true,
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (Asia/Seoul) shows AiKeq-fQOUI on the official NewJeans channel uploaded Dec 15, 2023 KST, titled '[About Jeans] 걍해린 2걍. 도쿄 나들이 | HAERIN vlog'. Date confirmed; title.en translated and Korean moved to title.original."
   },
   {
     "id": "content-2023-12-20-light-jeans-carin-photoshoot-behind",

@@ -10211,7 +10211,13 @@
       "hanteo-music-awards"
     ],
     "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; 32nd HMA Wikipedia says WhosFandom voting ran Dec 9-30, 2024 on Whosfan; no official nominee page fetched."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; 32nd HMA Wikipedia says WhosFandom voting ran Dec 9-30, 2024 on Whosfan; no official nominee page fetched. / 2026-10-24 nightly: Organizer Hanteo Global said on Nov 27, 2024 (Starnews, etnews) that WhosFandom first-round voting on the TOP 40 per gender would run Dec 2-5, 2024 on Whosfan's official X, with the TOP 16 moving to the Whosfan app. Sports Kyunghyang (Dec 4, 2024) lists NewJeans (Bunnies) among the leaders of the female first round, and etnews/Xportsnews (Dec 9, 2024, quoting HMA) list NewJeans in female TOP16 Group D (with Soojin, IU, Kep1er), app voting from Dec 9 noon. So the nomination is confirmed by press, and an announcement date now exists (TOP 40 voting opened Dec 2, 2024; TOP 16 announced Dec 9, 2024), against the policy of using the ceremony date only when no announcement date can be found. Also, the record's 'decided by fan voting on the Whosfan app' omits that round 1 ran on X. Date not changed pending decision.",
+    "reference_urls": [
+      "https://www.starnewskorea.com/stview.php?no=2024112714390712509",
+      "https://sports.khan.co.kr/article/202412041450013",
+      "https://www.etnews.com/20241209000146",
+      "https://www.xportsnews.com/article/1938749"
+    ]
   },
   {
     "id": "record-2025-03-24-sma-34-bonsang-nomination",
@@ -10233,7 +10239,7 @@
     },
     "detail": {
       "ja": "第34回ソウル歌謡大賞の本賞・新人賞・人気賞・韓流特別賞などの候補が3月24日に公開され、モバイル投票が始まった。人気賞（国内投票）、韓流特別賞（海外投票）、K-POP SEOUL CHOICE（グループ／ソロ）は100%ファン投票で決まる。候補は2024年1月から2025年3月までに発表された音盤・音源が対象で、授賞式は6月21日に仁川のインスパイア・アリーナで開かれる。",
-      "en": "Nominees for the 34th Seoul Music Awards, including the Bonsang, Rookie, Popularity and K-Wave awards, were revealed on March 24 as mobile voting opened. The Popularity Award (domestic votes), K-Wave Special Award (overseas votes) and K-pop World Choice (group/solo) are decided entirely by fan votes. Releases from January 2024 to March 2025 were eligible, and the ceremony is set for June 21 at INSPIRE Arena in Incheon."
+      "en": "Nominees for the 34th Seoul Music Awards, including the Bonsang, Rookie, Popularity and K-Wave awards, were revealed on March 24 as mobile voting opened. The Popularity Award (domestic votes), K-Wave Special Award (overseas votes) and K-POP SEOUL CHOICE (group/solo) are decided entirely by fan votes. Releases from January 2024 to March 2025 were eligible, and the ceremony is set for June 21 at INSPIRE Arena in Incheon."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
     "media": {
@@ -10246,9 +10252,10 @@
     "verified": false,
     "reference_urls": [
       "https://isplus.com/article/view/isp202503240165",
-      "https://en.wikipedia.org/wiki/34th_Seoul_Music_Awards"
+      "https://en.wikipedia.org/wiki/34th_Seoul_Music_Awards",
+      "https://www.kukinews.com/article/view/kuk202503240264"
     ],
-    "editor_note": "Announcement date (Mar 24, 2025, nominees revealed with voting start) confirmed by Ilgan Sports (isplus 2025-03-24); NewJeans' inclusion in the four categories only per Wikipedia (34th SMA, citing seoulmusicawards.com/page/vote, not fetchable). Entity kept 'newjeans' (nomination under the NewJeans name for 2024 releases)."
+    "editor_note": "Announcement date (Mar 24, 2025, nominees revealed with voting start) confirmed by Ilgan Sports (isplus 2025-03-24); NewJeans' inclusion in the four categories only per Wikipedia (34th SMA, citing seoulmusicawards.com/page/vote, not fetchable). Entity kept 'newjeans' (nomination under the NewJeans name for 2024 releases). / 2026-10-24 nightly: Re-read Ilgan Sports (isp202503240165): nominees for Bonsang/Rookie/Popularity/K-Wave were opened with mobile voting on Mar 24, 2025 (first round to Apr 12), so the date holds. The announcement calls the fan-vote category 'K-POP SEOUL CHOICE' (group/solo); 'K-POP WORLD CHOICE' is the name used at the June ceremony (results coverage), so detail.en now matches the announcement wording and the title keeps the ceremony name. NewJeans' presence in this category is still only per Wikipedia: seoulmusicawards.com is refused by the egress proxy and Wayback was unreachable; no press article listing the nominees was found on Naver. Not confirmed."
   },
   {
     "id": "record-2025-03-24-sma-34-k-pop-world-choice-group-nomination",
@@ -10270,7 +10277,7 @@
     },
     "detail": {
       "ja": "第34回ソウル歌謡大賞の本賞・新人賞・人気賞・韓流特別賞などの候補が3月24日に公開され、モバイル投票が始まった。人気賞（国内投票）、韓流特別賞（海外投票）、K-POP SEOUL CHOICE（グループ／ソロ）は100%ファン投票で決まる。候補は2024年1月から2025年3月までに発表された音盤・音源が対象で、授賞式は6月21日に仁川のインスパイア・アリーナで開かれる。",
-      "en": "Nominees for the 34th Seoul Music Awards, including the Bonsang, Rookie, Popularity and K-Wave awards, were revealed on March 24 as mobile voting opened. The Popularity Award (domestic votes), K-Wave Special Award (overseas votes) and K-pop World Choice (group/solo) are decided entirely by fan votes. Releases from January 2024 to March 2025 were eligible, and the ceremony is set for June 21 at INSPIRE Arena in Incheon."
+      "en": "Nominees for the 34th Seoul Music Awards, including the Bonsang, Rookie, Popularity and K-Wave awards, were revealed on March 24 as mobile voting opened. The Popularity Award (domestic votes), K-Wave Special Award (overseas votes) and K-POP SEOUL CHOICE (group/solo) are decided entirely by fan votes. Releases from January 2024 to March 2025 were eligible, and the ceremony is set for June 21 at INSPIRE Arena in Incheon."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
     "media": {
@@ -10283,9 +10290,10 @@
     "verified": false,
     "reference_urls": [
       "https://isplus.com/article/view/isp202503240165",
-      "https://en.wikipedia.org/wiki/34th_Seoul_Music_Awards"
+      "https://en.wikipedia.org/wiki/34th_Seoul_Music_Awards",
+      "https://www.kukinews.com/article/view/kuk202503240264"
     ],
-    "editor_note": "Announcement date (Mar 24, 2025, nominees revealed with voting start) confirmed by Ilgan Sports (isplus 2025-03-24); NewJeans' inclusion in the four categories only per Wikipedia (34th SMA, citing seoulmusicawards.com/page/vote, not fetchable). Entity kept 'newjeans' (nomination under the NewJeans name for 2024 releases)."
+    "editor_note": "Announcement date (Mar 24, 2025, nominees revealed with voting start) confirmed by Ilgan Sports (isplus 2025-03-24); NewJeans' inclusion in the four categories only per Wikipedia (34th SMA, citing seoulmusicawards.com/page/vote, not fetchable). Entity kept 'newjeans' (nomination under the NewJeans name for 2024 releases). / 2026-10-24 nightly: Re-read Ilgan Sports (isp202503240165): nominees for Bonsang/Rookie/Popularity/K-Wave were opened with mobile voting on Mar 24, 2025 (first round to Apr 12), so the date holds. The announcement calls the fan-vote category 'K-POP SEOUL CHOICE' (group/solo); 'K-POP WORLD CHOICE' is the name used at the June ceremony (results coverage), so detail.en now matches the announcement wording and the title keeps the ceremony name. NewJeans' presence in this category is still only per Wikipedia: seoulmusicawards.com is refused by the egress proxy and Wayback was unreachable; no press article listing the nominees was found on Naver. Not confirmed."
   },
   {
     "id": "record-2025-03-24-sma-34-k-wave-special-award-nomination",
@@ -10307,7 +10315,7 @@
     },
     "detail": {
       "ja": "第34回ソウル歌謡大賞の本賞・新人賞・人気賞・韓流特別賞などの候補が3月24日に公開され、モバイル投票が始まった。人気賞（国内投票）、韓流特別賞（海外投票）、K-POP SEOUL CHOICE（グループ／ソロ）は100%ファン投票で決まる。候補は2024年1月から2025年3月までに発表された音盤・音源が対象で、授賞式は6月21日に仁川のインスパイア・アリーナで開かれる。",
-      "en": "Nominees for the 34th Seoul Music Awards, including the Bonsang, Rookie, Popularity and K-Wave awards, were revealed on March 24 as mobile voting opened. The Popularity Award (domestic votes), K-Wave Special Award (overseas votes) and K-pop World Choice (group/solo) are decided entirely by fan votes. Releases from January 2024 to March 2025 were eligible, and the ceremony is set for June 21 at INSPIRE Arena in Incheon."
+      "en": "Nominees for the 34th Seoul Music Awards, including the Bonsang, Rookie, Popularity and K-Wave awards, were revealed on March 24 as mobile voting opened. The Popularity Award (domestic votes), K-Wave Special Award (overseas votes) and K-POP SEOUL CHOICE (group/solo) are decided entirely by fan votes. Releases from January 2024 to March 2025 were eligible, and the ceremony is set for June 21 at INSPIRE Arena in Incheon."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
     "media": {
@@ -10320,9 +10328,10 @@
     "verified": false,
     "reference_urls": [
       "https://isplus.com/article/view/isp202503240165",
-      "https://en.wikipedia.org/wiki/34th_Seoul_Music_Awards"
+      "https://en.wikipedia.org/wiki/34th_Seoul_Music_Awards",
+      "https://www.kukinews.com/article/view/kuk202503240264"
     ],
-    "editor_note": "Announcement date (Mar 24, 2025, nominees revealed with voting start) confirmed by Ilgan Sports (isplus 2025-03-24); NewJeans' inclusion in the four categories only per Wikipedia (34th SMA, citing seoulmusicawards.com/page/vote, not fetchable). Entity kept 'newjeans' (nomination under the NewJeans name for 2024 releases)."
+    "editor_note": "Announcement date (Mar 24, 2025, nominees revealed with voting start) confirmed by Ilgan Sports (isplus 2025-03-24); NewJeans' inclusion in the four categories only per Wikipedia (34th SMA, citing seoulmusicawards.com/page/vote, not fetchable). Entity kept 'newjeans' (nomination under the NewJeans name for 2024 releases). / 2026-10-24 nightly: Re-read Ilgan Sports (isp202503240165): nominees for Bonsang/Rookie/Popularity/K-Wave were opened with mobile voting on Mar 24, 2025 (first round to Apr 12), so the date holds. The announcement calls the fan-vote category 'K-POP SEOUL CHOICE' (group/solo); 'K-POP WORLD CHOICE' is the name used at the June ceremony (results coverage), so detail.en now matches the announcement wording and the title keeps the ceremony name. NewJeans' presence in this category is still only per Wikipedia: seoulmusicawards.com is refused by the egress proxy and Wayback was unreachable; no press article listing the nominees was found on Naver. Not confirmed."
   },
   {
     "id": "record-2025-03-24-sma-34-popularity-award-nomination",
@@ -10344,7 +10353,7 @@
     },
     "detail": {
       "ja": "第34回ソウル歌謡大賞の本賞・新人賞・人気賞・韓流特別賞などの候補が3月24日に公開され、モバイル投票が始まった。人気賞（国内投票）、韓流特別賞（海外投票）、K-POP SEOUL CHOICE（グループ／ソロ）は100%ファン投票で決まる。候補は2024年1月から2025年3月までに発表された音盤・音源が対象で、授賞式は6月21日に仁川のインスパイア・アリーナで開かれる。",
-      "en": "Nominees for the 34th Seoul Music Awards, including the Bonsang, Rookie, Popularity and K-Wave awards, were revealed on March 24 as mobile voting opened. The Popularity Award (domestic votes), K-Wave Special Award (overseas votes) and K-pop World Choice (group/solo) are decided entirely by fan votes. Releases from January 2024 to March 2025 were eligible, and the ceremony is set for June 21 at INSPIRE Arena in Incheon."
+      "en": "Nominees for the 34th Seoul Music Awards, including the Bonsang, Rookie, Popularity and K-Wave awards, were revealed on March 24 as mobile voting opened. The Popularity Award (domestic votes), K-Wave Special Award (overseas votes) and K-POP SEOUL CHOICE (group/solo) are decided entirely by fan votes. Releases from January 2024 to March 2025 were eligible, and the ceremony is set for June 21 at INSPIRE Arena in Incheon."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
     "media": {
@@ -10357,9 +10366,10 @@
     "verified": false,
     "reference_urls": [
       "https://isplus.com/article/view/isp202503240165",
-      "https://en.wikipedia.org/wiki/34th_Seoul_Music_Awards"
+      "https://en.wikipedia.org/wiki/34th_Seoul_Music_Awards",
+      "https://www.kukinews.com/article/view/kuk202503240264"
     ],
-    "editor_note": "Announcement date (Mar 24, 2025, nominees revealed with voting start) confirmed by Ilgan Sports (isplus 2025-03-24); NewJeans' inclusion in the four categories only per Wikipedia (34th SMA, citing seoulmusicawards.com/page/vote, not fetchable). Entity kept 'newjeans' (nomination under the NewJeans name for 2024 releases)."
+    "editor_note": "Announcement date (Mar 24, 2025, nominees revealed with voting start) confirmed by Ilgan Sports (isplus 2025-03-24); NewJeans' inclusion in the four categories only per Wikipedia (34th SMA, citing seoulmusicawards.com/page/vote, not fetchable). Entity kept 'newjeans' (nomination under the NewJeans name for 2024 releases). / 2026-10-24 nightly: Re-read Ilgan Sports (isp202503240165): nominees for Bonsang/Rookie/Popularity/K-Wave were opened with mobile voting on Mar 24, 2025 (first round to Apr 12), so the date holds. The announcement calls the fan-vote category 'K-POP SEOUL CHOICE' (group/solo); 'K-POP WORLD CHOICE' is the name used at the June ceremony (results coverage), so detail.en now matches the announcement wording and the title keeps the ceremony name. NewJeans' presence in this category is still only per Wikipedia: seoulmusicawards.com is refused by the egress proxy and Wayback was unreachable; no press article listing the nominees was found on Naver. Not confirmed."
   },
   {
     "id": "record-2025-04-10-circle-cert-how-sweet-million",
@@ -11018,8 +11028,12 @@
       "streaming",
       "spotify"
     ],
-    "verified": false,
-    "editor_note": "Spotifyの集計公表は2月22日（記録日以降のため本文では日付を省略）。 / Only allkpop (Feb 2026) reports 'New Jeans' passing 500M; Korea Herald's Sep 2026 article confirms the song has exceeded 500M but gives no date. No accepted same-day report or ADOR post found for 2026-02-20."
+    "verified": true,
+    "editor_note": "Spotifyの集計公表は2月22日（記録日以降のため本文では日付を省略）。 / Only allkpop (Feb 2026) reports 'New Jeans' passing 500M; Korea Herald's Sep 2026 article confirms the song has exceeded 500M but gives no date. No accepted same-day report or ADOR post found for 2026-02-20. / 2026-10-24 nightly: Newsis (2026-02-22) and the Sports Kyunghyang source article both report, citing Spotify on Feb 22, that 'New Jeans' had 500,296,407 streams as of Feb 20, 2026, the group's sixth song past 500M, with the per-song figures and the 7.3 billion catalog total exactly as in the detail; Newsis credits the image to ADOR. The earlier note that only allkpop reported it is superseded. Confirmed by major press; no ADOR web page to cite.",
+    "reference_urls": [
+      "https://www.newsis.com/view/NISX20260222_0003521717",
+      "https://www.news1.kr/entertain/music/6078958"
+    ]
   },
   {
     "id": "record-2026-04-01-ditto-spotify-900m",
@@ -11222,7 +11236,7 @@
       "ja": "全楽曲のSpotify累計再生数が2026年8月18日時点で8,020,095,363回となった。2024年9月の50億回から、新曲の発表がないまま約2年で30億回を積み上げた。曲別では「Ditto」「OMG」が9億回超、「Super Shy」が8億回超、「Hype Boy」が7億回超、「New Jeans」「Attention」が5億回超で、前月の月間リスナーは約1,328万人。ADORが発表した。",
       "en": "The catalog's cumulative Spotify streams stood at 8,020,095,363 as of August 18, 2026, having added about 3 billion in roughly two years since passing 5 billion in September 2024, without any new releases. 'Ditto' and 'OMG' were above 900 million, 'Super Shy' above 800 million, 'Hype Boy' above 700 million and 'New Jeans' and 'Attention' above 500 million; monthly listeners the previous month were about 13.28 million. ADOR announced the figures."
     },
-    "source_url": "https://www.koreaherald.com/article/10864105",
+    "source_url": "https://www.yna.co.kr/view/AKR20260822023200005",
     "media": {
       "type": "none"
     },
@@ -11230,10 +11244,11 @@
       "streaming",
       "spotify"
     ],
-    "verified": false,
-    "editor_note": "ADORの発表は8月22日（記録日以降のため本文では発表日を省略）。 / Korea Herald (2026-09-06) states the discography has accumulated 'around 8 billion' Spotify streams to date, but no report pins the 8-billion crossing to 2026-08-18. Unverified date.",
+    "verified": true,
+    "editor_note": "ADORの発表は8月22日（記録日以降のため本文では発表日を省略）。 / Korea Herald (2026-09-06) states the discography has accumulated 'around 8 billion' Spotify streams to date, but no report pins the 8-billion crossing to 2026-08-18. Unverified date. / 2026-10-24 nightly: Yonhap (2026-08-22) reports ADOR's announcement that the catalog reached 8,020,095,363 Spotify streams as of Aug 18, 2026; Edaily (same day) adds the per-song tiers, the Sept 2024 5-billion mark and the ~13.28 million monthly listeners of the previous month, all matching the detail. The 8-billion figure is pinned to the Aug 18 as-of date by ADOR, so the earlier 'unverified date' note is superseded. Note the source_url (Korea Herald 10864105) is a later 'Super Shy' 900M article that only says 'around 8 billion'; source_url switched to Yonhap (direct report of ADOR's announcement); Korea Herald kept in reference_urls.",
     "reference_urls": [
-      "https://en.edaily.co.kr/news/eda202608225066"
+      "https://en.edaily.co.kr/news/eda202608225066",
+      "https://www.koreaherald.com/article/10864105"
     ]
   },
   {

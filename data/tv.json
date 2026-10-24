@@ -4409,7 +4409,11 @@
       "en": "An NHK Special on Japan–Korea pop featured NewJeans alongside YOASOBI, with an exclusive interview with producer Min Hee-jin."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://mdpr.jp/music/4125268",
+      "https://mdpr.jp/k-enta/4136421",
+      "https://thetvdb.com/series/225831-show/episodes/10293830"
+    ],
     "media": {
       "type": "none"
     },
@@ -4417,7 +4421,7 @@
       "japan-tv",
       "documentary"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "NHK総合で21時15分から放送されたNHKスペシャル『世界に響く歌～日韓POPS新時代～』。YOASOBIのアメリカ初ライブへの密着や「アイドル」の制作過程と並び、K-POP側ではNewJeansを取り上げ、プロデューサーのミン・ヒジン（ADOR代表）の独占インタビューでNewJeansの制作の裏側が語られた。放送決定は2023年12月30日に発表されていた。",
       "en": "An NHK Special, Sekai ni Hibiku Uta: Nikkan POPS Shin-jidai, aired on NHK General TV at 9:15 pm. Alongside coverage of YOASOBI's first US concert and the making of 'Idol', it featured NewJeans on the K-pop side, with an exclusive interview in which producer Min Hee-jin, CEO of ADOR, discussed how the group was produced. The program had been announced on December 30, 2023."
@@ -4429,15 +4433,15 @@
         "en": "NHK Special: Sekai ni Hibiku Uta, Nikkan POPS Shinjidai (Songs Resonating Around the World: A New Era of Japanese and Korean Pop)"
       }
     },
-    "editor_note": "公式YouTube動画なし: NHK did not upload the documentary; NHK MUSIC only posted a related Min Hee-jin interview excerpt (kUMl6mqXXyc, 2024-02-27)",
+    "editor_note": "公式YouTube動画なし: NHK did not upload the documentary; NHK MUSIC only posted a related Min Hee-jin interview excerpt (kUMl6mqXXyc, 2024-02-27) / 2026-10-24 nightly: Modelpress (2023-12-30 10:37) reports the NHK General TV program 'Sekai ni Hibiku Uta ~Nikkan POPS Shin-jidai~' set for Jan 7 at 9:15 pm; Modelpress (2024-01-08) reports Min Hee-jin appeared in the Jan 7 broadcast discussing NewJeans' production; TheTVDB lists it as an NHK Special episode aired 2024-01-07 with NHK's synopsis (YOASOBI US live and the making of 'Idol'; K-pop part with an exclusive Min Hee-jin interview). All detail facts match. NHK's own episode page could not be reached (nhk.jp program pages redirect/404), so confirmation rests on press plus the NHK synopsis.",
     "image": {
       "url": "https://img-mdpr.freetls.fastly.net/article/EK3S/nm/EK3SfWUaU8M5orAjifj5zpc-IA7pFyRM_EwsmysnERI.jpg",
       "source_url": "https://mdpr.jp/music/4125268"
     }
   },
   {
-    "id": "tv-2024-03-06-billboard-women-in-music-2024",
-    "date": "2024-03-06",
+    "id": "tv-2024-03-07-billboard-women-in-music-2024",
+    "date": "2024-03-07",
     "date_type": "broadcast",
     "date_precision": "day",
     "category": "tv",
@@ -4469,19 +4473,20 @@
       "award-show",
       "us"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "米カリフォルニア州イングルウッドのYouTube Theaterで開かれた『Billboard Women in Music 2024』でGroup of the Yearを受賞した。K-POPグループとしてこの賞の受賞は初めて。ステージでは「Super Shy」と「ETA」を披露し、ダニエルは新曲を準備中だと語った。この年のWoman of the YearはKarol G。",
-      "en": "NewJeans received Group of the Year at Billboard Women in Music 2024 at the YouTube Theater in Inglewood, California, the first K-pop group so honored. They performed 'Super Shy' and 'ETA', and Danielle said the group was preparing new music. Karol G was that year's Woman of the Year."
+      "ja": "米カリフォルニア州イングルウッドのYouTube Theaterで3月6日に開かれた『Billboard Women in Music 2024』が、3月7日17時（米太平洋時間）からBillboardの公式サイトで配信された。NewJeansはレイニー・ウィルソンからGroup of the Yearを授与され、K-POPアーティストとしてこの賞を受けたのは初めて。ステージでは「Super Shy」と「ETA」を披露した。この年のWoman of the YearはKarol G。",
+      "en": "Billboard Women in Music 2024, held on March 6 at the YouTube Theater in Inglewood, California, was streamed on Billboard's website from 5 pm PT on March 7. NewJeans received Group of the Year from Lainey Wilson, the first K-pop act to win the award, and performed 'Super Shy' and 'ETA'. Karol G was that year's Woman of the Year."
     },
     "credits": {
       "venue": "YouTube Theater, Inglewood",
-      "organizer": "Billboard"
+      "organizer": "Billboard",
+      "broadcaster": "Billboard (billboard.com stream)"
     },
     "links": {
       "youtube": "https://www.youtube.com/watch?v=8sHI3CSlxeQ"
     },
-    "editor_note": "公式動画: Billboard「NewJeans Performs “Super Shy” & “ETA” | Billboard Women In Music 2024」(2024-03-07); 関連4本をreference_urlsに記載"
+    "editor_note": "公式動画: Billboard「NewJeans Performs “Super Shy” & “ETA” | Billboard Women In Music 2024」(2024-03-07); 関連4本をreference_urlsに記載 / 2026-10-24 nightly: Billboard's own YouTube uploads (r5EDjVzzlHo, uploaded Mar 7 KST) state 'Watch Billboard Women in Music 2024 on Thursday, March 7th at 8 PM ET / 5 PM PT' on billboard.com; Soompi (updated Mar 8 KST) confirms the ceremony took place Mar 6 local time and was streamed the following day. As a tv record the date follows the stream (local US date), so moved 2024-03-06 -> 2024-03-07; the Mar 6 ceremony is covered by record-2024-03-06-billboard-women-in-music-2024-group-of-the-year. Billboard clips confirm the performance of 'Super Shy' & 'ETA' and that Lainey Wilson presented the award. The claim that Danielle said the group was preparing new music was not confirmed (the Billboard interview clip title only says 'Preparing New Music', speaker unknown) and was removed. billboard.com articles are behind a tollbit redirect."
   },
   {
     "id": "tv-2024-05-21-korea-on-stage-gyeongbokgung",
@@ -4518,11 +4523,11 @@
     "tags": [
       "special"
     ],
-    "verified": false,
-    "editor_note": "Event date; KBS broadcast date not confirmed. | Broadcast same day at 23:15 KST per The Fact (May 2024). / 公式動画: KBS Kpop「Super Shy - New Jeans [코리아 온 스테이지 - 뉴제너레이션] | KBS 240521 방송」(2024-05-21); 関連7本をreference_urlsに記載",
+    "verified": true,
+    "editor_note": "Event date; KBS broadcast date not confirmed. | Broadcast same day at 23:15 KST per The Fact (May 2024). / 公式動画: KBS Kpop「Super Shy - New Jeans [코리아 온 스테이지 - 뉴제너레이션] | KBS 240521 방송」(2024-05-21); 関連7本をreference_urlsに記載 / 2026-10-24 nightly: KBS Kpop's official uploads (px6COR5Xpug, n_sh0TCZBfQ, 4ey8eGaz4EQ, JOa0ZY05IZI) are captioned 'KBS 240521 방송' and were uploaded May 22, 2024 KST; Ilgan Sports (2024-05-21) confirms the 7:30 pm show at Heungnyemun, Korea Heritage Service host / Korea Heritage Agency + KBS organizers, launch commemoration, Danielle as sole MC, Geunjeongjeon special stage and 142-country KBS World feed; The Fact (2024-05-16) confirms the pre-recorded 'Cool With You' Geunjeongjeon stage; press photo captions confirm Hyein's absence (foot injury) and the Ditto/ETA/Super Shy set. Broadcast time conflicts: The Fact (May 16) says 11:15 pm, while Ilgan Sports and other same-day reports say 11:25 pm, so the exact time was dropped from the detail. The claims that NewJeans closed the show and the running order were not confirmed and were removed.",
     "detail": {
-      "ja": "ソウル・景福宮の興礼門前特設舞台で19時30分に開かれた『2024コリア・オン・ステージ―ニュージェネレーション』に出演し、KBS 2TVが同じ日の23時15分から放送した。国家遺産庁の発足を記念する公演で、国家遺産庁の主催、国家遺産振興院とKBSの主管。司会はダニエルが単独で務め、NewJeansは最後に登場して、勤政殿で事前収録した「Cool With You」のスペシャルステージ映像に続き「Ditto」「ETA」「Super Shy」を披露した。足を負傷したヘインは不参加で、4人での出演。KBS Worldが142か国に配信した。",
-      "en": "NewJeans appeared at the 2024 Korea on Stage – New Generation concert, held at 7:30 pm on a special stage in front of Heungnyemun Gate at Gyeongbokgung Palace in Seoul and aired on KBS 2TV at 11:15 pm the same day. Hosted by the Korea Heritage Service and organized by the Korea Heritage Agency and KBS to mark the agency's launch, the show was emceed solely by Danielle. NewJeans closed the program with a pre-recorded 'Cool With You' special stage filmed at Geunjeongjeon Hall, followed by 'Ditto', 'ETA' and 'Super Shy'. Hyein, recovering from a foot injury, did not take part, so four members performed. KBS World carried the show to 142 countries."
+      "ja": "ソウル・景福宮の興礼門前特設舞台で19時30分に開かれた『2024コリア・オン・ステージ―ニュージェネレーション』に出演し、公演は同じ日の夜にKBS 2TVで放送された。国家遺産庁の発足を記念する公演で、国家遺産庁の主催、国家遺産振興院とKBSの主管。司会はダニエルが単独で務めた。NewJeansはK-POPガールズグループとして初めて勤政殿で事前収録した「Cool With You」のスペシャルステージを見せ、会場では「Ditto」「ETA」「Super Shy」を披露した。足の甲を負傷したヘインは参加せず4人での出演で、放送はKBS Worldを通じて142か国に送出された。",
+      "en": "NewJeans appeared at the 2024 Korea on Stage – New Generation concert, held at 7:30 pm on a special stage in front of Heungnyemun Gate at Gyeongbokgung Palace in Seoul and aired on KBS 2TV that night. Hosted by the Korea Heritage Service and organized by the Korea Heritage Agency and KBS to mark the agency's launch, the show was emceed solely by Danielle. NewJeans presented a 'Cool With You' special stage pre-recorded at Geunjeongjeon Hall, the first K-pop girl group to perform there, and performed 'Ditto', 'ETA' and 'Super Shy' at the venue. Hyein, with an injury to her foot, did not take part, so four members appeared. KBS World carried the broadcast to 142 countries."
     },
     "credits": {
       "broadcaster": "KBS 2TV, KBS World",
@@ -4557,6 +4562,7 @@
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
+      "https://kstar.kbs.co.kr/list_view.html?idx=316999",
       "https://www.youtube.com/watch?v=eTe7zOrZLUQ",
       "https://www.youtube.com/watch?v=LwG1g5kFIWM",
       "https://www.youtube.com/watch?v=rrA_u5Bi6yo",
@@ -4572,7 +4578,7 @@
       "music-show",
       "comeback"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "KBS『ミュージックバンク』でカムバックステージを行い、同じ日に発売したダブルシングル『How Sweet』からタイトル曲「How Sweet」とカップリング「Bubble Gum」を披露した。足の負傷で活動を休止中のヘインを除く4人でのステージだった。",
       "en": "NewJeans held their comeback stage on KBS's Music Bank for the double single How Sweet, released the same day, performing the title track 'How Sweet' and the B-side 'Bubble Gum'. Hyein, on hiatus with a foot injury, was absent, so four members performed."
@@ -4584,7 +4590,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=VA2h790SEPA"
     },
-    "editor_note": "公式動画: KBS Kpop「How Sweet - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240524 방송」(2024-05-24); 関連6本をreference_urlsに記載"
+    "editor_note": "公式動画: KBS Kpop「How Sweet - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240524 방송」(2024-05-24); 関連6本をreference_urlsに記載 / 2026-10-24 nightly: KBS Kpop official uploads VA2h790SEPA ('How Sweet') and eTe7zOrZLUQ ('Bubble Gum'), both captioned 'KBS 240524 방송' and uploaded May 24, 2024 KST, confirm the broadcast and both songs; KBS's own news site kstar.kbs.co.kr and Naver-indexed press (2024-05-24) confirm it was the first broadcast of the songs and that Minji, Hanni, Danielle and Haerin performed without Hyein (foot injury)."
   },
   {
     "id": "tv-2024-05-26-inkigayo-how-sweet-comeback-stage",
@@ -4623,7 +4629,7 @@
       "music-show",
       "comeback"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "SBS『人気歌謡』で「How Sweet」と「Bubble Gum」を披露した。『How Sweet』活動の『人気歌謡』初ステージで、ヘインを除く4人での出演だった。",
       "en": "NewJeans performed 'How Sweet' and 'Bubble Gum' on SBS's Inkigayo, their first Inkigayo stage of the How Sweet promotions. Four members took part in Hyein's absence."
@@ -4635,7 +4641,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=7fg_klS-2kw"
     },
-    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) – How Sweet @인기가요 inkigayo 20240526」(2024-05-26); 関連5本をreference_urlsに記載"
+    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) – How Sweet @인기가요 inkigayo 20240526」(2024-05-26); 関連5本をreference_urlsに記載 / 2026-10-24 nightly: SBSKPOP X INKIGAYO official uploads 7fg_klS-2kw ('How Sweet @인기가요 20240526') and -JFyYFJ7JH4 ('Bubble Gum @인기가요 20240526'), uploaded May 26, 2024 KST, confirm the broadcast date and both songs. Four-member line-up is consistent with the Hyein injury hiatus confirmed for the May 24 Music Bank stage; not separately checked for this episode."
   },
   {
     "id": "tv-2024-05-29-show-champion-how-sweet-win",
@@ -4675,7 +4681,7 @@
       "broadcaster": "MBC M",
       "program": "Show Champion"
     },
-    "editor_note": "Points per Show Champion chart list; TOP5 nominees not retrieved. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
+    "editor_note": "Points per Show Champion chart list; TOP5 nominees not retrieved. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip / 2026-10-24 nightly: Press after May 31 (e.g. Mediapen/SPOTV/JoyNews24 on the Billboard '21 Under 21' list) says 'How Sweet' had won on MBC M's Show Champion and KBS2's Music Bank, so the win and its being the first of the two are confirmed. The May 29 episode date, episode number 519 and the 5,759 points still rest only on Wikipedia's Show Champion winners list; no same-day report or MBC M page was found via Naver (date-limited searches returned nothing). Not confirmed."
   },
   {
     "id": "tv-2024-05-31-music-bank-how-sweet-win",
@@ -4713,16 +4719,16 @@
       "music-show",
       "win"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "KBS『ミュージックバンク』で「How Sweet」が9,836点で1位を獲得した。2日前の『SHOW CHAMPION』に続く同曲2つ目のトロフィー。",
-      "en": "'How Sweet' won first place on KBS's Music Bank with 9,836 points. It was the song's second trophy, after Show Champion two days earlier."
+      "ja": "KBS『ミュージックバンク』で「How Sweet」がaespa「Supernova」を抑え、9,836点で5月第5週の1位を獲得した。2日前の『SHOW CHAMPION』に続く同曲2つ目のトロフィーで、この日は「How Sweet」のステージも披露した。",
+      "en": "'How Sweet' won the fifth week of May on KBS's Music Bank with 9,836 points, ahead of aespa's 'Supernova'. It was the song's second trophy, after Show Champion two days earlier, and NewJeans also performed 'How Sweet' on the show."
     },
     "credits": {
       "broadcaster": "KBS 2TV",
       "program": "Music Bank"
     },
-    "editor_note": "Points per Music Bank chart list; competing nominee and performance not confirmed. / 公式動画: KBS Kpop「How Sweet - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240531 방송」(2024-05-31); 関連5本をreference_urlsに記載",
+    "editor_note": "Points per Music Bank chart list; competing nominee and performance not confirmed. / 公式動画: KBS Kpop「How Sweet - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240531 방송」(2024-05-31); 関連5本をreference_urlsに記載 / 2026-10-24 nightly: HuffPost Korea (2024-05-31 20:48) reports 'How Sweet' beat aespa's 'Supernova' with a total of 9,836 points for the 5th week of May on that day's Music Bank; Xportsnews (2024-06-01) quotes Minji's acceptance speech. KBS Kpop official uploads JqjanOFxr-Q ('How Sweet', 'KBS 240531 방송') and fvozIPz40eM (#1 encore facecam), uploaded May 31, 2024 KST, confirm the stage and the encore. Competitor and performance added to the detail.",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=JqjanOFxr-Q"
     }
@@ -4767,8 +4773,8 @@
       "music-show",
       "sbs"
     ],
-    "verified": false,
-    "editor_note": "Event date 2 June (concert); SBS broadcast 9 June is covered by existing group record tv-2024-06-09-k-wave-concert-inkigayo, which does not mention the MC role. Source is the pre-event SBS announcement (Sports Donga). / Source is a press report (Daum News); not confirmed against an official page."
+    "verified": true,
+    "editor_note": "Event date 2 June (concert); SBS broadcast 9 June is covered by existing group record tv-2024-06-09-k-wave-concert-inkigayo, which does not mention the MC role. Source is the pre-event SBS announcement (Sports Donga). / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: SBS's announcement reported by Sports Donga via Daum (2024-05-27, tagged [공식]) confirms Yunho (ATEEZ), Haerin and Han Yu-jin (ZEROBASEONE) as MCs of K-WAVE Concert Inkigayo on Sun June 2 at Inspire Arena, Yeongjong Island, Haerin's first MC role since debut, with aespa, ITZY, ILLIT, NewJeans and others in the 18-act line-up; the Jun 7 SBS preview (Daum 20240607143601289) confirms in the past tense that the three MCs hosted the June 2 show, broadcast on SBS June 9. Facts confirmed. Open issue: this is a tv record dated to the event day (date_type event), while the data policy dates tv records by broadcast (June 9, already held by tv-2024-06-09-k-wave-concert-inkigayo); the credits key 'co_hosts' is also outside the usual vocabulary ('host')."
   },
   {
     "id": "tv-2024-06-07-music-bank-how-sweet",
@@ -4800,7 +4806,7 @@
     "tags": [
       "music-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "KBS『ミュージックバンク』で「How Sweet」を披露した。『How Sweet』活動期間中の金曜のステージ。",
       "en": "NewJeans performed 'How Sweet' on KBS's Music Bank. It was a Friday stage during the How Sweet promotions."
@@ -4812,7 +4818,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=q2xhULuEFjM"
     },
-    "editor_note": "公式動画: KBS Kpop「How Sweet - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240607 방송」(2024-06-07); 関連2本をreference_urlsに記載"
+    "editor_note": "公式動画: KBS Kpop「How Sweet - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240607 방송」(2024-06-07); 関連2本をreference_urlsに記載 / 2026-10-24 nightly: KBS Kpop official upload q2xhULuEFjM 'How Sweet - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240607 방송', uploaded Jun 7, 2024 KST, confirms the broadcast date and song."
   },
   {
     "id": "tv-2024-06-08-music-core-how-sweet-win",
@@ -4843,16 +4849,16 @@
       "music-show",
       "win"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "MBC『ショー！音楽中心』で「How Sweet」が6,837点で1位を獲得した。同曲の音楽番組1位は『SHOW CHAMPION』『ミュージックバンク』に続く3回目。",
-      "en": "'How Sweet' won first place on MBC's Show! Music Core with 6,837 points. It was the song's third music-show win after Show Champion and Music Bank."
+      "ja": "MBC『ショー！音楽中心』の6月第2週1位候補はNewJeans「How Sweet」、IVE「HEYA」、aespa「Armageddon」で、「How Sweet」が6,837点（音源・音盤5,039、動画・放送754、事前投票637、生放送投票407）で1位を獲得した。同曲の音楽番組1位は『SHOW CHAMPION』『ミュージックバンク』に続く3回目。",
+      "en": "With 'How Sweet', IVE's 'HEYA' and aespa's 'Armageddon' as the second-week-of-June nominees on MBC's Show! Music Core, 'How Sweet' took first place with 6,837 points (digital and album sales 5,039, video and broadcast 754, pre-voting 637, live voting 407). It was the song's third music-show win, after Show Champion and Music Bank."
     },
     "credits": {
       "broadcaster": "MBC",
       "program": "Show! Music Core"
     },
-    "editor_note": "Points per Music Core chart list. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "editor_note": "Points per Music Core chart list. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip / 2026-10-24 nightly: Same-day press (Newsen, isplus, TopStarNews, 2024-06-08) report the June week-2 nominees (How Sweet / IVE 'HEYA' / aespa 'Armageddon') and the 6,837-point total with breakdown 5,039/754/637/407, and call it the song's third win. Nominees and breakdown added. No MBC page fetched; confirmation rests on multiple same-day reports.",
     "image": {
       "url": "https://imgnews.pstatic.net/image/018/2024/06/08/0005759153_001_20240608170708778.jpg",
       "source_url": "https://m.entertain.naver.com/article/018/0005759153"
@@ -4926,11 +4932,13 @@
       "en": "K-Wave Concert Inkigayo (SBS)"
     },
     "summary": {
-      "ja": "『人気歌謡』特別編『K-Wave Concert Inkigayo』で「How Sweet」「Bubble Gum」「ETA」を披露、6月9日放送。",
-      "en": "NewJeans performed 'How Sweet', 'Bubble Gum' and 'ETA' at K-Wave Concert Inkigayo, a special concert edition of the show held in Incheon."
+      "ja": "『人気歌謡』特別編『K-Wave Concert Inkigayo』で「How Sweet」「Bubble Gum」を披露した公演が6月9日に放送された。",
+      "en": "NewJeans' 'How Sweet' and 'Bubble Gum' stages from K-Wave Concert Inkigayo, a special concert edition of the show held in Incheon, aired on June 9."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
+      "https://v.daum.net/v/20240607143601289",
+      "https://v.daum.net/v/20240527152941885",
       "https://www.youtube.com/watch?v=MJZE4OF7iSA",
       "https://www.youtube.com/watch?v=SEENRl55Cy4"
     ],
@@ -4941,17 +4949,17 @@
     "tags": [
       "special"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "6月2日に仁川のINSPIREアリーナで開かれたSBS『K-Wave Concert Inkigayo』に出演し、「How Sweet」「Bubble Gum」「ETA」を披露した。『人気歌謡』の特別編として編成され、6月9日にSBSで放送された。",
-      "en": "NewJeans performed 'How Sweet', 'Bubble Gum' and 'ETA' at SBS's K-Wave Concert Inkigayo, a special concert edition of Inkigayo held at Inspire Arena in Incheon on June 2. The show was broadcast on SBS on June 9."
+      "ja": "6月2日に仁川・永宗島のINSPIREアリーナで開かれたSBS『K-Wave Concert Inkigayo』に出演し、イントロに続いて「How Sweet」、そして「Bubble Gum」を披露した。公演は6月9日にSBSで放送された。",
+      "en": "NewJeans performed an intro and 'How Sweet', followed by 'Bubble Gum', at SBS's K-Wave Concert Inkigayo, held at Inspire Arena on Yeongjong Island, Incheon, on June 2. The concert was broadcast on SBS on June 9."
     },
     "credits": {
       "broadcaster": "SBS",
       "program": "K-Wave Concert Inkigayo",
       "venue": "Inspire Arena, Incheon"
     },
-    "editor_note": "Set per en.wikipedia live-performance list only. / 公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) – INTRO+How Sweet @인기가요 inkigayo 20240609」(2024-06-09); 関連2本をreference_urlsに記載 / date moved to broadcast date 2024-06-09 per the broadcaster's official upload (was tv-2024-06-02-k-wave-concert-inkigayo)",
+    "editor_note": "Set per en.wikipedia live-performance list only. / 公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) – INTRO+How Sweet @인기가요 inkigayo 20240609」(2024-06-09); 関連2本をreference_urlsに記載 / date moved to broadcast date 2024-06-09 per the broadcaster's official upload (was tv-2024-06-02-k-wave-concert-inkigayo) / 2026-10-24 nightly: SBSKPOP X INKIGAYO official uploads IBgtzAbnxwI ('INTRO+How Sweet @인기가요 20240609') and SEENRl55Cy4 ('[K-WAVE CONCERT 4K] Bubble Gum ... 240609'), uploaded Jun 9, 2024 KST, confirm the broadcast date and those two stages; SBS's preview (Daum 2024-06-07) confirms the June 2 Inspire Arena concert aired June 9 with NewJeans in the line-up. 'ETA' appears only in the Wikipedia live-performance list and no SBS upload or report of it was found, so it was removed from the summary and detail. Broadcast time differs between reports (2:00 pm vs 2:55 pm) and is not stated.",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=IBgtzAbnxwI"
     }
@@ -4986,7 +4994,7 @@
     "tags": [
       "music-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "KBS『ミュージックバンク』で「Bubble Gum」を披露した。『How Sweet』活動期間中の金曜のステージ。",
       "en": "NewJeans performed 'Bubble Gum' on KBS's Music Bank. It was a Friday stage during the How Sweet promotions."
@@ -4998,7 +5006,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=PWZDbAT3L7o"
     },
-    "editor_note": "公式動画: KBS Kpop「Bubble Gum - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240614 방송」(2024-06-14); 関連2本をreference_urlsに記載"
+    "editor_note": "公式動画: KBS Kpop「Bubble Gum - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240614 방송」(2024-06-14); 関連2本をreference_urlsに記載 / 2026-10-24 nightly: KBS Kpop official upload PWZDbAT3L7o 'Bubble Gum - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 240614 방송', uploaded Jun 14, 2024 KST, confirms the broadcast date and song."
   },
   {
     "id": "tv-2024-06-15-music-core-how-sweet-win-2",
@@ -5015,8 +5023,8 @@
       "en": "Show! Music Core: How Sweet wins #1 (2nd week)"
     },
     "summary": {
-      "ja": "MBC『ショー！音楽中心』で「How Sweet」が前週に続き2週連続で1位を獲得した回。",
-      "en": "'How Sweet' won Show! Music Core for a second consecutive week."
+      "ja": "MBC『ショー！音楽中心』で「How Sweet」が6,872点を獲得し、前週に続き2週連続で1位となった。",
+      "en": "'How Sweet' won Show! Music Core for a second consecutive week with 6,872 points."
     },
     "source_url": "https://en.wikipedia.org/wiki/How_Sweet",
     "reference_urls": [
@@ -5029,16 +5037,16 @@
       "music-show",
       "win"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "MBC『ショー！音楽中心』で「How Sweet」が前週に続き2週連続で1位を獲得した。前週の6月8日に続く、この番組での同曲2つ目のトロフィー。",
-      "en": "'How Sweet' won first place on MBC's Show! Music Core for a second consecutive week. It followed the song's win on the program on June 8."
+      "ja": "MBC『ショー！音楽中心』の6月第3週1位候補はNewJeans「How Sweet」、IVE「HEYA」、aespa「Armageddon」で、「How Sweet」が総点6,872点で1位を獲得した。2位はaespaの6,476点。前週の6月8日に続く、この番組での同曲2つ目のトロフィーで、NewJeansはこの日の放送には出演しなかった。",
+      "en": "With 'How Sweet', IVE's 'HEYA' and aespa's 'Armageddon' as the third-week-of-June nominees on MBC's Show! Music Core, 'How Sweet' took first place with 6,872 points, ahead of aespa on 6,476. It was the song's second trophy on the program after June 8; NewJeans did not appear on that day's broadcast."
     },
     "credits": {
       "broadcaster": "MBC",
       "program": "Show! Music Core"
     },
-    "editor_note": "Per Music Core chart list; nominees not confirmed. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "editor_note": "Per Music Core chart list; nominees not confirmed. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip / 2026-10-24 nightly: Same-day press (2024-06-15, Naver news) reports the June week-3 nominees (How Sweet / IVE 'HEYA' / aespa 'Armageddon'), NewJeans' win with 6,872 points over aespa's 6,476, and that NewJeans did not appear on the show. Points, nominees and absence added.",
     "image": {
       "url": "https://imgnews.pstatic.net/image/108/2024/06/15/0003243028_002_20240615163310146.jpg",
       "source_url": "https://m.entertain.naver.com/article/108/0003243028"
@@ -5074,7 +5082,7 @@
     "tags": [
       "music-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "SBS『人気歌謡』で「Bubble Gum」を披露した。『How Sweet』活動期間中の日曜のステージ。",
       "en": "NewJeans performed 'Bubble Gum' on SBS's Inkigayo. It was a Sunday stage during the How Sweet promotions."
@@ -5086,7 +5094,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=i6E8O-PhaVI"
     },
-    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) – Bubble Gum @인기가요 inkigayo 20240616」(2024-06-16); 関連2本をreference_urlsに記載"
+    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) – Bubble Gum @인기가요 inkigayo 20240616」(2024-06-16); 関連2本をreference_urlsに記載 / 2026-10-24 nightly: SBSKPOP X INKIGAYO official upload i6E8O-PhaVI 'NewJeans (뉴진스) – Bubble Gum @인기가요 inkigayo 20240616', uploaded Jun 16, 2024 KST, confirms the broadcast date and song."
   },
   {
     "id": "tv-2024-06-21-mezamashi-8",
@@ -5106,11 +5114,13 @@
       "en": "Mezamashi 8 (Fuji TV)"
     },
     "summary": {
-      "ja": "フジテレビ『めざまし8』に生出演し、同番組のオープニングテーマ「Bubble Gum」を日本語バージョンで日本のテレビ初披露。",
-      "en": "Live on Fuji TV's Mezamashi 8, NewJeans gave the first Japanese TV performance of 'Bubble Gum', the show's opening theme, in its Japanese version."
+      "ja": "フジテレビ『めざまし8』に出演し、4月から同番組のテーマ曲に使われている「Bubble Gum」を日本のテレビで初めて披露した。",
+      "en": "On Fuji TV's Mezamashi 8, NewJeans gave the first Japanese TV performance of 'Bubble Gum', the show's theme since April."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
+      "https://niewmedia.com/en/news/043647/",
+      "https://www.tenasia.com/amp/2024041135254",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
@@ -5119,10 +5129,10 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "フジテレビ系の情報番組『めざまし8』に生出演し、9時30分頃の枠で「Bubble Gum」を披露した。同曲は4月8日から『めざまし8』のオープニングテーマに使われており、日本のテレビ番組での披露はこれが初めて。ステージは日本語バージョンで、同じ日の朝の『めざましテレビ』に続く出演だった。",
-      "en": "NewJeans appeared live on Fuji TV's morning information program Mezamashi 8, performing 'Bubble Gum' in the segment around 9:30 am. The song had been the program's opening theme since April 8, and this was its first performance on Japanese television, given in the Japanese version. The appearance followed the group's slot on Mezamashi TV earlier the same morning."
+      "ja": "フジテレビ系の情報番組『めざまし8』に出演し、9時30分頃の枠で「Bubble Gum」を披露した。同曲は4月8日から『めざまし8』のテーマ曲に使われており、日本のテレビ番組での披露はこれが初めて。同じ日の朝の『めざましテレビ』に続く出演だった。",
+      "en": "NewJeans appeared on Fuji TV's morning information program Mezamashi 8, performing 'Bubble Gum' in the segment around 9:30 am. The song had been the program's theme since April 8, and this was its first performance on Japanese television. The appearance followed the group's slot on Mezamashi TV earlier the same morning."
     },
     "credits": {
       "broadcaster": "Fuji TV",
@@ -5131,7 +5141,7 @@
         "en": "Mezamashi 8"
       }
     },
-    "editor_note": "公式YouTube動画なし: Fuji TV has no Mezamashi 8 clip of NewJeans on YouTube (only the Mezamashi TV performance clip)",
+    "editor_note": "公式YouTube動画なし: Fuji TV has no Mezamashi 8 clip of NewJeans on YouTube (only the Mezamashi TV performance clip) / 2026-10-24 nightly: Official @NewJeans_jp post 1804042860809064492 (2024-06-21 15:45 KST) says the group appeared on 'めざまし８' and performed Bubble Gum on a Japanese program for the first time. NiEW (2024-06-18) gives the ~9:30 slot and that the song had been the show's theme since April; TenAsia (Apr 2024) gives the April 8 start. No source says the stage was a Japanese-language version (the song has no Japanese version in the release record), so that claim was removed; 'live' was also dropped from the wording since not confirmed for this slot.",
     "image": {
       "url": "https://pbs.twimg.com/media/GQkzfDka0AAwjwm.jpg?name=orig",
       "source_url": "https://x.com/NewJeans_jp/status/1804042860809064492"
@@ -5160,6 +5170,7 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
+      "https://niewmedia.com/en/news/043647/",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
@@ -5169,7 +5180,7 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "日本デビューシングル『Supernatural』の発売日に、フジテレビ系『めざましテレビ』（5時25分から8時）に生出演し、タイトル曲「Supernatural」を世界で初めて披露した。同じ日には『めざまし8』、テレビ朝日系『ミュージックステーション』にも出演した。",
       "en": "On the release day of their Japanese debut single Supernatural, NewJeans appeared live on Fuji TV's Mezamashi TV (5:25 to 8:00 am) and gave the world's first performance of the title track 'Supernatural'. The same day they also appeared on Mezamashi 8 and TV Asahi's Music Station."
@@ -5184,7 +5195,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=bNOo8Hajqg4"
     },
-    "editor_note": "公式動画: めざましテレビチャンネル「【NewJeans】日本デビュー曲「Supernatural」を「めざましテレビ」で世界初披露！」(2024-06-29)"
+    "editor_note": "公式動画: めざましテレビチャンネル「【NewJeans】日本デビュー曲「Supernatural」を「めざましテレビ」で世界初披露！」(2024-06-29) / 2026-10-24 nightly: Fuji TV's official Mezamashi TV YouTube upload bNOo8Hajqg4 (uploaded Jun 29, 2024 KST) describes NewJeans, who debuted in Japan on June 21, giving the world-first performance of 'Supernatural' on Mezamashi TV; NiEW (2024-06-18) gives the live 5:25-8:00 am slot on June 21 and the same-day Mezamashi 8 and Music Station bookings. All detail facts confirmed."
   },
   {
     "id": "tv-2024-06-21-music-station",
@@ -5209,6 +5220,8 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
+      "https://www.oricon.co.jp/news/2332708/full/",
+      "https://niewmedia.com/en/news/043647/",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
@@ -5218,7 +5231,7 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "テレビ朝日系で21時から放送された『ミュージックステーション』に初出演し、同じ日に発売した日本デビュー曲「Supernatural」と「OMG」を披露した。この回の出演者はINI「LOUD」、GLAY×JAY（ENHYPEN）「whodunit」、Travis Japan「Sweetest Tune」、MY FIRST STORY×HYDEなど。ミンジは初出演を喜ぶコメントを寄せた。",
       "en": "NewJeans made their first appearance on TV Asahi's Music Station, broadcast from 9 pm, performing their Japanese debut single 'Supernatural', released that day, and 'OMG'. Other acts that night included INI ('LOUD'), GLAY x JAY of ENHYPEN ('whodunit'), Travis Japan ('Sweetest Tune') and MY FIRST STORY x HYDE. Minji commented on her pleasure at the group's first Music Station appearance."
@@ -5233,7 +5246,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=o3-_lQXfwWE"
     },
-    "editor_note": "公式動画: MUSIC STATION「【初登場】NewJeansの最近怖かったことが可愛すぎる【Mステ】」(2024-06-21)"
+    "editor_note": "公式動画: MUSIC STATION「【初登場】NewJeansの最近怖かったことが可愛すぎる【Mステ】」(2024-06-21) / 2026-10-24 nightly: Music Station's official YouTube upload o3-_lQXfwWE (Jun 21, 2024) is tagged 【初登場】 and says NewJeans perform 'OMG' and 'Supernatural' from 9 pm that night; Oricon (2024-06-21) lists INI 'LOUD', GLAY x JAY (ENHYPEN) 'whodunit', Travis Japan 'Sweetest Tune', MY FIRST STORY x HYDE and NewJeans 'OMG'/'Supernatural', and quotes Minji's comment on the first appearance. Confirmed."
   },
   {
     "id": "tv-2024-06-22-music-core-how-sweet-win-3",
@@ -5303,6 +5316,7 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
+      "https://x.com/NewJeans_jp/status/1804494446182199328",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
@@ -5311,7 +5325,7 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "日本テレビ系『with MUSIC』に出演し、「Right Now」「Supernatural」「Bubble Gum」の3曲を披露した。「Right Now」は日本デビューシングル『Supernatural』のカップリングで、日本のテレビでの披露はこれが初めて。有働由美子と松下洸平がMCを務める土曜夜の音楽番組。",
       "en": "NewJeans performed 'Right Now', 'Supernatural' and 'Bubble Gum' on Nippon TV's with MUSIC, the Saturday-night music show hosted by Yumiko Udo and Kohei Matsushita. 'Right Now', the B-side of the Japanese debut single Supernatural, received its first Japanese television performance."
@@ -5321,7 +5335,7 @@
       "program": "with MUSIC",
       "host": "Yumiko Udo, Kohei Matsushita"
     },
-    "editor_note": "公式YouTube動画なし: NTV does not publish with MUSIC performances on YouTube; no official upload found",
+    "editor_note": "公式YouTube動画なし: NTV does not publish with MUSIC performances on YouTube; no official upload found / 2026-10-24 nightly: Official @NewJeans_jp post 1804494446182199328 (2024-06-22 21:39 KST) says the group first performed 'Right Now' on 'with MUSIC' that day and performed three songs, with hashtags for Supernatural, Right Now and Bubble Gum; Modelpress headline (2024-06-22) 'NewJeans、最新曲「Right Now」日本のテレビ初披露「with MUSIC」で豪華3曲' agrees. Hosts (Udo, Matsushita) not separately checked.",
     "image": {
       "url": "https://pbs.twimg.com/media/GQraE07agAAKdRZ.jpg?name=orig",
       "source_url": "https://x.com/NewJeans_jp/status/1804494446182199328"
@@ -5341,15 +5355,17 @@
       "haerin"
     ],
     "title": {
-      "ja": "TBS『CDTVライブ!ライブ!』2時間半SP",
-      "en": "CDTV Live! Live! 2.5-hour special (TBS)"
+      "ja": "TBS『CDTVライブ!ライブ!』",
+      "en": "CDTV Live! Live! (TBS)"
     },
     "summary": {
-      "ja": "東京ドーム公演を2日後に控え、TBS『CDTVライブ！ライブ！』2時間半スペシャルに初出演して「Supernatural」を披露。",
-      "en": "NewJeans' first CDTV Live! Live! appearance, performing 'Supernatural' two days before their Tokyo Dome shows."
+      "ja": "東京ドーム公演を2日後に控え、TBS『CDTVライブ！ライブ！』の「出張ライブ！ライブ！」で「Supernatural」を披露。",
+      "en": "Two days before their Tokyo Dome shows, NewJeans performed 'Supernatural' in an on-location 'Shutcho Live! Live!' segment of TBS's CDTV Live! Live!."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
+      "https://thetv.jp/program/0000979177/plot/p4/",
+      "https://x.com/NewJeans_jp/status/1805214288279126476",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
@@ -5358,10 +5374,10 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "TBS系『CDTVライブ！ライブ！ 2時間半スペシャル』に出演し、「Supernatural」を披露した。東京ドーム公演（6月26日・27日）を2日後に控えた出演で、この番組への出演はこれが初めてだった。",
-      "en": "NewJeans performed 'Supernatural' on TBS's CDTV Live! Live! two-and-a-half-hour special, two days before their Tokyo Dome shows on June 26 and 27. It was their first appearance on the program."
+      "ja": "TBS系『CDTVライブ！ライブ！』に出演し、ロケ企画「出張ライブ！ライブ！」で「Supernatural」を披露した。NewJeans日本公式Xは浅草の夜景の中でのステージだったと伝えた。東京ドーム公演（6月26日・27日）を2日後に控えた出演だった。",
+      "en": "NewJeans performed 'Supernatural' on TBS's CDTV Live! Live! in the on-location segment 'Shutcho Live! Live!'; the group's official Japanese X account described the stage as set against the Asakusa night view. The appearance came two days before their Tokyo Dome shows on June 26 and 27."
     },
     "credits": {
       "broadcaster": "TBS",
@@ -5370,7 +5386,7 @@
         "en": "CDTV Live! Live!"
       }
     },
-    "editor_note": "公式YouTube動画なし: CDTV official channel has no clip for the 2024-06-24 broadcast (only 07-01 and 08-17 talk clips)",
+    "editor_note": "公式YouTube動画なし: CDTV official channel has no clip for the 2024-06-24 broadcast (only 07-01 and 08-17 talk clips) / 2026-10-24 nightly: WEB The Television's episode guide for the 2024-06-24 TBS broadcast says NewJeans performed 'Supernatural' in the '出張ライブ！ライブ！' segment; official @NewJeans_jp post 1805214288279126476 (2024-06-24 21:20 KST) refers to the Supernatural stage and Asakusa night view. The '2.5-hour special' format (which the episode guide does not give for this date; the 2.5-hour live slot is documented for July 1) and the claim that it was the group's first appearance on the program were not confirmed and were removed from title, summary and detail.",
     "image": {
       "url": "https://pbs.twimg.com/media/GQzr-sma8AASXTn.jpg?name=orig",
       "source_url": "https://x.com/NewJeans_jp/status/1805214288279126476"
@@ -5394,11 +5410,13 @@
       "en": "Venue101 (NHK)"
     },
     "summary": {
-      "ja": "東京ドーム公演直後にNHK総合『Venue101』へ出演し、「Supernatural」を生放送で披露、日本で好きなものも語った。",
-      "en": "Just after Tokyo Dome, NewJeans performed 'Supernatural' live on NHK's Venue101 and talked about their favorite things in Japan."
+      "ja": "東京ドーム公演直後にNHK総合『Venue101』へ出演し、「Supernatural」を披露、日本で好きなものも語った。",
+      "en": "Just after Tokyo Dome, NewJeans performed 'Supernatural' on NHK's Venue101 and talked about their favorite things in Japan."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
+      "https://thetvdb.com/series/venue101/episodes/11308996",
+      "https://x.com/NewJeans_jp/status/1807059446394441871",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
@@ -5407,16 +5425,16 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "NHK総合の音楽番組『Venue101』に出演し、「Supernatural」を生放送で披露した。この回の出演はほかにNCT WISH「Songbird」、櫻坂46「自業自得」。東京ドーム公演直後の出演で、番組内では日本で好きなものについても語った。",
-      "en": "NewJeans performed 'Supernatural' live on NHK General TV's music show Venue101, alongside NCT WISH ('Songbird') and Sakurazaka46 ('Jigou Jitoku'). The appearance came just after their Tokyo Dome shows, and the members also talked about their favorite things in Japan."
+      "ja": "NHK総合で毎週土曜23時に生放送される音楽番組『Venue101』に出演し、「Supernatural」を披露した。この回の出演はほかにNCT WISH「Songbird」、櫻坂46「自業自得」。東京ドーム公演直後の出演で、トークでは日本で好きなものを紹介した。",
+      "en": "NewJeans performed 'Supernatural' on Venue101, NHK General TV's live Saturday 11 pm music show, alongside NCT WISH ('Songbird') and Sakurazaka46 ('Jigou Jitoku'). The appearance came just after their Tokyo Dome shows, and the members talked about their favorite things in Japan."
     },
     "credits": {
       "broadcaster": "NHK General TV",
       "program": "Venue101"
     },
-    "editor_note": "公式YouTube動画なし: NHK does not publish Venue101 performances on YouTube; no official upload found",
+    "editor_note": "公式YouTube動画なし: NHK does not publish Venue101 performances on YouTube; no official upload found / 2026-10-24 nightly: Official @NewJeans_jp post 1807059446394441871 (2024-06-29 23:32 KST, #Venue101) and the NHK episode listing (via TheTVDB/WEB The Television: 'Venue101「NewJeans・NCT WISH・櫻坂46」' 2024-06-29, NewJeans perform 'Supernatural' and introduce favourite things in Japan; NCT WISH 'Songbird'; Sakurazaka46 '自業自得') confirm the record. Whether NewJeans' own stage was live rather than pre-recorded was not confirmed, so 'live' now describes the program only.",
     "image": {
       "url": "https://pbs.twimg.com/media/GRPv20MbQAAXPGR.jpg?name=orig",
       "source_url": "https://x.com/NewJeans_jp/status/1807059446394441871"
@@ -5445,6 +5463,8 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
+      "https://mdpr.jp/music/4310775",
+      "https://thetv.jp/program/0000979177/plot/p4/",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
@@ -5454,10 +5474,10 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "TBS系『CDTVライブ！ライブ！ 2時間半スペシャル』に出演し、「How Sweet」と「Bubble Gum」を披露した。6月24日に続く、この番組2度目の出演。",
-      "en": "NewJeans performed 'How Sweet' and 'Bubble Gum' on TBS's CDTV Live! Live! two-and-a-half-hour special. It was their second appearance on the program, after June 24."
+      "ja": "18時30分から2時間半にわたりTBS系で生放送された『CDTVライブ！ライブ！』に出演し、「How Sweet」と「Bubble Gum」をフルサイズで披露した。「How Sweet」は日本のテレビ初披露。6月24日に続く、この番組2度目の出演。",
+      "en": "NewJeans performed full versions of 'How Sweet' and 'Bubble Gum' on TBS's CDTV Live! Live!, broadcast live for two and a half hours from 6:30 pm; it was the first Japanese TV performance of 'How Sweet'. It was their second appearance on the program, after June 24."
     },
     "credits": {
       "broadcaster": "TBS",
@@ -5469,7 +5489,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=ew98NQudOSk"
     },
-    "editor_note": "公式動画: CDTV 公式YouTube「【CDTV】NewJeans⚡️変身したい動物発表！🐱」(2024-07-01)"
+    "editor_note": "公式動画: CDTV 公式YouTube「【CDTV】NewJeans⚡️変身したい動物発表！🐱」(2024-07-01) / 2026-10-24 nightly: CDTV official YouTube upload ew98NQudOSk (Jul 1, 2024) says the July 1 6:30 pm broadcast featured NewJeans performing 'How Sweet' and 'Bubble Gum' in full, billed as Japanese TV premieres; Modelpress (2024-06-25) confirms the 6:30 pm 2.5-hour live broadcast with NewJeans in the line-up. Bubble Gum had already been performed on Mezamashi 8 (Jun 21) and with MUSIC (Jun 22), so only 'How Sweet' is called a Japanese TV first in the detail."
   },
   {
     "id": "tv-2024-07-02-j-wave-spark",
@@ -5490,7 +5510,9 @@
       "en": "J-WAVE's SPARK aired a NewJeans feature: a roundtable recorded by King Gnu's Kazuki Arai in the Tokyo Dome rehearsal dressing room."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://mdpr.jp/k-enta/4313655"
+    ],
     "media": {
       "type": "none"
     },
@@ -5498,7 +5520,7 @@
       "radio",
       "japan"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "J-WAVE（81.3FM）のラジオ番組『SPARK』で24時からNewJeansの特集が放送された。火曜ナビゲーターのKing Gnu新井和輝が東京ドーム公演のリハーサル楽屋を訪ね、メンバーと行った座談会の模様が流れた。新井は東京ドーム公演でベースを演奏している。",
       "en": "J-WAVE (81.3 FM)'s program SPARK aired a NewJeans feature at midnight. Tuesday navigator Kazuki Arai of King Gnu, who played bass at the group's Tokyo Dome shows, visited the members in the rehearsal dressing room at Tokyo Dome, and the roundtable talk he recorded there formed the broadcast."
@@ -5508,7 +5530,7 @@
       "program": "SPARK",
       "navigator": "Kazuki Arai (King Gnu)"
     },
-    "editor_note": "公式YouTube動画なし: J-WAVE radio appearance; no official video upload"
+    "editor_note": "公式YouTube動画なし: J-WAVE radio appearance; no official video upload / 2026-10-24 nightly: Modelpress (2024-06-28) reports that on July 2, King Gnu's Kazuki Arai's J-WAVE (81.3FM) program SPARK (Mon-Thu 24:00, Arai on Tuesdays) would air the special roundtable he recorded after visiting NewJeans' rehearsal dressing room at the Tokyo Dome fan meeting (Jun 26-27), where he took part as a band member. Content confirmed. Date note: the slot is 'Tuesday 24:00' in broadcaster convention, i.e. 00:00 JST on Wednesday July 3 by the calendar; kept as 2024-07-02 pending decision. Whether all five members took part in the talk was not checked."
   },
   {
     "id": "tv-2024-07-03-fns-music-festival-summer-2024",
@@ -5530,6 +5552,9 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
+      "https://www.excite.co.jp/news/article/Crankin_147799/",
+      "https://www.excite.co.jp/news/article/Cinra_202407_whn_fns_edteam/",
+      "https://x.com/NewJeans_jp/status/1808490127267942845",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
@@ -5538,10 +5563,10 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "18時30分から21時43分までフジテレビ系で生放送された『2024 FNS歌謡祭 夏』にスタジオ生出演し、「ETA」「OMG」「Supernatural」のスペシャルメドレーを披露した。司会は相葉雅紀と井上清華アナウンサー。前年夏に続く2度目の出演。",
-      "en": "NewJeans appeared live in the studio on Fuji TV's 2024 FNS Music Festival Summer, broadcast from 6:30 to 9:43 pm, performing a special medley of 'ETA', 'OMG' and 'Supernatural'. Masaki Aiba and announcer Sayaka Inoue hosted, and it was the group's second summer FNS appearance."
+      "ja": "18時30分からフジテレビ系で生放送された『2024 FNS歌謡祭 夏』にスタジオ生出演し、「ETA」「OMG」「Supernatural」のスペシャルメドレーを披露した。司会は相葉雅紀と井上清華アナウンサー。NewJeansが『FNS歌謡祭』のスタジオに登場するのはこれが初めてだった。",
+      "en": "NewJeans appeared live in the studio on Fuji TV's 2024 FNS Music Festival Summer, broadcast from 6:30 pm, performing a special medley of 'ETA', 'OMG' and 'Supernatural'. Masaki Aiba and announcer Sayaka Inoue hosted, and it was the group's first time in the FNS Music Festival studio."
     },
     "credits": {
       "broadcaster": "Fuji TV",
@@ -5551,7 +5576,7 @@
       },
       "host": "Masaki Aiba, Sayaka Inoue"
     },
-    "editor_note": "公式YouTube動画なし: Fuji TV does not publish FNS performances on YouTube; no official upload found",
+    "editor_note": "公式YouTube動画なし: Fuji TV does not publish FNS performances on YouTube; no official upload found / 2026-10-24 nightly: Official @NewJeans_jp post 1808490127267942845 (2024-07-03 22:17 KST) thanks viewers of '2024 FNS歌謡祭 夏'; Crank-in (2024-06-12) says NewJeans would make their first appearance in the FNS studio, live, with a special medley, hosts Aiba and Inoue; CINRA timetable (2024-07-03) lists NewJeans 'ETA' 'OMG' 'Supernatural' and the 6:30 pm start. The 9:43 pm end time and 'second summer FNS appearance' were not confirmed (the press calls it their first time in the FNS studio) and were replaced.",
     "image": {
       "url": "https://pbs.twimg.com/media/GRkMLh5a4AAoDDY.jpg?name=orig",
       "source_url": "https://x.com/NewJeans_jp/status/1808490127267942845"
@@ -5577,6 +5602,10 @@
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
     "reference_urls": [
+      "https://www.excite.co.jp/news/article/Cinra_202407_whn_musicday_edteam/",
+      "https://mdpr.jp/music/detail/4314504",
+      "https://www.crank-in.net/news/148460/1",
+      "https://x.com/NewJeans_jp/status/1809586849972650052",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
@@ -5585,9 +5614,9 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "幕張メッセから15時に日本テレビ系で生放送された『THE MUSIC DAY 2024』に出演した。総合司会は櫻井翔。NewJeansは「Hype Boy」と「How Sweet」を披露したほか、ハニが松田聖子「青い珊瑚礁」、ヘインが竹内まりや「プラスティック・ラブ」をそれぞれテレビで初めて歌った。",
+      "ja": "幕張メッセから15時に日本テレビ系で生放送された『THE MUSIC DAY 2024』に出演した。総合司会は櫻井翔。NewJeansは「Hype Boy」と「How Sweet」を披露したほか、東京ドーム公演で話題を呼んだソロステージとして、ハニが松田聖子「青い珊瑚礁」、ヘインが竹内まりや「プラスティック・ラブ」をそれぞれテレビで初めて歌った。",
       "en": "NewJeans appeared on Nippon TV's THE MUSIC DAY 2024, broadcast live from 3 pm from Makuhari Messe and hosted by Sho Sakurai. The group performed 'Hype Boy' and 'How Sweet', and Hanni sang Seiko Matsuda's 'Aoi Sangosho' while Hyein sang Mariya Takeuchi's 'Plastic Love', each a first television performance of the cover."
     },
     "credits": {
@@ -5595,7 +5624,7 @@
       "program": "THE MUSIC DAY 2024",
       "host": "Sho Sakurai"
     },
-    "editor_note": "公式YouTube動画なし: NTV does not publish THE MUSIC DAY performances on YouTube; no official upload found",
+    "editor_note": "公式YouTube動画なし: NTV does not publish THE MUSIC DAY performances on YouTube; no official upload found / 2026-10-24 nightly: Official @NewJeans_jp post 1809586849972650052 (2024-07-06 22:55 KST, #THEMUSICDAY); Crank-in (2024-06-22) gives the 3 pm live broadcast from Makuhari Messe with Sho Sakurai as host; Modelpress (4314504) announces Hyein's 'プラスティック・ラヴ' and Hanni's '青い珊瑚礁' as TV-first solo performances reprising the Tokyo Dome solos; CINRA timetable (2024-07-05) lists NewJeans 'Hype Boy' and 'How Sweet' and both solos. Song title kept as 'プラスティック・ラブ' (the title of Mariya Takeuchi's release), though Modelpress writes 'プラスティック・ラヴ'.",
     "image": {
       "url": "https://pbs.twimg.com/media/GRzi2vWbMAA3dr7.jpg?name=orig",
       "source_url": "https://x.com/NewJeans_jp/status/1809586849972650052"
@@ -5664,8 +5693,8 @@
       "en": "Show! Music Core: Supernatural and hit medley"
     },
     "summary": {
-      "ja": "MBC『ショー！音楽中心』で「Right Now」「Supernatural」に加え「ETA」「OMG」「Hype Boy」のヒットメドレーを5人で披露。",
-      "en": "On Show! Music Core NewJeans performed 'Right Now', 'Supernatural' and a hit medley of 'ETA', 'OMG' and 'Hype Boy' with all five members."
+      "ja": "MBC『ショー！音楽中心』で「ETA」「OMG」「Hype Boy」のヒットメドレーに続き「Supernatural」「Right Now」を5人で披露。",
+      "en": "On Show! Music Core NewJeans performed a hit medley of 'ETA', 'OMG' and 'Hype Boy' followed by 'Supernatural' and 'Right Now', with all five members."
     },
     "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
     "reference_urls": [
@@ -5680,10 +5709,10 @@
     "tags": [
       "music-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "MBC『ショー！音楽中心』で「Right Now」「Supernatural」に加え、「ETA」「OMG」「Hype Boy」のヒット曲メドレーを披露した。ヘイン復帰後の5人でのステージ。",
-      "en": "NewJeans performed 'Right Now' and 'Supernatural' on MBC's Show! Music Core, followed by a hit medley of 'ETA', 'OMG' and 'Hype Boy'. All five members took part following Hyein's return."
+      "ja": "MBC『ショー！音楽中心』で「ETA」「OMG」「Hype Boy」のヒット曲メドレーに続き、日本デビューシングルの「Supernatural」と「Right Now」を披露し、計5曲のステージとなった。デビュー後初めての『ショー！音楽中心』出演で、負傷で活動を休んでいたヘインが復帰し5人がそろった。",
+      "en": "NewJeans performed a hit medley of 'ETA', 'OMG' and 'Hype Boy' on MBC's Show! Music Core, followed by 'Supernatural' and 'Right Now' from their Japanese debut single, five songs in all. It was their first Music Core stage since debut, and all five members took part, with Hyein back after her injury."
     },
     "credits": {
       "broadcaster": "MBC",
@@ -5692,7 +5721,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=SEXfnNzARF4"
     },
-    "editor_note": "公式動画: MBCkpop「NewJeans (뉴진스) - Supernatural | Show! MusicCore | MBC240713방송」(2024-07-13); 関連2本をreference_urlsに記載"
+    "editor_note": "公式動画: MBCkpop「NewJeans (뉴진스) - Supernatural | Show! MusicCore | MBC240713방송」(2024-07-13); 関連2本をreference_urlsに記載 / 2026-10-24 nightly: MBCkpop official uploads SEXfnNzARF4 ('Supernatural', MBC240713방송) and YxjRLPGC7wU ('ETA + OMG + Hype Boy') confirm the date; The Fact (2024-07-12, quoting ADOR) says Hyein would rejoin from the July 12 Music Bank and that the July 13 Music Core, their first since debut, would include the hit medley; same-day press (Naver, 2024-07-13) says they performed the medley before 'Supernatural' and 'Right Now', five songs in all. Order corrected (medley first) and the first-Music-Core fact added."
   },
   {
     "id": "tv-2024-07-13-ongaku-no-hi-2024",
@@ -5709,21 +5738,24 @@
       "en": "TBS: Ongaku no Hi 2024"
     },
     "summary": {
-      "ja": "TBS『音楽の日2024』に韓国からのリモート出演で「Supernatural」を披露。",
-      "en": "NewJeans performed 'Supernatural' remotely from South Korea on TBS's Ongaku no Hi 2024."
+      "ja": "TBS『音楽の日2024』に出演し、「Supernatural」を披露。",
+      "en": "NewJeans performed 'Supernatural' on TBS's Ongaku no Hi 2024."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://mdpr.jp/music/detail/4324504",
+      "https://x.com/NewJeans_jp/status/1812108717409607807"
+    ],
     "media": {
       "type": "none"
     },
     "tags": [
       "japan-tv"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "14時から21時56分までTBS系で生放送された『音楽の日2024』に出演し、「Supernatural」を披露した。韓国からのリモート出演として編成され、同じく韓国からENHYPEN、LE SSERAFIMが参加した。",
-      "en": "NewJeans performed 'Supernatural' on TBS's Ongaku no Hi 2024, broadcast live from 2:00 to 9:56 pm. The group took part remotely from South Korea, as did ENHYPEN and Le Sserafim."
+      "ja": "14時からTBS系で生放送された音楽特番『音楽の日2024』に出演し、17時台の枠で「Supernatural」を披露した。",
+      "en": "NewJeans performed 'Supernatural' in the 5 pm hour of TBS's music special Ongaku no Hi 2024, broadcast live from 2 pm."
     },
     "credits": {
       "broadcaster": "TBS",
@@ -5732,7 +5764,7 @@
         "en": "Ongaku no Hi 2024 (Day of Music)"
       }
     },
-    "editor_note": "Remote-from-Korea listing per ja.wikipedia program page; song (Supernatural) per fan reports only, not confirmed by TBS. / 公式YouTube動画なし: TBS does not publish Ongaku no Hi performances on YouTube; no official upload found",
+    "editor_note": "Remote-from-Korea listing per ja.wikipedia program page; song (Supernatural) per fan reports only, not confirmed by TBS. / 公式YouTube動画なし: TBS does not publish Ongaku no Hi performances on YouTube; no official upload found / 2026-10-24 nightly: Modelpress timetable (2024-07-12) lists NewJeans '♪Supernatural' in the 5 pm hour of the July 13 broadcast starting 2 pm; official @NewJeans_jp post 1812108717409607807 (2024-07-13 21:56 KST, #音楽の日) asks fans whether they saw the stage. The timetable lists NewJeans among the regular performers, not under the 中継 (remote) sections, and no source for a remote-from-Korea appearance alongside ENHYPEN and LE SSERAFIM was found (only ja.wikipedia), so that claim and the unconfirmed 9:56 pm end time were removed. Song now confirmed.",
     "image": {
       "url": "https://pbs.twimg.com/media/GSQ_U1FagAMYigG.jpg?name=orig",
       "source_url": "https://x.com/NewJeans_jp/status/1812108717409607807"

@@ -44,3 +44,8 @@
 | 2026-10-24 | tv-2023-11-30-newjeans-yearbook-22-23 | goods-2023-10-30-newjeans-yearbook-22-23 と同じ商品。11/30のVOD公開日に一次ソースがなく、本文が公式告知と食い違う | 未決（残す・書き直す・削除のいずれか） |
 | 2026-10-24 | tv-2023-12-09-music-bank-global-festival-2023-japan | 収録日で置いたtvレコード。live-2023-12-09（公演）と tv-2023-12-15（放送）の両方と重なる | 未決（削除か統合か） |
 | 2026-10-24 | live-2025-03-22-njz-incheon-departure-hong-kong / live-2025-03-24-njz-incheon-arrival-hong-kong | 3/21の仮処分決定後の出入国で、根拠は報道のみ。data-policy §2は仮処分後のNJZの活動を公式発表があるものに限る | 未決（残すか外すか） |
+| 2026-10-24 | record-2025-02-15-hanteo-music-awards-32-whosfandom-female-nomination | ノミネートの発表日が判明（2024-12-02 TOP40投票開始、12-09 TOP16発表）。現在は授賞式日 | 未決（どちらの日に移すか） |
+| 2026-10-24 | tv-2024-06-02-k-wave-concert-inkigayo-haerin-mc | tvなのに公演日で置いている。放送は6/9のtvレコード側。credits の co_hosts も語彙外 | 未決（6/9のtvへ統合／liveへ移動／現状維持） |
+| 2026-10-24 | tv-2024-07-02-j-wave-spark | 「火曜24時」の放送（暦では7/3 0時） | 未決（7/2のままか7/3に移すか） |
+| 2026-10-24 | ヘイン休養中（2024-05〜07）の音楽番組 tv レコードの members | 5/31・6/7・6/14 Music Bank、6/8・6/15 Music Core、6/16 Inkigayo は all、5/24・5/26 と日本の6/21〜7/1は4人。ADOR談（The Fact）ではヘインの韓国音楽番組復帰は7/12 Music Bank | 未確認（各回の出演人数を確認して揃える） |
+| 2026-10-24 | live-2024-06-02-k-wave-concert-inkigayo | セットリストの「ETA」はWikipediaのみが根拠（確認済みのレコード） | 未確認 |
