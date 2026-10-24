@@ -2987,11 +2987,15 @@
       "en": "Lollapalooza Chicago 2023 (livestream)"
     },
     "summary": {
-      "ja": "シカゴのLollapalooza 2023初日にK-POPガールグループとして初出演し、T-Mobileステージの公演がWeverseとHuluで配信された。",
-      "en": "NewJeans became the first K-pop girl group to play Lollapalooza, with their Chicago set streamed on Weverse and Hulu."
+      "ja": "シカゴのLollapalooza 2023初日にK-POPガールグループとして初出演し、T-Mobileステージの公演がHuluで配信された。",
+      "en": "NewJeans became the first K-pop girl group to play Lollapalooza, with their Chicago set streamed on Hulu."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
+    "source_url": "https://nocutnews.co.kr/news/5989973",
+    "reference_urls": [
+      "https://www.laughingplace.com/w/news/2023/08/01/hulu-lollapalooza-2023/",
+      "https://americansongwriter.com/how-to-watch-lollapalooza-2023-live-and-free",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+    ],
     "media": {
       "type": "youtube",
       "ref": "Xw-rOxA0ItI"
@@ -3001,11 +3005,11 @@
       "festival",
       "stream"
     ],
-    "verified": false,
-    "editor_note": "Festival performance; broadcast/streaming platform not verified from an official source. | Hulu stream per Hulu schedule and American Songwriter; Weverse stream not confirmed by a source found. Set time per NME stage-times feature. / 公式動画: NewJeans「NewJeans (뉴진스) Live @ Lollapalooza 2023 (Full Performance)」(2023-08-07)",
+    "verified": true,
+    "editor_note": "Festival performance; broadcast/streaming platform not verified from an official source. | Hulu stream per Hulu schedule and American Songwriter; Weverse stream not confirmed by a source found. Set time per NME stage-times feature. / 公式動画: NewJeans「NewJeans (뉴진스) Live @ Lollapalooza 2023 (Full Performance)」(2023-08-07) / 2026-10-24 nightly: Nocut News (2023-08-04 KST, citing Chicago Sun-Times) confirms the Aug 3 local-time set on the Grant Park T-Mobile stage in the 5 pm hour, first K-pop girl group, and the 12-song setlist; Hulu's schedule (reprinted by Laughing Place 2023-08-01 and American Songwriter) lists NewJeans on Channel 1, Thu Aug 3, 6:05 pm ET. No source for a Weverse stream was found, so 'Weverse' was removed from the summary; the 'all songs except Coca-Cola collaborations' wording was an inference and was replaced with the reported setlist. Official full performance video Xw-rOxA0ItI uploaded Aug 7, 2023 (KST) per YouTube next API.",
     "detail": {
-      "ja": "米シカゴのグラント・パークで開かれた『Lollapalooza 2023』初日、T-Mobileステージの17時（現地時間）からの枠に出演した。K-POPのガールグループとしてこのフェスティバル初の出演。フェスはHuluが8月3日から6日まで配信し、NewJeansの出演枠はHuluのチャンネル1で米東部時間18時05分に案内されていた。セットリストはコカ・コーラとのコラボ曲を除く全楽曲で構成された。",
-      "en": "NewJeans played the 5 pm (local time) slot on the T-Mobile Stage on day one of Lollapalooza 2023 in Grant Park, Chicago, the first K-pop girl group to perform at the festival. Hulu streamed the festival from August 3 to 6, with the NewJeans set listed on Hulu's Channel 1 at 6:05 pm ET. The set covered the group's catalogue except the Coca-Cola collaborations."
+      "ja": "米シカゴのグラント・パークで開かれた『Lollapalooza 2023』初日、T-Mobileステージの17時台（現地時間）の枠に出演した。K-POPのガールグループとしてこのフェスティバル初の出演。フェスはHuluが8月3日から6日まで配信し、NewJeansの出演枠はHuluのチャンネル1で米東部時間18時05分に案内されていた。バンド編成の「Hype Boy」で始まり、「Cookie」「Hurt」「Attention」「Ditto」「OMG」「New Jeans」「Super Shy」「ETA」「Cool With You」「Get Up」「ASAP」まで計12曲を披露した。",
+      "en": "NewJeans played the 5 pm-hour slot (local time) on the T-Mobile Stage on day one of Lollapalooza 2023 in Grant Park, Chicago, the first K-pop girl group to perform at the festival. Hulu streamed the festival from August 3 to 6, with the NewJeans set listed on Hulu's Channel 1 at 6:05 pm ET. Opening with a band version of 'Hype Boy', they performed 12 songs: 'Hype Boy', 'Cookie', 'Hurt', 'Attention', 'Ditto', 'OMG', 'New Jeans', 'Super Shy', 'ETA', 'Cool With You', 'Get Up' and 'ASAP'."
     },
     "credits": {
       "venue": "Grant Park, Chicago (T-Mobile Stage)",
@@ -3030,13 +3034,14 @@
       "en": "Music Bank: ETA"
     },
     "summary": {
-      "ja": "シカゴのLollapalooza出演の翌日、KBS『ミュージックバンク』で「ETA」を披露したステージ。",
-      "en": "NewJeans performed 'ETA' on Music Bank the day after their Lollapalooza set in Chicago."
+      "ja": "KBS『ミュージックバンク』で、『Get Up』のトリプルタイトル曲の一つ「ETA」のステージが放送された。",
+      "en": "NewJeans' stage of 'ETA', one of the triple title tracks from Get Up, aired on KBS's Music Bank."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+    "source_url": "https://www.youtube.com/watch?v=N3JN676kYGE",
     "reference_urls": [
       "https://www.youtube.com/watch?v=qwSeH9oocpM",
-      "https://www.youtube.com/watch?v=pDNltrE3LMo"
+      "https://www.youtube.com/watch?v=pDNltrE3LMo",
+      "https://nocutnews.co.kr/news/5989973"
     ],
     "media": {
       "type": "youtube",
@@ -3045,16 +3050,16 @@
     "tags": [
       "music-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "KBS『ミュージックバンク』で「ETA」を披露した。前日のシカゴ『Lollapalooza』出演直後のステージ。",
-      "en": "NewJeans performed 'ETA' on KBS's Music Bank. The stage came the day after their Lollapalooza set in Chicago."
+      "ja": "KBS『ミュージックバンク』で「ETA」のステージが放送された。同じ日（韓国時間）の朝には、NewJeansが米シカゴで『Lollapalooza』のステージに立っていた。KBSの公式チャンネルでは本放送の映像とワンテイク映像（Bonus Ver.）が公開された。",
+      "en": "NewJeans' 'ETA' stage aired on KBS's Music Bank. Earlier the same day (Korean time) the group had performed at Lollapalooza in Chicago. KBS's official channels posted the broadcast stage and a one-take 'Bonus Ver.' clip."
     },
     "credits": {
       "broadcaster": "KBS 2TV",
       "program": "Music Bank"
     },
-    "editor_note": "Whether this stage was pre-recorded is not confirmed. / 公式動画: KBS Kpop「ETA - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230804 방송」(2023-08-04); 関連2本をreference_urlsに記載",
+    "editor_note": "Whether this stage was pre-recorded is not confirmed. / 公式動画: KBS Kpop「ETA - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230804 방송」(2023-08-04); 関連2本をreference_urlsに記載 / 2026-10-24 nightly: YouTube next API (KST) shows KBS Kpop 'ETA - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230804 방송' (N3JN676kYGE), the one-take Bonus Ver. (qwSeH9oocpM) and KBS WORLD TV (pDNltrE3LMo) all uploaded Aug 4, 2023. The previous text called it 'the day after' Lollapalooza; the Chicago set (Aug 3, 5 pm-hour CDT per Nocut) fell on the morning of Aug 4 KST, so the wording was corrected. Pre-recording not confirmed by a source, so not stated.",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=N3JN676kYGE"
     }
@@ -3077,9 +3082,10 @@
       "ja": "SBS『人気歌謡』で「Super Shy」を披露した、『Get Up』活動期間中の日曜の音楽番組ステージ。",
       "en": "NewJeans performed 'Super Shy' on SBS's Inkigayo during the Get Up promotions."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+    "source_url": "https://www.youtube.com/watch?v=nTUX-kRP17Q",
     "reference_urls": [
-      "https://www.youtube.com/watch?v=sw7UIeR_6Uc"
+      "https://www.youtube.com/watch?v=sw7UIeR_6Uc",
+      "http://www.mydaily.co.kr/new_yk/html/read.php?newsid=202308061659912195&ext=na"
     ],
     "media": {
       "type": "youtube",
@@ -3088,10 +3094,10 @@
     "tags": [
       "music-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "SBS『人気歌謡』で「Super Shy」を披露した。『Get Up』活動期間中の日曜のステージ。",
-      "en": "NewJeans performed 'Super Shy' on SBS's Inkigayo. It was a Sunday stage during the Get Up promotions."
+      "ja": "SBS『人気歌謡』で「Super Shy」を披露した。『Get Up』活動期間中の日曜のステージ。この回の1位候補には「Super Shy」「ETA」とJung Kook「Seven」が並び、1位はJung Kookだった。",
+      "en": "NewJeans performed 'Super Shy' on SBS's Inkigayo, a Sunday stage during the Get Up promotions. The first-place nominees that week were 'Super Shy', 'ETA' and Jung Kook's 'Seven', with Jung Kook taking the win."
     },
     "credits": {
       "broadcaster": "SBS",
@@ -3100,7 +3106,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=nTUX-kRP17Q"
     },
-    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - Super Shy @인기가요 inkigayo 20230806」(2023-08-06); 関連1本をreference_urlsに記載"
+    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - Super Shy @인기가요 inkigayo 20230806」(2023-08-06); 関連1本をreference_urlsに記載 / 2026-10-24 nightly: SBSKPOP X INKIGAYO uploads nTUX-kRP17Q and sw7UIeR_6Uc dated Aug 6, 2023 (YouTube next API, KST). Mydaily (2023-08-06) lists NewJeans among the performers and gives the nominees (Jung Kook 'Seven', 'Super Shy', 'ETA') with Jung Kook winning; added to detail."
   },
   {
     "id": "tv-2023-08-10-k-global-heart-dream-awards-2023",
@@ -3121,7 +3127,10 @@
       "en": "NewJeans received the K Global Best Music Award alongside (G)I-dle, aespa, Ive and Le Sserafim at the 2023 K Global Heart Dream Awards."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "reference_urls": [
+      "http://www.osen.co.kr/article/G1112160085",
+      "https://www.xportsnews.com/article/1758471"
+    ],
     "media": {
       "type": "none"
     },
@@ -3137,7 +3146,7 @@
       "venue": "KSPO Dome, Seoul",
       "host": "Jun Hyun-moo, Jang Do-yeon"
     },
-    "editor_note": "Per OSEN (Aug 9, 2023); whether NewJeans attended or performed is not confirmed. / 公式YouTube動画なし: No official organizer/broadcaster clip found for the 2023 K-Global Heart Dream Awards"
+    "editor_note": "Per OSEN (Aug 9, 2023); whether NewJeans attended or performed is not confirmed. / 公式YouTube動画なし: No official organizer/broadcaster clip found for the 2023 K-Global Heart Dream Awards / 2026-10-24 nightly: OSEN (2023-08-09 11:57 KST) confirms the organisers pre-announced on Aug 9 the K Global Best Music Award for (G)I-dle, aespa, IVE, LE SSERAFIM and NewJeans, with a written acceptance comment from NewJeans, ceremony Aug 10 afternoon at KSPO Dome, hosts Jun Hyun-moo and Jang Do-yeon; Xports News (2023-08-11) confirms the ceremony and the award. Neither lists NewJeans among attendees/performers, and the pre-announced award with a remote comment suggests they did not appear. The award itself is already recorded as record-2023-08-10-k-global-heart-dream-awards-2023, and no TV/OTT broadcast details for the ceremony were confirmed. Not changed."
   },
   {
     "id": "tv-2023-08-10-mcountdown-eta-win",
@@ -3157,8 +3166,10 @@
       "ja": "Mnet『M COUNTDOWN』で「ETA」がITZY「CAKE」を抑え6,136点で初の音楽番組1位、不在のためMVがアンコール代わりに流れた。",
       "en": "'ETA' took its first music-show trophy on M Countdown with 6,136 points over ITZY's 'CAKE'; the music video aired in place of an encore."
     },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "source_url": "https://www.xportsnews.com/article/1758072",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2023)"
+    ],
     "media": {
       "type": "none"
     },
@@ -3166,7 +3177,7 @@
       "music-show",
       "win"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "Mnet『M COUNTDOWN』で「ETA」が1位候補のITZY「CAKE」を抑え、6,136点で1位を獲得した。「ETA」にとって最初の音楽番組1位。NewJeansは出演しておらず、アンコールの代わりに「ETA」のミュージックビデオが流された。この回はITZYのリュジンとチェリョンがスペシャルMCを務めた。",
       "en": "'ETA' won first place on Mnet's M Countdown with 6,136 points over ITZY's 'CAKE', the song's first music-show trophy. NewJeans did not appear, so the 'ETA' music video was aired in place of an encore. ITZY's Ryujin and Chaeryeong served as special MCs."
@@ -3175,7 +3186,7 @@
       "broadcaster": "Mnet",
       "program": "M COUNTDOWN"
     },
-    "editor_note": "Per Xports News (Aug 10, 2023). / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "editor_note": "Per Xports News (Aug 10, 2023). / 公式YouTube動画なし: No stage; win announced in absentia, no official clip / 2026-10-24 nightly: Xports News (2023-08-10 19:34 KST) confirms 'ETA' beat ITZY 'CAKE' for first place on that day's M Countdown, NewJeans did not appear and the ETA MV aired instead of an encore, and ITZY's Ryujin and Chaeryeong were special MCs. Score 6,136 per the M Countdown 2023 winners list (secondary); no earlier ETA win appears in the 2023 lists of the five music shows.",
     "image": {
       "url": "https://image.xportsnews.com/contents/images/upload/article/2023/0810/1691663593151084.png",
       "source_url": "https://www.xportsnews.com/article/1758072"
@@ -3201,11 +3212,14 @@
       "en": "KBS 2TV aired the World Scout Jamboree closing concert live, with Hyein as co-MC and NewJeans performing 'ETA' and 'Hype Boy'."
     },
     "detail": {
-      "ja": "ソウルワールドカップ競技場で開かれた第25回世界スカウトジャンボリーの閉幕公演『K-POPスーパーライブ』を、KBS 2TVとKBS WORLD TVのYouTubeチャンネルが19時から生中継した。この日の『ミュージックバンク』は休止となった。MCは俳優コン・ミョン、ITZYのユナ、NewJeansのヘインが務め、NewJeansは第2部で「ETA」「Hype Boy」を披露した。",
-      "en": "KBS 2TV and the KBS WORLD TV YouTube channel broadcast live from 7 pm the closing concert of the 25th World Scout Jamboree, K-pop Super Live, at Seoul World Cup Stadium; Music Bank was cancelled that day. Actor Gong Myung, ITZY's Yuna and NewJeans' Hyein hosted, and NewJeans performed 'ETA' and 'Hype Boy' in the second part."
+      "ja": "ソウルワールドカップ競技場で開かれた第25回世界スカウトジャンボリーの閉幕公演『K-POPスーパーライブ』を、KBS 2TVとKBS WORLD TVのYouTubeチャンネルが19時から生中継した。この日の『ミュージックバンク』は休止となった。MCは俳優コン・ミョン、ITZYのユナ、NewJeansのヘインが務め、NewJeansは第1部の最後に「ETA」「Hype Boy」を披露した。",
+      "en": "KBS 2TV and the KBS WORLD TV YouTube channel broadcast live from 7 pm the closing concert of the 25th World Scout Jamboree, K-pop Super Live, at Seoul World Cup Stadium; Music Bank was cancelled that day. Actor Gong Myung, ITZY's Yuna and NewJeans' Hyein hosted, and NewJeans closed the first part with 'ETA' and 'Hype Boy'."
     },
     "source_url": "https://www.soompi.com/article/1606623wpp/music-bank-to-not-air-today-kbs-to-live-stream-jamboree-k-pop-super-live-concert-instead",
     "reference_urls": [
+      "http://www.newsis.com/view/?id=NISX20230811_0002411209",
+      "http://news.heraldcorp.com/view.php?ud=20230811000592",
+      "https://www.joongang.co.kr/article/25184327",
       "https://www.newdaily.co.kr/site/data/html/2023/08/11/2023081100074.amp.html",
       "https://nocutnews.co.kr/news/5990674",
       "https://www.mcst.go.kr/english/policy/pressView.jsp?pSeq=288",
@@ -3224,8 +3238,8 @@
       "special",
       "host"
     ],
-    "verified": false,
-    "editor_note": "Broadcast: Soompi (2023-08-11) — closing ceremony 5:30 pm KST, concert live from 7 pm on KBS2 and KBS WORLD TV YouTube. Hosts: NewDaily (2023-08-11) — Gong Myung, Yuna, Hyein. Music Bank cancellation: Nocut (2023-08-08) citing the show's Aug 7 notice. Setlist/part per live-2023-08-11-kpop-super-live-jamboree (MCST source). No official KBS page fetched."
+    "verified": true,
+    "editor_note": "Broadcast: Soompi (2023-08-11) — closing ceremony 5:30 pm KST, concert live from 7 pm on KBS2 and KBS WORLD TV YouTube. Hosts: NewDaily (2023-08-11) — Gong Myung, Yuna, Hyein. Music Bank cancellation: Nocut (2023-08-08) citing the show's Aug 7 notice. Setlist/part per live-2023-08-11-kpop-super-live-jamboree (MCST source). No official KBS page fetched. / 2026-10-24 nightly: Newsis (2023-08-11 21:43 KST) and Herald Economy (2023-08-11) both say NewJeans performed 'ETA' and 'Hype Boy' as the last act of part 1 ('1부 마지막 순서/무대'), with Hyein returning to the MC desk afterwards; the record's 'second part' was corrected. JoongAng (2023-08-12, citing KBS) confirms the live broadcast on KBS 2TV and the KBS WORLD YouTube live stream on Aug 11 (ratings omitted as post-dated). Note: live-2023-08-11-kpop-super-live-jamboree also says 'second part' and should be corrected the same way."
   },
   {
     "id": "tv-2023-08-13-inkigayo-cool-with-you",
@@ -3245,7 +3259,7 @@
       "ja": "SBS『人気歌謡』で「Cool With You」を披露した、『Get Up』活動期間中の日曜の音楽番組ステージ。",
       "en": "NewJeans performed 'Cool With You' on SBS's Inkigayo during the Get Up promotions."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+    "source_url": "https://www.youtube.com/watch?v=d0_q9F8l9Hc",
     "reference_urls": [
       "https://www.youtube.com/watch?v=O0qtb-MB7O4"
     ],
@@ -3256,7 +3270,7 @@
     "tags": [
       "music-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "SBS『人気歌謡』で「Cool With You」を披露した。『Get Up』活動期間中の日曜のステージ。",
       "en": "NewJeans performed 'Cool With You' on SBS's Inkigayo. It was a Sunday stage during the Get Up promotions."
@@ -3268,7 +3282,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=d0_q9F8l9Hc"
     },
-    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - Cool With You @인기가요 inkigayo 20230813」(2023-08-13); 関連1本をreference_urlsに記載"
+    "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - Cool With You @인기가요 inkigayo 20230813」(2023-08-13); 関連1本をreference_urlsに記載 / 2026-10-24 nightly: SBSKPOP X INKIGAYO uploads d0_q9F8l9Hc ('NewJeans(뉴진스) - Cool With You @인기가요 inkigayo 20230813') and the FullCam O0qtb-MB7O4 are dated Aug 13, 2023 (YouTube next API, KST)."
   },
   {
     "id": "tv-2023-08-16-show-champion-super-shy-win",
@@ -3289,7 +3303,10 @@
       "en": "'Super Shy' won episode 488 of Show Champion with 3,779 points, its first trophy on the program."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2023)",
+      "http://enews.imbc.com/News/RetrieveNewsInfo/391456"
+    ],
     "media": {
       "type": "none"
     },
@@ -3306,7 +3323,7 @@
       "broadcaster": "MBC M",
       "program": "Show Champion"
     },
-    "editor_note": "Points and highlight-episode note per Show Champion chart list; TOP5 nominees not retrieved. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip"
+    "editor_note": "Points and highlight-episode note per Show Champion chart list; TOP5 nominees not retrieved. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip / 2026-10-24 nightly: MBC M's own news (enews.imbc.com, 2023-08-16) confirms the Aug 16 episode was a highlights edition ('청춘에게 보내는 편지', 6 pm) but says nothing about a first place. The Show Champion 2023 winners list (Wikipedia) gives 'Super Shy' 3,779 for ep. 488; no press report of the win found via Naver news search. Left unconfirmed."
   },
   {
     "id": "tv-2023-08-17-mcountdown-eta-win-2",
@@ -3327,7 +3344,10 @@
       "en": "'ETA' won M Countdown for a second straight week, with Mnet Plus running a celebration party feature."
     },
     "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2023)",
+      "https://en.wikipedia.org/wiki/ETA_(song)"
+    ],
     "media": {
       "type": "none"
     },
@@ -3344,7 +3364,7 @@
       "broadcaster": "Mnet",
       "program": "M COUNTDOWN"
     },
-    "editor_note": "Per M Countdown chart list (Mnet Plus celebration party citation); nominees not confirmed. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip / 2026-10-24 nightly (review queue): Mnet K-POP's uploads for 230817 (EP.810) are all titled '[K-POP 시간 여행 특집]' (a K-pop time-travel special of legend stages: SHINee, SEVENTEEN, aespa, TXT, Jimin, ATEEZ, NCT DREAM, 8TURN, LUN8); no first-place or encore clip, no ETA win report and no Wikipedia winner for that week were found. A ranking was probably not held; deletion candidate pending a human decision."
+    "editor_note": "Per M Countdown chart list (Mnet Plus celebration party citation); nominees not confirmed. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip / 2026-10-24 nightly (review queue): Mnet K-POP's uploads for 230817 (EP.810) are all titled '[K-POP 시간 여행 특집]' (a K-pop time-travel special of legend stages: SHINee, SEVENTEEN, aespa, TXT, Jimin, ATEEZ, NCT DREAM, 8TURN, LUN8); no first-place or encore clip, no ETA win report and no Wikipedia winner for that week were found. A ranking was probably not held; deletion candidate pending a human decision. / 2026-10-24 nightly: The M Countdown 2023 winners list shows EP.810 (Aug 17) as a special episode with no winner (its only citation is a Mnet Plus 'M Countdown Celebration Party - NewJeans ETA' item, which relates to the Aug 10 win), while the 'ETA (song)' article counts an Aug 17 M Countdown win. No press report of an Aug 17 win was found. Sources conflict; not changed."
   },
   {
     "id": "tv-2023-08-20-inkigayo-super-shy-win-2",
@@ -3364,8 +3384,10 @@
       "ja": "SBS『人気歌謡』で「Super Shy」が自身の「ETA」などを抑え6,724点で1位、出演なしでの受賞。",
       "en": "'Super Shy' won Inkigayo with 6,724 points over NewJeans' own 'ETA' and The Boyz, without a performance."
     },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "source_url": "https://www.osen.co.kr/article/G1112167200",
+    "reference_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)"
+    ],
     "media": {
       "type": "none"
     },
@@ -3373,7 +3395,7 @@
       "music-show",
       "win"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
       "ja": "SBS『人気歌謡』で「Super Shy」が6,724点で1位を獲得した。1位候補は「Super Shy」、同じNewJeansの「ETA」、THE BOYZ「LIP GLOSS」の3曲。NewJeansは出演せず、ステージなしでの受賞だった。",
       "en": "'Super Shy' won first place on SBS's Inkigayo with 6,724 points; the nominees were 'Super Shy', NewJeans' own 'ETA' and The Boyz's 'LIP GLOSS'. NewJeans did not appear on the episode."
@@ -3382,7 +3404,7 @@
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Per Mydaily (Aug 20, 2023). / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "editor_note": "Per Mydaily (Aug 20, 2023). / 公式YouTube動画なし: No stage; win announced in absentia, no official clip / 2026-10-24 nightly: OSEN (2023-08-20 17:01 KST) confirms 'Super Shy' won Inkigayo over 'ETA' and The Boyz 'LIP GLOSS' without NewJeans appearing. Score 6,724 per the Inkigayo 2023 winners list (secondary; not in OSEN).",
     "image": {
       "url": "https://www.stoo.com/upimages/gisaimg/202308/20_887491_85508.jpg",
       "source_url": "http://www.stoo.com/article.php?aid=88749185508"
@@ -3403,14 +3425,15 @@
       "en": "Music Bank: ASAP"
     },
     "summary": {
-      "ja": "KBS『ミュージックバンク』で『Get Up』収録曲「ASAP」を披露した、音楽番組での同曲初のステージ。",
-      "en": "NewJeans performed 'ASAP' from Get Up on Music Bank, the song's first music-show stage."
+      "ja": "KBS『ミュージックバンク』で『Get Up』収録曲「ASAP」を披露し、ハニがイ・チェミンとともにスペシャルMCを務めた。",
+      "en": "NewJeans performed 'ASAP' from Get Up on Music Bank, with Hanni co-hosting as a special MC alongside Lee Chae-min."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+    "source_url": "https://www.youtube.com/watch?v=vGxy5Imv6Nc",
     "reference_urls": [
       "https://www.youtube.com/watch?v=MYLonsG8AZI",
       "https://www.youtube.com/watch?v=NUYai_zF7wM",
-      "https://www.youtube.com/watch?v=V-ElZIgwHxU"
+      "https://www.youtube.com/watch?v=V-ElZIgwHxU",
+      "https://kstar.kbs.co.kr/list_view.html?idx=277796"
     ],
     "media": {
       "type": "youtube",
@@ -3419,10 +3442,10 @@
     "tags": [
       "music-show"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "KBS『ミュージックバンク』で『Get Up』収録曲「ASAP」を披露した。音楽番組での「ASAP」のステージはこれが最初。",
-      "en": "NewJeans performed 'ASAP', a track from Get Up, on KBS's Music Bank. It was the song's first music-show stage."
+      "ja": "KBS『ミュージックバンク』で『Get Up』収録曲「ASAP」を披露した。この回はハニが俳優イ・チェミンとともにスペシャルMCを務めた。",
+      "en": "NewJeans performed 'ASAP', a track from Get Up, on KBS's Music Bank. Hanni served as a special MC on the episode alongside actor Lee Chae-min."
     },
     "credits": {
       "broadcaster": "KBS 2TV",
@@ -3431,7 +3454,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=vGxy5Imv6Nc"
     },
-    "editor_note": "公式動画: KBS Kpop「ASAP - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230825 방송」(2023-08-25); 関連3本をreference_urlsに記載"
+    "editor_note": "公式動画: KBS Kpop「ASAP - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230825 방송」(2023-08-25); 関連3本をreference_urlsに記載 / 2026-10-24 nightly: KBS Kpop 'ASAP - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230825 방송' (vGxy5Imv6Nc) uploaded Aug 25, 2023 (YouTube next API, KST); KBS kstar (2023-08-25) lists NewJeans among performers; KBS WORLD TV clip NUYai_zF7wM is titled '(MC CUT Collection) Special MC HANNI(NewJeans) & Chaemin! ASAP! KBS WORLD TV 230825', so Hanni's special-MC role was added. The claim that this was ASAP's first music-show stage could not be confirmed and was removed."
   },
   {
     "id": "tv-2023-08-27-inkigayo-super-shy-win-3",
@@ -3451,12 +3474,14 @@
       "ja": "SBS『人気歌謡』で「Super Shy」がトリプルクラウンを達成し、「ASAP」を披露して『Get Up』活動を締めくくった回。",
       "en": "'Super Shy' completed an Inkigayo triple crown as NewJeans closed the Get Up promotions with 'ASAP'."
     },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
+    "source_url": "https://www.starnewskorea.com/stview.php?no=2023082716404040147",
     "reference_urls": [
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://mydaily.co.kr/page/view/2023082717062885738",
+      "https://mydaily.co.kr/page/view/2023090315572409099",
       "https://www.youtube.com/watch?v=CYBFPM-ktW4",
       "https://www.youtube.com/watch?v=GgU-q_KTiKY",
-      "https://www.youtube.com/watch?v=uixHWGeBDag"
+      "https://www.youtube.com/watch?v=uixHWGeBDag",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
       "type": "youtube",
@@ -3466,16 +3491,16 @@
       "music-show",
       "win"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "SBS『人気歌謡』で「Super Shy」が1位を獲得し、この番組でのトリプルクラウンを達成した。1位候補には同じNewJeansの「ETA」も含まれていた。『Get Up』活動の最終ステージで、この回は「ASAP」を披露した。",
-      "en": "'Super Shy' won first place on SBS's Inkigayo, completing a triple crown on the program; the nominees included NewJeans' own 'ETA'. The episode was the group's final stage of the Get Up promotions, on which they performed 'ASAP'."
+      "ja": "SBS『人気歌謡』で「Super Shy」が1位を獲得し、この番組でのトリプルクラウンを達成した。1位候補はSTAYC「Bubble」と、NewJeansの「Super Shy」「ETA」で、2位も「ETA」だった。『Get Up』活動の最終ステージで、この回は「ASAP」を披露した。",
+      "en": "'Super Shy' won first place on SBS's Inkigayo, completing a triple crown on the program; the nominees were STAYC's 'Bubble' and NewJeans' 'Super Shy' and 'ETA', with 'ETA' in second. The episode was the group's final stage of the Get Up promotions, on which they performed 'ASAP'."
     },
     "credits": {
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Per Star News headline (Aug 27, 2023: NewJeans beat NewJeans); points not retrieved. / 公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - ASAP @인기가요 inkigayo 20230827」(2023-08-28); 関連3本をreference_urlsに記載",
+    "editor_note": "Per Star News headline (Aug 27, 2023: NewJeans beat NewJeans); points not retrieved. / 公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - ASAP @인기가요 inkigayo 20230827」(2023-08-28); 関連3本をreference_urlsに記載 / 2026-10-24 nightly: Star News and Mydaily (2023-08-27) confirm the win, nominees (STAYC 'Bubble', 'Super Shy', 'ETA'), ETA in second, and NewJeans' remark that it was their last broadcast; Mydaily (2023-09-03) states 'Super Shy' had taken the Inkigayo triple crown (3 wins) and was removed from the nominees. SBS uploads (ASAP stage SGhugk1FsXo dated Aug 28 KST; FullCam uixHWGeBDag and Super Shy encore cam CYBFPM-ktW4 dated Aug 27) confirm the ASAP stage and the encore. Score 7,211 per Inkigayo 2023 winners list, not added.",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=SGhugk1FsXo"
     }
@@ -3498,8 +3523,11 @@
       "ja": "『Get Up』活動終了後のSBS『人気歌謡』で「ETA」が6,572点で1位、同番組での同曲初のトロフィー。",
       "en": "'ETA' took its first Inkigayo trophy with 6,572 points after the Get Up promotions had ended."
     },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [],
+    "source_url": "https://mydaily.co.kr/page/view/2023090315572409099",
+    "reference_urls": [
+      "http://www.osen.co.kr/article/G1112175498",
+      "http://www.stoo.com/article.php?aid=88939331181"
+    ],
     "media": {
       "type": "none"
     },
@@ -3507,16 +3535,16 @@
       "music-show",
       "win"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "SBS『人気歌謡』で「ETA」が6,572点で1位を獲得した。『Get Up』活動終了後の受賞で、「ETA」の『人気歌謡』での1位はこれが最初。",
-      "en": "'ETA' won first place on SBS's Inkigayo with 6,572 points, its first Inkigayo trophy. The win came after the end of Get Up promotions."
+      "ja": "SBS『人気歌謡』で「ETA」が6,572点で1位を獲得した。1位候補はパク・ジェジョン「Let's Say Goodbye」、LE SSERAFIM「Eve, Psyche & the Bluebeard's wife」と「ETA」。「Super Shy」がトリプルクラウンで候補から外れた直後の受賞で、「ETA」の『人気歌謡』での1位はこれが最初。NewJeansは8月27日で『Get Up』の活動を終えており、出演しなかった。",
+      "en": "'ETA' won first place on SBS's Inkigayo with 6,572 points over Park Jae-jung's 'Let's Say Goodbye' and Le Sserafim's 'Eve, Psyche & the Bluebeard's wife', its first Inkigayo trophy. It came right after 'Super Shy' left the nominees on taking a triple crown. NewJeans, who had wrapped Get Up promotions on August 27, did not appear."
     },
     "credits": {
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Points per Asia Economy (stoo.com) report of Sept 3, 2023; nominees not legible in source. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "editor_note": "Points per Asia Economy (stoo.com) report of Sept 3, 2023; nominees not legible in source. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip / 2026-10-24 nightly: Mydaily and OSEN (2023-09-03) confirm the win, the nominees (Park Jae-jung, Le Sserafim, ETA), that ETA had not won Inkigayo before ('드디어'), that Super Shy had been removed after its triple crown, and that NewJeans did not appear having ended promotions on Aug 27; added to detail. Score 6,572 per prior source (Asia Economy/stoo), not re-read.",
     "image": {
       "url": "https://photo.newsen.com/news_photo/2023/09/03/202309031643595710_1.jpg",
       "source_url": "https://www.newsen.com/news_view.php?uid=202309031643595710"
@@ -3537,10 +3565,10 @@
       "en": "Inkigayo: ETA wins #1"
     },
     "summary": {
-      "ja": "SBS『人気歌謡』で「ETA」が2週連続1位を獲得し、同曲の音楽番組1位は通算4回目に。",
-      "en": "'ETA' won Inkigayo for a second consecutive week, its fourth music-show trophy overall."
+      "ja": "SBS『人気歌謡』で「ETA」が前週に続き2週連続で1位を獲得した。NewJeansは出演していない。",
+      "en": "'ETA' won Inkigayo for a second consecutive week, with NewJeans not appearing on the show."
     },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
+    "source_url": "https://www.osen.co.kr/article/G1112180393",
     "reference_urls": [],
     "media": {
       "type": "none"
@@ -3549,16 +3577,16 @@
       "music-show",
       "win"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "SBS『人気歌謡』で「ETA」が前週に続き2週連続で1位を獲得した。「ETA」の音楽番組1位は通算4回目。",
-      "en": "'ETA' won first place on SBS's Inkigayo for a second consecutive week. It was the song's fourth music-show trophy overall."
+      "ja": "SBS『人気歌謡』で「ETA」が前週に続き2週連続で1位を獲得した。この回の出演者にNewJeansは含まれていない。",
+      "en": "'ETA' won first place on SBS's Inkigayo for a second consecutive week. NewJeans were not among the performers on the episode."
     },
     "credits": {
       "broadcaster": "SBS",
       "program": "Inkigayo"
     },
-    "editor_note": "Per Inkigayo 2023 chart list and ja.wikipedia win table. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip",
+    "editor_note": "Per Inkigayo 2023 chart list and ja.wikipedia win table. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip / 2026-10-24 nightly: OSEN (2023-09-10 16:33 KST) confirms 'ETA' won Inkigayo for the second straight week and lists the performers (NewJeans not among them). The previous 'fourth music-show trophy overall' count depends on a disputed Aug 17 M Countdown win (see tv-2023-08-17-mcountdown-eta-win-2) and was removed.",
     "image": {
       "url": "https://photo.newsen.com/news_photo/2023/09/10/202309101453076710_1.jpg",
       "source_url": "https://www.newsen.com/news_view.php?uid=202309101453076710"
@@ -3582,8 +3610,11 @@
       "ja": "NHK総合『NHK MUSIC EXPO 2023』で「ETA」を披露したNHK初パフォーマンスで、YOASOBIやWOOZIとの対談も放送。",
       "en": "NewJeans' first NHK performance, 'ETA' on NHK MUSIC EXPO 2023, alongside a talk with YOASOBI and Seventeen's Woozi."
     },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
+    "source_url": "https://mdpr.jp/music/detail/3948597",
     "reference_urls": [
+      "https://mdpr.jp/music/3931524",
+      "https://www.oricon.co.jp/news/2294948/full/",
+      "https://ja.wikipedia.org/wiki/NewJeans",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
@@ -3592,17 +3623,17 @@
     "tags": [
       "japan-tv"
     ],
-    "verified": false,
+    "verified": true,
     "detail": {
-      "ja": "NHK総合とNHKワールド・プレミアムで22時から22時45分に放送された『NHK MUSIC EXPO 2023』で「ETA」を披露した。収録は8月18日にNHK 101スタジオで行われ、司会は山里亮太。番組ではYOASOBI、SEVENTEENのWOOZIとNewJeansによるスペシャル対談も放送された。NewJeansにとってNHKでの初パフォーマンス。",
-      "en": "NewJeans performed 'ETA' on NHK MUSIC EXPO 2023, aired on NHK General TV and NHK World Premium from 10:00 to 10:45 pm. Recorded on August 18 at NHK's Studio 101 and hosted by Ryota Yamasato, the program also included a special talk among YOASOBI, Woozi of Seventeen and NewJeans. It was the group's first performance on NHK."
+      "ja": "NHK総合とNHKワールド・プレミアムで22時から22時45分に放送された『NHK MUSIC EXPO 2023』で、トップバッターとして「ETA」を披露した。収録は8月18日にNHKのスタジオで行われ、司会は山里亮太。番組ではYOASOBI、SEVENTEENのWOOZIとNewJeansによるスペシャル対談も放送された。NewJeansにとってNHKでの初パフォーマンス。",
+      "en": "NewJeans opened NHK MUSIC EXPO 2023 with 'ETA'; the program aired on NHK General TV and NHK World Premium from 10:00 to 10:45 pm. Recorded on August 18 in an NHK studio and hosted by Ryota Yamasato, it also included a special talk among YOASOBI, Woozi of Seventeen and NewJeans. It was the group's first performance on NHK."
     },
     "credits": {
       "broadcaster": "NHK General TV, NHK World Premium",
       "program": "NHK MUSIC EXPO 2023",
       "host": "Ryota Yamasato"
     },
-    "editor_note": "A later extended edition (Nov 4, 2023, BS4K) added an OMG performance; omitted from reader text as post-dated. / 公式YouTube動画なし: NHK does not publish MUSIC EXPO performances on YouTube; no official upload found",
+    "editor_note": "A later extended edition (Nov 4, 2023, BS4K) added an OMG performance; omitted from reader text as post-dated. / 公式YouTube動画なし: NHK does not publish MUSIC EXPO performances on YouTube; no official upload found / 2026-10-24 nightly: Modelpress announcement (with NHK-credited photos) and its recording report confirm broadcast Sep 14, 2023 22:00-22:45 on NHK General/NHK World Premium, recording Aug 18, MC Ryota Yamasato, NewJeans as opening act with 'ETA' (their first NHK studio performance) and the YOASOBI x Woozi x NewJeans special talk; Oricon also reports the YOASOBI/NewJeans segment. 'Studio 101' is not stated in these sources and was generalised to 'an NHK studio'.",
     "image": {
       "url": "https://img-mdpr.freetls.fastly.net/article/vzXb/nm/vzXbHCewGHG_N1IDE13mzZfs1jCbm0UU7eA5nlTq9gk.jpg",
       "source_url": "https://mdpr.jp/music/detail/3948597"

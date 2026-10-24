@@ -1606,8 +1606,8 @@
       "original": "2023 새만금 세계스카우트잼버리 K-POP 슈퍼라이브"
     },
     "summary": {
-      "ja": "ソウルワールドカップ競技場での世界スカウトジャンボリー閉幕公演『K-POPスーパーライブ』第2部で「ETA」「Hype Boy」を披露。ヘインはMCも務めた。",
-      "en": "Performed 'ETA' and 'Hype Boy' in Part 2 of the World Scout Jamboree closing concert K-pop Super Live at Seoul World Cup Stadium; Hyein also co-hosted."
+      "ja": "ソウルワールドカップ競技場での世界スカウトジャンボリー閉幕公演『K-POPスーパーライブ』第1部の最後に「ETA」「Hype Boy」を披露。ヘインはMCも務めた。",
+      "en": "Performed 'ETA' and 'Hype Boy' to close Part 1 of the World Scout Jamboree closing concert K-pop Super Live at Seoul World Cup Stadium; Hyein also co-hosted."
     },
     "source_url": "https://www.mcst.go.kr/english/policy/pressView.jsp?pSeq=288",
     "verified": true,
@@ -1615,23 +1615,25 @@
       "type": "none"
     },
     "reference_urls": [
-      "https://www.koreatimes.co.kr/foreignaffairs/20230811/k-pop-concert-to-wrap-up-2023-world-scout-jamboree",
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+      "http://news.heraldcorp.com/view.php?ud=20230811000592",
+      "http://www.newsis.com/view/?id=NISX20230811_0002411209",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://www.koreatimes.co.kr/foreignaffairs/20230811/k-pop-concert-to-wrap-up-2023-world-scout-jamboree"
     ],
     "tags": [
       "festival",
       "government-event"
     ],
     "detail": {
-      "ja": "ソウル・上岩のソウルワールドカップ競技場で19時から21時に開かれた第25回世界スカウトジャンボリーの閉幕公演『K-POPスーパーライブ』に出演した。当初8月6日に新万金の野営地で予定されていたが、猛暑と施設の問題で会場と日程が変更された。公演は文化体育観光部の総括で、各60分の2部構成、MCは俳優コン・ミョン、ITZYのユナ、NewJeansのヘインが務めた。NewJeansは第2部で「ETA」「Hype Boy」を披露し、出演は19組だった。",
-      "en": "NewJeans performed at the 25th World Scout Jamboree closing concert K-pop Super Live, held from 7 to 9 pm at Seoul World Cup Stadium in Sangam, Seoul, after being moved from its original 6 August date at the Saemangeum campsite because of heat and facility problems. Overseen by the Ministry of Culture, Sports and Tourism, the show ran in two 60-minute parts and was emceed by actor Gong Myung, ITZY's Yuna and NewJeans' Hyein. NewJeans performed 'ETA' and 'Hype Boy' in the second part; nineteen acts took part."
+      "ja": "ソウル・上岩のソウルワールドカップ競技場で19時から21時に開かれた第25回世界スカウトジャンボリーの閉幕公演『K-POPスーパーライブ』に出演した。当初8月6日に新万金の野営地で予定されていたが、猛暑と施設の問題で会場と日程が変更された。公演は文化体育観光部の総括で、各60分の2部構成、MCは俳優コン・ミョン、ITZYのユナ、NewJeansのヘインが務めた。NewJeansは第1部の最後に「ETA」「Hype Boy」を披露し、出演は19組だった。",
+      "en": "NewJeans performed at the 25th World Scout Jamboree closing concert K-pop Super Live, held from 7 to 9 pm at Seoul World Cup Stadium in Sangam, Seoul, after being moved from its original 6 August date at the Saemangeum campsite because of heat and facility problems. Overseen by the Ministry of Culture, Sports and Tourism, the show ran in two 60-minute parts and was emceed by actor Gong Myung, ITZY's Yuna and NewJeans' Hyein. NewJeans performed 'ETA' and 'Hype Boy' to close the first part; nineteen acts took part."
     },
     "credits": {
       "venue": "Seoul World Cup Stadium, Seoul",
       "organizer": "Ministry of Culture, Sports and Tourism",
       "host": "Gong Myung, Yuna, Hyein"
     },
-    "editor_note": "Attendance (about 45,000) reported by press on Aug 12, after the event; omitted from reader text. Live TV broadcaster not confirmed from fetched sources (KBS reported elsewhere, unverified here)."
+    "editor_note": "Attendance (about 45,000) reported by press on Aug 12, after the event; omitted from reader text. Live TV broadcaster not confirmed from fetched sources (KBS reported elsewhere, unverified here). / 2026-10-24 nightly: NewJeans' slot corrected from part 2 to the last act of part 1 per Newsis and Herald Economy (2023-08-11), as found when verifying tv-2023-08-11-kbs-kpop-super-live-jamboree."
   },
   {
     "id": "live-2023-08-16-get-up-music-korea-video-call-fansign",
@@ -3071,21 +3073,23 @@
       "en": "Korea University's cheering festival IPSELENTI, the first of seven university festivals in one week, performed as four without Hyein."
     },
     "source_url": "https://www.ajunews.com/view/20240526165410747",
-    "verified": false,
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
+      "https://www.hankookilbo.com/News/Read/A2024052609590004358",
+      "https://tenasia.hankyung.com/article/2024053158724",
       "https://www.marieclairekorea.com/celebrity/2024/05/newjeans-univ-festival/",
       "https://www.nocutnews.co.kr/news/6150429"
     ],
     "tags": [
       "university-festival"
     ],
-    "editor_note": "Saturday May 25, 2024 per ADOR schedule reported by Aju News; some outlets print May 24/26. All 7 festival fees were donated to the Korea Student Aid Foundation. | Schedule per The Fact (June 2024) and Aju News; the later donation of all festival proceeds (announced June 7, 2024) is post-dated and omitted from reader text.",
+    "editor_note": "Saturday May 25, 2024 per ADOR schedule reported by Aju News; some outlets print May 24/26. All 7 festival fees were donated to the Korea Student Aid Foundation. | Schedule per The Fact (June 2024) and Aju News; the later donation of all festival proceeds (announced June 7, 2024) is post-dated and omitted from reader text. / 2026-10-24 nightly: Aju News and Hankook Ilbo (2024-05-26) quote ADOR's Phoning notice of May 25: seven festivals in a week starting with Korea University on the 25th, with all proceeds to be donated; the donation pledge was announced that day, so it was added to detail (the earlier note treated it as post-dated). Tenasia (2024-05-31) confirms Hyein's foot (instep) injury and four-member activity since the May 24 comeback. No direct day-of report of the IPSELENTI set was retrieved, but the ADOR schedule names this date.",
     "detail": {
-      "ja": "ソウルの高麗大学校の応援祭『IPSELENTI』に出演した。ADORが伝えた日程では、この日を皮切りに5月27日の朝鮮大学校、28日の東義大学校と釜山大学校、30日の東国大学校と世宗大学校、31日の中央大学校まで、1週間で7校の大学祭に出演する予定だった。足を負傷したヘインは活動を休止中で、4人での出演。",
-      "en": "NewJeans performed at Korea University's cheering festival IPSELENTI in Seoul, the first of seven university festivals in one week per the schedule relayed by ADOR: Chosun University on 27 May, Dong-eui University and Pusan National University on 28 May, Dongguk University and Sejong University on 30 May, and Chung-Ang University on 31 May. Hyein, on hiatus with a foot injury, did not take part, so four members performed."
+      "ja": "ソウルの高麗大学校の応援祭『IPSELENTI』に出演した。ADORはこの日、ファンコミュニケーションアプリPhoningで、1週間で7校の大学祭に出演し、その収益金を全額寄付すると伝えた。日程はこの日を皮切りに5月27日の朝鮮大学校、28日の東義大学校と釜山大学校、30日の東国大学校と世宗大学校、31日の中央大学校まで。足の甲を負傷したヘインは活動を休止中で、4人での出演。",
+      "en": "NewJeans performed at Korea University's cheering festival IPSELENTI in Seoul. The same day ADOR told fans on the Phoning app that the group would play seven university festivals in a week and donate all proceeds: after Korea University, Chosun University on 27 May, Dong-eui University and Pusan National University on 28 May, Dongguk University and Sejong University on 30 May, and Chung-Ang University on 31 May. Hyein, on hiatus with a foot injury, did not take part, so four members performed."
     },
     "credits": {
       "venue": "Korea University, Seoul",
@@ -3112,11 +3116,13 @@
       "en": "Day one of Chosun University's festival in Gwangju, the second stop after Korea University on 25 May, performed as four without Hyein."
     },
     "source_url": "https://www.ajunews.com/view/20240526165410747",
-    "verified": false,
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
+      "https://www.newsis.com/view/?id=NISX20240527_0002750452",
+      "https://www.news1.kr/photos/view/?6672515",
       "https://www.gjdream.com/news/articleView.html?idxno=644011"
     ],
     "tags": [
@@ -3128,7 +3134,8 @@
     },
     "credits": {
       "venue": "Chosun University, Gwangju"
-    }
+    },
+    "editor_note": "2026-10-24 nightly: Newsis (2024-05-27 23:26 KST) reports NewJeans and others performed at the opening ceremony concert of Chosun University's Daedongje 'Gracia' from 5:30 pm on May 27 (about 45,000 attendees); matches ADOR's May 25 schedule."
   },
   {
     "id": "live-2024-05-28-dongeui-univ-festival",
@@ -3150,11 +3157,13 @@
       "en": "Dong-eui University's festival in Busan, one of two university stages that day with Pusan National University, performed as four without Hyein."
     },
     "source_url": "https://www.ajunews.com/view/20240526165410747",
-    "verified": false,
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
+      "https://busanmbc.co.kr/01_new/new01_view.asp?idx=264347",
+      "https://www.hankookilbo.com/News/Read/A2024052609590004358",
       "https://www.marieclairekorea.com/celebrity/2024/05/newjeans-univ-festival/"
     ],
     "tags": [
@@ -3166,7 +3175,8 @@
     },
     "credits": {
       "venue": "Dong-eui University, Busan"
-    }
+    },
+    "editor_note": "2026-10-24 nightly: Busan MBC (2024-05-29) reports tens of thousands gathered for NewJeans' performance at Dong-eui University on the evening of the 28th (first day of the Dong-eui and Pusan National University festivals); matches ADOR's May 25 schedule."
   },
   {
     "id": "live-2024-05-28-pusan-national-univ-festival",
@@ -3184,27 +3194,31 @@
       "original": "부산대학교 2024 축제"
     },
     "summary": {
-      "ja": "釜山大学校の大学祭に出演。同日の東義大学校に続く釜山での2公演目で、ヘインを除く4人でのステージ。",
-      "en": "Pusan National University's festival, the second Busan stage of the day after Dong-eui University, performed as four without Hyein."
+      "ja": "釜山大学校の大学祭初日に出演。同日の東義大学校とあわせて釜山で1日2校のステージで、ヘインを除く4人で臨んだ。",
+      "en": "Day one of Pusan National University's festival, one of two Busan university stages that day along with Dong-eui University, performed as four without Hyein."
     },
     "source_url": "https://www.ajunews.com/view/20240526165410747",
-    "verified": false,
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
+      "http://news.lghellovision.net/news/articleView.html?idxno=468318",
+      "https://busanmbc.co.kr/01_new/new01_view.asp?idx=264347",
+      "https://www.hankookilbo.com/News/Read/A2024052609590004358",
       "https://www.marieclairekorea.com/celebrity/2024/05/newjeans-univ-festival/"
     ],
     "tags": [
       "university-festival"
     ],
     "detail": {
-      "ja": "釜山大学校の大学祭に出演した。同日の東義大学校に続く釜山での2公演目で、ヘインを除く4人での出演。",
-      "en": "NewJeans performed at Pusan National University's festival, their second Busan stage of the day after Dong-eui University, with four members in Hyein's absence."
+      "ja": "釜山大学校の大学祭初日に出演した。同日は東義大学校の大学祭にも出演し、釜山で1日2校のステージになった。ヘインを除く4人での出演。",
+      "en": "NewJeans performed on day one of Pusan National University's festival, one of two Busan university stages that day along with Dong-eui University, with four members in Hyein's absence."
     },
     "credits": {
       "venue": "Pusan National University, Busan"
-    }
+    },
+    "editor_note": "2026-10-24 nightly: LG HelloVision (2024-05-28) previews NewJeans on the evening of day one (May 28) of Pusan National University's May 28-30 festival; Busan MBC (2024-05-29) reports crowds at both festivals that night; ADOR's schedule lists both on May 28. The order of the two Busan stages (the record said Pusan came after Dong-eui) was not confirmed, so the wording was made neutral."
   },
   {
     "id": "live-2024-05-29-haerin-dioriviera-popup-opening",
@@ -3273,11 +3287,14 @@
       "en": "Dongguk University's festival in Seoul, with a Sejong University stage the same day, performed as four without Hyein."
     },
     "source_url": "https://www.ajunews.com/view/20240526165410747",
-    "verified": false,
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
+      "https://view.asiae.co.kr/article/2024053011112115780",
+      "https://www.xportsnews.com/article/1864641",
+      "https://www.hankookilbo.com/News/Read/A2024052609590004358",
       "https://www.marieclairekorea.com/celebrity/2024/05/newjeans-univ-festival/"
     ],
     "tags": [
@@ -3289,7 +3306,8 @@
     },
     "credits": {
       "venue": "Dongguk University, Seoul"
-    }
+    },
+    "editor_note": "2026-10-24 nightly: Asia Economy and Xports News (2024-05-30) report NewJeans' scheduled appearance at Dongguk University's Daedongje that day (with an outsider-entry restriction controversy); ize (2024-05-31) quotes Minji's Phoning reply 'Sejong, Dongguk fighting' posted at 5:16 pm on the 30th before the festivals; matches ADOR's schedule."
   },
   {
     "id": "live-2024-05-30-sejong-univ-festival",
@@ -3307,27 +3325,30 @@
       "original": "세종대학교 2024 축제"
     },
     "summary": {
-      "ja": "ソウルの世宗大学校の大学祭に出演。同日の東国大学校に続くステージで、ヘインを除く4人で臨んだ。",
-      "en": "Sejong University's festival in Seoul, following the Dongguk University stage the same day, performed as four without Hyein."
+      "ja": "ソウルの世宗大学校の大学祭に出演。同日は東国大学校の大学祭にも出演し、ヘインを除く4人で臨んだ。",
+      "en": "Sejong University's festival in Seoul, with a Dongguk University stage the same day, performed as four without Hyein."
     },
     "source_url": "https://www.ajunews.com/view/20240526165410747",
-    "verified": false,
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
+      "https://www.ize.co.kr/news/articleView.html?idxno=61449",
+      "https://www.hankookilbo.com/News/Read/A2024052609590004358",
       "https://www.marieclairekorea.com/celebrity/2024/05/newjeans-univ-festival/"
     ],
     "tags": [
       "university-festival"
     ],
     "detail": {
-      "ja": "ソウルの世宗大学校の大学祭に出演した。同日の東国大学校に続くステージで、ヘインを除く4人での出演。",
-      "en": "NewJeans performed at Sejong University's festival in Seoul, following their Dongguk University stage the same day, with four members in Hyein's absence."
+      "ja": "ソウルの世宗大学校の大学祭に出演した。同日は東国大学校の大学祭にも出演し、ヘインを除く4人での出演。",
+      "en": "NewJeans performed at Sejong University's festival in Seoul, also appearing at Dongguk University's festival the same day, with four members in Hyein's absence."
     },
     "credits": {
       "venue": "Sejong University, Seoul"
-    }
+    },
+    "editor_note": "2026-10-24 nightly: ize (2024-05-31) reports Minji's Phoning reply ahead of the Sejong University festival on May 30; ADOR's May 25 schedule lists Dongguk and Sejong on May 30. The order of the two stages (the record said Sejong followed Dongguk) was not confirmed, so the wording was made neutral."
   },
   {
     "id": "live-2024-05-31-chung-ang-univ-festival",
@@ -3349,11 +3370,13 @@
       "en": "Chung-Ang University's festival in Seoul, the last of the seven-festival run that began at Korea University on 25 May, performed as four without Hyein."
     },
     "source_url": "https://www.ajunews.com/view/20240526165410747",
-    "verified": false,
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
+      "https://www.viva100.com/main/view.php?key=20240531010009748",
+      "https://www.hankookilbo.com/News/Read/A2024052609590004358",
       "https://www.marieclairekorea.com/celebrity/2024/05/newjeans-univ-festival/"
     ],
     "tags": [
@@ -3365,7 +3388,8 @@
     },
     "credits": {
       "venue": "Chung-Ang University, Seoul"
-    }
+    },
+    "editor_note": "2026-10-24 nightly: Viva100 (2024-05-31, citing ADOR) headlines NewJeans' appearance at the Chung-Ang University festival that day; ADOR's May 25 schedule ends the seven-festival run at Chung-Ang on May 31."
   },
   {
     "id": "live-2024-06-01-how-sweet-weverse-shop-video-call-fansign",
@@ -3428,21 +3452,26 @@
       "ja": "INSPIREアリーナのSBS『K-Wave Concert Inkigayo』で「How Sweet」「Bubble Gum」「ETA」を披露。ヘインを除く4人で出演。",
       "en": "Performed 'How Sweet', 'Bubble Gum' and 'ETA' at SBS's K-Wave Concert Inkigayo at Inspire Arena, as four without Hyein."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "verified": false,
+    "source_url": "https://ent.sbs.co.kr/news/article.do?article_id=E10010288490",
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
-      "https://weverse.io/aespa/notice/19866"
+      "https://www.youtube.com/watch?v=IBgtzAbnxwI",
+      "https://www.youtube.com/watch?v=lGZgItbbEV0",
+      "https://www.youtube.com/watch?v=ObYI8AF33ds",
+      "https://www.sportsworldi.com/newsView/20240609507906",
+      "https://weverse.io/aespa/notice/19866",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "tags": [
       "broadcast-concert"
     ],
-    "editor_note": "Date confirmed via another act's official Weverse notice; NewJeans' set per Wikipedia only.",
+    "editor_note": "Date confirmed via another act's official Weverse notice; NewJeans' set per Wikipedia only. / 2026-10-24 nightly: SBS's own news (2024-06-07) confirms the June 2 concert at Inspire Arena, NewJeans in the 18-act lineup and Haerin as co-MC (broadcast June 9, 2 pm, omitted here as post-dated). SBSKPOP X INKIGAYO uploads IBgtzAbnxwI ('INTRO+How Sweet') and lGZgItbbEV0 ('Bubble Gum'), labelled 20240609 broadcast, confirm two songs; 'ETA' only from a fan cam (ObYI8AF33ds, '240602 ... comment + Bubble Gum + ETA'). Haerin's MC role added (announced by SBS beforehand).",
     "detail": {
-      "ja": "仁川のINSPIREアリーナで開かれたSBS『K-Wave Concert Inkigayo』で「How Sweet」「Bubble Gum」「ETA」を披露した。『人気歌謡』の特別コンサート編で、ヘインを除く4人での出演。",
-      "en": "NewJeans performed 'How Sweet', 'Bubble Gum' and 'ETA' at SBS's K-Wave Concert Inkigayo at Inspire Arena in Incheon, a special concert edition of Inkigayo, appearing as four in Hyein's absence."
+      "ja": "仁川・永宗島のINSPIREアリーナで開かれたSBS『K-Wave Concert Inkigayo』で「How Sweet」「Bubble Gum」「ETA」を披露した。『人気歌謡』の特別コンサート編で、ヘリンがATEEZのユンホ、ZEROBASEONEのハン・ユジンとともにMCを務めた。ヘインを除く4人での出演。",
+      "en": "NewJeans performed 'How Sweet', 'Bubble Gum' and 'ETA' at SBS's K-Wave Concert Inkigayo at Inspire Arena on Yeongjong Island, Incheon, a special concert edition of Inkigayo co-hosted by Haerin with Ateez's Yunho and Zerobaseone's Han Yu-jin. The group appeared as four in Hyein's absence."
     },
     "credits": {
       "venue": "Inspire Arena, Incheon",
@@ -3502,15 +3531,16 @@
       "en": "Coke Studio Tokyo fan event 'Coke Studio: Live ft. NewJeans'"
     },
     "summary": {
-      "ja": "東京でのコカ・コーラとSpotifyのファンイベントで約1時間のライブ。「How Sweet」を海外で初披露し、ヘインを除く4人で6曲を演奏した。",
-      "en": "Roughly one-hour show at a Coca-Cola x Spotify fan event in Tokyo: six songs, the first overseas performance of 'How Sweet', performed as four without Hyein."
+      "ja": "東京でのコカ・コーラとSpotifyのファンイベントで約1時間のライブを行い、新曲「How Sweet」を含む6曲をヘインを除く4人で披露した。",
+      "en": "A roughly one-hour show at a Coca-Cola x Spotify fan event in Tokyo: six songs including the new 'How Sweet', performed as four without Hyein."
     },
-    "source_url": "https://www.coca-cola.com/us/en/offerings/coke-studio/roster/newjeans",
-    "verified": false,
+    "source_url": "https://www.oricon.co.jp/news/2329990/full/",
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
+      "https://www.coca-cola.com/us/en/offerings/coke-studio/roster/newjeans",
       "https://news.designrush.com/coke-studio-showcases-successful-collab-with-newjeans",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
@@ -3518,10 +3548,10 @@
       "brand-event",
       "japan"
     ],
-    "editor_note": "Date (June 4, 2024) from Wikipedia only; Coca-Cola's page gives no date. Unverified. | Reader-facing 'reportedly / とされる' hedging moved here; date and set remain unverified (Wikipedia only). | Date June 4, 2024 and setlist confirmed by Oricon (June 5, 2024); venue name not given. Crowd (about 300, standing) reported by Oricon after the event.",
+    "editor_note": "Date (June 4, 2024) from Wikipedia only; Coca-Cola's page gives no date. Unverified. | Reader-facing 'reportedly / とされる' hedging moved here; date and set remain unverified (Wikipedia only). | Date June 4, 2024 and setlist confirmed by Oricon (June 5, 2024); venue name not given. Crowd (about 300, standing) reported by Oricon after the event. / 2026-10-24 nightly: Re-read Oricon (2024-06-05): event on June 4 in Tokyo ('都内'), 300 Spotify top listeners all-standing, about one hour, six songs opening with 'Zero' and ending with 'Bubble Gum' and 'How Sweet'; Hyein absent having suffered a hairline instep fracture '練習中に' (in practice) — the record's 'injured during rehearsals' implied this event and was corrected. The claim 'first overseas performance of How Sweet' is not in Oricon and was removed. 'Ditto (250 remix ver.)' kept from the prior setlist source.",
     "detail": {
-      "ja": "東京で日本コカ・コーラとSpotifyによるファンイベント『Coke STUDIO Live with NewJeans, powered by Spotify』が開かれ、約1時間のライブを行った。セットリストは「Zero」「Ditto（250 remix ver.）」「New Jeans」「ETA」「Bubble Gum」「How Sweet」の6曲で、5月24日に発売された「How Sweet」の海外初披露になった。リハーサル中に足を負傷したヘインは不参加で、ミンジ、ハニ、ダニエル、ヘリンの4人で出演した。",
-      "en": "NewJeans played a roughly one-hour show at Coke STUDIO Live with NewJeans, powered by Spotify, a fan event in Tokyo staged by Coca-Cola Japan and Spotify. The six-song set was 'Zero', 'Ditto' (250 remix version), 'New Jeans', 'ETA', 'Bubble Gum' and 'How Sweet', the first overseas performance of 'How Sweet', released on 24 May. Hyein, injured during rehearsals, was absent, and Minji, Hanni, Danielle and Haerin performed as four."
+      "ja": "都内で日本コカ・コーラとSpotifyによるファンイベント『Coke STUDIO Live with NewJeans, powered by Spotify』が開かれ、約1時間のライブを行った。会場はSpotifyのNewJeansトップリスナー300人によるオールスタンディング。セットリストはコカ・コーラとのコラボ曲「Zero」で始まり、「Ditto（250 remix ver.）」「New Jeans」「ETA」、5月24日発売の新曲「Bubble Gum」「How Sweet」の6曲。練習中に足の甲を微細骨折して活動を休止中のヘインは不参加で、ミンジ、ハニ、ダニエル、ヘリンの4人で出演した。",
+      "en": "NewJeans played a roughly one-hour show at Coke STUDIO Live with NewJeans, powered by Spotify, a fan event in Tokyo staged by Coca-Cola Japan and Spotify for 300 of the group's top Spotify listeners on an all-standing floor. The six-song set opened with the Coca-Cola collaboration 'Zero', and also included 'Ditto' (250 remix version), 'New Jeans', 'ETA' and the new songs 'Bubble Gum' and 'How Sweet', released on 24 May. Hyein, on hiatus after a hairline fracture of the instep sustained in practice, was absent, and Minji, Hanni, Danielle and Haerin performed as four."
     },
     "credits": {
       "organizer": "Coca-Cola (Japan) / Spotify",
@@ -3671,8 +3701,10 @@
     },
     "source_url": "https://www.mksports.co.kr/news/entertain/11046291",
     "reference_urls": [
+      "https://www.news1.kr/articles/5453065",
       "https://www.news1.kr/entertain/celebrity-topic/5453183",
-      "https://www.xportsnews.com/article/1872212"
+      "https://www.xportsnews.com/article/1872212",
+      "http://www.dispatch.co.kr/2295499"
     ],
     "media": {
       "type": "none"
@@ -3682,7 +3714,8 @@
       "overseas",
       "japan"
     ],
-    "verified": false
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: MK Sports and Xports News (2024-06-20 07:50 KST) photo reports confirm the five members left Gimpo for Tokyo on the morning of June 20; News1 (2024-06-20) headlines Hyein rejoining for the first full-group departure in about two months. Matches the record."
   },
   {
     "id": "live-2024-06-26-bunnies-camp-2024-tokyo-dome",
@@ -3884,8 +3917,8 @@
       "en": "Hyein attended the opening photocall for a Louis Vuitton women's collection pop-up at Shinsegae Department Store Gangnam, Seoul."
     },
     "detail": {
-      "ja": "ルイ・ヴィトンが新世界百貨店江南店で8月11日まで運営するウィメンズ・コレクションのポップアップストアのオープン記念フォトコールが開かれ、ヘインがチョン・ホヨン、ウォン・ジアンらとともに出席した。",
-      "en": "Louis Vuitton held an opening photocall for its women's collection pop-up store at Shinsegae Department Store Gangnam, running until August 11, attended by Hyein along with Jung Ho-yeon, Won Ji-an and others."
+      "ja": "ルイ・ヴィトンが新世界百貨店江南店で8月11日まで運営する2024年秋冬ウィメンズ・コレクションのポップアップストアのオープン記念フォトコールが午前に開かれ、ヘインがチョン・ホヨン、ウォン・ジアン、チョン・ソニ、キム・ナヨンとともに出席した。",
+      "en": "Louis Vuitton held a morning photocall to open its Fall-Winter 2024 women's collection pop-up store at Shinsegae Department Store Gangnam, running until August 11; Hyein attended along with Jung Ho-yeon, Won Ji-an, Jeon So-nee and Kim Na-young."
     },
     "credits": {
       "venue": "Shinsegae Department Store Gangnam, Seoul",
@@ -3893,6 +3926,8 @@
     },
     "source_url": "https://news.nate.com/view/20240726n11692",
     "reference_urls": [
+      "https://sports.hankooki.com/news/articleView.html?idxno=6869687",
+      "https://www.bntnews.co.kr/article/view/bnt202407260037",
       "https://news.nate.com/view/20240726n12395",
       "https://v.daum.net/v/20240726094038954",
       "https://v.daum.net/v/20240726094703253"
@@ -3904,7 +3939,8 @@
       "event",
       "brand-event"
     ],
-    "verified": false
+    "verified": true,
+    "editor_note": "2026-10-24 nightly: Sports Hankook and bnt news (2024-07-26 morning) confirm the July 26 photocall for the Louis Vuitton 2024 Fall-Winter women's collection pop-up at Shinsegae Gangnam (open until Aug 11), attended by Hyein, Jung Ho-yeon, Won Ji-an, Jeon So-nee and Kim Na-young; the collection season and full attendee list were added."
   },
   {
     "id": "live-2024-08-03-coupang-play-series-halftime-show",
@@ -3924,12 +3960,15 @@
       "ja": "ソウルワールドカップ競技場でのトッテナム対バイエルン戦で始球式とハーフタイムショーを担当。AMBUSH×ナイキのユニフォームで4曲を披露。",
       "en": "Ceremonial kick-off and halftime show at Tottenham vs Bayern at Seoul World Cup Stadium, four songs in AMBUSH x Nike kits."
     },
-    "source_url": "https://www.aboutcoupang.com/?p=1424",
-    "verified": false,
+    "source_url": "https://sports.khan.co.kr/news/sk_index.html?art_id=202408041756003",
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
+      "https://www.aboutcoupang.com/?p=1424",
+      "https://isplus.com/article/view/isp202408040082",
+      "https://www.yna.co.kr/view/AKR20240803050000007",
       "https://soompi.com/article/1675309wpp/newjeans-confirmed-to-perform-at-halftime-show-for-bayern-munich-vs-tottenham-hotspur-match-in-seoul",
       "https://www.koreajoongangdaily.com/entertainment/newjeans-to-perform-halftime-show-at-tottenham-bayern-clash-in-seoul/12352777"
     ],
@@ -3937,10 +3976,10 @@
       "sports-event",
       "brand-event"
     ],
-    "editor_note": "Coupang's page confirms NewJeans halftime show in the series; match date Aug 3 confirmed via ADOR/Coupang Play announcement reported by press.",
+    "editor_note": "Coupang's page confirms NewJeans halftime show in the series; match date Aug 3 confirmed via ADOR/Coupang Play announcement reported by press. / 2026-10-24 nightly: Sports Kyunghyang and Ilgan Sports (2024-08-04, ADOR-sourced) confirm the Aug 3 8 pm match at Seoul World Cup Stadium, all five members, the kick-off ceremony, the four-song set and the 100-dancer 'Super Shy' flash mob (about 60,000 spectators); Yonhap (2024-08-03) confirms Bayern's 2-1 win. 'Afternoon' was corrected to the 8 pm start. The AMBUSH x Nike credit for the kits could not be re-confirmed here (reports say only 'specially made football uniforms'); kept from the prior source.",
     "detail": {
-      "ja": "ソウル・麻浦区のソウルワールドカップ競技場で午後に行われた『クーパンプレイシリーズ2024』第2戦のトッテナム・ホットスパー対バイエルン・ミュンヘン戦で、始球式とハーフタイムショーを担当した。ハーフタイムでは「Attention」「Hype Boy」「ETA」「Super Shy」を披露し、衣装はAMBUSHとナイキの協業でNewJeans向けに製作されたユニフォームだった。試合はバイエルンが2対1で勝利した。",
-      "en": "NewJeans performed the ceremonial kick-off and the halftime show at the Coupang Play Series 2024 second match, Tottenham Hotspur vs Bayern Munich, played in the afternoon at Seoul World Cup Stadium in Mapo-gu, Seoul. The halftime set was 'Attention', 'Hype Boy', 'ETA' and 'Super Shy', performed in football kits made for the group by AMBUSH and Nike. Bayern won the match 2–1."
+      "ja": "ソウル・麻浦区のソウルワールドカップ競技場で20時に始まった『クーパンプレイシリーズ2024』のバイエルン・ミュンヘン対トッテナム・ホットスパー戦で、5人そろって始球式とハーフタイムショーを担当した。ハーフタイムでは「Attention」「Hype Boy」「ETA」「Super Shy」を披露し、「Super Shy」ではダンサー100人とフラッシュモブを行った。衣装はAMBUSHとナイキの協業でNewJeans向けに製作されたユニフォームだった。試合はバイエルンが2対1で勝利した。",
+      "en": "All five members performed the ceremonial kick-off and the halftime show at the Coupang Play Series 2024 match between Bayern Munich and Tottenham Hotspur, which kicked off at 8 pm at Seoul World Cup Stadium in Mapo-gu, Seoul. The halftime set was 'Attention', 'Hype Boy', 'ETA' and 'Super Shy', the last with a flash mob of 100 dancers, performed in football kits made for the group by AMBUSH and Nike. Bayern won the match 2–1."
     },
     "credits": {
       "venue": "Seoul World Cup Stadium, Seoul",
@@ -3966,18 +4005,20 @@
       "ja": "尹錫悦大統領夫妻がパリ五輪の韓国選手団を招いたソウルのホテルでの激励晩餐会で公演。出席者約270人の招待制行事。",
       "en": "Performed at the presidential appreciation dinner for Korea's Paris Olympic delegation at a Seoul hotel, an invitation-only event of about 270 people."
     },
-    "source_url": "https://www.dailian.co.kr/news/view/1398664/",
-    "verified": false,
+    "source_url": "https://www.yna.co.kr/view/AKR20240822143251001",
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
+      "https://www.dailian.co.kr/news/view/1398664/",
+      "https://www.news1.kr/politics/president/5518787",
       "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "tags": [
       "government-event"
     ],
-    "editor_note": "Invitation-only government event; performers included SEVENTEEN's BSS. | Hotel name and NewJeans setlist not reported (Dailian, Aug 22, 2024).",
+    "editor_note": "Invitation-only government event; performers included SEVENTEEN's BSS. | Hotel name and NewJeans setlist not reported (Dailian, Aug 22, 2024). / 2026-10-24 nightly: Yonhap (2024-08-22) and Dailian (2024-08-23 00:10 KST) confirm the Aug 22 presidential dinner for the Paris Olympic delegation at a Seoul hotel (about 270 attendees), National Gratitude Medals, and performances by NewJeans, BSS, fusion gugak group Sangjaru, the Harmonize choir and magician Lee Eun-gyeol. Hotel name and NewJeans' songs not reported.",
     "detail": {
       "ja": "ソウル市内のホテルで尹錫悦大統領夫妻が2024年パリ五輪の韓国選手団を招いた激励晩餐会が開かれ、国民感謝メダルの授与とともにNewJeansが公演を行った。招待制の政府行事で、出席者は約270人。ほかにSEVENTEENのユニットBSS、国楽バンドのサンジャル、合唱団ハーモナイズ、マジシャンのイ・ウンギョルが出演した。",
       "en": "President Yoon Suk Yeol and First Lady Kim Keon-hee hosted an appreciation dinner for Korea's 2024 Paris Olympic delegation at a hotel in Seoul, where National Gratitude Medals were presented and NewJeans performed. The invitation-only government event had about 270 attendees; other performers were SEVENTEEN's unit BSS, the fusion gugak band Sangjaru, the choir Harmonize and magician Lee Eun-gyeol."
@@ -4046,8 +4087,8 @@
       "en": "Hanni attended Gucci's Spring/Summer 2025 women's show at the Triennale Milano as a global ambassador."
     },
     "detail": {
-      "ja": "ミラノ・ファッションウィーク期間中、トリエンナーレ・ミラノで行われたグッチ2025年春夏ウィメンズコレクションのショーに、グローバルブランドアンバサダーのハニが出席した。9月18日に仁川国際空港からミラノへ出国した。公式Xでは「A day with Gucci」として映像が公開された。",
-      "en": "Hanni attended Gucci's Spring/Summer 2025 women's show at the Triennale Milano during Milan Fashion Week as a global brand ambassador, having left Incheon International Airport for Milan on September 18. NewJeans' official X shared a 'A day with Gucci' video."
+      "ja": "ミラノ・ファッションウィーク期間中、トリエンナーレ・ミラノで行われたグッチ2025年春夏ウィメンズコレクションのショーに、グローバルブランドアンバサダーのハニが出席した。9月18日に仁川国際空港からミラノへ出国していた。",
+      "en": "Hanni attended Gucci's Spring/Summer 2025 women's show at the Triennale Milano during Milan Fashion Week as a global brand ambassador, having left Incheon International Airport for Milan on September 18."
     },
     "credits": {
       "venue": "Triennale Milano",
@@ -4055,11 +4096,12 @@
     },
     "source_url": "https://x.com/NewJeans_ADOR/status/1839198218812350598",
     "reference_urls": [
+      "https://gucci-oona.prezly.com/gucci-womenswear-fashion-show-spring-summer-2025-casual-grandeur",
       "https://www.newsinstar.com/news/article.html?no=79409",
-      "https://rain-mag.com/gucci-womens-ss25-sabato-de-sarnos-60s-revival-draws-dakota-johnson-daisy-edgar-jones-jin-hanni-and-more/",
-      "https://dazedkorea.com/2024/09/24/%ea%b5%ac%ec%b0%8c-2025%eb%85%84-%eb%b4%84-%ec%97%ac%eb%a6%84-%ec%97%ac%ec%84%b1-%ec%bb%ac%eb%a0%89%ec%85%98-%ea%b3%b5%ea%b0%9c/",
       "https://v.daum.net/v/20240918140801273",
-      "https://v.daum.net/v/20240922151052509"
+      "https://v.daum.net/v/20240922151052509",
+      "https://rain-mag.com/gucci-womens-ss25-sabato-de-sarnos-60s-revival-draws-dakota-johnson-daisy-edgar-jones-jin-hanni-and-more/",
+      "https://dazedkorea.com/2024/09/24/%ea%b5%ac%ec%b0%8c-2025%eb%85%84-%eb%b4%84-%ec%97%ac%eb%a6%84-%ec%97%ac%ec%84%b1-%ec%bb%ac%eb%a0%89%ec%85%98-%ea%b3%b5%ea%b0%9c/"
     ],
     "media": {
       "type": "x",
@@ -4070,8 +4112,8 @@
       "fashion-event",
       "overseas"
     ],
-    "verified": false,
-    "editor_note": "Official X video post 2024-09-26 (#GucciSS25); show date 20 Sep 2024 from Rain Magazine/Bella Media. One Korean report gives the 19th local; most sources say 20 Sep."
+    "verified": true,
+    "editor_note": "Official X video post 2024-09-26 (#GucciSS25); show date 20 Sep 2024 from Rain Magazine/Bella Media. One Korean report gives the 19th local; most sources say 20 Sep. / 2026-10-24 nightly: Gucci's press release (prezly) dates the SS25 womenswear show to Sep 20, 2024 at Triennale Milano; Newsinstar/Daum (Sep 18) show Hanni leaving Incheon for the show and Newsen (Sep 22) her return after attending it. The official X post 1839198218812350598 ('A day with Gucci', by @NewJeans_ADOR per fxtwitter) was posted Sep 26, 2024 (07:00 UTC), after the record date, so the sentence about it was removed from detail (media ref kept)."
   },
   {
     "id": "live-2024-10-01-hyein-louis-vuitton-ss25-paris",

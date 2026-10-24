@@ -4826,6 +4826,43 @@
     "editor_note": "KOCCA 대중문화예술종합정보시스템 2023 winners list: under 문화체육관광부장관 표창 - 뉴진스 (가수). Ceremony 2023-10-21 per MCST release."
   },
   {
+    "id": "record-2023-10-24-aaa-2023-popularity-award-singer-female-nomination",
+    "date": "2023-10-24",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 Asia Artist Awards 人気賞（女性歌手）にノミネート",
+      "en": "2023 Asia Artist Awards – Popularity Award – Singer (Female) nomination"
+    },
+    "summary": {
+      "ja": "2023 Asia Artist Awardsの人気賞オンライン投票が始まり、NewJeansが女性歌手部門の候補に名を連ねた。",
+      "en": "Online voting for the 2023 Asia Artist Awards popularity awards opened, with NewJeans among the Singer (Female) candidates."
+    },
+    "detail": {
+      "ja": "主催のスターニュースが10月24日、『2023 Asia Artist Awards IN THE PHILIPPINES』人気賞の投票日程と候補を公表し、NewJeansは女性歌手部門の候補に名を連ねた。投票はアプリ「IDOLCHAMP」で行われ、予選は10月24日から11月9日、決選は11月14日から30日まで。授賞式は12月14日にフィリピンのフィリピン・アリーナで開かれる予定。",
+      "en": "On October 24, organiser Star News announced the voting schedule and candidates for the popularity awards of the 2023 Asia Artist Awards in the Philippines, listing NewJeans among the Singer (Female) candidates. Voting ran on the IDOLCHAMP app, with preliminaries from October 24 to November 9 and finals from November 14 to 30; the ceremony was scheduled for December 14 at the Philippine Arena."
+    },
+    "source_url": "https://www.starnewskorea.com/stview.php?no=2023102405172329590",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "aaa"
+    ],
+    "verified": true,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; popularity-vote candidate list not found. / 2026-10-24 nightly: Star News (AAA's organiser, 2023-10-24 09:00 KST, '[공식]') lists NewJeans among the female-singer popularity-award candidates with the IDOLCHAMP voting schedule. Per the nomination rule (announcement date, date_type announce), the date was moved from the ceremony (2023-12-14) to 2023-10-24 and the text rewritten; the id needs renaming to record-2023-10-24-... via tools/rename_id.py.",
+    "reference_urls": [
+      "https://www.slist.kr/news/articleView.html?idxno=493101",
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ]
+  },
+  {
     "id": "record-2023-10-26-bbma-2023-top-billboard-global-excl-us-artist-nomination",
     "date": "2023-10-26",
     "date_type": "announce",
@@ -5173,14 +5210,14 @@
       "en": "NewJeans pass 3 billion cumulative Spotify streams"
     },
     "summary": {
-      "ja": "NewJeans全楽曲のSpotify累計再生数が11月7日時点で30億6,573万回に達し、デビュー約1年3か月で30億回を突破した。",
-      "en": "NewJeans' songs had 3,065,735,640 cumulative Spotify streams as of November 7, 2023, passing 3 billion about a year and three months after debut."
+      "ja": "NewJeans全楽曲のSpotify累計再生数が11月7日時点で30億657万回に達し、デビュー約1年3か月で30億回を突破した。",
+      "en": "NewJeans' songs had 3,006,573,564 cumulative Spotify streams as of November 7, 2023, passing 3 billion about a year and three months after debut."
     },
     "detail": {
-      "ja": "NewJeans全楽曲のSpotify累計再生数が2023年11月7日時点で3,065,735,640回となった。2023年3月に10億回（デビュー後219日、ギネス世界記録）、7月30日に20億回を超えてから、およそ3か月での30億回到達となった。",
-      "en": "NewJeans' cumulative Spotify streams stood at 3,065,735,640 as of November 7, 2023. The group had passed 1 billion in March 2023 (219 days after debut, a Guinness World Record) and 2 billion on July 30, so 3 billion came about three months later."
+      "ja": "Spotifyによると、NewJeansがこれまでに発表した楽曲の累計再生数は2023年11月7日時点で3,006,573,564回となった。2023年3月に累計10億回（K-POPアーティスト最短の219日でギネス世界記録に認定）を達成し、その後5か月足らずで20億回を突破、さらに約3か月で10億回を上積みした。1億回を超えた曲は「OMG」「Ditto」「Hype Boy」「Attention」「Super Shy」「Cookie」「Hurt」「New Jeans」「ETA」の9曲。",
+      "en": "According to Spotify, NewJeans' released songs had 3,006,573,564 cumulative streams as of November 7, 2023. The group reached 1 billion in March 2023 (the fastest for a K-pop act at 219 days, recognised by Guinness World Records), passed 2 billion less than five months later and added another billion in about three months. Nine songs had passed 100 million: 'OMG', 'Ditto', 'Hype Boy', 'Attention', 'Super Shy', 'Cookie', 'Hurt', 'New Jeans' and 'ETA'."
     },
-    "source_url": "https://www.tenasia.com/amp/2023110945864",
+    "source_url": "https://www.newsis.com/view/NISX20231109_0002515118",
     "media": {
       "type": "none"
     },
@@ -5188,12 +5225,15 @@
       "streaming",
       "spotify"
     ],
-    "verified": false,
-    "editor_note": "TenAsia report dated Nov 9 (as of Nov 7); page not fetchable from this environment, figures from search index. / No ADOR post or same-day major-outlet report for a 3-billion cumulative Spotify milestone found.",
+    "verified": true,
+    "editor_note": "TenAsia report dated Nov 9 (as of Nov 7); page not fetchable from this environment, figures from search index. / No ADOR post or same-day major-outlet report for a 3-billion cumulative Spotify milestone found. / 2026-10-24 nightly: Newsis (2023-11-09 11:35 KST, citing Spotify) gives the total as 30억 657만3564회 = 3,006,573,564 as of Nov 7; the record's 3,065,735,640 was a digit error and was corrected. The '2 billion on July 30' date is not in Newsis and was replaced with Newsis' wording (less than five months after 1 billion). The nine 100M+ songs added from the same article.",
     "image": {
       "url": "https://img1.newsis.com/2023/11/09/NISI20231109_0001407721_web.jpg",
       "source_url": "https://www.newsis.com/view/NISX20231109_0002515118"
-    }
+    },
+    "reference_urls": [
+      "https://www.tenasia.com/amp/2023110945864"
+    ]
   },
   {
     "id": "record-2023-11-17-mma-2023-album-of-the-year-get-up-nomination",
@@ -5541,10 +5581,10 @@
       "en": "In Spotify's 2023 year-end data, NewJeans was the fourth most-streamed K-pop act, with 'OMG', 'Ditto', 'Super Shy' and 'Hype Boy' in the K-pop songs top 10."
     },
     "detail": {
-      "ja": "Spotifyが発表した2023年の年間集計で、NewJeansはK-POPアーティストの再生数でBTS、BLACKPINK、Jung Kookに続く4位だった。K-POP楽曲では「OMG」が4位、「Ditto」が5位、「Super Shy」が6位、「Hype Boy」が10位に入り、トップ20に4曲が入った。",
-      "en": "In Spotify's 2023 year-end data, NewJeans ranked fourth among K-pop artists by streams, behind BTS, BLACKPINK and Jung Kook. Among K-pop songs, 'OMG' placed 4th, 'Ditto' 5th, 'Super Shy' 6th and 'Hype Boy' 10th, four tracks in the top 20."
+      "ja": "Spotifyが年末企画「Wrapped」とともに公開した2023年の年間集計で、NewJeansは世界で最も再生されたK-POPアーティストのBTS、BLACKPINK、Jung Kookに続く4位で、初めてトップ10に入った。K-POP楽曲では「OMG」が4位、「Ditto」が5位、「Super Shy」が6位、「Hype Boy」が10位で、トップ10に4曲が入った。",
+      "en": "In the 2023 year-end data Spotify released with its Wrapped campaign, NewJeans ranked fourth among the most-streamed K-pop artists worldwide, behind BTS, BLACKPINK and Jung Kook, entering the top 10 for the first time. Among K-pop songs, 'OMG' placed 4th, 'Ditto' 5th, 'Super Shy' 6th and 'Hype Boy' 10th, four tracks in the top 10."
     },
-    "source_url": "https://www.abs-cbn.com/entertainment/12/03/23/bts-blackpink-newjeans-dominate-k-pop-streaming-in-2023-spotify",
+    "source_url": "https://www.yna.co.kr/view/AKR20231130168900005",
     "media": {
       "type": "none"
     },
@@ -5553,8 +5593,12 @@
       "streaming",
       "spotify"
     ],
-    "verified": false,
-    "editor_note": "Spotify Wrapped 2023 went live Nov 29, 2023; ABS-CBN report dated Dec 3 summarizing Spotify's K-pop release. / Spotify's global Wrapped 2023 newsroom post contains no K-pop ranking; the '4th most-streamed K-pop act / four songs in K-pop top 10' figures appear only in ABS-CBN/NME reports citing Spotify. No Spotify primary page found."
+    "verified": true,
+    "editor_note": "Spotify Wrapped 2023 went live Nov 29, 2023; ABS-CBN report dated Dec 3 summarizing Spotify's K-pop release. / Spotify's global Wrapped 2023 newsroom post contains no K-pop ranking; the '4th most-streamed K-pop act / four songs in K-pop top 10' figures appear only in ABS-CBN/NME reports citing Spotify. No Spotify primary page found. / 2026-10-24 nightly: Yonhap (2023-11-30) and Sports Kyunghyang (2023-12-01, Spotify Korea release dated the 30th) confirm Global Top K-Pop Artists 2023: BTS, BLACKPINK, Jung Kook, NewJeans (4th, new to the top 10), Stray Kids; Global Top K-Pop Songs: Seven, Cupid (Twin Ver.), Like Crazy, OMG (4), Ditto (5). 'Super Shy' 6th and 'Hype Boy' 10th only from ABS-CBN (2023-12-03) citing Spotify. Detail's 'four tracks in the top 20' contradicted the title and was corrected to top 10. Date left at Nov 29 (global Wrapped launch); the Korean release was reported on Nov 30.",
+    "reference_urls": [
+      "http://sports.khan.co.kr/news/sk_index.html?art_id=202312010141003",
+      "https://news.abs-cbn.com/entertainment/12/03/23/bts-blackpink-newjeans-dominate-k-pop-streaming-in-2023-spotify"
+    ]
   },
   {
     "id": "record-2023-12-01-nme-50-best-songs-2023-super-shy",
@@ -6029,39 +6073,6 @@
     "editor_note": "AAA official 2023 winners page: 뉴진스 - 핫트랜드."
   },
   {
-    "id": "record-2023-12-14-aaa-2023-popularity-award-singer-female-nomination",
-    "date": "2023-12-14",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "2023 Asia Artist Awards 人気賞（女性歌手）にノミネート",
-      "en": "2023 Asia Artist Awards – Popularity Award – Singer (Female) nomination"
-    },
-    "summary": {
-      "ja": "2023 Asia Artist Awardsで、NewJeansが人気賞（女性歌手）部門の候補に名を連ねた。",
-      "en": "NewJeans were among the nominees for Popularity Award – Singer (Female) at the 2023 Asia Artist Awards."
-    },
-    "detail": {
-      "ja": "2023 Asia Artist Awards（2023年12月14日、フィリピン・ブラカン州フィリピン・アリーナ）で、NewJeansは人気賞（女性歌手）部門の候補となった。",
-      "en": "NewJeans were nominated for Popularity Award – Singer (Female) at the 2023 Asia Artist Awards (held December 14, 2023 at the Philippine Arena, Bulacan)."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "nomination",
-      "aaa"
-    ],
-    "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; popularity-vote candidate list not found."
-  },
-  {
     "id": "record-2023-12-14-aaa-2023-singer-of-the-year",
     "date": "2023-12-14",
     "date_type": "event",
@@ -6152,18 +6163,23 @@
       "en": "NewJeans received the Seoul Tourism Hallyu Star Award at the 2023 Seoul Tourism Day."
     },
     "detail": {
-      "ja": "ソウル観光韓流スター大賞を受賞した。ソウル特別市観光協会がウェスティン朝鮮ホテルで開いた第5回「2023ソウル観光人の日」で、ソウル観光の発展に貢献した20の個人・団体にソウル観光大賞が贈られ、HYBEはソウル観光魅力大賞（観光広報部門）に選ばれた。",
-      "en": "NewJeans received the Seoul Tourism Hallyu Star Award. The Seoul Tourism Association presented Seoul Tourism Awards to 20 contributors to Seoul tourism at its fifth Seoul Tourism Day, held at the Westin Josun Hotel, where HYBE was honored in the tourism promotion category."
+      "ja": "ソウル観光韓流スター大賞を受賞した。ソウル特別市観光協会がウェスティン朝鮮ホテルで開いた第5回「2023ソウル観光人の日」で、ソウル観光の発展に貢献した20の個人・団体にソウル観光大賞が贈られ、NewJeansはソウル市長表彰の観光広報部門で選ばれた。HYBEも同じ部門でソウル観光魅力大賞を受けた。",
+      "en": "NewJeans received the Seoul Tourism Hallyu Star Award. The Seoul Tourism Association presented Seoul Tourism Awards to 20 contributors to Seoul tourism at its fifth Seoul Tourism Day, held at the Westin Josun Hotel; NewJeans was honored in the tourism promotion division of the Seoul Mayor's citations, where HYBE also received the Seoul Tourism Attraction Award."
     },
-    "source_url": "https://v.daum.net/v/20231219170149341",
+    "source_url": "https://www.ytn.co.kr/_ln/0115_202312201716358661",
     "media": {
       "type": "none"
     },
     "tags": [
       "award"
     ],
-    "verified": false,
-    "editor_note": "Daum/Korean press preview dated Dec 19 for the Dec 20 ceremony. / No Seoul Metropolitan Government / Seoul Tourism Organization page listing a 'Hallyu Star Award' for NewJeans was found (sto.or.kr, seoul.go.kr searches); only a Herald Economy report (Dec 19, 2023) that HYBE and NewJeans would receive Seoul Tourism Awards. Category name unverified."
+    "verified": true,
+    "editor_note": "Daum/Korean press preview dated Dec 19 for the Dec 20 ceremony. / No Seoul Metropolitan Government / Seoul Tourism Organization page listing a 'Hallyu Star Award' for NewJeans was found (sto.or.kr, seoul.go.kr searches); only a Herald Economy report (Dec 19, 2023) that HYBE and NewJeans would receive Seoul Tourism Awards. Category name unverified. / 2026-10-24 nightly: YTN (2023-12-20 17:16 KST) and Sports Kyunghyang (2023-12-21) confirm the Dec 20 ceremony at the Westin Josun hosted solely by the Seoul Tourism Association, 20 honorees, and '서울관광한류스타대상 뉴진스' in the tourism-promotion division of the Seoul Mayor's citations, with HYBE's 서울관광매력대상 in the same division. Category name now confirmed; detail adjusted to say both were in that division.",
+    "reference_urls": [
+      "http://sports.khan.co.kr/news/sk_index.html?art_id=202312210538003",
+      "https://v.daum.net/v/20231219170149341",
+      "http://news.heraldcorp.com/view.php?ud=20231219000709"
+    ]
   },
   {
     "id": "record-2023-12-27-asian-pop-music-awards-2023-best-group-overseas",
@@ -6198,7 +6214,7 @@
       "award"
     ],
     "verified": false,
-    "editor_note": "Secondary sources only; some lists also credit Stray Kids in the same Best Group category. / APMA (VVV Entertainment) has no reachable official page; Sportskeeda/Leisurebyte winner lists are inconsistent (one lists both NewJeans and Stray Kids under Best Group Overseas). Unverified."
+    "editor_note": "Secondary sources only; some lists also credit Stray Kids in the same Best Group category. / APMA (VVV Entertainment) has no reachable official page; Sportskeeda/Leisurebyte winner lists are inconsistent (one lists both NewJeans and Stray Kids under Best Group Overseas). Unverified. / 2026-10-24 nightly: Searched for an organiser (VVV/APMA) results page or Weibo post and for Korean press; none reachable or found (asianpopmusicawards.com proxy 502). Only Sportskeeda and Leisurebyte lists, which disagree on whether Stray Kids shares Best Group (Overseas). Left unconfirmed."
   },
   {
     "id": "record-2023-12-27-asian-pop-music-awards-2023-song-of-the-year-overseas-super-shy-nomination",
@@ -6231,7 +6247,7 @@
       "asian-pop-music-awards"
     ],
     "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; nominee announcement (reportedly November 2023) not found in official or major press."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; nominee announcement (reportedly November 2023) not found in official or major press. / 2026-10-24 nightly: No organiser nominee list or press report for the APMA 2023 Song of the Year (Overseas) shortlist was found; Wikipedia's row does not even name the nominated work, so the 'Super Shy' attribution is itself unsourced. Left unconfirmed."
   },
   {
     "id": "record-2023-12-27-asian-pop-music-awards-2023-top-20-get-up-super-shy",
@@ -6266,7 +6282,7 @@
       "award"
     ],
     "verified": false,
-    "editor_note": "APMA official results not reachable; only secondary lists. Unverified."
+    "editor_note": "APMA official results not reachable; only secondary lists. Unverified. / 2026-10-24 nightly: No organiser results page or Korean/Japanese press report found for the APMA 2023 Top 20 lists; only Sportskeeda/Leisurebyte and Wikipedia. Left unconfirmed."
   },
   {
     "id": "record-2023-12-29-circle-2023-album-sales-top-female-act",
@@ -6418,44 +6434,6 @@
     "editor_note": "Official 65th JRA page lists NewJeans under 特別賞 (with ano and Jujutsu Kaisen); ceremony 2023-12-30. / 2026-10-17 review: the 65th JRA Excellent Work and Special Award list was announced on 2023-11-22; awards were presented at the ceremony on 2023-12-30 (jacompa.or.jp/record/65.php). Kept dated to the ceremony; no separate announce record needed."
   },
   {
-    "id": "record-2024-01-01-clio-music-2024-imsupershy-silver",
-    "date": "2024-01-01",
-    "date_type": "announce",
-    "date_precision": "month",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "2024 Clio Music Awards：YouTube「#ImSuperShy」キャンペーンがシルバー",
-      "en": "YouTube's #ImSuperShy campaign wins Silver at the 2024 Clio Music Awards"
-    },
-    "summary": {
-      "ja": "NewJeansとYouTubeショートの「#ImSuperShy」キャンペーンが、2024 Clio Music Awardsでシルバーを受賞した。",
-      "en": "The #ImSuperShy campaign by YouTube Shorts with NewJeans won Silver at the 2024 Clio Music Awards."
-    },
-    "detail": {
-      "ja": "「Super Shy」の公開に合わせてYouTubeショートで展開された「#ImSuperShy」ダンスチャレンジのキャンペーンが、2024 Clio Music AwardsのFan Engagement部門（Design）でシルバーを受賞した。受賞者はYouTube。同アワードでは「Ditto」MVがFilm & Video部門のグランプリ候補（ショートリスト）にも選ばれた。",
-      "en": "The #ImSuperShy dance-challenge campaign run on YouTube Shorts for the release of 'Super Shy' won Silver in the Fan Engagement (Design) category of the 2024 Clio Music Awards, with YouTube as the winning entrant. The 'Ditto' music video was also shortlisted for the Grand Clio in Film & Video."
-    },
-    "source_url": "https://clios.com/music/winner/fan-engagement/youtube/imsupershy-508885",
-    "reference_urls": [
-      "https://kbizoom.com/?p=593481",
-      "https://ja.wikipedia.org/wiki/NewJeans",
-      "https://clios.com/music/winner/film-video/newjeans/ditto-509201"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "award",
-      "advertising"
-    ],
-    "verified": false,
-    "editor_note": "Clio winner page (cited by ja.wikipedia, accessed 2024-01-15) now returns 404 and has no Wayback snapshot reachable from here. kbizoom (2024-01-17) reports the Silver in Fan Engagement / Design and the Ditto MV shortlist. ja.wikipedia dates the results to 2024-01-11 (not independently confirmed), so month precision. Award entrant is YouTube; Coca-Cola 'Be Who You Are (Real Magic)' wins in the same year are not NewJeans' own entries and are omitted."
-  },
-  {
     "id": "record-2024-01-02-sma-33-best-song-omg",
     "date": "2024-01-02",
     "date_type": "event",
@@ -6566,7 +6544,7 @@
       "sma"
     ],
     "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Daesang candidacy per Wikipedia awards list only (Daesang is chosen among the year's Bonsang field; no separate public nominee list found)."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Daesang candidacy per Wikipedia awards list only (Daesang is chosen among the year's Bonsang field; no separate public nominee list found). / 2026-10-24 nightly: Newsis (2023-11-03) on the organiser's (Sports Seoul) announcement: candidates were published Nov 4 in the official voting app for the mobile categories Bonsang, Rookie, Popularity, Hallyu Special, Trot, Ballad, R&B/Hip-hop and OST; there is no Daesang candidate list, and the single Daesang is chosen separately. Wikipedia's 'Daesang - Nominated' row therefore reflects its convention that Bonsang winners are Daesang contenders, not an announced nomination. Not changed."
   },
   {
     "id": "record-2024-01-05-super-shy-spotify-400m",
@@ -6899,9 +6877,48 @@
     "editor_note": "Circle streaming certification list (API /data/api/cert/chart, S1040), fetched 2026-10-17: `OMG` / OMG 1P, Certify_Date 2024-01-11."
   },
   {
+    "id": "record-2024-01-11-clio-music-2024-imsupershy-silver",
+    "date": "2024-01-11",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 Clio Music Awards：YouTube「#ImSuperShy」キャンペーンがシルバー",
+      "en": "YouTube's #ImSuperShy campaign wins Silver at the 2024 Clio Music Awards"
+    },
+    "summary": {
+      "ja": "NewJeansとYouTubeショートの「#ImSuperShy」キャンペーンが、2024 Clio Music Awardsでシルバーを受賞した。",
+      "en": "The #ImSuperShy campaign by YouTube Shorts with NewJeans won Silver at the 2024 Clio Music Awards."
+    },
+    "detail": {
+      "ja": "「Super Shy」の公開に合わせてYouTubeショートで展開された「#ImSuperShy」ダンスチャレンジのキャンペーンが、2024 Clio Music AwardsのFan Engagement部門（Design）でシルバーを受賞した。受賞者はYouTube。同アワードでは「Ditto」MVがFilm & Video部門のグランプリ候補（ショートリスト）にも選ばれた。",
+      "en": "The #ImSuperShy dance-challenge campaign run on YouTube Shorts for the release of 'Super Shy' won Silver in the Fan Engagement (Design) category of the 2024 Clio Music Awards, with YouTube as the winning entrant. The 'Ditto' music video was also shortlisted for the Grand Clio in Film & Video."
+    },
+    "source_url": "http://www.newsis.com/view/?id=NISX20240112_0002590724",
+    "reference_urls": [
+      "https://www.starnewskorea.com/stview.php?no=2024011710272334399",
+      "https://kbizoom.com/?p=593481",
+      "https://ja.wikipedia.org/wiki/NewJeans",
+      "https://clios.com/music/winner/fan-engagement/youtube/imsupershy-508885"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "award",
+      "advertising"
+    ],
+    "verified": true,
+    "editor_note": "Clio winner page (cited by ja.wikipedia, accessed 2024-01-15) now returns 404 and has no Wayback snapshot reachable from here. kbizoom (2024-01-17) reports the Silver in Fan Engagement / Design and the Ditto MV shortlist. ja.wikipedia dates the results to 2024-01-11 (not independently confirmed), so month precision. Award entrant is YouTube; Coca-Cola 'Be Who You Are (Real Magic)' wins in the same year are not NewJeans' own entries and are omitted. / 2026-10-24 nightly: Newsis (2024-01-12 21:55 KST) reports that Clio published the 2024 Clio Music Awards winners on Jan 11 (US local time), including the #ImSuperShy YouTube promotion as a Design Silver winner; Star News (2024-01-17, '[공식]', photo credit Clio Music Awards) confirms Silver in the Design category of Fan Engagement. Date set from month precision (2024-01) to 2024-01-11 day (organiser's announcement, local time); id needs renaming to record-2024-01-11-... via tools/rename_id.py. Clio pages return 403/404 here."
+  },
+  {
     "id": "record-2024-01-11-clio-music-awards-2024-ditto-music-video-shortlist",
     "date": "2024-01-11",
-    "date_type": "event",
+    "date_type": "announce",
     "date_precision": "day",
     "category": "record",
     "entity": "newjeans",
@@ -6917,10 +6934,10 @@
       "en": "The 'Ditto' music video was shortlisted for the Grand Clio in Film & Video at the Clio Music Awards 2024."
     },
     "detail": {
-      "ja": "米国の広告・音楽表彰Clio Music Awardsの2024年の結果発表で、「Ditto」のミュージックビデオがFilm & Video部門のGrand Clioのショートリスト（8作品）に名を連ねた。",
-      "en": "The 'Ditto' music video was named to the eight-work Grand Clio shortlist in the Film & Video category in the Clio Music Awards 2024 results."
+      "ja": "米国の広告賞クリオが主催するClio Music Awardsの2024年の結果が1月11日（現地時間）に発表され、「Ditto」のミュージックビデオがFilm & Video部門のGrand Clioのショートリスト（8作品）に名を連ねた。MVはスタジオ「トルゴレユギダン」のシン・ウソク監督が手がけた。",
+      "en": "Clio published the 2024 Clio Music Awards results on January 11 (US time), naming the 'Ditto' music video to the eight-work Grand Clio shortlist in the Film & Video category. The video was directed by Shin Woo-seok of the studio Dolphiners Films."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "source_url": "http://www.newsis.com/view/?id=NISX20240112_0002590724",
     "media": {
       "type": "none"
     },
@@ -6928,11 +6945,13 @@
       "nomination",
       "clio-music-awards"
     ],
-    "verified": false,
+    "verified": true,
     "reference_urls": [
-      "https://kbizoom.com/newjeans-ditto-mv-nominated-for-grand-prize-short-list-at-clio-music-awards/"
+      "https://www.starnewskorea.com/stview.php?no=2024011710272334399",
+      "https://kbizoom.com/newjeans-ditto-mv-nominated-for-grand-prize-short-list-at-clio-music-awards/",
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
     ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Date 2024-01-11 per ja Wikipedia (ledger). KBIZoom (2024-01-17, minor outlet) says the 'recently announced' 2024 Clio Music winners list put the Ditto MV on the Grand shortlist in Film & Video; Clio's own pages could not be fetched (404/JS). Ledger label: Music Videos (Ditto) [shortlisted]."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Date 2024-01-11 per ja Wikipedia (ledger). KBIZoom (2024-01-17, minor outlet) says the 'recently announced' 2024 Clio Music winners list put the Ditto MV on the Grand shortlist in Film & Video; Clio's own pages could not be fetched (404/JS). Ledger label: Music Videos (Ditto) [shortlisted]. / 2026-10-24 nightly: Newsis (2024-01-12, 'results announced by the organiser on the 11th, local time') and Star News (2024-01-17, '[공식]': Grand shortlist of 8 in Film & Video; directed by Shin Woo-seok of Dolgorae Yugoedan) confirm. date_type changed from event to announce (results announcement, no ceremony that day)."
   },
   {
     "id": "record-2024-01-18-iheartradio-music-awards-2024-k-pop-song-of-the-year-super-shy-nomination",
@@ -6993,7 +7012,7 @@
       "ja": "韓国大衆音楽賞選定委員会が1月26日正午に第21回の候補を公開した。NewJeansは新人賞を除く総合分野3部門すべてを含む計5部門で候補となった。対象は2022年12月1日から2023年11月30日までに発表された音盤・音源。",
       "en": "The Korean Music Awards selection committee revealed its 21st nominees at noon on January 26. NewJeans received five nominations, including all three general-field categories other than Rookie of the Year. Releases from December 1, 2022 to November 30, 2023 were eligible."
     },
-    "source_url": "https://v.daum.net/v/20240126172203679",
+    "source_url": "https://www.yna.co.kr/view/AKR20240126073900005",
     "media": {
       "type": "none"
     },
@@ -7001,12 +7020,15 @@
       "nomination",
       "kma"
     ],
-    "verified": false,
+    "verified": true,
     "reference_urls": [
+      "https://v.daum.net/v/20240126172203679",
+      "https://www.hani.co.kr/arti/culture/culture_general/1126095.html",
+      "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002997173",
       "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
       "https://en.wikipedia.org/wiki/21st_Korean_Music_Awards"
     ],
-    "editor_note": "MHN Sports via Daum (2024-01-26 17:22 KST): committee revealed nominees on the 26th at noon via PRIZM; NewJeans in all three general-field categories excl. rookie. Not an official/major-press page -> verified=false. Wikipedia: nominations announced Jan 26, 2024; NewJeans five nominations."
+    "editor_note": "MHN Sports via Daum (2024-01-26 17:22 KST): committee revealed nominees on the 26th at noon via PRIZM; NewJeans in all three general-field categories excl. rookie. Not an official/major-press page -> verified=false. Wikipedia: nominations announced Jan 26, 2024; NewJeans five nominations. / 2026-10-24 nightly: Yonhap (2024-01-26 13:31 KST) and Hankyoreh confirm the selection committee published the 21st KMA nominees on Jan 26 and NewJeans' five nominations (Musician, Song and Album of the Year plus Best K-pop Song and Album). The album is not named by Yonhap; OhmyNews (2024-01-26) ties the nominations to the EP Get Up, consistent with Wikipedia."
   },
   {
     "id": "record-2024-01-26-kma-21-musician-of-the-year-nomination",
@@ -7030,7 +7052,7 @@
       "ja": "韓国大衆音楽賞選定委員会が1月26日正午に第21回の候補を公開した。NewJeansは新人賞を除く総合分野3部門すべてを含む計5部門で候補となった。対象は2022年12月1日から2023年11月30日までに発表された音盤・音源。",
       "en": "The Korean Music Awards selection committee revealed its 21st nominees at noon on January 26. NewJeans received five nominations, including all three general-field categories other than Rookie of the Year. Releases from December 1, 2022 to November 30, 2023 were eligible."
     },
-    "source_url": "https://v.daum.net/v/20240126172203679",
+    "source_url": "https://www.yna.co.kr/view/AKR20240126073900005",
     "media": {
       "type": "none"
     },
@@ -7038,12 +7060,14 @@
       "nomination",
       "kma"
     ],
-    "verified": false,
+    "verified": true,
     "reference_urls": [
+      "https://v.daum.net/v/20240126172203679",
+      "https://www.hani.co.kr/arti/culture/culture_general/1126095.html",
       "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
       "https://en.wikipedia.org/wiki/21st_Korean_Music_Awards"
     ],
-    "editor_note": "MHN Sports via Daum (2024-01-26 17:22 KST): committee revealed nominees on the 26th at noon via PRIZM; NewJeans in all three general-field categories excl. rookie. Not an official/major-press page -> verified=false. Wikipedia: nominations announced Jan 26, 2024; NewJeans five nominations."
+    "editor_note": "MHN Sports via Daum (2024-01-26 17:22 KST): committee revealed nominees on the 26th at noon via PRIZM; NewJeans in all three general-field categories excl. rookie. Not an official/major-press page -> verified=false. Wikipedia: nominations announced Jan 26, 2024; NewJeans five nominations. / 2026-10-24 nightly: Yonhap (2024-01-26 13:31 KST) and Hankyoreh (2024-01-26) confirm NewJeans among the Musician of the Year nominees announced by the selection committee on Jan 26."
   },
   {
     "id": "record-2024-02-01-riaj-cookie-gold",
@@ -7104,10 +7128,12 @@
       "ja": "第31回Hanteo Music AwardsでArtist of the Year（本賞）を受賞した。2023年のHanteoチャート実績をもとにした賞で、授賞式は2月17日・18日にソウルの東大門デザインプラザで開かれた。前年の第30回では新人賞（Rookie of the Year）を受賞していた。",
       "en": "NewJeans received an Artist of the Year Bonsang at the 31st Hanteo Music Awards, which honored 2023 Hanteo Chart results and were held on February 17-18 at Dongdaemun Design Plaza in Seoul. A year earlier the group had won Rookie of the Year at the 30th edition."
     },
-    "source_url": "https://en.wikipedia.org/wiki/31st_Hanteo_Music_Awards",
+    "source_url": "https://www.yna.co.kr/view/AKR20240218048800005",
     "reference_urls": [
+      "http://www.osen.co.kr/article/G1112277737",
       "https://ja.wikipedia.org/wiki/NewJeans",
-      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+      "https://en.wikipedia.org/wiki/31st_Hanteo_Music_Awards"
     ],
     "media": {
       "type": "none"
@@ -7115,8 +7141,8 @@
     "tags": [
       "award"
     ],
-    "verified": false,
-    "editor_note": "Day (Feb 18) per ja.wikipedia; en.wikipedia ceremony page text was ambiguous about the category name. Unverified against Hanteo's own announcement. / Hanteo News has no reachable article listing the 31st HMA (Feb 17-18, 2024) Bonsang winners and awards.hanteo.com/2024 is JS-only; Sportskeeda/kbizoom/KJD report NewJeans among Artist of the Year (Bonsang) winners. Not contradicted."
+    "verified": true,
+    "editor_note": "Day (Feb 18) per ja.wikipedia; en.wikipedia ceremony page text was ambiguous about the category name. Unverified against Hanteo's own announcement. / Hanteo News has no reachable article listing the 31st HMA (Feb 17-18, 2024) Bonsang winners and awards.hanteo.com/2024 is JS-only; Sportskeeda/kbizoom/KJD report NewJeans among Artist of the Year (Bonsang) winners. Not contradicted. / 2026-10-24 nightly: Yonhap (2024-02-18 23:02 KST) on the Feb 18 ceremony at DDP lists NewJeans among the '올해의 아티스트 본상' winners and notes the event ran Feb 17-18, hosted by Hanteo Global; OSEN's full winners list (2024-02-18/19) matches. OSEN's day-one report (Feb 17) does not include the Bonsang, consistent with the Feb 18 date. The 30th-edition Rookie of the Year mention is from Wikipedia and was not re-checked."
   },
   {
     "id": "record-2024-02-18-hanteo-music-awards-31-whosfandom-nomination",
@@ -7150,9 +7176,12 @@
     ],
     "verified": false,
     "reference_urls": [
-      "https://soompi.com/article/1635171wpp/hanteo-music-awards-2023-announces-nominees"
+      "https://soompi.com/article/1635171wpp/hanteo-music-awards-2023-announces-nominees",
+      "http://www.fnnews.com/news/202312011108322566",
+      "https://www.etnews.com/20240102000187",
+      "http://www.osen.co.kr/article/G1112277063"
     ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; Soompi's 2024-01-04 nominee article lists NewJeans for Artist of the Year Main Prize but not the WhosFandom bracket (voting Dec 2023-Jan 2024 per Wikipedia)."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; Soompi's 2024-01-04 nominee article lists NewJeans for Artist of the Year Main Prize but not the WhosFandom bracket (voting Dec 2023-Jan 2024 per Wikipedia). / 2026-10-24 nightly: WhosFandom Award process per Korean press: Top 40 candidates posted on Whosfan's official X on Nov 29, 2023 (fn Star, 2023-12-01; articles name only BTS, RIIZE, SEVENTEEN, IVE, aespa as examples), Top 8 vote Dec 28-29, Top 4 (BTS, EXO, ENHYPEN, Lim Young-woong) from Jan 2 (etnews), winner Lim Young-woong announced Jan 5. NewJeans' inclusion in the Top 40 could not be confirmed (Whosfan X post not located). Also, per OSEN (2024-02-17), the WhosFandom Award was presented on day one (Feb 17), not Feb 18. If confirmed, the record should move to the Top 40 announcement (2023-11-29, announce). Left unchanged."
   },
   {
     "id": "record-2024-02-21-ifpi-global-artist-chart-2023-no8",
@@ -7520,8 +7549,8 @@
       "award",
       "advertising"
     ],
-    "verified": false,
-    "editor_note": "Korea JoongAng Daily (2024-03-18 18:38 KST): 'The Spikes Asia Awards released the winners and shortlists for this year on Monday' (= Mar 18). Official Spikes Asia / Love the Work winners page not fetched."
+    "verified": true,
+    "editor_note": "Korea JoongAng Daily (2024-03-18 18:38 KST): 'The Spikes Asia Awards released the winners and shortlists for this year on Monday' (= Mar 18). Official Spikes Asia / Love the Work winners page not fetched. / 2026-10-24 nightly: Re-read Korea JoongAng Daily (2024-03-18 18:38 KST): Spikes Asia released winners and shortlists 'on Monday' (Mar 18); 'ETA' Bronze for Brand or Product Integration into Music Content (Music); 'Coca-Cola Massita' shortlisted in the same category; MV shot by Shin Woo-seok on iPhone 14 for Apple Korea's Shot on iPhone. All facts in the record match. Official Spikes/Love the Work page not reachable."
   },
   {
     "id": "record-2024-04-01-iheartradio-music-awards-2024-best-new-artist-kpop",
