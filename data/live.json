@@ -1880,30 +1880,36 @@
     "title": {
       "ja": "ソウル大学 2023 秋祭り出演",
       "en": "Seoul National University 2023 autumn festival",
-      "original": "서울대학교 2023 축제"
+      "original": "2023 서울대학교 가을축제 SNUFESTIVAL: 온 더 보드"
     },
     "summary": {
-      "ja": "ソウル大学校の秋の大学祭の最終夜に出演したと伝えられる。同日は成均館大学校の大学祭にも出演した。",
-      "en": "Reported to have played the closing night of Seoul National University's autumn festival, the same day as the Sungkyunkwan University festival."
+      "ja": "ソウル大学校の秋の大学祭『SNUFESTIVAL: オン・ザ・ボード』最終日の閉幕祭にゲスト出演した。",
+      "en": "Guest set at the closing ceremony on the final day of SNUFESTIVAL: On the Board, Seoul National University's autumn festival."
     },
-    "source_url": "https://www.clien.net/service/board/park/18307799",
-    "verified": false,
+    "source_url": "https://www.snu.ac.kr/snunow/snu_story?md=v&bbsidx=143584",
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
+      "http://www.snunews.com/news/articleView.html?idxno=32311",
+      "https://we.snu.ac.kr/category/%EC%B6%95%EC%A0%9C-%EC%A0%95%EB%B3%B4/",
+      "https://www.chosun.com/national/national_general/2023/09/14/IBMNVFDMQNBKZMMPQPACMSRLTE/",
+      "https://sports.donga.com/article/all/20230918/121239785/3",
+      "https://mydaily.co.kr/page/view/2023091207132172641",
+      "https://www.clien.net/service/board/park/18307799",
       "https://community.linkareer.com/jayuu/2251369"
     ],
     "tags": [
       "university-festival"
     ],
-    "editor_note": "Sources conflict on whether NewJeans was on the SNU lineup; unverified. | Reader-facing 'reportedly / とされる' hedging moved here; lineup remains unverified. | not enriched: no source found; lineup sources conflict and no official notice located. / 2026-10-24 nightly: not confirmable. Naver news and web search for NewJeans at SNU's 2023 autumn festival returned nothing; no university or ADOR notice found. Still community posts only; deletion is a human decision.",
+    "editor_note": "Sources conflict on whether NewJeans was on the SNU lineup; unverified. | Reader-facing 'reportedly / とされる' hedging moved here; lineup remains unverified. | not enriched: no source found; lineup sources conflict and no official notice located. / 2026-10-24 nightly: not confirmable. Naver news and web search for NewJeans at SNU's 2023 autumn festival returned nothing; no university or ADOR notice found. Still community posts only; deletion is a human decision. / 2026-10-25 nightly: Lineup conflict resolved; NewJeans did play SNU on 14 Sep. SNU's own news page ('열기와 낭만이 가득했던 2023 가을축제 SNUFESTIVAL: 온 더 보드', snu.ac.kr, 2023-09-19) says the festival ran 12–14 Sep on the Jandi Gwangjang and Beodeulgol Pungsan Madang, that the final-day closing ceremony moved to Pungsan Madang, and that guests NewJeans and Jung Yong-hwa performed. The SNU student newspaper Daehak Shinmun (snunews.com 32311, 2023-09-15) says NewJeans played the closing ceremony on Thu 14 Sep, songs in order OMG, Super Shy, ETA, Hype Boy. The 2023 student council (we.snu.ac.kr, 축제 정보 board; posts open only via POST form, so the category URL is cited) posted on 2023-09-13 that the closing ceremony starts 16:20 at Beodeulgol Pungsan Madang, and on 2023-09-14 that entry was members-only from 15:00 (A/B zones), with road closures 21:30–23:00; those posts do not name the artists in text (card-news images not read). Chosun Ilbo (2023-09-14, same-day, pre-show) reported the closing ceremony from 16:00 with NewJeans and 'CNBLUE' (i.e. Jung Yong-hwa, per FNC via Mydaily 2023-09-12: SKKU and SNU on the 14th). 'Closing night' changed to closing ceremony since NewJeans' exact stage time is unknown; 'reported' hedging removed; source_url switched from the Clien fan post to the SNU news page. Earlier 'sources conflict' note is superseded.",
     "detail": {
-      "ja": "ソウル大学校の秋の大学祭の最終夜に出演したと伝えられている。同日は成均館大学校の大学祭にも出演しており、2023年秋の大学祭出演の一環。",
-      "en": "NewJeans are reported to have performed on the closing night of Seoul National University's autumn festival, the same day as their Sungkyunkwan University festival appearance, as part of a run of autumn 2023 university festivals."
+      "ja": "ソウル・冠岳区のソウル大学校で9月12日から14日まで開かれた秋の大学祭『SNUFESTIVAL: オン・ザ・ボード』の最終日、ポドゥルゴル・プンサンマダンで行われた閉幕祭に出演した。総学生会の案内では閉幕祭は16時20分開始で、観覧エリアへの入場は学内構成員に限られた。ゲストにはNewJeansのほかチョン・ヨンファが出演した。NewJeansは「OMG」「Super Shy」「ETA」「Hype Boy」の順に披露した。同日には成均館大学校の大学祭にも出演した。",
+      "en": "NewJeans performed at the closing ceremony on the final day of SNUFESTIVAL: On the Board, Seoul National University's autumn festival held 12–14 September, staged at Beodeulgol Pungsan Madang on the Gwanak campus in Seoul. According to the student council, the closing ceremony began at 16:20 and the viewing areas were open to university members only. Jung Yong-hwa also appeared as a guest. NewJeans performed 'OMG', 'Super Shy', 'ETA' and 'Hype Boy', in that order. The same day, the group also played Sungkyunkwan University's festival."
     },
     "credits": {
-      "venue": "Seoul National University, Seoul"
+      "venue": "Seoul National University Gwanak Campus, Beodeulgol Pungsan Madang"
     }
   },
   {
@@ -1919,30 +1925,36 @@
     "title": {
       "ja": "成均館大学 2023 秋祭り出演",
       "en": "Sungkyunkwan University 2023 autumn festival",
-      "original": "성균관대학교 2023 축제"
+      "original": "건학 625주년 성균관대학교 통합 축제 ESKARA:1398"
     },
     "summary": {
-      "ja": "『Get Up』活動終了後、ソウルの成均館大学校の秋の大学祭に出演。同日にはソウル大学校の大学祭出演も伝えられた。",
-      "en": "Autumn festival set at Sungkyunkwan University, Seoul, after Get Up promotions ended; a Seoul National University appearance the same day was also reported."
+      "ja": "水原の成均館大学校自然科学キャンパスで開かれた建学625周年統合祭『ESKARA:1398』の本公演日に出演した。",
+      "en": "Performed on the main day of ESKARA:1398, Sungkyunkwan University's 625th-anniversary festival at its Natural Sciences Campus in Suwon."
     },
-    "source_url": "https://www.clien.net/service/board/park/18307799",
-    "verified": false,
+    "source_url": "https://webzine.skku.edu/skkuzine/section/coverStory.do?articleNo=109606",
+    "verified": true,
     "media": {
       "type": "none"
     },
     "reference_urls": [
+      "https://www.newsen.com/news_view.php?uid=202309150313231310",
+      "https://www.newsen.com/news_view.php?uid=202309150212021310",
+      "https://www.asiatoday.co.kr/view.php?key=20230907001628399",
+      "https://sports.donga.com/article/all/20230918/121239785/3",
+      "https://mydaily.co.kr/page/view/2023091207132172641",
+      "https://www.clien.net/service/board/park/18307799",
       "https://community.linkareer.com/jayuu/2251369"
     ],
     "tags": [
       "university-festival"
     ],
-    "editor_note": "Date from lineup posts and fan reports only; no official notice found. | not enriched: no source found beyond lineup posts and fan reports. / 2026-10-24 nightly: not confirmable. Naver news and web search for NewJeans at SKKU's 2023 autumn festival returned nothing; no university or ADOR notice found. Still community posts only.",
+    "editor_note": "Date from lineup posts and fan reports only; no official notice found. | not enriched: no source found beyond lineup posts and fan reports. / 2026-10-24 nightly: not confirmable. Naver news and web search for NewJeans at SKKU's 2023 autumn festival returned nothing; no university or ADOR notice found. Still community posts only. / 2026-10-25 nightly: Verified from the university's own page. SKKU's official webzine (webzine.skku.edu, issue 524, posted 2023-09-27, cover story 'ESKARA:1398, 새로운 진녹빛 장을 열다') says ESKARA:1398 ran on the 13th and 14th at the Natural Sciences Campus and lists NewJeans among the artist stage on the second day (with AKMU, Beenzino, Jaurim, Dynamic Duo, Younha, Jung Yong-hwa). Asiatoday (2023-09-07) reports the campus's lineup announcement of 6 Sep: 13th eve Lee Juck; 14th Younha, NewJeans, Beenzino, Jaurim, Dynamic Duo, AKMU. Same-night Newsen reports (2023-09-15 02:12–03:13 KST, reporter Kim Ki-tae on site) place the set on the afternoon/evening of 14 Sep at the Natural Sciences Campus, Jangan-gu, Suwon, with all five members, songs OMG, Super Shy, ETA, Attention (full-set video incl. talk). Mydaily (2023-09-12, FNC) puts Jung Yong-hwa at SKKU and SNU on the 14th. Corrections: venue was the Suwon campus, not Seoul; removed the unsupported 'after Get Up promotions ended' claim; source_url switched from the Clien fan post to the SKKU webzine. Song order not stated by any source, so listed without claiming order. Student council's own lineup post (likely Instagram) not located; webzine used as the university-side source. Image left as is.",
     "detail": {
-      "ja": "ソウルの成均館大学校の秋の大学祭に出演した。『Get Up』活動終了後の大学祭出演で、同日にはソウル大学校の大学祭出演も伝えられている。",
-      "en": "NewJeans performed at Sungkyunkwan University's autumn festival in Seoul, after the end of Get Up promotions; an appearance at Seoul National University's festival the same day was also reported."
+      "ja": "京畿道水原市長安区の成均館大学校自然科学キャンパスで9月13日から14日まで開かれた建学625周年統合祭『ESKARA:1398』の2日目に出演した。この日のアーティストステージにはNewJeansのほか、AKMU、ビーンジノ、紫雨林、ダイナミック・デュオ、ユンハ、チョン・ヨンファが出演した。NewJeansは「OMG」「Super Shy」「ETA」「Attention」を披露した。同日にはソウル大学校の秋の大学祭の閉幕祭にも出演した。",
+      "en": "NewJeans performed on the second day of ESKARA:1398, Sungkyunkwan University's 625th-anniversary combined festival held 13–14 September at its Natural Sciences Campus in Jangan-gu, Suwon. The day's artist stage also featured AKMU, Beenzino, Jaurim, Dynamic Duo, Younha and Jung Yong-hwa. NewJeans' set comprised 'OMG', 'Super Shy', 'ETA' and 'Attention'. The same day, the group also played the closing ceremony of Seoul National University's autumn festival."
     },
     "credits": {
-      "venue": "Sungkyunkwan University, Seoul"
+      "venue": "Sungkyunkwan University Natural Sciences Campus, Suwon"
     },
     "image": {
       "url": "https://photo.newsen.com/news_photo/2023/09/15/202309150212021310_1.jpg",
