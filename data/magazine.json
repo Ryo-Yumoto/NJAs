@@ -4340,7 +4340,7 @@
       },
       "brand": "Bottega Veneta"
     },
-    "editor_note": "Only 'Photo: Harper's Bazaar Korea' credited; number of covers not stated. / 公式ページのクレジットは「Photo: Harper's Bazaar Korea」のみ。カバーの種類数は明記なし。 / Cut for length: article title 'NewJeans Hyein returns, nineteen, and Bottega Veneta' (in title.original); byline Yoon Hye-young (retained in credits). / 2026-10-23 nightly: 発売日2026-09-07を出版社・販売店のページで確認できず（検索では表紙公開日のみ）。月精度のまま維持。"
+    "editor_note": "Only 'Photo: Harper's Bazaar Korea' credited; number of covers not stated. / 公式ページのクレジットは「Photo: Harper's Bazaar Korea」のみ。カバーの種類数は明記なし。 / Cut for length: article title 'NewJeans Hyein returns, nineteen, and Bottega Veneta' (in title.original); byline Yoon Hye-young (retained in credits). / 2026-10-23 nightly: 発売日2026-09-07を出版社・販売店のページで確認できず（検索では表紙公開日のみ）。月精度のまま維持。 / 2026-10-26 nightly: 出版社の同号I.N記事（harpersbazaar.co.kr/article/1908260、2026-08-21）に「8월 20일 발간되는 〈하퍼스 바자〉 2026년 9월호」とある。一方、教保文庫の「바자(2026년 9월호)」はE形2026-08-21、A〜D形2026-09-04、F・G形2026-09-11と形ごとに出版日が異なり、ヘインの記事の購入リンク（m.site.naver.com/2f0Xg）はI.N版（Yes24 195275000）とは別のYes24商品195275029を指すが、同商品は削除済みで日付を確認できない。Xportsnews（2026-08-23）はヘインを「인사이드 커버」と書く。キューの2026-09-07はどの資料とも一致しない。ヘイン版の発売日が08-20か後日の別形かはオーナー判断待ちのため月精度を維持。"
   },
   {
     "id": "magazine-2026-09-01-marie-claire-korea-2026-09-haerin",
@@ -4408,6 +4408,6 @@
       },
       "brand": "Dior Beauty"
     },
-    "editor_note": "Marie Claire page says the multi-cover project involves three individuals; the other two cover subjects are not named on Haerin's page. / Cut for length: photography Kim Sin-ae, makeup Lee Na-gyeom, hair Lee Hye-jin, styling Choi Yu-mi, nails Kim Su-ji, production Jang Bo-ram (retained in credits), prop styling Lee Ye-seul, location Jo Gyeong-jong. / 2026-10-23 nightly: 発売日2026-08-25を出版社・販売店のページで確認できず（検索では表紙公開日のみ）。月精度のまま維持。"
+    "editor_note": "Marie Claire page says the multi-cover project involves three individuals; the other two cover subjects are not named on Haerin's page. / Cut for length: photography Kim Sin-ae, makeup Lee Na-gyeom, hair Lee Hye-jin, styling Choi Yu-mi, nails Kim Su-ji, production Jang Bo-ram (retained in credits), prop styling Lee Ye-seul, location Jo Gyeong-jong. / 2026-10-23 nightly: 発売日2026-08-25を出版社・販売店のページで確認できず（検索では表紙公開日のみ）。月精度のまま維持。 / 2026-10-26 nightly: 教保文庫の検索結果で「마리끌레르(2026년 9월호)」A〜G形の全7種の出版日がいずれも2026-08-21（MCK퍼블리싱、全種品切れ）。キューにある2026-08-25とは一致せず、ヘリンの表紙がどの形か、出版社自身の発売日告知は見つからない（教保の商品ページは本文が空で取得できず、Aladin・Yes24では9月号が検索に出ない）。書店の登録日と出版社日付の扱いはオーナー判断待ちのため月精度を維持。"
   }
 ]
