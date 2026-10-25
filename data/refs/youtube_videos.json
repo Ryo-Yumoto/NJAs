@@ -3,7 +3,7 @@
  "category": "content",
  "scope": "公式YouTubeチャンネル（@NewJeans_official）の長尺動画の全件。Shortsは含めない（docs/data-policy.md 2026-10-16）。",
  "source": "https://www.youtube.com/@NewJeans_official/videos",
- "fetched": "2026-10-24",
+ "fetched": "2026-10-25",
  "match": "youtube_id",
  "items": [
   {
