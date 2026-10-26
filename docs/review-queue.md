@@ -40,3 +40,4 @@
 | 2026-10-25 | record-2023-09-11-tma-2023-best-music-fall-super-shy-nomination（画像） | 候補はFan N Starの告知記事（2023-09-11）の宣材写真コラージュのみ（NewJeansの『Get Up』写真を含む、主催の候補発表グラフィックではない）。http://img.tf.co.kr/article/home/2023/09/08/20234323169417091200.jpg | 未決（画像に採用するか） |
 | 2026-10-26 | goods-2023-03-30-bunnies-global-official-fanclub-membership / notice-2023-03-30-bunnies-membership-open | 同じWeverse告知12893のメンバーシップ開始を2件で扱っている可能性 | 未確認（重複なら正しい方を残す） |
 | 2026-10-26 | sns-2023-06-30-get-up-packshot / sns-2023-06-28-instagram-get-up-era-post-0628 | 同じ06-28の公開を、Kstyleの記事日で別に立てている可能性 | 未確認（重複なら正しい方を残す） |
+| 2026-10-26 | mv-2019-09-04-plus-global-audition-the-girl-2 | credits の label が ADOR（ADORの設立は2021年で、2019年時点の主体と合わない） | 未確認（当時の主催・レーベルを確認して直す） |

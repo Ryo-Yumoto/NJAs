@@ -302,11 +302,12 @@
       if (isYt && !window.NJAS_NO_EMBED) {
         fig.classList.add("is-video"); fig.appendChild(el("span", { class: "play mono" }, "▶ PLAY"));
         fig.addEventListener("click", () => {
-          // player is created only on tap (one thumbnail per video until then); rel=0 limits end-screen suggestions to this channel
-          const box = $(".media", node); box.hidden = false; box.innerHTML = "";
-          box.appendChild(el("iframe", { src: `https://www.youtube-nocookie.com/embed/${it.media.ref}?autoplay=1&rel=0&playsinline=1&modestbranding=1`, allow: "autoplay; encrypted-media; picture-in-picture", allowfullscreen: "", title: it.title.en }));
-          box.after(el("p", { class: "media-foot mono" }, el("a", { href: `https://www.youtube.com/watch?v=${it.media.ref}`, target: "_blank", rel: "noopener" }, state.lang !== "en" ? "YouTubeで開く ↗" : "Open on YouTube ↗"), el("span", { class: "dim" }, state.lang !== "en" ? "　再生できない動画は埋め込みが許可されていません" : "  Videos that do not play here have embedding disabled")));
-          fig.hidden = true;
+          if (fig.classList.contains("playing")) return;
+          // player is created only on tap and takes the thumbnail's place, so it plays where it was tapped; rel=0 limits end-screen suggestions to this channel
+          fig.style.width = fig.getBoundingClientRect().width + "px"; fig.classList.add("playing"); fig.innerHTML = "";
+          const player = el("div", { class: "player" });
+          player.appendChild(el("iframe", { src: `https://www.youtube-nocookie.com/embed/${it.media.ref}?autoplay=1&rel=0&playsinline=1&modestbranding=1`, allow: "autoplay; encrypted-media; picture-in-picture", allowfullscreen: "", title: it.title.en }));
+          fig.append(player, el("p", { class: "media-foot mono" }, el("a", { href: `https://www.youtube.com/watch?v=${it.media.ref}`, target: "_blank", rel: "noopener" }, state.lang !== "en" ? "YouTubeで開く ↗" : "Open on YouTube ↗"), el("span", { class: "dim" }, state.lang !== "en" ? "　再生できない動画は埋め込みが許可されていません" : "  Videos that do not play here have embedding disabled")));
         });
       } else if (isYt) {
         fig.classList.add("is-video"); fig.appendChild(el("span", { class: "play mono" }, "▶ OPEN ON YOUTUBE"));
