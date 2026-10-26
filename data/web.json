@@ -614,48 +614,6 @@
     "editor_note": "公開時刻は2024-01-03 12:00 JST（realsound.jp）。"
   },
   {
-    "id": "web-2024-02-28-billboard-women-in-music-2024-cover-story",
-    "date": "2024-02-28",
-    "date_type": "publish",
-    "date_precision": "day",
-    "category": "web",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "Billboard Women in Music 2024 カバーストーリー（Group of the Year）",
-      "en": "Billboard Women in Music 2024 cover story (Group of the Year)"
-    },
-    "summary": {
-      "ja": "Billboard Women in Musicの「Group of the Year」としてNewJeansがカバーを飾り、ソウルで撮影したストーリーとインタビューが公開された。",
-      "en": "Billboard's Women in Music cover story and interview with NewJeans, its Group of the Year, shot in Seoul."
-    },
-    "source_url": "https://www.billboard.com/music/awards/newjeans-members-billboard-cover-women-in-music-1235616028/",
-    "reference_urls": [
-      "https://www.billboard.com/music/awards/newjeans-members-billboard-cover-women-in-music-1235616028/",
-      "https://www.billboard.com/photos/newjeans-photos-billboard-women-in-music-cover-shoot-1235616193/",
-      "https://www.billboard.com/lists/2024-billboard-women-in-music-awards-honorees-newjeans-ice-spice-tems/",
-      "https://kbizoom.com/newjeans-adorns-the-cover-of-billboard-magazine-lead-a-new-era-of-female-influence/"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "interview",
-      "cover"
-    ],
-    "verified": true,
-    "editor_note": "billboard.com記事URL未確認（サイトがアクセス制限）。 | billboard.com article not fetched; writer and photographer unconfirmed. Duplicates the magazine record for the same cover. / billboard.com記事URL未確認（サイトがアクセス制限、記事未取得）。執筆者・撮影者未確認。MMA/MAMA受賞に関する発言は二次報道による。同カバーのmagazineレコードと重複。 / Cut for length (EN only): the members attributing early fan affection to the songs they chose rather than any plan to change K-pop, and wanting to move people with their songs. Published February 28, 2024 (US time). / 2026-10-24 nightly: billboard.com cover story fetched ('NewJeans Members Talk Women in Music Honor, 'Surreal' Success', published 2024-02-28 13:00 UTC; photos Ssam Kim; story ran in the March 2, 2024 issue) plus the cover-shoot gallery (2024-02-28) and the honorees list (2024-01-24: ceremony Wednesday March 6 at YouTube Theater, Inglewood). 'Hanok backdrop' was not found in either page and was replaced by 'shot in Seoul'; ceremony place made precise. Still overlaps the magazine record for the same cover.",
-    "detail": {
-      "ja": "2024年Billboard Women in Musicの「Group of the Year」に選ばれたNewJeansのカバーストーリー。撮影はソウルで行われ、Billboardは創業者兼代表のミン・ヒジンをグループの成功を導いた存在として紹介した。メンバーは、新しく楽しいことを試したかっただけで、それが「イージーリスニング」な音楽につながったと語り、ミンジは「Ditto」を聴いて昨冬を思い出してもらえるような、長く記憶に残る音楽にしたいと話した。メロンミュージックアワードとMAMAでの大賞受賞を、ハニは「現実離れしている」と表現した。授賞式は3月6日にロサンゼルス近郊イングルウッドのYouTube Theaterで開かれる予定だった。",
-      "en": "The cover story for NewJeans as Group of the Year at the 2024 Billboard Women in Music. The shoot took place in Seoul, and Billboard presented founder and CEO Min Hee Jin as the leader behind the group's success. The members said they had simply wanted to try something new and fun, which led to their 'easy listening' music, and Minji said she wanted their music remembered for a long time, with people thinking of the previous winter when they hear 'Ditto'. Hanni called their artist and song of the year wins at the Melon Music Awards and MAMA surreal. The ceremony was scheduled for March 6 at YouTube Theater in Inglewood, just outside Los Angeles."
-    },
-    "credits": {
-      "outlet": "Billboard"
-    }
-  },
-  {
     "id": "web-2024-07-22-second-anniversary-qa",
     "date": "2024-07-22",
     "date_type": "publish",

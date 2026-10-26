@@ -2530,48 +2530,6 @@
     }
   },
   {
-    "id": "magazine-2024-02-28-billboard-women-in-music-2024-cover",
-    "date": "2024-02-28",
-    "date_type": "publish",
-    "date_precision": "day",
-    "category": "magazine",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "Billboard 'Women in Music' 2024 表紙 — Group of the Year",
-      "en": "Billboard 'Women in Music' 2024 cover - Group of the Year"
-    },
-    "summary": {
-      "ja": "2024年Billboard Women in Musicの「Group of the Year」として、韓屋で撮影した表紙を飾った。",
-      "en": "NewJeans on the cover of Billboard's 2024 Women in Music issue as Group of the Year, shot against a hanok."
-    },
-    "source_url": "https://www.billboard.com/music/awards/newjeans-members-billboard-cover-women-in-music-1235616028/",
-    "reference_urls": [
-      "https://www.billboard.com/music/awards/newjeans-members-billboard-cover-women-in-music-1235616028/",
-      "https://v.daum.net/v/20240209091522071",
-      "https://www.thefirsttimes.jp/?p=391864",
-      "https://www.designscene.net/?p=613431"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "international"
-    ],
-    "verified": true,
-    "editor_note": "billboard.comの記事URL未確認。印刷号の発行日未確認。 | billboard.com article not fetched; photographer and writer unconfirmed. Secondary coverage (Sportskeeda) adds that the members discussed their Melon and MAMA wins and Hanni called the experience 'surreal'. / 2026-10-24 nightly: billboard.comのカバーストーリー「NewJeans Explain Their 'Surreal' Success...」をWordPress APIで取得（2024-02-28T08:00 ET＝13:00 GMT）。「March 2, 2024, issue」掲載、写真クレジットSsam Kim、ソウルでのインタビューを確認。「韓屋を背景に撮影」は記事本文で確認できず外し、「Ditto」の発言者をミンジと特定。3月6日の公演予定は2月9日のADOR発表報道（Daum）による。 / 2026-10-26 nightly: on-sale date not found. The cover story (billboard.com, 2024-02-28 08:00 ET) says it is printed in the 'March 2, 2024, issue'; web search found no newsstand or on-sale date for that print issue, and shop.billboard.com could not be reached (proxy 502). Per the policy fallback the date is moved from the web cover-story date to the issue month (2024-03, month precision). The detail still describes the 02-28 web publication and the March 6 ceremony as scheduled; both are fine for a month-precision record placed at the end of March only if the owner accepts the fallback (see needs_decision).",
-    "detail": {
-      "ja": "2024年Billboard Women in Musicの「Group of the Year」としてカバーストーリーを飾り、記事は2月28日（米国東部時間8時）に公式サイトで公開され、2024年3月2日号に掲載された。撮影はSsam Kimで、インタビューはソウルで行われた。記事はNewJeansをADOR初のアーティストとして、創業者で代表のミン・ヒジンのもとで成功を収めたと紹介し、メンバーはデビュー前は新しく面白いことを試したかっただけだと語り、ミンジは「Ditto」を聴いて昨冬を思い出してもらえるような、長く記憶に残る音楽にしたいと話した。同賞で唯一のK-POP女性アーティストとして、3月6日にロサンゼルスで開かれる授賞式でのパフォーマンスが予定されていた。",
-      "en": "As Group of the Year at the 2024 Billboard Women in Music, NewJeans fronted the cover story, posted on Billboard's website on February 28 (8:00 a.m. ET) and printed in the March 2, 2024 issue. Ssam Kim photographed the group, and the interview took place in Seoul. The article presented NewJeans as ADOR's first act, succeeding under founder and CEO Min Hee-jin; the members said they had simply wanted to try something new and fun, and Minji said she wanted their music to be remembered for a long time, so that people think of last winter when they hear 'Ditto'. As the only K-pop female act honored, NewJeans was scheduled to perform at the ceremony in Los Angeles on March 6."
-    },
-    "credits": {
-      "publisher": "Billboard",
-      "photographer": "Ssam Kim"
-    }
-  },
-  {
     "id": "magazine-2024-02-29-marie-claire-korea-2024-03-hanni-chaumet",
     "date": "2024-02-29",
     "date_type": "publish",
@@ -2639,6 +2597,56 @@
       "brand": "Chaumet"
     },
     "editor_note": "公式記事の掲載時刻は2024-03-04 14:01。具体的なジュエリーの品名は記載なし。 / Cut for length: photography Kim Sin-ae, hair Lee Hye-jin, makeup Lee Sol, styling Choi Yu-mi, nails Heo Jin-hee, set Choi Seo-yun (retained in credits). / 2026-10-17 review: marieclairekorea.com/fashion/2024/02/hanni/ datePublished 2024-02-29T11:00Z (20:00 KST), \"하니와 조세핀 컬렉션의 담대한 조우로 완성한 스페셜 디지털 커버를 공개합니다\", same credits (Kim Sin-ae, Lee Hye-jin, Lee Sol, Choi Yu-mi, Heo Jin-hee, set Choi Seo-yun). The 03-04 14:01 article is the full digital-cover story; a FOOH cover followed 03-12. / 2026-10-26 nightly: on-sale date not applicable: this is Marie Claire Korea's special digital cover (the publisher's 2024-02-29 article: '스페셜 디지털 커버를 공개합니다'); no print cover. The magazine on-sale rule has nothing to apply to, so the date stays the digital/web publication date."
+  },
+  {
+    "id": "magazine-2024-03-01-billboard-women-in-music-2024-cover",
+    "date": "2024-03-01",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Billboard 2024年3月2日号（Women in Music）表紙 — Group of the Year",
+      "en": "Billboard March 2, 2024 issue (Women in Music) cover - Group of the Year"
+    },
+    "summary": {
+      "ja": "Women in Musicの「Group of the Year」としてNewJeansが表紙を飾ったBillboard 3月2日号が発売された。",
+      "en": "Billboard's March 2, 2024 Women in Music issue goes on sale with NewJeans, its Group of the Year, on the cover."
+    },
+    "source_url": "https://www.billboard.com/music/awards/newjeans-members-billboard-cover-women-in-music-1235616028/",
+    "reference_urls": [
+      "https://www.billboard.com/music/awards/newjeans-members-billboard-cover-women-in-music-1235616028/",
+      "https://www.zinio.com/us/publications/billboard-magazine/1480/issues/644101/articles",
+      "https://www.ziniounlimited.com/publications/billboard-magazine/1480/issues/644101",
+      "https://www.billboard.com/pro/billboard-magazine-2024-print-calendar/",
+      "https://www.billboard.com/photos/newjeans-photos-billboard-women-in-music-cover-shoot-1235616193/",
+      "https://www.billboard.com/lists/2024-billboard-women-in-music-awards-honorees-newjeans-ice-spice-tems/",
+      "https://v.daum.net/v/20240209091522071",
+      "https://www.thefirsttimes.jp/?p=391864",
+      "https://www.designscene.net/?p=613431",
+      "https://kbizoom.com/newjeans-adorns-the-cover-of-billboard-magazine-lead-a-new-era-of-female-influence/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "international",
+      "cover",
+      "interview"
+    ],
+    "verified": true,
+    "editor_note": "billboard.comの記事URL未確認。印刷号の発行日未確認。 | billboard.com article not fetched; photographer and writer unconfirmed. Secondary coverage (Sportskeeda) adds that the members discussed their Melon and MAMA wins and Hanni called the experience 'surreal'. / 2026-10-24 nightly: billboard.comのカバーストーリー「NewJeans Explain Their 'Surreal' Success...」をWordPress APIで取得（2024-02-28T08:00 ET＝13:00 GMT）。「March 2, 2024, issue」掲載、写真クレジットSsam Kim、ソウルでのインタビューを確認。「韓屋を背景に撮影」は記事本文で確認できず外し、「Ditto」の発言者をミンジと特定。3月6日の公演予定は2月9日のADOR発表報道（Daum）による。 / 2026-10-26 nightly: on-sale date not found. The cover story (billboard.com, 2024-02-28 08:00 ET) says it is printed in the 'March 2, 2024, issue'; web search found no newsstand or on-sale date for that print issue, and shop.billboard.com could not be reached (proxy 502). Per the policy fallback the date is moved from the web cover-story date to the issue month (2024-03, month precision). The detail still describes the 02-28 web publication and the March 6 ceremony as scheduled; both are fine for a month-precision record placed at the end of March only if the owner accepts the fallback (see needs_decision). / 2026-10-26: on-sale date 2024-03-01 per Zinio, the digital edition retailer: Billboard Magazine issue 'March 2, 2024' (Zinio issue 644101) has datePublished 2024-03-01T13:00:00+0000 (22:00 KST), and its table of contents lists 'Group of the year NewJeans'. Zinio releases Billboard on the Friday before the Saturday issue date (Feb 10 issue: Feb 9; Mar 30: Mar 29; Sep 28: Sep 27; Oct 5: Oct 4), so 03-01 fits. No print newsstand date was found: shop.billboard.com is unreachable (proxy 502), the Amazon single-issue listing B0CX31VDYR returned HTTP 500, and the Wayback Machine was unreachable. Billboard's 2024 print calendar confirms 'Issue Date: March 2, 2024 / Women in Music'. The on-sale date is after the 02-28 web cover story, so this record now covers both, and the duplicate web record web-2024-02-28-billboard-women-in-music-2024-cover-story is deleted with its facts (Inglewood YouTube Theater, Hanni on the MMA/MAMA wins, gallery and honorees links) merged here. Cover-story facts re-checked in the billboard.com WordPress API (posted 2024-02-28T13:00:26 GMT): Ssam Kim photos, Seoul shoot, ADOR/Min Hee Jin, Hanni 'surreal', Minji on 'Ditto', 'This story originally appeared in the March 2, 2024, issue'. The earlier note's plan to fall back to month precision (2024-03) is superseded.",
+    "detail": {
+      "ja": "2024年Billboard Women in Musicの「Group of the Year」としてNewJeansが表紙を飾ったBillboard 2024年3月2日号で、カバーストーリーは2月28日（米国東部時間8時）に公式サイトで先行公開されていた。撮影はSsam Kimで、インタビューはソウルで行われ、記事はNewJeansをミン・ヒジンが創業し代表を務めるADORからデビューした最初のグループとして紹介した。ハニはメロンミュージックアワードとMAMAでの年間アーティスト賞・年間楽曲賞の受賞を「現実離れしている」と語り、メンバーは新しく楽しいことを試したかっただけだと話し、ミンジは「Ditto」を聴いて昨冬を思い出してもらえるような、長く記憶に残る音楽にしたいと述べた。授賞式は3月6日にロサンゼルス近郊イングルウッドのYouTube Theaterで開かれる予定だった。",
+      "en": "Billboard's March 2, 2024 issue, with NewJeans on the cover as Group of the Year at the 2024 Billboard Women in Music; the cover story had been posted on Billboard's website on February 28 (8:00 a.m. ET). Ssam Kim photographed the group, the interview took place in Seoul, and the story presented NewJeans as the first act to debut under ADOR, founded and led by CEO Min Hee Jin. Hanni called their artist and song of the year wins at the Melon Music Awards and MAMA surreal, the members said they had simply wanted to try something new and fun, and Minji said she wanted their music remembered for a long time, so that people think of last winter when they hear 'Ditto'. The ceremony was scheduled for March 6 at YouTube Theater in Inglewood, just outside Los Angeles."
+    },
+    "credits": {
+      "publisher": "Billboard",
+      "photographer": "Ssam Kim"
+    }
   },
   {
     "id": "magazine-2024-03-27-elle-korea-2024-05-d-edition-minji",
@@ -3049,32 +3057,64 @@
       "minji"
     ],
     "title": {
-      "ja": "VOGUE Korea 2024年8月号 表紙 — ミンジ × CHANEL 2024/25 FWプレコレクション",
-      "en": "Vogue Korea August 2024 cover - Minji x Chanel 2024/25 FW pre-collection"
+      "ja": "VOGUE Korea 2024年8月号 ミンジ画報・インタビュー（シャネル）",
+      "en": "Vogue Korea August 2024 - Minji pictorial and interview (Chanel)"
     },
     "summary": {
-      "ja": "シャネルの秋冬プレコレクションで表紙を飾ったミンジが、デビュー2周年と東京ドームのソロステージを語った8月号。",
-      "en": "Minji in Chanel's Fall-Winter pre-collection on Vogue Korea's August 2024 cover, talking about two years since debut and her Tokyo Dome solo stage."
+      "ja": "シャネルの2024/25秋冬プレコレクションをまとったミンジの画報とインタビューを載せたVOGUE Korea 8月号が発売された。",
+      "en": "Vogue Korea's August 2024 issue goes on sale with a Minji pictorial and interview in Chanel's 2024/25 Fall-Winter pre-collection."
     },
-    "source_url": "https://m.etnews.com/20240724000107",
+    "source_url": "https://www.vogue.co.kr/2024/07/24/%eb%af%bc%ec%a7%80-%ec%a0%9c%ea%b2%8c%eb%8a%94-%eb%89%b4%ec%a7%84%ec%8a%a4%eb%a1%9c-%ec%84%a0%eb%b3%b4%ec%9d%b4%eb%8a%94-%eb%aa%a8%eb%93%a0-%ea%b2%83%ec%9d%b4-%ec%83%88%eb%a1%ad%ea%b2%8c-%eb%8a%90/",
     "reference_urls": [
+      "https://www.vogue.co.kr/2024/07/24/%eb%af%bc%ec%a7%80-%ec%a0%9c%ea%b2%8c%eb%8a%94-%eb%89%b4%ec%a7%84%ec%8a%a4%eb%a1%9c-%ec%84%a0%eb%b3%b4%ec%9d%b4%eb%8a%94-%eb%aa%a8%eb%93%a0-%ea%b2%83%ec%9d%b4-%ec%83%88%eb%a1%ad%ea%b2%8c-%eb%8a%90/",
+      "https://www.vogue.co.kr/2024/07/19/%ec%8a%88%ed%8d%bc%eb%aa%a8%eb%8d%b8-%ec%9d%b4%eb%a6%ac%eb%82%98-%ec%83%a4%ed%81%ac%ec%99%80-%eb%b3%b4%ea%b7%b8%ec%9d%98-%ec%9a%b4%eb%aa%85%ec%a0%81%ec%9d%b8-%ec%b2%ab-%eb%a7%8c%eb%82%a8/",
+      "https://m.etnews.com/20240724000107",
       "https://search.kyobobook.co.kr/search?keyword=%EB%B3%B4%EA%B7%B8+2024%EB%85%84+8%EC%9B%94%ED%98%B8"
     ],
     "media": {
       "type": "none"
     },
     "tags": [
-      "chanel"
+      "chanel",
+      "vogue-korea",
+      "pictorial",
+      "interview"
     ],
-    "verified": false,
-    "editor_note": "VOGUE Korea公式URL未確認。 | Vogue Korea official page not located; credits unavailable. / 2026-10-24 nightly: vogue.co.kr article not found by search; etnews (2024-07-24) remains the only source (ADOR released the pictorial on 07-24; full feature in the August issue). Note for review: the on-sale date of a Korean August issue is normally in late July, so month 2024-08 may need revisiting. / 2026-10-26 nightly: on-sale date 2024-07-24 per Kyobo: '보그(2024년 8월호)' is a single listing with 출간일 2024-07-24 (bundles 보그얼루어/보그지큐 also 07-24), the same day ADOR released Minji's pictorial. Date moved from month precision (2024-08). Cover fact NOT confirmed: the Kyobo cover image (pdt/3904000468747, viewed at 800px) shows two Irina Shayk covers by Philip-Daniel Ducasse ('be intellectual' / 'be delightful'), while several outlets on 07-24 say Minji '8월호 표지 장식' and others only '화보'. A separate Minji cover edition was not found on Kyobo, Yes24 or Aladin. verified stays false.",
+    "verified": true,
+    "editor_note": "VOGUE Korea公式URL未確認。 | Vogue Korea official page not located; credits unavailable. / 2026-10-24 nightly: vogue.co.kr article not found by search; etnews (2024-07-24) remains the only source (ADOR released the pictorial on 07-24; full feature in the August issue). Note for review: the on-sale date of a Korean August issue is normally in late July, so month 2024-08 may need revisiting. / 2026-10-26 nightly: on-sale date 2024-07-24 per Kyobo: '보그(2024년 8월호)' is a single listing with 출간일 2024-07-24 (bundles 보그얼루어/보그지큐 also 07-24), the same day ADOR released Minji's pictorial. Date moved from month precision (2024-08). Cover fact NOT confirmed: the Kyobo cover image (pdt/3904000468747, viewed at 800px) shows two Irina Shayk covers by Philip-Daniel Ducasse ('be intellectual' / 'be delightful'), while several outlets on 07-24 say Minji '8월호 표지 장식' and others only '화보'. A separate Minji cover edition was not found on Kyobo, Yes24 or Aladin. verified stays false. / 2026-10-26: no Minji cover edition existed; recast as an inside pictorial. Evidence: (1) Vogue Korea's own feature on Minji (vogue.co.kr post 508323, published 2024-07-24 01:00 UTC = 10:00 KST, 'SPONSORED BY CHANEL', og:description '8월의 민지') never calls it a cover; credits there: photographer 박배, style editor 권민지, feature editor 류가영, hair 가베, makeup 강소영, set 블루패스트 (set omitted: romanization unsure). (2) Vogue Korea's Irina Shayk feature (post 508200, 2024-07-19) says Irina Shayk was '<보그 코리아> 8월호의 커버 모델'. (3) Kyobo has a single listing '보그(2024년 8월호)', 출간일 2024-07-24, whose cover image shows the two Irina Shayk covers by Philip-Daniel Ducasse ('be intellectual' / 'be delightful'); no other Korean edition was found on Kyobo, YES24 or Aladin. (4) Same-day press is split: ADOR's release says only that it released Minji's Vogue Korea pictorial, while GP Korea, etnews, SWTV, Breaknews and others added '8월호 표지 장식', which the publisher does not support. The date 2024-07-24 (Kyobo 출간일) stays. Interview facts re-checked against the Vogue text (Vaundy 'Odoriko' in her own school uniform; 2nd anniversary; Tokyo Dome rehearsal). verified=true (publisher page + bookshop date). Ledger data/refs/magazine_covers.json item 'vogue-korea-2024-08-minji' is titled 'digital cover'; its title should read pictorial (the ledger scope includes pictorials, so it stays matched). Separate, not in this record: vogue.co.kr post 519563 (2024-08-19, '어느 파티에서, 민지와 마주친 순간', Chanel-sponsored web pictorial, no cover wording) may be the namu 08-19 'cover' row.",
     "detail": {
-      "ja": "シャネル グローバルアンバサダーのミンジの表紙画報で、7月24日にADORが公開した。2024/25秋冬プレコレクションのデニムジャケット、レザーコート、マキシドレス、ロングブーツをシックに着こなし、クラシックなメイクと落ち着いた眼差しで撮影した。インタビューでミンジはデビュー2周年について、まだ見せていない姿が多く、グループでも個人でももっと多くのステージで好きな音楽を披露したいと語った。東京ドームのファンミーティングでのソロステージは当日のリハーサルまで演出に悩んだが、ステージに上がると体が自然に動いたと振り返った。全画報とインタビューは8月号に掲載された。",
-      "en": "Chanel global ambassador Minji's cover pictorial, released by ADOR on July 24. She wore pieces from the Chanel 2024/25 Fall-Winter pre-collection, a denim jacket, leather coat, maxi dress and long boots, with classic makeup and a steady gaze. Marking the group's second anniversary, Minji said there was still much of herself people had not seen and that she wanted to perform her favorite music on more stages, with the group and on her own. Of her solo stage at the Tokyo Dome fan meeting, she said she had worried over the staging until that day's rehearsal, but once on stage her body moved on its own. The full pictorial and interview ran in the August issue."
+      "ja": "シャネルのアンバサダーを務めるミンジが2024/25秋冬プレコレクションをまとった誌面画報とインタビューで、発売日の7月24日にVOGUE Korea公式サイトとADORが画報を公開した。撮影はパク・ベで、デニムジャケット、レザーコート、マキシドレス、ロングブーツなどをクラシックなメイクで着こなした。インタビューでミンジはデビュー2周年について、まだ見せていない姿が多く、グループでも個人でももっと多くのステージで好きな音楽を披露したいと語った。東京ドームのファンミーティングで自分の制服を着てVaundyの「踊り子」を歌ったソロステージについては、当日のリハーサルまで演出に悩んだが、ステージに上がると体が自然に動いたと振り返った。",
+      "en": "A pictorial and interview with Chanel ambassador Minji in the 2024/25 Fall-Winter pre-collection; Vogue Korea's website and ADOR released the pictorial on July 24, the day the issue went on sale. Park Bae photographed her in pieces including a denim jacket, leather coat, maxi dress and long boots, with classic makeup. Marking the group's second anniversary, Minji said there was still much of herself people had not seen and that she wanted to perform her favorite music on more stages, with the group and on her own. Of her solo stage at the Tokyo Dome fan meeting, where she sang Vaundy's 'Odoriko' in her own school uniform, she said she had worried over the staging until that day's rehearsal, but once on stage her body moved on its own."
     },
     "credits": {
       "publisher": "Vogue Korea (Doosan Magazine)",
+      "fashion_editor": {
+        "ja": "クォン・ミンジ",
+        "en": "Kwon Min-ji"
+      },
+      "feature_editor": {
+        "ja": "リュ・ガヨン",
+        "en": "Ryu Ga-young"
+      },
+      "photographer": {
+        "ja": "パク・ベ",
+        "en": "Park Bae"
+      },
+      "hair": {
+        "ja": "ガベ",
+        "en": "Gabe"
+      },
+      "makeup": {
+        "ja": "カン・ソヨン",
+        "en": "Kang So-young"
+      },
       "brand": "Chanel"
+    },
+    "note": "8月号の表紙はイリーナ・シェイク（2種）。",
+    "note_en": "The August issue's two covers feature Irina Shayk.",
+    "image": {
+      "url": "https://www.vogue.co.kr/wp_data/vogue/2024/07/style_669884463d605-1920x1080.jpg",
+      "source_url": "https://www.vogue.co.kr/2024/07/24/%eb%af%bc%ec%a7%80-%ec%a0%9c%ea%b2%8c%eb%8a%94-%eb%89%b4%ec%a7%84%ec%8a%a4%eb%a1%9c-%ec%84%a0%eb%b3%b4%ec%9d%b4%eb%8a%94-%eb%aa%a8%eb%93%a0-%ea%b2%83%ec%9d%b4-%ec%83%88%eb%a1%ad%ea%b2%8c-%eb%8a%90/"
     }
   },
   {
