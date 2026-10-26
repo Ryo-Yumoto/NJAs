@@ -5095,6 +5095,14 @@
   "page_url": "https://www.elle.co.kr/article/82739",
   "w": 740
  },
+ "magazine-2023-12-27-elle-japon-2024-02-haerin": {
+  "fetched": "2026-10-13",
+  "file": "magazine-2023-12-27-elle-japon-2024-02-haerin.jpg",
+  "h": 797,
+  "image_url": "https://cdfront.tower.jp/~/media/Images/Article/News/tg/2024/12/25/tgb004.jpg",
+  "page_url": "https://tower.jp/article/news/2024/12/25/tgb004",
+  "w": 600
+ },
  "magazine-2024-01-01-vogue-australia-2024-01-hanni-danielle": {
   "fetched": "2026-10-13",
   "file": "magazine-2024-01-01-vogue-australia-2024-01-hanni-danielle.jpg",
@@ -5111,29 +5119,37 @@
   "page_url": "https://harpersbazaar.co.kr/article/83463",
   "w": 746
  },
- "magazine-2024-01-16-w-korea-2024-vol2-hanni": {
+ "magazine-2024-01-22-w-korea-2024-vol2-hanni": {
   "fetched": "2026-10-23",
-  "file": "magazine-2024-01-16-w-korea-2024-vol2-hanni.jpg",
+  "file": "magazine-2024-01-22-w-korea-2024-vol2-hanni.jpg",
   "h": 1400,
   "image_url": "https://www.wkorea.com/wp_data/w/2024/01/style_65a662d0de5e5-1056x1400.jpg",
   "page_url": "https://www.wkorea.com/wp_data/w/2024/01/style_65a662d0de5e5-1056x1400.jpg",
   "w": 1056
  },
- "magazine-2024-02-01-elle-japon-2024-02-haerin": {
+ "magazine-2024-02-22-w-korea-2024-03-haerin": {
   "fetched": "2026-10-13",
-  "file": "magazine-2024-02-01-elle-japon-2024-02-haerin.jpg",
-  "h": 797,
-  "image_url": "https://cdfront.tower.jp/~/media/Images/Article/News/tg/2024/12/25/tgb004.jpg",
-  "page_url": "https://tower.jp/article/news/2024/12/25/tgb004",
-  "w": 600
- },
- "magazine-2024-02-15-w-korea-2024-03-haerin": {
-  "fetched": "2026-10-13",
-  "file": "magazine-2024-02-15-w-korea-2024-03-haerin.jpg",
+  "file": "magazine-2024-02-22-w-korea-2024-03-haerin.jpg",
   "h": 600,
   "image_url": "https://www.designscene.net/wp-content/uploads/2024/02/Haerin-W-Korea-00.jpg",
   "page_url": "https://www.designscene.net/?p=606603",
   "w": 1280
+ },
+ "magazine-2024-02-22-w-korea-2024-03-minji-chanel": {
+  "fetched": "2026-10-16",
+  "file": "magazine-2024-02-22-w-korea-2024-03-minji-chanel.jpg",
+  "h": 875,
+  "image_url": "https://t1.daumcdn.net/news/202403/01/sportskhan/20240301131844289abhm.jpg",
+  "page_url": "https://t1.daumcdn.net/news/202403/01/sportskhan/20240301131844289abhm.jpg",
+  "w": 700
+ },
+ "magazine-2024-02-27-vogue-korea-2024-03-hyein": {
+  "fetched": "2026-10-13",
+  "file": "magazine-2024-02-27-vogue-korea-2024-03-hyein.jpg",
+  "h": 788,
+  "image_url": "https://www.vogue.co.kr/wp_data/vogue/2024/02/style_65d55b2320b90-1920x1080.jpg?x=2693&y=1465&ver=1.1.57",
+  "page_url": "https://www.vogue.co.kr/2024/03/01/%ed%98%9c%ec%9d%b8-%eb%aa%a8%eb%91%90-%ed%8c%8c%ec%9d%b4%ed%8c%85/",
+  "w": 1400
  },
  "magazine-2024-02-28-billboard-women-in-music-2024-cover": {
   "fetched": "2026-10-13",
@@ -5151,22 +5167,6 @@
   "page_url": "https://www.marieclairekorea.com/?p=339269",
   "w": 800
  },
- "magazine-2024-02-29-w-korea-2024-03-minji-chanel": {
-  "fetched": "2026-10-16",
-  "file": "magazine-2024-02-29-w-korea-2024-03-minji-chanel.jpg",
-  "h": 875,
-  "image_url": "https://t1.daumcdn.net/news/202403/01/sportskhan/20240301131844289abhm.jpg",
-  "page_url": "https://t1.daumcdn.net/news/202403/01/sportskhan/20240301131844289abhm.jpg",
-  "w": 700
- },
- "magazine-2024-03-01-vogue-korea-2024-03-hyein": {
-  "fetched": "2026-10-13",
-  "file": "magazine-2024-03-01-vogue-korea-2024-03-hyein.jpg",
-  "h": 788,
-  "image_url": "https://www.vogue.co.kr/wp_data/vogue/2024/02/style_65d55b2320b90-1920x1080.jpg?x=2693&y=1465&ver=1.1.57",
-  "page_url": "https://www.vogue.co.kr/2024/03/01/%ed%98%9c%ec%9d%b8-%eb%aa%a8%eb%91%90-%ed%8c%8c%ec%9d%b4%ed%8c%85/",
-  "w": 1400
- },
  "magazine-2024-03-27-elle-korea-2024-05-d-edition-minji": {
   "fetched": "2026-10-13",
   "file": "magazine-2024-03-27-elle-korea-2024-05-d-edition-minji.jpg",
@@ -5174,6 +5174,14 @@
   "image_url": "https://www.elle.co.kr/resources/online/thumbnail/hf/2024/04/26/70c02630-a0dc-4281-b530-84520433bcca.jpg",
   "page_url": "https://www.elle.co.kr/article/1864093",
   "w": 800
+ },
+ "magazine-2024-03-28-elle-japon-2024-05-hyein": {
+  "fetched": "2026-10-13",
+  "file": "magazine-2024-03-28-elle-japon-2024-05-hyein.jpg",
+  "h": 1400,
+  "image_url": "https://img.etnews.com/news/article/2024/03/15/cms_temp_article_15102220141052.jpg",
+  "page_url": "https://m.etnews.com/20240315000060",
+  "w": 1054
  },
  "magazine-2024-04-01-w-korea-danielle-celine-digital-cover": {
   "fetched": "2026-10-17",
@@ -5183,21 +5191,13 @@
   "page_url": "https://www.wkorea.com/2024/04/01/%EB%89%B4%EC%A7%84%EC%8A%A4-%EB%8B%A4%EB%8B%88%EC%97%98-%EB%8D%94%EB%B8%94%EC%9C%A0-%EB%94%94%EC%A7%80%ED%84%B8-%EC%BB%A4%EB%B2%84-%EC%9E%A5%EC%8B%9D/",
   "w": 1400
  },
- "magazine-2024-04-16-marie-claire-korea-2024-05-danielle-celine": {
+ "magazine-2024-04-23-marie-claire-korea-2024-05-danielle-celine": {
   "fetched": "2026-10-16",
-  "file": "magazine-2024-04-16-marie-claire-korea-2024-05-danielle-celine.jpg",
+  "file": "magazine-2024-04-23-marie-claire-korea-2024-05-danielle-celine.jpg",
   "h": 535,
   "image_url": "https://img.marieclairekorea.com/2024/04/mck_662b45e6905a0.jpg",
   "page_url": "https://img.marieclairekorea.com/2024/04/mck_662b45e6905a0.jpg",
   "w": 800
- },
- "magazine-2024-05-01-elle-japon-2024-05-hyein": {
-  "fetched": "2026-10-13",
-  "file": "magazine-2024-05-01-elle-japon-2024-05-hyein.jpg",
-  "h": 1400,
-  "image_url": "https://img.etnews.com/news/article/2024/03/15/cms_temp_article_15102220141052.jpg",
-  "page_url": "https://m.etnews.com/20240315000060",
-  "w": 1054
  },
  "magazine-2024-05-02-harpers-bazaar-korea-2024-05-haerin-dior": {
   "fetched": "2026-10-13",
@@ -5231,9 +5231,9 @@
   "page_url": "https://lady.khan.co.kr/entertainment/article/202405311149011",
   "w": 700
  },
- "magazine-2024-08-01-vogue-korea-2024-08-minji": {
+ "magazine-2024-07-24-vogue-korea-2024-08-minji": {
   "fetched": "2026-10-13",
-  "file": "magazine-2024-08-01-vogue-korea-2024-08-minji.jpg",
+  "file": "magazine-2024-07-24-vogue-korea-2024-08-minji.jpg",
   "h": 1400,
   "image_url": "https://img.etnews.com/news/article/2024/07/24/cms_temp_article_24104816263217.jpg",
   "page_url": "https://m.etnews.com/20240724000107",
@@ -5247,14 +5247,6 @@
   "page_url": "https://lady.khan.co.kr/entertainment/article/202409121130001",
   "w": 700
  },
- "magazine-2024-09-11-dazed-korea-music-issue-2024-hanni-gucci": {
-  "fetched": "2026-10-16",
-  "file": "magazine-2024-09-11-dazed-korea-music-issue-2024-hanni-gucci.jpg",
-  "h": 1400,
-  "image_url": "https://dazedkorea.com/wp-content/uploads/2026/03/1579746-scaled.jpg",
-  "page_url": "https://dazedkorea.com/wp-content/uploads/2026/03/1579746-scaled.jpg",
-  "w": 1120
- },
  "magazine-2024-09-11-harpers-bazaar-korea-2024-09-minji": {
   "fetched": "2026-10-13",
   "file": "magazine-2024-09-11-harpers-bazaar-korea-2024-09-minji.jpg",
@@ -5262,6 +5254,14 @@
   "image_url": "https://www.harpersbazaar.co.kr/resources/online/thumbnail/hf/2024/07/30/73388955-85a8-4e83-91b1-a9acf73afd94.jpg",
   "page_url": "https://www.harpersbazaar.co.kr/article/1868565",
   "w": 800
+ },
+ "magazine-2024-09-19-dazed-korea-music-issue-2024-hanni-gucci": {
+  "fetched": "2026-10-16",
+  "file": "magazine-2024-09-19-dazed-korea-music-issue-2024-hanni-gucci.jpg",
+  "h": 1400,
+  "image_url": "https://dazedkorea.com/wp-content/uploads/2026/03/1579746-scaled.jpg",
+  "page_url": "https://dazedkorea.com/wp-content/uploads/2026/03/1579746-scaled.jpg",
+  "w": 1120
  },
  "magazine-2024-10-01-elle-korea-d-edition-calvin-klein": {
   "fetched": "2026-10-13",
@@ -5279,22 +5279,6 @@
   "page_url": "https://img.marieclairekorea.com/2024/09/mck_66faafda3601d-1200x1467.jpg",
   "w": 1145
  },
- "magazine-2024-10-11-esquire-korea-danielle-celine": {
-  "fetched": "2026-10-16",
-  "file": "magazine-2024-10-11-esquire-korea-danielle-celine.jpg",
-  "h": 900,
-  "image_url": "https://t1.daumcdn.net/news/202410/21/10asia/20241021170106589rbzh.jpg",
-  "page_url": "https://t1.daumcdn.net/news/202410/21/10asia/20241021170106589rbzh.jpg",
-  "w": 1200
- },
- "magazine-2024-10-15-dazed-korea-2024-11-minji-chanel": {
-  "fetched": "2026-10-16",
-  "file": "magazine-2024-10-15-dazed-korea-2024-11-minji-chanel.jpg",
-  "h": 1400,
-  "image_url": "https://dazedkorea.com/wp-content/uploads/2026/03/6349363-scaled.jpg",
-  "page_url": "https://dazedkorea.com/wp-content/uploads/2026/03/6349363-scaled.jpg",
-  "w": 1120
- },
  "magazine-2024-10-17-hommegirls-volume-12": {
   "fetched": "2026-10-23",
   "file": "magazine-2024-10-17-hommegirls-volume-12.jpg",
@@ -5302,6 +5286,14 @@
   "image_url": "https://www.instagram.com/p/DBM-NFNtPRp/media/?size=l",
   "page_url": "https://www.instagram.com/p/DBM-NFNtPRp/media/?size=l",
   "w": 1080
+ },
+ "magazine-2024-10-21-marie-claire-korea-2024-11-haerin": {
+  "fetched": "2026-10-13",
+  "file": "magazine-2024-10-21-marie-claire-korea-2024-11-haerin.jpg",
+  "h": 1400,
+  "image_url": "https://img.marieclairekorea.com/2024/10/mck_6708fe58b4c8a.jpg",
+  "page_url": "https://www.marieclairekorea.com/fashion/2024/10/dior-21",
+  "w": 1145
  },
  "magazine-2024-10-23-w-korea-hyeins-wonderland": {
   "fetched": "2026-10-17",
@@ -5311,29 +5303,21 @@
   "page_url": "https://www.wkorea.com/?p=328373",
   "w": 1400
  },
- "magazine-2024-10-25-billboard-korea-billboard-artist-no1": {
-  "fetched": "2026-10-13",
-  "file": "magazine-2024-10-25-billboard-korea-billboard-artist-no1.jpg",
-  "h": 683,
-  "image_url": "https://image.koreajoongangdaily.com/11980874.jpg?imageId=11980874&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
-  "page_url": "https://www.koreajoongangdaily.com/entertainment/newjeans-will-cover-inaugural-billboard-artist-magazine/11980743",
+ "magazine-2024-10-24-esquire-korea-danielle-celine": {
+  "fetched": "2026-10-16",
+  "file": "magazine-2024-10-24-esquire-korea-danielle-celine.jpg",
+  "h": 900,
+  "image_url": "https://t1.daumcdn.net/news/202410/21/10asia/20241021170106589rbzh.jpg",
+  "page_url": "https://t1.daumcdn.net/news/202410/21/10asia/20241021170106589rbzh.jpg",
   "w": 1200
  },
- "magazine-2024-11-01-elle-korea-2024-11-super-elle-beauty-haerin": {
-  "fetched": "2026-10-13",
-  "file": "magazine-2024-11-01-elle-korea-2024-11-super-elle-beauty-haerin.jpg",
-  "h": 500,
-  "image_url": "https://www.elle.co.kr/resources/online/thumbnail/hf/2024/10/18/571de76c-c188-488b-a18b-e4a8e4643cfa.jpg",
-  "page_url": "https://www.elle.co.kr/article/1871976",
-  "w": 800
- },
- "magazine-2024-11-01-marie-claire-korea-2024-11-haerin": {
-  "fetched": "2026-10-13",
-  "file": "magazine-2024-11-01-marie-claire-korea-2024-11-haerin.jpg",
+ "magazine-2024-10-25-dazed-korea-2024-11-minji-chanel": {
+  "fetched": "2026-10-16",
+  "file": "magazine-2024-10-25-dazed-korea-2024-11-minji-chanel.jpg",
   "h": 1400,
-  "image_url": "https://img.marieclairekorea.com/2024/10/mck_6708fe58b4c8a.jpg",
-  "page_url": "https://www.marieclairekorea.com/fashion/2024/10/dior-21",
-  "w": 1145
+  "image_url": "https://dazedkorea.com/wp-content/uploads/2026/03/6349363-scaled.jpg",
+  "page_url": "https://dazedkorea.com/wp-content/uploads/2026/03/6349363-scaled.jpg",
+  "w": 1120
  },
  "magazine-2024-11-04-vogue-korea-nike": {
   "fetched": "2026-10-17",
@@ -5342,6 +5326,22 @@
   "image_url": "https://www.vogue.co.kr/wp_data/vogue/2024/11/style_6724798f77843-1920x1080.jpg",
   "page_url": "https://www.vogue.co.kr/wp_data/vogue/2024/11/style_6724798f77843-1920x1080.jpg",
   "w": 1400
+ },
+ "magazine-2024-11-05-billboard-korea-billboard-artist-no1": {
+  "fetched": "2026-10-13",
+  "file": "magazine-2024-11-05-billboard-korea-billboard-artist-no1.jpg",
+  "h": 683,
+  "image_url": "https://image.koreajoongangdaily.com/11980874.jpg?imageId=11980874&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
+  "page_url": "https://www.koreajoongangdaily.com/entertainment/newjeans-will-cover-inaugural-billboard-artist-magazine/11980743",
+  "w": 1200
+ },
+ "magazine-2024-11-05-elle-korea-2024-11-super-elle-beauty-haerin": {
+  "fetched": "2026-10-13",
+  "file": "magazine-2024-11-05-elle-korea-2024-11-super-elle-beauty-haerin.jpg",
+  "h": 500,
+  "image_url": "https://www.elle.co.kr/resources/online/thumbnail/hf/2024/10/18/571de76c-c188-488b-a18b-e4a8e4643cfa.jpg",
+  "page_url": "https://www.elle.co.kr/article/1871976",
+  "w": 800
  },
  "magazine-2024-11-22-spur-2025-01-minji-hanni": {
   "fetched": "2026-10-23",
@@ -5367,13 +5367,13 @@
   "page_url": "https://www.sportskeeda.com/us/k-pop/they-said-gonna-get-blacklisted-fans-react-newjeans-danielle-stuns-new-vogue-korea-cover-amidst-ador-contract-dispute",
   "w": 1400
  },
- "magazine-2024-12-16-dazed-korea-2025-01-hyein-louis-vuitton": {
-  "fetched": "2026-10-16",
-  "file": "magazine-2024-12-16-dazed-korea-2025-01-hyein-louis-vuitton.jpg",
-  "h": 1400,
-  "image_url": "https://dazedkorea.com/wp-content/uploads/2026/03/2923072-scaled.jpg",
-  "page_url": "https://dazedkorea.com/wp-content/uploads/2026/03/2923072-scaled.jpg",
-  "w": 1120
+ "magazine-2024-12-24-elle-korea-2025-01-minji": {
+  "fetched": "2026-10-13",
+  "file": "magazine-2024-12-24-elle-korea-2025-01-minji.jpg",
+  "h": 500,
+  "image_url": "https://www.elle.co.kr/resources/online/thumbnail/hf/2024/12/12/7ce95900-522c-40c8-b820-c3087781c0b6.jpg",
+  "page_url": "https://www.elle.co.kr/article/1874661",
+  "w": 800
  },
  "magazine-2024-12-26-elle-japon-2025-02-haerin": {
   "fetched": "2026-10-13",
@@ -5383,21 +5383,21 @@
   "page_url": "https://tower.jp/article/news/2024/12/25/tgb004",
   "w": 600
  },
- "magazine-2025-01-01-elle-korea-2025-01-minji": {
+ "magazine-2024-12-26-vogue-korea-2025-01-newjeans": {
   "fetched": "2026-10-13",
-  "file": "magazine-2025-01-01-elle-korea-2025-01-minji.jpg",
-  "h": 500,
-  "image_url": "https://www.elle.co.kr/resources/online/thumbnail/hf/2024/12/12/7ce95900-522c-40c8-b820-c3087781c0b6.jpg",
-  "page_url": "https://www.elle.co.kr/article/1874661",
-  "w": 800
- },
- "magazine-2025-01-01-vogue-korea-2025-01-newjeans": {
-  "fetched": "2026-10-13",
-  "file": "magazine-2025-01-01-vogue-korea-2025-01-newjeans.jpg",
+  "file": "magazine-2024-12-26-vogue-korea-2025-01-newjeans.jpg",
   "h": 800,
   "image_url": "http://cdn.kbizoom.com/media/2024/12/18082156/newjeans-thumbnail-121824.png",
   "page_url": "https://kbizoom.com/ador-posts-newjeans-photoshoot-but-excludes-min-hee-jin-fans-angered/",
   "w": 1200
+ },
+ "magazine-2024-12-30-dazed-korea-2025-01-hyein-louis-vuitton": {
+  "fetched": "2026-10-16",
+  "file": "magazine-2024-12-30-dazed-korea-2025-01-hyein-louis-vuitton.jpg",
+  "h": 1400,
+  "image_url": "https://dazedkorea.com/wp-content/uploads/2026/03/2923072-scaled.jpg",
+  "page_url": "https://dazedkorea.com/wp-content/uploads/2026/03/2923072-scaled.jpg",
+  "w": 1120
  },
  "magazine-2025-01-06-vogue-korea-haerin-dior-toujours": {
   "fetched": "2026-10-23",
@@ -5423,29 +5423,29 @@
   "page_url": "https://elle.com.sg/?p=30990",
   "w": 1160
  },
- "magazine-2025-04-16-spur-2025-06-danielle-celine": {
+ "magazine-2025-04-23-spur-2025-06-danielle-celine": {
   "fetched": "2026-10-16",
-  "file": "magazine-2025-04-16-spur-2025-06-danielle-celine.jpg",
+  "file": "magazine-2025-04-23-spur-2025-06-danielle-celine.jpg",
   "h": 1024,
   "image_url": "https://t1.daumcdn.net/news/202504/16/ilgansports/20250416132700703tada.jpg",
   "page_url": "https://t1.daumcdn.net/news/202504/16/ilgansports/20250416132700703tada.jpg",
   "w": 800
  },
- "magazine-2026-09-01-harpers-bazaar-korea-2026-09-hyein": {
+ "magazine-2026-08-21-marie-claire-korea-2026-09-haerin": {
   "fetched": "2026-10-13",
-  "file": "magazine-2026-09-01-harpers-bazaar-korea-2026-09-hyein.jpg",
-  "h": 500,
-  "image_url": "https://www.harpersbazaar.co.kr/resources/online/thumbnail/hf/2026/08/24/3ebb9459-3891-48da-925a-695d55135e58.jpg",
-  "page_url": "https://www.harpersbazaar.co.kr/article/1908358",
-  "w": 800
- },
- "magazine-2026-09-01-marie-claire-korea-2026-09-haerin": {
-  "fetched": "2026-10-13",
-  "file": "magazine-2026-09-01-marie-claire-korea-2026-09-haerin.jpg",
+  "file": "magazine-2026-08-21-marie-claire-korea-2026-09-haerin.jpg",
   "h": 1138,
   "image_url": "https://img.marieclairekorea.com/2026/08/mck_6a7e6c66e0386-e1786670732708.jpg",
   "page_url": "https://www.marieclairekorea.com/beauty/2026/08/dior-with-haerin/",
   "w": 1400
+ },
+ "magazine-2026-09-04-harpers-bazaar-korea-2026-09-hyein": {
+  "fetched": "2026-10-13",
+  "file": "magazine-2026-09-04-harpers-bazaar-korea-2026-09-hyein.jpg",
+  "h": 500,
+  "image_url": "https://www.harpersbazaar.co.kr/resources/online/thumbnail/hf/2026/08/24/3ebb9459-3891-48da-925a-695d55135e58.jpg",
+  "page_url": "https://www.harpersbazaar.co.kr/article/1908358",
+  "w": 800
  },
  "music-2022-08-01-attention-debut-single": {
   "fetched": "2026-10-13",

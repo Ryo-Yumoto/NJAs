@@ -399,7 +399,7 @@
    "date": "2023-12-27",
    "title": "Elle Japon February 2024 cover - Haerin (with Dior)",
    "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
-   "record": "magazine-2024-02-01-elle-japon-2024-02-haerin",
+   "record": "magazine-2023-12-27-elle-japon-2024-02-haerin",
    "exclude": null,
    "note": "namu表の公開日は2023-12-15、ELLE Japan公式投稿は12-27。既存レコードの出典URLは2025年2月号の記事（tower.jp 2024/12/25） | existing record is month-precision (2024-02-01); source gives 2023-12-27"
   },
@@ -417,7 +417,7 @@
    "date": "2024-01-16",
    "title": "W Korea 2024 Vol.2 (February) cover - Hanni (shot by Hiroshi Fujiwara, with Gucci)",
    "url": "https://hypebae.com/jp/2024/1/newjeans-hanni-hiroshi-fujiwara-w-korea-2024-vol-2-release-info",
-   "record": "magazine-2024-01-16-w-korea-2024-vol2-hanni",
+   "record": "magazine-2024-01-22-w-korea-2024-vol2-hanni",
    "exclude": null,
    "note": "ハニ個人ページの初出は01-15"
   },
@@ -426,7 +426,7 @@
    "date": "2024-02-15",
    "title": "W Korea 2024 Vol.3 (March) woman cover - Haerin (with Dior)",
    "url": "https://www.designscene.net/?p=606603",
-   "record": "magazine-2024-02-15-w-korea-2024-03-haerin",
+   "record": "magazine-2024-02-22-w-korea-2024-03-haerin",
    "exclude": null,
    "note": "ヘリン個人ページの初出は02-14 | existing record is month-precision (2024-03-01); source gives 2024-02-15"
   },
@@ -452,7 +452,7 @@
    "date": "2024-02-29",
    "title": "W Korea March 2024 pictorial - Minji (Chanel, Paris)",
    "url": "https://v.daum.net/v/20240229111305294",
-   "record": "magazine-2024-02-29-w-korea-2024-03-minji-chanel",
+   "record": "magazine-2024-02-22-w-korea-2024-03-minji-chanel",
    "exclude": null,
    "note": "既存レコードの出典のみ（namu表に記載なし）"
   },
@@ -461,7 +461,7 @@
    "date": "2024-03-01",
    "title": "Vogue Korea March 2024 cover (Vogue Leader: 2024 Women Now) - Hyein (with Louis Vuitton)",
    "url": "https://www.vogue.co.kr/2024/03/01/%ed%98%9c%ec%9d%b8-%eb%aa%a8%eb%91%90-%ed%8c%8c%ec%9d%b4%ed%8c%85/",
-   "record": "magazine-2024-03-01-vogue-korea-2024-03-hyein",
+   "record": "magazine-2024-02-27-vogue-korea-2024-03-hyein",
    "exclude": null
   },
   {
@@ -469,7 +469,7 @@
    "date": "2024-03-28",
    "title": "Elle Japon May 2024 cover - Hyein (with Louis Vuitton)",
    "url": "https://m.etnews.com/20240315000060",
-   "record": "magazine-2024-05-01-elle-japon-2024-05-hyein",
+   "record": "magazine-2024-03-28-elle-japon-2024-05-hyein",
    "exclude": null,
    "note": "ELLE Japan公式「本日発売」投稿2024-03-28。namu表は03-15（告知） | existing record is month-precision (2024-05-01); source gives 2024-03-28"
   },
@@ -495,7 +495,7 @@
    "date": "2024-04-16",
    "title": "Marie Claire Korea May 2024 cover - Danielle (with Celine)",
    "url": "https://v.daum.net/v/20240416200608236",
-   "record": "magazine-2024-04-16-marie-claire-korea-2024-05-danielle-celine",
+   "record": "magazine-2024-04-23-marie-claire-korea-2024-05-danielle-celine",
    "exclude": null
   },
   {
@@ -537,7 +537,7 @@
    "date": "2024-07-24",
    "title": "Vogue Korea August 2024 digital cover - Minji (with Chanel)",
    "url": "https://m.etnews.com/20240724000107",
-   "record": "magazine-2024-08-01-vogue-korea-2024-08-minji",
+   "record": "magazine-2024-07-24-vogue-korea-2024-08-minji",
    "exclude": null,
    "note": "記事公開07-24、namu表のカバー行は08-19 | existing record is month-precision (2024-08-01); source gives 2024-07-24"
   },
@@ -555,7 +555,7 @@
    "date": "2024-09-11",
    "title": "Dazed Korea 2024 Korea Music & Musician edition cover - Hanni (with Gucci)",
    "url": "http://www.dazedkorea.com/fashion/article/2738/detail.do",
-   "record": "magazine-2024-09-11-dazed-korea-music-issue-2024-hanni-gucci",
+   "record": "magazine-2024-09-19-dazed-korea-music-issue-2024-hanni-gucci",
    "exclude": null
   },
   {
@@ -588,7 +588,7 @@
    "date": "2024-10-11",
    "title": "Esquire Korea November 2024 cover - Danielle (with Celine)",
    "url": "https://v.daum.net/v/20241021172110325",
-   "record": "magazine-2024-10-11-esquire-korea-danielle-celine",
+   "record": "magazine-2024-10-24-esquire-korea-danielle-celine",
    "exclude": null,
    "note": "existing record date differs: record 2024-10-21 vs source 2024-10-11"
   },
@@ -597,7 +597,7 @@
    "date": "2024-10-14",
    "title": "Marie Claire Korea November 2024 cover (3 versions) - Haerin (Dior Joaillerie)",
    "url": "https://www.marieclairekorea.com/fashion/2024/10/dior-21",
-   "record": "magazine-2024-11-01-marie-claire-korea-2024-11-haerin",
+   "record": "magazine-2024-10-21-marie-claire-korea-2024-11-haerin",
    "exclude": null,
    "note": "namu表10-11、ヘリン個人ページ10-14 | existing record is month-precision (2024-11-01); source gives 2024-10-14"
   },
@@ -606,7 +606,7 @@
    "date": "2024-10-15",
    "title": "Dazed Korea November 2024 cover (4 versions) - Minji (Chanel 2024/25 Cruise)",
    "url": "https://dazedkorea.com/2024/10/15/11%ec%9b%94%ed%98%b8-%ec%bb%a4%eb%b2%84/",
-   "record": "magazine-2024-10-15-dazed-korea-2024-11-minji-chanel",
+   "record": "magazine-2024-10-25-dazed-korea-2024-11-minji-chanel",
    "exclude": null
   },
   {
@@ -623,7 +623,7 @@
    "date": "2024-10-21",
    "title": "Elle Korea November 2024 'super ELLE beauty' book-in-book cover - Haerin (Dior Beauty)",
    "url": "https://www.elle.co.kr/article/1871976",
-   "record": "magazine-2024-11-01-elle-korea-2024-11-super-elle-beauty-haerin",
+   "record": "magazine-2024-11-05-elle-korea-2024-11-super-elle-beauty-haerin",
    "exclude": null,
    "note": "ヘリン個人ページの初出は10-19 | existing record is month-precision (2024-11-01); source gives 2024-10-21"
   },
@@ -641,7 +641,7 @@
    "date": "2024-10-25",
    "title": "Billboard Korea 'Billboard Artist' issue 1 cover - group",
    "url": "https://www.koreajoongangdaily.com/entertainment/newjeans-will-cover-inaugural-billboard-artist-magazine/11980743",
-   "record": "magazine-2024-10-25-billboard-korea-billboard-artist-no1",
+   "record": "magazine-2024-11-05-billboard-korea-billboard-artist-no1",
    "exclude": null,
    "note": "発売10-25（JoongAng Daily）。namu表は表紙公開の10-10"
   },
@@ -684,7 +684,7 @@
    "date": "2024-12-13",
    "title": "Elle Korea January 2025 cover (3 versions) - Minji (Chanel Beauty, London)",
    "url": "https://www.elle.co.kr/article/1874661",
-   "record": "magazine-2025-01-01-elle-korea-2025-01-minji",
+   "record": "magazine-2024-12-24-elle-korea-2025-01-minji",
    "exclude": null,
    "note": "existing record is month-precision (2025-01-01); source gives 2024-12-13"
   },
@@ -693,7 +693,7 @@
    "date": "2024-12-16",
    "title": "Dazed Korea January 2025 cover (4 versions) - Hyein (with Louis Vuitton)",
    "url": "https://dazedkorea.com/2024/12/16/1%ec%9b%94%ed%98%b8-%ec%bb%a4%eb%b2%84/",
-   "record": "magazine-2024-12-16-dazed-korea-2025-01-hyein-louis-vuitton",
+   "record": "magazine-2024-12-30-dazed-korea-2025-01-hyein-louis-vuitton",
    "exclude": null,
    "note": "namu表は12-27"
   },
@@ -702,7 +702,7 @@
    "date": "2024-12-18",
    "title": "Vogue Korea January 2025 pictorial (hanbok) - group",
    "url": "https://kbizoom.com/ador-posts-newjeans-photoshoot-but-excludes-min-hee-jin-fans-angered/",
-   "record": "magazine-2025-01-01-vogue-korea-2025-01-newjeans",
+   "record": "magazine-2024-12-26-vogue-korea-2025-01-newjeans",
    "exclude": null,
    "note": "existing record is month-precision (2025-01-01); source gives 2024-12-18"
   },
@@ -756,7 +756,7 @@
    "date": "2025-04-16",
    "title": "SPUR June 2025 cover - Danielle (with Celine)",
    "url": "https://v.daum.net/v/20250416132659825",
-   "record": "magazine-2025-04-16-spur-2025-06-danielle-celine",
+   "record": "magazine-2025-04-23-spur-2025-06-danielle-celine",
    "exclude": null,
    "note": "仮処分後の個人ブランド案件"
   },
@@ -765,7 +765,7 @@
    "date": "2026-08-14",
    "title": "Marie Claire Korea September 2026 cover (3 versions) - Haerin (Dior Beauty)",
    "url": "https://www.marieclairekorea.com/beauty/2026/08/dior-with-haerin/",
-   "record": "magazine-2026-09-01-marie-claire-korea-2026-09-haerin",
+   "record": "magazine-2026-08-21-marie-claire-korea-2026-09-haerin",
    "exclude": null,
    "note": "en.wikipedia 08-14、ヘリン個人ページ初出08-17 | existing record is month-precision (2026-09-01); source gives 2026-08-14"
   },
@@ -774,7 +774,7 @@
    "date": "2026-08-22",
    "title": "Harper's Bazaar Korea September 2026 cover (3 versions) - Hyein (Bottega Veneta)",
    "url": "https://www.harpersbazaar.co.kr/article/1908358",
-   "record": "magazine-2026-09-01-harpers-bazaar-korea-2026-09-hyein",
+   "record": "magazine-2026-09-04-harpers-bazaar-korea-2026-09-hyein",
    "exclude": null,
    "note": "en.wikipedia・ヘイン個人ページ08-22 | existing record is month-precision (2026-09-01); source gives 2026-08-22"
   }

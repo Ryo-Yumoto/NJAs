@@ -2135,6 +2135,46 @@
     "editor_note": "Cut for length: editor Son Da-ye, photographer Kim Hee-jun, stylist Choi Yu-mi, hair Lee Hye-jin, makeup Lee Sol (retained in credits). / 2026-10-26 nightly: on-sale date not applicable: this is Elle Korea's digital 'D Edition' cover; no print issue is named on the publisher's page. The magazine on-sale rule has nothing to apply to, so the date stays the digital/web publication date."
   },
   {
+    "id": "magazine-2023-12-27-elle-japon-2024-02-haerin",
+    "date": "2023-12-27",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ELLE JAPON 2024年2月号 表紙 — ヘリン",
+      "en": "Elle Japon February 2024 cover - Haerin"
+    },
+    "summary": {
+      "ja": "ヘリンが初めてELLE JAPONの表紙を飾った2024年2月号。",
+      "en": "Haerin's first Elle Japon cover, on the February 2024 issue."
+    },
+    "source_url": "https://www.fujisan.co.jp/product/249/b/2392538/",
+    "reference_urls": [
+      "https://tower.jp/article/news/2024/12/25/tgb004",
+      "https://books.rakuten.co.jp/search?sitem=ELLE+JAPON+2024%E5%B9%B4+2%E6%9C%88%E5%8F%B7&g=000"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "japan",
+      "dior"
+    ],
+    "verified": true,
+    "editor_note": "2025年2月号記事内で「2024年2月号以来」と言及されているのみ。発売日（通常は前年12月下旬）未確認。 | not enriched beyond input: no ELLE JAPON official page or contemporaneous report located for the Feb 2024 issue. | removed from reader text: [detail.ja] ヘリンにとって初のELLE JAPON表紙で、タワーレコードの2024年12月25日付記事は2025年2月号の表紙を「2024年2月号以来1年ぶり2度目」と記している。 [detail.ja] 発売日、撮影者、特集内容は確認できていない。 [detail.en] Haerin appeared on the cover of Hearst Fujingaho's ELLE JAPON February 2024 issue, her first ELLE JAPON cover; Tower Records' article of December 25, 2024 describes her February 2025 cover as her second, a year after the February 2024 issue. [detail.en] The on-sale date, photographer and feature contents could not be confirmed. / 2026-10-17 review: Fujisan back-issue page 2392538: ELLE JAPON 2024年2月号, on sale 2023-12-27, \"表紙：HAERIN（NewJeans）が初登場！\". Publisher (Hearst Fujingaho) page not located; Fujisan is the magazine retailer. / 2026-10-26 nightly: on-sale date 2023-12-27. Fujisan back-number page (fujisan.co.jp/product/249/b/2392538/, re-read 2026-10-26): 'エル・ジャポン（ELLE JAPON） 2024年2月号 (発売日2023年12月27日) ... 表紙：HAERIN（NewJeans）が初登場！'. Rakuten Books search lists 'ELLE JAPON (エル・ジャポン) 2024年 2月号 [雑誌]' (rb/17737681) as 2023年12月27日 with no special edition. Date moved from month precision (2024-02) to the on-sale day; the record now sits in December 2023.",
+    "detail": {
+      "ja": "ハースト婦人画報社の『ELLE JAPON』2024年2月号で、ヘリンが表紙に登場した。",
+      "en": "Haerin appeared on the cover of Hearst Fujingaho's ELLE JAPON February 2024 issue."
+    },
+    "credits": {
+      "publisher": "Hearst Fujingaho (ELLE JAPON)"
+    }
+  },
+  {
     "id": "magazine-2024-01-01-vogue-australia-2024-01-hanni-danielle",
     "date": "2024-01-01",
     "date_type": "publish",
@@ -2244,8 +2284,8 @@
     "editor_note": "Cut for length: editor Jung Hye-mi (retained in credits). / 2026-10-17 review: harpersbazaar.co.kr/article/83463 datePublished 2024-01-04T09:00+09:00. Candidate earlier release: Instagram C1olH4sryuo 2024-01-03 19:03 KST (namu). Instagram captions could not be read on 2026-10-17 (r.jina.ai blocked for instagram.com), so Instagram-only dates remain unconfirmed. / 2026-10-24 nightly (queue): Instagram oembedで@harpersbazaarkoreaの投稿C1olH4sryuo（media_id=2024-01-03 19:03:22 KST、「2024년 <바자>의 첫 번째 디지털 커버는 #뉴진스 #민지」、Editor 정혜미 / Photo 최문혁 / Makeup 이나겸 / Hair 오지혜 / Stylist 최유미 ほか）を確認し、ウェブ記事（2024-01-04 09:00）より早い初出として日付を1月3日に変更。撮影後の映像に関する記述は初出時点で確認できないため本文から外した。 / 2026-10-26 nightly: on-sale date not applicable: this is BAZAAR Korea's first digital cover of 2024; no print edition. The magazine on-sale rule has nothing to apply to, so the date stays the digital/web publication date."
   },
   {
-    "id": "magazine-2024-01-16-w-korea-2024-vol2-hanni",
-    "date": "2024-01-16",
+    "id": "magazine-2024-01-22-w-korea-2024-vol2-hanni",
+    "date": "2024-01-22",
     "date_type": "publish",
     "date_precision": "day",
     "category": "magazine",
@@ -2265,14 +2305,15 @@
     "reference_urls": [
       "https://www.wkorea.com/2024/01/16/%eb%89%b4%ec%a7%84%ec%8a%a4-%ed%95%98%eb%8b%88%ec%99%80-%ed%95%a8%ea%bb%98%ed%95%9c-vol-2-%ec%bb%a4%eb%b2%84/",
       "https://hypebae.com/jp/2024/1/newjeans-hanni-hiroshi-fujiwara-w-korea-2024-vol-2-release-info",
-      "https://www.designscene.net/?p=606603"
+      "https://www.designscene.net/?p=606603",
+      "https://search.kyobobook.co.kr/search?keyword=%EB%8D%94%EB%B8%94%EC%9C%A0+2024%EB%85%84+Volume+2"
     ],
     "media": {
       "type": "none"
     },
     "tags": [],
     "verified": true,
-    "editor_note": "HYPEBAE JP(2024年1月)の検索結果のみ。ページ本文取得不可。発売日・号の月は未確認（Vol.2＝2月号想定）。 | Correction: official W Korea cover article is dated 2024-01-16 (wkorea.com/2024/01/16/뉴진스-하니와-함께한-vol-2-커버/), so the record date of 2024-02-01 is later than the reveal; Hypebae JP also says the issue went on sale in Korea in January. Consider re-dating to 2024-01-16. | re-dated to W Korea's cover article date 2024-01-16 / W Korea公式カバー記事(wkorea.com/2024/01/16/뉴진스-하니와-함께한-vol-2-커버/, 2024-01-16)に基づき日付を2024-01-16に再設定済み。グッチ2024SS着用はDesign Sceneによる。W Koreaは1月22日・23日に藤原ヒロシとの対面を扱う記事と映像も公開（記録日以降のため本文から除外）。発売日・号の月は未確認（Vol.2＝2月号想定、Hypebae JPは1月に韓国で発売と記載）。 / Cut for length: fashion editor Kim Shin, feature editor Jeon Yeo-ul, stylist Choi Yu-mi, hair Lee Il-jung, makeup Lee Na-gyeom, production TMN and Lee Ji-hee (Leica) (retained in credits). / 2026-10-24 nightly: W Korea公式記事を取得（published 2024-01-16T11:08Z）。藤原ヒロシ（1番カバー）・ソン・シヨン（2/3番）の撮影、ジョージア・オキーフの花へのオマージュ、クレジット（キム・シン、チョン・ヨウル、チェ・ユミ、イ・イルジュン、イ・ナギョム、TMN、イ・ジヒ（ライカ））を確認。グッチ2024SS着用は記事内で未確認（Design Sceneによる）。",
+    "editor_note": "HYPEBAE JP(2024年1月)の検索結果のみ。ページ本文取得不可。発売日・号の月は未確認（Vol.2＝2月号想定）。 | Correction: official W Korea cover article is dated 2024-01-16 (wkorea.com/2024/01/16/뉴진스-하니와-함께한-vol-2-커버/), so the record date of 2024-02-01 is later than the reveal; Hypebae JP also says the issue went on sale in Korea in January. Consider re-dating to 2024-01-16. | re-dated to W Korea's cover article date 2024-01-16 / W Korea公式カバー記事(wkorea.com/2024/01/16/뉴진스-하니와-함께한-vol-2-커버/, 2024-01-16)に基づき日付を2024-01-16に再設定済み。グッチ2024SS着用はDesign Sceneによる。W Koreaは1月22日・23日に藤原ヒロシとの対面を扱う記事と映像も公開（記録日以降のため本文から除外）。発売日・号の月は未確認（Vol.2＝2月号想定、Hypebae JPは1月に韓国で発売と記載）。 / Cut for length: fashion editor Kim Shin, feature editor Jeon Yeo-ul, stylist Choi Yu-mi, hair Lee Il-jung, makeup Lee Na-gyeom, production TMN and Lee Ji-hee (Leica) (retained in credits). / 2026-10-24 nightly: W Korea公式記事を取得（published 2024-01-16T11:08Z）。藤原ヒロシ（1番カバー）・ソン・シヨン（2/3番）の撮影、ジョージア・オキーフの花へのオマージュ、クレジット（キム・シン、チョン・ヨウル、チェ・ユミ、イ・イルジュン、イ・ナギョム、TMN、イ・ジヒ（ライカ））を確認。グッチ2024SS着用は記事内で未確認（Design Sceneによる）。 / 2026-10-26 nightly: on-sale date 2024-01-22 per Kyobo: '더블유 2024년 Volume 2' (unlettered), its B and C editions all have 출간일 2024-01-22; all three covers are Hanni (cover 1 Fujiwara, covers 2-3 Song Si-young), so the cover edition date is 2024-01-22. The previous date 2024-01-16 was W Korea's web cover reveal (kept in detail as an earlier fact).",
     "detail": {
       "ja": "1月16日に発表された3種のカバーのうち、カバー1は藤原ヒロシ、カバー2と3はSong Si-youngが撮影した。号は明るい色と花で春を描き、ファッションストーリーはジョージア・オキーフの花へのオマージュ。藤原ヒロシとの撮影はK-POPとストリートファッションのクロスオーバーとして打ち出された。ハニはグッチの2024年春夏コレクションを着用した。",
       "en": "Of the three covers announced January 16, cover 1 was photographed by Hiroshi Fujiwara and covers 2 and 3 by Song Si-young. The issue was themed on spring in bright colors and flowers, the fashion story paid homage to Georgia O'Keeffe's flowers, and the Fujiwara shoot was presented as a crossover between K-pop and street fashion. Hanni wore Gucci's Spring/Summer 2024 collection."
@@ -2309,47 +2350,8 @@
     }
   },
   {
-    "id": "magazine-2024-02-01-elle-japon-2024-02-haerin",
-    "date": "2024-02-01",
-    "date_type": "publish",
-    "date_precision": "month",
-    "category": "magazine",
-    "entity": "newjeans",
-    "members": [
-      "haerin"
-    ],
-    "title": {
-      "ja": "ELLE JAPON 2024年2月号 表紙 — ヘリン",
-      "en": "Elle Japon February 2024 cover - Haerin"
-    },
-    "summary": {
-      "ja": "ヘリンが初めてELLE JAPONの表紙を飾った2024年2月号。",
-      "en": "Haerin's first Elle Japon cover, on the February 2024 issue."
-    },
-    "source_url": "https://www.fujisan.co.jp/product/249/b/2392538/",
-    "reference_urls": [
-      "https://tower.jp/article/news/2024/12/25/tgb004"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "japan",
-      "dior"
-    ],
-    "verified": true,
-    "editor_note": "2025年2月号記事内で「2024年2月号以来」と言及されているのみ。発売日（通常は前年12月下旬）未確認。 | not enriched beyond input: no ELLE JAPON official page or contemporaneous report located for the Feb 2024 issue. | removed from reader text: [detail.ja] ヘリンにとって初のELLE JAPON表紙で、タワーレコードの2024年12月25日付記事は2025年2月号の表紙を「2024年2月号以来1年ぶり2度目」と記している。 [detail.ja] 発売日、撮影者、特集内容は確認できていない。 [detail.en] Haerin appeared on the cover of Hearst Fujingaho's ELLE JAPON February 2024 issue, her first ELLE JAPON cover; Tower Records' article of December 25, 2024 describes her February 2025 cover as her second, a year after the February 2024 issue. [detail.en] The on-sale date, photographer and feature contents could not be confirmed. / 2026-10-17 review: Fujisan back-issue page 2392538: ELLE JAPON 2024年2月号, on sale 2023-12-27, \"表紙：HAERIN（NewJeans）が初登場！\". Publisher (Hearst Fujingaho) page not located; Fujisan is the magazine retailer.",
-    "detail": {
-      "ja": "ハースト婦人画報社の『ELLE JAPON』2024年2月号で、ヘリンが表紙に登場した。",
-      "en": "Haerin appeared on the cover of Hearst Fujingaho's ELLE JAPON February 2024 issue."
-    },
-    "credits": {
-      "publisher": "Hearst Fujingaho (ELLE JAPON)"
-    }
-  },
-  {
-    "id": "magazine-2024-02-15-w-korea-2024-03-haerin",
-    "date": "2024-02-15",
+    "id": "magazine-2024-02-22-w-korea-2024-03-haerin",
+    "date": "2024-02-22",
     "date_type": "publish",
     "date_precision": "day",
     "category": "magazine",
@@ -2369,7 +2371,8 @@
     "reference_urls": [
       "https://www.wkorea.com/2024/02/15/vol-3-%EC%9A%B0%EB%A8%BC-%EC%BB%A4%EB%B2%84%EC%9D%98-%EC%A3%BC%EC%9D%B8%EA%B3%B5-%EB%89%B4%EC%A7%84%EC%8A%A4-%ED%95%B4%EB%A6%B0/",
       "https://www.wkorea.com/2024/02/23/%EC%97%B4%EC%9D%BC%EA%B3%B1-%EC%82%B4-%EA%B0%95%ED%95%B4%EB%A6%B0%EA%B3%BC-%EB%89%B4%EC%A7%84%EC%8A%A4-%ED%95%B4%EB%A6%B0%EC%9D%98-%EA%B0%99%EA%B3%A0%EB%8F%84-%EB%8B%A4%EB%A5%B8-%EC%96%BC%EA%B5%B4/",
-      "https://www.designscene.net/?p=606603"
+      "https://www.designscene.net/?p=606603",
+      "https://search.kyobobook.co.kr/search?keyword=%EB%8D%94%EB%B8%94%EC%9C%A0+2024%EB%85%84+Volume+3"
     ],
     "media": {
       "type": "none"
@@ -2378,7 +2381,7 @@
       "dior"
     ],
     "verified": true,
-    "editor_note": "W Korea公式記事URL未確認（タグページがアクセス制限）。 | Credits via designscene.net; W Korea official page not fetched. / Cut for length: styling Choi Yumi, fashion direction Lee Yejin, set design Jeon Yebyul, hair Gabe, makeup Lee Sol (retained in credits). / 2026-10-24 nightly: W Korea公式記事「Vol. 3 우먼 커버의 주인공, 뉴진스 해린」（2024-02-15T00:59Z＝09:59 KST）を取得し、W/M2版、テーマ、TXTのM版、クレジット（ファッションエディター イ・イェジン、フィーチャーエディター クォン・ウンギョン、撮影 キム・シネ、スタイリスト チェ・ユミ、ヘア ガベ、メイク イ・ソル、セット チョン・イェビョル）を確認。日付を号の月（3月、month）から公式公開日2月15日（day）に変更（magazine-2024-01-16-w-korea-2024-vol2-hanniと同じ扱い）。旧creditsのfashion_directorは公式表記どおりfashion_editorに。ディオールは公式記事本文で未確認（Design Sceneによる）。",
+    "editor_note": "W Korea公式記事URL未確認（タグページがアクセス制限）。 | Credits via designscene.net; W Korea official page not fetched. / Cut for length: styling Choi Yumi, fashion direction Lee Yejin, set design Jeon Yebyul, hair Gabe, makeup Lee Sol (retained in credits). / 2026-10-24 nightly: W Korea公式記事「Vol. 3 우먼 커버의 주인공, 뉴진스 해린」（2024-02-15T00:59Z＝09:59 KST）を取得し、W/M2版、テーマ、TXTのM版、クレジット（ファッションエディター イ・イェジン、フィーチャーエディター クォン・ウンギョン、撮影 キム・シネ、スタイリスト チェ・ユミ、ヘア ガベ、メイク イ・ソル、セット チョン・イェビョル）を確認。日付を号の月（3月、month）から公式公開日2月15日（day）に変更（magazine-2024-01-22-w-korea-2024-vol2-hanniと同じ扱い）。旧creditsのfashion_directorは公式表記どおりfashion_editorに。ディオールは公式記事本文で未確認（Design Sceneによる）。 / 2026-10-26 nightly: on-sale date 2024-02-22 per Kyobo: '더블유 2024년 Volume 3' A, B, C, D and E editions all have 출간일 2024-02-22, so Haerin's Women's-cover edition shares the date whichever letters it is. The previous date 2024-02-15 was W Korea's web cover reveal (kept in detail as an earlier fact).",
     "detail": {
       "ja": "W Korea Vol.3（3月号）はWomen（W）版とMen（M）版の2種で刊行され、ヘリンがW版の表紙を飾り、W Korea公式サイトでカバーが公開された。撮影はキム・シネ、テーマは春の儚く夢のような瞬間で、M版はデビュー5周年のTOMORROW X TOGETHERが飾った。",
       "en": "W Korea's Vol.3 (March issue) came in Women (W) and Men (M) versions, and Haerin's Women's cover was revealed on W Korea's website. Photography was by Kim Shin-ae, the cover captured the fleeting, dreamlike feel of spring, and the Men's edition featured Tomorrow X Together in their fifth year since debut."
@@ -2417,6 +2420,116 @@
     }
   },
   {
+    "id": "magazine-2024-02-22-w-korea-2024-03-minji-chanel",
+    "date": "2024-02-22",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "W Korea 2024年3月号——ミンジ×シャネル（パリ）",
+      "en": "W Korea March 2024 - Minji x Chanel (Paris)"
+    },
+    "summary": {
+      "ja": "ミンジがパリを背景に、シャネルの2024春夏プレタポルテを着たW Korea 3月号のグラビア。",
+      "en": "Minji's pictorial in W Korea's March issue, shot in Paris in Chanel's Spring/Summer 2024 ready-to-wear."
+    },
+    "detail": {
+      "ja": "シャネルのアンバサダーのミンジが、パリを背景にW Korea 3月号のグラビアに登場した。ヴィラ・ノアイユの芸術精神に着想を得たシャネル2024春夏プレタポルテコレクションを着用し、キッチュな小物を使った少女らしい雰囲気から洗練されたイメージまでを見せた。",
+      "en": "Chanel ambassador Minji appeared in a W Korea March pictorial shot in Paris, wearing Chanel's Spring/Summer 2024 ready-to-wear collection inspired by the artistic spirit of the Villa Noailles. She moves from a girlish look with kitsch props to more polished styling."
+    },
+    "source_url": "https://v.daum.net/v/20240229111305294",
+    "reference_urls": [
+      "https://v.daum.net/v/20240301131843764",
+      "https://v.daum.net/v/20240304004844255",
+      "https://search.kyobobook.co.kr/search?keyword=%EB%8D%94%EB%B8%94%EC%9C%A0+2024%EB%85%84+Volume+3"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202403/01/sportskhan/20240301131844289abhm.jpg",
+      "source_url": "https://v.daum.net/v/20240301131843764"
+    },
+    "credits": {
+      "publisher": "W Korea",
+      "brand": "Chanel"
+    },
+    "tags": [
+      "chanel"
+    ],
+    "verified": false,
+    "editor_note": "MHN Sports (2024-02-29) first report; Sports Kyunghyang (2024-03-01) quotes W Korea releasing on the 1st. Not to be confused with magazine-2024-02-22-w-korea-2024-03-haerin (Haerin cover of same issue month). / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: MHNスポーツ（2024-02-29 11:13、写真＝W Korea・シャネル）を取得し3月号・パリ背景を確認したが、コレクション名の記載なし。W Korea公式に「민지, 그리고 샤넬」（2024-02-26T03:07Z、2024 S/Sオートクチュール参加日のパリでの記録、ファッションエディター キム・ミンジ／撮影 キム・ヒョンシク／スタイリスト チェ・ユミ）があり、同じ企画なら初出は2月26日の可能性。同一企画か確認できず、日付は維持。 / 2026-10-26 nightly: on-sale date 2024-02-22. The pictorial is placed in the March issue by MHN Sports (2024-02-29) and Sports Kyunghyang (2024-03-01); W Korea's March issue is 'Volume 3', and Kyobo lists A-E editions all with 출간일 2024-02-22. Minji is not a cover star, so the issue date applies. This also settles the 02-26 vs 02-29 question: both the W Korea web post '민지, 그리고 샤넬' (02-26) and the press (02-29) are later than the on-sale day. Still verified=false: the March-issue placement rests on press, not a W Korea page; summary no longer frames the record as a web release."
+  },
+  {
+    "id": "magazine-2024-02-27-vogue-korea-2024-03-hyein",
+    "date": "2024-02-27",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "VOGUE Korea 2024年3月号 表紙（Vogue Leader: 2024 Women Now 24人）— ヘイン × Louis Vuitton",
+      "en": "Vogue Korea March 2024 cover (Vogue Leader: 2024 Women Now, 24 covers) - Hyein x Louis Vuitton",
+      "original": "혜인, “모두 파이팅!”"
+    },
+    "summary": {
+      "ja": "24人の女性による「Women Now」カバーの一人として、ヘインがルイ・ヴィトンのファインジュエリーで登場した3月号。",
+      "en": "Hyein, one of 24 cover women in Vogue Korea's March 2024 'Women Now' issue, in Louis Vuitton fine jewelry."
+    },
+    "source_url": "https://www.vogue.co.kr/2024/03/01/%ed%98%9c%ec%9d%b8-%eb%aa%a8%eb%91%90-%ed%8c%8c%ec%9d%b4%ed%8c%85/",
+    "reference_urls": [
+      "https://www.vogue.co.kr/2024/02/16/%eb%b3%b4%ea%b7%b8-%eb%a6%ac%eb%8d%94-2024-%ec%9a%b0%eb%a8%bc-%eb%82%98%ec%9a%b0-24%ec%9d%b8%ec%9d%98-%ec%97%ac%ec%84%b1%ea%b3%bc-%ed%95%a8%ea%bb%98%ed%95%9c-3%ec%9b%94%ed%98%b8-%eb%b3%b4%ea%b7%b8/",
+      "https://search.kyobobook.co.kr/search?keyword=%EB%B3%B4%EA%B7%B8+2024%EB%85%84+3%EC%9B%94%ED%98%B8"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "louis-vuitton"
+    ],
+    "verified": true,
+    "editor_note": "カバー公開2024-02-16/17。インタビュー記事2024-03-01。 / カバー公開2024-02-16/17、インタビュー記事2024-03-01。 / Cut for length: the JA article title 'Hyein, Everyone fighting!' (in title.original); photography Park Bae, hair Oh Ji-hye, makeup Lee Na-gyeom (retained in credits). / 2026-10-26 nightly: on-sale date 2024-02-27 per Kyobo: '보그(2024년 3월호)' is a single listing (cover image shows the 24-cover grid, covers sold at random) with 출간일 2024-02-27, so Hyein's cover shares that date. Date moved from month precision (2024-03). The feature content follows the publisher's web version of the feature (vogue.co.kr 2024-03-01, later than the new date); the wording 'the March 1 article' was removed from the detail.",
+    "detail": {
+      "ja": "2月16日に発表された24人の女性による3月号カバー「ヴォーグ・リーダー：2024ウーマン・ナウ」の一人。企画「ヘイン、『みんなファイティン！』」では、ルイ・ヴィトンのウェアとファインジュエリー（イデアル ブロッサム、LVブロッサム、Bブロッサム、LVダイヤモンド パヴェ、カラー ブロッサムBBスターなど）を身に着け、「Heavenly Face」「City of Angels」「Flower Child」などのカットで構成した。インタビューでヘインは2023年秋冬からルイ・ヴィトンと仕事をして今もショー前は緊張すること、普段は楽な服が好きだがヴィンテージも好むこと、IUの「Shh..」への参加、1年半で性格や考え方が変わったこと、将来への不安と成長し続けたい思いを語った。",
+      "en": "Vogue Korea unveiled its March issue on February 16 as 'Vogue Leader: 2024 Women Now', with 24 cover women including Hyein. Her feature 'Hyein, Everyone fighting!' showed her in Louis Vuitton clothing and fine jewelry, including the Idylle Blossom and LV Blossom pendants, B Blossom rings, LV Diamond Pave rings and the Colour Blossom BB Star bracelet and pendant, in shots titled 'Heavenly Face', 'City of Angels' and 'Flower Child' among others. Hyein said she had worked with Louis Vuitton since the 2023 F/W season and still gets nervous before shows, prefers comfortable clothes off stage but likes vintage, talked about featuring on IU's 'Shh..', said her personality and outlook had changed over a year and a half, and admitted anxiety about the future along with a wish to keep growing."
+    },
+    "credits": {
+      "publisher": "Vogue Korea (Doosan Magazine)",
+      "photographer": {
+        "ja": "パク・ベ",
+        "en": "Park Bae"
+      },
+      "fashion_editor": {
+        "ja": "ソン・ギホ",
+        "en": "Son Ki-ho"
+      },
+      "feature_director": {
+        "ja": "キム・ナラン",
+        "en": "Kim Na-rang"
+      },
+      "hair": {
+        "ja": "オ・ジヘ",
+        "en": "Oh Ji-hye"
+      },
+      "makeup": {
+        "ja": "イ・ナギョム",
+        "en": "Lee Na-gyeom"
+      },
+      "set": {
+        "ja": "チェ・ソユン（Da;rak）",
+        "en": "Choi Seo-yun (Da;rak)"
+      },
+      "brand": "Louis Vuitton"
+    }
+  },
+  {
     "id": "magazine-2024-02-28-billboard-women-in-music-2024-cover",
     "date": "2024-02-28",
     "date_type": "publish",
@@ -2448,7 +2561,7 @@
       "international"
     ],
     "verified": true,
-    "editor_note": "billboard.comの記事URL未確認。印刷号の発行日未確認。 | billboard.com article not fetched; photographer and writer unconfirmed. Secondary coverage (Sportskeeda) adds that the members discussed their Melon and MAMA wins and Hanni called the experience 'surreal'. / 2026-10-24 nightly: billboard.comのカバーストーリー「NewJeans Explain Their 'Surreal' Success...」をWordPress APIで取得（2024-02-28T08:00 ET＝13:00 GMT）。「March 2, 2024, issue」掲載、写真クレジットSsam Kim、ソウルでのインタビューを確認。「韓屋を背景に撮影」は記事本文で確認できず外し、「Ditto」の発言者をミンジと特定。3月6日の公演予定は2月9日のADOR発表報道（Daum）による。",
+    "editor_note": "billboard.comの記事URL未確認。印刷号の発行日未確認。 | billboard.com article not fetched; photographer and writer unconfirmed. Secondary coverage (Sportskeeda) adds that the members discussed their Melon and MAMA wins and Hanni called the experience 'surreal'. / 2026-10-24 nightly: billboard.comのカバーストーリー「NewJeans Explain Their 'Surreal' Success...」をWordPress APIで取得（2024-02-28T08:00 ET＝13:00 GMT）。「March 2, 2024, issue」掲載、写真クレジットSsam Kim、ソウルでのインタビューを確認。「韓屋を背景に撮影」は記事本文で確認できず外し、「Ditto」の発言者をミンジと特定。3月6日の公演予定は2月9日のADOR発表報道（Daum）による。 / 2026-10-26 nightly: on-sale date not found. The cover story (billboard.com, 2024-02-28 08:00 ET) says it is printed in the 'March 2, 2024, issue'; web search found no newsstand or on-sale date for that print issue, and shop.billboard.com could not be reached (proxy 502). Per the policy fallback the date is moved from the web cover-story date to the issue month (2024-03, month precision). The detail still describes the 02-28 web publication and the March 6 ceremony as scheduled; both are fine for a month-precision record placed at the end of March only if the owner accepts the fallback (see needs_decision).",
     "detail": {
       "ja": "2024年Billboard Women in Musicの「Group of the Year」としてカバーストーリーを飾り、記事は2月28日（米国東部時間8時）に公式サイトで公開され、2024年3月2日号に掲載された。撮影はSsam Kimで、インタビューはソウルで行われた。記事はNewJeansをADOR初のアーティストとして、創業者で代表のミン・ヒジンのもとで成功を収めたと紹介し、メンバーはデビュー前は新しく面白いことを試したかっただけだと語り、ミンジは「Ditto」を聴いて昨冬を思い出してもらえるような、長く記憶に残る音楽にしたいと話した。同賞で唯一のK-POP女性アーティストとして、3月6日にロサンゼルスで開かれる授賞式でのパフォーマンスが予定されていた。",
       "en": "As Group of the Year at the 2024 Billboard Women in Music, NewJeans fronted the cover story, posted on Billboard's website on February 28 (8:00 a.m. ET) and printed in the March 2, 2024 issue. Ssam Kim photographed the group, and the interview took place in Seoul. The article presented NewJeans as ADOR's first act, succeeding under founder and CEO Min Hee-jin; the members said they had simply wanted to try something new and fun, and Minji said she wanted their music to be remembered for a long time, so that people think of last winter when they hear 'Ditto'. As the only K-pop female act honored, NewJeans was scheduled to perform at the ceremony in Los Angeles on March 6."
@@ -2525,115 +2638,7 @@
       },
       "brand": "Chaumet"
     },
-    "editor_note": "公式記事の掲載時刻は2024-03-04 14:01。具体的なジュエリーの品名は記載なし。 / Cut for length: photography Kim Sin-ae, hair Lee Hye-jin, makeup Lee Sol, styling Choi Yu-mi, nails Heo Jin-hee, set Choi Seo-yun (retained in credits). / 2026-10-17 review: marieclairekorea.com/fashion/2024/02/hanni/ datePublished 2024-02-29T11:00Z (20:00 KST), \"하니와 조세핀 컬렉션의 담대한 조우로 완성한 스페셜 디지털 커버를 공개합니다\", same credits (Kim Sin-ae, Lee Hye-jin, Lee Sol, Choi Yu-mi, Heo Jin-hee, set Choi Seo-yun). The 03-04 14:01 article is the full digital-cover story; a FOOH cover followed 03-12."
-  },
-  {
-    "id": "magazine-2024-02-29-w-korea-2024-03-minji-chanel",
-    "date": "2024-02-29",
-    "date_type": "publish",
-    "date_precision": "day",
-    "category": "magazine",
-    "entity": "newjeans",
-    "members": [
-      "minji"
-    ],
-    "title": {
-      "ja": "W Korea 2024年3月号——ミンジ×シャネル（パリ）",
-      "en": "W Korea March 2024 - Minji x Chanel (Paris)"
-    },
-    "summary": {
-      "ja": "ミンジがパリを背景に、シャネルの2024春夏プレタポルテを着たW Korea 3月号のグラビアが公開された。",
-      "en": "Minji's W Korea March pictorial, shot in Paris in Chanel's Spring/Summer 2024 ready-to-wear, was released."
-    },
-    "detail": {
-      "ja": "シャネルのアンバサダーのミンジが、パリを背景にW Korea 3月号のグラビアに登場した。ヴィラ・ノアイユの芸術精神に着想を得たシャネル2024春夏プレタポルテコレクションを着用し、キッチュな小物を使った少女らしい雰囲気から洗練されたイメージまでを見せた。",
-      "en": "Chanel ambassador Minji appeared in a W Korea March pictorial shot in Paris, wearing Chanel's Spring/Summer 2024 ready-to-wear collection inspired by the artistic spirit of the Villa Noailles. She moves from a girlish look with kitsch props to more polished styling."
-    },
-    "source_url": "https://v.daum.net/v/20240229111305294",
-    "reference_urls": [
-      "https://v.daum.net/v/20240301131843764",
-      "https://v.daum.net/v/20240304004844255"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "image": {
-      "url": "https://t1.daumcdn.net/news/202403/01/sportskhan/20240301131844289abhm.jpg",
-      "source_url": "https://v.daum.net/v/20240301131843764"
-    },
-    "credits": {
-      "publisher": "W Korea",
-      "brand": "Chanel"
-    },
-    "tags": [
-      "chanel"
-    ],
-    "verified": false,
-    "editor_note": "MHN Sports (2024-02-29) first report; Sports Kyunghyang (2024-03-01) quotes W Korea releasing on the 1st. Not to be confused with magazine-2024-02-15-w-korea-2024-03-haerin (Haerin cover of same issue month). / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: MHNスポーツ（2024-02-29 11:13、写真＝W Korea・シャネル）を取得し3月号・パリ背景を確認したが、コレクション名の記載なし。W Korea公式に「민지, 그리고 샤넬」（2024-02-26T03:07Z、2024 S/Sオートクチュール参加日のパリでの記録、ファッションエディター キム・ミンジ／撮影 キム・ヒョンシク／スタイリスト チェ・ユミ）があり、同じ企画なら初出は2月26日の可能性。同一企画か確認できず、日付は維持。"
-  },
-  {
-    "id": "magazine-2024-03-01-vogue-korea-2024-03-hyein",
-    "date": "2024-03-01",
-    "date_type": "publish",
-    "date_precision": "month",
-    "category": "magazine",
-    "entity": "newjeans",
-    "members": [
-      "hyein"
-    ],
-    "title": {
-      "ja": "VOGUE Korea 2024年3月号 表紙（Vogue Leader: 2024 Women Now 24人）— ヘイン × Louis Vuitton",
-      "en": "Vogue Korea March 2024 cover (Vogue Leader: 2024 Women Now, 24 covers) - Hyein x Louis Vuitton",
-      "original": "혜인, “모두 파이팅!”"
-    },
-    "summary": {
-      "ja": "24人の女性による「Women Now」カバーの一人として、ヘインがルイ・ヴィトンのファインジュエリーで登場した3月号。",
-      "en": "Hyein, one of 24 cover women in Vogue Korea's March 2024 'Women Now' issue, in Louis Vuitton fine jewelry."
-    },
-    "source_url": "https://www.vogue.co.kr/2024/03/01/%ed%98%9c%ec%9d%b8-%eb%aa%a8%eb%91%90-%ed%8c%8c%ec%9d%b4%ed%8c%85/",
-    "reference_urls": [
-      "https://www.vogue.co.kr/2024/02/16/%eb%b3%b4%ea%b7%b8-%eb%a6%ac%eb%8d%94-2024-%ec%9a%b0%eb%a8%bc-%eb%82%98%ec%9a%b0-24%ec%9d%b8%ec%9d%98-%ec%97%ac%ec%84%b1%ea%b3%bc-%ed%95%a8%ea%bb%98%ed%95%9c-3%ec%9b%94%ed%98%b8-%eb%b3%b4%ea%b7%b8/"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "louis-vuitton"
-    ],
-    "verified": true,
-    "editor_note": "カバー公開2024-02-16/17。インタビュー記事2024-03-01。 / カバー公開2024-02-16/17、インタビュー記事2024-03-01。 / Cut for length: the JA article title 'Hyein, Everyone fighting!' (in title.original); photography Park Bae, hair Oh Ji-hye, makeup Lee Na-gyeom (retained in credits).",
-    "detail": {
-      "ja": "2月16日に発表された24人の女性による3月号カバー「ヴォーグ・リーダー：2024ウーマン・ナウ」の一人。3月1日公開の記事では、ルイ・ヴィトンのウェアとファインジュエリー（イデアル ブロッサム、LVブロッサム、Bブロッサム、LVダイヤモンド パヴェ、カラー ブロッサムBBスターなど）を身に着け、「Heavenly Face」「City of Angels」「Flower Child」などのカットで構成した。インタビューでヘインは2023年秋冬からルイ・ヴィトンと仕事をして今もショー前は緊張すること、普段は楽な服が好きだがヴィンテージも好むこと、IUの「Shh..」への参加、1年半で性格や考え方が変わったこと、将来への不安と成長し続けたい思いを語った。",
-      "en": "Vogue Korea unveiled its March issue on February 16 as 'Vogue Leader: 2024 Women Now', with 24 cover women including Hyein. The March 1 article 'Hyein, Everyone fighting!' showed her in Louis Vuitton clothing and fine jewelry, including the Idylle Blossom and LV Blossom pendants, B Blossom rings, LV Diamond Pave rings and the Colour Blossom BB Star bracelet and pendant, in shots titled 'Heavenly Face', 'City of Angels' and 'Flower Child' among others. Hyein said she had worked with Louis Vuitton since the 2023 F/W season and still gets nervous before shows, prefers comfortable clothes off stage but likes vintage, talked about featuring on IU's 'Shh..', said her personality and outlook had changed over a year and a half, and admitted anxiety about the future along with a wish to keep growing."
-    },
-    "credits": {
-      "publisher": "Vogue Korea (Doosan Magazine)",
-      "photographer": {
-        "ja": "パク・ベ",
-        "en": "Park Bae"
-      },
-      "fashion_editor": {
-        "ja": "ソン・ギホ",
-        "en": "Son Ki-ho"
-      },
-      "feature_director": {
-        "ja": "キム・ナラン",
-        "en": "Kim Na-rang"
-      },
-      "hair": {
-        "ja": "オ・ジヘ",
-        "en": "Oh Ji-hye"
-      },
-      "makeup": {
-        "ja": "イ・ナギョム",
-        "en": "Lee Na-gyeom"
-      },
-      "set": {
-        "ja": "チェ・ソユン（Da;rak）",
-        "en": "Choi Seo-yun (Da;rak)"
-      },
-      "brand": "Louis Vuitton"
-    }
+    "editor_note": "公式記事の掲載時刻は2024-03-04 14:01。具体的なジュエリーの品名は記載なし。 / Cut for length: photography Kim Sin-ae, hair Lee Hye-jin, makeup Lee Sol, styling Choi Yu-mi, nails Heo Jin-hee, set Choi Seo-yun (retained in credits). / 2026-10-17 review: marieclairekorea.com/fashion/2024/02/hanni/ datePublished 2024-02-29T11:00Z (20:00 KST), \"하니와 조세핀 컬렉션의 담대한 조우로 완성한 스페셜 디지털 커버를 공개합니다\", same credits (Kim Sin-ae, Lee Hye-jin, Lee Sol, Choi Yu-mi, Heo Jin-hee, set Choi Seo-yun). The 03-04 14:01 article is the full digital-cover story; a FOOH cover followed 03-12. / 2026-10-26 nightly: on-sale date not applicable: this is Marie Claire Korea's special digital cover (the publisher's 2024-02-29 article: '스페셜 디지털 커버를 공개합니다'); no print cover. The magazine on-sale rule has nothing to apply to, so the date stays the digital/web publication date."
   },
   {
     "id": "magazine-2024-03-27-elle-korea-2024-05-d-edition-minji",
@@ -2656,7 +2661,8 @@
     },
     "source_url": "https://www.elle.co.kr/article/85043",
     "reference_urls": [
-      "https://www.elle.co.kr/article/1864093"
+      "https://www.elle.co.kr/article/1864093",
+      "https://search.kyobobook.co.kr/search?keyword=%EC%97%98%EB%A5%B4+2024%EB%85%84+5%EC%9B%94%ED%98%B8"
     ],
     "media": {
       "type": "none"
@@ -2666,8 +2672,8 @@
     ],
     "verified": true,
     "detail": {
-      "ja": "3月27日公開。シャネル アンバサダーのミンジが、N°1 DE CHANELの主要原料レッドカメリアを体験するため、数千種のカメリアを保存・栽培するフランス南西部ゴジャックの農園を訪れ、「カメリアとミンジ」をコンセプトに撮影した。メイクにはレッド カメリア リップ＆チーク バームの1 レッド カメリアと9 パープル エナジーを使い、カメリア専門家Jean Thobyとシャネルの農園運営責任者Philippe Grandryも登場した。ミンジはこれほど多様なカメリアがあると初めて知ったと話し、他の木々と混ぜて植える生物多様性の実践をメンバーそれぞれの個性になぞらえた。画報とビューティーフィルムは5月号とelle.co.kr、SNSで公開された。",
-      "en": "Released March 27. As a Chanel ambassador, Minji visited the camellia farm in Gaujacq, southwestern France, where thousands of varieties are preserved and grown, to experience the red camellia at the heart of N°1 DE CHANEL, under the concept 'Camellia and Minji'. Makeup used shades 1 Red Camellia and 9 Purple Energy of the Red Camellia Lip & Cheek Balm, and camellia expert Jean Thoby and Chanel's farm operations manager Philippe Grandry also appeared. Minji said she had not known so many camellia varieties existed and likened the farm's practice of planting camellias among other trees to the members' individual appeal. The full story and beauty film ran in the May issue, on elle.co.kr and on Elle's social channels."
+      "ja": "3月27日公開。シャネル アンバサダーのミンジが、N°1 DE CHANELの主要原料レッドカメリアを体験するため、数千種のカメリアを保存・栽培するフランス南西部ゴジャックの農園を訪れ、「カメリアとミンジ」をコンセプトに撮影した。メイクにはレッド カメリア リップ＆チーク バームの1 レッド カメリアと9 パープル エナジーを使い、カメリア専門家Jean Thobyとシャネルの農園運営責任者Philippe Grandryも登場した。ミンジはこれほど多様なカメリアがあると初めて知ったと話し、他の木々と混ぜて植える生物多様性の実践をメンバーそれぞれの個性になぞらえた。画報のフルストーリーとビューティーフィルムは5月号とelle.co.kr、SNSで見られると案内された。",
+      "en": "Released March 27. As a Chanel ambassador, Minji visited the camellia farm in Gaujacq, southwestern France, where thousands of varieties are preserved and grown, to experience the red camellia at the heart of N°1 DE CHANEL, under the concept 'Camellia and Minji'. Makeup used shades 1 Red Camellia and 9 Purple Energy of the Red Camellia Lip & Cheek Balm, and camellia expert Jean Thoby and Chanel's farm operations manager Philippe Grandry also appeared. Minji said she had not known so many camellia varieties existed and likened the farm's practice of planting camellias among other trees to the members' individual appeal. The full story and beauty film were announced for the May issue, elle.co.kr and Elle's social channels."
     },
     "credits": {
       "publisher": "Elle Korea (Hearst JoongAng)",
@@ -2697,7 +2703,48 @@
       },
       "brand": "Chanel Beauty (N°1 DE CHANEL)"
     },
-    "editor_note": "Correction: source_url elle.co.kr/article/1864093 resolves to an unrelated 2024-04-26 comeback article; the correct article is elle.co.kr/article/85043 (2024-03-27). | source_url corrected to elle.co.kr/article/85043 / source_urlはelle.co.kr/article/85043(2024-03-27)に修正済み（旧URL elle.co.kr/article/1864093は無関係な2024-04-26カムバック記事）。 / Cut for length: article title 'NewJeans Minji, a moment with the red camellia' (in title.original). / 2026-10-17 review: Elle article 85043 byline date 2024.03.27 states Minji covered Elle's special digital project \"D Edition\"; the May print issue carries the pictorial. Date moved from month-precision 2024-05-01 to the publisher's publication date; id unchanged."
+    "editor_note": "Correction: source_url elle.co.kr/article/1864093 resolves to an unrelated 2024-04-26 comeback article; the correct article is elle.co.kr/article/85043 (2024-03-27). | source_url corrected to elle.co.kr/article/85043 / source_urlはelle.co.kr/article/85043(2024-03-27)に修正済み（旧URL elle.co.kr/article/1864093は無関係な2024-04-26カムバック記事）。 / Cut for length: article title 'NewJeans Minji, a moment with the red camellia' (in title.original). / 2026-10-17 review: Elle article 85043 byline date 2024.03.27 states Minji covered Elle's special digital project \"D Edition\"; the May print issue carries the pictorial. Date moved from month-precision 2024-05-01 to the publisher's publication date; id unchanged. / 2026-10-26 nightly: on-sale date not applicable: this is Elle Korea's digital 'D Edition' cover (the 2024-03-27 article calls D Edition 'the digital project launched for web and social media audiences'). The magazine on-sale rule has nothing to apply to, so the date stays the digital/web publication date. The full story ran in the May 2024 print issue (Kyobo: 엘르(ELLE)(2024년 5월호) A-F, 출간일 2024-05-03), later than this date, so the detail now says the May issue was announced ('<엘르> 5월호와 공식 홈페이지 ... 를 통해 만날 수 있다'), not that it ran."
+  },
+  {
+    "id": "magazine-2024-03-28-elle-japon-2024-05-hyein",
+    "date": "2024-03-28",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "ELLE JAPON 2024年5月号 表紙 — ヘイン × Louis Vuitton",
+      "en": "Elle Japon May 2024 cover - Hyein x Louis Vuitton"
+    },
+    "summary": {
+      "ja": "ルイ・ヴィトン アンバサダーのヘインが、シックなパリジェンヌスタイルで飾ったELLE JAPON 5月号の表紙。",
+      "en": "Louis Vuitton ambassador Hyein in chic Parisian style on the cover of Elle Japon's May 2024 issue."
+    },
+    "source_url": "https://www.fujisan.co.jp/product/249/b/2506803/",
+    "reference_urls": [
+      "https://m.etnews.com/20240315000060",
+      "https://books.rakuten.co.jp/search?sitem=ELLE+JAPON+2024%E5%B9%B4+5%E6%9C%88%E5%8F%B7&g=000"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "japan",
+      "louis-vuitton"
+    ],
+    "verified": true,
+    "editor_note": "ELLE JAPON公式URL未確認。発売日未確認（通常3月末）。 / 電子新聞(2024-03-15)の報道に基づく。ELLE JAPON公式URL未確認。発売日（通常3月末）と撮影者は報道に記載なし。 / 2026-10-24 nightly: no Hearst Fujingaho / ELLE JAPON page for a Hyein May 2024 cover was found (search surfaces only other issues). Note for review: per data-policy the date should be the on-sale day; ELLE JAPON's May issue normally goes on sale at the end of March (June 2024 issue went on sale 04-26), so month 2024-05 is likely wrong once confirmed. / 2026-10-26 nightly: on-sale date 2024-03-28. Fujisan back-number page (fujisan.co.jp/product/249/b/2506803/): 'エル・ジャポン（ELLE JAPON） 2024年5月号 (発売日2024年03月28日) ハースト婦人画報社 表紙：＜初登場！＞HYEIN（NewJeans）'. Rakuten Books lists the regular 'ELLE JAPON 2024年 5月号' (rb/17819724) as 2024年03月28日; the same-day 増刊 特別版 is a ZEROBASEONE edition, so Hyein's cover is the regular edition. Date moved from month precision (2024-05); source_url set to the Fujisan page (retailer, as for the Feb 2024 Haerin record), etnews kept in reference_urls.",
+    "detail": {
+      "ja": "ハースト婦人画報社『ELLE JAPON』5月号の表紙で、カバーは3月15日にヘインの公式SNSで公開された。ルイ・ヴィトンとともに制作し、シックで優雅なパリジェンヌスタイルをコンセプトに、光沢のある黒いビスチェに流れるような白いスカートを合わせて柔らかさと強さを併せ持つ装いにした。",
+      "en": "The cover of Hearst Fujingaho's ELLE JAPON May issue, revealed on Hyein's official social media on March 15. Made with Louis Vuitton around a chic, elegant Parisian style, it paired a glossy black bustier with a flowing white skirt for a look combining softness and strength."
+    },
+    "credits": {
+      "publisher": "Hearst Fujingaho (ELLE JAPON)",
+      "brand": "Louis Vuitton"
+    }
   },
   {
     "id": "magazine-2024-04-01-w-korea-danielle-celine-digital-cover",
@@ -2758,11 +2805,11 @@
       "w-korea"
     ],
     "verified": true,
-    "editor_note": "W Korea Instagram #W_Digitalcover post C5NAwV-pgWw (read via reader) at 12:11 KST 2024-04-01; web articles of the same date (search-result snippets; the site resets direct fetches). Celine ambassador appointment is a separate record dated 2024-03-22."
+    "editor_note": "W Korea Instagram #W_Digitalcover post C5NAwV-pgWw (read via reader) at 12:11 KST 2024-04-01; web articles of the same date (search-result snippets; the site resets direct fetches). Celine ambassador appointment is a separate record dated 2024-03-22. / 2026-10-26 nightly: on-sale date not applicable: this is W Korea's April digital cover (#W_Digitalcover on Instagram, web articles); no print issue is named. The magazine on-sale rule has nothing to apply to, so the date stays the digital/web publication date."
   },
   {
-    "id": "magazine-2024-04-16-marie-claire-korea-2024-05-danielle-celine",
-    "date": "2024-04-16",
+    "id": "magazine-2024-04-23-marie-claire-korea-2024-05-danielle-celine",
+    "date": "2024-04-23",
     "date_type": "publish",
     "date_precision": "day",
     "category": "magazine",
@@ -2779,14 +2826,15 @@
       "en": "Danielle covered Marie Claire Korea's May issue in Celine's Summer 2024 collection."
     },
     "detail": {
-      "ja": "Marie Claire Koreaが、セリーヌのグローバルアンバサダーのダニエルとの5月号表紙を公開した。クロシェのミニドレスやバンダナ、デニムのルックなどでセリーヌ by エディ・スリマンを着こなした。インタビューでは「自分の声で誰かの心を癒やしたい。そんな音楽家になれるよういつも祈っている」と語った。",
-      "en": "Marie Claire Korea revealed its May cover with Celine global ambassador Danielle, wearing Celine by Hedi Slimane in looks including a crochet mini dress, a bandana and denim. In the interview she said she wanted to comfort people's hearts with her voice and always prays to become that kind of musician."
+      "ja": "セリーヌのグローバルアンバサダーのダニエルがMarie Claire Korea 5月号の表紙を飾った。クロシェのミニドレスやバンダナ、デニムのルックなどでセリーヌ by エディ・スリマンを着こなした。インタビューでは「自分の声で誰かの心を癒やしたい。そんな音楽家になれるよういつも祈っている」と語った。",
+      "en": "Celine global ambassador Danielle covered Marie Claire Korea's May issue, wearing Celine by Hedi Slimane in looks including a crochet mini dress, a bandana and denim. In the interview she said she wanted to comfort people's hearts with her voice and always prays to become that kind of musician."
     },
     "source_url": "https://v.daum.net/v/20240416200608236",
     "reference_urls": [
       "https://v.daum.net/v/20240416200608236",
       "https://www.marieclairekorea.com/fashion/2024/04/celine-19/",
-      "https://v.daum.net/v/20240425020007207"
+      "https://v.daum.net/v/20240425020007207",
+      "https://search.kyobobook.co.kr/search?keyword=%EB%A7%88%EB%A6%AC%EB%81%8C%EB%A0%88%EB%A5%B4+2024%EB%85%84+5%EC%9B%94%ED%98%B8"
     ],
     "media": {
       "type": "none"
@@ -2805,45 +2853,7 @@
       "celine"
     ],
     "verified": true,
-    "editor_note": "Sports Donga (2024-04-16) cover reveal; Marie Claire Korea pictorial #1 (2024-04-26, reference 2024年5月号) fetched. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: Marie Claire Korea's own site (celine-19, published 2024-04-26) confirms the Danielle x CELINE by Hedi Slimane pictorial for the May 2024 issue with credits photography Park Jong-ha, styling Choi Yu-mi; Sports Donga (2024-04-16 20:06 KST) reports the magazine revealed the May cover on its official SNS that day. The Instagram cover post itself was not located."
-  },
-  {
-    "id": "magazine-2024-05-01-elle-japon-2024-05-hyein",
-    "date": "2024-05-01",
-    "date_type": "publish",
-    "date_precision": "month",
-    "category": "magazine",
-    "entity": "newjeans",
-    "members": [
-      "hyein"
-    ],
-    "title": {
-      "ja": "ELLE JAPON 2024年5月号 表紙 — ヘイン × Louis Vuitton",
-      "en": "Elle Japon May 2024 cover - Hyein x Louis Vuitton"
-    },
-    "summary": {
-      "ja": "ルイ・ヴィトン アンバサダーのヘインが、シックなパリジェンヌスタイルで飾ったELLE JAPON 5月号の表紙。",
-      "en": "Louis Vuitton ambassador Hyein in chic Parisian style on the cover of Elle Japon's May 2024 issue."
-    },
-    "source_url": "https://m.etnews.com/20240315000060",
-    "reference_urls": [],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "japan",
-      "louis-vuitton"
-    ],
-    "verified": false,
-    "editor_note": "ELLE JAPON公式URL未確認。発売日未確認（通常3月末）。 / 電子新聞(2024-03-15)の報道に基づく。ELLE JAPON公式URL未確認。発売日（通常3月末）と撮影者は報道に記載なし。 / 2026-10-24 nightly: no Hearst Fujingaho / ELLE JAPON page for a Hyein May 2024 cover was found (search surfaces only other issues). Note for review: per data-policy the date should be the on-sale day; ELLE JAPON's May issue normally goes on sale at the end of March (June 2024 issue went on sale 04-26), so month 2024-05 is likely wrong once confirmed.",
-    "detail": {
-      "ja": "ハースト婦人画報社『ELLE JAPON』5月号の表紙で、カバーは3月15日にヘインの公式SNSで公開された。ルイ・ヴィトンとともに制作し、シックで優雅なパリジェンヌスタイルをコンセプトに、光沢のある黒いビスチェに流れるような白いスカートを合わせて柔らかさと強さを併せ持つ装いにした。",
-      "en": "The cover of Hearst Fujingaho's ELLE JAPON May issue, revealed on Hyein's official social media on March 15. Made with Louis Vuitton around a chic, elegant Parisian style, it paired a glossy black bustier with a flowing white skirt for a look combining softness and strength."
-    },
-    "credits": {
-      "publisher": "Hearst Fujingaho (ELLE JAPON)",
-      "brand": "Louis Vuitton"
-    }
+    "editor_note": "Sports Donga (2024-04-16) cover reveal; Marie Claire Korea pictorial #1 (2024-04-26, reference 2024年5月号) fetched. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: Marie Claire Korea's own site (celine-19, published 2024-04-26) confirms the Danielle x CELINE by Hedi Slimane pictorial for the May 2024 issue with credits photography Park Jong-ha, styling Choi Yu-mi; Sports Donga (2024-04-16 20:06 KST) reports the magazine revealed the May cover on its official SNS that day. The Instagram cover post itself was not located. / 2026-10-26 nightly: on-sale date 2024-04-23 per Kyobo: '마리끌레르(2024년 5월호)' A, B, C and D editions all have 출간일 2024-04-23, and the Kyobo cover images (pdt/3904000450483 A, 3904000450490 B, 3904000450506 C, 3904000450513 D) all show Danielle. The previous date 2024-04-16 was the SNS cover reveal reported by Sports Donga; reveal wording removed from detail."
   },
   {
     "id": "magazine-2024-05-02-harpers-bazaar-korea-2024-05-haerin-dior",
@@ -2908,7 +2918,7 @@
       },
       "brand": "Dior Joaillerie"
     },
-    "editor_note": "Only 'Photo: Harper's Bazaar' credited on the page; individual credits not shown. / 公式ページのクレジットは「Photo: Harper's Bazaar」のみで個別クレジットなし。 / 2026-10-17 review: harpersbazaar.co.kr/article/1864464 datePublished 2024-05-03T09:01+09:00. Candidate earlier release: Instagram C6ddU7RLE6y 2024-05-02 18:00 KST (namu). Instagram captions could not be read on 2026-10-17 (r.jina.ai blocked for instagram.com), so Instagram-only dates remain unconfirmed. / 2026-10-24 nightly (queue): Instagram oembedで@harpersbazaarkoreaの投稿C6ddU7RLE6y（media_id=2024-05-02 18:00:34 KST、「#MayIssue #DigitalCover PORTRAIT OF A GIRL」、Editor 서동범 / Photo 김희준 / Stylist 최유미 / Hair 오지혜 / Makeup 오가영 / Set design 전민규）を確認し、ウェブ記事（2024-05-03 09:01）より早い初出として日付を5月2日に変更、クレジットを追加。"
+    "editor_note": "Only 'Photo: Harper's Bazaar' credited on the page; individual credits not shown. / 公式ページのクレジットは「Photo: Harper's Bazaar」のみで個別クレジットなし。 / 2026-10-17 review: harpersbazaar.co.kr/article/1864464 datePublished 2024-05-03T09:01+09:00. Candidate earlier release: Instagram C6ddU7RLE6y 2024-05-02 18:00 KST (namu). Instagram captions could not be read on 2026-10-17 (r.jina.ai blocked for instagram.com), so Instagram-only dates remain unconfirmed. / 2026-10-24 nightly (queue): Instagram oembedで@harpersbazaarkoreaの投稿C6ddU7RLE6y（media_id=2024-05-02 18:00:34 KST、「#MayIssue #DigitalCover PORTRAIT OF A GIRL」、Editor 서동범 / Photo 김희준 / Stylist 최유미 / Hair 오지혜 / Makeup 오가영 / Set design 전민규）を確認し、ウェブ記事（2024-05-03 09:01）より早い初出として日付を5月2日に変更、クレジットを追加。 / 2026-10-26 nightly: on-sale date not applicable: this is BAZAAR Korea's May digital cover (#DigitalCover on Instagram); the full story was announced for the May print issue, but the record is the digital cover release. The magazine on-sale rule has nothing to apply to, so the date stays the digital/web publication date."
   },
   {
     "id": "magazine-2024-05-07-cosmopolitan-korea-hanni-gucci-beauty",
@@ -2937,7 +2947,7 @@
       "gucci-beauty"
     ],
     "verified": false,
-    "editor_note": "Cosmopolitan公式URL未確認。 | Cosmopolitan official page not located; credits unavailable. / Removed source mention from reader text: Sports Kyunghyang reported the release in the context of the agency dispute. / 2026-10-24 nightly: Cosmopolitan Korea's Instagram post and site article were not located (no shortcode in coverage); still press only.",
+    "editor_note": "Cosmopolitan公式URL未確認。 | Cosmopolitan official page not located; credits unavailable. / Removed source mention from reader text: Sports Kyunghyang reported the release in the context of the agency dispute. / 2026-10-24 nightly: Cosmopolitan Korea's Instagram post and site article were not located (no shortcode in coverage); still press only. / 2026-10-26 nightly: on-sale date not applicable: this is a Cosmopolitan Korea digital cover set released on Instagram; no print issue is named in the sources. The magazine on-sale rule has nothing to apply to, so the date stays the digital/web publication date.",
     "detail": {
       "ja": "18時にコスモポリタンの公式Instagramで公開された3種のデジタルカバー。ハニはブラッシュ ドゥ ボーテ、グロス ア レーヴル、ルージュ ア レーヴル ヴォワル、ルージュ ア レーヴル リキッド マットなどで5つのメイクルックを見せ、フレグランスのフローラ ゴージャス マグノリアも紹介された。所属事務所をめぐる内紛のさなかに公開された画報だった。",
       "en": "Three digital covers released at 18:00 on Cosmopolitan's official Instagram. Hanni showed five makeup looks using Blush de Beaute, Gloss a Levres, Rouge a Levres Voile and Rouge a Levres Liquid Matte, and the fragrance Flora Gorgeous Magnolia was also featured. The pictorial came out amid the dispute inside the group's agency."
@@ -2966,7 +2976,10 @@
       "en": "The Face's Summer 2024 cover, shot and creative-directed by Petra Collins as a vintage, dreamlike take on youth."
     },
     "source_url": "https://v.daum.net/v/20240529211342083",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://www.sportsseoul.com/news/read/1433333",
+      "https://www.spotvnews.co.kr/news/articleView.html?idxno=681959"
+    ],
     "media": {
       "type": "none"
     },
@@ -2974,7 +2987,7 @@
       "international"
     ],
     "verified": false,
-    "editor_note": "theface.comの記事URL未確認。発行日は聯合ニュース(2024-05-29)による。 | Photographer per kbizoom and The Fact (via ADOR announcement); theface.com article not fetched. / theface.comの記事URL未確認、記事本文未取得。発行日は聯合ニュース(2024-05-29)による。撮影者はkbizoomとThe Fact（ADOR発表経由）。ADORは5月30日に表紙起用を発表（記録日以降のため本文から除外）。 / 2026-10-24 nightly: theface.com article still not surfaced by search; no official date found.",
+    "editor_note": "theface.comの記事URL未確認。発行日は聯合ニュース(2024-05-29)による。 | Photographer per kbizoom and The Fact (via ADOR announcement); theface.com article not fetched. / theface.comの記事URL未確認、記事本文未取得。発行日は聯合ニュース(2024-05-29)による。撮影者はkbizoomとThe Fact（ADOR発表経由）。ADORは5月30日に表紙起用を発表（記録日以降のため本文から除外）。 / 2026-10-24 nightly: theface.com article still not surfaced by search; no official date found. / 2026-10-26 nightly: on-sale date kept at 2024-05-29. Korean press on 2024-05-30 citing ADOR (Sports Seoul 1433333, SPOTV News 681959) says NewJeans covered 'The Face' 2024 Summer Issue '29일 발간된' (published on the 29th). No shop page or newsstand date from The Face itself could be read (theface.com returned 404 to direct fetches; magCulture search empty), so verified stays false. Single NewJeans cover edition is not established either way.",
     "detail": {
       "ja": "英誌『The Face』2024年夏号（6月号）の表紙。撮影とクリエイティブディレクションはPetra Collinsで、ヴィンテージで夢のような青春のムードで撮影された。独占インタビューでハニは共同生活を長い修学旅行にたとえてメンバーの理解が深まったと語り、ミンジは世界中のファンの支えに感謝し、2022年に加わったヘリンは良い瞬間を楽しむことを学んだと話した。同誌はロラパルーザ・シカゴでの公演や、音源より先にMVを公開するリリース手法を「革命的」と評した。同号にはAlex Consaniのインタビュー、Little SimzとErykah Baduの対談、Skeptaの企画も載った。",
       "en": "The Summer 2024 (June) issue of the British magazine The Face. Petra Collins was both photographer and creative director, capturing a vintage, dreamlike take on youth. In the exclusive interview Hanni compared living together to a long school trip that brought the members closer, Minji thanked fans worldwide for their support, and Haerin, who joined in 2022, said she had learned to enjoy good moments. The magazine cited the Lollapalooza Chicago performance and called the group's practice of releasing music videos before the audio 'revolutionary'. The issue also carried an Alex Consani interview, a conversation between Little Simz and Erykah Badu, and a Skepta feature."
@@ -3015,7 +3028,7 @@
       "chanel"
     ],
     "verified": true,
-    "editor_note": "W Korea公式URL未確認。 | W Korea official page not located; credits unavailable. / Removed source mention from reader text: reported by Lady Kyunghyang on May 31, 2024. / 2026-10-17 review: W Korea web 2024-05-31 (editor Lee Hyun-jung; video Lim Jin-yeol, stylist Choi Yu-mi, hair Oh Ji-hye, makeup Lee Na-gyeom, nails Lim Mi-seong, set Choi Hun-hwa; sponsored by Chanel). Candidate earlier cover reveal: Instagram C7ljiXdv2fS 2024-05-30 18:00 KST (namu). Instagram captions could not be read on 2026-10-17 (r.jina.ai blocked for instagram.com), so Instagram-only dates remain unconfirmed.",
+    "editor_note": "W Korea公式URL未確認。 | W Korea official page not located; credits unavailable. / Removed source mention from reader text: reported by Lady Kyunghyang on May 31, 2024. / 2026-10-17 review: W Korea web 2024-05-31 (editor Lee Hyun-jung; video Lim Jin-yeol, stylist Choi Yu-mi, hair Oh Ji-hye, makeup Lee Na-gyeom, nails Lim Mi-seong, set Choi Hun-hwa; sponsored by Chanel). Candidate earlier cover reveal: Instagram C7ljiXdv2fS 2024-05-30 18:00 KST (namu). Instagram captions could not be read on 2026-10-17 (r.jina.ai blocked for instagram.com), so Instagram-only dates remain unconfirmed. / 2026-10-26 nightly: on-sale date not applicable as a sale date: the Seoul Jazz Festival special edition is not a bookshop item (Kyobo has no listing; the regular June issue W 2024 Volume 6 is listed A-P with 출간일 2024-05-22). The 2023 edition was handed out at the festival's W booth; for 2024 no distribution statement was found (W Korea's 2024-05-31 article only names Minji as the special-edition cover star). The record date 2024-05-31 is both W Korea's web release and the festival's opening day (festival 2024-05-31 to 06-02, press 2024-05-31/06-02), so it is left unchanged, consistent with the 2023 record moved to its festival opening day.",
     "detail": {
       "ja": "シャネル アンバサダーのミンジが、W Koreaの第16回ソウルジャズフェスティバル2024特別版の表紙を飾った。初夏の日差しの下で音楽を楽しむ姿を3つのバージョンで表現し、メイクはシャネルのル ブラン メイクアップ ベース ライト、レ ベージュ クッション、レ ベージュ パレット ルガール、N°1 DE CHANEL レッド カメリア リップ＆チーク バーム、ルージュ ココ ボームで仕上げた。画報は特別版と6月号に掲載され、デジタル映像はW Koreaのウェブサイト、Instagram、YouTubeで公開された。",
       "en": "Chanel ambassador Minji covered W Korea's 16th Seoul Jazz Festival 2024 special edition. The shoot showed her enjoying music in early-summer sunlight in three versions, with Chanel makeup including Le Blanc Makeup Base Light, the Les Beiges cushion, the Les Beiges Healthy Glow eyeshadow palette, the N°1 DE CHANEL Red Camellia Lip and Cheek Balm and Rouge Coco Baume. The spread ran in the special edition and the June 2024 issue, with digital videos on W Korea's website, Instagram and YouTube."
@@ -3026,10 +3039,10 @@
     }
   },
   {
-    "id": "magazine-2024-08-01-vogue-korea-2024-08-minji",
-    "date": "2024-08-01",
+    "id": "magazine-2024-07-24-vogue-korea-2024-08-minji",
+    "date": "2024-07-24",
     "date_type": "publish",
-    "date_precision": "month",
+    "date_precision": "day",
     "category": "magazine",
     "entity": "newjeans",
     "members": [
@@ -3044,7 +3057,9 @@
       "en": "Minji in Chanel's Fall-Winter pre-collection on Vogue Korea's August 2024 cover, talking about two years since debut and her Tokyo Dome solo stage."
     },
     "source_url": "https://m.etnews.com/20240724000107",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://search.kyobobook.co.kr/search?keyword=%EB%B3%B4%EA%B7%B8+2024%EB%85%84+8%EC%9B%94%ED%98%B8"
+    ],
     "media": {
       "type": "none"
     },
@@ -3052,7 +3067,7 @@
       "chanel"
     ],
     "verified": false,
-    "editor_note": "VOGUE Korea公式URL未確認。 | Vogue Korea official page not located; credits unavailable. / 2026-10-24 nightly: vogue.co.kr article not found by search; etnews (2024-07-24) remains the only source (ADOR released the pictorial on 07-24; full feature in the August issue). Note for review: the on-sale date of a Korean August issue is normally in late July, so month 2024-08 may need revisiting.",
+    "editor_note": "VOGUE Korea公式URL未確認。 | Vogue Korea official page not located; credits unavailable. / 2026-10-24 nightly: vogue.co.kr article not found by search; etnews (2024-07-24) remains the only source (ADOR released the pictorial on 07-24; full feature in the August issue). Note for review: the on-sale date of a Korean August issue is normally in late July, so month 2024-08 may need revisiting. / 2026-10-26 nightly: on-sale date 2024-07-24 per Kyobo: '보그(2024년 8월호)' is a single listing with 출간일 2024-07-24 (bundles 보그얼루어/보그지큐 also 07-24), the same day ADOR released Minji's pictorial. Date moved from month precision (2024-08). Cover fact NOT confirmed: the Kyobo cover image (pdt/3904000468747, viewed at 800px) shows two Irina Shayk covers by Philip-Daniel Ducasse ('be intellectual' / 'be delightful'), while several outlets on 07-24 say Minji '8월호 표지 장식' and others only '화보'. A separate Minji cover edition was not found on Kyobo, Yes24 or Aladin. verified stays false.",
     "detail": {
       "ja": "シャネル グローバルアンバサダーのミンジの表紙画報で、7月24日にADORが公開した。2024/25秋冬プレコレクションのデニムジャケット、レザーコート、マキシドレス、ロングブーツをシックに着こなし、クラシックなメイクと落ち着いた眼差しで撮影した。インタビューでミンジはデビュー2周年について、まだ見せていない姿が多く、グループでも個人でももっと多くのステージで好きな音楽を披露したいと語った。東京ドームのファンミーティングでのソロステージは当日のリハーサルまで演出に悩んだが、ステージに上がると体が自然に動いたと振り返った。全画報とインタビューは8月号に掲載された。",
       "en": "Chanel global ambassador Minji's cover pictorial, released by ADOR on July 24. She wore pieces from the Chanel 2024/25 Fall-Winter pre-collection, a denim jacket, leather coat, maxi dress and long boots, with classic makeup and a steady gaze. Marking the group's second anniversary, Minji said there was still much of herself people had not seen and that she wanted to perform her favorite music on more stages, with the group and on her own. Of her solo stage at the Tokyo Dome fan meeting, she said she had worried over the staging until that day's rehearsal, but once on stage her body moved on its own. The full pictorial and interview ran in the August issue."
@@ -3090,7 +3105,7 @@
       "international"
     ],
     "verified": false,
-    "editor_note": "POP公式URL未確認。発売月は京郷報道(2024-09-12)から推定。 | POP official page not located; photographer unconfirmed. / レディ京郷(2024-09-12)の報道に基づく。POP公式ページ未発見。発売月は同報道から推定。撮影者、コンセプト、他の表紙は報道に記載なし。 / 2026-10-24 nightly: POP's own page not surfaced; Lady Kyunghyang (2024-09-12) remains the only source.",
+    "editor_note": "POP公式URL未確認。発売月は京郷報道(2024-09-12)から推定。 | POP official page not located; photographer unconfirmed. / レディ京郷(2024-09-12)の報道に基づく。POP公式ページ未発見。発売月は同報道から推定。撮影者、コンセプト、他の表紙は報道に記載なし。 / 2026-10-24 nightly: POP's own page not surfaced; Lady Kyunghyang (2024-09-12) remains the only source. / 2026-10-26 nightly: on-sale date not found. No POP (Issue 51, Autumn/Winter 2024) shop, distributor or newsstand date was found (web search; Exact Editions lists POP but no dated Issue 51 entry could be read). Month precision 2024-09 (from Lady Kyunghyang 2024-09-12) kept.",
     "detail": {
       "ja": "ファッションエディターのAshley Heathが創刊した英ファッション誌『POP』のIssue 51で、セリーヌのグローバルアンバサダーであるダニエルが表紙を飾った。セリーヌのレザージャケットをフェミニンに着こなしたカットと、黒と白のタンクトップにミディアムサイズのティリーバッグを合わせたカジュアルなカットで構成し、夢幻的な眼差しが印象を決めた。",
       "en": "Danielle, Celine's global ambassador, covered Issue 51 of POP, the British fashion magazine founded by fashion editor Ashley Heath. The shoot paired a Celine leather jacket styled in a feminine way with a casual look of a black-and-white tank top and a medium Tilly bag, with a dreamy gaze setting the mood."
@@ -3099,50 +3114,6 @@
       "publisher": "POP Magazine",
       "brand": "Celine"
     }
-  },
-  {
-    "id": "magazine-2024-09-11-dazed-korea-music-issue-2024-hanni-gucci",
-    "date": "2024-09-11",
-    "date_type": "publish",
-    "date_precision": "day",
-    "category": "magazine",
-    "entity": "newjeans",
-    "members": [
-      "hanni"
-    ],
-    "title": {
-      "ja": "Dazed Korea 2024年ミュージック＆ミュージシャン号——ハニ×グッチ",
-      "en": "Dazed Korea 2024 Music & Musician issue - Hanni x Gucci"
-    },
-    "summary": {
-      "ja": "Dazed Koreaが、ハニとグッチによるグラビアとインタビューを公開した。2024年ミュージック＆ミュージシャン号に掲載。",
-      "en": "Dazed Korea released a pictorial and interview with Hanni and Gucci for its 2024 Music & Musician issue."
-    },
-    "detail": {
-      "ja": "Dazed Koreaが、グッチのグローバルブランドアンバサダーのハニとのグラビアを公開した。ハニはグッチ2024秋冬コレクションを着用。インタビューでは、デビュー2周年とグッチと歩んだ約2年を振り返り「グッチは私がほぼ初めて一緒に仕事をしたブランド」と語った。",
-      "en": "Dazed Korea released a pictorial with Hanni, a Gucci global brand ambassador, wearing Gucci's Fall/Winter 2024 collection. In the interview she looked back on her second debut anniversary and nearly two years with Gucci, calling it almost the first brand she had worked with."
-    },
-    "source_url": "https://dazedkorea.com/2024/09/13/%ed%9b%84-%ed%92%8d%ec%84%a0%ec%9d%84-%eb%b6%88%ec%9e%90-%eb%91%90%eb%91%a5%ec%8b%a4-%eb%b6%80%ed%92%80%ec%96%b4-%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%97%b4%ea%b8%b0%ea%b5%ac-%eb%96%a0%ec%98%a4%eb%a5%b4/",
-    "reference_urls": [
-      "https://v.daum.net/v/20240911162602289",
-      "https://v.daum.net/v/20240911134459537"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "image": {
-      "url": "https://dazedkorea.com/wp-content/uploads/2026/03/1579746-scaled.jpg",
-      "source_url": "https://dazedkorea.com/2024/09/13/%ed%9b%84-%ed%92%8d%ec%84%a0%ec%9d%84-%eb%b6%88%ec%9e%90-%eb%91%90%eb%91%a5%ec%8b%a4-%eb%b6%80%ed%92%80%ec%96%b4-%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%97%b4%ea%b8%b0%ea%b5%ac-%eb%96%a0%ec%98%a4%eb%a5%b4/"
-    },
-    "credits": {
-      "publisher": "Dazed Korea",
-      "brand": "Gucci"
-    },
-    "tags": [
-      "gucci"
-    ],
-    "verified": true,
-    "editor_note": "Newsis (2024-09-11) reveal; full pictorial posted on dazedkorea.com 2024-09-13 (fetched via WP API)."
   },
   {
     "id": "magazine-2024-09-11-harpers-bazaar-korea-2024-09-minji",
@@ -3191,7 +3162,52 @@
       },
       "brand": "Chanel Fine Jewelry"
     },
-    "editor_note": "Correction: source_url harpersbazaar.co.kr/article/1868565 resolves to an unrelated 2024-07-30 Louis Vuitton pop-up article; the correct article is harpersbazaar.co.kr/article/1870618 (2024-09-13). | source_url corrected to harpersbazaar.co.kr/article/1870618 / Cut for length: editor Kim Hyung-wook, video Publican, assistant Shin Yun-seo (editor and video retained in credits). Removed provenance: photographer credits and jewelry piece names are not shown on the page. / 2026-10-17 review: harpersbazaar.co.kr/article/1870081 published 2024-09-11T08:00+09:00 (Chanel Fine Jewelry N°5 pictorial with Minji, editor Hwang In-ae); 1870618 (2024-09-13 01:29) is the interview. namu date 2024-09-10 = Instagram C_u6OLHS9KX (19:17 KST) — possibly the true first release. Instagram captions could not be read on 2026-10-17 (r.jina.ai blocked for instagram.com), so Instagram-only dates remain unconfirmed."
+    "editor_note": "Correction: source_url harpersbazaar.co.kr/article/1868565 resolves to an unrelated 2024-07-30 Louis Vuitton pop-up article; the correct article is harpersbazaar.co.kr/article/1870618 (2024-09-13). | source_url corrected to harpersbazaar.co.kr/article/1870618 / Cut for length: editor Kim Hyung-wook, video Publican, assistant Shin Yun-seo (editor and video retained in credits). Removed provenance: photographer credits and jewelry piece names are not shown on the page. / 2026-10-17 review: harpersbazaar.co.kr/article/1870081 published 2024-09-11T08:00+09:00 (Chanel Fine Jewelry N°5 pictorial with Minji, editor Hwang In-ae); 1870618 (2024-09-13 01:29) is the interview. namu date 2024-09-10 = Instagram C_u6OLHS9KX (19:17 KST) — possibly the true first release. Instagram captions could not be read on 2026-10-17 (r.jina.ai blocked for instagram.com), so Instagram-only dates remain unconfirmed. / 2026-10-26 nightly: on-sale date not applicable: this is BAZAAR Korea's September digital cover (Chanel Fine Jewelry) with a web/video interview; no print cover. The magazine on-sale rule has nothing to apply to, so the date stays the digital/web publication date."
+  },
+  {
+    "id": "magazine-2024-09-19-dazed-korea-music-issue-2024-hanni-gucci",
+    "date": "2024-09-19",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "hanni"
+    ],
+    "title": {
+      "ja": "Dazed Korea 2024年10月号 ミュージック＆ミュージシャン号 表紙——ハニ×グッチ",
+      "en": "Dazed Korea October 2024 Music & Musician issue cover - Hanni x Gucci"
+    },
+    "summary": {
+      "ja": "ハニがグッチの2024秋冬コレクションで6種すべての表紙を飾った、Dazed Korea 2024年ミュージック＆ミュージシャン号。",
+      "en": "Hanni in Gucci Fall/Winter 2024 on all six covers of Dazed Korea's 2024 Music & Musician issue."
+    },
+    "detail": {
+      "ja": "Dazed Koreaの2024年10月号ミュージック＆ミュージシャン号で、グッチのグローバルブランドアンバサダーのハニがA〜Fの6種の表紙を飾った。ハニはグッチ2024秋冬コレクションを着用。インタビューでは、デビュー2周年とグッチと歩んだ約2年を振り返り「グッチは私がほぼ初めて一緒に仕事をしたブランド」と語った。",
+      "en": "Hanni, a Gucci global brand ambassador, fronted all six covers (A-F) of Dazed Korea's October 2024 Music & Musician issue, wearing Gucci's Fall/Winter 2024 collection. In the interview she looked back on her second debut anniversary and nearly two years with Gucci, calling it almost the first brand she had worked with."
+    },
+    "source_url": "https://dazedkorea.com/2024/09/13/%ed%9b%84-%ed%92%8d%ec%84%a0%ec%9d%84-%eb%b6%88%ec%9e%90-%eb%91%90%eb%91%a5%ec%8b%a4-%eb%b6%80%ed%92%80%ec%96%b4-%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%97%b4%ea%b8%b0%ea%b5%ac-%eb%96%a0%ec%98%a4%eb%a5%b4/",
+    "reference_urls": [
+      "https://v.daum.net/v/20240911162602289",
+      "https://v.daum.net/v/20240911134459537",
+      "https://search.kyobobook.co.kr/search?keyword=%EB%8D%B0%EC%9D%B4%EC%A6%88%EB%93%9C+2024%EB%85%84+10%EC%9B%94%ED%98%B8"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://dazedkorea.com/wp-content/uploads/2026/03/1579746-scaled.jpg",
+      "source_url": "https://dazedkorea.com/2024/09/13/%ed%9b%84-%ed%92%8d%ec%84%a0%ec%9d%84-%eb%b6%88%ec%9e%90-%eb%91%90%eb%91%a5%ec%8b%a4-%eb%b6%80%ed%92%80%ec%96%b4-%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%97%b4%ea%b8%b0%ea%b5%ac-%eb%96%a0%ec%98%a4%eb%a5%b4/"
+    },
+    "credits": {
+      "publisher": "Dazed Korea",
+      "brand": "Gucci"
+    },
+    "tags": [
+      "gucci"
+    ],
+    "verified": true,
+    "editor_note": "Newsis (2024-09-11) reveal; full pictorial posted on dazedkorea.com 2024-09-13 (fetched via WP API). / 2026-10-26 nightly: on-sale date 2024-09-19 per Kyobo: '데이즈드 앤 컨퓨즈드 뮤직앤뮤지션(2024년 10월호)' A-F all have 출간일 2024-09-19, and the Kyobo cover images (pdt/3904000478715-3904000478760) all show Hanni (the D and E covers carry her name), so she is the cover star of every edition. The regular October issue is a separate listing (09-27) and the Fall Edition another (10-07). Previous date 2024-09-11 was the Newsis reveal; title now names the issue month and the covers, reveal framing removed from summary/detail. The dazedkorea.com web article (09-13) is earlier than the new date."
   },
   {
     "id": "magazine-2024-10-01-elle-korea-d-edition-calvin-klein",
@@ -3213,7 +3229,9 @@
       "en": "All five with Calvin Klein reinterpreting 1990s minimalism on Elle Korea's D Edition cover, with member interviews in the November issue."
     },
     "source_url": "https://www.elle.co.kr/article/1871186",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://search.kyobobook.co.kr/search?keyword=%EC%97%98%EB%A5%B4+2024%EB%85%84+11%EC%9B%94%ED%98%B8"
+    ],
     "media": {
       "type": "none"
     },
@@ -3222,8 +3240,8 @@
     ],
     "verified": true,
     "detail": {
-      "ja": "5人全員とカルバン・クラインによる「ELLE D Edition」の表紙。1990年代ミニマリズムの再解釈をコンセプトに、デジタルカバー、ムービングカバー、ファッションフィルム、映像インタビューがウェブとSNSで公開され、未公開カットと個別インタビューは11月号に掲載された。ミンジは『Supernatural』が正式な日本デビューシングルで音楽もダンスもグループに合っていたと語り、ダニエルは6月のBunnies Camp 2024 Tokyo Domeで初披露した自作曲「Butterflies」について、ハニは東京ドームでのファンの写真に感動したこと、ヘインは負傷から『Supernatural』活動の終盤に合流したこと、ヘリンはステージ前の円陣について話した。",
-      "en": "A full-group cover for the digital project 'ELLE D Edition', a collaboration between all five members and Calvin Klein. The concept reinterpreted 1990s minimalism; the digital and moving covers, a fashion film and a video interview went out on Elle's website and social channels, with unreleased images and individual interviews in the November issue. Minji said Supernatural was the group's official Japanese debut single and suited them in music and dance, Danielle spoke about her self-written song 'Butterflies', first performed at Bunnies Camp 2024 Tokyo Dome in June, Hanni about being moved by fan photos from the Tokyo Dome stage, Hyein about rejoining near the end of the Supernatural promotions after an injury, and Haerin about the pre-stage team huddle."
+      "ja": "5人全員とカルバン・クラインによる「ELLE D Edition」の表紙。1990年代ミニマリズムの再解釈をコンセプトに、デジタルカバー、ムービングカバー、ファッションフィルム、映像インタビューがウェブとSNSで公開され、SNSで公開されないカットと全メンバーの個別インタビューは11月号に掲載されると案内された。ミンジは『Supernatural』が正式な日本デビューシングルで音楽もダンスもグループに合っていたと語り、ダニエルは6月のBunnies Camp 2024 Tokyo Domeで初披露した自作曲「Butterflies」について、ハニは東京ドームでのファンの写真に感動したこと、ヘインは負傷から『Supernatural』活動の終盤に合流したこと、ヘリンはステージ前の円陣について話した。",
+      "en": "A full-group cover for the digital project 'ELLE D Edition', a collaboration between all five members and Calvin Klein. The concept reinterpreted 1990s minimalism; the digital and moving covers, a fashion film and a video interview went out on Elle's website and social channels, with more images and every member's individual interview announced for the November issue. Minji said Supernatural was the group's official Japanese debut single and suited them in music and dance, Danielle spoke about her self-written song 'Butterflies', first performed at Bunnies Camp 2024 Tokyo Dome in June, Hanni about being moved by fan photos from the Tokyo Dome stage, Hyein about rejoining near the end of the Supernatural promotions after an injury, and Haerin about the pre-stage team huddle."
     },
     "credits": {
       "publisher": "Elle Korea (Hearst JoongAng)",
@@ -3257,7 +3275,7 @@
       },
       "brand": "Calvin Klein"
     },
-    "editor_note": "Cut for length: fashion editor Kang Min-ji, photographer Song Si-young, stylist Choi Yu-mi, hair Lee Hye-jin, makeup Lee Na-gyeom, set Hwang Seo-in (retained in credits)."
+    "editor_note": "Cut for length: fashion editor Kang Min-ji, photographer Song Si-young, stylist Choi Yu-mi, hair Lee Hye-jin, makeup Lee Na-gyeom, set Hwang Seo-in (retained in credits). / 2026-10-26 nightly: on-sale date not applicable: this is Elle Korea's digital 'D Edition' cover (the 2024-10-01 article: 'the digital project launched for web and social media audiences'). The magazine on-sale rule has nothing to apply to, so the date stays the digital/web publication date. The November 2024 print issue went on sale later (Kyobo 엘르(ELLE)(2024년 11월호) A-L, 출간일 2024-11-05), so the detail now says the November-issue content was announced ('<엘르> 11월호에 특별히 게재될 예정'), not that it ran. The member quotes in the detail are in the 10-01 article itself (re-read 2026-10-26)."
   },
   {
     "id": "magazine-2024-10-01-marie-claire-korea-2024-10-minji",
@@ -3319,122 +3337,11 @@
       },
       "brand": "Chanel Beauty"
     },
-    "editor_note": "公式記事のキーワード欄にルージュ アリュール ヴェルヴェットが挙げられている。公開日の詳細は未確認（月精度）。 / Cut for length: photography Ahn Ju-young, makeup Lee Na-gyeom, hair Lee Hye-jin, styling Choi Yu-mi, nails Kim Su-ji (retained in credits), prop styling Lee Ye-seul.",
+    "editor_note": "公式記事のキーワード欄にルージュ アリュール ヴェルヴェットが挙げられている。公開日の詳細は未確認（月精度）。 / Cut for length: photography Ahn Ju-young, makeup Lee Na-gyeom, hair Lee Hye-jin, styling Choi Yu-mi, nails Kim Su-ji (retained in credits), prop styling Lee Ye-seul. / 2026-10-26 nightly: on-sale date not applicable: this is Marie Claire Korea's October digital cover (Chanel Beauty); no print cover. The magazine on-sale rule has nothing to apply to, so the date stays the digital/web publication date.",
     "image": {
       "url": "https://img.marieclairekorea.com/2024/09/mck_66faafda3601d-1200x1467.jpg",
       "source_url": "https://www.marieclairekorea.com/beauty/2024/10/chanel-newjeans-minji-cover/"
     }
-  },
-  {
-    "id": "magazine-2024-10-11-esquire-korea-danielle-celine",
-    "date": "2024-10-11",
-    "date_type": "publish",
-    "date_precision": "day",
-    "category": "magazine",
-    "entity": "newjeans",
-    "members": [
-      "danielle"
-    ],
-    "title": {
-      "ja": "Esquire Korea 2024年11月号 表紙——ダニエル×セリーヌ",
-      "en": "Esquire Korea November 2024 cover - Danielle x Celine"
-    },
-    "summary": {
-      "ja": "セリーヌのグローバルアンバサダーのダニエルが、セリーヌのルックでEsquire Korea 2024年11月号の表紙を飾った。",
-      "en": "Celine global ambassador Danielle covered Esquire Korea's November 2024 issue in Celine."
-    },
-    "detail": {
-      "ja": "Esquire Korea 2024年11月号（No.350）の表紙をダニエルが飾り、Esquire KoreaのInstagramでカバーが公開された。1960年代に着想を得たセリーヌの「ラ コレクシオン ドゥ ラルク ドゥ トリオンフ」をまとい、クラシックなピルボックス帽と真珠のイヤリングで笑顔を見せた。エディターはキム・ユジン、撮影はイ・ジュンギョン。",
-      "en": "Danielle covered Esquire Korea's November 2024 issue (No. 350), revealed on Esquire Korea's Instagram. Dressed in Celine's 1960s-inspired 'La Collection de l'Arc de Triomphe', she smiled in a classic pillbox hat and pearl earrings. Editor Kim Yu-jin, photography by Lee Jun-kyung."
-    },
-    "source_url": "https://www.instagram.com/p/DA-YXFivv9V/",
-    "reference_urls": [
-      "https://www.instagram.com/p/DA-YXFivv9V/",
-      "https://www.esquirekorea.co.kr/article/1871951",
-      "https://www.esquirekorea.co.kr/article/1871952",
-      "https://v.daum.net/v/20241021172110325",
-      "https://v.daum.net/v/20241021170105374"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "image": {
-      "url": "https://t1.daumcdn.net/news/202410/21/10asia/20241021170106589rbzh.jpg",
-      "source_url": "https://v.daum.net/v/20241021170105374"
-    },
-    "credits": {
-      "publisher": "Esquire Korea",
-      "editor": {
-        "ja": "キム・ユジン",
-        "en": "Kim Yu-jin"
-      },
-      "photographer": {
-        "ja": "イ・ジュンギョン",
-        "en": "Lee Jun-kyung"
-      },
-      "stylist": {
-        "ja": "チェ・ユミ",
-        "en": "Choi Yu-mi"
-      },
-      "hair": {
-        "ja": "オ・ジヘ",
-        "en": "Oh Ji-hye"
-      },
-      "makeup": {
-        "ja": "イ・ナギョム",
-        "en": "Lee Na-gyeom"
-      },
-      "brand": "Celine"
-    },
-    "tags": [
-      "celine"
-    ],
-    "verified": true,
-    "editor_note": "Star Today and Tenasia (2024-10-21). Issue month not stated (likely November 2024). / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-17 review: esquirekorea.co.kr/article/1871951 (Park Se-hoe, 2024-10-21T08:00+09:00, interview) and 1871952 (Kim Yu-jin, 14:00, fashion; Celine by Hedi Slimane looks). namu: November 2024 issue cover, Instagram DA-YXFivv9V 2024-10-11 16:00 KST — if confirmed as Esquire's cover reveal, the date should move to 10-11. Instagram captions could not be read on 2026-10-17 (r.jina.ai blocked for instagram.com), so Instagram-only dates remain unconfirmed. / 2026-10-24 nightly (queue): Instagram oembedで@esquire.koreaの投稿DA-YXFivv9V（media_id=2024-10-11 16:00:28 KST）を確認。サムネイルは「Esquire KOREA EDITION NOVEMBER 2024 / NO. 350」のロゴ入り表紙で、本文はセリーヌ「La Collection de L'arc de Triomphe」、Editor 김유진 / Photographer 이준경 / Stylist 최유미 / Hair 오지혜 / Makeup 이나겸。カバー公開日として日付を10月21日から11日に変更。旧本文のアートホールでの撮影とインタビュー発言は10月21日のウェブ記事で出たものなので本文から外した（ウェブ記事はreference_urlsに残す）。"
-  },
-  {
-    "id": "magazine-2024-10-15-dazed-korea-2024-11-minji-chanel",
-    "date": "2024-10-15",
-    "date_type": "publish",
-    "date_precision": "day",
-    "category": "magazine",
-    "entity": "newjeans",
-    "members": [
-      "minji"
-    ],
-    "title": {
-      "ja": "Dazed Korea 2024年11月号 表紙——ミンジ×シャネル",
-      "en": "Dazed Korea November 2024 cover - Minji x Chanel"
-    },
-    "summary": {
-      "ja": "Dazed Koreaが11月号の表紙ラインナップを公開し、ミンジがシャネル2024/25クルーズコレクションで表紙を飾った。",
-      "en": "Dazed Korea revealed its November covers, including Minji in Chanel's 2024/25 Cruise collection."
-    },
-    "detail": {
-      "ja": "Dazed Koreaが11月号のカバーラインナップを公開し、ミンジが表紙の一人に名を連ねた。グラビアでは、シャネルのアンバサダーとして2024/25クルーズコレクションを着用した。インタビューでは「どこに出しても恥ずかしくない存在になりたい」とファンへの思いを語った。",
-      "en": "Dazed Korea revealed its November cover lineup, with Minji among the cover stars. In the pictorial she wears Chanel's 2024/25 Cruise collection as a brand ambassador, and in the interview she said that seeing her fans made her want to become someone they could be proud of anywhere."
-    },
-    "source_url": "https://dazedkorea.com/2024/10/15/11%ec%9b%94%ed%98%b8-%ec%bb%a4%eb%b2%84/",
-    "reference_urls": [
-      "https://dazedkorea.com/2024/10/18/%ec%83%a4%eb%84%ac-2024-25-%ed%81%ac%eb%a3%a8%ec%a6%88-%ec%bb%ac%eb%a0%89%ec%85%98%ec%9d%84-%ec%9e%85%ec%9d%80-%ec%95%b0%eb%b0%b0%ec%84%9c%eb%8d%94-%eb%af%bc%ec%a7%80%ea%b0%80-%eb%aa%a8%eb%93%a0/",
-      "https://v.daum.net/v/20241018192344809"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "image": {
-      "url": "https://dazedkorea.com/wp-content/uploads/2026/03/6349363-scaled.jpg",
-      "source_url": "https://dazedkorea.com/2024/10/18/%ec%83%a4%eb%84%ac-2024-25-%ed%81%ac%eb%a3%a8%ec%a6%88-%ec%bb%ac%eb%a0%89%ec%85%98%ec%9d%84-%ec%9e%85%ec%9d%80-%ec%95%b0%eb%b0%b0%ec%84%9c%eb%8d%94-%eb%af%bc%ec%a7%80%ea%b0%80-%eb%aa%a8%eb%93%a0/"
-    },
-    "credits": {
-      "publisher": "Dazed Korea",
-      "brand": "Chanel"
-    },
-    "tags": [
-      "chanel"
-    ],
-    "verified": true,
-    "editor_note": "Publisher posts fetched via dazedkorea.com WP API (cover list 2024-10-15, pictorial 2024-10-18). / 2026-10-23 nightly: Dazed Korea公式（WP API、2024-10-15 03:03）の「11월호 커버」投稿で表紙公開と予約受付（kr-shop.dazedkorea.com）を確認。Weverse Shopの発行日2024-10-30は今回再取得できず。data-policyの「発売日」に従えば10-30、出版社の表紙公開・予約開始なら10-15で、方針の選択が必要。"
   },
   {
     "id": "magazine-2024-10-17-hommegirls-volume-12",
@@ -3478,11 +3385,76 @@
       "kiko-kostadinov"
     ],
     "verified": true,
-    "editor_note": "Magazine identified as HommeGirls from its official Instagram post DBM-NFNtPRp (account and caption read via reader), 2024-10-17 08:00 KST; namu's table left the title blank. No hommegirls.com product page for Volume 12 was found. Caption credits '@mrthakoon' (editor in chief) and story by @dianadiagram (Olivia Kan-Sperling per caption text).",
+    "editor_note": "Magazine identified as HommeGirls from its official Instagram post DBM-NFNtPRp (account and caption read via reader), 2024-10-17 08:00 KST; namu's table left the title blank. No hommegirls.com product page for Volume 12 was found. Caption credits '@mrthakoon' (editor in chief) and story by @dianadiagram (Olivia Kan-Sperling per caption text). / 2026-10-26 nightly: on-sale date not found. The HommeGirls shop (hommegirls.com products feed, read 2026-10-26) no longer lists Volume 12 (Volume 13 and 16 are listed); web search found no release or stockist date. The issue is a seasonal volume with no month on its cover, so there is no issue month to fall back to; the date stays at the 2024-10-17 Instagram announcement (DBM-NFNtPRp), as with Flaunt 189.",
     "image": {
       "url": "https://www.instagram.com/p/DBM-NFNtPRp/media/?size=l",
       "source_url": "https://www.instagram.com/p/DBM-NFNtPRp/"
     }
+  },
+  {
+    "id": "magazine-2024-10-21-marie-claire-korea-2024-11-haerin",
+    "date": "2024-10-21",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "marie claire Korea 2024年11月号 表紙 — ヘリン × Dior Joaillerie",
+      "en": "Marie Claire Korea November 2024 cover - Haerin x Dior Joaillerie",
+      "original": "마리끌레르 11월호 커버를 장식한 해린과 디올"
+    },
+    "summary": {
+      "ja": "ヘリンとディオールの「限りなく特別な出会い」をテーマにした、マリ・クレール コリア11月号の表紙。",
+      "en": "Haerin and Dior's 'endlessly special encounter' on Marie Claire Korea's November 2024 cover."
+    },
+    "source_url": "https://www.marieclairekorea.com/fashion/2024/10/dior-21",
+    "reference_urls": [
+      "https://www.marieclairekorea.com/?p=399224",
+      "https://search.kyobobook.co.kr/search?keyword=%EB%A7%88%EB%A6%AC%EB%81%8C%EB%A0%88%EB%A5%B4+2024%EB%85%84+11%EC%9B%94%ED%98%B8"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "dior"
+    ],
+    "verified": true,
+    "detail": {
+      "ja": "10月11日に発表された、ディオールのジュエリーを身に着けたヘリンの11月号表紙。ヘリンとディオールの「限りなく特別な出会い」をテーマに、記事は「輝き、燦然として美しいものは時に目に見えず、言葉で説明しがたい」という一文で始まる。ファッションディレクターのJung Pyeong-hwaが担当し、撮影はKo Won-tae。",
+      "en": "Haerin's November cover in Dior jewelry, announced October 11. Themed as an endlessly special encounter between Haerin and Dior, the article opens with a line about how what sparkles and is beautiful is sometimes invisible and hard to put into words. Fashion director Jung Pyeong-hwa handled the feature, with photography by Ko Won-tae."
+    },
+    "credits": {
+      "publisher": "Marie Claire Korea (MCK Publishing)",
+      "fashion_director": {
+        "ja": "チョン・ピョンファ",
+        "en": "Jung Pyeong-hwa"
+      },
+      "photographer": {
+        "ja": "コ・ウォンテ",
+        "en": "Ko Won-tae"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "オ・ジヘ",
+        "en": "Oh Ji-hye"
+      },
+      "makeup": {
+        "ja": "イ・ナギョム",
+        "en": "Lee Na-gyeom"
+      },
+      "nails": {
+        "ja": "チェ・ジスク",
+        "en": "Choi Ji-suk"
+      },
+      "brand": "Dior Joaillerie"
+    },
+    "editor_note": "公式ページには画像4点。カバーの種類数は明記なし。 / Cut for length: styling Choi Yu-mi, hair Oh Ji-hye, makeup Lee Na-gyeom, nails Choi Ji-suk (retained in credits). / 2026-10-26 nightly: on-sale date 2024-10-21 per Kyobo: '마리끌레르(2024년 11월호)' A, B, C and D all have 출간일 2024-10-21 (Maison bundle 10-24), and the Kyobo cover images (pdt/3904000486864-3904000486895) all show Haerin. Date moved from month precision (2024-11). The cover announcement of 10-11 stays in detail as an earlier fact."
   },
   {
     "id": "magazine-2024-10-23-w-korea-hyeins-wonderland",
@@ -3539,155 +3511,55 @@
       "w-korea"
     ],
     "verified": true,
-    "editor_note": "W Korea page (?p=328373) read via WebFetch: dated 2024-10-23. namu lists it as November 2024 issue (수록); the page does not say. The namu reference link (ELLE Japan reel C5CedN9OIrf) belongs to a different Hyein feature. Show attendance is live-2024-10-01-hyein-louis-vuitton-ss25-paris."
+    "editor_note": "W Korea page (?p=328373) read via WebFetch: dated 2024-10-23. namu lists it as November 2024 issue (수록); the page does not say. The namu reference link (ELLE Japan reel C5CedN9OIrf) belongs to a different Hyein feature. Show attendance is live-2024-10-01-hyein-louis-vuitton-ss25-paris. / 2026-10-26 nightly: on-sale date not applicable: this is a W Korea web pictorial; the page names no print issue (namu's November-issue attribution is not on the publisher's page). The magazine on-sale rule has nothing to apply to, so the date stays the digital/web publication date."
   },
   {
-    "id": "magazine-2024-10-25-billboard-korea-billboard-artist-no1",
-    "date": "2024-10-25",
+    "id": "magazine-2024-10-24-esquire-korea-danielle-celine",
+    "date": "2024-10-24",
     "date_type": "publish",
     "date_precision": "day",
     "category": "magazine",
     "entity": "newjeans",
     "members": [
-      "all"
+      "danielle"
     ],
     "title": {
-      "ja": "Billboard Korea『Billboard Artist』創刊号 表紙",
-      "en": "Billboard Korea 'Billboard Artist' inaugural issue cover"
+      "ja": "Esquire Korea 2024年11月号 表紙——ダニエル×セリーヌ",
+      "en": "Esquire Korea November 2024 cover - Danielle x Celine"
     },
     "summary": {
-      "ja": "煙の中で木に寄りかかる5人を写した、Billboard Koreaの新雑誌『Billboard Artist』創刊号の表紙。",
-      "en": "The members leaning on a tree in billowing smoke, on the first issue of Billboard Korea's new magazine Billboard Artist."
+      "ja": "セリーヌのグローバルアンバサダーのダニエルが、セリーヌのルックでEsquire Korea 2024年11月号の表紙を飾った。",
+      "en": "Celine global ambassador Danielle covered Esquire Korea's November 2024 issue in Celine."
     },
-    "source_url": "https://www.koreajoongangdaily.com/entertainment/newjeans-will-cover-inaugural-billboard-artist-magazine/11980743",
+    "detail": {
+      "ja": "Esquire Korea 2024年11月号（No.350）の表紙をダニエルが飾り、カバーは10月11日にEsquire KoreaのInstagramで公開された。1960年代に着想を得たセリーヌの「ラ コレクシオン ドゥ ラルク ドゥ トリオンフ」をまとい、クラシックなピルボックス帽と真珠のイヤリングで笑顔を見せた。エディターはキム・ユジン、撮影はイ・ジュンギョン。",
+      "en": "Danielle covered Esquire Korea's November 2024 issue (No. 350); the cover was revealed on Esquire Korea's Instagram on October 11. Dressed in Celine's 1960s-inspired 'La Collection de l'Arc de Triomphe', she smiled in a classic pillbox hat and pearl earrings. Editor Kim Yu-jin, photography by Lee Jun-kyung."
+    },
+    "source_url": "https://www.instagram.com/p/DA-YXFivv9V/",
     "reference_urls": [
-      "https://v.daum.net/v/20241010181654135"
+      "https://www.instagram.com/p/DA-YXFivv9V/",
+      "https://www.esquirekorea.co.kr/article/1871951",
+      "https://www.esquirekorea.co.kr/article/1871952",
+      "https://v.daum.net/v/20241021172110325",
+      "https://v.daum.net/v/20241021170105374",
+      "https://search.kyobobook.co.kr/search?keyword=%EC%97%90%EC%8A%A4%EC%BD%B0%EC%9D%B4%EC%96%B4+2024%EB%85%84+11%EC%9B%94%ED%98%B8"
     ],
     "media": {
       "type": "none"
     },
-    "tags": [],
-    "verified": false,
-    "editor_note": "Billboard Korea公式URL未確認。発売日は中央日報(2024-10-10)による。 / 中央日報英語版(2024-10-10)の報道に基づく。Billboard Korea公式URL未確認。写真キャプションでは「アートブック」とも表記。ページ数と価格は報道に記載なし。 / 2026-10-24 nightly: not confirmed. Korea JoongAng Daily (2024-10-10) only says the issue was 'set to be released on Oct. 25' per the company; Billboard Korea's site is JS-rendered (search and WP API return nothing) and no post-release report found. Left unverified.",
-    "detail": {
-      "ja": "Billboard Koreaが創刊した雑誌『Billboard Artist』第1号の表紙。Elina Kechichevaが撮影し、立ちのぼる煙の中でメンバーが木に寄りかかる構図をとった。誌面ではNewJeansの音楽産業への影響を1980年代ミラノの若者文化「パニナリ」と比べるエディトリアルを載せ、Billboard Koreaのクリエイティブディレクター李宇（Woo Lee）は、NewJeansには過去への郷愁を呼び起こす独特の力があるとコメントした。",
-      "en": "The cover of the first issue of Billboard Korea's new magazine Billboard Artist. Photographed by Elina Kechicheva, it shows the members leaning against a tree amid billowing smoke. An editorial compared the group's impact on the music industry with the 'Paninari' youth culture of 1980s Milan, and Billboard Korea creative director Woo Lee said NewJeans has a unique ability to evoke nostalgia for the past."
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202410/21/10asia/20241021170106589rbzh.jpg",
+      "source_url": "https://v.daum.net/v/20241021170105374"
     },
     "credits": {
-      "publisher": "Billboard Korea",
-      "photographer": "Elina Kechicheva",
-      "creative_director": "Woo Lee"
-    }
-  },
-  {
-    "id": "magazine-2024-11-01-elle-korea-2024-11-super-elle-beauty-haerin",
-    "date": "2024-11-01",
-    "date_type": "publish",
-    "date_precision": "month",
-    "category": "magazine",
-    "entity": "newjeans",
-    "members": [
-      "haerin"
-    ],
-    "title": {
-      "ja": "ELLE Korea 2024年11月号（創刊32周年）『super ELLE beauty』ブック・イン・ブック表紙 — ヘリン × Dior Beauty",
-      "en": "Elle Korea November 2024 (32nd anniversary) 'super ELLE beauty' book-in-book cover - Haerin x Dior Beauty",
-      "original": "뉴진스 해린, 디올 뷰티와 함께한 홀리데이 화보"
-    },
-    "summary": {
-      "ja": "ディオール ビューティーのヘリンが、金と星明かりの冬のおとぎ話をテーマに飾った創刊32周年号の「super ELLE beauty」表紙。",
-      "en": "Dior Beauty's Haerin on the 'super ELLE beauty' cover of Elle Korea's 32nd-anniversary issue, a winter fairy-tale ball in gold and starlight."
-    },
-    "source_url": "https://www.elle.co.kr/article/1871976",
-    "reference_urls": [],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "dior-beauty"
-    ],
-    "verified": true,
-    "detail": {
-      "ja": "創刊32周年記念の11月号のビューティー特別企画「super ELLE beauty」のブック・イン・ブック表紙で、10月21日に公開された。テーマは金と星明かりに輝く冬のおとぎ話の舞踏会。クローズアップのカバーは2024ディオール ホリデー メイクアップ コレクション（11月1日発売）のゴールドとピーチのアイシャドウにコーラルピンクのリップ、青い銀河を背景にしたデジタル限定カバーはディオール バックステージ ホリデー コレクション（10月17日発売）で仕上げた。ヘリンはホリデーコレクションを通して自分のさまざまな面を見せられることにときめくと語った。全画報とビューティーフィルムは11月号とELLEの公式サイト・SNSで公開された。",
-      "en": "Dior Beauty house ambassador Haerin on the book-in-book cover of 'super ELLE beauty', the beauty project of the 32nd-anniversary November issue, published October 21. The theme was a winter fairy-tale ball glowing with gold and starlight: the close-up cover used gold and peach eyeshadow with coral-pink lips from the 2024 Dior Holiday Makeup Collection (released November 1), while a digital-only cover against a blue galaxy used the Dior Backstage Holiday Collection (released October 17). Haerin said she was excited to show different sides of herself through the holiday collection. The full story and beauty film ran in the November issue and on Elle's website and social channels."
-    },
-    "credits": {
-      "publisher": "Elle Korea (Hearst JoongAng)",
-      "beauty_editor": {
-        "ja": "チョン・ユンジ",
-        "en": "Jeong Yoon-ji"
+      "publisher": "Esquire Korea",
+      "editor": {
+        "ja": "キム・ユジン",
+        "en": "Kim Yu-jin"
       },
       "photographer": {
-        "ja": "コ・ウォンテ",
-        "en": "Ko Won-tae"
-      },
-      "stylist": {
-        "ja": "チェ・ユミ",
-        "en": "Choi Yu-mi"
-      },
-      "hair": {
-        "ja": "イ・ヘジン",
-        "en": "Lee Hye-jin"
-      },
-      "makeup": {
-        "ja": "イ・ソル",
-        "en": "Lee Sol"
-      },
-      "set_stylist": {
-        "ja": "クォン・ドヒョン（Ondoh）",
-        "en": "Kwon Do-hyung (Ondoh)"
-      },
-      "nails": {
-        "ja": "イム・ミソン",
-        "en": "Im Mi-sung"
-      },
-      "brand": "Dior Beauty"
-    },
-    "editor_note": "ELLE公式記事(2024-10-21)に基づく。記事中のブランド関係者コメント（ディオール ビューティーの高級感が完璧に表現された）は本文から省略。クレジット（정윤지、고원태、이혜진、이솔、최유미）はcredits欄に記載。 / Cut for length: article title 'NewJeans Haerin, a holiday pictorial with Dior Beauty' (in title.original); beauty editor Jeong Yoon-ji, photographer Ko Won-tae, hair Lee Hye-jin, makeup Lee Sol, stylist Choi Yu-mi (retained in credits)."
-  },
-  {
-    "id": "magazine-2024-11-01-marie-claire-korea-2024-11-haerin",
-    "date": "2024-11-01",
-    "date_type": "publish",
-    "date_precision": "month",
-    "category": "magazine",
-    "entity": "newjeans",
-    "members": [
-      "haerin"
-    ],
-    "title": {
-      "ja": "marie claire Korea 2024年11月号 表紙 — ヘリン × Dior Joaillerie",
-      "en": "Marie Claire Korea November 2024 cover - Haerin x Dior Joaillerie",
-      "original": "마리끌레르 11월호 커버를 장식한 해린과 디올"
-    },
-    "summary": {
-      "ja": "ヘリンとディオールの「限りなく特別な出会い」をテーマにした、マリ・クレール コリア11月号の表紙。",
-      "en": "Haerin and Dior's 'endlessly special encounter' on Marie Claire Korea's November 2024 cover."
-    },
-    "source_url": "https://www.marieclairekorea.com/fashion/2024/10/dior-21",
-    "reference_urls": [
-      "https://www.marieclairekorea.com/?p=399224"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "dior"
-    ],
-    "verified": true,
-    "detail": {
-      "ja": "10月11日に発表された、ディオールのジュエリーを身に着けたヘリンの11月号表紙。ヘリンとディオールの「限りなく特別な出会い」をテーマに、記事は「輝き、燦然として美しいものは時に目に見えず、言葉で説明しがたい」という一文で始まる。ファッションディレクターのJung Pyeong-hwaが担当し、撮影はKo Won-tae。",
-      "en": "Haerin's November cover in Dior jewelry, announced October 11. Themed as an endlessly special encounter between Haerin and Dior, the article opens with a line about how what sparkles and is beautiful is sometimes invisible and hard to put into words. Fashion director Jung Pyeong-hwa handled the feature, with photography by Ko Won-tae."
-    },
-    "credits": {
-      "publisher": "Marie Claire Korea (MCK Publishing)",
-      "fashion_director": {
-        "ja": "チョン・ピョンファ",
-        "en": "Jung Pyeong-hwa"
-      },
-      "photographer": {
-        "ja": "コ・ウォンテ",
-        "en": "Ko Won-tae"
+        "ja": "イ・ジュンギョン",
+        "en": "Lee Jun-kyung"
       },
       "stylist": {
         "ja": "チェ・ユミ",
@@ -3701,13 +3573,58 @@
         "ja": "イ・ナギョム",
         "en": "Lee Na-gyeom"
       },
-      "nails": {
-        "ja": "チェ・ジスク",
-        "en": "Choi Ji-suk"
-      },
-      "brand": "Dior Joaillerie"
+      "brand": "Celine"
     },
-    "editor_note": "公式ページには画像4点。カバーの種類数は明記なし。 / Cut for length: styling Choi Yu-mi, hair Oh Ji-hye, makeup Lee Na-gyeom, nails Choi Ji-suk (retained in credits)."
+    "tags": [
+      "celine"
+    ],
+    "verified": true,
+    "editor_note": "Star Today and Tenasia (2024-10-21). Issue month not stated (likely November 2024). / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-17 review: esquirekorea.co.kr/article/1871951 (Park Se-hoe, 2024-10-21T08:00+09:00, interview) and 1871952 (Kim Yu-jin, 14:00, fashion; Celine by Hedi Slimane looks). namu: November 2024 issue cover, Instagram DA-YXFivv9V 2024-10-11 16:00 KST — if confirmed as Esquire's cover reveal, the date should move to 10-11. Instagram captions could not be read on 2026-10-17 (r.jina.ai blocked for instagram.com), so Instagram-only dates remain unconfirmed. / 2026-10-24 nightly (queue): Instagram oembedで@esquire.koreaの投稿DA-YXFivv9V（media_id=2024-10-11 16:00:28 KST）を確認。サムネイルは「Esquire KOREA EDITION NOVEMBER 2024 / NO. 350」のロゴ入り表紙で、本文はセリーヌ「La Collection de L'arc de Triomphe」、Editor 김유진 / Photographer 이준경 / Stylist 최유미 / Hair 오지혜 / Makeup 이나겸。カバー公開日として日付を10月21日から11日に変更。旧本文のアートホールでの撮影とインタビュー発言は10月21日のウェブ記事で出たものなので本文から外した（ウェブ記事はreference_urlsに残す）。 / 2026-10-26 nightly: on-sale date 2024-10-24 per Kyobo: '에스콰이어(ESQUIRE)(2024년 11월호)' single listing (별책부록 워치북 5종 중 1종 랜덤), 출간일 2024-10-24; the cover image (pdt/3904000486475) shows two Danielle covers sold at random. Previous date 2024-10-11 was the Instagram cover reveal (kept in detail as an earlier fact). The web interview articles of 10-21 remain earlier than the new date but are still not used in the detail."
+  },
+  {
+    "id": "magazine-2024-10-25-dazed-korea-2024-11-minji-chanel",
+    "date": "2024-10-25",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "Dazed Korea 2024年11月号 表紙——ミンジ×シャネル",
+      "en": "Dazed Korea November 2024 cover - Minji x Chanel"
+    },
+    "summary": {
+      "ja": "ミンジがシャネル2024/25クルーズコレクションで4種の表紙を飾った、Dazed Korea 2024年11月号。",
+      "en": "Minji in Chanel's 2024/25 Cruise collection on four covers of Dazed Korea's November 2024 issue."
+    },
+    "detail": {
+      "ja": "Dazed Korea 11月号で、ミンジがA〜Dの4種の表紙を飾った。グラビアでは、シャネルのアンバサダーとして2024/25クルーズコレクションを着用した。インタビューでは「どこに出しても恥ずかしくない存在になりたい」とファンへの思いを語った。",
+      "en": "Minji fronted four covers (A-D) of Dazed Korea's November issue. In the pictorial she wears Chanel's 2024/25 Cruise collection as a brand ambassador, and in the interview she said that seeing her fans made her want to become someone they could be proud of anywhere."
+    },
+    "source_url": "https://dazedkorea.com/2024/10/15/11%ec%9b%94%ed%98%b8-%ec%bb%a4%eb%b2%84/",
+    "reference_urls": [
+      "https://dazedkorea.com/2024/10/18/%ec%83%a4%eb%84%ac-2024-25-%ed%81%ac%eb%a3%a8%ec%a6%88-%ec%bb%ac%eb%a0%89%ec%85%98%ec%9d%84-%ec%9e%85%ec%9d%80-%ec%95%b0%eb%b0%b0%ec%84%9c%eb%8d%94-%eb%af%bc%ec%a7%80%ea%b0%80-%eb%aa%a8%eb%93%a0/",
+      "https://v.daum.net/v/20241018192344809",
+      "https://search.kyobobook.co.kr/search?keyword=%EB%8D%B0%EC%9D%B4%EC%A6%88%EB%93%9C+2024%EB%85%84+11%EC%9B%94%ED%98%B8"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://dazedkorea.com/wp-content/uploads/2026/03/6349363-scaled.jpg",
+      "source_url": "https://dazedkorea.com/2024/10/18/%ec%83%a4%eb%84%ac-2024-25-%ed%81%ac%eb%a3%a8%ec%a6%88-%ec%bb%ac%eb%a0%89%ec%85%98%ec%9d%84-%ec%9e%85%ec%9d%80-%ec%95%b0%eb%b0%b0%ec%84%9c%eb%8d%94-%eb%af%bc%ec%a7%80%ea%b0%80-%eb%aa%a8%eb%93%a0/"
+    },
+    "credits": {
+      "publisher": "Dazed Korea",
+      "brand": "Chanel"
+    },
+    "tags": [
+      "chanel"
+    ],
+    "verified": true,
+    "editor_note": "Publisher posts fetched via dazedkorea.com WP API (cover list 2024-10-15, pictorial 2024-10-18). / 2026-10-23 nightly: Dazed Korea公式（WP API、2024-10-15 03:03）の「11월호 커버」投稿で表紙公開と予約受付（kr-shop.dazedkorea.com）を確認。Weverse Shopの発行日2024-10-30は今回再取得できず。data-policyの「発売日」に従えば10-30、出版社の表紙公開・予約開始なら10-15で、方針の選択が必要。 / 2026-10-26 nightly: on-sale date 2024-10-25 per Kyobo: '데이즈드 앤 컨퓨즈드(2024년 11월호)' A, B, C and D all have 출간일 2024-10-25, and the Kyobo cover images (pdt/3904000487090-3904000487120) all show Minji. The previous date 2024-10-15 was the publisher's cover-lineup post, which opened pre-orders ('11월호 예약하기 kr-shop.dazedkorea.com', re-read via WP API 2026-10-26); reveal and pre-order framing removed. The Weverse Shop page recorded on 2026-10-17 gave 발행 2024-10-30 (pre-order from 10-16); it could not be re-read, and the Dazed shop returned a proxy error. Bookshop date preferred as the earliest stated general sale day (see needs_decision)."
   },
   {
     "id": "magazine-2024-11-04-vogue-korea-nike",
@@ -3754,7 +3671,114 @@
       "vogue-korea"
     ],
     "verified": true,
-    "editor_note": "vogue.co.kr datePublished 2024-11-03T23:58Z = 2024-11-04 08:58 KST. Ledger/namu call it the November digital cover; the article page does not use the word cover. Photographer credit not captured from the page."
+    "editor_note": "vogue.co.kr datePublished 2024-11-03T23:58Z = 2024-11-04 08:58 KST. Ledger/namu call it the November digital cover; the article page does not use the word cover. Photographer credit not captured from the page. / 2026-10-26 nightly: on-sale date not applicable: this is a Vogue Korea web pictorial; the page names no print issue. The magazine on-sale rule has nothing to apply to, so the date stays the digital/web publication date."
+  },
+  {
+    "id": "magazine-2024-11-05-billboard-korea-billboard-artist-no1",
+    "date": "2024-11-05",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Billboard Korea『Billboard Artist』創刊号（NewJeans編）表紙",
+      "en": "Billboard Korea 'Billboard Artist' inaugural issue (NewJeans edition) cover"
+    },
+    "summary": {
+      "ja": "煙の中で木に寄りかかる5人を写した、Billboard Koreaの新雑誌『Billboard Artist』創刊号の表紙。",
+      "en": "The members leaning on a tree in billowing smoke, on the first issue of Billboard Korea's new magazine Billboard Artist."
+    },
+    "source_url": "https://www.koreajoongangdaily.com/entertainment/newjeans-will-cover-inaugural-billboard-artist-magazine/11980743",
+    "reference_urls": [
+      "https://v.daum.net/v/20241010181654135",
+      "https://search.kyobobook.co.kr/search?keyword=%EB%B9%8C%EB%B3%B4%EB%93%9C+%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8+%EB%89%B4%EC%A7%84%EC%8A%A4"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [],
+    "verified": true,
+    "editor_note": "Billboard Korea公式URL未確認。発売日は中央日報(2024-10-10)による。 / 中央日報英語版(2024-10-10)の報道に基づく。Billboard Korea公式URL未確認。写真キャプションでは「アートブック」とも表記。ページ数と価格は報道に記載なし。 / 2026-10-24 nightly: not confirmed. Korea JoongAng Daily (2024-10-10) only says the issue was 'set to be released on Oct. 25' per the company; Billboard Korea's site is JS-rendered (search and WP API return nothing) and no post-release report found. Left unverified. / 2026-10-26 nightly: on-sale date 2024-11-05 per Kyobo: '빌보드 아티스트 - 뉴진스 편' A-H (eight editions) all have 출간일 2024-11-05; the Kyobo cover image of one edition (pdt/3904000485942) shows the 'billboard Artist / New Jeans' cover with the members against a tree in smoke and the line 'Nostalgia Noise for the Future', matching the press description. The previous date 2024-10-25 was only the planned release date in Korea JoongAng Daily (2024-10-10, 'set to be released on Oct. 25'); no report of an actual release on 10-25 was found (Naver news 10-20 to 11-15).",
+    "detail": {
+      "ja": "Billboard Koreaが創刊した雑誌『Billboard Artist』第1号の表紙。Elina Kechichevaが撮影し、立ちのぼる煙の中でメンバーが木に寄りかかる構図をとった。誌面ではNewJeansの音楽産業への影響を1980年代ミラノの若者文化「パニナリ」と比べるエディトリアルを載せ、Billboard Koreaのクリエイティブディレクター李宇（Woo Lee）は、NewJeansには過去への郷愁を呼び起こす独特の力があるとコメントした。",
+      "en": "The cover of the first issue of Billboard Korea's new magazine Billboard Artist. Photographed by Elina Kechicheva, it shows the members leaning against a tree amid billowing smoke. An editorial compared the group's impact on the music industry with the 'Paninari' youth culture of 1980s Milan, and Billboard Korea creative director Woo Lee said NewJeans has a unique ability to evoke nostalgia for the past."
+    },
+    "credits": {
+      "publisher": "Billboard Korea",
+      "photographer": "Elina Kechicheva",
+      "creative_director": "Woo Lee"
+    }
+  },
+  {
+    "id": "magazine-2024-11-05-elle-korea-2024-11-super-elle-beauty-haerin",
+    "date": "2024-11-05",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ELLE Korea 2024年11月号（創刊32周年）『super ELLE beauty』ブック・イン・ブック表紙 — ヘリン × Dior Beauty",
+      "en": "Elle Korea November 2024 (32nd anniversary) 'super ELLE beauty' book-in-book cover - Haerin x Dior Beauty",
+      "original": "뉴진스 해린, 디올 뷰티와 함께한 홀리데이 화보"
+    },
+    "summary": {
+      "ja": "ディオール ビューティーのヘリンが、金と星明かりの冬のおとぎ話をテーマに飾った創刊32周年号の「super ELLE beauty」表紙。",
+      "en": "Dior Beauty's Haerin on the 'super ELLE beauty' cover of Elle Korea's 32nd-anniversary issue, a winter fairy-tale ball in gold and starlight."
+    },
+    "source_url": "https://www.elle.co.kr/article/1871976",
+    "reference_urls": [
+      "https://search.kyobobook.co.kr/search?keyword=%EC%97%98%EB%A5%B4+2024%EB%85%84+11%EC%9B%94%ED%98%B8"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "dior-beauty"
+    ],
+    "verified": true,
+    "detail": {
+      "ja": "創刊32周年記念の11月号のビューティー特別企画「super ELLE beauty」のブック・イン・ブック表紙で、10月21日に公開された。テーマは金と星明かりに輝く冬のおとぎ話の舞踏会。クローズアップのカバーは2024ディオール ホリデー メイクアップ コレクション（11月1日発売）のゴールドとピーチのアイシャドウにコーラルピンクのリップ、青い銀河を背景にしたデジタル限定カバーはディオール バックステージ ホリデー コレクション（10月17日発売）で仕上げた。ヘリンはホリデーコレクションを通して自分のさまざまな面を見せられることにときめくと語った。全画報とビューティーフィルムは11月号とELLEの公式サイト・SNSで公開された。",
+      "en": "Dior Beauty house ambassador Haerin on the book-in-book cover of 'super ELLE beauty', the beauty project of the 32nd-anniversary November issue, published October 21. The theme was a winter fairy-tale ball glowing with gold and starlight: the close-up cover used gold and peach eyeshadow with coral-pink lips from the 2024 Dior Holiday Makeup Collection (released November 1), while a digital-only cover against a blue galaxy used the Dior Backstage Holiday Collection (released October 17). Haerin said she was excited to show different sides of herself through the holiday collection. The full story and beauty film ran in the November issue and on Elle's website and social channels."
+    },
+    "credits": {
+      "publisher": "Elle Korea (Hearst JoongAng)",
+      "beauty_editor": {
+        "ja": "チョン・ユンジ",
+        "en": "Jeong Yoon-ji"
+      },
+      "photographer": {
+        "ja": "コ・ウォンテ",
+        "en": "Ko Won-tae"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "イ・ヘジン",
+        "en": "Lee Hye-jin"
+      },
+      "makeup": {
+        "ja": "イ・ソル",
+        "en": "Lee Sol"
+      },
+      "set_stylist": {
+        "ja": "クォン・ドヒョン（Ondoh）",
+        "en": "Kwon Do-hyung (Ondoh)"
+      },
+      "nails": {
+        "ja": "イム・ミソン",
+        "en": "Im Mi-sung"
+      },
+      "brand": "Dior Beauty"
+    },
+    "editor_note": "ELLE公式記事(2024-10-21)に基づく。記事中のブランド関係者コメント（ディオール ビューティーの高級感が完璧に表現された）は本文から省略。クレジット（정윤지、고원태、이혜진、이솔、최유미）はcredits欄に記載。 / Cut for length: article title 'NewJeans Haerin, a holiday pictorial with Dior Beauty' (in title.original); beauty editor Jeong Yoon-ji, photographer Ko Won-tae, hair Lee Hye-jin, makeup Lee Sol, stylist Choi Yu-mi (retained in credits). / 2026-10-26 nightly: on-sale date 2024-11-05 per Kyobo: '엘르(ELLE)(2024년 11월호)' A through L (12 editions) all have 출간일 2024-11-05. Haerin is on the 'super ELLE beauty' book-in-book cover, not on any of the 12 main covers (Kyobo images show Jun Ji-hyun, RIIZE, Felix, Gong Yoo and others); since every edition has the same date, the book-in-book date is 11-05 whichever editions carry it. Date moved from month precision (2024-11). The web release of 10-21 and the Dior holiday collection dates (10-17, 11-01) are earlier than the new date."
   },
   {
     "id": "magazine-2024-11-22-spur-2025-01-minji-hanni",
@@ -3777,7 +3801,8 @@
     },
     "source_url": "https://mdpr.jp/news/detail/4426767",
     "reference_urls": [
-      "https://mdpr.jp/news/detail/4426767"
+      "https://mdpr.jp/news/detail/4426767",
+      "https://books.rakuten.co.jp/search?sitem=SPUR+2025%E5%B9%B4+1%E6%9C%88%E5%8F%B7&g=000"
     ],
     "media": {
       "type": "none"
@@ -3786,7 +3811,7 @@
       "japan"
     ],
     "verified": true,
-    "editor_note": "SPUR公式URL未確認。発売日はモデルプレス(2024-11-15)による。 / Cut for length: BE:FIRST's RYUHEI made his solo debut in the same issue. Removed source mention: the members' remarks were reported by modelpress on November 15, 2024. / 2026-10-24 nightly: SPUR/Shueisha sites blocked; modelpress (2024-11-15, publisher-supplied text and credits) gives on sale 11-22, first duo cover, group's previous SPUR cover in the March 2023 issue, Peter Ash Lee, Choi Yumi, 'flowers' theme, Chanel/Gucci.",
+    "editor_note": "SPUR公式URL未確認。発売日はモデルプレス(2024-11-15)による。 / Cut for length: BE:FIRST's RYUHEI made his solo debut in the same issue. Removed source mention: the members' remarks were reported by modelpress on November 15, 2024. / 2026-10-24 nightly: SPUR/Shueisha sites blocked; modelpress (2024-11-15, publisher-supplied text and credits) gives on sale 11-22, first duo cover, group's previous SPUR cover in the March 2023 issue, Peter Ash Lee, Choi Yumi, 'flowers' theme, Chanel/Gucci. / 2026-10-26 nightly: on-sale date confirmed unchanged. Rakuten Books lists 'SPUR (シュプール) 2025年 1月号 [雑誌]' (rb/18066245) as 2024年11月22日発売; no 増刊 edition is listed for that month, so the Minji and Hanni cover is the regular edition. Matches modelpress (2024-11-15).",
     "detail": {
       "ja": "表紙と巻頭ファッションストーリーにミンジとハニが登場。2人だけの表紙は初めてで、グループとしては2023年3月号以来のSPUR表紙となった。撮影はニューヨークを拠点とするPeter Ash Lee、衣装はデビュー以来NewJeansのスタイリングを担うChoi Yumiで、ミンジはアンバサダーを務めるシャネル、ハニはグッチに国内外のブランドをミックスした。ソウルのスタジオで色とりどりの珍しい花を使った「花」のコンセプトで撮影し、インタビューでは互いの存在、第一印象、大切な記憶、今後の展望、この冬挑戦したいファッション、おすすめのNewJeansの曲を語った。ミンジは撮影を楽しみにしていたと話し、ハニは2人での撮影を新しいスタイルと表現した。",
       "en": "Minji and Hanni appeared on the cover and in the opening fashion story. It was the first cover with just the two of them, and the group's first SPUR cover since the March 2023 issue. Photography was by New York-based Peter Ash Lee and wardrobe by Choi Yumi, who has styled NewJeans since debut; Minji wore Chanel and Hanni Gucci, the houses they represent, mixed with domestic and international brands. Shot in a Seoul studio with colorful, unusual flowers under a 'flowers' concept, the interview covered what each means to the other, first impressions, important memories, future outlook, fashion to try this winter and a recommended NewJeans song. Minji said she had been looking forward to the shoot, and Hanni called working as a duo a new style."
@@ -3843,7 +3868,7 @@
       "dior"
     ],
     "verified": true,
-    "editor_note": "Publisher post fetched via dazedkorea.com WP API (2024-11-28). Print issue not stated."
+    "editor_note": "Publisher post fetched via dazedkorea.com WP API (2024-11-28). Print issue not stated. / 2026-10-26 nightly: on-sale date not applicable: this is a Dazed Korea web pictorial; the post names no print issue. The magazine on-sale rule has nothing to apply to, so the date stays the digital/web publication date."
   },
   {
     "id": "magazine-2024-12-09-vogue-korea-danielle-omega-pictorial",
@@ -3874,7 +3899,7 @@
     },
     "tags": [],
     "verified": true,
-    "editor_note": "Sportskeedaの検索要約のみで、本文取得不可。VOGUE Korea公式で未確認のため要検証（Omegaアンバサダー画報との混同の可能性あり）。 | Reader-facing 'reportedly' wording, the Dec 9 reveal date (later than this record's Dec 1 date) and the 'uncertain' tag moved here; still unverified against Vogue Korea official sources. | Correction: the Vogue Korea item is an online Omega-sponsored pictorial dated 2024-12-09 (vogue.co.kr/2024/12/09/오메가란-우주에서-마주한-다니엘/), not a December 2024 print cover; Sportskeeda's 'cover' framing is not supported. Suggest re-dating the record to 2024-12-09 and changing the title. The pictorial was published after the members' Nov 28 termination declaration. | re-dated 2024-12-01(month) -> 2024-12-09 and retitled: online Omega pictorial, not a December cover / Cut for length: published in the Fashion > Watch & Jewelry section; digital editor Ga Nam-hee, photographer Park Jong-ha, hair Gabe, makeup Lee Sol, stylist Choi Yu-mi, set design Kwon Do-hyung (retained in credits). / 2026-10-24 nightly: Vogue Korea's own article '오메가란 우주에서 마주한 다니엘' (published 2024-12-09 09:00 UTC) confirms the text, watches, brands and credits (photographer Park Jong-ha, digital editor Ga Nam-hee, hair Gabe, makeup Lee Sol, stylist Choi Yu-mi, set Kwon Do-hyung, SPONSORED BY OMEGA).",
+    "editor_note": "Sportskeedaの検索要約のみで、本文取得不可。VOGUE Korea公式で未確認のため要検証（Omegaアンバサダー画報との混同の可能性あり）。 | Reader-facing 'reportedly' wording, the Dec 9 reveal date (later than this record's Dec 1 date) and the 'uncertain' tag moved here; still unverified against Vogue Korea official sources. | Correction: the Vogue Korea item is an online Omega-sponsored pictorial dated 2024-12-09 (vogue.co.kr/2024/12/09/오메가란-우주에서-마주한-다니엘/), not a December 2024 print cover; Sportskeeda's 'cover' framing is not supported. Suggest re-dating the record to 2024-12-09 and changing the title. The pictorial was published after the members' Nov 28 termination declaration. | re-dated 2024-12-01(month) -> 2024-12-09 and retitled: online Omega pictorial, not a December cover / Cut for length: published in the Fashion > Watch & Jewelry section; digital editor Ga Nam-hee, photographer Park Jong-ha, hair Gabe, makeup Lee Sol, stylist Choi Yu-mi, set design Kwon Do-hyung (retained in credits). / 2026-10-24 nightly: Vogue Korea's own article '오메가란 우주에서 마주한 다니엘' (published 2024-12-09 09:00 UTC) confirms the text, watches, brands and credits (photographer Park Jong-ha, digital editor Ga Nam-hee, hair Gabe, makeup Lee Sol, stylist Choi Yu-mi, set Kwon Do-hyung, SPONSORED BY OMEGA). / 2026-10-26 nightly: on-sale date not applicable: this is a Vogue Korea online pictorial ('SPONSORED BY OMEGA'); no print issue. The magazine on-sale rule has nothing to apply to, so the date stays the digital/web publication date.",
     "detail": {
       "ja": "オメガ協賛のオンライン画報「オメガという宇宙で出会ったダニエル」。印刷版の表紙ではなく「SPONSORED BY OMEGA」と表示されたウェブ画報で、幼い頃の少女たちをときめかせた「月の妖精」とオメガのファンタジーの世界を重ねるコンセプトで撮影した。ダニエルはコンステレーション（29mmシルバー文字盤、25mmパープル文字盤、29mmイエロー文字盤など）とスピードマスター38（38mmブラウン文字盤、ムーンシャインゴールドのダイヤモンドベゼル、グリーン文字盤クロノグラフ）を着け、衣装はCecilie Bahnsen、Noir Kei Ninomiya、Sandy Liang、Yuhan Wang、Shushu/Tongだった。",
       "en": "The Omega-sponsored online pictorial 'Danielle in Omega's universe', a web feature labeled 'SPONSORED BY OMEGA' rather than a print cover, joining the 'moon fairy' who thrilled girls in childhood with Omega's fantasy-inspired universe. Danielle wore Constellation watches (including 29mm silver, 25mm purple and 29mm yellow dials) and the Speedmaster 38 (a 38mm brown dial, a diamond-set bezel model in Moonshine gold and a green-dial chronograph), with looks by Cecilie Bahnsen, Noir Kei Ninomiya, Sandy Liang, Yuhan Wang and Shushu/Tong."
@@ -3909,96 +3934,10 @@
     }
   },
   {
-    "id": "magazine-2024-12-16-dazed-korea-2025-01-hyein-louis-vuitton",
-    "date": "2024-12-16",
+    "id": "magazine-2024-12-24-elle-korea-2025-01-minji",
+    "date": "2024-12-24",
     "date_type": "publish",
     "date_precision": "day",
-    "category": "magazine",
-    "entity": "newjeans",
-    "members": [
-      "hyein"
-    ],
-    "title": {
-      "ja": "Dazed Korea 2025年1月号 別冊表紙——ヘイン×ルイ・ヴィトン（村上隆）",
-      "en": "Dazed Korea January 2025 supplement cover - Hyein x Louis Vuitton (Takashi Murakami)"
-    },
-    "summary": {
-      "ja": "Dazed Koreaの2025年1月号で、ヘインがルイ・ヴィトン×村上隆のリエディションを着て別冊の表紙を飾った。",
-      "en": "Hyein fronted the supplement cover of Dazed Korea's January 2025 issue in the Louis Vuitton x Takashi Murakami re-edition."
-    },
-    "detail": {
-      "ja": "Dazed Koreaが2025年1月号のカバーラインナップを公開し、別冊（SUPPLEMENT）の表紙をヘインが飾った。グラビアでは、2003年春夏に初登場したルイ・ヴィトンと村上隆のコラボのリエディションコレクションのバッグやウェアを着用した。インタビューでは村上隆とのコラボについて「不思議でありがたい」と語った。",
-      "en": "Dazed Korea revealed its January 2025 cover lineup, with Hyein on the supplement cover. In the pictorial she wears bags and clothing from the re-edition of Louis Vuitton's collaboration with Takashi Murakami, first launched in Spring/Summer 2003, and said in the interview that working with Murakami's designs felt surreal and she was grateful."
-    },
-    "source_url": "https://dazedkorea.com/2024/12/16/1%ec%9b%94%ed%98%b8-%ec%bb%a4%eb%b2%84/",
-    "reference_urls": [
-      "https://dazedkorea.com/2025/01/10/%eb%ac%b4%eb%9d%bc%ec%b9%b4%eb%af%b8%ec%9d%98-%ea%bd%83%eb%93%a4%ec%9d%84-%ea%b0%80%eb%a1%9c%ec%a7%80%eb%a5%b4%eb%a9%b0-%ec%95%84%ed%8a%b8-%ed%8c%a8%ec%85%98-%ec%9d%8c%ec%95%85%ec%9d%84-%eb%84%98/",
-      "https://v.daum.net/v/20241227094504132"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "image": {
-      "url": "https://dazedkorea.com/wp-content/uploads/2026/03/2923072-scaled.jpg",
-      "source_url": "https://dazedkorea.com/2025/01/10/%eb%ac%b4%eb%9d%bc%ec%b9%b4%eb%af%b8%ec%9d%98-%ea%bd%83%eb%93%a4%ec%9d%84-%ea%b0%80%eb%a1%9c%ec%a7%80%eb%a5%b4%eb%a9%b0-%ec%95%84%ed%8a%b8-%ed%8c%a8%ec%85%98-%ec%9d%8c%ec%95%85%ec%9d%84-%eb%84%98/"
-    },
-    "credits": {
-      "publisher": "Dazed Korea",
-      "brand": "Louis Vuitton"
-    },
-    "tags": [
-      "louis-vuitton"
-    ],
-    "verified": true,
-    "editor_note": "Publisher posts via dazedkorea.com WP API (cover list 2024-12-16; web pictorial 2025-01-10); quote reported 2024-12-27."
-  },
-  {
-    "id": "magazine-2024-12-26-elle-japon-2025-02-haerin",
-    "date": "2024-12-26",
-    "date_type": "publish",
-    "date_precision": "day",
-    "category": "magazine",
-    "entity": "newjeans",
-    "members": [
-      "haerin"
-    ],
-    "title": {
-      "ja": "ELLE JAPON 2025年2月号 表紙 — ヘリン × Dior（2度目）",
-      "en": "Elle Japon February 2025 cover - Haerin x Dior (second time)"
-    },
-    "summary": {
-      "ja": "1年ぶり2度目のELLE JAPON表紙で、ヘリンがディオール2025クルーズの7ルックを着こなした8ページ特集。",
-      "en": "Haerin's second Elle Japon cover, a year after the first, with an eight-page feature of seven Dior Cruise 2025 looks."
-    },
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000742.000008128.html",
-    "reference_urls": [
-      "https://prtimes.jp/main/html/rd/p/000000742.000008128.html",
-      "https://tower.jp/article/news/2024/12/25/tgb004"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "japan",
-      "dior"
-    ],
-    "verified": true,
-    "editor_note": "ELLE JAPON公式URL未確認。記事日付2024-12-25、発売日未確認（通常12月下旬）。 | On-sale date and price not stated on tower.jp. / タワーレコード(tower.jp)の2024-12-25付記事に基づく。ELLE JAPON公式URL未確認。発売日（通常12月下旬）と価格はtower.jpに記載なし。 / 2026-10-24 nightly: Hearst Fujingaho press release on PR TIMES (2024-12-25 09:00) 'NewJeans HAERINがカバーに再び登場！' gives 2月号 on sale 2024-12-26 (Thu), 880 yen, second cover after the Feb 2024 issue, theme 「私らしく、新時代へ！」, 8 pages, Dior Cruise 2025, seven looks. Date moved from the issue month to the on-sale day.",
-    "detail": {
-      "ja": "2024年2月号以来1年ぶり、2度目のELLE JAPON表紙。号のテーマは「私らしく、新時代へ！」で、表紙はディオールのファインニットのトップスにマリンモチーフのネックレスを合わせたホリデーシーズンの装い。8ページの特集ではディオール2025クルーズコレクションの7ルックをパンクな要素を効かせたフェミニンなムードでスタイリングし、ヘリンはドレス風のツーピースにロングブーツを合わせたルックを一番のお気に入りに挙げた。撮影はJunkyoung Lee。",
-      "en": "Haerin's second ELLE JAPON cover, a year after the February 2024 issue. The issue's theme was 'Being myself, into a new era', and the cover paired a fine-knit Dior top with a marine-motif necklace in a holiday-season look. An eight-page feature styled seven looks from Dior's Cruise 2025 collection in a punk-inflected feminine mood, and Haerin named a dress-style two-piece with long boots as her favorite. Photography by Junkyoung Lee."
-    },
-    "credits": {
-      "publisher": "Hearst Fujingaho (ELLE JAPON)",
-      "photographer": "Junkyoung Lee",
-      "brand": "Dior"
-    }
-  },
-  {
-    "id": "magazine-2025-01-01-elle-korea-2025-01-minji",
-    "date": "2025-01-01",
-    "date_type": "publish",
-    "date_precision": "month",
     "category": "magazine",
     "entity": "newjeans",
     "members": [
@@ -4015,7 +3954,8 @@
     },
     "source_url": "https://www.elle.co.kr/article/1874661",
     "reference_urls": [
-      "https://sports.khan.co.kr/article/202412131018003"
+      "https://sports.khan.co.kr/article/202412131018003",
+      "https://search.kyobobook.co.kr/search?keyword=%EC%97%98%EB%A5%B4+2025%EB%85%84+1%EC%9B%94%ED%98%B8"
     ],
     "media": {
       "type": "none"
@@ -4061,39 +4001,86 @@
       "brand": "Chanel Beauty",
       "location": "London"
     },
-    "editor_note": "Cut for length: beauty editor Jeong Yoon-ji, photographer Ko Won-tae, hair Gabe Shin, makeup Lee Sol, stylist Choi Yu-mi (retained in credits)."
+    "editor_note": "Cut for length: beauty editor Jeong Yoon-ji, photographer Ko Won-tae, hair Gabe Shin, makeup Lee Sol, stylist Choi Yu-mi (retained in credits). / 2026-10-26 nightly: on-sale date 2024-12-24 per Kyobo: '엘르(ELLE)(2025년 01월호)' A, B and C all have 출간일 2024-12-24, and the Kyobo cover images (pdt/3904000499512-3904000499536) all show Minji. Date moved from month precision (2025-01). The 12-13 announcement stays in summary as an earlier fact; 'YouTube film planned' remains phrased as a plan."
   },
   {
-    "id": "magazine-2025-01-01-vogue-korea-2025-01-newjeans",
-    "date": "2025-01-01",
+    "id": "magazine-2024-12-26-elle-japon-2025-02-haerin",
+    "date": "2024-12-26",
     "date_type": "publish",
-    "date_precision": "month",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ELLE JAPON 2025年2月号 表紙 — ヘリン × Dior（2度目）",
+      "en": "Elle Japon February 2025 cover - Haerin x Dior (second time)"
+    },
+    "summary": {
+      "ja": "1年ぶり2度目のELLE JAPON表紙で、ヘリンがディオール2025クルーズの7ルックを着こなした8ページ特集。",
+      "en": "Haerin's second Elle Japon cover, a year after the first, with an eight-page feature of seven Dior Cruise 2025 looks."
+    },
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000742.000008128.html",
+    "reference_urls": [
+      "https://prtimes.jp/main/html/rd/p/000000742.000008128.html",
+      "https://tower.jp/article/news/2024/12/25/tgb004",
+      "https://books.rakuten.co.jp/search?sitem=ELLE+JAPON+2025%E5%B9%B4+2%E6%9C%88%E5%8F%B7&g=000",
+      "https://www.fujisan.co.jp/product/249/b/2524515/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "japan",
+      "dior"
+    ],
+    "verified": true,
+    "editor_note": "ELLE JAPON公式URL未確認。記事日付2024-12-25、発売日未確認（通常12月下旬）。 | On-sale date and price not stated on tower.jp. / タワーレコード(tower.jp)の2024-12-25付記事に基づく。ELLE JAPON公式URL未確認。発売日（通常12月下旬）と価格はtower.jpに記載なし。 / 2026-10-24 nightly: Hearst Fujingaho press release on PR TIMES (2024-12-25 09:00) 'NewJeans HAERINがカバーに再び登場！' gives 2月号 on sale 2024-12-26 (Thu), 880 yen, second cover after the Feb 2024 issue, theme 「私らしく、新時代へ！」, 8 pages, Dior Cruise 2025, seven looks. Date moved from the issue month to the on-sale day. / 2026-10-26 nightly: on-sale date confirmed unchanged. Rakuten Books lists 'ELLE JAPON (エル・ジャポン) 2025年 2月号 [雑誌]' (rb/18097435) as 2024年12月26日, and Fujisan's back-number list gives '2025年2月号 (発売日2024年12月26日)', matching the publisher's PR TIMES release.",
+    "detail": {
+      "ja": "2024年2月号以来1年ぶり、2度目のELLE JAPON表紙。号のテーマは「私らしく、新時代へ！」で、表紙はディオールのファインニットのトップスにマリンモチーフのネックレスを合わせたホリデーシーズンの装い。8ページの特集ではディオール2025クルーズコレクションの7ルックをパンクな要素を効かせたフェミニンなムードでスタイリングし、ヘリンはドレス風のツーピースにロングブーツを合わせたルックを一番のお気に入りに挙げた。撮影はJunkyoung Lee。",
+      "en": "Haerin's second ELLE JAPON cover, a year after the February 2024 issue. The issue's theme was 'Being myself, into a new era', and the cover paired a fine-knit Dior top with a marine-motif necklace in a holiday-season look. An eight-page feature styled seven looks from Dior's Cruise 2025 collection in a punk-inflected feminine mood, and Haerin named a dress-style two-piece with long boots as her favorite. Photography by Junkyoung Lee."
+    },
+    "credits": {
+      "publisher": "Hearst Fujingaho (ELLE JAPON)",
+      "photographer": "Junkyoung Lee",
+      "brand": "Dior"
+    }
+  },
+  {
+    "id": "magazine-2024-12-26-vogue-korea-2025-01-newjeans",
+    "date": "2024-12-26",
+    "date_type": "publish",
+    "date_precision": "day",
     "category": "magazine",
     "entity": "newjeans",
     "members": [
       "all"
     ],
     "title": {
-      "ja": "VOGUE Korea 2025年1月号 — NewJeans 画報（韓服）",
-      "en": "Vogue Korea January 2025 - NewJeans pictorial (hanbok)"
+      "ja": "VOGUE Korea 2025年1月号 表紙 — NewJeans（韓服、12種）",
+      "en": "Vogue Korea January 2025 cover - NewJeans (hanbok, 12 covers)"
     },
     "summary": {
-      "ja": "契約紛争のさなかに公開された、洋装と韓服で撮影したVOGUE Korea 1月号の画報。投稿ごとのクレジット表記が論争となった。",
-      "en": "NewJeans' Vogue Korea January 2025 shoot in Western wear and hanbok, whose differing credits across posts drew controversy amid the contract dispute."
+      "ja": "契約紛争のさなかに、洋装と韓服で撮影した12種の表紙を飾ったVOGUE Korea 1月号。投稿ごとのクレジット表記が論争となった。",
+      "en": "NewJeans on 12 covers of Vogue Korea's January 2025 issue in Western wear and hanbok; differing credits across posts drew controversy amid the contract dispute."
     },
     "source_url": "https://kbizoom.com/ador-posts-newjeans-photoshoot-but-excludes-min-hee-jin-fans-angered/",
-    "reference_urls": [],
+    "reference_urls": [
+      "https://search.kyobobook.co.kr/search?keyword=%EB%B3%B4%EA%B7%B8+2025%EB%85%84+1%EC%9B%94%ED%98%B8",
+      "https://www.vogue.co.kr/?p=573032"
+    ],
     "media": {
       "type": "none"
     },
     "tags": [
       "hanbok"
     ],
-    "verified": false,
-    "editor_note": "VOGUE Korea公式URL未確認。表紙か中面画報かは未確定。 | Vogue Korea official article URL still not located; whether the pictorial was a cover remains unconfirmed. 'Koreanity' theme per vogue.co.kr/?p=573032. / VOGUE Korea公式記事URL未確認。表紙か中面画報かは未確定。「Koreanity」テーマはvogue.co.kr/?p=573032による。 / 2026-10-24 nightly: not confirmed. vogue.co.kr ?p=573032 is the 2025-01-08 'Vogue Salon: Hanbok' event page with no NewJeans mention; vogue.co.kr search is JS-rendered and its WP API needs login; no official article for the NewJeans pictorial found. Left unverified.",
+    "verified": true,
+    "editor_note": "VOGUE Korea公式URL未確認。表紙か中面画報かは未確定。 | Vogue Korea official article URL still not located; whether the pictorial was a cover remains unconfirmed. 'Koreanity' theme per vogue.co.kr/?p=573032. / VOGUE Korea公式記事URL未確認。表紙か中面画報かは未確定。「Koreanity」テーマはvogue.co.kr/?p=573032による。 / 2026-10-24 nightly: not confirmed. vogue.co.kr ?p=573032 is the 2025-01-08 'Vogue Salon: Hanbok' event page with no NewJeans mention; vogue.co.kr search is JS-rendered and its WP API needs login; no official article for the NewJeans pictorial found. Left unverified. / 2026-10-26 nightly: on-sale date 2024-12-26 per Kyobo: '보그(2025년 01월호)' A through L (12 editions) all have 출간일 2024-12-26, and the Kyobo cover images (pdt/3904000500560-3904000500676) are all NewJeans covers ('KOREANITY' group covers on A and B, and solo covers of each member), so the cover question is settled: NewJeans are the cover stars. The Instagram posts described in the detail were made on 2024-12-18 (kbizoom, 2024-12-18), earlier than the new date. Date moved from month precision (2025-01). The Vogue Salon page (?p=573032, 2025-01-08) is later than the new date; the detail only says the salon was announced.",
     "detail": {
-      "ja": "洋装と韓服の両方の装いを見せた1月号の画報。ADORが運用するInstagram（@newjeans_official）は「NewJeans 'Vogue Korea' January 2025 Edition」のキャプションとハッシュタグ#NewJeans、#NewJeans_is_Everywhereを添えて投稿した。VOGUE Korea側の投稿はグループ名を使わずメンバー5人の名前を並べ、ミン・ヒジンをスペシャルクリエイティブディレクターとしてクレジットし、メンバーが運営する@jeanzforfreeも本名表記とミン・ヒジンのクレジット付きで同じ画報を載せた。号のテーマは「Koreanity」で、韓服を扱う「ボーグ サロン」の開催も告知された。",
-      "en": "A January-issue pictorial showing the members in both Western-style outfits and hanbok. The ADOR-run Instagram account @newjeans_official posted it with the caption 'NewJeans Vogue Korea January 2025 Edition' and the hashtags #NewJeans and #NewJeans_is_Everywhere. Vogue Korea's own post did not use the group name, listing Minji, Hanni, Danielle, Haerin and Hyein by name and crediting Min Hee-jin as Special Creative Director, and the members' account @jeanzforfree posted the same shoot with their real names and the Min Hee-jin credit. The issue's theme was 'Koreanity', and a related 'Vogue Salon' on hanbok was announced."
+      "ja": "洋装と韓服の両方の装いを見せた1月号で、グループと各メンバーの12種の表紙で刊行された。ADORが運用するInstagram（@newjeans_official）は「NewJeans 'Vogue Korea' January 2025 Edition」のキャプションとハッシュタグ#NewJeans、#NewJeans_is_Everywhereを添えて投稿した。VOGUE Korea側の投稿はグループ名を使わずメンバー5人の名前を並べ、ミン・ヒジンをスペシャルクリエイティブディレクターとしてクレジットし、メンバーが運営する@jeanzforfreeも本名表記とミン・ヒジンのクレジット付きで同じ画報を載せた。号のテーマは「Koreanity」で、韓服を扱う「ボーグ サロン」の開催も告知された。",
+      "en": "The January issue came out with 12 covers of the group and of each member, showing them in both Western-style outfits and hanbok. The ADOR-run Instagram account @newjeans_official posted it with the caption 'NewJeans Vogue Korea January 2025 Edition' and the hashtags #NewJeans and #NewJeans_is_Everywhere. Vogue Korea's own post did not use the group name, listing Minji, Hanni, Danielle, Haerin and Hyein by name and crediting Min Hee-jin as Special Creative Director, and the members' account @jeanzforfree posted the same shoot with their real names and the Min Hee-jin credit. The issue's theme was 'Koreanity', and a related 'Vogue Salon' on hanbok was announced."
     },
     "credits": {
       "publisher": "Vogue Korea (Doosan Magazine)",
@@ -4102,6 +4089,51 @@
         "en": "Min Hee-jin"
       }
     }
+  },
+  {
+    "id": "magazine-2024-12-30-dazed-korea-2025-01-hyein-louis-vuitton",
+    "date": "2024-12-30",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "Dazed Korea 2025年1月号 別冊表紙——ヘイン×ルイ・ヴィトン（村上隆）",
+      "en": "Dazed Korea January 2025 supplement cover - Hyein x Louis Vuitton (Takashi Murakami)"
+    },
+    "summary": {
+      "ja": "ヘインがルイ・ヴィトン×村上隆のリエディションを着て別冊の表紙を飾った、Dazed Korea 2025年1月号。",
+      "en": "Hyein in the Louis Vuitton x Takashi Murakami re-edition on the supplement cover of Dazed Korea's January 2025 issue."
+    },
+    "detail": {
+      "ja": "Dazed Koreaの2025年1月号で、別冊（SUPPLEMENT）の表紙をヘインが飾った。グラビアでは、2003年春夏に初登場したルイ・ヴィトンと村上隆のコラボのリエディションコレクションのバッグやウェアを着用した。インタビューでは村上隆とのコラボについて「不思議でありがたい」と語った。",
+      "en": "Hyein fronted the supplement cover of Dazed Korea's January 2025 issue. In the pictorial she wears bags and clothing from the re-edition of Louis Vuitton's collaboration with Takashi Murakami, first launched in Spring/Summer 2003, and said in the interview that working with Murakami's designs felt surreal and she was grateful."
+    },
+    "source_url": "https://dazedkorea.com/2024/12/16/1%ec%9b%94%ed%98%b8-%ec%bb%a4%eb%b2%84/",
+    "reference_urls": [
+      "https://dazedkorea.com/2025/01/10/%eb%ac%b4%eb%9d%bc%ec%b9%b4%eb%af%b8%ec%9d%98-%ea%bd%83%eb%93%a4%ec%9d%84-%ea%b0%80%eb%a1%9c%ec%a7%80%eb%a5%b4%eb%a9%b0-%ec%95%84%ed%8a%b8-%ed%8c%a8%ec%85%98-%ec%9d%8c%ec%95%85%ec%9d%84-%eb%84%98/",
+      "https://v.daum.net/v/20241227094504132",
+      "https://search.kyobobook.co.kr/search?keyword=%EB%8D%B0%EC%9D%B4%EC%A6%88%EB%93%9C+2025%EB%85%84+1%EC%9B%94%ED%98%B8"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://dazedkorea.com/wp-content/uploads/2026/03/2923072-scaled.jpg",
+      "source_url": "https://dazedkorea.com/2025/01/10/%eb%ac%b4%eb%9d%bc%ec%b9%b4%eb%af%b8%ec%9d%98-%ea%bd%83%eb%93%a4%ec%9d%84-%ea%b0%80%eb%a1%9c%ec%a7%80%eb%a5%b4%eb%a9%b0-%ec%95%84%ed%8a%b8-%ed%8c%a8%ec%85%98-%ec%9d%8c%ec%95%85%ec%9d%84-%eb%84%98/"
+    },
+    "credits": {
+      "publisher": "Dazed Korea",
+      "brand": "Louis Vuitton"
+    },
+    "tags": [
+      "louis-vuitton"
+    ],
+    "verified": true,
+    "editor_note": "Publisher posts via dazedkorea.com WP API (cover list 2024-12-16; web pictorial 2025-01-10); quote reported 2024-12-27. / 2026-10-26 nightly: on-sale date 2024-12-30 per Kyobo: '데이즈드 앤 컨퓨즈드(2025년 01월호)' A, B and C all have 출간일 2024-12-30 (main covers: Nam Joo-hyuk, per Kyobo images). The publisher's cover list (dazedkorea.com 2024-12-16, re-read via WP API) names 'SUPPLEMENT 혜인' and opened pre-orders ('1월호 예약하기'); the supplement comes with the issue, and all editions share the date. Previous date 2024-12-16 was that cover-lineup post; reveal framing removed. The web pictorial (2025-01-10) is later than the new date and is not used in the text."
   },
   {
     "id": "magazine-2025-01-06-vogue-korea-haerin-dior-toujours",
@@ -4163,7 +4195,7 @@
       "vogue-korea"
     ],
     "verified": true,
-    "editor_note": "Magazine identified as Vogue Korea from its official Instagram posts DEeozvBp33z (18:14 KST) and DEepjE9phg8 (18:20 KST) on 2025-01-06 (#VoguePictures; account and captions read via reader); namu's table left the title blank and says '1월호 수록'. No vogue.co.kr web article located. Distinct from magazine-2025-01-01-vogue-korea-2025-01-newjeans (hanbok pictorial).",
+    "editor_note": "Magazine identified as Vogue Korea from its official Instagram posts DEeozvBp33z (18:14 KST) and DEepjE9phg8 (18:20 KST) on 2025-01-06 (#VoguePictures; account and captions read via reader); namu's table left the title blank and says '1월호 수록'. No vogue.co.kr web article located. Distinct from magazine-2024-12-26-vogue-korea-2025-01-newjeans (hanbok pictorial). / 2026-10-26 nightly: on-sale date not applicable: this is a Vogue Korea Instagram pictorial (#VoguePictures); namu says '1월호 수록' but the publisher's posts name no print issue. The magazine on-sale rule has nothing to apply to, so the date stays the digital/web publication date.",
     "image": {
       "url": "https://www.instagram.com/p/DEepjE9phg8/media/?size=l",
       "source_url": "https://www.instagram.com/p/DEepjE9phg8/"
@@ -4228,7 +4260,7 @@
       "vogue-korea"
     ],
     "verified": true,
-    "editor_note": "vogue.co.kr datePublished 2025-02-03T01:00Z = 10:00 KST; Instagram #VogueDigitalCover post DFm1bpZpP1u at 19:09 KST."
+    "editor_note": "vogue.co.kr datePublished 2025-02-03T01:00Z = 10:00 KST; Instagram #VogueDigitalCover post DFm1bpZpP1u at 19:09 KST. / 2026-10-26 nightly: on-sale date not applicable: this is a Vogue Korea digital cover (#VogueDigitalCover); no print edition. The magazine on-sale rule has nothing to apply to, so the date stays the digital/web publication date."
   },
   {
     "id": "magazine-2025-03-01-elle-singapore-2025-03-danielle",
@@ -4260,7 +4292,7 @@
       "international"
     ],
     "verified": true,
-    "editor_note": "NJZ名義期間（2025-02〜03）の活動。 / Cut for length: styling Jeffrey Yan, hair Gabe Sin, makeup Sol Lee (retained in credits).",
+    "editor_note": "NJZ名義期間（2025-02〜03）の活動。 / Cut for length: styling Jeffrey Yan, hair Gabe Sin, makeup Sol Lee (retained in credits). / 2026-10-26 nightly: on-sale date not found. ELLE Singapore's site gives only the online cover story date (2025-02-28) and its 2025 cover roundup lists Danielle under March 2025; no print on-sale or newsstand date was found. Month precision 2025-03 kept.",
     "detail": {
       "ja": "NJZ名義で登場した3月号の表紙で、カバーストーリー「NJZ's Danielle Marsh In Her Element」は2月28日にオンライン公開された。冬のソウルで撮影し、執筆はRohaizatul Azhar、撮影はSiyoung Song。ダニエルはNewJeansからNJZへの改名を「新しい始まり」と語り、香港のComplexConで新曲とともにNJZとしてデビューする計画、子役時代から2022年のNewJeans加入までの歩み、セリーヌ、カルバン・クライン、オメガ、YSLビューティーのアンバサダー活動と自分のスタイル、アウトドアや絶叫系の遊びへの関心、姉とカフェとアートギャラリーを開きたいという夢を話した。",
       "en": "Danielle fronted the March issue under the NJZ name, with the cover story 'NJZ's Danielle Marsh In Her Element' published online on February 28. Written by Rohaizatul Azhar and photographed by Siyoung Song, it was shot in Seoul on a winter morning. Danielle called the rebrand from NewJeans to NJZ a new beginning and discussed the planned NJZ debut with new music at ComplexCon in Hong Kong, her path from child television appearances to joining NewJeans in 2022, her ambassadorships with Celine, Calvin Klein, Omega and YSL Beauty and her personal style, her love of the outdoors and thrill-seeking, and a wish to open a cafe and art gallery with her sister."
@@ -4278,9 +4310,9 @@
     }
   },
   {
-    "id": "magazine-2025-04-16-spur-2025-06-danielle-celine",
-    "date": "2025-04-16",
-    "date_type": "announce",
+    "id": "magazine-2025-04-23-spur-2025-06-danielle-celine",
+    "date": "2025-04-23",
+    "date_type": "publish",
     "date_precision": "day",
     "category": "magazine",
     "entity": "newjeans",
@@ -4292,12 +4324,12 @@
       "en": "SPUR June 2025 cover - Danielle x Celine"
     },
     "summary": {
-      "ja": "日本の雑誌『SPUR』が公式SNSで、ダニエルとセリーヌによる6月号の表紙を公開した。",
-      "en": "Japan's SPUR revealed its June cover of Danielle with Celine on its official social media."
+      "ja": "セリーヌのグローバルアンバサダーのダニエルが「夏の日差し」をテーマに表紙を飾った『SPUR』2025年6月号。",
+      "en": "Celine global ambassador Danielle on the cover of SPUR's June 2025 issue, themed on summer sunshine."
     },
     "detail": {
-      "ja": "『SPUR』が公式SNSで、セリーヌのグローバルアンバサダーのダニエルによる6月号表紙を公開した。「夏の日差し」をテーマに、2025年サマーコレクションのクロシェのトップスやストライプのフレアパンツなどを着こなした。",
-      "en": "SPUR revealed on its official social media the June cover of Celine global ambassador Danielle. Themed around summer sunshine, the shoot shows her in Summer 2025 pieces including a crochet top and striped flared trousers."
+      "ja": "『SPUR』2025年6月号の表紙を、セリーヌのグローバルアンバサダーのダニエルが飾った。表紙は4月16日に同誌の公式SNSで公開された。「夏の日差し」をテーマに、2025年サマーコレクションのクロシェのトップスやストライプのフレアパンツなどを着こなした。",
+      "en": "Celine global ambassador Danielle covered SPUR's June 2025 issue, revealed on the magazine's official social media on April 16. Themed around summer sunshine, the shoot shows her in Summer 2025 pieces including a crochet top and striped flared trousers."
     },
     "source_url": "https://v.daum.net/v/20250416132659825",
     "media": {
@@ -4316,60 +4348,17 @@
       "japan"
     ],
     "verified": true,
-    "editor_note": "Ilgan Sports (2025-04-16). Within the NJZ period, but SPUR/Celine presented her as Celine ambassador Danielle; the NJZ name is not confirmed in sources, so entity newjeans (cf. magazine-2025-03-01-elle-singapore-2025-03-danielle, which was under NJZ). / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: Ilgan Sports (2025-04-16 13:26) reports SPUR revealed the June cover on its official SNS on the 16th (Celine Summer 2025, summer-sunshine theme). The record date is the cover reveal, so date_type changed from publish to announce; on-sale date not confirmed (SPUR/Shueisha blocked).",
+    "editor_note": "Ilgan Sports (2025-04-16). Within the NJZ period, but SPUR/Celine presented her as Celine ambassador Danielle; the NJZ name is not confirmed in sources, so entity newjeans (cf. magazine-2025-03-01-elle-singapore-2025-03-danielle, which was under NJZ). / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: Ilgan Sports (2025-04-16 13:26) reports SPUR revealed the June cover on its official SNS on the 16th (Celine Summer 2025, summer-sunshine theme). The record date is the cover reveal, so date_type changed from publish to announce; on-sale date not confirmed (SPUR/Shueisha blocked). / 2026-10-26 nightly: on-sale date 2025-04-23 per Rakuten Books: 'SPUR (シュプール) 2025年 6月号 [雑誌]' (rb/18208177) 2025年04月23日発売; the same-day 増刊 is 'SPUR6月号増刊 石川祐希 表紙版' (rb/18211862), so Danielle's cover is the regular edition. The previous date 2025-04-16 was the SNS cover reveal (Ilgan Sports); date_type changed back from announce to publish, reveal kept in detail as an earlier fact.",
     "reference_urls": [
-      "https://v.daum.net/v/20250416132659825"
+      "https://v.daum.net/v/20250416132659825",
+      "https://books.rakuten.co.jp/search?sitem=SPUR+2025%E5%B9%B4+6%E6%9C%88%E5%8F%B7&g=000"
     ]
   },
   {
-    "id": "magazine-2026-09-01-harpers-bazaar-korea-2026-09-hyein",
-    "date": "2026-09-01",
+    "id": "magazine-2026-08-21-marie-claire-korea-2026-09-haerin",
+    "date": "2026-08-21",
     "date_type": "publish",
-    "date_precision": "month",
-    "category": "magazine",
-    "entity": "newjeans",
-    "members": [
-      "hyein"
-    ],
-    "title": {
-      "ja": "Harper's BAZAAR Korea 2026年9月号 表紙 — ヘイン × Bottega Veneta「In Between」",
-      "en": "Harper's Bazaar Korea September 2026 cover - Hyein x Bottega Veneta 'In Between'",
-      "original": "돌아온 뉴진스 혜인, 열아홉 그리고 보테가 베네타"
-    },
-    "summary": {
-      "ja": "ADOR復帰後初の個人活動として、19歳のヘインがボッテガ・ヴェネタで少女と大人のはざまを写した9月号の表紙。",
-      "en": "Hyein's first solo activity after returning to ADOR: at nineteen, between girlhood and adulthood, in Bottega Veneta on the September 2026 cover."
-    },
-    "source_url": "https://www.harpersbazaar.co.kr/article/1908358",
-    "reference_urls": [
-      "https://sports.khan.co.kr/en/article/202608241435007"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "bottega-veneta"
-    ],
-    "verified": true,
-    "detail": {
-      "ja": "ADOR復帰後初の個人活動となった9月号の表紙で、8月24日に公開された。企画タイトルは「In Between」で、19歳のヘインが少女と大人の境界に立つ姿を素顔に近いノーメイクで撮影した。衣装とバッグ、アクセサリーは、Louise Trotterがミラノの暮らしや建築、装いの文化から着想したボッテガ・ヴェネタ2026ウィンターコレクション。ヘインは久しぶりの撮影で大人びた姿を見せる期待と緊張、15歳の頃から性格や習慣、優先順位は変わったが親父ギャグ好きは変わらないことを語り、ファンに日々の小さな幸せを願った。デジタルコンテンツは誌面とともにharpersbazaar.co.kr、Instagram、YouTubeで公開された。",
-      "en": "The September cover, Hyein's first solo activity after returning to ADOR, revealed August 24. Titled 'In Between', the shoot captured Hyein at nineteen on the line between girlhood and womanhood, nearly bare-faced. Looks, bags and accessories came from Bottega Veneta's Winter 2026 collection, which creative director Louise Trotter drew from Milan's lifestyle, architecture and dressing culture. Hyein said she was excited and nervous to show a more grown-up side in her first shoot in a long time, that her personality, habits and priorities had changed since age fifteen while her taste for dad jokes had not, and wished fans small everyday happiness. Digital content ran on harpersbazaar.co.kr, Instagram and YouTube alongside the print issue."
-    },
-    "credits": {
-      "publisher": "Harper's Bazaar Korea (Hearst JoongAng)",
-      "editor": {
-        "ja": "ユン・ヘヨン",
-        "en": "Yoon Hye-young"
-      },
-      "brand": "Bottega Veneta"
-    },
-    "editor_note": "Only 'Photo: Harper's Bazaar Korea' credited; number of covers not stated. / 公式ページのクレジットは「Photo: Harper's Bazaar Korea」のみ。カバーの種類数は明記なし。 / Cut for length: article title 'NewJeans Hyein returns, nineteen, and Bottega Veneta' (in title.original); byline Yoon Hye-young (retained in credits). / 2026-10-23 nightly: 発売日2026-09-07を出版社・販売店のページで確認できず（検索では表紙公開日のみ）。月精度のまま維持。 / 2026-10-26 nightly: 出版社の同号I.N記事（harpersbazaar.co.kr/article/1908260、2026-08-21）に「8월 20일 발간되는 〈하퍼스 바자〉 2026년 9월호」とある。一方、教保文庫の「바자(2026년 9월호)」はE形2026-08-21、A〜D形2026-09-04、F・G形2026-09-11と形ごとに出版日が異なり、ヘインの記事の購入リンク（m.site.naver.com/2f0Xg）はI.N版（Yes24 195275000）とは別のYes24商品195275029を指すが、同商品は削除済みで日付を確認できない。Xportsnews（2026-08-23）はヘインを「인사이드 커버」と書く。キューの2026-09-07はどの資料とも一致しない。ヘイン版の発売日が08-20か後日の別形かはオーナー判断待ちのため月精度を維持。"
-  },
-  {
-    "id": "magazine-2026-09-01-marie-claire-korea-2026-09-haerin",
-    "date": "2026-09-01",
-    "date_type": "publish",
-    "date_precision": "month",
+    "date_precision": "day",
     "category": "magazine",
     "entity": "newjeans",
     "members": [
@@ -4386,7 +4375,8 @@
     },
     "source_url": "https://www.marieclairekorea.com/beauty/2026/08/dior-with-haerin/",
     "reference_urls": [
-      "https://www.koreatimes.co.kr/entertainment/k-pop/20260814/newjeans-haerin-graces-magazine-cover-in-1st-project-since-returning-to-ador"
+      "https://www.koreatimes.co.kr/entertainment/k-pop/20260814/newjeans-haerin-graces-magazine-cover-in-1st-project-since-returning-to-ador",
+      "https://search.kyobobook.co.kr/search?keyword=%EB%A7%88%EB%A6%AC%EB%81%8C%EB%A0%88%EB%A5%B4+2026%EB%85%84+9%EC%9B%94%ED%98%B8"
     ],
     "media": {
       "type": "none"
@@ -4431,6 +4421,51 @@
       },
       "brand": "Dior Beauty"
     },
-    "editor_note": "Marie Claire page says the multi-cover project involves three individuals; the other two cover subjects are not named on Haerin's page. / Cut for length: photography Kim Sin-ae, makeup Lee Na-gyeom, hair Lee Hye-jin, styling Choi Yu-mi, nails Kim Su-ji, production Jang Bo-ram (retained in credits), prop styling Lee Ye-seul, location Jo Gyeong-jong. / 2026-10-23 nightly: 発売日2026-08-25を出版社・販売店のページで確認できず（検索では表紙公開日のみ）。月精度のまま維持。 / 2026-10-26 nightly: 教保文庫の検索結果で「마리끌레르(2026년 9월호)」A〜G形の全7種の出版日がいずれも2026-08-21（MCK퍼블리싱、全種品切れ）。キューにある2026-08-25とは一致せず、ヘリンの表紙がどの形か、出版社自身の発売日告知は見つからない（教保の商品ページは本文が空で取得できず、Aladin・Yes24では9月号が検索に出ない）。書店の登録日と出版社日付の扱いはオーナー判断待ちのため月精度を維持。"
+    "editor_note": "Marie Claire page says the multi-cover project involves three individuals; the other two cover subjects are not named on Haerin's page. / Cut for length: photography Kim Sin-ae, makeup Lee Na-gyeom, hair Lee Hye-jin, styling Choi Yu-mi, nails Kim Su-ji, production Jang Bo-ram (retained in credits), prop styling Lee Ye-seul, location Jo Gyeong-jong. / 2026-10-23 nightly: 発売日2026-08-25を出版社・販売店のページで確認できず（検索では表紙公開日のみ）。月精度のまま維持。 / 2026-10-26 nightly: 教保文庫の検索結果で「마리끌레르(2026년 9월호)」A〜G形の全7種の出版日がいずれも2026-08-21（MCK퍼블리싱、全種品切れ）。キューにある2026-08-25とは一致せず、ヘリンの表紙がどの形か、出版社自身の発売日告知は見つからない（教保の商品ページは本文が空で取得できず、Aladin・Yes24では9月号が検索に出ない）。書店の登録日と出版社日付の扱いはオーナー判断待ちのため月精度を維持。 / 2026-10-26 nightly: on-sale date 2026-08-21 per Kyobo: '마리끌레르(2026년 9월호)' A through G all have 출간일 2026-08-21 (마리끌레르+메종 bundle 08-31), and the Kyobo cover images show Haerin on A (pdt/3904000627755), B (3904000627762) and G (3904000627823), the others being Nam Joo-hyuk and Kim Yuna. Since every edition has the same date, Haerin's cover editions are on sale 08-21. The queue's 2026-08-25 matches no source. Date moved from month precision (2026-09)."
+  },
+  {
+    "id": "magazine-2026-09-04-harpers-bazaar-korea-2026-09-hyein",
+    "date": "2026-09-04",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "magazine",
+    "entity": "newjeans",
+    "members": [
+      "hyein"
+    ],
+    "title": {
+      "ja": "Harper's BAZAAR Korea 2026年9月号 表紙 — ヘイン × Bottega Veneta「In Between」",
+      "en": "Harper's Bazaar Korea September 2026 cover - Hyein x Bottega Veneta 'In Between'",
+      "original": "돌아온 뉴진스 혜인, 열아홉 그리고 보테가 베네타"
+    },
+    "summary": {
+      "ja": "ADOR復帰後初の個人活動として、19歳のヘインがボッテガ・ヴェネタで少女と大人のはざまを写した9月号の表紙。",
+      "en": "Hyein's first solo activity after returning to ADOR: at nineteen, between girlhood and adulthood, in Bottega Veneta on the September 2026 cover."
+    },
+    "source_url": "https://www.harpersbazaar.co.kr/article/1908358",
+    "reference_urls": [
+      "https://sports.khan.co.kr/en/article/202608241435007",
+      "https://search.kyobobook.co.kr/search?keyword=%EB%B0%94%EC%9E%90+2026%EB%85%84+9%EC%9B%94%ED%98%B8"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "bottega-veneta"
+    ],
+    "verified": true,
+    "detail": {
+      "ja": "ADOR復帰後初の個人活動となった9月号の表紙で、8月24日に公開された。企画タイトルは「In Between」で、19歳のヘインが少女と大人の境界に立つ姿を素顔に近いノーメイクで撮影した。衣装とバッグ、アクセサリーは、Louise Trotterがミラノの暮らしや建築、装いの文化から着想したボッテガ・ヴェネタ2026ウィンターコレクション。ヘインは久しぶりの撮影で大人びた姿を見せる期待と緊張、15歳の頃から性格や習慣、優先順位は変わったが親父ギャグ好きは変わらないことを語り、ファンに日々の小さな幸せを願った。デジタルコンテンツは誌面とともにharpersbazaar.co.kr、Instagram、YouTubeで公開された。",
+      "en": "The September cover, Hyein's first solo activity after returning to ADOR, revealed August 24. Titled 'In Between', the shoot captured Hyein at nineteen on the line between girlhood and womanhood, nearly bare-faced. Looks, bags and accessories came from Bottega Veneta's Winter 2026 collection, which creative director Louise Trotter drew from Milan's lifestyle, architecture and dressing culture. Hyein said she was excited and nervous to show a more grown-up side in her first shoot in a long time, that her personality, habits and priorities had changed since age fifteen while her taste for dad jokes had not, and wished fans small everyday happiness. Digital content ran on harpersbazaar.co.kr, Instagram and YouTube alongside the print issue."
+    },
+    "credits": {
+      "publisher": "Harper's Bazaar Korea (Hearst JoongAng)",
+      "editor": {
+        "ja": "ユン・ヘヨン",
+        "en": "Yoon Hye-young"
+      },
+      "brand": "Bottega Veneta"
+    },
+    "editor_note": "Only 'Photo: Harper's Bazaar Korea' credited; number of covers not stated. / 公式ページのクレジットは「Photo: Harper's Bazaar Korea」のみ。カバーの種類数は明記なし。 / Cut for length: article title 'NewJeans Hyein returns, nineteen, and Bottega Veneta' (in title.original); byline Yoon Hye-young (retained in credits). / 2026-10-23 nightly: 発売日2026-09-07を出版社・販売店のページで確認できず（検索では表紙公開日のみ）。月精度のまま維持。 / 2026-10-26 nightly: 出版社の同号I.N記事（harpersbazaar.co.kr/article/1908260、2026-08-21）に「8월 20일 발간되는 〈하퍼스 바자〉 2026년 9월호」とある。一方、教保文庫の「바자(2026년 9월호)」はE形2026-08-21、A〜D形2026-09-04、F・G形2026-09-11と形ごとに出版日が異なり、ヘインの記事の購入リンク（m.site.naver.com/2f0Xg）はI.N版（Yes24 195275000）とは別のYes24商品195275029を指すが、同商品は削除済みで日付を確認できない。Xportsnews（2026-08-23）はヘインを「인사이드 커버」と書く。キューの2026-09-07はどの資料とも一致しない。ヘイン版の発売日が08-20か後日の別形かはオーナー判断待ちのため月精度を維持。 / 2026-10-26 nightly: on-sale date 2026-09-04: Hyein's cover edition is '바자(2026년 9월호)(D형)' on Kyobo, 출간일 2026-09-04; its cover image (pdt/3904000628646, viewed at 900px) shows three HYEIN covers (red knit dress on a red sofa, beige knit in a sandpit with a toy dinosaur, black leather on yellow). The other editions are I.N (A, B, C 09-04; F, G boxed 09-11) and Celine Dion (E, 08-21). The publisher's I.N article (1908260) says the issue is '8월 20일 발간', which matches neither the Kyobo I.N editions (09-04/09-11) nor Hyein's D edition; the rule takes the member's edition, so Kyobo D형 09-04 is used. The queue's 2026-09-07 matches no source. Date moved from month precision (2026-09)."
   }
 ]
