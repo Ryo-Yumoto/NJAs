@@ -32,7 +32,8 @@ def main(paths):
         if not where: print("missing:", pid); continue
         f, r = where
         for k, v in pt.items():
-            if k in ("resolution", "editor_note_add"): continue
+            if k in ("resolution", "editor_note_add", "needs_decision"): continue
+            if v is None: r.pop(k, None); continue  # null removes the field
             if k in ("title", "summary", "detail") and isinstance(v, dict): r[k] = {**(r.get(k) or {}), **v}
             else: r[k] = v
         if pt.get("editor_note_add"): r["editor_note"] = (r.get("editor_note") + " / " if r.get("editor_note") else "") + pt["editor_note_add"].strip()

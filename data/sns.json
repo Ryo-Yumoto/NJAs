@@ -2100,6 +2100,47 @@
     "editor_note": "Instagram page not fetchable; shortcode Ct9TWNryz_O found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-06-27 00:00:56 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode Ct9TWNryz_O embedded in Marie Claire Korea's 2023-06-29 article, which describes the teaser; time derived from the shortcode (= 2023-06-27 00:00:56 KST). Caption not retrieved; content described from the article context. / 2026-10-24 nightly: Instagram oembedで本文「NewJeans 'ASAP' Teaser」と投稿時刻（media_id=2023-06-27 00:00:56 KST）、サムネイル画像（金髪の5人が草原に寝そべる）を確認。HYBE LABELSの「ASAP」Teaser（CgNVotVutx0）は2023-06-27（KST）。「暗い森で誰かを探す」は確認できず本文から外した。"
   },
   {
+    "id": "sns-2023-06-28-get-up-packshot",
+    "date": "2023-06-28",
+    "date_type": "post",
+    "date_precision": "day",
+    "category": "sns",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "『Get Up』パックショット公開",
+      "en": "'Get Up' album packshot"
+    },
+    "summary": {
+      "ja": "2nd EP『Get Up』のパックショットで、Bunny Beach Bag ver.など3形態の構成と日本での予約価格を示した。",
+      "en": "Packshots for the 2nd EP Get Up, showing the three formats, the Bunny Beach Bag ver. contents and Japan pre-order prices."
+    },
+    "source_url": "https://x.com/NewJeans_ADOR",
+    "reference_urls": [
+      "https://kstyle.com/article.ksn?articleNo=2220733",
+      "https://www.spotvnews.co.kr/news/articleView.html?idxno=616938"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "packshot"
+    ],
+    "verified": false,
+    "editor_note": "Date from kstyle via ja.wikipedia. Status URL not recovered. | Kstyle states the packshot was released on the 28th (KST), not the 30th; the record date reflects the article date. Possible duplicate of the 06-28/06-29 Instagram packaging post. / All details from Kstyle (2023-06-30, via ja.wikipedia), which dates the packshot release to the 28th (KST); the record date reflects the article date. Official X status not recovered (source_url is the account page). Possible duplicate of the 06-28/06-29 Instagram packaging post. / Cut for length (ja detail only): photobook themes such as '10 Things LOVE ABOUT SUMMER' (kept in detail.en). / 2026-10-24 nightly: still unconfirmed. The official status was not found (fxtwitter needs a status id; web search for the packshot post found nothing); the only official 06-28 posts recorded are the X '2nd EP Photo' post and Instagram CuCIRW0LFCs (06-28 21:00 KST, caption is only an emoji and hashtags, no packshot text). Kstyle dates the packshot to 06-28, so the 06-30 date is likely the article date; overlaps sns-2023-06-29-get-up-bunny-beach-bag-packaging. / 2026-10-26 nightly: compared with sns-2023-06-28-instagram-get-up-era-post-0628 and judged distinct. SPOTV News (2023-06-29) says the album packshot was released by ADOR on the 28th ('28일 소속사 어도어가 공개한 뉴진스 앨범 팩샷'), showing the three formats and the Bunny Beach Bag contents; Kstyle (2023-06-30 14:45) also dates it to the 28th. The Instagram post CuCIRW0LFCs (21:00 KST) is a single member photo with an emoji caption and does not show the three formats, so it is not the packshot. Date moved from the Kstyle article date (06-30) to 06-28. The channel ADOR used for the packshot (X, Weverse or press release) is still not identified; if it was a press-only release, the record may belong outside sns.",
+    "detail": {
+      "ja": "2nd EP『Get Up』のパックショット。6月28日公開で、Bunny Beach Bag ver.、THE POWERPUFF GIRLS X NJ Box ver.、Weverse Albums ver.の3形態。Bunny Beach Bag ver.はピンク・ホワイト・ブルーの3色で、フォトブック、歌詞、フォトカード、ステッカー、ポストカード、しおり、CD入り。日本では6月19日11時に予約開始、Bunny Beach Bag ver.3,025円、Box ver.2,750円（税込）、お届け予定日は7月22日だった。",
+      "en": "Packshots for the 2nd EP Get Up, released on June 28, showing three formats: Bunny Beach Bag ver., THE POWERPUFF GIRLS X NJ Box ver. and Weverse Albums ver. The Bunny Beach Bag ver. comes in pink, white and blue with a photobook, lyrics, photocards, stickers, postcards, a bookmark and the CD, and the photobook carries themes such as '10 Things LOVE ABOUT SUMMER'. Japan pre-orders opened on June 19 at 11:00 at 3,025 JPY (Bunny Beach Bag ver.) and 2,750 JPY (Box ver.), tax included, with delivery scheduled for July 22."
+    },
+    "credits": {
+      "label": "ADOR",
+      "collaboration": "Cartoon Network (The Powerpuff Girls)"
+    },
+    "platform": "x"
+  },
+  {
     "id": "sns-2023-06-28-get-up-2nd-ep-photo-post",
     "date": "2023-06-28",
     "time": "00:00",
@@ -2276,47 +2317,7 @@
       "packaging"
     ],
     "verified": true,
-    "editor_note": "Instagram page not fetchable; shortcode CuCIRW0LFCs found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-06-28 21:00:21 KST. Post caption not retrieved; content described from the article context. | removed from reader text: [detail.ja] 投稿の本文・画像は未確認。 [detail.en] Caption and images not confirmed. / Instagram page not fetchable; shortcode CuCIRW0LFCs embedded at the top of Marie Claire Korea's 2023-06-29 comeback article; time derived from the shortcode (= 21:00:21 KST). Caption and images not retrieved; nothing beyond timing is known about its content. / 2026-10-24 nightly: Instagram oembedで本文「🏖 #NewJeans #뉴진스 #NewJeans_GetUp #Time_to_NewJeans」、投稿時刻（media_id=2023-06-28 21:00:21 KST）、サムネイル（白いバッグを持つメンバー）を確認。同じ投稿をsns-2023-06-29-get-up-bunny-beach-bag-packagingも扱っており重複の可能性（要判断）。 / 2026-10-26 nightly: merged sns-2023-06-29-get-up-bunny-beach-bag-packaging: 同じInstagram投稿CuCIRW0LFCs（2023-06-28 21:00:21 KST）を扱う重複。削除側の日付06-29はSoompiの更新日（'Updated June 29 KST: ... sneak peek of the album packaging for their \"Bunny Beach Bag\" version'、2026-10-26再取得）で、source_urlもXアカウントのトップだった。写真の白いバッグをBunny Beach Bag ver.のパッケージとする同定はSoompiの記述によるため、Soompiをreference_urlsに追加。sns-2023-06-30-get-up-packshot（Kstyle記事日）も同じ06-28の公開と重なる可能性があり、別途確認が必要。"
-  },
-  {
-    "id": "sns-2023-06-30-get-up-packshot",
-    "date": "2023-06-30",
-    "date_type": "post",
-    "date_precision": "day",
-    "category": "sns",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "『Get Up』パックショット公開",
-      "en": "'Get Up' album packshot"
-    },
-    "summary": {
-      "ja": "2nd EP『Get Up』のパックショットで、Bunny Beach Bag ver.など3形態の構成と日本での予約価格を示した。",
-      "en": "Packshots for the 2nd EP Get Up, showing the three formats, the Bunny Beach Bag ver. contents and Japan pre-order prices."
-    },
-    "source_url": "https://x.com/NewJeans_ADOR",
-    "reference_urls": [
-      "https://kstyle.com/article.ksn?articleNo=2220733"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "packshot"
-    ],
-    "verified": false,
-    "editor_note": "Date from kstyle via ja.wikipedia. Status URL not recovered. | Kstyle states the packshot was released on the 28th (KST), not the 30th; the record date reflects the article date. Possible duplicate of the 06-28/06-29 Instagram packaging post. / All details from Kstyle (2023-06-30, via ja.wikipedia), which dates the packshot release to the 28th (KST); the record date reflects the article date. Official X status not recovered (source_url is the account page). Possible duplicate of the 06-28/06-29 Instagram packaging post. / Cut for length (ja detail only): photobook themes such as '10 Things LOVE ABOUT SUMMER' (kept in detail.en). / 2026-10-24 nightly: still unconfirmed. The official status was not found (fxtwitter needs a status id; web search for the packshot post found nothing); the only official 06-28 posts recorded are the X '2nd EP Photo' post and Instagram CuCIRW0LFCs (06-28 21:00 KST, caption is only an emoji and hashtags, no packshot text). Kstyle dates the packshot to 06-28, so the 06-30 date is likely the article date; overlaps sns-2023-06-29-get-up-bunny-beach-bag-packaging.",
-    "detail": {
-      "ja": "2nd EP『Get Up』のパックショット。6月28日公開で、Bunny Beach Bag ver.、THE POWERPUFF GIRLS X NJ Box ver.、Weverse Albums ver.の3形態。Bunny Beach Bag ver.はピンク・ホワイト・ブルーの3色で、フォトブック、歌詞、フォトカード、ステッカー、ポストカード、しおり、CD入り。日本では6月19日11時に予約開始、Bunny Beach Bag ver.3,025円、Box ver.2,750円（税込）、お届け予定日は7月22日だった。",
-      "en": "Packshots for the 2nd EP Get Up, released on June 28, showing three formats: Bunny Beach Bag ver., THE POWERPUFF GIRLS X NJ Box ver. and Weverse Albums ver. The Bunny Beach Bag ver. comes in pink, white and blue with a photobook, lyrics, photocards, stickers, postcards, a bookmark and the CD, and the photobook carries themes such as '10 Things LOVE ABOUT SUMMER'. Japan pre-orders opened on June 19 at 11:00 at 3,025 JPY (Bunny Beach Bag ver.) and 2,750 JPY (Box ver.), tax included, with delivery scheduled for July 22."
-    },
-    "credits": {
-      "label": "ADOR",
-      "collaboration": "Cartoon Network (The Powerpuff Girls)"
-    },
-    "platform": "x"
+    "editor_note": "Instagram page not fetchable; shortcode CuCIRW0LFCs found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2023-06-28 21:00:21 KST. Post caption not retrieved; content described from the article context. | removed from reader text: [detail.ja] 投稿の本文・画像は未確認。 [detail.en] Caption and images not confirmed. / Instagram page not fetchable; shortcode CuCIRW0LFCs embedded at the top of Marie Claire Korea's 2023-06-29 comeback article; time derived from the shortcode (= 21:00:21 KST). Caption and images not retrieved; nothing beyond timing is known about its content. / 2026-10-24 nightly: Instagram oembedで本文「🏖 #NewJeans #뉴진스 #NewJeans_GetUp #Time_to_NewJeans」、投稿時刻（media_id=2023-06-28 21:00:21 KST）、サムネイル（白いバッグを持つメンバー）を確認。同じ投稿をsns-2023-06-29-get-up-bunny-beach-bag-packagingも扱っており重複の可能性（要判断）。 / 2026-10-26 nightly: merged sns-2023-06-29-get-up-bunny-beach-bag-packaging: 同じInstagram投稿CuCIRW0LFCs（2023-06-28 21:00:21 KST）を扱う重複。削除側の日付06-29はSoompiの更新日（'Updated June 29 KST: ... sneak peek of the album packaging for their \"Bunny Beach Bag\" version'、2026-10-26再取得）で、source_urlもXアカウントのトップだった。写真の白いバッグをBunny Beach Bag ver.のパッケージとする同定はSoompiの記述によるため、Soompiをreference_urlsに追加。sns-2023-06-28-get-up-packshot（Kstyle記事日）も同じ06-28の公開と重なる可能性があり、別途確認が必要。"
   },
   {
     "id": "sns-2023-07-05-super-shy-release-poster",

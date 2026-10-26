@@ -996,49 +996,6 @@
     ]
   },
   {
-    "id": "goods-2023-03-30-bunnies-global-official-fanclub-membership",
-    "date": "2023-03-30",
-    "date_type": "sale_start",
-    "date_precision": "day",
-    "category": "goods",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "グローバル公式ファンクラブ「Bunnies」メンバーシップ開始",
-      "en": "Global Official Fanclub 'Bunnies' Membership opens"
-    },
-    "summary": {
-      "ja": "多様なコンテンツとイベントで構成する、グローバル公式ファンクラブ「Bunnies」メンバーシップの加入受付が始まった。",
-      "en": "Sign-up opened for the 'Bunnies' Global Official Fanclub membership, built around content and events."
-    },
-    "source_url": "https://weverse.io/newjeansofficial/notice/12893",
-    "reference_urls": [],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "membership",
-      "bunnies"
-    ],
-    "verified": true,
-    "editor_note": "Membership kit contents/date not confirmed from an official page. | Notice 12893 read via WebFetch (ko/en). Membership price and kit still unconfirmed. / From Weverse notice 12893 (read via WebFetch, ko/en); the notice gives no price, benefits or kit contents, and these remain unconfirmed from an official page. The 12 May 2023 notice making the fan meeting 2 DAY PASS membership-only was dropped from reader text as later than the record date. / cover only: 2023 Bunnies membership card image from the Weverse Shop membership listing (JAPAN shop, sales/14367, opened with the GL membership on 2023-03-30); the GL listing of 2023 is no longer served and no kit images were published",
-    "detail": {
-      "ja": "NewJeansのグローバル公式ファンクラブ「Bunnies」メンバーシップの加入受付が、11時（KST）にWeverseで始まった。Weverseは事前の告知で、多様なコンテンツとイベントで構成するメンバーシップの新規加入について3月30日に追って案内するとしていた。同じ告知では公式ペンライトについても、3月29日11時に商品公開、30日11時と18時に販売開始と案内された。",
-      "en": "Sign-up for the NewJeans Global Official Fanclub 'Bunnies' Membership opened on Weverse at 11:00 KST. Weverse's advance notice had said details of new sign-ups for the membership, built around a range of content and events, would follow on March 30. The same notice covered the official light stick: product reveal on March 29 at 11:00 and sales on March 30 at 11:00 and 18:00."
-    },
-    "credits": {
-      "platform": "Weverse",
-      "label": "ADOR"
-    },
-    "image": {
-      "path": "goods/goods-2023-03-30-bunnies-global-official-fanclub-membership/cover.jpg",
-      "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/14367"
-    },
-    "local_assets": []
-  },
-  {
     "id": "goods-2023-03-30-official-light-stick-binky-bong",
     "date": "2023-03-30",
     "date_type": "sale_start",
@@ -1115,6 +1072,53 @@
       "Light Stick & Parts Set (HYEIN)",
       "Light Stick & Parts Set (NJ & TOKKI)"
     ]
+  },
+  {
+    "id": "goods-2023-03-30-bunnies-global-official-fanclub-membership",
+    "date": "2023-03-30",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "グローバル公式ファンクラブ「Bunnies」メンバーシップ開始",
+      "en": "Global Official Fanclub 'Bunnies' Membership opens"
+    },
+    "summary": {
+      "ja": "多様なコンテンツとイベントで構成する、グローバル公式ファンクラブ「Bunnies」メンバーシップの加入受付が始まった。",
+      "en": "Sign-up opened for the 'Bunnies' Global Official Fanclub membership, built around content and events."
+    },
+    "source_url": "https://weverse.io/newjeansofficial/notice/12893",
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=M3yExM39L9Y",
+      "https://x.com/NewJeans_ADOR/status/1640896559234662400"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "membership",
+      "bunnies"
+    ],
+    "verified": true,
+    "editor_note": "Membership kit contents/date not confirmed from an official page. | Notice 12893 read via WebFetch (ko/en). Membership price and kit still unconfirmed. / From Weverse notice 12893 (read via WebFetch, ko/en); the notice gives no price, benefits or kit contents, and these remain unconfirmed from an official page. The 12 May 2023 notice making the fan meeting 2 DAY PASS membership-only was dropped from reader text as later than the record date. / cover only: 2023 Bunnies membership card image from the Weverse Shop membership listing (JAPAN shop, sales/14367, opened with the GL membership on 2023-03-30); the GL listing of 2023 is no longer served and no kit images were published / 2026-10-26 nightly: merged notice-2023-03-30-bunnies-membership-open (same Weverse notice 12893, same 2023-03-30 11:00 KST sign-up opening; the notice record was dated to the opening itself with date_type event, not to the notice's posting, so it described the same event as this sale_start record). Moved from it: time 11:00, sign-up venue Weverse Shop and the same-day YouTube video 'Bunnies Membership OPEN!' (description 'Membership 2023.03.30 THU. 11AM (KST) @NewJeans Weverseshop', checked 2026-10-24), and its X image post as a reference. Light stick details stay in goods-2023-03-30-official-light-stick-binky-bong.",
+    "detail": {
+      "ja": "NewJeansのグローバル公式ファンクラブ「Bunnies」メンバーシップの加入受付が、3月30日（木）11時（KST）にWeverse Shopで始まった。Weverseは事前の告知で、多様なコンテンツとイベントで構成するメンバーシップの新規加入について3月30日に追って案内するとしていた。同じ告知では公式ペンライトについても、3月29日11時に商品公開、30日11時と18時に販売開始と案内された。同日、公式YouTubeチャンネルには「Bunnies Membership OPEN!」が公開された。",
+      "en": "Sign-up for the NewJeans Global Official Fanclub 'Bunnies' Membership opened on Weverse Shop at 11:00 KST on Thursday, March 30. Weverse's advance notice had said details of new sign-ups for the membership, built around a range of content and events, would follow on March 30. The same notice covered the official light stick: product reveal on March 29 at 11:00 and sales on March 30 at 11:00 and 18:00. The same day, the official YouTube channel posted 'Bunnies Membership OPEN!'."
+    },
+    "credits": {
+      "platform": "Weverse",
+      "label": "ADOR"
+    },
+    "image": {
+      "path": "goods/goods-2023-03-30-bunnies-global-official-fanclub-membership/cover.jpg",
+      "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/sales/14367"
+    },
+    "local_assets": [],
+    "time": "11:00"
   },
   {
     "id": "goods-2023-04-04-light-stick-and-parts-set-2nd-round",

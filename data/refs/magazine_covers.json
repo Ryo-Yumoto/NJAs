@@ -20,7 +20,7 @@
    "date": "2022-09-23",
    "title": "GQ Korea October 2022 pictorial - group (with Comme des Garçons)",
    "url": "https://www.gqkorea.co.kr/2022/09/23/198496/",
-   "record": "magazine-2022-09-23-gq-korea-comme-des-garcons",
+   "record": "magazine-2022-09-15-gq-korea-comme-des-garcons",
    "exclude": null,
    "note": "existing record date differs: record 2022-09-26 vs source 2022-09-23"
   },
@@ -29,7 +29,7 @@
    "date": "2022-09-29",
    "title": "Harper's Bazaar Korea October 2022 Dior book-in-book and digital cover - group",
    "url": "https://www.harpersbazaar.co.kr/article/71151",
-   "record": "magazine-2022-09-29-harpers-bazaar-korea-dior-book-in-book",
+   "record": "magazine-2022-09-16-harpers-bazaar-korea-dior-book-in-book",
    "exclude": null
   },
   {
@@ -46,7 +46,7 @@
    "date": "2022-11-17",
    "title": "W Korea December 2022 cover - group (first magazine cover; Christmas pictorial shot by Min Hee-jin)",
    "url": "https://www.wkorea.com/2022/11/17/w-korea-12%ec%9b%94%ed%98%b8-%ec%bb%a4%eb%b2%84-%eb%89%b4%ec%a7%84%ec%8a%a4/",
-   "record": "magazine-2022-11-17-w-korea-2022-12-cover",
+   "record": "magazine-2022-11-26-w-korea-2022-12-cover",
    "exclude": null,
    "note": "同号のクリスマス画報は2022-11-28公開"
   },
@@ -55,7 +55,7 @@
    "date": "2022-12-04",
    "title": "W Korea December 2022 solo pictorial - Hanni (Gucci Bamboo 1947 / Cruise 2023)",
    "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
-   "record": "magazine-2022-11-17-w-korea-2022-12-cover",
+   "record": "magazine-2022-11-26-w-korea-2022-12-cover",
    "exclude": null,
    "note": "namu「구찌」節のGucci公式投稿（2022-12-04）に基づく。誌面での扱い（グループ号内の個人ページか）は要確認"
   },
@@ -81,7 +81,7 @@
    "date": "2023-02-14",
    "title": "Elle Korea March 2023 cover (3 versions) - Minji (with Chanel)",
    "url": "https://elle.co.kr/article/74982",
-   "record": "magazine-2023-03-01-elle-korea-2023-03-minji",
+   "record": "magazine-2023-02-24-elle-korea-2023-03-minji",
    "exclude": null,
    "note": "existing record is month-precision (2023-03-01); source gives 2023-02-14"
   },
@@ -90,7 +90,7 @@
    "date": "2023-02-14",
    "title": "Marie Claire Korea March 2023 30th-anniversary special cover - Hanni (with Gucci)",
    "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
-   "record": "magazine-2023-03-01-marie-claire-korea-30th-hanni-gucci",
+   "record": "magazine-2023-02-22-marie-claire-korea-30th-hanni-gucci",
    "exclude": null,
    "note": "namu表で日付欄がエル（02-14）と結合。ハニ個人ページの参考資料は2023-02-14〜03-09 | existing record is month-precision (2023-03-01); source gives 2023-02-14"
   },
@@ -99,7 +99,7 @@
    "date": "2023-02-16",
    "title": "Vogue (US) March 2023 issue pictorial - group",
    "url": "https://namu.wiki/w/NewJeans/%EA%B4%91%EA%B3%A0%20%EB%B0%8F%20%ED%99%94%EB%B3%B4",
-   "record": "magazine-2023-02-15-vogue-us-2023-03-seoul-portfolio",
+   "record": "magazine-2023-02-21-vogue-us-2023-03-seoul-portfolio",
    "exclude": null,
    "note": "namu「韓国女性アイドル初の米国Vogue掲載」、ja.wikipedia雑誌表（VOGUE 3月号、アメリカ）"
   },
@@ -135,7 +135,7 @@
    "date": "2023-04-14",
    "title": "Harper's Bazaar Korea May 2023 cover - Hyein (Louis Vuitton; youngest Bazaar Korea cover star)",
    "url": "https://harpersbazaar.co.kr/article/76724",
-   "record": "magazine-2023-05-01-harpers-bazaar-korea-2023-05-hyein",
+   "record": "magazine-2023-05-02-harpers-bazaar-korea-2023-05-hyein",
    "exclude": null,
    "note": "existing record is month-precision (2023-05-01); source gives 2023-04-14"
   },
@@ -152,7 +152,7 @@
    "date": "2023-05-12",
    "title": "Dazed Korea June 2023 cover - Danielle (with Burberry)",
    "url": "https://dazedkorea.com/2023/05/16/%ec%bd%94%eb%a6%ac%ec%95%84-6%ec%9b%94%ed%98%b8-%ec%bb%a4%eb%b2%84-5/",
-   "record": "magazine-2023-06-01-dazed-korea-2023-06-danielle",
+   "record": "magazine-2023-05-25-dazed-korea-2023-06-danielle",
    "exclude": null,
    "note": "existing record is month-precision (2023-06-01); source gives 2023-05-12"
   },
@@ -161,7 +161,7 @@
    "date": "2023-05-14",
    "title": "W Korea 15th Seoul Jazz Festival 2023 special edition cover - Minji (with Chanel)",
    "url": "https://v.daum.net/v/20230523093300145",
-   "record": "magazine-2023-05-22-w-korea-seoul-jazz-festival-2023-minji",
+   "record": "magazine-2023-05-26-w-korea-seoul-jazz-festival-2023-minji",
    "exclude": null,
    "note": "05-14は画報先行公開日 | existing record date differs: record 2023-05-23 vs source 2023-05-14"
   },
@@ -205,7 +205,7 @@
    "date": "2023-06-15",
    "title": "W Korea Vol.7 (July 2023) pictorial - Danielle (with Omega)",
    "url": "https://www.wkorea.com/2023/06/19/%eb%89%b4%ec%a7%84%ec%8a%a4-%eb%8b%a4%eb%8b%88%ec%97%98%ea%b3%bc-%ec%98%a4%eb%a9%94%ea%b0%80%ea%b0%80-%ea%b7%b8%eb%a6%ac%eb%8a%94-%eb%b9%9b%ec%9d%98-%ec%84%b8%ea%b3%84/",
-   "record": "magazine-2023-06-19-w-korea-2023-07-danielle-omega",
+   "record": "magazine-2023-06-22-w-korea-2023-07-danielle-omega",
    "exclude": null,
    "note": "W Korea先行公開06-15、本編06-19 | existing record date differs: record 2023-06-22 vs source 2023-06-15"
   },
@@ -214,7 +214,7 @@
    "date": "2023-06-15",
    "title": "W Korea Vol.7 (July 2023) cover - Hanni (with Gucci)",
    "url": "https://www.wkorea.com/?p=240334",
-   "record": "magazine-2023-06-15-w-korea-vol7-hanni",
+   "record": "magazine-2023-06-22-w-korea-vol7-hanni",
    "exclude": null,
    "note": "既存レコードの題は「June 2023」。namu・ハニ個人ページは7月号"
   },
@@ -241,7 +241,7 @@
    "date": "2023-07-08",
    "title": "Vogue Korea August 2023 digital cover - Minji (with Chanel)",
    "url": "https://lady.khan.co.kr/entertainment/article/202307101550001",
-   "record": "magazine-2023-08-01-vogue-korea-2023-08-minji",
+   "record": "magazine-2023-07-20-vogue-korea-2023-08-minji",
    "exclude": null,
    "note": "existing record is month-precision (2023-08-01); source gives 2023-07-08"
   },
@@ -302,7 +302,7 @@
    "date": "2023-09-22",
    "title": "Marie Claire Korea October 2023 pictorial 'Dream a Dream' - group (with Moose Knuckles)",
    "url": "https://www.marieclairekorea.com/fashion/2023/09/dream-a-dream/",
-   "record": "magazine-2023-09-22-marie-claire-korea-2023-10-moose-knuckles",
+   "record": "magazine-2023-09-21-marie-claire-korea-2023-10-moose-knuckles",
    "exclude": null
   },
   {
@@ -319,7 +319,7 @@
    "date": "2023-10-13",
    "title": "Marie Claire Korea November 2023 cover - Danielle (with Burberry)",
    "url": "https://www.marieclairekorea.com/fashion/2023/10/daniel",
-   "record": "magazine-2023-11-01-marie-claire-korea-2023-11-danielle",
+   "record": "magazine-2023-10-20-marie-claire-korea-2023-11-danielle",
    "exclude": null,
    "note": "existing record is month-precision (2023-11-01); source gives 2023-10-13"
   },
@@ -346,7 +346,7 @@
    "date": "2023-11-15",
    "title": "Allure Korea December 2023 cover - Danielle (with Bulgari)",
    "url": "https://v.daum.net/v/20231116144323810",
-   "record": "magazine-2023-11-15-allure-korea-2023-12-danielle",
+   "record": "magazine-2023-11-21-allure-korea-2023-12-danielle",
    "exclude": null,
    "note": "existing record date differs: record 2023-11-16 vs source 2023-11-15"
   },
@@ -364,7 +364,7 @@
    "date": "2023-11-29",
    "title": "Vogue Hong Kong December 2023 cover (3 versions) - Haerin (with Dior)",
    "url": "https://v.daum.net/v/20231130125807234",
-   "record": "magazine-2023-11-29-vogue-hong-kong-2023-12-haerin",
+   "record": "magazine-2023-12-04-vogue-hong-kong-2023-12-haerin",
    "exclude": null,
    "note": "existing record date differs: record 2023-11-30 vs source 2023-11-29"
   },
