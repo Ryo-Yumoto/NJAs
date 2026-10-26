@@ -5135,14 +5135,6 @@
   "page_url": "https://www.vogue.co.kr/2024/03/01/%ed%98%9c%ec%9d%b8-%eb%aa%a8%eb%91%90-%ed%8c%8c%ec%9d%b4%ed%8c%85/",
   "w": 1400
  },
- "magazine-2024-02-28-billboard-women-in-music-2024-cover": {
-  "fetched": "2026-10-13",
-  "file": "magazine-2024-02-28-billboard-women-in-music-2024-cover.jpg",
-  "h": 630,
-  "image_url": "https://www.thefirsttimes.jp/admin/wp-content/uploads/2096/02/20240229-st-174101-1200x630.jpg",
-  "page_url": "https://www.thefirsttimes.jp/?p=391864",
-  "w": 1200
- },
  "magazine-2024-02-29-marie-claire-korea-2024-03-hanni-chaumet": {
   "fetched": "2026-10-13",
   "file": "magazine-2024-02-29-marie-claire-korea-2024-03-hanni-chaumet.jpg",
@@ -5150,6 +5142,14 @@
   "image_url": "https://img.marieclairekorea.com/2024/03/mck_65e545c88bdeb.jpg",
   "page_url": "https://www.marieclairekorea.com/?p=339269",
   "w": 800
+ },
+ "magazine-2024-03-01-billboard-women-in-music-2024-cover": {
+  "fetched": "2026-10-13",
+  "file": "magazine-2024-03-01-billboard-women-in-music-2024-cover.jpg",
+  "h": 630,
+  "image_url": "https://www.thefirsttimes.jp/admin/wp-content/uploads/2096/02/20240229-st-174101-1200x630.jpg",
+  "page_url": "https://www.thefirsttimes.jp/?p=391864",
+  "w": 1200
  },
  "magazine-2024-03-27-elle-korea-2024-05-d-edition-minji": {
   "fetched": "2026-10-13",
@@ -11213,14 +11213,6 @@
   "h": 800,
   "image_url": "https://realsound.jp/wp-content/uploads/2023/12/231226_nj_99.jpg",
   "page_url": "https://realsound.jp/2024/01/post-1535082.html",
-  "w": 1200
- },
- "web-2024-02-28-billboard-women-in-music-2024-cover-story": {
-  "fetched": "2026-10-13",
-  "file": "web-2024-02-28-billboard-women-in-music-2024-cover-story.jpg",
-  "h": 630,
-  "image_url": "https://www.thefirsttimes.jp/admin/wp-content/uploads/2096/02/20240229-st-174101-1200x630.jpg",
-  "page_url": "https://www.thefirsttimes.jp/?p=391864",
   "w": 1200
  },
  "web-2024-07-22-second-anniversary-qa": {
