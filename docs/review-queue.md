@@ -15,7 +15,6 @@
 | 2026-10-23 | notice/live Pit Stop（2025-03-23 ComplexCon） | Korea TimesはNJZ名義が舞台に出なかったとし、ミンジ・ヘインの発言を引用。レコードは「LEDにNJZ」「ハニとダニエルが声明を読んだ」。他媒体はハニの発言を引用。どれを採るか | 未決 |
 | 2026-10-24 | goods-2023-09-12-…powerpuff（旧 goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop） | 夜間照合でWeverse Shop告知4530に基づき「Weverse Shopの予約開始（09-12 11:00 KST）」に組み替えた。画像はLINE FRIENDS US（2023-09-28作成）由来。この組み替えでよいか、LINE FRIENDSの記録として別に残すか | 未決（適用済み・元に戻せる） |
 | 2026-10-24 | Billboard Women in Music 2024 の web レコードと magazine レコード | 同じ表紙を2件で扱っている。どちらかを削除するか | 未決 |
-| 2026-10-24 | SNS台帳の範囲（Weverse告知120件） | 未収録の多くは事前収録の案内、サイン会の案内、応援法、ファンクラブ告知、法的対応の経過報告。方針「告知・発売・節目・声明」に含めてレコード化するか、運営的な案内として対象外にするか | 未決 |
 | 2026-10-24 | sns-2024-05-13-instagram-fujiwara-hiroshi-tshirt-post / sns-2024-06-29-instagram-bunnies-camp-tokyo-dome-photos | 投稿者は公式ではなく @fujiwarahiroshi / @mermaidhair と確認（クレジットとタグは修正済み、本文は「公式投稿」のまま）。削除・他カテゴリへ移動・公式投稿に差し替えのどれにするか | 未決 |
 | 2026-10-24 | sns-2025-02-01-njz-official-x-account-opened | @NJZ_official の作成は 2025-02-03 22:54 KST だが、名称の公表（02-07）より前に日付を置くと名前を先に明かすことになる。作成日と公表日のどちらにするか | 未決 |
 | 2026-10-24 | sns-2023-06-29-get-up-bunny-beach-bag-packaging / sns-2023-06-28-instagram-get-up-era-post-0628 | 同じInstagram投稿（CuCIRW0LFCs、06-28 21:00 KST）を2件で扱っている。統合か削除か | 未決 |
@@ -27,7 +26,6 @@
 | 2026-10-24 | live-2023-05-03-adb-annual-meeting-opening | ADB公式の開会ページ・韓国報道にNewJeansの公演が見当たらず、根拠はWikipediaのみ。削除するか | 未決 |
 | 2026-10-24 | magazine ELLE JAPON（ヘイン）/ VOGUE Korea（ミンジ） | 号の月で日付を置いているが、方針の発売日はおそらく約1か月前。誌面の日付の基準と合わせて決める | 未決 |
 | 2026-10-24 | sns-2023-07-17-cool-with-you-mv-date-announcement | 公式投稿が見つからず、報道向け発表だけの可能性。snsでなくnoticeに移すか | 未決 |
-| 2026-10-24 | live-2023-09-14-seoul-national-univ-festival | 根拠がコミュニティ投稿だけで、出演者の投稿も食い違う。削除するか | 未決 |
 | 2026-10-24 | ad-2023-09-14 Dior ローズセレスト | ad-2023-08-14（ローズデヴァン）の日付判断と重なる。あわせて決める | 未決 |
 | 2026-10-24 | ad-2023-12-15-nike-air-max-90-lv8-campaign | Nike側の公式ページ未発見。12月ティザー（Hypebae）は黒/赤/白のAir Max 90だが、本文の配色と1/11発売はSNKRDUNKの後日更新ページと一致し、後日の内容が混入している可能性 | 未確認（2026-10-26：SNKRDUNKの配色・1/11発売・非コラボ確認は2024-02-16の追記と判明したため本文を12月15日時点の内容（白・グレーと黒・赤・白の2種のAir Max 90の映像）に直したが、Nike Seoulの投稿などの一次ソースは見つからなかった） |
 | 2026-10-24 | 2025年の裁判関連notice（entity） | 04-16・06-17・06-25はnjz、01-13・03-21・05-29・08-14・09-11はnewjeans。同じ係争の記録でentityが混在 | 未決（裁判記録のentityをどちらに揃えるか） |
