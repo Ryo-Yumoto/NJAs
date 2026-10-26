@@ -30,7 +30,11 @@ def records():
     return out
 
 def pick(mode, n, retry_days=30):
-    st = load_state(); tried = st["attempted"].get(mode, {})
+    st = load_state(); tried = dict(st["attempted"].get(mode, {}))
+    # a renamed record keeps the attempt history of its old id (data/id-aliases.json maps old -> new)
+    ap = DATA / "id-aliases.json"
+    for old, new in (json.loads(ap.read_text()) if ap.exists() else {}).items():
+        if old in tried and tried[old] > tried.get(new, "0000"): tried[new] = tried[old]
     cutoff = (date.today() - timedelta(days=retry_days)).isoformat()
     rows = records()
     if mode == "verify":
