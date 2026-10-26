@@ -10,6 +10,7 @@ third-party scripts, and allows at most 511 files per artifact version. So this:
   - writes files.json with the publish map.
 """
 import hashlib, json, re
+from urllib.parse import urlparse
 from pathlib import Path
 from PIL import Image
 
@@ -84,6 +85,8 @@ for m, lst in sorted(groups.items()):
         name = f"{m}{'' if len(parts) == 1 else '-' + chr(97 + pi)}.jpg"
         for rid, im in ims:
             sheet.paste(im, (0, y)); sprites[rid] = {"sheet": f"sprites/{name}", "y": y, "w": im.width, "h": im.height}; y += im.height
+            if rid in index:  # image credit: the page the image was taken from, and the image host (to tell YouTube thumbnails apart)
+                sprites[rid]["from"] = index[rid].get("page_url"); sprites[rid]["ih"] = urlparse(index[rid].get("image_url") or "").netloc
         sheet = sheet.crop((0, 0, W, y))
         sheet.save(OUT / "sprites" / name, "JPEG", quality=80, optimize=True, progressive=True)
         sheet_files.append(name); old.discard(name)

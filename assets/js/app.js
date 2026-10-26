@@ -140,12 +140,28 @@
   function imageOf(it) {
     if (it.image && it.image.path) return assetImg(it.image.path, it.image.source_url || it.source_url);
     if (it.local_assets && it.local_assets.length) return assetImg(it.local_assets[0], it.source_url);
-    const sp = state.sprites && state.sprites[it.id];
-    if (sp) return { sprite: sp, from: (state.images[it.id] || {}).page_url || it.source_url };
-    const a = state.images[it.id];
-    if (a) return { src: "media/auto/" + a.file, from: a.page_url };
-    if (it.media && it.media.type === "youtube" && it.media.ref) return { src: `https://i.ytimg.com/vi/${it.media.ref}/hqdefault.jpg`, from: it.source_url };
+    const sp = state.sprites && state.sprites[it.id], a = state.images[it.id];
+    const ih = (sp && sp.ih) || hostOf(a && a.image_url);
+    if (sp) return { sprite: sp, from: sp.from || (a || {}).page_url || it.source_url, ih };
+    if (a) return { src: "media/auto/" + a.file, from: a.page_url, ih };
+    if (it.media && it.media.type === "youtube" && it.media.ref) return { src: `https://i.ytimg.com/vi/${it.media.ref}/hqdefault.jpg`, from: `https://www.youtube.com/watch?v=${it.media.ref}`, ih: "i.ytimg.com" };
     return null;
+  }
+  // image credit: every displayed image names where it was taken from and links there
+  const SOURCE_NAMES = { "soompi.com": "Soompi", "v.daum.net": "Daum News", "koreajoongangdaily.joins.com": "Korea JoongAng Daily", "koreajoongangdaily.com": "Korea JoongAng Daily", "marieclairekorea.com": "marie claire Korea", "ajunews.com": "Aju News", "elle.co.kr": "ELLE Korea", "realsound.jp": "Real Sound", "newsen.com": "Newsen", "tf.co.kr": "The Fact", "vogue.co.kr": "VOGUE Korea", "newsis.com": "Newsis", "wkorea.com": "W Korea", "oricon.co.jp": "ORICON NEWS", "koreatimes.co.kr": "The Korea Times", "harpersbazaar.co.kr": "Harper's BAZAAR Korea", "mdpr.jp": "モデルプレス", "dazedkorea.com": "Dazed Korea", "rollingstone.com": "Rolling Stone", "mtn.co.kr": "MTN", "khan.co.kr": "Sports Kyunghyang", "isplus.com": "Ilgan Sports", "nme.com": "NME", "thefirsttimes.jp": "THE FIRST TIMES", "wikitree.co.kr": "Wikitree", "sportskeeda.com": "Sportskeeda", "cjenm.com": "CJ ENM", "stoo.com": "Sports Today", "snkrdunk.com": "SNKRDUNK", "bandwagon.asia": "Bandwagon", "instagram.com": "Instagram", "x.com": "X", "twitter.com": "X", "weverse.io": "Weverse", "shop.weverse.io": "Weverse Shop", "newjeans.jp": "NewJeans Japan", "newjeans.kr": "NewJeans", "tower.jp": "TOWER RECORDS", "coca-cola.com": "Coca-Cola", "apple.com": "Apple Music", "spotify.com": "Spotify", "yna.co.kr": "Yonhap News", "sportsseoul.com": "Sports Seoul", "donga.com": "Dong-A Ilbo", "chosun.com": "Chosun Ilbo", "joongang.co.kr": "JoongAng Ilbo", "hankyung.com": "Hankyung", "xportsnews.com": "Xportsnews", "mydaily.co.kr": "My Daily", "tenasia.co.kr": "TenAsia", "starnewskorea.com": "Star News", "edaily.co.kr": "Edaily", "heraldcorp.com": "Herald Corp", "billboard.com": "Billboard", "hypebae.com": "Hypebae", "hypebeast.com": "Hypebeast", "osen.co.kr": "OSEN", "topstarnews.net": "TopStar News", "news1.kr": "News1", "allkpop.com": "allkpop", "natalie.mu": "音楽ナタリー", "crank-in.net": "クランクイン！", "thequoo.net": "theqoo" };
+  function hostOf(u) { const m = /^https?:\/\/([^/?#]+)/i.exec(u || ""); return m ? m[1].toLowerCase().replace(/^(www|m|mobile)\./, "") : ""; }
+  function sourceName(host) { if (!host) return ""; let h = host; while (h.includes(".")) { if (SOURCE_NAMES[h]) return SOURCE_NAMES[h]; h = h.slice(h.indexOf(".") + 1); } return host; }
+  function creditOf(img, it) {
+    if (!img || !img.from) return null;
+    const yt = /ytimg\.com|ggpht\.com/.test(img.ih || "") || /youtube\.com|youtu\.be/.test(img.from);
+    const ch = it && it.credits && typeof it.credits.channel === "string" ? it.credits.channel.replace(/\s*\(YouTube\)\s*$/i, "") : "";
+    const label = yt ? `YouTube${ch ? " · " + ch : ""}` : sourceName(hostOf(img.from));
+    return label ? { label, href: img.from } : null;
+  }
+  function creditEl(img, it, cls = "img-credit") {
+    const c = creditOf(img, it); if (!c) return null;
+    const a = el("a", { href: c.href, target: "_blank", rel: "noopener" }, c.label); a.addEventListener("click", e => e.stopPropagation());
+    return el("figcaption", { class: cls + " mono" }, tx("画像：", "Image: "), a);
   }
 
   /* ---------- routing ---------- */
@@ -222,9 +238,12 @@
     const src = era.image && state.images[era.image] ? "media/auto/" + state.images[era.image].file : null;
     if (sp) { h.classList.add("has-img"); h.appendChild(spriteCanvas(sp, "era-img")); }
     else if (src) { h.classList.add("has-img"); h.appendChild(el("img", { class: "era-img", src, alt: "" })); }
+    const ea = era.image ? state.images[era.image] : null;
+    const eraCredit = (sp || src) ? creditEl({ from: (sp && sp.from) || (ea && ea.page_url), ih: (sp && sp.ih) || hostOf(ea && ea.image_url) }, null, "img-credit era-credit") : null;
     const body = el("div", { class: "era-body" });
     const chapterNo = state.eras.indexOf(era) + 1;
     body.append(el("span", { class: "era-kicker mono" }, tx(`ERA ${chapterNo} · 第${chapterNo}期`, `ERA ${chapterNo}`)), el("h2", { class: "era-title" }, era.title.en), state.lang === "en" ? null : el("p", { class: "era-sub" }, era.title.ja), el("p", { class: "era-cap" }, L(era.caption)), el("p", { class: "era-range mono" }, `${fmtLong(era.start)} —`));
+    if (eraCredit) body.appendChild(eraCredit);
     h.appendChild(body);
     return h;
   }
@@ -306,6 +325,7 @@
     else if (img) {
       const fig = $(".thumb", node); fig.hidden = false;
       if (img.sprite) fig.appendChild(spriteCanvas(img.sprite, "thumb-cv")); else fig.appendChild(el("img", { src: img.src, alt: "", loading: "lazy", decoding: "async" }));
+      const cr = creditEl(img, it); if (cr) { fig.appendChild(cr); fig.classList.add("has-credit"); }
       if (isYt && !window.NJAS_NO_EMBED) {
         fig.classList.add("is-video"); fig.appendChild(el("span", { class: "play mono" }, "▶ PLAY"));
         fig.addEventListener("click", () => {
@@ -338,6 +358,7 @@
       });
       const cnt = el("span", { class: "g-count mono" }, `1 / ${galleryItems.length}`);
       box.after(cnt);
+      const gcr = creditEl({ from: (it.image && it.image.source_url) || it.source_url }, it, "img-credit g-credit"); if (gcr) cnt.after(gcr);
       box.addEventListener("scroll", () => { const i = Math.round(box.scrollLeft / Math.max(1, box.clientWidth)); cnt.textContent = `${Math.min(galleryItems.length, i + 1)} / ${galleryItems.length}`; }, { passive: true });
     }
     // official Instagram / TikTok embeds (production only; the artifact host blocks third-party scripts). X posts use the native card above.
@@ -453,7 +474,7 @@
     else { $("#lb-img").hidden = false; $("#lb-img").src = img.src; $("#lb-img").alt = it.title.ja; }
     $("#lb-meta").textContent = `${fmtLong(it.date)}${dayLabel(it.date) ? " · " + dayLabel(it.date) : ""} · ${CATS[it.category]?.en || it.category}`;
     $("#lb-title").textContent = L(it.title);
-    const links = $("#lb-links"); links.innerHTML = ""; links.appendChild(el("a", { href: img.from, target: "_blank", rel: "noopener" }, "image source"));
+    const links = $("#lb-links"); links.innerHTML = ""; const lc = creditOf(img, it); links.appendChild(el("a", { href: img.from, target: "_blank", rel: "noopener" }, lc ? tx("画像：", "Image: ") + lc.label : "image source"));
     $("#lightbox").hidden = false; document.body.style.overflow = "hidden";
   }
   function closeLightbox() { const lb = $("#lightbox"); if (lb.hidden) return; lb.hidden = true; $("#lb-img").src = ""; document.body.style.overflow = ""; }
