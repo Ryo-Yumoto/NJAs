@@ -253,6 +253,49 @@
     }
   },
   {
+    "id": "notice-2023-06-28-get-up-packshot",
+    "date": "2023-06-28",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "ADOR、2nd EP『Get Up』のパックショットを公開",
+      "en": "ADOR releases packshots for the 2nd EP 'Get Up'"
+    },
+    "summary": {
+      "ja": "ADORが2nd EP『Get Up』のパックショットを公開し、Bunny Beach Bag ver.を含む3形態の構成を示した。",
+      "en": "ADOR released packshots for the 2nd EP Get Up, showing its three formats, including the Bunny Beach Bag ver."
+    },
+    "source_url": "https://sports.khan.co.kr/article/202306291503003",
+    "reference_urls": [
+      "https://www.spotvnews.co.kr/news/articleView.html?idxno=616938",
+      "https://www.xportsnews.com/article/1741930",
+      "https://plus.hankyung.com/apps/newsinside.view?aid=202306293351H&sns=y",
+      "https://kstyle.com/article.ksn?articleNo=2220733",
+      "https://x.com/NewJeans_ADOR/status/1670611109454434304"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "packshot"
+    ],
+    "verified": false,
+    "editor_note": "Date from kstyle via ja.wikipedia. Status URL not recovered. | Kstyle states the packshot was released on the 28th (KST), not the 30th; the record date reflects the article date. Possible duplicate of the 06-28/06-29 Instagram packaging post. / All details from Kstyle (2023-06-30, via ja.wikipedia), which dates the packshot release to the 28th (KST); the record date reflects the article date. Official X status not recovered (source_url is the account page). Possible duplicate of the 06-28/06-29 Instagram packaging post. / Cut for length (ja detail only): photobook themes such as '10 Things LOVE ABOUT SUMMER' (kept in detail.en). / 2026-10-24 nightly: still unconfirmed. The official status was not found (fxtwitter needs a status id; web search for the packshot post found nothing); the only official 06-28 posts recorded are the X '2nd EP Photo' post and Instagram CuCIRW0LFCs (06-28 21:00 KST, caption is only an emoji and hashtags, no packshot text). Kstyle dates the packshot to 06-28, so the 06-30 date is likely the article date; overlaps sns-2023-06-29-get-up-bunny-beach-bag-packaging. / 2026-10-26 nightly: compared with sns-2023-06-28-instagram-get-up-era-post-0628 and judged distinct. SPOTV News (2023-06-29) says the album packshot was released by ADOR on the 28th ('28일 소속사 어도어가 공개한 뉴진스 앨범 팩샷'), showing the three formats and the Bunny Beach Bag contents; Kstyle (2023-06-30 14:45) also dates it to the 28th. The Instagram post CuCIRW0LFCs (21:00 KST) is a single member photo with an emoji caption and does not show the three formats, so it is not the packshot. Date moved from the Kstyle article date (06-30) to 06-28. The channel ADOR used for the packshot (X, Weverse or press release) is still not identified; if it was a press-only release, the record may belong outside sns. / 2026-10-27 nightly: no official-account post of the packshot found. Official X on 06-28: only '2nd EP Photo' (1673707835547615232, 06-28 00:00 KST, four concept photos; checked via fxtwitter); the three 06-28 Instagram posts are concept photos (CuCIRW0LFCs = member with bag, 21:00 KST). Same-day press (Sports Kyunghyang 06-29 15:03, SPOTV 15:17, Hankyung 15:26, Xportsnews 15:33) all use one press-release text ('지난 28일 공개된 뉴진스 앨범 팩샷에 따르면'), credit the images to ADOR ('사진=어도어' / '제공|어도어') and name no SNS channel; Kstyle (06-30) likewise names no channel. Judged a press-distributed release, so moved from sns to notice (date_type announce, platform removed); date 06-28 kept as stated by the press ('28일 공개'), though the press release itself ran 06-29 afternoon. Japan pre-order prices (Kstyle only) and the photobook theme were dropped. Pre-order start 2023-06-19 11:00 KST per official X 1670611109454434304. Absence of an X/Weverse post could not be proved (X timeline search and the Wayback Machine were unavailable).",
+    "detail": {
+      "ja": "ADORが公開した2nd EP『Get Up』のパックショットで、Bunny Beach Bag ver.、THE POWERPUFF GIRLS X NJ Box ver.、Weverse Albums ver.の3形態で発売されることが示された。Bunny Beach Bag ver.はピンク・ホワイト・ブルーの3色の四角いビーチバッグ型パッケージで、フォトブック、歌詞カード、フォトカード、ステッカー、ポストカード、しおり、CDが入り、キーリングや缶バッジで飾って持ち歩くことができる。THE POWERPUFF GIRLS X NJ Box ver.は、カートゥーン ネットワークの「パワーパフ ガールズ」とのコラボレーションによる。EPは6月19日から予約販売中で、7月7日に先行公開曲、7月21日にEPが発売される予定。",
+      "en": "Packshots released by ADOR for the 2nd EP Get Up showed that it would come in three formats: Bunny Beach Bag ver., THE POWERPUFF GIRLS X NJ Box ver. and Weverse Albums ver. The Bunny Beach Bag ver. is a square beach-bag package in pink, white or blue holding a photobook, lyrics, photocards, stickers, postcards, a bookmark and the CD, and can be decorated with key rings and badges and carried. The THE POWERPUFF GIRLS X NJ Box ver. comes from the collaboration with Cartoon Network's The Powerpuff Girls. The EP had been on pre-order since June 19, with pre-release songs due on July 7 and the EP on July 21."
+    },
+    "credits": {
+      "label": "ADOR",
+      "collaboration": "Cartoon Network (The Powerpuff Girls)"
+    }
+  },
+  {
     "id": "notice-2023-07-17-cool-with-you-mv-date-announcement",
     "date": "2023-07-17",
     "date_type": "announce",

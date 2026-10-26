@@ -6831,6 +6831,14 @@
   "page_url": "https://www.gqkorea.co.kr/?p=203366",
   "w": 1400
  },
+ "notice-2023-06-28-get-up-packshot": {
+  "fetched": "2026-10-13",
+  "file": "notice-2023-06-28-get-up-packshot.jpg",
+  "h": 600,
+  "image_url": "https://cdn.livedoor.jp/kstyle/ogp37682719e8d254e0de53f7a480b298d8.jpg",
+  "page_url": "https://kstyle.com/article.ksn?articleNo=2220733",
+  "w": 1200
+ },
  "notice-2023-07-17-cool-with-you-mv-date-announcement": {
   "fetched": "2026-10-13",
   "file": "notice-2023-07-17-cool-with-you-mv-date-announcement.jpg",
@@ -9503,14 +9511,6 @@
   "page_url": "https://x.com/NewJeans_ADOR/status/1673707835547615232",
   "w": 1200
  },
- "sns-2023-06-28-get-up-packshot": {
-  "fetched": "2026-10-13",
-  "file": "sns-2023-06-28-get-up-packshot.jpg",
-  "h": 600,
-  "image_url": "https://cdn.livedoor.jp/kstyle/ogp37682719e8d254e0de53f7a480b298d8.jpg",
-  "page_url": "https://kstyle.com/article.ksn?articleNo=2220733",
-  "w": 1200
- },
  "sns-2023-06-28-instagram-get-up-2nd-ep-photo-1": {
   "fetched": "2026-10-15",
   "file": "sns-2023-06-28-instagram-get-up-2nd-ep-photo-1.jpg",
@@ -11294,6 +11294,14 @@
   "image_url": "https://img.marieclairekorea.com/2024/07/mck_669dcb9464c37.jpg",
   "page_url": "https://img.marieclairekorea.com/2024/07/mck_669dcb9464c37.jpg",
   "w": 1200
+ },
+ "web-2024-08-19-vogue-korea-minji-chanel-party-pictorial": {
+  "fetched": "2026-10-26",
+  "file": "web-2024-08-19-vogue-korea-minji-chanel-party-pictorial.jpg",
+  "h": 1400,
+  "image_url": "https://img.vogue.co.kr/vogue/2024/08/style_66c2b029bffc3-1120x1400.jpg",
+  "page_url": "https://img.vogue.co.kr/vogue/2024/08/style_66c2b029bffc3-1120x1400.jpg",
+  "w": 1120
  },
  "web-2024-12-06-halmyungsoo-hyein": {
   "fetched": "2026-10-16",

@@ -21,9 +21,11 @@
     },
     "source_url": "https://www.youtube.com/watch?v=NK-kD2cH0VY",
     "reference_urls": [
+      "https://x.com/plus_audition/status/1169188567131639808",
       "https://ja.wikipedia.org/wiki/NewJeans",
       "https://en.wikipedia.org/wiki/NewJeans",
-      "https://www.ticket.co.jp/entx/?p=1977"
+      "https://www.ticket.co.jp/entx/?p=1977",
+      "https://musicweek.com/media/read/big-hit-entertainment-and-source-music-to-launch-plus-global-audition/077304"
     ],
     "media": {
       "type": "youtube",
@@ -38,14 +40,13 @@
     "verified": false,
     "note": "「#THE_GIRL 1」と題した映像も同時期に公開されたとされる。",
     "note_en": "A video titled '#THE_GIRL 1' is said to have been released around the same time.",
-    "editor_note": "Upload date fetched from YouTube page metadata (now on the HYBE LABELS channel): 2019-09-03T17:00:10-07:00 = 2019-09-04 09:00 KST. Minji's appearance is per en/ja Wikipedia and fan wikis (not visually verified here), hence verified=false. The companion video '#THE_GIRL 1' (reported upload 2019-09-03/04) could not be located on the official channel; only fan re-uploads (e.g. VQtmLWYzecQ) were found, so it is not recorded. | Audition facts from Music Week / SBS Star (Sep 2019); Minji as 'The Girl' per en.wikipedia Minji_(singer). YouTube page read via reader; upload date on YouTube: Sep 3, 2019 (PT). | note sentences already covered by detail: ミンジはこの時点ではSource Musicの練習生。 / 2026-10-23 nightly: HYBE LABELS公式YouTubeで公開日2019-09-04（KST）と概要欄（PLUS GLOBAL AUDITION 5 Oct - 27 Oct 2019）は確認。ミンジの出演を示す公式の記述は見つからず。",
+    "editor_note": "Upload date fetched from YouTube page metadata (now on the HYBE LABELS channel): 2019-09-03T17:00:10-07:00 = 2019-09-04 09:00 KST. Minji's appearance is per en/ja Wikipedia and fan wikis (not visually verified here), hence verified=false. The companion video '#THE_GIRL 1' (reported upload 2019-09-03/04) could not be located on the official channel; only fan re-uploads (e.g. VQtmLWYzecQ) were found, so it is not recorded. | Audition facts from Music Week / SBS Star (Sep 2019); Minji as 'The Girl' per en.wikipedia Minji_(singer). YouTube page read via reader; upload date on YouTube: Sep 3, 2019 (PT). | note sentences already covered by detail: ミンジはこの時点ではSource Musicの練習生。 / 2026-10-23 nightly: HYBE LABELS公式YouTubeで公開日2019-09-04（KST）と概要欄（PLUS GLOBAL AUDITION 5 Oct - 27 Oct 2019）は確認。ミンジの出演を示す公式の記述は見つからず。 / 2026-10-27 nightly: removed credits.label 'ADOR' (ADOR was founded in 2021). The audition's official X account @plus_audition (fxtwitter: profile 'PLUS GLOBAL AUDITION / 5 Oct - 27 Oct 2019 / Big Hit Entertainment + SOURCEMUSIC'; invitation post 1169188567131639808, 2019-09-04 10:00:51 UTC = 19:00 KST, tagged #BigHitEntertainment #SOURCEMUSIC, linking youtu.be/NEEa6V0f-6M) confirms Big Hit Entertainment and Source Music as organisers; kept as credits.organizer, no label key. oEmbed confirms the video is on the HYBE LABELS channel; the channel's name in Sept 2019 was not re-checked. Minji's appearance still has no official statement, so verified stays false. The #THE_GIRL videos were not found among @plus_audition posts by web search.",
     "detail": {
       "ja": "Big Hit EntertainmentとSource Musicが発表した新ガールズグループのオーディション「PLUS GLOBAL AUDITION」の宣伝映像の一つで、Big Hit Labels（現HYBE LABELS）のYouTubeチャンネルに「#THE_GIRL 2」として公開された。モデルとして当時Source Musicの練習生だったミンジが出演しており、同シリーズには「#THE_GIRL 1」もある。オーディションは2019年10月5日から27日に世界16都市で実施され、Bang Si-hyukが制作を、Min Hee-jinがクリエイティブを統括すると発表された。",
       "en": "One of the promotional videos for the PLUS GLOBAL AUDITION, the new girl group audition announced by Big Hit Entertainment and Source Music, posted on the Big Hit Labels (now HYBE LABELS) YouTube channel as '#THE_GIRL 2'. Minji, then a Source Music trainee, appears as the model; a companion '#THE_GIRL 1' video also exists. The audition ran from 5 to 27 October 2019 in 16 cities worldwide, with Bang Si-hyuk announced as overseeing production and Min Hee-jin the creative direction."
     },
     "credits": {
       "channel": "Big Hit Labels (now HYBE LABELS)",
-      "label": "ADOR",
       "organizer": "Big Hit Entertainment, Source Music"
     }
   },

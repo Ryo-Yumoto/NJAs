@@ -737,6 +737,79 @@
     }
   },
   {
+    "id": "web-2024-08-19-vogue-korea-minji-chanel-party-pictorial",
+    "date": "2024-08-19",
+    "time": "18:00",
+    "date_type": "publish",
+    "date_precision": "day",
+    "category": "web",
+    "entity": "newjeans",
+    "members": [
+      "minji"
+    ],
+    "title": {
+      "ja": "VOGUE Korea ウェブ画報「あるパーティーで、ミンジと出会った瞬間」（シャネル）",
+      "en": "Vogue Korea web pictorial 'The moment I ran into Minji at a party' (Chanel)",
+      "original": "어느 파티에서, 민지와 마주친 순간"
+    },
+    "summary": {
+      "ja": "VOGUE Korea公式サイトが、シャネルの2024/25秋冬プレコレクションをまとったミンジのウェブ画報を公開した。",
+      "en": "Vogue Korea's website published a web pictorial of Minji in Chanel's 2024/25 Fall-Winter pre-collection."
+    },
+    "detail": {
+      "ja": "パーティーを舞台にしたVOGUE Korea公式サイトのファッション画報で、ミンジがシャネルの2024/25秋冬プレコレクションと、2024年のココ・ビーチ・コレクションのデニムのセットアップを着用した。パールのネックレスにきらめくニットドレスとシャネルのロゴ入りストッキング、黒いカメリアを描いたデニム、ゴールドチェーンのミニフラップバッグ、肩とウエストを強調したコートなどのスタイリングを見せている。記事にはVOGUEのインタビューでの言葉として、シャネルとの装いで普段気づかなかった自分の魅力を多く見つけ、シンプルでベーシックな服が多かった中でさまざまなディテールのスタイルを経験でき、いつも新鮮で楽しいという発言が添えられた。撮影はパク・ベ、スタイリングはチェ・ユミで、ほかに3人のモデルが出演しており、シャネルの協賛による記事である。",
+      "en": "A party-themed fashion pictorial on Vogue Korea's website in which Minji wears Chanel's 2024/25 Fall-Winter pre-collection and a denim set from the 2024 Coco Beach collection. The looks include a pearl necklace with a shimmering knit dress and Chanel logo stockings, denim painted with black camellias, a mini flap bag with a gold chain, and a coat that emphasizes the shoulders and waist. The article quotes Minji from a Vogue interview saying that dressing in Chanel had shown her charms she had not looked at closely before, and that after mostly wearing simple, basic clothes she always found it fresh and fun to try styles with varied details. It was photographed by Park Bae and styled by Choi Yu-mi, with three other models appearing, and is sponsored by Chanel."
+    },
+    "credits": {
+      "outlet": "Vogue Korea",
+      "writer": {
+        "ja": "クォン・ミンジ",
+        "en": "Kwon Min-ji"
+      },
+      "digital_editor": {
+        "ja": "チョ・ヨンギョン",
+        "en": "Jo Young-kyung"
+      },
+      "photographer": {
+        "ja": "パク・ベ",
+        "en": "Park Bae"
+      },
+      "stylist": {
+        "ja": "チェ・ユミ",
+        "en": "Choi Yu-mi"
+      },
+      "hair": {
+        "ja": "ガベ",
+        "en": "Gabe"
+      },
+      "makeup": {
+        "ja": "カン・ソヨン",
+        "en": "Kang So-young"
+      },
+      "brand": "Chanel"
+    },
+    "source_url": "https://www.vogue.co.kr/2024/08/19/%ec%96%b4%eb%8a%90-%ed%8c%8c%ed%8b%b0%ec%97%90%ec%84%9c-%eb%af%bc%ec%a7%80%ec%99%80-%eb%a7%88%ec%a3%bc%ec%b9%9c-%ec%88%9c%ea%b0%84/",
+    "reference_urls": [
+      "https://www.vogue.co.kr/2024/07/24/%eb%af%bc%ec%a7%80-%ec%a0%9c%ea%b2%8c%eb%8a%94-%eb%89%b4%ec%a7%84%ec%8a%a4%eb%a1%9c-%ec%84%a0%eb%b3%b4%ec%9d%b4%eb%8a%94-%eb%aa%a8%eb%93%a0-%ea%b2%83%ec%9d%b4-%ec%83%88%eb%a1%ad%ea%b2%8c-%eb%8a%90/"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://img.vogue.co.kr/vogue/2024/08/style_66c2b029bffc3-1120x1400.jpg",
+      "source_url": "https://www.vogue.co.kr/2024/08/19/%ec%96%b4%eb%8a%90-%ed%8c%8c%ed%8b%b0%ec%97%90%ec%84%9c-%eb%af%bc%ec%a7%80%ec%99%80-%eb%a7%88%ec%a3%bc%ec%b9%9c-%ec%88%9c%ea%b0%84/"
+    },
+    "tags": [
+      "pictorial",
+      "chanel",
+      "vogue-korea"
+    ],
+    "verified": true,
+    "note": "記事中のミンジの発言は、7月24日に公開された同誌8月号のインタビューと同じ内容。",
+    "note_en": "Minji's quoted remarks are the same as in the magazine's August-issue interview published on July 24.",
+    "editor_note": "2026-10-27 nightly: added from the review queue. vogue.co.kr post 519563 fetched: og:title '어느 파티에서, 민지와 마주친 순간', article:published_time 2024-08-19T09:00:00+00:00 (= 18:00 KST), section 패션 화보, byline 권민지, 'SPONSORED BY CHANEL'. Credits on page: 포토그래퍼 박배, 디지털 디렉터 권민지 (recorded as writer, the byline; no 'digital_director' key in the vocabulary), 디지털 에디터 조영경, 스타일리스트 최유미, 모델 김윤서·박소민·김윤슬 (not credited individually), 헤어 가베, 메이크업 강소영, 세트 블루패스트 (omitted: romanization unsure, as in the magazine record). No cover wording on the page; this is likely the namu.wiki 08-19 'cover' row. Not a duplicate of magazine-2024-07-24-vogue-korea-2024-08-minji: separate web-only publication with different stylist/editors and looks (incl. Coco Beach 2024 denim), though the photographer, hair, makeup and set team are the same and the Minji quote is reused verbatim from the 07-24 article (post 508323). Image = first in-article photo (Minji close-up with VOGUE KOREA masthead)."
+  },
+  {
     "id": "web-2024-12-06-halmyungsoo-hyein",
     "date": "2024-12-06",
     "date_type": "post",
