@@ -2943,6 +2943,45 @@
     ]
   },
   {
+    "id": "record-2023-04-03-tma-2023-best-music-spring-omg-nomination",
+    "date": "2023-04-03",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2023 The Fact Music Awards TMA Best Music – Springにノミネート（「OMG」）",
+      "en": "2023 The Fact Music Awards – Best Music – Spring nomination ('OMG')"
+    },
+    "summary": {
+      "ja": "2023 The Fact Music AwardsのTMA Best Music – Spring部門で事前投票が始まり、NewJeansが候補に名を連ねた。",
+      "en": "NewJeans were among the candidates when the pre-vote for Best Music – Spring at the 2023 The Fact Music Awards opened."
+    },
+    "detail": {
+      "ja": "2023 The Fact Music Awards（TMA）は、TMA Best Music – Spring部門のオンライン事前投票を4月3日正午にファン投票サービスFan N Starで始め、NewJeansはJ-HOPE、JIMIN、NCT 127、TOMORROW X TOGETHER、SEVENTEENのBSS、THE BOYZ、MONSTA X、TWICEらとともに候補となった。同部門はOSTとイベント性のコラボを除き2023年1〜3月に音源を発表したアーティストが対象で、事前投票は4月17日正午まで、続く決選投票は4月17日正午から5月1日正午まで行われる。",
+      "en": "The 2023 The Fact Music Awards (TMA) opened the online pre-vote for TMA Best Music – Spring on Fan N Star at noon on April 3, with NewJeans among the candidates alongside J-HOPE, JIMIN, NCT 127, TOMORROW X TOGETHER, SEVENTEEN's BSS, THE BOYZ, MONSTA X and TWICE. The category covered artists who released music between January and March 2023, excluding OSTs and one-off collaborations; the pre-vote runs until noon on April 17, followed by a final vote from noon on April 17 to noon on May 1."
+    },
+    "source_url": "http://news.tf.co.kr/read/entertain/2009287.htm",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "tma"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "http://news.tf.co.kr/read/entertain/2009287.htm",
+      "http://news.tf.co.kr/read/entertain/2012508.htm",
+      "https://newsseoul.co.kr/news/view/1065572407937378",
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Newsseoul (minor outlet) reports that NewJeans were among the top 20 finalists from the Spring pre-vote (Apr 3-17, 2023) and that the final vote ran Apr 17-May 1, 2023; not confirmed by The Fact or major press, so dated to the ceremony. Work 'OMG' per ledger/Wikipedia. / 2026-10-24 nightly: Newsseoul (18 Apr 2023 09:15) lists NewJeans 6th among the top-20 Spring pre-vote finalists, with the final vote from 17 Apr noon to 1 May noon. No Fan N Star / The Fact page for the 2023 Spring round was found (search returned only 2024-2026 rounds). Per policy the nomination date would be 2023-04-17, but this rests on a minor outlet only, so the date was not changed. The Fact's own 10 Oct 2023 coverage does not list Spring nominees. Left unverified. / 2026-10-26: decided — 主催The Fact自身の記事で確認：2023-04-04 10:09「제이홉·지민→뉴진스 20팀…‘TMA 베스트 뮤직–봄’ 사전 투표」（4月3日正午からFan N Starで事前投票、NewJeansを含む候補、決選は4/17〜5/1）、2023-04-18 11:49（事前投票の結果、NewJeansを含む上位20組が4/17正午からの決選投票の対象）。ノミネートの日付は「主催者が候補として公表した最初の日」とし、Fan N Starで候補一覧が公開され投票が始まった2023-04-03に移した（ceremony日から変更、date_type announce、ID改名）。同じ基準でHMA 2024 WhosFandomも1次投票開始日に置いた。秋部門（09-11）は事前投票がなく決選投票開始が最初の公表なので基準と一致する。単独ソース（ニュースソウル）の問題は主催者記事で解消。作品「OMG」の帰属はWikipedia・台帳による。"
+  },
+  {
     "id": "record-2023-04-24-forbes-korea-power-celebrity-40-2023",
     "date": "2023-04-24",
     "date_type": "publish",
@@ -4575,42 +4614,6 @@
       "https://www.soompi.com/article/1618814wpp/winners-of-2023-the-fact-music-awards"
     ],
     "editor_note": "The Fact (organizer) article states Listener's Choice is awarded among Artist of the Year honorees, and its 2024 interview (news.tf.co.kr/read/ogmeta/2147936.htm) says NewJeans took two awards in 2023; consistent with Artist of the Year (Bonsang) + Listener's Choice on 2023-10-10."
-  },
-  {
-    "id": "record-2023-10-10-tma-2023-best-music-spring-omg-nomination",
-    "date": "2023-10-10",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "2023 The Fact Music Awards TMA Best Music – Springにノミネート（「OMG」）",
-      "en": "2023 The Fact Music Awards – Best Music – Spring nomination ('OMG')"
-    },
-    "summary": {
-      "ja": "2023 The Fact Music Awardsで、NewJeansの「OMG」がTMA Best Music – Spring部門の候補に名を連ねた。",
-      "en": "'OMG' by NewJeans was among the nominees for Best Music – Spring at the 2023 The Fact Music Awards."
-    },
-    "detail": {
-      "ja": "2023 The Fact Music Awards（2023年10月10日、仁川・南洞体育館）で、NewJeansはTMA Best Music – Spring部門の候補となった（対象：「OMG」）。同部門は2023年1〜3月に音源を発表したアーティストを対象としたファン投票部門である。",
-      "en": "NewJeans were nominated for Best Music – Spring at the 2023 The Fact Music Awards (held October 10, 2023 at Namdong Gymnasium, Incheon), for 'OMG'. The category was a fan vote covering artists who released music between January and March 2023."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "nomination",
-      "tma"
-    ],
-    "verified": false,
-    "reference_urls": [
-      "https://newsseoul.co.kr/news/view/1065572407937378"
-    ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Newsseoul (minor outlet) reports that NewJeans were among the top 20 finalists from the Spring pre-vote (Apr 3-17, 2023) and that the final vote ran Apr 17-May 1, 2023; not confirmed by The Fact or major press, so dated to the ceremony. Work 'OMG' per ledger/Wikipedia. / 2026-10-24 nightly: Newsseoul (18 Apr 2023 09:15) lists NewJeans 6th among the top-20 Spring pre-vote finalists, with the final vote from 17 Apr noon to 1 May noon. No Fan N Star / The Fact page for the 2023 Spring round was found (search returned only 2024-2026 rounds). Per policy the nomination date would be 2023-04-17, but this rests on a minor outlet only, so the date was not changed. The Fact's own 10 Oct 2023 coverage does not list Spring nominees. Left unverified."
   },
   {
     "id": "record-2023-10-10-tma-2023-idolplus-popularity-award-nomination",
@@ -9483,6 +9486,48 @@
     "editor_note": "RIAJ streaming certification search API, fetched 2026-10-17: How Sweet ゴールド year_month 2024-11. Dated to the announcement month 2024-12 (month precision)."
   },
   {
+    "id": "record-2024-12-02-hanteo-music-awards-32-whosfandom-female-nomination",
+    "date": "2024-12-02",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Hanteo Music Awards 2024 WhosFandom Award（女性）にノミネート",
+      "en": "Hanteo Music Awards 2024 – WhosFandom Award – Female nomination"
+    },
+    "summary": {
+      "ja": "Hanteo Music Awards 2024のWhosFandom Award（女性）部門で1次投票が始まり、NewJeansがTOP40の候補に名を連ねた。",
+      "en": "NewJeans were among the TOP 40 candidates when first-round voting for WhosFandom Award – Female at the Hanteo Music Awards 2024 opened."
+    },
+    "detail": {
+      "ja": "Hanteo Music Awards 2024（HMA 2024）は、WhosFandom Award（女性）部門の1次投票を12月2日に始め、NewJeans（ファンダム名Bunnies）は女性部門のTOP40の候補に入った。同賞は1年間に活躍したアーティストとそのファンダムを選ぶ100%ファン投票の部門で、この年から男女別に行われる。1次投票はXで12月5日まで行われ、選ばれたTOP16からはWhosfanアプリで2次投票が行われる。授賞式は2025年2月15・16日にソウルの奨忠体育館で開かれる予定。",
+      "en": "The Hanteo Music Awards 2024 (HMA 2024) opened first-round voting for WhosFandom Award – Female on December 2, with NewJeans (fandom: Bunnies) among the female TOP 40 candidates. The award, decided 100% by fan voting, honours the year's standout artists together with their fandoms and was split by gender for the first time. Round one runs on X until December 5, and the TOP 16 then move to a second round on the Whosfan app. The ceremony is scheduled for February 15-16, 2025 at Jangchung Arena in Seoul."
+    },
+    "source_url": "https://hanteonews.com/en/article/73152",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "hanteo-music-awards"
+    ],
+    "verified": true,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; 32nd HMA Wikipedia says WhosFandom voting ran Dec 9-30, 2024 on Whosfan; no official nominee page fetched. / 2026-10-24 nightly: Organizer Hanteo Global said on Nov 27, 2024 (Starnews, etnews) that WhosFandom first-round voting on the TOP 40 per gender would run Dec 2-5, 2024 on Whosfan's official X, with the TOP 16 moving to the Whosfan app. Sports Kyunghyang (Dec 4, 2024) lists NewJeans (Bunnies) among the leaders of the female first round, and etnews/Xportsnews (Dec 9, 2024, quoting HMA) list NewJeans in female TOP16 Group D (with Soojin, IU, Kep1er), app voting from Dec 9 noon. So the nomination is confirmed by press, and an announcement date now exists (TOP 40 voting opened Dec 2, 2024; TOP 16 announced Dec 9, 2024), against the policy of using the ceremony date only when no announcement date can be found. Also, the record's 'decided by fan voting on the Whosfan app' omits that round 1 ran on X. Date not changed pending decision. / 2026-10-26: decided — ノミネート日は「主催者が候補として最初に公表した日」とする（TMA 2023春と同じ基準）。主催ハンテオグローバルは11-27に「男女各TOP40を対象に12月2〜5日にXで1次投票」と発表（スターニュース。記事中に候補名なし）、1次投票の開始日12-02にはTOP40が公開されていた。NewJeansが女性TOP40に入っていたことは主催系のHanteo News（2024-12-05、「In the female category, ... NewJeans (BUNNIES) ... are making their presence felt」）とスポーツ京郷（12-04）で確認。12-09のTOP16（D組）入りは同じ候補の勝ち上がりで、ノミネートの公表日ではない。授賞式日（02-15）から2024-12-02に移した（date_type announce、ID改名）。1次投票はX、2次以降がWhosfanアプリで、旧本文の「Whosfanアプリでのファン投票」を直した。",
+    "reference_urls": [
+      "https://hanteonews.com/en/article/73152",
+      "https://www.starnewskorea.com/stview.php?no=2024112714390712509",
+      "https://sports.khan.co.kr/article/202412041450013",
+      "https://hanteonews.com/en/article/73389",
+      "https://www.etnews.com/20241209000146",
+      "https://www.xportsnews.com/article/1938749",
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ]
+  },
+  {
     "id": "record-2024-12-03-rolling-stone-100-best-songs-2024-how-sweet",
     "date": "2024-12-03",
     "date_type": "event",
@@ -10077,45 +10122,6 @@
     "reference_urls": [
       "https://en.wikipedia.org/wiki/32nd_Hanteo_Music_Awards",
       "https://www.sportskeeda.com/us/k-pop/news-how-vote-2024-hanteo-music-awards-nominations-list-need-know-bts-members-blackpink-s-rose-txt-twice-bag-nods"
-    ]
-  },
-  {
-    "id": "record-2025-02-15-hanteo-music-awards-32-whosfandom-female-nomination",
-    "date": "2025-02-15",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "Hanteo Music Awards 2024 WhosFandom Award（女性）にノミネート",
-      "en": "Hanteo Music Awards 2024 – WhosFandom Award – Female nomination"
-    },
-    "summary": {
-      "ja": "Hanteo Music Awards 2024で、NewJeansがWhosFandom Award（女性）部門の候補に名を連ねた。",
-      "en": "NewJeans were among the nominees for WhosFandom Award – Female at the Hanteo Music Awards 2024."
-    },
-    "detail": {
-      "ja": "Hanteo Music Awards 2024（2025年2月15・16日、ソウル・奨忠体育館）で、NewJeansはWhosFandom Award（女性）部門の候補となった。同賞はWhosfanアプリでのファン投票で選ばれる部門だった。",
-      "en": "NewJeans were nominated for WhosFandom Award – Female at the Hanteo Music Awards 2024 (held February 15-16, 2025 at Jangchung Arena, Seoul). The award was decided by fan voting on the Whosfan app."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "nomination",
-      "hanteo-music-awards"
-    ],
-    "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; 32nd HMA Wikipedia says WhosFandom voting ran Dec 9-30, 2024 on Whosfan; no official nominee page fetched. / 2026-10-24 nightly: Organizer Hanteo Global said on Nov 27, 2024 (Starnews, etnews) that WhosFandom first-round voting on the TOP 40 per gender would run Dec 2-5, 2024 on Whosfan's official X, with the TOP 16 moving to the Whosfan app. Sports Kyunghyang (Dec 4, 2024) lists NewJeans (Bunnies) among the leaders of the female first round, and etnews/Xportsnews (Dec 9, 2024, quoting HMA) list NewJeans in female TOP16 Group D (with Soojin, IU, Kep1er), app voting from Dec 9 noon. So the nomination is confirmed by press, and an announcement date now exists (TOP 40 voting opened Dec 2, 2024; TOP 16 announced Dec 9, 2024), against the policy of using the ceremony date only when no announcement date can be found. Also, the record's 'decided by fan voting on the Whosfan app' omits that round 1 ran on X. Date not changed pending decision.",
-    "reference_urls": [
-      "https://www.starnewskorea.com/stview.php?no=2024112714390712509",
-      "https://sports.khan.co.kr/article/202412041450013",
-      "https://www.etnews.com/20241209000146",
-      "https://www.xportsnews.com/article/1938749"
     ]
   },
   {

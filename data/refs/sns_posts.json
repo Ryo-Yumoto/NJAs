@@ -1442,7 +1442,7 @@
    "date": "2023-07-17",
    "title": "'Cool With You' MV date announcement",
    "url": "https://x.com/NewJeans_ADOR",
-   "record": "sns-2023-07-17-cool-with-you-mv-date-announcement",
+   "record": "notice-2023-07-17-cool-with-you-mv-date-announcement",
    "exclude": null,
    "note": "announce; platform: x"
   },
@@ -3467,7 +3467,7 @@
    "date": "2025-02-03",
    "title": "NJZ official X account (@NJZ_official) opened",
    "url": "https://x.com/NJZ_official",
-   "record": "sns-2025-02-01-njz-official-x-account-opened",
+   "record": "sns-2025-02-27-njz-official-x-account-opened",
    "exclude": null,
    "note": "announce; platform: x; existing record date differs: record 2025-02-01 (month precision) vs @NJZ_official account created 2025-02-03 13:55 UTC (2025-02-03 22:55 KST) per X profile metadata (api.vxtwitter.com)"
   },

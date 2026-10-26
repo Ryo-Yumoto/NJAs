@@ -62,7 +62,7 @@ body:not(.reading) .bar-brand { opacity: 0; pointer-events: none; }
 
 /* ---------- cover ---------- */
 /* cover: digital, theme-aware */
-:root { --cv-bg: #f6f8fc; --cv-a: #b4d8ff; --cv-b: #ddcfff; --cv-c: #ffffff; --cv-d: #ffdcea; --cv-dot: rgba(31,63,184,.14); }
+:root { --cv-bg: #f7f9fc; --cv-a: #cde4ff; --cv-b: #e7ddff; --cv-c: #ffffff; --cv-d: #ffe7f1; --cv-dot: rgba(31,63,184,.14); }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --cv-bg: #0b0f1a; --cv-a: #1f4a8a; --cv-b: #37286b; --cv-c: #0b0f1a; --cv-d: #4a2550; --cv-dot: rgba(122,151,255,.18); } }
 :root[data-theme="dark"] { --cv-bg: #0b0f1a; --cv-a: #1f4a8a; --cv-b: #37286b; --cv-c: #0b0f1a; --cv-d: #4a2550; --cv-dot: rgba(122,151,255,.18); }
 .cover {
@@ -83,12 +83,12 @@ body:not(.reading) .bar-brand { opacity: 0; pointer-events: none; }
     radial-gradient(30% 34% at 70% 70%, var(--cv-b) 0%, transparent 70%),
     radial-gradient(26% 30% at 20% 75%, var(--cv-c) 0%, transparent 70%),
     radial-gradient(28% 32% at 50% 15%, var(--cv-c) 0%, transparent 70%);
-  filter: blur(30px); animation: drift2 8s cubic-bezier(.45,.05,.55,.95) infinite alternate, burst 2.2s cubic-bezier(.16,1,.3,1) both; opacity: .8;
+  filter: blur(30px); animation: drift2 8s cubic-bezier(.45,.05,.55,.95) infinite alternate, burst 2.2s cubic-bezier(.16,1,.3,1) both; opacity: .65;
 }
 .cover-sweep { /* layer 3: slow-spinning colour wheel that swells in on load */
   position: absolute; inset: -45%; z-index: 0; pointer-events: none;
   background: conic-gradient(from 0deg at 50% 50%, var(--cv-a), var(--cv-d), var(--cv-c), var(--cv-b), var(--cv-a));
-  filter: blur(44px); opacity: .55; scale: 1;
+  filter: blur(44px); opacity: .4; scale: 1;
   animation: spin 9s linear infinite, swell 2.4s cubic-bezier(.16,1,.3,1) both, breathe 4.5s ease-in-out 2.4s infinite alternate;
 }
 .cover::after { /* dot grid */
@@ -101,7 +101,7 @@ body:not(.reading) .bar-brand { opacity: 0; pointer-events: none; }
 @keyframes burst { from { opacity: 0; filter: blur(90px); } to { opacity: 1; } }
 @keyframes spin { to { rotate: 360deg; } }
 @keyframes swell { from { scale: .15; opacity: 0; } 60% { opacity: .9; } to { scale: 1; opacity: .65; } }
-@keyframes breathe { from { scale: .9; opacity: .45; } to { scale: 1.5; opacity: .65; } }
+@keyframes breathe { from { scale: .9; opacity: .32; } to { scale: 1.5; opacity: .5; } }
 @keyframes hue { from { filter: blur(24px) hue-rotate(-28deg); } to { filter: blur(24px) hue-rotate(32deg); } }
 @media (prefers-reduced-motion: reduce) { .cover::before, .cover-glow, .cover-sweep { animation: none; scale: 1; opacity: .65; } }
 .cover-inner { position: relative; z-index: 1; max-width: var(--maxw); margin: 0 auto; padding: 48px var(--gutter) 64px; width: 100%; }

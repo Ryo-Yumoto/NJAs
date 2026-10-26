@@ -2363,45 +2363,6 @@
     "platform": "x"
   },
   {
-    "id": "sns-2023-07-17-cool-with-you-mv-date-announcement",
-    "date": "2023-07-17",
-    "date_type": "announce",
-    "date_precision": "day",
-    "category": "sns",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "『Cool With You』MV公開日の告知",
-      "en": "'Cool With You' MV date announcement"
-    },
-    "summary": {
-      "ja": "『Get Up』タイトル曲「Cool With You」のMVを7月20日0時に前倒し公開すると告知し、グローバルスター2人の出演を予告した。",
-      "en": "ADOR announced the 'Cool With You' MV for July 20 at midnight KST, a day before the album, teasing two global stars in the cast."
-    },
-    "source_url": "https://x.com/NewJeans_ADOR",
-    "reference_urls": [
-      "https://www.soompi.com/article/1600989wpp/newjeans-to-release-mv-starring-2-global-stars-ahead-of-official-comeback"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "announcement"
-    ],
-    "verified": false,
-    "editor_note": "Announced Jul 17 KST per Soompi. Status URL not recovered; may be Weverse notice. | not enriched beyond Soompi (2023-07-17); no status URL found. / Announcement date and content per Soompi (2023-07-17). The original announcement channel (official SNS or Weverse notice) and the X status URL were not recovered; not enriched beyond Soompi. / 2026-10-24 nightly: still unconfirmed as an SNS post. Korean press (Wikitree, OSEN) confirms ADOR's 07-17 announcement of 'two unexpected global stars' but no official X/Weverse/YouTube community post for it was found; it may have been a press release only, in which case it does not belong in sns.",
-    "detail": {
-      "ja": "2nd EP『Get Up』のタイトル曲の一つ「Cool With You」のMVを、アルバム発売（7月21日）に先立つ7月20日0時（KST）に公開するというADORの発表。MVは「Ditto」と同様にside Aとside Bの2バージョンで構成され、「予想外の2人のグローバルスターが出演する」と予告された。",
-      "en": "ADOR's announcement that the MV for 'Cool With You', one of the title tracks of the 2nd EP Get Up, would be released on July 20 at midnight KST, a day ahead of the album. The MV was to come in side A and side B versions, as 'Ditto' had, and to feature 'two unexpected global stars'."
-    },
-    "credits": {
-      "label": "ADOR"
-    },
-    "platform": "x"
-  },
-  {
     "id": "sns-2023-07-20-youtube-newjeans-day-d-2",
     "date": "2023-07-20",
     "time": "18:16",
@@ -4882,43 +4843,49 @@
     "editor_note": "Members' self-run account, not ADOR-managed; included because it became the members' primary channel after the 2024-11-28 press conference. Post shortcode not located. / Details and follower count from Korea JoongAng Daily (2024-12-14). Members' self-run account, not ADOR-managed; included because it became the members' primary channel after the 2024-11-28 press conference. Post shortcode not located. / First feed post shortcode DDjGCTWSlrE located via the Instagram embeds in Soompi and GMA Network (media-ID timestamp 2024-12-14 15:15 KST), but as of 2026-10-16 instagram.com/p/DDjGCTWSlrE/ serves no post data (same response as a nonexistent shortcode; embed page empty), consistent with the April 2025 wipe of the account (renamed jeanzforfree -> njz_official -> mhdhh_friends, all posts deleted, per Malay Mail 2025-04-05). Not set as links.instagram because the embed would be broken. / 2026-10-24 nightly: Korea JoongAng Daily (14 Dec 2024 16:38 KST) confirms the members set up @jeanzforfree separate from the ADOR-managed account, with a first post offering 110 gimbap rolls, 250 drinks and 200 bowls of soup with rice already paid for near the National Assembly, available to anyone with a K-pop light stick, and over 274,000 followers as of 4 pm that day. The account and its posts were later deleted, so the first-party page is gone; confirmed via JoongAng."
   },
   {
-    "id": "sns-2025-02-01-njz-official-x-account-opened",
-    "date": "2025-02-01",
+    "id": "sns-2025-02-27-njz-official-x-account-opened",
+    "date": "2025-02-27",
     "date_type": "post",
-    "date_precision": "month",
+    "date_precision": "day",
     "category": "sns",
     "entity": "njz",
     "members": [
       "all"
     ],
     "title": {
-      "ja": "NJZ公式Xアカウント開設",
-      "en": "NJZ official X account (@NJZ_official) opened"
+      "ja": "NJZ、公式X・YouTube・TikTokアカウントの開設を告知",
+      "en": "NJZ announces official X, YouTube and TikTok accounts"
     },
     "summary": {
-      "ja": "ADORとの紛争下、メンバーが新名称NJZの公式X・YouTube・TikTokアカウントの開設を各自のInstagramで告知した。",
-      "en": "Amid the dispute with ADOR, the members announced official NJZ accounts on X (@NJZ_official), YouTube and TikTok via their personal Instagram accounts."
+      "ja": "メンバーがInstagramで、NJZ名義の公式X（@NJZ_official）、YouTube、TikTokアカウントを開設したと告知した。",
+      "en": "The members announced on Instagram that they had opened official NJZ accounts on X (@NJZ_official), YouTube and TikTok."
     },
-    "source_url": "https://www.soapcentral.com/music/news-taking-social-media-scene-fans-react-njz-officially-launch-x-youtube-tiktok-accounts",
-    "reference_urls": [],
+    "source_url": "https://m.entertain.naver.com/article/108/0003307497",
+    "reference_urls": [
+      "https://m.entertain.naver.com/article/108/0003307497",
+      "https://www.spotvnews.co.kr/news/articleView.html?idxno=732486",
+      "https://sports.khan.co.kr/article/202502281754003",
+      "https://www.soapcentral.com/music/news-taking-social-media-scene-fans-react-njz-officially-launch-x-youtube-tiktok-accounts"
+    ],
     "media": {
       "type": "none"
     },
     "tags": [
+      "@njz_official",
       "@NJZ_official",
       "njz",
       "account"
     ],
     "verified": false,
-    "editor_note": "Exact opening date not confirmed (month precision). Rebrand to NJZ announced on Instagram 2025-02-07. After the 2025-03-21 injunction the account later went dormant/renamed. | Removed 'in February 2025' retrospective framing from the summary. | fxtwitter returns 'User not found' for @NJZ_official as of 2026-10-14 (account renamed/removed). Soapcentral page blocked (Cloudflare); date 02-27 from WebSearch summary of fan-news coverage, unverified against the platform. | exact opening date unconfirmed; month precision / No Instagram post applies: the record is about the @NJZ_official X account opening (platform field says instagram but the subject is X); the members' Instagram (@njz_official, later @mhdhh_friends) had all posts deleted in April 2025 (Malay Mail 2025-04-05), so no NJZ-era Instagram post can be embedded. / platform corrected to x (record is about the @NJZ_official X account) / 2026-10-24 nightly (review queue): fxtwitter profile API: @NJZ_official joined Mon 2025-02-03 13:55:04 UTC; the account id 1886412972349947904 decodes to 2025-02-03 22:54 KST. The earliest status still visible is 2025-03-03 20:00 KST. Date not changed: 02-03 is the account's creation, four days before the NJZ name was revealed (02-07), so a record dated 02-03 would name NJZ before the reveal and its detail (02-07, 02-27) would become future events. Needs a decision: date to creation (rewrite reader text) or to the public announcement once confirmed. / 2026-10-24 nightly: No primary page for the public launch announcement could be found (@NJZ_official no longer resolves; the members' Instagram posts were wiped in April 2025). Korean press (Sports Kyunghyang 7 Feb 2025 etc.) covers only the 7 Feb rename of @jeanzforfree to @njz_official, not the X/YouTube/TikTok launch. Left unverified; the earlier note's open question (creation 3 Feb vs reported announcement 27 Feb) stands.",
+    "editor_note": "Exact opening date not confirmed (month precision). Rebrand to NJZ announced on Instagram 2025-02-07. After the 2025-03-21 injunction the account later went dormant/renamed. | Removed 'in February 2025' retrospective framing from the summary. | fxtwitter returns 'User not found' for @NJZ_official as of 2026-10-14 (account renamed/removed). Soapcentral page blocked (Cloudflare); date 02-27 from WebSearch summary of fan-news coverage, unverified against the platform. | exact opening date unconfirmed; month precision / No Instagram post applies: the record is about the @NJZ_official X account opening (platform field says instagram but the subject is X); the members' Instagram (@njz_official, later @mhdhh_friends) had all posts deleted in April 2025 (Malay Mail 2025-04-05), so no NJZ-era Instagram post can be embedded. / platform corrected to x (record is about the @NJZ_official X account) / 2026-10-24 nightly (review queue): fxtwitter profile API: @NJZ_official joined Mon 2025-02-03 13:55:04 UTC; the account id 1886412972349947904 decodes to 2025-02-03 22:54 KST. The earliest status still visible is 2025-03-03 20:00 KST. Date not changed: 02-03 is the account's creation, four days before the NJZ name was revealed (02-07), so a record dated 02-03 would name NJZ before the reveal and its detail (02-07, 02-27) would become future events. Needs a decision: date to creation (rewrite reader text) or to the public announcement once confirmed. / 2026-10-24 nightly: No primary page for the public launch announcement could be found (@NJZ_official no longer resolves; the members' Instagram posts were wiped in April 2025). Korean press (Sports Kyunghyang 7 Feb 2025 etc.) covers only the 7 Feb rename of @jeanzforfree to @njz_official, not the X/YouTube/TikTok launch. Left unverified; the earlier note's open question (creation 3 Feb vs reported announcement 27 Feb) stands. / 2026-10-26: decided — 日付は公表日の2025-02-27（メンバーのInstagram @njz_official での告知）とし、platformは投稿元のinstagramにした。@NJZ_officialの作成（2025-02-03 22:54 KST）は名称公表（02-07）より前で、公開アカウントとして示された日でもないため採らない。告知日はスターニュース（02-28 17:35「지난 27일 ... 인스타그램 계정을 통해 ... 개설했다고 전했다」）、SPOTVニュース（02-28）で確認。Instagramの投稿は2025年4月に全削除されており一次ソースは取得できないためverified=false。ADORの「事前協議なく開設」の反応は02-28で日付より後のため本文から削除。旧本文の「うさぎの顔のブランディング」は二次ソースのみのため削除。",
     "detail": {
-      "ja": "ADORとの専属契約をめぐる紛争の中で開設されたNJZ名義の公式アカウント。メンバーは2025年2月7日に新名称NJZとロゴを発表し、同月後半（報道では2月27日）に@NJZ_official名義のX、YouTube、TikTokアカウントの開設を各自のInstagramで告知した。各アカウントは「NJZ」の文字とうさぎの顔を共通のブランディングに用いた。ADORは、事前協議なく開設されたアカウントは専属契約違反にあたるとの立場を示した。",
-      "en": "Official accounts under the NJZ name, opened amid the dispute over the members' exclusive contract with ADOR. The members announced the new name NJZ and logo on February 7, 2025 and, later that month (February 27 per reports), used their personal Instagram accounts to announce X, YouTube and TikTok accounts under @NJZ_official. The accounts shared the branding of the letters 'NJZ' with a bunny face. ADOR stated that accounts opened without prior consultation breached the exclusive contract."
+      "ja": "ADORとの専属契約をめぐる紛争の中、メンバーは2月27日、Instagramアカウント（@njz_official）で、NJZ名義のX、YouTube、TikTokの公式アカウントを開設したと告知した。投稿には、メンバーの英字イニシャルを使った動物形のクッキーの写真が添えられた。Xのアカウント名は@NJZ_official。メンバーは2月7日に新しい活動名NJZを発表していた。",
+      "en": "Amid the dispute over their exclusive contract with ADOR, the members announced on February 27 via their Instagram account (@njz_official) that they had opened official NJZ accounts on X, YouTube and TikTok. The post carried a photo of animal-shaped cookies made from the members' initials. The X account is @NJZ_official. The members had announced their new name, NJZ, on February 7."
     },
     "credits": {
-      "account": "@NJZ_official"
+      "account": "@njz_official (Instagram)"
     },
-    "platform": "x"
+    "platform": "instagram"
   },
   {
     "id": "sns-2025-03-22-njz-complexcon-d-1-teaser",

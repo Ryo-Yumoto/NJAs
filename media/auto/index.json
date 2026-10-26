@@ -327,6 +327,14 @@
   "page_url": "https://snkrdunk.s3.ap-northeast-1.amazonaws.com/en/magazine/wp-content/uploads/2023/06/30174353/NewJeans-x-Nike-Seoul-Jersey-Campaign.jpg",
   "w": 1024
  },
+ "ad-2023-07-01-haerin-dior-rose-des-vents-campaign": {
+  "fetched": "2026-10-16",
+  "file": "ad-2023-07-01-haerin-dior-rose-des-vents-campaign.jpg",
+  "h": 906,
+  "image_url": "https://t1.daumcdn.net/news/202308/14/lofficielhommes/20230814195039496iwln.jpg",
+  "page_url": "https://t1.daumcdn.net/news/202308/14/lofficielhommes/20230814195039496iwln.jpg",
+  "w": 680
+ },
  "ad-2023-07-01-powerpuff-girls-get-up-collab": {
   "fetched": "2026-10-23",
   "file": "ad-2023-07-01-powerpuff-girls-get-up-collab.jpg",
@@ -367,14 +375,6 @@
   "page_url": "https://i.ytimg.com/vi/0cHHOVWXePA/maxresdefault.jpg",
   "w": 1280
  },
- "ad-2023-08-14-haerin-dior-rose-des-vents-campaign": {
-  "fetched": "2026-10-16",
-  "file": "ad-2023-08-14-haerin-dior-rose-des-vents-campaign.jpg",
-  "h": 906,
-  "image_url": "https://t1.daumcdn.net/news/202308/14/lofficielhommes/20230814195039496iwln.jpg",
-  "page_url": "https://t1.daumcdn.net/news/202308/14/lofficielhommes/20230814195039496iwln.jpg",
-  "w": 680
- },
  "ad-2023-08-14-hyundai-department-store-duty-free": {
   "fetched": "2026-10-13",
   "file": "ad-2023-08-14-hyundai-department-store-duty-free.jpg",
@@ -383,13 +383,13 @@
   "page_url": "https://magazine.hankyung.com/business/article/202308148892b",
   "w": 1200
  },
- "ad-2023-09-14-haerin-dior-rose-celeste-campaign": {
-  "fetched": "2026-10-16",
-  "file": "ad-2023-09-14-haerin-dior-rose-celeste-campaign.jpg",
-  "h": 699,
-  "image_url": "https://t1.daumcdn.net/news/202309/14/startoday/20230914153906050mufc.jpg",
-  "page_url": "https://t1.daumcdn.net/news/202309/14/startoday/20230914153906050mufc.jpg",
-  "w": 597
+ "ad-2023-09-11-haerin-dior-rose-celeste-campaign": {
+  "fetched": "2026-10-26",
+  "file": "ad-2023-09-11-haerin-dior-rose-celeste-campaign.jpg",
+  "h": 480,
+  "image_url": "https://i.ytimg.com/vi/XD7FEKtus54/sddefault.jpg",
+  "page_url": "https://i.ytimg.com/vi/XD7FEKtus54/sddefault.jpg",
+  "w": 640
  },
  "ad-2023-09-15-lotte-wellfood-pepero-model": {
   "fetched": "2026-10-23",
@@ -551,6 +551,14 @@
   "page_url": "https://cosmeticsbusiness.com/newjeans-idol-hanni-named-gucci-beauty-ambassador",
   "w": 802
  },
+ "ad-2024-04-08-haerin-dior-rose-des-vents-campaign": {
+  "fetched": "2026-10-16",
+  "file": "ad-2024-04-08-haerin-dior-rose-des-vents-campaign.jpg",
+  "h": 1400,
+  "image_url": "https://t1.daumcdn.net/news/202404/12/NEWS1/20240412155043983ydtt.jpg",
+  "page_url": "https://t1.daumcdn.net/news/202404/12/NEWS1/20240412155043983ydtt.jpg",
+  "w": 1120
+ },
  "ad-2024-04-08-kao-essential-cm-japan": {
   "fetched": "2026-10-23",
   "file": "ad-2024-04-08-kao-essential-cm-japan.jpg",
@@ -566,14 +574,6 @@
   "image_url": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2024/04/newjeans-20240410-3-5640d4b7-00c0-4885-bc3b-36ccba198d72.jpg",
   "page_url": "https://www.fashionsnap.com/article/2024-04-10/109-newjrans/",
   "w": 1280
- },
- "ad-2024-04-12-haerin-dior-rose-des-vents-campaign": {
-  "fetched": "2026-10-16",
-  "file": "ad-2024-04-12-haerin-dior-rose-des-vents-campaign.jpg",
-  "h": 1400,
-  "image_url": "https://t1.daumcdn.net/news/202404/12/NEWS1/20240412155043983ydtt.jpg",
-  "page_url": "https://t1.daumcdn.net/news/202404/12/NEWS1/20240412155043983ydtt.jpg",
-  "w": 1120
  },
  "ad-2024-05-01-lotte-wellfood-zero-cm-right-now": {
   "fetched": "2026-10-13",
@@ -4015,6 +4015,14 @@
   "page_url": "https://www.nme.com/news/newjeans-mcdonalds-collaboration-singapore-3528742",
   "w": 1400
  },
+ "goods-2023-12-05-newjeans-weverse-by-fans-apparel": {
+  "fetched": "2026-10-26",
+  "file": "goods-2023-12-05-newjeans-weverse-by-fans-apparel.jpg",
+  "h": 865,
+  "image_url": "https://cdn-contents.weverseshop.io/public/shop/3b9d9a152d0f0224923159e67c5287fb.png",
+  "page_url": "https://cdn-contents.weverseshop.io/public/shop/3b9d9a152d0f0224923159e67c5287fb.png",
+  "w": 720
+ },
  "goods-2025-01-06-funko-pop-newjeans-figures-teased": {
   "fetched": "2026-10-13",
   "file": "goods-2025-01-06-funko-pop-newjeans-figures-teased.jpg",
@@ -6823,6 +6831,14 @@
   "page_url": "https://www.gqkorea.co.kr/?p=203366",
   "w": 1400
  },
+ "notice-2023-07-17-cool-with-you-mv-date-announcement": {
+  "fetched": "2026-10-13",
+  "file": "notice-2023-07-17-cool-with-you-mv-date-announcement.jpg",
+  "h": 600,
+  "image_url": "https://0.soompi.io/wp-content/uploads/2023/07/16174406/NewJeans-6.jpg",
+  "page_url": "https://www.soompi.com/article/1600989wpp/newjeans-to-release-mv-starring-2-global-stars-ahead-of-official-comeback",
+  "w": 900
+ },
  "notice-2024-03-26-how-sweet-and-japan-debut-announced": {
   "fetched": "2026-10-13",
   "file": "notice-2024-03-26-how-sweet-and-japan-debut-announced.jpg",
@@ -7678,6 +7694,14 @@
   "image_url": "https://0.soompi.io/wp-content/uploads/2023/04/01164733/NewJeans-0402.jpg",
   "page_url": "https://www.soompi.com/article/1576843wpp/newjeans-becomes-1st-artist-in-history-to-sweep-top-3-spots-for-3-months-on-melons-monthly-chart",
   "w": 900
+ },
+ "record-2023-04-03-tma-2023-best-music-spring-omg-nomination": {
+  "fetched": "2026-10-26",
+  "file": "record-2023-04-03-tma-2023-best-music-spring-omg-nomination.jpg",
+  "h": 967,
+  "image_url": "http://img.tf.co.kr/article/home/2023/04/04/202361011680569855.jpg",
+  "page_url": "http://news.tf.co.kr/read/entertain/2009287.htm",
+  "w": 580
  },
  "record-2023-04-24-forbes-korea-power-celebrity-40-2023": {
   "fetched": "2026-10-17",
@@ -8775,6 +8799,14 @@
   "page_url": "https://www.nme.com/news/music/melon-music-awards-2024-nominations-3813547",
   "w": 1400
  },
+ "record-2024-12-02-hanteo-music-awards-32-whosfandom-female-nomination": {
+  "fetched": "2026-10-24",
+  "file": "record-2024-12-02-hanteo-music-awards-32-whosfandom-female-nomination.jpg",
+  "h": 585,
+  "image_url": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=585,fit=cover,q=high,sharpen=2/21/2024/11/2024112714390712509_1.jpg",
+  "page_url": "https://www.starnewskorea.com/stview.php?no=2024112714390712509",
+  "w": 1200
+ },
  "record-2024-12-03-rolling-stone-100-best-songs-2024-how-sweet": {
   "fetched": "2026-10-15",
   "file": "record-2024-12-03-rolling-stone-100-best-songs-2024-how-sweet.jpg",
@@ -8902,14 +8934,6 @@
   "image_url": "https://staticg.sportskeeda.com/editor/2024/12/9e2a2-17344189217386-1920.jpg",
   "page_url": "https://www.sportskeeda.com/us/k-pop/news-how-vote-2024-hanteo-music-awards-nominations-list-need-know-bts-members-blackpink-s-rose-txt-twice-bag-nods",
   "w": 1400
- },
- "record-2025-02-15-hanteo-music-awards-32-whosfandom-female-nomination": {
-  "fetched": "2026-10-24",
-  "file": "record-2025-02-15-hanteo-music-awards-32-whosfandom-female-nomination.jpg",
-  "h": 585,
-  "image_url": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=585,fit=cover,q=high,sharpen=2/21/2024/11/2024112714390712509_1.jpg",
-  "page_url": "https://www.starnewskorea.com/stview.php?no=2024112714390712509",
-  "w": 1200
  },
  "record-2025-03-24-sma-34-bonsang-nomination": {
   "fetched": "2026-10-17",
@@ -9487,14 +9511,6 @@
   "page_url": "https://x.com/NewJeans_ADOR/status/1676591775853445120",
   "w": 1200
  },
- "sns-2023-07-17-cool-with-you-mv-date-announcement": {
-  "fetched": "2026-10-13",
-  "file": "sns-2023-07-17-cool-with-you-mv-date-announcement.jpg",
-  "h": 600,
-  "image_url": "https://0.soompi.io/wp-content/uploads/2023/07/16174406/NewJeans-6.jpg",
-  "page_url": "https://www.soompi.com/article/1600989wpp/newjeans-to-release-mv-starring-2-global-stars-ahead-of-official-comeback",
-  "w": 900
- },
  "sns-2023-07-20-youtube-newjeans-day-d-2": {
   "fetched": "2026-10-23",
   "file": "sns-2023-07-20-youtube-newjeans-day-d-2.jpg",
@@ -9846,6 +9862,14 @@
   "image_url": "https://image.koreajoongangdaily.com/12472526.jpg?imageId=12472526&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
   "page_url": "https://www.koreajoongangdaily.com/korea/newjeans-members-set-up-new-instagram-account-buy-food-for-rally-goers/12472435",
   "w": 1200
+ },
+ "sns-2025-02-27-njz-official-x-account-opened": {
+  "fetched": "2026-10-26",
+  "file": "sns-2025-02-27-njz-official-x-account-opened.jpg",
+  "h": 691,
+  "image_url": "https://imgnews.pstatic.net/image/108/2025/02/28/0003307497_001_20250228174310727.jpg",
+  "page_url": "https://m.entertain.naver.com/article/108/0003307497",
+  "w": 1024
  },
  "sns-2025-03-22-njz-complexcon-d-1-teaser": {
   "fetched": "2026-10-13",

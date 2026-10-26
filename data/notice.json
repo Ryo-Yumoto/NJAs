@@ -253,6 +253,46 @@
     }
   },
   {
+    "id": "notice-2023-07-17-cool-with-you-mv-date-announcement",
+    "date": "2023-07-17",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "notice",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "「Cool With You」MV公開日の発表",
+      "en": "'Cool With You' MV release date announced"
+    },
+    "summary": {
+      "ja": "ADORが、『Get Up』タイトル曲「Cool With You」のMVを7月20日0時に公開すると発表し、グローバルスター2人の出演を予告した。",
+      "en": "ADOR announced that the 'Cool With You' MV would be released on July 20 at midnight KST, teasing two global stars in the cast."
+    },
+    "source_url": "https://www.newsis.com/view/NISX20230717_0002378868",
+    "reference_urls": [
+      "https://www.newsis.com/view/NISX20230717_0002378868",
+      "http://www.osen.co.kr/article/G1112145464",
+      "https://www.soompi.com/article/1600989wpp/newjeans-to-release-mv-starring-2-global-stars-ahead-of-official-comeback"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "announcement"
+    ],
+    "verified": false,
+    "editor_note": "Announced Jul 17 KST per Soompi. Status URL not recovered; may be Weverse notice. | not enriched beyond Soompi (2023-07-17); no status URL found. / Announcement date and content per Soompi (2023-07-17). The original announcement channel (official SNS or Weverse notice) and the X status URL were not recovered; not enriched beyond Soompi. / 2026-10-24 nightly: still unconfirmed as an SNS post. Korean press (Wikitree, OSEN) confirms ADOR's 07-17 announcement of 'two unexpected global stars' but no official X/Weverse/YouTube community post for it was found; it may have been a press release only, in which case it does not belong in sns. / 2026-10-26: decided — 公式SNSの投稿はなく、報道向けの発表と判断してnoticeへ移した（OMG・How Sweetの発売日発表 notice-2022-11-10 / notice-2024-03-26 と同じ扱い）。2023-07-17の報道はいずれも「17日、所属事務所ADORによると」とする報道資料ベース（ニューシス 09:48、OSEN 10:18 ほか多数）。公式文書がないためpolicy 2cによりverified=false、一次報道（ニューシス）をsource_urlにした。HYBE LABELSチャンネルでの公開はニューシス・OSENによる。",
+    "detail": {
+      "ja": "2nd EP『Get Up』のタイトル曲の一つ「Cool With You」のMVを、アルバム発売（7月21日）に先立つ7月20日0時（KST）にHYBE LABELSのYouTubeチャンネルで公開するというADORの発表。MVはside Aとside Bの2編で制作され、「予想外の2人のグローバルスターが出演する」と予告された。",
+      "en": "ADOR announced that the MV for 'Cool With You', one of the title tracks of the 2nd EP Get Up, would be released on the HYBE LABELS YouTube channel on July 20 at midnight KST, ahead of the album's July 21 release. The MV was made in two parts, side A and side B, and was to feature 'two unexpected global stars'."
+    },
+    "credits": {
+      "label": "ADOR"
+    }
+  },
+  {
     "id": "notice-2024-03-26-how-sweet-and-japan-debut-announced",
     "date": "2024-03-26",
     "date_type": "announce",
@@ -1187,6 +1227,9 @@
     "reference_urls": [
       "http://www.osen.co.kr/article/G1112529609",
       "https://www.job-post.co.kr/news/articleView.html?idxno=136826",
+      "https://n.news.naver.com/mnews/article/079/0004005269?sid=103",
+      "https://m.entertain.naver.com/article/108/0003313896",
+      "http://enews.imbc.com/News/RetrieveNewsInfo/454198",
       "https://www.koreaboo.com/news/njz-newjeans-hiatus-announcement-met-unanticipated-reactions/",
       "https://en.wikipedia.org/wiki/NJZ"
     ],
@@ -1202,10 +1245,10 @@
     "verified": true,
     "note": "公演自体はliveカテゴリを参照。",
     "note_en": "See the live category for the performance itself.",
-    "editor_note": "On-stage announcement (read as a letter). The ComplexCon performance belongs to the live category; this record covers only the announcement. ADOR's 03-24 response text not retrieved in full. | Who read the letter is not stated in Koreaboo's report; aol.com source returned 404. The performance itself belongs to the live category. / 2026-10-24 nightly: OSEN 2025-03-24 confirms 23 Mar at AsiaWorld-Expo, after the final song, read from a prepared memo, 'respecting the court decision' of the 21st, 'will definitely come back'. Removed: 'letter signed by all five' (not in Korean reports), and NJZ's 3/21 'will object' statement (objection filing was only reported 3/24, Newsen). Note trimmed: ADOR's next-day response is later than the record date.",
+    "editor_note": "On-stage announcement (read as a letter). The ComplexCon performance belongs to the live category; this record covers only the announcement. ADOR's 03-24 response text not retrieved in full. | Who read the letter is not stated in Koreaboo's report; aol.com source returned 404. The performance itself belongs to the live category. / 2026-10-24 nightly: OSEN 2025-03-24 confirms 23 Mar at AsiaWorld-Expo, after the final song, read from a prepared memo, 'respecting the court decision' of the 21st, 'will definitely come back'. Removed: 'letter signed by all five' (not in Korean reports), and NJZ's 3/21 'will object' statement (objection filing was only reported 3/24, Newsen). Note trimmed: ADOR's next-day response is later than the record date. / 2026-10-26: decided — 発言者を当日・翌朝の韓国報道（ノーカットニュース、スターニュース、iMBC）で確認：5人がそれぞれ手紙を読み、ミンジ・ヘリン・ヘインは韓国語、ハニ・ダニエルは英語。live・musicの記録と表現を統一した。",
     "detail": {
-      "ja": "ComplexCon Hong Kong（アジアワールド・エキスポ）でのステージの最後に、NJZのメンバー5人（ミンジ、ハニ、ダニエル、ヘリン、ヘイン）は用意したメモを読み上げ、3月21日の裁判所の決定を尊重して当分の間すべての活動を止めると発表した。難しいが必要な決定だとし、必ず戻ってくると伝えた。ADORは21日、ソウル中央地裁から独自活動を禁じる仮処分を得ていた。",
-      "en": "At the end of their set at ComplexCon Hong Kong (AsiaWorld-Expo), the five NJZ members (Minji, Hanni, Danielle, Haerin and Hyein) read from a prepared note, announcing that they would pause all activities for the time being in respect of the court's March 21 decision. They called it a difficult but necessary decision and said they would definitely be back. ADOR had obtained the injunction barring independent activities from the Seoul Central District Court on March 21."
+      "ja": "ComplexCon Hong Kong（アジアワールド・エキスポ）でのステージの最後に、NJZのメンバー5人（ミンジ、ハニ、ダニエル、ヘリン、ヘイン）はそれぞれ用意した手紙を読み（ミンジ、ヘリン、ヘインは韓国語、ハニとダニエルは英語）、3月21日の裁判所の決定を尊重して当分の間すべての活動を止めると発表した。難しいが必要な決定だとし、必ず戻ってくると伝えた。ADORは21日、ソウル中央地裁から独自活動を禁じる仮処分を得ていた。",
+      "en": "At the end of their set at ComplexCon Hong Kong (AsiaWorld-Expo), each of the five NJZ members (Minji, Hanni, Danielle, Haerin and Hyein) read a prepared letter (Minji, Haerin and Hyein in Korean, Hanni and Danielle in English), announcing that they would pause all activities for the time being in respect of the court's March 21 decision. They called it a difficult but necessary decision and said they would definitely be back. ADOR had obtained the injunction barring independent activities from the Seoul Central District Court on March 21."
     },
     "credits": {
       "issuer": "NJZ members (on-stage letter)",

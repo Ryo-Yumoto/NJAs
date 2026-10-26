@@ -1802,6 +1802,58 @@
     "editor_note": "SNKRDUNK (URL dated 2023-06-30, updated 2023-07-04 noting Nike Seoul's behind-the-scenes Instagram post); Nike Seoul's own post not fetched, so the release day is per SNKRDUNK. Danielle's jersey not identified. / 2026-10-24 nightly: Nike Seoul's Instagram post not located (no shortcode in coverage); still SNKRDUNK only."
   },
   {
+    "id": "ad-2023-07-01-haerin-dior-rose-des-vents-campaign",
+    "date": "2023-07-01",
+    "date_type": "release",
+    "date_precision": "month",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ディオール ファインジュエリー「ローズ デ ヴァン」キャンペーン——ヘリン",
+      "en": "Dior Joaillerie Rose des Vents campaign - Haerin"
+    },
+    "summary": {
+      "ja": "ディオールが、ジュエリーのグローバルアンバサダーのヘリンを起用した「ローズ デ ヴァン」ラインの新キャンペーンを公開した。",
+      "en": "Dior released a new Rose des Vents campaign featuring Haerin, its global jewellery ambassador."
+    },
+    "detail": {
+      "ja": "ディオール ジュエリーが、ローズ デ ヴァン ラインの新作にあわせたキャンペーンを公開し、グローバルアンバサダーのヘリンが、歌手のシン・リウ（XIN LIU）、俳優のジュリア・ドゥ・ニュネスとともに登場した。撮影はタイラー・ミッチェル。ヘリンが着けたのはヴィクトワール・ドゥ・カステラーヌがデザインした新作で、アイコニックな「ディオール トライバル」を再解釈したローズ デ ヴァン トライバル イヤリングなどが登場した。",
+      "en": "Dior Joaillerie released a campaign for new additions to the Rose des Vents line, in which its global ambassador Haerin appears alongside singer XIN LIU and actress Julia de Nunez, photographed by Tyler Mitchell. Haerin wears new pieces designed by Victoire de Castellane, including the Rose des Vents Tribales earrings that reinterpret the house's iconic Dior Tribales."
+    },
+    "source_url": "https://metalmagazine.eu/en/post/dior-joaillerie-1",
+    "reference_urls": [
+      "https://www.neo2.com/?p=464599",
+      "https://metalmagazine.eu/en/post/dior-joaillerie-1",
+      "https://fashiongonerogue.com/haerin-newjeans-dior-rose-des-vents-2023",
+      "https://theimpression.com/dior-rose-des-vents-jewelry-2023-ad-campaign-review/",
+      "https://fashionpress.it/dior-joaillerie-campaign-63520.html",
+      "https://www.newsen.com/news_view.php?uid=202307181147300410",
+      "https://v.daum.net/v/20230814195038166",
+      "https://v.daum.net/v/20230814141503094"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://t1.daumcdn.net/news/202308/14/lofficielhommes/20230814195039496iwln.jpg",
+      "source_url": "https://v.daum.net/v/20230814195038166"
+    },
+    "credits": {
+      "brand": "Dior Joaillerie",
+      "photographer": "Tyler Mitchell"
+    },
+    "tags": [
+      "dior",
+      "jewelry",
+      "campaign"
+    ],
+    "verified": false,
+    "editor_note": "L'Officiel Korea and Star News (both 2023-08-14) report the release on the 14th. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly (queue): Dior公式YouTubeの動画「HAERIN and the 'Rose des Vents' collection」は2023-09-11（KST）、Fashion Gone Rogueは2023-07-13にフォトキャンペーンを報じ（ページは403、検索要約のみ）、台帳はDiorの投稿を07-10/11とする。韓国の報道は8月14日に「ディオールが公開」と伝えており、フォト（7月）・韓国向け公開（8月14日）・映像（9月11日）のどれをこの記録の日付とするか一次ソース同士で決められない。DiorのInstagram/X投稿は特定できず。要判断。なおad-2024-04-08-haerin-dior-rose-des-vents-campaignに対応するDior公式動画BGRqFPi_7wUは2024-04-08（KST）。 / 2026-10-24 nightly (round 4): no further primary source; Dior YouTube search shows only XD7FEKtus54 (2023-09-11) and BGRqFPi_7wU (2024); Dior Instagram post not identified. Date choice still awaits the queue decision. / 2026-10-26: decided — ブランド広告（ad, release）の日付は、ブランドが世界向けに最初に公開した日とし、韓国向けのプレスリリース（ディオール韓国の報道資料、8月14日・9月14日）は採らない（ローズ セレスト、2024年4月の記録と同じ基準）。第1章は遅くとも2023-07-07（Neo2, 07-07 12:23 UTC）に公開済みで、Metal Magazine 07-13、Fashion Gone Rogue 07-13、The Impression 07-17も報じ、NewJeans公式SNSも07-17に写真2枚を投稿（Newsen等）。Dior自身の投稿は特定できず、namu.wikiの07-10/11とNeo2の07-07が食い違うため日は確定できない→2023年7月（month精度）、verified=false。09-11のDior公式YouTube動画はローズ セレスト（第2章）の映像で、このレコードには属さない。撮影者・共演者はMetal Magazine/The Impression/fashionpress.itによる。"
+  },
+  {
     "id": "ad-2023-07-01-powerpuff-girls-get-up-collab",
     "date": "2023-07-01",
     "date_type": "release",
@@ -2022,50 +2074,6 @@
     "editor_note": "Official SFW channel upload (@SFW_official), 2023-08-09 KST. Individual member posters followed on SFW Instagram 08-10 to 08-14 (per namu). Ambassador appointment: ad-2023-02-22-seoul-fashion-week-ambassador."
   },
   {
-    "id": "ad-2023-08-14-haerin-dior-rose-des-vents-campaign",
-    "date": "2023-08-14",
-    "date_type": "release",
-    "date_precision": "day",
-    "category": "ad",
-    "entity": "newjeans",
-    "members": [
-      "haerin"
-    ],
-    "title": {
-      "ja": "ディオール ファインジュエリー「ローズ デ ヴァン」キャンペーン——ヘリン",
-      "en": "Dior Joaillerie Rose des Vents campaign - Haerin"
-    },
-    "summary": {
-      "ja": "ディオールが、ジュエリーのグローバルアンバサダーのヘリンを起用した「ローズ デ ヴァン」ラインの新キャンペーンを公開した。",
-      "en": "Dior released a new Rose des Vents campaign featuring Haerin, its global jewellery ambassador."
-    },
-    "detail": {
-      "ja": "ディオールが、ディオール ジュエリーのグローバルアンバサダーとして活動するヘリンとの新キャンペーンを公開した。ヘリンが着けたのはヴィクトワール・ドゥ・カステラーヌがデザインした「ローズ デ ヴァン」ラインの新作で、アイコニックな「ディオール トライバル」を再解釈したローズ デ ヴァン トライバル イヤリングなどが登場した。",
-      "en": "Dior released a new campaign with Haerin, its global ambassador for Dior jewellery. She wears new pieces from the Rose des Vents line designed by Victoire de Castellane, including Rose des Vents Tribales earrings that reinterpret the house's iconic Dior Tribales."
-    },
-    "source_url": "https://v.daum.net/v/20230814195038166",
-    "reference_urls": [
-      "https://v.daum.net/v/20230814141503094"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "image": {
-      "url": "https://t1.daumcdn.net/news/202308/14/lofficielhommes/20230814195039496iwln.jpg",
-      "source_url": "https://v.daum.net/v/20230814195038166"
-    },
-    "credits": {
-      "brand": "Dior Joaillerie"
-    },
-    "tags": [
-      "dior",
-      "jewelry",
-      "campaign"
-    ],
-    "verified": false,
-    "editor_note": "L'Officiel Korea and Star News (both 2023-08-14) report the release on the 14th. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly (queue): Dior公式YouTubeの動画「HAERIN and the 'Rose des Vents' collection」は2023-09-11（KST）、Fashion Gone Rogueは2023-07-13にフォトキャンペーンを報じ（ページは403、検索要約のみ）、台帳はDiorの投稿を07-10/11とする。韓国の報道は8月14日に「ディオールが公開」と伝えており、フォト（7月）・韓国向け公開（8月14日）・映像（9月11日）のどれをこの記録の日付とするか一次ソース同士で決められない。DiorのInstagram/X投稿は特定できず。要判断。なおad-2024-04-12-haerin-dior-rose-des-vents-campaignに対応するDior公式動画BGRqFPi_7wUは2024-04-08（KST）。 / 2026-10-24 nightly (round 4): no further primary source; Dior YouTube search shows only XD7FEKtus54 (2023-09-11) and BGRqFPi_7wU (2024); Dior Instagram post not identified. Date choice still awaits the queue decision."
-  },
-  {
     "id": "ad-2023-08-14-hyundai-department-store-duty-free",
     "date": "2023-08-14",
     "date_type": "announce",
@@ -2150,8 +2158,8 @@
     "editor_note": "Reel Cv8-bw2v9R6 (2023-08-15 14:00 KST) and Cv_jORrvP4K (08-16) listed in namu's Chanel section; caption text quoted by namu ('샤넬 앰배서더, 뉴진스 민지가 소개하는 뷰티 루틴', 'N°1 DE CHANEL 레드 까멜리아 세럼, 크림, 아이 크림으로 구성된 민지의 N°1 DE CHANEL 뷰티 루틴'). Fan re-uploads dated 230815 corroborate the date. Instagram account/caption could not be read (r.jina.ai reader blocked for instagram.com on 2026-10-17); post attributed to the brand by namu.wiki's brand section, date from the shortcode timestamp. / 2026-10-24 nightly: Instagram oEmbed: author chanel.beauty.korea, media_id time 2023-08-15 14:00:59 KST; caption 'N°1 DE CHANEL : 레드 까멜리아 뷰티 루틴 ... 샤넬 앰배서더, 뉴진스 민지가 소개하는 뷰티 루틴을 만나보세요' (#레드까멜리아세럼)."
   },
   {
-    "id": "ad-2023-09-14-haerin-dior-rose-celeste-campaign",
-    "date": "2023-09-14",
+    "id": "ad-2023-09-11-haerin-dior-rose-celeste-campaign",
+    "date": "2023-09-11",
     "date_type": "release",
     "date_precision": "day",
     "category": "ad",
@@ -2164,23 +2172,24 @@
       "en": "Dior Joaillerie campaign, chapter two (Rose Céleste) - Haerin"
     },
     "summary": {
-      "ja": "ディオール ファインジュエリーが、ヘリンとの「ローズ デ ヴァン」キャンペーン第2章を公開し、ローズ セレストの新作を披露した。",
-      "en": "Dior Joaillerie released the second chapter of its campaign with Haerin, featuring new Rose Céleste pieces."
+      "ja": "ディオールが、ヘリンとの「ローズ デ ヴァン」キャンペーンの第2章として、ローズ セレストの新作を着けたヘリンの映像を公開した。",
+      "en": "Dior released the second chapter of its Rose des Vents campaign with Haerin, a film featuring new Rose Céleste pieces."
     },
     "detail": {
-      "ja": "ディオールが、ジュエリーのグローバルアンバサダーのヘリンとのキャンペーンの第2章を公開した。登場したのは「ローズ セレスト」ラインの新作で、ムッシュ ディオールの占星術への情熱に着想を得て、太陽と月をリバーシブルのデザインで表現している。",
-      "en": "Dior released the second chapter of its campaign with Haerin, its global jewellery ambassador. It features new pieces from the Rose Céleste line, inspired by Monsieur Dior's passion for astrology, with reversible designs depicting the sun and the moon."
+      "ja": "ディオールが公式YouTubeチャンネルで、ジュエリーのグローバルアンバサダーのヘリンを起用した新しい映像キャンペーン「HAERIN and the 'Rose des Vents' collection」を公開した。ヘリンはヴィクトワール・ドゥ・カステラーヌによる「ローズ セレスト」ラインの新作を着けて登場する。ローズ セレストはムッシュ ディオールの占星術への情熱に着想を得たラインで、太陽と月をリバーシブルのデザインで表現している。7月に公開されたローズ デ ヴァン キャンペーンの第2章にあたる。",
+      "en": "Dior released a new video campaign, 'HAERIN and the 'Rose des Vents' collection', on its official YouTube channel, starring its global jewellery ambassador Haerin. She wears new pieces from the Rose Céleste line by Victoire de Castellane, inspired by Monsieur Dior's passion for astrology, with reversible designs depicting the sun and the moon. It is the second chapter of the Rose des Vents campaign released in July."
     },
-    "source_url": "https://v.daum.net/v/20230914153903991",
+    "source_url": "https://www.youtube.com/watch?v=XD7FEKtus54",
     "reference_urls": [
-      "https://v.daum.net/v/20230916161313307"
+      "https://x.com/Dior/status/1701264342480728084",
+      "https://x.com/NewJeans_ADOR/status/1701883427207700704",
+      "https://v.daum.net/v/20230914153903991",
+      "https://v.daum.net/v/20230916161313307",
+      "https://sportskeeda.com/lifestyle/news-newjeans-haerin-s-look-dior-joaillerie-s-latest-campaign-wins-internet-you-will-always-shine"
     ],
     "media": {
-      "type": "none"
-    },
-    "image": {
-      "url": "https://t1.daumcdn.net/news/202309/14/startoday/20230914153906050mufc.jpg",
-      "source_url": "https://v.daum.net/v/20230914153903991"
+      "type": "youtube",
+      "ref": "XD7FEKtus54"
     },
     "credits": {
       "brand": "Dior Joaillerie"
@@ -2190,8 +2199,8 @@
       "jewelry",
       "campaign"
     ],
-    "verified": false,
-    "editor_note": "Star Today (2023-09-14) says Dior released it on the 14th; L'Officiel Korea (2023-09-16) details the Rose Céleste line. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: not confirmed. No Dior YouTube or identifiable Instagram post for Haerin's Rose Céleste chapter (YouTube search returns only Cara Delevingne-era Rose Céleste films); overlaps the unresolved Rose des Vents dating (Dior video XD7FEKtus54 on 2023-09-11). Left unverified."
+    "verified": true,
+    "editor_note": "Star Today (2023-09-14) says Dior released it on the 14th; L'Officiel Korea (2023-09-16) details the Rose Céleste line. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: not confirmed. No Dior YouTube or identifiable Instagram post for Haerin's Rose Céleste chapter (YouTube search returns only Cara Delevingne-era Rose Céleste films); overlaps the unresolved Rose des Vents dating (Dior video XD7FEKtus54 on 2023-09-11). Left unverified. / 2026-10-26: decided — 第1章と同じ基準（ブランドの世界向け初公開日）で、Dior公式YouTube「HAERIN and the 'Rose des Vents' collection」(XD7FEKtus54、next API・timeZone Asia/Seoulで2023-09-11)を採り09-14（韓国向け報道資料）から移した。同じ映像はDior公式X（status 1701264342480728084、2023-09-11 16:00 UTC=09-12 01:00 KST）で「Rose Céleste jewels」と明記して投稿されており、YouTube動画が第2章（ローズ セレスト）の映像であることを確認。NewJeans公式Xは09-13 18:00 KSTに写真2枚を投稿。なお第2章の写真は09-10 21:13 KSTのファン投稿にすでに含まれるが出所不明のため採らない。image（報道写真）は削除し公式動画のサムネイルを使う。"
   },
   {
     "id": "ad-2023-09-15-lotte-wellfood-pepero-model",
@@ -3009,8 +3018,9 @@
       "ja": "グッチ ビューティがハニをグローバルブランドアンバサダーに起用、2022年からのグッチ ファッションのアンバサダー契約を拡張。",
       "en": "Gucci Beauty named Hanni global brand ambassador, extending her Gucci fashion role held since 2022."
     },
-    "source_url": "https://cosmeticsbusiness.com/newjeans-idol-hanni-named-gucci-beauty-ambassador",
+    "source_url": "https://x.com/NewJeans_ADOR/status/1773230644727775339",
     "reference_urls": [
+      "https://cosmeticsbusiness.com/newjeans-idol-hanni-named-gucci-beauty-ambassador",
       "https://www.newsis.com/view/NISX20240329_0002680819",
       "https://biz.heraldcorp.com/article/3359405",
       "https://www.kpopstarz.com/articles/318495/20240328/newjeans-hanni-stuns-again-gucci-beauty-ambassador.htm"
@@ -3022,15 +3032,63 @@
       "beauty",
       "ambassador"
     ],
-    "verified": false,
-    "editor_note": "Instagram announcement reportedly Mar 28, 2024; trade coverage dated Apr 2, 2024. / Instagram announcement reportedly 28 March 2024; ADOR's photo post and Electronic Times coverage were on 29 March (date omitted from reader text as one day after the record date); product details from Cosmetics Business (2024-04-02). / 2026-10-24 nightly: Korean press (Newsis 2024-03-29 16:51, Herald Business) say Gucci announced the appointment on the 29th and ADOR released photos on the 29th (KST). Gucci Beauty's Instagram announcement is dated 28 March in Pinterest/KpopStarz (URL 20240328) coverage, but the post's KST time could not be fetched. Content (global brand ambassador, extension of the 2022 fashion role) confirmed; date left as is pending a decision.",
+    "verified": true,
+    "editor_note": "Instagram announcement reportedly Mar 28, 2024; trade coverage dated Apr 2, 2024. / Instagram announcement reportedly 28 March 2024; ADOR's photo post and Electronic Times coverage were on 29 March (date omitted from reader text as one day after the record date); product details from Cosmetics Business (2024-04-02). / 2026-10-24 nightly: Korean press (Newsis 2024-03-29 16:51, Herald Business) say Gucci announced the appointment on the 29th and ADOR released photos on the 29th (KST). Gucci Beauty's Instagram announcement is dated 28 March in Pinterest/KpopStarz (URL 20240328) coverage, but the post's KST time could not be fetched. Content (global brand ambassador, extension of the 2022 fashion role) confirmed; date left as is pending a decision. / 2026-10-26: decided — 発表日は2024-03-28（KST）。NewJeans公式X（@NewJeans_ADOR、status 1773230644727775339）が2024-03-28 15:08 KST（06:08 UTC、fxtwitterで確認）に「Gucci Beauty’s Newest Global Brand Ambassador HANNI」を広告表記付きで投稿しており、韓国時間でも28日に公式発表済み。29日の韓国報道（ニューシス等）は翌日の報道で、発表日ではない。source_urlを公式X投稿に替えverified=true。同じ投稿のsnsレコード（sns-2024-03-28-hanni-gucci-beauty-ambassador）は告知投稿として残す。",
     "detail": {
       "ja": "グッチ ビューティがInstagramでハニをグローバルブランドアンバサダーに起用したと発表し、ハニが「その真正さ、自信、カリスマでメゾンの核となる価値を体現している」と述べた。ADORも写真とともに起用を公表した。ハニは新作リップのルージュ ア レーヴル マット509「ロッソ アンコーラ」を塗るプロモーション映像に登場し、キャンペーン画像にはパレット ドゥ ボーテ カチュールとスティロ コントゥール デ ジューも含まれた。2022年からのグッチ ファッションのアンバサダー契約を拡張するもので、ブランドのアンバサダーにはDavika HoorneとMiley Cyrusがいた。",
       "en": "Gucci Beauty announced Hanni as its global brand ambassador on Instagram, saying she embodies the core values of the house with her authenticity, confidence and charisma, and ADOR also publicised the appointment with photos. Hanni appeared in a promotional video applying the new Rouge a Levres Mat lipstick in shade 509 'Rosso Ancora', and the campaign imagery also showed the Palette de Beaute Quatuor and the Stylo Contour des Yeux kohl pencil. The role extended her Gucci fashion ambassadorship held since 2022; the brand's other ambassadors included Davika Hoorne and Miley Cyrus."
     },
     "credits": {
       "brand": "Gucci Beauty"
+    },
+    "time": "15:08",
+    "image": {
+      "url": "https://pbs.twimg.com/media/GJvHyGdboAAe0dD.jpg?name=orig",
+      "source_url": "https://x.com/NewJeans_ADOR/status/1773230644727775339"
     }
+  },
+  {
+    "id": "ad-2024-04-08-haerin-dior-rose-des-vents-campaign",
+    "date": "2024-04-08",
+    "date_type": "release",
+    "date_precision": "day",
+    "category": "ad",
+    "entity": "newjeans",
+    "members": [
+      "haerin"
+    ],
+    "title": {
+      "ja": "ディオール「ローズ デ ヴァン」新キャンペーン（エトワール デ ヴァン）——ヘリン",
+      "en": "Dior Rose des Vents campaign (Étoile des Vents) - Haerin"
+    },
+    "summary": {
+      "ja": "ディオールが、ヘリンを起用したローズ デ ヴァン コレクションの新キャンペーンを公開し、新作エトワール デ ヴァンを紹介した。",
+      "en": "Dior released a new Rose des Vents campaign with Haerin, introducing the new Étoile des Vents pieces."
+    },
+    "detail": {
+      "ja": "ディオールが公式YouTubeチャンネルで、ジュエリーのグローバルアンバサダーのヘリンがローズ デ ヴァン コレクションの新たな精神を体現する映像キャンペーンを公開した。キャンペーンでヘリンが着けたのは、ヴィクトワール・ドゥ・カステラーヌが手がけたローズ デ ヴァン コレクションの新作「エトワール デ ヴァン」で、ダイヤモンドをあしらったローズゴールドのネックレス2種が登場した。",
+      "en": "Dior released a video campaign on its official YouTube channel in which its global jewellery ambassador Haerin embodies the renewed spirit of the Rose des Vents collection. In the campaign she wears the new Étoile des Vents from the Rose des Vents collection, created by Victoire de Castellane, including two rose-gold necklaces set with diamonds."
+    },
+    "source_url": "https://www.youtube.com/watch?v=BGRqFPi_7wU",
+    "reference_urls": [
+      "https://v.daum.net/v/20240412155042524",
+      "https://v.daum.net/v/20240413232428040",
+      "https://www.adsoftheworld.com/campaigns/haerin-embodies-the-renewed-spirit-of-rose-des-vents"
+    ],
+    "media": {
+      "type": "youtube",
+      "ref": "BGRqFPi_7wU"
+    },
+    "credits": {
+      "brand": "Dior Joaillerie"
+    },
+    "tags": [
+      "dior",
+      "jewelry",
+      "campaign"
+    ],
+    "verified": true,
+    "editor_note": "News1 (2024-04-12) reports Dior released the images on the 12th; L'Officiel Korea (2024-04-13) gives product names. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: News1 via Daum (2024-04-12 15:50): Dior released new campaign images with Haerin on the 12th. L'Officiel Korea (2024-04-13): ROSE DES VENTS campaign, new Étoile des Vents by Victoire de Castellane, two rose-gold diamond necklaces. Confirmed on press; no Dior/ADOR post located. / 2026-10-26: decided — 2023年のローズ デ ヴァン（第1章・第2章）と同じ基準（ブランドの世界向け初公開日、韓国向け報道資料の日付は採らない）で、Dior公式YouTube「Dior Joaillerie global ambassador HAERIN embodies the renewed spirit of Rose des Vents」(BGRqFPi_7wU、next API・timeZone Asia/Seoulで2024-04-08)に移した。04-12はNews1が伝える韓国での写真公開日。エトワール デ ヴァンとネックレス2種はL'Officiel Korea（04-13）による。"
   },
   {
     "id": "ad-2024-04-08-kao-essential-cm-japan",
@@ -3115,50 +3173,6 @@
     "credits": {
       "brand": "SHIBUYA109 (Shibuya store)"
     }
-  },
-  {
-    "id": "ad-2024-04-12-haerin-dior-rose-des-vents-campaign",
-    "date": "2024-04-12",
-    "date_type": "release",
-    "date_precision": "day",
-    "category": "ad",
-    "entity": "newjeans",
-    "members": [
-      "haerin"
-    ],
-    "title": {
-      "ja": "ディオール「ローズ デ ヴァン」新キャンペーン（エトワール デ ヴァン）——ヘリン",
-      "en": "Dior Rose des Vents campaign (Étoile des Vents) - Haerin"
-    },
-    "summary": {
-      "ja": "ディオールが、ヘリンを起用したローズ デ ヴァン コレクションの新キャンペーンを公開し、新作エトワール デ ヴァンを紹介した。",
-      "en": "Dior released a new Rose des Vents campaign with Haerin, introducing the new Étoile des Vents pieces."
-    },
-    "detail": {
-      "ja": "ディオールが、ジュエリーのグローバルアンバサダーのヘリンとの新しいキャンペーン写真を公開した。ヘリンはローズ デ ヴァン コレクションの新作「エトワール デ ヴァン」のネックレスを着用。ヴィクトワール・ドゥ・カステラーヌが手がけ、ダイヤモンドをあしらったローズゴールドのネックレス2種が登場した。",
-      "en": "Dior released new campaign images with its global jewellery ambassador Haerin. She wears the new Étoile des Vents from the Rose des Vents collection, created by Victoire de Castellane, including two rose-gold necklaces set with diamonds."
-    },
-    "source_url": "https://v.daum.net/v/20240412155042524",
-    "reference_urls": [
-      "https://v.daum.net/v/20240413232428040"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "image": {
-      "url": "https://t1.daumcdn.net/news/202404/12/NEWS1/20240412155043983ydtt.jpg",
-      "source_url": "https://v.daum.net/v/20240412155042524"
-    },
-    "credits": {
-      "brand": "Dior Joaillerie"
-    },
-    "tags": [
-      "dior",
-      "jewelry",
-      "campaign"
-    ],
-    "verified": true,
-    "editor_note": "News1 (2024-04-12) reports Dior released the images on the 12th; L'Officiel Korea (2024-04-13) gives product names. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: News1 via Daum (2024-04-12 15:50): Dior released new campaign images with Haerin on the 12th. L'Officiel Korea (2024-04-13): ROSE DES VENTS campaign, new Étoile des Vents by Victoire de Castellane, two rose-gold diamond necklaces. Confirmed on press; no Dior/ADOR post located."
   },
   {
     "id": "ad-2024-05-01-lotte-wellfood-zero-cm-right-now",

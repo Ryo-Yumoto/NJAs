@@ -2449,7 +2449,7 @@
       "collab"
     ],
     "verified": true,
-    "editor_note": "Secondary source; PDT date. | Secondary source (SNKRDUNK running update); PDT date. | removed from reader text: [detail.ja] 価格は確認できていない。 [detail.en] Prices were not confirmed. / From SNKRDUNK's running update (2023-09-07, secondary); PDT date; prices not confirmed. / LINE FRIENDS SQUARE US 'NewJeans 2nd Edition' collection; items = the 20 products still published (collection lists 27); no lineup image, cover = first product / 2026-10-24 nightly: Weverse Shop notice 4530 read (server-rendered JSON; displayStartAt 2023-09-12 10:00 KST): 'Pre-order NewJeans 2nd EP [Get Up] 2nd Official Merch', pre-order Tue Sep 12, 2023 11:00 AM KST until sold out, shipping Mon Sep 18, categories COLLAB > Get Up / bunini / THE POWERPUFF GIRLS X NewJeans, TOKKI TRAVEL NECK PILLOW limit 3. SNKRDUNK's 'LINE FRIENDS COLLECTION 7 PM PDT Sep 11' is the same instant (11:00 KST Sep 12); record re-dated to KST and re-based on the Weverse Shop notice. The LINE FRIENDS COLLECTION channel and the 50,000 KRW eco-bag gift were not in any official page read and were dropped. The LINE FRIENDS SQUARE US 'newjeans-2nd-edition-pre-order' products behind local_assets were created 2023-09-28 (a later US listing of the same items).",
+    "editor_note": "Secondary source; PDT date. | Secondary source (SNKRDUNK running update); PDT date. | removed from reader text: [detail.ja] 価格は確認できていない。 [detail.en] Prices were not confirmed. / From SNKRDUNK's running update (2023-09-07, secondary); PDT date; prices not confirmed. / LINE FRIENDS SQUARE US 'NewJeans 2nd Edition' collection; items = the 20 products still published (collection lists 27); no lineup image, cover = first product / 2026-10-24 nightly: Weverse Shop notice 4530 read (server-rendered JSON; displayStartAt 2023-09-12 10:00 KST): 'Pre-order NewJeans 2nd EP [Get Up] 2nd Official Merch', pre-order Tue Sep 12, 2023 11:00 AM KST until sold out, shipping Mon Sep 18, categories COLLAB > Get Up / bunini / THE POWERPUFF GIRLS X NewJeans, TOKKI TRAVEL NECK PILLOW limit 3. SNKRDUNK's 'LINE FRIENDS COLLECTION 7 PM PDT Sep 11' is the same instant (11:00 KST Sep 12); record re-dated to KST and re-based on the Weverse Shop notice. The LINE FRIENDS COLLECTION channel and the 50,000 KRW eco-bag gift were not in any official page read and were dropped. The LINE FRIENDS SQUARE US 'newjeans-2nd-edition-pre-order' products behind local_assets were created 2023-09-28 (a later US listing of the same items). / 2026-10-26: decided — Weverse Shop告知4530に基づく組み替え（第2弾オフィシャルグッズの予約開始 2023-09-12 11:00 KST）を承認。SNKRDUNKの随時更新記事（09-07更新）が伝えるLINE FRIENDS COLLECTIONの販売開始「9月11日19時PDT」は同じ瞬間（09-12 11:00 KST）で、商品もPowerpuff Girlsのカードホルダー、buniniのペン、ネックピローと同じ第2弾の品目のため、別の販売イベントではない。LINE FRIENDS SQUARE USの商品ページはproducts.jsonで作成2023-09-28・公開2023-11-02の後日の掲載で、新しい販売開始を示す公式告知はない。よってLINE FRIENDSの記録を別に立てない。画像は協業先LINE FRIENDSの公式ストアの同一商品の写真としてそのまま使う。",
     "detail": {
       "ja": "Weverse Shopで、2nd EP『Get Up』の第2弾オフィシャルグッズの予約販売が9月12日11時（KST）に始まった。商品は「Get Up」「bunini」「THE POWERPUFF GIRLS X NewJeans」の各カテゴリーに分かれ、TOKKIのトラベルネックピローなどが含まれた。数量限定の事前生産品で、発送は9月18日からとされ、海外発送にも対応した。",
       "en": "Pre-orders for the second wave of official merch for the 2nd EP Get Up opened on Weverse Shop at 11:00 KST on September 12. Items were grouped into Get Up, bunini and THE POWERPUFF GIRLS X NewJeans categories and included a TOKKI travel neck pillow. The goods were made in limited quantities in advance, with shipping, including overseas, set to start on September 18."
@@ -2946,7 +2946,7 @@
       "official-md"
     ],
     "verified": true,
-    "editor_note": "Secondary source (Bandwagon 2023-10-17). | Secondary source (Bandwagon 2023-10-17). / From Bandwagon (2023-10-17, secondary); no prices given in the coverage. Press framing removed. / 2026-10-23 nightly: Weverse Shop告知5033「NewJeans x Weverse by Fans Apparel Available for Purchase」で2023-12-05 11:00 KST開始（受注生産、各3点まで）を確認。2023-10-16 18:00 KSTのサービス開始告知は見つからず、10月時点でNewJeansの商品が含まれていたかも一次ソースで未確認。 / 2026-10-24 nightly: Weverse Shop notice 4712 '[Weverse by Fans] Merch customization service launched' (artist 82 = NewJeans; found by scanning notice ids 4550-5032): purchases from Mon 2023-10-16 KST, shipping from 10-18, worldwide; customization with NewJeans official assets, made to order, max 3 per option. Date moved from 10-17 (Bandwagon article date) to 10-16; source_url switched to the notice. Item count (23), other artists and the Weverse Con preview remain per Bandwagon. Notice 5033 (2023-12-05) is a later apparel addition. / 2026-10-26 nightly: 2023-10-16当日のウィバースカンパニー発表を伝える聯合ニュース（AKR20231016039500005）、イーデイリー（09:43）、韓国経済（09:16）で、16日の正式ローンチと参加6組（ル・セラフィム、ENHYPEN、NewJeans、ファン・ミンヒョン、BAEKHO、キム・ジュンス）、計23品目、6月Weverse Conでの試験販売、チェ・ジュンウォン代表の発言を確認。Bandwagonの5組からLE SSERAFIMが漏れていたため本文の参加アーティストを6組に修正し、代表名の片仮名をチェ・ジュンウォンに直した。2023-12-05のNewJeansアパレル追加（告知5033）を別レコードにするかは未決のまま。",
+    "editor_note": "Secondary source (Bandwagon 2023-10-17). | Secondary source (Bandwagon 2023-10-17). / From Bandwagon (2023-10-17, secondary); no prices given in the coverage. Press framing removed. / 2026-10-23 nightly: Weverse Shop告知5033「NewJeans x Weverse by Fans Apparel Available for Purchase」で2023-12-05 11:00 KST開始（受注生産、各3点まで）を確認。2023-10-16 18:00 KSTのサービス開始告知は見つからず、10月時点でNewJeansの商品が含まれていたかも一次ソースで未確認。 / 2026-10-24 nightly: Weverse Shop notice 4712 '[Weverse by Fans] Merch customization service launched' (artist 82 = NewJeans; found by scanning notice ids 4550-5032): purchases from Mon 2023-10-16 KST, shipping from 10-18, worldwide; customization with NewJeans official assets, made to order, max 3 per option. Date moved from 10-17 (Bandwagon article date) to 10-16; source_url switched to the notice. Item count (23), other artists and the Weverse Con preview remain per Bandwagon. Notice 5033 (2023-12-05) is a later apparel addition. / 2026-10-26 nightly: 2023-10-16当日のウィバースカンパニー発表を伝える聯合ニュース（AKR20231016039500005）、イーデイリー（09:43）、韓国経済（09:16）で、16日の正式ローンチと参加6組（ル・セラフィム、ENHYPEN、NewJeans、ファン・ミンヒョン、BAEKHO、キム・ジュンス）、計23品目、6月Weverse Conでの試験販売、チェ・ジュンウォン代表の発言を確認。Bandwagonの5組からLE SSERAFIMが漏れていたため本文の参加アーティストを6組に修正し、代表名の片仮名をチェ・ジュンウォンに直した。2023-12-05のNewJeansアパレル追加（告知5033）を別レコードにするかは未決のまま。 / 2026-10-26: decided — 2023-12-05のNewJeansアパレル（Weverse Shop告知5033、販売開始 2023-12-05 11:00 KST、Weverse Shop限定・受注生産）はサービス開始とは別のグッズラインで販売開始日も違うため、新レコード goods-2023-12-05-newjeans-weverse-by-fans-apparel に分けた（policy: goodsはライン単位・販売開始日）。台帳weverse_shop_salesの weverse-21315〜21321 は新レコードへ付け替えること。このレコードは10-16のサービス開始のまま。",
     "detail": {
       "ja": "Weverse Shopアプリの新機能「Weverse by Fans」の購入受付が10月16日（KST）に始まり、LE SSERAFIM、ENHYPEN、NewJeans、HWANG MIN HYUN、BAEKHO、XIA（キム・ジュンス）の6組の公式MDをファン自身がカスタマイズできるようになった。発送は18日からで、全世界に配送する。Tシャツ、グリップホルダー、フォトカード、アクリルキーリング、フォンケース、イヤホンケースなど計23種から選び、オンラインの編集ツールで写真、ロゴ、文字、ステッカーを配置して注文すると受注生産される。2023年6月のWeverse Con Festivalで来場者向けに先行提供されていた。ウィバースカンパニーのチェ・ジュンウォン代表は、自分だけのグッズを作りたいというファンの需要に応えるサービスだと述べた。",
       "en": "Orders opened on October 16 (KST) for the Weverse Shop app's new 'Weverse by Fans' feature, which let fans customize official merch for six acts: LE SSERAFIM, ENHYPEN, NewJeans, HWANG MIN HYUN, BAEKHO and XIA (Kim Junsu), with worldwide shipping from October 18. There were 23 options, including T-shirts, grip holders, photocards, acrylic keyrings, phone cases and earbuds cases; fans place photos, logos, text and stickers in an online editor, and each item is made to order. The service had been previewed for attendees at Weverse Con Festival in June 2023. Weverse Company CEO Joon Choi said it answered fans' wish to make merchandise of their own."
@@ -3313,6 +3313,53 @@
       "NJ Get Up BASEBALL CAP",
       "THE POWERPUFF GIRLS x NJ BASEBALL CAP"
     ]
+  },
+  {
+    "id": "goods-2023-12-05-newjeans-weverse-by-fans-apparel",
+    "date": "2023-12-05",
+    "time": "11:00",
+    "date_type": "sale_start",
+    "date_precision": "day",
+    "category": "goods",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "NewJeans × Weverse by Fans アパレル発売",
+      "en": "NewJeans x Weverse by Fans Apparel on sale"
+    },
+    "summary": {
+      "ja": "Weverse Shop限定で、受注生産の「NewJeans x Weverse by Fans」アパレル（メンバー別TシャツやTOKKIのスウェット）が発売された。",
+      "en": "Made-to-order 'NewJeans x Weverse by Fans' apparel, including a T-shirt for each member and a TOKKI sweatshirt, went on sale exclusively on Weverse Shop."
+    },
+    "detail": {
+      "ja": "Weverse Shopで12月5日11時（KST）から「NewJeans x Weverse by Fans Apparel」の販売が始まり、販売期間は常時とされた。商品はミンジ、ハニ、ダニエル、ヘリン、ヘイン、TOKKIのオーバーサイズTシャツ（ホワイト、各49,000ウォン）と、TOKKIのスウェットシャツ（アイボリー、79,000ウォン）の7点。いずれもWeverse Shop限定で、注文を受けてから個別に製作する受注生産品のため、ほかのby Fans商品とだけ同梱でき、購入上限は各3点とされた。",
+      "en": "Sales of 'NewJeans x Weverse by Fans Apparel' opened on Weverse Shop at 11:00 KST on December 5, with no closing date. The seven items were oversized white T-shirts for Minji, Hanni, Danielle, Haerin, Hyein and TOKKI (49,000 KRW each) and an ivory TOKKI sweatshirt (79,000 KRW). They were sold only on Weverse Shop and made individually to order, could be shipped only with other by Fans products, and were limited to three per option."
+    },
+    "source_url": "https://shop.weverse.io/en/shop/GL_USD/artists/82/notices/5033",
+    "reference_urls": [
+      "https://shop.weverse.io/ko/shop/KRW/artists/82/sales/21315",
+      "https://shop.weverse.io/ko/shop/KRW/artists/82/sales/21320",
+      "https://shop.weverse.io/ko/shop/KRW/artists/82/sales/21321"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "image": {
+      "url": "https://cdn-contents.weverseshop.io/public/shop/3b9d9a152d0f0224923159e67c5287fb.png",
+      "source_url": "https://shop.weverse.io/ko/shop/KRW/artists/82/sales/21320"
+    },
+    "credits": {
+      "sale_channel": "Weverse Shop (Weverse by Fans)"
+    },
+    "tags": [
+      "weverse-shop",
+      "official-md",
+      "tokki"
+    ],
+    "verified": true,
+    "editor_note": "2026-10-26: Weverse Shop notice 5033 (displayStartAt 2023-12-05T11:00+09:00) \"NewJeans x Weverse by Fans Apparel Available for Purchase\": purchase from Tue 2023-12-05 11:00 KST (available at all times), exclusive to Weverse Shop, made to order, max 3 per option, ships only with other by Fans products. Items and KRW prices from the KRW sale pages 21315-21321 (fetched 2026-10-26, status SOLD_OUT; prices as listed at fetch). Split from goods-2023-10-16-weverse-by-fans-newjeans-custom-merch (service launch) by review-queue decision; ledger items weverse-21315..21321."
   },
   {
     "id": "goods-2023-12-20-collaboration-merch-december-2023-tokki-bunini",
