@@ -4719,14 +4719,6 @@
   "page_url": "https://pbs.twimg.com/media/GhkFvu3aIAAxxLF.jpg?name=orig",
   "w": 1080
  },
- "live-2025-03-22-njz-incheon-departure-hong-kong": {
-  "fetched": "2026-10-16",
-  "file": "live-2025-03-22-njz-incheon-departure-hong-kong.jpg",
-  "h": 583,
-  "image_url": "https://cf.asiaartistawards.com/news/21/2025/03/2025032220523620154_1.jpg",
-  "page_url": "https://www.asiaartistawards.com/news/detail/126698/all",
-  "w": 1024
- },
  "live-2025-03-23-complexcon-hong-kong-2025": {
   "fetched": "2026-10-13",
   "file": "live-2025-03-23-complexcon-hong-kong-2025.jpg",
@@ -4734,14 +4726,6 @@
   "image_url": "https://www.asiaworld-expo.com/AsiaWorldExpoLocal/media/AWE/assets/images/upcoming-events/2023/AWEWebsite_1100-x-704_1.jpg?ext=.jpg",
   "page_url": "https://www.asiaworld-expo.com/en-us/whats-on/upcoming-events/events/COMPLEXCON-HONG-KONG-2025-(1st-option-17-24-3,-2nd",
   "w": 1100
- },
- "live-2025-03-24-njz-incheon-arrival-hong-kong": {
-  "fetched": "2026-10-16",
-  "file": "live-2025-03-24-njz-incheon-arrival-hong-kong.jpg",
-  "h": 550,
-  "image_url": "https://image.xportsnews.com/contents/images/upload/article/2025/0324/1742814140925868.jpg",
-  "page_url": "https://www.xportsnews.com/article/1977035",
-  "w": 550
  },
  "live-2025-06-18-danielle-omega-aqua-terra-kyoto": {
   "fetched": "2026-10-16",
@@ -10879,14 +10863,6 @@
   "page_url": "https://i.ytimg.com/vi/ew98NQudOSk/maxresdefault.jpg",
   "w": 1280
  },
- "tv-2024-07-02-j-wave-spark": {
-  "fetched": "2026-10-24",
-  "file": "tv-2024-07-02-j-wave-spark.jpg",
-  "h": 481,
-  "image_url": "https://img-mdpr.freetls.fastly.net/article/3Xwc/nm/3XwcThhwHzIdk_WE5oJxKrUHS2OUKFEOMSLOr4Xq1QI.jpg?width=700&disable=upscale&auto=webp&quality=80",
-  "page_url": "https://mdpr.jp/k-enta/4313655",
-  "w": 700
- },
  "tv-2024-07-03-fns-music-festival-summer-2024": {
   "fetched": "2026-10-23",
   "file": "tv-2024-07-03-fns-music-festival-summer-2024.jpg",
@@ -10894,6 +10870,14 @@
   "image_url": "https://pbs.twimg.com/media/GRkMLh5a4AAoDDY.jpg?name=orig",
   "page_url": "https://pbs.twimg.com/media/GRkMLh5a4AAoDDY.jpg?name=orig",
   "w": 1400
+ },
+ "tv-2024-07-03-j-wave-spark": {
+  "fetched": "2026-10-24",
+  "file": "tv-2024-07-03-j-wave-spark.jpg",
+  "h": 481,
+  "image_url": "https://img-mdpr.freetls.fastly.net/article/3Xwc/nm/3XwcThhwHzIdk_WE5oJxKrUHS2OUKFEOMSLOr4Xq1QI.jpg?width=700&disable=upscale&auto=webp&quality=80",
+  "page_url": "https://mdpr.jp/k-enta/4313655",
+  "w": 700
  },
  "tv-2024-07-06-the-music-day-2024": {
   "fetched": "2026-10-23",

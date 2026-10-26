@@ -5306,47 +5306,6 @@
     "editor_note": "公式動画: CDTV 公式YouTube「【CDTV】NewJeans⚡️変身したい動物発表！🐱」(2024-07-01) / 2026-10-24 nightly: CDTV official YouTube upload ew98NQudOSk (Jul 1, 2024) says the July 1 6:30 pm broadcast featured NewJeans performing 'How Sweet' and 'Bubble Gum' in full, billed as Japanese TV premieres; Modelpress (2024-06-25) confirms the 6:30 pm 2.5-hour live broadcast with NewJeans in the line-up. Bubble Gum had already been performed on Mezamashi 8 (Jun 21) and with MUSIC (Jun 22), so only 'How Sweet' is called a Japanese TV first in the detail."
   },
   {
-    "id": "tv-2024-07-02-j-wave-spark",
-    "date": "2024-07-02",
-    "date_type": "broadcast",
-    "date_precision": "day",
-    "category": "tv",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "J-WAVE『SPARK』",
-      "en": "J-WAVE: SPARK"
-    },
-    "summary": {
-      "ja": "J-WAVE『SPARK』のNewJeans特集で、King Gnu新井和輝が東京ドーム公演のリハーサル楽屋で収録したメンバーとの座談会を放送。",
-      "en": "J-WAVE's SPARK aired a NewJeans feature: a roundtable recorded by King Gnu's Kazuki Arai in the Tokyo Dome rehearsal dressing room."
-    },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [
-      "https://mdpr.jp/k-enta/4313655"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "radio",
-      "japan"
-    ],
-    "verified": true,
-    "detail": {
-      "ja": "J-WAVE（81.3FM）のラジオ番組『SPARK』で24時からNewJeansの特集が放送された。火曜ナビゲーターのKing Gnu新井和輝が東京ドーム公演のリハーサル楽屋を訪ね、メンバーと行った座談会の模様が流れた。新井は東京ドーム公演でベースを演奏している。",
-      "en": "J-WAVE (81.3 FM)'s program SPARK aired a NewJeans feature at midnight. Tuesday navigator Kazuki Arai of King Gnu, who played bass at the group's Tokyo Dome shows, visited the members in the rehearsal dressing room at Tokyo Dome, and the roundtable talk he recorded there formed the broadcast."
-    },
-    "credits": {
-      "broadcaster": "J-WAVE",
-      "program": "SPARK",
-      "navigator": "Kazuki Arai (King Gnu)"
-    },
-    "editor_note": "公式YouTube動画なし: J-WAVE radio appearance; no official video upload / 2026-10-24 nightly: Modelpress (2024-06-28) reports that on July 2, King Gnu's Kazuki Arai's J-WAVE (81.3FM) program SPARK (Mon-Thu 24:00, Arai on Tuesdays) would air the special roundtable he recorded after visiting NewJeans' rehearsal dressing room at the Tokyo Dome fan meeting (Jun 26-27), where he took part as a band member. Content confirmed. Date note: the slot is 'Tuesday 24:00' in broadcaster convention, i.e. 00:00 JST on Wednesday July 3 by the calendar; kept as 2024-07-02 pending decision. Whether all five members took part in the talk was not checked."
-  },
-  {
     "id": "tv-2024-07-03-fns-music-festival-summer-2024",
     "date": "2024-07-03",
     "date_type": "broadcast",
@@ -5401,6 +5360,48 @@
       "url": "https://pbs.twimg.com/media/GRkMLh5a4AAoDDY.jpg?name=orig",
       "source_url": "https://x.com/NewJeans_jp/status/1808490127267942845"
     }
+  },
+  {
+    "id": "tv-2024-07-03-j-wave-spark",
+    "date": "2024-07-03",
+    "date_type": "broadcast",
+    "date_precision": "day",
+    "category": "tv",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "J-WAVE『SPARK』",
+      "en": "J-WAVE: SPARK"
+    },
+    "summary": {
+      "ja": "J-WAVE『SPARK』のNewJeans特集で、King Gnu新井和輝が東京ドーム公演のリハーサル楽屋で収録したメンバーとの座談会を放送。",
+      "en": "J-WAVE's SPARK aired a NewJeans feature: a roundtable recorded by King Gnu's Kazuki Arai in the Tokyo Dome rehearsal dressing room."
+    },
+    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
+    "reference_urls": [
+      "https://mdpr.jp/k-enta/4313655"
+    ],
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "radio",
+      "japan"
+    ],
+    "verified": true,
+    "detail": {
+      "ja": "J-WAVE（81.3FM）のラジオ番組『SPARK』で火曜24時（7月3日0時）からNewJeansの特集が放送された。火曜ナビゲーターのKing Gnu新井和輝が東京ドーム公演のリハーサル楽屋を訪ね、メンバーと行った座談会の模様が流れた。新井は東京ドーム公演でベースを演奏している。",
+      "en": "J-WAVE (81.3 FM)'s program SPARK aired a NewJeans feature at midnight on Tuesday night (00:00 JST on 3 July). Tuesday navigator Kazuki Arai of King Gnu, who played bass at the group's Tokyo Dome shows, visited the members in the rehearsal dressing room at Tokyo Dome, and the roundtable talk he recorded there formed the broadcast."
+    },
+    "credits": {
+      "broadcaster": "J-WAVE",
+      "program": "SPARK",
+      "navigator": "Kazuki Arai (King Gnu)"
+    },
+    "editor_note": "公式YouTube動画なし: J-WAVE radio appearance; no official video upload / 2026-10-24 nightly: Modelpress (2024-06-28) reports that on July 2, King Gnu's Kazuki Arai's J-WAVE (81.3FM) program SPARK (Mon-Thu 24:00, Arai on Tuesdays) would air the special roundtable he recorded after visiting NewJeans' rehearsal dressing room at the Tokyo Dome fan meeting (Jun 26-27), where he took part as a band member. Content confirmed. Date note: the slot is 'Tuesday 24:00' in broadcaster convention, i.e. 00:00 JST on Wednesday July 3 by the calendar; kept as 2024-07-02 pending decision. Whether all five members took part in the talk was not checked. / 2026-10-26: decided — broadcast dates follow the local calendar, so the Tuesday \"24時\" slot is dated 2024-07-03 00:00 JST. Members kept as all (no source shows anyone absent from the Tokyo Dome dressing-room talk).",
+    "time": "00:00"
   },
   {
     "id": "tv-2024-07-06-the-music-day-2024",

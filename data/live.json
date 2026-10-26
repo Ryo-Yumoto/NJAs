@@ -4533,47 +4533,6 @@
     "editor_note": "Official X post 2025-01-18 (#디올립글로우팝업); opening event 17 Jan 2025 per search summary of Digital Times/Asiae (DT page fetched but body text not extracted). / 2026-10-24 nightly: Official X post 1880540642151186762 (2025-01-18 09:00 UTC, '#광고 #디올뷰티 ... #디올립글로우팝업 ... #HAERIN', 3 photos) confirms; Asia Economy 2025-01-23 confirms the pop-up at Shinsegae Gangnam Central City 1F until 2 Feb and the opening event on 17 Jan with Kim Yuna, Haerin, Han So-hee and Nam Joo-hyuk (Naver snippets: '지난 1월 17일 열린 오프닝 행사')."
   },
   {
-    "id": "live-2025-03-22-njz-incheon-departure-hong-kong",
-    "date": "2025-03-22",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "live",
-    "entity": "njz",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "NJZ、コンプレックスコン香港出演のため仁川空港から出国",
-      "en": "NJZ depart Incheon for ComplexCon Hong Kong"
-    },
-    "summary": {
-      "ja": "ComplexCon香港出演のため、メンバー5人が仁川国際空港から香港へ出国した。",
-      "en": "The five members left Incheon International Airport for Hong Kong to perform at ComplexCon Hong Kong."
-    },
-    "detail": {
-      "ja": "ComplexCon Hong Kong 2025のステージに立つため、ミンジ、ハニ、ダニエル、ヘリン、ヘインの5人が午前に仁川国際空港から香港へ出国した。空港には多くの報道陣が集まった。",
-      "en": "Minji, Hanni, Danielle, Haerin and Hyein left Incheon International Airport for Hong Kong in the morning to perform at ComplexCon Hong Kong 2025, with a large press pack at the airport."
-    },
-    "credits": {
-      "venue": "Incheon International Airport"
-    },
-    "source_url": "https://www.tenasia.co.kr/article/2025032215144",
-    "reference_urls": [
-      "https://www.asiaartistawards.com/news/detail/126698/all",
-      "https://www.youtube.com/watch?v=y32PeyRHy0w"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "airport",
-      "overseas",
-      "njz"
-    ],
-    "verified": false,
-    "editor_note": "2026-10-24 nightly: Facts check out in press: Tenasia 2025-03-22 20:45 (members left Incheon for Hong Kong on 22 Mar for ComplexCon; many reporters at the airport, bodyguards used) and the Star News live stream y32PeyRHy0w ('Streamed live on Mar 22, 2025'). 'In the morning' not stated in sources found. Not changed: the departure is after the 21 Mar 2025 court injunction, data-policy §2 says post-injunction NJZ activity is recorded only when based on official announcements with the background in note, and this record is press-only with no note."
-  },
-  {
     "id": "live-2025-03-23-complexcon-hong-kong-2025",
     "date": "2025-03-23",
     "date_type": "event",
@@ -4614,47 +4573,6 @@
       "venue": "AsiaWorld-Expo, Hong Kong",
       "organizer": "Complex / ComplexCon"
     }
-  },
-  {
-    "id": "live-2025-03-24-njz-incheon-arrival-hong-kong",
-    "date": "2025-03-24",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "live",
-    "entity": "njz",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "NJZ、コンプレックスコン香港を終え仁川空港に帰国",
-      "en": "NJZ return to Incheon from ComplexCon Hong Kong"
-    },
-    "summary": {
-      "ja": "ComplexCon香港の日程を終え、メンバー5人が仁川国際空港第1ターミナルから帰国した。",
-      "en": "The five members returned through Incheon International Airport Terminal 1 after the ComplexCon Hong Kong schedule."
-    },
-    "detail": {
-      "ja": "ComplexCon Hong Kongの日程を終えたミンジ、ハニ、ダニエル、ヘリン、ヘインが、午後に仁川国際空港第1ターミナルから入国した。メンバーは自分の名前などが入ったNJZのキャップをかぶっていたと報じられた。",
-      "en": "Minji, Hanni, Danielle, Haerin and Hyein arrived back through Incheon International Airport Terminal 1 in the afternoon after the ComplexCon Hong Kong schedule, reportedly wearing NJZ caps printed with their names."
-    },
-    "credits": {
-      "venue": "Incheon International Airport Terminal 1"
-    },
-    "source_url": "https://www.xportsnews.com/article/1977035",
-    "reference_urls": [
-      "https://www.xportsnews.com/article/1977016",
-      "https://v.daum.net/v/20250324155632834"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "airport",
-      "overseas",
-      "njz"
-    ],
-    "verified": false,
-    "editor_note": "2026-10-24 nightly: Facts check out in press: Xportsnews 2025-03-24 20:05 (afternoon arrival at Incheon T1 after ComplexCon; Hanni and Hyein in NJZ caps with their own names, Minji in a cap with the NJZ name) and Newsen 2025-03-24. Not changed: post-injunction, press-only airport record without a note, same scope question as live-2025-03-22-njz-incheon-departure-hong-kong."
   },
   {
     "id": "live-2025-06-18-danielle-omega-aqua-terra-kyoto",

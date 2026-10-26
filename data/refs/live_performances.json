@@ -1028,8 +1028,8 @@
    "date": "2025-03-22",
    "title": "NJZ depart Incheon for ComplexCon Hong Kong",
    "url": "https://www.tenasia.co.kr/article/2025032215144",
-   "record": "live-2025-03-22-njz-incheon-departure-hong-kong",
-   "exclude": null,
+   "record": null,
+   "exclude": "削除（2026-10-26 判断：仮処分後のNJZの活動は公式発表があるものに限る方針。報道のみ）",
    "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
   },
   {
@@ -1046,8 +1046,8 @@
    "date": "2025-03-24",
    "title": "NJZ return to Incheon from ComplexCon Hong Kong",
    "url": "https://www.xportsnews.com/article/1977035",
-   "record": "live-2025-03-24-njz-incheon-arrival-hong-kong",
-   "exclude": null,
+   "record": null,
+   "exclude": "削除（2026-10-26 判断：仮処分後のNJZの活動は公式発表があるものに限る方針。報道のみ）",
    "note": "not in the Wikipedia lists; enumerated from the existing record (source: its source_url)"
   },
   {

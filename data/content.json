@@ -19612,19 +19612,22 @@
     "entity": "newjeans",
     "platform": "youtube",
     "members": [
-      "all"
+      "minji",
+      "hanni",
+      "haerin",
+      "hyein"
     ],
     "title": {
       "ja": "2026 Summer of NewJeans ビハインド",
       "en": "2026 Summer of NewJeans Behind"
     },
     "summary": {
-      "ja": "「2026 Summer of NewJeans」の撮影の舞台裏を短くまとめた、メンバー全員出演のLight Jeansの一編。",
-      "en": "A short Light Jeans look behind the scenes of '2026 Summer of NewJeans', with all members."
+      "ja": "「2026 Summer of NewJeans」の撮影の舞台裏を短くまとめた、ミンジ、ハニ、ヘリン、ヘインの4人が出演するLight Jeansの一編。",
+      "en": "A short Light Jeans look behind the scenes of '2026 Summer of NewJeans', with Minji, Hanni, Haerin and Hyein."
     },
     "detail": {
-      "ja": "「2026 Summer of NewJeans」の撮影に臨むメンバーの現場の様子を短くまとめたビハインド。Light Jeansの一編で、メンバー全員が登場する。",
-      "en": "A short behind-the-scenes cut from the '2026 Summer of NewJeans' shoot, following the members on set. A Light Jeans episode with all members."
+      "ja": "「2026 Summer of NewJeans」の撮影に臨むメンバーの現場の様子を短くまとめたビハインド。Light Jeansの一編で、ミンジ、ハニ、ヘリン、ヘインの4人が登場する。",
+      "en": "A short behind-the-scenes cut from the '2026 Summer of NewJeans' shoot, following the members on set. A Light Jeans episode with Minji, Hanni, Haerin and Hyein."
     },
     "credits": {
       "channel": "NewJeans (YouTube)",
@@ -19647,6 +19650,6 @@
       "behind"
     ],
     "verified": false,
-    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) returns dateText 'Jul 24, 2026' for YujaE27VmSA on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw); official title '[Light Jeans] 2026 Summer of NewJeans Behind | NewJeans' matches, so date and title are confirmed. Sports Kyunghyang 2026-07-25 (https://sports.khan.co.kr/article/202607250916013) says ADOR posted the video on the 24th and that it shows Minji, Hanni, Haerin and Hyein filming the 4th-anniversary content in Los Angeles; Danielle (whose ADOR contract had been terminated) does not take part. The record has members ['all'] and says 'with all members'/'メンバー全員'. Left unchanged pending a members convention for the four-member period; if four names are chosen, detail could read '...the four members Minji, Hanni, Haerin and Hyein filming in Los Angeles'. Same question applies to mv-2026-07-22-2026-summer-of-newjeans and content-2026-07-23-weverse-bunnies-club-access."
+    "editor_note": "Date from namu.wiki content list (and TheTVDB where listed); YouTube page not fetched successfully. / 2026-10-24 nightly: YouTube next API (timeZone Asia/Seoul) returns dateText 'Jul 24, 2026' for YujaE27VmSA on the official NewJeans channel (UCMki_UkHb4qSc0qyEcOHHJw); official title '[Light Jeans] 2026 Summer of NewJeans Behind | NewJeans' matches, so date and title are confirmed. Sports Kyunghyang 2026-07-25 (https://sports.khan.co.kr/article/202607250916013) says ADOR posted the video on the 24th and that it shows Minji, Hanni, Haerin and Hyein filming the 4th-anniversary content in Los Angeles; Danielle (whose ADOR contract had been terminated) does not take part. The record has members ['all'] and says 'with all members'/'メンバー全員'. Left unchanged pending a members convention for the four-member period; if four names are chosen, detail could read '...the four members Minji, Hanni, Haerin and Hyein filming in Los Angeles'. Same question applies to mv-2026-07-22-2026-summer-of-newjeans and content-2026-07-23-weverse-bunnies-club-access. / 2026-10-26: decided — after Danielle's contract termination, four-member content lists the four members instead of \"all\" (Sports Kyunghyang 2026-07-25 names the four)."
   }
 ]
