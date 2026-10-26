@@ -1090,7 +1090,7 @@
     "date_type": "event",
     "date_precision": "day",
     "category": "notice",
-    "entity": "njz",
+    "entity": "newjeans",
     "title": {
       "ja": "仮処分の審問期日、メンバーが法廷に出席",
       "en": "Injunction hearing: members attend court in person"
@@ -1117,7 +1117,7 @@
       "dispute"
     ],
     "verified": true,
-    "editor_note": "Morning session per pre-report. First court proceeding since the termination declaration. | Sports Kyunghyang report does not mention CCTV footage; that element of the existing summary is unverified here. / Morning session per pre-report; source Sports Kyunghyang (2025-03-07). The earlier summary's claim that ADOR showed CCTV footage of the 'ignore her' incident is not in the Sports Kyunghyang report and is unverified, so it was removed from reader text. Cut for length: ADOR also argued that Hanni herself had initially called the remark no major issue and that Min had escalated it. First court proceeding bringing both sides together since the termination declaration (stated in summary). / 2026-10-24 nightly: Corrected per Sports Kyunghyang, Seoul Shinmun, Segye and Joy News 24 (all 2025-03-07): ADOR disputed the 'ignore her' claim with footage of ILLIT greeting Hanni and Danielle and said Min Hee-jin escalated it (not 'the remark was directed at Min'); 21 billion won per Segye; Hanni's 'message' remark was written in her NJZ Instagram story, not told to reporters.",
+    "editor_note": "Morning session per pre-report. First court proceeding since the termination declaration. | Sports Kyunghyang report does not mention CCTV footage; that element of the existing summary is unverified here. / Morning session per pre-report; source Sports Kyunghyang (2025-03-07). The earlier summary's claim that ADOR showed CCTV footage of the 'ignore her' incident is not in the Sports Kyunghyang report and is unverified, so it was removed from reader text. Cut for length: ADOR also argued that Hanni herself had initially called the remark no major issue and that Min had escalated it. First court proceeding bringing both sides together since the termination declaration (stated in summary). / 2026-10-24 nightly: Corrected per Sports Kyunghyang, Seoul Shinmun, Segye and Joy News 24 (all 2025-03-07): ADOR disputed the 'ignore her' claim with footage of ILLIT greeting Hanni and Danielle and said Min Hee-jin escalated it (not 'the remark was directed at Min'); 21 billion won per Segye; Hanni's 'message' remark was written in her NJZ Instagram story, not told to reporters. / 2026-10-26: decided — entity rule for ADOR–members dispute records: court and legal-proceeding records (filings, hearings, decisions, appeals, finality, mediation, rulings) take entity newjeans, because the parties are ADOR and the five members as parties to the NewJeans exclusive contracts and the courts dealt with them as NewJeans members; njz is kept only for what the members themselves did or announced under the NJZ name (name reveal, @njz_pr statements, ComplexCon). The hearing is a court proceeding on ADOR's injunction against the members; changed njz -> newjeans (Hanni's NJZ Instagram story stays in the text as fact).",
     "detail": {
       "ja": "ADORが申請した企画会社地位保全・広告契約締結禁止の仮処分の審問が、ソウル中央地裁民事合議50部（キム・サンフン首席部長判事）で開かれ、出席義務はないなかメンバー5人が出席した。ADOR側は、ILLITのマネージャーがハニを「無視して」と言ったという主張は事実ではないとして、ILLITのメンバーがハニとダニエルにあいさつする映像を示し、ミン・ヒジン前代表が問題を大きくしたと主張したうえで、210億ウォンを投資してきたとして差別の主張を否定した。メンバー側は、ADORとHYBEがメンバーを差別・排斥し別のグループに置き換えようとしたことが本質だとして、解除は正当だと主張した。審問後、ハニはNJZのInstagramストーリーで、すべて覚えている、法廷で言いたかったが我慢したと書き、自分が書いたメッセージの一部だけを切り取って意味を変えることはできないと訴えた。",
       "en": "The Seoul Central District Court's Civil Division 50 (presiding judge Kim Sang-hoon) heard ADOR's injunction application to preserve its agency status and bar advertising contracts, with all five members attending although they were not required to. ADOR's side disputed the claim that an ILLIT manager had told others to 'ignore' Hanni, showing footage of ILLIT members greeting Hanni and Danielle and arguing that former CEO Min Hee-jin had escalated the matter, and rejected claims of discrimination by citing 21 billion won invested in the group. The members' side argued that the heart of the case was that ADOR and HYBE had discriminated against and excluded them and sought to replace them with another group, so termination was justified. After the hearing Hanni wrote in an NJZ Instagram story that she remembered everything and had held back from saying it in court, and that part of a message she herself had written could not be cut out to change its meaning."
@@ -1261,7 +1261,7 @@
     "date_type": "event",
     "date_precision": "day",
     "category": "notice",
-    "entity": "njz",
+    "entity": "newjeans",
     "title": {
       "ja": "仮処分への異議申立てが棄却、メンバー側は即時抗告",
       "en": "Objection to the injunction dismissed; members file an immediate appeal"
@@ -1288,7 +1288,7 @@
       "dispute"
     ],
     "verified": true,
-    "editor_note": "Entity set to njz because the appeal is the members' action during the NJZ-period legal track; the group stopped using the NJZ name around this time (English Wikipedia). / 2026-10-24 nightly: Segye 2025-04-16 confirms Civil Division 50 (Kim Sang-hoon), dismissal and the three reasons incl. Dolgorae Yugoedan; Celuv/Newsen [공식] 2025-04-16 quote counsel Sejong: 'today ... we filed an immediate appeal'.",
+    "editor_note": "Entity set to njz because the appeal is the members' action during the NJZ-period legal track; the group stopped using the NJZ name around this time (English Wikipedia). / 2026-10-24 nightly: Segye 2025-04-16 confirms Civil Division 50 (Kim Sang-hoon), dismissal and the three reasons incl. Dolgorae Yugoedan; Celuv/Newsen [공식] 2025-04-16 quote counsel Sejong: 'today ... we filed an immediate appeal'. / 2026-10-26: decided — entity rule for ADOR–members dispute records: court and legal-proceeding records (filings, hearings, decisions, appeals, finality, mediation, rulings) take entity newjeans, because the parties are ADOR and the five members as parties to the NewJeans exclusive contracts and the courts dealt with them as NewJeans members; njz is kept only for what the members themselves did or announced under the NJZ name (name reveal, @njz_pr statements, ComplexCon). The objection ruling and the members' immediate appeal are court proceedings; changed njz -> newjeans. Supersedes the earlier note that set njz because the appeal was the members' action.",
     "detail": {
       "ja": "ソウル中央地裁民事合議50部（キム・サンフン首席部長判事）は、メンバー5人が3月21日の仮処分決定に対して申し立てた異議を棄却し、独自活動を禁じる原決定を認可した。提出資料ではADORの契約違反や契約を終わらせるほどの信頼関係の破綻が十分に疎明されたとは言い難いとし、ミン・ヒジン前代表の解任はADORの経営判断でメンバーのプロデュース業務に直接関係せず、契約がミン前代表のプロデュースを前提としていた証拠もないとした。広告制作会社トルゴレユグェダン（Dolphiners Films）との紛争も本件の当事者でない者同士の争いで、それだけでADORが重要な義務に違反したとは言えないと判断した。メンバー側の代理人（法務法人セジョン）は同日、ソウル高裁に即時抗告した。",
       "en": "The Seoul Central District Court's Civil Division 50 (presiding judge Kim Sang-hoon) dismissed the five members' objection to the March 21 injunction and affirmed the original decision barring independent activities. The court found that the materials submitted did not sufficiently show a breach by ADOR or a breakdown of trust severe enough to end the contract, that the dismissal of former CEO Min Hee-jin was an ADOR management decision not directly tied to producing work for the members, and that there was no evidence the contract was premised on her producing. It also held that a dispute involving the ad production company Dolphiners Films (Dolgorae Yugoedan), a non-party, did not by itself show ADOR had breached a material obligation. The members' counsel, the law firm Sejong (Shin & Kim), filed an immediate appeal with the Seoul High Court the same day."
@@ -1347,7 +1347,7 @@
     "date_type": "event",
     "date_precision": "day",
     "category": "notice",
-    "entity": "njz",
+    "entity": "newjeans",
     "title": {
       "ja": "ソウル高裁、仮処分に対するメンバーの抗告を棄却",
       "en": "Seoul High Court dismisses the members' appeal against the injunction"
@@ -1376,7 +1376,7 @@
     "verified": true,
     "note": "裁判所は、メンバーが挙げた事由は信頼関係の破綻を招くものとは言い難いと判断した。",
     "note_en": "The court found that the reasons the members cited could hardly be said to have caused a breakdown of trust.",
-    "editor_note": "Task brief said 06-18; the decision is dated 06-17 (reports published 06-17/18). / 2026-10-24 nightly: Newsis 2025-06-17 confirms the reasoning (investment/future earnings, Min's role not in contract, HYBE-Min dispute, ADOR still trusts the members, injunction needed until the main suit); MK gives the panel Hwang Byung-ha, Jung Jong-kwan, Lee Kyun-yong.",
+    "editor_note": "Task brief said 06-18; the decision is dated 06-17 (reports published 06-17/18). / 2026-10-24 nightly: Newsis 2025-06-17 confirms the reasoning (investment/future earnings, Min's role not in contract, HYBE-Min dispute, ADOR still trusts the members, injunction needed until the main suit); MK gives the panel Hwang Byung-ha, Jung Jong-kwan, Lee Kyun-yong. / 2026-10-26: decided — entity rule for ADOR–members dispute records: court and legal-proceeding records (filings, hearings, decisions, appeals, finality, mediation, rulings) take entity newjeans, because the parties are ADOR and the five members as parties to the NewJeans exclusive contracts and the courts dealt with them as NewJeans members; njz is kept only for what the members themselves did or announced under the NJZ name (name reveal, @njz_pr statements, ComplexCon). A Seoul High Court decision; changed njz -> newjeans.",
     "detail": {
       "ja": "ソウル高裁民事25-2部（ファン・ビョンハ、チョン・ジョングァン、イ・ギュニョン部長判事）は、メンバー5人が仮処分の認可決定に対して申し立てた即時抗告を棄却し、独自活動を禁じる仮処分を維持した。メンバーが契約を離れて独自に活動すれば、ADORは過去の投資を回収する機会を失う一方でメンバーが将来の収益をすべて得ることになり不合理だとし、ミン・ヒジン前代表の役割は契約に定められておらず、その解任はHYBEとミン前代表の経営権をめぐる紛争から生じたもので、それ自体が契約の基礎となる信頼を壊すものではないと判断した。ADORがメンバーへの信頼を保っている以上、解除の要件となる信頼関係の破綻は認められず、本案の結論が出るまで仮処分が必要だとした。",
       "en": "The Seoul High Court's Civil Division 25-2 (judges Hwang Byung-ha, Jung Jong-kwan and Lee Kyun-yong) dismissed the five members' immediate appeal against the affirmation of the injunction, upholding the ban on independent activities. It reasoned that if the members left the contract and worked independently, ADOR would lose the chance to recoup its past investment while the members would effectively keep all future earnings, which it called unreasonable; that Min Hee-jin's role was not written into the contract and her removal as CEO arose from a management-control dispute between HYBE and Min, which did not by itself break the trust underlying the contract; and that because ADOR still maintained its trust in the members, the breakdown required for termination was not established, so the injunction was needed until the main suit was decided."
@@ -1391,7 +1391,7 @@
     "date_type": "event",
     "date_precision": "day",
     "category": "notice",
-    "entity": "njz",
+    "entity": "newjeans",
     "title": {
       "ja": "再抗告なし、独自活動禁止の仮処分が確定",
       "en": "No further appeal: injunction barring independent activities becomes final"
@@ -1424,7 +1424,7 @@
     "credits": {
       "court": "Seoul High Court (decision of June 17, 2025, final on June 25)"
     },
-    "editor_note": "Removed source mention from reader text: Newsis. / 2026-10-24 nightly: Newsis 2025-06-25 (two articles) confirm no re-appeal by the deadline (7th day after service, midnight 6/24), finality on 6/25, the list of barred activities and the appeal court's rejection of the Min Hee-jin argument."
+    "editor_note": "Removed source mention from reader text: Newsis. / 2026-10-24 nightly: Newsis 2025-06-25 (two articles) confirm no re-appeal by the deadline (7th day after service, midnight 6/24), finality on 6/25, the list of barred activities and the appeal court's rejection of the Min Hee-jin argument. / 2026-10-26: decided — entity rule for ADOR–members dispute records: court and legal-proceeding records (filings, hearings, decisions, appeals, finality, mediation, rulings) take entity newjeans, because the parties are ADOR and the five members as parties to the NewJeans exclusive contracts and the courts dealt with them as NewJeans members; njz is kept only for what the members themselves did or announced under the NJZ name (name reveal, @njz_pr statements, ComplexCon). Finality of the injunction is a court event; changed njz -> newjeans."
   },
   {
     "id": "notice-2025-08-14-first-mediation-session",

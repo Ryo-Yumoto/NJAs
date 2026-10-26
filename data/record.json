@@ -251,7 +251,7 @@
     "reference_urls": [
       "https://news.tf.co.kr/read/ogmeta/1964540.htm"
     ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. The Fact (organiser) article of 2022-09-13 says the 20 finalists were set by the first-round vote (Aug 8-22) and the second round ran Sep 13-Oct 4, but does not list the finalists, so NewJeans' inclusion could not be confirmed from the organiser. / 2026-10-23 nightly: 主催THE FACTの2022-09-13記事は2次投票の20組を「参加確定アーティスト」として列挙しNewJeansを含むが、部門候補とは明記していない。"
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. The Fact (organiser) article of 2022-09-13 says the 20 finalists were set by the first-round vote (Aug 8-22) and the second round ran Sep 13-Oct 4, but does not list the finalists, so NewJeans' inclusion could not be confirmed from the organiser. / 2026-10-23 nightly: 主催THE FACTの2022-09-13記事は2次投票の20組を「参加確定アーティスト」として列挙しNewJeansを含むが、部門候補とは明記していない。 / 2026-10-26: decided — kept at the ceremony date (date_type event), unverified; announcement date not identifiable. Correction to the 2026-10-23 note: The Fact 2022-09-13 12:41 (news.tf.co.kr 1964540) names 뉴진스 only in the performer lineup ('출연을 확정했다'), not among the Fan N Star Choice (singer) finalists. Round-1 candidates were added by fans (The Fact/Singlelist 2022-08-08, vote Aug 8-22) and the 20 finalists for round 2 (from 2022-09-13) are not named in any article found. If a finalist list naming NewJeans turns up, move to 2022-09-13 (announce). en.wikipedia's citation (Fan N Star ranking page, archived 2022-06-28, before debut) cannot support the nomination; kept rather than deleted because Wikipedia lists it and the fan-added format makes it plausible, but it remains Wikipedia-only."
   },
   {
     "id": "record-2022-10-08-tma-2022-idolplus-popularity-award-nomination",
@@ -287,7 +287,7 @@
     "reference_urls": [
       "https://news.tf.co.kr/read/ogmeta/1964540.htm"
     ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. The Fact (organiser) article of 2022-09-13 says Idolplus voting ran Sep 13-Oct 4 but does not list candidates. / 2026-10-23 nightly: 主催THE FACTの記事でIdolplus人気賞の候補一覧が見つからず。"
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. The Fact (organiser) article of 2022-09-13 says Idolplus voting ran Sep 13-Oct 4 but does not list candidates. / 2026-10-23 nightly: 主催THE FACTの記事でIdolplus人気賞の候補一覧が見つからず。 / 2026-10-26: decided — kept at the ceremony date (date_type event), unverified; announcement date not identifiable. en.wikipedia cites the IDOLPLUS 'Popularity Award 1st Vote Open' page (archived 2022-09-01), which now redirects to an app lander and could not be read; The Fact 2022-09-13 gives only the second-round period (Sep 13-Oct 4) with no candidate list. If the vote page can be read and names NewJeans, move to its opening date (on or before 2022-09-01)."
   },
   {
     "id": "record-2022-10-08-tma-2022-next-leader",
@@ -715,39 +715,6 @@
     "editor_note": "Melon MMA official history data 2022: TOP10 includes NewJeans."
   },
   {
-    "id": "record-2022-12-01-asian-pop-music-awards-2022-best-new-artist-overseas-nomination",
-    "date": "2022-12-01",
-    "date_type": "event",
-    "date_precision": "month",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "2022 Asian Pop Music Awards Best New Artist（海外）にノミネート（『New Jeans』）",
-      "en": "2022 Asian Pop Music Awards – Best New Artist (Overseas) nomination (New Jeans)"
-    },
-    "summary": {
-      "ja": "2022 Asian Pop Music AwardsのBest New Artist（海外）部門で『New Jeans』が候補となった。",
-      "en": "New Jeans by NewJeans was among the nominees for Best New Artist (Overseas) at the 2022 Asian Pop Music Awards."
-    },
-    "detail": {
-      "ja": "2022 Asian Pop Music Awards（2022年12月発表）で、NewJeansはBest New Artist（海外）部門の候補となった（対象：『New Jeans』）。",
-      "en": "NewJeans were nominated for Best New Artist (Overseas) at the 2022 Asian Pop Music Awards (results announced December 2022), for New Jeans."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "nomination",
-      "asian-pop-music-awards"
-    ],
-    "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list; no nominee announcement found. Ceremony/results month only (December 2022), so date_precision month. / 2026-10-23 nightly: 主催者の候補発表もWikipedia以外の報道も見つからず。"
-  },
-  {
     "id": "record-2022-12-01-asian-pop-music-awards-2022-hype-boy",
     "date": "2022-12-01",
     "date_type": "event",
@@ -1063,7 +1030,7 @@
       "aaa"
     ],
     "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; the DCM popularity vote's candidate list was not found in press. / 2026-10-24 nightly: Not confirmable: no AAA/DCM official nominee list or major-press report naming NewJeans for the DCM Popularity Award (female singer) was found; Wikipedia remains the only source."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; the DCM popularity vote's candidate list was not found in press. / 2026-10-24 nightly: Not confirmable: no AAA/DCM official nominee list or major-press report naming NewJeans for the DCM Popularity Award (female singer) was found; Wikipedia remains the only source. / 2026-10-26: decided — kept at the ceremony date (date_type event), unverified; announcement date not identifiable. AAA announced on 2022-11-08 (official site; Starnews/OSEN/Maeil 11-08/09) that DCM voting ran Nov 8 10:00 to Nov 28 in two rounds, the top 20 of round 1 becoming final nominees; the 뉴진스 mentions in those articles are the performer lineup. DCM winners were announced 2022-11-29 (Lim Young-woong, BLACKPINK, Kim Seon-ho, Kim Se-jeong). en.wikipedia cites the DCM Live paid-vote page (female singer, archived 2022-11-16); app.dcmlive.net was unreachable (proxy 502). Candidate list naming NewJeans not found."
   },
   {
     "id": "record-2022-12-13-aaa-2022-idolplus-popularity-award-music-nomination",
@@ -1096,7 +1063,7 @@
       "aaa"
     ],
     "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; candidate list not found in press. / 2026-10-24 nightly: Not confirmable: no AAA/IDOLPLUS official nominee list or major-press report naming NewJeans for the Idolplus Popularity Award (music) was found."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; candidate list not found in press. / 2026-10-24 nightly: Not confirmable: no AAA/IDOLPLUS official nominee list or major-press report naming NewJeans for the Idolplus Popularity Award (music) was found. / 2026-10-26: decided — kept at the ceremony date (date_type event), unverified; announcement date not identifiable. en.wikipedia cites the IDOLPLUS AAA vote page dated 2022-11-06 (global.idolplus.com, TLS failure here); press on 2022-11-08/09 says the IDOLPLUS vote was already under way but names no candidates (뉴진스 appears only in the lineup). If the vote page can be read and names NewJeans, move to about 2022-11-06 (announce)."
   },
   {
     "id": "record-2022-12-13-aaa-2022-performance-of-the-year",
@@ -1132,6 +1099,198 @@
       "https://www.soompi.com/article/1558355wpp/winners-of-2022-asia-artist-awards"
     ],
     "editor_note": "AAA official 2022 winners page lists 뉴진스 - 대상 올해의 퍼포먼스 (Performance of the Year Daesang)."
+  },
+  {
+    "id": "record-2022-12-13-asian-pop-music-awards-2022-best-new-artist-overseas-nomination",
+    "date": "2022-12-13",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2022 Asian Pop Music Awards Best New Artist（海外）にノミネート（『New Jeans』）",
+      "en": "2022 Asian Pop Music Awards – Best New Artist (Overseas) nomination (New Jeans)"
+    },
+    "summary": {
+      "ja": "2022 Asian Pop Music Awardsの入選リストが発表され、NewJeansがBest New Artist（海外）部門の候補に入った。",
+      "en": "The 2022 Asian Pop Music Awards published its shortlist, naming NewJeans for Best New Artist (Overseas)."
+    },
+    "detail": {
+      "ja": "2022 Asian Pop Music Awardsが公式Weiboで年間入選リストを発表し、NewJeansは『New Jeans』でBest New Artist（海外）部門の候補に入った。同アワードは中国語圏と海外の作品・アーティストを部門ごとに分けて選ぶ。",
+      "en": "The 2022 Asian Pop Music Awards published its annual shortlist on its official Weibo, naming NewJeans for Best New Artist (Overseas) with 'New Jeans'. The awards select Chinese-language and overseas works and artists in separate categories."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "asian-pop-music-awards"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list; no nominee announcement found. Ceremony/results month only (December 2022), so date_precision month. / 2026-10-23 nightly: 主催者の候補発表もWikipedia以外の報道も見つからず。 / 2026-10-26: decided — re-dated from month precision (2022-12, results 12-28) to 2022-12-13 (announce, day). en.wikipedia's NewJeans awards list cites the official APMA Weibo post '【APMA 2022】亚洲流行音乐大奖2022年度入围名单' (weibo.com/7305169762/MjwUq9H52) dated 2022-12-13 (accessed 12-16) for this nomination. Weibo could not be fetched (m.weibo.cn 302) and no press copy was found, so the date rests on that citation and verified stays false. Not deleted: the nomination has a cited organiser source, not Wikipedia alone.",
+    "reference_urls": [
+      "https://weibo.com/7305169762/MjwUq9H52",
+      "https://en.wikipedia.org/wiki/Asian_Pop_Music_Awards"
+    ]
+  },
+  {
+    "id": "record-2022-12-14-hanteo-music-awards-30-whosfandom-nomination",
+    "date": "2022-12-14",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Hanteo Music Awards 2022 WhosFandom Awardにノミネート",
+      "en": "Hanteo Music Awards 2022 – WhosFandom Award nomination"
+    },
+    "summary": {
+      "ja": "Hanteo Music Awards 2022のWhosFandom Award TOP 40候補が公開され、NewJeansも候補に名を連ねた。",
+      "en": "The Hanteo Music Awards 2022 revealed its top 40 candidates for the WhosFandom Award, with NewJeans among them."
+    },
+    "detail": {
+      "ja": "Hanteo Music Awards 2022を主催するHanteo Globalが、WhosFandom AwardのTOP 40候補を公開し、NewJeansも候補に入った。同賞はファンダムとアーティストに共に贈られる賞で、グローバルファン投票100%で決まる。1次投票は12月16日からTwitterで行われ、上位16組がWhosfanアプリでの投票に進む。授賞式は2023年2月に開催予定。",
+      "en": "Hanteo Global, organizer of the Hanteo Music Awards 2022, revealed the top 40 candidates for the WhosFandom Award, NewJeans among them. The award goes jointly to a fandom and its artist and is decided entirely by global fan voting. The first round runs on Twitter from December 16, and the top 16 move on to voting in the Whosfan app. The ceremony is scheduled for February 2023."
+    },
+    "source_url": "http://enter.etoday.co.kr/news/view/234485",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "hanteo-music-awards"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; WhosFandom bracket/candidate list not found. / 2026-10-24 nightly: not confirmable. Korean coverage (Newsis, Herald POP, Edaily) lists only the WhosFandom winner (BTS); no official or press nominee list for the WhosFandom Award found (Hanteo site JS-only). Left unverified. / 2026-10-26: decided — re-dated from the 2023-02-11 ceremony to 2022-12-14 (announce). BizEnter/Singlelist/etnews (2022-12-16, Hanteo Global release): the WhosFandom TOP 40 candidates were revealed on 12-14 and the Twitter vote ran 12-16 to 12-19. NewJeans' place in the TOP 40 is confirmed indirectly: Segye/Singlelist/BizEnter (2022-12-26) list NewJeans in TOP 16 Group C (with BTS, aespa, Stray Kids), and the TOP 16 came from the TOP 40. The 12-14 post itself (Hanteo/Whosfan Twitter) was not retrieved, so verified stays false. Reader text no longer mentions the ceremony venue/result.",
+    "reference_urls": [
+      "http://www.slist.kr/news/articleView.html?idxno=409723",
+      "https://www.etnews.com/20221216000089",
+      "http://www.segye.com/content/html/2022/12/26/20221226507071.html",
+      "http://www.slist.kr/news/articleView.html?idxno=412265",
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ]
+  },
+  {
+    "id": "record-2022-12-18-ccma-2022-global-digital-music-august-attention-nomination",
+    "date": "2022-12-18",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart Music Awards 2022 Artist of the Year – Global Digital Music（8月）にノミネート（「Attention」）",
+      "en": "Circle Chart Music Awards 2022 – Artist of the Year – Global Digital Music (August) nomination ('Attention')"
+    },
+    "summary": {
+      "ja": "Circle Chart Music Awards 2022の第1弾候補が発表され、「Attention」がArtist of the Year – Global Digital Music（8月）部門の候補に入った。",
+      "en": "The Circle Chart Music Awards 2022 announced its first set of nominees, listing 'Attention' for Artist of the Year – Global Digital Music (August)."
+    },
+    "detail": {
+      "ja": "Circle Chart Music Awards 2022の第1弾候補が発表され、NewJeansの「Attention」がArtist of the Year – Global Digital Music（8月）部門の候補に入った。同じ月の候補にはNewJeansの「Hype Boy」のほか、BLACKPINK「Pink Venom」、IVE「After LIKE」、TWICE「Talk that Talk」が挙がった。部門は月ごとに設けられ、Circleチャートの成績をもとに選ばれる。授賞式は2023年2月18日にソウル・KSPOドームで開かれる予定。",
+      "en": "The Circle Chart Music Awards 2022 announced its first set of nominees, listing NewJeans' 'Attention' for Artist of the Year – Global Digital Music (August). The other August nominees were NewJeans' 'Hype Boy', BLACKPINK's 'Pink Venom', IVE's 'After LIKE' and TWICE's 'Talk that Talk'. The award is given for each month on the basis of Circle Chart performance. The ceremony is scheduled for February 18, 2023 at KSPO Dome in Seoul."
+    },
+    "source_url": "https://www.soompi.com/article/1559012wpp/circle-gaon-chart-music-awards-announces-1st-set-of-nominees",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "ccma"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "http://www.circlemusicawards.co.kr/nominees.php",
+      "https://en.wikipedia.org/wiki/12th_Circle_Chart_Music_Awards",
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (12th Circle Chart Music Awards). Tirto.id (citing Soompi) dates the nominee reveal to 2022-12-18 but could not be fetched (blocked) and no Soompi/official nominee page was found. / 2026-10-24 nightly: not confirmable. Edaily/Ilgan Sports winners lists give only BLACKPINK for the August-September digital award; no Circle Chart or press nominee list found (circlemusicawards.com holds only later editions). Left unverified. / 2026-10-26: decided — re-dated from the 2023-02-18 ceremony to 2022-12-18 (announce). Soompi 'Circle (Gaon) Chart Music Awards Announces 1st Set Of Nominees' (2022-12-18) lists the August 2022 monthly digital nominees: BLACKPINK 'Pink Venom', IVE 'After LIKE', NewJeans 'Attention', NewJeans 'Hype Boy', TWICE 'Talk that Talk' (Soompi labels the category 'Digital Music – Monthly'). The official nominee page circlemusicawards.co.kr/nominees.php was archived at 2022-12-17 16:28 UTC (= 12-18 01:28 KST) per en.wikipedia's citation, so the list was public by early 12-18 KST; a 12-17 KST posting cannot be ruled out. The official page now shows a later edition and the archive could not be fetched, so verified stays false. Ceremony result removed from reader text."
+  },
+  {
+    "id": "record-2022-12-18-ccma-2022-global-digital-music-august-hype-boy-nomination",
+    "date": "2022-12-18",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Circle Chart Music Awards 2022 Artist of the Year – Global Digital Music（8月）にノミネート（「Hype Boy」）",
+      "en": "Circle Chart Music Awards 2022 – Artist of the Year – Global Digital Music (August) nomination ('Hype Boy')"
+    },
+    "summary": {
+      "ja": "Circle Chart Music Awards 2022の第1弾候補が発表され、「Hype Boy」がArtist of the Year – Global Digital Music（8月）部門の候補に入った。",
+      "en": "The Circle Chart Music Awards 2022 announced its first set of nominees, listing 'Hype Boy' for Artist of the Year – Global Digital Music (August)."
+    },
+    "detail": {
+      "ja": "Circle Chart Music Awards 2022の第1弾候補が発表され、NewJeansの「Hype Boy」がArtist of the Year – Global Digital Music（8月）部門の候補に入った。同じ月の候補にはNewJeansの「Attention」のほか、BLACKPINK「Pink Venom」、IVE「After LIKE」、TWICE「Talk that Talk」が挙がった。部門は月ごとに設けられ、Circleチャートの成績をもとに選ばれる。授賞式は2023年2月18日にソウル・KSPOドームで開かれる予定。",
+      "en": "The Circle Chart Music Awards 2022 announced its first set of nominees, listing NewJeans' 'Hype Boy' for Artist of the Year – Global Digital Music (August). The other August nominees were NewJeans' 'Attention', BLACKPINK's 'Pink Venom', IVE's 'After LIKE' and TWICE's 'Talk that Talk'. The award is given for each month on the basis of Circle Chart performance. The ceremony is scheduled for February 18, 2023 at KSPO Dome in Seoul."
+    },
+    "source_url": "https://www.soompi.com/article/1559012wpp/circle-gaon-chart-music-awards-announces-1st-set-of-nominees",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "ccma"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "http://www.circlemusicawards.co.kr/nominees.php",
+      "https://en.wikipedia.org/wiki/12th_Circle_Chart_Music_Awards",
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (12th Circle Chart Music Awards). Tirto.id (citing Soompi) dates the nominee reveal to 2022-12-18 but could not be fetched (blocked) and no Soompi/official nominee page was found. / 2026-10-24 nightly: not confirmable. Edaily/Ilgan Sports winners lists give only BLACKPINK for the August-September digital award; no Circle Chart or press nominee list found. Left unverified. / 2026-10-26: decided — re-dated from the 2023-02-18 ceremony to 2022-12-18 (announce). Soompi 'Circle (Gaon) Chart Music Awards Announces 1st Set Of Nominees' (2022-12-18) lists the August 2022 monthly digital nominees: BLACKPINK 'Pink Venom', IVE 'After LIKE', NewJeans 'Attention', NewJeans 'Hype Boy', TWICE 'Talk that Talk' (Soompi labels the category 'Digital Music – Monthly'). The official nominee page circlemusicawards.co.kr/nominees.php was archived at 2022-12-17 16:28 UTC (= 12-18 01:28 KST) per en.wikipedia's citation, so the list was public by early 12-18 KST; a 12-17 KST posting cannot be ruled out. The official page now shows a later edition and the archive could not be fetched, so verified stays false. Ceremony result removed from reader text."
+  },
+  {
+    "id": "record-2022-12-20-gda-37-tiktok-most-popular-artist-nomination",
+    "date": "2022-12-20",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "第37回ゴールデンディスクアワード TikTok人気賞にノミネート",
+      "en": "37th Golden Disc Awards – TikTok Most Popular Artist Award nomination"
+    },
+    "summary": {
+      "ja": "第37回ゴールデンディスクアワードのTikTok人気賞の投票が始まり、デジタル音源部門の候補だったNewJeansも候補に入った。",
+      "en": "Voting opened for the TikTok Most Popular Artist Award at the 37th Golden Disc Awards, with NewJeans among the candidates as Digital Song nominees."
+    },
+    "detail": {
+      "ja": "第37回ゴールデンディスクアワードは、TikTok人気賞のグローバル投票を12月20日午前11時（KST）に始めた。候補はデジタル音源部門とアルバム部門にノミネートされた計37組で、NewJeansは「Attention」でデジタル音源部門の候補に入っていた。投票はTikTokアプリで12月29日午後4時まで行われ、人気賞はファン投票だけで決まる。授賞式は2023年1月7日にタイ・バンコクのラジャマンガラ国立競技場で開かれる予定。",
+      "en": "The 37th Golden Disc Awards opened global voting for the TikTok Most Popular Artist Award at 11 a.m. KST on December 20. The candidates were the 37 acts nominated in the Digital Song and Album divisions, which included NewJeans through 'Attention' in the Digital Song division. Voting runs on the TikTok app until 4 p.m. on December 29, and the award is decided by fan votes alone. The ceremony is scheduled for January 7, 2023 at Rajamangala National Stadium in Bangkok."
+    },
+    "source_url": "http://sports.khan.co.kr/news/sk_index.html?art_id=202212201158003",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "gda"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; popularity-vote candidate list and start date not found. / 2026-10-24 nightly: Golden Disc公式YouTubeに人気賞の投票案内動画はあるが候補者一覧は確認できず、公式サイトはJSのみで取得不可。ノミネートを示す一次ソースが見つからない。 / 2026-10-26: decided — re-dated from the 2023-01-07 ceremony to 2022-12-20 (announce). Sports Kyunghyang 2022-12-20 11:58 (Golden Disc secretariat release; OSEN same day) says the TikTok popularity vote opened 12-20 11:00 KST and ran to 12-29 16:00, with 37 candidates = the acts nominated in the Digital Song and Album divisions. NewJeans' Digital Song nomination ('Attention') is record-2022-12-07-gda-37-digital-song-division-attention-nomination, so their candidacy follows from the organiser's rule; the article does not name NewJeans as a candidate (it names them only in the performer lineup), so verified stays false. Ceremony results removed; only the scheduled date/venue kept.",
+    "time": "11:00",
+    "reference_urls": [
+      "http://www.osen.co.kr/article/G1112010816",
+      "https://www.soompi.com/article/1557448wpp/37th-golden-disc-awards-announces-nominees",
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ]
   },
   {
     "id": "record-2022-12-25-ditto-certified-all-kill",
@@ -1380,39 +1539,6 @@
       "https://www.youtube.com/watch?v=pXV-dJfu8JI",
       "https://www.soompi.com/article/1561876wpp/winners-of-the-golden-disc-awards-2023"
     ]
-  },
-  {
-    "id": "record-2023-01-07-gda-37-tiktok-most-popular-artist-nomination",
-    "date": "2023-01-07",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "第37回ゴールデンディスクアワード TikTok人気賞にノミネート",
-      "en": "37th Golden Disc Awards – TikTok Most Popular Artist Award nomination"
-    },
-    "summary": {
-      "ja": "第37回ゴールデンディスクアワードで、NewJeansがTikTok人気賞部門の候補に名を連ねた。",
-      "en": "NewJeans were among the nominees for TikTok Most Popular Artist Award at the 37th Golden Disc Awards."
-    },
-    "detail": {
-      "ja": "第37回ゴールデンディスクアワード（2023年1月7日、バンコク・ラジャマンガラ国立競技場）で、NewJeansはTikTok人気賞部門の候補となった。人気賞は100%ファン投票で選ばれる部門だった。",
-      "en": "NewJeans were nominated for TikTok Most Popular Artist Award at the 37th Golden Disc Awards (held January 7, 2023 at Rajamangala Stadium, Bangkok). The popularity award was decided entirely by fan votes."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "nomination",
-      "gda"
-    ],
-    "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; popularity-vote candidate list and start date not found. / 2026-10-24 nightly: Golden Disc公式YouTubeに人気賞の投票案内動画はあるが候補者一覧は確認できず、公式サイトはJSのみで取得不可。ノミネートを示す一次ソースが見つからない。"
   },
   {
     "id": "record-2023-01-08-omg-first-week-hanteo-701k",
@@ -2129,7 +2255,7 @@
       "hanteo-music-awards"
     ],
     "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list; 30th HMA Wikipedia says voting opened Dec 13, 2022 on Whosfan, but no official or major-press nominee list was found. / 2026-10-24 nightly: not attempted beyond a quick check; no Hanteo/Whosfan nominee list or major-press nominee report found. Still Wikipedia only."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list; 30th HMA Wikipedia says voting opened Dec 13, 2022 on Whosfan, but no official or major-press nominee list was found. / 2026-10-24 nightly: not attempted beyond a quick check; no Hanteo/Whosfan nominee list or major-press nominee report found. Still Wikipedia only. / 2026-10-26: decided — kept at the ceremony date (date_type event), unverified; announcement date not identifiable. Hanteo Global opened the 2nd vote on Whosfan on 2023-01-06 with 60 Artist of the Year (Bonsang) candidates (Singlelist 415197, 2023-01-06; Hanteo News en/article/48241, 2023-01-19) but neither names NewJeans; the first-round list was not found. en.wikipedia's citation (Hanteo News 48356, 2023-01-25) carries the Rookie of the Year text naming NewJeans for Rookie (female), not the Bonsang. If the 60-candidate list shows NewJeans, move to 2023-01-06."
   },
   {
     "id": "record-2023-02-11-hanteo-music-awards-30-rookie",
@@ -2170,111 +2296,6 @@
     ]
   },
   {
-    "id": "record-2023-02-11-hanteo-music-awards-30-whosfandom-nomination",
-    "date": "2023-02-11",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "Hanteo Music Awards 2022 WhosFandom Awardにノミネート",
-      "en": "Hanteo Music Awards 2022 – WhosFandom Award nomination"
-    },
-    "summary": {
-      "ja": "Hanteo Music Awards 2022で、NewJeansがWhosFandom Award部門の候補に名を連ねた。",
-      "en": "NewJeans were among the nominees for WhosFandom Award at the Hanteo Music Awards 2022."
-    },
-    "detail": {
-      "ja": "Hanteo Music Awards 2022（2023年2月11日、ソウル・蚕室室内体育館）で、NewJeansはWhosFandom Award部門の候補となった。同賞はWhosfanアプリでのファン投票で選ばれる部門だった。",
-      "en": "NewJeans were nominated for WhosFandom Award at the Hanteo Music Awards 2022 (day two held February 11, 2023 at Jamsil Arena, Seoul). The award was decided by fan voting on the Whosfan app."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "nomination",
-      "hanteo-music-awards"
-    ],
-    "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; WhosFandom bracket/candidate list not found. / 2026-10-24 nightly: not confirmable. Korean coverage (Newsis, Herald POP, Edaily) lists only the WhosFandom winner (BTS); no official or press nominee list for the WhosFandom Award found (Hanteo site JS-only). Left unverified."
-  },
-  {
-    "id": "record-2023-02-18-ccma-2022-global-digital-music-august-attention-nomination",
-    "date": "2023-02-18",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "Circle Chart Music Awards 2022 Artist of the Year – Global Digital Music（8月）にノミネート（「Attention」）",
-      "en": "Circle Chart Music Awards 2022 – Artist of the Year – Global Digital Music (August) nomination ('Attention')"
-    },
-    "summary": {
-      "ja": "Circle Chart Music Awards 2022の8月度Global Digital Music部門で「Attention」が候補となった。",
-      "en": "'Attention' by NewJeans was among the nominees for Artist of the Year – Global Digital Music (August) at the Circle Chart Music Awards 2022."
-    },
-    "detail": {
-      "ja": "Circle Chart Music Awards 2022（2023年2月18日、ソウル・KSPOドーム）で、NewJeansはArtist of the Year – Global Digital Music（8月）部門の候補となった（対象：「Attention」）。同賞はCircleチャートの成績をもとに選ばれる。",
-      "en": "NewJeans were nominated for Artist of the Year – Global Digital Music (August) at the Circle Chart Music Awards 2022 (held February 18, 2023 at KSPO Dome, Seoul), for 'Attention'. The awards are based on Circle Chart performance."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "nomination",
-      "ccma"
-    ],
-    "verified": false,
-    "reference_urls": [
-      "https://en.wikipedia.org/wiki/12th_Circle_Chart_Music_Awards"
-    ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (12th Circle Chart Music Awards). Tirto.id (citing Soompi) dates the nominee reveal to 2022-12-18 but could not be fetched (blocked) and no Soompi/official nominee page was found. / 2026-10-24 nightly: not confirmable. Edaily/Ilgan Sports winners lists give only BLACKPINK for the August-September digital award; no Circle Chart or press nominee list found (circlemusicawards.com holds only later editions). Left unverified."
-  },
-  {
-    "id": "record-2023-02-18-ccma-2022-global-digital-music-august-hype-boy-nomination",
-    "date": "2023-02-18",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "Circle Chart Music Awards 2022 Artist of the Year – Global Digital Music（8月）にノミネート（「Hype Boy」）",
-      "en": "Circle Chart Music Awards 2022 – Artist of the Year – Global Digital Music (August) nomination ('Hype Boy')"
-    },
-    "summary": {
-      "ja": "Circle Chart Music Awards 2022の8月度Global Digital Music部門で「Hype Boy」が候補となった。",
-      "en": "'Hype Boy' by NewJeans was among the nominees for Artist of the Year – Global Digital Music (August) at the Circle Chart Music Awards 2022."
-    },
-    "detail": {
-      "ja": "Circle Chart Music Awards 2022（2023年2月18日、ソウル・KSPOドーム）で、NewJeansはArtist of the Year – Global Digital Music（8月）部門の候補となった（対象：「Hype Boy」）。同賞はCircleチャートの成績をもとに選ばれる。",
-      "en": "NewJeans were nominated for Artist of the Year – Global Digital Music (August) at the Circle Chart Music Awards 2022 (held February 18, 2023 at KSPO Dome, Seoul), for 'Hype Boy'. The awards are based on Circle Chart performance."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "nomination",
-      "ccma"
-    ],
-    "verified": false,
-    "reference_urls": [
-      "https://en.wikipedia.org/wiki/12th_Circle_Chart_Music_Awards"
-    ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (12th Circle Chart Music Awards). Tirto.id (citing Soompi) dates the nominee reveal to 2022-12-18 but could not be fetched (blocked) and no Soompi/official nominee page was found. / 2026-10-24 nightly: not confirmable. Edaily/Ilgan Sports winners lists give only BLACKPINK for the August-September digital award; no Circle Chart or press nominee list found. Left unverified."
-  },
-  {
     "id": "record-2023-02-18-ccma-2022-new-artist-physical-new-jeans-nomination",
     "date": "2023-02-18",
     "date_type": "event",
@@ -2308,7 +2329,7 @@
     "reference_urls": [
       "https://en.wikipedia.org/wiki/12th_Circle_Chart_Music_Awards"
     ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (12th Circle Chart Music Awards). Tirto.id (citing Soompi) dates the nominee reveal to 2022-12-18 but could not be fetched (blocked) and no Soompi/official nominee page was found. / 2026-10-24 nightly: not confirmable. Edaily (2023-02-18) confirms IVE won New Artist (album); no official or press nominee list showing New Jeans as a nominee found. Left unverified."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (12th Circle Chart Music Awards). Tirto.id (citing Soompi) dates the nominee reveal to 2022-12-18 but could not be fetched (blocked) and no Soompi/official nominee page was found. / 2026-10-24 nightly: not confirmable. Edaily (2023-02-18) confirms IVE won New Artist (album); no official or press nominee list showing New Jeans as a nominee found. Left unverified. / 2026-10-26: decided — kept at the ceremony date (date_type event), unverified; announcement date not identifiable. Soompi's 1st-set nominee article (2022-12-18) says the Rookie of the Year nominees would be announced later. en.wikipedia cites the official page circlemusicawards.co.kr/eng/nominees_03.php (accessed 2023-01-08), so the nomination has an official source, but the publication day (between 2022-12-18 and 2023-01-08) could not be found and the page now shows a later edition. Date not moved."
   },
   {
     "id": "record-2023-02-18-ccma-2022-rookie-digital",
@@ -4646,7 +4667,7 @@
       "tma"
     ],
     "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; candidate list not found. / 2026-10-24 nightly: The Fact's own report (news.tf.co.kr 2048400, 10 Oct 2023) confirms the Idolplus Popularity Award was decided 100% by vote and went to BTS's Jimin, but gives no nominee list; NewJeans appear only as attendees. No Fan N Star / Idolplus candidate list found. Left unverified."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; candidate list not found. / 2026-10-24 nightly: The Fact's own report (news.tf.co.kr 2048400, 10 Oct 2023) confirms the Idolplus Popularity Award was decided 100% by vote and went to BTS's Jimin, but gives no nominee list; NewJeans appear only as attendees. No Fan N Star / Idolplus candidate list found. Left unverified. / 2026-10-26: decided — kept at the ceremony date (date_type event), unverified; announcement date not identifiable. en.wikipedia cites the IDOLPLUS '2023 TMA Idolplus Popularity Award 1st vote' page (archived 2023-09-13); idolplus.com now redirects to an app lander. No press list of candidates found (The Fact 2023-10-10 names only the winner). If readable and naming NewJeans, move to the 1st-vote opening date (on or before 2023-09-13)."
   },
   {
     "id": "record-2023-10-10-tma-2023-listeners-choice",
@@ -5384,6 +5405,45 @@
       "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
     ],
     "editor_note": "Modelpress 2023-11-22 00:00 JST (TBS copyright): 優秀作品賞 = 日本レコード大賞候補; list includes 「Ditto」NewJeans; 特別賞 includes NewJeans. Overlaps in subject with existing record-2023-12-30-japan-record-awards-65-excellent-work-ditto (ceremony-dated)."
+  },
+  {
+    "id": "record-2023-11-29-hanteo-music-awards-31-whosfandom-nomination",
+    "date": "2023-11-29",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Hanteo Music Awards 2023 WhosFandom Awardにノミネート",
+      "en": "Hanteo Music Awards 2023 – WhosFandom Award nomination"
+    },
+    "summary": {
+      "ja": "Hanteo Music Awards 2023のWhosFandom Award TOP 40候補が公開され、NewJeansも候補に名を連ねた。",
+      "en": "The Hanteo Music Awards 2023 revealed its top 40 candidates for the WhosFandom Award, with NewJeans among them."
+    },
+    "detail": {
+      "ja": "Hanteo Music Awards 2023は、公式SNSとWhosfanでWhosFandom AwardのTOP 40候補を公開した。同賞はファンダムとアーティストに共に贈られる賞で、グローバルファン投票100%で決まる。TOP 40の投票は12月1日正午から4日午前11時59分までWhosfan公式X（旧Twitter）で行われる。授賞式は2024年2月17・18日にソウル・東大門デザインプラザで開かれる予定。",
+      "en": "The Hanteo Music Awards 2023 revealed the top 40 candidates for the WhosFandom Award on its official social media and Whosfan. The award goes jointly to a fandom and its artist and is decided entirely by global fan voting. Voting on the top 40 runs on Whosfan’s official X (formerly Twitter) from noon on December 1 to 11:59 a.m. on December 4. The ceremony is scheduled for February 17-18, 2024 at Dongdaemun Design Plaza in Seoul."
+    },
+    "source_url": "https://hanteonews.com/en/article/58668",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "hanteo-music-awards"
+    ],
+    "verified": false,
+    "reference_urls": [
+      "https://www.raonnews.com/news/article.html?no=27001",
+      "http://sports.khan.co.kr/news/sk_index.html?art_id=202312050726003",
+      "https://en.wikipedia.org/wiki/31st_Hanteo_Music_Awards",
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; Soompi's 2024-01-04 nominee article lists NewJeans for Artist of the Year Main Prize but not the WhosFandom bracket (voting Dec 2023-Jan 2024 per Wikipedia). / 2026-10-24 nightly: WhosFandom Award process per Korean press: Top 40 candidates posted on Whosfan's official X on Nov 29, 2023 (fn Star, 2023-12-01; articles name only BTS, RIIZE, SEVENTEEN, IVE, aespa as examples), Top 8 vote Dec 28-29, Top 4 (BTS, EXO, ENHYPEN, Lim Young-woong) from Jan 2 (etnews), winner Lim Young-woong announced Jan 5. NewJeans' inclusion in the Top 40 could not be confirmed (Whosfan X post not located). Also, per OSEN (2024-02-17), the WhosFandom Award was presented on day one (Feb 17), not Feb 18. If confirmed, the record should move to the Top 40 announcement (2023-11-29, announce). Left unchanged. / 2026-10-26: decided — re-dated from the 2024-02-18 ceremony to 2023-11-29 (announce). Hanteo News (organiser's outlet, 2023-12-01, en/article/58668): the TOP 40 were announced 'today (November 29th)'; TOP 40 vote 12-01 noon to 12-04 11:59 on Whosfan X; Raon News 2023-11-30 same. Neither names more than four candidates (SEVENTEEN, RIIZE, IVE, PLAVE); NewJeans' place in the TOP 40 rests on en.wikipedia's 31st HMA list only (the Whosfan X image was not retrieved). NewJeans did not reach the TOP 16 (Sports Kyunghyang 2023-12-05 lists all 16). Kept, not deleted: the 40-name list is a specific organiser-published list reproduced by Wikipedia, and the date itself is confirmed by the organiser. Earlier note: per OSEN the award was presented on day one (02-17), irrelevant now that the record is dated to the announcement."
   },
   {
     "id": "record-2023-11-29-mama-2023-artist-of-the-year",
@@ -6214,7 +6274,7 @@
       "asian-pop-music-awards"
     ],
     "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; nominee announcement (reportedly November 2023) not found in official or major press. / 2026-10-24 nightly: No organiser nominee list or press report for the APMA 2023 Song of the Year (Overseas) shortlist was found; Wikipedia's row does not even name the nominated work, so the 'Super Shy' attribution is itself unsourced. Left unconfirmed."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; nominee announcement (reportedly November 2023) not found in official or major press. / 2026-10-24 nightly: No organiser nominee list or press report for the APMA 2023 Song of the Year (Overseas) shortlist was found; Wikipedia's row does not even name the nominated work, so the 'Super Shy' attribution is itself unsourced. Left unconfirmed. / 2026-10-26: decided — kept at the ceremony date (date_type event), unverified; announcement date not identifiable. Correction to the 2026-10-24 note: en.wikipedia's row does name 'Super Shy' (one cell spans the Top 20 Songs win and this Song of the Year nomination). Its only citation is the official APMA Weibo winners list of 2023-12-27, which is also the results date; no separate 2023 shortlist post was found and Weibo could not be fetched. Kept on 12-27."
   },
   {
     "id": "record-2023-12-27-asian-pop-music-awards-2023-top-20-get-up-super-shy",
@@ -7079,45 +7139,6 @@
     "editor_note": "Day (Feb 18) per ja.wikipedia; en.wikipedia ceremony page text was ambiguous about the category name. Unverified against Hanteo's own announcement. / Hanteo News has no reachable article listing the 31st HMA (Feb 17-18, 2024) Bonsang winners and awards.hanteo.com/2024 is JS-only; Sportskeeda/kbizoom/KJD report NewJeans among Artist of the Year (Bonsang) winners. Not contradicted. / 2026-10-24 nightly: Yonhap (2024-02-18 23:02 KST) on the Feb 18 ceremony at DDP lists NewJeans among the '올해의 아티스트 본상' winners and notes the event ran Feb 17-18, hosted by Hanteo Global; OSEN's full winners list (2024-02-18/19) matches. OSEN's day-one report (Feb 17) does not include the Bonsang, consistent with the Feb 18 date. The 30th-edition Rookie of the Year mention is from Wikipedia and was not re-checked."
   },
   {
-    "id": "record-2024-02-18-hanteo-music-awards-31-whosfandom-nomination",
-    "date": "2024-02-18",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "Hanteo Music Awards 2023 WhosFandom Awardにノミネート",
-      "en": "Hanteo Music Awards 2023 – WhosFandom Award nomination"
-    },
-    "summary": {
-      "ja": "Hanteo Music Awards 2023で、NewJeansがWhosFandom Award部門の候補に名を連ねた。",
-      "en": "NewJeans were among the nominees for WhosFandom Award at the Hanteo Music Awards 2023."
-    },
-    "detail": {
-      "ja": "Hanteo Music Awards 2023（2024年2月17・18日、ソウル・東大門デザインプラザ）で、NewJeansはWhosFandom Award部門の候補となった。同賞は100%グローバル投票で決まる部門だった。",
-      "en": "NewJeans were nominated for WhosFandom Award at the Hanteo Music Awards 2023 (held February 17-18, 2024 at Dongdaemun Design Plaza, Seoul). The award was decided 100 percent by global voting."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "nomination",
-      "hanteo-music-awards"
-    ],
-    "verified": false,
-    "reference_urls": [
-      "https://soompi.com/article/1635171wpp/hanteo-music-awards-2023-announces-nominees",
-      "http://www.fnnews.com/news/202312011108322566",
-      "https://www.etnews.com/20240102000187",
-      "http://www.osen.co.kr/article/G1112277063"
-    ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; Soompi's 2024-01-04 nominee article lists NewJeans for Artist of the Year Main Prize but not the WhosFandom bracket (voting Dec 2023-Jan 2024 per Wikipedia). / 2026-10-24 nightly: WhosFandom Award process per Korean press: Top 40 candidates posted on Whosfan's official X on Nov 29, 2023 (fn Star, 2023-12-01; articles name only BTS, RIIZE, SEVENTEEN, IVE, aespa as examples), Top 8 vote Dec 28-29, Top 4 (BTS, EXO, ENHYPEN, Lim Young-woong) from Jan 2 (etnews), winner Lim Young-woong announced Jan 5. NewJeans' inclusion in the Top 40 could not be confirmed (Whosfan X post not located). Also, per OSEN (2024-02-17), the WhosFandom Award was presented on day one (Feb 17), not Feb 18. If confirmed, the record should move to the Top 40 announcement (2023-11-29, announce). Left unchanged."
-  },
-  {
     "id": "record-2024-02-21-ifpi-global-artist-chart-2023-no8",
     "date": "2024-02-21",
     "date_type": "event",
@@ -7559,6 +7580,49 @@
       "streaming"
     ],
     "editor_note": "RIAJ streaming certification API, fetched 2026-10-24: Ditto ダブル・プラチナ, year_month 2024-03 (start_date 2022-12-19); no earlier NewJeans double platinum in the data. Dated to the announcement month 2024-04 (month precision). Added from awards_records ledger (review queue 2026-10-17)."
+  },
+  {
+    "id": "record-2024-04-08-kgma-2024-trend-of-the-year-k-pop-group-nomination",
+    "date": "2024-04-08",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "2024 Korea Grand Music Awards Trend of the Year – K-pop Groupにノミネート",
+      "en": "2024 Korea Grand Music Awards – Trend of the Year – K-pop Group nomination"
+    },
+    "summary": {
+      "ja": "第1回Korea Grand Music Awardsが「Trend of the Year」の月間投票を発表し、K-POPグループ部門の候補にNewJeansを挙げた。",
+      "en": "The 1st Korea Grand Music Awards announced monthly voting for Trend of the Year, naming NewJeans among the K-pop group candidates."
+    },
+    "detail": {
+      "ja": "第1回Korea Grand Music Awards（KGMA）は、グローバルファン投票100%で選ぶ「Trend of the Year」の月間投票を行うと発表し、K-POPグループ部門の候補としてStray Kids、SEVENTEEN、NCT 127、ZEROBASEONE、ATEEZ、THE BOYZ、LE SSERAFIM、IVE、ENHYPEN、aespa、TREASURE、TOMORROW X TOGETHERとともにNewJeansを挙げた。部門はK-POPグループ、K-POPソロ、トロットスター、トロット新人の4つで、投票は公式投票プラットフォーム「Fancast」で2週間ごとに行われる。月間投票の結果は、11月16・17日に開かれるKGMAの「Trend of the Year」部門の選考に一部反映される。",
+      "en": "The 1st Korea Grand Music Awards (KGMA) announced monthly voting for Trend of the Year, decided entirely by global fan votes, and listed NewJeans among the K-pop group candidates alongside Stray Kids, SEVENTEEN, NCT 127, ZEROBASEONE, ATEEZ, THE BOYZ, LE SSERAFIM, IVE, ENHYPEN, aespa, TREASURE and TOMORROW X TOGETHER. The four categories are K-pop group, K-pop solo, trot star and trot rookie, with voting held every two weeks on the official voting platform Fancast. The monthly results feed partly into the Trend of the Year award at the KGMA on November 16 and 17."
+    },
+    "source_url": "https://isplus.com/article/view/isp202404070143",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "kgma"
+    ],
+    "verified": true,
+    "reference_urls": [
+      "http://starin.edaily.co.kr/news/newspath.asp?newsid=01108646638854152",
+      "https://en.wikipedia.org/wiki/2024_Korea_Grand_Music_Awards",
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (2024 KGMA / NewJeans awards list); KGMA fan voting ran in several rounds from September 2024 (Fancast) but no official or major-press nominee list naming NewJeans was found. / 2026-10-24 nightly: Not confirmed. en.wikipedia lists NewJeans among the Trend of the Year – K-pop Group nominees (fan voting May-Nov 9, 2024 via Caliverse, Diggus, Fancast), but no KGMA/Ilgan Sports nominee page or press report was found via Naver. / 2026-10-26: decided — re-dated from the 2024-11-16 ceremony to 2024-04-08 (announce, 08:00). Ilgan Sports, the KGMA organiser, 2024-04-08 08:00 (isplus isp202404070143; Edaily/Sports Kyunghyang/Hankook Ilbo same day) announced the Trend of the Year monthly vote on Fancast and listed NewJeans among the K-pop group candidates; each monthly result counts 10% toward the main award (later Ilgan articles give other weights for specific months, so the reader text says 'partly'). Verified by the organiser's own outlet.",
+    "image": {
+      "url": "https://i.ytimg.com/vi/-hyQdASWNnY/maxresdefault.jpg",
+      "source_url": "https://www.youtube.com/watch?v=-hyQdASWNnY"
+    },
+    "time": "08:00"
   },
   {
     "id": "record-2024-04-24-forbes-korea-power-celebrity-40-2024",
@@ -9151,7 +9215,7 @@
     "reference_urls": [
       "https://en.wikipedia.org/wiki/2024_Korea_Grand_Music_Awards"
     ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (2024 KGMA / NewJeans awards list); KGMA fan voting ran in several rounds from September 2024 (Fancast) but no official or major-press nominee list naming NewJeans was found. / 2026-10-24 nightly: Not confirmed. en.wikipedia '2024 Korea Grand Music Awards' lists NewJeans – 'Super Shy' among the Best Song nominees (fan-vote nominee lists on Caliverse/Diggus/Fancast), but no KGMA/Ilgan Sports nominee page or press report naming it was found via Naver (Aug-Nov 2024). Note 'Super Shy' was released July 2023; the eligibility window could not be checked.",
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (2024 KGMA / NewJeans awards list); KGMA fan voting ran in several rounds from September 2024 (Fancast) but no official or major-press nominee list naming NewJeans was found. / 2026-10-24 nightly: Not confirmed. en.wikipedia '2024 Korea Grand Music Awards' lists NewJeans – 'Super Shy' among the Best Song nominees (fan-vote nominee lists on Caliverse/Diggus/Fancast), but no KGMA/Ilgan Sports nominee page or press report naming it was found via Naver (Aug-Nov 2024). Note 'Super Shy' was released July 2023; the eligibility window could not be checked. / 2026-10-26: decided — kept at the ceremony date (date_type event), unverified; announcement date not identifiable. Ilgan Sports (organiser) coverage of the Fancast 'Best Song 10' vote (2024-10-11) names only the leaders (Jimin, Jung Kook, Baekhyun); no KGMA nominee list naming NewJeans/'Super Shy' found on Naver (Aug-Nov 2024). The Trend of the Year sibling record was moved to 2024-04-08, but that list does not cover Best Song.",
     "image": {
       "url": "https://i.ytimg.com/vi/-hyQdASWNnY/maxresdefault.jpg",
       "source_url": "https://www.youtube.com/watch?v=-hyQdASWNnY"
@@ -9192,46 +9256,6 @@
     ],
     "verified": true,
     "editor_note": "Ilgan Sports (KGMA organizer) wrap-up 2024-11-17: NewJeans received the Grand Artist top prize on Artist Day (Nov 16, Inspire Arena)."
-  },
-  {
-    "id": "record-2024-11-16-kgma-2024-trend-of-the-year-k-pop-group-nomination",
-    "date": "2024-11-16",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "2024 Korea Grand Music Awards Trend of the Year – K-pop Groupにノミネート",
-      "en": "2024 Korea Grand Music Awards – Trend of the Year – K-pop Group nomination"
-    },
-    "summary": {
-      "ja": "2024 Korea Grand Music AwardsのTrend of the Year – K-pop Group部門の候補にNewJeansが入った。",
-      "en": "NewJeans were among the nominees for Trend of the Year – K-pop Group at the 2024 Korea Grand Music Awards."
-    },
-    "detail": {
-      "ja": "2024 Korea Grand Music Awards（2024年11月16・17日、仁川・インスパイア・アリーナ）で、NewJeansはTrend of the Year – K-pop Group部門の候補となった。",
-      "en": "NewJeans were nominated for Trend of the Year – K-pop Group at the 2024 Korea Grand Music Awards (held November 16-17, 2024 at INSPIRE Arena, Incheon)."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "nomination",
-      "kgma"
-    ],
-    "verified": false,
-    "reference_urls": [
-      "https://en.wikipedia.org/wiki/2024_Korea_Grand_Music_Awards"
-    ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia (2024 KGMA / NewJeans awards list); KGMA fan voting ran in several rounds from September 2024 (Fancast) but no official or major-press nominee list naming NewJeans was found. / 2026-10-24 nightly: Not confirmed. en.wikipedia lists NewJeans among the Trend of the Year – K-pop Group nominees (fan voting May-Nov 9, 2024 via Caliverse, Diggus, Fancast), but no KGMA/Ilgan Sports nominee page or press report was found via Naver.",
-    "image": {
-      "url": "https://i.ytimg.com/vi/-hyQdASWNnY/maxresdefault.jpg",
-      "source_url": "https://www.youtube.com/watch?v=-hyQdASWNnY"
-    }
   },
   {
     "id": "record-2024-11-21-japan-record-awards-66-grand-prix-supernatural-nomination",
@@ -9303,7 +9327,7 @@
     "reference_urls": [
       "https://www.soompi.com/article/1694893wpp/2024-mama-awards-announces-nominees-fans-choice-voting-begins"
     ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list. Soompi (Oct 14, 2024) gives voting rules for Fans' Choice of the Year but no separate nominee list; NewJeans were in the Fans' Choice Female first-round list. Dated to the ceremony's first day (ledger date). / 2026-10-24 nightly: Not confirmed. Naver news (Oct-Nov 2024) has no nominee list for Fans' Choice of the Year; Mnet Plus voting pages are app/JS-only. Wikipedia only."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list. Soompi (Oct 14, 2024) gives voting rules for Fans' Choice of the Year but no separate nominee list; NewJeans were in the Fans' Choice Female first-round list. Dated to the ceremony's first day (ledger date). / 2026-10-24 nightly: Not confirmed. Naver news (Oct-Nov 2024) has no nominee list for Fans' Choice of the Year; Mnet Plus voting pages are app/JS-only. Wikipedia only. / 2026-10-26: decided — kept at the ceremony date (date_type event), unverified; announcement date not identifiable. Soompi 2024-10-14 gives the Fans' Choice of the Year scoring (90% Mnet Plus, 10% X, plus realtime votes) but no nominee list or rule; NewJeans were Fans' Choice Female nominees (10-14) and Fans' Choice Female Top 10 winners (record-2024-11-22-mama-2024-fans-choice-top-10-female), which supports but does not prove candidacy. No Mnet list found."
   },
   {
     "id": "record-2024-11-22-mama-2024-fans-choice-top-10-female",
@@ -9375,7 +9399,7 @@
     "reference_urls": [
       "https://www.soompi.com/article/1703533wpp/melon-music-awards-2024-announces-nominees"
     ],
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; not in Soompi's Nov 15 nominee article and no other nominee list found. / 2026-10-24 nightly: Not confirmed. Naver news (Nov 2024) search for the MMA2024 KakaoBank Everyone's Star nominees returned no list naming NewJeans; Melon's MMA site is JS-rendered. Wikipedia only."
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; not in Soompi's Nov 15 nominee article and no other nominee list found. / 2026-10-24 nightly: Not confirmed. Naver news (Nov 2024) search for the MMA2024 KakaoBank Everyone's Star nominees returned no list naming NewJeans; Melon's MMA site is JS-rendered. Wikipedia only. / 2026-10-26: decided — kept at the ceremony date (date_type event), unverified; announcement date not identifiable. The KakaoBank Everyone's Star vote ran in the KakaoBank app from about 2024-11-04 (FETV/Edaily 11-04) and the category is not in Soompi's 11-15 nominee article; no published candidate list naming NewJeans was found. If one turns up, the date would be about 2024-11-04."
   },
   {
     "id": "record-2024-11-30-mma-2024-millions-top-10-how-sweet",
@@ -9563,6 +9587,246 @@
     ],
     "verified": true,
     "editor_note": "Rolling Stone URL not fetched; date and rank from Wikipedia (Dec 3, 2024) and TenAsia (Dec 5). / Rolling Stone 'The 100 Best Songs of 2024': NewJeans 'How Sweet' at No. 35; datePublished 2024-12-03."
+  },
+  {
+    "id": "record-2024-12-17-hanteo-music-awards-32-global-artist-africa-nomination",
+    "date": "2024-12-17",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Hanteo Music Awards 2024 Global Artist – Africaにノミネート",
+      "en": "Hanteo Music Awards 2024 – Global Artist – Africa nomination"
+    },
+    "summary": {
+      "ja": "Hanteo Music Awards 2024のGlobal Artist Award候補が公開され、NewJeansがGlobal Artist – Africa部門の候補となった。",
+      "en": "The Hanteo Music Awards 2024 revealed its Global Artist Award nominees, putting NewJeans in contention for Global Artist – Africa."
+    },
+    "detail": {
+      "ja": "Hanteo Music Awards 2024は12月17日、公式SNSでGlobal Artist Awardの候補を公開し、NewJeansも候補に入った。Global Artist賞は大陸・地域別に選ばれる部門で、Hanteo Global指標50%とグローバル投票50%で決まり、NewJeansはアフリカ（Africa）部門の候補となった。授賞式は2025年2月15・16日にソウル・奨忠体育館で開かれる予定。",
+      "en": "On December 17 the Hanteo Music Awards 2024 revealed its Global Artist Award nominees on its official social media, NewJeans among them. The Global Artist awards are given by continent or region, decided 50 percent on Hanteo Global data and 50 percent on global voting, and NewJeans were in contention for the Africa award. The ceremony is scheduled for February 15-16, 2025 at Jangchung Arena in Seoul."
+    },
+    "source_url": "https://x.com/Hanteo_HMAs/status/1868856805428019447",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "hanteo-music-awards"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic. / 2026-10-24 nightly: Still not confirmed from a primary source. Sportskeeda (secondary; reproduces the HMA official X nominee post of 2024-12-17) lists NewJeans in the single Global Artist nominee pool used for all regional categories, which supports the nomination; the HMA X post itself and an HMA/Hanteo News nominee page could not be retrieved (Sportskeeda later served a bot wall). Naver news had no nominee report. Left unverified. / 2026-10-26: decided — re-dated from the 2025-02-15 ceremony to 2024-12-17 (announce, 12:12). The HMA official X post 'Nominees Announcement / Global Artist Award' (status 1868856805428019447, created 2024-12-17 03:12 UTC = 12:12 KST, fetched via X syndication) opens an alphabetical nominee series ((G)I-DLE to CHA EUNWOO in the first post); the later posts naming NewJeans could not be enumerated. TopStarNews 2024-12-17 16:59 reports that the official account revealed the Global Artist nominees on the 17th and lists 뉴진스 among them. The nominee pool is common to all six regional awards. Official date confirmed, NewJeans' entry by press only, so verified stays false.",
+    "reference_urls": [
+      "https://www.topstarnews.net/news/articleView.html?idxno=15583006",
+      "https://www.sportskeeda.com/us/k-pop/news-how-vote-2024-hanteo-music-awards-nominations-list-need-know-bts-members-blackpink-s-rose-txt-twice-bag-nods",
+      "https://en.wikipedia.org/wiki/32nd_Hanteo_Music_Awards",
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "time": "12:12"
+  },
+  {
+    "id": "record-2024-12-17-hanteo-music-awards-32-global-artist-asia-nomination",
+    "date": "2024-12-17",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Hanteo Music Awards 2024 Global Artist – Asiaにノミネート",
+      "en": "Hanteo Music Awards 2024 – Global Artist – Asia nomination"
+    },
+    "summary": {
+      "ja": "Hanteo Music Awards 2024のGlobal Artist Award候補が公開され、NewJeansがGlobal Artist – Asia部門の候補となった。",
+      "en": "The Hanteo Music Awards 2024 revealed its Global Artist Award nominees, putting NewJeans in contention for Global Artist – Asia."
+    },
+    "detail": {
+      "ja": "Hanteo Music Awards 2024は12月17日、公式SNSでGlobal Artist Awardの候補を公開し、NewJeansも候補に入った。Global Artist賞は大陸・地域別に選ばれる部門で、Hanteo Global指標50%とグローバル投票50%で決まり、NewJeansはアジア（Asia）部門の候補となった。授賞式は2025年2月15・16日にソウル・奨忠体育館で開かれる予定。",
+      "en": "On December 17 the Hanteo Music Awards 2024 revealed its Global Artist Award nominees on its official social media, NewJeans among them. The Global Artist awards are given by continent or region, decided 50 percent on Hanteo Global data and 50 percent on global voting, and NewJeans were in contention for the Asia award. The ceremony is scheduled for February 15-16, 2025 at Jangchung Arena in Seoul."
+    },
+    "source_url": "https://x.com/Hanteo_HMAs/status/1868856805428019447",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "hanteo-music-awards"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic. / 2026-10-24 nightly: Still not confirmed from a primary source. Sportskeeda (secondary; reproduces the HMA official X nominee post of 2024-12-17) lists NewJeans in the single Global Artist nominee pool used for all regional categories, which supports the nomination; the HMA X post itself and an HMA/Hanteo News nominee page could not be retrieved (Sportskeeda later served a bot wall). Naver news had no nominee report. Left unverified. / 2026-10-26: decided — re-dated from the 2025-02-15 ceremony to 2024-12-17 (announce, 12:12). The HMA official X post 'Nominees Announcement / Global Artist Award' (status 1868856805428019447, created 2024-12-17 03:12 UTC = 12:12 KST, fetched via X syndication) opens an alphabetical nominee series ((G)I-DLE to CHA EUNWOO in the first post); the later posts naming NewJeans could not be enumerated. TopStarNews 2024-12-17 16:59 reports that the official account revealed the Global Artist nominees on the 17th and lists 뉴진스 among them. The nominee pool is common to all six regional awards. Official date confirmed, NewJeans' entry by press only, so verified stays false.",
+    "reference_urls": [
+      "https://www.topstarnews.net/news/articleView.html?idxno=15583006",
+      "https://www.sportskeeda.com/us/k-pop/news-how-vote-2024-hanteo-music-awards-nominations-list-need-know-bts-members-blackpink-s-rose-txt-twice-bag-nods",
+      "https://en.wikipedia.org/wiki/32nd_Hanteo_Music_Awards",
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "time": "12:12"
+  },
+  {
+    "id": "record-2024-12-17-hanteo-music-awards-32-global-artist-europe-nomination",
+    "date": "2024-12-17",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Hanteo Music Awards 2024 Global Artist – Europeにノミネート",
+      "en": "Hanteo Music Awards 2024 – Global Artist – Europe nomination"
+    },
+    "summary": {
+      "ja": "Hanteo Music Awards 2024のGlobal Artist Award候補が公開され、NewJeansがGlobal Artist – Europe部門の候補となった。",
+      "en": "The Hanteo Music Awards 2024 revealed its Global Artist Award nominees, putting NewJeans in contention for Global Artist – Europe."
+    },
+    "detail": {
+      "ja": "Hanteo Music Awards 2024は12月17日、公式SNSでGlobal Artist Awardの候補を公開し、NewJeansも候補に入った。Global Artist賞は大陸・地域別に選ばれる部門で、Hanteo Global指標50%とグローバル投票50%で決まり、NewJeansはヨーロッパ（Europe）部門の候補となった。授賞式は2025年2月15・16日にソウル・奨忠体育館で開かれる予定。",
+      "en": "On December 17 the Hanteo Music Awards 2024 revealed its Global Artist Award nominees on its official social media, NewJeans among them. The Global Artist awards are given by continent or region, decided 50 percent on Hanteo Global data and 50 percent on global voting, and NewJeans were in contention for the Europe award. The ceremony is scheduled for February 15-16, 2025 at Jangchung Arena in Seoul."
+    },
+    "source_url": "https://x.com/Hanteo_HMAs/status/1868856805428019447",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "hanteo-music-awards"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic. / 2026-10-24 nightly: Still not confirmed from a primary source. Sportskeeda (secondary; reproduces the HMA official X nominee post of 2024-12-17) lists NewJeans in the single Global Artist nominee pool used for all regional categories, which supports the nomination; the HMA X post itself and an HMA/Hanteo News nominee page could not be retrieved (Sportskeeda later served a bot wall). Naver news had no nominee report. Left unverified. / 2026-10-26: decided — re-dated from the 2025-02-15 ceremony to 2024-12-17 (announce, 12:12). The HMA official X post 'Nominees Announcement / Global Artist Award' (status 1868856805428019447, created 2024-12-17 03:12 UTC = 12:12 KST, fetched via X syndication) opens an alphabetical nominee series ((G)I-DLE to CHA EUNWOO in the first post); the later posts naming NewJeans could not be enumerated. TopStarNews 2024-12-17 16:59 reports that the official account revealed the Global Artist nominees on the 17th and lists 뉴진스 among them. The nominee pool is common to all six regional awards. Official date confirmed, NewJeans' entry by press only, so verified stays false.",
+    "reference_urls": [
+      "https://www.topstarnews.net/news/articleView.html?idxno=15583006",
+      "https://www.sportskeeda.com/us/k-pop/news-how-vote-2024-hanteo-music-awards-nominations-list-need-know-bts-members-blackpink-s-rose-txt-twice-bag-nods",
+      "https://en.wikipedia.org/wiki/32nd_Hanteo_Music_Awards",
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "time": "12:12"
+  },
+  {
+    "id": "record-2024-12-17-hanteo-music-awards-32-global-artist-north-america-nomination",
+    "date": "2024-12-17",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Hanteo Music Awards 2024 Global Artist – North Americaにノミネート",
+      "en": "Hanteo Music Awards 2024 – Global Artist – North America nomination"
+    },
+    "summary": {
+      "ja": "Hanteo Music Awards 2024のGlobal Artist Award候補が公開され、NewJeansがGlobal Artist – North America部門の候補となった。",
+      "en": "The Hanteo Music Awards 2024 revealed its Global Artist Award nominees, putting NewJeans in contention for Global Artist – North America."
+    },
+    "detail": {
+      "ja": "Hanteo Music Awards 2024は12月17日、公式SNSでGlobal Artist Awardの候補を公開し、NewJeansも候補に入った。Global Artist賞は大陸・地域別に選ばれる部門で、Hanteo Global指標50%とグローバル投票50%で決まり、NewJeansは北米（North America）部門の候補となった。授賞式は2025年2月15・16日にソウル・奨忠体育館で開かれる予定。",
+      "en": "On December 17 the Hanteo Music Awards 2024 revealed its Global Artist Award nominees on its official social media, NewJeans among them. The Global Artist awards are given by continent or region, decided 50 percent on Hanteo Global data and 50 percent on global voting, and NewJeans were in contention for the North America award. The ceremony is scheduled for February 15-16, 2025 at Jangchung Arena in Seoul."
+    },
+    "source_url": "https://x.com/Hanteo_HMAs/status/1868856805428019447",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "hanteo-music-awards"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic. / 2026-10-24 nightly: Still not confirmed from a primary source. Sportskeeda (secondary; reproduces the HMA official X nominee post of 2024-12-17) lists NewJeans in the single Global Artist nominee pool used for all regional categories, which supports the nomination; the HMA X post itself and an HMA/Hanteo News nominee page could not be retrieved (Sportskeeda later served a bot wall). Naver news had no nominee report. Left unverified. / 2026-10-26: decided — re-dated from the 2025-02-15 ceremony to 2024-12-17 (announce, 12:12). The HMA official X post 'Nominees Announcement / Global Artist Award' (status 1868856805428019447, created 2024-12-17 03:12 UTC = 12:12 KST, fetched via X syndication) opens an alphabetical nominee series ((G)I-DLE to CHA EUNWOO in the first post); the later posts naming NewJeans could not be enumerated. TopStarNews 2024-12-17 16:59 reports that the official account revealed the Global Artist nominees on the 17th and lists 뉴진스 among them. The nominee pool is common to all six regional awards. Official date confirmed, NewJeans' entry by press only, so verified stays false.",
+    "reference_urls": [
+      "https://www.topstarnews.net/news/articleView.html?idxno=15583006",
+      "https://www.sportskeeda.com/us/k-pop/news-how-vote-2024-hanteo-music-awards-nominations-list-need-know-bts-members-blackpink-s-rose-txt-twice-bag-nods",
+      "https://en.wikipedia.org/wiki/32nd_Hanteo_Music_Awards",
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "time": "12:12"
+  },
+  {
+    "id": "record-2024-12-17-hanteo-music-awards-32-global-artist-oceania-nomination",
+    "date": "2024-12-17",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Hanteo Music Awards 2024 Global Artist – Oceaniaにノミネート",
+      "en": "Hanteo Music Awards 2024 – Global Artist – Oceania nomination"
+    },
+    "summary": {
+      "ja": "Hanteo Music Awards 2024のGlobal Artist Award候補が公開され、NewJeansがGlobal Artist – Oceania部門の候補となった。",
+      "en": "The Hanteo Music Awards 2024 revealed its Global Artist Award nominees, putting NewJeans in contention for Global Artist – Oceania."
+    },
+    "detail": {
+      "ja": "Hanteo Music Awards 2024は12月17日、公式SNSでGlobal Artist Awardの候補を公開し、NewJeansも候補に入った。Global Artist賞は大陸・地域別に選ばれる部門で、Hanteo Global指標50%とグローバル投票50%で決まり、NewJeansはオセアニア（Oceania）部門の候補となった。授賞式は2025年2月15・16日にソウル・奨忠体育館で開かれる予定。",
+      "en": "On December 17 the Hanteo Music Awards 2024 revealed its Global Artist Award nominees on its official social media, NewJeans among them. The Global Artist awards are given by continent or region, decided 50 percent on Hanteo Global data and 50 percent on global voting, and NewJeans were in contention for the Oceania award. The ceremony is scheduled for February 15-16, 2025 at Jangchung Arena in Seoul."
+    },
+    "source_url": "https://x.com/Hanteo_HMAs/status/1868856805428019447",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "hanteo-music-awards"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic. / 2026-10-24 nightly: Still not confirmed from a primary source. Sportskeeda (secondary; reproduces the HMA official X nominee post of 2024-12-17) lists NewJeans in the single Global Artist nominee pool used for all regional categories, which supports the nomination; the HMA X post itself and an HMA/Hanteo News nominee page could not be retrieved (Sportskeeda later served a bot wall). Naver news had no nominee report. Left unverified. / 2026-10-26: decided — re-dated from the 2025-02-15 ceremony to 2024-12-17 (announce, 12:12). The HMA official X post 'Nominees Announcement / Global Artist Award' (status 1868856805428019447, created 2024-12-17 03:12 UTC = 12:12 KST, fetched via X syndication) opens an alphabetical nominee series ((G)I-DLE to CHA EUNWOO in the first post); the later posts naming NewJeans could not be enumerated. TopStarNews 2024-12-17 16:59 reports that the official account revealed the Global Artist nominees on the 17th and lists 뉴진스 among them. The nominee pool is common to all six regional awards. Official date confirmed, NewJeans' entry by press only, so verified stays false.",
+    "reference_urls": [
+      "https://www.topstarnews.net/news/articleView.html?idxno=15583006",
+      "https://www.sportskeeda.com/us/k-pop/news-how-vote-2024-hanteo-music-awards-nominations-list-need-know-bts-members-blackpink-s-rose-txt-twice-bag-nods",
+      "https://en.wikipedia.org/wiki/32nd_Hanteo_Music_Awards",
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "time": "12:12"
+  },
+  {
+    "id": "record-2024-12-17-hanteo-music-awards-32-global-artist-south-america-nomination",
+    "date": "2024-12-17",
+    "date_type": "announce",
+    "date_precision": "day",
+    "category": "record",
+    "entity": "newjeans",
+    "members": [
+      "all"
+    ],
+    "title": {
+      "ja": "Hanteo Music Awards 2024 Global Artist – South Americaにノミネート",
+      "en": "Hanteo Music Awards 2024 – Global Artist – South America nomination"
+    },
+    "summary": {
+      "ja": "Hanteo Music Awards 2024のGlobal Artist Award候補が公開され、NewJeansがGlobal Artist – South America部門の候補となった。",
+      "en": "The Hanteo Music Awards 2024 revealed its Global Artist Award nominees, putting NewJeans in contention for Global Artist – South America."
+    },
+    "detail": {
+      "ja": "Hanteo Music Awards 2024は12月17日、公式SNSでGlobal Artist Awardの候補を公開し、NewJeansも候補に入った。Global Artist賞は大陸・地域別に選ばれる部門で、Hanteo Global指標50%とグローバル投票50%で決まり、NewJeansは南米（South America）部門の候補となった。授賞式は2025年2月15・16日にソウル・奨忠体育館で開かれる予定。",
+      "en": "On December 17 the Hanteo Music Awards 2024 revealed its Global Artist Award nominees on its official social media, NewJeans among them. The Global Artist awards are given by continent or region, decided 50 percent on Hanteo Global data and 50 percent on global voting, and NewJeans were in contention for the South America award. The ceremony is scheduled for February 15-16, 2025 at Jangchung Arena in Seoul."
+    },
+    "source_url": "https://x.com/Hanteo_HMAs/status/1868856805428019447",
+    "media": {
+      "type": "none"
+    },
+    "tags": [
+      "nomination",
+      "hanteo-music-awards"
+    ],
+    "verified": false,
+    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic. / 2026-10-24 nightly: Still not confirmed from a primary source. Sportskeeda (secondary; reproduces the HMA official X nominee post of 2024-12-17) lists NewJeans in the single Global Artist nominee pool used for all regional categories, which supports the nomination; the HMA X post itself and an HMA/Hanteo News nominee page could not be retrieved (Sportskeeda later served a bot wall). Naver news had no nominee report. Left unverified. / 2026-10-26: decided — re-dated from the 2025-02-15 ceremony to 2024-12-17 (announce, 12:12). The HMA official X post 'Nominees Announcement / Global Artist Award' (status 1868856805428019447, created 2024-12-17 03:12 UTC = 12:12 KST, fetched via X syndication) opens an alphabetical nominee series ((G)I-DLE to CHA EUNWOO in the first post); the later posts naming NewJeans could not be enumerated. TopStarNews 2024-12-17 16:59 reports that the official account revealed the Global Artist nominees on the 17th and lists 뉴진스 among them. The nominee pool is common to all six regional awards. Official date confirmed, NewJeans' entry by press only, so verified stays false.",
+    "reference_urls": [
+      "https://www.topstarnews.net/news/articleView.html?idxno=15583006",
+      "https://www.sportskeeda.com/us/k-pop/news-how-vote-2024-hanteo-music-awards-nominations-list-need-know-bts-members-blackpink-s-rose-txt-twice-bag-nods",
+      "https://en.wikipedia.org/wiki/32nd_Hanteo_Music_Awards",
+      "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+    ],
+    "time": "12:12"
   },
   {
     "id": "record-2024-12-27-aaa-2024-artist-of-the-year-daesang",
@@ -9901,228 +10165,6 @@
     ],
     "verified": true,
     "editor_note": "Which of the two days the Bonsang was presented is not stated; dated to Day 1. Unverified against Hanteo's own list. / Hanteo News (Hanteo Global, organizer) wrap-up of '32ND HMA 2024' (Feb 15-16, 2025): Artist of the Year list includes NewJeans."
-  },
-  {
-    "id": "record-2025-02-15-hanteo-music-awards-32-global-artist-africa-nomination",
-    "date": "2025-02-15",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "Hanteo Music Awards 2024 Global Artist – Africaにノミネート",
-      "en": "Hanteo Music Awards 2024 – Global Artist – Africa nomination"
-    },
-    "summary": {
-      "ja": "Hanteo Music Awards 2024で、NewJeansがGlobal Artist – Africa部門の候補に名を連ねた。",
-      "en": "NewJeans were among the nominees for Global Artist – Africa at the Hanteo Music Awards 2024."
-    },
-    "detail": {
-      "ja": "Hanteo Music Awards 2024（2025年2月15・16日、ソウル・奨忠体育館）で、NewJeansはGlobal Artist – Africa部門の候補となった。Global Artist賞はHanteo Global指標50%とグローバル投票50%で選ばれる地域別の部門だった。",
-      "en": "NewJeans were nominated for Global Artist – Africa at the Hanteo Music Awards 2024 (held February 15-16, 2025 at Jangchung Arena, Seoul). The regional Global Artist awards were decided 50 percent on Hanteo Global data and 50 percent on global voting."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "nomination",
-      "hanteo-music-awards"
-    ],
-    "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic. / 2026-10-24 nightly: Still not confirmed from a primary source. Sportskeeda (secondary; reproduces the HMA official X nominee post of 2024-12-17) lists NewJeans in the single Global Artist nominee pool used for all regional categories, which supports the nomination; the HMA X post itself and an HMA/Hanteo News nominee page could not be retrieved (Sportskeeda later served a bot wall). Naver news had no nominee report. Left unverified.",
-    "reference_urls": [
-      "https://en.wikipedia.org/wiki/32nd_Hanteo_Music_Awards",
-      "https://www.sportskeeda.com/us/k-pop/news-how-vote-2024-hanteo-music-awards-nominations-list-need-know-bts-members-blackpink-s-rose-txt-twice-bag-nods"
-    ]
-  },
-  {
-    "id": "record-2025-02-15-hanteo-music-awards-32-global-artist-asia-nomination",
-    "date": "2025-02-15",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "Hanteo Music Awards 2024 Global Artist – Asiaにノミネート",
-      "en": "Hanteo Music Awards 2024 – Global Artist – Asia nomination"
-    },
-    "summary": {
-      "ja": "Hanteo Music Awards 2024で、NewJeansがGlobal Artist – Asia部門の候補に名を連ねた。",
-      "en": "NewJeans were among the nominees for Global Artist – Asia at the Hanteo Music Awards 2024."
-    },
-    "detail": {
-      "ja": "Hanteo Music Awards 2024（2025年2月15・16日、ソウル・奨忠体育館）で、NewJeansはGlobal Artist – Asia部門の候補となった。Global Artist賞はHanteo Global指標50%とグローバル投票50%で選ばれる地域別の部門だった。",
-      "en": "NewJeans were nominated for Global Artist – Asia at the Hanteo Music Awards 2024 (held February 15-16, 2025 at Jangchung Arena, Seoul). The regional Global Artist awards were decided 50 percent on Hanteo Global data and 50 percent on global voting."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "nomination",
-      "hanteo-music-awards"
-    ],
-    "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic. / 2026-10-24 nightly: Still not confirmed from a primary source. Sportskeeda (secondary; reproduces the HMA official X nominee post of 2024-12-17) lists NewJeans in the single Global Artist nominee pool used for all regional categories, which supports the nomination; the HMA X post itself and an HMA/Hanteo News nominee page could not be retrieved (Sportskeeda later served a bot wall). Naver news had no nominee report. Left unverified.",
-    "reference_urls": [
-      "https://en.wikipedia.org/wiki/32nd_Hanteo_Music_Awards",
-      "https://www.sportskeeda.com/us/k-pop/news-how-vote-2024-hanteo-music-awards-nominations-list-need-know-bts-members-blackpink-s-rose-txt-twice-bag-nods"
-    ]
-  },
-  {
-    "id": "record-2025-02-15-hanteo-music-awards-32-global-artist-europe-nomination",
-    "date": "2025-02-15",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "Hanteo Music Awards 2024 Global Artist – Europeにノミネート",
-      "en": "Hanteo Music Awards 2024 – Global Artist – Europe nomination"
-    },
-    "summary": {
-      "ja": "Hanteo Music Awards 2024で、NewJeansがGlobal Artist – Europe部門の候補に名を連ねた。",
-      "en": "NewJeans were among the nominees for Global Artist – Europe at the Hanteo Music Awards 2024."
-    },
-    "detail": {
-      "ja": "Hanteo Music Awards 2024（2025年2月15・16日、ソウル・奨忠体育館）で、NewJeansはGlobal Artist – Europe部門の候補となった。Global Artist賞はHanteo Global指標50%とグローバル投票50%で選ばれる地域別の部門だった。",
-      "en": "NewJeans were nominated for Global Artist – Europe at the Hanteo Music Awards 2024 (held February 15-16, 2025 at Jangchung Arena, Seoul). The regional Global Artist awards were decided 50 percent on Hanteo Global data and 50 percent on global voting."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "nomination",
-      "hanteo-music-awards"
-    ],
-    "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic. / 2026-10-24 nightly: Still not confirmed from a primary source. Sportskeeda (secondary; reproduces the HMA official X nominee post of 2024-12-17) lists NewJeans in the single Global Artist nominee pool used for all regional categories, which supports the nomination; the HMA X post itself and an HMA/Hanteo News nominee page could not be retrieved (Sportskeeda later served a bot wall). Naver news had no nominee report. Left unverified.",
-    "reference_urls": [
-      "https://en.wikipedia.org/wiki/32nd_Hanteo_Music_Awards",
-      "https://www.sportskeeda.com/us/k-pop/news-how-vote-2024-hanteo-music-awards-nominations-list-need-know-bts-members-blackpink-s-rose-txt-twice-bag-nods"
-    ]
-  },
-  {
-    "id": "record-2025-02-15-hanteo-music-awards-32-global-artist-north-america-nomination",
-    "date": "2025-02-15",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "Hanteo Music Awards 2024 Global Artist – North Americaにノミネート",
-      "en": "Hanteo Music Awards 2024 – Global Artist – North America nomination"
-    },
-    "summary": {
-      "ja": "Hanteo Music Awards 2024で、NewJeansがGlobal Artist – North America部門の候補に名を連ねた。",
-      "en": "NewJeans were among the nominees for Global Artist – North America at the Hanteo Music Awards 2024."
-    },
-    "detail": {
-      "ja": "Hanteo Music Awards 2024（2025年2月15・16日、ソウル・奨忠体育館）で、NewJeansはGlobal Artist – North America部門の候補となった。Global Artist賞はHanteo Global指標50%とグローバル投票50%で選ばれる地域別の部門だった。",
-      "en": "NewJeans were nominated for Global Artist – North America at the Hanteo Music Awards 2024 (held February 15-16, 2025 at Jangchung Arena, Seoul). The regional Global Artist awards were decided 50 percent on Hanteo Global data and 50 percent on global voting."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "nomination",
-      "hanteo-music-awards"
-    ],
-    "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic. / 2026-10-24 nightly: Still not confirmed from a primary source. Sportskeeda (secondary; reproduces the HMA official X nominee post of 2024-12-17) lists NewJeans in the single Global Artist nominee pool used for all regional categories, which supports the nomination; the HMA X post itself and an HMA/Hanteo News nominee page could not be retrieved (Sportskeeda later served a bot wall). Naver news had no nominee report. Left unverified.",
-    "reference_urls": [
-      "https://en.wikipedia.org/wiki/32nd_Hanteo_Music_Awards",
-      "https://www.sportskeeda.com/us/k-pop/news-how-vote-2024-hanteo-music-awards-nominations-list-need-know-bts-members-blackpink-s-rose-txt-twice-bag-nods"
-    ]
-  },
-  {
-    "id": "record-2025-02-15-hanteo-music-awards-32-global-artist-oceania-nomination",
-    "date": "2025-02-15",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "Hanteo Music Awards 2024 Global Artist – Oceaniaにノミネート",
-      "en": "Hanteo Music Awards 2024 – Global Artist – Oceania nomination"
-    },
-    "summary": {
-      "ja": "Hanteo Music Awards 2024で、NewJeansがGlobal Artist – Oceania部門の候補に名を連ねた。",
-      "en": "NewJeans were among the nominees for Global Artist – Oceania at the Hanteo Music Awards 2024."
-    },
-    "detail": {
-      "ja": "Hanteo Music Awards 2024（2025年2月15・16日、ソウル・奨忠体育館）で、NewJeansはGlobal Artist – Oceania部門の候補となった。Global Artist賞はHanteo Global指標50%とグローバル投票50%で選ばれる地域別の部門だった。",
-      "en": "NewJeans were nominated for Global Artist – Oceania at the Hanteo Music Awards 2024 (held February 15-16, 2025 at Jangchung Arena, Seoul). The regional Global Artist awards were decided 50 percent on Hanteo Global data and 50 percent on global voting."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "nomination",
-      "hanteo-music-awards"
-    ],
-    "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic. / 2026-10-24 nightly: Still not confirmed from a primary source. Sportskeeda (secondary; reproduces the HMA official X nominee post of 2024-12-17) lists NewJeans in the single Global Artist nominee pool used for all regional categories, which supports the nomination; the HMA X post itself and an HMA/Hanteo News nominee page could not be retrieved (Sportskeeda later served a bot wall). Naver news had no nominee report. Left unverified.",
-    "reference_urls": [
-      "https://en.wikipedia.org/wiki/32nd_Hanteo_Music_Awards",
-      "https://www.sportskeeda.com/us/k-pop/news-how-vote-2024-hanteo-music-awards-nominations-list-need-know-bts-members-blackpink-s-rose-txt-twice-bag-nods"
-    ]
-  },
-  {
-    "id": "record-2025-02-15-hanteo-music-awards-32-global-artist-south-america-nomination",
-    "date": "2025-02-15",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "Hanteo Music Awards 2024 Global Artist – South Americaにノミネート",
-      "en": "Hanteo Music Awards 2024 – Global Artist – South America nomination"
-    },
-    "summary": {
-      "ja": "Hanteo Music Awards 2024で、NewJeansがGlobal Artist – South America部門の候補に名を連ねた。",
-      "en": "NewJeans were among the nominees for Global Artist – South America at the Hanteo Music Awards 2024."
-    },
-    "detail": {
-      "ja": "Hanteo Music Awards 2024（2025年2月15・16日、ソウル・奨忠体育館）で、NewJeansはGlobal Artist – South America部門の候補となった。Global Artist賞はHanteo Global指標50%とグローバル投票50%で選ばれる地域別の部門だった。",
-      "en": "NewJeans were nominated for Global Artist – South America at the Hanteo Music Awards 2024 (held February 15-16, 2025 at Jangchung Arena, Seoul). The regional Global Artist awards were decided 50 percent on Hanteo Global data and 50 percent on global voting."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "nomination",
-      "hanteo-music-awards"
-    ],
-    "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only. 32nd HMA Wikipedia: nominees posted on HMA social media 2024-12-17, Global Artist voting Dec 23, 2024-Jan 12, 2025; no official or major-press nominee page was found or fetched. Criteria sentence from Soompi's 2023-edition article (same structure) - kept generic. / 2026-10-24 nightly: Still not confirmed from a primary source. Sportskeeda (secondary; reproduces the HMA official X nominee post of 2024-12-17) lists NewJeans in the single Global Artist nominee pool used for all regional categories, which supports the nomination; the HMA X post itself and an HMA/Hanteo News nominee page could not be retrieved (Sportskeeda later served a bot wall). Naver news had no nominee report. Left unverified.",
-    "reference_urls": [
-      "https://en.wikipedia.org/wiki/32nd_Hanteo_Music_Awards",
-      "https://www.sportskeeda.com/us/k-pop/news-how-vote-2024-hanteo-music-awards-nominations-list-need-know-bts-members-blackpink-s-rose-txt-twice-bag-nods"
-    ]
   },
   {
     "id": "record-2025-03-24-sma-34-bonsang-nomination",
