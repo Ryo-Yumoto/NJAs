@@ -3326,47 +3326,6 @@
     "editor_note": "Points and highlight-episode note per Show Champion chart list; TOP5 nominees not retrieved. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip / 2026-10-24 nightly: MBC M's own news (enews.imbc.com, 2023-08-16) confirms the Aug 16 episode was a highlights edition ('청춘에게 보내는 편지', 6 pm) but says nothing about a first place. The Show Champion 2023 winners list (Wikipedia) gives 'Super Shy' 3,779 for ep. 488; no press report of the win found via Naver news search. Left unconfirmed."
   },
   {
-    "id": "tv-2023-08-17-mcountdown-eta-win-2",
-    "date": "2023-08-17",
-    "date_type": "broadcast",
-    "date_precision": "day",
-    "category": "tv",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "M COUNTDOWN「ETA」1位",
-      "en": "M Countdown: ETA wins #1"
-    },
-    "summary": {
-      "ja": "Mnet『M COUNTDOWN』で「ETA」が2週連続1位を獲得し、Mnet Plusではセレブレーションパーティー企画も案内された。",
-      "en": "'ETA' won M Countdown for a second straight week, with Mnet Plus running a celebration party feature."
-    },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [
-      "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2023)",
-      "https://en.wikipedia.org/wiki/ETA_(song)"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "music-show",
-      "win"
-    ],
-    "verified": false,
-    "detail": {
-      "ja": "Mnet『M COUNTDOWN』で「ETA」が前週に続き2週連続で1位を獲得した。Mnet Plusではこの回に合わせて「ETA」のセレブレーションパーティー企画が案内された。",
-      "en": "'ETA' won first place on Mnet's M Countdown for a second consecutive week. Mnet Plus ran an M Countdown Celebration Party feature for 'ETA' tied to the win."
-    },
-    "credits": {
-      "broadcaster": "Mnet",
-      "program": "M COUNTDOWN"
-    },
-    "editor_note": "Per M Countdown chart list (Mnet Plus celebration party citation); nominees not confirmed. / 公式YouTube動画なし: No stage; win announced in absentia, no official clip / 2026-10-24 nightly (review queue): Mnet K-POP's uploads for 230817 (EP.810) are all titled '[K-POP 시간 여행 특집]' (a K-pop time-travel special of legend stages: SHINee, SEVENTEEN, aespa, TXT, Jimin, ATEEZ, NCT DREAM, 8TURN, LUN8); no first-place or encore clip, no ETA win report and no Wikipedia winner for that week were found. A ranking was probably not held; deletion candidate pending a human decision. / 2026-10-24 nightly: The M Countdown 2023 winners list shows EP.810 (Aug 17) as a special episode with no winner (its only citation is a Mnet Plus 'M Countdown Celebration Party - NewJeans ETA' item, which relates to the Aug 10 win), while the 'ETA (song)' article counts an Aug 17 M Countdown win. No press report of an Aug 17 win was found. Sources conflict; not changed."
-  },
-  {
     "id": "tv-2023-08-20-inkigayo-super-shy-win-2",
     "date": "2023-08-20",
     "date_type": "broadcast",

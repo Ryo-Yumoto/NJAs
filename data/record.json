@@ -1415,43 +1415,6 @@
     "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Nomination per Wikipedia awards list only; popularity-vote candidate list and start date not found. / 2026-10-24 nightly: Golden Disc公式YouTubeに人気賞の投票案内動画はあるが候補者一覧は確認できず、公式サイトはJSのみで取得不可。ノミネートを示す一次ソースが見つからない。"
   },
   {
-    "id": "record-2023-01-07-omg-oricon-daily-singles-no1",
-    "date": "2023-01-07",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "『OMG』オリコン デイリーシングルランキング1位",
-      "en": "OMG tops Oricon's Daily Singles Ranking"
-    },
-    "summary": {
-      "ja": "『OMG』がオリコンのデイリーシングルランキングで1位となり、グループ初のオリコン1位を記録したと報じられた。",
-      "en": "OMG was reported to have reached No. 1 on Oricon's Daily Singles Ranking, the group's first Oricon chart-topper."
-    },
-    "detail": {
-      "ja": "1stシングルアルバム『OMG』がオリコンのデイリーシングルランキングで1位になったと報じられた。先行曲「Ditto」は週間ストリーミングランキングで6位に初登場していた。",
-      "en": "The single album OMG was reported to have reached No. 1 on Oricon's Daily Singles Ranking. 'Ditto' had earlier debuted at No. 6 on Oricon's weekly streaming ranking."
-    },
-    "source_url": "https://www.soompi.com/article/1561909wpp/newjeans-tops-oricons-daily-singles-chart-for-1st-time-with-omg",
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "chart",
-      "japan"
-    ],
-    "verified": false,
-    "reference_urls": [
-      "https://www.soompi.com/article/1561909wpp/newjeans-tops-oricons-daily-singles-chart-for-1st-time-with-omg",
-      "https://www.oricon.co.jp/news/2263876/full/"
-    ],
-    "editor_note": "Oricon's daily ranking archive only covers recent dates (2023-01-07 page returns 404). Oricon News (2023-01-13) confirms the CD charted No. 2 on the weekly singles chart with 2.1万 first-week sales and 20,638 CD points - the 20,638 in the record is the CD point figure, not a daily count. Daily No. 1 on Jan 7 could not be verified. / 2026-10-24 nightly: オリコンニュース2263876（2023-01-13 04:00）を取得。内容は週間合算シングル1位（56,560PT、CD 20,638PT）で、別レコードrecord-2023-01-13-omg-oricon-weekly-single-no1の出典。20,638は週間CDポイントでありデイリー初日枚数ではないため、題名・本文から数字を削除し、source_urlをデイリー1位を伝えるSoompiに替えた。オリコンのデイリーランキング（2023-01-07付）は過去分が取得できず、デイリー1位自体は未確認のまま。"
-  },
-  {
     "id": "record-2023-01-08-omg-first-week-hanteo-701k",
     "date": "2023-01-08",
     "date_type": "event",
@@ -6514,39 +6477,6 @@
     }
   },
   {
-    "id": "record-2024-01-02-sma-33-daesang-nomination",
-    "date": "2024-01-02",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "第33回ソウル歌謡大賞 大賞にノミネート",
-      "en": "33rd Seoul Music Awards – Daesang (Grand Prize) nomination"
-    },
-    "summary": {
-      "ja": "第33回ソウル歌謡大賞で、NewJeansがその年の最高賞である大賞（Daesang）の候補に名を連ねた。",
-      "en": "NewJeans were among the nominees for Daesang (Grand Prize) at the 33rd Seoul Music Awards."
-    },
-    "detail": {
-      "ja": "第33回ソウル歌謡大賞（2024年1月2日、バンコク・ラジャマンガラ国立競技場）で、NewJeansは大賞部門の候補となった。",
-      "en": "NewJeans were nominated for Daesang (Grand Prize) at the 33rd Seoul Music Awards (held January 2, 2024 at Rajamangala Stadium, Bangkok)."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "nomination",
-      "sma"
-    ],
-    "verified": false,
-    "editor_note": "Announcement date not found in an official or major-press source; dated to the ceremony (date_type event). Daesang candidacy per Wikipedia awards list only (Daesang is chosen among the year's Bonsang field; no separate public nominee list found). / 2026-10-24 nightly: Newsis (2023-11-03) on the organiser's (Sports Seoul) announcement: candidates were published Nov 4 in the official voting app for the mobile categories Bonsang, Rookie, Popularity, Hallyu Special, Trot, Ballad, R&B/Hip-hop and OST; there is no Daesang candidate list, and the single Daesang is chosen separately. Wikipedia's 'Daesang - Nominated' row therefore reflects its convention that Bonsang winners are Daesang contenders, not an announced nomination. Not changed."
-  },
-  {
     "id": "record-2024-01-05-super-shy-spotify-400m",
     "date": "2024-01-05",
     "date_type": "event",
@@ -7952,44 +7882,6 @@
     "reference_urls": [
       "https://www.koreajoongangdaily.com/entertainment/newjeans-how-sweet-tops-1-million-copies-sold/12426745"
     ]
-  },
-  {
-    "id": "record-2024-06-21-supernatural-oricon-daily-no1",
-    "date": "2024-06-21",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "record",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "「Supernatural」オリコンデイリーシングルランキング1位（日本デビュー初日）",
-      "en": "Supernatural tops Oricon's Daily Singles Ranking on its Japanese release day"
-    },
-    "summary": {
-      "ja": "日本デビューシングル「Supernatural」が、発売日にオリコンデイリーシングルランキング1位となった。",
-      "en": "The Japanese debut single 'Supernatural' topped Oricon's Daily Singles Ranking on its release day."
-    },
-    "detail": {
-      "ja": "日本デビューシングル「Supernatural」が、6月21日の発売当日にオリコンデイリーシングルランキング1位となり、タイトル曲はLINE MUSICやAWAなど日本の配信サービスのリアルタイムチャートでも1位を記録した。",
-      "en": "The Japanese debut single 'Supernatural' topped Oricon's Daily Singles Ranking on its June 21 release day, and the title track reached No. 1 on the real-time charts of Japanese streaming services such as LINE MUSIC and AWA."
-    },
-    "source_url": "https://www.yna.co.kr/view/AKR20240623020300005?input=1195m",
-    "reference_urls": [
-      "https://www.koreajoongangdaily.com/entertainment/newjeans-tops-japans-oricon-chart-with-supernatural/12394400",
-      "https://en.wikipedia.org/wiki/Supernatural_(NewJeans_song)",
-      "https://www.newsis.com/view/NISX20240623_0002783072"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "chart",
-      "japan"
-    ],
-    "verified": true,
-    "editor_note": "Oricon daily ranking archive for 2024-06-21 returns 404 and no Oricon News article on the daily No. 1 was found (Oricon's Jun 21 article covers the Music Station appearance). Secondary reports (Daum/Forbes JP) mention a daily No. 1. Unverified. / 2026-10-24 nightly: Yonhap 2024-06-23 11:09 KST (per ADOR) confirms No. 1 on Oricon's Daily Single Ranking for release day 21 June and No. 1 on LINE MUSIC/AWA real-time charts for two days. Oricon daily archive pages (rank/js/d/2024-06-20..22) still 404. The ADOR remark about Korean charts was not found in the Yonhap text and was dropped; the LINE MUSIC/AWA claim narrowed to real-time charts."
   },
   {
     "id": "record-2024-06-22-supernatural-circle-album-weekly-no1",

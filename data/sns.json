@@ -2909,46 +2909,6 @@
     "platform": "x"
   },
   {
-    "id": "sns-2023-11-29-mama-2023-daesang-thanks",
-    "date": "2023-11-29",
-    "date_type": "post",
-    "date_precision": "day",
-    "category": "sns",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "2023 MAMA AWARDS 受賞御礼投稿",
-      "en": "2023 MAMA AWARDS win thank-you post"
-    },
-    "summary": {
-      "ja": "2023 MAMA AWARDSでArtist of the YearとSong of the Yearを含む4冠を受賞し、公式Xが感謝を投稿した。",
-      "en": "After four wins at the 2023 MAMA Awards including Artist of the Year and Song of the Year ('Ditto'), the official X account posted its thanks."
-    },
-    "source_url": "https://www.inews.id/lifestyle/music/selamat-newjeans-sukses-borong-penghargaan-di-mama-awards-2023/all",
-    "reference_urls": [],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "@NewJeans_ADOR",
-      "award",
-      "mama"
-    ],
-    "verified": false,
-    "editor_note": "Status URL not retrieved; existence of the post reported by iNews (Indonesia). Date is the ceremony date (2023-11-29 KST). | not enriched: status URL/text not found; awards list from Korea Times/Korea Herald coverage of 2023-11-29. | removed from reader text: [detail.ja] 投稿本文の原文と投稿時刻は確認できていない。 / Status URL, original wording and timestamp of the post not found; its existence and gist are reported by iNews (Indonesia, same date). Awards list from Korea Times/Korea Herald coverage of 2023-11-29. Record date is the ceremony date (KST). / 2026-10-24 nightly: not confirmed. Web search for the @NewJeans_ADOR status found only award coverage (Soompi day-2 winners etc.); the post itself was not located, so its existence, text and time remain unconfirmed.",
-    "detail": {
-      "ja": "東京ドームで開かれた2023 MAMA AWARDS2日目の受賞を受けた御礼投稿。NewJeansはこの日、Artist of the Year、Song of the Year（「Ditto」）、Best Female Group、Best Dance Performance Female Group（「Ditto」）を受賞し、公式XはSong of the Year（大賞）の受賞を祝って感謝を伝えた。",
-      "en": "A thank-you post following the second night of the 2023 MAMA Awards at Tokyo Dome, where NewJeans won Artist of the Year, Song of the Year ('Ditto'), Best Female Group and Best Dance Performance Female Group ('Ditto'). The official X account celebrated the Song of the Year daesang and thanked fans."
-    },
-    "credits": {
-      "account": "@NewJeans_ADOR",
-      "event": "2023 MAMA AWARDS (Mnet), Tokyo Dome"
-    },
-    "platform": "other"
-  },
-  {
     "id": "sns-2023-12-14-rockin-eve-announcement",
     "date": "2023-12-14",
     "date_type": "post",
@@ -3779,49 +3739,6 @@
     "platform": "instagram"
   },
   {
-    "id": "sns-2024-05-13-instagram-fujiwara-hiroshi-tshirt-post",
-    "date": "2024-05-13",
-    "time": "13:49",
-    "date_type": "post",
-    "date_precision": "day",
-    "category": "sns",
-    "entity": "newjeans",
-    "platform": "instagram",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "Instagram 藤原ヒロシ協業Tシャツ投稿",
-      "en": "Instagram post on the Fujiwara Hiroshi collaboration T-shirt"
-    },
-    "summary": {
-      "ja": "藤原ヒロシの手書きの名前とサイン入り『Supernatural』発売記念Tシャツを公式Instagramで公開した。",
-      "en": "The official Instagram revealed the Supernatural release T-shirt with Hiroshi Fujiwara's handwritten names and signature."
-    },
-    "detail": {
-      "ja": "藤原ヒロシが手書きしたNewJeansとメンバーの名前、本人のサインが入った『Supernatural』発売記念Tシャツを公開した投稿。Tシャツは2024年6月21日に韓国と日本のポップアップストアで発売予定とされた。藤原はハングルで名前を書く様子のメモも公開した。",
-      "en": "Revealed the Supernatural release T-shirt bearing NewJeans and the members' names handwritten by Hiroshi Fujiwara, with his signature. The shirt was due on sale at pop-up stores in Korea and Japan on June 21, 2024. Fujiwara also shared a memo of himself writing the names in Hangul."
-    },
-    "credits": {
-      "account": "@fujiwarahiroshi"
-    },
-    "source_url": "https://www.instagram.com/p/C65VTGTrIaz/",
-    "reference_urls": [
-      "https://www.marieclairekorea.com/celebrity/2024/05/fujiwara-hiroshi-newjeans/"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "Supernatural",
-      "FujiwaraHiroshi",
-      "goods",
-      "collaboration"
-    ],
-    "verified": false,
-    "editor_note": "Instagram page not fetchable; shortcode C65VTGTrIaz found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-05-13 13:49:09 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode C65VTGTrIaz embedded in Marie Claire Korea's same-day article, source of the T-shirt description; time derived from the shortcode (= 13:49:09 KST). Caption not retrieved. / 2026-10-24 nightly (review queue): Instagram oEmbed confirms C65VTGTrIaz is by @fujiwarahiroshi (2024-05-13 13:49 KST, empty caption), not @newjeans_official; credits/tags corrected. Reader text still calls it an official post. Needs a decision: replace with an official NewJeans post on the T-shirt if one exists, or move/delete (sns covers official accounts only; category not changed here). / 2026-10-24 nightly: Marie Claire Korea (2024-05-13) re-read: T-shirt with Fujiwara's handwritten NewJeans/member names and signature, 'to be released at pop-up stores in Korea and Japan on 21 June 2024'; it does not attribute the embedded post to @newjeans_official. Earlier oEmbed finding stands (post is by @fujiwarahiroshi). SNKRDUNK (2024-05-10) already reported the collaboration, and later reports give the pop-ups as 26 June onward, so the 21 June wording is as announced at the time. No official NewJeans post on the shirt located. Not changed."
-  },
-  {
     "id": "sns-2024-05-15-youtube-happy-haerin-day",
     "date": "2024-05-15",
     "time": "00:00",
@@ -4343,48 +4260,6 @@
     ],
     "verified": true,
     "editor_note": "Post text: [NewJeans Commentary👀] /  / 今日、NewJeansを見に来てくれたすべてのBunnies！ 本当にありがとう！明日も頑張りましょう！ / 오늘 뉴진스 보러 시간 내주신 모든 버니즈! 너무 고마워요! 내일도 뿌시쟝! / To all the Bunnies who took the time to come see NewJeans today! Thank you so much! Let's do our best tomorrow too! /  / #NewJeans / #BunniesCamp #BunniesCamp2024TokyoDome / #NewJeans_is_Everywhere | Status 1805983429621628958 post text/media/timestamp verified via fxtwitter API (api.fxtwitter.com) on 2026-10-15; emoji omitted from quotations."
-  },
-  {
-    "id": "sns-2024-06-29-instagram-bunnies-camp-tokyo-dome-photos",
-    "date": "2024-06-29",
-    "time": "15:39",
-    "date_type": "post",
-    "date_precision": "day",
-    "category": "sns",
-    "entity": "newjeans",
-    "platform": "instagram",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "Instagram Bunnies Camp 2024 Tokyo Dome 写真投稿",
-      "en": "Instagram Bunnies Camp 2024 Tokyo Dome photo post"
-    },
-    "summary": {
-      "ja": "約9万1,200人を動員した東京ドーム公演の写真を公式Instagramに投稿、エリ・ワキヤマ協業のTシャツ姿が写る。",
-      "en": "Official Instagram photos from the Tokyo Dome fan meeting, which drew about 91,200, showing the Eri Wakiyama-collaboration T-shirts."
-    },
-    "detail": {
-      "ja": "6月26日・27日に開催され約9万1,200人を動員した「Bunnies Camp 2024 Tokyo Dome」の公演写真の投稿。メンバーがステージで着用したエリ・ワキヤマ（Eri Wakiyama）協業のキャラクターTシャツが写っている。",
-      "en": "Photos from 'Bunnies Camp 2024 Tokyo Dome', held on June 26-27 for about 91,200 attendees. They show the Eri Wakiyama-collaboration character T-shirts the members wore on stage."
-    },
-    "credits": {
-      "account": "@mermaidhair"
-    },
-    "source_url": "https://www.instagram.com/p/C8yjQadg_hC/",
-    "reference_urls": [
-      "https://www.vogue.co.kr/2024/07/01/%eb%89%b4%ec%a7%84%ec%8a%a4-%eb%b2%84%eb%8b%88%ec%a6%88-%ec%ba%a0%ed%94%84%ec%97%90%ec%84%9c-%ec%9d%b8%ec%83%81-%ea%b9%8a%ec%97%88%eb%8d%98-%ec%9d%98%ec%83%81-2/"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "BunniesCamp",
-      "TokyoDome",
-      "photo"
-    ],
-    "verified": false,
-    "editor_note": "Instagram page not fetchable; shortcode C8yjQadg_hC found embedded/cited in the reference article(s). Date/time derived from the shortcode (media id >>23 + epoch 1314220021721 ms) = 2024-06-29 15:39:13 KST. Post caption not retrieved; content described from the article context. / Instagram page not fetchable; shortcode C8yjQadg_hC embedded in Vogue Korea's 2024-07-01 article introducing the Eri Wakiyama T-shirts; time derived from the shortcode (= 15:39:13 KST). Caption not retrieved; attendance figure from event coverage. / 2026-10-24 nightly (review queue): Instagram oEmbed confirms C8yjQadg_hC is by @mermaidhair (2024-06-29 15:39 KST); the caption says the poster drew portraits of all 5 members of @newjeans_official as a project due on her birthday, i.e. it is the illustrator's own post, not an official Tokyo Dome photo post. Credits/tags corrected; reader text (official photo post, attendance) does not match the post. Needs a decision: delete, or replace with an official @newjeans_official post on the Tokyo Dome T-shirts. / 2026-10-24 nightly: Earlier finding stands: Instagram oEmbed attributes C8yjQadg_hC to @mermaidhair (an illustrator's own account, per the caption read in the earlier oEmbed check), not @newjeans_official, so the reader text (official Tokyo Dome photo post) does not match the post. No official @newjeans_official post on the Tokyo Dome T-shirts was located in this pass. Not changed."
   },
   {
     "id": "sns-2024-07-20-youtube-newjeans-day-on-air-d-2",

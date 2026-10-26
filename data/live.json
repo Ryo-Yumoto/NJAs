@@ -1014,45 +1014,6 @@
     "editor_note": "2026-10-24 nightly: Louis Vuitton's own page not found (louisvuitton.com not surfaced); MK Sports (2023-04-29 21:48 KST, via Daum) confirms the show that afternoon on Jamsugyo Bridge, Hyein's attendance as ambassador alongside Taeyeon and Bae Doona, and the Visit Korea Year framing; AP/FashionUnited confirm the date and venue."
   },
   {
-    "id": "live-2023-05-03-adb-annual-meeting-opening",
-    "date": "2023-05-03",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "live",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "第56回ADB年次総会 開会式 出演",
-      "en": "56th ADB Annual Meeting opening ceremony"
-    },
-    "summary": {
-      "ja": "仁川・松島コンベンシアで開かれた第56回ADB年次総会の開会式で「Ditto」「OMG」を披露したと伝えられる。",
-      "en": "Reported to have performed 'Ditto' and 'OMG' at the opening ceremony of the 56th ADB Annual Meeting at Songdo Convensia, Incheon."
-    },
-    "source_url": "https://www.adb.org/annual-meeting/2023/events/opening-session",
-    "verified": false,
-    "media": {
-      "type": "none"
-    },
-    "reference_urls": [
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
-    ],
-    "tags": [
-      "corporate-event"
-    ],
-    "editor_note": "Listed on Wikipedia; could not be confirmed from the ADB programme or news. Treat as unverified. | Reader-facing 'reportedly / とされる' hedging moved here; appearance remains unverified (Wikipedia only). | Still unverified: ADB programme and Korean press found mention K-pop performances but not NewJeans by name; songs per en.wikipedia list only. / 2026-10-24 nightly: ADB's opening-session page (fetched) has no performer list and does not mention NewJeans; a Korean press search on the meeting (Songdo, May 2-4) found no report of a NewJeans performance. Still Wikipedia only; candidate for deletion if no source turns up.",
-    "detail": {
-      "ja": "仁川・松島コンベンシアで開かれた第56回アジア開発銀行（ADB）年次総会（5月2日から4日）の開会式で「Ditto」「OMG」を披露したと伝えられている。企画財政部の案内では総会期間中にK-POP公演や伝統文化公演が予定されており、5月3日にはドローンショーも計画されていた。",
-      "en": "NewJeans are reported to have performed 'Ditto' and 'OMG' at the opening ceremony of the 56th Asian Development Bank Annual Meeting (2–4 May) at Songdo Convensia in Incheon. The Ministry of Economy and Finance's programme for the meeting included K-pop and traditional performances, with a drone show planned for 3 May."
-    },
-    "credits": {
-      "venue": "Songdo Convensia, Incheon",
-      "organizer": "Asian Development Bank / Ministry of Economy and Finance"
-    }
-  },
-  {
     "id": "live-2023-05-16-hanni-gucci-cruise-2024-gyeongbokgung",
     "date": "2023-05-16",
     "date_type": "event",
