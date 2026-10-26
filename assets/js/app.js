@@ -318,7 +318,7 @@
       const theme = document.documentElement.dataset.theme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
       loadScript("https://platform.twitter.com/widgets.js", () => {
         const run = () => { const w = window.twttr?.widgets; if (!w?.createTweet) return;
-        w.createTweet(xStatusId(it.media.ref), holder, { dnt: true, theme, align: "center", lang: state.lang === "en" ? "en" : "ja" }).then(elm => { if (elm && elm.offsetHeight > 40) { card.remove(); holder.classList.add("ready"); } }).catch(() => {}); };
+        w.createTweet(xStatusId(it.media.ref), holder, { dnt: true, theme, width: 400, conversation: "none", lang: state.lang === "en" ? "en" : "ja" }).then(elm => { if (elm && elm.offsetHeight > 40) { card.remove(); holder.classList.add("ready"); } }).catch(() => {}); };
         window.twttr?.ready ? window.twttr.ready(run) : run();
       });
     } else if (xpost) { const box = embedSlot(); box.classList.add("xcard-box"); box.appendChild(xCard(it, xpost)); }
