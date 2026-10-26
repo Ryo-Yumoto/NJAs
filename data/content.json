@@ -5379,44 +5379,6 @@
     "verified": true
   },
   {
-    "id": "content-2023-03-30-weverse-bunnies-membership-open",
-    "date": "2023-03-30",
-    "date_type": "broadcast",
-    "date_precision": "day",
-    "category": "content",
-    "entity": "newjeans",
-    "platform": "weverse",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "Weverse「Bunnies Membership」開設",
-      "en": "'Bunnies Membership' opens on Weverse"
-    },
-    "summary": {
-      "ja": "公式ファンクラブ「Bunnies Club」の有料メンバーシップがWeverseで開設された。",
-      "en": "Paid membership for the official fan club Bunnies Club opens on Weverse."
-    },
-    "detail": {
-      "ja": "公式ファンクラブ「Bunnies Club」のメンバーシップがWeverseで開設された。公式YouTubeチャンネルでは3月27日から「Do Everything You Want at Bunnies Club!」と各メンバーの「WELCOME to Bunnies Club!」が順次公開され、開設当日には「Bunnies Membership OPEN!」が投稿された。",
-      "en": "Membership for the official fan club Bunnies Club opened on Weverse. From March 27 the official YouTube channel rolled out 'Do Everything You Want at Bunnies Club!' and the per-member 'WELCOME to Bunnies Club!' videos, followed by 'Bunnies Membership OPEN!' on launch day."
-    },
-    "source_url": "https://www.youtube.com/watch?v=M3yExM39L9Y",
-    "reference_urls": [
-      "https://namu.wiki/w/NewJeans/%EC%BD%98%ED%85%90%EC%B8%A0"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "weverse",
-      "bunnies",
-      "membership"
-    ],
-    "verified": false,
-    "editor_note": "Opening date taken from the YouTube \"Bunnies Membership OPEN!\" video date (namu 2023-03-30). Weverse notice not fetched. / 2026-10-24 nightly: The official YouTube videos of Mar 27-30, 2023 (descriptions) state 'NewJeans Global Official Fanclub \"Bunnies\" Membership 2023.03.30 THU. 11AM (KST) @NewJeans Weverseshop', so the date is supported (opening was on Weverse Shop at 11:00 KST; the fan club is named 'Bunnies'). Weverse notice itself not fetched. Record left unchanged because it overlaps content-2023-03-30-bunnies-bunnies-membership-open (same source video) and a membership launch is not an official video, so category/duplication needs a decision."
-  },
-  {
     "id": "content-2023-04-04-light-jeans-minji-elle-photoshoot-behind",
     "date": "2023-04-04",
     "date_type": "release",

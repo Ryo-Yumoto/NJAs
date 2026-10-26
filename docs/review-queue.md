@@ -14,12 +14,10 @@
 | 2026-10-23 | 誌面の日付の基準（全般） | 方針上は「発売日」だが、最近の修正は出版社の表紙公開日を採っている（W Korea SJF 2023 → 05-22、Highsnobiety → 05-26 など）。どちらに統一するか | 未決 |
 | 2026-10-23 | notice/live Pit Stop（2025-03-23 ComplexCon） | Korea TimesはNJZ名義が舞台に出なかったとし、ミンジ・ヘインの発言を引用。レコードは「LEDにNJZ」「ハニとダニエルが声明を読んだ」。他媒体はハニの発言を引用。どれを採るか | 未決 |
 | 2026-10-24 | goods-2023-09-12-…powerpuff（旧 goods-2023-09-11-line-friends-powerpuff-girls-x-newjeans-online-drop） | 夜間照合でWeverse Shop告知4530に基づき「Weverse Shopの予約開始（09-12 11:00 KST）」に組み替えた。画像はLINE FRIENDS US（2023-09-28作成）由来。この組み替えでよいか、LINE FRIENDSの記録として別に残すか | 未決（適用済み・元に戻せる） |
-| 2026-10-24 | Billboard Women in Music 2024 の web レコードと magazine レコード | 同じ表紙を2件で扱っている。どちらかを削除するか | 未決 |
+| 2026-10-24 | Billboard Women in Music 2024 の web レコードと magazine レコード | 同じカバーストーリー（billboard.com 2024-02-28 13:00 UTC 公開、印刷版は2024年3月2日号）。印刷版の発売日は不明。magazine の02-28は表紙公開日で、発売日の方針に合わない。magazineを残すと2024-03（月精度、3/6の授賞式より後に並ぶ）、webを残すと印刷版の表紙が消える | 未決（どちらを残すか） |
 | 2026-10-24 | sns-2025-02-01-njz-official-x-account-opened | @NJZ_official の作成は 2025-02-03 22:54 KST だが、名称の公表（02-07）より前に日付を置くと名前を先に明かすことになる。作成日と公表日のどちらにするか | 未決 |
-| 2026-10-24 | sns-2023-06-29-get-up-bunny-beach-bag-packaging / sns-2023-06-28-instagram-get-up-era-post-0628 | 同じInstagram投稿（CuCIRW0LFCs、06-28 21:00 KST）を2件で扱っている。統合か削除か | 未決 |
 | 2026-10-24 | magazine W Korea ミンジ × シャネル（02-29） | W Korea自身の「민지, 그리고 샤넬」は 02-26 公開。同じ撮影なら日付を変える | 未決 |
 | 2026-10-24 | 誌面の日付の基準（続き） | 2ラウンド目でBAZAARミンジ 01-03、BAZAARヘリン 05-02、Esquireダニエル 10-11 を出版社のInstagram初出日に変更（Esquireは後日公開のインタビュー本文を外し題も変更）。基準の判断と合わせて確認 | 未決 |
-| 2026-10-24 | content-2023-03-30-weverse-bunnies-membership-open | content-2023-03-30-bunnies-bunnies-membership-open・notice-2023-03-30-bunnies-membership-open と同じ出来事。統合するか | 未決 |
 | 2026-10-24 | magazine ELLE JAPON（ヘイン）/ VOGUE Korea（ミンジ） | 号の月で日付を置いているが、方針の発売日はおそらく約1か月前。誌面の日付の基準と合わせて決める | 未決 |
 | 2026-10-24 | sns-2023-07-17-cool-with-you-mv-date-announcement | 公式投稿が見つからず、報道向け発表だけの可能性。snsでなくnoticeに移すか | 未決 |
 | 2026-10-24 | ad-2023-09-14 Dior ローズセレスト | ad-2023-08-14（ローズデヴァン）の日付判断と重なる。あわせて決める | 未決 |
@@ -27,18 +25,10 @@
 | 2026-10-24 | 2025年の裁判関連notice（entity） | 04-16・06-17・06-25はnjz、01-13・03-21・05-29・08-14・09-11はnewjeans。同じ係争の記録でentityが混在 | 未決（裁判記録のentityをどちらに揃えるか） |
 | 2026-10-24 | チャート・認定・ノミネートの記録（約20件） | 当日の写真がなく、候補は作品ジャケット（Apple Music）かWeverse Shopの商品画像のみ。同じジャケットが音源レコードと重複する。ロッテZEROは5月の広告映像、日本レコード大賞ノミネートは12/29の映像で、いずれも記録日より後 | 未決（記録カテゴリにジャケット画像を使うか。記録日より後の画像は不採用とした） |
 | 2026-10-24 | ad-2024-03-28-hanni-gucci-beauty-ambassador | Gucci Beautyの公式Instagramは3/28付（KST時刻未確認、二次報道で確認）、韓国でのGucci・ADORの発表は3/29 | 未決（発表日をどちらにするか） |
-| 2026-10-24 | live-2023-11-01-haerin-dior-canton-road-hong-kong | live-2023-11-21-haerin-dior-road-cruise-party-hong-kong（公式Xと香港報道で11/21を確認済み）と同一の出来事とみられる | 未決（出国時の服装情報を移して統合するか、削除するか） |
-| 2026-10-24 | ad-2024-05-14-murakami-powerpuff-right-now | コラボの公開は5/1の「Right Now」MVティザー（既存 mv-2024-05-01-right-now-mv-teaser）。5/14はHarper's Bazaar Malaysiaの記事日 | 未決（5/1に移すか、ティザーのレコードに統合して削除するか） |
 | 2026-10-24 | record-2023-10-10-tma-2023-best-music-spring-omg-nomination | 決選候補入りを伝えるのはニュースソウル（2023-04-18）のみ。決選投票は04-17正午開始。同じ授賞式の秋部門は発表日（09-11）に移した | 未決（04-17に移すか、単独ソースのため授賞式日のままにするか） |
-| 2026-10-24 | ad-2024-06-01-line-friends-collab-2024 | 内容がポップアップでの商品販売で、goods-2024-06-26 の明洞・渋谷ポップアップと重なる。「2度目のコラボ」も2023年以降の複数コラボと合わない | 未決（adとして残すか、goodsに統合・削除するか） |
-| 2026-10-24 | tv-2023-08-10-k-global-heart-dream-awards-2023 | NewJeansは出席・出演しておらず、受賞は record-2023-08-10-k-global-heart-dream-awards-2023 と重複 | 未決（tvレコードを削除するか） |
-| 2026-10-24 | tv-2023-11-30-newjeans-yearbook-22-23 | goods-2023-10-30-newjeans-yearbook-22-23 と同じ商品。11/30のVOD公開日に一次ソースがなく、本文が公式告知と食い違う | 未決（残す・書き直す・削除のいずれか） |
-| 2026-10-24 | tv-2023-12-09-music-bank-global-festival-2023-japan | 収録日で置いたtvレコード。live-2023-12-09（公演）と tv-2023-12-15（放送）の両方と重なる | 未決（削除か統合か） |
 | 2026-10-24 | live-2025-03-22-njz-incheon-departure-hong-kong / live-2025-03-24-njz-incheon-arrival-hong-kong | 3/21の仮処分決定後の出入国で、根拠は報道のみ。data-policy §2は仮処分後のNJZの活動を公式発表があるものに限る | 未決（残すか外すか） |
 | 2026-10-24 | record-2025-02-15-hanteo-music-awards-32-whosfandom-female-nomination | ノミネートの発表日が判明（2024-12-02 TOP40投票開始、12-09 TOP16発表）。現在は授賞式日 | 未決（どちらの日に移すか） |
-| 2026-10-24 | tv-2024-06-02-k-wave-concert-inkigayo-haerin-mc | tvなのに公演日で置いている。放送は6/9のtvレコード側。credits の co_hosts も語彙外 | 未決（6/9のtvへ統合／liveへ移動／現状維持） |
 | 2026-10-24 | tv-2024-07-02-j-wave-spark | 「火曜24時」の放送（暦では7/3 0時） | 未決（7/2のままか7/3に移すか） |
-| 2026-10-24 | tv-2025-02-07-cnn-interview-njz | 放送ではなくCNN Styleのウェブ記事（電話取材）。日本語版は web-2025-02-07-cnn-njz-interview として収録済み | 未決（重複として削除するか、英語の原記事としてwebに移すか） |
 | 2026-10-24 | ダニエル契約解除後の4人体制のレコードの members（content-2026-07-24-light-jeans-2026-summer-of-newjeans-behind、mv-2026-07-22-2026-summer-of-newjeans、content-2026-07-23-weverse-bunnies-club-access） | 現在は ["all"] と本文「メンバー全員」。スポーツ京郷（2026-07-25）は4人（ミンジ・ハニ・ヘリン・ヘイン）と報道 | 未決（4人体制の時期のmembersを all にするか4人を列挙するか） |
 | 2026-10-24 | ヘイン休養中の live レコードの members（残り） | 2026-10-25に5/21・大学祭7件・6/2・6/4を4人に修正、6/6・6/7・6/20・東京ドームは出席を確認して all のまま。6/1・6/3のビデオ通話サイン会、6/29〜30の日本のSupernaturalイベントは資料がなく判定できず | 未確認（2026-10-26：6/1・6/3のビデオ通話サイン会は負傷発表後の当選者発表（5/24）でも5人参加と告知、6/29〜30の日本の特典会はnewjeans.jpに参加メンバー変更の告知なしと分かったが、いずれも当日の出席を示す公式資料・報道は見つからず、membersは変更しなかった） |
 | 2026-10-24 | tv-2024-07-02-j-wave-spark（members） | 東京ドームのリハーサル楽屋で収録された座談会にヘインが加わっていたかを示す資料なし | 未決（["all"] のままにするか） |
@@ -48,3 +38,5 @@
 | 2026-10-25 | ハニの悪質コメント民事訴訟の一部勝訴（判決2026年7月・日付不明、報道10/1） | 収録するなら月精度のnotice | 未決（収録するか） |
 | 2026-10-25 | ADORの「Spotify ○億回達成」X投稿（10/1・10/6・10/14） | recordは作成済み。sns台帳の範囲（記録達成）には該当するが、これまでsns化していない | 未決（snsレコードも立てるか） |
 | 2026-10-25 | record-2023-09-11-tma-2023-best-music-fall-super-shy-nomination（画像） | 候補はFan N Starの告知記事（2023-09-11）の宣材写真コラージュのみ（NewJeansの『Get Up』写真を含む、主催の候補発表グラフィックではない）。http://img.tf.co.kr/article/home/2023/09/08/20234323169417091200.jpg | 未決（画像に採用するか） |
+| 2026-10-26 | goods-2023-03-30-bunnies-global-official-fanclub-membership / notice-2023-03-30-bunnies-membership-open | 同じWeverse告知12893のメンバーシップ開始を2件で扱っている可能性 | 未確認（重複なら正しい方を残す） |
+| 2026-10-26 | sns-2023-06-30-get-up-packshot / sns-2023-06-28-instagram-get-up-era-post-0628 | 同じ06-28の公開を、Kstyleの記事日で別に立てている可能性 | 未確認（重複なら正しい方を残す） |

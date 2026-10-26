@@ -3368,49 +3368,6 @@
     "editor_note": "Korea Times (2024-05-16 14:48 KST) says ADOR announced it 'Tuesday' via press release and that the tour is available in the museum's Audio app (reports give 14 May). No British Museum or ADOR page fetched; date from press only. en.wikipedia gives May 2024 only. / 2026-10-24 nightly: British Museum's own Korean audio-app page describes the NewJeans-voiced tour: 16 objects in 10 galleries, from the moon jar in Room 67 to the bronze head of Hadrian in Room 49. ADOR's announcement of the talent donation is dated 14 May 2024 in Electronic Times, MK Sports and Vogue Korea, with the same object list (celadon kundika, 14th-century inlaid celadon, moon jar, Four Heavenly Kings painting, recreated sarangbang). Confirmed."
   },
   {
-    "id": "ad-2024-05-14-murakami-powerpuff-right-now",
-    "date": "2024-05-14",
-    "date_type": "announce",
-    "date_precision": "day",
-    "category": "ad",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "村上隆 × パワーパフ ガールズ × NewJeans「Right Now」",
-      "en": "Takashi Murakami x Powerpuff Girls collaboration for Right Now"
-    },
-    "summary": {
-      "ja": "「Right Now」MVティーザーで村上隆と『パワーパフ ガールズ』との三者コラボが明らかに、村上は各メンバーを表す新キャラクターをデザイン。",
-      "en": "The 'Right Now' teaser revealed a three-way collaboration with Takashi Murakami and The Powerpuff Girls, with Murakami designing a character for each member."
-    },
-    "source_url": "https://www.harpersbazaar.my/lifestyle/culture/newjeans-unveils-collaboration-with-takashi-murakami-and-the-powerpuff-girls-for-right-now-music-video/",
-    "reference_urls": [
-      "https://en.wikipedia.org/wiki/NewJeans"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "collab",
-      "art"
-    ],
-    "verified": false,
-    "editor_note": "Date is the article date; teaser reveal was on or just before. / Details from Harper's Bazaar Malaysia; the record date is the article date and the teaser was revealed on or just before it. Press framing removed. / 2026-10-24 nightly: The three-way NewJeans x Murakami x Powerpuff Girls collaboration was revealed by the HYBE LABELS upload UagOXpNCc10 \"NewJeans (뉴진스) 'Right Now' Official MV Teaser\", dated 2024-05-01 KST (next API; description carries the Cartoon Network and Takashi Murakami/Kaikai Kiki credits). That teaser is already recorded as mv-2024-05-01-right-now-mv-teaser. 14 May is only Harper's Bazaar Malaysia's article date; no separate announcement on 14 May was found. Also, the detail's mentions of the How Sweet 24 May release and Tokyo Dome dates would need re-checking against what was announced by 1 May if the date moves. Not changed.",
-    "detail": {
-      "ja": "「Right Now」のMVティーザーを通じて、NewJeans、村上隆、カートゥーン ネットワークの『パワーパフ ガールズ』による三者のコラボレーションが公開された。村上隆の代表的なレインボーフラワーが登場し、村上は各メンバーを表す新キャラクターもデザインした。「Right Now」は6月発売の日本デビューシングル『Supernatural』に収録される次のシングルで、MV本編は数週間内に公開予定。関連日程として『How Sweet』の5月24日発売と、6月26日・27日の東京ドームでの「Bunnies Camp 2024」が控えていた。",
-      "en": "A teaser for the 'Right Now' music video revealed a three-way collaboration between NewJeans, Japanese artist Takashi Murakami and Cartoon Network's The Powerpuff Girls. Murakami's signature rainbow flower appears, and he also designed new characters representing each member. 'Right Now' was the group's next single, included on the Japanese debut single Supernatural due in June, with the full video expected within weeks. Upcoming related dates were the May 24 release of How Sweet and the 'Bunnies Camp 2024' fan meetings at Tokyo Dome on June 26 and 27."
-    },
-    "credits": {
-      "collaborators": "Takashi Murakami, The Powerpuff Girls (Cartoon Network)"
-    },
-    "image": {
-      "url": "https://harpersbazaar.my/wp-content/uploads/2024/05/1-2.jpg",
-      "source_url": "https://harpersbazaar.my/lifestyle/newjeans-unveils-collaboration-with-takashi-murakami-and-the-powerpuff-girls-for-right-now-music-video/"
-    }
-  },
-  {
     "id": "ad-2024-05-15-coca-cola-add-delicious-magic",
     "date": "2024-05-15",
     "date_type": "release",
@@ -3533,50 +3490,6 @@
     ],
     "verified": true,
     "editor_note": "MoneyWeek (2024-05-23) gives the 23 May release; L'Officiel Korea (2024-05-26) repeats the brand release. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: MoneyS via Daum (2024-05-23 16:16): Dior unveiled the Denim Dior Oblique campaign with Haerin on the 23rd; Maria Grazia Chiuri, washed-vintage jacquard denim with dark-blue-to-white gradient motif, Dior Book Tote in the new material shot on New York streets. Confirmed on press; no Dior/ADOR post located."
-  },
-  {
-    "id": "ad-2024-06-01-line-friends-collab-2024",
-    "date": "2024-06-01",
-    "date_type": "release",
-    "date_precision": "month",
-    "category": "ad",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "LINE FRIENDS × NewJeans 2024",
-      "en": "Line Friends collaboration (2024)"
-    },
-    "summary": {
-      "ja": "LINE FRIENDSとの2度目のコラボは『Supernatural』発売に合わせ、村上隆と藤原ヒロシがデザインした商品を韓国と日本のポップアップで販売。",
-      "en": "The second Line Friends collaboration, timed to Supernatural, sold goods designed by Takashi Murakami and Hiroshi Fujiwara at pop-ups in Korea and Japan."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [
-      "https://zdnet.co.kr/view/?no=20240626150323"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "collab",
-      "character"
-    ],
-    "verified": false,
-    "detail": {
-      "ja": "LINE FRIENDS（IPX）とNewJeansの2度目のコラボレーションは、日本デビューシングル『Supernatural』の発売に合わせたもので、村上隆と藤原ヒロシがデザインした商品を韓国と日本のポップアップで販売した。村上隆のラインはレインボーフラワーと各メンバーのキャラクターを用いたぬいぐるみキーリング、クッション、スマートトーク、ボールペン、ペンライト「ビンキボン」用のデコレーション、帽子、Tシャツ、バッグで、藤原ヒロシのラインは再解釈したNewJeansロゴのTシャツ、帽子、バッグ、バンダナだった。村上隆は初日にポップアップを訪れ、ミン・ヒジン代表と写真に収まった。",
-      "en": "The second collaboration between Line Friends (IPX) and NewJeans accompanied the Japanese debut single Supernatural, selling merchandise designed by Takashi Murakami and Hiroshi Fujiwara at pop-ups in Korea and Japan. The Murakami line featured his rainbow flower and his characters of each member on plush keyrings, cushions, smart toks, ballpoint pens, decorations for the Binky Bong light stick, hats, T-shirts and bags, while the Fujiwara line offered T-shirts, hats, bags and bandanas with a reinterpreted NewJeans logo. Murakami visited the pop-up on opening day and was photographed with CEO Min Hee-jin."
-    },
-    "credits": {
-      "brand": "Line Friends (IPX)",
-      "designers": "Takashi Murakami, Hiroshi Fujiwara"
-    },
-    "editor_note": "Pop-up start date not stated in the Marie Claire piece; June 2024 per en.wikipedia. | removed from reader text: [detail.ja] マリ・クレール コリアの2024年7月1日の記事によれば、韓国ではLINE FRIENDS SQUARE明洞で7月10日まで開催され、事前予約は5分足らずで完売した。 [detail.en] According to Marie Claire Korea on July 1, 2024, the Korean pop-up ran at Line Friends Square Myeongdong until July 10, with advance bookings selling out in under five minutes. / 2026-10-24 nightly: ZDNet Korea (26 Jun 2024) confirms IPX opened LINE FRIENDS SQUARE Shibuya on 26 Jun with a 'Supernatural POP-UP' featuring the Takashi Murakami and Hiroshi Fujiwara collaborations, with a simultaneous pop-up at LINE FRIENDS SQUARE Myeongdong through 10 July (the How Sweet pop-up had opened 5 June). This duplicates the goods records for the two 26 Jun pop-ups; 'second collaboration' is doubtful given the 2023 collab, the Nov 2023 'Hang Out' and Feb 2024 'Play with bunini' lines. Murakami's opening-day visit with Min Hee-jin not found in this source. Not changed.",
-    "image": {
-      "url": "https://image.zdnet.co.kr/2024/06/26/be7f12ada10f4fb656c1d5901dba4c3d.jpg",
-      "source_url": "https://zdnet.co.kr/view/?no=20240626150323"
-    }
   },
   {
     "id": "ad-2024-06-10-shinhan-card-sol-pay-cm",

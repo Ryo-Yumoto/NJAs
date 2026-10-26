@@ -4690,34 +4690,36 @@
       "en": "'Right Now' Official MV Teaser"
     },
     "summary": {
-      "ja": "「Right Now」MVの最初のティザー。Takashi Murakamiとのコラボレーションであることを初めて明かした。",
-      "en": "First teaser for the 'Right Now' music video, the first reveal of the collaboration with Takashi Murakami."
+      "ja": "「Right Now」MVの最初のティザー。村上隆、『パワーパフ ガールズ』との三者コラボレーションを初めて明かした。",
+      "en": "First teaser for the 'Right Now' music video, revealing a three-way collaboration with Takashi Murakami and The Powerpuff Girls."
     },
     "source_url": "https://www.youtube.com/watch?v=UagOXpNCc10",
     "reference_urls": [
       "https://www.vogue.co.kr/?p=480543",
-      "https://en.wikipedia.org/wiki/Right_Now_(NewJeans_song)"
+      "https://en.wikipedia.org/wiki/Right_Now_(NewJeans_song)",
+      "https://harpersbazaar.my/lifestyle/newjeans-unveils-collaboration-with-takashi-murakami-and-the-powerpuff-girls-for-right-now-music-video/"
     ],
     "media": {
       "type": "youtube",
       "ref": "UagOXpNCc10"
     },
     "tags": [
-      "teaser"
+      "teaser",
+      "collab"
     ],
     "verified": true,
     "detail": {
-      "ja": "日本デビューシングルのB面曲「Right Now」のミュージックビデオの最初のティザーで、0時に公開された。アーティストTakashi Murakamiとのコラボレーションであることを初めて明かしたもので、ミュージックビデオ本編の公開は6月17日。",
-      "en": "First teaser for the music video of 'Right Now', the B-side of the Japanese debut single, posted at 00:00 KST. It revealed for the first time the collaboration with artist Takashi Murakami; the full video followed on 17 June."
+      "ja": "日本デビューシングル『Supernatural』に収録される「Right Now」のミュージックビデオの最初のティザーで、HYBE LABELSのチャンネルで0時（KST）に公開された。NewJeans、村上隆、カートゥーン ネットワークの『パワーパフ ガールズ』による三者のコラボレーションを初めて明かしたもので、村上のレインボーフラワーと、村上がデザインしたメンバーそれぞれのキャラクターが登場する。プロデューサーはミン・ヒジン、ミュージックビデオ監督はYoungeum Lee。",
+      "en": "First teaser for the music video of 'Right Now', from the Japanese debut single Supernatural, posted on the HYBE LABELS channel at 00:00 KST. It revealed for the first time a three-way collaboration between NewJeans, Takashi Murakami and Cartoon Network's The Powerpuff Girls, featuring Murakami's rainbow flower and characters he designed for each member. Producer: Min Hee-jin; music video director: Youngeum Lee."
     },
     "credits": {
       "channel": "HYBE LABELS",
       "label": "ADOR",
-      "music_video_director": "Youngeum Lee THE POWERPUFF GIRLS and all related characters and elements",
       "producer": "Min Hee-jin",
-      "collaboration": "Takashi Murakami"
+      "music_video_director": "Youngeum Lee",
+      "collaboration": "Takashi Murakami (Kaikai Kiki), The Powerpuff Girls (Cartoon Network)"
     },
-    "editor_note": "YouTube page read via reader; upload date on YouTube: Apr 30, 2024 (PT)."
+    "editor_note": "YouTube page read via reader; upload date on YouTube: Apr 30, 2024 (PT). / 2026-10-26 nightly: merged ad-2024-05-14-murakami-powerpuff-right-now: 村上隆×パワーパフ ガールズのコラボ公開はこのティザー（UagOXpNCc10、next APIでMay 1, 2024 KST）そのもので、ad側の05-14はHarper's Bazaar Malaysiaの記事日（article:published_time 2024-05-14T04:00Z）。広告・起用ではなく作品上のコラボのため別のadは立てない。概要欄（2026-10-26取得）：'Producer: MIN HEE JIN / Music Video Director: Youngeum Lee / THE POWERPUFF GIRLS ... © & ™ Cartoon Network / NewJeans X MURAKAMI ©2024 Takashi Murakami/Kaikai Kiki'、ハッシュタグ#NewJeans_RightNow #NewJeans_Supernatural。壊れていたcredits.music_video_director（「Youngeum Lee THE POWERPUFF GIRLS...」）を修正。レインボーフラワーと村上デザインのメンバー別キャラクターはHarper's Bazaar Malaysiaによる。本文の「ミュージックビデオ本編の公開は6月17日」（レコード日付より後の事実）と「B面曲」の表現を外した。ad側本文の『How Sweet』発売日・東京ドーム日程は移していない。"
   },
   {
     "id": "mv-2024-05-22-how-sweet-challenge-coming-soon-shorts",

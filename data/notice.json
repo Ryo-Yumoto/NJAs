@@ -280,10 +280,10 @@
     "verified": true,
     "note": "公式ペンライト（Binky Bong）は3月29日11時にデザイン公開、30日11時と18時の2回に分けて販売。",
     "note_en": "The design of the official light stick (Binky Bong) was revealed on March 29 at 11:00, with sales in two rounds on the 30th at 11:00 and 18:00.",
-    "editor_note": "Fetched the Weverse notice: membership opens Thu 2023-03-30 11:00 KST; light stick reveal 03-29 11:00, sales 03-30 11:00 and 18:00. Notice posting date not shown on the page. | No new sources fetched this pass; detail expands the existing Weverse-based note. / Removed provenance from reader text: the notice's posting date is not shown on the page.",
+    "editor_note": "Fetched the Weverse notice: membership opens Thu 2023-03-30 11:00 KST; light stick reveal 03-29 11:00, sales 03-30 11:00 and 18:00. Notice posting date not shown on the page. | No new sources fetched this pass; detail expands the existing Weverse-based note. / Removed provenance from reader text: the notice's posting date is not shown on the page. / 2026-10-26 nightly: merged content-2023-03-30-weverse-bunnies-membership-open: メンバーシップ開設そのものを公式映像カテゴリ（content）に置いた重複で、source_urlは映像レコードcontent-2023-03-30-bunnies-bunnies-membership-openと同じYouTube M3yExM39L9Y。映像の概要欄「Membership 2023.03.30 THU. 11AM (KST) @NewJeans Weverseshop」（2026-10-24 next APIで確認済み）から、受付場所がWeverse Shopであることと同日の映像公開を本文に移した。3月27・28日の映像は個別のcontentレコードがあるため移していない。なお goods-2023-03-30-bunnies-global-official-fanclub-membership も同じお知らせ12893を一次ソースとして同じ受付開始を扱っており、notice との重複かどうか別途判断が必要。",
     "detail": {
-      "ja": "グローバル公式ファンクラブ「Bunnies Membership」の加入受付が、Weverseの公式お知らせどおり3月30日（木）11時（KST）に始まった。公式ペンライト「ビンキボン」は3月29日11時に公開され、30日の11時と18時の2回に分けて販売すると案内されていた。",
-      "en": "Sign-ups for the global official fan club 'Bunnies Membership' opened at 11:00 KST on Thursday, March 30, as announced in an official Weverse notice. The official light stick Binky Bong had been revealed on March 29 at 11:00, with sales announced for March 30 at 11:00 and 18:00."
+      "ja": "グローバル公式ファンクラブ「Bunnies Membership」の加入受付が、Weverseの公式お知らせどおり3月30日（木）11時（KST）にWeverse Shopで始まった。公式ペンライト「ビンキボン」は3月29日11時に公開され、30日の11時と18時の2回に分けて販売すると案内されていた。同日、公式YouTubeチャンネルには「Bunnies Membership OPEN!」が公開された。",
+      "en": "Sign-ups for the global official fan club 'Bunnies Membership' opened on Weverse Shop at 11:00 KST on Thursday, March 30, as announced in an official Weverse notice. The official light stick Binky Bong had been revealed on March 29 at 11:00, with sales announced for March 30 at 11:00 and 18:00. The same day, the official YouTube channel posted 'Bunnies Membership OPEN!'."
     },
     "credits": {
       "issuer": "ADOR (Weverse notice)"
@@ -291,7 +291,10 @@
     "image": {
       "url": "https://pbs.twimg.com/media/FsT0wB1acAMlN1F.jpg?name=orig",
       "source_url": "https://x.com/NewJeans_ADOR/status/1640896559234662400"
-    }
+    },
+    "reference_urls": [
+      "https://www.youtube.com/watch?v=M3yExM39L9Y"
+    ]
   },
   {
     "id": "notice-2024-03-26-how-sweet-and-japan-debut-announced",

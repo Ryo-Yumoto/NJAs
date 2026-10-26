@@ -2288,46 +2288,6 @@
     "editor_note": "Attendance (about 15,000) per KBS preview published Nov 3, after the event; omitted from reader text. / 2026-10-24 nightly: KBS press (kstar.kbs.co.kr) and Xportsnews (KBS release, 2023-10-31) confirm 22 Oct, Palacio de los Deportes, 17th World Tour stop, six-act lineup, MC Park Bo-gum, Danielle's first live 'Part of Your World', 11/5 broadcast; Herald (KBS photos) and Publimetro confirm Hanni-Minnie 'Recuérdame'. Only 'Hype Boy', 'Super Shy', 'ETA' are named in KBS material, so the five-song list (OMG, New Jeans) was trimmed to 'including'."
   },
   {
-    "id": "live-2023-11-01-haerin-dior-canton-road-hong-kong",
-    "date": "2023-11-01",
-    "date_type": "event",
-    "date_precision": "month",
-    "category": "live",
-    "entity": "newjeans",
-    "members": [
-      "haerin"
-    ],
-    "title": {
-      "ja": "ヘリン、香港のディオール カントン・ロード店イベントに出席",
-      "en": "Haerin attends Dior Canton Road store event in Hong Kong"
-    },
-    "summary": {
-      "ja": "ヘリンが香港で開かれたディオールのカントン・ロード店のイベントに、チャ・ウヌ、キム・ミンハと共に出席した。",
-      "en": "Haerin attended Dior's Canton Road store event in Hong Kong with Cha Eun-woo and Kim Min-ha."
-    },
-    "detail": {
-      "ja": "ヘリンが11月20日に香港へ出国し、ディオールのカントン・ロード店のイベントに出席した。ディオールのアンバサダーのチャ・ウヌ、俳優キム・ミンハも参加。ヘリンは出国時、ディオール2024クルーズコレクションのDストライプのマリニエールジャケットとレディ D-ジョイ バッグを合わせていた。",
-      "en": "Haerin left for Hong Kong on 20 November to attend Dior's Canton Road store event, alongside Dior ambassador Cha Eun-woo and actor Kim Min-ha. At departure she wore a D-Stripes marinière jacket from the Dior Cruise 2024 collection with a Lady D-Joy bag."
-    },
-    "source_url": "https://v.daum.net/v/20231128171122668",
-    "reference_urls": [
-      "https://v.daum.net/v/20231122031145137"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "credits": {
-      "brand": "Dior",
-      "venue": "Dior Canton Road, Hong Kong"
-    },
-    "tags": [
-      "dior",
-      "event"
-    ],
-    "verified": false,
-    "editor_note": "L'Officiel Korea (2023-11-28) reports the event; Wedding21 (2023-11-22) gives the 20 Nov departure. Exact event day not stated, so month precision. / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-17: moved from ad to live (attendance event). / 2026-10-24 nightly: Re-read L'Officiel Korea (2023-11-28): 'Dior Canton Road store event held in Hong Kong on the 20th' with Cha Eun-woo and Kim Min-ha. This is the same event as live-2023-11-21-haerin-dior-road-cruise-party-hong-kong (Dior Cruise 24 event at the Canton Road store); Hong Kong press (Dimsum Daily, 2023-11-21) dates it to the evening of 21 Nov local time, so L'Officiel's '20th' appears to be the departure day. Not changed."
-  },
-  {
     "id": "live-2023-11-06-hyundai-duty-free-5th-anniversary-photocall",
     "date": "2023-11-06",
     "date_type": "event",
@@ -2421,12 +2381,12 @@
       "en": "Haerin at the Dior Road Cruise party in Hong Kong"
     },
     "summary": {
-      "ja": "香港・尖沙咀のディオール旗艦店で開かれたクルーズ2024コレクションのパーティーに、アンバサダーとして出席した。",
-      "en": "Haerin attended Dior's Cruise 2024 'Road Cruise' party at its Canton Road flagship in Tsim Sha Tsui, Hong Kong, as an ambassador."
+      "ja": "香港・尖沙咀のディオール旗艦店で開かれたクルーズ2024コレクションのイベントに、アンバサダーとして出席した。",
+      "en": "Haerin attended Dior's Cruise 2024 event at its Canton Road flagship in Tsim Sha Tsui, Hong Kong, as an ambassador."
     },
     "detail": {
-      "ja": "ディオールが香港・尖沙咀の広東道旗艦店でクルーズ2024コレクションを記念したパーティーを開き、アンバサダーのヘリンがチャ・ウヌらとともに出席した。ヘリンはクルーズ2024コレクションの白いドレスで登場した。公式Xでは「HAERIN @Dior Cruise 24 in Hong Kong」として写真が公開された。",
-      "en": "Dior held a party for its Cruise 2024 collection at the Canton Road flagship in Tsim Sha Tsui, Hong Kong, attended by ambassadors including Haerin and Cha Eun-woo. Haerin wore a white dress from the Cruise 2024 collection, and NewJeans' official X shared photos captioned 'HAERIN @Dior Cruise 24 in Hong Kong'."
+      "ja": "ディオールが香港・尖沙咀の広東道（カントン・ロード）旗艦店でクルーズ2024コレクションを記念したイベントを開き、アンバサダーのヘリンがチャ・ウヌ、キム・ミンハらとともに出席した。ヘリンは前日20日の午後に仁川空港から香港へ出国し、ディオール2024クルーズコレクションのDストライプのマリニエールジャケットにレディ D-ジョイ バッグを合わせていた。イベントにはクルーズ2024コレクションの白いドレスで登場し、レディ D-ジョイ バッグと、ディオール ファインジュエリー「ローズ デ ヴァン」のネックレス、ブレスレット、リングを身につけた。",
+      "en": "Dior held an event for its Cruise 2024 collection at the Canton Road flagship in Tsim Sha Tsui, Hong Kong, attended by ambassadors including Haerin, Cha Eun-woo and Kim Min-ha. Haerin had left Incheon Airport for Hong Kong on the afternoon of the 20th, wearing a D-Stripes marinière jacket from the Dior Cruise 2024 collection with a Lady D-Joy bag. At the event she wore a white dress from the Cruise 2024 collection with a Lady D-Joy bag and a necklace, bracelet and ring from Dior Fine Jewellery's Rose des Vents line."
     },
     "credits": {
       "venue": "Dior Canton Road flagship, Hong Kong",
@@ -2436,7 +2396,9 @@
     "reference_urls": [
       "https://www.dimsumdaily.hk/korean-stars-and-other-celebrities-make-simultaneous-appearance-at-dior-cruise-event-in-tsim-sha-tsui/",
       "https://kbizoom.com/cha-eun-woo-newjeans-haerin-and-more-turn-dior-event-in-hong-kong-into-a-visual-party/",
-      "https://sportskeeda.com/lifestyle/news-newjeans-haerin-s-look-dior-road-cruise-party-wins-internet-she-s-princess-coded-look"
+      "https://sportskeeda.com/lifestyle/news-newjeans-haerin-s-look-dior-road-cruise-party-wins-internet-she-s-princess-coded-look",
+      "https://v.daum.net/v/20231122031145137",
+      "https://v.daum.net/v/20231128171122668"
     ],
     "media": {
       "type": "x",
@@ -2452,7 +2414,7 @@
       "overseas"
     ],
     "verified": true,
-    "editor_note": "Official X post 2023-11-23; event date 21 Nov 2023 (local) from Sportskeeda/KBIZoom, not confirmed on an official page. / 2026-10-24 nightly: fxtwitter: official @NewJeans_ADOR post 1727612956882640899 (2023-11-23 18:00 KST) 'HAERIN @Dior Cruise 24 in Hong Kong' with three photos. Hong Kong outlet Dimsum Daily (published 2023-11-21 22:17 HKT) reports the DIOR Cruise event on Canton Road, Tsim Sha Tsui 'tonight' 21 Nov with Cha Eun-woo, Kim Min-ha and others, Haerin in a white gown. Date and content confirmed. Note: live-2023-11-01-haerin-dior-canton-road-hong-kong describes the same event."
+    "editor_note": "Official X post 2023-11-23; event date 21 Nov 2023 (local) from Sportskeeda/KBIZoom, not confirmed on an official page. / 2026-10-24 nightly: fxtwitter: official @NewJeans_ADOR post 1727612956882640899 (2023-11-23 18:00 KST) 'HAERIN @Dior Cruise 24 in Hong Kong' with three photos. Hong Kong outlet Dimsum Daily (published 2023-11-21 22:17 HKT) reports the DIOR Cruise event on Canton Road, Tsim Sha Tsui 'tonight' 21 Nov with Cha Eun-woo, Kim Min-ha and others, Haerin in a white gown. Date and content confirmed. Note: live-2023-11-01-haerin-dior-canton-road-hong-kong describes the same event. / 2026-10-26 nightly: merged live-2023-11-01-haerin-dior-canton-road-hong-kong: 同じディオール広東道店のクルーズ24イベント（月精度で置かれていた重複）。2026-10-26にDaumで再取得：Wedding21（2023-11-22、写真提供ディオール）＝20日午後に仁川空港から出国、D-Stripesのマリニエールジャケット・黒のキュロット・アンクルブーツ・Lady D-Joyバッグ。L'Officiel Korea（2023-11-28）＝チャ・ウヌ、キム・ミンハ、ヘリンが出席、ヘリンは2024クルーズの衣装、Lady D-Joyバッグ、Rose des Ventsのネックレス・ブレスレット・リング。L'Officielは開催を「20日」とするが、香港のDimsum Daily（2023-11-21 22:17 HKT、'tonight'）に従い21日を維持（20日は出国日）。あわせて、11月23日の公式X投稿（1727612956882640899）に触れた一文はレコード日付より後の事実のため本文から外した（mediaとimageには残す）。"
   },
   {
     "id": "live-2023-12-09-music-bank-global-festival-2023-japan",
@@ -2482,13 +2444,14 @@
       "https://www.xportsnews.com/article/1804583",
       "https://edaily.co.kr/News/Read?mediaCodeNo=258&newsId=01416966635810968",
       "https://www.soompi.com/article/1627035wpp/kbs-announces-star-studded-lineup-for-2023-music-bank-global-festival-in-seoul",
-      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+      "https://mdpr.jp/k-enta/4092295"
     ],
     "tags": [
       "broadcast-concert",
       "japan"
     ],
-    "editor_note": "Broadcast-concert; the TV airing (2023-12-15) may be registered separately in tv. | Broadcast reworded as the announced schedule; it aired as Part 2 on 2023-12-15. / 2026-10-24 nightly: Ilgan Sports via Daum (2023-12-16): Part 2 was the show held on the 9th at Belluna Dome, first shown on KBS 2TV on the 15th, hosted by Rowoon, Go Min-si and Lee Young-ji, NewJeans among Part 2 performers. Xports News: NewJeans performed 'OMG', 'Ditto', 'New Jeans', 'Super Shy' and 'ETA' (about 15 minutes incl. dance break) at Belluna Dome on the 9th; Edaily gives the 15 Dec 20:30 broadcast. Moving-vehicle staging not separately checked.",
+    "editor_note": "Broadcast-concert; the TV airing (2023-12-15) may be registered separately in tv. | Broadcast reworded as the announced schedule; it aired as Part 2 on 2023-12-15. / 2026-10-24 nightly: Ilgan Sports via Daum (2023-12-16): Part 2 was the show held on the 9th at Belluna Dome, first shown on KBS 2TV on the 15th, hosted by Rowoon, Go Min-si and Lee Young-ji, NewJeans among Part 2 performers. Xports News: NewJeans performed 'OMG', 'Ditto', 'New Jeans', 'Super Shy' and 'ETA' (about 15 minutes incl. dance break) at Belluna Dome on the 9th; Edaily gives the 15 Dec 20:30 broadcast. Moving-vehicle staging not separately checked. / 2026-10-26 nightly: merged tv-2023-12-09-music-bank-global-festival-2023-japan: 収録日（公演日）で置いたtvレコードで、公演はこのlive、放送（12/15 KBS2）はtv-2023-12-15-music-bank-global-festival-2023-seoulが扱う重複。削除側の画像（モデルプレス 2023-12-10 00:27のNewJeans公演レポート「NewJeans、客席降臨で会場ざわめく…」の写真）とその記事をこちらへ移した。同記事は9日のベルーナドーム出演と客席に近づく演出を伝えており、移動車の演出の裏付けにもなる。",
     "detail": {
       "ja": "埼玉県所沢市のベルーナドームで開かれたKBS『2023 MUSIC BANK GLOBAL FESTIVAL』の日本公演で、「OMG」「Ditto」「New Jeans」「Super Shy」「ETA」の5曲を披露した。司会はロウン、コ・ミンシ、イ・ヨンジ。ステージでは移動車に乗って客席に近づく演出も行われた。公演は収録され、KBS 2TVで12月15日に第2部として放送されると案内された。",
       "en": "At the Japan show of KBS's 2023 Music Bank Global Festival at Belluna Dome in Tokorozawa, Saitama, NewJeans performed five songs: 'OMG', 'Ditto', 'New Jeans', 'Super Shy' and 'ETA', including a segment riding a moving platform close to the audience. Rowoon, Go Min-si and Lee Young-ji hosted. The show was recorded for broadcast on KBS 2TV on 15 December as Part 2 of the festival."
@@ -2497,6 +2460,10 @@
       "venue": "Belluna Dome, Tokorozawa",
       "broadcaster": "KBS 2TV",
       "host": "Rowoon, Go Min-si, Lee Young-ji"
+    },
+    "image": {
+      "url": "https://img-mdpr.freetls.fastly.net/article/aa4B/nm/aa4BfDyv5IrLYOp4_UXm0wTH9lWQC2OwczC8nF1DZ30.jpg",
+      "source_url": "https://mdpr.jp/k-enta/4092295"
     }
   },
   {

@@ -3109,46 +3109,6 @@
     "editor_note": "公式動画: SBSKPOP X INKIGAYO「NewJeans(뉴진스) - Super Shy @인기가요 inkigayo 20230806」(2023-08-06); 関連1本をreference_urlsに記載 / 2026-10-24 nightly: SBSKPOP X INKIGAYO uploads nTUX-kRP17Q and sw7UIeR_6Uc dated Aug 6, 2023 (YouTube next API, KST). Mydaily (2023-08-06) lists NewJeans among the performers and gives the nominees (Jung Kook 'Seven', 'Super Shy', 'ETA') with Jung Kook winning; added to detail."
   },
   {
-    "id": "tv-2023-08-10-k-global-heart-dream-awards-2023",
-    "date": "2023-08-10",
-    "date_type": "broadcast",
-    "date_precision": "day",
-    "category": "tv",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "2023 K GLOBAL HEART DREAM AWARDS",
-      "en": "2023 K-Global Heart Dream Awards"
-    },
-    "summary": {
-      "ja": "KSPO DOMEでの『2023 K Global Heart Dream Awards』でKグローバルベスト音源賞を受賞、前日に事前発表されていた。",
-      "en": "NewJeans received the K Global Best Music Award alongside (G)I-dle, aespa, Ive and Le Sserafim at the 2023 K Global Heart Dream Awards."
-    },
-    "source_url": "https://ja.wikipedia.org/wiki/NewJeans",
-    "reference_urls": [
-      "http://www.osen.co.kr/article/G1112160085",
-      "https://www.xportsnews.com/article/1758471"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "award-show"
-    ],
-    "verified": false,
-    "detail": {
-      "ja": "ソウル・オリンピック公園のKSPO DOMEで午後に開かれた『2023 K Global Heart Dream Awards』で、（G）I-DLE、aespa、IVE、LE SSERAFIMとともにKグローバルベスト音源賞を受賞した。受賞は前日の8月9日に主催側から事前発表されていた。司会はチョン・ヒョンムとチャン・ドヨンで、授賞式はOTTアプリとウェブサイトで世界に生配信された。",
-      "en": "NewJeans received the K Global Best Music Award alongside (G)I-dle, aespa, Ive and Le Sserafim at the 2023 K Global Heart Dream Awards, held in the afternoon at KSPO Dome in Seoul's Olympic Park. The award had been announced in advance on August 9. Jun Hyun-moo and Jang Do-yeon hosted, and the ceremony was streamed worldwide via an OTT app and website."
-    },
-    "credits": {
-      "venue": "KSPO Dome, Seoul",
-      "host": "Jun Hyun-moo, Jang Do-yeon"
-    },
-    "editor_note": "Per OSEN (Aug 9, 2023); whether NewJeans attended or performed is not confirmed. / 公式YouTube動画なし: No official organizer/broadcaster clip found for the 2023 K-Global Heart Dream Awards / 2026-10-24 nightly: OSEN (2023-08-09 11:57 KST) confirms the organisers pre-announced on Aug 9 the K Global Best Music Award for (G)I-dle, aespa, IVE, LE SSERAFIM and NewJeans, with a written acceptance comment from NewJeans, ceremony Aug 10 afternoon at KSPO Dome, hosts Jun Hyun-moo and Jang Do-yeon; Xports News (2023-08-11) confirms the ceremony and the award. Neither lists NewJeans among attendees/performers, and the pre-announced award with a remote comment suggests they did not appear. The award itself is already recorded as record-2023-08-10-k-global-heart-dream-awards-2023, and no TV/OTT broadcast details for the ceremony were confirmed. Not changed."
-  },
-  {
     "id": "tv-2023-08-10-mcountdown-eta-win",
     "date": "2023-08-10",
     "date_type": "broadcast",
@@ -3836,50 +3796,6 @@
     "editor_note": "公式動画: KBS Entertain「NewJeans, ‘INTRO + ETA & Super Shy’ Celebratory Performance [The 44th Blue Dragon Film Awards] | ...」(2023-11-24); 関連3本をreference_urlsに記載 / 2026-10-24 nightly: Confirmed 24 Nov 2023, KBS Hall Yeouido, hosts Kim Hye-soo/Yoo Yeon-seok, live on KBS from 8:30 pm and the celebratory-act lineup (1MILLION, NewJeans, Jang Ki-ha, Kim Wan-sun, Park Jin-young) via Celuv Media 2023-11-24 and Sports Chosun photo captions; KBS Entertain upload yIBQpq5CHMA ('INTRO + ETA & Super Shy', dateText Nov 24, 2023) confirms the set. Removed 'first of the celebratory performances' (not supported; press lists 1MILLION first) and 'live on KBS YouTube' (not found)."
   },
   {
-    "id": "tv-2023-11-30-newjeans-yearbook-22-23",
-    "date": "2023-11-30",
-    "date_type": "broadcast",
-    "date_precision": "day",
-    "category": "tv",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "『NewJeans Yearbook 22-23』VOD",
-      "en": "NewJeans Yearbook 22-23 (VOD)"
-    },
-    "summary": {
-      "ja": "デビュー準備から2023年の活動までの最初の1年を追ったドキュメンタリー『NewJeans Yearbook 22-23』のVOD公開。",
-      "en": "VOD release of NewJeans Yearbook 22-23, a documentary following the group's first year from debut preparations through 2023."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/NewJeans_videography",
-    "reference_urls": [
-      "https://www.youtube.com/watch?v=HramRxsThE4",
-      "https://www.youtube.com/watch?v=AEpg7yJG-Ac"
-    ],
-    "media": {
-      "type": "youtube",
-      "ref": "XSJqQaZfZLQ"
-    },
-    "tags": [
-      "documentary",
-      "vod"
-    ],
-    "verified": false,
-    "editor_note": "VOD release rather than a TV broadcast; date_type set to broadcast for sorting consistency with other video programs. | not enriched: no source found beyond the input; platform and runtime unverified. / 公式動画: NewJeans「[Preview] NewJeans (뉴진스) Yearbook 22-23 Preview Clip #1」(2023-10-26); 関連2本をreference_urlsに記載 / 2026-10-24 nightly: Could not confirm a 30 Nov 2023 VOD release; the date appears only on en.wikipedia 'NewJeans videography'. Weverse notice 15976 and Weverse Shop notices are JS-rendered and returned no content to curl; Naver news (Oct-Dec 2023) has no coverage. The verified goods record goods-2023-10-30-newjeans-yearbook-22-23 (Weverse Shop notices 4755/4756, artist notice 15976) describes the same product as a package released 10 Nov (GLOBAL) whose digital code card carries ~140 min of 4K Bunnies Camp footage plus ~165 min of unreleased behind-the-scenes, which conflicts with this record's description of a documentary 'from debut preparations through 2023'. Preview clips confirmed on the official channel: XSJqQaZfZLQ and HramRxsThE4 dated Oct 27, 2023 KST, AEpg7yJG-Ac Oct 31, 2023 KST (editor note's 2023-10-26 for clip #1 is the Pacific-time date).",
-    "detail": {
-      "ja": "ADORとHYBEが、NewJeansの最初の1年を追ったドキュメンタリー映像作品『NewJeans Yearbook 22-23』をVODとして公開した。デビュー準備から2023年の活動までを記録した内容で、テレビ放送ではなく映像配信としてリリースされた。",
-      "en": "ADOR and HYBE released NewJeans Yearbook 22-23, a documentary following the group's first year from debut preparations through their 2023 activities. It came out as a VOD title rather than a television broadcast."
-    },
-    "credits": {
-      "producer": "ADOR / HYBE"
-    },
-    "links": {
-      "youtube": "https://www.youtube.com/watch?v=XSJqQaZfZLQ"
-    }
-  },
-  {
     "id": "tv-2023-12-02-melon-music-awards-2023",
     "date": "2023-12-02",
     "date_type": "broadcast",
@@ -3926,49 +3842,6 @@
       "youtube": "https://www.youtube.com/watch?v=MfO1FenJbKI"
     },
     "editor_note": "公式動画: Melon「[MMA2023] NewJeans - FULL Performance | #NewJeans #SuperShy #ETA #CoolWithYou #GetUp #ASAP #MMA2023」(2023-12-02); 関連3本をreference_urlsに記載 / 2026-10-24 nightly: Sports Donga 2023-12-03 confirms 2 Dec at Inspire Arena, the five awards, and the six-song Get Up stage closing Part 1 with member-by-member staging; Melon's official uploads MfO1FenJbKI / MO3uEWJv4OY dated Dec 2, 2023. Pre-show press (Naver, Nov 2023) gives ABEMA (Japan) and Beyond LIVE (other countries). Removed claims not found in any source: 'most awards of the night', the stage title 'Track: NewJeans', host An Yu-jin, and Melon/Wavve streaming. The Album of the Year nomination is left to record-2023-11-17-mma-2023-album-of-the-year-get-up-nomination."
-  },
-  {
-    "id": "tv-2023-12-09-music-bank-global-festival-2023-japan",
-    "date": "2023-12-09",
-    "date_type": "broadcast",
-    "date_precision": "day",
-    "category": "tv",
-    "entity": "newjeans",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "ミュージックバンク グローバルフェスティバル 2023（ベルーナドーム）",
-      "en": "Music Bank Global Festival 2023 (Belluna Dome)"
-    },
-    "summary": {
-      "ja": "所沢・ベルーナドームでのKBS『ミュージックバンク グローバルフェスティバル』日本公演で「OMG」「Ditto」など5曲を披露。",
-      "en": "NewJeans performed five songs at the Japan leg of KBS's 2023 Music Bank Global Festival at Belluna Dome, Tokorozawa."
-    },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
-    "reference_urls": [],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "year-end",
-      "japan"
-    ],
-    "verified": false,
-    "detail": {
-      "ja": "埼玉県所沢市のベルーナドームで開かれたKBS『2023 MUSIC BANK GLOBAL FESTIVAL』の日本公演（第2部）に出演し、「OMG」「Ditto」「New Jeans」「Super Shy」「ETA」を披露した。司会はロウン、コ・ミンシ、イ・ヨンジ。公演は収録され、12月15日にKBS 2TVで放送されると発表された。",
-      "en": "NewJeans performed 'OMG', 'Ditto', 'New Jeans', 'Super Shy' and 'ETA' at the Japan leg (Part 2) of KBS's 2023 Music Bank Global Festival at Belluna Dome in Tokorozawa, Saitama. Rowoon, Go Min-si and Lee Young-ji hosted. The show was recorded for broadcast on KBS 2TV on December 15."
-    },
-    "credits": {
-      "broadcaster": "KBS 2TV",
-      "venue": "Belluna Dome, Tokorozawa",
-      "host": "Rowoon, Go Min-si, Lee Young-ji"
-    },
-    "editor_note": "公式YouTube動画なし: No KBS clip for the 2023 Music Bank Global Festival in Japan (Belluna Dome) found / 2026-10-24 nightly: Event facts check out (OSEN 2023-12-16: Japan show held 9 Dec at Belluna Dome, Part 2 hosts Rowoon, Go Min-si, Lee Young-ji, aired on KBS2 15 Dec), but this tv record is dated on the recording day, not a broadcast day, and duplicates both live-2023-12-09-music-bank-global-festival-2023-japan (the concert) and tv-2023-12-15-music-bank-global-festival-2023-seoul (the broadcast). Setlist not confirmed. Left unchanged pending decision.",
-    "image": {
-      "url": "https://img-mdpr.freetls.fastly.net/article/aa4B/nm/aa4BfDyv5IrLYOp4_UXm0wTH9lWQC2OwczC8nF1DZ30.jpg",
-      "source_url": "https://mdpr.jp/k-enta/4092295"
-    }
   },
   {
     "id": "tv-2023-12-14-asia-artist-awards-2023",
@@ -4700,49 +4573,6 @@
     }
   },
   {
-    "id": "tv-2024-06-02-k-wave-concert-inkigayo-haerin-mc",
-    "date": "2024-06-02",
-    "date_type": "event",
-    "date_precision": "day",
-    "category": "tv",
-    "entity": "newjeans",
-    "members": [
-      "haerin"
-    ],
-    "title": {
-      "ja": "SBS「K-WAVE コンサート 人気歌謡」ヘリンがMC",
-      "en": "SBS K-Wave Concert Inkigayo: Haerin as MC"
-    },
-    "summary": {
-      "ja": "仁川インスパイアアリーナで開かれたSBS「K-WAVE コンサート 人気歌謡」で、ヘリンがデビュー後初めてMCを務めた。",
-      "en": "Haerin took on her first MC role at SBS's K-Wave Concert Inkigayo at Inspire Arena in Incheon."
-    },
-    "detail": {
-      "ja": "SBSは5月27日、6月2日に仁川・永宗島のインスパイアアリーナで開催する「K-WAVE コンサート 人気歌謡」のMCをATEEZのユンホ、ヘリン、ZEROBASEONEのハン・ユジンが務めると発表した。ヘリンにとってデビュー後初のMC挑戦。aespa、ITZY、ILLITなどが出演し、NewJeansも出演した。",
-      "en": "SBS announced on 27 May that Ateez's Yunho, Haerin and Zerobaseone's Han Yu-jin would host K-Wave Concert Inkigayo at Inspire Arena on Yeongjong Island, Incheon, on 2 June. It was Haerin's first MC role since debut. The lineup included aespa, ITZY and ILLIT, and NewJeans also performed."
-    },
-    "source_url": "https://v.daum.net/v/20240527152941885",
-    "reference_urls": [
-      "https://v.daum.net/v/20240527140417564",
-      "https://v.daum.net/v/20240607143601289"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "credits": {
-      "broadcaster": "SBS",
-      "venue": "Inspire Arena, Incheon",
-      "co_hosts": "Yunho (Ateez), Han Yu-jin (Zerobaseone)"
-    },
-    "tags": [
-      "mc",
-      "music-show",
-      "sbs"
-    ],
-    "verified": true,
-    "editor_note": "Event date 2 June (concert); SBS broadcast 9 June is covered by existing group record tv-2024-06-09-k-wave-concert-inkigayo, which does not mention the MC role. Source is the pre-event SBS announcement (Sports Donga). / Source is a press report (Daum News); not confirmed against an official page. / 2026-10-24 nightly: SBS's announcement reported by Sports Donga via Daum (2024-05-27, tagged [공식]) confirms Yunho (ATEEZ), Haerin and Han Yu-jin (ZEROBASEONE) as MCs of K-WAVE Concert Inkigayo on Sun June 2 at Inspire Arena, Yeongjong Island, Haerin's first MC role since debut, with aespa, ITZY, ILLIT, NewJeans and others in the 18-act line-up; the Jun 7 SBS preview (Daum 20240607143601289) confirms in the past tense that the three MCs hosted the June 2 show, broadcast on SBS June 9. Facts confirmed. Open issue: this is a tv record dated to the event day (date_type event), while the data policy dates tv records by broadcast (June 9, already held by tv-2024-06-09-k-wave-concert-inkigayo); the credits key 'co_hosts' is also outside the usual vocabulary ('host')."
-  },
-  {
     "id": "tv-2024-06-07-music-bank-how-sweet",
     "date": "2024-06-07",
     "date_type": "broadcast",
@@ -4905,34 +4735,38 @@
       "en": "K-Wave Concert Inkigayo (SBS)"
     },
     "summary": {
-      "ja": "『人気歌謡』特別編『K-Wave Concert Inkigayo』で「How Sweet」「Bubble Gum」を披露した公演が6月9日に放送された。",
-      "en": "NewJeans' 'How Sweet' and 'Bubble Gum' stages from K-Wave Concert Inkigayo, a special concert edition of the show held in Incheon, aired on June 9."
+      "ja": "『人気歌謡』特別編『K-Wave Concert Inkigayo』の放送で、ヘリンがMCを務めた公演の「How Sweet」「Bubble Gum」のステージが流れた。",
+      "en": "SBS aired K-Wave Concert Inkigayo, a special concert edition co-hosted by Haerin, with NewJeans' 'How Sweet' and 'Bubble Gum' stages."
     },
-    "source_url": "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances",
+    "source_url": "https://www.youtube.com/watch?v=IBgtzAbnxwI",
     "reference_urls": [
       "https://v.daum.net/v/20240607143601289",
       "https://v.daum.net/v/20240527152941885",
+      "https://v.daum.net/v/20240527140417564",
       "https://www.youtube.com/watch?v=MJZE4OF7iSA",
-      "https://www.youtube.com/watch?v=SEENRl55Cy4"
+      "https://www.youtube.com/watch?v=SEENRl55Cy4",
+      "https://en.wikipedia.org/wiki/List_of_NewJeans_live_performances"
     ],
     "media": {
       "type": "youtube",
       "ref": "IBgtzAbnxwI"
     },
     "tags": [
-      "special"
+      "special",
+      "mc"
     ],
     "verified": true,
     "detail": {
-      "ja": "6月2日に仁川・永宗島のINSPIREアリーナで開かれたSBS『K-Wave Concert Inkigayo』に出演し、イントロに続いて「How Sweet」、そして「Bubble Gum」を披露した。公演は6月9日にSBSで放送された。足の負傷で活動を休止中のヘインは参加せず、4人でのステージだった。",
-      "en": "NewJeans performed an intro and 'How Sweet', followed by 'Bubble Gum', at SBS's K-Wave Concert Inkigayo, held at Inspire Arena on Yeongjong Island, Incheon, on June 2. The concert was broadcast on SBS on June 9. Hyein, on hiatus with a foot injury, did not take part, so four members performed."
+      "ja": "6月2日に仁川・永宗島のINSPIREアリーナで開かれたSBS『K-Wave Concert Inkigayo』に出演し、イントロに続いて「How Sweet」、そして「Bubble Gum」を披露した。この公演ではヘリンがATEEZのユンホ、ZEROBASEONEのハン・ユジンとともにMCを務め、ヘリンにとってデビュー後初のMCとなった。公演は6月9日にSBSで放送された。足の負傷で活動を休止中のヘインは参加せず、4人でのステージだった。",
+      "en": "NewJeans performed an intro and 'How Sweet', followed by 'Bubble Gum', at SBS's K-Wave Concert Inkigayo, held at Inspire Arena on Yeongjong Island, Incheon, on June 2. Haerin co-hosted the show with Ateez's Yunho and Zerobaseone's Han Yu-jin, her first MC role since debut. The concert was broadcast on SBS on June 9. Hyein, on hiatus with a foot injury, did not take part, so four members performed."
     },
     "credits": {
       "broadcaster": "SBS",
       "program": "K-Wave Concert Inkigayo",
-      "venue": "Inspire Arena, Incheon"
+      "venue": "Inspire Arena, Incheon",
+      "host": "Yunho (ATEEZ), Haerin, Han Yu-jin (ZEROBASEONE)"
     },
-    "editor_note": "Set per en.wikipedia live-performance list only. / 公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) – INTRO+How Sweet @인기가요 inkigayo 20240609」(2024-06-09); 関連2本をreference_urlsに記載 / date moved to broadcast date 2024-06-09 per the broadcaster's official upload (was tv-2024-06-02-k-wave-concert-inkigayo) / 2026-10-24 nightly: SBSKPOP X INKIGAYO official uploads IBgtzAbnxwI ('INTRO+How Sweet @인기가요 20240609') and SEENRl55Cy4 ('[K-WAVE CONCERT 4K] Bubble Gum ... 240609'), uploaded Jun 9, 2024 KST, confirm the broadcast date and those two stages; SBS's preview (Daum 2024-06-07) confirms the June 2 Inspire Arena concert aired June 9 with NewJeans in the line-up. 'ETA' appears only in the Wikipedia live-performance list and no SBS upload or report of it was found, so it was removed from the summary and detail. Broadcast time differs between reports (2:00 pm vs 2:55 pm) and is not stated. / 2026-10-24 nightly: SBS KPOP's official full cam MJZE4OF7iSA ('[K-WAVE CONCERT 4K] How Sweet', uploaded 2024-06-09) shows four members in all sampled frames (title card and full-stage shots); the concert (June 2) fell inside Hyein's injury break (Inkigayo 06-16 press still says she was out). Members changed from ['all'] to the four. Note: live-2024-06-02-k-wave-concert-inkigayo (live.json) also lists ['all'] and was not changed here.",
+    "editor_note": "Set per en.wikipedia live-performance list only. / 公式動画: SBSKPOP X INKIGAYO「NewJeans (뉴진스) – INTRO+How Sweet @인기가요 inkigayo 20240609」(2024-06-09); 関連2本をreference_urlsに記載 / date moved to broadcast date 2024-06-09 per the broadcaster's official upload (was tv-2024-06-02-k-wave-concert-inkigayo) / 2026-10-24 nightly: SBSKPOP X INKIGAYO official uploads IBgtzAbnxwI ('INTRO+How Sweet @인기가요 20240609') and SEENRl55Cy4 ('[K-WAVE CONCERT 4K] Bubble Gum ... 240609'), uploaded Jun 9, 2024 KST, confirm the broadcast date and those two stages; SBS's preview (Daum 2024-06-07) confirms the June 2 Inspire Arena concert aired June 9 with NewJeans in the line-up. 'ETA' appears only in the Wikipedia live-performance list and no SBS upload or report of it was found, so it was removed from the summary and detail. Broadcast time differs between reports (2:00 pm vs 2:55 pm) and is not stated. / 2026-10-24 nightly: SBS KPOP's official full cam MJZE4OF7iSA ('[K-WAVE CONCERT 4K] How Sweet', uploaded 2024-06-09) shows four members in all sampled frames (title card and full-stage shots); the concert (June 2) fell inside Hyein's injury break (Inkigayo 06-16 press still says she was out). Members changed from ['all'] to the four. Note: live-2024-06-02-k-wave-concert-inkigayo (live.json) also lists ['all'] and was not changed here. / 2026-10-26 nightly: merged tv-2024-06-02-k-wave-concert-inkigayo-haerin-mc: 同じ放送のヘリンMCを公演日（date_type event）でtvに置いた重複で、credits.co_hostsも語彙外。SBSの発表（Sports Donga／Newsen via Daum 2024-05-27 [공식]：MCはユンホ、ヘリン、ハン・ユジン、ヘリンはデビュー後初MC）とSBS予告記事（Daum 2024-06-07：3人が6/2の公演でMCを務め6/9放送）を2026-10-26に再取得して確認し、MCの事実とcredits.host（既存語彙）を移した。ヘリンは本レコードのmembersに含まれる。source_urlをen.wikipediaから放送局の公式アップロード（SBSKPOP X INKIGAYO IBgtzAbnxwI、2024-06-09）に変更。公演自体はlive-2024-06-02-k-wave-concert-inkigayoにMCを含めて記載済み。",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=IBgtzAbnxwI"
     }
@@ -6909,48 +6743,6 @@
     },
     "links": {
       "youtube": "https://www.youtube.com/watch?v=pCDlTJi8SVY"
-    }
-  },
-  {
-    "id": "tv-2025-02-07-cnn-interview-njz",
-    "date": "2025-02-07",
-    "date_type": "broadcast",
-    "date_precision": "day",
-    "category": "tv",
-    "entity": "njz",
-    "members": [
-      "all"
-    ],
-    "title": {
-      "ja": "CNNインタビュー（NJZ名義発表）",
-      "en": "CNN interview announcing the NJZ name"
-    },
-    "summary": {
-      "ja": "CNNの独占インタビューで5人が新グループ名「NJZ」を発表し、3月の香港ComplexConでの新名義初ステージと新曲披露を予告。",
-      "en": "In an exclusive CNN interview the five members announced the new name NJZ and a first stage under it at ComplexCon Hong Kong in March."
-    },
-    "source_url": "https://edition.cnn.com/",
-    "reference_urls": [
-      "https://abs-cbn.com/entertainment/showbiz/celebrities/2025/2/7/k-pop-group-newjeans-is-back-with-a-new-name-njz-1718"
-    ],
-    "media": {
-      "type": "none"
-    },
-    "tags": [
-      "interview",
-      "us",
-      "njz"
-    ],
-    "verified": false,
-    "editor_note": "Published by CNN Style Feb 6–7, 2025 (US/KST); exact CNN URL not captured. Independent activity during the dispute, before the Mar 21, 2025 injunction. | CNN article syndicated at kvia.com (Feb 6, 2025 US); Hanni's comments were by phone per the article. / 公式YouTube動画なし: CNN official channel has no upload of the NJZ interview; only re-uploads / 2026-10-24 nightly: The CNN Style article is https://www.cnn.com/2025/02/06/style/newjeans-kpop-new-name-hnk-intl ('K-pop act NewJeans unveils new identity — and a new name', by Oscar Holland), published Feb 6, 2025 US time; the syndicated copy (KVIA) carries 2025-02-07T00:05 UTC = Feb 7 09:05 KST, so the KST date is correct. Its text confirms the exclusive NJZ reveal ahead of 'Friday's announcement', Hanni's comments (by phone) on 'turning this rough period... into something more exciting' and keeping the 'essence' of the name, Danielle on weighing fan suggestions, the first performance and new song at ComplexCon Hong Kong in March, and ADOR's statement to CNN about a possible material breach. However, it was a phone interview published as a web article, not a TV broadcast, so category tv / date_type broadcast looks wrong; not changed pending a decision. The same CNN exclusive is already recorded as web-2025-02-07-cnn-njz-interview (CNN.co.jp Japanese edition, category web), and the name announcement itself as notice-2025-02-07-njz-name-announced.",
-    "detail": {
-      "ja": "メンバー5人がCNN（CNN Style、記者オスカー・ホランド）の独占インタビューで新しいグループ名「NJZ」を発表した。ハニは改名を困難な時期をより前向きなものに変える方法と説明し、元の名前の本質を残したと述べ、ダニエルはファンの提案を長い時間をかけて検討したと語った。3月に香港のComplexConで新名義での初ステージと新曲の披露を予定していると明かした。ADORは同じ日、法的判断前の一方的な名称の発表は専属契約の重大な違反となり得るとの声明を出した。",
-      "en": "The five members announced their new group name NJZ in an exclusive interview with CNN (CNN Style, by Oscar Holland). Hanni described the renaming as a way of turning a rough period into something more exciting and said it kept the essence of the original name, while Danielle said the group had spent a long time weighing fan suggestions. They said they would perform under the new name for the first time and debut a new song at ComplexCon Hong Kong in March. ADOR responded the same day that announcing an unauthorized name before a legal ruling could constitute a material breach of the exclusive contract."
-    },
-    "credits": {
-      "broadcaster": "CNN",
-      "program": "CNN Style",
-      "interviewer": "Oscar Holland"
     }
   }
 ]
