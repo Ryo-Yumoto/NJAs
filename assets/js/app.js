@@ -288,8 +288,8 @@
     }
     const img = imageOf(it), isYt = it.media && it.media.type === "youtube" && it.media.ref;
     const xpost = it.media && it.media.type === "x" ? xPostOf(it.media.ref) : null;
-    // embeds (X / Instagram / TikTok) sit in the thumbnail slot beside the text, not below the whole entry
-    const embedSlot = () => { const slot = el("figure", { class: "thumb embed-fig" }); $(".thumb", node).replaceWith(slot); return slot; };
+    // embeds (X / Instagram / TikTok) sit between the heading and the body text; the side thumbnail slot is dropped
+    const embedSlot = () => { const slot = el("figure", { class: "embed-fig" }); $(".thumb", node).hidden = true; $(".desc", node).before(slot); return slot; };
     if (xpost && !window.NJAS_NO_EMBED) {
       // production: official X embed; the native card stands in until widgets.js renders, and stays if the script is blocked
       const box = embedSlot(); box.classList.add("xcard-box");
@@ -642,9 +642,6 @@
     $("#start-btn").addEventListener("click", () => { state.showMeta = false; state.ready.then(() => go(0)); });
     $("#resume-btn").addEventListener("click", () => state.ready.then(() => goKey(store.get("njas-bookmark"))));
     $("#brand").addEventListener("click", e => { e.preventDefault(); showCover(); });
-    // once the page scrolls, the floating bar gets a backing so the logo and MENU never sit on top of text
-    const bar = $(".bar"), onScroll = () => bar.classList.toggle("scrolled", document.body.classList.contains("reading") && window.scrollY > 8);
-    window.addEventListener("scroll", onScroll, { passive: true }); new MutationObserver(onScroll).observe(document.body, { attributes: true, attributeFilter: ["class"] });
     $("#prev-btn").addEventListener("click", () => { if (state.cur <= 0) showCover(); else go(state.cur - 1); });
     $("#pager-mid").addEventListener("click", openToc);
     addEventListener("scroll", scheduleNav, { passive: true }); addEventListener("resize", scheduleNav);
