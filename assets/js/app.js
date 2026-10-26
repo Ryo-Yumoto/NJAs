@@ -148,6 +148,8 @@
     return null;
   }
   // image credit: every displayed image names where it was taken from and links there
+  const EMBED_BROKEN = ["7129507192322968833", "7372416016846015762"]; // TikTok videos whose embed player shows "Video currently unavailable"
+  const IG_CAPTIONED = ["Cnql5uLSuV5"]; // Instagram posts whose image is blank and whose text is in the caption
   const SOURCE_NAMES = { "soompi.com": "Soompi", "v.daum.net": "Daum News", "koreajoongangdaily.joins.com": "Korea JoongAng Daily", "koreajoongangdaily.com": "Korea JoongAng Daily", "marieclairekorea.com": "marie claire Korea", "ajunews.com": "Aju News", "elle.co.kr": "ELLE Korea", "realsound.jp": "Real Sound", "newsen.com": "Newsen", "tf.co.kr": "The Fact", "vogue.co.kr": "VOGUE Korea", "newsis.com": "Newsis", "wkorea.com": "W Korea", "oricon.co.jp": "ORICON NEWS", "koreatimes.co.kr": "The Korea Times", "harpersbazaar.co.kr": "Harper's BAZAAR Korea", "mdpr.jp": "モデルプレス", "dazedkorea.com": "Dazed Korea", "rollingstone.com": "Rolling Stone", "mtn.co.kr": "MTN", "khan.co.kr": "Sports Kyunghyang", "isplus.com": "Ilgan Sports", "nme.com": "NME", "thefirsttimes.jp": "THE FIRST TIMES", "wikitree.co.kr": "Wikitree", "sportskeeda.com": "Sportskeeda", "cjenm.com": "CJ ENM", "stoo.com": "Sports Today", "snkrdunk.com": "SNKRDUNK", "bandwagon.asia": "Bandwagon", "instagram.com": "Instagram", "x.com": "X", "twitter.com": "X", "weverse.io": "Weverse", "shop.weverse.io": "Weverse Shop", "newjeans.jp": "NewJeans Japan", "newjeans.kr": "NewJeans", "tower.jp": "TOWER RECORDS", "coca-cola.com": "Coca-Cola", "apple.com": "Apple Music", "spotify.com": "Spotify", "yna.co.kr": "Yonhap News", "sportsseoul.com": "Sports Seoul", "donga.com": "Dong-A Ilbo", "chosun.com": "Chosun Ilbo", "joongang.co.kr": "JoongAng Ilbo", "hankyung.com": "Hankyung", "xportsnews.com": "Xportsnews", "mydaily.co.kr": "My Daily", "tenasia.co.kr": "TenAsia", "starnewskorea.com": "Star News", "edaily.co.kr": "Edaily", "heraldcorp.com": "Herald Corp", "billboard.com": "Billboard", "hypebae.com": "Hypebae", "hypebeast.com": "Hypebeast", "osen.co.kr": "OSEN", "topstarnews.net": "TopStar News", "news1.kr": "News1", "allkpop.com": "allkpop", "natalie.mu": "音楽ナタリー", "crank-in.net": "クランクイン！", "thequoo.net": "theqoo" };
   function hostOf(u) { const m = /^https?:\/\/([^/?#]+)/i.exec(u || ""); return m ? m[1].toLowerCase().replace(/^(www|m|mobile)\./, "") : ""; }
   function sourceName(host) { if (!host) return ""; let h = host; while (h.includes(".")) { if (SOURCE_NAMES[h]) return SOURCE_NAMES[h]; h = h.slice(h.indexOf(".") + 1); } return host; }
@@ -306,7 +308,11 @@
       ($(".detail", node) || $(".desc", node)).after(dl);
     }
     const img = imageOf(it), isYt = it.media && it.media.type === "youtube" && it.media.ref;
-    const xpost = it.media && it.media.type === "x" ? xPostOf(it.media.ref) : null;
+    // an Instagram/TikTok record shows its own platform embed in production; its X cross-post is not embedded as well.
+    // Posts whose official player refuses to play (checked 2026-10-26: "Video currently unavailable") fall back to the X card.
+    const embedUrls = [(it.links || {})[it.platform], it.source_url, ...Object.values(it.links || {})].filter(u => u && !EMBED_BROKEN.some(b => u.includes(b)));
+    const ownEmbed = !window.NJAS_NO_EMBED && it.category === "sns" && (it.platform === "instagram" || it.platform === "tiktok") && embedUrls.some(u => /instagram\.com\/(p|reel|tv)\/|tiktok\.com\/@[^/]+\/video\//.test(u));
+    const xpost = it.media && it.media.type === "x" && !ownEmbed ? xPostOf(it.media.ref) : null;
     // embeds (X / Instagram / TikTok) sit between the heading and the body text; the side thumbnail slot is dropped
     const embedSlot = () => { const slot = el("figure", { class: "embed-fig" }); $(".thumb", node).hidden = true; $(".desc", node).before(slot); return slot; };
     if (xpost && !window.NJAS_NO_EMBED) {
@@ -363,13 +369,13 @@
     }
     // official Instagram / TikTok embeds (production only; the artifact host blocks third-party scripts). X posts use the native card above.
     if (!window.NJAS_NO_EMBED && it.category === "sns" && (it.platform === "instagram" || it.platform === "tiktok")) {
-      const cands = [(it.links || {})[it.platform], it.source_url, ...Object.values(it.links || {})].filter(Boolean);
+      const cands = [(it.links || {})[it.platform], it.source_url, ...Object.values(it.links || {})].filter(u => u && !EMBED_BROKEN.some(b => u.includes(b)));
       const ig = cands.find(u => /instagram\.com\/(p|reel|tv)\/[A-Za-z0-9_-]+/.test(u));
       const tt = cands.find(u => /tiktok\.com\/@[^/]+\/video\/\d+/.test(u));
       if (it.platform === "instagram" && ig) {
         const url = ig.split("?")[0].replace(/\/?$/, "/");
         const box = embedSlot(); box.classList.add("embed");
-        const bq = el("blockquote", { class: "instagram-media", "data-instgrm-permalink": url, "data-instgrm-version": "14" });
+        const bq = el("blockquote", { class: "instagram-media", "data-instgrm-permalink": url, "data-instgrm-version": "14", ...(IG_CAPTIONED.some(c => url.includes(c)) ? { "data-instgrm-captioned": "" } : {}) });
         bq.appendChild(el("a", { href: url }, url)); box.appendChild(bq);
         loadScript("https://www.instagram.com/embed.js", () => window.instgrm?.Embeds?.process());
       } else if (it.platform === "tiktok" && tt) {
