@@ -9,7 +9,7 @@
 | music | 配信開始日（KST基準） | release |
 | mv | 公式YouTube公開日（KST基準） | release |
 | tv | 放送日（放送国の現地時刻）。ラジオを含む | broadcast |
-| magazine | 発売日（書店・出版社が示す実際の販売開始日。出版社の表紙公開日や号の表記月ではない。2026-10-26 オーナー決定）。版ごとに発売日が違う場合は、そのメンバーの表紙の版の発売日。不明なら号の発行月（date_precision=month） | publish |
+| magazine | 発売日。ネット書店（教保文庫・YES24・アラジン、Amazon.co.jp・楽天ブックス・Fujisan、海外誌は出版社の通販ページ等）の発売日／出刊日を採る。誌面や出版社が示す発行日（「○月○日発行」「March 2, 2024 issue」など）、表紙公開日、号の表記月は採らない（2026-10-26 オーナー決定）。版ごとに発売日が違う場合は、そのメンバーの表紙の版の発売日。不明なら号の発行月（date_precision=month） | publish |
 | web | 記事公開日 | publish |
 | ad | アンバサダー就任等は発表日（announce）、CM・キャンペーン公開は公開日（release） | announce / release |
 | sns | 投稿日（KST基準）。platformに投稿元を記す | post |
