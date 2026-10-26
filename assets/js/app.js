@@ -258,7 +258,7 @@
     const cat = CATS[it.category] || { ja: it.category, en: it.category, color: "var(--rule)", ratio: "16 / 10" };
     node.style.setProperty("--cat", cat.color); node.id = it.id;
     const kind = (it.tags || []).find(t => KIND_TAGS.includes(t));
-    $(".cat-label", node).textContent = `${cat.en}${state.lang === "en" ? "" : " · " + cat.ja}${kind ? " · " + kind.replace("-", " ") : ""} · ${DATE_TYPES[it.date_type] || it.date_type}`;
+    $(".cat-label", node).textContent = `${cat.en}${state.lang === "en" || cat.ja.toUpperCase() === cat.en.toUpperCase() ? "" : " · " + cat.ja}${kind ? " · " + kind.replace("-", " ") : ""} · ${DATE_TYPES[it.date_type] || it.date_type}`;
     if (it.time) { const t = $(".time", node); t.hidden = false; t.textContent = `${it.time} KST`; }
     if (it.platform) { const pl = el("span", { class: "pill platform" }, ({ x: "X", instagram: "Instagram", weverse: "Weverse", phoning: "Phoning", tiktok: "TikTok", youtube: "YouTube", other: "SNS" })[it.platform] || it.platform); $(".meta", node).appendChild(pl); }
     if (it.entity === "njz") { const e = $(".entity", node); e.hidden = false; e.textContent = "NJZ"; }
@@ -288,14 +288,21 @@
     }
     const img = imageOf(it), isYt = it.media && it.media.type === "youtube" && it.media.ref;
     const xpost = it.media && it.media.type === "x" ? xPostOf(it.media.ref) : null;
+    // embeds (X / Instagram / TikTok) sit in the thumbnail slot beside the text, not below the whole entry
+    const embedSlot = () => { const slot = el("figure", { class: "thumb embed-fig" }); $(".thumb", node).replaceWith(slot); return slot; };
     if (xpost && !window.NJAS_NO_EMBED) {
       // production: official X embed; the native card stands in until widgets.js renders, and stays if the script is blocked
-      const box = $(".media", node); box.hidden = false; box.classList.add("xcard-box");
+      const box = embedSlot(); box.classList.add("xcard-box");
       const card = xCard(it, xpost); box.appendChild(card);
-      const bq = el("blockquote", { class: "twitter-tweet", "data-dnt": "true", "data-theme": (document.documentElement.dataset.theme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light")) });
-      bq.appendChild(el("a", { href: xpost.url.replace("x.com", "twitter.com") }, xpost.url)); bq.hidden = true; box.appendChild(bq);
-      loadScript("https://platform.twitter.com/widgets.js", () => { bq.hidden = false; window.twttr?.widgets?.load(box); const t = setInterval(() => { if (box.querySelector("iframe")) { card.remove(); clearInterval(t); } }, 300); setTimeout(() => clearInterval(t), 15000); });
-    } else if (xpost) { const box = $(".media", node); box.hidden = false; box.classList.add("xcard-box"); box.appendChild(xCard(it, xpost)); }
+      // the native card stays until the official embed has actually rendered; the embed grows in a collapsed holder so no raw link ever shows
+      const holder = el("div", { class: "x-embed-holder" }); box.appendChild(holder);
+      const theme = document.documentElement.dataset.theme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+      loadScript("https://platform.twitter.com/widgets.js", () => {
+        const run = () => { const w = window.twttr?.widgets; if (!w?.createTweet) return;
+        w.createTweet(xStatusId(it.media.ref), holder, { dnt: true, theme, align: "center", lang: state.lang === "en" ? "en" : "ja" }).then(elm => { if (elm && elm.offsetHeight > 40) { card.remove(); holder.classList.add("ready"); } }).catch(() => {}); };
+        window.twttr?.ready ? window.twttr.ready(run) : run();
+      });
+    } else if (xpost) { const box = embedSlot(); box.classList.add("xcard-box"); box.appendChild(xCard(it, xpost)); }
     else if (img) {
       const fig = $(".thumb", node); fig.hidden = false;
       if (img.sprite) fig.appendChild(spriteCanvas(img.sprite, "thumb-cv")); else fig.appendChild(el("img", { src: img.src, alt: "", loading: "lazy", decoding: "async" }));
@@ -340,18 +347,16 @@
       const tt = cands.find(u => /tiktok\.com\/@[^/]+\/video\/\d+/.test(u));
       if (it.platform === "instagram" && ig) {
         const url = ig.split("?")[0].replace(/\/?$/, "/");
-        const box = $(".media", node); box.hidden = false; box.classList.add("embed");
+        const box = embedSlot(); box.classList.add("embed");
         const bq = el("blockquote", { class: "instagram-media", "data-instgrm-permalink": url, "data-instgrm-version": "14" });
         bq.appendChild(el("a", { href: url }, url)); box.appendChild(bq);
         loadScript("https://www.instagram.com/embed.js", () => window.instgrm?.Embeds?.process());
-        $(".thumb", node).hidden = true;
       } else if (it.platform === "tiktok" && tt) {
         const url = tt.split("?")[0], vid = /video\/(\d+)/.exec(url)[1];
-        const box = $(".media", node); box.hidden = false; box.classList.add("embed");
+        const box = embedSlot(); box.classList.add("embed");
         const bq = el("blockquote", { class: "tiktok-embed", cite: url, "data-video-id": vid });
         bq.appendChild(el("section", {}, el("a", { href: url, target: "_blank", rel: "noopener" }, url))); box.appendChild(bq);
         loadScript("https://www.tiktok.com/embed.js", () => {});
-        $(".thumb", node).hidden = true;
       }
     }
     const links = $(".links", node);
@@ -637,6 +642,9 @@
     $("#start-btn").addEventListener("click", () => { state.showMeta = false; state.ready.then(() => go(0)); });
     $("#resume-btn").addEventListener("click", () => state.ready.then(() => goKey(store.get("njas-bookmark"))));
     $("#brand").addEventListener("click", e => { e.preventDefault(); showCover(); });
+    // once the page scrolls, the floating bar gets a backing so the logo and MENU never sit on top of text
+    const bar = $(".bar"), onScroll = () => bar.classList.toggle("scrolled", document.body.classList.contains("reading") && window.scrollY > 8);
+    window.addEventListener("scroll", onScroll, { passive: true }); new MutationObserver(onScroll).observe(document.body, { attributes: true, attributeFilter: ["class"] });
     $("#prev-btn").addEventListener("click", () => { if (state.cur <= 0) showCover(); else go(state.cur - 1); });
     $("#pager-mid").addEventListener("click", openToc);
     addEventListener("scroll", scheduleNav, { passive: true }); addEventListener("resize", scheduleNav);
