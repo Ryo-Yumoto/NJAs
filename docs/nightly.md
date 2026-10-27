@@ -1,6 +1,6 @@
 # 夜間バッチ手順（毎晩 02:56 JST に予約タスクが起動する）
 
-目的：日中の手作業なしで、データの確認・補完と新着の取り込みを進める。委任はすべてOpus（docs/operations.md「作業の委任ルール」）。
+目的：日中の手作業なしで、データの確認・補完を進める（新着の取り込みは2026-10-27から停止）。委任はすべてOpus（docs/operations.md「作業の委任ルール」）。
 
 進め方（2026-10-23 変更）：1晩の量に上限は設けず、5時間のトークン枠が尽きる（レート制限に当たる）か対象がなくなるまで、2〜4を「1ラウンド」として繰り返す。1ラウンドの件数は下の数を目安にし、ラウンドごとに6（検証・公開・コミット）まで済ませてから次に進む。こうしておけば、途中で枠が尽きても適用済みの分は失われない。
 
@@ -9,10 +9,8 @@
 - 作業用の一時フォルダはセッションのscratchpad（コンテナが変わると消えるので、残すものはリポジトリへ）。
 - `python3 scripts/nightly_ids.py <scratchpad>/existing_ids.json` を作っておく（エージェントの重複確認用）。
 
-## 1. 新着の検知（毎晩）
-- `python3 scripts/fetch_youtube_list.py` → `python3 scripts/coverage.py --missing`。
-- youtube_videos に未収録があれば、Opusエージェント1体に docs/briefs/record-rules.md に従ってcontentレコードを作らせ、追加して台帳の該当項目の `record` を埋める（台帳は `match: youtube_id` なので自動で覆われる）。
-- 日曜の夜だけ：Opusエージェント1体に、前回の日曜以降の公式の動き（Weverse告知、X @NewJeans_ADOR、newjeans.kr / newjeans.jp、ADOR発表、各メンバーの公式活動）を調べさせ、未収録の出来事をレコードとして提案させる。
+## 1. 新着の検知（2026-10-27 停止）
+- オーナーの判断で、毎晩のYouTube新着の取り込みと日曜の公式の動きの調査は行わない。再開するときは、以前の手順（`python3 scripts/fetch_youtube_list.py` → `python3 scripts/coverage.py --missing` で未収録をcontentレコードにする、日曜に前週の公式の動きを調べて未収録をレコードにする）を git の履歴から戻す。
 
 ## 2. 未確認レコードの照合（1ラウンド60件）
 - `python3 scripts/nightly_pick.py verify 60 <scratchpad>/verify.json`
