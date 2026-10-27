@@ -26,7 +26,7 @@ def main(listing, out_dir):
     for f in os.listdir("build/artifact/sprites"): local["sprites/" + f] = ("build/artifact/sprites/" + f, os.path.getsize("build/artifact/sprites/" + f))
     for f in os.listdir("data"):
         if f.endswith(".json"): local["data/" + f] = ("data/" + f, os.path.getsize("data/" + f))
-    for p in ("media/x/posts.json", "assets/js/app.js", "assets/css/style.css"): local[p] = (p, os.path.getsize(p))
+    for p in ("media/x/posts.json", "assets/js/app.js", "assets/css/style.css", *sorted(str(x) for x in Path("assets/icons").glob("*"))): local[p] = (p, os.path.getsize(p))
     changed = {p: v for p, v in local.items() if remote.get(p) != v[1]}
     removed = [p for p in remote if p.startswith("sprites/") and p not in local]
     chunks, cur, size = [], {}, 0
@@ -48,7 +48,7 @@ def baseline(path):
     for f in sorted(os.listdir("build/artifact/sprites")): lines.append('- "sprites/%s"  image/jpeg  %d bytes' % (f, os.path.getsize("build/artifact/sprites/" + f)))
     for f in sorted(os.listdir("data")):
         if f.endswith(".json"): lines.append('- "data/%s"  application/json  %d bytes' % (f, os.path.getsize("data/" + f)))
-    for p in ("media/x/posts.json", "assets/js/app.js", "assets/css/style.css"): lines.append('- "%s"  text/plain  %d bytes' % (p, os.path.getsize(p)))
+    for p in ("media/x/posts.json", "assets/js/app.js", "assets/css/style.css", *sorted(str(x) for x in Path("assets/icons").glob("*"))): lines.append('- "%s"  text/plain  %d bytes' % (p, os.path.getsize(p)))
     Path(path).write_text("\n".join(lines) + "\n"); print("baseline written:", path, len(lines), "files")
 
 if __name__ == "__main__":

@@ -24,7 +24,7 @@ body = re.search(r"<body[^>]*>(.*?)</body>", html, re.S).group(1)
 keep = []
 for m in re.finditer(r"<(title|link)[^>]*>(?:.*?</title>)?", head, re.S):
     tag = m.group(0)
-    if tag.startswith("<title") or 'rel="stylesheet"' in tag or 'rel="preconnect"' in tag:
+    if tag.startswith("<title") or 'rel="stylesheet"' in tag or 'rel="preconnect"' in tag or 'rel="icon"' in tag or 'rel="apple-touch-icon"' in tag:
         keep.append(tag)
 ver = hashlib.sha1((ROOT / "assets/js/app.js").read_bytes() + (ROOT / "assets/css/style.css").read_bytes()).hexdigest()[:8]
 keep = [k.replace('href="assets/css/style.css"', f'href="assets/css/style.css?v={ver}"') for k in keep]
